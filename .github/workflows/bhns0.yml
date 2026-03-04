@@ -1,4 +1,4 @@
-name: Auto Generate M3U (Secret Script)
+name: Auto Mybhianesse0
 
 on:
   schedule:
@@ -29,12 +29,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      # 🔥 BUAT FILE DARI SECRET
+      # 🔥 
       - name: Create Python File From Secret
         run: |
           echo "$EPE_PY" > epe.py
 
-      # 🔥 DEBUG SUPAYA PASTI ADA
+      # 🔥 
       - name: Check Python File
         run: |
           ls -lah
@@ -47,11 +47,11 @@ jobs:
         run: |
           echo "=== FILE LIST ==="
           ls -lah
-          if [ -f bhns0.m3u ]; then
+          if [ -f live.m3u ]; then
             echo "File created"
-            head -20 bhns0.m3u
+            head -20 live.m3u
           else
-            echo "bhns0.m3u NOT FOUND"
+            echo "live.m3u NOT FOUND"
           fi
 
       - name: Commit & Push
@@ -59,8 +59,8 @@ jobs:
           git config --global user.name "yanshdroid[bot]"
           git config --global user.email "yanshdroid[bot]@users.noreply.github.com"
 
-          if [ -f bhns0.m3u ]; then
-            git add bhns0.m3u
+          if [ -f live.m3u ]; then
+            git add live.m3u
             git commit -m "Auto update $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
             git push
           else
