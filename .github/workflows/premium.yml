@@ -2,15 +2,18 @@ name: Generate Premium M3U
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # jalan tiap 5 menit
-  workflow_dispatch:        # bisa run manual juga
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # penting supaya bisa push
+
     steps:
-      - name: 📥 Checkout Repository
+      - name: 📥 Checkout
         uses: actions/checkout@v4
 
       - name: 🐍 Setup Python
@@ -20,23 +23,26 @@ jobs:
 
       - name: 📦 Install Dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install requests
 
-      - name: 🔐 Create Python Script from Secret
+      - name: 🔐 Decode Script
         run: |
-          echo "${{ secrets.PREMIUM_PY }}" > premium.py
+          echo "${{ secrets.PREMIUM_PY_B64 }}" | base64 -d > premium.py
+          chmod +x premium.py
 
       - name: ▶️ Run Script
-        run: |
-          python premium.py
+        run: python premium.py
 
-      - name: 📤 Commit & Push bhns0.m3u
+      - name: 📤 Commit M3U
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          git add bhns0.m3u
-
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Premium M3U"
-
-          git push
+          if [ -f bhns0.m3u ]; then
+            git add bhns0.m3u
+            git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Premium M3U"
+            git push
+          else
+            echo "bhns0.m3u not found, skipping commit"
+          fi
