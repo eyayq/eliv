@@ -30,7 +30,7 @@ jobs:
 
       - name: Create Python Script from Secret
         run: |
-          echo "${{ secrets.PY_SCRIPT }}" > epe.py
+          echo "${{ secrets.EPE_PY }}" > epe.py
 
       - name: Execute Scraper
         run: python epe.py
