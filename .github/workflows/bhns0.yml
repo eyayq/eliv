@@ -1,4 +1,4 @@
-name: Run From Mybhianesse0
+name: Run Python From ENV
 
 on:
   schedule:
@@ -29,13 +29,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Create Python File From Mybhianesse0
+      - name: Create Python File From ENV
         run: |
-          echo "$PY_SCRIPT" > epe.py
+          echo "$PY_SCRIPT" > main.py
 
       - name: Run Script
         run: |
-          python epe.py
+          python main.py
 
       - name: Commit & Push
         run: |
