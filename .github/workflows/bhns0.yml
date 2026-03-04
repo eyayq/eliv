@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit Result
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.name "yanshdroid[bot]"
+          git config --global user.email "yanshdroid[bot]@users.noreply.github.com"
           git add live.m3u
           git commit -m "🔄 Auto update live.m3u" || echo "No changes"
           git push
