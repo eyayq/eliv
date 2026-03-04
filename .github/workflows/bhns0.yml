@@ -1,4 +1,4 @@
-name: BHNS0 Auto Run
+name: bhns0 Auto Runepe
 
 on:
   schedule:
@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --global user.name "yanshdroid[bot]"
           git config --global user.email "yanshdroid[bot]@users.noreply.github.com"
-          git add live.m3u
-          git commit -m "🔄 Auto update live.m3u" || echo "No changes"
+          git add a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live.m3u
+          git commit -m "🔄 Auto update a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live.m3u" || echo "No changes"
           git push
