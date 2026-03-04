@@ -1,68 +1,44 @@
-name: Auto Mybhianesse0
+name: Mybhianesse0
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: '*/5 * * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches: [ main ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    env:
-      EPE_PY: ${{ secrets.EPE_PY }}
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.10'
 
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install aiohttp requests
 
-      # 🔥 
-      - name: Create Python File From Secret
+      - name: Create Python Script from Secret
         run: |
-          echo "$EPE_PY" > epe.py
+          echo "${{ secrets.PY_SCRIPT }}" > epe.py
 
-      # 🔥 
-      - name: Check Python File
-        run: |
-          ls -lah
-          head -20 epe.py
-
-      - name: Run Script
+      - name: Execute Scraper
         run: python epe.py
 
-      - name: Check Output
+      - name: Commit and Push Changes
         run: |
-          echo "=== FILE LIST ==="
-          ls -lah
-          if [ -f live.m3u ]; then
-            echo "File created"
-            head -20 live.m3u
-          else
-            echo "live.m3u NOT FOUND"
-          fi
-
-      - name: Commit & Push
-        run: |
-          git config --global user.name "yanshdroid[bot]"
-          git config --global user.email "yanshdroid[bot]@users.noreply.github.com"
-
-          if [ -f live.m3u ]; then
-            git add live.m3u
-            git commit -m "Auto update $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
-            git push
-          else
-            echo "Nothing to commit"
-          fi
+          git config --local user.email "yanshdroid[bot]@users.noreply.github.com"
+          git config --local user.name "yanshdroid[bot]"
+          git add live.m3u
+          git commit -m "Auto Update: $(date +'%Y-%m-%d %H:%M:%S') WIB" || echo "No changes to commit"
+          git push
