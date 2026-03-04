@@ -39,10 +39,10 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          if [ -f bhns0.m3u ]; then
-            git add bhns0.m3u
+          if [ -f a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u ]; then
+            git add a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u
             git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Premium M3U"
             git push
           else
-            echo "bhns0.m3u not found, skipping commit"
+            echo "a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u not found, skipping commit"
           fi
