@@ -126,7 +126,7 @@ def extract_stream_links(obj):
 def get_all_matches():
     offset = 0
     limit = 8
-    max_channels = 100
+    max_channels = 50
     matches = []
     seen = set()
 
