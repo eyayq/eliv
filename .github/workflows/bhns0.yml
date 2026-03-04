@@ -1,4 +1,4 @@
-name: Mybhianesse0
+name: Auto Live Event Mybhianesse0
 
 on:
   schedule:
@@ -28,17 +28,21 @@ jobs:
           python -m pip install --upgrade pip
           pip install aiohttp requests
 
-      - name: Create Python Script from Secret
+      - name: Create Python Script from Base64 Secret
         run: |
-          echo "${{ secrets.EPE_PY }}" > epe.py
+          echo "${{ secrets.EPE_PY_B64 }}" | base64 -d > epe.py
 
       - name: Execute Scraper
         run: python epe.py
 
       - name: Commit and Push Changes
         run: |
-          git config --local user.email "yanshdroid[bot]@users.noreply.github.com"
-          git config --local user.name "yanshdroid[bot]"
-          git add live.m3u
-          git commit -m "Auto Update: $(date +'%Y-%m-%d %H:%M:%S') WIB" || echo "No changes to commit"
-          git push
+          if [ -f live.m3u ]; then
+            git config --local user.email "yanshdroid[bot]@users.noreply.github.com"
+            git config --local user.name "yanshdroid[bot]"
+            git add live.m3u
+            git commit -m "Auto Update: $(date +'%Y-%m-%d %H:%M:%S') WIB" || echo "No changes to commit"
+            git push
+          else
+            echo "live.m3u not found, skipping commit"
+          fi
