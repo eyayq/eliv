@@ -1,7 +1,14 @@
 import requests
 import time
+import base64
+import hashlib
+import os
 from datetime import datetime, timezone, timedelta
 from concurrent.futures import ThreadPoolExecutor
+
+# ===============================
+# API CONFIG
+# ===============================
 
 BASE_URL = "https://api-ls.cdnokvip.com/api/get-livestream-group"
 DETAIL_URL = "https://api-ls.cdnokvip.com/api/match-detail-slug?slug="
@@ -14,6 +21,33 @@ HEADERS = {
 
 WIB = timezone(timedelta(hours=7))
 
+# ===============================
+# 🔐 ENCRYPT CONFIG
+# ===============================
+
+SECRET_KEY = "VIP_SECRET_2026"
+PLAY_ROUTE = "https://viiip.kitashinsaku.com/play.php"
+
+def encrypt_url(url):
+    if ".m3u8" in url.lower():
+        return url
+
+    current_time = int(time.time())
+    expire_time = current_time + 3600  # 1 jam
+
+    random_salt = os.urandom(8).hex()
+    encoded_url = base64.urlsafe_b64encode(url.encode()).decode()
+
+    raw = f"{encoded_url}{expire_time}{random_salt}{SECRET_KEY}"
+    signature = hashlib.sha256(raw.encode()).hexdigest()
+
+    return (
+        f"{PLAY_ROUTE}"
+        f"?data={encoded_url}"
+        f"&expire={expire_time}"
+        f"&salt={random_salt}"
+        f"&sig={signature}"
+    )
 
 # ===============================
 # UTIL
@@ -61,16 +95,12 @@ def get_upcoming_label(timestamp):
     match_dt = datetime.fromtimestamp(timestamp, WIB)
     now = datetime.now(WIB)
 
-    today = now.date()
-    tomorrow = (now + timedelta(days=1)).date()
-
-    if match_dt.date() == today:
+    if match_dt.date() == now.date():
         return "🗓 TODAY"
-    if match_dt.date() == tomorrow:
+    if match_dt.date() == (now + timedelta(days=1)).date():
         return "🗓 TOMORROW"
 
     return f"🗓 {match_dt.strftime('%d-%m-%Y')}"
-
 
 # ===============================
 # LIVE SCORE
@@ -85,15 +115,13 @@ def get_live_scores():
 
     for e in data["events"]:
         home = e.get("strHomeTeam")
-        away = e.get("strAwayTeam")
         hs = e.get("intHomeScore")
         aw = e.get("intAwayScore")
 
-        if home and away and hs is not None:
-            scores[f"{home} vs {away}".lower()] = f"⚽ {hs}-{aw}"
+        if home and hs is not None:
+            scores[home.lower()] = f"⚽ {hs}-{aw}"
 
     return scores
-
 
 # ===============================
 # STREAM EXTRACTION
@@ -118,9 +146,8 @@ def extract_stream_links(obj):
     walk(obj)
     return list(dict.fromkeys(links))
 
-
 # ===============================
-# FETCH MATCH LIST (MAX 100)
+# FETCH MATCH LIST
 # ===============================
 
 def get_all_matches():
@@ -172,7 +199,6 @@ def get_detail(slug):
 
     return data.get("value", {}).get("datas")
 
-
 # ===============================
 # BUILD M3U
 # ===============================
@@ -192,8 +218,10 @@ def build_m3u(matches):
             continue
 
         match_time = detail.get("matchTime")
-        state = get_match_state(match_time)
+        if not isinstance(match_time, (int, float)):
+            continue
 
+        state = get_match_state(match_time)
         if state == "FINISHED":
             continue
 
@@ -201,10 +229,13 @@ def build_m3u(matches):
         away = detail.get("awayName", "Away")
         logo = detail.get("homeLogo", "")
 
-        match_key = f"{home} vs {away}".lower()
-        score = live_scores.get(match_key, "")
-        timer = format_match_timer(match_time)
+        score = ""
+        for team_key in live_scores:
+            if home.lower() in team_key:
+                score = live_scores[team_key]
+                break
 
+        timer = format_match_timer(match_time)
         title = f"{home} vs {away} | {score} | {timer}" if score else f"{home} vs {away} | {timer}"
 
         group_name = "😈LIVE-NOW😈" if state == "LIVE" else get_upcoming_label(match_time)
@@ -213,23 +244,19 @@ def build_m3u(matches):
         if not links:
             continue
 
-        merged = ",".join(links)
+        for i, link in enumerate(links, 1):
+            entry = [
+                f'#EXTINF:-1 group-title="{group_name}" tvg-logo="{logo}",{title} [Stream {i}]',
+                encrypt_url(link)
+            ]
+            grouped.setdefault(group_name, []).append(
+                ("\n".join(entry), match_time)
+            )
 
-        entry = [
-            f'#EXTINF:-1 group-title="{group_name}" tvg-logo="{logo}",{title}',
-            merged
-        ]
-
-        grouped.setdefault(group_name, []).append(
-            ("\n".join(entry), match_time)
-        )
-
-    # Sort upcoming by time
     for g in grouped:
         if "🗓" in g:
             grouped[g] = sorted(grouped[g], key=lambda x: x[1])
 
-    # Sort group order
     for group in sorted(
         grouped.keys(),
         key=lambda x: (
@@ -254,6 +281,9 @@ def build_m3u(matches):
 
     return "\n".join(output)
 
+# ===============================
+# RUN
+# ===============================
 
 def scrape_once():
     matches = get_all_matches()
