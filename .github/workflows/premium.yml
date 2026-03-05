@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # penting supaya bisa push
+      contents: write
 
     steps:
-      - name: 📥 Checkout
+      - name: 📥 Checkout Repository
         uses: actions/checkout@v4
 
       - name: 🐍 Setup Python
@@ -25,9 +25,13 @@ jobs:
       - name: 📦 Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pip install aiohttp
+          pip install -r requirements.txt
 
-      - name: 🔐 Decode Script
+      - name: 📁 Create Output Folder
+        run: |
+          mkdir -p a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z
+
+      - name: 🔐 Decode Python Script
         run: |
           echo "${{ secrets.PREMIUM_PY_B64 }}" | base64 -d > premium.py
           chmod +x premium.py
@@ -37,13 +41,13 @@ jobs:
 
       - name: 📤 Commit M3U
         run: |
-          git config --local user.email "yanshdroid2[bot]@users.noreply.github.com"
-          git config --local user.name "yanshdroid2[bot]"
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions"
 
           if [ -f a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u ]; then
             git add a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u
             git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Premium M3U"
             git push
           else
-            echo "a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u not found, skipping commit"
+            echo "M3U file not found"
           fi
