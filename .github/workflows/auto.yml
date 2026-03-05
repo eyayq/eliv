@@ -1,32 +1,24 @@
-name: Auto
+name: Auto Trigger
 
-on:
-push:
-schedule:
-- cron: "*/2 * * * *"
-workflow_dispatch:
+on:schedule:- cron: "*/2 * * * *"
+    workflow_dispatch:
 
-concurrency:
-group: auto-trigger
-cancel-in-progress: true
+jobs:ping:runs-on: ubuntu-latest
 
-jobs:
-trigger:
-runs-on: ubuntu-latest
-timeout-minutes: 3
+
 
 steps:
-  - name: Keep Server Triggered
+  - name: Ping Server
     run: |
       URL="http://viiip.kitashinsaku.com/down.php?key=svr-bhnsjingkaulauerrord"
 
-      echo "Starting ping cycle..."
+      echo "Start ping cycle"
 
       for i in 1 2 3 4
       do
-        echo "Ping attempt $i"
-        curl -L --retry 2 --connect-timeout 20 --max-time 40 "$URL"
+        echo "Request $i"
+        curl -s -L "$URL"
         sleep 30
       done
 
-      echo "Cycle finished"
+      echo "Done"
