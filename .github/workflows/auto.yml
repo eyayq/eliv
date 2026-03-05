@@ -1,0 +1,32 @@
+name: Auto
+
+on:
+push:
+schedule:
+- cron: "*/2 * * * *"
+workflow_dispatch:
+
+concurrency:
+group: auto-trigger
+cancel-in-progress: true
+
+jobs:
+trigger:
+runs-on: ubuntu-latest
+timeout-minutes: 3
+
+steps:
+  - name: Keep Server Triggered
+    run: |
+      URL="http://viiip.kitashinsaku.com/down.php?key=svr-bhnsjingkaulauerrord"
+
+      echo "Starting 2-minute ping cycle..."
+
+      for i in {1..4}
+      do
+        echo "Ping attempt $i"
+        curl -L --retry 2 --connect-timeout 20 --max-time 40 "$URL"
+        sleep 30
+      done
+
+      echo "Cycle finished"
