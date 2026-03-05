@@ -41,8 +41,8 @@ jobs:
 
       - name: Commit & Push Result
         run: |
-          git config --global user.name "yanshdroid[bot]"
-          git config --global user.email "yanshdroid[bot]@users.noreply.github.com"
+          git config --global user.name "yanshdroid0[bot]"
+          git config --global user.email "bot@users.noreply.github.com"
           git add a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live0.m3u
           git commit -m "🔄 Auto Update M3U $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
           git push
