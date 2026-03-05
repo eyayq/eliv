@@ -25,11 +25,7 @@ jobs:
       - name: 📦 Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: 📁 Create Output Folder
-        run: |
-          mkdir -p a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z
+          pip install requests
 
       - name: 🔐 Decode Python Script
         run: |
@@ -37,17 +33,21 @@ jobs:
           chmod +x premium.py
 
       - name: ▶️ Run Script
-        run: python premium.py
+        run: |
+          python premium.py
+
+      - name: 📂 Move M3U
+        run: |
+          mkdir -p a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z
+          mv live_matches.m3u a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u
 
       - name: 📤 Commit M3U
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "github-actions"
 
-          if [ -f a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u ]; then
-            git add a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u
-            git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Premium M3U"
-            git push
-          else
-            echo "M3U file not found"
-          fi
+          git add a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u
+
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Premium M3U"
+
+          git push
