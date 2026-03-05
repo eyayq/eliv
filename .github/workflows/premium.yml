@@ -1,9 +1,10 @@
-name: Generate Premium M3U
+name: Get Premium
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
+  push:
 
 jobs:
   build:
