@@ -1,15 +1,19 @@
 name: BHNS1 Epey Mybhianesse0
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "*/5,7,12,17,22,27,32,37,42,47,52,57 * * * *"
-
-permissions:
-  contents: write
+    # Run every hour
+    - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    branches:
+      - main
+    paths:
+      - 'epep.py'
+      - '.github/workflows/bhns1.yml'
 
 jobs:
-  generate:
+  merge-and-commit:
     runs-on: ubuntu-latest
 
     steps:
