@@ -1,33 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="MEGA LIVE",Xem Live Nhận Quà Cùng vs OK9 | 2026-03-05 21:00:00 WIB | LIVE
-https://flv.cdnok9.com/live/PHATCODE.flv?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
-#EXTINF:-1 group-title="MEGA LIVE",Xem Live Nhận Quà Cùng vs OK9 | 2026-03-05 21:00:00 WIB | LIVE
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772719523.png" group-title="LIVE EVENT",Xem Live Nhận Quà Cùng vs OK9 | 21:00 WIB
 https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
-#EXTINF:-1 group-title="Serbia Cup",Novi Pazar vs Crvena Zvezda | 2026-03-05 20:45:00 WIB | LIVE
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772719523.png" group-title="LIVE EVENT",Xem Live Nhận Quà Cùng vs OK9 | 21:00 WIB
+https://flv.cdnok9.com/live/PHATCODE.flv?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/968_1gzsy3pde027.png" group-title="LIVE EVENT",Novi Pazar vs Crvena Zvezda | 20:45 WIB
 https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="Serbia Cup",Novi Pazar vs Crvena Zvezda | 2026-03-05 20:45:00 WIB | LIVE
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/968_1gzsy3pde027.png" group-title="LIVE EVENT",Novi Pazar vs Crvena Zvezda | 20:45 WIB
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="Indonesia Liga 1",Persijap Jepara vs Persis Solo FC | 2026-03-05 20:30:00 WIB | LIVE
-https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="Indonesia Liga 1",Persijap Jepara vs Persis Solo FC | 2026-03-05 20:30:00 WIB | LIVE
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="Portugal U23",Maritimo U23 vs Estoril U23 | 2026-03-05 21:00:00 WIB | LIVE
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 group-title="Portugal U23",Maritimo U23 vs Estoril U23 | 2026-03-05 21:00:00 WIB | LIVE
-https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 group-title="Indonesia Liga 1",Persik Kediri vs PSBS Biak | 2026-03-05 20:30:00 WIB | LIVE
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="Indonesia Liga 1",Persik Kediri vs PSBS Biak | 2026-03-05 20:30:00 WIB | LIVE
-https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="Bulgaria Premier League",Lokomotiv Plovdiv vs CSKA 1948 Sofia | 2026-03-05 20:45:00 WIB | LIVE
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/987_1gqbph0smw24.png" group-title="LIVE EVENT",Lokomotiv Plovdiv vs CSKA 1948 Sofia | 20:45 WIB
 https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 group-title="Bulgaria Premier League",Lokomotiv Plovdiv vs CSKA 1948 Sofia | 2026-03-05 20:45:00 WIB | LIVE
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/987_1gqbph0smw24.png" group-title="LIVE EVENT",Lokomotiv Plovdiv vs CSKA 1948 Sofia | 20:45 WIB
 https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 group-title="Russia Cup",Arsenal Tula vs Lokomotiv Moscow | 2026-03-05 22:30:00 WIB | 0h 8m
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="Russia Cup",Arsenal Tula vs Lokomotiv Moscow | 2026-03-05 22:30:00 WIB | 0h 8m
-https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="Czech Republic Cup",MFK Karvina vs FC Viktoria Plzen | 2026-03-05 23:00:00 WIB | 0h 38m
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/36365_20200323144610.gif" group-title="LIVE EVENT",Maritimo U23 vs Estoril U23 | 21:00 WIB
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/36365_20200323144610.gif" group-title="LIVE EVENT",Maritimo U23 vs Estoril U23 | 21:00 WIB
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/17475_165095553317.png" group-title="LIVE EVENT",Arsenal Tula vs Lokomotiv Moscow | 22:30 WIB
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/17475_165095553317.png" group-title="LIVE EVENT",Arsenal Tula vs Lokomotiv Moscow | 22:30 WIB
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/5629_1gtqm9kx5319.png" group-title="Czech Republic Cup | 0h 28m",MFK Karvina vs FC Viktoria Plzen | 23:00 WIB
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="Czech Republic Cup",MFK Karvina vs FC Viktoria Plzen | 2026-03-05 23:00:00 WIB | 0h 38m
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/5629_1gtqm9kx5319.png" group-title="Czech Republic Cup | 0h 28m",MFK Karvina vs FC Viktoria Plzen | 23:00 WIB
 https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
