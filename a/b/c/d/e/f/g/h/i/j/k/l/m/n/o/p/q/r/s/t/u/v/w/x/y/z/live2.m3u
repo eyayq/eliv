@@ -1,25 +1,83 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE EVENT",Novi Pazar vs Crvena Zvezda | 20:45 WIB
-https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LIVE EVENT",Novi Pazar vs Crvena Zvezda | 20:45 WIB
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LIVE EVENT",Xem Live Nhận Quà Cùng vs OK9 | 21:00 WIB
-https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
-#EXTINF:-1 group-title="LIVE EVENT",Xem Live Nhận Quà Cùng vs OK9 | 21:00 WIB
-https://flv.cdnok9.com/live/PHATCODE.flv?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
-#EXTINF:-1 group-title="LIVE EVENT",Arsenal Tula vs Lokomotiv Moscow | 22:30 WIB
-https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LIVE EVENT",Arsenal Tula vs Lokomotiv Moscow | 22:30 WIB
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/36365_20200323144610.gif" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Maritimo U23 vs Estoril U23😈 | 21:00 WIB
+https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/36365_20200323144610.gif" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Maritimo U23 vs Estoril U23😈 | 21:00 WIB
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/17475_165095553317.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Arsenal Tula vs Lokomotiv Moscow😈 | 22:30 WIB
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
-#EXTINF:-1 group-title="LIVE EVENT",Lokomotiv Plovdiv vs CSKA 1948 Sofia | 20:45 WIB
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 group-title="LIVE EVENT",Lokomotiv Plovdiv vs CSKA 1948 Sofia | 20:45 WIB
-https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 group-title="LIVE EVENT",Maritimo U23 vs Estoril U23 | 21:00 WIB
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="LIVE EVENT",Maritimo U23 vs Estoril U23 | 21:00 WIB
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="Czech Republic Cup | 0h 19m",MFK Karvina vs FC Viktoria Plzen | 23:00 WIB
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/17475_165095553317.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Arsenal Tula vs Lokomotiv Moscow😈 | 22:30 WIB
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772719523.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Xem Live Nhận Quà Cùng vs OK9😈 | 21:00 WIB
+https://hls.cdnok9.com/live/PHATCODE/index.m3u8?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1772719523.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Xem Live Nhận Quà Cùng vs OK9😈 | 21:00 WIB
+https://flv.cdnok9.com/live/PHATCODE.flv?expire=1893075960&sign=381b4a78bac99610b4491fddd97a4d91
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/8771_1gq924y2yck.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Navbahor Namangan vs Buxoro FK😈 | 21:00 WIB
+https://auto.cdnok9.com/live/sd-6MvVcsrKx9kc6F8iAY/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/6640_1gz08hjvn81e.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Qabala vs Sabah FK Baku😈 | 21:00 WIB
+https://auto.cdnok9.com/live/sd-6MvZ6BCDL5cVrXBQse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3397_1hcbjyn00v1w.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Mashal Muborak vs Lokomotiv Tashkent😈 | 21:15 WIB
+https://auto.cdnok9.com/live/sd-6MvVcsrKxBx5xixdKS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15044_1hr3m54vz51x.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Termez Surkhon vs Neftchi Fargona😈 | 21:30 WIB
+https://auto.cdnok9.com/live/sd-6MvVcsrKxGM3hgcTdE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/55975_1gq9031s551r.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Saint Louis Suns United vs PTL Bazar Brothers FC😈 | 21:30 WIB
+https://auto.cdnok9.com/live/sd-6Mwd6CsvdfdMra6jyv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/5629_1gtqm9kx5319.png" group-title="😈Czech Republic Cup | 0h 8m😈",😈MFK Karvina vs FC Viktoria Plzen😈 | 23:00 WIB
 https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="Czech Republic Cup | 0h 19m",MFK Karvina vs FC Viktoria Plzen | 23:00 WIB
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/5629_1gtqm9kx5319.png" group-title="😈Czech Republic Cup | 0h 8m😈",😈MFK Karvina vs FC Viktoria Plzen😈 | 23:00 WIB
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/60313_1hny3vpeth1c.png" group-title="😈Sierra Leone Premier League | 0h 23m😈",😈Luawa FC vs Ports Authority FC😈 | 23:15 WIB
+https://auto.cdnok9.com/live/sd-6MvZ61PkcnP7Qs5Cck/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/60427_1gqbnw8vqgm.png" group-title="😈Gambia GFA League | 0h 38m😈",😈TMT FA vs Gambia Ports Authority😈 | 23:30 WIB
+https://auto.cdnok9.com/live/sd-6Mwd6G8v3phoQP2pw6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/33172_1jvgh6t1zn1v.png" group-title="😈Gambia GFA League | 0h 38m😈",😈Fortune FC vs Team Rhino FC😈 | 23:30 WIB
+https://auto.cdnok9.com/live/sd-6Mwd6G8v3ruHGrrk5z/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15617_1gqbsgc0q225.png" group-title="😈Estonia Esi Liiga | 1h 8m😈",😈JK Welco Elekter vs JK Tallinna Kalev😈 | 00:00 WIB
+https://auto.cdnok9.com/live/sd-6MvVNfRi7u8bPGaevx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/4697_165750284694.png" group-title="😈UEFA European Women | 1h 8m😈",😈Germany (W) U17 vs Denmark (W) U17😈 | 00:00 WIB
+https://auto.cdnok9.com/live/sd-6Mwd5hYx5WwMBgQivx/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2489_1jf6rqyajcs.png" group-title="😈Italy C1 | 1h 8m😈",😈Latina vs AS Sorrento Calcio😈 | 00:00 WIB
+https://auto.cdnok9.com/live/sd-6MuPtPmooFzK2egVQQ/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/13340_1gqc32ktth26.png" group-title="😈Italy C1 | 1h 8m😈",😈Casarano vs US Siracusa😈 | 00:00 WIB
+https://auto.cdnok9.com/live/sd-6MuPtPm4Jw6h9kSPqv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/27045_1j7qagm0507.png" group-title="😈Italy C1 | 1h 8m😈",😈AZ Picerno ASD vs Atalanta U23😈 | 00:00 WIB
+https://auto.cdnok9.com/live/sd-6MuPtPmoxtGN6WXGN8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2247_1j5ym2ysyt1c.png" group-title="😈Italy C1 | 1h 8m😈",😈Giugliano vs AC Monopoli😈 | 00:00 WIB
+https://auto.cdnok9.com/live/sd-6MuPtPmp8d8rmoqnnY/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/22938_1h6nn5tjvv2n.png" group-title="😈Turkey Cup | 1h 38m😈",😈Bodrumspor vs 76 Igdir Belediye spor😈 | 00:30 WIB
+https://auto.cdnok9.com/live/sd-6MvZ64bnvBMWUCA5Lp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/50927_1jbqs4hny02e.png" group-title="😈Turkey Cup | 1h 38m😈",😈Aliaga FUTBOL AS vs Genclerbirligi😈 | 00:30 WIB
+https://auto.cdnok9.com/live/sd-6MvZ64b2m1aMVY7dZN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/618_1h1jgs83em2b.png" group-title="😈Romania Cup | 2h 8m😈",😈Dinamo Bucuresti vs AFC Metalul Buzau😈 | 01:00 WIB
+https://auto.cdnok9.com/live/sd-6MvVNVb2nXcuYKJRhn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1232_1k2txb00nm2p.png" group-title="😈Italy C1 | 3h 38m😈",😈Benevento vs Catania😈 | 02:30 WIB
+https://auto.cdnok9.com/live/sd-6MuPtPm4JWvQaUMKA4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2480_1j50e7ck6k16.png" group-title="😈Italy C1 | 3h 38m😈",😈Potenza vs Cosenza Calcio 1914😈 | 02:30 WIB
+https://auto.cdnok9.com/live/sd-6MuPtPmodUvLUsY3q6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/28256_1j50e7cm5011.png" group-title="😈Italy C1 | 3h 38m😈",😈Team Altamura vs Foggia😈 | 02:30 WIB
+https://auto.cdnok9.com/live/sd-6MuPtPm592HUcZpMVe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/31846_1j50e7ck62d.png" group-title="😈Italy C1 | 3h 38m😈",😈Audace Cerignola vs Trapani😈 | 02:30 WIB
+https://auto.cdnok9.com/live/sd-6MuPtPmpdmMP4k9Xjz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/31846_1j50e7ck62d.png" group-title="😈Italy C1 | 3h 38m😈",😈Audace Cerignola vs Trapani😈 | 02:30 WIB
+https://cdn-img.cdnokvip.com/logos/13339_1k3cxts36019.png
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/508_1j50e7cj7q1x.png" group-title="😈Italy C1 | 3h 38m😈",😈Crotone vs Cavese😈 | 02:30 WIB
+https://auto.cdnok9.com/live/sd-6MuPtPmpoMRxG8APYp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15650_1j50e7ckpr2c.png" group-title="😈Italy C1 | 3h 38m😈",😈US Casertana 1908 vs Salernitana😈 | 02:30 WIB
+https://auto.cdnok9.com/live/sd-6MuPtPmpdj9uCGKcb6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/20406_1hgpr8hpxyn.png" group-title="😈Women's World Cup (Qualifying) CONCACAF | 3h 38m😈",😈US Virgin Islands (W) vs Puerto Rico (W)😈 | 02:30 WIB
+https://auto.cdnok9.com/live/sd-6MvYbdsuwa3zH8K8N8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/6887_1hrb7xjnt326.png" group-title="😈Colombia Copa Premier | 4h 8m😈",😈Real Santander vs Deportes Quindio😈 | 03:00 WIB
+https://auto.cdnok9.com/live/sd-6MvVcemPgtowDPWWZA/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2221_1hrk16e6c4v.png" group-title="😈Colombia Copa Premier | 4h 8m😈",😈Envigado FC vs Boca Juniors De Cali😈 | 03:00 WIB
+https://auto.cdnok9.com/live/sd-6MvVcemPgdRa82j6Ut/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/6884_1hrr4bq4s61k.png" group-title="😈Colombia Copa Premier | 5h 8m😈",😈Real Soacha Cundinamarca vs Inter Palmira😈 | 04:00 WIB
+https://auto.cdnok9.com/live/sd-6MvVcemQrzWSDX6MCG/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3888_1grmmzgw191t.png" group-title="😈Copa Sudamericana | 6h 8m😈",😈FC Nacional Asuncion vs Deportivo Recoleta😈 | 05:00 WIB
+https://auto.cdnok9.com/live/sd-6MvZ6Hdm538G4rNARS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/22066_1grcyewjckq.png" group-title="😈Copa Sudamericana | 6h 8m😈",😈Boston River vs Racing Club Montevideo😈 | 05:00 WIB
+https://auto.cdnok9.com/live/sd-6MvZ6Hdm55KjwLC5aL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/22923_1h3byzyha42z.png" group-title="😈Women's World Cup (Qualifying) CONCACAF | 6h 8m😈",😈Antigua Barbuda (W) vs Guyana (W)😈 | 05:00 WIB
+https://auto.cdnok9.com/live/sd-6MvYbdsu74gvF2r62Y/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/25894_1gq94s7g5t2n.png" group-title="😈Nicaragua Apertura league | 7h 8m😈",😈Managua FC vs Rancho Santana FC😈 | 06:00 WIB
+https://auto.cdnok9.com/live/sd-6Mwd5hYCRuZ15Em6np/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/17588_1grd73j8kb2g.png" group-title="😈Primera Division de Colombiano-Apertura | 7h 18m😈",😈Llaneros FC vs Internacional de Bogota😈 | 06:10 WIB
+https://auto.cdnok9.com/live/sd-6MvYqrGKpQHqLAMw5v/playlist.m3u8
