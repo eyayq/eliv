@@ -20,9 +20,9 @@ steps:
     run: |
       URL="http://viiip.kitashinsaku.com/down.php?key=svr-bhnsjingkaulauerrord"
 
-      echo "Starting 2-minute ping cycle..."
+      echo "Starting ping cycle..."
 
-      for i in {1..4}
+      for i in 1 2 3 4
       do
         echo "Ping attempt $i"
         curl -L --retry 2 --connect-timeout 20 --max-time 40 "$URL"
