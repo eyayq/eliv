@@ -13,41 +13,46 @@ jobs:
     permissions:
       contents: write
 
+    env:
+      PREMIUM_PY_B64: ${{ secrets.PREMIUM_PY_B64 }}
+
     steps:
-      - name: 📥 Checkout Repository
+
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: 🐍 Setup Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      - name: 📦 Install Dependencies
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: 🔐 Decode Python Script
+      - name: Create Folder Path
         run: |
-          echo "${{ secrets.PREMIUM_PY_B64 }}" | base64 -d > premium.py
+          mkdir -p a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z
+
+      - name: Decode Python Script
+        run: |
+          echo "$PREMIUM_PY_B64" | base64 -d > premium.py
           chmod +x premium.py
 
-      - name: ▶️ Run Script
+      - name: Run Script
         run: |
           python premium.py
 
-      - name: 📂 Move M3U
-        run: |
-          mkdir -p a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z
-          mv a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u
-
-      - name: 📤 Commit M3U
+      - name: Commit M3U
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "github-actions"
 
-          git add a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u
-
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Premium M3U"
-
-          git push
+          if [ -f a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u ]; then
+            git add a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u
+            git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Premium M3U"
+            git push
+          else
+            echo "M3U file not found"
+          fi
