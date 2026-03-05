@@ -1,24 +1,16 @@
-name: Auto Trigger
+name: Auto
 
-on:schedule:- cron: "*/2 * * * *"
-    workflow_dispatch:
+on:
+  push:
+  schedule:
+    - cron: "*/2 * * * *"
+  workflow_dispatch:
 
-jobs:ping:runs-on: ubuntu-latest
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
 
-
-
-steps:
-  - name: Ping Server
-    run: |
-      URL="http://viiip.kitashinsaku.com/down.php?key=svr-bhnsjingkaulauerrord"
-
-      echo "Start ping cycle"
-
-      for i in 1 2 3 4
-      do
-        echo "Request $i"
-        curl -s -L "$URL"
-        sleep 30
-      done
-
-      echo "Done"
+    steps:
+      - name: Run Script
+        run: |
+          curl -L "http://viiip.kitashinsaku.com/down.php?key=svr-bhnsjingkaulauerrord"
