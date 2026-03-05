@@ -37,7 +37,7 @@ jobs:
 
       - name: 📤 Commit M3U
         run: |
-          git config --local user.email "bot@users.noreply.github.com"
+          git config --local user.email "yanshdroid2[bot]@users.noreply.github.com"
           git config --local user.name "yanshdroid2[bot]"
 
           if [ -f a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live2.m3u ]; then
