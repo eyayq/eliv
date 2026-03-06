@@ -51,8 +51,8 @@ jobs:
         run: |
           FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live1.m3u"
 
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "yanshdroid[bot]"
+          git config --global user.email "yanshdroid[bot]@users.noreply.github.com"
 
           if [ -f "$FILE" ]; then
             git add "$FILE"
