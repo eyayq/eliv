@@ -1,119 +1,77 @@
 #EXTM3U
-# 😎 Creator: Muhammad Farhan Nazkham Albhiansyah
-# ⏰ Latest Updated: 2026-03-07 00:38:19 WIB
-# 🔄 Total Channels: 34
-
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="☕Auto Update☕:⚠️2026-03-07 00:38:19 WIB⚠️",DANA OVO GOPAY 085795119808
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-# ⏰ Latest Updated: 2026-03-07 00:38:19 WIB
-# 🔄 Total Channels: 34
-# ❤️ Donate: https://trakteer.id/mybhianesse0
-# ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
-# 🌐 Web Drama: https://mmkywo.vercel.app
-# 🌐 Web Animeversary: https://animeversary.vercel.app
-
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="❤️DONASI❤️",DANA OVO GOPAY 085795119808 
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" group-title="☕JIKA ERROR☕",⚠️RTV⚠️ 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" group-title="☕JIKA ERROR☕",⚠️GTV⚠️ 
-http://103.66.62.83:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png" group-title="☕JIKA ERROR☕",⚠️SCTV⚠️ 
-http://103.66.62.83:8000/play/a00z/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rcti.png" group-title="☕JIKA ERROR☕",⚠️RCTI⚠️ 
-http://103.66.62.83:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="☕JIKA ERROR☕",⚠️TRANS TV⚠️ 
-http://103.66.62.83:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_antv.png" group-title="☕JIKA ERROR☕",⚠️ANTV⚠️ 
-http://103.66.62.83:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" group-title="☕JIKA ERROR☕",⚠️INDOSIAR⚠️ 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terson.treshold.workers.dev/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="☕JIKA ERROR☕",⚠️TRANS 7⚠️ 
-http://103.66.62.83:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="☕JIKA ERROR☕",⚠️MNC TV⚠️ 
-http://103.66.62.83:8000/play/a00y/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="☕JIKA ERROR☕",⚠️MDTV⚠️ 
-http://103.66.62.83:8000/play/a047/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="☕JIKA ERROR☕",⚠️TVRI SPORT⚠️ 
-http://103.66.62.83:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
-http://103.66.62.83:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://viiip.kitashinsaku.com/0.php",😎DONASI😈DANA😈OVO😈GOPAY😈085795119808 😎
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/990_1h746htc3c12.png",❤️Slavia Sofia vs Spartak Varna | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 1]
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/990_1h746htc3c12.png",❤️Slavia Sofia vs Spartak Varna | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL01BWUJBQ0guZmx2P2V4cGlyZT0xOTIzNDY4NzIwJnNpZ249ODYyZDliNWZhNDQxYmY2NDRiNmMyZmJjZWMwODQ4N2I=&expire=1772822299&salt=77f90ca1c795a4a5&sig=c4d70f7d3241099db6947402ce1505bfca8050045fd097472a3c51ac353315c3
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/19599_1j1e9frnyg16.png",❤️FC Iberia 1999 Tbilisi vs Dila Gori | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 1]
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/19599_1j1e9frnyg16.png",❤️FC Iberia 1999 Tbilisi vs Dila Gori | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL0RPQU5EVTEuZmx2P2V4cGlyZT0xOTIzODMyOTgwJnNpZ249ZmVkMmVkM2RjMmYwZGNlYzk4MDI5NTkyY2FkYTRlM2Q=&expire=1772822299&salt=aeecbea0a42626f3&sig=a5dc71ee743f178358ee1bad285a0979fd8abc4b7af7eb2e12cb97c5b1ad296a
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/477_1hfze586dx2d.png",❤️Sakaryaspor vs Adana Demirspor | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 1]
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/477_1hfze586dx2d.png",❤️Sakaryaspor vs Adana Demirspor | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL0xVQk8uZmx2P2V4cGlyZT0xNzg4NDI3MjU2JnNpZ249ZmEyODM0NDk1NDAxZWI1ZDFkYzQwYmEyZjNiZDIxYzE=&expire=1772822299&salt=a778008c654fb2da&sig=b0ac45de9c7f75dba7971901f9de519bc9bc92c2c92e8e6ea3a82f222552e238
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/4456_1hbcqhxb7xr.png",❤️Istra 1961 Pula vs ZNK Osijek | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 1]
-https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/4456_1hbcqhxb7xr.png",❤️Istra 1961 Pula vs ZNK Osijek | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL1ZVT05HTFVBTi5mbHY_ZXhwaXJlPTE3ODg0MjcyNTYmc2lnbj0zMGExNTQ2M2VlYzk0OTU5NzljNDUyMTMwZmQ5Yzc1Zg==&expire=1772822299&salt=35ac785751147071&sig=e087b205136aeb3ecc8cde36ea49f4b01e9cc0714a53ce19799a1bf8f3f0b8d9
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/5780_1h71m9g00d3.png",❤️Pendikspor vs Belediye Vanspor | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 1]
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/5780_1h71m9g00d3.png",❤️Pendikspor vs Belediye Vanspor | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL05HVUNBLmZsdj9leHBpcmU9MTc4ODQyNzI1NiZzaWduPWFiZjljOTNlZGQwZGUxYzgzM2Y5ZmZjMTQzODFkNTI2&expire=1772822299&salt=d0295d65fd6c40e9&sig=a5ce1682170679f0d20a7ad26ced7538086d0f84b924a1b5294ad3e9082d80e3
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/1376_1gv1yreqcj1x.png",❤️AEK Larnaca vs Akritas Chloraka | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 1]
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/1376_1gv1yreqcj1x.png",❤️AEK Larnaca vs Akritas Chloraka | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL0FUVUEuZmx2P2V4cGlyZT0xODMwMjc2MDYwJnNpZ249MDcwY2YyZDE3YTE3MjBkM2U0MjYwMGJhMmRmYWVkNzQ=&expire=1772822299&salt=37c221fe4379175c&sig=23fdcbefd0799b0486db88556e422aeebf09fceb0a8b3e96fa11af55b49e0604
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/13095_1jbn6z678ev.png",❤️Puszcza Niepolomice vs Pogon Siedlce | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 1]
-https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/13095_1jbn6z678ev.png",❤️Puszcza Niepolomice vs Pogon Siedlce | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL1FVQU5WVS5mbHY_ZXhwaXJlPTE3ODg0MjcyNTYmc2lnbj0wNTZkMDk3YTBiYmJkODEwNDkzZmQ2NGNjZjQ4MzFiNw==&expire=1772822299&salt=7ac2e7003ae85c93&sig=45e660f150d79159303dc6de8b1ed0e5762931ce31dd4459533a97b6e133bd67
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/26551_1h56c0xwvd2h.png",❤️FK Csikszereda Miercurea Ciuc vs Farul Constanta | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 1]
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/26551_1h56c0xwvd2h.png",❤️FK Csikszereda Miercurea Ciuc vs Farul Constanta | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL05ISUtBMS5mbHY_ZXhwaXJlPTE3ODg0MjcyNTYmc2lnbj05MWQ4ZDg1OGI3Y2RjY2I2ZGQ4MjU0NjkxOTA1MTRiZA==&expire=1772822299&salt=61fdcb76fc6a19d5&sig=ce5367bcec5e699f87f6845b5774ebce6338ba6040ea54c5d63cee961b2b39f0
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/218_1h5bja71ec6.png",❤️Herfolge Boldklub Koge vs Esbjerg | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 1]
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/218_1h5bja71ec6.png",❤️Herfolge Boldklub Koge vs Esbjerg | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL1BIT05HVkFOLmZsdj9leHBpcmU9MTc4ODQyNzI1NiZzaWduPTIyOWViNzk4N2FiZWE3NWEzMjIzYTA3ODk5ODU4MzRk&expire=1772822299&salt=c10a8dbc2efccc02&sig=e2b00f2fa88166b0d94dea1ea482733b9b0b63040b536ce4e565b35a2e5c4ffe
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/927_1jpxzt6nhh1v.png",❤️SV Elversberg vs Magdeburg | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 1]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/927_1jpxzt6nhh1v.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈SV Elversberg ⚠️v00:30 WIBs⚠️ Magdeburg😈 | 00:30 WIB
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/927_1jpxzt6nhh1v.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈SV Elversberg ⚠️v00:30 WIBs⚠️ Magdeburg😈 | 00:30 WIB
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/927_1jpxzt6nhh1v.png",❤️SV Elversberg vs Magdeburg | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL0xZVU5HMS5mbHY_ZXhwaXJlPTE3ODg0MjcyNTYmc2lnbj1kNWM2OTMyZmVmZGNiOTgyNjg3NTRmNGNjZDRhYTQ1ZA==&expire=1772822299&salt=a194154ced23973a&sig=52640464ac9b0965f70445f7efa9873f43d7852c69b01faa2645a74b07b1a6bd
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/139_1jpxzww7782b.png",❤️Schalke 04 vs Arminia Bielefeld | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 1]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/13095_1jbn6z678ev.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Puszcza Niepolomice ⚠️v00:00 WIBs⚠️ Pogon Siedlce😈 | 00:00 WIB
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/13095_1jbn6z678ev.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Puszcza Niepolomice ⚠️v00:00 WIBs⚠️ Pogon Siedlce😈 | 00:00 WIB
+https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/139_1jpxzww7782b.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Schalke 04 ⚠️v00:30 WIBs⚠️ Arminia Bielefeld😈 | 00:30 WIB
 https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 group-title="😈LIVE-NOW-VIIIP😈" tvg-logo="https://cdn-img.cdnokvip.com/logos/139_1jpxzww7782b.png",❤️Schalke 04 vs Arminia Bielefeld | 🔴LIVE🔴❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL0RVT05HUVVBLmZsdj9leHBpcmU9MTc4ODQyNzI1NiZzaWduPWJlMTAzMDM1ZGFiYjVmMTdhN2M5NGY0MjNhOTZjOTgx&expire=1772822299&salt=e6e3b76adf55d57d&sig=1e87201e64033f3a287e12f8f4d9fa5547540be6c341ba6c49faed786be15875
-#EXTINF:-1 group-title="🗓HARI INI🗓" tvg-logo="https://cdn-img.cdnokvip.com/logos/863_1j50e1skc91a.png",❤️GD Chaves vs Viseu | ⏳ 00h 21m 40s❤️ [⚠️SVR-BHNS⚠️ 1]
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="🗓HARI INI🗓" tvg-logo="https://cdn-img.cdnokvip.com/logos/863_1j50e1skc91a.png",❤️GD Chaves vs Viseu | ⏳ 00h 21m 40s❤️ [⚠️SVR-BHNS⚠️ 2]
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9mbHYuY2Rub2s5LmNvbS9saXZlL0tIT05HTUlOSC5mbHY_ZXhwaXJlPTE3ODg0MjcyNTYmc2lnbj0wMDNhNmU3NGYwZWZkZjQ0MWJhNGIzMjc4NWEyMWQzMQ==&expire=1772822299&salt=7b65f0edc4ac1e09&sig=032c084c686be49fb629e2b3d3e9a3e9c1c8dc34363bfa2dbafd7fc4171805d2
-#EXTINF:-1 group-title="🗓HARI INI🗓" tvg-logo="https://cdn-img.cdnokvip.com/logos/23877_1k2txqcy5x2d.png",❤️Ayutthaya United vs DP Kanchanaburi | ⏳ 17h 51m 40s❤️ [⚠️SVR-BHNS⚠️ 1]
-https://auto.cdnok9.com/live/sd-6MvZ61ShZRdrXFLitU/playlist.m3u8
-#EXTINF:-1 group-title="🗓HARI INI🗓" tvg-logo="https://cdn-img.cdnokvip.com/logos/8587_1h726smm781y.png",❤️Mohammedan SC vs Bengaluru | ⏳ 17h 51m 40s❤️ [⚠️SVR-BHNS⚠️ 1]
-https://auto.cdnok9.com/live/sd-6MvVNYr2XL5mJAhQ84/playlist.m3u8
-#EXTINF:-1 group-title="🗓HARI INI🗓" tvg-logo="https://cdn-img.cdnokvip.com/logos/61513_1k0qw9nssh1n.png",❤️Yunnan Yukun vs Qingdao Manatee | ⏳ 17h 56m 40s❤️ [⚠️SVR-BHNS⚠️ 1]
-https://auto.cdnok9.com/live/hd-en-6MvVNtSxxWZRjC8dmv/playlist.m3u8
-#EXTINF:-1 group-title="🗓HARI INI🗓" tvg-logo="https://cdn-img.cdnokvip.com/logos/17366_1ht6eqt0mf2y.png",❤️Prachuap Khiri Khan vs Muang Thong United | ⏳ 18h 21m 40s❤️ [⚠️SVR-BHNS⚠️ 1]
-https://auto.cdnok9.com/live/sd-6MvZ61ShZPSNemWoja/playlist.m3u8
-#EXTINF:-1 group-title="🗓HARI INI🗓" tvg-logo="https://cdn-img.cdnokvip.com/logos/55506_1h9yf9yeq71c.png",❤️Malut United vs PSM Makassar | ⏳ 18h 21m 40s❤️ [⚠️SVR-BHNS⚠️ 1]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/139_1jpxzww7782b.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Schalke 04 ⚠️v00:30 WIBs⚠️ Arminia Bielefeld😈 | 00:30 WIB
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/55506_1h9yf9yeq71c.png" group-title="😈Indonesia Liga 1 | 18h 6m😈",😈Malut United ⚠️v19:00 WIBs⚠️ PSM Makassar😈 | 19:00 WIB
 https://auto.cdnok9.com/live/sd-6MuTNFmKjNP4R7B4UC/playlist.m3u8
-#EXTINF:-1 group-title="🗓HARI INI🗓" tvg-logo="https://cdn-img.cdnokvip.com/logos/17375_1gq931k4p82.png",❤️Nakhon Ratchasima vs Buriram United | ⏳ 18h 51m 40s❤️ [⚠️SVR-BHNS⚠️ 1]
-https://auto.cdnok9.com/live/sd-6MvZ61ShZW2pGCzZCG/playlist.m3u8
-#EXTINF:-1 group-title="🗓HARI INI🗓" tvg-logo="https://cdn-img.cdnokvip.com/logos/1366_1gv1yreqcs16.png",❤️Istanbul Basaksehir vs Goztepe | ⏳ 19h 21m 40s❤️ [⚠️SVR-BHNS⚠️ 1]
-https://auto.cdnok9.com/live/hd-en-6MuTcMcGe82fMcbi3E/playlist.m3u8
-#EXTINF:-1 group-title="🗓HARI INI🗓" tvg-logo="https://cdn-img.cdnokvip.com/logos/21564_164941038260.png",❤️Borneo FC Samarinda vs Persebaya Surabaya | ⏳ 19h 51m 40s❤️ [⚠️SVR-BHNS⚠️ 1]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/21564_164941038260.png" group-title="😈Indonesia Liga 1 | 19h 36m😈",😈Borneo FC Samarinda ⚠️v20:30 WIBs⚠️ Persebaya Surabaya😈 | 20:30 WIB
 https://auto.cdnok9.com/live/sd-6MuTNFkZjQhfw2tJxc/playlist.m3u8
-#EXTINF:-1 group-title="🗓HARI INI🗓" tvg-logo="https://cdn-img.cdnokvip.com/logos/17003_164941034098.png",❤️Persita Tangerang vs Madura United | ⏳ 19h 51m 40s❤️ [⚠️SVR-BHNS⚠️ 1]
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/17003_164941034098.png" group-title="😈Indonesia Liga 1 | 19h 36m😈",😈Persita Tangerang ⚠️v20:30 WIBs⚠️ Madura United😈 | 20:30 WIB
 https://auto.cdnok9.com/live/sd-6MuTNFkaF1Hxfj73kp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1376_1gv1yreqcj1x.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈AEK Larnaca ⚠️v00:00 WIBs⚠️ Akritas Chloraka😈 | 00:00 WIB
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1376_1gv1yreqcj1x.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈AEK Larnaca ⚠️v00:00 WIBs⚠️ Akritas Chloraka😈 | 00:00 WIB
+https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/5780_1h71m9g00d3.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Pendikspor ⚠️v00:00 WIBs⚠️ Belediye Vanspor😈 | 00:00 WIB
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/5780_1h71m9g00d3.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Pendikspor ⚠️v00:00 WIBs⚠️ Belediye Vanspor😈 | 00:00 WIB
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/19599_1j1e9frnyg16.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈FC Iberia 1999 Tbilisi ⚠️v23:00 WIBs⚠️ Dila Gori😈 | 23:00 WIB
+https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/19599_1j1e9frnyg16.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈FC Iberia 1999 Tbilisi ⚠️v23:00 WIBs⚠️ Dila Gori😈 | 23:00 WIB
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/26551_1h56c0xwvd2h.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈FK Csikszereda Miercurea Ciuc ⚠️v00:30 WIBs⚠️ Farul Constanta😈 | 00:30 WIB
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/26551_1h56c0xwvd2h.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈FK Csikszereda Miercurea Ciuc ⚠️v00:30 WIBs⚠️ Farul Constanta😈 | 00:30 WIB
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/477_1hfze586dx2d.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Sakaryaspor ⚠️v00:00 WIBs⚠️ Adana Demirspor😈 | 00:00 WIB
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/477_1hfze586dx2d.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Sakaryaspor ⚠️v00:00 WIBs⚠️ Adana Demirspor😈 | 00:00 WIB
+https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/4456_1hbcqhxb7xr.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Istra 1961 Pula ⚠️v00:00 WIBs⚠️ ZNK Osijek😈 | 00:00 WIB
+https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/4456_1hbcqhxb7xr.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Istra 1961 Pula ⚠️v00:00 WIBs⚠️ ZNK Osijek😈 | 00:00 WIB
+https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/218_1h5bja71ec6.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Herfolge Boldklub Koge ⚠️v00:30 WIBs⚠️ Esbjerg😈 | 00:30 WIB
+https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/218_1h5bja71ec6.png" group-title="😈😈LIVE-NOW-EVENT-VIIIP😈😈",😈Herfolge Boldklub Koge ⚠️v00:30 WIBs⚠️ Esbjerg😈 | 00:30 WIB
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/863_1j50e1skc91a.png" group-title="😈Liga Portugal 2 | 0h 6m😈",😈GD Chaves ⚠️v01:00 WIBs⚠️ Viseu😈 | 01:00 WIB
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/863_1j50e1skc91a.png" group-title="😈Liga Portugal 2 | 0h 6m😈",😈GD Chaves ⚠️v01:00 WIBs⚠️ Viseu😈 | 01:00 WIB
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/186_1hg565390y24.png" group-title="😈J1 League | 10h 6m😈",😈JEF United Ichihara Chiba ⚠️v11:00 WIBs⚠️ Kashiwa Reysol😈 | 11:00 WIB
+https://cdn-img.cdnokvip.com/logos/196_1gtzcts3612j.png
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/188_1jqk6vdj212v.png" group-title="😈J1 League | 11h 6m😈",😈FC Tokyo ⚠️v12:00 WIBs⚠️ Yokohama Marinos😈 | 12:00 WIB
+https://cdn-img.cdnokvip.com/logos/183_1gtzcts26eq.png
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/175_1gtzcts2pj1a.png" group-title="😈J1 League | 12h 6m😈",😈Urawa Red Diamonds ⚠️v13:00 WIBs⚠️ Mito Hollyhock😈 | 13:00 WIB
+https://cdn-img.cdnokvip.com/logos/175_1gtzcts2pj1a.png
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/180_1gtzcts26h14.png" group-title="😈J1 League | 12h 6m😈",😈Cerezo Osaka ⚠️v13:00 WIBs⚠️ Shimizu S-Pulse😈 | 13:00 WIB
+https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/180_1gtzcts26h14.png" group-title="😈J1 League | 12h 6m😈",😈Cerezo Osaka ⚠️v13:00 WIBs⚠️ Shimizu S-Pulse😈 | 13:00 WIB
+https://cdn-img.cdnokvip.com/logos/180_1gtzcts26h14.png
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1326_1gtzcts36911.png" group-title="😈J1 League | 13h 6m😈",😈Avispa Fukuoka ⚠️v14:00 WIBs⚠️ Nagoya Grampus😈 | 14:00 WIB
+https://cdn-img.cdnokvip.com/logos/1326_1gtzcts36911.png
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/177_1gtzcts261m.png" group-title="😈J1 League | 13h 6m😈",😈Kashima Antlers ⚠️v14:00 WIBs⚠️ Tokyo Verdy😈 | 14:00 WIB
+https://cdn-img.cdnokvip.com/logos/177_1gtzcts261m.png
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/8587_1h726smm781y.png" group-title="😈Indian Super League | 17h 36m😈",😈Mohammedan SC ⚠️v18:30 WIBs⚠️ Bengaluru😈 | 18:30 WIB
+https://auto.cdnok9.com/live/sd-6MvVNYr2XL5mJAhQ84/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/23877_1k2txqcy5x2d.png" group-title="😈Thai League 1 | 17h 36m😈",😈Ayutthaya United ⚠️v18:30 WIBs⚠️ DP Kanchanaburi😈 | 18:30 WIB
+https://auto.cdnok9.com/live/sd-6MvZ61ShZRdrXFLitU/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/61513_1k0qw9nssh1n.png" group-title="😈Chinese Super League | 17h 41m😈",😈Yunnan Yukun ⚠️v18:35 WIBs⚠️ Qingdao Manatee😈 | 18:35 WIB
+https://auto.cdnok9.com/live/hd-en-6MvVNtSxxWZRjC8dmv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/17366_1ht6eqt0mf2y.png" group-title="😈Thai League 1 | 18h 6m😈",😈Prachuap Khiri Khan ⚠️v19:00 WIBs⚠️ Muang Thong United😈 | 19:00 WIB
+https://auto.cdnok9.com/live/sd-6MvZ61ShZPSNemWoja/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/17375_1gq931k4p82.png" group-title="😈Thai League 1 | 18h 36m😈",😈Nakhon Ratchasima ⚠️v19:30 WIBs⚠️ Buriram United😈 | 19:30 WIB
+https://auto.cdnok9.com/live/sd-6MvZ61ShZW2pGCzZCG/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1366_1gv1yreqcs16.png" group-title="😈Turkey Super Lig | 19h 6m😈",😈Istanbul Basaksehir ⚠️v20:00 WIBs⚠️ Goztepe😈 | 20:00 WIB
+https://auto.cdnok9.com/live/hd-en-6MuTcMcGe82fMcbi3E/playlist.m3u8
