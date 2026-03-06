@@ -1,0 +1,79 @@
+name: EPEPWK Epey Mybhianesse0
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'epep.py'
+      - '.github/workflows/wk.yml'
+
+# mencegah workflow berjalan bersamaan
+concurrency:
+  group: wk-m3u
+  cancel-in-progress: true
+
+jobs:
+  merge-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install unidecode
+
+      # Decode script dari secret
+      - name: Decode Python Script From Base64 Secret
+        run: |
+          echo "${{ secrets.EPEPWK_PY }}" | base64 -d > epepwk.py
+          chmod +x epepwk.py
+
+      - name: Create Required Folders
+        run: |
+          mkdir -p a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z
+          mkdir -p m3u_permanent
+
+      - name: Run Script
+        run: |
+          python epep.py
+
+      - name: Commit & Push Result
+        run: |
+
+          FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live1.m3u"
+
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [ -f "$FILE" ]; then
+
+            git add "$FILE"
+
+            git commit -m "🔄 Auto Update M3U $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
+
+            # tarik update repo dulu untuk mencegah conflict
+            git pull --rebase origin main
+
+            # push ke repo
+            git push
+
+          else
+            echo "M3U file not found"
+          fi
