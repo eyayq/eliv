@@ -2,7 +2,6 @@ name: BHNS1 Epey Mybhianesse0
 
 on:
   schedule:
-    # Run every 5 minutes
     - cron: '*/7 * * * *'
   workflow_dispatch:
   push:
@@ -11,6 +10,11 @@ on:
     paths:
       - 'epep.py'
       - '.github/workflows/bhns1.yml'
+
+# mencegah workflow berjalan bersamaan
+concurrency:
+  group: bhns1-m3u
+  cancel-in-progress: true
 
 jobs:
   merge-and-commit:
@@ -35,7 +39,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install unidecode
 
-      # 🔐 Decode script dari secret
+      # Decode script dari secret
       - name: Decode Python Script From Base64 Secret
         run: |
           echo "${{ secrets.EPEP_PY }}" | base64 -d > epep.py
@@ -52,15 +56,24 @@ jobs:
 
       - name: Commit & Push Result
         run: |
+
           FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live0.m3u"
 
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
           if [ -f "$FILE" ]; then
+
             git add "$FILE"
-            git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Auto Update M3U $(date +'%Y-%m-%d %H:%M:%S')"
+
+            git commit -m "🔄 Auto Update M3U $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
+
+            # tarik update repo dulu untuk mencegah conflict
+            git pull --rebase origin main
+
+            # push ke repo
             git push
+
           else
             echo "M3U file not found"
           fi
