@@ -3,7 +3,7 @@ name: Auto
 on:
   schedule:
     - cron: "*/2 * * * *"
-  workflow_dispatch
+  workflow_dispatch:
 
 # mencegah job dobel berjalan bersamaan
 concurrency:
@@ -15,20 +15,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Trigger Server Script
         run: |
-
           URL="http://viiip.kitashinsaku.com/down.php?key=svr-bhnsjingkaulauerrord"
 
           echo "Triggering server..."
+          echo "URL: $URL"
 
           curl -k -L \
+          --fail \
           --retry 3 \
           --retry-delay 5 \
           --connect-timeout 20 \
           --max-time 60 \
-          --user-agent "GitHubActions-chrome" \
+          --user-agent "GitHubActions-b0" \
           "$URL"
 
           echo "Request finished"
