@@ -2,7 +2,6 @@ name: Get Premium
 
 on:
   schedule:
-    # Run every 5 minutes
     - cron: '*/5 * * * *'
   workflow_dispatch:
   push:
@@ -11,6 +10,11 @@ on:
     paths:
       - 'premium.py'
       - '.github/workflows/premium.yml'
+
+# mencegah workflow jalan bersamaan
+concurrency:
+  group: premium-m3u
+  cancel-in-progress: true
 
 jobs:
   merge-and-commit:
@@ -60,7 +64,12 @@ jobs:
 
           if [ -f "$FILE" ]; then
             git add "$FILE"
-            git diff --quiet && git diff --staged --quiet || git commit -m "Auto Update Premium M3U"
+            git commit -m "Auto Update Premium M3U" || echo "No changes"
+
+            # ambil update repo dulu
+            git pull --rebase origin main
+
+            # push
             git push
           else
             echo "M3U file not found"
