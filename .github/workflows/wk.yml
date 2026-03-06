@@ -1,8 +1,8 @@
-name: bhns0 Auto Runepe
+name: bhns0 Auto epepwk
 
 on:
   schedule:
-    - cron: '*/6 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
   push:
     branches:
