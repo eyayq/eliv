@@ -1,79 +1,37 @@
-name: EPEPWK Epey Mybhianesse0
+name: bhns0 Auto Runepe
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - 'epepwk.py'
-      - '.github/workflows/wk.yml'
-
-# mencegah workflow berjalan bersamaan
-concurrency:
-  group: wk-m3u
-  cancel-in-progress: true
 
 jobs:
-  merge-and-commit:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install unidecode
+      - name: Install aiohttp
+        run: pip install aiohttp
 
-      # Decode script dari secret
-      - name: Decode Python Script From Base64 Secret
+      - name: Decode Script
         run: |
-          echo "${{ secrets.EPEPWK_PY }}" | base64 -d > epepwk.py
-          chmod +x epepwk.py
-
-      - name: Create Required Folders
-        run: |
-          mkdir -p a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z
-          mkdir -p m3u_permanent
+          echo "${{ secrets.EPEPWK_PY }}" | base64 -d > epe.py
 
       - name: Run Script
+        run: python3 epepwk.py
+
+      - name: Commit Result
         run: |
-          python epepwk.py
-
-      - name: Commit & Push Result
-        run: |
-
-          FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live1.m3u"
-
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-
-          if [ -f "$FILE" ]; then
-
-            git add "$FILE"
-
-            git commit -m "🔄 Auto Update M3U $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
-
-            # tarik update repo dulu untuk mencegah conflict
-            git pull --rebase origin main
-
-            # push ke repo
-            git push
-
-          else
-            echo "M3U file not found"
-          fi
+          git config --global user.name "yanshdroid[bot]"
+          git config --global user.email "yanshdroid[bot]@users.noreply.github.com"
+          git add a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live1.m3u
+          git commit -m "🔄 Auto update a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live1.m3u" || echo "No changes"
+          git push
