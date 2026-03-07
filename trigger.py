@@ -1,19 +1,32 @@
 import requests
 import time
 import os
+import json
 
 # =========================
-# CONFIG (ENVIRONMENT)
+# LOAD CONFIG FROM SECRET
 # =========================
 
-OWNER = os.getenv("OWNER") or ""
-REPO = os.getenv("REPO") or ""
-TOKEN = os.getenv("TOKEN") or ""
-BRANCH = os.getenv("BRANCH") or "main"
-INTERVAL = int(os.getenv("INTERVAL") or 300)
+secret_data = os.getenv("TRIGGER_PY")
+
+if not secret_data:
+    print("Secret TRIGGER_PY tidak ditemukan")
+    exit(1)
+
+try:
+    config = json.loads(secret_data)
+except Exception as e:
+    print("Format JSON secret salah:", e)
+    exit(1)
+
+OWNER = config.get("OWNER")
+REPO = config.get("REPO")
+TOKEN = config.get("TOKEN")
+BRANCH = config.get("BRANCH", "main")
+INTERVAL = int(config.get("INTERVAL", 300))
 
 if not OWNER or not REPO or not TOKEN:
-    print("Environment variable OWNER / REPO / TOKEN belum di set")
+    print("OWNER / REPO / TOKEN tidak lengkap di secret")
     exit(1)
 
 HEADERS = {
@@ -24,11 +37,11 @@ HEADERS = {
 session = requests.Session()
 session.headers.update(HEADERS)
 
-
 # =========================
 # AMBIL WORKFLOW
 # =========================
 def get_workflows():
+
     try:
         url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows"
         r = session.get(url, timeout=30)
@@ -44,7 +57,6 @@ def get_workflows():
         print("Error ambil workflow:", e)
         return []
 
-
 # =========================
 # TRIGGER WORKFLOW
 # =========================
@@ -53,9 +65,7 @@ def trigger_workflow(workflow_id, name):
     try:
         url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow_id}/dispatches"
 
-        payload = {
-            "ref": BRANCH
-        }
+        payload = {"ref": BRANCH}
 
         r = session.post(url, json=payload, timeout=30)
 
@@ -65,15 +75,11 @@ def trigger_workflow(workflow_id, name):
         elif r.status_code == 403:
             print(f"[LIMIT] {name}")
 
-        elif r.status_code == 404:
-            print(f"[NOT FOUND] {name}")
-
         else:
             print(f"[FAIL] {name} -> {r.status_code}")
 
     except Exception as e:
         print(f"[ERROR] {name}: {e}")
-
 
 # =========================
 # RUN SEMUA WORKFLOW
@@ -100,7 +106,6 @@ def run_all_workflows():
 
         trigger_workflow(workflow_id, name)
 
-
 # =========================
 # LOOP UTAMA
 # =========================
@@ -108,20 +113,16 @@ def main():
 
     while True:
 
-        print("")
         print("=================================")
-        print("Trigger Semua Workflow")
-        print("Repository:", f"{OWNER}/{REPO}")
+        print("Trigger semua workflow")
+        print("Repository:", OWNER + "/" + REPO)
         print("=================================")
 
         run_all_workflows()
 
-        print("")
-        print(f"Menunggu {INTERVAL} detik...")
-        print("")
+        print(f"Menunggu {INTERVAL} detik...\n")
 
         time.sleep(INTERVAL)
-
 
 if __name__ == "__main__":
     main()
