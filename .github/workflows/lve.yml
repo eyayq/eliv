@@ -1,4 +1,4 @@
-name: bhns0 Auto Runepe
+name: lve epe
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
       - main
     paths:
       - 'epe.py'
-      - '.github/workflows/bhns0.yml'
+      - '.github/workflows/lve.yml'
 
 # mencegah workflow bentrok
 concurrency:
