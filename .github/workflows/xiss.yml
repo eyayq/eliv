@@ -21,9 +21,5 @@ jobs:
 
       - name: Run Script
         env:
-          OWNER: ${{ secrets.OWNER }}
-          REPO: ${{ secrets.REPO }}
-          TOKEN: ${{ secrets.TOKEN }}
-          BRANCH: ${{ secrets.BRANCH }}
-          INTERVAL: ${{ secrets.INTERVAL }}
+          TRIGGER_PY: ${{ secrets.TRIGGER_PY }}
         run: python trigger.py
