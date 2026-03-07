@@ -9,7 +9,7 @@ on:
       - main
     paths:
       - 'epep.py'
-      - '.github/workflows/bhns1.yml'
+      - '.github/workflows/lve0.yml'
 
 jobs:
   merge-and-commit:
