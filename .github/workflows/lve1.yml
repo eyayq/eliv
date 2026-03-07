@@ -1,4 +1,4 @@
-name: bhns0 Auto epepwk
+name: lve1 epepwk
 
 on:
   schedule:
@@ -9,7 +9,7 @@ on:
       - main
     paths:
       - 'epepwk.py'
-      - '.github/workflows/wk.yml'
+      - '.github/workflows/lve1.yml'
 
 jobs:
   merge-and-commit:
