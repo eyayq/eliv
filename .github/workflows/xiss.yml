@@ -1,7 +1,15 @@
 name: workflow-trigger
 
 on:
-  workflow_dispatch
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'epe.py'
+      - '.github/workflows/xiss.yml'
 
 jobs:
   trigger:
