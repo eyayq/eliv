@@ -9,7 +9,7 @@ on:
       - main
     paths:
       - 'premium.py'
-      - '.github/workflows/premium.yml'
+      - '.github/workflows/lve2.yml'
 
 # mencegah workflow jalan bersamaan
 concurrency:
