@@ -3,31 +3,19 @@ import time
 import os
 import json
 
-# =========================
-# LOAD CONFIG FROM SECRET
-# =========================
-
 secret_data = os.getenv("TRIGGER_PY")
 
 if not secret_data:
     print("Secret TRIGGER_PY tidak ditemukan")
     exit(1)
 
-try:
-    config = json.loads(secret_data)
-except Exception as e:
-    print("Format JSON secret salah:", e)
-    exit(1)
+config = json.loads(secret_data)
 
 OWNER = config.get("OWNER")
 REPO = config.get("REPO")
 TOKEN = config.get("TOKEN")
 BRANCH = config.get("BRANCH", "main")
 INTERVAL = int(config.get("INTERVAL", 300))
-
-if not OWNER or not REPO or not TOKEN:
-    print("OWNER / REPO / TOKEN tidak lengkap di secret")
-    exit(1)
 
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
@@ -37,74 +25,140 @@ HEADERS = {
 session = requests.Session()
 session.headers.update(HEADERS)
 
+
 # =========================
 # AMBIL WORKFLOW
 # =========================
 def get_workflows():
 
-    try:
-        url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows"
-        r = session.get(url, timeout=30)
+    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows"
+    r = session.get(url)
 
-        if r.status_code != 200:
-            print("Gagal mengambil workflow:", r.status_code)
-            return []
+    workflows = []
 
-        data = r.json()
-        return data.get("workflows", [])
+    if r.status_code == 200:
+        for wf in r.json().get("workflows", []):
+            if wf["state"] == "active":
+                workflows.append((wf["id"], wf["name"]))
 
-    except Exception as e:
-        print("Error ambil workflow:", e)
-        return []
+    return workflows
+
 
 # =========================
 # TRIGGER WORKFLOW
 # =========================
 def trigger_workflow(workflow_id, name):
 
-    try:
-        url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow_id}/dispatches"
+    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow_id}/dispatches"
 
-        payload = {"ref": BRANCH}
+    payload = {"ref": BRANCH}
 
-        r = session.post(url, json=payload, timeout=30)
+    r = session.post(url, json=payload)
 
-        if r.status_code == 204:
-            print(f"[OK] {name}")
+    if r.status_code == 204:
+        print("[TRIGGERED]", name)
+        return True
 
-        elif r.status_code == 403:
-            print(f"[LIMIT] {name}")
+    print("[FAIL TRIGGER]", name, r.status_code)
+    return False
 
-        else:
-            print(f"[FAIL] {name} -> {r.status_code}")
-
-    except Exception as e:
-        print(f"[ERROR] {name}: {e}")
 
 # =========================
-# RUN SEMUA WORKFLOW
+# AMBIL RUN TERBARU
 # =========================
-def run_all_workflows():
+def get_latest_run(workflow_id):
+
+    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow_id}/runs?per_page=1"
+
+    r = session.get(url)
+
+    if r.status_code != 200:
+        return None
+
+    runs = r.json().get("workflow_runs", [])
+
+    if not runs:
+        return None
+
+    return runs[0]
+
+
+# =========================
+# CEK STATUS WORKFLOW
+# =========================
+def check_status(workflows):
+
+    finished = {}
+    failed = []
+
+    for workflow_id, name in workflows:
+
+        run = get_latest_run(workflow_id)
+
+        if not run:
+            continue
+
+        status = run["status"]
+        conclusion = run["conclusion"]
+
+        if status != "completed":
+            continue
+
+        finished[workflow_id] = True
+
+        print(name, "->", conclusion)
+
+        if conclusion != "success":
+            failed.append((workflow_id, name))
+
+    return finished, failed
+
+
+# =========================
+# JALANKAN SEMUA DAN MONITOR
+# =========================
+def run_all():
 
     workflows = get_workflows()
 
     if not workflows:
-        print("Tidak ada workflow ditemukan")
+        print("Tidak ada workflow aktif")
         return
 
-    for wf in workflows:
+    print("\nTrigger semua workflow")
 
-        name = wf.get("name", "unknown")
-        workflow_id = wf.get("id")
-
-        if not workflow_id:
-            continue
-
-        if wf.get("state") != "active":
-            print(f"[SKIP] {name}")
-            continue
-
+    for workflow_id, name in workflows:
         trigger_workflow(workflow_id, name)
+        time.sleep(2)
+
+    remaining = workflows
+
+    while True:
+
+        print("\nCek status workflow...")
+
+        finished, failed = check_status(remaining)
+
+        if len(finished) == len(remaining):
+
+            if not failed:
+                print("\nSEMUA WORKFLOW BERHASIL")
+                return
+
+            print("\nAda workflow gagal, membuat run baru")
+
+            remaining = []
+
+            for workflow_id, name in failed:
+
+                trigger_workflow(workflow_id, name)
+
+                remaining.append((workflow_id, name))
+
+                time.sleep(2)
+
+        time.sleep(15)
+
 
 # =========================
 # LOOP UTAMA
@@ -113,16 +167,15 @@ def main():
 
     while True:
 
-        print("=================================")
-        print("Trigger semua workflow")
+        print("\n============================")
         print("Repository:", OWNER + "/" + REPO)
-        print("=================================")
+        print("============================")
 
-        run_all_workflows()
+        run_all()
 
-        print(f"Menunggu {INTERVAL} detik...\n")
-
+        print("\nMenunggu", INTERVAL, "detik")
         time.sleep(INTERVAL)
+
 
 if __name__ == "__main__":
     main()
