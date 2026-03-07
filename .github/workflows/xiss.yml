@@ -1,0 +1,29 @@
+name: workflow-trigger
+
+on:
+  workflow_dispatch
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run Script
+        env:
+          OWNER: ${{ secrets.OWNER }}
+          REPO: ${{ secrets.REPO }}
+          TOKEN: ${{ secrets.TOKEN }}
+          BRANCH: ${{ secrets.BRANCH }}
+          INTERVAL: ${{ secrets.INTERVAL }}
+        run: python trigger.py
