@@ -1,0 +1,28 @@
+name: Delete Workflow Logs
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  delete-logs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Requests
+        run: pip install requests
+
+      - name: Run Delete Logs Script
+        env:
+          DELETE_LOG_CONFIG: ${{ secrets.DELETE_LOG_CONFIG }}
+        run: python delete_logs.py
