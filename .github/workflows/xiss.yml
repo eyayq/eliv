@@ -1,32 +1,57 @@
-name: Delete Workflow Runs
+name: Cancel All Workflow Runs
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 */5 * * *"
+
+permissions:
+  actions: write
+  contents: read
 
 jobs:
-  cleanup:
+  cancel:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Delete workflow runs
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Cancel all workflow runs
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OWNER: ${{ github.repository_owner }}
           REPO: ${{ github.event.repository.name }}
         run: |
-          echo "Getting workflow runs..."
+          PAGE=1
 
-          runs=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
-          https://api.github.com/repos/$OWNER/$REPO/actions/runs?per_page=100 \
-          | jq '.workflow_runs[].id')
-
-          for run_id in $runs
+          while true
           do
-            echo "Deleting run $run_id"
+            echo "Fetching page $PAGE"
 
-            curl -s -X DELETE \
+            RESPONSE=$(curl -s \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$OWNER/$REPO/actions/runs?per_page=100&page=$PAGE")
+
+            IDS=$(echo "$RESPONSE" | jq '.workflow_runs[].id')
+
+            if [ -z "$IDS" ]; then
+              echo "No more runs."
+              break
+            fi
+
+            for id in $IDS
+            do
+              echo "Cancelling run $id"
+
+              curl -s -X POST \
               -H "Authorization: Bearer $GH_TOKEN" \
-              https://api.github.com/repos/$OWNER/$REPO/actions/runs/$run_id
+              -H "Accept: application/vnd.github+json" \
+              https://api.github.com/repos/$OWNER/$REPO/actions/runs/$id/cancel
+
+              sleep 0.2
+            done
+
+            PAGE=$((PAGE+1))
           done
+
+          echo "All workflow runs cancelled."
