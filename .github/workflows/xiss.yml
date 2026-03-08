@@ -1,4 +1,4 @@
-name: Cancel All Workflow Runs
+name: Run trigger.py
 
 on:
   workflow_dispatch:
@@ -12,46 +12,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Cancel all workflow runs
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run trigger.py
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TRIGGER_PY }}
           OWNER: ${{ github.repository_owner }}
           REPO: ${{ github.event.repository.name }}
         run: |
-          PAGE=1
-
-          while true
-          do
-            echo "Fetching page $PAGE"
-
-            RESPONSE=$(curl -s \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/$OWNER/$REPO/actions/runs?per_page=100&page=$PAGE")
-
-            IDS=$(echo "$RESPONSE" | jq '.workflow_runs[].id')
-
-            if [ -z "$IDS" ]; then
-              echo "No more runs."
-              break
-            fi
-
-            for id in $IDS
-            do
-              echo "Cancelling run $id"
-
-              curl -s -X POST \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              -H "Accept: application/vnd.github+json" \
-              https://api.github.com/repos/$OWNER/$REPO/actions/runs/$id/cancel
-
-              sleep 0.2
-            done
-
-            PAGE=$((PAGE+1))
-          done
-
-          echo "All workflow runs cancelled."
+          python trigger.py
