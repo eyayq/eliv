@@ -1,180 +1,67 @@
 import requests
-import time
-import os
-import json
 
-secret_data = os.getenv("TRIGGER_PY")
+# =========================
+# CONFIG
+# =========================
+OWNER = "OWNER"          # contoh: eyayq
+REPO = "REPO"            # contoh: eliv
+TOKEN = "GITHUB_TOKEN"   # personal access token
 
-if not secret_data:
-    print("Secret TRIGGER_PY tidak ditemukan")
-    exit(1)
+BASE_URL = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/runs"
 
-config = json.loads(secret_data)
-
-OWNER = config.get("OWNER")
-REPO = config.get("REPO")
-TOKEN = config.get("TOKEN")
-BRANCH = config.get("BRANCH", "main")
-INTERVAL = int(config.get("INTERVAL", 300))
-
-HEADERS = {
+headers = {
     "Authorization": f"Bearer {TOKEN}",
     "Accept": "application/vnd.github+json"
 }
 
-session = requests.Session()
-session.headers.update(HEADERS)
+# =========================
+# GET ALL WORKFLOW RUNS
+# =========================
+def get_runs():
+    runs = []
+    page = 1
+
+    while True:
+        url = f"{BASE_URL}?per_page=100&page={page}"
+        r = requests.get(url, headers=headers)
+        data = r.json()
+
+        if "workflow_runs" not in data or len(data["workflow_runs"]) == 0:
+            break
+
+        runs.extend(data["workflow_runs"])
+        page += 1
+
+    return runs
 
 
 # =========================
-# AMBIL WORKFLOW
+# DELETE RUN
 # =========================
-def get_workflows():
-
-    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows"
-    r = session.get(url)
-
-    workflows = []
-
-    if r.status_code == 200:
-        for wf in r.json().get("workflows", []):
-            if wf["state"] == "active":
-                workflows.append((wf["id"], wf["name"]))
-
-    return workflows
-
-
-# =========================
-# TRIGGER WORKFLOW
-# =========================
-def trigger_workflow(workflow_id, name):
-
-    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow_id}/dispatches"
-
-    payload = {"ref": BRANCH}
-
-    r = session.post(url, json=payload)
+def delete_run(run_id):
+    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/runs/{run_id}"
+    r = requests.delete(url, headers=headers)
 
     if r.status_code == 204:
-        print("[TRIGGERED]", name)
-        return True
-
-    print("[FAIL TRIGGER]", name, r.status_code)
-    return False
+        print(f"Deleted run {run_id}")
+    else:
+        print(f"Failed delete {run_id} : {r.status_code}")
 
 
 # =========================
-# AMBIL RUN TERBARU
-# =========================
-def get_latest_run(workflow_id):
-
-    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow_id}/runs?per_page=1"
-
-    r = session.get(url)
-
-    if r.status_code != 200:
-        return None
-
-    runs = r.json().get("workflow_runs", [])
-
-    if not runs:
-        return None
-
-    return runs[0]
-
-
-# =========================
-# CEK STATUS WORKFLOW
-# =========================
-def check_status(workflows):
-
-    finished = {}
-    failed = []
-
-    for workflow_id, name in workflows:
-
-        run = get_latest_run(workflow_id)
-
-        if not run:
-            continue
-
-        status = run["status"]
-        conclusion = run["conclusion"]
-
-        if status != "completed":
-            continue
-
-        finished[workflow_id] = True
-
-        print(name, "->", conclusion)
-
-        if conclusion != "success":
-            failed.append((workflow_id, name))
-
-    return finished, failed
-
-
-# =========================
-# JALANKAN SEMUA DAN MONITOR
-# =========================
-def run_all():
-
-    workflows = get_workflows()
-
-    if not workflows:
-        print("Tidak ada workflow aktif")
-        return
-
-    print("\nTrigger semua workflow")
-
-    for workflow_id, name in workflows:
-        trigger_workflow(workflow_id, name)
-        time.sleep(2)
-
-    remaining = workflows
-
-    while True:
-
-        print("\nCek status workflow...")
-
-        finished, failed = check_status(remaining)
-
-        if len(finished) == len(remaining):
-
-            if not failed:
-                print("\nSEMUA WORKFLOW BERHASIL")
-                return
-
-            print("\nAda workflow gagal, membuat run baru")
-
-            remaining = []
-
-            for workflow_id, name in failed:
-
-                trigger_workflow(workflow_id, name)
-
-                remaining.append((workflow_id, name))
-
-                time.sleep(2)
-
-        time.sleep(15)
-
-
-# =========================
-# LOOP UTAMA
+# MAIN
 # =========================
 def main():
+    print("Fetching workflow runs...")
 
-    while True:
+    runs = get_runs()
+    print(f"Total runs found: {len(runs)}")
 
-        print("\n============================")
-        print("Repository:", OWNER + "/" + REPO)
-        print("============================")
+    for run in runs:
+        run_id = run["id"]
+        delete_run(run_id)
 
-        run_all()
-
-        print("\nMenunggu", INTERVAL, "detik")
-        time.sleep(INTERVAL)
+    print("Finished deleting workflow runs.")
 
 
 if __name__ == "__main__":
