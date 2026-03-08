@@ -3,10 +3,10 @@ import os
 import json
 import time
 
-secret_data = os.getenv("DELETE_LOG_CONFIG")
+secret_data = os.getenv("TRIGGER_PY")
 
 if not secret_data:
-    print("Secret DELETE_LOG_CONFIG tidak ditemukan")
+    print("Secret TRIGGER_PY tidak ditemukan")
     exit(1)
 
 config = json.loads(secret_data)
