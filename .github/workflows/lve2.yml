@@ -11,7 +11,6 @@ on:
       - 'premium.py'
       - '.github/workflows/lve2.yml'
 
-# mencegah workflow jalan bersamaan
 concurrency:
   group: premium-m3u
   cancel-in-progress: true
@@ -31,6 +30,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -56,6 +56,8 @@ jobs:
           python premium.py
 
       - name: Commit M3U
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -66,11 +68,9 @@ jobs:
             git add "$FILE"
             git commit -m "Auto Update Premium M3U" || echo "No changes"
 
-            # ambil update repo dulu
             git pull --rebase origin main
 
-            # push
-            git push
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           else
             echo "M3U file not found"
           fi
