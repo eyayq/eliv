@@ -1,68 +1,39 @@
-import requests
+#!/bin/bash
 
-# =========================
-# CONFIG
-# =========================
-OWNER = "OWNER"          # contoh: eyayq
-REPO = "REPO"            # contoh: eliv
-TOKEN = "GITHUB_TOKEN"   # personal access token
+OWNER="OWNER"
+REPO="REPO"
+TOKEN="GITHUB_TOKEN"
 
-BASE_URL = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/runs"
+PAGE=1
 
-headers = {
-    "Authorization": f"Bearer {TOKEN}",
-    "Accept": "application/vnd.github+json"
-}
+while true
+do
+  echo "Fetching page $PAGE"
 
-# =========================
-# GET ALL WORKFLOW RUNS
-# =========================
-def get_runs():
-    runs = []
-    page = 1
+  RESPONSE=$(curl -s \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Accept: application/vnd.github+json" \
+  "https://api.github.com/repos/$OWNER/$REPO/actions/runs?per_page=100&page=$PAGE")
 
-    while True:
-        url = f"{BASE_URL}?per_page=100&page={page}"
-        r = requests.get(url, headers=headers)
-        data = r.json()
+  IDS=$(echo $RESPONSE | jq '.workflow_runs[].id')
 
-        if "workflow_runs" not in data or len(data["workflow_runs"]) == 0:
-            break
+  if [ -z "$IDS" ]; then
+    echo "No more runs found."
+    break
+  fi
 
-        runs.extend(data["workflow_runs"])
-        page += 1
+  for id in $IDS
+  do
+    echo "Cancelling run $id"
 
-    return runs
+    curl -s -X POST \
+    -H "Authorization: Bearer $TOKEN" \
+    -H "Accept: application/vnd.github+json" \
+    https://api.github.com/repos/$OWNER/$REPO/actions/runs/$id/cancel
+  done
 
+  PAGE=$((PAGE+1))
 
-# =========================
-# DELETE RUN
-# =========================
-def delete_run(run_id):
-    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/runs/{run_id}"
-    r = requests.delete(url, headers=headers)
+done
 
-    if r.status_code == 204:
-        print(f"Deleted run {run_id}")
-    else:
-        print(f"Failed delete {run_id} : {r.status_code}")
-
-
-# =========================
-# MAIN
-# =========================
-def main():
-    print("Fetching workflow runs...")
-
-    runs = get_runs()
-    print(f"Total runs found: {len(runs)}")
-
-    for run in runs:
-        run_id = run["id"]
-        delete_run(run_id)
-
-    print("Finished deleting workflow runs.")
-
-
-if __name__ == "__main__":
-    main()
+echo "Finished cancelling all workflow runs."
