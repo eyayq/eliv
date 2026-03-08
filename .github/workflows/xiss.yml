@@ -1,33 +1,32 @@
-name: workflow-trigger
+name: Delete Workflow Runs
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - 'trigger.py'
-      - '.github/workflows/xiss.yml'
+  schedule:
+    - cron: "0 */5 * * *"
 
 jobs:
-  trigger:
+  cleanup:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install requests
-        run: pip install requests
-
-      - name: Run Script
+      - name: Delete workflow runs
         env:
-          TRIGGER_PY: ${{ secrets.TRIGGER_PY }}
-        run: python trigger.py
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
+        run: |
+          echo "Getting workflow runs..."
+
+          runs=$(curl -s -H "Authorization: Bearer $GH_TOKEN" \
+          https://api.github.com/repos/$OWNER/$REPO/actions/runs?per_page=100 \
+          | jq '.workflow_runs[].id')
+
+          for run_id in $runs
+          do
+            echo "Deleting run $run_id"
+
+            curl -s -X DELETE \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              https://api.github.com/repos/$OWNER/$REPO/actions/runs/$run_id
+          done
