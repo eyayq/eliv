@@ -7,52 +7,18 @@ REPO = "eliv"
 
 TOKEN = os.getenv("GH_TOKEN")
 
-SLEEP_AFTER_ALL = 300  # 5 menit
-
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
     "Accept": "application/vnd.github+json"
 }
 
-# Grup workflow yang akan dijalankan bersamaan
+SLEEP_AFTER_ALL = 300  # 5 menit
+
 WORKFLOW_GROUPS = [
     ["lve.yml", "lve0.yml"],
     ["lve2.yml", "auto.yml"],
     ["lve1.yml"]
 ]
-
-
-def get_running_count():
-    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/runs?status=in_progress"
-
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=10)
-
-        if r.status_code != 200:
-            print("API Error:", r.text)
-            return 0
-
-        data = r.json()
-
-        return data.get("total_count", 0)
-
-    except Exception as e:
-        print("Request error:", e)
-        return 0
-
-
-def wait_until_finish():
-
-    while True:
-
-        running = get_running_count()
-
-        print("Running workflow:", running)
-
-        if running == 0:
-            break
-
-        time.sleep(10)
 
 
 def trigger_workflow(workflow):
@@ -69,21 +35,70 @@ def trigger_workflow(workflow):
         print("Trigger failed:", workflow, r.text)
 
 
+def get_latest_run(workflow):
+
+    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow}/runs?per_page=1"
+
+    r = requests.get(url, headers=HEADERS)
+
+    if r.status_code != 200:
+        print("API error:", r.text)
+        return None
+
+    data = r.json()
+
+    if data["workflow_runs"]:
+        return data["workflow_runs"][0]["id"]
+
+    return None
+
+
+def wait_run_finish(run_id):
+
+    while True:
+
+        url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/runs/{run_id}"
+
+        r = requests.get(url, headers=HEADERS)
+
+        if r.status_code != 200:
+            print("API error:", r.text)
+            time.sleep(10)
+            continue
+
+        status = r.json()["status"]
+
+        print("Run status:", status)
+
+        if status == "completed":
+            return
+
+        time.sleep(10)
+
+
 while True:
 
     print("===== START WORKFLOW QUEUE =====")
 
     for group in WORKFLOW_GROUPS:
 
-        wait_until_finish()
+        run_ids = []
 
         for wf in group:
+
             trigger_workflow(wf)
+
             time.sleep(3)
 
-        print("Waiting group to finish:", group)
+            run_id = get_latest_run(wf)
 
-        wait_until_finish()
+            if run_id:
+                run_ids.append(run_id)
+
+        print("Waiting group:", group)
+
+        for rid in run_ids:
+            wait_run_finish(rid)
 
         print("Group finished:", group)
 
