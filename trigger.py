@@ -3,7 +3,7 @@ import time
 import os
 
 OWNER = "USERNAME_GITHUB"
-REPO = "REPO_GITHUB"
+REPO = "REPOSITORY_NAME"
 
 TOKEN = os.getenv("GH_TOKEN")
 
@@ -15,7 +15,7 @@ WORKFLOWS = [
     "lve1.yml"
 ]
 
-SLEEP_AFTER_ALL = 300   # 300 = 5 menit (ubah ke 600 jika ingin 10 menit)
+SLEEP_AFTER_ALL = 300  # 5 menit
 
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
@@ -23,39 +23,53 @@ HEADERS = {
 }
 
 
-def trigger(workflow):
+def trigger_workflow(workflow):
 
     url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow}/dispatches"
 
-    data = {"ref": "main"}
+    data = {
+        "ref": "main"
+    }
 
     r = requests.post(url, headers=HEADERS, json=data)
 
     if r.status_code == 204:
         print(f"Triggered {workflow}")
+        return True
     else:
-        print("Error trigger:", r.text)
+        print("Trigger Error:", r.text)
+        return False
 
 
-def running_count():
+def get_running_count():
 
     url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/runs?status=in_progress"
 
     r = requests.get(url, headers=HEADERS)
 
-    return r.json()["total_count"]
+    if r.status_code != 200:
+        print("API Error:", r.text)
+        return 1
+
+    data = r.json()
+
+    if "total_count" not in data:
+        print("Unexpected API Response:", data)
+        return 1
+
+    return data["total_count"]
 
 
-def wait_finish():
+def wait_until_finish():
 
     while True:
 
-        r = running_count()
+        running = get_running_count()
 
-        if r == 0:
+        if running == 0:
             return
 
-        print("Waiting workflow finish...")
+        print("Waiting workflow to finish...")
         time.sleep(20)
 
 
@@ -63,17 +77,21 @@ while True:
 
     print("Start Runner Queue")
 
-    for wf in WORKFLOWS:
+    for workflow in WORKFLOWS:
 
-        wait_finish()
+        wait_until_finish()
 
-        trigger(wf)
+        ok = trigger_workflow(workflow)
 
-        time.sleep(8)
+        if not ok:
+            time.sleep(30)
+            continue
 
-        wait_finish()
+        time.sleep(10)
 
-        print(f"{wf} finished")
+        wait_until_finish()
+
+        print(f"{workflow} finished")
 
     print("All workflows finished")
 
