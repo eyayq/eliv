@@ -13,17 +13,17 @@ on:
 
 # mencegah workflow bentrok
 concurrency:
-  group: bhns0-generator
+  group: playlist-generator
   cancel-in-progress: true
 
 jobs:
   merge-and-commit:
     runs-on: ubuntu-22.04
+
     permissions:
       contents: write
 
     steps:
-
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -57,23 +57,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-
           FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live.m3u"
 
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
           if [ -f "$FILE" ]; then
-
             git add "$FILE"
-
             git commit -m "🔄 Auto update $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes"
 
-            # tarik update repo dulu agar tidak conflict
-            git pull --rebase origin main
-
-            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-
+            # retry push jika repo berubah
+            for i in 1 2 3 4 5
+            do
+              git pull --rebase origin main
+              git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git && break
+              echo "Push failed. Retry $i..."
+              sleep 3
+            done
           else
             echo "live.m3u not found"
           fi
