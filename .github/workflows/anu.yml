@@ -1,17 +1,17 @@
-name: runner
+name: Workflow Queue Runner
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
-  run:
+  runner:
     runs-on: ubuntu-latest
     timeout-minutes: 360
 
     steps:
-      - name: Checkout repo
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -19,10 +19,11 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install requests
-        run: pip install requests
+      - name: Install Dependencies
+        run: |
+          pip install requests
 
-      - name: Run Queue Runner
+      - name: Run Trigger Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python trigger.py
