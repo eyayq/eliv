@@ -2,8 +2,8 @@ import requests
 import time
 import os
 
-OWNER = "USERNAME_GITHUB"
-REPO = "REPOSITORY_NAME"
+OWNER = "eyayq"
+REPO = "eliv"
 
 TOKEN = os.getenv("GH_TOKEN")
 
@@ -23,6 +23,41 @@ HEADERS = {
 }
 
 
+def get_running_count():
+    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/runs?status=in_progress"
+
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=10)
+
+        if r.status_code != 200:
+            print("API Error:", r.text)
+            return 0
+
+        data = r.json()
+
+        if "total_count" in data:
+            return data["total_count"]
+
+        print("Unexpected API response:", data)
+        return 0
+
+    except Exception as e:
+        print("Request error:", e)
+        return 0
+
+
+def wait_until_finish():
+    while True:
+        running = get_running_count()
+
+        print("Running workflow:", running)
+
+        if running == 0:
+            break
+
+        time.sleep(10)
+
+
 def trigger_workflow(workflow):
 
     url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow}/dispatches"
@@ -34,67 +69,29 @@ def trigger_workflow(workflow):
     r = requests.post(url, headers=HEADERS, json=data)
 
     if r.status_code == 204:
-        print(f"Triggered {workflow}")
-        return True
+        print("Triggered:", workflow)
     else:
-        print("Trigger Error:", r.text)
-        return False
-
-
-def get_running_count():
-
-    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/runs?status=in_progress"
-
-    r = requests.get(url, headers=HEADERS)
-
-    if r.status_code != 200:
-        print("API Error:", r.text)
-        return 1
-
-    data = r.json()
-
-    if "total_count" not in data:
-        print("Unexpected API Response:", data)
-        return 1
-
-    return data["total_count"]
-
-
-def wait_until_finish():
-
-    while True:
-
-        running = get_running_count()
-
-        if running == 0:
-            return
-
-        print("Waiting workflow to finish...")
-        time.sleep(20)
+        print("Trigger failed:", r.text)
 
 
 while True:
 
-    print("Start Runner Queue")
+    print("===== START RUNNER QUEUE =====")
 
-    for workflow in WORKFLOWS:
-
-        wait_until_finish()
-
-        ok = trigger_workflow(workflow)
-
-        if not ok:
-            time.sleep(30)
-            continue
-
-        time.sleep(10)
+    for wf in WORKFLOWS:
 
         wait_until_finish()
 
-        print(f"{workflow} finished")
+        trigger_workflow(wf)
+
+        time.sleep(5)
+
+        wait_until_finish()
+
+        print(wf, "finished")
 
     print("All workflows finished")
 
-    print(f"Sleep {SLEEP_AFTER_ALL} seconds")
+    print("Sleeping", SLEEP_AFTER_ALL, "seconds")
 
     time.sleep(SLEEP_AFTER_ALL)
