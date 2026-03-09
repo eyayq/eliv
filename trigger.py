@@ -5,7 +5,7 @@ import os
 OWNER = "eyayq"
 REPO = "eliv"
 
-TOKEN = os.getenv("GH_TOKEN")
+TOKEN = os.getenv("GH_TOKEN") or os.getenv("GITHUB_TOKEN")
 
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
