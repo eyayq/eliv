@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-09 22:28:42
-# 🔄 Total Channels: 1473
+# ⏰ Latest Updated: 2026-03-09 22:34:52
+# 🔄 Total Channels: 1468
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -89,7 +89,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772107094000579_FC_Cup_26_RD5_West-Ham-United-vs-Brentford_landscape_thumb.jpg" group-title="Live Event: Sony LIV",ENG | West Ham United vs Brentford - Round 5 - 10 Mar  (Football) | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1773124205~acl=/*~id=34136562185003840451943464152386~hmac=1d829bf7c128077a874e9858fbf6537f8a8c1ba2cb1af598bdb558dbc0e235e3|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; SM-G960F; Build/PPR1.180610.011)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=257462907c0ab442734cd32e3ae8a996-1773094200107
+https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1773124205~acl=/*~id=34136562185003840451943464152386~hmac=1d829bf7c128077a874e9858fbf6537f8a8c1ba2cb1af598bdb558dbc0e235e3|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 23108RN04Y; Build/UP1A.231005.007)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=88accd24d72f51f8adbdff82e7fb40a2-1773095400135
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_140534_c6ee7156.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",20:30   10/03 Bhayangkara FC vs Arema FC HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -676,78 +676,18 @@ https://live.alilicloud.com/live/8130751b861742f69a43df0c6373af94/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/9f59636ce2d2eb0227fbdbf9e24b2add/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ NIBO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1773097537-0-0-1c53dc7657aab6be58961f0e59dd9f29
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ NIBO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1773097537-0-0-c6a8f2db6e92e2eb3118bf467968c8d9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ NIBO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1773097537-0-0-4b5ab34a2b1b5ec70b6cb4e33b48738a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ NIBO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1773097537-0-0-463df8b60e42f4ab66c4ba7313d6926d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [THE KOP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1773097537-0-0-d6a10566be42127261fcb2e804346220
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [THE KOP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1773097537-0-0-e87464d3b415b9c4f263b87e7d35f721
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [THE KOP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1773097537-0-0-5df0fffbc2a7f66d2a46397d51724094
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [THE KOP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1773097537-0-0-198eaf25ac046189a3a3fbf559ac155c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [ ROBBEN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1773097537-0-0-b793f86e32a78740bfa4e847116e46c3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [ ROBBEN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1773097537-0-0-7d4fea4ca6df64eef68b718cde20cf7a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [ ROBBEN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1773097537-0-0-05fd151e8c2d8bd963819c8b76329e26
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [ ROBBEN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1773097537-0-0-2c7535570381d21b3849427bb442532f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ KAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=7b332f9e71ae4606408acb26dcdc343a&txTime=69af9891
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ KAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=63610e3aa2692bfe9ad681b9deadcbfd&txTime=69af9891
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ KAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=7b332f9e71ae4606408acb26dcdc343a&txTime=69af9891
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ KAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=63610e3aa2692bfe9ad681b9deadcbfd&txTime=69af9891
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/192babbc625818bffbe017e1473042ed.png" group-title="Live Event: socolive",02:30 ngay 10/03 West Ham United vs Brentford [ A BEU] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1773097537-0-0-0b910fc21dd795fba38bb22bcfe7f10d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/192babbc625818bffbe017e1473042ed.png" group-title="Live Event: socolive",02:30 ngay 10/03 West Ham United vs Brentford [ A BEU] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1773097537-0-0-c4aadc020c14daf83875559d0cb2ca42
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/192babbc625818bffbe017e1473042ed.png" group-title="Live Event: socolive",02:30 ngay 10/03 West Ham United vs Brentford [ A BEU] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1773097537-0-0-3b52c8ae3e4f84177734b988106d398c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/192babbc625818bffbe017e1473042ed.png" group-title="Live Event: socolive",02:30 ngay 10/03 West Ham United vs Brentford [ A BEU] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1773097537-0-0-59a320cca3947f9b760589750fdfcf88
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260306/3bfcc3c12cdbd84587fde0185a9f6628.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773097537-0-0-0fb14e202d818299da475ec4f01eb11a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260306/3bfcc3c12cdbd84587fde0185a9f6628.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773097537-0-0-922075e84b6f18f67e094b07ee1a91da
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260306/3bfcc3c12cdbd84587fde0185a9f6628.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773097537-0-0-bc8795e38d687f8cebeecb33d81a2f50
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260306/3bfcc3c12cdbd84587fde0185a9f6628.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773097537-0-0-9565750de0092713e753fc7c2ec722d7
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[FA Cup] 02:30 10/03 West Ham vs Brentford [FHD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[FA Cup] 02:30 10/03 West Ham vs Brentford [HD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[FA Cup] 02:30 10/03 West Ham vs Brentford [SD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/33e9590624cd2e6c0e51622b2cce0650.png" group-title="Live Event: socolive",06:00 ngay 10/03 Universidad de Chile vs Universidad de Concepcion [ A TU] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1773097897-0-0-d83c654cce05b12b1c79b367c9e8e98f
@@ -796,18 +736,6 @@ https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1773097897-0-0-1e62
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/192babbc625818bffbe017e1473042ed.png" group-title="Live Event: socolive",02:30 ngay 10/03 West Ham United vs Brentford [ MESSI] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1773097897-0-0-866ba01f49d30067219c96b8aa84e020
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b81d09e13f2f90a2937fd1ced5ec139.png" group-title="Live Event: socolive",03:15 ngay 10/03 CD Tondela vs Rio Ave [Giang A Tho] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1773097897-0-0-2dc0296ecb47c97b24a5995f66d07825
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b81d09e13f2f90a2937fd1ced5ec139.png" group-title="Live Event: socolive",03:15 ngay 10/03 CD Tondela vs Rio Ave [Giang A Tho] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1773097897-0-0-e13a3ebe671fdcd7c1cc96ecedf95c1e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b81d09e13f2f90a2937fd1ced5ec139.png" group-title="Live Event: socolive",03:15 ngay 10/03 CD Tondela vs Rio Ave [Giang A Tho] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1773097897-0-0-2db6f9c24e929aa32c2f07de06a38743
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b81d09e13f2f90a2937fd1ced5ec139.png" group-title="Live Event: socolive",03:15 ngay 10/03 CD Tondela vs Rio Ave [Giang A Tho] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1773097897-0-0-a12168b4ef877fe24d29bb2625d30f8e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/192babbc625818bffbe017e1473042ed.png" group-title="Live Event: socolive",02:30 ngay 10/03 West Ham United vs Brentford [ VITAMIN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1773097897-0-0-d95b572b72eea7eae2ef0345f4a6f798
@@ -832,21 +760,78 @@ https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1773097897-0-0-c6bb
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [VIT BAC] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1773097897-0-0-7c1e7c7bb96bfcdedd3ddf2414497cce
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png" group-title="Live Event: Hội quán",02:30 10/03 West Ham vs Brentford FHD Gvision TV
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [THE KOP] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png" group-title="Live Event: Hội quán",02:30 10/03 West Ham vs Brentford HD Gvision TV
+https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1773098617-0-0-95e597249f4554792175b7ab5d10a4d7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [THE KOP] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png" group-title="Live Event: Hội quán",02:30 10/03 West Ham vs Brentford SD Gvision TV
+https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1773098617-0-0-f48b475814cbe7f9bbe3364468a0867d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [THE KOP] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d71ebda5c7fbca9093a1c2978c46f619.png!w80" group-title="Live Event: Colalive",02:30 10/03 West Ham vs Brentford Gvision TV
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1773098617-0-0-210e11e9e5b68e7c38bec76c89352602
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [THE KOP] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/97312754.m3u8
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1773098617-0-0-005355ffd3a881cc6124c6ce4bdfadcc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ KAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=bd2e88c9c08774761b658e7d03baccb5&txTime=69af9cc9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ KAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=3d7bdb1ec77b94930dc9a6fff316d092&txTime=69af9cc9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ KAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=bd2e88c9c08774761b658e7d03baccb5&txTime=69af9cc9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ KAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=3d7bdb1ec77b94930dc9a6fff316d092&txTime=69af9cc9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ NIBO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1773098617-0-0-8475b9c70b7576b6bb25cb41dfbe3c09
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ NIBO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1773098617-0-0-cd568096b47d9321a8cc65d0d4106fc4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ NIBO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1773098617-0-0-7baeb0268896ba9b4d1111877f6c72cb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8131e1e53dba13bb826d874540650870.png" group-title="Live Event: socolive",04:00 ngay 10/03 Llaneros FC vs Jaguares de Cordoba [ NIBO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1773098617-0-0-c8934c3694f5acc714092b7bd633a6c1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [ ROBBEN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1773098617-0-0-374cbd5b7cfc26ef2d62dcec86954e9b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [ ROBBEN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1773098617-0-0-583f8cebc6cad6c826da8e045273f783
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [ ROBBEN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1773098617-0-0-25810b0b21fbb8294585bef72e3ce707
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/97ccf405264713401090d393de3df198.png" group-title="Live Event: socolive",05:30 ngay 10/03 Cienciano vs Sport Boys [ ROBBEN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1773098617-0-0-17d62a5e9bb5c2ae0779b218c54e4455
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/192babbc625818bffbe017e1473042ed.png" group-title="Live Event: socolive",02:30 ngay 10/03 West Ham United vs Brentford [ A BEU] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1773098617-0-0-b9b8f2f328d64cc1958d30134602e946
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/192babbc625818bffbe017e1473042ed.png" group-title="Live Event: socolive",02:30 ngay 10/03 West Ham United vs Brentford [ A BEU] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1773098617-0-0-49942f321ffa60234435fdc388f3c086
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/192babbc625818bffbe017e1473042ed.png" group-title="Live Event: socolive",02:30 ngay 10/03 West Ham United vs Brentford [ A BEU] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1773098617-0-0-807898b8c48b4ed2ce4d03fc657b8071
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/192babbc625818bffbe017e1473042ed.png" group-title="Live Event: socolive",02:30 ngay 10/03 West Ham United vs Brentford [ A BEU] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1773098617-0-0-fcf7a7870bd6e68917677080c266dac2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260306/3bfcc3c12cdbd84587fde0185a9f6628.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773098617-0-0-b17cd0a08cbf138f4b705fe9f55b9932
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260306/3bfcc3c12cdbd84587fde0185a9f6628.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773098617-0-0-ed71a0cbdf708e69c158797198b69f27
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260306/3bfcc3c12cdbd84587fde0185a9f6628.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773098617-0-0-943e1a97072cfd997b06cb27825ea149
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260306/3bfcc3c12cdbd84587fde0185a9f6628.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773098617-0-0-84f059041c6ff8cb8f9fd08ea2e190e3
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="live event: fawa",[Colombia Primera A] Llaneros vs Jaguares de Cordoba Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
