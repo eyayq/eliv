@@ -1,5 +1,5 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-09 21:29:59
+# ⏰ Latest Updated: 2026-03-09 21:36:33
 # 🔄 Total Channels: 1609
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
@@ -89,7 +89,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772107094000579_FC_Cup_26_RD5_West-Ham-United-vs-Brentford_landscape_thumb.jpg" group-title="Live Event: Sony LIV",ENG | West Ham United vs Brentford - Round 5 - 10 Mar  (Football) | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1773124205~acl=/*~id=34136562185003840451943464152386~hmac=1d829bf7c128077a874e9858fbf6537f8a8c1ba2cb1af598bdb558dbc0e235e3|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; LXX523; Build/AP3A.240905.015.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bb27063d0243520c65b842e923273c5e-1773090600107
+https://sonymtmnew.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1773124205~acl=/*~id=34136562185003840451943464152386~hmac=1d829bf7c128077a874e9858fbf6537f8a8c1ba2cb1af598bdb558dbc0e235e3|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 23090RA98C; Build/UP1A.231005.007)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2bade6aa489af41d133523f38895cd99-1773091800122
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_140534_c6ee7156.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",20:30   10/03 Bhayangkara FC vs Arema FC HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -860,6 +860,42 @@ https://pull-live7.fastestcdn-global.com/live/f9bc2ba3738241209a0272f416171328/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/32bd0b096157a9684928f2d63a77b2c7/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[FA Cup] 02:30 10/03 West Ham vs Brentford [FHD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[FA Cup] 02:30 10/03 West Ham vs Brentford [HD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[FA Cup] 02:30 10/03 West Ham vs Brentford [SD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Serie A] 02:30 10/03 Lazio vs Sassuolo [FHD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Serie A] 02:30 10/03 Lazio vs Sassuolo [HD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Serie A] 02:30 10/03 Lazio vs Sassuolo [SD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[La Liga] 02:30 10/03 Espanyol vs Oviedo [FHD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[La Liga] 02:30 10/03 Espanyol vs Oviedo [HD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[La Liga] 02:30 10/03 Espanyol vs Oviedo [SD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/46042af2fae1e6079511b892de90a5c2.png" group-title="Live Event: socolive",03:00 ngay 10/03 RCD Espanyol vs Real Oviedo [LOKA] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1773093937-0-0-aa4b0f49cabf61e77b20935cf56151b0
@@ -1481,18 +1517,6 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png" group-title="Live Event: Cadangan",02:30 10/03 West Ham vs Brentford (Hoi Quan) SD
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/130_1j3c1nh1083.png" group-title="Live Event: Cadangan",02:30 Gvision TV 10/03 Almeria vs Cultural Leonesa (Luong Son) BLV VO TONG flv
-https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/130_1j3c1nh1083.png" group-title="Live Event: Cadangan",02:30 Gvision TV 10/03 Almeria vs Cultural Leonesa (Luong Son) BLV VO TONG m3u
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/47605_1gq6k69vzw31.png" group-title="Live Event: Cadangan",02:30 Gvision TV 10/03 NBE SC vs Pyramids FC (Luong Son) BLV DOAN DU flv
-https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/47605_1gq6k69vzw31.png" group-title="Live Event: Cadangan",02:30 Gvision TV 10/03 NBE SC vs Pyramids FC (Luong Son) BLV DOAN DU m3u
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2964_1gq1d0gs0pd.png" group-title="Live Event: Cadangan",02:30 Gvision TV 10/03 Talaea EI-Gaish vs Al Ahly SC (Luong Son) BLV CHUNN flv
-https://flv.cdnok9.com/live/CHUN1.flv?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/2964_1gq1d0gs0pd.png" group-title="Live Event: Cadangan",02:30 Gvision TV 10/03 Talaea EI-Gaish vs Al Ahly SC (Luong Son) BLV CHUNN m3u
-https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
 #EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/0dad10612185a2e8b832eb0b1c5dd35b/image/small?v=1768601124" group-title="Live Event: Cadangan",02:30 Gvision TV 10/03 West Ham United vs Brentford (Khan Dai A) hd_3
 https://pull-live4.fastestcdn-global.com/live/05a02bd61fbe431aa331d95f43dce2be/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/54_164577453830.png" group-title="Live Event: Cadangan",02:30 Gvision TV 10/03 West Ham United vs Brentford (Luong Son) BLV DUONG CHI flv
@@ -1557,12 +1581,6 @@ https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a172
 https://flv.cdnok9.com/live/VUONGLUAN.flv?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/17342_165095615051.png" group-title="Live Event: Cadangan",03:15 Gvision TV 10/03 CD Tondela vs Rio Ave (Luong Son) BLV VUONG LUAN m3u
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[FA Cup] 02:30 10/03 West Ham vs Brentford [FHD]
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[FA Cup] 02:30 10/03 West Ham vs Brentford [HD]
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[FA Cup] 02:30 10/03 West Ham vs Brentford [SD]
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+) (Kadang Offline)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
