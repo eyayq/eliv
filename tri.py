@@ -17,8 +17,8 @@ SLEEP_AFTER_ALL = 180  # 5 menit
 WORKFLOW_GROUPS = [
     ["lve.yml", "lve0.yml"],
     ["lve2.yml", "auto.yml"],
-    ["hh.yml", "jj.yml"],
-    ["kk.yml", "lve1.yml"]
+    ["hh.yml", "kk.yml"],
+    ["jj.yml", "lve1.yml"]
 ]
 
 
