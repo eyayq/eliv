@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Tue Mar 10 20:06:21 2026
+# Generated Tue Mar 10 20:10:52 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 11-03-2026 03:06:05 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 11-03-2026 03:10:38 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Egyptian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png",📁😈El Gounah😈VS😈Al Masry [LIVE]😈📁
 https://bf.jalaplay.net/live/322813.m3u8?txSecret=48ab2130f00c21b7efead6ffedbe047e&txTime=69b074cc
@@ -18,32 +18,32 @@ https://bf.jalaplay.net/live/5005097.m3u8?txSecret=5d30dc7e0ab1859f1dbc0f7093d09
 #EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Atalanta😈VS😈FC Bayern Munich [LIVE]😈📁
 https://bf.jalaplay.net/live/322673.m3u8?txSecret=c884da0c2e4a076dc22c7ae2b8c0ccc1&txTime=69b0717a
 #EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Atalanta😈VS😈FC Bayern Munich [LIVE]😈📁
-https://bf.jalaplay.net/live/5005043.m3u8?txSecret=289f2713775c00ea4dda16e91a2e0503&txTime=69b06ea9
+https://bf.jalaplay.net/live/322580.m3u8?txSecret=a97e9541048f714bd4069273ca90f38e&txTime=69b07330
 #EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Atalanta😈VS😈FC Bayern Munich [LIVE]😈📁
 https://bf.jalaplay.net/live/322713.m3u8?txSecret=c8edab81512c973c2f6748ec889af054&txTime=69b073e6
 #EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Atalanta😈VS😈FC Bayern Munich [LIVE]😈📁
-https://bf.jalaplay.net/live/322580.m3u8?txSecret=a97e9541048f714bd4069273ca90f38e&txTime=69b07330
-#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
-https://bf.jalaplay.net/live/322720.m3u8?txSecret=446f4d4e3c25f9c5b83a971dc18eaeba&txTime=69b0740e
-#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
-https://bf.jalaplay.net/live/5004993.m3u8?txSecret=0c00f69e3674636b91bfec0074bb2ee9&txTime=69b0738a
-#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
-https://bf.jalaplay.net/live/5004470.m3u8?txSecret=d9b12ff5ed33c3bfba4eb4ab420b0aa7&txTime=69b06d73
-#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
-https://bf.jalaplay.net/live/5004447.m3u8?txSecret=2e7a9ea47e78f646140519e1ba7d2128&txTime=69b06dc1
+https://bf.jalaplay.net/live/5005043.m3u8?txSecret=289f2713775c00ea4dda16e91a2e0503&txTime=69b06ea9
 #EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
 https://bf.jalaplay.net/live/5004980.m3u8?txSecret=b5103ff4bc71492a068ea91f3fc418da&txTime=69b06e72
 #EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
-https://bf.jalaplay.net/live/322677.m3u8?txSecret=6a892d6d172c93c3f2704926f8e68c9f&txTime=69b073d0
+https://bf.jalaplay.net/live/5004993.m3u8?txSecret=0c00f69e3674636b91bfec0074bb2ee9&txTime=69b0738a
+#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
+https://bf.jalaplay.net/live/5004994.m3u8?txSecret=40a486bc09874e234f307973a58b471e&txTime=69b07424
+#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
+https://bf.jalaplay.net/live/5004470.m3u8?txSecret=d9b12ff5ed33c3bfba4eb4ab420b0aa7&txTime=69b06d73
 #EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
 https://bf.jalaplay.net/live/5005018.m3u8?txSecret=7aa44f32b86d13a13aacb119e32ec194&txTime=69b06dd3
 #EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
-https://bf.jalaplay.net/live/5004994.m3u8?txSecret=40a486bc09874e234f307973a58b471e&txTime=69b07424
+https://bf.jalaplay.net/live/322720.m3u8?txSecret=446f4d4e3c25f9c5b83a971dc18eaeba&txTime=69b0740e
+#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
+https://bf.jalaplay.net/live/5004447.m3u8?txSecret=2e7a9ea47e78f646140519e1ba7d2128&txTime=69b06dc1
+#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Newcastle United😈VS😈FC Barcelona [LIVE]😈📁
+https://bf.jalaplay.net/live/322677.m3u8?txSecret=6a892d6d172c93c3f2704926f8e68c9f&txTime=69b073d0
+#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Atletico Madrid😈VS😈Tottenham Hotspur [LIVE]😈📁
+https://bf.jalaplay.net/live/5005010.m3u8?txSecret=017b6af8329b5b6435ee1d0e5f4731bd&txTime=69b073a1
 #EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Atletico Madrid😈VS😈Tottenham Hotspur [LIVE]😈📁
 https://bf.jalaplay.net/live/5005009.m3u8?txSecret=831d293718c2b957a0a1d2782ab49371&txTime=69b078bb
 #EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Atletico Madrid😈VS😈Tottenham Hotspur [LIVE]😈📁
 https://bf.jalaplay.net/live/322801.m3u8?txSecret=c3b27f50cffe824eac85f7102529c788&txTime=69b07171
 #EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Atletico Madrid😈VS😈Tottenham Hotspur [LIVE]😈📁
 https://bf.jalaplay.net/live/5004475.m3u8?txSecret=6a2db8da7bda0399c5f578fc01a26474&txTime=69b07134
-#EXTINF:-1 group-title="📁😈 UEFA Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ac05535bde17129cb598311242b3afba.png",📁😈Atletico Madrid😈VS😈Tottenham Hotspur [LIVE]😈📁
-https://bf.jalaplay.net/live/5005010.m3u8?txSecret=017b6af8329b5b6435ee1d0e5f4731bd&txTime=69b073a1
