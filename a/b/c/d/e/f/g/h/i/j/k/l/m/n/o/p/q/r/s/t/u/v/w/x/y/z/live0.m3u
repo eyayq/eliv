@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-10 13:26:35
-# 🔄 Total Channels: 1536
+# ⏰ Latest Updated: 2026-03-10 13:30:30
+# 🔄 Total Channels: 1534
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -46,24 +46,15 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/Kc6R4Dv.png" group-title="LIVE EVENT: MANUAL",17:00 WIB - 10 MARET 2026 Incheon Heungkuk W vs IBK W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260310022F237
-https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/evdfvobmdkifn0to4anibehni4mvdb1vlalj/playlist.m3u8?hdnts=st=1773136365~exp=1773168775~acl=*/evdfvobmdkifn0to4anibehni4mvdb1vlalj/*~hmac=026cbfc55481ea1435767d90500e03bc1d25431460264fc454cb2667fba2a3db
-#EXTINF:-1 tvg-logo="https://iili.io/Kc6R4Dv.png" group-title="LIVE EVENT: MANUAL",17:00 WIB - 10 MARET 2026 hyeondaekaepital vs urikadeu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://m.sports.naver.com
-#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260310022M236
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/6cm9kaf9vrelnaun4ehrsdb2vbfsoi4lf2tq/playlist.m3u8?hdnts=st=1773136390~exp=1773168800~acl=*/6cm9kaf9vrelnaun4ehrsdb2vbfsoi4lf2tq/*~hmac=bf1bb961b4c96f85106c99480b95aea09be4bb14977059aba9f8ba24b8bda07a
 #EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT: MANUAL",20:30 WIB - 10 MARET 2026 Bhayangkara vs Arema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel18.m3u8?wsSecret=c02150b13b4029cc7749f5690c01fbd9&wsABSTime=1762364734
-#EXTINF:-1 tvg-logo="https://shorter.me/FNR-a" group-title="LIVE EVENT: MANUAL",17:00 WIB - 10 MARET 2026 Machida Zelvia vs Gangwon
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT: MANUAL",20:30 WIB - 10 MARET 2026 Bhayangkara vs Arema
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
-https://live1.pro2cdnlive.com/live/channel6.m3u8?wsSecret=032bfb6da9975ab4d3cc777e56263649&wsABSTime=1766943321
+http://195.178.110.37/hls/LJJJQQQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/FNR-a" group-title="LIVE EVENT: MANUAL",19:15 WIB - 10 MARET 2026 Buriram United vs Melbourne City
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
@@ -592,54 +583,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LAO LAM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1773151537-0-0-978092bdbde882e247c99560947f1890
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LAO LAM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1773151537-0-0-a97b09604cfc3a167078025175796b11
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LAO LAM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1773151537-0-0-86b9a3e8ca971609559857c390b482b1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LAO LAM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1773151537-0-0-8f8f78a056265a3bd02b31c3e0f33bc8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [ ROSI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773151537-0-0-e7083023ccb6e2505c40329f458d00e1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [ ROSI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773151537-0-0-618d277502bc864347a6da826d7ce285
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [ ROSI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773151537-0-0-62fbaa267ddd87ed95cdd5e4cc959a72
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [ ROSI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773151537-0-0-51fec9410fa1455a69c7c68767091179
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [  TYPN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1773151537-0-0-cbcd359fe00c4322b2282b63a32c0d85
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [  TYPN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1773151537-0-0-2d1050cf3bdda7b1de251ecacb7dd8ec
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [  TYPN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1773151537-0-0-c239e5e8e7745bf70ae47ec5c7ae35e5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [  TYPN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1773151537-0-0-d4c85137f0806deedbde2aba73c19216
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LOKA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1773151537-0-0-aa4bbaf4390ac13f2de243f826776179
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LOKA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1773151537-0-0-fcd3b235595f025fa04e086af3cbd4d9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LOKA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1773151537-0-0-0c1e046dc36aaeae3fce267096134fee
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LOKA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1773151537-0-0-d60d60a4a4075c79d3d1f8b5533be9c6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [ ENZO] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1773151897-0-0-03d99a64a5e9c01a4fcdd9695e4e8d7b
@@ -664,6 +607,54 @@ https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=a662ed731902eb383c4b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [ BEO] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=2a00ebf93244a4c648a5fd09631f5dc4&txTime=69b06ce9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LOKA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1773152618-0-0-7a63923f469dc60b632b65db18dafa2c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LOKA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1773152618-0-0-03d84e278c6d894283161af08c7f86eb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LOKA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1773152618-0-0-74d222a5286990dbf24a82c94d8f1e86
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LOKA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1773152618-0-0-70f83f05265309bddf42461c24e51876
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [ ROSI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773152617-0-0-6d2ec2d432cac733f79cba58b2e4e917
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [ ROSI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773152617-0-0-6d252e15e51b8b6ae92e243514bc9a48
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [ ROSI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773152617-0-0-ee68369831bd4eb84591c72bc514bab8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [ ROSI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773152617-0-0-1ab05f6cca7ce9c0424c1a120221f850
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LAO LAM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1773152617-0-0-d8a71a055be2373b3c7bd817b40c9ceb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LAO LAM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1773152617-0-0-8d495b8fb040daed21d16000306c1166
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LAO LAM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1773152617-0-0-c28e7b42d0e37838293a91715119b7c0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [LAO LAM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1773152617-0-0-9d6983b3b4ae5ab06ca8be263ecee66c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [  TYPN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1773152617-0-0-16a69b2d0b8df84e5b6aaa04f71220bf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [  TYPN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1773152617-0-0-5268831b1621362892abd690e9dd224f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [  TYPN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1773152617-0-0-bbb5d6e17b7276a96b19eb294ce0f5dc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/532e54b61dc2bb2c63fe21e42d134477.png" group-title="Live Event: socolive",20:30 ngay 10/03 Bhayangkara FC vs Arema FC [  TYPN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1773152617-0-0-c340a4fc2733a7e3efd54efb5c96a521
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Bhayangkara_FC_logo.svg/960px-Bhayangkara_FC_logo.svg.png" group-title="Live Event: Hội quán",20:30 10/03 Bhayangkara FC vs Arema FC FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -676,138 +667,6 @@ https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [RICKHANTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=6f415b735a83988e5562997f8af77ed5&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [RICKHANTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=bf07ca69060acff615d6aefd17c39431&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [RICKHANTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=6f415b735a83988e5562997f8af77ed5&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [RICKHANTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=bf07ca69060acff615d6aefd17c39431&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [ RAMBO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=3309ce1d13eb9d18bff8ad4551d6bc71&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [ RAMBO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=2bb2c2e81f3bde38545211329fea4703&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [ RAMBO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=3309ce1d13eb9d18bff8ad4551d6bc71&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [ RAMBO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=2bb2c2e81f3bde38545211329fea4703&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ KEM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1773151537-0-0-13f241203f377c04491b71c450bba31c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ KEM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1773151537-0-0-879e8d344776d4259d188f9a2095105d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ KEM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1773151537-0-0-d56e0abbfaddf1ebeae8abb9c42159d7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ KEM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1773151537-0-0-4807ca7cd051e283ffee56becf8f7c18
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [MR BICH] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1773151537-0-0-403a055c460d7df723b0331a4685e301
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [MR BICH] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1773151537-0-0-adb7b3098396b50887aed8833fa048d9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [MR BICH] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1773151537-0-0-bb0597a13760b2a169b22309693d0a41
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [MR BICH] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1773151537-0-0-0fba8d8c9cde0ab822c63471da5b546e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [VUONG ANH] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=f1513fade5d2a5176f83c0ba14726b67&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [VUONG ANH] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=a6cd0cdf1e4f53891a41041d593bceee&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [VUONG ANH] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=f1513fade5d2a5176f83c0ba14726b67&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [VUONG ANH] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a6cd0cdf1e4f53891a41041d593bceee&txTime=69b06b81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TOMMY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1773151537-0-0-05697c23948292a9a235114a7c23e5d6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TOMMY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1773151537-0-0-3ff1698d4f889a5cab172a9188942d20
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TOMMY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1773151537-0-0-b9d0bc10bbf271ddb49c0ba2fd16b853
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TOMMY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1773151537-0-0-3723859bcf49bd3b40281d8120bb1229
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TAP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1773151537-0-0-e28c685cc8343d94b68f5692723ce2cb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TAP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1773151537-0-0-0522820a7e65dabeb26c74c425ef3740
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TAP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1773151537-0-0-a1b85c2e435623726ab8fef8582d805d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TAP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1773151537-0-0-c21dcfe22585506a227574f9ce418f76
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ CO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1773151537-0-0-732b6da5fd4e5ae63c789cfa13d59a37
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ CO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1773151537-0-0-6457703b8a1bbbdab8e96cb77f10868a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ CO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1773151537-0-0-04c3783d1bafcee6b1d56641400a4f1c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ CO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1773151537-0-0-8fa01dc02f7e1eb38b2f673251694115
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ COZY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773151537-0-0-eaceaa1e917ece9ed7f2478f71b67706
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ COZY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773151537-0-0-c0cc1dafbed1a626efd778e13b28d244
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ COZY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773151537-0-0-a13c41ddbd4d375a9b31464b7eba851c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ COZY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773151537-0-0-ba6f6ccd0aa6aa45959cb87d9aa349d0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ A WIN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1773151537-0-0-b5d2e5c7358e35de03d33ce807eebc3a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ A WIN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1773151537-0-0-c398b63af9cf74dddfe6f0ad2b34e232
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ A WIN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1773151537-0-0-12394fe61b299133dc904b1051ee9823
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ A WIN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1773151537-0-0-0f23c47b4ccfde81ce3615a735710efd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/cc5f3df99a210b3012240147a2db5c8f.png" group-title="Live Event: socolive",21:00 ngay 10/03 Neftchi Fergana vs FK Andijon [GOAT] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1773151537-0-0-6682b096f02b273fb2d50e9f9ab1452d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/cc5f3df99a210b3012240147a2db5c8f.png" group-title="Live Event: socolive",21:00 ngay 10/03 Neftchi Fergana vs FK Andijon [GOAT] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1773151537-0-0-6fd65a139457d34e59dd79032a9abc64
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/cc5f3df99a210b3012240147a2db5c8f.png" group-title="Live Event: socolive",21:00 ngay 10/03 Neftchi Fergana vs FK Andijon [GOAT] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1773151537-0-0-6655befed563fe55d3d9853b4e10e298
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/cc5f3df99a210b3012240147a2db5c8f.png" group-title="Live Event: socolive",21:00 ngay 10/03 Neftchi Fergana vs FK Andijon [GOAT] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1773151537-0-0-4fc1703e66628a791ad7fc8ac2862719
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ZIDANE] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1773151897-0-0-e85f7742078226fa9e6d7dae3d24282c
@@ -844,6 +703,138 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773151897-0-0-3b6c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260306/3bfcc3c12cdbd84587fde0185a9f6628.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773151897-0-0-f294db1a7e50db104197bd7582c4b743
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TAP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1773152617-0-0-55e7bd06607f1ff9ba47e9675920ffc6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TAP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1773152617-0-0-0c5955751f71726b91ef5624dd436f1f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TAP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1773152617-0-0-43c293f91c1c5076ee2382c2626fc99c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TAP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1773152617-0-0-4989f0de353cc6b43bf7beb6e7b2b85f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ CO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1773152617-0-0-765ae71ebfb32f9dab866ae45648fbaf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ CO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1773152617-0-0-c7249f5de4b25994be34c53c79958102
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ CO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1773152617-0-0-f8aef96cc0f59d6bcfce83cba8d20ddf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ CO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1773152617-0-0-9caaed3bd43f4c9edb5bef0e7c955593
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TOMMY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1773152617-0-0-3e1d43d6d077c2ed37f2f79384258123
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TOMMY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1773152617-0-0-94c4584f46b52f86f0f5a936302f40d9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TOMMY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1773152617-0-0-f47f80a610ea07abfdd54d3503ff12ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ TOMMY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1773152617-0-0-73a63b525b578b1e9b1e43e78967e7a1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [RICKHANTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=a7fac12af05fbc3ddfa3c06caa7e1e26&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [RICKHANTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=c58891dfb0f2d27de3da7ee57cfdca9c&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [RICKHANTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=a7fac12af05fbc3ddfa3c06caa7e1e26&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [RICKHANTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=c58891dfb0f2d27de3da7ee57cfdca9c&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ KEM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1773152617-0-0-181111c82c7d7ae265b49265a6da1f5d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ KEM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1773152617-0-0-7bb1e066d6f288f9ad2cdd4e9a0bad26
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ KEM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1773152617-0-0-142a1d5b332d4fc87c6229be23509a3a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [ KEM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1773152617-0-0-cb4d750c7f6887625109bb4422eea474
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [VUONG ANH] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=3276603e1d3261c973e7ced941ce4f7d&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [VUONG ANH] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=5ba4a340def17a7a25e2669d323671c3&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [VUONG ANH] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=3276603e1d3261c973e7ced941ce4f7d&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/8b872ce9bbf0e946fa5b0fdef4a9da78.png" group-title="Live Event: socolive",19:15 ngay 10/03 Buriram United vs Melbourne City [VUONG ANH] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=5ba4a340def17a7a25e2669d323671c3&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ COZY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773152617-0-0-59a36593cf92c5f0b64d1af65cc6397b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ COZY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773152617-0-0-ed3adb4f67be71938b395aa1451b98ec
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ COZY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773152617-0-0-53cfabf0f5bd97cc578aa7b73f763dd8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ COZY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773152617-0-0-7d7e7c2ae4d7cdc7e630b5e8621b266a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [ RAMBO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=1e27812bc1599d62f61ee19babc15ab9&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [ RAMBO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=3ba6741e62ff85a02d8f709019fec1c4&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [ RAMBO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=1e27812bc1599d62f61ee19babc15ab9&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [ RAMBO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=3ba6741e62ff85a02d8f709019fec1c4&txTime=69b06fb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [MR BICH] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1773152617-0-0-e3176ad5ea1b83c70f2a130b57baa0c3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [MR BICH] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1773152617-0-0-d89f54124ef02de90be33f69fc57a693
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [MR BICH] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1773152617-0-0-d093b37c4674d317c8b77b65a2db6166
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/99d2cf107719c125d4bb0fa860f4b0c5.png" group-title="Live Event: socolive",19:00 ngay 10/03 Santa Clara U23 vs Braga U23 [MR BICH] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1773152617-0-0-962581303fcb99acb3915187e1e5bfbe
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ A WIN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1773152617-0-0-883efda825ee84f32fa0cbe2dc9e1a2e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ A WIN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1773152617-0-0-5cb4e90a94db6108dbd525e0d1afa6fd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ A WIN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1773152617-0-0-f3683d2ed2e7e5e6378a688f390bb5e4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/b3f2533a6b3bcdb3b480884cdf665a34.png" group-title="Live Event: socolive",20:00 ngay 10/03 Serik Belediyespor vs Pendikspor [ A WIN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1773152617-0-0-76a09b9afced2101ba2928d0a6f97f38
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/cc5f3df99a210b3012240147a2db5c8f.png" group-title="Live Event: socolive",21:00 ngay 10/03 Neftchi Fergana vs FK Andijon [GOAT] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1773152618-0-0-20de331d74c7e9e7a7f0ba7a27a8a1e0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/cc5f3df99a210b3012240147a2db5c8f.png" group-title="Live Event: socolive",21:00 ngay 10/03 Neftchi Fergana vs FK Andijon [GOAT] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1773152618-0-0-9583964bbea09087d97ee3b5c56786a0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/cc5f3df99a210b3012240147a2db5c8f.png" group-title="Live Event: socolive",21:00 ngay 10/03 Neftchi Fergana vs FK Andijon [GOAT] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1773152618-0-0-298ebee28827b82d3f2c99cc4dc3c73d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/cc5f3df99a210b3012240147a2db5c8f.png" group-title="Live Event: socolive",21:00 ngay 10/03 Neftchi Fergana vs FK Andijon [GOAT] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1773152618-0-0-e36aab5cab47f36bbccbf174fff3a7bd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Buriram_United_logo.svg/250px-Buriram_United_logo.svg.png" group-title="Live Event: Hội quán",19:15 10/03 Buriram United vs Melbourne City FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
