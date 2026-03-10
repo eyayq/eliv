@@ -2,20 +2,18 @@ name: Lviptf
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
   workflow_dispatch:
   push:
     branches:
       - main
-
-# tidak membatalkan runner lain
-concurrency:
-  group: playlist
-  cancel-in-progress: false
+    paths:
+      - 'ii.py'
+      - '.github/workflows/ii.yml'
 
 jobs:
-  run:
-    runs-on: ubuntu-24.04
+  merge-and-commit:
+    runs-on: ubuntu-22.04
 
     permissions:
       contents: write
