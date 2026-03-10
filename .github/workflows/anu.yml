@@ -1,4 +1,4 @@
-name: Runner
+name: Runtri
 
 on:
   workflow_dispatch:
@@ -23,8 +23,8 @@ jobs:
 
       - run: pip install requests
 
-      - name: Run Trigger Script
+      - name: Run Tri Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python trigger.py
+        run: python tri.py
