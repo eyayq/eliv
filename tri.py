@@ -18,7 +18,7 @@ WORKFLOW_GROUPS = [
     ["lve.yml", "lve0.yml"],
     ["lve2.yml", "auto.yml"],
     ["hh.yml", "jj.yml"],
-    ["lve1.yml"]
+    ["kk.yml", "lve1.yml"]
 ]
 
 
