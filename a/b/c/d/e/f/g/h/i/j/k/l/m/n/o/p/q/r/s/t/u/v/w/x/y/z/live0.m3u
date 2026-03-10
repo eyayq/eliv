@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-10 11:04:02
-# 🔄 Total Channels: 1701
+# ⏰ Latest Updated: 2026-03-10 11:08:10
+# 🔄 Total Channels: 1696
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -1140,18 +1140,6 @@ https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1773143617-0-0-8c7b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/6771fc917c9d2e0171205d7b4f3946de.png" group-title="Live Event: socolive",18:00 ngay 10/03 Leixoes U23 vs Famalicao U23 [A PAO] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1773143617-0-0-eb7fa3d6811da851138b12fceecdb7d6
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1720.png" group-title="Live Event: Hội quán",16:00 10/03 Japan W vs Vietnam W FHD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1720.png" group-title="Live Event: Hội quán",16:00 10/03 Japan W vs Vietnam W HD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1720.png" group-title="Live Event: Hội quán",16:00 10/03 Japan W vs Vietnam W SD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Machida_Zelvia_logo.svg/250px-FC_Machida_Zelvia_logo.svg.png" group-title="Live Event: Hội quán",17:00 10/03 Machida Zelvia vs Gangwon FC FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1167,12 +1155,6 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="Live Event: Colalive",17:00 10/03 Machida vs Gangwon Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7183145a2a3e0ce2b68cd3735186b1d5.png!w80" group-title="Live Event: Colalive",16:00 10/03 An Do Nu vs Dai Loan TQ Nu Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d1bba4fe3e0e715cf55d89f74aa65bd2.png!w80" group-title="Live Event: Colalive",16:00 10/03 Yadanarbon vs Yangon Utd Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="Live Event: Colalive",17:00 10/03 KCC Egis vs Mobis Phoebus Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/82054853.m3u8
