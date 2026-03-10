@@ -23,9 +23,9 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Create Python Script From Secret
+      - name: Create Python Script From Base64 Secret
         run: |
-          echo "${{ secrets.HH_PY }}" > hh.py
+          echo "${{ secrets.HH_PY }}" | base64 -d > hh.py
 
       - name: Run Script
         run: python hh.py
