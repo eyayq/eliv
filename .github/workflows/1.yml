@@ -25,10 +25,10 @@ jobs:
 
       - name: Create Python Script From Secret
         run: |
-          echo "${{ secrets.HH_PY }}" > 1.py
+          echo "${{ secrets.HH_PY }}" > hh.py
 
       - name: Run Script
-        run: python 1.py
+        run: python hh.py
 
       - name: Commit Playlist
         env:
