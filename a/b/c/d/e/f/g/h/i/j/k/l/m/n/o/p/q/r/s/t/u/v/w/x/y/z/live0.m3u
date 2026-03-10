@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-10 09:55:27
-# 🔄 Total Channels: 1536
+# ⏰ Latest Updated: 2026-03-10 09:59:42
+# 🔄 Total Channels: 1554
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -46,6 +46,16 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Kc6R4Dv.png" group-title="LIVE EVENT: MANUAL",17:00 WIB - 10 MARET 2026 Incheon Heungkuk W vs IBK W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://m.sports.naver.com
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260310022F237
+https://livecloud.pstatic.net/sports/lip2_kr/cnmssgpu0001/evdfvobmdkifn0to4anibehni4mvdb1vlalj/playlist.m3u8?hdnts=st=1773136365~exp=1773168775~acl=*/evdfvobmdkifn0to4anibehni4mvdb1vlalj/*~hmac=026cbfc55481ea1435767d90500e03bc1d25431460264fc454cb2667fba2a3db
+#EXTINF:-1 tvg-logo="https://iili.io/Kc6R4Dv.png" group-title="LIVE EVENT: MANUAL",17:00 WIB - 10 MARET 2026 hyeondaekaepital vs urikadeu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://m.sports.naver.com
+#EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260310022M236
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0001/6cm9kaf9vrelnaun4ehrsdb2vbfsoi4lf2tq/playlist.m3u8?hdnts=st=1773136390~exp=1773168800~acl=*/6cm9kaf9vrelnaun4ehrsdb2vbfsoi4lf2tq/*~hmac=bf1bb961b4c96f85106c99480b95aea09be4bb14977059aba9f8ba24b8bda07a
 #EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT: MANUAL",20:30 WIB - 10 MARET 2026 Bhayangkara vs Arema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
@@ -206,34 +216,6 @@ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bb
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F10757_1hrk209e5m1k.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:00   10/03 Yadanabon FC vs YANGON UNITED  QUAN VU flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F556b9a1ca67613234cb4340c1f68c12e%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   10/03 Incheon Heungkuk Pink Spiders Women vs IBK Women hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/0993430ac3cd4d9780d8eb194570df3b/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F556b9a1ca67613234cb4340c1f68c12e%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   10/03 Incheon Heungkuk Pink Spiders Women vs IBK Women hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/0993430ac3cd4d9780d8eb194570df3b/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F556b9a1ca67613234cb4340c1f68c12e%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   10/03 Incheon Heungkuk Pink Spiders Women vs IBK Women hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/0993430ac3cd4d9780d8eb194570df3b/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd90a6eb7272ccb472f951d985c78f67d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   10/03 Hebei Snow Ruyi  Women vs Shandong Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/eb7b74983f38e001ca9e43d468b66b65/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb86f8470d9a01302b73883cdac7b9aab%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:45   10/03 Brothers Union vs PWD Sports Club Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/98d0f4ad537821276bf4c4a08e7d13e0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9c24889e35d64bb057e262edaac04673%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:45   10/03 Rahmatgonj MFS vs Abahani Limited Dhaka Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9e841688c486434b5eac798f94123bc0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc64f3712a71fd562d8b3d3922f355008%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",16:00   10/03 India Women vs Chinese Taipei Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1d8d71dc254ab02b94c7debe944dedff/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   10/03 Machida Zelvia vs Gangwon Football Club Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -270,6 +252,34 @@ https://pull-live3.fastestcdn-global.com/live/56a04b9c09a34a3abc35c295f140577e/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://pull-live4.fastestcdn-global.com/live/56a04b9c09a34a3abc35c295f140577e/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F556b9a1ca67613234cb4340c1f68c12e%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   10/03 Incheon Heungkuk Pink Spiders Women vs IBK Women hd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/0993430ac3cd4d9780d8eb194570df3b/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F556b9a1ca67613234cb4340c1f68c12e%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   10/03 Incheon Heungkuk Pink Spiders Women vs IBK Women hd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/0993430ac3cd4d9780d8eb194570df3b/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F556b9a1ca67613234cb4340c1f68c12e%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   10/03 Incheon Heungkuk Pink Spiders Women vs IBK Women hd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/0993430ac3cd4d9780d8eb194570df3b/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd90a6eb7272ccb472f951d985c78f67d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   10/03 Hebei Snow Ruyi  Women vs Shandong Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/eb7b74983f38e001ca9e43d468b66b65/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb86f8470d9a01302b73883cdac7b9aab%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:45   10/03 Brothers Union vs PWD Sports Club Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/98d0f4ad537821276bf4c4a08e7d13e0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9c24889e35d64bb057e262edaac04673%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:45   10/03 Rahmatgonj MFS vs Abahani Limited Dhaka Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9e841688c486434b5eac798f94123bc0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc64f3712a71fd562d8b3d3922f355008%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",16:00   10/03 India Women vs Chinese Taipei Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1d8d71dc254ab02b94c7debe944dedff/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_125740_f3494b8b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",16:00   10/03 Yadanarbon vs Yangon United HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -530,50 +540,6 @@ https://stream.chuoichien.tv/chuoichon/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoichon.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd90a6eb7272ccb472f951d985c78f67d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:00   10/03 Hebei Snow Ruyi  Women vs Shandong Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/eb7b74983f38e001ca9e43d468b66b65/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQRlYWUhl-E1YhvyqD.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:00   10/03 Japan Women vs Vietnam Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d46d48f76b691acabd1183c309da87a3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb86f8470d9a01302b73883cdac7b9aab%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:45   10/03 Brothers Union vs PWD Sports Club Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/98d0f4ad537821276bf4c4a08e7d13e0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/951da1731ab30304f1b1d906903002dc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club sd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club sd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club sd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9c24889e35d64bb057e262edaac04673%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:45   10/03 Rahmatgonj MFS vs Abahani Limited Dhaka Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9e841688c486434b5eac798f94123bc0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQRlYWUhl-E1YhvyqD.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:00   10/03 Japan Women vs Vietnam Women sd_1 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -630,90 +596,98 @@ https://pull-live7.fastestcdn-global.com/live/6c61f87e20ec4c3cb5de8d1998962163/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://pull-live7.fastestcdn-global.com/live/6c61f87e20ec4c3cb5de8d1998962163/index.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/2c5bad6dafbd9e39c7ca121f6e1e2032.png" group-title="Live Event: socolive",16:00 ngay 10/03 India Women vs Chinese Taipei Women [ A BEU] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1773138937-0-0-6e84b49b2f438d81b0952611dd225827
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/2c5bad6dafbd9e39c7ca121f6e1e2032.png" group-title="Live Event: socolive",16:00 ngay 10/03 India Women vs Chinese Taipei Women [ A BEU] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1773138937-0-0-225ad64b12dafa99103ae38b451f6599
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/2c5bad6dafbd9e39c7ca121f6e1e2032.png" group-title="Live Event: socolive",16:00 ngay 10/03 India Women vs Chinese Taipei Women [ A BEU] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1773138937-0-0-8273470074a9b47382d065ec924e0c70
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/2c5bad6dafbd9e39c7ca121f6e1e2032.png" group-title="Live Event: socolive",16:00 ngay 10/03 India Women vs Chinese Taipei Women [ A BEU] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1773138937-0-0-f7e9ac6f5dd143cc9351b2405e5052bc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [CR Buoi] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1773138937-0-0-4320508a98e7c04ebc28265142bd281f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [CR Buoi] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1773138937-0-0-89445b4d211538a5dd7eff9aa51894a7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [CR Buoi] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1773138937-0-0-0d8231130bd1edfc139447eaa60870fb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [CR Buoi] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1773138937-0-0-3c7cc3299387b59dd268d2b8fb6c8d5f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [TA BIEN GIOI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773138937-0-0-dc7699cfc48dcca6e59342a30a6d3428
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [TA BIEN GIOI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773138937-0-0-2c763484d165d478189f4a3ac008c46a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [TA BIEN GIOI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773138937-0-0-c4f8a2cc8c156d82209269e61d812a13
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [TA BIEN GIOI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773138937-0-0-d649755f1505476822a31cc84df7b4f9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [ DOM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1773138937-0-0-c3f6c9e76e54bbbcc12a6b2eea443b4c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [ DOM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1773138937-0-0-0741b6b083e9237817e4de13cc7ca944
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [ DOM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1773138937-0-0-27c2fab52a0ffcdc26f2495bc4516fd0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [ DOM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1773138937-0-0-be98f1c6114b02f793ee0534ce68637a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ XO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1773138937-0-0-9a7f48ce0c7548729dc7da196c361524
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ XO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1773138937-0-0-f51ed49b4fa6c0d8b5aa9a278e09dce9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ XO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1773138937-0-0-8a1bf3ddf9fb93cbd5c8cc56db4a6858
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ XO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1773138937-0-0-f4c83fb5b8ea0957ccd98520486dffa9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/d9921be2742c2597026673c29e48e888.png" group-title="Live Event: socolive",16:00 ngay 10/03 Yadanarbon FC vs Yangon United [ NIBO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1773138937-0-0-c21eb3c74a75640cbb27c75ea858bc38
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/d9921be2742c2597026673c29e48e888.png" group-title="Live Event: socolive",16:00 ngay 10/03 Yadanarbon FC vs Yangon United [ NIBO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1773138937-0-0-d1c868f5911dd743ea4213dd6286cd9d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/d9921be2742c2597026673c29e48e888.png" group-title="Live Event: socolive",16:00 ngay 10/03 Yadanarbon FC vs Yangon United [ NIBO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1773138937-0-0-8bde13591b0db313e71774ad2551130d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/d9921be2742c2597026673c29e48e888.png" group-title="Live Event: socolive",16:00 ngay 10/03 Yadanarbon FC vs Yangon United [ NIBO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1773138937-0-0-a9fa513f3c87c1697c6a0e7a6ea8184f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260308/f300d1fdf9311d50a4002920edccdb96.png" group-title="Live Event: socolive",17:00 ngay 10/03 KCC Egis vs Mobis Phoebus [KING] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=39121071b4026716c4f7c79af3124e3a&txTime=69b03a49
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260308/f300d1fdf9311d50a4002920edccdb96.png" group-title="Live Event: socolive",17:00 ngay 10/03 KCC Egis vs Mobis Phoebus [KING] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=9d1620a391ea5b5fd2fc4362b8406f09&txTime=69b03a49
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260308/f300d1fdf9311d50a4002920edccdb96.png" group-title="Live Event: socolive",17:00 ngay 10/03 KCC Egis vs Mobis Phoebus [KING] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=39121071b4026716c4f7c79af3124e3a&txTime=69b03a49
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260308/f300d1fdf9311d50a4002920edccdb96.png" group-title="Live Event: socolive",17:00 ngay 10/03 KCC Egis vs Mobis Phoebus [KING] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=9d1620a391ea5b5fd2fc4362b8406f09&txTime=69b03a49
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd90a6eb7272ccb472f951d985c78f67d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:00   10/03 Hebei Snow Ruyi  Women vs Shandong Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/eb7b74983f38e001ca9e43d468b66b65/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FQRlYWUhl-E1YhvyqD.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:00   10/03 Japan Women vs Vietnam Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d46d48f76b691acabd1183c309da87a3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb86f8470d9a01302b73883cdac7b9aab%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:45   10/03 Brothers Union vs PWD Sports Club Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/98d0f4ad537821276bf4c4a08e7d13e0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/951da1731ab30304f1b1d906903002dc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club sd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club hd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club sd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club hd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club sd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F39dc0c5c8baad7baa02af0c773e9d2e0%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   10/03 Machida Zelvia vs Gangwon Football Club hd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/cfb1401a57e542c2a1ffec266abfc175/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9c24889e35d64bb057e262edaac04673%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:45   10/03 Rahmatgonj MFS vs Abahani Limited Dhaka Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9e841688c486434b5eac798f94123bc0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Volleyball League Women] 17:00 10/03 Hungkuk W vs IBK W [FHD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Volleyball League Women] 17:00 10/03 Hungkuk W vs IBK W [HD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Volleyball League Women] 17:00 10/03 Hungkuk W vs IBK W [SD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Asian Cup Women] 17:00 10/03 Japan W vs Vietnam W [FHD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Asian Cup Women] 17:00 10/03 Japan W vs Vietnam W [HD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Asian Cup Women] 17:00 10/03 Japan W vs Vietnam W [SD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Asian Cup Women] 17:00 10/03 Japan W vs Vietnam W [FHD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Asian Cup Women] 17:00 10/03 Japan W vs Vietnam W [HD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Asian Cup Women] 17:00 10/03 Japan W vs Vietnam W [SD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[AFC Champions League] 17:00 10/03 Machida Zelvia vs Gangwon FC [FHD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[AFC Champions League] 17:00 10/03 Machida Zelvia vs Gangwon FC [HD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[AFC Champions League] 17:00 10/03 Machida Zelvia vs Gangwon FC [SD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [RICKHANTER] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=814470639b8fbfc094dfb5c3cdd187e6&txTime=69b03bb1
@@ -954,6 +928,102 @@ https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1773139657-0-0-984d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260306/3bfcc3c12cdbd84587fde0185a9f6628.png" group-title="Live Event: socolive",ACL Elite - Machida Zelvia vs Gangwon FC [Casting] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1773139657-0-0-a9e9ccb5bcd827aaa4b0574ed314a1df
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [TA BIEN GIOI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773140017-0-0-c124059d2e1a37c8c20077bc9c8b31aa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [TA BIEN GIOI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773140017-0-0-b7905213f688f6601edbb205ee37310f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [TA BIEN GIOI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773140017-0-0-dd79254c232113f53e6e882241385834
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [TA BIEN GIOI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773140017-0-0-0724e33cc70185de33987983351de646
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [ DOM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1773140017-0-0-8fd5fed9da466f6c5ff94b7edd364dbd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [ DOM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1773140017-0-0-c3c5087a3a660f9b90c764a220c894d9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [ DOM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1773140017-0-0-59fde598244a90a9746c8ef991d29c95
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/268c119231dbfbd8fb07ff40bf12f7fe.png" group-title="Live Event: socolive",16:00 ngay 10/03 Japan Women vs Vietnam Women [ DOM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1773140017-0-0-16d1f0dbc737538c3969abc0a844cfd0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [CR Buoi] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1773140017-0-0-a8c304f8f41c74b05f90116744657e72
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [CR Buoi] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1773140017-0-0-e5ebc9bfa632afda9b9a863f5724fbf5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [CR Buoi] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1773140017-0-0-925eeee9db7f4275ebf23254d3481cc6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [CR Buoi] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1773140017-0-0-1e9df77cab03b25b3f73ceede992300e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/2c5bad6dafbd9e39c7ca121f6e1e2032.png" group-title="Live Event: socolive",16:00 ngay 10/03 India Women vs Chinese Taipei Women [ A BEU] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1773140017-0-0-21ea7aef9792feef902319ca106e5502
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/2c5bad6dafbd9e39c7ca121f6e1e2032.png" group-title="Live Event: socolive",16:00 ngay 10/03 India Women vs Chinese Taipei Women [ A BEU] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1773140017-0-0-c7fe96d7fb1a033c4a4638ef6a5502c4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/2c5bad6dafbd9e39c7ca121f6e1e2032.png" group-title="Live Event: socolive",16:00 ngay 10/03 India Women vs Chinese Taipei Women [ A BEU] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1773140017-0-0-d7b988dd1be1194bd489ef414e859a43
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/2c5bad6dafbd9e39c7ca121f6e1e2032.png" group-title="Live Event: socolive",16:00 ngay 10/03 India Women vs Chinese Taipei Women [ A BEU] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1773140017-0-0-f6e788a0a75c8da3f32371432ab59f12
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ XO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1773140017-0-0-6d21f61673c8af004d5cc353e5616129
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ XO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1773140017-0-0-e24f2bb69d2109d141d68d9989f2e91e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ XO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1773140017-0-0-ecc5f663f1b4bead24d406ed189625f2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ XO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1773140017-0-0-a1750933d3e9ef399b05c6b96cab3dd9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ ENZO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1773140017-0-0-b43fda06c28541b7968434cffc605951
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ ENZO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1773140017-0-0-848079be773d26ecf504ecbaca2435a9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ ENZO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1773140017-0-0-f879ba2ba7b068b5bdda14f7668525c0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/29a0ae2dc5fd15e85fca48f1cf8274ea.png" group-title="Live Event: socolive",17:00 ngay 10/03 Machida Zelvia vs Gangwon FC [ ENZO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1773140017-0-0-b75a3d08139dc7bb25289a93b707ceee
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/d9921be2742c2597026673c29e48e888.png" group-title="Live Event: socolive",16:00 ngay 10/03 Yadanarbon FC vs Yangon United [ NIBO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1773140017-0-0-91586535adae3aab97e002ac77687661
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/d9921be2742c2597026673c29e48e888.png" group-title="Live Event: socolive",16:00 ngay 10/03 Yadanarbon FC vs Yangon United [ NIBO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1773140017-0-0-28ac5fecd460d3061a0fd22487ed8770
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/d9921be2742c2597026673c29e48e888.png" group-title="Live Event: socolive",16:00 ngay 10/03 Yadanarbon FC vs Yangon United [ NIBO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1773140017-0-0-1b6d437fbad30b68734b3b1c7ed8393d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/d9921be2742c2597026673c29e48e888.png" group-title="Live Event: socolive",16:00 ngay 10/03 Yadanarbon FC vs Yangon United [ NIBO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1773140017-0-0-ca836d5f7ff0845a8af8ddec046d540e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260308/f300d1fdf9311d50a4002920edccdb96.png" group-title="Live Event: socolive",17:00 ngay 10/03 KCC Egis vs Mobis Phoebus [KING] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=98137cf986d14024324538e82da9ae45&txTime=69b03e81
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260308/f300d1fdf9311d50a4002920edccdb96.png" group-title="Live Event: socolive",17:00 ngay 10/03 KCC Egis vs Mobis Phoebus [KING] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=b4d5c23ecea2b946b67e859c194ef2fb&txTime=69b03e81
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260308/f300d1fdf9311d50a4002920edccdb96.png" group-title="Live Event: socolive",17:00 ngay 10/03 KCC Egis vs Mobis Phoebus [KING] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=98137cf986d14024324538e82da9ae45&txTime=69b03e81
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260308/f300d1fdf9311d50a4002920edccdb96.png" group-title="Live Event: socolive",17:00 ngay 10/03 KCC Egis vs Mobis Phoebus [KING] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=b4d5c23ecea2b946b67e859c194ef2fb&txTime=69b03e81
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1720.png" group-title="Live Event: Hội quán",16:00 10/03 Japan W vs Vietnam W FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
