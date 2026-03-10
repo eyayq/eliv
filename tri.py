@@ -12,12 +12,13 @@ HEADERS = {
     "Accept": "application/vnd.github+json"
 }
 
-SLEEP_AFTER_ALL = 160  # 5 menit
+SLEEP_AFTER_ALL = 120  # 5 menit
 
 WORKFLOW_GROUPS = [
     ["lve.yml", "lve0.yml"],
     ["lve2.yml", "auto.yml"],
-    ["hh.yml", "lve1.yml"]
+    ["hh.yml", "jj.yml"],
+    ["lve1.yml"]
 ]
 
 
