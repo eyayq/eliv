@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Wed Mar 11 01:49:51 2026
+# Generated Wed Mar 11 01:54:11 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 11-03-2026 08:49:39 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 11-03-2026 08:53:58 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Mirassol😈VS😈Santos [LIVE]😈📁
 https://bf.jalaplay.net/live/322572.m3u8?txSecret=f6e9aa2f523bd7bf1c4ef58c0125dd40&txTime=69b0c0aa
