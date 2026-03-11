@@ -1,10 +1,10 @@
 #EXTM3U
-# Generated Wed Mar 11 02:05:05 2026
+# Generated Wed Mar 11 02:10:03 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 11-03-2026 09:04:56 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 11-03-2026 09:09:50 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Mirassol😈VS😈Santos [LIVE]😈📁
-https://bf.jalaplay.net/live/322572.m3u8?txSecret=f6e9aa2f523bd7bf1c4ef58c0125dd40&txTime=69b0c0aa
+https://bf.jalaplay.net/live/322572.m3u8?txSecret=ed88e830314a5b16a532e0ef46f931eb&txTime=69b0cebc
 #EXTINF:-1 group-title="📁😈 CONMEBOL Copa Libertadores 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",📁😈Botafogo RJ😈VS😈Barcelona SC(ECU) [LIVE]😈📁
 https://bf.jalaplay.net/live/5005035.m3u8?txSecret=4961cfcb5f3996aed8c539ef84b020a0&txTime=69b0c202
 #EXTINF:-1 group-title="📁😈 Argentine Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png",📁😈Club Atlético Newell's Old Boys😈VS😈CA Platense [LIVE]😈📁
