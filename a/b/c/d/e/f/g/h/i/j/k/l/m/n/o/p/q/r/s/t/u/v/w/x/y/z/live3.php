@@ -1,13 +1,15 @@
 #EXTM3U
-# Generated Wed Mar 11 22:40:57 2026
+# Generated Wed Mar 11 22:45:39 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 12-03-2026 05:40:44 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 12-03-2026 05:45:30 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Atletico Mineiro😈VS😈Internacional RS [LIVE]😈📁
-https://bf.jalaplay.net/live/322717.m3u8?txSecret=e333586f4fd87a4a6994a4538a2afe7b&txTime=69b1e1de
+https://bf.jalaplay.net/live/322717.m3u8?txSecret=b22f33ff8efbecfea523479495992ad6&txTime=69b1efef
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Atletico Mineiro😈VS😈Internacional RS [LIVE]😈📁
 https://bf.jalaplay.net/live/322708.m3u8?txSecret=348c70609e00392649b9929118f65568&txTime=69b1e94e
 #EXTINF:-1 group-title="📁😈 CONMEBOL Copa Libertadores 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",📁😈Sporting Cristal😈VS😈Carabobo [LIVE]😈📁
 https://bf.jalaplay.net/live/5005097.m3u8?txSecret=2603b46a12271f72e9b64b08227409f1&txTime=69b1e315
-#EXTINF:-1 group-title="📁😈 Argentine Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png",📁😈Boca Juniors😈VS😈San Lorenzo [4m]😈📁
-https://bf.jalaplay.net/live/322711.m3u8?txSecret=e5d339bb8b1bf73607ba37d2404cce8e&txTime=69b1e1df
+#EXTINF:-1 group-title="📁😈 Argentine Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png",📁😈Boca Juniors😈VS😈San Lorenzo [LIVE]😈📁
+https://bf.jalaplay.net/live/322711.m3u8?txSecret=ae6e2fe47e253ec717df46f32dda19b2&txTime=69b1eff1
+#EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Bahia😈VS😈Vitoria BA [14m]😈📁
+https://bf.jalaplay.net/live/5005081.m3u8?txSecret=7368adcacb8041ba97137840e6500bba&txTime=69b1ece3
