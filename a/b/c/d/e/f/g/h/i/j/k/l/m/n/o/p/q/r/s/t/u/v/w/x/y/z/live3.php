@@ -1,45 +1,29 @@
 #EXTM3U
-# Generated Wed Mar 11 15:48:06 2026
+# Generated Wed Mar 11 15:53:04 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 11-03-2026 22:47:52 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 11-03-2026 22:52:53 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Indonesian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSIM Yogyakarta😈VS😈Persatuan Sepakbola Indonesia Jepara [LIVE]😈📁
-https://bf.jalaplay.net/live/5004994.m3u8?txSecret=b06de5caff0919a0a0313462bd425a31&txTime=69b183c2
-#EXTINF:-1 group-title="📁😈 Indonesian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSIM Yogyakarta😈VS😈Persatuan Sepakbola Indonesia Jepara [LIVE]😈📁
-https://bf.jalaplay.net/live/5004993.m3u8?txSecret=3d625757397f2a46f026d51362c8879f&txTime=69b183c7
-#EXTINF:-1 group-title="📁😈 Indonesian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSIM Yogyakarta😈VS😈Persatuan Sepakbola Indonesia Jepara [LIVE]😈📁
-https://bf.jalaplay.net/live/5004470.m3u8?txSecret=f81f993d540a1ea10db14402620965e9&txTime=69b18d00
-#EXTINF:-1 group-title="📁😈 Indonesian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSIM Yogyakarta😈VS😈Persatuan Sepakbola Indonesia Jepara [LIVE]😈📁
-https://bf.jalaplay.net/live/5004980.m3u8?txSecret=47a228c5d8255a1dae288b007ef6c61a&txTime=69b18d49
-#EXTINF:-1 group-title="📁😈 Indonesian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSIM Yogyakarta😈VS😈Persatuan Sepakbola Indonesia Jepara [LIVE]😈📁
-https://bf.jalaplay.net/live/5004447.m3u8?txSecret=e30a53e43954110fb99be7569c24493b&txTime=69b18392
-#EXTINF:-1 group-title="📁😈 Indonesian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSIM Yogyakarta😈VS😈Persatuan Sepakbola Indonesia Jepara [LIVE]😈📁
-https://bf.jalaplay.net/live/5005018.m3u8?txSecret=76de90578f53a310a72af13183df831f&txTime=69b183b1
-#EXTINF:-1 group-title="📁😈 Indonesian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSIM Yogyakarta😈VS😈Persatuan Sepakbola Indonesia Jepara [LIVE]😈📁
-https://bf.jalaplay.net/live/322720.m3u8?txSecret=68b6b06e6dbe6e6d8b1d7e9f20f36c30&txTime=69b18467
-#EXTINF:-1 group-title="📁😈 Indonesian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSIM Yogyakarta😈VS😈Persatuan Sepakbola Indonesia Jepara [LIVE]😈📁
-https://bf.jalaplay.net/live/322677.m3u8?txSecret=8f8fd96d3cfdd4e396b9c7b4ddc83838&txTime=69b18392
 #EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Lokomotiv Tashkent😈VS😈FK Kokand 1912 [LIVE]😈📁
 https://bf.jalaplay.net/live/5005043.m3u8?txSecret=947cf3a8f2f20d2cf6cf83be566d70f5&txTime=69b18381
 #EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Lokomotiv Tashkent😈VS😈FK Kokand 1912 [LIVE]😈📁
 https://bf.jalaplay.net/live/5005009.m3u8?txSecret=995ee6e94ffebaeaccf88c177a4c1f5b&txTime=69b183fd
 #EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Lokomotiv Tashkent😈VS😈FK Kokand 1912 [LIVE]😈📁
-https://bf.jalaplay.net/live/322801.m3u8?txSecret=29fff6991e1b8c4132fad9628d9e2d82&txTime=69b183a6
-#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Lokomotiv Tashkent😈VS😈FK Kokand 1912 [LIVE]😈📁
 https://bf.jalaplay.net/live/322713.m3u8?txSecret=48dd69780a51c95d1b5f24b2a926cfd0&txTime=69b18741
-#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Buxoro FK😈VS😈Xorazm Urganch [LIVE]😈📁
-https://bf.jalaplay.net/live/5004451.m3u8?txSecret=a5974669206277702556614cb3a104cd&txTime=69b189c4
+#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Lokomotiv Tashkent😈VS😈FK Kokand 1912 [LIVE]😈📁
+https://bf.jalaplay.net/live/322801.m3u8?txSecret=29fff6991e1b8c4132fad9628d9e2d82&txTime=69b183a6
 #EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Buxoro FK😈VS😈Xorazm Urganch [LIVE]😈📁
 https://bf.jalaplay.net/live/5005074.m3u8?txSecret=3cd7b996215608b4f16a0690a2cf29b4&txTime=69b18ac8
-#EXTINF:-1 group-title="📁😈 USL Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",📁😈Birmingham Legion😈VS😈Hartford Athletic [12m]😈📁
-https://bf.jalaplay.net/live/5005097.m3u8?txSecret=246d659000a201b2b681005801ebe0bc&txTime=69b18c23
-#EXTINF:-1 group-title="📁😈 USL Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",📁😈Birmingham Legion😈VS😈Hartford Athletic [12m]😈📁
+#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Buxoro FK😈VS😈Xorazm Urganch [LIVE]😈📁
+https://bf.jalaplay.net/live/5004451.m3u8?txSecret=a5974669206277702556614cb3a104cd&txTime=69b189c4
+#EXTINF:-1 group-title="📁😈 USL Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",📁😈Birmingham Legion😈VS😈Hartford Athletic [7m]😈📁
 https://bf.jalaplay.net/live/322673.m3u8?txSecret=6eec37e2998ad518d79fd4c59cae26a2&txTime=69b18b55
-#EXTINF:-1 group-title="📁😈 USL Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",📁😈Birmingham Legion😈VS😈Hartford Athletic [12m]😈📁
-https://bf.jalaplay.net/live/322580.m3u8?txSecret=465940a21c3d871e0f139145eb32e7ac&txTime=69b18db6
-#EXTINF:-1 group-title="📁😈 USL Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",📁😈Birmingham Legion😈VS😈Hartford Athletic [12m]😈📁
+#EXTINF:-1 group-title="📁😈 USL Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",📁😈Birmingham Legion😈VS😈Hartford Athletic [7m]😈📁
 https://bf.jalaplay.net/live/5005010.m3u8?txSecret=9553d0ca9efc05aaed05f51882371388&txTime=69b18234
-#EXTINF:-1 group-title="📁😈 Georgia Erovnuli Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png",📁😈Torpedo Kutaisi😈VS😈FC Iberia 1999 Tbilisi [12m]😈📁
-https://bf.jalaplay.net/live/322711.m3u8?txSecret=b78ffbe7f2316e4257c86e8846389899&txTime=69b18e8b
-#EXTINF:-1 group-title="📁😈 Georgia Erovnuli Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png",📁😈Torpedo Kutaisi😈VS😈FC Iberia 1999 Tbilisi [12m]😈📁
+#EXTINF:-1 group-title="📁😈 USL Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",📁😈Birmingham Legion😈VS😈Hartford Athletic [7m]😈📁
+https://bf.jalaplay.net/live/5005097.m3u8?txSecret=246d659000a201b2b681005801ebe0bc&txTime=69b18c23
+#EXTINF:-1 group-title="📁😈 USL Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c3308f60cc17871dd88b2bbc690734a3.png",📁😈Birmingham Legion😈VS😈Hartford Athletic [7m]😈📁
+https://bf.jalaplay.net/live/322580.m3u8?txSecret=465940a21c3d871e0f139145eb32e7ac&txTime=69b18db6
+#EXTINF:-1 group-title="📁😈 Georgia Erovnuli Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png",📁😈Torpedo Kutaisi😈VS😈FC Iberia 1999 Tbilisi [7m]😈📁
 https://bf.jalaplay.net/live/322708.m3u8?txSecret=34ede93cadd135da0f2b40fbbc05b71e&txTime=69b18db1
+#EXTINF:-1 group-title="📁😈 Georgia Erovnuli Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png",📁😈Torpedo Kutaisi😈VS😈FC Iberia 1999 Tbilisi [7m]😈📁
+https://bf.jalaplay.net/live/322711.m3u8?txSecret=b78ffbe7f2316e4257c86e8846389899&txTime=69b18e8b
