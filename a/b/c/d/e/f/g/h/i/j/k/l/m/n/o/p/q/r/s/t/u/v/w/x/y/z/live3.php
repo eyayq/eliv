@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Wed Mar 11 23:23:38 2026
+# Generated Wed Mar 11 23:29:55 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 12-03-2026 06:23:27 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 12-03-2026 06:29:33 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Atletico Mineiro😈VS😈Internacional RS [LIVE]😈📁
 https://bf.jalaplay.net/live/322717.m3u8?txSecret=b22f33ff8efbecfea523479495992ad6&txTime=69b1efef
@@ -13,11 +13,11 @@ https://bf.jalaplay.net/live/5005097.m3u8?txSecret=ce49631db17a02e4c01ed0f0a3059
 https://bf.jalaplay.net/live/322711.m3u8?txSecret=ae6e2fe47e253ec717df46f32dda19b2&txTime=69b1eff1
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Bahia😈VS😈Vitoria BA [LIVE]😈📁
 https://bf.jalaplay.net/live/5005081.m3u8?txSecret=7368adcacb8041ba97137840e6500bba&txTime=69b1ece3
-#EXTINF:-1 group-title="📁😈 CONCACAF Champions Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png",📁😈Nashville😈VS😈Inter Miami CF [6m]😈📁
-https://bf.jalaplay.net/live/5005016.m3u8?txSecret=98ca362128de5007f7a800ff32cdcb28&txTime=69b1f635
-#EXTINF:-1 group-title="📁😈 CONCACAF Champions Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png",📁😈Nashville😈VS😈Inter Miami CF [6m]😈📁
-https://bf.jalaplay.net/live/5004423.m3u8?txSecret=c58740fd92ad54136a03e7c502a40fd3&txTime=69b1f418
-#EXTINF:-1 group-title="📁😈 CONCACAF Champions Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png",📁😈Nashville😈VS😈Inter Miami CF [6m]😈📁
+#EXTINF:-1 group-title="📁😈 CONCACAF Champions Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png",📁😈Nashville😈VS😈Inter Miami CF [0m]😈📁
 https://bf.jalaplay.net/live/5005093.m3u8?txSecret=3e35ce76e5967e895064ed33b0782b9e&txTime=69b1f545
-#EXTINF:-1 group-title="📁😈 CONCACAF Champions Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png",📁😈Nashville😈VS😈Inter Miami CF [6m]😈📁
+#EXTINF:-1 group-title="📁😈 CONCACAF Champions Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png",📁😈Nashville😈VS😈Inter Miami CF [0m]😈📁
 https://bf.jalaplay.net/live/322647.m3u8?txSecret=6008aec3e756e77ea05ff74b9f32aa91&txTime=69b1f600
+#EXTINF:-1 group-title="📁😈 CONCACAF Champions Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png",📁😈Nashville😈VS😈Inter Miami CF [0m]😈📁
+https://bf.jalaplay.net/live/5004423.m3u8?txSecret=c58740fd92ad54136a03e7c502a40fd3&txTime=69b1f418
+#EXTINF:-1 group-title="📁😈 CONCACAF Champions Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png",📁😈Nashville😈VS😈Inter Miami CF [0m]😈📁
+https://bf.jalaplay.net/live/5005016.m3u8?txSecret=98ca362128de5007f7a800ff32cdcb28&txTime=69b1f635
