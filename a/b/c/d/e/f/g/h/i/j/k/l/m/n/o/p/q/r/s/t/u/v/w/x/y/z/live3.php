@@ -1,10 +1,10 @@
 #EXTM3U
-# Generated Wed Mar 11 02:34:35 2026
+# Generated Wed Mar 11 02:39:27 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 11-03-2026 09:34:26 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 11-03-2026 09:39:16 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Argentine Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png",📁😈Club Atlético Newell's Old Boys😈VS😈CA Platense [LIVE]😈📁
-https://bf.jalaplay.net/live/5004448.m3u8?txSecret=10208115fc409cbf0dd72437de12e283&txTime=69b0c75a
+https://bf.jalaplay.net/live/5004448.m3u8?txSecret=0c96a2cbc42603ab01531fae14171c6f&txTime=69b0d56b
 #EXTINF:-1 group-title="📁😈 CNCF CHL 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png",📁😈Monterrey😈VS😈Cruz Azul [LIVE]😈📁
 https://bf.jalaplay.net/live/5004997.m3u8?txSecret=500717438cd1a38efe2314017ba52718&txTime=69b0c919
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX Femenil 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6350b03022c4e5344c808657c3282bb.png",📁😈Chivas Guadalajara Women😈VS😈Club America Women [LIVE]😈📁
