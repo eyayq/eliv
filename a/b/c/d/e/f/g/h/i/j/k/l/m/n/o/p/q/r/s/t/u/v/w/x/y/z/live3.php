@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Thu Mar 12 16:14:10 2026
+# Generated Thu Mar 12 16:19:58 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 12-03-2026 23:13:58 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 12-03-2026 23:19:48 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈FC OKMK Olmaliq😈VS😈Sogdiana Jizak [LIVE]😈📁
 https://bf.jalaplay.net/live/5004691.m3u8?txSecret=29d05d2dae6d296afccc111a7743c0a6&txTime=69b2e608
