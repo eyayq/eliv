@@ -1,0 +1,72 @@
+name: DRAMAJINGBOBOX
+
+on:
+  schedule:
+    - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/drm.yml'
+
+concurrency:
+  group: dramabox-playlist
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-24.04
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Dependencies
+        run: |
+          pip install requests aiohttp async
+
+      - name: Restore Python Script from Secret
+        run: |
+          echo "${{ secrets.DRM_PY }}" | base64 -d > drm.py
+          chmod +x drm.py
+
+      - name: Run Scraper
+        run: |
+          python drm.py
+
+      - name: Commit Playlist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/dramajingbobox.php"
+
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          if [ -f "$FILE" ]; then
+            git add "$FILE"
+            git commit -m "update dramabox playlist $(date)" || echo "no changes"
+
+            # retry push agar aman untuk 9 runner
+            for i in 1 2 3 4 5 6 7 8 9
+            do
+              git pull --rebase --autostash origin main
+              git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main && break
+              echo "Push failed, retry $i..."
+              sleep 5
+            done
+          else
+            echo "dramajingbobox.php not found"
+          fi
