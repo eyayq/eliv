@@ -1,1757 +1,1615 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps1 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/69/5x1/51x9/519x3/51930100014/573908496_3/573908496.1080p.nav2.mp4?Expires=1773435600&Signature=Sn3NgWn4k4NGMZljviQoVuklZSJudLBydfEfxVXuuAmNtRmWpViCiVqLrCYKPQa0lD1wdPs8~6fzKaTv09rqT8ZAJiycnA5fZZbxInJG3iAMOHtu3p6tKZGIggFfR41mZM4wZTrjB0jIdMQvPJbMwm-pl3bhrribvuBw296hxd5p8OzOqOjaK7yqvq55EvEevkCV7yvE7avYdA2CRTJJ9Wn40KyYlFj-1J7FS4KgWJPYJwIqDWkc-7pnnuSUsK~N76I~1Dl54Gz66kJ7G9niHmEx1VuMAl24d3DivKZYovzLthKzfQRtCUqq2XhjTR1q51JZ~ZwkH3A-tDsP-Iz5rg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps2 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/79/5x1/51x9/519x3/51930100014/573908497_3/573908497.1080p.nav2.mp4?Expires=1773435600&Signature=Yetjdq~aGphCbbhT~4U6TowvE98r2urRBvahVWw~PJxFrUxOq6cCGySdSF3yu0lkWQLh9lDajbIFJB4P1l8Ot0JK2lWO07n6N9nMMFmlhryG7rHphgB6nItQd845yPNcmHBsn2nbTGTuYOQEkvW6TzGncls~EptgXJ-7U6ROfISOn2jNBFafbCva1-B2OIE6zGK4pme0ZuqV1UGkaGqxx6STiJXUOR~pZUyNMHFK9R6GHpBo6ZOZ~VU0lrl67Mt3fpb5mfLQiSato9Sxk92JCRALypjAZfQd0Icq2Hkh0JmvQSWpld92gBw4f87qrf57MEPxskpzVTaa3a7kKqm6JQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps3 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/99/5x1/51x9/519x3/51930100014/573908499_3/573908499.1080p.nav2.mp4?Expires=1773435600&Signature=T5X7IhUILCCunfVujn2dt1lLPfxo~amwP9sdfQ9zM-3VB7ODNZMQRQx~Sfk9QlmvY6AoVJmoGLkSccAIW4~nWh6SxvJinv1IsKEewaYO2lfvfz2H95Y8fvq93XqN63uebdO5wq9IMB8b7Jv1wgOeyMncUTvbC4e2JKe8ioICZ5FHRBPdtuAr7ItoLzsgvdxh4Bwwkq7wvNmoEthx0gNqAwPxptEFGrLMjpl1brP53Z51BV~4BDFrZUwlxuBfnETrMiloHMqjFfOnGd8NUCczGAWMRaDxFNCYUCGywcYexL7nORg2MRYlrGXj-8pPGy9jfAhFp-q-9v0CpJWn37RmDw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps4 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/20/5x1/51x9/519x3/51930100014/573908502_3/573908502.1080p.nav2.mp4?Expires=1773435600&Signature=z0r9HOzsi5ryomXE9~zqX0nX6NOXizUrQ2VQWv4wE3mdTo5zSDj1aYFQbfExkAbKeR0FVtuT6nvnITdIS6svuiuAlLtBXi8u8VzgtGnMBjE0Eo9GkfFaGkztYU11k7PWqrF1iaKNewXdzDY3zyhYjX-UGfJNtZjsLH08u4AskyY8gVBR01aIdPYVETN7oymi2Ju7OJu-KFHK2Y7m8wxPIWYYXpEvWwP9Q7UPuHQKk6UlvTbm3413oRgBqfhtfI3KRWtGHYdixhf6rBpqguxpE0VSzZvTxNXHHcXAmuveWKVrQW8EvLe2Ceg1RdbcGxb3kvU-yTqSnrrYxjD~2roW-w__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps5 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/30/5x1/51x9/519x3/51930100014/573908503_3/573908503.1080p.nav2.mp4?Expires=1773435600&Signature=KqRayy5ocTBtu5nk4fR7G61B8HchXfgl4XfC9j7wKRX1JJAQukJybC35QQuPaLD2MobD6556wdAyE~LuD-SPscqMjTr-3IgZlZBvreDrhQpxWSlWOcT6ApZebte8ARaSUQC3yprhoYE--UpaRzcyfaSYq1nL9oa589kHEQtBb4B-mruyApW47tyL8RdvAM9DSwKLl-5VrZCjaoKvwdheBRy1BIx-fcIUAeS6PPd0KO61weuD9oD8XBMtJW-w4yJzfST4BSQJclivMr-EkTrCHhHNIrc30QuCoDsD-xCfsdTGNpSDTaGK7h~HcVaMfkmV8OfNTmbkf~bvap8RMpeanA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps6 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/40/5x1/51x9/519x3/51930100014/573908504_3/573908504.1080p.nav2.mp4?Expires=1773435600&Signature=x4HhAsOVKXubX37IMxzPX-d2w8yMw4aH3ObVa-MgRGgLpEQaw~vXFv8IfgaCuoFOyl3Zl8ARsvXPdXrmGHGB8aC3xm-phde3Nc3ErwcatuE10fFAa1z6XXWgPD1PraJ04Vo6U1eNfsKOdNmanloskbpfFHLNL92NRgMeF38oalB5wvrpi4h0f9n~Pn0craMlbK8kH33JrEAcX5N7sEgOieDQvBLi2O5x3ysm3zfgQJ8ULUGqmaY4nX~y2smDUqKQl0OEakgSU0T0VDigf7s2TUxELkIt4y0LSw7XH0HHYjl-TyWSdSyvYH3Zgl6eEvXybj9W86M3Vk~WKXcfmLVTbg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps7 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/50/5x1/51x9/519x3/51930100014/573908505_3/573908505.1080p.nav2.mp4?Expires=1773432000&Signature=fCRVjU~O0tHDCM0ehUIhhsVPq2sHfwUg6fUvMHmSwwzPEGBBPzLaoed1GO6I-jA0KDjcp~KNZj9F23MqBZX90iOg6FTZ1uTuxMMOZvfBYqCzWLOpdOnOimUsOmZQxvexD1vo4xCcBREJR6pA980kqH9IV5jKI3mpnuKJ-X1XQKqyvOXlHY6ZIo36j1eolPGonpXJ54B17ZcgqwjG4TyvKAWa7w~gT2E-N0kwTO9URpx6Bx1fzdoiM17YUhzprR81JWd96-FzMNfPGrpnmjD2baADqXsQTOK1X2dkWq-zYkY~jTyHGkKwtgS6-zWy2rHKuaMfqdR5j-IXeJuuUQmA5Q__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps8 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/70/5x1/51x9/519x3/51930100014/573908507_3/573908507.1080p.nav2.mp4?Expires=1773432000&Signature=sy3eN7TA5qDlwKvkTSk7hEDY3OMqyZpGfpmxaXhR-UdBK0AGlmODEkuImSxNAsiqBkIIiKXvSm~hUPjmv0FMzysbJufy6z35bLs0Nx0WddPigsgkUWEVuNXAYk51dVuFKYphPsrkbTMV~6MiPd7POwWngTtc7G314NYQbp8-4sxnpIP3WdBIyee3dl2ThQQH8D8BTzJryHroTGBSVl8nFM35nHzsVD6lb7W3OuB281sQMdHfyDP2RI9ETwLHADOCMr3RVOM32amjuiUr-1NZNo1-vjTfXZi0xberkASeXRyXl7IA5j-wjxsu-Fa7uvIua2eJFkRMPmjcwlPgW~w2gw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps9 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/80/5x1/51x9/519x3/51930100014/573908508_3/573908508.1080p.nav2.mp4?Expires=1773432000&Signature=E2tEaLO~oDlAs6dotRpbUf3ZYvZ-PVGzPMgfNCOmCSwv3btfUpiY-5rp~Ana3KLt-zm8tLGfI89GrNOXUVFuiz94b4hl0LqUBA854QqILNchH9PJHKY4H04XllF~H-2rwGOUUfM~BnYDwLm8R-IOC83pD5RbLMvuUhP7D6QiwcO8Jahgn8dQMIIgm8xkLgIoT5nbkVybPYxES0f7JNKs1e-uip5XQl9K8n5FbiJBcYLomos86suZ999QBLr6cK30hABP1C1PUN5AYfhGj88xBkBGqwDeAZnTBe~Wl663R9REvLnyvOrFieIo~h~GIMyI4d8-StbSXh5MBUZRmKBGqQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps10 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/90/5x1/51x9/519x3/51930100014/573908509_3/573908509.1080p.nav2.mp4?Expires=1773432000&Signature=bBemvgb~kDaSjyVcBX4mFlqpkVKkHwu-nebnsO2Mys6tRVjxSLJaauoIRmzhPoy~GTG15JhPg1WzbspzIGcARn8zNdBVEZeNwAU-c9vSFLCRqeTXqDpL6j46x-ccRjd-U6tVET6Ii2JmPSctQqfc2f1cfQotQQRDVwJWqAcrNTf0aZUjv4HOe5AnN5ByJmn-lt2CBKiEjMziAqA7lt3Hbfcter21aP2DQ9vwZNIplOO0YnudO8aBkMndN4wnye398zjvihDh-bdSmKP7AfUZE6xKpUGSv0fA-a5QsGuoJPiitBY8J~zevsMWhzO1ZpSd3-nq8~OwmjgsLmcJvQTK7A__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps11 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/11/5x1/51x9/519x3/51930100014/573908511_3/573908511.1080p.nav2.mp4?Expires=1773435600&Signature=S3bGJi5cY1cHr-UI8zf3DFUAlChGTm6cGYDrbxylYjN13yS1HU~R5GnUw7cVitYzpMtrLZC1v9j9II99SvXuPK93p2Xk0M4F6cQRK5rVC20Ji63ZtrxkYtNCNcI2Ue3y5G~QqWIRgZqO21FmT8j812e8gbvutZhs1mjp4OYN9FDgekKBonWOcZv3CG7mhPuU2TNU3d-n75fjki2PGkrba2zsayOv2GO36yw~FXbGBMmV-3xFJ2ienHeUPpBNXgDvKGBW5OTrsqn7PoimJoegyhcSJUoGtHZ3g4gI1m8bYm72Dd9heqjwBuXVuzt3VFLj4kl3Mcq15K3ZusIG9wZZAg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps12 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/31/5x1/51x9/519x3/51930100014/573908513_3/573908513.1080p.nav2.mp4?Expires=1773432000&Signature=Vt9txkuLVJthVUjOzG6FdtgrvYYNal1zBKS3KOMWVTP-ydmBPCdje2k-gvANl5D2oTXbr9d2Du8OpCdGM7icrLHCxMwFe2Co6-insg3mMIGXSvCLm8cwjiNbw4KSEF1eSdFlC3grbS7RqaOVzpRInqoLjGIBDUxBft~~iBVuqt8oVxisxRUG1KfPsVjklZJhvw4zXONnVoVFkbSwCMeYZPVcyfD11XxxRWjFEYs1PTDRdamJSwaL8sefdLPKe4sSpQmpipPh4v0bHksqkqbxhL-KQshf6hw-CPCOqrzS23rRETa3x~~i3MbGEcYo~vIOEg6v2UGlaPhDlRW~RsnKxA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps13 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/41/5x1/51x9/519x3/51930100014/573908514_3/573908514.1080p.nav2.mp4?Expires=1773432000&Signature=DT219gpnJQ2CDdMkBpnb2ln4vbdxI0mOB5a-j389ZyW4qTQVHDq0NUFaz4mJEx5tAdY1l9SySkQycqDvQbLKx2QNISnvWZCHos2t9dqjnTgkKLgvCCmncE3cX~9aivL3Jej49aiIhIs7qL9iR-MTWmodSWZoKllqe~k7HZKQvhfnU--Ulgp-58hhlAgEA3FzzffYK-DRgyMgDVNc1P-bydyRpQMFhzyisfspKNOaRmyI1zeYnQa0y1aTnyV07lZwZHW~vSZa6orE39uQeA7QSPPEb8MFzwUp2xi9fxL~gMenZJKfvcJ9o2gwAVkj4skQqm9IbddIjHBesG48uTUrMw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps14 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/61/5x1/51x9/519x3/51930100014/573908516_3/573908516.1080p.nav2.mp4?Expires=1773432000&Signature=Hl~9Kr5OfVuYPCMn1l29Jkx1TT4DPH9IePOghyRpA4W1DiZyhSfuN5QAzobrZh1vmXix-bX4qxwmug9MTj8Qx1NY21qUCqwiT4UT5WJCSGifZVBfR03Qh6wnCNxsCoJ4ZQaSr~xeSBD1rE6u-pDHeijLLkeHhVUtOM7DUiQByKdQdSDZhzZ4M7n38nj5dMVQ~jbUyrt3EQ4g0c2L6TR2Rey8voAKFl4u2gB-8shbRTTXNnM5pbB6x1IwzIvndgMlSnAVeHRJKpG9e9T1h7eCPgSSlpXAn7De0TvoJi5RHkM5MPI5pOoKvlsgvsF4vB5Vdz3nP5NW3aW5XH2EVxdYMQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps15 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/71/5x1/51x9/519x3/51930100014/573908517_3/573908517.1080p.nav2.mp4?Expires=1773432000&Signature=OJaBwN6ou9jyIBb3VybmfTJyfYc-jZq35Lwg3-UX1xZbH6N-KrRyC4jhK~T-470xbJSHLFT2iayhQY9Rx9gFYazwBn01RJhKx0xcD9Vs3l4H6aMtpGn7Uq~2f29DSV0cEDNmLtRxNfmiLSdgjr7IUhU982m7AITCOfUjhWXZHf0XaIJFj~zBNWnnxeO3tWZNfcHfOg2yqzd1cPRN10eO-m8cg0QmEaYkIgT3efpwTFuJ5UnzEcWIFzz9~OahyvrjHq04vaFVcGXii-j40SAguzx5rlkT2rLXcPW93JWt5TzlLt7R3qz0Iq0SSNtlj-3Thz6I6Df4ELUqkgZ01ac5dQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps16 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/81/5x1/51x9/519x3/51930100014/573908518_3/573908518.1080p.nav2.mp4?Expires=1773435600&Signature=P~6f93wn6fSsgLtypmVxvwl1UM9q39UnhqkzQBnjqczHp9ndYk6ALlh4rGBqt54A9NK7zbT0NC5eC-4sVGGcySgduaRWRlBqXcrkI6NwAuhyqjmcFRKps9WydW1Z5tKpCvjVE-5vWfJnJJOjVkSgtfDGyq22gwkQiPrCpuBpYymUxtfn3VkS8A~cM8VCN9hh-H2sy-SiuFVo2~y6UGkZvah72hRhebtnvgQxIqmxIB58sBAf18F2EOl8sbbeZHb8jS1nb8DIgKRmeUd~vJDWCFa2b1wlehwjoxQrnLOT4DiDlaac7ZEIhYhjPWctbxTWoCP~FLN7CXZxSdd5DNxZOA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps17 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/02/5x1/51x9/519x3/51930100014/573908520_3/573908520.1080p.nav2.mp4?Expires=1773432000&Signature=TzqLlDNpR5IeHXB1xRyhCLJFqOaHzEshv-JW8ECreCvUvBCNT-GHUry1eOq1UuDFvLvGeSzv1l5TX-j56obJ9WMEtXU5twm5vr8-aDjVkgBSxaG11GzUMmxmt0DPrrRA1MmB6UW0nbt6gIzE81LHXU6W8GjP8aqxEQSGrF9BbVgSUrB-rF22HUICusXq5AosbSNnTymxOMbwgjys-NFyeI6aVNC0Yn1knjoGfV0pDSoFu2tKJE~X6th4UlGNY9LinRSKJgmTBxZcc9nInxlwxbdwe4IrfgnA1bxnWBuuobKEWIl4k-TzUNf-C01sZ46ye~3RPn912IJ~N70QrhGanQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps18 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/12/5x1/51x9/519x3/51930100014/573908521_3/573908521.1080p.nav2.mp4?Expires=1773432000&Signature=jxIq0ZODYUGn6e~XK9t93aaVC1swq-XeoWAw5wGYm6RYP1LtnsvAek29ertr0F1NatIZ7dcpmgmR7qiChto-WGbcmJqE8lzsrLvHOBM5CmzHsP98QRBtgz4iZTeWnyTpmIa7fJmr44xvrbRckcq21I9K6eoVV8s6Z0dUrBRoYAoF8nRN~csiC2ZDQQy~ZsxW1fAC8zwZFHBhA4vELvBiZHRWMPWHnXim2-8Vw~0spn6kZr-Fv7DkobN5Adi1cr25w9yljoMCiuNujAVQbAYyokaCGzW1xcwTIqgcNcpYaHkT18029salDMKhEpjXuHRjT5sHKUNTr9Jn2H9hovt8vA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps19 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/32/5x1/51x9/519x3/51930100014/573908523_3/573908523.1080p.nav2.mp4?Expires=1773432000&Signature=r23czFcajL6fyNubKl3xB0jaGwse4ZCj0wPWwnPydNcuXh1-BDljznmE0yNs0~6frkdvbLKMvb41mYpjZqXyefcJnEx84pXsnjWrLStbsW7AHcgCMUXOnuy46SmYyKGp4sn47ZuiBHZeuLkf7VIWTOsZXdGpQZf3sa-liOq9EUAYCPcAnyJ1lOnMRlbcIuvju~yvNzwBlIojt7imZD1JkuEOc3gjJGG9eEfPFVelyK7x9hljqlPwkAgb~QMMaXFY3TQVcTth~x3gOHIQz-NAkuEj-T39QE1pt4l6giUfa6bjm-O0Cpf5sNMsBGRXCZN-MDSUd0138DuAQIi-GgeOfg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps20 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/52/5x1/51x9/519x3/51930100014/573908525_3/573908525.1080p.nav2.mp4?Expires=1773432000&Signature=CogOVA9Rs4mEMtfyErpRRU1esskM9ykJeoYj8ZRmb0sIIqC4MKL-Gc1MnajHOQ~w9D8RO3Yc9PQxkkyqAEoNlr~zZ0AjJqNcg2uMuHDiIl2a0Ji2Qd~3M7tCJ0FEpxJWLLLKC6~IZse6pN6T-PImJmI0ynqGHC2sdRjcc~IbpzQKIB5uEyWH1t6oyZ3CS2~IdvolQQI2xN32pZ~Us8tx3o~oirPDkBoanqBA6mrjXOFMBxCXtK88KxxPbx0DepIseoYNltgt-WZ-e7pZi45kAMYW9CsjvELNn4saR4Ndxc-EeUdL50ImfP1t8iOXcOGiE7NvjFoHLNlDB0qVSi6SFg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps21 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/72/5x1/51x9/519x3/51930100014/573908527_3/573908527.1080p.nav2.mp4?Expires=1773435600&Signature=sjdyDCdBbn5n3wxo2nDgiF2puadVwwX0pAULoEnFqT894oK5TTh2ZRhUI9Ghlym4TFuPrsZZlvuoI3sr-a7cZflGoDFVlyknvxBW~eiMMI76siwxAb~bjYP3OSnnbK1qHaRQTiL7kypv466kwFvZbF~mPdNMuIo3wvSdgOUQr1Gx-iiL2z9IPtJURD9MBa9OWPtc7sHbYXc-z4bLeMgfZKzv0SPTzbnAyBVPf3CF7UXf4OF6DyeqSWufQa8rD0OBMcNxyfpHTXcgGU-sK~1dEHU4h6DNmN~r6PaZ3jfa421LvAv20af9ZVcQ0kpYnLegNkLMst8K1WYegOqQPHAbvg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps22 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/82/5x1/51x9/519x3/51930100014/573908528_3/573908528.1080p.nav2.mp4?Expires=1773432000&Signature=vFa8aeFy3rHhNLSKSv6JzIdixivq88ttvEm8Wsatk5o9R1K~w1Mso~rik5fX7S-Bl2GMZTHUqd9vzKGmmGvNOBYHINkMvgonLJ3eFAAquFVO4s4mDJwRUmQtgc2m-wKlulwU-1btB9ZMCIjh~Z0Fl07CifsNtidaWhX-Xb~9q0SlrW4bEhpJdBTEIeaiv2rzIu78RQERMOvWb5HEx-aG5mWYqCgKw-lgH5ngp~AqPPFAIdG12xRNIqOhk7toX8CPX~z8BbZJDOYZN4q7my99dwmMzlAjGdOR48sqgWinnsbJX~Oe1sS5FOS9bQpT-bW6Ps0saHhguX7MdQeyyYE5Lg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps23 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/92/5x1/51x9/519x3/51930100014/573908529_3/573908529.1080p.nav2.mp4?Expires=1773432000&Signature=ywf9qbGcLtvHM96IyGCZDB2a3GZGACmu555LkX1JgSOVFQo8G65aKhsloMe-KZjFhVNHuPJTL44bScR~VnbNt1rFxb3A4Ms5UEqp-gHVhNrhRBwMhcsjIIg7Ji7FhG6~Jpgr8gp76Z3W9zMCwGmN5QlxA2oU4qxSRXK5HDfDAzkRHoEbBfZ~A7zT4zuLjb-L72raiPj~5p4u8YpA61rysp5r19nmBeNMaNG1WaQUSCDO66Xb0GQ5J1rZX~MjeqXW5~8qSoi2NnaVq4VOUZSxy0gGQGS69mM-UNZx7-NS4dthyAkP6X~WePcoXmDymV9Wr2eLlw~~WSShdX4IjuYKwg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps24 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/23/5x1/51x9/519x3/51930100014/573908532_3/573908532.1080p.nav2.mp4?Expires=1773432000&Signature=PSMHrXdi8WogHlB9rDndnEnQA7hvI9-KBIxg-19krqZcHDtP3870s5XwHJ11NKtm-pazG-ZJfBQorGy~xG8cHKtMDpvIaRzhBySDb~LA5RFNwv7PrUlBgKOeS2vVmOpvL-KsmyxwksOCq-Oa1hNw8XYp8f8gucJAxKhfOsmqPidFy5HZROwYZJQKvnYzgWBv5LSCf95MRgdL0UvQ9YWU4Qn4l36u9fQgyIc9W4QRCiXCZBEKWRiVh07o5EvZDAB9ppQMHIg~9MPxn8xLgmCN9u-YhxkPUDpG8hFf5oixGraStt-~VqQbbXCxLFHmqXKoqhKK8dRHHhim0GZhYeYD8w__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps25 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/33/5x1/51x9/519x3/51930100014/573908533_3/573908533.1080p.nav2.mp4?Expires=1773435600&Signature=bcFx95QRE4O4EPD2n~PFk5Z7mJdMv6QNZKkTkB5~-k-bb3JfaSxrp6nk6LFmoOpjopYR72TyyilgHZ0u8a9SMrlCe0IQFZVZrhZOKPvcg99o0oXN45bfrdppoMUaNSpwP6494qVOgzm7pVH-6v4TAX0RCpGzawOICeTlKW0Fm6IWc7YtS1RTmEEXp9uFfQYkDQHCRt8Uanwoyizx4S8ooSsfhzimP1bLcalPbnBVZSlgG6Y~QvK2G~b5ehqR2~qJjluydC9-H5MdnTeYHpJTdeEXw-FMFyOGO7t8ypNcYfxYuyOPuDDr16YZJCl1IfvzCtGgYS3Vf2ZF0fBFYClxGA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps26 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/43/5x1/51x9/519x3/51930100014/573908534_3/573908534.1080p.nav2.mp4?Expires=1773435600&Signature=J8hhusA14ot~21B4LisauDhZqJyEE65EuBivmpLLzlkUIAMKscCBlA1-cHdGfxFeyq3UkX0MsEzdjhyG1Y6jtmjswHp6Ge-bwBm3R55dt5l60kSFBmi6eTOFWWw3Ru7KxhLrzu960fFCd3y4kV-VnCZjDMeJpS~yeLQ6eNmuqRXUVmTAZcshRiyA5BuE8w-RWHDp1LbHGht9pc1kXJAJ4ImiU2NWLIau2FofKaDWp3ljEFo5-aNqDYMqxoI5pCxdwCX5JRYtirGylVY6GVfpItJV9wLiqQAzWJNVJVPMrcUD5Lb~qBLWzybG6GQKyDKokW1D~KtUiu~369WX5JbKbQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps27 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/73/5x1/51x9/519x3/51930100014/573908537_3/573908537.1080p.nav2.mp4?Expires=1773435600&Signature=vy0h1ziLMah20ewlXkDk6X3zKGOsYjA8SpKH9Vm2MWZ5r7rmNUAEheKmuJNYx-uMZkTbnfhPtRr4cItaS6yVg3r078Hzu04WEwC3~5dI~C2jS1y0X5rIOZJfhrKVame0aktf~92H387giEmHCoZtKwcxPH9o~j5eoqReXWyvLGNDjN1WwOYsx3ehxCSwMnlv59coNTBfLL7HK5RO4zvajnwPQ2QY8~eVIX251O1wg2GNYVzdd2f2fr7VJFj6xWz1AgOjo73nnNu8XX47pLaZ7mVUubs~BGVLD16p8iAUoLr5iA2QYFScyFYRpb05O-MwvdjtvOyw06vKyRYFBVCieA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps28 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/83/5x1/51x9/519x3/51930100014/573908538_3/573908538.1080p.nav2.mp4?Expires=1773435600&Signature=VtbtafXOaLlsyIuhWPsNWpDa3H418u7vKy28z3~nIw-duzwhzPMGLkN8xBNIIg8dgmhn7JPhL5TNlwSFtlgx0eZxJWh6HmrTLRUFlzolceP0BUGGsve0~JBQjhX6KekauDUv4d0FSjvxIs6mfvu40FMrGAPi-IpGWKs4f-Nxb5l4~R9QWJ~HJNY7G4LoqEkVUhvN-o9MH3~LeIhjlKo1LMaAPa8NnWyMsVW3-G-AoKYLgl4-bYS1Qk4-uJxeygFyUbyXwDe2MZ9fmHeC~Ce92Gd-nGhpJtl6lHql-FDcRMoL-661k36q8stmYOGJaq7kdk41E67UHwss7zFjQbxLgg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps29 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/93/5x1/51x9/519x3/51930100014/573908539_3/573908539.1080p.nav2.mp4?Expires=1773435600&Signature=f7pxRWIVQpkSlZ2KouqCHlkaU45uWdsHnqfarSML9Vqm8d31s6PDZZAaOXrdY~jGNbV8xrWksicUOSQiK5~DlYtsBOHVUOz95wrvskj4gdv494Tcja~7uv7fyWGnR0k9hWJh~aZ2d~xNge7y~qK5W-oEgZFN~nRMJas2rw-vcsrTJpfkgostHSsvnC7Nx8hfPnIC2yo8JfsWwZS0fhPtkBuTu6JYsn0nms-1T4dGG99x4Mnq2Xq3SHPdNkMI~x-GgMGZYsvZjjTxrrbY3~DG-abAZHAirZl1Gi-G~hkBxnFukG8wIbD5QJst6lk7QW-MhnjJuLlwtFI9iVl9CEmnQw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps30 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/04/5x1/51x9/519x3/51930100014/573908540_3/573908540.1080p.nav2.mp4?Expires=1773435600&Signature=K2-lFva3SaKY7hDFxmDRX3ZCJgvY0DvK0mvc2skKRHnhT9yYnmHjmMp4ENRbsJmtn8QPO7-bfESFE8uZABSl25JBwnEArbKxWJCuPLV3kOYVrST0smRKqh9CCbP6SOab8LEnBQiumxznPF7VJusDuCT2Ro~yCBJ73aWz-rD2IVmCwHksP5~jOWnIpMOrr7Bh5TfqGU0W4IHvae5zgcmUBNGY-F0EAwhB4atZ1155pxNtus0OYZndzCXpLUnCJwbxmy7a2hpqYztF345VcgrsX1vVnBK6pFk6GTDRZdsiy0ImiVoWl~eGgf7BViAlh0XuUnvhO2HNKnwdO1x1hKSmkQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps31 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/14/5x1/51x9/519x3/51930100014/573908541_3/573908541.1080p.nav2.mp4?Expires=1773435600&Signature=NO7q0oI5f9P7lx~j85gdWU8ubn2TyKNTu0NuIdxGx~a0BJyVdLw4QHyCtPzfxEylSUdm0W07rpphuuraxHabjmI8ukVc~EPWCWLYObKEZrazeXrdSCHmkp6yblJYfK--nIS0eDiscHRjyKI8ZeEh5m2rMb9UaQ61IT-~v3qdPtOARgV9EhlyM-BqCRJYoakvZNh3~YnBeVq5Lg07AWqpLPYeqUKZv4njq9wP1-Wz4GZ2Qe1q6aCi0vY3oLakQRE-UqryMxPH39sYC~~wXovghMOYluOYfO2kzy-Tf~w8c5xeaGnjAaVeL2~ijx4O1PaSGKQ7fr6GwrY1DWXjC4yU5A__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps32 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/24/5x1/51x9/519x3/51930100014/573908542_3/573908542.1080p.nav2.mp4?Expires=1773435600&Signature=KrKa9ftiSgCvOWscJl4lQhcE-WjoTOZvuhYCrbmCo9QN0qj1CcvAlfXJv-F2m5VTf7sSb27ubpUgCeUbRp0sY6MsLVfuRVDrqlmpwRh1QswE-PaiHMjuKGp4vNnLAcTnsIM6PK7ZCxdWuSEFyN3mVllUW7EedP6kVTgnQIYmMwv-J5T0m6OoY48deOF-MumdmhhYb-Mce8R3AZYBwBrJr17DZzyr6qCUirBewONBVBes7Twi24j93EGkh8j8nYNp-8bsBMOyDfqeyRj7W~oG508U1X5GJYbUBBjhW2XW8-sVZOLNu16IqEWFDKrEWPiv6W24kpRiqmScvaik7rGvjg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps33 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/54/5x1/51x9/519x3/51930100014/573908545_3/573908545.1080p.nav2.mp4?Expires=1773435600&Signature=oGLGcb0QNJdGUPDC4mCsh2t8DVu7ANEZaybE4i5c3Au3Ad8YaFuqfvCJoedzQrHdAgEcSE8lhWTRPzHm4EVYc-3qYTL90nFRTjYhztIq8TrrDZXiDQpv-lo0M4guepItc7xw~8BAncVET9LJPaZiTuSFwAcGS2QtGrKYjmb-Ma87hIjMq1vW0gpVH9xZS5LEzT5mBGcPJUy3VPSJVbqlYirk7M79fTtUY3KoXX6m~kYBTb8duysOo8NzvdGBpWHJt6OL~OBbxNnu4GdnGg117qD87MDp-cPIPv6g~g12fPDNoRYNttUJvOP3B7zRrGxZwt1~AoQIpLY8Qr2Tt~IuVQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps34 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/84/5x1/51x9/519x3/51930100014/573908548_3/573908548.1080p.nav2.mp4?Expires=1773435600&Signature=Hl1ZajzBDt2~2JvgSGYZx3OjUIKgPDgvYHNKM5CnJ0M6tz6LYX2pr6QAwM8jwdDOTlTJNGdNq4mIwqcINhq4p5k747SBOf5pqD3EhaQTuQYKiRTj827vdtb-vnQdLx6ulnsKkKVlCSb6LULYTw0XqknVcbqTRt9BEy7WgyYPJenbmnr8CNxiPuGDd2YPaegeq3IQoUl~8p1xofEXKhWbrcZ12Q0v9imTFmZIhZwwrqhTj4~XJYf9GUcglK9po2VsELq~SCXksL2UdA64CnvYAUXiSZ-8ZSO3BPn-n4mzxgonEkEWzcLvGEjFyGXR5-SUQw5ykFRMxuTU6EKiZM2NeQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps35 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/94/5x1/51x9/519x3/51930100014/573908549_3/573908549.1080p.nav2.mp4?Expires=1773435600&Signature=ScLsAMEqU~VM0P-4Q7FJXFliR0M88X-DGjrRHOBzOgrQGahr7KsTZhlM4x5p47w0XTG-gz-O67BtciDMbhtC0xcRazpR37YxQmvLw3MtK0lq5h4cmm~zLVEX6PIOfCNFuOSqKRDLB~maYpp0XSVu3kmga9NDpC8gR54hjsfNShM~GXvC1pyqlK34q667XOEK9B7ulVdYhJsU5OkjABN38b5ZtEr6bBzeOjWaEGNjwy51nTpTWBRe2os~MYNxCE3JwA0cXh2MyDuJPL8tGEB62Lwpdv1DbZfxCjau4mmqIeIzTldOOWxVvdhgx3cfCO~BAHi01RTam7DnRoGshrwSmQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps36 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/05/5x1/51x9/519x3/51930100014/573908550_3/573908550.1080p.nav2.mp4?Expires=1773435600&Signature=pjGeoEI-uwHv79XQsyUTyeSfKbR5J0ifDB58ImY2Uq~Nf~9hnXMOYLNN7Wdu-e4T6kixRKpo3Aq2n9cbYyv2bVJjWi5wFhcaHYyE1DpYtCe3VaXgkjX5mtBARcrmZ4-Bu-JegGQXBZ8yqZmhxit6vZtay6HR3W5jCPmzxP-x3QZxGwNCthUDAFh5-rrPAJPxTmy90oVl8-ZTz-Y0UUfFCRpPuOKbmGdvM8BWBMvjTnpG6oDwZ9a4TuEUF54kVplwGZCcShRroBiGVdxjnk~gzYvm46-h1Zh9yf7waQnuUJDy9Sdp7wF8nPrjmJVWTWFRLbqd~v8mOk45Ks2speWFeA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps37 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/15/5x1/51x9/519x3/51930100014/573908551_3/573908551.1080p.nav2.mp4?Expires=1773435600&Signature=wiA-OQZWlhovc7tsPwDVrR9N4AvCCOdaveGY7fMaq~11hdTzZok1XEZsWHSMEhBoUOXuejgfagMY32zyKqCpPuYL-8nbBWmtL-ZGS4yd8Ol4p0yF0rVNOMD0sJp5ZAclRY6iAQa2TYaVpovnwvuEV9WjlFTVGrdUlBhcpkCNbXL2BWtOhKts6fyyJMbvDJhRlX-qoRoMtOJteGQPezcHaXnX~A9BK2d0H1IrVNn6hGV1I09gGDXfl6yX4o1kxjG9ecmQJHe7kJJj9c8p~8wVUyV5AELR24xLWUvBC33W0lJRS78x~Ms4n~8t4M2F1cvo6B1FdpLmbgt4dNHE7Wb5xw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps38 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/25/5x1/51x9/519x3/51930100014/573908552_3/573908552.1080p.nav2.mp4?Expires=1773435600&Signature=hIVH7EAB8r56uZELkBtmlAi-EilbdwsRLzA3LyGOzx-iuaWlaFzr-btMlfOJ9DCQ6ugTvAwvW3gJfV2RnfBOBu~pTlItQpdKQQgaf4LAsO~4UdZznLg9-BE1BOIWC6WFZ-v1VTwqFQsgjOeenqGTDQ7HrEuBzTxVqq2nuHB8iSSXrXWOS8CxeYZrBIzyFG9s8z6gbKWZmEzic4qD5joEH2Vx6GbLqX7Vl2aeDoVs5rYioAJKJz3GcxTMpdk1jhfMy8T7rDk8sxVZVXVYN~OY9V973q9SNathMl8RKX~A4xd1cht5b1qukx5GhrJxvGRgpakA4PZ~2RLFEs15Tf7Oqw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps39 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/55/5x1/51x9/519x3/51930100014/573908555_3/573908555.1080p.nav2.mp4?Expires=1773435600&Signature=FVfIPPyqlN27aRd1dexQFheACamBgGhuv7aC~nCC-zTSFdtau6bNpYB7qp0dpGVc1V-joMdL--n38rF4Hx3hUUEXThFyGlHI6BTKQh1w13bPgGuKDwmIk4yN8BPql5e0zgrBHwtryqp-p15~X1Gi90B7a0-pBhq7QmYkTsZPep0iLHI75Ui~nTUsCsi1vAFJy5fhK~OxTiKAVhuuiJw2m-tq4vqYxG1w34-CVwTOE0oL2B2q8PGsfQf7HwKVdmV67cgsegPmiG6Ts-O9MG1Bu5KdHS1EnquRmpiobWdCWnxaaVH6bjSlz~OrIzhAD-wQlKwd7yzZPvV0sVXydPOVvg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps40 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/75/5x1/51x9/519x3/51930100014/573908557_3/573908557.1080p.nav2.mp4?Expires=1773435600&Signature=Msi6Kvq739Ao0Tm4hG-AueISL4fVmmDk2pfP6012Jfe1nj5qVnFJdwjq9vI9JQruZ7ZiotuuYWg21PMM72BclIQs3OBG1xt5OEUdwSMK4RfGgBjc9Z0UaC6G9qDN~Mb2h3tHWexcx5jIMfnhwlzxNQcge-h0oL4AQkTV73c4XAEqDlz10rUOve-eGHYPsoSLSbhwEQEEtk-wFYQxio4GCeqORTnbNOvvWkyFG04BUM8cpYP3Wwhq5Rh49z4Yuh7La6eJZkIX0If4SJcy26nLRRduD74Bu-BwAQBEeHFqYghOHzzKLFTYz4ToPn9iXag-Mhw8vAZzq5kt2XG5EH~ARw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps41 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/85/5x1/51x9/519x3/51930100014/573908558_3/573908558.1080p.nav2.mp4?Expires=1773435600&Signature=dio01bYPVktksSQwd6dH7L5A5U4WpNx6jlo7BnlGHsyy82q0WpQApbfXgsvBn3AbvqzIRW4N~h2LOKYvTS7pzXnYUafWe6m894U~Oj-wAA2-nsSMZ4YEFsAYWtzipGOKcgwtX0CChMk1neRc3HXjeCI23emOZszMMxNRTEvVDVte5sPaMFWieaReYO-Et~mGfyFIMazcVNDEsRRgXT8QQSwtblAFFOPiWhrlyslUBz35wQ1vEsVOSCy6K7xXxoVE-N-YguMCNpJIMqOTly-YiurN~PsDJbmBbcRa9Zix51~54qi5u7FNeNZtWPddoOsaRDPO6PRUV8o3ZwoaEvdX~A__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps42 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/06/5x1/51x9/519x3/51930100014/573908560_3/573908560.1080p.nav2.mp4?Expires=1773435600&Signature=q6eht0bPeqAzUEVO3hnwrlBPoGVIMWX~CaylMusku7POcaEkoqcSNfzLaC2crg5ZEM6-rPBtjndei3vn9iVae~Mdf3S7bJkYBOJn2YDy97-ddELrir8lo6SLLM7kQfCzpATGla1LG4HQDZ5nHmqE73-t0JIRVtZEWFQpDlci52qq-NgPlCzXk9VqD9f55u7TaAtqNnfmBHuMYZVQJONslGfVblU-dK6WEHqQ2XHso9ft-7GzepvCo8z7hYfKw9FdJPXzZeus7NUx94Nq5mp8hcF1y~hhkxWtmrRwBuIFaznUZseJfoPTcH~OGJxG8C-YasrZPAafiQw1ycLSkDIuqw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps43 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/16/5x1/51x9/519x3/51930100014/573908561_3/573908561.1080p.nav2.mp4?Expires=1773435600&Signature=eunnm8XO4ZvJRUQupmoMkBbeN8McTrML-j7oHqp~4cZkVVsHt2F2NAt64cyHcQGVGaPtZCGDf54YoM10tIjOAdt3-fbSaSuHBc2iHNytv3O5DTi1SrA-BFYO8EZblHbMFlVOLIkPtJZseMKOdZl9LqZLZVuTAgsqT4zLpVjD9j5WF2ytFkXbJQnDLhTzuoE1ChD7zPZUIEbYb-I9A4C1cGsJ7HddH1Aad1Edfc7n93zIKMlPWb53xm1aMw1VsZ3ivbwF9vbQlwelWzx2q1sIfcR0QgPBGEf9ZD5hD6dPPHlZkZd6jSIfvTS80D2cP9dnvZyvEesijp2s9arbrSLwlQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps44 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/26/5x1/51x9/519x3/51930100014/573908562_3/573908562.1080p.nav2.mp4?Expires=1773435600&Signature=nEdEpMtyreJzPW-y67bAlkXiwvnTmBxcG0WkHNkuyYnYkc4jaNaU7Q-~UBUb~4Qvt5U6EpanDDoycjaLhC6dlK2E7IfhopYEXcgJd-vAyz9X39u8~lNECGr2QU69SWveB3q5lGTqKQwlXenfV4TgMddbek-YmoirnQf~UJudXT4aDOevgrDqHdtU~F2MfLyr7W5cp7c3BtvjoMsnMeXhPulcJ40~EqbYdBTxDTRs8UJBpB7rX-aixUrwj3inPW3kRwMsN1dZB1pLfhQRKGByu-AGdIR8csUlDSL52BC57DTJgj-oar5k3xJq3SLymyvmXJDiQ8h1FFazTGokAgQCsA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps45 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/46/5x1/51x9/519x3/51930100014/573908564_3/573908564.1080p.nav2.mp4?Expires=1773435600&Signature=Z~Ge-FdDGg~eU3n4BogsiGlrKeBQmNkZHA25o4QMkH9VvjuupnDwbo5vkoASF1SvfkNmbTqEJ2bXXUmD6Hss0hTvA3lJNruPsEYVHRN3unYZsyoHnGM43hMFomCRR~mKL5HO5erXNPVg1fFvcJjy3Aff3Y49Zc6Q6TjAfF5ah-asg-cyXcSDUUp60BmG0eWr5WXd6CAewlbw0~6yOrOqBCPOBxYAcpwOSLZ6cbOV-2NHBf1DhGmomgthHkFzdv6KG~S~6vyW7qNVDA5Ls~TJU2tBxlNKFV8tq2209Q1QsVsdhafn2WM4cZdcNwKVfIvwD9XYBIjwkDXe1T8UMZAFhA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps46 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/66/5x1/51x9/519x3/51930100014/573908566_3/573908566.1080p.nav2.mp4?Expires=1773435600&Signature=udTxmZeszGyJ3Fby1kDmiVz~h0yO9CjuLzmaIsFPjwNpOuoHYq9cDDN~JOFMGpBomTnHy96DcVPW~9TckD0uPvGN8IxDLNXIO6z0fRR1lnYn0xTcexUtTlSzE5G4JpJC8NkNQbg3FMUM7fkqeOxi0QldscFmVeex79pxEEC~os~pESGNCvSsYaiC~xwiVutZh2NZCyey5PIY9ukulCLchMyHUlhgP8cKWb8jKMz0CRlp3FtCgxrb2QpAeNaypUBkqVThfbCQ7-rPc2r4MHaH9dtwvcmmU2FKq4mr7nYPA8g5FVKBJ8KdyqOMcGOePDdRo863DkHwtGioHQ6eMWEzDw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps47 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/86/5x1/51x9/519x3/51930100014/573908568_3/573908568.1080p.nav2.mp4?Expires=1773435600&Signature=E-KeXrdSkyj2SqrKIPrdrGJIhRcMOMaWPw2CdLqxdDOQ7i3Y9xUwFttGrL32EoYjYUStjgclRmjs2zovLk12CeUF50wAacMT-Q~8P6UTyR85-hpcEhk2JzbpriAF3a7mb931suiWZeqyFmpEw2lvxy2t0TJe1Mt~UXnES5-u2o-zfMhCwNoDdmsyXhcmJxzHJnKBwGSm6~KtxmXyo6w85hJjPjYUn3bJfpxqVQ2F4g5o6RpM3I5BRV8pSdLncLaXGFQt9w4FGilCE6pSlX-kTOP~9T4uILx9ax9s1E60Eq5vN~FxWS-FNcLkXG~1H~4ONF5WcjHO6v77QbUPQreuqw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps48 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/96/5x1/51x9/519x3/51930100014/573908569_3/573908569.1080p.nav2.mp4?Expires=1773435600&Signature=F3zafqRyu-f~MHWtYq5jtkJrFanpoAy6D63azSso-ZJfLO7xGLiz2ug9kjBA4bXZbW99qUFMaZTgJvGMZk0I9cX3bVYcp4a8-MjFjNwN~5Ksj9tMvHCtrdUAyW1YLDQQHFzTx330sRe2JL6tXh4VzhmbujfLrjDSFKwKIZF8u-6~Cq6~dWhe-iqVpWFD7cpLv0FH1Z8Mxk7hxnmZjkzqliIgwa8M07NVhVTcPPLt3KVlutRWjd0VdavjF3Qo2UGd8i7oAvW5KSflTK-ImtoE247eWKtcbP5gPJ57AcXbh2RxkJov~E0GRwR~R2mn9Ap7l4GPwZhz~S6wPFVSCJCSZw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps49 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/17/5x1/51x9/519x3/51930100014/573908571_3/573908571.1080p.nav2.mp4?Expires=1773435600&Signature=vAZkh7Dk7t3cHvKB51bAxTlF3OdjCFLzyfn4LCweLU0RD17QOABxDCvZyCJaZn1pw5m8KlukJAQKPFIxBR3ltP3QjfskcUe5xQlke4vzkxWkykCS9Ugu9HJ4Z-ofy~cznbYxcCN1SgglcVLKuK~a1rTVvEeXxKDVkm~3fXmDxlKsaf-iKLatf3ZvGO~f0bhJBOw9iCIs2DxKyy5U2fOCMXog-9YOTtfnFZlJ2-4wwdJ12peoWMC1VdBml411usc4GONfXRAKq0a-L3XHrlD8TD4ch6qsDL~uwyUmpPxVe4ynTUfsSQV7umNoJ195w4vUQ1z8U90S-Ll1Wl5xTmQnUA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps50 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/27/5x1/51x9/519x3/51930100014/573908572_3/573908572.1080p.nav2.mp4?Expires=1773435600&Signature=Vh2T~S5vg2c1fioMKLlZTkVfvObB2aca2e2IVvhhSAQGAPTN-OgxiB0gUIlEODOnN0jD7aOhEVX9jiI4vAKQfPZaQ1krwTDI7uUZJ1ytBZwld7j9Q3~NEj56DFWLXMGVX9wEcgS9o4VuC-bcOtHFpWV0DMTI2WG899Fo4FMjgd1AIqB1btIbLHMl4UlD6fD8p-o2J0DBXKt6EdhOV49G2YJZaF6lK5gabH8ILUmRqaPu4-BBTpPklGXyUI9j4pwbr1AR5jBogdTghQe2YgiQErU6SREkZ7a0~R1suI-ZHD35sTwbydvnbArx1zkWuLl4toxzWyIGm1Kfb~PtjaH9KQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps51 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/37/5x1/51x9/519x3/51930100014/573908573_3/573908573.1080p.nav2.mp4?Expires=1773435600&Signature=NsfHZN4~CSBetC70x6vFn4O4-ykHq3prZ4monz2ZLflnSKdW0a0HKO8qnedt7ebfkporlklhN-jSV0FDPmH0wNRz~EVPv7Kpu2qji1-gy3vXUvnyVpu4lrWYZREMexQE1sf6fO~0gryjidLaE-3BCnQtrU7big9dddnCiHAaSuWwB60muVpZxwPps83c8ITG87wzRx1M3o-ukzPrqSBVe32ebQe6Qbh~rE40AA6mfDJCGcOPGWzmzebs6XMol3vZ7rbRoFuYU6xB-swwe-FSecxoBHnLXlRbZ1En-BqeXDItM9LqQfyYpylslivy8niBImozFtis2i-SWZcV8DRQ0Q__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps52 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/57/5x1/51x9/519x3/51930100014/573908575_3/573908575.1080p.nav2.mp4?Expires=1773435600&Signature=0EYX7xaH-eC3mBTcYRB6fxjfXIlF77PvriOwmuhEs4SsFppRFv6Kl27SPvJcrwq6MKKS5K5FJc6pvEU0YJ4~hWBt2WMbs26C7ephuPld-voosdf-CI3yDoXPxZEkcuKeekLA9OfdiHoZFNiEUxg17zc990ROQpqnUYA~xbWSM63ym581OXqT5vG5k6QvNsAHWUYxuvpTgFUKrR6kjmvETO16NSSsczGTFe4d22PeNGf9x-HArX8CVgEeJI-sAsUHE0O9lKWXE~MWQt0V~jJMGkOvCAvAi1OJTigFH-vHh7iTROI-VqQ2mD~yxeFOv~iIlorhi1wqOQ681aQhs5OZEg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps53 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/67/5x1/51x9/519x3/51930100014/573908576_3/573908576.1080p.nav2.mp4?Expires=1773435600&Signature=e4bCiyZEfMpOT~jEP2YQl9sWs9DHuoDff5FnNAE7vP4z68tyj0lqLAgAnffC~R~8ybAnKOmYCvEdRNAccSzexduydfStZl8OEj1NqNhuuod2R3UHYk2pf7AwXHpSGhXsUaJDGywBrhXyRzKGnPYzmJBLZARQBNTv8cLPQ5ckCcWIhvv2s7V9pt~6ZzHhJo2nTYCq3A~sknGLHOB8X5HqM~WG1AbrQdu4nG75TITQUQruEnfkimQ3EHQcifz64yDvnEL01Nr5~w2JgLeeYLyLR07W525zQ~huTzPkoAWSrdUi4kjIx-ZgOJwHvz6rfGrsQXTf~P4gOHJyRedB-yWj0A__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps54 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/77/5x1/51x9/519x3/51930100014/573908577_3/573908577.1080p.nav2.mp4?Expires=1773435600&Signature=AJl85x6qqi5yADfmVPwFb7OCUIhNKTOqTvwF~7It1Ew9cKUb8sqXtLeVlOMABAXmet4xPDTYTfjuH2FKtkAwOQRikHL-w7hKYBl3Yh3Abr~WipWmbcYHbcaOjGirLN5QeuoXEJF~1OUSjnz-h0s7VagPjNw9IYUso8pT1pAuVbCG-rX3APJQdCIf75tqXJHc30BtJqrWQ3VnFU6jVN8vPkXRJ7Hsp541z8C1UG9DQCNT234dNjgnw0kUprUOohXKIzp9MXnnOXXGNUoDtxYzPJTVWZfh9AnnWRs22W6hKrtNLNJA~GiVg-FVvG18iLcXNxPrN7EGiKcxLDmvBiv8fg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps55 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/97/5x1/51x9/519x3/51930100014/573908579_3/573908579.1080p.nav2.mp4?Expires=1773435600&Signature=dJDOvIggPp9q5ZYYwfiFWOzMQnfC0XjMFIdsTdxRY1Onxe-jR-wurpPTsDAXJeForqrhRsO0-06Z4hTmIeI4my5~QvZC36zQOdhQQSUMm7w6mQrwgZTu3-ztrqOiH~YIDeRd5eCpjxPzPj7lmZGczAsuBHocGz5-KT6Odksj5fNyLkDigRfDh5F0R7mLRkx7eRAN5Lw9FWTxiPgJOIkq86bP2EKXM41d0ZGMKFsk2HcXVZcyPKBvQ91SE9LZDT8e6TteUv7jjhgrpXKOJz7dBNEc-IvZMuM7OwDVtJTcu1iCS-v0Ujs1OTQ8OBR5Q7lxWLc4TwfERiSZ4NFrCRYdIQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps56 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/08/5x1/51x9/519x3/51930100014/573908580_3/573908580.1080p.nav2.mp4?Expires=1773435600&Signature=n4grjUjpjRHx5CoatjiydEK7px-dyzIvmPReAoEA21kfK~46sMePIRJUyvAFZcuEDDxh1WHaztw8txQQwEvj2HaobahG2u62pfuqOxBM1YIPaC2jm43vFkxKp5oEHxKIz-ykGdJwEM3AMLku9V~hWpXnjd6ASf4oRoQ9lMkfmu8yXKS9jAIscT~-w3K5y6uKgZiv7BA42COMMDPcrY1Q-4xt9tmxalq7FYVFFLYljelj2183DSDoVSWkMJMIfLqk6yuHuxmyiJW5qjCX~UCrLOdG2taCGzi-0~3VVjDPx9iVP10Fy6TPHS3AfG3KjIkyhYRp48XFWE6zgeMXDrRLLw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps57 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/18/5x1/51x9/519x3/51930100014/573908581_3/573908581.1080p.nav2.mp4?Expires=1773435600&Signature=tpajvYhRKQBuh4wMgObSYVdlaoG0Jh6m6nRh286U58ku7Dd5IpGsiHI6EtPzowB~o0e22bK1LzYLvZlUW~2iDkBmF8lTakIbppHWi7LrGie3njMBm7GykLNG9K-PzyQCsncCW36wyuoVgZl56lqiowrZQjoLUVkTlxg2WxvZHSlQ9hQcI99QdJ4bjWPIeaoKeR1UEE3DJg6OPky0ikfiUw8H8J77u5RYr6DrNI8emzYDQijNcO~6JccNwL2mouUY0xOKzwXiJBgcuiekV~yXBDEYOSOVG9ur-SCw01u~C8Xcki4JefY3PrrTOUXzvXVjy8unJq1CPsaeARFprcmeYA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps58 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/38/5x1/51x9/519x3/51930100014/573908583_3/573908583.1080p.nav2.mp4?Expires=1773435600&Signature=myly2xVqpMH19QRFcoHyfQjW1nXa4i0~tJ1W3IY-54x5-rRKBcecWaSbDrgt3c7Bp0gL86FANmENx-wmLb0~WaDb6ufma2s2zrIpWhSzK9dSqMPiEN76H8kBoukf51StAL8LxtIOTPSYRra-AT8DeknJbfsuPoA7fUaYoh6~1sLHE9KVASqLDqMegFl1zXeKioCXXmFtQhLu9mpwEjgTkx0GqH5Nbjx7wKz6z8FpJ29p2d4yhYf6qzQy0LuJaEt94quK0XS3fM7Iw3jAJ51t2hpld41bcOrZB53GM92zg-mexx~t~RaOUZKLQ34QDwb3NkcNqlCS-XyzDTUoz8a7pg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps59 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/58/5x1/51x9/519x3/51930100014/573908585_3/573908585.1080p.nav2.mp4?Expires=1773435600&Signature=lqEEmvpiiRjV5ggDPLtF2bTYCAUro2ZhV-DUfh~7HB9KLj4iZR56XoItaUnKTwBnOSG~xMF8dbPAixnaCH8smjtRgho~EauciT7-x7RoPYRWA07vmCnuK4KzXyLLdDDdArzGe575xsfSsG8jKtEnXOZ3lK-W~rqNb8obFtr2wLtkCKwrd5O9cMHmnkNO6HpWfyYbN5bTVeHLHEcc4HXUsSdMWxSafxKer~mdBfz8XR75RvMFCxcbaF1C6m5FNaM328f1fb4HnITPhScNfgqEYgJW33N6xjc-lRC9Tuq9ZxBcoIEAXyxzUK8HUFuMnXe1sC3ikqxb~ttHfO~OLMP8tQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps60 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/68/5x1/51x9/519x3/51930100014/573908586_3/573908586.1080p.nav2.mp4?Expires=1773435600&Signature=fPHR-pdiwMhLx0EoPhQs1mirSxo0l69B83vRRG8OsQa18R-s0WgNCANVQB79hTT5PaepR0-q8cUUzhvf2-xS~s2pY~pN9izcrhlW3dnH3I0jKVybQtma~GwSINHW1s-lLZ4xab40KQG9kfY58WIblKA5fQcBE5KmXdN5vBXLmfG92MsLYCeH7nhPrSSIDAOF0H3usXCosgBa6h4rD5lOvSWCbEwqOBtoy4EzXmYw4m4tNPA0NW4ENIEIMjkkr0HmCfjmeFf7U8cljvA-VffDV1wZyfPT09GzQa9KlYv9tD0KAwXMCiRB56DHAI-wQx2MF~yjz414eveC59QIFqiagA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps61 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/88/5x1/51x9/519x3/51930100014/573908588_3/573908588.1080p.nav2.mp4?Expires=1773435600&Signature=nfKe0pkSYedM8O0v63Y~jXiFQ3A8D-PbjTW8vOIw2mXo2FPysVTpMyT0q6H3eHDY8GSl53y9G60BXwmB1lODJY-Iwyd8ohA4XyqLTLUOTDPky31AU6n1MNdhSKCiQ~AHXslxcFD4pzO1CPk1OY2q1hnvtq53oxJvMLA7ZrKkX1GJr8X00NRKZXds07IQ3RFHqOZNzN4hvm7MiM8B3Gk0tNP7wreneqEJ6OlTdmZlVWIheDEsbLdxPMRjKht46hsrz-NWafuTe4A9lAUR3mtNnk9ObYYIquG96MjAgWz2pmrTANgnGAMq-SOg9LKmMhpe1uuqWMAFnNg264kOnz3ltQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps62 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/09/5x1/51x9/519x3/51930100014/573908590_3/573908590.1080p.nav2.mp4?Expires=1773435600&Signature=dflCXBJLi28DP0Zs5Ui8nLBBE21X9ZUSQIufstcTOPaGX03EJpEeAsLoKuNSK7KAQSq30~RoHotsorgd6Ei4cs0UmKMhB6G9f0bjl5f8ZcBmNdZzE337PMpY20uliEG7CNbRR~5B2bS-90g2-nZeiN-J2aTZnEyrYcIZmktZlknROIVOsldaSKjqJ1fe~iw8wPeGAI5qgTc3tZQdolDzlXThH1KkxDq-GMzdfQwfaYChGJt0njaRzexu2aqXaNIPKRsB94m7lMHTViZchmPN5znb8II5JuLcwFV8UFmxAEkkViP66V8i~1XhI9wTNVTzA2l4hD6PxVp6Lpqxl6vTzA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps63 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/19/5x1/51x9/519x3/51930100014/573908591_3/573908591.1080p.nav2.mp4?Expires=1773435600&Signature=KzuGwEwP4O4IlgAm~GJ2lwwmTYP4CeKeZykRm1nr7K2y7sEXyMwqvU9aLG8rh7KxQQcmjC7fZj85dTSB038y7dcpNBDatekRn~-nme9gZIMg80JVbulv~TY9x8itYdHhurt-ZZAjkKmP27irx2bIpex9RzWsATeD1Yg3KxhGD9utCl--DevVLlHq~XXqPF5d96uQ0P3BU7QCt1HrP9SP6k208sGALMhvXBFY~MJCuy7hTxkFbid8gohxdOSROr0VxJEVMspDx2rkM1SYTCCmGHOesoSCqsumrRUzTC~EMYQLFyFNSEUjf1wswNaT9HbgqZ0lbxoxtNUrpvXGFiJaQg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps64 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/29/5x1/51x9/519x3/51930100014/573908592_3/573908592.1080p.nav2.mp4?Expires=1773435600&Signature=Lk4qPfcie27pC2~23~iBc~YdIH2BIlsSPdd-IrcxzIfJ2cUroUKFF8PlyvpVRbsB7kZj5lDsCwhK6vugn6RY12L1gnntrdegCnR0I~nOY7ULk~UYSM7W6Gefz09qC-p4ogtyi~CC2md3FwyG5ZaxWo22jpPHAA5qxbuqcd63dklIRy0XUgLAgl7o35NoKRFKVDfXl5c7c~40S51MIBh2uAyVXpAxlskOCsoJ5F2Bgt50MNhiHPcZD0n-Czw1eAAECU3OIe~e~5pXz0RiFoJKNN~CCl1wwE1SXo3-2rLDgccCcMg~wOwQ3UczL1JbU5BKI8A-i5UCXFXDcKiDIC1Zjg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps65 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/49/5x1/51x9/519x3/51930100014/573908594_3/573908594.1080p.nav2.mp4?Expires=1773432000&Signature=I-heSway9ml54mHiRKVsEMIvyNXyJbBa1T1EKeaE6YWUg8AXJ1xXfwp26ycwmD5r8x90~kuya~9RVgKmDcuO91thWiESpZZPSy2vgKD2H4awW~81pCJHDSZJj7e1qP9o4JoODZIvJUJ07tUqpd88LSy-NZFGM71-qaSe9wY5JfzyvWOlQI-vh~IU57tYIAzP35QwdPljy-MjqdNjCDAb8siUivEOnlupgfheJ3lFBWfRgsV3trBL2QwiDSRoztfZ0k8mfewZvQLzbCXJZEaaf58Hbi5tobe2PHro2mGYX-B367Sk1g21j7NIP7UEqRKd2RM3G~CDWwShfmk8LTQZCg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps66 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/59/5x1/51x9/519x3/51930100014/573908595_3/573908595.1080p.nav2.mp4?Expires=1773435600&Signature=dQZJUnmSJHXgNILQttmNWfsZmOnogIYraitpSMN5G4UpdK176fJYRUyO66QE6qIzW-hhdWFlgrvhSFCSU6I6LhDUQBib3V2j0xKzZo3w2FD~99-EUH9WYzUJ5GrLFIaNSrxsNMn81RnktmXd7SYwP~aA4Vxo7xTHtjqus6TcyVW-BBpYpjLEOqhUVQWlGprgutrx03aN5RkB~kIBCMh5nvWd1eb2vVN4miTMjtmEwSGW0lRq6lmbYxhULuXfZ~~LFLa7I6kpfYLw4MKJsA5PCAt~rW0ED2P1zxUQe1I-kb1DcerPSfyF8v6XM49pqttjPFn7lcJ5SuWPscMsbwMsvg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps67 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/69/5x1/51x9/519x3/51930100014/573908596_3/573908596.1080p.nav2.mp4?Expires=1773432000&Signature=znN0yGdbKGVoku-XPn5M-zxAXXzlPpqpwNAZ7y4zJNbYHMxQQouEpELsVDdDp~Vr2VDvCtO9n7tfIf5nzn1iZPKaU75aviRn11m146WCRUnluQDinTKetiLxOmyexoKAD9V~F-NnslTMni5aBNaKw0FfhKGK-IiXva6jwfCDHhY2cn1F6KJqbF8~Ts8X9b6TbWBf77wWcM-Yb~bQXwbZdnld0mZrDLr-ePqSrSYfFg9wE97v3vSf3e7itr2tFpy~Y-Vt~B6RHbrdnorV-tM-smoiRdleWFPhQL2lRFCaqu70QwhuoLPYcduLo3Kx0EXqGdgwsK4HIuS95M6qaKq28Q__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps68 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/99/5x1/51x9/519x3/51930100014/573908599_3/573908599.1080p.nav2.mp4?Expires=1773432000&Signature=S0YP~9Jq7vb7KVC3RhNmOvzarydZyEbpFyUHQ2kpRsv0shx5qfQ~UmpuP01kAx9JziBLi8GilcltjvSKnAXgpxBdqZ0qEeo7yc3AcxeRv159P6s~YCW2L77VaVaUL73oQQ2F23yKS4qqArKkdcx-gr4WjkvPmGy-WSWSW-m~IDB9gXYTR4lOToxAss-s1ScG4sTwT7kdT-wbd6mjiR0KDvbV~TDx2YUqStwtJi39PDA-0g0OMeE6w4mdz6zMhgzE~PHPGUC5oXRE6cbGEu1x1PztXXrvlvPP6tfVtVuf3VVOxU0~EVRo4CNjo-fI-L3qxZ7hY6uSJy~eIoHPgrNvnA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps69 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/00/5x1/51x9/519x3/51930100014/573908600_3/573908600.1080p.nav2.mp4?Expires=1773432000&Signature=avqSiCUsHsy172Wu6aIdId3N9umRw5grFAQEm2pPI42u4moMNzY3EUa4qn50q~o0z86ZZ1Rs5DAeuWi-XNAZgYbXerF5FzpCWHgA~F4Zvykk5TgCjNHQ-SeKf8lLOwCXkNhmoKtzKxgZ-zVD5qJQfGiDwrtuf1zywomjRysdt2r6biaaNCbp1lUttipvoDR2A8U1fPjsCMf78-rUSCJaACJxUxM4bQatiHJhBmmAr7qbg587WdHELdSIsd1bqLN5kR6FlRA4DG0x1le9BulVKrbz~WDy~yXABIajBr8~-YNm43zjhbWuR0wPs0p~1PSqPF6q~9bcFBzzzHH-icZuLQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps70 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/10/5x1/51x9/519x3/51930100014/573908601_3/573908601.1080p.nav2.mp4?Expires=1773432000&Signature=MbaxzBZ0eNBHv04R7X9pjRep0v1UyswO4IF3OLg1a1fb4Xapu0zBREt8mNm5-XbO~WGY2rOuU8dprEOg4EWr6Uga0htMvdlukl9KgK~7GwEDlf9pw0zft3lTFSebST7ctYAewlawSVkKoUpbN1qC6nqz3Jv9qHd~BfnNEWFRYzjEK4iahk2B0Kv~ER0Usp4nsWJiqU6~1OFfZOIr6zWdOqWU0YR7BMG4AdA10OSoWkl1CiERBNt52bXn3zewtdrerNx9HSoDwKtGo9It4mDspRl~xjJjH9Q2GzfWMHaTmO8Gx6KfLGFSQKwdMwimW97EiJ16yuMfOvr9DY9UBDDQsg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps71 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/30/5x1/51x9/519x3/51930100014/573908603_3/573908603.1080p.nav2.mp4?Expires=1773435600&Signature=v~wNFs8kJCgXALTRA6~T7MjAdLaXgwc9vd6uD0-3oQrQcQxythj5CWLESEIRhD9-KH0BsmQIgyticP~Tnxxz5BDk5MRLtci5ndoB19oOb7dBIhY07PBDtb9kZukj77wGeVFFQkKtIju9OGhD4~6jODAUh~XoOUDhpKPP0yd9bkHtQhn7S06E4bLCRde-6pfq0aeYet64P3wPS5sdmwfUnG1~ElUGCdWDA80Q7~BAR7~xUtawM9eBtNR-VWojAB5UWKERK3XU0G9mLAzuC~LufoUFcHrThTpL9X065TGbc0wF2MKTUxRhK~HPiNxfRrp2SUR05qKaVSfGv4bPC5sPfw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps72 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/40/5x1/51x9/519x3/51930100014/573908604_3/573908604.1080p.nav2.mp4?Expires=1773435600&Signature=e6t-BSQSOaafb9YafC2D1hZmhiMXUs7irncy5k6eLh1D9TO0rwAiQKTH7EqzkvBgPKKGHzythgXDOgIk5PPDEABZm5UROQ2mjNLIxTXAlX5GG4QsT7XVxzdA0pY3lflzFezCeHLWCJadxsXo1bmBV1uiNe6EiW3k8zEjHOTlboMgZ98n~yMBoVZ72dSq--FA6MVrlw5IVPhEpXPiewpZgnm6mIyN8GPX2W4lW7pYziqk2aCmz3Cd48piQOk0b~jb~OQ9A3rux5BZguEJlLAQNvDCe96AV4IQ7NXufPnKNXVXemeqWah6G17h7YfxrLps-PtW03qGUceYejQ5hQwicg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps73 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/50/5x1/51x9/519x3/51930100014/573908605_3/573908605.1080p.nav2.mp4?Expires=1773435600&Signature=DB7rVYNtxbLy867-WmcJqcXhanzDi1faUu2MrbRtIizraqE9vnKY~kFFwYoRsErFlxKFa-BKGzMfh0nkL~BImXxrJPJPiw~riADy0D1HH2OVqQDbvGB3pWkN-lfZay3ZKHonIo5BSTp0lSmX7~TajuyTKVDdevxPYmizuX6s2IxotPDLaTK77yNilEGiq0jRpamEZ8xi748yG7VIK9WCUZ3xqIHZWb0bL0uBcBj7C67oO4OqouLHm-c9GKVp13zbN1gnWimHuHQkdgvfEpSuaGyvQ4vW0jbwsCf16D5J1ecwJxBu-UkRlJEWWOz2NPy4t3z5pO~Ysma9jC80cdviPQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps74 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/60/5x1/51x9/519x3/51930100014/573908606_3/573908606.1080p.nav2.mp4?Expires=1773435600&Signature=JMeznf3F2vciHqdIgJyJiflyd5a3gIMdtQ7rMQjrEkYo9jhhEjhpjByLymPjDLCZlDzrQjjiZ0~WBiUIcVrwoBukHj2SwgmIfl-1gY8BK7gyCFCxUbeK2oegmec6ONsrLYq7XCRIUAGbNCWS5g4VsUY3Prf~2JoV9AWjnMNhYLSRIUy1zWD7JIFDeTtgjD0X0up55qm7U1ig4y60s4KX6XVSxFQp7cti76It9j9Ib7lhsgqaOm1BiDsvFmshJk6-0ph9hrx0C3EsptYLd7sWu7ly5RJo2Kk3TnxmFRiN2k-4H~4LCcGny-0prj6bHiCSJnpq1z~83oh5loRtbdKcYA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps75 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/80/5x1/51x9/519x3/51930100014/573908608_3/573908608.1080p.nav2.mp4?Expires=1773435600&Signature=YTEMXjxtILPf7iVW3HKzVuueYNwPCsO3yrI~5Wk9Us4x7uMmRtTv6urJzLzRku9E46cENRDRyQdo9ZbGoFPeL0OiFuQryZ8ISL18jgh6Z2eo4O-lEqQyElqsG55MqNeKdQB0CyrEETMrS-DaFWLiIfwXXUjWbnoH3Kwd7hf6XcZgB-KlOh5CaUMYDAfJDLFqOtqE~Xhj1bSkE8dhxWuEyBHs0R8aKsoshc5NE2eI0HL7~ml7fZ5B2yMJz6JSscy9gFbWkxE91wdpHj~EplY7E15zuvZZkAqOTgQdwvkhF37VgfZdMYwrdRo2N5c0ohqG~I9U77GvB2Gmxtppflw01g__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps76 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/01/5x1/51x9/519x3/51930100014/573908610_3/573908610.1080p.nav2.mp4?Expires=1773435600&Signature=Ulhi9MYW0m2G5OOkb5WJLhs3SSzZ26GdU4OXN24ZZeH29UJVV87-HNTKrjZ1hnmb0355Ps5C3oM0KZXyO5joRTHclrhSUG8ts3OFUyHJQ0j1KZPYJhLFxX0GaClWvAJ3iHFIy4BIr0d82BZTAR2Gl2Lhez3dQnye0knVc-lf5q0GGCq1kOZJiWJbhi7XkiFsRm3Innsu~k3M~0iwrHrvrOs~NW8lyiGlAGgCbrLNRoTmq8J3A-eTkJGdzVNCsBhDv1fRsHLpUZ2lNAWYsFNEtn43Ip-hhTPd1aRgKgYXXtKbjNIekTbUp5ZGlPA8yhSspTALJSo2XyiCFg2GuUj8rg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps77 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/21/5x1/51x9/519x3/51930100014/573908612_3/573908612.1080p.nav2.mp4?Expires=1773435600&Signature=iGuNQAnTYtG-38OmODniX2V7R7aBTxiSRcIgiz3fZg9AFJJiVTzDvaDpn~l9znShCz14HgPB2mPHmGAZEndqNDGRAAwQEOm8pDYZJCZaY8K9SZW-wOdsICZa8thkCbaafJ4PKNVkVk66qiwyWC-vyQsb2j9LHynLvY3Mc~OOelF3lHQ5MAwxsFPSF1l9EwyHugTmjrtxs-~7AXUt8hANz11p6veshwC5ghhYdH37Emgc0fl74fZTpoxHCkiTDgwpzF5UkyFEepzT8eFein7MH~WeqrbULmguLiLJQ~Did0F85-4RJBjOFdSyIwgFmbych62cPNFg23IPzYr43s0~ww__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps78 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/41/5x1/51x9/519x3/51930100014/573908614_3/573908614.1080p.nav2.mp4?Expires=1773435600&Signature=zEWbjMIqonEdCjeE1oVOB3iyM5rCQnimcBXzzD5wTOpx4Qw2RNxuRKH2K9tGNg9AbC8B7dtTArCRa1FSAEzOe-qV48GhzzqMemMWYY0xfOqzSncKakgBSmsgUJ~KbG5AtpFndhnrpIV~0u2ta2M1DSky15jqLthE4uefKI7A0~wuhXHnU~ps2E19HomHeisCN1DbyDqZB2j9ER5giiMLSDYZZSLrf8XwxDAM6s4YV3ZcXn8H2eTTikGvFQdLFWAyd~TcwQ6foS997LOoV7VdcVNjuS0nH3IAW8jJ~krGEAxw9O8rcAXhF5BypdAubA1HVuw~raCS8iff-qfjLgUx0A__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps79 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/51/5x1/51x9/519x3/51930100014/573908615_3/573908615.1080p.nav2.mp4?Expires=1773435600&Signature=P1G3cfQLO1dgEhQ5Og1~hPOOmAUNIjvPxJyf14zuQO-mszswK9ByzWz2xMjJCatHZkkxR5vAGsKPuyz46UhKqHV9NhA7bkfwK6x0DT8nxtBw39lJEJI9n4lPeACOG1GbfiMXXN6gEPPZtjT7a6b8wR7wqS62Lkfo1IsN-lMkS5vHoUqurAfCG-cX7IDMxiPhh59SJwX2KVJqJJCALdfReMgsv8mVPz2hV7emdLg3cXiSRtd406~fLUxfOyYYvom~n4ZMPcdc59lTtTCzjXNXU8LJBpukItPqyQfctzsRJOSG6Zv2xg~Cx291kuLJLjnlc1ggq6pQfwkSkT-xUVhzEA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps80 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/61/5x1/51x9/519x3/51930100014/573908616_3/573908616.1080p.nav2.mp4?Expires=1773435600&Signature=WEc8s77zNhlVc3IVqTgHJWTQQhnrw4QBHfoLKgy-YYcfxqbPVjTVu~0s6RJI4gfd3BRyVA07JrcGEch9Yx9gbpqTsspUjxAAZ7L9tg9mfMGAzbmdU~Oeq4J6EQRNW-xDiGXNnHuQa~IrNuYuKVS7Sxh9wwveT7UZPf8kWv6Pq9d0IfnhTeMsB8GaR2t~1gcuG1FyPgUz54glbM4VQMnJl5oSgWGCjb20b50vEQQC-HbufQ5h505F9jnkqNvixEZsbkHPKZmcGooQiijuUVYzhytymo3dNcvbP~AHpRN3hcul0takVgyvX5tBua6l2KblURrpIHPqtPRNGW3XiuxMlQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps81 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/71/5x1/51x9/519x3/51930100014/573908617_3/573908617.1080p.nav2.mp4?Expires=1773435600&Signature=sBLVl0UzN15ngw8QwvQ2GXqVwyf96K~EfSRlv6qV1VXW9T-wsXKBCtY10ZgcTRTNDnXbh8OSniqnZ7G9mxAy8mrL90kIrZyDpsArSIxSJQSSjDnb~b3jm4JlDlw50s8plVRbyZbEUkigwCEeW-rCtaT6NBrpB4Keu41lAM2tVvcR7neaKd6hZvzuQNSGgQ-PGg~6L-snoPgIeQi4UfOGDoFvATLb2u8RbxCZAnKT66KYHeH-Bb442mH-Ijx~Rsfo7KPdhtDLPlgJbjWd4T~BzWkc7qG4emczmOObVh3ApUCn0-4EfIuteyue9FLjvhQcFp6zv~ylamHpgb9dOKmetA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps82 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/91/5x1/51x9/519x3/51930100014/573908619_3/573908619.1080p.nav2.mp4?Expires=1773435600&Signature=hw9TgRoRjW6fV1dBWgD96tROgpWhJn7TBqP~YgOEHT5~kolwtVo4GzSQik3tnW9RCqdZjMhxot4j3ZQQ7VSLAtZjOuLsTUPhaJ-gSZjkMxbOLFwk4iMiqnoK6h7QX6j8kuQQZSCYLFfIj3zPkJ3cw2chqAArvO~s-pDju4VQZX0ZtRzjUnv5MvZM-zrba1MglvpkQplZNEKpsTehY3rEobtOFsXrQioFcccRjx2pIunWHKWOpsatnsrRSLP1aR0u8X5Hc4LUhf5V8rsHmBHFjvYhiX6Rj6VPpSKJeh-KLKzQB2dynRPqJxKbPBXTt0ruStx1UNmrSWHEFRjEQoYGFg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps83 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/22/5x1/51x9/519x3/51930100014/573908622_3/573908622.1080p.nav2.mp4?Expires=1773435600&Signature=BGLb~gm0DU5Y5juQFFmm2vRELHtajkjSA305PkD51-s-91N8dzK1nUQODaGoXTrlJ6Ej~jyES1~jKC4tg5B-x~F0o32plDW~jBMaW6gMz13kOC~s-FmwDi03b2mrPR7Tr-mU2kJuvwNuY9C4o40oqdhWxQ-PRrwwUqSy8XxD4ZHAv6uL7fqummbaSuJDDbcXUuQ8qOsUA5X7iZMwifg-5X3aK4vSzYZOYMnO9EVWTu7faN3rqYU4-aH4dEFJKHCX9-Stnnpho30A8rZpZE1AVmNGBiKuQIK4KNm20xquKhPW4zvootzkBrqV-l66Ai-Xj5nu1MK4moedjO3VzU3fKA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps84 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/32/5x1/51x9/519x3/51930100014/573908623_3/573908623.1080p.nav2.mp4?Expires=1773435600&Signature=VZXLxBauE4W5UJNweJ1CjmnDI8oJbcaVv5BvL5i~mGBY4Oml7B~2oXzuA~D7mKpl1gf7NCuCpuLuidM7AzSHqf1PNyGb3-vCFYnY59pyUZpTFrQCsBQ4jINEcSmoeY3HbFcyb67e2QZE73Fdfuh~RdC~qHtEIE~KwSVdtxQ8HsgfU4dlDAynuI-UK4U8OzS08aHnzynOMQ-u~2aUK9Cw26gTnUxW6BCNEpgJfBkfSTzLFKtzIPNQnvYyNqN5RuidwNdTvQKkNBgF76KJOL7rs76u-~RGrQl1CrpYfayMHic1tYm6rov4lQ5JK-~3QAUgV3IsafnrnI6uP6WWl5xr2Q__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps85 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/52/5x1/51x9/519x3/51930100014/573908625_3/573908625.1080p.nav2.mp4?Expires=1773435600&Signature=hlnpFEq8RuOofwVBZnDj2DLpcku6X~ktx0RDLvAxaCPmOKXpuaWjTzpaqVWGbyG1aCgb-8FraHewPq2OzD9uvLkWAXaIPFb0zEsV196GZFBl5wPJdsMY1Mrz6CjVunF7egfS-PgVTnNSDm898vHZCJ4Ea9oN7opGcHUp9qJLVlGVD56EwX9-t1COIUyoNfDaqUH4L2WCkyEzenGJ0AKorbkVj1DKbknHDu2xi5xmXc6oK-aDz~m3uiftgGmY3nan2x3RR84ZnIChJ02ze7rf3vvcO4skq-bctrvCKeLcx91If5g-SqYKDTmqqLkFRis~Zmf~Mz5n8H-zjzhVfWntYg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps86 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/72/5x1/51x9/519x3/51930100014/573908627_3/573908627.1080p.nav2.mp4?Expires=1773435600&Signature=MNJpT9EN5yIGe3xrtZ~ugv~2wqW9f0eqdiTYo2ATo0SRk7lBxJ6yQVHO-pg4mNUIdLbCUy7CmEplimBkKAP~fD98HQkhTcml1ttV5Kqv1350NYA2YWS73nmJgjRHh3Js4XbktQMpn9-UB1-h5lDm43CHuI1ZZjCJ7KqK2MU-UeAxoM5Hk6eLB5K29QJHdUuGWVzLw-5egTeJU-wElUzi6r6YFnaf9cYaL6Iy2TgJNS7VZZ5z13mPfypmOXVYZ~L1NwYxTtXcdEroUYfqEN108boq~HPeUsi8y~fRypgHcA77oJsYhkl7GE~PH9lgg0qot2Z3Y3xBbzQKkXBxbSaNUA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps87 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/82/5x1/51x9/519x3/51930100014/573908628_3/573908628.1080p.nav2.mp4?Expires=1773435600&Signature=bmC7eA3O8tevTCAdXP9PM4f1qP-b~Xp8WLF74DWjhDLE6xb~~-xpfWFu0OV4dSgE6uww15Dsm0nkznKPnoD4hWdVquCVQqIeYLykOdfsa3xeFA7yz0RhBwQ2hyW3qyOodtrv3yHJ6uGCMj3km08Wcjsbf2qR8-kyOaVa9t0is~uIi4ID-UM9Je0xmDzSJN74FJ7arlqhEY009Ykwy1fcVhZXSu6Fc4rxl6~5uphDM4r~AXoRdj2rvoMlbaU2U5ZjE0jjA-9tsAzIkLi1Ec5MX0nf2YV3aUyopGfGwuAWSxF4ePlNMV7KmlkvYv8nAKPlU25~K2d911dgRXPl2Xgc2A__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps88 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/92/5x1/51x9/519x3/51930100014/573908629_3/573908629.1080p.nav2.mp4?Expires=1773435600&Signature=Z18NxzE2FpQ3yL6HP4WHOhqDRS2YTQs4ICQ~CHUytf5lsPoxN75BJUH9T1rwsX0VfhvgBQkyQkENcWzMAivDlAfUz2dQHjjeGZFaZ1mnft30GFHFVF~rWIxxIhm~edYc3SxeFmhOUnICNeCUthmcjX9R00xHNEe5mv8Zeqde91fAH-Kr7ueBHFe7aNP88rwO2veoHr7ewHNTUGvyZrFe9VBh9rDcpDSQ0LLQ98jcWoIT6s6wk4aA0Z6ZxaLNy1rmkNQ21Ym0jy85KJ8IaDM8eqzjV8lxxhgdMPJzqu2omadWFns~BOQsGmYC5XiODidPtfqowrtZWsc7ErM~4s9Aow__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps89 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/13/5x1/51x9/519x3/51930100014/573908631_3/573908631.1080p.nav2.mp4?Expires=1773435600&Signature=nKaZu2voll8xV7iohnF9bYw-s9g1VQR48t7O~812QemQxfpmZnz91pn7cQIUGdzTL69sYYNwoLnYq~-UFGTToBbLHZmrpzidzycLJq~wA0VjF3BB7F4YvuI64Oc08cTBgoYauC6phDaWtK-hYbUj9h9EOAatHzWOBrrEz38Fj4BudTsuxDUwBMIOzN3qVc-Q2ETgB6lm2HlqACf4XNUymlOs-BoNM8mt~iIl0lTvS8hy3ffHB~NEp8zLPBouY-umfjSxzcb-ckJWPhTTppVDh92EYd21kwQIi~EtFkfEhcy1oaQwb5je4hv9GStx-l4tjFYgb1f1tj1shjAYxz3ZQQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Bangkit dan Berkuasa",Bangkit dan Berkuasa - eps90 [04:59:52 WIB]
-https://hwztvideo.dramaboxdb.com/33/5x1/51x9/519x3/51930100014/573908633_3/573908633.1080p.nav2.mp4?Expires=1773435600&Signature=dcg8PMMeesI8Y57uAtBkAppX90omavSuuZHpOa-cJ~bgvqVj02sw7Q53Bv0yuZ8hXXkfIfwYfVEVE-KqEWMEVhfKt20L~Rt0OdocvGo9DH-IdzqsxjwRSaXO2Ucb9HI7AmNLBciGyQuxQhKa3b6WedhDmnmWM1MV0wZKpszLSfO4hK7go2vh0TKKOgkIg6n6TQIuHQuRU4bHvu56vbUW9wsbnOPRN1ZsxOTkEOYJ3eXstzfc-xGeLDEqG5fGJ6Xw2CtYZqApgZuq4bn5aL47BR8~wIxoQB39dCmcFBlW47H9CiBZnG5igMqdvSzconBgsV~eYFU3CPdPilIaencNbw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps1 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/a5a9e157f655798253f2febc7d0a5bea/69b46cc0/81/3x7/37x9/379x5/37950000024/700386818_1/700386818.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps2 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/600c1d5ae9599ede3afd36ff86369244/69b46cc0/91/3x7/37x9/379x5/37950000024/700386819_1/700386819.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps3 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/5200e24d1d71c4f69afc6d97976f5311/69b46cc0/02/3x7/37x9/379x5/37950000024/700386820_1/700386820.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps4 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/f7f66f35a71fb30ab1a27d078bf6222e/69b46cc0/12/3x7/37x9/379x5/37950000024/700386821_1/700386821.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps5 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/09fce3db14454fe7af57705763d44a67/69b46cc0/22/3x7/37x9/379x5/37950000024/700386822_1/700386822.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps6 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/d543481a454fe9fa2ce69cf75e72d2ea/69b46cc0/32/3x7/37x9/379x5/37950000024/700386823_1/700386823.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps7 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/308e4f4f7649d3424dc29120337354c4/69b46cc0/42/3x7/37x9/379x5/37950000024/700386824_1/700386824.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps8 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/b5777d92ddd4520a883fa9a2b2e6120f/69b46cc0/52/3x7/37x9/379x5/37950000024/700386825_1/700386825.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps9 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/e180b7a4aadb3dd21f67256ddd73dfc9/69b46cc0/62/3x7/37x9/379x5/37950000024/700386826_1/700386826.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps10 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/0d8b4d4c9fb1aaa3b5de85406ca13c04/69b46cc0/72/3x7/37x9/379x5/37950000024/700386827_1/700386827.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps11 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/1811b63a96762bcba26b223e2a28db73/69b46cc0/82/3x7/37x9/379x5/37950000024/700386828_1/700386828.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps12 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/47deb698533090b4e5fa909583fdbbd5/69b46cc0/92/3x7/37x9/379x5/37950000024/700386829_1/700386829.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps13 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/46c40e3ee2a4b7f8b50f9e45df488e12/69b46cc0/03/3x7/37x9/379x5/37950000024/700386830_1/700386830.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps14 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/a52026547ff0abbc5d57cd7592ca99c8/69b46cc0/13/3x7/37x9/379x5/37950000024/700386831_1/700386831.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps15 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/f72d6aa5864867b73082561dfb3aca80/69b46cc0/23/3x7/37x9/379x5/37950000024/700386832_1/700386832.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps16 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/5f5f8c28f28b22a8a7135b957a00d18c/69b46cc0/33/3x7/37x9/379x5/37950000024/700386833_1/700386833.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps17 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/6291d946cc23bb80eda8969f0e7ba6cd/69b46cc0/43/3x7/37x9/379x5/37950000024/700386834_1/700386834.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps18 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/0032d0340855e6384b0bb5c46fa98c8c/69b46cc0/53/3x7/37x9/379x5/37950000024/700386835_1/700386835.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps19 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/6e50b2582ab4076a69875c5cf2b3d93c/69b46cc0/63/3x7/37x9/379x5/37950000024/700386836_1/700386836.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps20 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/cd89ed3af90956f4670d1620d106c001/69b46cc0/73/3x7/37x9/379x5/37950000024/700386837_1/700386837.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps21 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/538012565748241538b68d3201370167/69b46cc0/83/3x7/37x9/379x5/37950000024/700386838_1/700386838.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps22 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/4a93fd4bf94861c03cdf69248eeef29a/69b46cc0/93/3x7/37x9/379x5/37950000024/700386839_1/700386839.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps23 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/5241b58420888dfab55b899eef4afd5b/69b46cc0/04/3x7/37x9/379x5/37950000024/700386840_1/700386840.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps24 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/2e0d212a1d8e4f81d5a6b98d65a951c4/69b46cc0/14/3x7/37x9/379x5/37950000024/700386841_1/700386841.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps25 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/56dfad4ab4edcb2b337a525e0a96f204/69b46cc0/24/3x7/37x9/379x5/37950000024/700386842_1/700386842.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps26 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/a77c0d24221507225a0eae1acf34cd02/69b46cc0/34/3x7/37x9/379x5/37950000024/700386843_1/700386843.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps27 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/324fb0c7ae2037636b667ec5bf30d321/69b46cc0/44/3x7/37x9/379x5/37950000024/700386844_1/700386844.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps28 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/0cd66ceed9ec52af775e6fb90e299957/69b46cc0/54/3x7/37x9/379x5/37950000024/700386845_1/700386845.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps29 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/fae5cb63526127be35e9cdc1b29e3706/69b46cc0/64/3x7/37x9/379x5/37950000024/700386846_1/700386846.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps30 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/baa1004cb02fccc44622e90867af3e29/69b46cc0/74/3x7/37x9/379x5/37950000024/700386847_1/700386847.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps31 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/2b5c1c87587028641674892bbbbae51b/69b46cc0/84/3x7/37x9/379x5/37950000024/700386848_1/700386848.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps32 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/fee15a843986a24638604dc56db9ba0b/69b46cc0/94/3x7/37x9/379x5/37950000024/700386849_1/700386849.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps33 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/4ee6c364c24622599a338abb4fb6eda6/69b46cc0/05/3x7/37x9/379x5/37950000024/700386850_1/700386850.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps34 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/c926c64b7600cb2ee4281f4607d7ac8c/69b46cc0/15/3x7/37x9/379x5/37950000024/700386851_1/700386851.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps35 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/42116038f2b3a4c0335801edefbd9cfb/69b46cc0/25/3x7/37x9/379x5/37950000024/700386852_1/700386852.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps36 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/fe2fda785b379fe6d1dd17885b963bc5/69b46cc0/35/3x7/37x9/379x5/37950000024/700386853_1/700386853.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps37 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/7f6835e6889527a261e0aa6a77eae3c2/69b46cc0/45/3x7/37x9/379x5/37950000024/700386854_1/700386854.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps38 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/70911cd2d7fbaf45ef3f29359c55fdfb/69b46cc0/55/3x7/37x9/379x5/37950000024/700386855_1/700386855.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps39 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/0822cf2971960b3a9766f08928a44853/69b46cc0/65/3x7/37x9/379x5/37950000024/700386856_1/700386856.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps40 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/67a69a5503d17288c48683a0f00fbfa3/69b46cc0/75/3x7/37x9/379x5/37950000024/700386857_1/700386857.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps41 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/e1bcfe3d61c92aed50cfc34b8f0dcbd3/69b46cc0/85/3x7/37x9/379x5/37950000024/700386858_1/700386858.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps42 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/9ff3273120c750b7169669002b07a8b8/69b46cc0/95/3x7/37x9/379x5/37950000024/700386859_1/700386859.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps43 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/a7dcc4805bfca9c554b07ec01678d8ba/69b46cc0/06/3x7/37x9/379x5/37950000024/700386860_1/700386860.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps44 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/4b758d62e6fc3874b3e264130d2fabaf/69b46cc0/16/3x7/37x9/379x5/37950000024/700386861_1/700386861.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps45 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/1a4325f8015a1547e19c72e9fab55c0e/69b46cc0/26/3x7/37x9/379x5/37950000024/700386862_1/700386862.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps46 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/83e4ac555df76e0c065fda5fe61f1b65/69b46cc0/36/3x7/37x9/379x5/37950000024/700386863_1/700386863.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps47 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/37ec1424d05bed83a9bb6e2ec2998da3/69b46cc0/46/3x7/37x9/379x5/37950000024/700386864_1/700386864.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps48 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/1fa66d4e948ea18db8f5abb590f22e58/69b46cc0/56/3x7/37x9/379x5/37950000024/700386865_1/700386865.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps49 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/c62ec1b1ddb844b45216c888153a8329/69b46cc0/66/3x7/37x9/379x5/37950000024/700386866_1/700386866.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps50 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/177e0201a1a7986f1d304a41b60edac1/69b46cc0/76/3x7/37x9/379x5/37950000024/700386867_1/700386867.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps51 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/be90a8578fddf6b4f25b9a0fd371cf7e/69b46cc0/86/3x7/37x9/379x5/37950000024/700386868_1/700386868.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps52 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/4d8e97e9567e7db4781b9bc113a85076/69b46cc0/96/3x7/37x9/379x5/37950000024/700386869_1/700386869.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps53 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/d56429d91c8e29b82b3c49236039e4f8/69b46cc0/07/3x7/37x9/379x5/37950000024/700386870_1/700386870.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps54 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/d8247df6699330eef13be581a65340d6/69b46cc0/17/3x7/37x9/379x5/37950000024/700386871_1/700386871.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps55 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/b0a2967fc159399d55554e3ba2593ef9/69b46cc0/27/3x7/37x9/379x5/37950000024/700386872_1/700386872.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps56 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/ca9d0b78dde184db67a1f3c5699b0c8c/69b46cc0/37/3x7/37x9/379x5/37950000024/700386873_1/700386873.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps57 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/c4276d126beb4e911157e6e8045d54f4/69b46cc0/47/3x7/37x9/379x5/37950000024/700386874_1/700386874.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps58 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/e474d579055719dfafccdc488a810743/69b46cc0/57/3x7/37x9/379x5/37950000024/700386875_1/700386875.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps59 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/df88361c5605764605ae0c5563708c9c/69b46cc0/67/3x7/37x9/379x5/37950000024/700386876_1/700386876.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps60 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/c0e6fd465342538e8a10f6ff3bf7291b/69b46cc0/77/3x7/37x9/379x5/37950000024/700386877_1/700386877.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps61 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/699cc4f6a7aecdbff60478cbc1649b99/69b46cc0/87/3x7/37x9/379x5/37950000024/700386878_1/700386878.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps62 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/f4114220cf41600a3c3a1942caf9aa4a/69b46cc0/97/3x7/37x9/379x5/37950000024/700386879_1/700386879.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps63 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/7e58999ecb63fd23aca02678bcecc81a/69b46cc0/08/3x7/37x9/379x5/37950000024/700386880_1/700386880.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps64 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/0396a498643a662121c474f6ecb30544/69b46cc0/18/3x7/37x9/379x5/37950000024/700386881_1/700386881.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps65 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/a929442c59ec395305b3bca6d5336821/69b46cc0/28/3x7/37x9/379x5/37950000024/700386882_1/700386882.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps66 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/9e8d56e1c51a5d5fd98af1f90f624dc3/69b46cc0/38/3x7/37x9/379x5/37950000024/700386883_1/700386883.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps67 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/5598707abeeab380765ba997c2c19be0/69b46cc0/48/3x7/37x9/379x5/37950000024/700386884_1/700386884.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps68 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/36640a9f4144c07699e7b6d635b14996/69b46cc0/58/3x7/37x9/379x5/37950000024/700386885_1/700386885.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps69 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/5254d2de7e03908e37426882837855b6/69b46cc0/68/3x7/37x9/379x5/37950000024/700386886_1/700386886.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps70 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/e371928f34f48e3e7b076f4365eb4c6f/69b46cc0/78/3x7/37x9/379x5/37950000024/700386887_1/700386887.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps71 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/9d4498d5f204b7d75fe43812abeea2e4/69b46cc0/88/3x7/37x9/379x5/37950000024/700386888_1/700386888.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps72 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/8198da6d1d8fdb7c61a1070ddc28f02d/69b46cc0/98/3x7/37x9/379x5/37950000024/700386889_1/700386889.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps73 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/1654cc51b669fd3ff7863b0c6dfa5fff/69b46cc0/09/3x7/37x9/379x5/37950000024/700386890_1/700386890.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps74 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/46ad17c71d66008422662026c1c8b8a0/69b46cc0/19/3x7/37x9/379x5/37950000024/700386891_1/700386891.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps75 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/4cd7fb65a8d10084fb5fd7f738aaf22f/69b46cc0/29/3x7/37x9/379x5/37950000024/700386892_1/700386892.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps76 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/4b7daa4b3252890148a9561318a7e1ed/69b46cc0/39/3x7/37x9/379x5/37950000024/700386893_1/700386893.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps77 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/f0d9cdfaec4214d830720c2b12d1c7b0/69b46cc0/49/3x7/37x9/379x5/37950000024/700386894_1/700386894.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps78 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/e4a594a0fd5ad53efdbda533fad67908/69b46cc0/59/3x7/37x9/379x5/37950000024/700386895_1/700386895.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps79 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/0d86c51cafe0cb36513905e1fcef2f5a/69b46cc0/69/3x7/37x9/379x5/37950000024/700386896_1/700386896.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps80 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/d004434cf462238a878cf31f7d17b92a/69b46cc0/79/3x7/37x9/379x5/37950000024/700386897_1/700386897.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps81 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/2d4002720de5e32e92c7d8a60fef2e93/69b46cc0/89/3x7/37x9/379x5/37950000024/700386898_1/700386898.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps82 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/12e2e861f428482fb7bd5ea4385ef7f6/69b46cc0/99/3x7/37x9/379x5/37950000024/700386899_1/700386899.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps83 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/3b0628d34c06a5275799e8e2b76bbfb6/69b46cc0/00/3x7/37x9/379x5/37950000024/700386900_1/700386900.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps84 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/ae5be57ea1e211dd27b001591d2dcbd3/69b46cc0/10/3x7/37x9/379x5/37950000024/700386901_1/700386901.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps85 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/b7d323924a02d2fd79a0521b5421b805/69b46cc0/20/3x7/37x9/379x5/37950000024/700386902_1/700386902.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps86 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/61c31729a746a6ad7ad420ae6778330c/69b46cc0/30/3x7/37x9/379x5/37950000024/700386903_1/700386903.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps87 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/e8913b3d4b0356dbda79a1c61711d081/69b46cc0/40/3x7/37x9/379x5/37950000024/700386904_1/700386904.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps88 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/71b9eb1bbf8688310d3d787d3e447420/69b46cc0/50/3x7/37x9/379x5/37950000024/700386905_1/700386905.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps89 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/81728d6195084d5518a1cc2109137e95/69b46cc0/60/3x7/37x9/379x5/37950000024/700386906_1/700386906.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps90 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/9dd1bd3d87884494189db3a92934d718/69b46cc0/70/3x7/37x9/379x5/37950000024/700386907_1/700386907.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps91 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/73cbd98628b40876c3d8b651ed1ef12e/69b46cc0/80/3x7/37x9/379x5/37950000024/700386908_1/700386908.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps92 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/5883c8afcbe11f18fd59050747630898/69b46cc0/90/3x7/37x9/379x5/37950000024/700386909_1/700386909.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps93 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/f6127de31511ba09e9305b4447a6e1ab/69b46cc0/01/3x7/37x9/379x5/37950000024/700386910_1/700386910.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps94 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/1a0ffada9a8fbd6e6ba96736fce79382/69b46cc0/11/3x7/37x9/379x5/37950000024/700386911_1/700386911.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps95 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/febb85647338aa7e56e50becd86b9642/69b46cc0/21/3x7/37x9/379x5/37950000024/700386912_1/700386912.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps96 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/ee63b0c5261b89aef4b69164eccbf635/69b46cc0/31/3x7/37x9/379x5/37950000024/700386913_1/700386913.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps97 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/2dfec29cb554476750a3c26aef0972f2/69b46cc0/41/3x7/37x9/379x5/37950000024/700386914_1/700386914.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps98 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/d43a4d3d60dd3835aa22a7eb0affe035/69b46cc0/51/3x7/37x9/379x5/37950000024/700386915_1/700386915.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps99 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/15b5dd4a7290a7b50fe23f7ac1fe351e/69b46cc0/61/3x7/37x9/379x5/37950000024/700386916_1/700386916.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps100 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/007db152f3d18728a9f395e66d0283ec/69b46cc0/71/3x7/37x9/379x5/37950000024/700386917_1/700386917.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps101 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/d57afb7fba0cc80237c5d70b2162a5d4/69b46cc0/81/3x7/37x9/379x5/37950000024/700386918_1/700386918.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps102 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/5526b7826982eade85f8c7a6902a903f/69b46cc0/91/3x7/37x9/379x5/37950000024/700386919_1/700386919.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps103 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/cacd9def6c9244af1d8a1d232084163d/69b46cc0/02/3x7/37x9/379x5/37950000024/700386920_1/700386920.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps104 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/9752d414d707cfdaa2e92f21243964d5/69b46cc0/12/3x7/37x9/379x5/37950000024/700386921_1/700386921.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara)",Berhenti Jadi Bucin, Hidupku Malah Mewah (Sulih Suara) - eps105 [04:59:54 WIB]
-https://hwztakavideo.dramaboxdb.com/e34ebc8674d232bb15fedee2bd3ecef3/69b46cc0/22/3x7/37x9/379x5/37950000024/700386922_1/700386922.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps1 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps1 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/7614813f720143acf722eb289b1f1491/69b47ad0/72/8x8/88x4/884x2/88421100014/587717327_1/587717327.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps2 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/7e00c447bf1ce03bf717410a8a4ab862/69b47ad0/82/8x8/88x4/884x2/88421100014/587717328_1/587717328.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps3 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/452f1c57efa127b34d6a8f4e2756477b/69b47ad0/92/8x8/88x4/884x2/88421100014/587717329_1/587717329.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps4 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/ddd532ab1c890a345e163ad6ff27810e/69b47ad0/03/8x8/88x4/884x2/88421100014/587717330_1/587717330.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps5 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/4384f9047a65453c0abb7586ed3b6a7f/69b47ad0/13/8x8/88x4/884x2/88421100014/587717331_1/587717331.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps6 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/272c42f755df8eb8269508f88edc4d84/69b47ad0/23/8x8/88x4/884x2/88421100014/587717332_1/587717332.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps7 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/27b076f78a1571db422f566efa302a86/69b47ad0/33/8x8/88x4/884x2/88421100014/587717333_1/587717333.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps8 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/181cd176b2f080eec8a80cde7fbf53d9/69b47ad0/43/8x8/88x4/884x2/88421100014/587717334_1/587717334.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps9 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/e244d1695499eaa547164d86ce77dd48/69b47ad0/53/8x8/88x4/884x2/88421100014/587717335_1/587717335.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps10 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/e00914268f9578744c930a02d44a62bd/69b47ad0/63/8x8/88x4/884x2/88421100014/587717336_1/587717336.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps11 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/c03ec903eaefa3b507fab689e411362e/69b47ad0/73/8x8/88x4/884x2/88421100014/587717337_1/587717337.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps12 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/72d1857a592454181b15441ba2531b7c/69b47ad0/83/8x8/88x4/884x2/88421100014/587717338_1/587717338.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps13 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/6e160f5960fffb10fd93f3f11da58717/69b47ad0/93/8x8/88x4/884x2/88421100014/587717339_1/587717339.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps14 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/4d36a6c9b8416e02e73ca93a592ec71a/69b47ad0/04/8x8/88x4/884x2/88421100014/587717340_1/587717340.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps15 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/5f909cbdc27918de3dd96a5731b2d461/69b47ad0/14/8x8/88x4/884x2/88421100014/587717341_1/587717341.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps16 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/823d5df55b3e39619007e6909dba3509/69b47ad0/24/8x8/88x4/884x2/88421100014/587717342_1/587717342.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps17 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/80e8553df1e5f8a421c79cd1c4e8fecd/69b47ad0/34/8x8/88x4/884x2/88421100014/587717343_1/587717343.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps18 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/48f6782beec4f535ca198eaf784e12af/69b47ad0/44/8x8/88x4/884x2/88421100014/587717344_1/587717344.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps19 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/ed782bdd4e395873e4d0be0ff84d4942/69b47ad0/54/8x8/88x4/884x2/88421100014/587717345_1/587717345.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps20 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/bb7f2f2943517ec25427f1879f93dcf8/69b47ad0/64/8x8/88x4/884x2/88421100014/587717346_1/587717346.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps21 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/853ba166ad382222e6c75938285692d9/69b47ad0/74/8x8/88x4/884x2/88421100014/587717347_1/587717347.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps22 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/4e0a1e51ceb2172f2080d9c32f2f5d69/69b47ad0/84/8x8/88x4/884x2/88421100014/587717348_1/587717348.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps23 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/b34fe0884e718ab14f2cfa9cb93f9ad0/69b47ad0/94/8x8/88x4/884x2/88421100014/587717349_1/587717349.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps24 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/6439356bdaf2a2ac3cdc722e58beaa89/69b47ad0/05/8x8/88x4/884x2/88421100014/587717350_1/587717350.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps25 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/b2d41a0e5d4828bd64c0ab8ce5008ce1/69b47ad0/15/8x8/88x4/884x2/88421100014/587717351_1/587717351.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps26 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/f86cae7c2f5b19af162a754096028be2/69b47ad0/25/8x8/88x4/884x2/88421100014/587717352_1/587717352.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps27 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/a111b335f6573a4af0459ddd1505379a/69b47ad0/35/8x8/88x4/884x2/88421100014/587717353_1/587717353.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps28 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/f602af6db689f6b6ebc6dc0b80082713/69b47ad0/45/8x8/88x4/884x2/88421100014/587717354_1/587717354.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps29 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/970f90d934f719cdbf2ddc5b65c22efc/69b47ad0/55/8x8/88x4/884x2/88421100014/587717355_1/587717355.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps30 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/4116ba30fd753b8cbe2943f50c703b28/69b47ad0/65/8x8/88x4/884x2/88421100014/587717356_1/587717356.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps31 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/90f345730d74eeed3f894e59d4be7567/69b47ad0/75/8x8/88x4/884x2/88421100014/587717357_1/587717357.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps32 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/d8815be7cecbc07e7df27320f66f4b95/69b47ad0/85/8x8/88x4/884x2/88421100014/587717358_1/587717358.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps33 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/3ca87be2786cb887b6009defd343732b/69b47ad0/95/8x8/88x4/884x2/88421100014/587717359_1/587717359.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps34 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/4b40e0abba522888585564d5aa60f606/69b47ad0/06/8x8/88x4/884x2/88421100014/587717360_1/587717360.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps35 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/6cecb20fa3cdb0292dac6ae92134745c/69b47ad0/16/8x8/88x4/884x2/88421100014/587717361_1/587717361.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps36 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/054114b7e412698ab8696e957d792996/69b47ad0/26/8x8/88x4/884x2/88421100014/587717362_1/587717362.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps37 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/700c027308dfbc9bae51ec8741677dc5/69b47ad0/36/8x8/88x4/884x2/88421100014/587717363_1/587717363.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps38 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/2572ed01eb762fc456f4d7bd4713bc3f/69b47ad0/46/8x8/88x4/884x2/88421100014/587717364_1/587717364.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps39 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/572dc9b14d786316ff6827d055d272ac/69b47ad0/56/8x8/88x4/884x2/88421100014/587717365_1/587717365.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps40 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/e908c59b502be5a7026b8b99b2e7a528/69b47ad0/66/8x8/88x4/884x2/88421100014/587717366_1/587717366.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps41 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/0519de6c07ba5c4649447ab32cdeb0e2/69b47ad0/86/8x8/88x4/884x2/88421100014/587717368_1/587717368.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps42 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/14397851ff19064f591c7a0f134845cc/69b47ad0/96/8x8/88x4/884x2/88421100014/587717369_1/587717369.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps43 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/09fd8c0e9643396e48c112aefadfc112/69b47ad0/07/8x8/88x4/884x2/88421100014/587717370_1/587717370.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps44 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/cc774e3efae03da72a86607069fcf4a2/69b47ad0/17/8x8/88x4/884x2/88421100014/587717371_1/587717371.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps45 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/802d96557610f2b29f6c69331642cf54/69b47ad0/27/8x8/88x4/884x2/88421100014/587717372_1/587717372.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps46 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/de2984278be17591a2971fa493655200/69b47ad0/37/8x8/88x4/884x2/88421100014/587717373_1/587717373.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps47 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/00bf220086d68945b5ba56dd21b0b862/69b47ad0/57/8x8/88x4/884x2/88421100014/587717375_1/587717375.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps48 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/b75546431807c589c5103237f0211797/69b47ad0/67/8x8/88x4/884x2/88421100014/587717376_1/587717376.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps49 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/fc8af4c0c6dbfde645a7fe1f7a91b57e/69b47ad0/77/8x8/88x4/884x2/88421100014/587717377_1/587717377.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps50 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/6988b837fca280924f289fc7532106af/69b47ad0/87/8x8/88x4/884x2/88421100014/587717378_1/587717378.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps51 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/b95b8b86f529b9d421a88948c4637eff/69b47ad0/97/8x8/88x4/884x2/88421100014/587717379_1/587717379.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps52 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/7a619cea479c15f1d3d2862b1c10d5bb/69b47ad0/08/8x8/88x4/884x2/88421100014/587717380_1/587717380.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps53 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/c96f51a63a99c99c8bf4dd9f4fc4d136/69b47ad0/18/8x8/88x4/884x2/88421100014/587717381_1/587717381.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps54 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/7dcb0c2e6624a717fd0d4327c7f7f229/69b47ad0/28/8x8/88x4/884x2/88421100014/587717382_1/587717382.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps55 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/0eb7ec23f3635c5a62f6420efd7a6546/69b47ad0/38/8x8/88x4/884x2/88421100014/587717383_1/587717383.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps56 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/332dab4c1e15ae8b1c05fcee3abadb55/69b47ad0/48/8x8/88x4/884x2/88421100014/587717384_1/587717384.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps57 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/d1134e27efa1b5ba837e975f77963f86/69b47ad0/68/8x8/88x4/884x2/88421100014/587717386_1/587717386.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps58 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/f3e9ccc856174e504402e7666a00fa89/69b47ad0/78/8x8/88x4/884x2/88421100014/587717387_1/587717387.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps59 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/a1a2c14075b88a9f53ead533c7d8b5cc/69b47ad0/88/8x8/88x4/884x2/88421100014/587717388_1/587717388.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps60 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/500a01f653b7a9f34ca2a165ca25cb27/69b47ad0/98/8x8/88x4/884x2/88421100014/587717389_1/587717389.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps61 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/f72620494b1149ce46f63d1303d371b5/69b47ad0/09/8x8/88x4/884x2/88421100014/587717390_1/587717390.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps62 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/e4ef2cbabe0e8b5a5860e585419ee5db/69b47ad0/19/8x8/88x4/884x2/88421100014/587717391_1/587717391.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps63 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/9680bad3e43ba64f510343cb7f222993/69b47ad0/39/8x8/88x4/884x2/88421100014/587717393_1/587717393.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps64 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/de990cf0298ada724aeac5f0896b28ad/69b47ad0/49/8x8/88x4/884x2/88421100014/587717394_1/587717394.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps65 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/2eb183021b9d438d53b10c8a943a964b/69b47ad0/59/8x8/88x4/884x2/88421100014/587717395_1/587717395.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps66 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/5bf0cecbd64949f51ce385d568357541/69b47ad0/69/8x8/88x4/884x2/88421100014/587717396_1/587717396.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps67 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/c0ef8feed7fc6484e2eae1a8ece3691a/69b47ad0/79/8x8/88x4/884x2/88421100014/587717397_1/587717397.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps68 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/1d9357174b84d1f6315144322b380e6d/69b47ad0/89/8x8/88x4/884x2/88421100014/587717398_1/587717398.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps69 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/37e5534154b93aca09d5c5ed3a5ae409/69b47ad0/99/8x8/88x4/884x2/88421100014/587717399_1/587717399.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps70 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/856616f96956776faa5a76165b5ef941/69b47ad0/00/8x8/88x4/884x2/88421100014/587717400_1/587717400.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps71 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/131823e13401b88c0cb68200daa4c0db/69b47ad0/10/8x8/88x4/884x2/88421100014/587717401_1/587717401.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps72 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/01b2eeadf12eb73301641292a4f72934/69b47ad0/20/8x8/88x4/884x2/88421100014/587717402_1/587717402.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps73 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/8d3e7e65805c55f3169e1e6c4e36b827/69b47ad0/30/8x8/88x4/884x2/88421100014/587717403_1/587717403.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps74 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/92f0c82e7c01849508cd4f73f338b59a/69b47ad0/40/8x8/88x4/884x2/88421100014/587717404_1/587717404.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan",Raja Kecurangan - eps75 [05:59:11 WIB]
+https://hwztakavideo.dramaboxdb.com/0da2cd49cbaa2e377058f4db675fc8e1/69b47ad0/50/8x8/88x4/884x2/88421100014/587717405_1/587717405.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps1 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/00/1x7/17x7/177x1/17711100014/586725800_1/586725800.1080p.nav2.mp4?Expires=1773435600&Signature=VoiBpvh6yRMbDdMrVfWtyZtpZsNKTfHPeQ2qGQnQtKinm0CdkVSF2k2WWbxiLU3p~Vh070O8ikKkjUDLi0jiphRCu4vzkzjCXDKC4-lyMj2BFrDuKGbuZd4PzO-ZCPBb3X-Y5nNYcw1xAyhceLDvR~SsDCDlFF0wUdMDgu~9JWDyv3pbsfblnFuipVlOTfOWIdxIRUx~gc4uTSaM0PNBpwu2VZBvnBLE2VWsDJe1LChfEeF3ecE32eZW~OiAYhQEVbZ0MHBL6Q7SqtM1kgZHiEPjo-0SI-BbiaU6NOWbBJT-z99L5Hu8KcV3U0rUZrCfBMYzmaSasVLe1n7P3vUluA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps2 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/10/1x7/17x7/177x1/17711100014/586725801_1/586725801.1080p.nav2.mp4?Expires=1773435600&Signature=H~v6n7uUTr8sDfFKPi0ptUc7bMzVa7jKi3BfQqF4Q0nu871W0hRNWnuyIF1-oCIc7RPGaeLbkNUSJNV3NtcLfl0p69JUJPignSTka3DMpahb3bSVFh~1P5a0t55qCQ628xDZY9nMnTXNwoSmMH62EnNyU7lApW1gn4Sja5TtESxXDbxtuwcQS8~dnpzqPVSvoxARo4Ygop0gh7pu6qAaR2z0X9r9BRnaaPr6xKrNTF4cyLjEcTmZYvrcEQzHBz1dg5wD8kNgc5Z-2SeFyfeUI7GdcsioSxtooCnWh8aR7yHDxif-T~ByIUiNwawqU2xTgOXRTo0Ga75HrTZgG91gbQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps3 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/20/1x7/17x7/177x1/17711100014/586725802_1/586725802.1080p.nav2.mp4?Expires=1773435600&Signature=Ryd3kNSmfaGPQpj~X-Cds4nk0BCSqQvdYn9JMPtFjXLVMB9nkvRqBttpABCHGVJB8dzmxv1ez5usUjT7GPymBaAqYu2MJvv9H~XBp6TJQFLsDgL9o1fDycywp1ecUtAd-tA92yONpOrtFm5ueoRhQMzTs-Qz6Of5zareLdtlTzWT8~NYvZMj0XqjvIFByLrXOecHqyPx7AuT0fSg2MpwuHpsw~N0FywzuddxVO7SPvqcJcy6214QeNFCO7xA6SNsQvlmHBt3HfXyJ1UFu0k2I7UHmZxdLHd1c60Rc8swoDlPcidsDqkOkH~oNBRXGyVzPdufPRu8cl75toNH619dEg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps4 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/30/1x7/17x7/177x1/17711100014/586725803_1/586725803.1080p.nav2.mp4?Expires=1773435600&Signature=OnK8gv8tJmJ2Iu4EJ2Gakijv~iAyMiUmunRD18w9zrGMI00hcbJO3uF~sS5ZYs5kff4jv0FQA-CQhNWMVLxleTaJGi8xHqEB~kuvVyHHwE0tDjzF7UZhO8XBMSOAuZVuQeHTtY32d5LY758HHrZ1EzEM-IEDHCsCim7I4EbHxTS4frFYR3m~AXtHFHdo-DiXFbBxgMdi8JdcvCJZkOFIfPTImsmKha8VlR0LqoJYiwY96PHgeUI1wAB6XfhsCMwAffZ3nRQhXaFfj6T~OnPu9XP9qFGBCpOsTni-MhXbvpEP8~gJZdA1qHTq4l0p89Z5rwWAPIMUdsJfL4Y2mB-YDQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps5 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/40/1x7/17x7/177x1/17711100014/586725804_1/586725804.1080p.nav2.mp4?Expires=1773435600&Signature=C9WvtFVI4jKb-72zCLSJbCk9q8V4KcH3wrtfCrWlMznQ0ABHrgxglEuZHuZyXeHF~FIElwKFnXjaVdpx1i6Hn5N8crzMMSNU5d~oQOaXl0n02o2IJnf~KRBihFsBaEEYSWJUE19bBzgT8jRGJwKeT5b0lW~z~Ddpta-N5L2M6~JzwDo50c7LCa9cqDtawS7t11UM7ucUhWzMpEk7IMI6VZXjZlEN8Ubg9WKniJIcB~MFEy7zPRJpXJS4~-C230pq-yUjsRljUi2FQdGZ7YAFqvqfhPhLV761n1mRd5iGDmXWR6v3aV1twkTiyUxhCYQCtni~HDr-CaXWKRqcN1zcnw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps6 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/50/1x7/17x7/177x1/17711100014/586725805_1/586725805.1080p.nav2.mp4?Expires=1773435600&Signature=u6mhcFSp5veyc6SStqLjBoCIyldGB0-LPYbHkqQYNRSd3woe-aLTd5dFhd2UPItB2e80zNrRdARZ1KeWGoDguIzrqX92virTSST4PwZgpSlNpl0yZZBhp1Lsthd82mohw0Xzx4oynDyLyXVuvzwbNMmWguQkNi0v1zK5JaqR6Q1aY4QlK0xOvmpU57NKSmhu9w8LiOYYLjysfe1m75GKCu~q9dOVWz8NIxOhUTgKf5MXGmwXDKlO-XjQr5xs-NGmcClmdhWRlv~PiX~M7LHjgFbNBCjfg1d7dOFlET3UaiL4hd8ht7yqkJHXZ2hdcJlCmjrTlxc3YjP1HhfqmyZ~XQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps7 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/60/1x7/17x7/177x1/17711100014/586725806_1/586725806.1080p.nav2.mp4?Expires=1773435600&Signature=fRebk504-sjdcrdx75golOf3LPd87T068AIDJ8dv1Uxe94Q~sWsQZoQj9OH6-KcY3N4zCGECEFHaUHxj9Tc~9ZX2fsdc9cdl6Qi5xee1xbwA37mOuIFVzTeJ2C9-6Y81~aG92AC3dRKf0FJDtv0W684AVDb3QbINeOGlKVJxQ7kNF4heTKfRTGkdr2Ype4~v98Ena0DNCbnHc5RKtH-E0jbMp1UPvFLI1J7Bnyljrk53VU6hljgrvLrBiRfnhHfrWK3sA741Ro5Jj1Glzxw6BNQevRsWacudwQPq9n3Cfrj2M66U2PdcF3wGGdUusaCTshhGsSPBGZdXWd4fIKtTHw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps8 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/70/1x7/17x7/177x1/17711100014/586725807_1/586725807.1080p.nav2.mp4?Expires=1773435600&Signature=J4iMCX76Q5ugTczhBd~rJWaQslkhOUuaXHlXRObtuA8wefDykIYJmMG1JesvRoue3SbwVmuU4DynUQ74~y1fbASMRet~721Kz1jmDW9uk~2iTz6pOg-jl3KDq8cbFY4LuMCsdyjcQcVKeAr4MxHFzAlM80tuz8tiqKpAKg901UD3V1vWClHm16TL40rjLPWSSHXLjDl7swX6dYBC-9Ztr0EfZQiwMlvhbllPSGZELSW8fy0nsLrtKd02P7-jpvRSSfEngPIWzr2l8UnYpRH~NXY1UsaUdxqE1mI~xaiSTVRcyfukCNmP82vLjaFauqK1Q3CckzoQCcg1Bm~e~uYhxA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps9 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/80/1x7/17x7/177x1/17711100014/586725808_1/586725808.1080p.nav2.mp4?Expires=1773435600&Signature=y6FNlhuaMwJKJZgMcUhGcgXFp9qjtIiMJMVWR3Mi7YyBP1XxXUPFSiQO54lnib0HMrfi0ijbvPDANq9F1kqcpprDEZwyGtiPwhc9gV0Ef23esy2aTF~hMt5hmh4u7A4uDORHmWTe99oqN~uSNSiDupVh9k96VQKrQ-80XAYl-b1trnQicREYAUbhf6-YHj79gfYUdvUJ2WrjbOQF1XqbU0FPkdif07gfjDTP7GemNIi8PrbwYwaWg5OUQJzHdXN~pWnmxgCWtfwGL8or463JwhUUuHVXOPOLDunUjGsLv9Ma1vZ8ECdpv6prcUI9osa0lEn~klLToEisWUoX8PhJgA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps10 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/90/1x7/17x7/177x1/17711100014/586725809_1/586725809.1080p.nav2.mp4?Expires=1773435600&Signature=iQoZN2ahffyNHvS7CQHitTPzjMJxRQJK2TptIVZ-0gyPtj9nc44gStGKEYusaw5Ajo299pA3W8fi06dh1qO7nPxrg~FKnFfIe8OIO21TCl2gVfALnIAGVIo~8jRiirV0xfaZTxzQFBTJQSyk3PS1UrywWzCD5PwPvN0t-rjjV1WaTAbdsopSVGZ-P6BNXS3U1Q1ICgt-qqH-RbTcQLjIgoo6iGC8-hvXaLCqEQWjcfHLB1mWznlRENpFVY3XHyKvISZOj94DDkmZaTImeSZZEgJIQ9SWsNoJUrVxGTg~hcCJF92tsrjDL1-xLHEtuJutNe8~VkH53TfzG0YMuwOhnA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps11 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/01/1x7/17x7/177x1/17711100014/586725810_1/586725810.1080p.nav2.mp4?Expires=1773435600&Signature=Dxg~49Iq5WiGYJ15fSvmmrD66O2cAXnf62xcyTlBdhGMLSBT0f2XzW6Kcv4soAfjDGQEZPuIydK1Lp0LRaLhPaU74HX4TrxqH1Q8b8jo2vHlZnAHk7f8ia9dcbmhLgplaFvTquhXW7uVXGqhP3IyqGNsRA29~uy3QlJvMezBcVfW96rAu-rnpKc8havh8c4yX~d0UuYDZT1OvjsY1SFfLjhL5AZRKk2vcY5N7TBm4lsWS76r93FglmSammr6alH0I~5C5xCsU7vB3j3HWGtiMHbzIiU-AjFTSg1wS3RiWyd9Auhh3q6K2tB5bwuBiXU6cXc7Ai668VIsk9U0LbFNJg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps12 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/11/1x7/17x7/177x1/17711100014/586725811_1/586725811.1080p.nav2.mp4?Expires=1773435600&Signature=N9S8c9julSHEU8yl8G~nYhmUuHVJeWSct6xCKxdEMBTf4bFvt4HziqN3XbrIcwB74a~DlNOvw7LWIDWeKKVVJfZHr7Q3eS0k~ZDKX3NE-XRWbVAXQtblqDzp5nEkFbM8BCEwIH-dj-Ujbd-jihFco5h0AMOSXP4KJn2~9~Yf1oL3hfYDEK7zRUK37Id4qKvl49F1RMm3yVHa2j5zB65DWCPp8lMCAbJz2qkQ66wQMDEX0EOcfEi-CjmAfuFgfiYHn9NEySGKdt3Eou6w0lpzpGr-IRXPkS82ow2OlznnmVwsgA-f-A5q6FxxGbz-fC-K0XiEajkJxi9djebmFFm-eQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps13 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/21/1x7/17x7/177x1/17711100014/586725812_1/586725812.1080p.nav2.mp4?Expires=1773435600&Signature=u8LD1UY2b0w8UKH9pZOlzkoCKDyzQ1AuWH37ECqjjqpWflsJSBPZkLhLMhwCCm33sJLRHIXtFyfZEPgfaVD3PRkGKsOU0EYU0WdSjs0piLhHW1P0PPvEIZDqM1fmQrzb~lcTChUZhhDufQZz8V84NFZnpuhLH8iZF1f4pICvXTf7Kzv1IUhIFOBZ7AMxDeF2g4vqA3C0dVhgVkrAcQDJjPp9rXS9ajlTo-gwI6-5V9rQM5MBBzVAI6bJN4tA3H0mz5EP4mQlLBPaoDQPSWkrlySdbiZmMFq7r0-IGhg23hATy~YBi6uawFvluYF1C0RJZ8IC6KkplBkBEwq825Z5vA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps14 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/31/1x7/17x7/177x1/17711100014/586725813_1/586725813.1080p.nav2.mp4?Expires=1773435600&Signature=tik6XHquwCiGZU3sr2JhqS1ivtGZx9ee14jn4izOzUDf-G45vHPNq0lNUVDr39yCsHQyc5PpnUFk65HdTOCATdHBFM0E4Jmz~ygCkfsBsLU3LXyD5~i3yUD39YgjczuzqrMix~PS8tg5wYWXxDf~22ljEYsHzZVYTidrko~vfyQ25xpT8iAn0i2Ua1-bL3Q-kYympjKiy3XEOaLdkyR8mScXNe8n0Pi7~aALF1cAJ2FEivSW6BXUv0gZhQCZnQC1W-J4E-QvThIpigBOwDw7VxZEKUUFlq9s29UZMY2VIZuboz9JKZnm6nw1ghhDB2KSnzEbH1YMPzL1G7g83DsUfw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps15 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/41/1x7/17x7/177x1/17711100014/586725814_1/586725814.1080p.nav2.mp4?Expires=1773435600&Signature=bGEt4A2nOwpLxeq0YMIDoaknXJtM5VZGY6L536z4nrpMBTxUMKJxiahDwzMIVe69fTUlBYKiGxTlHXKNGgfdR7hOYE5rv0zWK5njShU4X6u35bRO6gZW0q0kWFBb53jUVWARw8HU7FhGHyaLJX87u60JYNlLUkEYaQd~~YeI5~2HQlgC3tcNeuiD8Ej~d9hYtb-BmRwNkbY9Z4DQz4Pruj2wkNLKxtwELGR~x5H0Ozaqo9AzwVXPgMACoab4lYMIkYObovWWjL2uYs2D1JW7vo1v2vdQBsjl~YXs2TfNZlQZRzQ48stnzhB3RFXksLYwR16eVR44OAilctjLAYeFpw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps16 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/51/1x7/17x7/177x1/17711100014/586725815_1/586725815.1080p.nav2.mp4?Expires=1773435600&Signature=r9QYaTba4rOJfpdZlIEK1Yw0EUcNNAOgPD5e8jl35I-FBQIZ9XKNMS6O~ANWP4pX-gUd8xLpiQYm0fBF0KIOPa5wtosoC0HLGF9ToWpPbKVYu7AbENUITmiOQpV6SeCE6nFxDBjJOZjdGYIQUvViUSnyQz2qx05xFbbLQQ3j3XXkz6c08x4rCsbsM~wURXr5LnwxMUDYePym5xd11QUxdv0JTHtRMu~TndyWkYoDWmBDNJ-lVEZNtgv0sCYiXiK7~lfhPe1HQR~e1GRh80Hy0~YCc4XRD14gyt37mMsck8kzae1zBfyWd2iPVSM-KhFUWAirV4eIazPypmbUuqadxA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps17 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/61/1x7/17x7/177x1/17711100014/586725816_1/586725816.1080p.nav2.mp4?Expires=1773435600&Signature=hVnBEAU5pNLYuiNy~3FrpUfnDt8ED7ik4C78855q8zfiSfxFTK~3Gqy5QDoolzlcLJB7j6S0-JDef5isMvLU~HA-uJ2cXoun3dk1kG-fIVGz9QhXALnKkj0zJ6Yv5Sxo6XDcKTWYbhJXDykPnNbGm88E83tRZwZEkeaXWRq7YblkVFlhM~OEDIUMpg9IiG58NbUer60q554Tf~fJHfU4iecQD3-oCaxMH63p6jLYQ~HfqqMR3DuiFZmjTDlUYXeFiokSq4V9-2Nd8ZDaqqYcG1HG5R567k0xW0urXWJzFpLF35qawAvkwdnegL-hhn8rQYKo~ZZyDZSFluCWYBfOOw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps18 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/71/1x7/17x7/177x1/17711100014/586725817_1/586725817.1080p.nav2.mp4?Expires=1773435600&Signature=yaMEBADR0~BgUxKiunWodL0UQx5udybYQKF920BaewQip7j2t1ZbrbtjwLY5DHf5~UkppyFnLWbByGEnp6iyf7Nte2SCTAbZCxHsAej~mjeMEw7I6hsHDjwTE-7IF5Vl5y567ysr36I3R0rN7~FSZv4lmx8CupXicTvynV78sElR5YtDYnhKLe~VRt~YKimAtffdCOfDM24hpry2uTMyBVPDPtIiVV4dtfYkKkdsxXlVFlk4LVhG~OwIoedZJBZKRPkRG8yQdFOGWCHgonkzW2h89Pd~OKff9emtu-TWxyPnP8ElJQDmnflhTEtyhGEBTJEzl0E3TF~N88QVyBuHaw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps19 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/81/1x7/17x7/177x1/17711100014/586725818_1/586725818.1080p.nav2.mp4?Expires=1773435600&Signature=i5BP-mhCy3AdNA6pIwy35IUuhnTybTR2QKZKers5V82AXroX94IRBN2vr1B34NQO26xXAT0XZPPSLVOHbJqiHHOnvrP8hccS2L2U52OQE~lrgweNFO2stgBOfHB275~o0EbOnlYex2O6oPzE7vLZdBLRDKnLgBNg8XGKFDU8USkzbNDN0qfssAjsXtFpJCXMGbup8cO2atyq8nKw~BDIRDCUBdSE-kjJNAUhJP5aPuxR4ZTg9~dq2zITe-d6Uz~n0TxOCqeyNTbvggnECRiVnuHhnHBkR8dqIyo2mcR88N2CDlidlAMdL8THG3TmWrdQuO9YRw-RHRHt6Y9GX3nZJg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps20 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/91/1x7/17x7/177x1/17711100014/586725819_1/586725819.1080p.nav2.mp4?Expires=1773435600&Signature=bieL2wdjY7N3L5d455v5AqEYjmqN46Uj8HgiB-yvf~8TIsWmlThw15nlSUcm-PUSKBcETmHPqsDNb3bL-vpEI7pVGBUf-y9fPxxwxgw7m3fgcFEpWxGoP9g-1oM1Lqg2eMoWcLjmHygZ9zZhpycSiTCJdS0iHLqUgNLQdcdPdC1PdxDGmq-Tghq9szHkgKEvWJLTGXvEd0gWISzl5Bnk~qK05khjdo9jbyfcxQOkAqiEaIZdd3w5Y1l-exl-YKT5wYxprb6Gi5x7FacbffmQIwiqrMkMXxc2AxeFkk1LkqZ7ZSTzcqCKo64V-H3Ve1L-xB8wOTljMTGyf7sejD22XA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps21 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/02/1x7/17x7/177x1/17711100014/586725820_1/586725820.1080p.nav2.mp4?Expires=1773435600&Signature=kg02WSnLOCk8Z7XHa49clM-1UqumnjYraVB2GEgRjsD94FjxzNNEZXfITMgnT6nVa0k6fSa6wM4MoUV-2fc6KSg3eyzmh7xJMaUXBLxwOc-IS5uJWTKp4EWxKUUq1Q-SmQ9IDUIhfOvnMnSOwUy30O62uo2BbwX6LZRRVYVmEyUJDqPB1N9SYlwBzTD81yuPpwL7lyuTWNKdbwP~IWPHyws5OVjmR~AkTW6VE6P1KNdUW0Hnx6MMyY4UC6sXPtBfzM3TSMmfdI2luPi29OxEJ6ADZ3PpSbIEvaokBG~ihID07khlSHMpFpaF1PB4~0NYR3SQObS6zDjKOwXItb-RWQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps22 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/12/1x7/17x7/177x1/17711100014/586725821_1/586725821.1080p.nav2.mp4?Expires=1773435600&Signature=dZ16j8-smBrt2R51eF3TnMN6IUgW5f-cSIcY7KbEHc3Hd46BtAfIafcOJxVlst5Vi2RMQJByroAtToMm7O1c-k5ghin4wm9BN2jorJCcr-UaEExigtbqZFSY9TN4EZ~BoY2R7hwNIoWb1ROok~xyFKSNllmqE6~1Jt5HPs9ubcGvKknrA4umTmxob0q~qeuJpPNH~n0u8MeY9b5bBydFxz5FmVfjvQIzgspU2g-QbEGzgzr7HlNBnz7BLnKs68WO8i7O9fQ9VUNNgcqPJ-9uzNkzm2zuaDi~GVPhgT0Wenxs1Q0lx5v8A86-gmMjcqgIVSAYre~rYXzfhlLDc~S1yw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps23 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/22/1x7/17x7/177x1/17711100014/586725822_1/586725822.1080p.nav2.mp4?Expires=1773435600&Signature=npy6~vxoa5Wrlv5kX2TtbweiQhZCoUycU2FlO5qKVj6knLEA6XYDWoCacqq6wwSN231wIT-Wl3bhkaltP8CfwI6dmn~j1QvkvpHu-N05bAMHR~R8Nu6w6QXMdHielll6rFREEzcNcGdgbgOkzavc7z-ncQafHsJ2EEWRiEVoQyW3JuDPS5VGbcPShEps65wtZsl77-kmqTiJuWynZDKHA0XofE~rpsf5lh4SrAwz6FEUqcf1sGFL~UZGajcx6K3r74HoYJeXVKBED9YQplyPIZDS78iAmjTFJThQA39kRRzOPiqaGLfwCVGNNHb0oporxXakOJQCr7OpM1GnJ~nx~Q__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps24 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/32/1x7/17x7/177x1/17711100014/586725823_1/586725823.1080p.nav2.mp4?Expires=1773435600&Signature=OLLfI2b6R-ybZlKkdNCxg~9hRML5o0U8-MvwtmBb6XqLpEMZkyO22cetjULKrMI2YGSFTVUO2fitP9aY~6-fr7Vv6M8r1yjzfQUEcqvTx~ost0WbrOCvxBk7yXjqojtWsEyZJKOU~s8verKdo8pz8x95K5dP8rhPnl-bstlDJUdPRToSy2~1sGW2uaidFIgwwV8ZC8aaiSDlWqOItT28rhzGJCV~qGT9QyKr1QP8o7~ariBnMLV~y0uB8P3-AxTA6Q4n5QY1iEq7BMxK~uZsVC1~6cUpo-rv5fNh4sfuztgWmIKSjB6bXB3Wdx4pN23BL4G1iy6CzoAdil48MXyo8w__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps25 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/42/1x7/17x7/177x1/17711100014/586725824_1/586725824.1080p.nav2.mp4?Expires=1773435600&Signature=Y8rB8cj5JiduIfsZ6sEFK-4TuTohrB8N5WNR9ANympRj63SoYQlc56FEOSO4OQJqwbOJUfaddoDJL0~FOpD9E85JdWifZOtORMJYjdjtrq9V1untzBRE8gxERtc0YfYgpxewpQvu3mJ40~JSsZEobEZiHiGO803FF2vsSLCN4xOLCo23kh5nrSfNj0lPf~fFYN-lbZ9t~uGUjgDpK31cjlHscYuAN8LxMyotgXtiRrKClsVYhq2tg7NUpwHsfHJetyAqE8eNRnoTYiTZoDjiXzkjFN35ZCfmJ8zgNSnIEeImRm7AleJ7kiU3ct8Xp7VtjqrlqdG0O3lH-mzs7YF10A__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps26 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/52/1x7/17x7/177x1/17711100014/586725825_1/586725825.1080p.nav2.mp4?Expires=1773435600&Signature=m2jEQg2JQYznpYzFJD-P26tETyYQetoGbztV~yrZy7ucN6nVCxqBzXvjQ2qEqXSDdEKQ4r2-OgKoFe6CXI4nEHVWVZNzdfkCElm3kQTCB92o-QgWHwdm~6fAcIzDDjT4cRnH1zDc7Zzc08jvaZCBNlA-XU-67klZHYb3NgrXoTetERsi6BKFVNJTsgU9eMlAV~mPWAeRtFQHlwuNVA~54KhX4iGc6qQckcryJMw5JM0shkBbPwSwoOMb5mcRw9hTCvctVK0cw3OeD2D5bnXkx3OQpxNeAeTV3vEmsdFTodtym~6Vf8iODn~jaKoJN4drXvRbQvGHj6owWbgwD2o0kw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps27 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/62/1x7/17x7/177x1/17711100014/586725826_1/586725826.1080p.nav2.mp4?Expires=1773435600&Signature=wpxceVyjj1vg3yVacFXq9OixA1gSdyokzWBKYh8bencOvs~x9EzObKIeu8jB59BxvaEiPUsttId5FMyD~MFcrQeC91MwwJOC~ekd65oxnYZh8uJzcM5~56-tdJTfZcQpotoTBExxPLdWPYuRTDIrPKlL6h6HU6aB1fnRCM3VwELoqXQ6g6kFn6ncVVYkn9usKQrO6Ua19ywy1SmShCchXr9AqmGqWVMZVCk1GW9ZnIWtyo7~waJHZax4Y9RvwrRl7gOt4m45ed4tn5h5kenemyFHKfkxFhhjNBMBqsOYQTI7~8Nd1eaPBS9w4hopc-xj-hdX7x7MIi4oF9lEY8z9Fw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps28 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/72/1x7/17x7/177x1/17711100014/586725827_1/586725827.1080p.nav2.mp4?Expires=1773435600&Signature=BugeQjGXYcFuKZe-9FgwE9QsDl6woT1XEvhwoOTHSMjTodbLidW6ORNCMMtM0NcFChgZEgE6XIx4AxGtwfyO~MlmBAFGQrQiloNKOl1k6m6MaIAGSi7CQZw03ESBCnf~1PbzO--eUgsIDJ5Y9nqELji0wx339ZzkZDo85HtbpQO7NWkpAqJjFRX5w7PHAbxzqtIc2U3eWtQGtfajZB0bPyD0zYpPRYn3Ssv3p3HD3U~~niTS~c8BATQD96QgcIwckIZDLyzr8L75hzQz2cQxw~e0~5nbV8k3MTkWjzn5t0J3haFV1CYI1rusxu~5yIKUsqzsA4PHjSUAl7zGW~aKhQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps29 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/82/1x7/17x7/177x1/17711100014/586725828_1/586725828.1080p.nav2.mp4?Expires=1773435600&Signature=yTgnlWeBTCp-yOZy6sECgGF3UWgS9s6S771cewfEKzKfJ~9zUjy0OxtJA~ft5NoCTJbEuYBmkS7BpaNEAEansr6W~klaict~41ybl6t5y7gkCMFVOJMyAFmrXjCJQ0ozcb7j2ZvkUKgwkkwuT~hbdEyQEPdUZaa1eQRAbLh3FS8kTxT2VEI0vj6Aqr22qFnWl~LHWk19kOYtB9rwWgaL3O6lS5lwq-OkgYyhwvKU64MIeouOznjzMQK7VF44J4q5cGC99EWkmtmfVfaTF6PQKqq22PxjNOjtfFkpjtnxbkhXLAd7PKvS8idHZG99CN~zB4cByf0PHd9gWJnKrtjPHQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps30 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/92/1x7/17x7/177x1/17711100014/586725829_1/586725829.1080p.nav2.mp4?Expires=1773435600&Signature=jSz3hGmZb1GZFopbbcj2se1MlflwU55ClmW-Oihz7eLAtHwSjYrMOqnWvizeb6Z-cJvx~wEDJ5DwUcxmjDqGzSGhar~JrNyf8Y2StpogL6PVbDUu5YB-Dvu2HRs24HkDUA9n4wwB9UR74HEr6~Q3ZqYaYAZU2NGtcvwrVIOhTqZyxac8QqCEl6pc3pa6m9d0J4DAuN5WADNaKl7SBavYP6n-zH4EY6yIlv-1GYvcXbOrXLP74p-s-6bwZ5jkSvQVXqQ8awzw8wdPolQyhJmqDsC4CMjl5E-TaaC3dacee3zs0Dm-OWc1Y5lORA4vn0OkuLkgXI-QFxvJ7jo01hebmg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps31 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/03/1x7/17x7/177x1/17711100014/586725830_1/586725830.1080p.nav2.mp4?Expires=1773435600&Signature=dOeC71rrKpdfNK9HPqBb3-Kzze58Awe56E392CPTeng~rMIZvRNS1l1ZR8l68JS86MlVY9JlT4CAmGtMKK6F1VZZNC4eJzyH~MKQHFEr1-ynQhSxqgU4ZGiTPLNKkh3Ih4bWSG~xZHC4vPijV~oI-9i0NQpJdwQFNmdgnJt6DS-524b~uQk21m9Bh8R0LR5XKWY5LBu8NlHXn3ys6Bib~x22AhAPWeo64a-huyrEYXYLYN0SWwUflKjZyv3RqlDpCIF2JaS7uZSO-fIFval3bmyPOaXimEXy151S~lUSbuQgRXctqvrOO8gUplEXMRTfbodevZejvL7G4w6lbsdU2A__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps32 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/13/1x7/17x7/177x1/17711100014/586725831_1/586725831.1080p.nav2.mp4?Expires=1773435600&Signature=PpUm1EA-U~cu5-KU38UGhgKTYNnv6doh0bfml4MbtZTVvgjQoVP2PVKtjlm8rOwcKvH~k3uLlWXMDidC6Orl56so8Pbt8S6KEFyiwvYmi6HJ7xUYbPTiSV2rDqFonx5JT3r3VPWhjf8vymDKzvFDO5E8x25Tftoal2x-K~DIXrFN1sFmSJwUPzYabUzXmh7F0~GjClokfkLBzvOC3Aiu31OSUKMUpur4VIQRl-YqR56ljQjNRpBlu-9A1iWgRyI-DQTXlPNp90bfWvPkIaTH-YcEaRiQZ8pyQnTgfz078iksMzAfoeR-l367f5zE-iBvOt2w~f~00w9~lHQwRoBjBg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps33 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/23/1x7/17x7/177x1/17711100014/586725832_1/586725832.1080p.nav2.mp4?Expires=1773435600&Signature=KhMEVe34q-AwEhkcW4ivgsLZ1CzyXarK0m-BDp2qoHTeTvU2-1kswJ0~loJM3kB71WHJ3e8Fatmh-MShd4~dTNrnbxMzR62URsUBsMx710pPsucl1JsYb8hpfyZNTFypocpPCFVBNv5-nEE6gs2wH78c1LpNBdL7jjj1Qz5e-iTHM9aAju53VnhmDUJ2iGgJSDKlDJSPT~cIOVocFNhlrxeeVS6zbeHosdnbQkOmeMHSqt29Sb12t-~209z5UcufR2yNNERVphqy1qxXVbokCgY1ry21dSkTUYP-PKCMV-4Nm3U7b3lqhj1uwhF50umClu8Yg0zgO02XRst7R-WPkw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps34 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/33/1x7/17x7/177x1/17711100014/586725833_1/586725833.1080p.nav2.mp4?Expires=1773435600&Signature=Ql-Y8ojh8Mc2AWpWIhVPFSjNmTgkVPSi2Xuk2Cn~~ZUjTjBv9n38hPVT2rxRQtncdZN3GPuwoNZjVOC~FaJO7n9TEEPmT1S2hvCU4dNm-ZPaSgEPiHJWxAZemPmdnP-m7BP~DuM1mpy4~R2P528JHR1pzVGeDq23NMYiZN3l6rs55cJXqnaazeXh6oDGtKbVf5JAqOLbOEtgr3vfTfkAhvrF-oZZXZeoO2qR2rkV4ANJ8MmZ1bSLbI0mzKFZWjEE4mD4Rx7i9MLuj1Qcv4tXxKQuuyCtS9wmkpYov-DlNM-oRxRf97NouYUjS-fEN2JYNRQ4kFMG3c3hsIbJqoz6lg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps35 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/43/1x7/17x7/177x1/17711100014/586725834_1/586725834.1080p.nav2.mp4?Expires=1773435600&Signature=z74fqBaBiX~rTG1OpCC3IL-rphMmJq2iXIFhvIZ0DHaNTrT5uxiRbzte-8ByOBbRA~crr381wcO6wTAr5RXM1IYUqETtM4x3EgQrqgzofkU~fW3PwSnFJUUZHJ~7yYBrX72lbfgHgJwWJElskpBPaqASunfoUthqZKCrjJvtqwG3MEx1xS1Q0ju0Sxov-7zzfAm8NBjKcT~eMMPKHLEJbTDbK2MRUYxLpni~mP7Ia-e5vOsq8AGdB0jQBRPIDZIWvnVsbi9QyNxQ8fkl0WkZvfNG4dDoQ~aapRMGetwZ58kAI4gvKus73QOsFAad7GJYDnlc9Zef3pEDUBmRaP7BCg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps36 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/53/1x7/17x7/177x1/17711100014/586725835_1/586725835.1080p.nav2.mp4?Expires=1773435600&Signature=XXydvxxrSXwAFVcrE4T04gwXScaNAolXqfIhhaapYVmpeCHOPK-HglHDRaWQwko72wS8RqzdCJRMD58po9kdlpFfzCm6XGhpuAr-UMs9DVSMNSkq4Pt6ZWM49p6G~AtnHBKAwXhsbJoHKMpLDIYIzLAqzJAPR-o~~XPe1o792IR00OvOiQiV114WQKaYMZslOTqbsK~qkGFdT6hdZDrvNQ2WXPG9vGFS3A2GTfBkJjVxYI7If6DP7rmUJJsKMEzuoVREQKLgOvHQ8xbJBZnU06IuRkZA1-k~fsRbaXTeHtgb6V4y2hMVCTcto8y2rtci9u99KDzcRBtZLiGERxyj-A__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps37 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/63/1x7/17x7/177x1/17711100014/586725836_1/586725836.1080p.nav2.mp4?Expires=1773435600&Signature=UvBRUQ6s31aNHtmrfNft8aSQ5zxHfdjueX8z37ATR2rKuhuOoztfIOkqTReYTvrh7vB7iQCnW2~bnv34~-W8n2soDSt4Bv2qQJo0u~WvKpS6gm2RSLflNkJM8-Wgfa01K5Nk12nZwf0fLpbrvRuiIYq0OL9Ai9JM3HCpd~wTmn0nWvbL2ClxkAd7EbPZlnyGRbRqQdRmZ9l8jMFEElwiqLosozR-h9JYd1mcqM4YPenxh68M0VK07Y7M~WVdNZdBHJBHInhMLn0z8NB-a59g5e7l0GeUu6Np3fFwhA3ZgTdTJFz~WEZWY0C88UDgcu~RVSIXbWl6IKSKAgoTEp0iDw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps38 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/73/1x7/17x7/177x1/17711100014/586725837_1/586725837.1080p.nav2.mp4?Expires=1773435600&Signature=x0OLtuzW~y10ke0HxfbWqnkTonnC30JlmfC~K9ZI~yLjzAJ31JtC1dyuWlKvdSpMp8ZvuPUCYDpLMtZuCyp~K59zB4f03pAIaoqTHZ-Fxd2VlFSA3F4L8C-5HvJ0UO6FeaPK-c7Hg6FsR4gEUwr~69KrIDAKhe213nYdoq6OP92XjKYSzZbbrmOuqS6sC0qnoGwgXbjusU-YNTR6JWNhNrtu5h4NS8vg7lEo0UUrB6rFPuPXFjSGuK7616Wrjp~mFlZRmHMok5brAQEPk-Iabk5QBHt08TYymSoFybLrDR5~6BdwHmKaMS0JipsLcPAn6SVHUuCP3ur3zEfKbiIyHw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps39 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/83/1x7/17x7/177x1/17711100014/586725838_1/586725838.1080p.nav2.mp4?Expires=1773435600&Signature=jU8NUwv1PklP45SnVOnHSicHeMTruWQePVFyUuHDTp-IS~Mkpz7~nfqMV7pQpOiSiGBT4avl~uyh7pGzaXUy7~1A8E8-wZ51uipi5hT~c-5-ncU-JhEZsRAcqbIfF9msE~BGHUlIfvys5YyczGwxz5GqjWi2oGngXVDkEPfP~z7l4ojTMlFcTpi4HBC83KVOOlVh5nS2GPndoZpZNwEj20V2HPfKZeQmZOwyTLSm4Vv8AEBnlOcRrwk0WLUgq5Km0mCygjgjFIt0-puJfMi9Kbs~6T0Bxs-icsU2cH2OBMN-IzyQZhYDGEihQCngc6FzCawPkwmEW9Xrd~iLa2WgTw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps40 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/93/1x7/17x7/177x1/17711100014/586725839_1/586725839.1080p.nav2.mp4?Expires=1773435600&Signature=eG1zi0vJLzIFcH-LhMnwK2ddqrTwflBvyUDUGnSpNOqx7jTC1lzKZGGx~ZmBho3HzhEvWF6tLSgx7TSss26HnWd1h8wwiddyBMGPIHvjPYlUEGpUnM4GJ2u25Ty8e~8UIPR92OhXKtpTnWBuWltjMiac71L6wJtFSy-rwnI2dQcnyz6dYPIkvEOqCJtOS~CycXeNtX~hShRXgkIajz6S7ANQpedf5LoYGnPbobAWvbR7D-b502Vrl8HHw4vlaM6TUqjD~abFP1KXEZrnKE75zBJrI2VBlel6kEsmmXhAHTN4CPEhgBou0t71-3N6lgZGhvyJRidqJ-aXEfZF8E5gEA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps41 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/04/1x7/17x7/177x1/17711100014/586725840_1/586725840.1080p.nav2.mp4?Expires=1773435600&Signature=ftlfHtgTMYl7vA3JS4yTZBFGRX84RizMNo9XnSfW8v-bDwznNy1Vn~v~8R-K3M~0RLAK0J17~T3gUn1~eYyNayf9zGWIvPyJvmWshu4-pE6mZ8jqSBx0muGTEmaX9~Mc4iwk4drJAMpn5SpcWM7ah42WLKp5M15NVMRGr3i~PKx31Qwu7ODuSLd-HnBHQXa2gmfQB02ryXzCJIcR0g8Wusyiyy8JiW8x0Lf4SVtaF9BXOHTlh8TbgAqDpa0Tzyz9z0lNd2Tpw27MDTrxoen6MsaxNCqhxo-KWptRjTyjJB72R05qrf1RVMaOYyL2wMRiwo0Z-hjsYAaQlMmYKBihfw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps42 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/14/1x7/17x7/177x1/17711100014/586725841_1/586725841.1080p.nav2.mp4?Expires=1773435600&Signature=CiQAg-kWDIC4mz6QQIV5cCSQYMP7Rw4r8U1ThJ6rL~vaqsVFrclA~Js7dRZGNFvS4T95QAj0pZK8sMtA2rBbRrftAw-QLE8pj9Q23YmTGM6qdHmyHI59mK4-T50wlAl6CqgzlYHKU33Cb~fAImopkndYL9hAyydUgQ-6RWmDpuJ3HWT4~WX3N2GcAwx~zRsPF-DB47qi-REU~OUtt31xBOJz0nWoTmuTvtEdasfda-tiljpe8pKyx~NVIpGl7JCjLw7nbb6FXxHc5UILFnWA3nGU4aR7WcgJBRwFOgQ6G8U5P93LC3NEzxyphuBio56~FtH13Z8xsgA3zilicuvcRA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps43 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/24/1x7/17x7/177x1/17711100014/586725842_1/586725842.1080p.nav2.mp4?Expires=1773435600&Signature=K9qJvjGS5QSDIdrrqQkrlvFBTnLEexG~v5bEszWU6WDelrYFkqsQoImg8mh7y32XZ5AQBNocUgV-Fgygh-Pdt7yFLqlbmUn4dQkXB3-jJ3A~Pp70k7EboSiDvq4y4egFsF6KGwBycimTX~ozQu3Fav5UFbHqtSs~AYEIpNnbbIIyyajRmjzUpl0OjNKiJM4vj-eDdPm-VMV~hxHBjLcBQ1jxENCnY15VohFhoXFCjjUzqVeEMEmP3Fr2Rf5rnjeDsBPlg68nmES~CIEv26uaR7NTASk43ewt1GtR-L09Q0XZ6~LZUTrsbUAFf3T6GWC9u3UU0WHTigx0d2Uf2InQlg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps44 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/34/1x7/17x7/177x1/17711100014/586725843_1/586725843.1080p.nav2.mp4?Expires=1773435600&Signature=OlE2cSfZgpoJu7bwNDyGbzSoQi1-NdIBe74v8ySXxcgRgRKKH1yuzdl233cPTuR9Pl3TBCsu-IzS7AIB5PfrSnKk3WIfMl9g8bIWbgXqvh5W-U~743ktt3xilk6RIaIeLSfDAwPQyA0U95~3OH9yrRY6G0Hk0R5SYDOuQ3HKHZ1GbNLoNqlaJnK3w~t27n9gVMfuIsZbNmXoFicUiIwAaIQ8fzrJKrozq6KPM1JKTgUurfEOOhpmYVH0TJo4uOE0q7TR5v~KLcpVYiqq7BOt~9F0mjxqj5dM3EbrY4yW-lymE~MJKuj836iqOBcRhaNxYT6fTo6K-f2J36Ez4AYNGA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps45 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/44/1x7/17x7/177x1/17711100014/586725844_1/586725844.1080p.nav2.mp4?Expires=1773435600&Signature=NwO8ZfMwvVCCzC5e3CmSqFeqXZZoc4Ekb8yZgYQgIz3qra8-mKN3dNisb~yrTb2TIoneJ0ltvGGy3W6J8FBtGUIAJzx8OU2doPcKHgpDPJ33UCwIFt-qrofxIdIpKbGlQYT68Pwvam6LoSMCX6maNRiEaghssYfDj25yoBOEfWhFCyyuGjdR2MMLZ5YA5L~-Fg9BS3WiPUq2N~kh2BuddVIKBuUIwKj3xF-N1Uy4cCu9bB8pG1bpLlttfF~jyF4VikVUaLtuB-g7Y8hmuTdpKKfq9om4-7BUjCTj0MZVKc~fDNP1MwodUu~Yh6SHuXWtUPEEabeIjWIp4X0kGQK9Sg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps46 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/54/1x7/17x7/177x1/17711100014/586725845_1/586725845.1080p.nav2.mp4?Expires=1773435600&Signature=ce7x3NfOxLapmt8DuNq9HePsXYNK2z6XTOj2yuowCnLtoy-kMozfPJwvZWBWYG2ZgcoEhZYKKMHPJe11s9KWLhTGCyxQk8loiASS4Prd0-EGZM1xRobppmu79Dj~fY7NPPCbDu9~~MWqvX0AmC4j88vguGKb8VTrVSsdtbcmdo87ARPFuGx0TjUrK502Tbi-I12g3ZrDSMx0GxbS-1QagNAFvuShO7FR5kINyAJ1os9sgXnFCtZ6~Bgk6W6oflGaha2fOI6VZsLZSvuzK2mfAf6zueTmVJ8J3B9Zlx6frNgCS8b7A9Y7FXLzbZxtdxfBN7zwyq7XjexCCsv5L5JfKA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps47 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/64/1x7/17x7/177x1/17711100014/586725846_1/586725846.1080p.nav2.mp4?Expires=1773435600&Signature=uNMMSZrIPLuNoOL8b4N~MDU-iT7Wu7oGUYipZlpPxkx1F9OXWEjPSW3aF4cCG3htjuJPK9N356450RA6Asg1a967xxHjEOHCC-hDrFaDoeS-7P~0Z~nIPu8guraTIDyqKiXnxDuXaOmfem~uGRuDXIKCrWjvm~vCWOA9UimS2aPqrEtC34l~~L7PMyrM2EXVPwM2ck3P3qSnSuLQ47X7386Fj41302xn6uPJ7kQwBHOcFCwxaWo-8N-P-fxA2COcg99Hx3s~AmAf1d73Opw6MXBtKsoOoOAjI-EhBjZn7xvHrw9ulqoRXqIUwx9Uk2z7QIH8fhQ5Qq~QCx8~IJSodA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps48 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/74/1x7/17x7/177x1/17711100014/586725847_1/586725847.1080p.nav2.mp4?Expires=1773435600&Signature=p3UrU7xUPQGX7zqQR939KOHOk~KLaOciKALAM5vaPhBK6lCackSxlmtUnOwHsSbZWgMLDw0dZc~SwEtY9I5ASZObUUVCRTDxx-GZzvUDyZiNXCN1p5vVXRqY5CG-CdIWSgqn8IvdsgiVjOfMxxrisghRccmk~XKB-SjZB5~rQIyRca27LetF13wjcuULwfND3aV5KTe9VkAyr4NYuDXUBZl-UJSvrJnhxAT8Lo7RQPDO-651onZ3PRWwhiyJJIAKtlrfGXupvO7tTbt~o5v8c6mIclH-TDp2drOycoLN9ky2ie1OTS6a~dctZ3J29YK0h1osHkclE~6QvbtNLUlHkA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps49 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/84/1x7/17x7/177x1/17711100014/586725848_1/586725848.1080p.nav2.mp4?Expires=1773435600&Signature=XNfIyEDcUcQSpBLiVz1~x10BGnddnztNqaO4rvpAOx855iH5lCXYcJbfZKy9q6VjAzB61RyqpeXxw0YECjAQGs4SHDAVMxD4cPxJWQ-ebh1Z-tIhI1fXAZLyqoe2mcuW23kjsL5MAmRqgSwTqxPGlTmHChz~QMXMJV~QmkXIlQkbtXKrY6F3S-RE1stXs9juQlNIyFgaFOd57XwL4cZ0LxcEKF4IToTAC6~BrFA-pnpCyUEbCDH~S7ZAxhEzDizuvNfSrKl7-9MB6H6rdgmSOh0ca8wz6QCtKbFKZBDPFYy7droasWzNAStsYwzwlw6QtMI59iCdZRNQs48dl56tJA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps50 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/94/1x7/17x7/177x1/17711100014/586725849_1/586725849.1080p.nav2.mp4?Expires=1773435600&Signature=c~7T8JnCWmKQ7DQ1e~DKdQaM4onXAL~vHn2fwd25JdJ4O5XQytESDQhtJgDp1P1jWfHNm3CHkYNeihBMDWtaXZ4AumxhlLgCkMkZWgVStkUaT6fy0BgPfoBzGKt2u29y64K2cLYNTcg9QdjikUICfnL2~Cptnzny5xMefIgDcHlF66aGRoaGYKzWH5p6GCRJNLyszeQ2dEUKCsoKrj-Xg1FqHGAqruzOVr6yPoTnPnwJGhUC99LFPe1NxjyRS3CEu4JeSPU2OlMeutCUp9kuu2P04PyGmtcr5K4OYr1UbTugUiY2QfR7R2a3gJV1xfXYxm8XfFSsLJjnK9W0g5tp8w__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps51 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/05/1x7/17x7/177x1/17711100014/586725850_1/586725850.1080p.nav2.mp4?Expires=1773435600&Signature=rV8mEdWuIe6i6j4oSxBRVI9dOZNumzq7SB~zNYYDRrihpMu6cv1-~l28ixK57jgvS9wICgHh~dy3jYWwTAfjef3d5pcr0280Hgq42nnYTakDeQ-L4RaGGWfmrauQHZxmdLnuUv96g6EbkTha7SlP6fJTIl~VZU4JqmLPPE-dKuu0txSBP2MIHEhs--hSe9qXhy9vztlEQDKrB2xVp3FNtBCuwD2kX-TY0zXWCbGU6nvLfpb7oQq8g0qb3KuvlmK4QO~j89B3fGZUg~V2mSfNXHerAagnDtxjaMTTJaLcxXiO1j7FtueZQNF9p3mYUbwxmrqTNbINRRV7tj-6ZSZMmg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps52 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/15/1x7/17x7/177x1/17711100014/586725851_1/586725851.1080p.nav2.mp4?Expires=1773435600&Signature=NReNdMk6qbz3KTFuKi03EbVFC9yeJYM3V8bBqKnIZHo7X7TH9zZwln7UDUJZgpKV3N1Jq-MjEFCIr0PFCr4M9OJo7JtW-V-HNn31ZqTmbY72aKrJtOT4l6x3nkGmBLZFHSdGTQgJ9zeRcOI5mmvnSwVFf0RmR2Fccv3NtLyZvU63Pn-pybIMKtRo~2ElCKpb2slba-AN5V4vJvHono8UJnZRBg3pgVvOWqYVRc0H5T3Ql67AyNfCoyRnFK9LO0CJBVNh-8dOKH4wzhAehOBx2cS-TWUVPug2aRpwHplD1fj5lYz9onAFO-0YlvvJMt~BI5rs9e55NRp4IXnKaxBQqw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps53 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/25/1x7/17x7/177x1/17711100014/586725852_1/586725852.1080p.nav2.mp4?Expires=1773435600&Signature=JGlzb51UG2IhLAuZy~qQT-KUxJ-L6HQn7bTEVYIt6A1Y5CMJZEK3qTzd6qUZeWtKbtuiVDsYtUM~y5FQscRfFMcV7CkQpbZjz2dC9k2XsvOIOAfQph~U2Cr0F32Ai6444Gcfgi-Eeou6BeOcIqCI3D~ZN9Fqq9R-eVfk4KEeNsrYgqyEzkTXUJ0i4EEk0mNcgKQ13iEjc83b-zYHzJNLMkSuHobcb-oB9lfYvVZSmFO5lTxGxaXBZhVKYAH5nwXlyTn6WpXR7AS6qWfOELJUE9Vf-jThuK3c8TuVGUxuz3g9WcMJSxifEk5xj5zbpQPj6xqb9rrstdiDcpPoZJMBQg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps54 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/35/1x7/17x7/177x1/17711100014/586725853_1/586725853.1080p.nav2.mp4?Expires=1773435600&Signature=YoHax0vRr2Jym5qaFcKRM9VplyM~JD4L10YPN7LfymAmm-7A3Wc~3qeMBs60GVQyO4YLqba0npLLQJpEVEP-ieUgFgJ7LrPRpBQLQtEAfho1dWhSL1ZQquLRvE2yQk90lm~FU2t5xFMHgo9IJ2ooTdCxGVUeyTEzONgDL1zaCoDAMsqHTZP86var5b8UrQjMwfId5EGWwOpkHATzMdA36iqQhaekk86NXo3losblqcHaJtfNoVVMTon2w6K8c2rgTVlzRouviTkjAk1VEhsn6XfmBH6pxtIq7kl1Hxl93NocbltRG-KzotG4~68BfP6BGvnXavfuyyseBk1yc~Wk~A__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps55 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/45/1x7/17x7/177x1/17711100014/586725854_1/586725854.1080p.nav2.mp4?Expires=1773435600&Signature=bOj360h3BeaEr4omxWv7TNgev1U1~fOpjEimzWLHlKSvnoVy48WXBCXff-Wx49k~gg4~58Y9d~pi3Fmvc7GN8Gg2WtZzWkfEfK1xiuIIat3MT3cnU6rTH9~h1QCdNel4NK0e-fh7hYV0wYchb0~epqzaK3xrFvDihIYo27uRz7ASZN0r9nzZJrwhhWEOLoqypbNoV3o3h0kWVIDMnwlWtIC9r3QnzvgOMSk6glCHdmjPMw~S7x6vcv1U17EiwFS7nprGbCAaDFsFympkhnKpE2jrOvHUbJ6tH6Nup4hv~G4CPFiTj6cEKDEpzdYsHCTZag6FY-UYXtHwAKSuuAGNPQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps56 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/55/1x7/17x7/177x1/17711100014/586725855_1/586725855.1080p.nav2.mp4?Expires=1773435600&Signature=Vb2o97fNvhiV-mcuToH21Tp2S7ubOfmxJhXfJZPNvg2icWrmjjxSYl7~wn8Ko8AnokF6y~TpK9FEt-Xw8GMupU2sGz0n6FZUa~i4-VWwSyahHSxf6KobwjIAuXKWxuETiZDWPrgMWSyXRxnrJeek2UvrslgYKEQxsW~ZFlObs0479a8m52CLcGKcejEq4DZ-xkxRlIOJGWrEy1DqFOxfsDTVI90BLiF57mZZmzDz6vjHs-EjogdX4IP~tFSKvOZGOZ70nOlT5Kr5sNMEnlgKKzUr8noq2g7OuUUEOzAr8mqJTVfc7vcJQF1DlQ8sY4dl-BdZ~sibtd11xz2IHMxuQA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps57 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/65/1x7/17x7/177x1/17711100014/586725856_1/586725856.1080p.nav2.mp4?Expires=1773435600&Signature=hKQ958oxseEek2deaZ8N~CvHFPaMOQurMfaYzv68qNC-7yUg14IpLYCic32Cv~9zjS6Hkq0PjKHFHA0mxkSg3UywkCsHdTULGBcYcNW07V5qrT6zokIg-IzGxoDGlc5wweWNEI-8YtVYUE03q8~vg0bUMglbh35bx5kbiGWCRrEW6lFKxtrLCmzHkZYr3~fTfAF~~9uLmUOG5ego0S5OiuFpL3vacsDuVdZZ-avrHk2Hx~QI1EUYR79ez7e4dBTeCSEqW1QeuMQoEjbrGnodDnPPsSZCiXtz9F4~1wml2V8~z~Dg4DtrYhtFy4Zr4qEGAfJVgG1iFBz7S6iyKJN66w__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps58 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/75/1x7/17x7/177x1/17711100014/586725857_1/586725857.1080p.nav2.mp4?Expires=1773435600&Signature=qN0LVmsy-3rw6UxqRvfmhp3NpRSDnVIIP0OlISPh57NwjT7067vb7mFy57-6sExZNCKPfabIwmaoc2O1OEW6zXnKgYNvsgwM0iFKZ~2y34ucQIIFNnEeLUkOXHhoqe1ntR8ljt5hJAZpHrUqaYU1pxjQ-hh~jq~LoqOwVhBq0hMgctAAXkaYx2NelkY~MHS1APvrG1z3-YxlI52eruFrHcYTUkHalJzewPn57uOfrgoEkYEd4CKX~clzUzC4YBDamY61Q-VidmmKJ-IdDynSewhwwSUEN-eYQm4rT-6zJglTatI7SR5QM8vZn7xuKoYYuoRxMPwizJblkdW0K0~riA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps59 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/85/1x7/17x7/177x1/17711100014/586725858_1/586725858.1080p.nav2.mp4?Expires=1773435600&Signature=hxO6i7km2xjVfe-pHxlaClLQbRW4xEEYeYi-ojarGIRCA2DCVyruK3SPQXXbxLKjUJpD-1qEIWS6v30SEnL4yv~sJD5uZQofWlx~NDrsooNWQD0Fkbp79qsQz04qlHYjug1gAVrkhmQ3crtanbKQyxYe9JALvTaxRZeRitPzZ4n3s9Y9sNWkfn5JUwJ1twgiOcLC2K0vibaHRmy9ntCg6~3Cw8UhgvLFYyvNzY5I9H2Kmk-ylQ4lux7Cq6siiCWOCszl6EB4kWv~s5AOU-4IZOMLDX4yNaxFRJM7QKEqyKYOxtXERo74PXPZmP5HmCjwZjneqqKDAA4uLNY0tLKlSw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps60 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/95/1x7/17x7/177x1/17711100014/586725859_1/586725859.1080p.nav2.mp4?Expires=1773435600&Signature=xE8Cl1YFcg1tFkze7hyWuE9QDdG4acwakKY0jCYQjkiYoTjLzRS~CCoyXIWlIx4wNBaIk8BbSZPJ0fDyauqKXdsLSPHH0PDweOn4~4X2NtVDVpqI4mC~-RPBrcDYpYzBYype0cIK8iFoQ1PfGTT7vhf0T3nPepTQcMXito3ljqV-Ujp3suoZnq2JaQpGTmFuqF~L2PMNx4ce4ysq6rjpOeyJ4MwIUC21bL4tLJ5fDIR8T27jhBYyfR16bn9-lw-jvltLnQ27YJRY9M0564asbJ49kEgFACEzkqZ~0kHmOtJHkGZcxBW1Tu~G5qP9epPzJDZGvX8aLa65xNTMFcBu8w__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps61 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/06/1x7/17x7/177x1/17711100014/586725860_1/586725860.1080p.nav2.mp4?Expires=1773435600&Signature=xCHrdIMSFKwhbCIGRRBUolromX~cDAQEGvQgsKcTS027ESoBCXAlfs8EnNzWNkfy-KcR935P4zAA3DNaMDyUNC2gxQi3FyClKV0oY-uDlrVNeRQtzQdWXA~SAIe0dZk~nMDjWGc9UlTMTiEKCF0N~O~LgkAJlumYx360TDB0RkYEMk53nc-kut0mbZHcu~b3UuUAbYY3bqK1oIc16z1Ul2nXw~ReGedLcULor047ED7rE61fw7jXEXYnUhScyNXu3UwzrrqtTT6Lj54YCfzE3RzZHvDCgYigmyU9sWyLYRjNxPkqQRMx29JTxAadR1H6-t2f93N8Ri-kN25JLERNOw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps62 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/16/1x7/17x7/177x1/17711100014/586725861_1/586725861.1080p.nav2.mp4?Expires=1773435600&Signature=UOkP~kycN6n3z5PgZxav1jYCCwlOWREH4g1JH1GolrihMJMcb2cKwT7oCZO5xleuzOiYQeDuvohIrxtLQ2SaiFhfDqbYqzu7mx2qtGUZi18~61osfWYXWMfVyoGw3m0GSvbsWIvS4pPBtpLKKcf0mYbhWRAhxMpaXlM3RE~3PPbxoXg3BvcYyXohGh2riUwlI4dMe4weGgrKQouYDvvb8zsol1GZx4Wly8a82csmdwOnaGCNjPKoOhCX2YuNXF8a3R~Mg~mj-EyWpHveyJx5pfAkZHuYhnGK2pAqzNQSnxodjc-2vYK5FgUHUB2K0XEG2y6TLVV2VeHaAgoiFmTGUA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps63 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/26/1x7/17x7/177x1/17711100014/586725862_1/586725862.1080p.nav2.mp4?Expires=1773435600&Signature=eRCqOVRm3phqGHqmidOZtiBG2uYEFprg9nv0mZaf8jYnUKCLIRNLzMVpnayltDvB05tY0b5MzvioshN-afVd0DbRWkmGO~A0lNEYxV3wt9QsUDRxMKbDtTwwAuvlOqYB8-ABu4AWmRUKxkqEPnrb7usEImwStRY9HfkZ9QQq1bpjok8yza3S3TOLVnVcNR8EY~mcsYItp2saWosnMqLILGnOpwVKb851ZhzKO7kR~pEO0pDY51NB-qDZcp1uOxGuUKaVNah6hORSjf8hvB0oJhodlIEo463jLTpi8ruApGCoHtxw4gQJjF0V0sJIdRGIdGVILf5ta0VVHdfD5-bf9Q__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps64 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/36/1x7/17x7/177x1/17711100014/586725863_1/586725863.1080p.nav2.mp4?Expires=1773435600&Signature=TOoQPZqpZw3CURk4j3w6Ti61LG8i17bLNXOawZqoflOXqSZutUmM8ke4gG8GLtCk47iI59kEJ96ckb8O75Fo1UtmtSoXxIONVw4vNbQNNjJrD~WvVYjUlMOmO-71EopCvEJx3FA9t4pO2DQZ4olwBYLDr~3Q3wZVUdNWyFouYYdkqDnxKVhg8I5c238Jfn~e~xn-SOh6ttOx89GEPPb3VIYG58-Y1wN6cFvCkw6GKzEyt5-eUmI~JzF96LYeRiS6ZD2wacEVlxMrJd05TeUgvpr4~~R-ExC9C8~-UzCawED7kauAonB1YsO3hXuhzdVNCHCRq9Gww-rvAvlpJh05kQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps65 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/46/1x7/17x7/177x1/17711100014/586725864_1/586725864.1080p.nav2.mp4?Expires=1773432000&Signature=u-Dzvp00I2GjXkWEgXhQ~aON~En6O-XDxAyD9EXG7rkcRGqmYLGFuV5KXJF4TvFp9MAchK1Ma2ABKg0A25N9jqRooXoI~4pPViRVM6iBH2RO2piPS9hOcOKHL~Zjmyw6m6co0qaz4L58vGMMGWOII0QCtRnckV5sqWoB-uglUnYtP6sUOpPo~xQk1ObKat5pn4SoE4xowlF8r46tgcj~rvQmI13naLTgrt8hm2xeLc6Xzv~er3BWPVQD80vFTC1pgeQ81ndLcZY18lpTMbEYFfvYVDFEJ03HazvJYpebEg3NzI6MkRg5vuid9b6NDkcGCnRpR45Al07JwxnYiUv8aw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps66 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/56/1x7/17x7/177x1/17711100014/586725865_1/586725865.1080p.nav2.mp4?Expires=1773435600&Signature=P8itiyS62vDsA7ByHqsDFj8POpNgV6pHEEgwlewXkbLHDUAw3mrSGLhHXjn40hjHPV29YPsWFSOQnJ2Nh8RR480m9cZrf2cFPbOtcG8t1QrUyIwDjcPpn9FHAfoqwi-Knyc4tZ7qTQ9zwYoOhrC91RpcEQk--7uKbN4XRR5XKr~t341pbEQFjA-g9UvhmG5~tOZeEV2xquuj3TluPUK6nbG22xPh62tE2YVCEk4CHGklkf3lNjnfwTiZDW68rcehEy~KE~0sUBWzkaGU0IUoU~b0VRPYhNcowmxen6yGJ-5BpheEJTs9KIj7sgFn2vlvkBFRCwG0pfr228U-MqUkVg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps67 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/66/1x7/17x7/177x1/17711100014/586725866_1/586725866.1080p.nav2.mp4?Expires=1773432000&Signature=oDv52ZcXmM8kuNiiYz0Tnm5dvQMN0ZUWu-VoY0wsz9s4fWQzwp-bGSirnvITgUJ-f5uMyz7xpRL0PH7E5BEbiE9FQyk14gBwuS-8KH3B0wOsgaGwImp21aTxO1wTnMl7yUrN3~OQkz00kg2Zlt2~0SJTtIIMZlBWLbR62OD5l4QoQ57w4va9q2Edqfpsv63jPM4~9YegR2NkSguEsYJFPqkB4AmepgKld45iECa3zREzFCOyQ3H2Ldcn7vALhI52BVPDBq7UyLUqWZFZe7grX03GqDr4i-SjV~c20w~Z~1JQvuF1DN~blKQov3l0DhBlzZXHCFLCOGUIRUf3Kl3AOw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps68 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/76/1x7/17x7/177x1/17711100014/586725867_1/586725867.1080p.nav2.mp4?Expires=1773432000&Signature=X3cK8jLlxKG-D7kO8yhVPinlmUQn-niHsDNcPKeaKFleQC2YJBxprt7JG3Y7GjFhKUIvq9IpzqTAVzvxnvDfmV1icxhHqRifxQbFUgSkkVOXq5~FWacLc9EhtkBswg5iUKrDpe~xucoeBIOTQ2EzT4zY3ZM8inZj-DugxudaV10zqVr~olve1mP6jTOaovsk5OyjUcTPyqqRm0J4XQZjDd1FYTacvaT2XDlhdmdA5fEkNN7quwqhqT~-S-Onr7WmGAE1sDDYwNXXabaqBy3jQIagUpAOJdQSclkjZVpiMEdquoIyH0R2OCMmQHYMuHtQ7KUetL5tNoUB77TPbWsWdg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps69 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/86/1x7/17x7/177x1/17711100014/586725868_1/586725868.1080p.nav2.mp4?Expires=1773435600&Signature=wO90JSKrKmJHSo9NvZ2AmyZ1TsKfCThSfiXrxSMNnyENWRd~EMBeUK2qHUoosYni04tlgQYne0FNGVowBnMLhc-tkNsz7~BM1HmAFZ18NnSeVnBvMAwP13qfw96CxB4o5TiQ7XnVYI2YGM0cggqatXyLWMyhU495dJzkFKK2biM6VpxxohpkJ8j4DW58D9b7lROaMCi88SeEjmgZzAq8xP94Gi-Jj8Qg9yIcZ906mumYiVxvFo9b8U5XCfGZmn1s4ND2hblThRXFROYjFA~WwjQCr0Db81oIR~03zVk0eMxWq~kaBP5UOAc~NngSQmIKAjS652CmT-SWq-Xy-vwXZw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps70 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/96/1x7/17x7/177x1/17711100014/586725869_1/586725869.1080p.nav2.mp4?Expires=1773435600&Signature=GeJUEby95hXjP7qAkZ9k7dZ3SnGqK5ErTAwhTzD3Z34zK-HbuX0n66~1qUgF78Jbm7SZ5nSVExOtFnP~J8klTN43Y7uzKpYTN4N6PEbjJXlIYlZYqDkRC6-zvxeWfsZ3XTDxPAvE6b8noRD7qbrLu7hF71m4RwDd3y9S07rogxmPKES2L93EbzYwvcbkEJQ-7A3AkEYYbqhyTY3dgnmKzqK7TQK~CGthAH4kyA30nQHwFp5qKab8idWLZR-xrTHqVclxk-wteraCcZrpmZgjVTg3Q2g9KHgDNfNz~T8caBtZQcR8tLMmyRBtET8YfkTx7Wz9QcxsS1HgJ5oa1thuTA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps71 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/07/1x7/17x7/177x1/17711100014/586725870_1/586725870.1080p.nav2.mp4?Expires=1773435600&Signature=oc9j5i-AbgVckR50gRv1IMmn-o~Isg5cxXVcwV7FsBi8AlKpjcz4R-YdeI8Phyyp5nV0xqFksxVY1al27Wp4anZE0axhJ0GJcJ9vjQnLopUqURX36dcZmQJOgfAYXxBRMGf~6oZtFB7nLdKP~ko6-JgSRLRNH4XKuQIcGjRRX-gwuqdF3K8W4i1mawr5k77p39RQjO4upbEHh~5bG76dqrCGcbv-YVl45eRtuik15h5GVjgGFYQDRI-2Zi6MpPpf~QU01FZYyGBxxT9RBnZI1Cd4WbA8sk2JaVg~GdF4B9M2ZXYA6XxDKcNcuF9FuGHla8DFHhIPt2qJOUZMzqvxxw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps72 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/17/1x7/17x7/177x1/17711100014/586725871_1/586725871.1080p.nav2.mp4?Expires=1773435600&Signature=UcR4PRYawvmEYwMDn4SXxIqEzDKgbbSyswuW7MrSiGX2fxTl-wtV2aJBGfl1Cj48ROOIENj1nQwefK0QarMQT2ZAbafwvQxmDSC2Og1W39PD3FJGxWoOukxD0XNBVXjPzOWQwyujoMtJy7w5-gfTshf5lMmeMyLS~m~F57aAnm0LG7YdZtBRccxEbwGuN5De98icbb9OPPZq8Z~Xi-KF2fckTdeZSKlKmCGhLPanwLttesv6oSmqVRKaxYtdlwunAMfQJPC39tfgiXv~VkxDO8dl1cMLfAJjyd3AXwZ89Tv46aagL6m8FD6sOfZvXU6799uRt5zjhnMx~wYRprVPmg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps73 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/27/1x7/17x7/177x1/17711100014/586725872_1/586725872.1080p.nav2.mp4?Expires=1773435600&Signature=IwwgwcCN4~0wKoGYccISWT74qpimZ-pfhXNlZKOlIDsn33Ds0QlRKuh~PNpWbUi4XTb9eUY7ZDrfAr2iDM-PmWvv8AiIhQ9F~Fo6aR5qIqb1LsRmo32cJnemJg4Pu5j6Jb2vldmqOp-OL16Ri5QET3c9to79wqfm8FqCJsPlxFkrPilS~As1M46rS2ldlfJU-zieLMvFTgLSPMTs2cxp3Ljn15~7wZ~GN~SEmINVh5aJP0kqS~NUhYvvq4j89hzElxz3AK7VAjO599FTy9q22hWBTN-Fc0qmH~BZwi6uTkiR04lFXIP~OZ16XyywYVsR5oBkXZ7sT-1xESTLwXa3YA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps74 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/37/1x7/17x7/177x1/17711100014/586725873_1/586725873.1080p.nav2.mp4?Expires=1773435600&Signature=ySsSCdjFYC91ZW1zo2QDea-Vltd3~8LDGQDP0Bqke7dl73rjblin4onbkCI1scVW9BNZwKUwHkad9MAIiT2B214PuOwGLjswgiQF~KpQtXGkzHKHYBC2SnOzBovmlexkfgicFkAS5ljUGUhSYAjzEMw~dNoihjDWgk2mFcKpPUd45h6-vcTD4y0G79ctZso9Vhq6ta7BS5S-mOrhDsUX8pMoAcTk0-RMH9n9m1pi1Af~T6lAuJ828k75O7y4VHc85yrFF9MnG55Km12TPWbxEhwbKy7VXke-TXxsHDVfCnpvGC89~sFyxS1t3pNwY821ynlkbKrNyzN1701EoKS1vA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps75 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/47/1x7/17x7/177x1/17711100014/586725874_1/586725874.1080p.nav2.mp4?Expires=1773435600&Signature=RzWmJ-w6C2LHkb-1LP9YZxSYxKytUj1eO3b1~BBHSWZlapeLG9yst-tRiwkf8WGOCXFhp26QHG4JERGzbKk89H6N~B3l8LGE1SXufIp8ZILFlU5Ym-4KWENSpGVUN8RPvWvkdZYdjk7A-1L5YL4l2cdOpOCKGAZcFMm3RbDYj0oTruHLVj5RJwcNhF9oUGNPP3dyZIvI19qt6kkgPSSpLzarWi4kvWUBte5LzpCi7skKbgzU9wqTz3ngZh28bWv2HYdyOXfOGfdylYbcE1jBCDJ6zJ8nZRTkROp9gLzeK4GthbBP1PXoiaJEwf3aMaMuQMvK58KnuvpRggRUU-HkMw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps76 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/57/1x7/17x7/177x1/17711100014/586725875_1/586725875.1080p.nav2.mp4?Expires=1773435600&Signature=M0tE~H7HSWqoJgej2w0Axmgqe6Iyd~sQo37gl3XoU8rmq4SG~BTCjw8lGMsJdksaKgg90rdmGLkeN9OUoqanmbwAm7DFzjD6uIFsgnSWSYz4~8VgPiMqsi94Gs8aL8gLKZdJXhHUsFMtxHsewaOhgPnMoqg6qjdzc3ZRIjyTUM0Q6y7dnFq-HXIj1icz7iE~HWImqFaDU7Eepfv0n9r67Y8b51J2~r6s0hAGVZ3GGsPCy54E5Ti-anpYRZqT6sYC0JpvypDA~hviVTFi5ZBJRbR4-LeV8~Qoqg~bm7yWbECuaKxxH7cUXMGZ0BHGbwkIsqG3SiZZZI4CgbjDtnDKIw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps77 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/67/1x7/17x7/177x1/17711100014/586725876_1/586725876.1080p.nav2.mp4?Expires=1773435600&Signature=nsqeytE~JtNXjPnkQ7UiURejwm1AhotyQzfR-QjEyarmbNLC~QkaNJDayVxRsPnxG16GQrT7S49o2FYgbGXDJQb0~eKwoGUQuMiXP6T20b0mxmWlUK4z84AL5pr2wuBg30lJl2O22bxxvgEAbINkmG8u8socfl-XzXUHWGV~yF8PPHU8ooGM9NCox9-RT5nNErruSxoyGoEYEFnpjMjrkwIQinVa3TUIxFl6gsP4FeJMNo5cbkyx0MxHim28EG2Xh6MilBGqrYFvvqyInyIoLjFcZxUpcHgy4xvYf7OtCukA1apCzHk-2bxmRfj4XmrfE3IFz-VqQ0KjwQ0J-egAHg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps78 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/77/1x7/17x7/177x1/17711100014/586725877_1/586725877.1080p.nav2.mp4?Expires=1773435600&Signature=OhQB~SHwdggNOptbIMmc2g6WU2mm2H8uBPFID2tFCKVQI6DxW6CHoJqHxcKHsd1~Tn90NFZN4i9RqEKHNZVplHDKRQMslJVCwOyVkYlMY87k5305IgwysFH4iQaEHvjWMSle-BrvywSlZaqXM142wuG-hfipTNAX5VVeOCDwCNUM0e3gsz1x~NyFM~jga~8BuNMmOdVx3eChzeKAxgHZWc0T3NhbGXDAN1qmEfiqBMHU8WYxNvGMO~yOZ5Gvx7zAsLd5da5bwY2-BedJD~hYBOnUn7IP4hqnH8eHxwXgSbg1Gx27aZImiTn09po4WCprHgKhOdnnxy1DNLQhQtsSZQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps79 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/87/1x7/17x7/177x1/17711100014/586725878_1/586725878.1080p.nav2.mp4?Expires=1773435600&Signature=lQAV4HBNAbFH~KiKcWWWaPgsx0TBCK6qMlazD1I8FqvVGNde6h8Gypkrzuhj0wcy7NDEy~wWaxyBd3RoD8tXMr6B57ZMIPTF7YPBAxUngHH5tG7hTiVRHb~~1grU9aA55RLWH9RKdabbPZipBS45c1x5Hv6VFJNrLHi9xKcDSAGpPpq2ouQxVgShP4y7DhxpBVQlBDgdoli6RI3fE3NZ6l2EbeRJWd4EcOtF1m0-d24VjnpR-p-cfTAlzlVuq87ucG7pe3oYYmJHZ4uzlaVcQXtpNqCuzw8UM7xhRPNfsfOyBDpXiYI3zCWoQtXHRQzt62ANkZKELGJ2bcLlvUQssw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Pesona Istri Manis Sang CEO",Pesona Istri Manis Sang CEO - eps80 [05:59:12 WIB]
+https://hwztvideo.dramaboxdb.com/97/1x7/17x7/177x1/17711100014/586725879_1/586725879.1080p.nav2.mp4?Expires=1773435600&Signature=NEs6UCEtmD3NdN6Lqat~0fGxPEzYQpW6iB3c6ZWTS85xE-WmzM5UMRgAMQ6UkfDoTJ396rahmJCPz6D3beedzrL1atACIIEJ45T~xmjo88PRIOOR53PvxWozv2k0DSXHfblI1IrqLQchlXJD1MJPdaEU1zOQqSmtaW7LG44VJPwFbbS~2qo81Nckq89RTy7tfcsl9dvVzC2vD0vge94rqxLbtqC4zoHyHprsDOhxynCCHHs4GHe-jWqt~yDs4mVThfn9yKCQXYp1xybTiMb4d0Dmo6dFl4-Rh53xPetJT9VnXIFYuoaMOvTj6WbJQwC0qliAV0S8USnP3IY6r5RaOQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps1 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/97d8ce00cffaa96c75dbbcee9f1a60f8/69b47ad0/01/5x7/57x9/579x5/57950000024/700386210_1/700386210.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps2 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps2 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/3c83658c4c9e5d318903bbade43b1743/69b47ad0/11/5x7/57x9/579x5/57950000024/700386211_1/700386211.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps3 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps3 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/b7feeac6ed9a4872399fa75f916af94a/69b47ad0/21/5x7/57x9/579x5/57950000024/700386212_1/700386212.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps4 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps4 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/063c76fb6d65aaae4b272bfa31a3a49c/69b47ad0/31/5x7/57x9/579x5/57950000024/700386213_1/700386213.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps5 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps5 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/4cbd001121f6cc221c217079515033f9/69b47ad0/41/5x7/57x9/579x5/57950000024/700386214_1/700386214.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps6 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps6 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/6695b2030ae260bae734a13140a1bec0/69b47ad0/51/5x7/57x9/579x5/57950000024/700386215_1/700386215.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps7 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps7 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/d286e7cd40657716284555135d4e098d/69b47ad0/61/5x7/57x9/579x5/57950000024/700386216_1/700386216.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps8 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps8 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/e09d00785725a51358713cce39886726/69b47ad0/71/5x7/57x9/579x5/57950000024/700386217_1/700386217.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps9 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps9 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/1724e226e62b2c76c5268b1b6bdace07/69b47ad0/81/5x7/57x9/579x5/57950000024/700386218_1/700386218.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps10 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps10 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/4ebdd7450e35250fdda04fc3ce86fd30/69b47ad0/91/5x7/57x9/579x5/57950000024/700386219_1/700386219.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps11 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps11 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/43a27a0a6e650712c8b3f71146f81e6d/69b47ad0/02/5x7/57x9/579x5/57950000024/700386220_1/700386220.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps12 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps12 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/76208e3401e609ec6c4345654ddecbd4/69b47ad0/12/5x7/57x9/579x5/57950000024/700386221_1/700386221.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps13 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps13 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/2d31fd3b30aa5235e4aa3197198911f3/69b47ad0/22/5x7/57x9/579x5/57950000024/700386222_1/700386222.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps14 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps14 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/ee680bf6d1372c0294ef66517d3f4d78/69b47ad0/32/5x7/57x9/579x5/57950000024/700386223_1/700386223.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps15 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps15 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/c4fc8959948dbc85f9aee0667adae2ab/69b47ad0/42/5x7/57x9/579x5/57950000024/700386224_1/700386224.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps16 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps16 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/dd71397218bfad61caec8fe75d8064bd/69b47ad0/52/5x7/57x9/579x5/57950000024/700386225_1/700386225.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps17 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps17 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/a1b90a85c9cfac71b9e4c9de54ef47aa/69b47ad0/62/5x7/57x9/579x5/57950000024/700386226_1/700386226.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps18 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps18 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/0bc10200a52a522c39e679e3962b139e/69b47ad0/72/5x7/57x9/579x5/57950000024/700386227_1/700386227.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps19 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps19 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/c37e3464007c259324eb5d1e353a4057/69b47ad0/82/5x7/57x9/579x5/57950000024/700386228_1/700386228.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps20 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps20 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/3daf2bcbcf2235456243309b0d6d15bc/69b47ad0/92/5x7/57x9/579x5/57950000024/700386229_1/700386229.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps21 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps21 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/ee966c446b6069cf5d01fdd898a1bd63/69b47ad0/03/5x7/57x9/579x5/57950000024/700386230_1/700386230.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps22 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps22 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/62ea63a62962dd40d657e4dd41652452/69b47ad0/13/5x7/57x9/579x5/57950000024/700386231_1/700386231.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps23 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps23 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/d357bd030ecb8db71f98110aabfe81a8/69b47ad0/23/5x7/57x9/579x5/57950000024/700386232_1/700386232.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps24 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps24 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/dafa9482ee37de6880ad8ddf73df91f7/69b47ad0/33/5x7/57x9/579x5/57950000024/700386233_1/700386233.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps25 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps25 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/c4bab12c661aaa52dcb67651649882dd/69b47ad0/43/5x7/57x9/579x5/57950000024/700386234_1/700386234.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps26 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps26 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/a051261ac2e18685b8a3aba04b8225e5/69b47ad0/53/5x7/57x9/579x5/57950000024/700386235_1/700386235.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps27 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps27 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/a23f55e4603bbbfc30d5d97037f8b6e1/69b47ad0/63/5x7/57x9/579x5/57950000024/700386236_1/700386236.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps28 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps28 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/c91b963f0da9661cd04c37dda4ee2e05/69b47ad0/73/5x7/57x9/579x5/57950000024/700386237_1/700386237.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps29 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps29 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/b6ef75cf20d3da22acb6abacb6016c41/69b47ad0/83/5x7/57x9/579x5/57950000024/700386238_1/700386238.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps30 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps30 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/2ed7b29a43a77fe9e9813705fb56de6a/69b47ad0/93/5x7/57x9/579x5/57950000024/700386239_1/700386239.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps31 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps31 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/e5c89f1e40abec226be675371b4cf594/69b47ad0/04/5x7/57x9/579x5/57950000024/700386240_1/700386240.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps32 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps32 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/c4b0c0330ecfcb3e81a2faf9f8801d79/69b47ad0/14/5x7/57x9/579x5/57950000024/700386241_1/700386241.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps33 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps33 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/e2e434850025938355af66cd0fc1cd9c/69b47ad0/24/5x7/57x9/579x5/57950000024/700386242_1/700386242.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps34 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps34 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/f498252602c26b4295eec0dad75a7408/69b47ad0/34/5x7/57x9/579x5/57950000024/700386243_1/700386243.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps35 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps35 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/958af9183584e61afdddd15c0259e52b/69b47ad0/44/5x7/57x9/579x5/57950000024/700386244_1/700386244.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps36 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps36 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/77f7f4a9e620e9f2cb9b55a6948637e5/69b47ad0/54/5x7/57x9/579x5/57950000024/700386245_1/700386245.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps37 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps37 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/58e0405c8b3116d5a3006b4dc1056e80/69b47ad0/64/5x7/57x9/579x5/57950000024/700386246_1/700386246.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps38 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps38 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/6e6648ca8e81251b82ddf75d77b5eb87/69b47ad0/74/5x7/57x9/579x5/57950000024/700386247_1/700386247.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps39 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps39 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/6c284b902f16d266daa9f7571d87b9d2/69b47ad0/84/5x7/57x9/579x5/57950000024/700386248_1/700386248.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps40 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps40 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/80bba0b64558d4bc856c836b5874244c/69b47ad0/94/5x7/57x9/579x5/57950000024/700386249_1/700386249.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps41 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps41 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/f50edb3de05a037a5cb235e2ff756178/69b47ad0/05/5x7/57x9/579x5/57950000024/700386250_1/700386250.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps42 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps42 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/543964ca4ecce9dd5dda1ad547a3bcf9/69b47ad0/15/5x7/57x9/579x5/57950000024/700386251_1/700386251.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps43 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps43 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/faab797ac7149d693fb6dc573f4974b5/69b47ad0/25/5x7/57x9/579x5/57950000024/700386252_1/700386252.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps44 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps44 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/50bba5a46e70474793f785ef04d1ac11/69b47ad0/35/5x7/57x9/579x5/57950000024/700386253_1/700386253.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps45 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps45 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/210f673783e40ca99c40d229f673219d/69b47ad0/45/5x7/57x9/579x5/57950000024/700386254_1/700386254.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps46 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps46 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/9abd7bcd62f46c86e189c1ac8646a904/69b47ad0/55/5x7/57x9/579x5/57950000024/700386255_1/700386255.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps47 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps47 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/f757ab8f6cd1c5f076647d1353ba47a9/69b47ad0/65/5x7/57x9/579x5/57950000024/700386256_1/700386256.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps48 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps48 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/8b1b518ba409ccaf9d8112e23a655cfc/69b47ad0/75/5x7/57x9/579x5/57950000024/700386257_1/700386257.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps49 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps49 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/e535d7b299a63fb88b0752a1a69384fd/69b47ad0/85/5x7/57x9/579x5/57950000024/700386258_1/700386258.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps50 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps50 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/775a14f1d37d27e1dc05d5f906e41c35/69b47ad0/95/5x7/57x9/579x5/57950000024/700386259_1/700386259.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps51 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps51 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/7de1d04e66de29f9e315f1a968d6c2e4/69b47ad0/06/5x7/57x9/579x5/57950000024/700386260_1/700386260.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps52 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps52 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/a1cce0383d34dea8fb44ab44ce79e295/69b47ad0/16/5x7/57x9/579x5/57950000024/700386261_1/700386261.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps53 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps53 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/382dc6a6894d3487437439591d211552/69b47ad0/26/5x7/57x9/579x5/57950000024/700386262_1/700386262.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps54 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps54 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/a9fb79b17699ba7c6d0d95574619e61e/69b47ad0/36/5x7/57x9/579x5/57950000024/700386263_1/700386263.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps55 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps55 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/8168d77359ae7f7a469b82f9d1403094/69b47ad0/46/5x7/57x9/579x5/57950000024/700386264_1/700386264.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps56 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps56 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/9328a3a243ff18d89f8ea307b0810ca9/69b47ad0/56/5x7/57x9/579x5/57950000024/700386265_1/700386265.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps57 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps57 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/e709f25df13cbdb4481fdcce7fea732d/69b47ad0/66/5x7/57x9/579x5/57950000024/700386266_1/700386266.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps58 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps58 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/09af6053104111ec0752f849a0c288a0/69b47ad0/76/5x7/57x9/579x5/57950000024/700386267_1/700386267.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps59 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps59 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/c804c685eb3dfda12efe2590216b78fc/69b47ad0/86/5x7/57x9/579x5/57950000024/700386268_1/700386268.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps60 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps60 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/4d1988aa04f5d3a053281f08b2234a93/69b47ad0/96/5x7/57x9/579x5/57950000024/700386269_1/700386269.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps61 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps61 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/45829bd4855f69993963b1df89d75aff/69b47ad0/07/5x7/57x9/579x5/57950000024/700386270_1/700386270.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps62 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps62 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/b56d294d09f72c562191c0d417551ba3/69b47ad0/17/5x7/57x9/579x5/57950000024/700386271_1/700386271.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps63 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps63 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/4b5c8860d81b1dfdd74dfed41e440bf9/69b47ad0/27/5x7/57x9/579x5/57950000024/700386272_1/700386272.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps64 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps64 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/deb7c2d01800c883a3bacc9ad8f3af75/69b47ad0/37/5x7/57x9/579x5/57950000024/700386273_1/700386273.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps65 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps65 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/80f619dac58e7be6dc426d979e97a268/69b47ad0/47/5x7/57x9/579x5/57950000024/700386274_1/700386274.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps66 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps66 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/78eee381223d7f8ad862d1e7ecd29851/69b47ad0/57/5x7/57x9/579x5/57950000024/700386275_1/700386275.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps67 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps67 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/5deac372a4aabeac3e59467865d12bbb/69b47ad0/67/5x7/57x9/579x5/57950000024/700386276_1/700386276.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps68 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps68 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/b127a53b66dd36da212de43c3ed4ad44/69b47ad0/77/5x7/57x9/579x5/57950000024/700386277_1/700386277.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps69 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps69 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/e7564b198a8d63e0bb296f7b31e02cd6/69b47ad0/87/5x7/57x9/579x5/57950000024/700386278_1/700386278.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps70 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps70 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/2bba3b8c4b684e0569ec8e4e9caade03/69b47ad0/97/5x7/57x9/579x5/57950000024/700386279_1/700386279.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps71 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps71 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/0e3681384716797ea2985f52b5aef703/69b47ad0/08/5x7/57x9/579x5/57950000024/700386280_1/700386280.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps72 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps72 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/5989a1a1d753067267e9f941bfc24306/69b47ad0/18/5x7/57x9/579x5/57950000024/700386281_1/700386281.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps73 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps73 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/716a28ca897f93f5419c721ace2d0f1f/69b47ad0/28/5x7/57x9/579x5/57950000024/700386282_1/700386282.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps74 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps74 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/57ac8b924e63cea8540a7d6b63154fdc/69b47ad0/38/5x7/57x9/579x5/57950000024/700386283_1/700386283.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps75 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps75 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/2228b3836ecaaaaf22889f1230c6fa7c/69b47ad0/48/5x7/57x9/579x5/57950000024/700386284_1/700386284.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps76 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps76 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/995f3fdb88e61def3c80de7b41460150/69b47ad0/58/5x7/57x9/579x5/57950000024/700386285_1/700386285.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps77 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps77 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/3a8a9859ead6e740a237a5134ce804ed/69b47ad0/68/5x7/57x9/579x5/57950000024/700386286_1/700386286.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps78 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps78 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/08408d9986aa9aa0014f807533742a3a/69b47ad0/78/5x7/57x9/579x5/57950000024/700386287_1/700386287.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps79 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps79 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/9888b9c89f3e8fcb13c91931cc5b6379/69b47ad0/88/5x7/57x9/579x5/57950000024/700386288_1/700386288.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps80 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps80 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/d3c01871b555833b23bdb3f00b91318c/69b47ad0/98/5x7/57x9/579x5/57950000024/700386289_1/700386289.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps81 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps81 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/fdc49220a9d2cb8bb8a6fee350dd1bf6/69b47ad0/09/5x7/57x9/579x5/57950000024/700386290_1/700386290.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps82 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps82 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/1f9c2fabe3b63a580fc9546c2ce3e0f0/69b47ad0/19/5x7/57x9/579x5/57950000024/700386291_1/700386291.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps83 [04:59:55 WIB]
+#EXTINF:-1 tvg-logo="" group-title="Insiyur Modern di Desa Kuno (Sulih Suara)",Insiyur Modern di Desa Kuno (Sulih Suara) - eps83 [05:59:14 WIB]
 https://hwztakavideo.dramaboxdb.com/184febbef451f86c25823a364a029ad1/69b47ad0/29/5x7/57x9/579x5/57950000024/700386292_1/700386292.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps1 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/0b810b3054ebe62885dce5acdf4d6882/69b47ad0/28/8x3/83x2/832x6/83260000024/700408582_1/700408582.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps2 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/0e81559f88df20476d3183afe6676531/69b47ad0/38/8x3/83x2/832x6/83260000024/700408583_1/700408583.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps3 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/f7f8f6f72f3e44edea32cb7e954370fa/69b47ad0/48/8x3/83x2/832x6/83260000024/700408584_1/700408584.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps4 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/88d08135b44b28594ec112c074095f84/69b47ad0/58/8x3/83x2/832x6/83260000024/700408585_1/700408585.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps5 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/111dea426c8b176ebc7fe2a8e647ebcd/69b47ad0/68/8x3/83x2/832x6/83260000024/700408586_1/700408586.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps6 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/404ee9c7a5b6234ed5a2e7078f85419f/69b47ad0/78/8x3/83x2/832x6/83260000024/700408587_1/700408587.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps7 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/a211a99fd1cd5c95950b8e8f262ced78/69b47ad0/88/8x3/83x2/832x6/83260000024/700408588_1/700408588.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps8 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/cd2f7e324abfc7945d25b5ae14bc6f6c/69b47ad0/98/8x3/83x2/832x6/83260000024/700408589_1/700408589.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps9 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/44ddcd2b88af055603e3719c74ba9ed0/69b47ad0/09/8x3/83x2/832x6/83260000024/700408590_1/700408590.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps10 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/304e5e65a8f1060f0735b1a3d57a6237/69b47ad0/19/8x3/83x2/832x6/83260000024/700408591_1/700408591.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps11 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/e3b2124d8f72f0926cc36e1d23745a59/69b47ad0/29/8x3/83x2/832x6/83260000024/700408592_1/700408592.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps12 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/39b96597fc2ff2d8c7e7b9f54d90e1ae/69b47ad0/39/8x3/83x2/832x6/83260000024/700408593_1/700408593.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps13 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/39e380d3deb372d2cab7956c9e1d671c/69b47ad0/49/8x3/83x2/832x6/83260000024/700408594_1/700408594.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps14 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/7cfdcd0a85fc15bd396ce2872c6ea059/69b47ad0/59/8x3/83x2/832x6/83260000024/700408595_1/700408595.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps15 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/d64e659d618838bc3591878d71ba94b8/69b47ad0/69/8x3/83x2/832x6/83260000024/700408596_1/700408596.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps16 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/8a8a0ad90217b15b30776dddca6af31a/69b47ad0/79/8x3/83x2/832x6/83260000024/700408597_1/700408597.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps17 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/3623bb6b5512c05b673f19a109dc128d/69b47ad0/89/8x3/83x2/832x6/83260000024/700408598_1/700408598.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps18 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/676c40e4663bb0ef306ef29a62b33d91/69b47ad0/99/8x3/83x2/832x6/83260000024/700408599_1/700408599.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps19 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/3ca5b7c6b9d6e8be7bfe380d0234cd81/69b47ad0/00/8x3/83x2/832x6/83260000024/700408600_1/700408600.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps20 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/3065b55299b50566028366caed4fa0b2/69b47ad0/10/8x3/83x2/832x6/83260000024/700408601_1/700408601.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps21 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/4927f18a7710d9db0a7be2d2d5b131f9/69b47ad0/20/8x3/83x2/832x6/83260000024/700408602_1/700408602.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps22 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/805c02b2af67b85b7c1c2dc3126923f0/69b47ad0/30/8x3/83x2/832x6/83260000024/700408603_1/700408603.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps23 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/8f910b468666c866dce40da97e1bd16e/69b47ad0/40/8x3/83x2/832x6/83260000024/700408604_1/700408604.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps24 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/60e8bebc4083ea8b1f6ce1fefb09782b/69b47ad0/50/8x3/83x2/832x6/83260000024/700408605_1/700408605.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps25 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/6b895f56ac7daf113b08c0dab8867c00/69b47ad0/60/8x3/83x2/832x6/83260000024/700408606_1/700408606.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps26 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/9e68823264eea7be6c5f0f1e903bd761/69b47ad0/70/8x3/83x2/832x6/83260000024/700408607_1/700408607.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps27 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/6629f59960ca48557a1bf7596f5f438a/69b47ad0/80/8x3/83x2/832x6/83260000024/700408608_1/700408608.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps28 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/ed87dc08f4bc7adcefbe31bef6a60d26/69b47ad0/90/8x3/83x2/832x6/83260000024/700408609_1/700408609.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps29 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/cd838dcddeb5e7a3d0433e9dcfd44d2c/69b47ad0/01/8x3/83x2/832x6/83260000024/700408610_1/700408610.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps30 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/186f5d8c9d10193e7c02e15a419f90ed/69b47ad0/11/8x3/83x2/832x6/83260000024/700408611_1/700408611.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps31 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/19cc6e8b062bfc52c971e151b44f2063/69b47ad0/21/8x3/83x2/832x6/83260000024/700408612_1/700408612.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps32 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/aced35f02f62f4fa67d06b6911bef031/69b47ad0/31/8x3/83x2/832x6/83260000024/700408613_1/700408613.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps33 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/12b56016822be5330b2287cb9c8a93e8/69b47ad0/41/8x3/83x2/832x6/83260000024/700408614_1/700408614.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps34 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/c17d8706f2f75ef60fe16d10dfbbb4d5/69b47ad0/51/8x3/83x2/832x6/83260000024/700408615_1/700408615.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps35 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/b84297a421f5c90e782959431ad693ae/69b47ad0/61/8x3/83x2/832x6/83260000024/700408616_1/700408616.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps36 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/c38d3b2934f72350701e2df9139a7603/69b47ad0/71/8x3/83x2/832x6/83260000024/700408617_1/700408617.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps37 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/6c62828feb582ecd96f826300afe2808/69b47ad0/81/8x3/83x2/832x6/83260000024/700408618_1/700408618.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps38 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/f5672a8da838b3d2b0776ecbabd116cd/69b47ad0/91/8x3/83x2/832x6/83260000024/700408619_1/700408619.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps39 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/c6b13543496efd2197d148e93b710270/69b47ad0/02/8x3/83x2/832x6/83260000024/700408620_1/700408620.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps40 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/9affeae652d0dec3a0931ed5e7a57813/69b47ad0/12/8x3/83x2/832x6/83260000024/700408621_1/700408621.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps41 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/91274413a6bedaf323a4d69c160661ba/69b47ad0/22/8x3/83x2/832x6/83260000024/700408622_1/700408622.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps42 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/a1259480160b1764dba5dfee57f22800/69b47ad0/32/8x3/83x2/832x6/83260000024/700408623_1/700408623.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps43 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/089e948569a1271c8f4589f1dda46c29/69b47ad0/42/8x3/83x2/832x6/83260000024/700408624_1/700408624.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps44 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/54dff1a9a17279080a734676f9ae15eb/69b47ad0/52/8x3/83x2/832x6/83260000024/700408625_1/700408625.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps45 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/41aaed621ea16758fc291eb2bd94c406/69b47ad0/62/8x3/83x2/832x6/83260000024/700408626_1/700408626.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps46 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/a2da3094ba0e332c4f73a4748dffb19a/69b47ad0/72/8x3/83x2/832x6/83260000024/700408627_1/700408627.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps47 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/b87917c7548ee519c9cd0e607242c590/69b47ad0/82/8x3/83x2/832x6/83260000024/700408628_1/700408628.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps48 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/f2213a2455d4ed327958f47230f6669c/69b47ad0/92/8x3/83x2/832x6/83260000024/700408629_1/700408629.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps49 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/e2e3653513eedde8c7f9fdf90a3634a4/69b47ad0/03/8x3/83x2/832x6/83260000024/700408630_1/700408630.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps50 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/e849c2c35d0800d8cb57b7d2954003e4/69b47ad0/13/8x3/83x2/832x6/83260000024/700408631_1/700408631.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps51 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/aa40fcae3be9bdcb5cd00f1de027f396/69b47ad0/23/8x3/83x2/832x6/83260000024/700408632_1/700408632.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps52 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/dd7ca320e76283ddbb49291d982b1d6c/69b47ad0/33/8x3/83x2/832x6/83260000024/700408633_1/700408633.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps53 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/a09a92113f86bdcff863054babb27afd/69b47ad0/43/8x3/83x2/832x6/83260000024/700408634_1/700408634.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps54 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/55662aff82c2860c817404db0aa6814a/69b47ad0/53/8x3/83x2/832x6/83260000024/700408635_1/700408635.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps55 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/c63edcb34784f6219d3ab40d25d4a95b/69b47ad0/63/8x3/83x2/832x6/83260000024/700408636_1/700408636.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps56 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/080f88919362ca8f111689a8f8682057/69b47ad0/73/8x3/83x2/832x6/83260000024/700408637_1/700408637.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps57 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/6de6900515dc2a1aecccdbf61f3d0c16/69b47ad0/83/8x3/83x2/832x6/83260000024/700408638_1/700408638.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps58 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/c14177179e59d63d85f850da0990776a/69b47ad0/93/8x3/83x2/832x6/83260000024/700408639_1/700408639.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps59 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/682281934a79b9eb94923709be9ca420/69b47ad0/04/8x3/83x2/832x6/83260000024/700408640_1/700408640.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps60 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/3f67196be62531818aa9261ea8df0a21/69b47ad0/14/8x3/83x2/832x6/83260000024/700408641_1/700408641.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps61 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/df75e8e0ba9250d33b069e6182ec5dd7/69b47ad0/24/8x3/83x2/832x6/83260000024/700408642_1/700408642.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps62 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/c179d123585904b7d8acdf6b632f1411/69b47ad0/34/8x3/83x2/832x6/83260000024/700408643_1/700408643.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps63 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/0a518d9e3d6175dc73658e6bc0701f78/69b47ad0/44/8x3/83x2/832x6/83260000024/700408644_1/700408644.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Gila, Hebat Banget si Putri (Sulih Suara)",Gila, Hebat Banget si Putri (Sulih Suara) - eps64 [04:59:57 WIB]
-https://hwztakavideo.dramaboxdb.com/b37b6d807bbcd3c221a03301cd5d2e42/69b47ad0/54/8x3/83x2/832x6/83260000024/700408645_1/700408645.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps1 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/2bf347d4b80953c0a768e0d4b954ddf7/69b47ad0/20/6x3/63x8/638x7/63871100014/595885802_2/595885802.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps2 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/a6a924653a09b7aee3518b0a065d6764/69b47ad0/30/6x3/63x8/638x7/63871100014/595885803_2/595885803.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps3 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/f906c3c7faaa9b72aa8ed42ffbb95615/69b47ad0/40/6x3/63x8/638x7/63871100014/595885804_2/595885804.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps4 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/e2ae5587ada929b58f886893aed8a1c7/69b47ad0/50/6x3/63x8/638x7/63871100014/595885805_2/595885805.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps5 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/9de764e68e409aeba2163ca6538b1e90/69b47ad0/60/6x3/63x8/638x7/63871100014/595885806_2/595885806.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps6 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/39f5fdcb21ce55995a0fc6c654183719/69b47ad0/70/6x3/63x8/638x7/63871100014/595885807_2/595885807.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps7 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/7af8b14a1661e8a824e367da25bcc2c7/69b47ad0/80/6x3/63x8/638x7/63871100014/595885808_2/595885808.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps8 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/c0f9459742f0975cd059ede92a50c900/69b47ad0/90/6x3/63x8/638x7/63871100014/595885809_2/595885809.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps9 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/aeb5d807065b91bdd67c7cab828e45cf/69b47ad0/01/6x3/63x8/638x7/63871100014/595885810_2/595885810.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps10 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/c128cc338d4bbbc3a4c5985e0e9490c9/69b47ad0/11/6x3/63x8/638x7/63871100014/595885811_2/595885811.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps11 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/7464554298e9cb1929e8c19713b5d2f0/69b47ad0/21/6x3/63x8/638x7/63871100014/595885812_2/595885812.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps12 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/ebd609ac799e93f66c19c2d91d1faa10/69b47ad0/31/6x3/63x8/638x7/63871100014/595885813_2/595885813.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps13 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/d125f7abab420587e8a6502fa9b9c271/69b47ad0/41/6x3/63x8/638x7/63871100014/595885814_2/595885814.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps14 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/b8964509d325dacf4c56d021236fc5dd/69b47ad0/51/6x3/63x8/638x7/63871100014/595885815_2/595885815.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps15 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/8ad0d2f84e5271589635ec6b46f78538/69b47ad0/61/6x3/63x8/638x7/63871100014/595885816_2/595885816.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps16 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/52e4514621a6b56867c246df2470a0a5/69b47ad0/71/6x3/63x8/638x7/63871100014/595885817_2/595885817.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps17 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/690cbfe227c3d7e42db9f98fe2dc47d4/69b47ad0/81/6x3/63x8/638x7/63871100014/595885818_2/595885818.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps18 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/e3f35ccc759139fcd60a3f7a72e2c935/69b47ad0/91/6x3/63x8/638x7/63871100014/595885819_2/595885819.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps19 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/4cba476c4bb87bc62c81795eaf757b3b/69b47ad0/02/6x3/63x8/638x7/63871100014/595885820_2/595885820.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps20 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/831919490be52a3c796fb6dd18202ce1/69b47ad0/12/6x3/63x8/638x7/63871100014/595885821_2/595885821.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps21 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/6d9295620bc1939875546d1a0ee95ac5/69b47ad0/22/6x3/63x8/638x7/63871100014/595885822_2/595885822.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps22 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/e05fdf0310c18ed6557fabf2aef7bdf8/69b47ad0/32/6x3/63x8/638x7/63871100014/595885823_2/595885823.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps23 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/9e45ce1281d730f0e0dacf9aa6c109e1/69b47ad0/42/6x3/63x8/638x7/63871100014/595885824_2/595885824.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps24 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/6d3ae54f1a8c504cc91b968d12807d82/69b47ad0/52/6x3/63x8/638x7/63871100014/595885825_2/595885825.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps25 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/e013a4fadaaac3ec8169f28a1b9be8b3/69b47ad0/62/6x3/63x8/638x7/63871100014/595885826_2/595885826.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps26 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/56d5aba7e0d0f6d0399e03c5e9d3b2f0/69b47ad0/72/6x3/63x8/638x7/63871100014/595885827_2/595885827.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps27 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/9f59edab4d6f46a972087bdd424709b1/69b47ad0/82/6x3/63x8/638x7/63871100014/595885828_2/595885828.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps28 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/88772de09a6d17583b308533c549a324/69b47ad0/92/6x3/63x8/638x7/63871100014/595885829_2/595885829.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps29 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/e7553e850ab3b178056375810cf1b83c/69b47ad0/03/6x3/63x8/638x7/63871100014/595885830_2/595885830.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps30 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/eb77e231bf72a1a5481e82a6d8a4bd71/69b47ad0/13/6x3/63x8/638x7/63871100014/595885831_2/595885831.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps31 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/8f72aec4e6a3f13d87084efcaa7c37a0/69b47ad0/23/6x3/63x8/638x7/63871100014/595885832_2/595885832.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps32 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/cd35919490271b6ae2254870b8d43480/69b47ad0/33/6x3/63x8/638x7/63871100014/595885833_2/595885833.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps33 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/32fead0ec1bc60e7576c46f92c2d3567/69b47ad0/43/6x3/63x8/638x7/63871100014/595885834_2/595885834.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps34 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/a27af761bf994ca4af0f49ef66ae1402/69b47ad0/53/6x3/63x8/638x7/63871100014/595885835_2/595885835.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps35 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/d0efeb579a43d201e881897fa469082d/69b47ad0/63/6x3/63x8/638x7/63871100014/595885836_2/595885836.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps36 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/39ec17ee3419c7f4189d72702d9adc0c/69b47ad0/73/6x3/63x8/638x7/63871100014/595885837_2/595885837.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps37 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/71cdf1ad51c02203eb010ac81b7b5ab8/69b47ad0/83/6x3/63x8/638x7/63871100014/595885838_2/595885838.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps38 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/0d1e5f6fc988171cb609829c6c3d83d2/69b47ad0/93/6x3/63x8/638x7/63871100014/595885839_2/595885839.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps39 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/aa2dc41743b4734bfab29c12080931c6/69b47ad0/04/6x3/63x8/638x7/63871100014/595885840_2/595885840.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps40 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/0f103dcf5d0ae92a614810e3df633ca8/69b47ad0/14/6x3/63x8/638x7/63871100014/595885841_2/595885841.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps41 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/0393f15369e99a6c3675117fd3507819/69b47ad0/24/6x3/63x8/638x7/63871100014/595885842_2/595885842.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps42 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/ec7e5b4a6b08e4d219d92a6b1398c404/69b47ad0/34/6x3/63x8/638x7/63871100014/595885843_2/595885843.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps43 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/de456ffb89f0712d027588f9c15998b3/69b47ad0/44/6x3/63x8/638x7/63871100014/595885844_2/595885844.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps44 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/70c053f0d441dae63cb95d1fdf479a05/69b47ad0/54/6x3/63x8/638x7/63871100014/595885845_2/595885845.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps45 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/7692d447d45307b15a137908be12225c/69b47ad0/64/6x3/63x8/638x7/63871100014/595885846_2/595885846.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps46 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/58e138ea895f1da0d32f7c01e7248198/69b47ad0/74/6x3/63x8/638x7/63871100014/595885847_2/595885847.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps47 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/115102a1b37032ced5e9504e8f177722/69b47ad0/84/6x3/63x8/638x7/63871100014/595885848_2/595885848.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps48 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/11112b6e6a4714ac2c95f53e6768e16d/69b47ad0/94/6x3/63x8/638x7/63871100014/595885849_2/595885849.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps49 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/5431495278705b5ed5ed771acd146470/69b47ad0/05/6x3/63x8/638x7/63871100014/595885850_2/595885850.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps50 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/1f8896fcda20dfeb23574b531e547224/69b47ad0/15/6x3/63x8/638x7/63871100014/595885851_2/595885851.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps51 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/048af3e49aad1a328a400252a31c19cc/69b47ad0/25/6x3/63x8/638x7/63871100014/595885852_2/595885852.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps52 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/780460267b29af073a91948f1ead0ded/69b47ad0/35/6x3/63x8/638x7/63871100014/595885853_2/595885853.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps53 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/3ab3b46c7e731897ff3138eea3123325/69b47ad0/45/6x3/63x8/638x7/63871100014/595885854_2/595885854.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps54 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/ce748a3498b2a9639f1ec99b69337328/69b47ad0/55/6x3/63x8/638x7/63871100014/595885855_2/595885855.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps55 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/61d7bd9341a817a87da381256d71101a/69b47ad0/65/6x3/63x8/638x7/63871100014/595885856_2/595885856.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps56 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/dca2d90ed6250e0ba6d31342fc4a338c/69b47ad0/75/6x3/63x8/638x7/63871100014/595885857_2/595885857.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps57 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/796ccb335a94d12c7151d50a9ef08ec4/69b47ad0/85/6x3/63x8/638x7/63871100014/595885858_2/595885858.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps58 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/dc3a066fc92a93436805c073a42fa3b1/69b47ad0/95/6x3/63x8/638x7/63871100014/595885859_2/595885859.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps59 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/21c68878d1644150f6b4751d68009302/69b47ad0/06/6x3/63x8/638x7/63871100014/595885860_2/595885860.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps60 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/18eaa63efd956ab167ecfd53e5b16e78/69b47ad0/16/6x3/63x8/638x7/63871100014/595885861_2/595885861.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps61 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/c11cc8660d3ccf3d376c3ca379f30ac8/69b47ad0/26/6x3/63x8/638x7/63871100014/595885862_2/595885862.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps62 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/a266bd84800329d8f20c55e686e0f173/69b47ad0/36/6x3/63x8/638x7/63871100014/595885863_2/595885863.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps63 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/8c18a97501d6adfe543e70878e0f7099/69b47ad0/46/6x3/63x8/638x7/63871100014/595885864_2/595885864.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps64 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/4fbdf5db8a9783000229574c8e3ba67e/69b47ad0/56/6x3/63x8/638x7/63871100014/595885865_2/595885865.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps65 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/bb19ab9d0845a1abe65fba0d66bfeb97/69b47ad0/66/6x3/63x8/638x7/63871100014/595885866_2/595885866.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps66 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/88f2038ba79cc4af96ff4f0efb885efd/69b47ad0/76/6x3/63x8/638x7/63871100014/595885867_2/595885867.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps67 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/d107dfefdd1821fda8953506755e9cf6/69b47ad0/86/6x3/63x8/638x7/63871100014/595885868_2/595885868.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps68 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/2823f32962fc2fd6b7602290485d3f99/69b47ad0/96/6x3/63x8/638x7/63871100014/595885869_2/595885869.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps69 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/d9903fef2c8aab995272f01c7f55d854/69b47ad0/07/6x3/63x8/638x7/63871100014/595885870_2/595885870.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps70 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/109072fed5b5c685720d592113fe4f8c/69b47ad0/17/6x3/63x8/638x7/63871100014/595885871_2/595885871.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps71 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/92248e323a3174a211e3f1d485303021/69b47ad0/27/6x3/63x8/638x7/63871100014/595885872_2/595885872.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps72 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/0f3a40fee2aa2c93d412012a2255d19e/69b47ad0/37/6x3/63x8/638x7/63871100014/595885873_2/595885873.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps73 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/2e19e63cbdf202a5237599deced6724c/69b47ad0/47/6x3/63x8/638x7/63871100014/595885874_2/595885874.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps74 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/5f37a6d80e445517702ad47e3d0b5e83/69b47ad0/57/6x3/63x8/638x7/63871100014/595885875_2/595885875.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps75 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/1db7ce91a15bb6da92d5068812a5510a/69b47ad0/67/6x3/63x8/638x7/63871100014/595885876_2/595885876.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps76 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/bf40538ba8d04d6271bb9e8b2d6660d2/69b47ad0/77/6x3/63x8/638x7/63871100014/595885877_2/595885877.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps77 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/a0cc24331690162400a116b9225900b7/69b47ad0/87/6x3/63x8/638x7/63871100014/595885878_2/595885878.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps78 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/b5e28e0440082659ab8835efd99ad34c/69b47ad0/97/6x3/63x8/638x7/63871100014/595885879_2/595885879.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps79 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/e5d34f1db4fd7a62572caeb8ccb9f0ba/69b47ad0/08/6x3/63x8/638x7/63871100014/595885880_2/595885880.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps80 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/e5b05645d2e55f2e638a05a2a90e97ec/69b47ad0/18/6x3/63x8/638x7/63871100014/595885881_2/595885881.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps81 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/2eacf3d846e2c96380496f9831d8bcf7/69b47ad0/28/6x3/63x8/638x7/63871100014/595885882_2/595885882.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps82 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/b1b91c5c7bf638081efe3cd0a603c111/69b47ad0/38/6x3/63x8/638x7/63871100014/595885883_2/595885883.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps83 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/86322125585e2332b07c85ff29e50c3b/69b47ad0/48/6x3/63x8/638x7/63871100014/595885884_2/595885884.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps84 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/3f1ff0fff3b6d5badee8f9cf4e6f8752/69b47ad0/58/6x3/63x8/638x7/63871100014/595885885_2/595885885.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps85 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/f0d7258f08005712bf2d66c4302af370/69b47ad0/68/6x3/63x8/638x7/63871100014/595885886_2/595885886.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps86 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/10b9b15e42ea8083063140b4f27bd435/69b47ad0/78/6x3/63x8/638x7/63871100014/595885887_2/595885887.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps87 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/62d352030c099c55f35bc7d812a21303/69b47ad0/88/6x3/63x8/638x7/63871100014/595885888_2/595885888.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Saat Kebohongan Terungkap",Saat Kebohongan Terungkap - eps88 [04:59:58 WIB]
-https://hwztakavideo.dramaboxdb.com/2966394591c7127ac10638eb62640b75/69b47ad0/98/6x3/63x8/638x7/63871100014/595885889_2/595885889.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps1 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/9aaa2bf286de91c10db12f733f0c8d4a/69b47ad0/83/0x0/00x0/000x3/00031100014/588504438_1/588504438.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps2 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/e609943dfdd1fc1db582c425c5a6ef9a/69b47ad0/93/0x0/00x0/000x3/00031100014/588504439_1/588504439.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps3 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/20c7e9bda1076c8e51f70589f569ca60/69b47ad0/04/0x0/00x0/000x3/00031100014/588504440_1/588504440.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps4 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/1fe3ac66c6493953b43565c57066bad3/69b47ad0/14/0x0/00x0/000x3/00031100014/588504441_1/588504441.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps5 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/272b1838fc91b1819d2f466af7516276/69b47ad0/24/0x0/00x0/000x3/00031100014/588504442_1/588504442.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps6 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/3eaab2d6dae359e2ffd0fe76a6c563f7/69b47ad0/34/0x0/00x0/000x3/00031100014/588504443_1/588504443.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps7 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/5aa0207a45292e29e630c288a2890cf8/69b47ad0/44/0x0/00x0/000x3/00031100014/588504444_1/588504444.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps8 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/7d43c5cd56293837b7d6a0a5d1068e94/69b47ad0/54/0x0/00x0/000x3/00031100014/588504445_1/588504445.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps9 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/3113b3099bcf81e36fa627cdc74fb35b/69b47ad0/64/0x0/00x0/000x3/00031100014/588504446_1/588504446.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps10 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/dbfa2cc7be0dea2bfa7b41ce18a7b2df/69b47ad0/74/0x0/00x0/000x3/00031100014/588504447_1/588504447.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps11 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/75659d6068ebeafc30c453c88698d3de/69b47ad0/84/0x0/00x0/000x3/00031100014/588504448_1/588504448.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps12 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/302d6fb7353c79ff668dd1aa0ddf0f8c/69b47ad0/94/0x0/00x0/000x3/00031100014/588504449_1/588504449.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps13 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/3a6d76920dcb812ab77d0856ee51d74b/69b47ad0/05/0x0/00x0/000x3/00031100014/588504450_1/588504450.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps14 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/aa10ced77c9463a552ede153d87703da/69b47ad0/15/0x0/00x0/000x3/00031100014/588504451_1/588504451.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps15 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/fa10024617adf2d0e44caa2af4a478f3/69b47ad0/25/0x0/00x0/000x3/00031100014/588504452_1/588504452.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps16 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/c6f5cc64a9cd6b8611e066a6bca3f640/69b47ad0/35/0x0/00x0/000x3/00031100014/588504453_1/588504453.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps17 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/cae15c4160615a86bd6084f0f66bd387/69b47ad0/45/0x0/00x0/000x3/00031100014/588504454_1/588504454.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps18 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/6310c1ba8cb3e320ea85905d7d43fb79/69b47ad0/55/0x0/00x0/000x3/00031100014/588504455_1/588504455.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps19 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/be11361e934e0ad2235cc8f4fbac61d5/69b47ad0/65/0x0/00x0/000x3/00031100014/588504456_1/588504456.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps20 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/970f27fa8f4a446a8862366b7bfcd622/69b47ad0/75/0x0/00x0/000x3/00031100014/588504457_1/588504457.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps21 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/0385350b49cb4a8d20a6e543a18221cb/69b47ad0/85/0x0/00x0/000x3/00031100014/588504458_1/588504458.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps22 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/a4114612afe585d4c81c60eb1e1bba83/69b47ad0/95/0x0/00x0/000x3/00031100014/588504459_1/588504459.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps23 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/07c2657d5abf5216b38729db288be8db/69b47ad0/06/0x0/00x0/000x3/00031100014/588504460_1/588504460.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps24 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/c9ede4402b04249ca931e0ff5dbb57d2/69b47ad0/16/0x0/00x0/000x3/00031100014/588504461_1/588504461.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps25 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/34760e95a8494c1bd3e4d80629802b72/69b47ad0/26/0x0/00x0/000x3/00031100014/588504462_1/588504462.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps26 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/ee94578f1354de903788b843f850e7fb/69b47ad0/36/0x0/00x0/000x3/00031100014/588504463_1/588504463.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps27 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/f87ebae91e250ef315965a3e83653dae/69b47ad0/46/0x0/00x0/000x3/00031100014/588504464_1/588504464.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps28 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/ec1f072901db74e6077de1f9de284e58/69b47ad0/56/0x0/00x0/000x3/00031100014/588504465_1/588504465.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps29 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/bd470881788d763b4b71896d7df06d7e/69b47ad0/66/0x0/00x0/000x3/00031100014/588504466_1/588504466.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps30 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/9aec35fae8ebd446a312ed80b7f5c3e4/69b47ad0/76/0x0/00x0/000x3/00031100014/588504467_1/588504467.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps31 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/30eac74a6ee0a52c70b0ed0c6e840b62/69b47ad0/86/0x0/00x0/000x3/00031100014/588504468_1/588504468.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps32 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/a648ddabe789c204cd9429fa727e29c0/69b47ad0/96/0x0/00x0/000x3/00031100014/588504469_1/588504469.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps33 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/3e301b24e342fccd0aa407a936a9eb39/69b47ad0/07/0x0/00x0/000x3/00031100014/588504470_1/588504470.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps34 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/cc0fddc2531d2cfa09f0ce6bcfd8b275/69b47ad0/17/0x0/00x0/000x3/00031100014/588504471_1/588504471.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps35 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/4d3343d92b0dadbc2be0d10301e9e85d/69b47ad0/27/0x0/00x0/000x3/00031100014/588504472_1/588504472.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps36 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/ba937642efa0ddc3d423ebc4e8b4459a/69b47ad0/37/0x0/00x0/000x3/00031100014/588504473_1/588504473.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps37 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/0805e7e7a4816b032b35bfa4e939e49c/69b47ad0/47/0x0/00x0/000x3/00031100014/588504474_1/588504474.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps38 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/541373e105e9f18a6ee4cd563ed08507/69b47ad0/57/0x0/00x0/000x3/00031100014/588504475_1/588504475.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps39 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/814ba710b1fc123d2c8b85357f247464/69b47ad0/67/0x0/00x0/000x3/00031100014/588504476_1/588504476.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps40 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/c6d9dd59173e4c69672800cfe62a5cd4/69b47ad0/77/0x0/00x0/000x3/00031100014/588504477_1/588504477.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps41 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/cfd3cc7635f2389f5207791ad55dd949/69b47ad0/87/0x0/00x0/000x3/00031100014/588504478_1/588504478.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps42 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/130e6f2bd7834114eba068d3e2c01a90/69b47ad0/97/0x0/00x0/000x3/00031100014/588504479_1/588504479.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps43 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/45e22b643fd2e9ebfdf4108547995430/69b47ad0/08/0x0/00x0/000x3/00031100014/588504480_1/588504480.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps44 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/48fe02f2f53451db816ebffae80f16f0/69b47ad0/18/0x0/00x0/000x3/00031100014/588504481_1/588504481.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps45 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/878f00d60ef1b78740a83b9e086dc447/69b47ad0/28/0x0/00x0/000x3/00031100014/588504482_1/588504482.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps46 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/90e6c4480a65669c90b03f05bf5671c9/69b47ad0/38/0x0/00x0/000x3/00031100014/588504483_1/588504483.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps47 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/4def2e03236874358f926125eaa0d1cc/69b47ad0/48/0x0/00x0/000x3/00031100014/588504484_1/588504484.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps48 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/4c8b32874af782f924ed26debeffbbe8/69b47ad0/58/0x0/00x0/000x3/00031100014/588504485_1/588504485.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps49 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/0bf42d4663da3b814fadb58f481211f2/69b47ad0/68/0x0/00x0/000x3/00031100014/588504486_1/588504486.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps50 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/73b85788948509aad6be7a6c179c4edc/69b47ad0/78/0x0/00x0/000x3/00031100014/588504487_1/588504487.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps51 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/106d23c38fe17b8b635d03de4169be8c/69b47ad0/88/0x0/00x0/000x3/00031100014/588504488_1/588504488.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps52 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/990151af7ebfee34f01373163af3a6b7/69b47ad0/98/0x0/00x0/000x3/00031100014/588504489_1/588504489.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps53 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/8e48fcf2a2ae95fcb666c2e2b0078615/69b47ad0/09/0x0/00x0/000x3/00031100014/588504490_1/588504490.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps54 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/010db712862201a81b40c5bc8bb1fcbf/69b47ad0/19/0x0/00x0/000x3/00031100014/588504491_1/588504491.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps55 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/f1539b7a9ae97f34c6592517f8d33365/69b47ad0/29/0x0/00x0/000x3/00031100014/588504492_1/588504492.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps56 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/5b36953fe960d42ccb479173be2945d8/69b47ad0/39/0x0/00x0/000x3/00031100014/588504493_1/588504493.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps57 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/d380e7620e197c0c82469cf59555b743/69b47ad0/49/0x0/00x0/000x3/00031100014/588504494_1/588504494.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps58 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/0313c37ff185a8a892ba79cf56061822/69b47ad0/59/0x0/00x0/000x3/00031100014/588504495_1/588504495.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps59 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/43f01e8c74936ed3c17904caf2c6254f/69b47ad0/69/0x0/00x0/000x3/00031100014/588504496_1/588504496.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps60 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/d345f6412ea33f46ca94e34f35970523/69b47ad0/79/0x0/00x0/000x3/00031100014/588504497_1/588504497.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps61 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/cf2b796efb3c688d19d04ce703dcdeb8/69b47ad0/89/0x0/00x0/000x3/00031100014/588504498_1/588504498.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps62 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/2cefe34989f9e301f380e62f198b0889/69b47ad0/99/0x0/00x0/000x3/00031100014/588504499_1/588504499.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps63 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/5ac2ad942b56b4580513081370b214db/69b47ad0/00/0x0/00x0/000x3/00031100014/588504500_1/588504500.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps64 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/c752fb7f5e19d0cd593b284bba267c4a/69b47ad0/10/0x0/00x0/000x3/00031100014/588504501_1/588504501.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps65 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/aa9c8d75d5f80ed1c994f5a023ef3f37/69b47ad0/20/0x0/00x0/000x3/00031100014/588504502_1/588504502.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps66 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/d5b77b22bfb4795e5a008863c66a9b2f/69b47ad0/30/0x0/00x0/000x3/00031100014/588504503_1/588504503.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps67 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/8c4e603421285a987006caf91daf615e/69b47ad0/40/0x0/00x0/000x3/00031100014/588504504_1/588504504.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps68 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/8ccb50182fb99b5c32f25650c513bfba/69b47ad0/50/0x0/00x0/000x3/00031100014/588504505_1/588504505.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps69 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/7ba0b8c0933c5c071cdd03893fd4e6a2/69b47ad0/60/0x0/00x0/000x3/00031100014/588504506_1/588504506.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps70 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/5404643f51368f031fb15ab5b865090a/69b47ad0/70/0x0/00x0/000x3/00031100014/588504507_1/588504507.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps71 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/ac16f1d8e8f375e97a814cd1eedc8fd0/69b47ad0/80/0x0/00x0/000x3/00031100014/588504508_1/588504508.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps72 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/6bd5e3e9468e7953c247b8b3c4b46990/69b47ad0/90/0x0/00x0/000x3/00031100014/588504509_1/588504509.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps73 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/5570697643476b28ea7dc94337ea1a9b/69b47ad0/01/0x0/00x0/000x3/00031100014/588504510_1/588504510.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps74 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/31c664ff5e4d6203da45a0546e94f317/69b47ad0/11/0x0/00x0/000x3/00031100014/588504511_1/588504511.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps75 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/18bae347dfd5346fd9df38437a22c644/69b47ad0/21/0x0/00x0/000x3/00031100014/588504512_1/588504512.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps76 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/ecf1a82d50e9f70a18e550841b37e6fa/69b47ad0/31/0x0/00x0/000x3/00031100014/588504513_1/588504513.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Abadi dalam Waktu",Abadi dalam Waktu - eps77 [04:59:59 WIB]
-https://hwztakavideo.dramaboxdb.com/bcd5c14cec347ecf7120c9371a8217d8/69b47ad0/41/0x0/00x0/000x3/00031100014/588504514_1/588504514.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps1 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/49e365829f9a18f1a56bd02d4eb7b0b3/69b46cc0/20/6x9/69x0/690x6/69060000024/700397002_1/700397002.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps2 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/a164f9f4767d8039a19e33f1c2ecf2ec/69b46cc0/30/6x9/69x0/690x6/69060000024/700397003_1/700397003.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps3 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/0ec9c65d7de62da58d25b04185b24cce/69b46cc0/40/6x9/69x0/690x6/69060000024/700397004_1/700397004.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps4 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/1dd688075fccf3b3a279891045102346/69b46cc0/50/6x9/69x0/690x6/69060000024/700397005_1/700397005.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps5 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/092ed7203cb0464763016093e8d9ea2e/69b46cc0/60/6x9/69x0/690x6/69060000024/700397006_1/700397006.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps6 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/d678b20f48e3cfdeec130b9da3a2df72/69b46cc0/70/6x9/69x0/690x6/69060000024/700397007_1/700397007.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps7 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/9678613eff4fd76cd4d6f458358b4806/69b46cc0/80/6x9/69x0/690x6/69060000024/700397008_1/700397008.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps8 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/3732aa7b7576b8f36c1ae209c88c1076/69b46cc0/90/6x9/69x0/690x6/69060000024/700397009_1/700397009.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps9 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/544db5309d40efbc5a48e9ed70bb59f3/69b46cc0/01/6x9/69x0/690x6/69060000024/700397010_1/700397010.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps10 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/d95b48c78e1235eb119e297ed0e4501e/69b46cc0/11/6x9/69x0/690x6/69060000024/700397011_1/700397011.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps11 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/5042b3f40c51f611d1cf71fd1bf5185e/69b46cc0/21/6x9/69x0/690x6/69060000024/700397012_1/700397012.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps12 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/27799e7beced513bdfb79c0ddc1705b1/69b46cc0/31/6x9/69x0/690x6/69060000024/700397013_1/700397013.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps13 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/74a379f3f918b5dcaa137b257b9c87da/69b46cc0/41/6x9/69x0/690x6/69060000024/700397014_1/700397014.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps14 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/b64267e1b540ceaae27ce03932d5cfb1/69b46cc0/51/6x9/69x0/690x6/69060000024/700397015_1/700397015.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps15 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/f7094a0e4255c9318fca43b840189ab1/69b46cc0/61/6x9/69x0/690x6/69060000024/700397016_1/700397016.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps16 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/b0a8c3253d39b1920015b7518bf9feed/69b46cc0/71/6x9/69x0/690x6/69060000024/700397017_1/700397017.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps17 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/e81396fb4ca10f99ef4f7504a8a671ef/69b46cc0/81/6x9/69x0/690x6/69060000024/700397018_1/700397018.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps18 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/5bc6b2bc1daec18a009366ce51c1d7cc/69b46cc0/91/6x9/69x0/690x6/69060000024/700397019_1/700397019.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps19 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/d0bb35372a103ec1efddfdf623bd4c4d/69b46cc0/02/6x9/69x0/690x6/69060000024/700397020_1/700397020.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps20 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/e912230ffd0fd73438f82e52db92d9c7/69b46cc0/12/6x9/69x0/690x6/69060000024/700397021_1/700397021.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps21 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/2a8670974aab1c4b6ab7e712d1416dbb/69b46cc0/22/6x9/69x0/690x6/69060000024/700397022_1/700397022.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps22 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/0d08ce5c8d5445b4cd7e1d48ed48f5ab/69b46cc0/32/6x9/69x0/690x6/69060000024/700397023_1/700397023.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps23 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/1b886c7a1e4c60274ac6c421f0c9aa07/69b46cc0/42/6x9/69x0/690x6/69060000024/700397024_1/700397024.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps24 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/126ef75f6c8bfc2798d2ec48bfe0a8d4/69b46cc0/52/6x9/69x0/690x6/69060000024/700397025_1/700397025.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps25 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/e6a180e342da8f550d6f01f953f43091/69b46cc0/62/6x9/69x0/690x6/69060000024/700397026_1/700397026.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps26 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/d26585495822e7891dd443d617cba5f3/69b46cc0/72/6x9/69x0/690x6/69060000024/700397027_1/700397027.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps27 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/4ec7d6341afedc7b95ded81266218e63/69b46cc0/82/6x9/69x0/690x6/69060000024/700397028_1/700397028.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps28 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/67459a2e20a03173b6788ff90f36dd01/69b46cc0/92/6x9/69x0/690x6/69060000024/700397029_1/700397029.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps29 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/2b74d452f2ccac40333813fbae4abbdc/69b46cc0/03/6x9/69x0/690x6/69060000024/700397030_1/700397030.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps30 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/4a4a28b49ea1b58a0570ac6dde4d19d6/69b46cc0/13/6x9/69x0/690x6/69060000024/700397031_1/700397031.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps31 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/1d24a32d1ed95c812252eb85638d61e0/69b46cc0/23/6x9/69x0/690x6/69060000024/700397032_1/700397032.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps32 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/bc543a788bdefc8d4f20159a89edfe89/69b46cc0/33/6x9/69x0/690x6/69060000024/700397033_1/700397033.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps33 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/70c85a7cd51d96f3df9f98554c1c13b2/69b46cc0/43/6x9/69x0/690x6/69060000024/700397034_1/700397034.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps34 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/2340d471c54d825ebc1a2a13c8af5174/69b46cc0/53/6x9/69x0/690x6/69060000024/700397035_1/700397035.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps35 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/bfe474aaf8fdf4535932fa27d855379f/69b46cc0/63/6x9/69x0/690x6/69060000024/700397036_1/700397036.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps36 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/23a5c44ba56ff29accd9f3df3d63c0ff/69b46cc0/73/6x9/69x0/690x6/69060000024/700397037_1/700397037.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps37 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/ec52538af475699ac25d04fc55053148/69b46cc0/83/6x9/69x0/690x6/69060000024/700397038_1/700397038.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps38 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/af59bfb3baff78831d24e6ef04f9221f/69b46cc0/93/6x9/69x0/690x6/69060000024/700397039_1/700397039.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps39 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/1322649ddc37351943b5b3fc664923cd/69b46cc0/04/6x9/69x0/690x6/69060000024/700397040_1/700397040.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps40 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/bb817c507e468e4c314787b5077dcd57/69b46cc0/14/6x9/69x0/690x6/69060000024/700397041_1/700397041.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps41 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/1262bf13d329330230b27e8bcb0de45b/69b46cc0/24/6x9/69x0/690x6/69060000024/700397042_1/700397042.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps42 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/8cfe910e5145b99d3e6d1eaeb555086c/69b46cc0/34/6x9/69x0/690x6/69060000024/700397043_1/700397043.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps43 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/5f17d978932fe77c348b2258e9d71853/69b46cc0/44/6x9/69x0/690x6/69060000024/700397044_1/700397044.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps44 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/986d8ce36f1b3a2e78280b42f71ce2df/69b46cc0/54/6x9/69x0/690x6/69060000024/700397045_1/700397045.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps45 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/456199cb151e5fb9f4508dc61d814ed3/69b46cc0/64/6x9/69x0/690x6/69060000024/700397046_1/700397046.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps46 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/6ec559278ee665de63910237df4fdbb8/69b46cc0/74/6x9/69x0/690x6/69060000024/700397047_1/700397047.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps47 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/3e93e96b940c5c786c187dc828b0af27/69b46cc0/84/6x9/69x0/690x6/69060000024/700397048_1/700397048.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps48 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/3a6b2f2099ac57e751025fe9fad12a32/69b46cc0/94/6x9/69x0/690x6/69060000024/700397049_1/700397049.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps49 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/62aa33982d92198a106beaec7eb44d45/69b46cc0/05/6x9/69x0/690x6/69060000024/700397050_1/700397050.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps50 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/24338abb0c7d9215126c862bac76b835/69b46cc0/15/6x9/69x0/690x6/69060000024/700397051_1/700397051.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps51 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/4c6996575bc78703418310f8c84299b1/69b46cc0/25/6x9/69x0/690x6/69060000024/700397052_1/700397052.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps52 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/e2ba8231017a4e88be1808d5a7a09cba/69b46cc0/35/6x9/69x0/690x6/69060000024/700397053_1/700397053.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps53 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/a73dbe1da05b40ab6eb42dd9669af384/69b46cc0/45/6x9/69x0/690x6/69060000024/700397054_1/700397054.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps54 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/f143dbbce0e09a2aced333777ba57d91/69b46cc0/55/6x9/69x0/690x6/69060000024/700397055_1/700397055.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps55 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/24fce06b84f7118430caa131b387cce5/69b46cc0/65/6x9/69x0/690x6/69060000024/700397056_1/700397056.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps56 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/1af4a539bd36300e2f5e9edac8d098ac/69b46cc0/75/6x9/69x0/690x6/69060000024/700397057_1/700397057.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps57 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/ec336e2f2222af6f317df17d8b4ef115/69b46cc0/85/6x9/69x0/690x6/69060000024/700397058_1/700397058.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps58 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/1f2adbc0ed7b3b410720715b45f0131e/69b46cc0/95/6x9/69x0/690x6/69060000024/700397059_1/700397059.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps59 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/3a52c3159847b607ebc4248198d7444c/69b46cc0/06/6x9/69x0/690x6/69060000024/700397060_1/700397060.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps60 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/560804d7ca7ab1691aaa99d5e21bebca/69b46cc0/16/6x9/69x0/690x6/69060000024/700397061_1/700397061.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps61 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/056136e958e6567062df7ae1e19f6675/69b46cc0/26/6x9/69x0/690x6/69060000024/700397062_1/700397062.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps62 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/b945f6c290b9fe412efbf8b0b0cf5d6d/69b46cc0/36/6x9/69x0/690x6/69060000024/700397063_1/700397063.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps63 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/b8446f5d0197feb224cd7b385088ccaf/69b46cc0/46/6x9/69x0/690x6/69060000024/700397064_1/700397064.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps64 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/f3f308b796020d9c8b6727b1f4f375a0/69b46cc0/56/6x9/69x0/690x6/69060000024/700397065_1/700397065.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps65 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/8c52ffec9c5990b449c20b1a50754258/69b46cc0/66/6x9/69x0/690x6/69060000024/700397066_1/700397066.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps66 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/7b4d9ef4037a1221652fa4bc4474ca03/69b46cc0/76/6x9/69x0/690x6/69060000024/700397067_1/700397067.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps67 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/a7bc5c5233fd6f7c47c3f9ea16cac199/69b46cc0/86/6x9/69x0/690x6/69060000024/700397068_1/700397068.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps68 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/f6f7a9e301f568c1fd4f22e9fd2cf34e/69b46cc0/96/6x9/69x0/690x6/69060000024/700397069_1/700397069.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps69 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/0f76e1e594ee2c09a0bf8a808a6b6fa1/69b46cc0/07/6x9/69x0/690x6/69060000024/700397070_1/700397070.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps70 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/f60bc713ea35ea0b1d71d7d640b15c29/69b46cc0/17/6x9/69x0/690x6/69060000024/700397071_1/700397071.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps71 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/90de54cd22b4ba5ff3e5ec900f94963a/69b46cc0/27/6x9/69x0/690x6/69060000024/700397072_1/700397072.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps72 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/ab0ee712eaa4d2193fa99feebd1042cc/69b46cc0/37/6x9/69x0/690x6/69060000024/700397073_1/700397073.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Asalku dari Zaman Kuno (Sulih Suara)",Asalku dari Zaman Kuno (Sulih Suara) - eps73 [05:00:00 WIB]
-https://hwztakavideo.dramaboxdb.com/560539fb056b24a7a620cba7dfe3a291/69b46cc0/47/6x9/69x0/690x6/69060000024/700397074_1/700397074.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps1 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/80da31a85aee3f7ec64a7b18a54ce233/69b46cc0/70/0x7/07x9/079x3/07930000024/700251907_1_ns/700251907.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps2 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/5ebe10d962ca9dbeb2d01cf45a5bf85f/69b46cc0/56/0x0/00x1/001x1/00110000024/700068965_1_ns/700068965.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps3 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/c294ddbacad356db18af4ef490a3bd90/69b46cc0/66/0x0/00x1/001x1/00110000024/700068966_1_ns/700068966.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps4 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/735a613906bc89d2a989804ff364f618/69b46cc0/76/0x0/00x1/001x1/00110000024/700068967_1_ns/700068967.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps5 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/00aad612f0d846dc91b28136e1461d14/69b46cc0/11/0x7/07x9/079x3/07930000024/700251911_1_ns/700251911.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps6 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/8d6e0c855133916ab858dc3796820e84/69b46cc0/96/0x0/00x1/001x1/00110000024/700068969_1_ns/700068969.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps7 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/9bfb9f66e03025d17955574cb76c59de/69b46cc0/07/0x0/00x1/001x1/00110000024/700068970_1_ns/700068970.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps8 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/676cffaf172b8cc9b6fb8dea7dcd018c/69b46cc0/41/0x7/07x9/079x3/07930000024/700251914_1_ns/700251914.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps9 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/22de565594ffcf9cfd9fce91bf0e91eb/69b46cc0/27/0x0/00x1/001x1/00110000024/700068972_1_ns/700068972.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps10 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/e1c0c369d9356d91e9e319b52cb78e0c/69b46cc0/61/0x7/07x9/079x3/07930000024/700251916_1_ns/700251916.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps11 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/46d2ea2f60fce19033d8b402514c30b1/69b46cc0/47/0x0/00x1/001x1/00110000024/700068974_1_ns/700068974.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps12 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/55b4d024343a64894168eabb28cd6539/69b46cc0/57/0x0/00x1/001x1/00110000024/700068975_1_ns/700068975.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps13 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/18347a7729b29e65317de4d9e5470a49/69b46cc0/67/0x0/00x1/001x1/00110000024/700068976_1_ns/700068976.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps14 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/fa1e20f829fd745c75e28d095f4a14b7/69b46cc0/02/0x7/07x9/079x3/07930000024/700251920_1_ns/700251920.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps15 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/a4395e25bf35f4907df7defa657279dd/69b46cc0/87/0x0/00x1/001x1/00110000024/700068978_1_ns/700068978.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps16 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/5461a6f1ac69f5f30766052014873f8d/69b46cc0/97/0x0/00x1/001x1/00110000024/700068979_1_ns/700068979.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps17 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/161093a0868122610fbf50188cf85bba/69b46cc0/32/0x7/07x9/079x3/07930000024/700251923_1_ns/700251923.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps18 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/a02e7efb86224bae5fb672c4cece1790/69b46cc0/18/0x0/00x1/001x1/00110000024/700068981_1_ns/700068981.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps19 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/d49dc10082bd00ff10f4fd555094e0bf/69b46cc0/28/0x0/00x1/001x1/00110000024/700068982_1_ns/700068982.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps20 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/e3337dfaaaa6d310fed888a31e719c39/69b46cc0/38/0x0/00x1/001x1/00110000024/700068983_1_ns/700068983.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps21 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/46cac4cf715712a338dd1276303a46e3/69b46cc0/48/0x0/00x1/001x1/00110000024/700068984_1_ns/700068984.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps22 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/542ced8ccb9b6a350da700b0c87cadd7/69b46cc0/82/0x7/07x9/079x3/07930000024/700251928_1_ns/700251928.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps23 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/f2f3f6aec03a20a484cf7fb14ae09e8b/69b46cc0/68/0x0/00x1/001x1/00110000024/700068986_1_ns/700068986.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps24 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/5604fca6f07cea0fa66d134199b2299f/69b46cc0/78/0x0/00x1/001x1/00110000024/700068987_1_ns/700068987.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps25 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/9a45b1b9dfc167e43eef19858c6cb8c9/69b46cc0/88/0x0/00x1/001x1/00110000024/700068988_1_ns/700068988.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps26 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/863720d22e721cdb04d953c8c5c2a4d2/69b46cc0/23/0x7/07x9/079x3/07930000024/700251932_1_ns/700251932.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps27 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/d384ad7364c940c678cd365023db0a66/69b46cc0/09/0x0/00x1/001x1/00110000024/700068990_1_ns/700068990.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps28 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/501635c2746196cf0133feecce4f9808/69b46cc0/43/0x7/07x9/079x3/07930000024/700251934_1_ns/700251934.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps29 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/96e55030756bb65ca8ae34f7ea42c165/69b46cc0/29/0x0/00x1/001x1/00110000024/700068992_1_ns/700068992.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps30 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/5ef383a18b7495d41ecbea8cb1e71a12/69b46cc0/39/0x0/00x1/001x1/00110000024/700068993_1_ns/700068993.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps31 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/11ac7069d26005da944572f2549ab209/69b46cc0/49/0x0/00x1/001x1/00110000024/700068994_1_ns/700068994.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps32 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/32fb6608fcd45c4d52fa59f8c98fb9ff/69b46cc0/59/0x0/00x1/001x1/00110000024/700068995_1_ns/700068995.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps33 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/1849d0392abbd0013aff8cc1a94c7dde/69b46cc0/93/0x7/07x9/079x3/07930000024/700251939_1_ns/700251939.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps34 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/90a44d631a169d5d1e95cb40a249d3c2/69b46cc0/79/0x0/00x1/001x1/00110000024/700068997_1_ns/700068997.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps35 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/d2bc7c1d772aa9388235ee931a4aaa3d/69b46cc0/89/0x0/00x1/001x1/00110000024/700068998_1_ns/700068998.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps36 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/034d8a2f25bbef47e949184ad6b51e0b/69b46cc0/99/0x0/00x1/001x1/00110000024/700068999_1_ns/700068999.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps37 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/1bc103a1bbb8f09001b8319b9ea6e793/69b46cc0/00/0x0/00x1/001x1/00110000024/700069000_1_ns/700069000.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps38 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/ea36139404de99d982bd2605db7e1010/69b46cc0/10/0x0/00x1/001x1/00110000024/700069001_1_ns/700069001.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps39 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/3f8228adc2aedd78c02f94e3d0b5f70c/69b46cc0/20/0x0/00x1/001x1/00110000024/700069002_1_ns/700069002.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps40 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/d58e58246388de6c67f20573b0393c86/69b46cc0/64/0x7/07x9/079x3/07930000024/700251946_1_ns/700251946.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps41 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/fdbff2442688a97c24c3a58e225d750c/69b46cc0/40/0x0/00x1/001x1/00110000024/700069004_1_ns/700069004.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps42 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/bab34a90a321f30d48a4d7ff6ffaee7b/69b46cc0/50/0x0/00x1/001x1/00110000024/700069005_1_ns/700069005.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps43 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/c9d7e8b020227085035bac73a6cca7d6/69b46cc0/60/0x0/00x1/001x1/00110000024/700069006_1_ns/700069006.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps44 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/1b29a1dea44459db4c1a61b90c9e86fc/69b46cc0/70/0x0/00x1/001x1/00110000024/700069007_1_ns/700069007.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps45 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/f29088512d841cebec9ce2a4fa44784a/69b46cc0/80/0x0/00x1/001x1/00110000024/700069008_1_ns/700069008.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps46 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/99a89c6357f09d05d7d02956744f2b84/69b46cc0/90/0x0/00x1/001x1/00110000024/700069009_1_ns/700069009.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps47 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/2877ae74e41b7299decd25a76da2a772/69b46cc0/01/0x0/00x1/001x1/00110000024/700069010_1_ns/700069010.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps48 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/1893ce85e5c7d9f3406aa31d6edd749d/69b46cc0/11/0x0/00x1/001x1/00110000024/700069011_1_ns/700069011.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps49 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/2c4b0469493d95d9fe08bb92d17b1e99/69b46cc0/55/0x7/07x9/079x3/07930000024/700251955_1_ns/700251955.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps50 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/ad8008321c210598a37a8a9b53ee2f8a/69b46cc0/31/0x0/00x1/001x1/00110000024/700069013_1_ns/700069013.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps51 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/c7e289be1af31866fc8b7620bb2f0a53/69b46cc0/41/0x0/00x1/001x1/00110000024/700069014_1_ns/700069014.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps52 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/a0538b04ff84748da7fc3075611192e2/69b46cc0/51/0x0/00x1/001x1/00110000024/700069015_1_ns/700069015.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps53 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/a5f18d11bb84ddd373288f521d27975e/69b46cc0/61/0x0/00x1/001x1/00110000024/700069016_1_ns/700069016.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Ultimatum Sang Raja Mafia",Ultimatum Sang Raja Mafia - eps54 [05:00:02 WIB]
-https://hwztakavideo.dramaboxdb.com/f8ec5ae92aaa29c40e8780e505587412/69b46cc0/71/0x0/00x1/001x1/00110000024/700069017_1_ns/700069017.1080p.wz.g264.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps1 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/8689a870784bb24c46425cd2fea592d1/69b46cc0/09/1x1/11x1/111x6/11160000024/700398390_2/700398390.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps2 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/e31f95933d9cdbd2badd0e96e64e5ee8/69b46cc0/19/1x1/11x1/111x6/11160000024/700398391_2/700398391.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps3 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/7e241a050bcae558167949f61f7b51ec/69b46cc0/29/1x1/11x1/111x6/11160000024/700398392_2/700398392.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps4 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/ce08a17e09d4e3a3b812debdcfd49417/69b46cc0/39/1x1/11x1/111x6/11160000024/700398393_1/700398393.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps5 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/14a5b59696f40baf53e435994e7817b4/69b46cc0/49/1x1/11x1/111x6/11160000024/700398394_1/700398394.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps6 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/607f147e33253a56fa38739000e7b650/69b46cc0/59/1x1/11x1/111x6/11160000024/700398395_1/700398395.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps7 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/abf18f3ebea5fbbe5e51a63958bc2eec/69b46cc0/69/1x1/11x1/111x6/11160000024/700398396_1/700398396.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps8 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/0b6867d9523f9b02cae9bd75eb6666d6/69b46cc0/79/1x1/11x1/111x6/11160000024/700398397_1/700398397.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps9 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/48d064f3fa43be6209ddaa2c79ec07dd/69b46cc0/89/1x1/11x1/111x6/11160000024/700398398_1/700398398.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps10 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/fe4d1e744b1f2ddc9cb60cb3013f0e9d/69b46cc0/99/1x1/11x1/111x6/11160000024/700398399_1/700398399.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps11 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/342033715e14fb45ddace1ab92709fd7/69b46cc0/00/1x1/11x1/111x6/11160000024/700398400_1/700398400.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps12 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/959d84835f1368256d0f08232b89e0d5/69b46cc0/10/1x1/11x1/111x6/11160000024/700398401_1/700398401.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps13 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/40c2a725e1a47b0dd6ebc2fc5dc16377/69b46cc0/20/1x1/11x1/111x6/11160000024/700398402_1/700398402.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps14 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/e61cf89091bb24a088b997dee1f7ca36/69b46cc0/30/1x1/11x1/111x6/11160000024/700398403_1/700398403.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps15 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/8670e678ad81535400c4455812ea13d4/69b46cc0/40/1x1/11x1/111x6/11160000024/700398404_1/700398404.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps16 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/0146c90c4aafb386cd765c09eb9f78b4/69b46cc0/50/1x1/11x1/111x6/11160000024/700398405_1/700398405.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps17 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/679c098920e7e4bfdcca2a0bfca6913e/69b46cc0/60/1x1/11x1/111x6/11160000024/700398406_1/700398406.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps18 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/be42b3e1e064ca21ba4f301cba84b003/69b46cc0/70/1x1/11x1/111x6/11160000024/700398407_1/700398407.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps19 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/2150fe46df93d3bd7a3c9bbbd3fd161e/69b46cc0/80/1x1/11x1/111x6/11160000024/700398408_1/700398408.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps20 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/5dad827f4f4b15d06c105dc32ce177e2/69b46cc0/90/1x1/11x1/111x6/11160000024/700398409_1/700398409.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps21 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/7b2d1b13379a1c26fac8cb641a6fafff/69b46cc0/01/1x1/11x1/111x6/11160000024/700398410_1/700398410.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps22 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/9e36ad24d5c9448be672a119e2599666/69b46cc0/11/1x1/11x1/111x6/11160000024/700398411_1/700398411.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps23 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/fc66468c38815b97977497c98c2a33f5/69b46cc0/21/1x1/11x1/111x6/11160000024/700398412_1/700398412.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps24 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/90a078d99f7e9e06a44c2b57b22f6643/69b46cc0/31/1x1/11x1/111x6/11160000024/700398413_1/700398413.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps25 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/9ad4c5361d509c253f57c2331b6e9096/69b46cc0/41/1x1/11x1/111x6/11160000024/700398414_1/700398414.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps26 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/6c774b005af9de64c9e836a3a62c3baa/69b46cc0/51/1x1/11x1/111x6/11160000024/700398415_1/700398415.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps27 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/2d4bd50186f13e3ec35bb69e0d5f0c33/69b46cc0/61/1x1/11x1/111x6/11160000024/700398416_1/700398416.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps28 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/116ea89f572acb10af44b19521254060/69b46cc0/71/1x1/11x1/111x6/11160000024/700398417_1/700398417.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps29 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/539c37900fcf9162504caa6749ccc4b7/69b46cc0/81/1x1/11x1/111x6/11160000024/700398418_1/700398418.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps30 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/066653067d714f7f2a5e9f1dc81c0733/69b46cc0/91/1x1/11x1/111x6/11160000024/700398419_1/700398419.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps31 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/cfcaecb99339a14d951534b8ac1bd6b1/69b46cc0/02/1x1/11x1/111x6/11160000024/700398420_1/700398420.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps32 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/04477a1eda38e7472c2295c749a9f884/69b46cc0/12/1x1/11x1/111x6/11160000024/700398421_1/700398421.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps33 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/13d974856f418f12ba8bf096a20d175d/69b46cc0/22/1x1/11x1/111x6/11160000024/700398422_1/700398422.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps34 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/01268ff1ae7935c92601d9a6a1356c5e/69b46cc0/32/1x1/11x1/111x6/11160000024/700398423_1/700398423.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps35 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/0cffe20cc1ca31fdf001eea1d281a192/69b46cc0/42/1x1/11x1/111x6/11160000024/700398424_1/700398424.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps36 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/19ccd1b4d10f3354d6feb417952ca22e/69b46cc0/52/1x1/11x1/111x6/11160000024/700398425_1/700398425.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps37 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/759ad5548407c3862f776c680023fc4b/69b46cc0/62/1x1/11x1/111x6/11160000024/700398426_1/700398426.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps38 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/c475d32ff96a0debb35299776baaa78d/69b46cc0/72/1x1/11x1/111x6/11160000024/700398427_1/700398427.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps39 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/8d099cba626a7c5ebfdedbab7a2b81cb/69b46cc0/82/1x1/11x1/111x6/11160000024/700398428_1/700398428.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps40 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/92e91fadb41e19aa0f07624d33617643/69b46cc0/92/1x1/11x1/111x6/11160000024/700398429_1/700398429.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps41 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/6dc507c5df0b8a945be9b96ba2a04134/69b46cc0/03/1x1/11x1/111x6/11160000024/700398430_1/700398430.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps42 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/978a94cb83b4a9b8abf74a8ac375df1c/69b46cc0/13/1x1/11x1/111x6/11160000024/700398431_1/700398431.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps43 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/2fff537d2238b2928e0a90b79bfd7acc/69b46cc0/23/1x1/11x1/111x6/11160000024/700398432_1/700398432.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps44 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/96105e20dbd415b1920ab9ef3c18fcb2/69b46cc0/33/1x1/11x1/111x6/11160000024/700398433_1/700398433.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps45 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/8a74db990ba854dfc341caa99c34423e/69b46cc0/43/1x1/11x1/111x6/11160000024/700398434_1/700398434.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps46 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/31536f2966bb7b8db70e7aef854f1d53/69b46cc0/53/1x1/11x1/111x6/11160000024/700398435_1/700398435.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps47 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/d69ab6cc85ed311a088eab66dc2530ad/69b46cc0/63/1x1/11x1/111x6/11160000024/700398436_1/700398436.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps48 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/beed7dfd6993e01decdc742cafd93755/69b46cc0/73/1x1/11x1/111x6/11160000024/700398437_1/700398437.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps49 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/a6dabd7e19bba238d1c48eff9d6b297c/69b46cc0/83/1x1/11x1/111x6/11160000024/700398438_1/700398438.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps50 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/28fb66078031d677ccf32e1b1ecfc383/69b46cc0/93/1x1/11x1/111x6/11160000024/700398439_1/700398439.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps51 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/4e287be51fa25c1dc118d1efb995422b/69b46cc0/04/1x1/11x1/111x6/11160000024/700398440_1/700398440.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps52 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/90d0da273c31a479b097dc0446fa02b7/69b46cc0/14/1x1/11x1/111x6/11160000024/700398441_1/700398441.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps53 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/fd10c4f351e46f6ce33ed58b2a174de0/69b46cc0/24/1x1/11x1/111x6/11160000024/700398442_1/700398442.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps54 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/547a6c89cdbab058ab59f96aa3a599ed/69b46cc0/34/1x1/11x1/111x6/11160000024/700398443_1/700398443.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps55 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/11493bfcfe4a3dea87bb4cdbfacdf568/69b46cc0/44/1x1/11x1/111x6/11160000024/700398444_1/700398444.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps56 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/3de7c946549301462595c3c5a031c2e5/69b46cc0/54/1x1/11x1/111x6/11160000024/700398445_1/700398445.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps57 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/49401987c974e7295fc0fd0337d1f2b8/69b46cc0/64/1x1/11x1/111x6/11160000024/700398446_1/700398446.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps58 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/0cb9be4a68d97bc0e335b161783e80fd/69b46cc0/74/1x1/11x1/111x6/11160000024/700398447_1/700398447.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps59 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/d3faf6b08f2c36e19e9331bf421ca00e/69b46cc0/84/1x1/11x1/111x6/11160000024/700398448_1/700398448.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps60 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/d578b4ed5868f9d02d5b7e6a0ec64e2b/69b46cc0/94/1x1/11x1/111x6/11160000024/700398449_1/700398449.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps61 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/7da0c2f030992aba8245308c4995e1af/69b46cc0/05/1x1/11x1/111x6/11160000024/700398450_1/700398450.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps62 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/fda87b38db24c8e96d0c9cd9c8f28268/69b46cc0/15/1x1/11x1/111x6/11160000024/700398451_1/700398451.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps63 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/9c0aba0bacd2391589fe4d07661aad11/69b46cc0/25/1x1/11x1/111x6/11160000024/700398452_1/700398452.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps64 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/72bbfa6aaf4cfa426fca6eb90dfc26a9/69b46cc0/35/1x1/11x1/111x6/11160000024/700398453_1/700398453.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps65 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/cff2c56bf0a810b18fa17da997c6b3d5/69b46cc0/45/1x1/11x1/111x6/11160000024/700398454_1/700398454.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps66 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/1e6f619cbdb00940a8576c6e09684da6/69b46cc0/55/1x1/11x1/111x6/11160000024/700398455_1/700398455.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps67 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/8fd250c7da74a760fe7d7a479382a659/69b46cc0/65/1x1/11x1/111x6/11160000024/700398456_1/700398456.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps68 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/c605e756b0e5dd0b0f6d44c18e746a31/69b46cc0/75/1x1/11x1/111x6/11160000024/700398457_1/700398457.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps69 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/8eac4ef2a7a9db5fa0be2bdf51669b7f/69b46cc0/85/1x1/11x1/111x6/11160000024/700398458_1/700398458.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps70 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/2a77caca1e9b145ba1db9db0ae542550/69b46cc0/95/1x1/11x1/111x6/11160000024/700398459_1/700398459.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps71 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/ebaf4db84bbaec19df4368d53ba2b52c/69b46cc0/06/1x1/11x1/111x6/11160000024/700398460_1/700398460.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps72 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/edd00721eacdbc06403fd64f80dbc839/69b46cc0/16/1x1/11x1/111x6/11160000024/700398461_1/700398461.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps73 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/63911aff9780257b2e7ebc75188531fe/69b46cc0/26/1x1/11x1/111x6/11160000024/700398462_1/700398462.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps74 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/cbef03554f856237e47bd1cc2cc31f20/69b46cc0/36/1x1/11x1/111x6/11160000024/700398463_1/700398463.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps75 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/ba5af8e5d1c3abf776ebc2c74474f03e/69b46cc0/46/1x1/11x1/111x6/11160000024/700398464_1/700398464.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps76 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/0ba969d0ccc02f20f0e19ea88fd4ed92/69b46cc0/56/1x1/11x1/111x6/11160000024/700398465_1/700398465.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps77 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/5da723b05682451b5c635038cc722faf/69b46cc0/66/1x1/11x1/111x6/11160000024/700398466_1/700398466.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps78 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/fd76b7f11a22464c5f21f7fa6b557a13/69b46cc0/76/1x1/11x1/111x6/11160000024/700398467_1/700398467.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps79 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/a8b05ab8a1672ab0fe1acae97a29711c/69b46cc0/86/1x1/11x1/111x6/11160000024/700398468_1/700398468.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps80 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/0631cc451da2ec4287a43e2b76edac58/69b46cc0/96/1x1/11x1/111x6/11160000024/700398469_1/700398469.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Kekasih yang Terlupa (Sulih Suara)",Kekasih yang Terlupa (Sulih Suara) - eps81 [05:00:04 WIB]
-https://hwztakavideo.dramaboxdb.com/b99e7d71969c501ccae5828abe405177/69b46cc0/07/1x1/11x1/111x6/11160000024/700398470_1/700398470.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps1 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/51/1x5/15x3/153x6/15361100014/593848115_1/593848115.1080p.wz.g264.mp4?Expires=1773435600&Signature=AaaiVZ4zJSO742M4Ss~1O7qwViqrIT2aMwofOwSAgfVREVLNDmk8~7XmLzQv3r53nE1yLGGyvzHAlhWzX-TpJdLOikQZ421orgO27bY~4D07I7Yb9rZuuFmHToHrrF5RR2juCfGhGruPEB3tHrPHbrmW-3x0tvu-l7ROoJ9NqnbsyglsL8fr5-Rbs~E3KPlnChVP465-xo9wprOwLCsBqwJY7aWdndMa6p4aWGHoe7A9bGb4SruzFdf3-ZddEsgeNSHSwdn84MmYSYohe8Xh425JYA1ccb5iMm5sX3uRF93VVS1ECHT5i4wC3qKsIp14wxUh6zE003TB9F7LjigkFQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps2 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/61/1x5/15x3/153x6/15361100014/593848116_1/593848116.1080p.wz.g264.mp4?Expires=1773435600&Signature=yMtJyq57aFvEsvETh3bz7zPzxp0YUIPkjfDUkfHlrZwLAWLYEtm25ZFEry1osrOC2mbd13MlHRVvvFbWHmFDMCf~v4vpHrNAbM-NYZ0ApXXAkWphaaM-gsVwhwqXanemnLvG09mGQep7zi8CDByu3hp8P3aIw4uTlMHQQ5XIv6DYqRKmDeeMKn7eU3GS5Z3-raY6BLuYE5Gberl36waeMMQZxBubB~jsNFfu635ez3i45kLN0O2uOt8AdFAC4PX-aI~Yt0KFAYezOHIXabsUsmomDDeyxtuf2~DKc6k8GHO8-99Vj~plCYuIcq7guQxQAWQAUHNZXYvgCY6QjO5THA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps3 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/71/1x5/15x3/153x6/15361100014/593848117_1/593848117.1080p.wz.g264.mp4?Expires=1773435600&Signature=eMbZCuL0anyDG8hRz-YWEbWofJy3YZ~W7GpuyhakKV0X~m9613fezYwHYyNGmpAevUdSgVEKI6qjP-7YvK7Ln44V4VvKiPeeDsWV~rc2N2x2SdPrE1ekmO4sP-wWa~lCnK13loto11EW7JSa9WEUYocRyT6y9PUIITQRAEJ4gABM3Bzh82gJPhQOw8gUySF1e~EimaOKSkVIzbb4wM5B1urQIChkYNW4fyRP9wmYVmQ9J1xKu2ogPqS5whx3qPdzpH0n0EgMtwsUopAGOG8ydsiHbboGc1zgF9dlLk2TnAkfOPjO~5xBIohvX47-3QtVcMv0veaTYGHipPJFzawLcg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps4 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/81/1x5/15x3/153x6/15361100014/593848118_1/593848118.1080p.wz.g264.mp4?Expires=1773435600&Signature=ENFW7fP~OvS7QyhODBCIoSD73brawvl2RXd43znlcd061pUf0THIv~qXH3v~ZMNCHo8WG03fkE1Rj~IL~eHtHHc97z68edd4IvnLZ6PIttQisdllP2kao9W7SIJtjklxRfHd~DxS89L41CNIj93LWNqnUaAhTwx11wf8ZKxl2GhIItHqy3uXoBVgib9lgcY~d8oQPWGsoEynmAs1wqR~auwSLu7X7AjZIfhhNF-Ywm0smKH8m62QdLvB3eYERmTsv9nEksXhxw9ZyyPh8UKYEIUy0Dw3rURjjOpd6cHEC-Ee1Iffkx4Jh8d1Kvt-U4MSChKGsYi2rQzoaQ0ZJStfSw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps5 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/91/1x5/15x3/153x6/15361100014/593848119_1/593848119.1080p.wz.g264.mp4?Expires=1773435600&Signature=kyYWxFC8D9USgM6QYiPG-dOZ-0HOxyBaGiBeEvwqKmXAyO2qekaaU6i33dqFbfQFLWINKEKNGtK0mhi51Nh146eAVQtAxaxpoYkn2fp-tbThqCsF4zsRgc1TidZcEqi1muTjCIAn9yQ40irOwKgMGXUMH8nGhm-YYo57k1oo1gTIRUHvCOMwF067AV3qqFRQcG-uwUaRUo5I6zt4t9GjMY2Q8SapNUTb6jfyGYyyS8Cg~yr1-DEL9LfBFKHBwsiDK3zed2iNP~WBPIDlZr1b7xiBkHyXHB~qNSWoMWRBaGISlrpJfWBStF8hijOViKJR~99qkuR2YDiZPk2DLFSemw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps6 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/02/1x5/15x3/153x6/15361100014/593848120_1/593848120.1080p.wz.g264.mp4?Expires=1773435600&Signature=XZUVtKvTLh8Tfl6RpyKmD2PMkekn3bqVSfo9o7Z~fERrrd4phjFZRLyltfQY2s1ibalz3q9CFEo1oUU5jdSwlZY5GXIR1qXNjkylJgaPfVYgpWxlS2M~ELA0b2fKrUcN71MJs97qoXXv0xBISzBlnqjAxhQBeLT1BooePdxgR7-0SPGxu6KXMThO2U9c91ai1-QG0o3ByQ02JjyclDf0ttw8EMHcUfYVL0mxEZ-HK0~TByccnraUiE091h0exPdkqdJVVkiwAkAL8DgVCKhNckFcT3Inof0rIYMV~GjdOzfzbLNsz3AjchZf7jOjv-WbE6GEwN6es7lrL8IItqypIQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps7 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/12/1x5/15x3/153x6/15361100014/593848121_1/593848121.1080p.wz.g264.mp4?Expires=1773432000&Signature=ddCF3cn5-WWeGEEzHUJE~Z0wduEBv5EruSVRd8c9Un14nT1OIzh65XU6LyaybzX7Ew7LREKEaQNVhaeELbR5BNFV~msqKfVxL8ZC0cjVjcBzJlQ-jxFjIGQhZTHGfDx6jRELLBL0OKOPaWyVj1morwwazRVR6bO2puu26jIxTjVeJzjNSmNUcRCDAkkImjOjxlzHgNOYdWT4R5Si3GOPAgPNK-teWi-q-mf-bQQNA3A2CvUnMvYM18eDZPEwUDeqffesjHDthnev6BiIwQYpqD2EDl5cqiVSFJcxiKOGz37u2hL~mrYgwUQxvX8bUgKuQTfHLdN69jrzMeA-h3QfIQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps8 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/22/1x5/15x3/153x6/15361100014/593848122_1/593848122.1080p.wz.g264.mp4?Expires=1773435600&Signature=M5IDqGZEbEjajuT~ZfD8-bdLKQNIcEHeaf3I0QikrSvI02vvjjKqxFm9Slim4wDZ4fCDrssBv059~klVLAiVdZTwS5hHDCB~2X9gEoiUNFODhP71JxAznVTPq5UuAM1~xwTD4q75vVtMb0BCwnFDpsVw7PJ3j3Z8l5hGMmyJtr930C2AcQLuImUZ-DidNA6FX~q21tUjC7ha5skMlW9TR6HZApi29zuALd5xJGl0dpxgbKe0TURP5TxFhldf1hlmFTAmrDwRp0aObahey1WquuPP4oRjsYlVGsVQmH8a~lBtc8kpdEvhe3x4zDT3GOFONwNFg-UzF5ykHZSZepcieQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps9 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/32/1x5/15x3/153x6/15361100014/593848123_1/593848123.1080p.wz.g264.mp4?Expires=1773435600&Signature=XG01FgtzkfHShz8tioFcnvFlY4tANedJO7G17fXiHGVlSx32ugPo8M3v8ADAo9y~mdf61XtvozDwp6QqrpO1FCXhDfFZBO7T4pazFt5wwnZoCgiScPi4FRnIHhf2cfIR19HbT-Q9tc6NpFhjVKvaA0-H1esNZR3C3NjQEK8wtJplZOdkXWk31whpGXGYtPW46UWA4zN7nM054mIZyPuZidHscZdbnaPQbtuYV8zq6cA191H3EqUrU2kxIGUnbcofguoi9ZbZWLlZw1OMuW~RfkFL5-SO1N8-5g22s2L-lgxQ~7ukWOVie~Ir-fgV0972Z-pz9EFIRfc--sQqwjI-QQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps10 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/42/1x5/15x3/153x6/15361100014/593848124_1/593848124.1080p.wz.g264.mp4?Expires=1773432000&Signature=avo6WYJpPu5nWLGDZKT1pM0LFwy3-ojHGDf9FABklmSYoZABqY6mnWc60Ocba7EvgELlC4VIIhSriqmHfxJlnrvdqR5rhO3jrOup0pvYaXqzwtRKVpyYgqoARyGYF1TR7XXzkMqZeDuGo66vb1r3FhZu5JQfeMo6f8RX9V-cDR0RZwYcy8gZqgPETC51GiIrX1UgVT1BW7dOxpFtPN7QXynJwYicYgRcbQt6oIhWlD0LOOQi9XcstnNBqX~sHhaZ8ouF7Z01bKCyE0A8279EING2gRYcz9z6TtNTy~JIUOPKKzqr2HyWL-b8QAmaBNMFbQ-g3Zu4BZXDOxiRBnDDQg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps11 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/52/1x5/15x3/153x6/15361100014/593848125_1/593848125.1080p.wz.g264.mp4?Expires=1773435600&Signature=SdyEfb65~tVBMefcDE5x2Hk5QlpNU~~F4OWozJMSNSHb60koJPYi~J7IyN2QS1C09K-xgI7QVcnnyZCWyhYHZceliBVvUaQuMupmQIJ60rOxoU~nxNM66tq2ydTAPFkAXNven1P0GkWMyyvQhW31gjUj7LEgOG09Kr7Ffrdq3mmkbOl2awfT~QZ4tPNH13c7~-Smnsb4YuqWB3V4SuZ-qTBA8eL7t2Qy6ASSaAYCFOz0lfRtK3CTuj2nhQtMHgkV5FKAEgG-PShD1xkGYlMsEBwD89YiyF63ttmA~zvcXS-tDpLREQCkuO8QXC4NNDXcx915-Uh4ex~0c0vNIs6TJA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps12 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/62/1x5/15x3/153x6/15361100014/593848126_1/593848126.1080p.wz.g264.mp4?Expires=1773432000&Signature=Nb7D1qw~e4qZg6bgOp0ul~G7yXHFOUbyxK9znyxYe0Bk87JK~HwUZ3-YuTaZkXdI6pY6MxXmN7GIKXD2pn7eiBeYqJbCNuOWQB46JpT-viIaPPEjroE88H4UTdWf6sxVw7pFKGTDM-wpRd~wQFT~K6So6pGYIiVg1uRLWV7QEF04wjQTbZ5U26ZCfvcXFTRX7sU-mT8Msgo9-0s28ETRsRV~OsrZMrhYzqQENg59Gdt80strvYIYUC4BpSrfFHyh4bTb9jkwFidaHVjeSxLVnIToWJ7FaAVvFFzFfjID0-sk2PdjG~XrXhH41a5s6WbFM1EJJvxDmJh4n-BXERjmvw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps13 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/72/1x5/15x3/153x6/15361100014/593848127_1/593848127.1080p.wz.g264.mp4?Expires=1773432000&Signature=cmU6tPxNjIt7xwwQzcQZL9wQhZfnmMiChZGun~8VVTXGfxpbOKgo9IyZX6QzFkH4N0pq~2wfArdYapMT5DgySIbgxxqQhYJczQYBKkZA6cEPi8ZwTcWtZ8oz8kkIA0FWbjpMY6cwaYSoehgDtJ2L~tCP4YVEO~ww56916cg-dhw3MNsnF-wd1FA5xS2BF2zA~z2xFR4NwWhPul8kRMG-OmeIdv6IXgbW45~-gobEzWLUjxtb1axaLAbgTBEOAEX8VhVD~1sAPh0R-bVDvR1kgcGqU-hjhcKADYqcZf0bCz~qI~CUfiZrCKapTUvWaLrmYbRsJ16SVR4XPg3JL9ELFw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps14 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/82/1x5/15x3/153x6/15361100014/593848128_1/593848128.1080p.wz.g264.mp4?Expires=1773435600&Signature=cYeoDynCJp4QXpJAJ8og-PWA8aBevvjZ4LEORHgL7Sxc5QsJ1gMLDR6lLHKigk00VK5PAr-daeNZdS3M8p45ynfuQQowQ5Q77i4V8VsUUq2ub9KG1LzS983nX9SeKvDh4cARxPVeVcMxIIImW3Xy7r-HoLFqkk6qttbS7AqW-GrJFA1MdpHc7J6UmSGOCZAJVR1-08Lqz6ClAASh0mrIwpxttxSMYOeNbv2pAPoQT~o48mLdZJ~8brOn7CVzPR6kOSbDjvhcl-rTscv~XOxOY8o9m7zJcdlKXJ6OU8YPvF1Z2d~-~lhb3RVO16WFFO5L0EfEPm8UUXMG~ADpijVD~Q__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps15 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/92/1x5/15x3/153x6/15361100014/593848129_1/593848129.1080p.wz.g264.mp4?Expires=1773435600&Signature=AD4qnm0QxGIL56WMuH8rt1Yhv0Xki~5X2vbfrFK7k2qnizF9A-JGgxEccqSCpYPLMkmI9fxIlbCYQdhmULD7QNUZUq77cgyy2oPbHPvujbWJkM0pqsrQtMAKIJIRBsDtC84E-VUXg~qzR2LmKhMEQMTDqfs1HNzzyIcP5VB-11JhBZWNMyWO02KfHmyoy~OVTl2hxOXcwFc0z0AFO2QuQiGy9~HwhZReYXQv0GfymNgTBPyKmThHojGBYRqiH0M~UnwVEeL8MSPauXqERU43woHqRRE3ds2O80xjpybmevmbu-481PKex93UqvaCNFf2WGceWaxGPAeigAB2IG4zlg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps16 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/03/1x5/15x3/153x6/15361100014/593848130_1/593848130.1080p.wz.g264.mp4?Expires=1773435600&Signature=ZFMG-a8LVK4fQkliD4R4anPb-i5XWLl5DzwBhZt9L0Xj7ctMrAbnNEhSnFYCD-jSQpbWwgf8ZaIVJ80gDSpQ1oAjB4vay9aGMEBUPIeF6sBsK4BWA8Z0zU9BlqoBn0EbwIWzHGPUqZeeulzK8gcEZK8V1jkS~LUpAxqnSLZAluXxQUS~3mfCn4NWJZ6xDL~WM6xN4qq8l~zXAwTtnlaohJqBonvDfGL64~Gp1gNLlJsaLx4mDyblgS2QNpMZMZ5Cj8Q8bHSXcMlwXheSDXMAK5ro0R~-7O5HtKfkHcbt783RszN2UE61Wo5eKzNUpiunLQDgU5G17AWMnP41ZIqI4g__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps17 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/13/1x5/15x3/153x6/15361100014/593848131_1/593848131.1080p.wz.g264.mp4?Expires=1773432000&Signature=mWHLLGD9hK~PAyuu4sJZQM9ZFF1KckZ5ehjuM7zdWc-V30I-KaItxmoKR7DxnG04vycDpUhIfF9qNnZWkuczSEVHv3j50-tf0Jtmk3VCA6w4CT6FL~j-knC6OG6XKNFRGDLS6rngxzy1oyhuoCFcr0mt8u~M9LAuNrxA-q1GTb5-NtATGdnB0tO2YJTW3gXqnWK27QbttHzpAb7nDx2uNVI8PQ3a7iEJ~nPYs8KmKCH3VxQpWXldkOVtgMx18gc~D08SIkfxWfd9x2Bcy7KVC3gs8u67usGumeI8KpeqF7~PDQDEW10eJGQQ5MutSh4XhGvCBKuBAtWHN4-pLtDO0w__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps18 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/23/1x5/15x3/153x6/15361100014/593848132_1/593848132.1080p.wz.g264.mp4?Expires=1773432000&Signature=mTtalm5eY9UYWPdRxbes40TCa~Ud9fDw-9vdX7tQSnqBTW7zd6dgcXUfKHlf9IEXYXfCFP4gt3kYrHEjty8-fNaxIr2q4wIh6m8QNq4zpzZhfOmHwU6qYssD34-0QTTOJ7Sk9tsu9iqjaO3XTM2csyBsrv8cuLO9ha4V5Bw8U9vDCLoUgj69ihfPSWCD0ABwfsmnJdCEFqm0jnsgeD7Kbf3Isrs7dk1T~jiIuA85eUsqX8lGFmRWMPUACvWteGBO5iabSqAoG8U-reqtfLDqU2DPqwgMs8kwkzB8cf81UAhUycbw1d2P53gRztmejJPSRHbRVM6fUYPnOdOtdpXvoA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps19 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/33/1x5/15x3/153x6/15361100014/593848133_1/593848133.1080p.wz.g264.mp4?Expires=1773432000&Signature=ID4m4DMZrcjwnhxum2p3aqqgEPsBYHu3MjXPzqvRM-3rh0O66o~m1B4RAPDRmPCArMd9FKG6Us82-TW1lWU0WMPXmY564-eNsOFzKpkX9nYTbjWO~GFa4UwmeTFb6nVHSB6k7H-O1vWXVNCnsNOtU7x-iz08il5akjTGkoT9ccQMCfSxamVYnuAtrl4W3P3Ci6hMV7NXOfqg-2qUXjsK~zciUh~AmPZYo-7JLh19wztadazM5DJuKhF~hR87~VlweQIBaWin1a5CWF01dWuD4oLWXLf6yajGbq5opi3tfLN8cGjB6HAQ6mvKypS-KaZbwXdUiP5aW5ldxzrnFsacrA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps20 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/43/1x5/15x3/153x6/15361100014/593848134_1/593848134.1080p.wz.g264.mp4?Expires=1773432000&Signature=jhR-MwtZxk~k9m3zFSNTt7yIVtGFFzQqjasbDZultSZkbVIfmPYI6I2vWSJnCp2cQ3BaC2kzYFD0oWNCh-83Cb5NZu~B88Jl1ry~6kHw2MPhutoJ16QawjajnkZBAnPaJbhkUR6OHwf6u8QckzXBzTzbNxZPLQiq82axoDQ-ekRbVzQcp1RDqpxuJin5RNehw4G0Zb0XBdwDSnzb-7SYvawBG8PXciy~wYBeVxj8v6s~vtRZwjmVJe2J4viNGby3xUDJmI-fD01b4rCgXvYw-0h9xn1BuBDObEqUUxXMOQQzJWTEgLFR511Fog30v7FYaDjnnd4VV055YCiPMj24dw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps21 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/53/1x5/15x3/153x6/15361100014/593848135_1/593848135.1080p.wz.g264.mp4?Expires=1773435600&Signature=RndT76LfOkecJYqDxByRsw1-Nx5Z83z-bspJwzVVgvu2L~jii21yHN1xqdrvM8TK2luVBzcVKmRqYd7I2-8M1Y3F0FZeZb-IYRI7Lfugj5drk49KDI2~BbC7g1ym~qepq-V0mGwUARcMVAlvoHen8dAgKPKK~-Vk43NKnOw1WU-zfT4zqZpHZdS~GxCL1Rr-WnD0eVp66J4VGYt6G0NJwHAXTXcTSwXaGvx-Rwk9XE7gDL3GbIUs4uVga7kIw6koXtmExoXdi9sp-3qkFqkReEaziMj99AfbaxXG7Nf7Li~-973l4aDFb9v15yIpaZfXYnSsmw5NjfakD-qzVF8G9w__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps22 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/63/1x5/15x3/153x6/15361100014/593848136_1/593848136.1080p.wz.g264.mp4?Expires=1773435600&Signature=Fq~jER4a8KLiJnOeNUDSFONWXvBsPbxtoZnp-fz697JUrODNdF4olfG0i-02dVmkJbnIGrqU9OosY4GMNxsfOblEpQVHJ7~OKzql9LNr2A9Gus1sg7UfnVjl0bG3oyW--2UKu4bfEZHzjhM6eqNLkRkEP7JRFIwehF2k0FOP~5gKQPVqmAdga9Vq~RSbcQxe-oCtmOTbUBgVpDPfkCMAKNMgaCgifwOw9X5KCn1wd~3CcusES0EyALXFwFXJnNwGEqMxjVSllccfAzT8mXwczxu6A-i8Dy87UlHfb8PyKR4PW0TEXJ897fxa8FlZnYTiulP~dK8s~juBi4DBJaFtlA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps23 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/73/1x5/15x3/153x6/15361100014/593848137_1/593848137.1080p.wz.g264.mp4?Expires=1773435600&Signature=ew3XX~q00YAHhgZQLdzSPKcNTwAnXvAh-a7H7l1Pgju5H~IbQ-WfIzP1ovR3oXV~3xNFkt8Be5DDbmazzCmZkrW1kEeLfUUwdme0dhQx7xz8N88mUFPz9Ql9hPXhv3ZB9MqXGy0z95CUG29zdwqsgRfUu2IfbzBEY4xcOHsFjVkwlyFiQclJfkR2uaEJelcvvVtOxBSlvnjYS~4CASt~JT354-~8DYAAt11xbnrDwAQV~HD~e9PNJS~BcaYy6PG-Qr6bIOEH-gyhR6UzaN6teJEGGHw4Y7PzbRy0wdgKw2hLDvTBCXU0gQwHINrH2X3f6jncpZ0WiVzqJwPgakIjiw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps24 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/83/1x5/15x3/153x6/15361100014/593848138_1/593848138.1080p.wz.g264.mp4?Expires=1773432000&Signature=BagtfnwgSF6r2vfOjzDrfrDUWStS0-KZCMM26ryht8oGXQ~5gdA14GslwuKrklYfXgZDlgJSxjviw5~nctj3n9PYRgQLFLUVwqBSOWlgzxanzKEp4ckvLWPh9o2X~I5a~WXtoBUv0dphk7TfipxdXbMIi8LxUTgtt1O8cseuq1T7TPd1tXXSIZsBDX5N3wJEwiXOkDbXd-K0GjsDwrikmZrbGOn35IZbbImSFdEScdDdRqupAYfYUe~DJzGg2387df3kbJG-zTwYV-4DanPV5yvbn~fNECvq0OsRO2lVnolT8Tch9StuhODtjf67TcKK9CbnKIdbAcLPHIjSRPGoxg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps25 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/93/1x5/15x3/153x6/15361100014/593848139_1/593848139.1080p.wz.g264.mp4?Expires=1773435600&Signature=Hsx19JA5Ux8BGDDzh-z-nZdB3x4LO4ATctF8k9GKoBH3xOxpq8gERTMPCVE~HXOP~Ujrg-EBeAWBSgxTXa5rQfgxqfY5IzcftLhKG3K07vYrTHCm3F69z~yWkElk7cXPwOpxqg-ulZT0AXtKwLcL0KqM8fRtxFaBsMTu0sBb2~pqrWVAaUTreFUt-wczuBQW5bvfhqzqjOBXYkjx5YOSqAqlKxJHP2IiZi7eyFecGrQKFHrVUiSiawNmiKR3ExE6Rrv2mk9yOHdgsOyS56XHHT-EA83wsYNxni9w1vhAou-y-NPhCSgHtLwuLUTzs1baxWDXMQN9O1Cwbik0156f5w__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps26 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/04/1x5/15x3/153x6/15361100014/593848140_1/593848140.1080p.wz.g264.mp4?Expires=1773432000&Signature=YNGLlbFDaxJp~X37qCVHLMARxwEi6V1focHRj-svlLINjFnJHez9Yx4Zcgi9sFQzA0lxsJHGMSN9Ig~0bWq4VmftNHkF~BsI2oVOYxsm7j~bg1olDeLcP4SD~DKjpPKrEDd2jt8hmPKwzsEkpevEP1WHgdqPBKnPLRzp2qu40jEh9Ty~a2kdgQtXUmNypydNLmcnrVHg64dh8aZmebgFhsc6p1xoub4kpH4frc5Bi~Su~kkk1X7~kuxTgKY4ouJCO8bhsQdzybpSWgff81ywhTAghLkr1gmHxl-1rPpRC~QlKI-hHAcx123dM60X1qaD-TKD-08Vz~FljEt4DEr4Lw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps27 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/14/1x5/15x3/153x6/15361100014/593848141_1/593848141.1080p.wz.g264.mp4?Expires=1773432000&Signature=O5uH8Xlpwt-ZmFcdNSZRMHcmBmWyHeF9-Be8UfhA-ToRdRm08lvmzLLDFPgVXrO-e4ZxZ6N5quU9aUW-kaHDSOR43S3Y6qetrGUWnULJaKsK5FpIEQ47W11OGqjlyGECjwXOmuM6916MrtiD1DYPvNqDMXirtR7eCnAdDjKIOUeS7wGipSVU-gnjfy4oAAXcYfeggU92nsMIWRYJZxiS~-cCp0kFWd04HGP~ztkAPg-QwpiL9qJcd4UQgKupzFEW8lvTwd5ddx11Pv9lLZ7uolpCbXoaGeYP~~IH~tq-3fa1-j~a03Zx-B~s8JOzOKXgRrkviMMfAiPoPYW3OAikmQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps28 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/24/1x5/15x3/153x6/15361100014/593848142_1/593848142.1080p.wz.g264.mp4?Expires=1773435600&Signature=HvENNAXkhdtwt-~AkRZc6oJLhqNNl2ePT1ubADn4wBOedsBQZq1Fq2~v~p5vAmya9Vw6lcJome3qkbVZQHbEphZrf6djFU-8NbVJFageyeePU32mrP9FcDQxmnrtdZnQiXlFpuB1vR5NVgtjEcA1Rsq6gicBEi1VnLyoCueM1fE7Ig~JFNPzwsNRKBR8fGLe3YNDeALAdk8fHaQZ4~NpoKXOj2JFz65BG5dJWd5cjEYGfcmOyYd~6UF2g4dFmF8pM61LyNhZumbFclFTiEIYIQmQ-UEnhuI7cRwciNb49BOuFuah8i-LHfb4Nbn5BqWb8Gqdza1agtzOY63oQCdiuw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps29 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/34/1x5/15x3/153x6/15361100014/593848143_1/593848143.1080p.wz.g264.mp4?Expires=1773435600&Signature=cXFZRgaqFcSWvzZjUgBW6k9xCPRsslr2AdK7ftmNpIagV7eCz-6ZRFx~NfXBLa96NtlXHS8xWqyycsAXCNh6gJgQAr6nJv5Rk7rV6x66m7EeqBXwZWGAmgFnW6Dxj2pvHovz-a8bCqe5JSoCwIRNz11X6Cg~0AA3bR0Vdejo6tqXeR8pWqsmALVdgGFSax6Dx0-p5pbIdizO0RXEYcihVa8fhu~kVLHIIEue0gf6FUyFxX-HZ25rifcwfBOrxtFZ~xenmiM8ifxfko5a99-KdJZCpwAuS~Xb1N1JJbn7zFuth8HAyJeo2aPfS3tnZdJWL1jN7uITtPmGxz2RYWSAbw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps30 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/44/1x5/15x3/153x6/15361100014/593848144_1/593848144.1080p.wz.g264.mp4?Expires=1773435600&Signature=Rg8S6AD3C8eucPngiyl4c2vuM0Ld18tE5iF9T7mNgRkPKzELXgqpHfXBCbiBwYodJEQ0musgcBar~dN38tdkUmeICidDu72LBO2~Rc5hvZ64DuwWba2cmDjLBd8yROXMzUSw9L2gE18dVvTF9AdeuuzdEwM4y02P2xir7L9o3wUJDCvHi~6BqWJNFk-QjwIMy0xMLPoEcmskhlA2VroLhTGIBu-PZxR4VVS4zyNVX9zsAvguniB2FSjBk1-H3kumFBwPx6MCfmoKsCpohb-LtC1Y9ScWo1lgSqcIhhH3EYtxN7eEDSu1eep4mg-joqn~XgqQeM9M-GZJ9-3Xqrgzyw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps31 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/54/1x5/15x3/153x6/15361100014/593848145_1/593848145.1080p.wz.g264.mp4?Expires=1773435600&Signature=uKHnK3N~TPXahIscUpKkDe6M5vVu0cd20oeJfU1G9IKKDQQIpKFKOL~sxBJ95emqcY-0Iwjlfkk2BLCkTd13RZMOnmhm92VTPDMDMpixr6omuL~an3G0ahrSNwldj0xYyR2UXqf7lZw57UcJ4B3z4iH7TixGwkgLm91kzwgkmEKA38~9l-whju3h8ScBE9se80V2ffk~0FTQhiaPq~6UCbDGlirwsusdJyLma0kJdTe23pbqTwtUQ6vzuMTFE9QsQHW3twYznxm1qL13~NBYBQel6UgB6So1u4~i-oW7e8K8MMCf7xsg48P~-~w~zwE0s48M2pK26IkingMHmR0p1g__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps32 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/64/1x5/15x3/153x6/15361100014/593848146_1/593848146.1080p.wz.g264.mp4?Expires=1773432000&Signature=I8EyoACHO~Jpi6EW0AsofpSpz7kQirBKInVA5qOBD4oJfBnMMutbk~xdIJkNz833N4K555lcU7FpdnnstZB07YShpN-tMS7PBDXU20vazJJH-RTDRpUfAzm7bsnJfWGmb0M6OgldSdx03eAM9zg16sn3Q~eOIr4wzjY8XIAjXKukGcu4Yw8oIEFgTp~bDc8AjAE1YRm4aCIS3laQu1vaJCeqTbYhcwmG2U3ILpbbJ4xg1zY-gvvjNF99Lwwh7NKxFghwCYvG1Sn0CvPcC4NrcnI9g9p-6JE401tH27rRFhy4vrA1ek583mhsdPUDLhR0VJVw0OgUjmR-S0aqnXkPAA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps33 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/74/1x5/15x3/153x6/15361100014/593848147_1/593848147.1080p.wz.g264.mp4?Expires=1773432000&Signature=lJlirx2bA8MsVmk-Tj~etJsuR9SoaOCHBeurtSB~fxy5zXcZOCgaqQAGzQc8GkMftRCpL~zqaqvTNcZwnQGBeUcjO7ddX-GfC1rOrJIxMZYXlVsvY1GdgBz~UG-Guu8tP4T5ACClb19dRfX1Kzh54~VqW7dRNmtHyl~M1zwKqE70hiFgGdCTRaFC5g4-v1navVJ3PKe3jAEE0Z9CdPEZ1EEzkd2gJcU~qEdpvH5F3XT9w3VrFPmhOzNQVPvdG57yxoa3TvozhHaSH3Wdb999MtG1kWZnVSwC3Jwx6cKLR-nD0nfl56oNf9qDppVj~C9VJPhepeArroIxgwqbgZO76g__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps34 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/84/1x5/15x3/153x6/15361100014/593848148_1/593848148.1080p.wz.g264.mp4?Expires=1773432000&Signature=0jQwBFD13fpBVbtU8xUL~j5MztWc55ZBClzVeHCm8VDJMslDblWUrSNz4SYaUEBHGxppRH27xgJaFnkv19PFOcHTAE0gTBB0NYqXLjaVm9ExBPMXJAzNNlt1H9VGEgn5LqUlS3tuiQSM3930XEJjlY4CN8zyC7QnqvLy8-gAJk3nAA4cZFLr60wwLZgH7oWuiU6uhS3ThS6v8i0Sn7jtzv0ybIvRRRCDCHiQwKWs3Eq0I67CWIfnLh4fYCAHIVrxawEHsdXvx9GkakhTJYVQaUblwsJBvZsnBqwfw1n17e0Zlf7D~Na-uMeVGGS41CIyTwlPnDdFlq3g66XrwRtMsw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps35 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/94/1x5/15x3/153x6/15361100014/593848149_1/593848149.1080p.wz.g264.mp4?Expires=1773432000&Signature=e0yRC-H50CpVxb90N5GbnUkbNjG~AvdP6e4lztreGhklpN-YWPc3MeSwnLtZB-dBW0xthKKV75Qon7YzE9WzYzWsBQEtGsjgw5rkR0w30YMkbkwJlyB9lgLicaMGA7Px1wv-HkVkJtMKck8DR1fTVXg~H2HsXqrhdOgK90838JFeLBtFabIqxfUVx27E1~OkKdn6TJzXEpu~kX6hSCm2bqMlLWE2Yx1QgelC84RLlKn1UG9VT4PJQQcpAFxp~-Tl8rdfoszhnnwvuKQaltYaUCeBTfoC0tSOSjxh3Mq4JgdrxI1Xy~eV5BDyW13iCGiQGn3QtIvPcdoXRC-Ve10WtA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps36 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/05/1x5/15x3/153x6/15361100014/593848150_1/593848150.1080p.wz.g264.mp4?Expires=1773435600&Signature=uXzOCuur4A9QalzAdv4~e-BwGa65TunNuvZZwQTHdxmjM2X3n5zXHchNewQFxPGq~zhRZ0VhTfmcU-DgdJhw3CFJ~b8YF3oiUK1hTEhYkRkdPV6PeXNEQyRPywZRXo9XBAIIzFWprUjbuKHpcQsKqf1PqJdZ3V6~UUc8NQI50MRX2e7nCNEltAgXIlknmVK~q5Kavsn0VqJs9aERihzBoTFOLRiEdKgHiOGu~3UsnLt7QXlaPSmrCVLHSkk5GqiEgMXGNWdd1Pj4b2cVAE8FP5sBrwzKRT0cLaNifxp7t8kLGd9qbKtZ2GAgAGSNi4wSVhmmfz2DCu0EDaT~PFOXog__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps37 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/15/1x5/15x3/153x6/15361100014/593848151_1/593848151.1080p.wz.g264.mp4?Expires=1773432000&Signature=Q~n6HUp2NPtraysLHw3bHX8bexEUv6FM0yz8aqZvOpmt9kwgRG5bS1nKD88xy9UwP1bmYswCIhVF4NSV20YfWh7RaqUruVVcPZEjmkrwTyxHxq59AvW8lLh~nz3QBy9Zdq1ip7ZdFKb2ls9l0-DGt1TSamEbrFMOg7zZRtuUuzx2YYfIR7uqeL0m1pVKQr1GXgDXOPlKnm-dxEgwB8BwRkbiJTwlFWs43R4l4WpYLHmKA8zQlpEBy6tH4PBXp1j4rW5OB7xCvbxFae~x-evUq5~KwTuRZQ6JwlZRVKyplalFr8K~Ma3NlsjTbDxhm2OiV6BYAJhi6WbVWjtdkmUaAg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps38 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/25/1x5/15x3/153x6/15361100014/593848152_1/593848152.1080p.wz.g264.mp4?Expires=1773432000&Signature=K1gnay4NVuOe9JIyGn1h5N6Rm-3rjouLN8hPZ78EBZorJwbLOTVL0WHwRPA-Fr7llLoESVL4hYQ95-zre9eheFTSdlwfsBPqC4cMso8stIKQ-8U7VzyxOmSz5tAVGUb8TzXjH4vrjKKsaPeqfic7Lq-Pr2n~2ZzHosN6IJ0kLrwYfBBGFloHL6mJvWJuc4dX8az9YkbTt95QlqfVd6qPyos2ek0q9-PRJYNNH8vyAfebwHiZt4UfDC9fIfvh5Wlky9EoqnZx-HlUF15MASI~Fvh5orPLEKidMOB2ByKUDnSdRWSlTlwzh3Ic1N7LZDpawZFy8Y0GeBdCPdqmRpgruw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps39 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/35/1x5/15x3/153x6/15361100014/593848153_1/593848153.1080p.wz.g264.mp4?Expires=1773432000&Signature=MY8zQP5SnYU7dmqwZZ4Wl7AMLR0WDbFd4sW0-Km3ohjdJK5nvoOSEU-JdaS9-Y3MYIw275ROhZAdlseIgZMd7gh~KBsUsHe8zFNA9mbjFHUT-qxRQWDKGvhXzaQPKAjUgC7m1DkLiz3a9giW847JLNfsO3v9wBC2ifo53xN9424fDgjZYopR~-WFWvP16FZC4O-DE1Pd~RcxV1wB958ZH9i3zQvRxm2eADzMjgaDCzIb~xq-J3lD012gBqiMiDGXEOV~cdbPSqcQzNRy~zkx1XZeH6b61V7KFOkM1xCb~LBDW9lnLcoEXYvNOGmNxXA8etk1qiNfTnphP56PK58cGA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps40 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/45/1x5/15x3/153x6/15361100014/593848154_1/593848154.1080p.wz.g264.mp4?Expires=1773435600&Signature=b6iA9zajE6ePj8ddGwUwSlbhx1M4HfTJpAZlZqXrCGMZmiv6voDB9yLtIZ4drOIPhNisAahivu7CqeoxFbFNysvicAhWUtzW1pVafzhv~nZu1HWjtDLy5hXFZ8qBC4pCYLPY1AhoCEcWc~6PYvqewj5XL0F6GWCSre3ateOUwqXWJZjaQd2GRFHcV0Q94IjKb79zeaNOv7hhb8vbA-jKiR43SO4Qx2I96tPIXgXhqZ~GqAqEZiIGi5nGDb4XD4wWGOSVpy7Q4twtddDibnFd82lQlFeWEk5t6ndEhTVHX4WROTB5H3VwZtYq0CR9FI45v0aGQAi9YKp9rJ3SpUakeQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps41 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/55/1x5/15x3/153x6/15361100014/593848155_1/593848155.1080p.wz.g264.mp4?Expires=1773435600&Signature=iGLDLfKXP7TD~lqtx97lln59r8YsVsk~7rrP8HcEX1wisTVgtDfi8O7Wutxy6tk1UWG-iuluNvZes34zQll8NqXflV2t1QPnYl5xu-WVY0QsAubzWHrZV~foORd9cTamuCMuD0qQjhSkdIF2DZvoUQcbAtWMxMDiE8TmRyuGXokq~DEBVM49Fp1yw5FTY~k5RxWw4xuQDJX4wMr2WbeYEd8VTsYwnusuqPgoZS20Nv5ZOyyxUnqTgRTl8RQ3~zKchZMDYnpiFiULVYrhpswnEaBWu0nj~xJOagltqvDEbOltIaK0WAdxIcyoB6WtZF9rRHfQWhhDi-nxrYnq39uBxQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps42 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/65/1x5/15x3/153x6/15361100014/593848156_1/593848156.1080p.wz.g264.mp4?Expires=1773435600&Signature=JLERobTgzmyAwW77k9HTdsqnAvZTLT9ZV8Awft9RdKnL0b7EiUBcun1n3DO-6jIjpIxYEtWDkwZiI5IWKmjJL8mHB95JoD~l-1yQaelyqEyP5aTQnDMWq~gtPsNQ8JfKgsDOJoKYoFn5wyQ0GYA51EGgrud5S0ZN~aYhDsh4XqtelQGHYUcYnlT2ZTkhOAqEliB8v~2cUBRV7yKE7-szPVqkfhTat-TRuOSjy5KPwBmS5Y1ZjLavYzax4Z0b4U03iHNLzo32oSL2KdP9urekZakomMmWZHWEAKVFIrwcGkAL0N4tmWPTvL-r6tpO4TO~TszYt3eFIX6AsQF1q5gbYQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps43 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/75/1x5/15x3/153x6/15361100014/593848157_1/593848157.1080p.wz.g264.mp4?Expires=1773435600&Signature=LDHdUTdqgSXBMOgak2GSs0GGV-IxC~up9AVgG2kGRx3pAMVYBLIoQ1jtrBjJXrZS-NGT~9Gcx-qLrBzL-9u~i2Gn6wh7JBTo6otGm1b6e0xMSM8dR8~7j0qwMYX0NXbD30Gp3mkCr0g-~46zKxqfOquiRb1RTx-K84xm-tdhrjC0qATZ1RDHotOqFbBtTKBuRBbRzy9T3G4bYIw0m~Wg4xhj7AQ~aUdyTG6uap2vS4IO-k8nGKJNfTw1XS14tYrs-WlbWwiSjLI~vSRDqV065Ax9davk5SeDk8-RMnsjOHMQfV3IhMV3kLkr2luQyrYZfWkCsvo3KcHPObhcr7rU7w__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps44 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/85/1x5/15x3/153x6/15361100014/593848158_1/593848158.1080p.wz.g264.mp4?Expires=1773432000&Signature=QAS1u3B8mvIvXdiY~jnKatgvGI3fgwnvLeMCMT2mXxDTvXg2-tn9IGF3w7afLgEB6yMhaqbOCWrD2Xze5VQRyUV1nxjPfs~~W-7-BsLXzhqHx9onMUXnx3fWP~XQdMVyN1sAhHN9-y31erHfQL3BkJKVXYEF-5h0UcA7k4NgzXxI2LnjzOaz-nWxuXkeXWheDIKxyJjhDk1L2NvLoI0LunqiqI-8wQWlGDUIYuNipD~iU2-YEMAI-ATXZ5HrKmDfY6B5c66LNFERMFOJS00L0tbM2hfWiaiJgQ0Ws8QxjJRbC8hvDEF9fzVZgHnjjp3qmtYMr6xpQieWT2Ossk5tkw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps45 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/95/1x5/15x3/153x6/15361100014/593848159_1/593848159.1080p.wz.g264.mp4?Expires=1773432000&Signature=pZ1oIoN37U7mbNfA~-oAJd397j6mZ3gAcDZMCPhwSnow2yKkjQe2PhRKb7MZNkiNp3S3htha9HGT8ixl~cMx4LPqj8m0L6m9YwAq-u-P8TpfINe9zsGiWCOaYJ6fugku8SPprGbYeYTzgHbxJXvz3JNftedHSQVk8dtksWFN7vOWuhnfxrIREGmtBzPpAg3Xt1I5h994xF7OtI2iPNtf1h9XPV26PFfJDlyKWHbnPn2bn1VleJt1PqMFWLCRpgaYpxZGENPu86Lfy1kvhYIiLX4O7FRyO~Sv~BvWSHFTVQbF4NR8pM8MmtsqtQecNxINiqxA6rqKE697fuD3QPTmqg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps46 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/06/1x5/15x3/153x6/15361100014/593848160_1/593848160.1080p.wz.g264.mp4?Expires=1773435600&Signature=YqyJdJuvTzD~FEHs19vqVwwCGpSvfbC7tBAckxmn7BIer2WVgBklWPJQU5xAO0ImXM-qgDboiRBBNr1ucrrd7jH8OoV0ofc9TUJqNyU0mqhOGP3kmS74D1RQvcqkrFzK-czh1r1l4t1WAyFSK8CSDuVABxeUl~mnHnJEu5eQaCtwXFzLly-3N~huL3rIR7Il2q529HTygy2rs5MkmSMk19sKU1a93gPllrO8jHxvAX2A6gatb0CdnMnZoCYFemS6J4bUYsRORyk2f0RIF-YLsS2tAd0ojYugPqSn6M1pYGHX8~UeF3GUXr0ugXBywNFHGLm94WtdmH-OcUvegl898A__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps47 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/16/1x5/15x3/153x6/15361100014/593848161_1/593848161.1080p.wz.g264.mp4?Expires=1773432000&Signature=bNg03jAp3e7nqX90bY52q2FEz~1zDpzjJiF10VYdQ3bAmdGNgewIfdzcvrt6ZsnsqGEmZ7sVs1IR-EXgbyv854Rzw5OjAp4ZqsnwTyh1y9okbffqeoXMh4EtE2rRm-KCRl2rMofMPalYKyqRNWBRGuy7wGAy2VX9Q8U2yy8yviqJ8aKGEhL9Lx425~TRrh5qnEd7yMejFRPpuD~VwYxRGtmMEDDfvjvuIkSO-EVCrfVlWRYmAJ~hSwq0GCAUsrSRNHTJGVfQW5S-g4qimQNG9cfnkEjUi8UWwTpUJ6wOnIUWy04Vavl1MXMvXOiNDAEKiaKo7lOV1pMzmYRbPO35eg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps48 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/26/1x5/15x3/153x6/15361100014/593848162_1/593848162.1080p.wz.g264.mp4?Expires=1773432000&Signature=XMfv8xp~mcmPdXCoa1wHoxpzrKSGjDnCctPSRCen4V6zSIXZ96X3b52DrUFbOylSeYaWtHC~w4hrrax3lTyIMZCa889lnPfddNllap0NmCwDV~AurZhE8cKPf32JIWBGe~FrEzEaeuQtWKI01L5O-JIL4o2rl8UYVGepiFx15JXbOG1iXns7Vw9afM5S17rqdcMnxerXyejTbqsXMVSqvWYDaeNCMVowkH2fzBb6jauZg0MkcH~ba9OEWO0vlNCOAch-Uu-f~LAUNfANk6pmOX8DYdJY4Uaiu~~xWOjJNiuUetS7HVqTm-RODny9lWaMeuSEP3Yr9OW--qzHPdzUAw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps49 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/36/1x5/15x3/153x6/15361100014/593848163_1/593848163.1080p.wz.g264.mp4?Expires=1773432000&Signature=a9F0uUEKT6HQjHR0YN30ADX5tmBx8QAmDIovyxhQA~TMt7Jd~5-Qvx80vHZEc0fvcP63umw6lt9SeUff5MsgJW9Wan93D2YjxW~T~s07N3spwONDl6G13e-jJun0M-YLsp~BGROm2WXNQqzkEy4FU-HqLmjV4n2IWnxSH4zitlGnf0Mf5-mBl1g46YsJZwCtAvjLM4VohAGeMm1eSrhJMRQkCELdsokWZOneIUel1jf9ZFEnRSrBQb8vc-tGofty-3UpP2p4GLt0Pl4pzfEJFeoQPkv1IbwjvDUsmVclOweygU3SUYAACd~Xjxhb70Q~EPzkODH4yzX85mBywGs4Sw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps50 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/46/1x5/15x3/153x6/15361100014/593848164_1/593848164.1080p.wz.g264.mp4?Expires=1773432000&Signature=aOsfL7Adkqsi5TVqAc2AQmUS6PDwB02oMM4RKTINyvCv4ZXyvfh0l9hHnK-R3umLoVFdugOAPVlG-PQT7Pt7CH2F1y49SphkJNHpx9Hmhsu2fsal35dpgO~B0zFUrnPswFIX3-hopCGfTJYRnLE3Xok4ONQ4FrcwkKeRD46dQ5RUYsU6bKPFC4uzIgCp5TFkyZnzhNlBbmGvG7t6MssPlLXsHYFIoAGQYE9sqfpfPv3MbWZdUWxYDHt9CX6ejmpdMqFpU4I4Rd-AIbtxBGv5N1OvtD8~hiZ83pLP~t3TX0vQ0s6glEgjPLnGbgG6XoeejHUSGTNTljsLQKLLbUgm~A__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps51 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/56/1x5/15x3/153x6/15361100014/593848165_1/593848165.1080p.wz.g264.mp4?Expires=1773435600&Signature=TPBv0Z0zr~nyahYoNSZEJOqzNwxQ3HxGWDbnwP4pi0o4uiUiX67tQ5UiNKGIAmWpENX0Rl1g4rxr4EXpiw9zYsfuKJnbGxfdROZ~gyg0xmBWl~x4R50nqvgXJpZ82Sn6NHLXzqOCqErfuldZ43lt4p5O6ZjRyQj2D7UWojimXesFKw7OOzsjF1wRxMGF9FNsisPSuPGVbij5ENAwyP4BKxYtyCsBY7dB0oPIIng1pvUoyfYnh3fBlwnuW0wYX6Zizd4YY8V7H4TcaLRmG6hD5j0oaJmelA-E0bD0QF65VSPYD8VYTsT0~9RhYa6xEqdGl3GlXy0pX9IZIoSETqQa1g__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps52 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/66/1x5/15x3/153x6/15361100014/593848166_1/593848166.1080p.wz.g264.mp4?Expires=1773432000&Signature=fJbXgMzwtOzrIUfuEMf3F~YrlRpFG~U5pAs-Hvm0Y817FyjILYj2KZdFQlJpsvQ~xIMoBQ8j3rNOrFcekLw-UPWkLjcygpivf6aQvHNpfzcZTba97Ct3diubxc2UllQvtW4F1Qfcq0Ca58yKSEMbfJ4JoWA4tJnnftVe2VondD-GdCwtl3LFw~rBlS7XHPDM3L64XNsyx2-kHorMyKtb0bH15ziyb~VNagiO2QQJWzGVoxwugUorpAHshT-bVWuKR0xcCmjktUr--uHELS0gj4txK5l6WhkjTNgJPMHwCT8sdkoptEHX-FPRMjRrmknDT9-C7dgUfG70cTDn4LjS2w__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps53 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/76/1x5/15x3/153x6/15361100014/593848167_1/593848167.1080p.wz.g264.mp4?Expires=1773432000&Signature=jtu-eKpoIvAJ2KHHOSRY92gc7F2vcV4CIbVlUojubnhIhf~o6emEoWzEl7ZN~N2mF3LLLuHGGpmaroLBsDq0~AWSGa0mF5phWqTjwgMqKVu0A20Wo6KAGc0uY7hfJD3eRTbi8IAN8l1J~BPWXLfmEvpqXSi0ZkkwCYsWFtrYITAKfBYTtBZ0euFsgknF~F5liOJ2xtop5DODEALIik9N6GnZs04I6XI1dI5CQM2lJVv8jnaODP0g926qRMT6rWrd5aMaEU6Rd0JEtnRKPOw-jJHYndWEYsMXZCFXWT25ekWBhO1H-ywESCBoiboKzcfajlHy2o9ZCz~RQQZV6siWcQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps54 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/86/1x5/15x3/153x6/15361100014/593848168_1/593848168.1080p.wz.g264.mp4?Expires=1773432000&Signature=jQy3Gc0N10FOAXDigbUOkJA6-1eODc8ldicr-SBPBjat3zUL-2gzthCI6Gjh~MLRej-hHb0Ct5xQFBOh-LL7FvcWskFxsHTrn4G4rF7B6jsofz2Ajbszp~8vg2-zWqq-frAS66zTA9GZ3O31BTUeT0IYsXtAeDlm20S8~q~av~Nfp~zdPl~iRNrAzOAUJRidny1v7OACkHL66Exk5jm4-jaN120ytYLmmuknjwwxx0zYVnSZokExbk7d6Ov~iolJEH1gMhncEvTmzAijTgP1s-YNiqW7bDDO9tOBSY-LpSKnEjoMoz~sYgQr2~tPsa9p8UUgSwi5TSCGoOMSqQuw1Q__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps55 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/96/1x5/15x3/153x6/15361100014/593848169_1/593848169.1080p.wz.g264.mp4?Expires=1773432000&Signature=VatrL-~oN~~azwvoZoqpCFmv~VUxu2hDBsiy6TEBg-XCvhFlb7pbG1E0uWBlOlsjI-t5rQeAhhelt95SVeGB10h~Y2XW72~UjYA6SvsxFED3FcTDNkccJ1PL1P0O8kgvnSz9rVBo95wV9XG6FHkoTUuvgfL4NL1qOec1cuF4EifMASIjNUKe7fzvHaiwTMPOhd~L8Xksv2W5SGCqI5eXXD6szWOomD6MnYHRLlLulTVuA7RjFhd8kikMXkt5Yme-45avs2-QKKbSMCue2Eot1KZk6LG3D8BW-woy8WRHHBzRp3xiZ~pZwfF3DHp7akSfjWCLUIUMRNbT8qPeqdbSLg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps56 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/07/1x5/15x3/153x6/15361100014/593848170_1/593848170.1080p.wz.g264.mp4?Expires=1773435600&Signature=T4lkzFG~UDGkL5VbEhKiFvieYrjv1O1EuZBRC3wxCqKGZ66A2BST4SrPTl5r1-zG0ilFZFaIjD~iRJBTMLxpWt-19a5aJjdqkfcvMRH5IAGMj4L~xrzRci8n5kZfSLIuY4XWQA~~MlIdE4-Rv9hSGEfWUXX3hUYn4tkttAqwwbdaoS82nSEYFlznyjXBFJ6og7tW1NxX7hP0OCqTUrIp6p0895cs15sS3v7jD0rCCThekOMDohjeV00a-lJiMzOF3cz~BvxLZ7b2ma2t2ze9XKgx~rKodqIBfZoSe25kxBpbqwb2LDJuN3~bsU6DKrvw1XRkdJ0fwrl5Xwg8llFPZA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps57 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/17/1x5/15x3/153x6/15361100014/593848171_1/593848171.1080p.wz.g264.mp4?Expires=1773432000&Signature=rHWxuNRGsPQMwC4XiuiLItg1daPakEyClV72coVztGzuWt5iv7rI4vTAywSyvnWuokmohO40y8pTV7YTb~Fl2M0DRGVlnTGfW8-xieItVtl1yucZKs3j1kF5weyG0BTIuq3ZM92-bmTAPrtzUqtwqxc1xK98SETS9wVSQkdlNNy3NgfCU5-K8YyZEwknUhtAJGyDy7PijcoPSyp7eI6KSwoJp3-VKMfog5IrWhP3pxNSGw43Ld~ySJx8f3iS7gi7mKYXTi4swXD21wEafd0yGvmEwQ~D2MyvWX1yFFEbFG9c4Z499TvTVzIwaB-Okm687Ffh5ciU9jvGggmGftizuw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps58 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/27/1x5/15x3/153x6/15361100014/593848172_1/593848172.1080p.wz.g264.mp4?Expires=1773432000&Signature=luMo9laDkM8Cn6AT-hdGSyIusWqep33QVdDwIzZ7Zle3Pjo8zlfoMC~BDUMBJ5k2g19EOSCFF50dh34lmrU6DUvGjRgzJ0wLucCAsmV7YqPySQ5Yo7Nl13EXUa2jy3a4~lU1wCCLocgOg1P2GGygt5izxX2tSI5mSFO6n7Ipdcq-wyZ-jdOYUgnXaZyV9BCYgLB6IrxHV378j5KHcJOeiNH7UEn2rkUEycpeb7189IIf4PFJZUqzbOJKMXXvLAwsGPeqwRnbk-h6Dj8pQ-B4a-sYX9jtC~5WlmDutWYgjYAl5y98IxkOVCl6g~~Yw6juYB6SYF38f46d7FgzXXluQA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps59 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/37/1x5/15x3/153x6/15361100014/593848173_1/593848173.1080p.wz.g264.mp4?Expires=1773432000&Signature=AX5GvHqhxn67IqwNi0JMU3fNfSIHpYVHOVgRLEnEEFMK15X6FQ~TxHwhoHNxUSL6XBQALGLg70gkxbaJhXs5mPCGSusFw0zI64Tpms4423knxUucaHEC~osr1rNshAaNlPY5zACp-up5XXc8C5SS1Gj3ujsoys~BkUtFHWd~FLMxKYrSOiuFcj22oG2uupHwyiM5NLE96EMJlh2HJDumdpO5ZTz2pNPtoP9uVOKr-s2JKVpEjZeToZjghr1rOOfLv2Bs~hUR0TunABzpDq4tZXgbgy2OEgZh2laKFIuq2oUG5uwL8Saa9DispvUDpdQoRWRSezx5Abj7hQBpV1W0xA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps60 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/47/1x5/15x3/153x6/15361100014/593848174_1/593848174.1080p.wz.g264.mp4?Expires=1773432000&Signature=KUc5DSd9hx6b2mT9xgRUww33SaNka5-pQr7yI2IcRG0tS~hMl9cjnfu3OeVJUjv9HESA1fWe4Euetc9~1dN8AG0JS43nCyEV0KIK6kfMjwxTW0Bka1pW29KctT6adaAj-m4NUruOWhq~AoM273HDNj66c6HY-Wu1TBP5H33sRzPiO0V2IhBRisWaPc7E7xtjmOedn2eGwb1v3MHLDcQ-GNNpWkb3TJvOGTkPN5MqT3XRK2jvsnekp5c0cpwNnNAmA1fXhwVOidSpkAuZMUTVWtKBtIWColSgJR3SK~KNAa3w8rXPAW~erp4bSWwCEkPV-ijNnVU-Qvl2hBnW4FcZyg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps61 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/57/1x5/15x3/153x6/15361100014/593848175_1/593848175.1080p.wz.g264.mp4?Expires=1773435600&Signature=e~FkuwSsjBVB5aWqTcT3GxsKyFSRPIOsL-EHtHolF4XL17LHUT7irulzKToBuyQKpSUErx2MTnop-njQcFCMi-lxB58PYk0h7EHUXWee3CbUJA6LmY5BRuoJfA5ui0D4YrXax9b~gJ0TmninUfjdgVjg8jL-gybbMo3occlAx~Jv0bQRQbavZXqgOqe74SF1AfwhutyMqrSxJF-ZZGVlGYOGQ-YbVjjH56t8XkhoH9mIx~KlPchNglZFcGsJZfX7blUkJlclAMWkkhH8oCHN--YXqXRaYluMbsFrJ1IbVA4Rv1JPHbxYVikkPXaA4~oT3~yBlrrU1GNuNIJ4z3-Z2A__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps62 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/67/1x5/15x3/153x6/15361100014/593848176_1/593848176.1080p.wz.g264.mp4?Expires=1773435600&Signature=bLfzowhYSP4QbEPR14corbvIG63wgzF9bvBPol51T9qISl4BUzIM-QDkcGT~jQ2VuWRsCO48Gfyc47hv3ZWxT8HJbsBqQhujkwIctUFMYiSzIFIIKpG4KyfhkU4XGIE8Kwrjl3ocxTaBBguOO17Iij2pEYca0~4zcjuYvbviljgqH~4~ouKiXr0wqKnKhKw0rkpuBP3dXXalCF2ApQ1xiCoJLfVSIDuyeTChkP02jwfFC-Au6zPL7N0FBjBeL3ZPJTkqInr36kvaGYcQd1e3ScESqsbychdI~1laUgsmdhv4vkiYBhqh8YE7EwVA9YUcuvPJJGs0fTcF4fKtrjij7g__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps63 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/77/1x5/15x3/153x6/15361100014/593848177_1/593848177.1080p.wz.g264.mp4?Expires=1773432000&Signature=Pp535qWkZzoOSlp8ELGMd3Onr8VJj6XuSvoOli~x~SBOwtZWa5vfj-5pcm-yqkd1s~zKsyoA9gcZLUibRo5xLgJUUKNlUalsz9ZD6icyXFOghyhNMdDGFSjwQjpvbIbldsI2x5tIi8djTv07vIopCfDI7CMJmsKNXp-j3aOUIsRJNgUEdOOWrLP5SOq5Xij7zOPELIf2w6XP0pzc2wFLFkwuQS9HJo3RjjZq65rVZqJU9aYRiwn0PO~7Ut3DxJ2KeY552~yTdhZrwmypn1R2EieRTzrzeCM9EH34AQ4Taff8vRdRJVPi-XDTE6LoY3sXUfRh429iyKFeB6r5V7h-Hw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps64 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/87/1x5/15x3/153x6/15361100014/593848178_1/593848178.1080p.wz.g264.mp4?Expires=1773432000&Signature=OrYd4DZXIggYiPMFTwbhUXT3z-Aj0Y5iyVyQ2T63HJaF2gpnRliM45ug1cjtFNSvOmOCSrkWwlO~bOWQSNgiqTe47F-voD-IIcRdHH4TltBEG96nQ7zrQ0-XxNLswXH6vkRSnbBSRfrSN9E0Bp685fMcQCIDbQXcAmXi8mssQGkiyr5KEW3uz28~L3EOOeCVGkSLRJf3~5mzCxKxcYdud0lSXnd5HP8A3u5d-~a1Gv3UNLYevFYrF4fwPmHgGOotOLXQ62LaWvV~29~IGMdgK7MPwPZIZo8Kh8yAtp7N3u9s4PUKcxqarJV2h~0eKVHZ6TPYxZDahmE7hX9diUluyg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps65 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/97/1x5/15x3/153x6/15361100014/593848179_1/593848179.1080p.wz.g264.mp4?Expires=1773432000&Signature=aAsbrzPi4KZlOcCeCK-~cPu7NNFYWH~4lSw--TCr2TCTl3L4X9kYRgiJbNOkkdJ37JsP3pkHs7tknzQ7yJdOFfypyY6u0Gx~BWm-PRhiQYxYXZF0uY8ODq2OJv~B6e7psrYDJ5ISR6KOtODOJUh63M-ZgkA1GeFlxFssmqWPQZE4Mp326gF0c6YsckFzRV9d2dkjRk9fq9mcynT34JggccpvdyAmht~JSvJFsxyK03tDY7agufiuUNTXaCOnXYsZ8lQkh6wyt5YMUR1o93InRUaM-tNEkO3nKJtScL3I1zFiZHzJbnMJTsQoOFWa4RgkJJsPZu~1Z6zLq-6ByVXCtQ__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps66 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/08/1x5/15x3/153x6/15361100014/593848180_1/593848180.1080p.wz.g264.mp4?Expires=1773435600&Signature=SZW2RIvjNKQFxEZfg6JeUV9LOlSB7qDaYZrZp25QkU6ClJZ-shgbFsGlcxwoRCZ1JtCZVBeAuWoFFs7GrF9ojV57Uwce~n1U0wlAYUAHksMxEvVk9ZgSjzTPAqlOxABXPK~yN~U~teGhTkEz5LMoQEaj-2bwWYgWcZCJ5KRAUamcyLTk19vJ5Be-93bvA9TKG4N9UkER5GG8Y7pK935f5ReYJtI34VGU5dUAD0HK7FxXGfXIEZx32zCnHN8-n5kQH4m3iToADuz9EmJ7IXxG3OVKzQp9IN0tHgjcL4ZOrLzNmYKxyRNIrF756o2~-XvCanFpoCJxXQxSt5jX7fEvig__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps67 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/18/1x5/15x3/153x6/15361100014/593848181_1/593848181.1080p.wz.g264.mp4?Expires=1773432000&Signature=JyFtYgXGcayl9uKRY6Bbr9JuzP0W~9ddKj-Rj9t6jKWcn9ScTgkAFZqMCU9Lpe~kW7a1gbPwYpBSOv5anfuWmTmUZUpIv33Y7yLr7f7oNV7ElFcRg99kimveNqxTm5Bp6-9qj8IUjA7Q1VJnQgdjr9Ftbvj~dVFcYNYXarXlbtZ~3fgK36UKJa~HCCohTsLPvFkjrHjgvrjRBFJ87JjtWpXokTNSUeMI3kdVP~fj4tijEqLqF7DJKysAHbH6PTY-00A5j0Z2wzmpGzWkmKBA-ReYP-N4JCLm8SiweZz7ZImVy7aB68MgcqnGa62CUahSszQa38I63J-sguKN~oUGbA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps68 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/28/1x5/15x3/153x6/15361100014/593848182_1/593848182.1080p.wz.g264.mp4?Expires=1773432000&Signature=l~VWPCcmqTYX2kaVEf69LMKIAVGaiM6KtFOttKccEj6LBRKT9663N-TxN9yMfHF~~jloe~ecmsBk4DzO8aobTC3w66uD6lb9i7QIJBce6gOjhyGGbqFdsucqrEbd3QEqR9OEWzVSzRiuw09pCEOd0Kj8J65VCcLMPb055JTYVFtSNZ0jGb6QVSam5jHRkkQSY5iqvLH21IiKAOzqRZPqKbQhH-6f30APgsadTOh02v6hB64dvjiTPB~Xb1kegDy3oae0s8OkOWaMAbNA6VfHvs4te4bXl5gF7DQ1B7Brncy-mDZMMwEi8XhKXK0A0xntRQxa7fT0W-o7-8ZH~eT4ZA__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps69 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/38/1x5/15x3/153x6/15361100014/593848183_1/593848183.1080p.wz.g264.mp4?Expires=1773432000&Signature=g9RBBzbRTm63jocYYJNsPiKw5SnzeMxm10qbRn63gaBSnoGinC0pf7HItbEpIyXxa39k3X9Owbp8P3g02d0BtgRdfCoN1V3hk9Uv2d0qDifF4tGGMZJ8sR0l7MdKsI8UDZuI7RdM7eqC0XpIdr8eqevVub7EThkHU~yfcvy00PIuv2TRzoMYIC8QV0~4ZRc4jJbByskaBWqUPWnxdL1sXRGJzSso~tOQfmUmCi5nixw2p6p4fxhDUhJ-08GraBHW-g0seYqmnCY-votJHm3fzBEQHlcR5Pir~HJsI-IU-IqYXcB7wqzAFEzWrLDL1j5dXZ39V6kEeTERmbqSXuMbjw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps70 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/48/1x5/15x3/153x6/15361100014/593848184_1/593848184.1080p.wz.g264.mp4?Expires=1773435600&Signature=DCyA7phNmCq~~A1-heZdbCpOXCSjTLWFqbnv8BAUIjeuJuBLIWEAa0nqSipJL4MILmIVQGq~7baDeNwA5urwxFUEsVHqAjg2hKKTxMmWz5er8Tt0ttKzfU4ApYISPoeCDACMgaGWr~RpV63pZbbPqrqQ1q5eaGNHtQBY8NF8A0znrumJOYxUO5XVkJm~4gu4m3F86SKXdtZ6msuZDChggrrrsHrwMoFlJzf2b91OLYUMansvplK6XDWMjkSKzA4q62cgVz6IP7wiEshjaIoJpzyEr~ZHEaplzZDwt9cVBYQq56I2WerO2RKcoSdzbqUBlnvpGrsq7KCQ44vkSvkerw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps71 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/58/1x5/15x3/153x6/15361100014/593848185_1/593848185.1080p.wz.g264.mp4?Expires=1773435600&Signature=Ea5y5PrWC~1fybHr-NsGzGhATfGFCWAC2avZpnMd-qbigertduaY1yYuccKIopyztNaTOx5HZXbdZSqiu-7u9NfZ5ce-JO8K32GV5nLCyqOtop0aLOahjUzoFJRbHTezaC6z5~vEYgzZVBZTeCFqwsBtyHHkvNpV-CvuFH1PtkTjXHp7T70Kq1W3V565~wywOmZcJ9fA0YODgP56YiMT7PYKVEnvJdykshOOhsgbAm~JXXBrKJTeNK2Ltq9qCfg9vPuDuZQv6lpXXE0pN8nHNLuLwcos0WOaJ59uNloeR5bVfpjazZfaJdiBycODGo8BV1DCkc8NDeeVvMolueZf7Q__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps72 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/68/1x5/15x3/153x6/15361100014/593848186_1/593848186.1080p.wz.g264.mp4?Expires=1773432000&Signature=hbGmXV0VEHueUXzIWFX~jgLpwwOLLmKVYi4RWAsog6hM6GHUeZtBA6BJ8Fr7o5JB7Y39N4Fh2kXhFxG-QXg4bNgA-K4KEM78f5~mFfY7cbvqjEOboPrtsQHUNHhEo~cNl6WMPH6KY-4SEHF7XOIfudo7AscCilFzEXrIuvlfFvxn883IY11WXNf3A~~KnPILnXzThawGx1gfbLbMpqBD~6wHRGzx5rTi7rUe5biEBJAcREvu4Ia6KK81JM6JGn1U4St58rn-h1MQWEkwWNk6ZmDyiKj2ALcJky4-6h2xWFKjlxV-EWCZq-Clq3I0f2v8MZJbqJx0KQQ5D5kR9KNcQg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps73 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/78/1x5/15x3/153x6/15361100014/593848187_1/593848187.1080p.wz.g264.mp4?Expires=1773432000&Signature=dQZ6i~idDfRZAMbQ2IpwNvw7~-ljg0yNFXCKk~cn1AWJgOKqlvf7137BjEgB9USCHINJTFIORbhbh5qEWzZo1cuOYj9vCex5-MPJukcBgqBTk5YBIWIdVRQ~q1XKLifxSmwary-61zG1pdelabYF~fc5kofDi5IskNueu7Y5DU73n7pUicy~NOOm5mVWZaBW3M2kINrXmiGDtrS6~WQ48gH34uBeOLlNdH0Xsvlh6flOD1bDHgWP~e9Ji8kyCVJlCbqXxsykOwoIYPr3CXzFg1siuYkyHkHOiUHqJaobteliuw~be5Xv56mtU9Ew6iP-ddHqrD6Wh-imlhfzOIHw5Q__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps74 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/88/1x5/15x3/153x6/15361100014/593848188_1/593848188.1080p.wz.g264.mp4?Expires=1773432000&Signature=qSEoOId-n7YPvVXCDNK5jBZA-mdjrQoT3ShVb11pLBanjdwsMKJMz0uphbrKrJydz6UsorDBL8ZchuA605Qn40CupYA5SOnQfWUgyHchr69-VJIiCVmI9iPLp7q2w5jvx5TaQtBpNX85-X3qDTG~BGhjlmvX7hK2QtljgUfLXIjLzjiZ-FaHV0hnCj-FIUSSGysH14mYKYPrInyZo0mRA8PJrl5hcLeKmhLcuW2NDln-CIn5p85~hjDOl1a~CGvrjy2lxOfoBuqvPzUNhCZxj6lNjSlSjNBWaKvGdqKAuftU65ZXMzZ8fjiSHiBm4wq3hBjkF~jTkGEflk-iOKeYrw__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Raja Kecurangan (Sulih Suara)",Raja Kecurangan (Sulih Suara) - eps75 [05:00:05 WIB]
-https://hwztvideo.dramaboxdb.com/98/1x5/15x3/153x6/15361100014/593848189_1/593848189.1080p.wz.g264.mp4?Expires=1773432000&Signature=q8OLK8NhhnOYvtsPrvx7tqbwDFLyVJB-41dq0RT2bwjZxxw31Vu5jyGw5R2zgHAcWHxgr1xLn60ybIZs204isVxo65XRu3g3PVVe428GPW6pOZu-KK~4P5~GC1rOj0xrVDTEhOuojympSnBP5UUcFVsuvFI8s6QMnp1ghxfxCvXNO-nVrGIe-uSrbHRq4wFbCUELMPGonIr16t~gyXMsm896aPB4-kNAcNFJfDr99tveco3o0FhPvixuk4OdNHlS5GUZ6Xp2Enke46kS3yEc8s~tAhokfOzCPAFzOY~K1kUZIPgSe3IR8D3v52acrQcTOKd6DS6YfCxdJLneRc1kzg__&Key-Pair-Id=K3HA2TLE2QH99V
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps1 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/5f5a1a21afece74aad235f3aa4932def/69b47ad0/21/7x4/74x8/748x3/74830100014/573483712_1/573483712.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps2 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/c7f5bb791bf174ea01417a9d39274658/69b47ad0/31/7x4/74x8/748x3/74830100014/573483713_1/573483713.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps3 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/5857cf5c0112fe9d1163c49b5aeab8a4/69b47ad0/41/7x4/74x8/748x3/74830100014/573483714_1/573483714.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps4 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/8b2d3b3f0064e77e4dafc79e47919170/69b47ad0/51/7x4/74x8/748x3/74830100014/573483715_1/573483715.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps5 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/79a0649bac7700dd3dc93d08c50e4849/69b47ad0/61/7x4/74x8/748x3/74830100014/573483716_1/573483716.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps6 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/195b648c685b6626a63c3dfdd1b58a31/69b47ad0/71/7x4/74x8/748x3/74830100014/573483717_1/573483717.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps7 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/bd5b33611936da2963bc49030d804b30/69b47ad0/81/7x4/74x8/748x3/74830100014/573483718_1/573483718.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps8 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/52069103ceec8bec18a97ced98dc9c3e/69b47ad0/91/7x4/74x8/748x3/74830100014/573483719_1/573483719.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps9 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/872879f11e71d088545584027dbeccc2/69b47ad0/02/7x4/74x8/748x3/74830100014/573483720_1/573483720.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps10 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/42ea47f6d6198a7b8cb45a9a6bad0184/69b47ad0/12/7x4/74x8/748x3/74830100014/573483721_1/573483721.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps11 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/7fb2cbfdcb121be634b21372bf00fe99/69b47ad0/22/7x4/74x8/748x3/74830100014/573483722_1/573483722.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps12 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/df0d13c8ed08fb46e2b10c8fab694477/69b47ad0/32/7x4/74x8/748x3/74830100014/573483723_1/573483723.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps13 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/a5fd72b4076b8efd077f738ec30d6234/69b47ad0/42/7x4/74x8/748x3/74830100014/573483724_1/573483724.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps14 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/0ddf4905d29885a26d1df522bfe38733/69b47ad0/52/7x4/74x8/748x3/74830100014/573483725_1/573483725.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps15 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/4d787c10a3991a9a25b5b0a42a7d4a48/69b47ad0/62/7x4/74x8/748x3/74830100014/573483726_1/573483726.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps16 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/5177b16833115cb09eb73c96e0031ae1/69b47ad0/72/7x4/74x8/748x3/74830100014/573483727_1/573483727.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps17 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/86961b7cb18796ad8377cc8920e0a544/69b47ad0/82/7x4/74x8/748x3/74830100014/573483728_1/573483728.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps18 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/a57d888c8d426919dff12c0e6e0b716e/69b47ad0/92/7x4/74x8/748x3/74830100014/573483729_1/573483729.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps19 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/44b4f4a26809f7209c5280796726da93/69b47ad0/03/7x4/74x8/748x3/74830100014/573483730_1/573483730.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps20 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/8c09acb08fd748ed7e89e06b21d3019b/69b47ad0/13/7x4/74x8/748x3/74830100014/573483731_1/573483731.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps21 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/8c66338b57d76f384089ffacdcdbf090/69b47ad0/23/7x4/74x8/748x3/74830100014/573483732_1/573483732.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps22 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/00ffc47dfe92ed3d4d22101310892c38/69b47ad0/33/7x4/74x8/748x3/74830100014/573483733_1/573483733.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps23 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/bb7e2d012a6ebe3114ec0527d1af94e8/69b47ad0/43/7x4/74x8/748x3/74830100014/573483734_1/573483734.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps24 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/492e69be9c4537c8de551bed2e1bf4ac/69b47ad0/53/7x4/74x8/748x3/74830100014/573483735_1/573483735.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps25 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/e2844147214129627a4cce986a5b54d8/69b47ad0/63/7x4/74x8/748x3/74830100014/573483736_1/573483736.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps26 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/82bf4dc94bd0be199a72565d642d0534/69b47ad0/73/7x4/74x8/748x3/74830100014/573483737_1/573483737.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps27 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/72b8fc1ca693b8b834e0d7a4b82d3f08/69b47ad0/83/7x4/74x8/748x3/74830100014/573483738_1/573483738.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps28 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/a63748cd1c999f203bafbc48e26efe59/69b47ad0/93/7x4/74x8/748x3/74830100014/573483739_1/573483739.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps29 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/21a0c2f4adcd2f2bc5cedb31b3a3de31/69b47ad0/04/7x4/74x8/748x3/74830100014/573483740_1/573483740.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps30 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/d44111908853cad8e3d8fc7dbd61643d/69b47ad0/14/7x4/74x8/748x3/74830100014/573483741_1/573483741.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps31 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/85fcd514b937706b366ed220082f7d44/69b47ad0/24/7x4/74x8/748x3/74830100014/573483742_1/573483742.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps32 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/7445f4e88b039ee92ec708a31b2118ab/69b47ad0/34/7x4/74x8/748x3/74830100014/573483743_1/573483743.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps33 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/c574e8a3b0d2c81d1ec05149a742b14a/69b47ad0/44/7x4/74x8/748x3/74830100014/573483744_1/573483744.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps34 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/9dfa137996c86a2b29fe482fc6dc258f/69b47ad0/54/7x4/74x8/748x3/74830100014/573483745_1/573483745.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps35 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/9d3be87350be2a461f01b61613614d2d/69b47ad0/64/7x4/74x8/748x3/74830100014/573483746_1/573483746.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps36 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/b19f5fa0e4f0537da7176749eb591882/69b47ad0/74/7x4/74x8/748x3/74830100014/573483747_1/573483747.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps37 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/1a81c18980b4c006c802f47014a89986/69b47ad0/84/7x4/74x8/748x3/74830100014/573483748_1/573483748.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps38 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/d10a16b2f2ef0da78abe5c41456958a3/69b47ad0/94/7x4/74x8/748x3/74830100014/573483749_1/573483749.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps39 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/f174f0948db818c5048208e53f36214c/69b47ad0/05/7x4/74x8/748x3/74830100014/573483750_1/573483750.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps40 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/0dac48dabbab00677ccac781b6db8304/69b47ad0/15/7x4/74x8/748x3/74830100014/573483751_1/573483751.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps41 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/f4f4a2ff04ba39e65dbc51a36599ed33/69b47ad0/25/7x4/74x8/748x3/74830100014/573483752_1/573483752.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps42 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/de1bbd3bb6608a7930ce14a66a19c1f7/69b47ad0/35/7x4/74x8/748x3/74830100014/573483753_1/573483753.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps43 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/c358268edef0e766f43ee7d81107450e/69b47ad0/45/7x4/74x8/748x3/74830100014/573483754_1/573483754.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps44 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/5ae6303ea4757e6ab35e17064f02daa8/69b47ad0/55/7x4/74x8/748x3/74830100014/573483755_1/573483755.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps45 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/c05a79784386032c375f646346e23d7e/69b47ad0/65/7x4/74x8/748x3/74830100014/573483756_1/573483756.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps46 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/eb7b2ee9d86991ffafa83ffa17362337/69b47ad0/75/7x4/74x8/748x3/74830100014/573483757_1/573483757.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps47 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/e39531e3a0d84fd2c23c818d5085f25b/69b47ad0/85/7x4/74x8/748x3/74830100014/573483758_1/573483758.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps48 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/5b4b2bd3e848e58caace9651c595d8ae/69b47ad0/95/7x4/74x8/748x3/74830100014/573483759_1/573483759.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps49 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/b58606830285823bda8ba03e86a0ebd5/69b47ad0/06/7x4/74x8/748x3/74830100014/573483760_1/573483760.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps50 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/b0f4bf80cdee1e6c1e668af7bc3fa4a2/69b47ad0/16/7x4/74x8/748x3/74830100014/573483761_1/573483761.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps51 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/cfa227ee78975a0603daf67ed50f58af/69b47ad0/26/7x4/74x8/748x3/74830100014/573483762_1/573483762.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps52 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/eaf3920f3c50d6c8a5adcf311fd6bac4/69b47ad0/36/7x4/74x8/748x3/74830100014/573483763_1/573483763.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps53 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/22f6522d3778e8264dc666c05cdca554/69b47ad0/46/7x4/74x8/748x3/74830100014/573483764_1/573483764.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps54 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/fdb596490af0fa57d590b24b0ce68d7d/69b47ad0/56/7x4/74x8/748x3/74830100014/573483765_1/573483765.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps55 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/6ca813336f3a9b519da9f8205fed769e/69b47ad0/66/7x4/74x8/748x3/74830100014/573483766_1/573483766.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps56 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/5a8ca516f2a7f57f2d813685c6844f7c/69b47ad0/76/7x4/74x8/748x3/74830100014/573483767_1/573483767.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps57 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/7d566646c479e7f53eda01400890de5f/69b47ad0/86/7x4/74x8/748x3/74830100014/573483768_1/573483768.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps58 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/295c06bd258d2c4daa5e491c18a95faa/69b47ad0/96/7x4/74x8/748x3/74830100014/573483769_1/573483769.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps59 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/65c1048074143d5f21194eb619e17a1f/69b47ad0/07/7x4/74x8/748x3/74830100014/573483770_1/573483770.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps60 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/23ffd3e44b0564f4bbbb55e2646f02ba/69b47ad0/17/7x4/74x8/748x3/74830100014/573483771_1/573483771.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps61 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/a6befee99fd828656a65aadb5a3f586c/69b47ad0/27/7x4/74x8/748x3/74830100014/573483772_1/573483772.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps62 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/55d69a0670effc20eb098b001d0af626/69b47ad0/37/7x4/74x8/748x3/74830100014/573483773_1/573483773.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps63 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/8d988b81372e5d995be46ce9ed59ace6/69b47ad0/47/7x4/74x8/748x3/74830100014/573483774_1/573483774.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps64 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/0b8c66c941b5c4c7781fe8f20983a78f/69b47ad0/57/7x4/74x8/748x3/74830100014/573483775_1/573483775.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps65 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/7f28eb1b4e5918d47be24abf87a6ffdf/69b47ad0/67/7x4/74x8/748x3/74830100014/573483776_1/573483776.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps66 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/d18cc8c150315518459a4b459b83b644/69b47ad0/77/7x4/74x8/748x3/74830100014/573483777_1/573483777.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps67 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/ff579f19c2c4a4e7bc402fe96f08ef50/69b47ad0/87/7x4/74x8/748x3/74830100014/573483778_1/573483778.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps68 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/60379ffbb3eb9cf9dcdc85c9cf170880/69b47ad0/97/7x4/74x8/748x3/74830100014/573483779_1/573483779.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps69 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/e31f10942498138aef793d58589ef31d/69b47ad0/08/7x4/74x8/748x3/74830100014/573483780_1/573483780.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps70 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/deb1030e01e46f9c2bd6f1eb684c3bf2/69b47ad0/18/7x4/74x8/748x3/74830100014/573483781_1/573483781.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps71 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/c5383859fb59686a61672f90505b651b/69b47ad0/28/7x4/74x8/748x3/74830100014/573483782_1/573483782.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps72 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/b11dd55cd2a1e0250575598ad9423190/69b47ad0/38/7x4/74x8/748x3/74830100014/573483783_1/573483783.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps73 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/488f12ca67176ef7d45e409427570217/69b47ad0/48/7x4/74x8/748x3/74830100014/573483784_1/573483784.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps74 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/d417d45ece0337738a3c3cf6142f00df/69b47ad0/58/7x4/74x8/748x3/74830100014/573483785_1/573483785.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps75 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/35f5988535266a80e6ecd3988b13138b/69b47ad0/68/7x4/74x8/748x3/74830100014/573483786_1/573483786.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps76 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/12feba4f3b093ea140240fa31d027783/69b47ad0/78/7x4/74x8/748x3/74830100014/573483787_1/573483787.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps77 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/3026422fb3e4c5c81aa848336d5a3edf/69b47ad0/88/7x4/74x8/748x3/74830100014/573483788_1/573483788.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps78 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/dae2ff502cfca6ac4ad5790a71d7454c/69b47ad0/98/7x4/74x8/748x3/74830100014/573483789_1/573483789.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps79 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/f6598401e72d7c1e649cc1391cd500d9/69b47ad0/09/7x4/74x8/748x3/74830100014/573483790_1/573483790.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps80 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/1005082d154d50f06aca7fec3f6f79f6/69b47ad0/19/7x4/74x8/748x3/74830100014/573483791_1/573483791.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps81 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/d3e36dcba7449fd99440037da8f3969a/69b47ad0/29/7x4/74x8/748x3/74830100014/573483792_1/573483792.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps82 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/69bab6d44940534689d302f2b6c995d5/69b47ad0/39/7x4/74x8/748x3/74830100014/573483793_1/573483793.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps83 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/0dd77c56888772e2557772d0c0b52e01/69b47ad0/49/7x4/74x8/748x3/74830100014/573483794_1/573483794.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps84 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/6c25d2643950886fa6b30488fc30274c/69b47ad0/59/7x4/74x8/748x3/74830100014/573483795_1/573483795.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps85 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/102a718adcbfabb5d5cfc06529fa53c1/69b47ad0/69/7x4/74x8/748x3/74830100014/573483796_1/573483796.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps86 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/437b160b60943fb1535774d0fa2fdabe/69b47ad0/79/7x4/74x8/748x3/74830100014/573483797_1/573483797.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps87 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/19433c24f8dccb82b7b2e41bef12d79d/69b47ad0/89/7x4/74x8/748x3/74830100014/573483798_1/573483798.1080p.nav2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Pengembara Pulang ke Rumah",Pengembara Pulang ke Rumah - eps88 [05:00:10 WIB]
-https://hwztakavideo.dramaboxdb.com/30e1a81e69d74a72f3be0e8677d7c937/69b47ad0/99/7x4/74x8/748x3/74830100014/573483799_1/573483799.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps1 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/6515e27c336952e66b3853b7ae0c7eb5/69b488e0/21/1x5/15x6/156x0/15600000024/700041512_1/700041512.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps2 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/d1832003ae0f4b6e59e2a0bfe41204ab/69b488e0/31/1x5/15x6/156x0/15600000024/700041513_1/700041513.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps3 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/f47b44e656c5bccc72f51b6fd3304973/69b488e0/41/1x5/15x6/156x0/15600000024/700041514_1/700041514.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps4 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/1141debf35a22398c581b7c9e7c31c5f/69b488e0/51/1x5/15x6/156x0/15600000024/700041515_1/700041515.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps5 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/322198192623dc91ee01b7bec43efa33/69b488e0/61/1x5/15x6/156x0/15600000024/700041516_1/700041516.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps6 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/9f7ad84bf42328dfeb2513ccfca7061e/69b488e0/71/1x5/15x6/156x0/15600000024/700041517_1/700041517.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps7 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/92fd649808be0a273411f1132c59a684/69b488e0/81/1x5/15x6/156x0/15600000024/700041518_1/700041518.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps8 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/29e4b1c87634ee2807cddedd7fffc12b/69b488e0/91/1x5/15x6/156x0/15600000024/700041519_1/700041519.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps9 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/47922e0662aaad27010e91d36011ec46/69b488e0/02/1x5/15x6/156x0/15600000024/700041520_1/700041520.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps10 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/abd247e834559a79097371a0c881eae3/69b488e0/12/1x5/15x6/156x0/15600000024/700041521_1/700041521.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps11 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/ee07478eea2fef56e5f977326523bead/69b488e0/22/1x5/15x6/156x0/15600000024/700041522_1/700041522.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps12 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/1eb36b0acea01dc20c65702bebe503ac/69b488e0/32/1x5/15x6/156x0/15600000024/700041523_1/700041523.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps13 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/c4f664d1f79c378e167a9ac4d4d53801/69b488e0/42/1x5/15x6/156x0/15600000024/700041524_1/700041524.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps14 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/be9cb746f30e598a0ad483fb8d1d613d/69b488e0/52/1x5/15x6/156x0/15600000024/700041525_1/700041525.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps15 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/fe8fdf42f11d2e233b692aadf44554db/69b488e0/62/1x5/15x6/156x0/15600000024/700041526_1/700041526.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps16 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/d8b37dbb54dbc5c498e317e13530592b/69b488e0/72/1x5/15x6/156x0/15600000024/700041527_1/700041527.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps17 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/4040fad816be7bc4cc9242bfe153dda4/69b488e0/82/1x5/15x6/156x0/15600000024/700041528_1/700041528.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps18 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/ae5b7bdc503d0e70909bfc3e1ef0f8e8/69b488e0/92/1x5/15x6/156x0/15600000024/700041529_1/700041529.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps19 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/ece170f1d370acd6332957a17741260c/69b488e0/03/1x5/15x6/156x0/15600000024/700041530_1/700041530.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps20 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/f55a9c141b479ce8d94bfdc44668d29f/69b488e0/13/1x5/15x6/156x0/15600000024/700041531_1/700041531.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps21 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/1f643b3bbdc647668700470417419117/69b488e0/23/1x5/15x6/156x0/15600000024/700041532_1/700041532.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps22 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/4200c582fa51f688c7b7fc07f4bcdc18/69b488e0/33/1x5/15x6/156x0/15600000024/700041533_1/700041533.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps23 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/ed89854570d4e9655540a981d5ea71eb/69b488e0/43/1x5/15x6/156x0/15600000024/700041534_1/700041534.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps24 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/9c21accdad068c6ddd528f64d149ad4f/69b488e0/53/1x5/15x6/156x0/15600000024/700041535_1/700041535.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps25 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/c00b064fcbc342762a09195642a058d3/69b488e0/63/1x5/15x6/156x0/15600000024/700041536_1/700041536.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps26 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/73974730a2cc3e514a6d66a0500ecb64/69b488e0/73/1x5/15x6/156x0/15600000024/700041537_1/700041537.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps27 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/d67ba6cdc694ccbdc6e51c51226a5bf1/69b488e0/83/1x5/15x6/156x0/15600000024/700041538_1/700041538.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps28 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/31f5b0684084f386ae9cb3fe44042865/69b488e0/93/1x5/15x6/156x0/15600000024/700041539_1/700041539.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps29 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/f60e80d07ee43c7d3be47924b21a6c9e/69b488e0/04/1x5/15x6/156x0/15600000024/700041540_1/700041540.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps30 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/c9c136d6c220cab4ac697b978dd18e4f/69b488e0/14/1x5/15x6/156x0/15600000024/700041541_1/700041541.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps31 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/dd95af7c0de047828625819c34f13a42/69b488e0/24/1x5/15x6/156x0/15600000024/700041542_1/700041542.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps32 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/30005715d27efdfe0840d642021248e7/69b488e0/34/1x5/15x6/156x0/15600000024/700041543_1/700041543.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps33 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/78903a373893d87780de53d2de294ae3/69b488e0/44/1x5/15x6/156x0/15600000024/700041544_1/700041544.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps34 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/933629b72f52f73e552c8ff56bb996fa/69b488e0/54/1x5/15x6/156x0/15600000024/700041545_1/700041545.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps35 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/012997e753a2702da87e8f408d67a15d/69b488e0/64/1x5/15x6/156x0/15600000024/700041546_1/700041546.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps36 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/84aa1e093318ee4189bab81daeb8c230/69b488e0/74/1x5/15x6/156x0/15600000024/700041547_1/700041547.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps37 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/162c2e8d7ff27bd67d8cbd423b025d19/69b488e0/84/1x5/15x6/156x0/15600000024/700041548_1/700041548.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps38 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/dcbf85baf5dcbd6c3e347d90333daca2/69b488e0/94/1x5/15x6/156x0/15600000024/700041549_1/700041549.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps39 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/4ecc3f847158cbc9580c0a45061eb26d/69b488e0/05/1x5/15x6/156x0/15600000024/700041550_1/700041550.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps40 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/551f30c4537cf3a46d156c1a3c69ad8c/69b488e0/15/1x5/15x6/156x0/15600000024/700041551_1/700041551.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps41 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/c089c07eda8aea22d1484358e8a8140b/69b488e0/25/1x5/15x6/156x0/15600000024/700041552_1/700041552.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps42 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/486402986b29bf8e42de5675a494fcbb/69b488e0/35/1x5/15x6/156x0/15600000024/700041553_1/700041553.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps43 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/33708b2fcd0bfbf9213bc1e7a2e67519/69b488e0/45/1x5/15x6/156x0/15600000024/700041554_1/700041554.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps44 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/baf4d68eb9e8353827fbbe222efc3d13/69b488e0/55/1x5/15x6/156x0/15600000024/700041555_1/700041555.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps45 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/7878aa2a4d26354ff4015fb7ec194abe/69b488e0/65/1x5/15x6/156x0/15600000024/700041556_1/700041556.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps46 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/bac8ae2f9dbff938edde5e89cc9ee53e/69b488e0/75/1x5/15x6/156x0/15600000024/700041557_1/700041557.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps47 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/54e844c6baa807edbfd1e06adfc981de/69b488e0/85/1x5/15x6/156x0/15600000024/700041558_1/700041558.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps48 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/ff507234ad1ec0268441cb38cb38be2a/69b488e0/95/1x5/15x6/156x0/15600000024/700041559_1/700041559.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps49 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/544633797dcebc8cb791d7b8672977f0/69b488e0/06/1x5/15x6/156x0/15600000024/700041560_1/700041560.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps50 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/bfd70f5424f4406bdf75caa367edb62e/69b488e0/16/1x5/15x6/156x0/15600000024/700041561_1/700041561.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps51 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/5e8896c571b88ca32b307c65392f7698/69b488e0/26/1x5/15x6/156x0/15600000024/700041562_1/700041562.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps52 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/8a99615711609fcaa5cc95c24cd40eb2/69b488e0/36/1x5/15x6/156x0/15600000024/700041563_1/700041563.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps53 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/9fe8720d02d841310745738ec62e640d/69b488e0/46/1x5/15x6/156x0/15600000024/700041564_1/700041564.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps54 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/4fdccf16c189ac07b67e9817477f1ed3/69b488e0/56/1x5/15x6/156x0/15600000024/700041565_1/700041565.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps55 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/e689f58eb47fb18c650793ca6bf9738b/69b488e0/66/1x5/15x6/156x0/15600000024/700041566_1/700041566.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps56 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/5209d0c7c673fcb5e021da4e6cb6ce76/69b488e0/76/1x5/15x6/156x0/15600000024/700041567_1/700041567.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps57 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/29185538a8769650c19258a7c5e7c62d/69b488e0/86/1x5/15x6/156x0/15600000024/700041568_1/700041568.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps58 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/7ba04470c1cd149a37b6eef3ca71254b/69b488e0/96/1x5/15x6/156x0/15600000024/700041569_1/700041569.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps59 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/f7008bbea7aa7415dfa6e17479050ff1/69b488e0/07/1x5/15x6/156x0/15600000024/700041570_1/700041570.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps60 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/5f68243ab857dfd59d657e3380551364/69b488e0/17/1x5/15x6/156x0/15600000024/700041571_1/700041571.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps61 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/0b3b5dbcaa9bbc372583ae2364c4dfdb/69b488e0/27/1x5/15x6/156x0/15600000024/700041572_1/700041572.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps62 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/780f530c396c42f5d09670261fe59b86/69b488e0/37/1x5/15x6/156x0/15600000024/700041573_1/700041573.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps63 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/5c079cd7aa28d2a381c2dc52ed2c5858/69b488e0/47/1x5/15x6/156x0/15600000024/700041574_1/700041574.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps64 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/0c2ad34925e03afc59c6d6a413c6c691/69b488e0/57/1x5/15x6/156x0/15600000024/700041575_1/700041575.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Suami untuk Tiga Tahun (Sulih Suara)",Suami untuk Tiga Tahun (Sulih Suara) - eps65 [05:59:17 WIB]
+https://hwztakavideo.dramaboxdb.com/0824bb90aca0971641543e7973eb5dcf/69b488e0/67/1x5/15x6/156x0/15600000024/700041576_1/700041576.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps1 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/14/4x5/45x2/452x9/45291100014/597576241_1/597576241.1080p.wz.g264.mp4?Expires=1773435600&Signature=ms6kk~bu~ieiIYSIhrwj20Y8wNIFN5K4DGsXQR2moOfDmya3fnVtjDxm0DFafs4WBaMMhUhchW~Qphp7p1iVuQEIOGppZIIepVvA0eIsVGpt4Mpoq~DOfptTFI~KfvVxIbwwtruo2Us3YWKr8g5-5mMXu4LQLhC7umiRKpCN1iFC~FR4HmLxzpTu43onPxq2ZRxuD~4d9Oz6jlN7lJco1YZl~JjPLqezWUx3H~rp5w861Siqh7PW1s0ACv58O~yLrypy3PaMPndNVITrTmMQtwjhKtQgIjOleq2NuRf4C9rOnbzlxJR6nUc5xQPxs7CbTDZW5oQmqvJ2RlGU1WkAUg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps2 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/24/4x5/45x2/452x9/45291100014/597576242_1/597576242.1080p.wz.g264.mp4?Expires=1773435600&Signature=yIpYPK44W5SkLyjW7VmibTkgjWDekSUvfs~bZKGnSLXbhxOfljh4flWaerSKn67UCo6YuRCVXsylllraszQuf-tn2kBLQ~1StcY9lWKx1EsOMcCBJRBLV7Xo7klss4kSs7WqmgF~GXIWR61gCpgTQH3JTwvyY32lOFTNrL2tcbvWZkxn6bSA4GvcebUg0bDb8owPIl07eFIUuGyuqJYsNL6r16v77HCkzplNFPCuVFnz12uW8xoztl6iKRXP4GLdGgvj7VdhrD5GwUvzK7bFzciUk-yezfBJRWG0wUFYvchme5ZqNFDS62UTKfNb26EccLmvUBm-n~UWie8nnP1Qvw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps3 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/34/4x5/45x2/452x9/45291100014/597576243_1/597576243.1080p.wz.g264.mp4?Expires=1773435600&Signature=sabAOBHGpc-ISsSpSf7Mja1cGYoFLD7IJebAoXJs2VwmmxrUYGhtUV2FwGxM8cl4ej0fbBOc0MdFm9gVqjvyEMY0lrqv8ItSMQy4ToIFgQ7pwuC44asSZcqirL1wCCbKSUmfiTdnbcNX6gdUKgFAqmeM7724tKX2BjAE2VjNQF0gm1PeHrykffyH5ZAhVXBFrMKeSOvWRYPmMNydB9SR5PXDjY-itdHOhmzduyse2dsujcNWRdaUJdegdmT-Fzzhsn8pFEGyp7FMyUlv3g8cQMwkPJ87HmWcq0enMcQSs7DSlSPgts1-EQwMsDaASAsGzH6qSXozjvDXwvSR2QBqBg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps4 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/44/4x5/45x2/452x9/45291100014/597576244_1/597576244.1080p.wz.g264.mp4?Expires=1773435600&Signature=CB1cZPZPmvljiqfeNTsfWDMkLCcgRhG08gO6U204ReA8UiqWDfRn0pfyz4ScAhr4Nqhwq7TLWni1YEBJwbXHbcno0Ifh4F4aJt7OvS-izwyAK3xciT0KI5xsHB-hmjP7UJs5dBvYvSuKo-Uha89KO1Fnvm19CxaOQOWuTbsJp9H7BLYolOCHzN8e33lw8mmYZAOL0L0hXO1YFiBh9IFm8EJCnwj~TtmCGZGh7W9IQLcF7uc0NM4ZF981xp6TseBgwsIsWoVBPurxbpaW1RrYmhNSAtw8cS4KLqVsKU7bNyxk0B880F8hNrBmLplCCAnznyFnQZRfKJpK2uZVteESJw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps5 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/54/4x5/45x2/452x9/45291100014/597576245_1/597576245.1080p.wz.g264.mp4?Expires=1773435600&Signature=CjvTdqRozjpoFtRgHiB0QpoEs1Fvrp0bYiImJYVee2tY8Tx~IYYCJyOJDqsRdTTZNPCnVJF9HMzyn2M9WlXNgc~DsOh1E-uW-7wfZsOgoTF8V5SBQO5-mnKYbS4zbUx~W-G2x4rx7fnzK5PxbLBpgh43MnasbOxipUqVXn782DQIZ6JpVk1slhMyAiHy8at84-E6nS~C~pwYxHqDExwXsCWyzZW5J-DmC3ip-dv0VeSZE5MhrnqY4bax4dC2zK4RbTqlaUVBLUq4CvSamCDnVLLH3IuNy6pZidogxIqxasEI3c~wAHZ2gvfwfNjE8CwnAUr1kqfzi8mewF8otOlGwQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps6 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/64/4x5/45x2/452x9/45291100014/597576246_1/597576246.1080p.wz.g264.mp4?Expires=1773435600&Signature=swR0wOPXp7oxHIiMix4o5qEE0~v8khpa6NqZ3T32fNEgMLuH6ByPvvPSEZr0nRSvjg5iMPA7GU7u6bJ7mrJel3HKSZ93W6pqiB9kO5E-mCNHLIDvTsdGvBJ~79z9iijwYO~wdbnaCOVe0ODjrpdw8E5dvt91sIpy3sqNY3o6ZZye18yu72TwRC739oMkACLa5ao0cW~qw~VIt69UP2JRC5u006bwXCM~K6xwEHOQTE2M~aXAi84gWw7qxzrjdzsMqH8KK9yvkYCGfCEQVQGPokUXd296bdhCQFOq0nkiJUbKKVA-4n~0SL9XOFnjiu8oWG6mtLleElFkUd3nrB3TrQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps7 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/74/4x5/45x2/452x9/45291100014/597576247_1/597576247.1080p.wz.g264.mp4?Expires=1773435600&Signature=fkJwr-hSZxalu0-b65307-t6htm1FZgYK4q7LPo7UnDLvoaTFMdGQvuKzSr0z0057nt1FIdiVwBobBgR4EwlEQIalOFVOiUM~suJVuQgL6XYxSLmYl9NFx-ATn-T-I6tBkYtinkOgGxAHc~zHGUtJotV175XgdhN16Ih6Gfhl5J0HEUnmozaP5xKM135IhiHgEBp4Om~hKA6E~zxv-cvFc~p1BZK7MbbQxD-N1tnmMgvIBAJZBfUHbveFdHNwS2LweTTTvroJFtrjPXIMaF2GYeG-2pQaRgXU7JMbiZRECN370iYUgY27vyRWReEW181te3dxCguqZYPC5NqizL2iA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps8 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/84/4x5/45x2/452x9/45291100014/597576248_1/597576248.1080p.wz.g264.mp4?Expires=1773435600&Signature=hchUFLuZuhNIrshME3CICm3dSrdEGn5eTZ8ttEmlO8ghYCXqBx0h52xf2vIcZi3MfSaBj32rOI8fa9wzoJP00ueBtClO7GLZGscf6ygM6Tk7wUPLbTP-vJ34tUgl75mSe1AsmqSdvi-qJLWQw0k2nvzVcfpaO~tAW-xMnOVQAjDk9~xOnbXRQfrHms-xtzfSuIfRuWR5mUFiS9pyJzUlQaJjkK58uIoopeAIPdIkaRjTZ1fest5Lz~inaJqG8oyikOyr550V87A0D2A51ws8l9jd8npt2pAnnKXEFPN-zUhsioTjHSJeg0OYu0~It6QaWzSMjXNyY1PKVJIZfVb1yQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps9 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/94/4x5/45x2/452x9/45291100014/597576249_1/597576249.1080p.wz.g264.mp4?Expires=1773435600&Signature=U1mvftYz1ehrpL5YxMRf7~bmC5eRHexR--15aakv90OPJH2VNPGAda6duSrDO5P49NclriHwrpiyzX19cwRYNq~IoD6PVLaNPk6F6ByfY~E9KJSIjPpevaOOvknJ1vvW1D-ryBIQIhoQS--ri5uDTlP85j6FjxlDLdhW~XI~Aw6m0Qj0KKlj3~d7odxFx45O7jF~xBTOK134UDoI5PRdWUvxfpImvTe517h7Z0rAxbdbY0e1FDzHBpXxCz7JQrMooCP1WkGMWMrglO9w5GatFE2BvpLc7T151f8pbPmmP9Lt-X~V-93R~qZg1pBejBMGp2gbdsAzXepCw0QVnmmWBw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps10 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/05/4x5/45x2/452x9/45291100014/597576250_1/597576250.1080p.wz.g264.mp4?Expires=1773435600&Signature=qfg8kK0~oS~wmnihMM-~RgC407jYVBG66Bua9tgy1f3Wk-QYUEQ1PFNZ3bjYW0D~OdiPDI669FqxCa44XsZn~r7T8Wl8A19O44qKDxmwHUNhZVycp6tlce9Qbd6TvVD8UzHRFvjGi3QvqL-65pF3GaWg5n4D2n5xgIXWIG00kBAvEphtfB0EhYoU~hphn87XYPBIuQ8QPSRDdp~ro0FnmU57iIaInc8XO8iAQn~OnMmlQt2hF30lunLFtYbtcnUZ21BK2Vcj1LalGkxYatW1tKM9iqwQyh~8etMQjIqvNjs8w8Y5k5CmVARU~lP4p26KWADDas1zUJmspx3OsN5Jqg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps11 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/15/4x5/45x2/452x9/45291100014/597576251_1/597576251.1080p.wz.g264.mp4?Expires=1773435600&Signature=l420pubh8DhmfvYdZuxStm5WwU8sfk6cNLqJFnTaMcuTk4yp50nx9BziFaX8duSzxqNMr-qZs9hyBQRzvbSMa6TRZqNJfGsuUATf3owe6XYWFt8xAwMdQoCBjnIdsR9kEEW7ATauEDKEGOrLvP90-tHKg7YCSdKK6-48dSaDe5V-wxWu7m7hApLHknKnVj4WcApXA0SkFZflSZzJQAQuvevcRfQi8br6WzsHechc1XdA-xwYOBHAy90JsweURx5yWqaotVe3MhdGysMMNukDs0F0uawASbxEEo553djgjsVos4MHb4Zmh4zW7iTzAbfQn-AI3rA8Q2JAntgMVD61Sw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps12 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/25/4x5/45x2/452x9/45291100014/597576252_1/597576252.1080p.wz.g264.mp4?Expires=1773435600&Signature=FMs8pCuxmoVDhU1bpfUX6IOJLeEFpow~cU5zc4yVJCqgUqoWraLQVklwTWIjsQTEmEBsWhoazBXcv6-nLEGdUhlO92RUBr8pTjyzz-zaK~M-mbOPs~Sufi~a3OFcgPfYfboAK~CmMQ1ovlJC0rfD0VJZ~nm7I-aCEGULFUxIgYaS7acX~nT99SMIXQg~4szV-r2QMSf0QVK7~3ihVaCupDUDcnBbcAYrDIHbWUxvdHH7p1ryzTcgVexPqimigjp~wMGupT7bcHLhy3dOh3g1mZWTXbUuK14dg9l1cdqzhMt9-5m1LmyH7n~uEt~t0VBMkCaAoVW7JChQxKScmoBntQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps13 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/35/4x5/45x2/452x9/45291100014/597576253_1/597576253.1080p.wz.g264.mp4?Expires=1773432000&Signature=kb8UYcfSFRqaH7-KdNp80yHSnhBk-k69WprI5pZ7bWaOxBf7vOZ34hw2CaMMujBOu5Oi1nQQyvE0VwXQHtDUMvq8f3smgKOVk9oE7oh0bktE5UuX95NKs3~OQM05qM6XB5hJHFjrJxH~MmdM2Nks3rEIwgVl9ZNqs~K0vnPWr-JJQbmOMZCq1Dgez6km4xTsj9idX4IVJEn0aoZFiW7dIF5oFi2gFOXLFeqdenizUET2WU-iGMcqx6tUtUodER3mkrL~i6O3TCMdlpylMzZU2I55IKuH90HLBJwnNWKZL6wadbwmHVuqME2n6EwFD2tKP7H7Aw3iSQTmSaWYvkdHAw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps14 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/45/4x5/45x2/452x9/45291100014/597576254_1/597576254.1080p.wz.g264.mp4?Expires=1773435600&Signature=oq0DAFMO2BHuldv-et8aAD6I6LPImOc8WPwS0EzdReic7cxEc2w8t7EHmkqQCP~KNTLMIhq8Tt-o3OdVLzsZGqgF8GMAW2VRp1fprOx0VXUm6n9KCPetk3zALbYui8ip94ZTrjcidhG~7PAyyPRxeQCCX9tlL0jBuQZIsBIOjhkJ64tDZ2UKTeXfc0YJA~-Kj5vkyY3X5zOWXq2KKLQJ3HwOZDQ8ne4jrHHuEQMHgFZzhuefjkK0omNrUdy~VQP8sayKPVkqXkv87BC5IREf0QGI1CS8PyLtU9DRm3h~hJOKXAsfZ5qvQPzUFO0cA7OyyN0PfJJLQ~6W2xf4wP2gxQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps15 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/55/4x5/45x2/452x9/45291100014/597576255_1/597576255.1080p.wz.g264.mp4?Expires=1773435600&Signature=hreS1WLXibGrq9mMUBwdAA5c1LVu2CjZbRqUEP08LWNSzxsIDiw~FX~YUneKYXn7F~OkAWU~d~MkPVFPgUbkoNZVfKpQYW7p6DmTvo8L9lO-jT7S9gnAfHX8Q5DEMZEajRDhRcFE74qR9euX18ceCpWYoXM43Nn1BoeRnVjHgRr~9DxyLgoSRn0N7nTAZz8HeVqlMKYf3f3cVoGAuQ~KeC~U1m21Hpwrf-ACEQv~ttwGUbZhZZtqHEKmbPo-RLJGACtFKTHrYTRnNfKLwaXF15igEI96H8LfAaLbdvhPbIYi9hSW~IQZS57zrTOQFCsb9fHNzwdiTs5jn1ujuY9A~w__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps16 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/65/4x5/45x2/452x9/45291100014/597576256_1/597576256.1080p.wz.g264.mp4?Expires=1773435600&Signature=UcwVY1E-Rs-LeKezw~A4n3jMH4eBbk5RS4u3pNKgXEibtbHn9wnUKOqS6idz33uzjBGlVOHb5uCrb96ln8cLuil2Qg2madcBCSA0I5l-6vpqglJPHggBiVFyIC93WGIvBPpTBW4UMvmZk4AYAaITPbyzlQ-UQoDzFjIvzG-OjrVzuwbN5iHuSXN2n2lA-COWMc8ZIReUuaH8dkFC7MYcQbKve9tutjsnzsLJ3tUB8n-4YoS8n~UoIaIGkH9LqDdri7gvRmgg5zrV3gfnhrAWCs3b65DjcFGSgM4R6SvBf1FUQh1eupSDiWB8klagapDbvJCSOB5lEBYuPNREO0Zuuw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps17 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/75/4x5/45x2/452x9/45291100014/597576257_1/597576257.1080p.wz.g264.mp4?Expires=1773435600&Signature=uW70LCZOPI9m8JrwmQKFO4L0viNlUhmESMg0~bhtAS0oZEHrPlTHXftS4eMgbuo2AuelUcbUZYeWynEwByxOukd9~zp2n6JFMm~tBXJfz8BCDb4Ge3R3G2ClophDvzAtj4jrYVnpXwfuOAhsXyH5miJkGPA6vRskgIkDG0ykHneK7yYAhnCH8q7ky~slePbZKiWXdhCKv6lHCqta80h8xC7VbfVmsbI8Fi4u5qM0zkdQCT34C9GjbLY0HuFIuCk2VCid6fzELASHGgKjtnOlmF~MZGuKdvDZ53EnUod0na7G0WkaXQD6p7bkoXGRi3WmTc4x0UnUFdei3zHMYiwtdQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps18 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/85/4x5/45x2/452x9/45291100014/597576258_1/597576258.1080p.wz.g264.mp4?Expires=1773435600&Signature=G9IgVa3EWjscLCM-pdvRAgs-NJZpmNMGi1nIvTFeNlPZ0OkQ0hGKNj7NgZmyETnLlg0iO9NFEcBAqit1bh15Gx4xQ0RyH7RimIbq-lg7oU6XyQc9~4c3OVY-AzfUYO0zoKDYfKQYGo3x4bn0s9QL8Z6q5MFbW~QoCwZlMAFEOJ8gqB4S9xiorGcFZ0WQW8txiq~BEXo5yyxY5g-lGFEMN058F416TwN5WRKlrWu9FJyJV7jbcbKCeQgPDgoM~apv3S4IxMJ90cJ8klR7LpPoGz15gP-CKtspzLRu9gu1xKDw8WT1DiHjV9uUBD06sUo028pJOzF1i6EVjnMugKbImA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps19 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/95/4x5/45x2/452x9/45291100014/597576259_1/597576259.1080p.wz.g264.mp4?Expires=1773435600&Signature=DMizvjfvvEkQr-ugHxhfRUsu1nQmhiG7SvNc7QWp0Pw0Ms3~6QjjUCxs2RWppSUGbs87B1OKRtq41h9sL6g0f1OutfnK2N88WnvSpvksjzwaMGuTyHyVQIGf~1p7at-uO5lKSipjl~d8PPPLHtf5yCn6E4wrszUZ752MCijnGe0KNZ4tIRs3~sJisUA8-kMPUHRe17JLL4GHEP29a7m7IzDtEGuaF9zUsmKOYCtqa8ZOvXNv7VPnXR19R3IGuCcxLaww5E9ShYCbgpNTKWpVHOyrJx-Eube13HORr8-kBSakRPQzWMCzuGPEQMJchp11mNONrRzAp~wNjq6fLSdf6w__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps20 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/06/4x5/45x2/452x9/45291100014/597576260_1/597576260.1080p.wz.g264.mp4?Expires=1773435600&Signature=IlT9qE-sBACFBrH~rsAmeLVMUnGRIK6XpfufjaoysBQaSp6Ghzh6WYZSRotYN1019OKv4FivHKPl43Ne99SxvFdliD-rykQFiC5P20o3wcnsyHNfjDiL6imoiXmvjSA5X70Kwvr3S5wpUBeSjQU6P3Qch6fcmayb3TfKL7zxcixnEwt5cWEM3cpG9F~Xtt56AGYSVqlAQnUPPvwBhzge3Smhm0NYFFvM-vXHLUUwroy9vHIy-Yh1jMYhYZCf9Op0pqeZPD86V3QcAKEGNrxk0PAuSIU1BtdjPjZryUv2~le9GagBIdAqQrrQ1pR-9TwmVZHj9~sBj3Nwf07Lxw4wSw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps21 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/16/4x5/45x2/452x9/45291100014/597576261_1/597576261.1080p.wz.g264.mp4?Expires=1773435600&Signature=D~VOhk~8GGsO-iqwltzkp-a4~Wc6QDMDsjYanogy2mLtGMpwsHVE-pMf9NRyM5LgS3K26YKl5YonyFzW~PmAtumA90OoxN5tlDO1E-L-w~bw0sRGpTqZKFzc7yL-GBS58u0Pok2uuA-gLkc2QOQLUrc5b0CgT~2SmKz1s8YiRfLs1Nj4aX5JKMwlR6Hgs5TYE~vkfh12KA634HR8vVEdjkJeXBO0TqZbBNOxpgrskcN6-UalYTBWKNs8dlm3k-D8g1Htn~AcBRG2fut89TMqb3HofBYtHdJATfJO9v3WT6x1rHAdI5XA0W7FS3LVfWxt9g24~yYK8Y51C4jJMXJZqQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps22 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/26/4x5/45x2/452x9/45291100014/597576262_1/597576262.1080p.wz.g264.mp4?Expires=1773435600&Signature=CnTXk-vP53QhMuH7Z7I67PWuJ5Rzr94kJNnxq2BPXEiWA~HFcDL2JL6rYsWEFfOIisgHXuuOX75NX0OT~lxYLyYYlr9RfbElwYRlfg2oZu1COabGGE6~LfHK1k-otWzhDhYikWbXhFUm8fe~kOHyYS7u8HlYzBDthz04WU6Mkd32KacbvMIM8Eji2CjAtxCY6ULsa~hliKYqVUYWfQ41zDmx8alxH7ZyFsuqB9fP1iaYU2ucZPV6r15Dyz5MqNNMw9EkY18iBEpIVo5JdOse8tlhnbXpNZ00-DH~M5Oz8QH7E~-f3cpjNRKLLEbEKtLeVmFiMjodz5ihG6nF7CXo1A__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps23 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/36/4x5/45x2/452x9/45291100014/597576263_1/597576263.1080p.wz.g264.mp4?Expires=1773435600&Signature=kRtdCcVTTLmUUn~nBDWJn9Bsa18-U4DwpdZeZgk0lyLfEtPOEDLzrqei8YRrEKTEAMg7aeALbEOAibN8h8ZmYLNXhdQh9~qYpUmZAzLKOyaS8eufuPHzo9~smz-lHnH2-JLDpQXPnCpEKCG~OaU8zn-DlB9gXFMCenbWphoVTCcLGsr7idKN~lrnWqD1WrqAToOb0ap6K2o0vJ4KkPQjXTfq1zBrEvOPbQMU00srLa6jjKdP9iq5KGjsXAw96EPrXeH9sR8NTaEC17JALUO60IXIX1jIynJ9FHoAmTw7lod91DR6XLihQsTh5h40a0Q5kZbecyXgK31CMxSPSiP9IA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps24 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/46/4x5/45x2/452x9/45291100014/597576264_1/597576264.1080p.wz.g264.mp4?Expires=1773435600&Signature=mJGEYlS1DtsPeAbhoNLtKwPvxzktslpH26cefj02LWYYKoX2YZwbQhLUMMlNb8gsBmVb8THCxtsCXdLBoY9wXSIwlnEWH2FN0XfxHoawGREDUR5j~auQIlSP1UG2BRqTeayaeri-G8M-Z~HAP6QWmKl9C6Jf57fHOOs9slc86Lfq966TnSriUHrLVlLXb5378w4T0hq6D5C~SoZGbg2pfOTBEakaO1MrQkwE0b1xt1VreBzuzA2SSu9HkG5iUZtwMb4qxrM8JwPd-K0oSNaz3Yj31FCfp7qB0z70Mva0EGpVGIBlt7rJ4Xh5KVaQ408aJemcim32M2wEgJVBRxQ03A__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps25 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/56/4x5/45x2/452x9/45291100014/597576265_1/597576265.1080p.wz.g264.mp4?Expires=1773435600&Signature=f~NEuIy7ZH88S-pbP4JUTc2EGSIAx17Zax-MAAcNw2ucHxd0QVfiNFn0c~Htx4at6FEMG6ehP-P8SatCfTI-YMaeTW6OJP6RpBbJ2O5dtxUhb6rJSnTWD6-TPcDV6xmgvBJdQapweZB-Tod9B1MAt34Vf7hVA7Uvf4JPjCjpjAEIZnlOXwq9l2XBY9pL0WVTXZg-bnnqIgHhTv4Ik1NuHzZUaYT-2Uwsfz5brrxSrlCjCUF0L-5D01V5CEy9rv8B1gv~8SXZq9rTcZhHIzWB3VyZVozaPFIbUyFSS3XLhVTQrxdgz~nZ~zkuf1YyhWcFGp4oVvqn-RCqspdCAQTIFQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps26 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/66/4x5/45x2/452x9/45291100014/597576266_1/597576266.1080p.wz.g264.mp4?Expires=1773435600&Signature=xZDER4mWj3ZsokTJQqmEb7qlauYG2PMHhWY-7haOkp07IiGtA9NCZKFEwgxjvl2Xvb~QalIb8TXHUumybJkVb1kHI03kmubM0ePSwYkKcrMl8IgxJOWMuKVNqaHgISH1ZO1LlPe08QXBFkj~nWkYlGjVaeB85r4b0T8aN3yFIbT7tyiWXgxVmep75DkYOdb6rWwoQ1N6PAO~O2X5cJWScoF9EghCnqpUCV28SJnyfLQ6kvCjZCuzZqi6HiFMVf4HUYOnHCH9fbB9yvquOKPCbaxAPwzoz2fNyYdMUO80CrL0TbA5JugjXqXreGxV2zqiE322wxrrYXYZL-GiUHV8uw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps27 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/76/4x5/45x2/452x9/45291100014/597576267_1/597576267.1080p.wz.g264.mp4?Expires=1773432000&Signature=FJn755Zpx~MCs-JxOLSZob2ZNzhSJ9dO-UJfQnq37JyNVxg1BP2X-U35KkjMlCoQZtFXwdF3PfsqbciC62h3lvLRPUJdDwmcnLY2YX77O04pt9ZfWBf3lTy0j6SvBvGsVy4EhgLLiQZw4FiZlGwJjMaYH5ba~GWWmkiwKOue~UlgvUAjkWbeHAfpNQUjN5qConAb5rBCSvwx2wHfrq~Y3FBXmv7kic7EDh11mUO9wNlnmVGzG15kuRbioTbj6baUsunHbUyxAdKAkoSDo3VJ2zJz355N6iyADZCU8wowp3N6M-PBpcGjLx04k7uK~5cxBl8fqvHgJAxBuvC~O2Tk-g__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps28 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/86/4x5/45x2/452x9/45291100014/597576268_1/597576268.1080p.wz.g264.mp4?Expires=1773432000&Signature=BHkWm2zwLdMwRkWwdT8I5jfwRKe12zVITXngVecWeVsWctxvavG9qutAkMJob6uX-r7ya1c2LXOH1EWbQIeuWRhkgufJ8UdOFWzyek5XtJVXUHPKi3XifpcignQNzZwoYYLo3KoNpEWmAPwb5PqIcsmq3wk8G4oGqbQr0-pExqpT4doiXRk4QPxP7X-T8nw7DtIRgn4CwmIyRk7fMzPr-V2wdYke2IoAHNs6HACR-83KX1UskQk7Ab~89ue2FmE-wSyBxRPxGExg0IwcXJgmRQ9jSNxbE9W0eOfkno4xkwpSolyGik2LLWn~GlFOpqJBJWebJ3tq1WforEC~C39FuA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps29 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/96/4x5/45x2/452x9/45291100014/597576269_1/597576269.1080p.wz.g264.mp4?Expires=1773432000&Signature=yImCp4x6KbVwNUjt4~bYlK2fYKTvQUBEWlPLFNMIzMNCjT6fScHpvyTVjSs-u0ZueJ-ORWcMjmFFWl7bl-hTSpYePXub-1pv8SEUPAr1YC1Od8NgVpdIct2pNwA-ZndAv56MZAWEWJBI8HJ6MrSPmuik6n~Et5EOM~KlGD5A19lkTHdkYcnTWXOUJTtzx1pZcw90yP9dASghlXqL2p6Dcfw8whZ4wStzpjL1vWfjjBM43dYIodXTcFDHxYDVBOfGozx8RHL791ifb0vJFV~k6Yx3rpS6L~UQwIYMHJz1aEqlGbX-gzcMzUB3r3FI07lz2cqqXTwoIc7bx09Tnwkhsw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps30 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/07/4x5/45x2/452x9/45291100014/597576270_1/597576270.1080p.wz.g264.mp4?Expires=1773432000&Signature=s8bROFrgCjwjJP5vZlxM3i4akWJuD~C0E1-ssGAPmKDZko2X1zH29vnLntEcFGIMvK7AQuu-DlQhb8AAl55lQnIEnDDwjmcGlcQxhqrfjcFoP6AIr0CX0RVIXI~BKnB1leUgr8wXDVnYMu5ETazQCj8jeC8~y5GQp4pJGpZWFHmSCfTwLSIqroPnPwb8uvgNHnzLJhD-m8EU0nJZqJx2gtiGOYV8hsnIRY8rhJvgYJe98dDlb~OLfnDN8Ojzd2tQqzqAd-fGWu~0pNOSRYAxBRx54p2AYBCf3IiqF16lWj30SKF3VpTsKM1Mgw~NUXFFiKPKy8MHBt0YuSLkWw~aiw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps31 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/17/4x5/45x2/452x9/45291100014/597576271_1/597576271.1080p.wz.g264.mp4?Expires=1773435600&Signature=UQaPmvF2Jqe8LlNGS6Xy47rCZOKzJCM4Jt~iaHNBpKHtLq99f2jYD3ZxbT3mosb8iaJeTHb8q9aLIrcAgHj3CCWOj~yaiEDFAkm6cL~aMnAe5QJAo3iYguxK9VKZT8Hv4O9U7~MnUCJtkY9RzkD11yLZJzcAtN8h2YDolv3kPtfr8R6PHH29paOgCjOddC9yQM-nU3pQDT2ypAtNdDL20kS2~4hocQ5RjG7Jx~VAJCk5l2dtlH3sZCyoe8aSocqIzD-w9vY942m~Wm5jVMmTMXmVJrzi6cXWYOjUhgaNqhRoeItVdk~nmEOya9eBEP9rY6dHvOthfbhdntJRk2pgZw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps32 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/27/4x5/45x2/452x9/45291100014/597576272_1/597576272.1080p.wz.g264.mp4?Expires=1773432000&Signature=uedKEtaCIcedFIz2bw4oHrGGeqPDgoHLRVa0NniDbKKHVc8VuixOoxl09LIt9T-a-XKElfOnHxKTPVKGp40nhouvRokoOSYsvYOTndNEQHGek3UTqj0GDIjLv7B-1g1oZS8Q4kKjYT7OtbhFpj9WOdmDqyKfOujmxs1zA1QsIK8w~ZK95CeDxdn5n8htg9rn5Wz3BPZhXjYczojkSqCOujWOX2DX1myH1fFEHx8OzSxRpJj5anbYrEM9cB~ECAax~eIjcDHQzdEWMKf-fudSSFDb2t9i5OYuxFvNslCeOesbB4IFiV2bBhpPMoN38tIrqASL-7h2A1pTG~Q7YsLkCA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps33 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/37/4x5/45x2/452x9/45291100014/597576273_1/597576273.1080p.wz.g264.mp4?Expires=1773432000&Signature=Ggfp~lh~N1U62YUD4rBVUgxeLqjGdF7YFlX8bkU8nNOI2OnacVUL7HGYP8DqICI0qKx2fwPjaIE2TdE3kJp0xTZo6yvu8Ma1EttAXa1VPUOdDnD7jhBPtQptDBmiIWeC4IQO~In8dFeeeixD7NRmdkVft9fLCXh859XDdxitVj3HKPSdTIPUrX1i3H-lrc-K0TfMdPuwtZS-8~HFF3p5IDXkKl-FgSX2a8BYnQs2tvXKJnqZHsYueCqAn5eWZ0klcsXcQhu4BRWNP1lz8YoVoRR33g7ZxjW3jQCBDWoAdJvBrdfn1zKsmMa71WahNLI5s1v5mVFdtnnVa1KRaMAtsg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps34 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/47/4x5/45x2/452x9/45291100014/597576274_1/597576274.1080p.wz.g264.mp4?Expires=1773435600&Signature=v3FyHknDu8NT5o7gxrAck8swUlDzri~9dSP11-Pk5-9HeCgNtyt6x8wSXtZ44-T4JemTMV~00-lm-jEDZff5phlf~ttC3ZfV5l46pPn9uLuLjeqOMG1awq1c1lXpokvlJwlwFcM2Rodh6fNJ2xlVv1xYbtLi2~AmdTlkisHYSDuVbRRof2GSD44qc9gkKhILWDRaqfEZF4yHhF20Q7gYYE5uqPaNiQIYw7bQnxSCOM1Ftue~9rGQJtGjfXOFhX9jO5AYgTG5lZvyLO1vsk8Y5aVkZ3ReHojGKBZHLsP38~8Rr2q51QaPGj3uoPs5wlzSzTDMgktfOffKn7NSIUiwtQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps35 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/57/4x5/45x2/452x9/45291100014/597576275_1/597576275.1080p.wz.g264.mp4?Expires=1773432000&Signature=N16jj7KwXnXqD7JnON-9H3Gpj5ySd35H8A3PjkvXMWiMAMJIKRGz4vs6CKekeILhdpa-g5p5m03D-HuqODcIncIPtSM0EQUt60jOrIuqz6qtYXh2N-byJbRRw3SUblJrbmNrvPGjunLMF1x95Y9v4qg4408RRXVlL~pCHiw7yMuUvaDAA9itsuDALzl8piLffItGY~8GJ993r0yuVadxHPWA5vC0QLT2y8RWkKAZBygRliiDjRbCfgobNLbCMpQ14~7EktDZYMCa0wjnXS-PfRxBnFfmKmw1BPcM5xpM91gvWshUpXJ3EMzssLAq3hCLp0~f2uDl90VJ~DMuOsSPWA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps36 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/67/4x5/45x2/452x9/45291100014/597576276_1/597576276.1080p.wz.g264.mp4?Expires=1773435600&Signature=NxSkGtTvF2HNlWED3N~T4fpmnAdYYVY1zkhpbRnSUhMCPYHGfd12GCh6C4nkaRldopF9xxrXHdNC5WefXfWZkutOA-bc8vHXElFH0pX-2k13e-FNaUegYDl4Dara-iHr1nttoy0JVx1RUtvVOuyINyGI3o6NrqJncZjqdD3y6-7z3QrEvK4MHyrBQaNHj1ZvFbPFeSsIPO57gxV2ctDkYwNd87~~CuSA6snEM7p93W-f92QgKo0QuzBtF5v782rvY6ydR0dAESZKNGiPZ-5M0i8EvFfWw34F-364MoumYAe8hd3A4Ry9Q0Vh6jFdMp5A09ZcG5~7RzwPfa2FAoq7dA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps37 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/77/4x5/45x2/452x9/45291100014/597576277_1/597576277.1080p.wz.g264.mp4?Expires=1773432000&Signature=HRqJ~blhY-Ua0BSxQYQgnPmWBKFwVQE8IUA~ci2DtSb3kLkArnMNG7Tbwv1nZ0BwTB0PSsrlZsA2P63aazjJJBazi8jrCrUcW79fzmrfyRdcWU7ZhBbiEdWmxfZDjq9c2O3pICRpSChvkE~eWSpQUzdjqQDQGVw6SuiLUKFZGrpDWX7UHOTaD80NsIymQe7eYs5L7iRaZhSnzqgAOIEzfTdYYAuteT5NZQrkn-sdMI2GsLr5FxILluKrL7U4BidFiw3UeRj3bg0LjC4pvgBV-J7V-Xk47xa43-P5xaTosIG-H6hVhBquzr2bZSJ7zMO6pl4nBNc9i0vuwuvqdl2Ljw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps38 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/87/4x5/45x2/452x9/45291100014/597576278_1/597576278.1080p.wz.g264.mp4?Expires=1773435600&Signature=fdOV32j60n9JulqaCktxbW8lW-ccs80BPCLn~imX5O3rM~vK0MAIqCqZGIVZ-CXEP1WGKiOEYCFNib~GrkxpDmI2E2GNwXgYgGR7V8Iy0Ibe1JmDwIoEmZxWy7e7ld67i2lI25tcWwJFXHu8XdkODL~qh5NEqTVfMwUTgwN~yNAGz4KXoqEXaAOolhF9BbRMkhst86KF5SMoN0CADRcKzgetyAkv3aC~iDij1tfRWxUxF9wGDGN3IZLEd7dG3P8mCDjXd~9NFo05C~qcMELlJLrTwCdeHZXQQXe59ctN5rcfUBEc-k7YitA3kCjKxiR1KJRh1bs0gNozxUIt2g~KSA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps39 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/97/4x5/45x2/452x9/45291100014/597576279_1/597576279.1080p.wz.g264.mp4?Expires=1773432000&Signature=Hn7PBGGC1wlzr2Cw5yOebny4M6QZrowWFLMbp5FWNcXjVOe-YfbdjDrsziAfwQ~g6jZZkyttfZg9zJmRhdCgxsF7Lz9uuY6484kMw8J6eKMZjGUJwaaoA9FjcEXNT1wNhsH4slyv6tWi81iwlAGr8N8Kcf7ZUOCafI58TRBIEFT~Qa6Q5EV81zZIqW5zcbvFhj~oIxzNOsVfq-2-oACJx5JFzoktjxVIEyLRxQfdZA-vtTZMqxZA1NH57b6TqvGOkOec2WeCFilRb13IVMngQseDs0BQw~ZEaROh5ytVIjHQOEnlgeH7B9GbfPQg5FEUFGf1k5UKcpkG84OV8IwyEA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps40 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/08/4x5/45x2/452x9/45291100014/597576280_1/597576280.1080p.wz.g264.mp4?Expires=1773432000&Signature=EuivL2i0RpMDi-2iPqV1DM~6-QHrfM0mLm~pl0cHLWvOJhyFtgGVLNCI1MCtfQLuDl6BomNT1Btiqf5n~BGSKCJ-jndBm1SX0lHcFjAdicXMpS~e4~BSCm-kdmvuhRKUyg3SNCI2~uElBjMSY-wVHc~1X1V05xAT6iaVCmgeWQDnB~72I0fcEtkHH3-6ZqXJMwCJFDfS82RE0k2lxGwGP3~2svC4kM~MU7Z3j7tGva31EaxlttJIyz-npTZw5rHcW-S~6Ckd1y6CA2YIcltBeD7oshyJQV8ZX-ZnCmF-sppPaXfaMA48cInsIlQEHS0vz8eScObnp7TZaXglmaYE9Q__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps41 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/18/4x5/45x2/452x9/45291100014/597576281_1/597576281.1080p.wz.g264.mp4?Expires=1773435600&Signature=KK9w94dOuupXYRoFvgGhm8Y6-lTJSpRc8RfL9DykYkzxXeAMOoRGZRQCTdg~f6oy59btDd9NZNovQ6gwuR0hdPMDn-kYePy52IO7KvRc7Z14u5T8Rii41BZxc8yTXeN91j9L~ypNID6lQQWNjr0-W6aV-Okj6qjKHig8DKmL02aH-VdDX5pm9ePlgZTa4aeTAYmBL5tzuIet12ruf6SiO1M2kGU8NwUGFir75KwpaGrL~ndlIiQPaeRqpZW-69S5gyQp-c1rhqPu9nw4fZUsaTlxc7Ysl06iQwCghHoYPcbrMnzLBMJpFuigu9QjNLiQG4NzU6uTL~isUbXqrTDM-Q__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps42 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/28/4x5/45x2/452x9/45291100014/597576282_1/597576282.1080p.wz.g264.mp4?Expires=1773432000&Signature=lWuy0U1ig48G0j9LGAkbT-mA2AJrMVU0pvqYNAWgnTmn8vMHnxvQ1UrBjBx~1k-q850YHzrPr33bCQFtBo89NVxRSSSjeOQG66U7SwP4BzbFAg3T6cOrFH285RKKcKPj2k4Z5YoD9XiKC6MY8rdPIvN0m5jnmpwruUWQ1NI7bdtCWFb5RP7zYAiiCm6xRrBGxEb2avK~Ib7R6kal~vLo-bbFRR1K6CMbBoVGt2YG2e0tWuhn9b4cPAbjV56zWd~LsPEuxR3IOGQy1ZVjWciJibxmLkmO22JWZtQSG6AZS8xZQj4wa67bOlttbdWNiIEZeHmnKPbBWUKHP8B1UB7vVA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps43 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/38/4x5/45x2/452x9/45291100014/597576283_1/597576283.1080p.wz.g264.mp4?Expires=1773432000&Signature=UueNdwgw~lYTRMEEylqFPHYs3Ie2TRkMAvIKvHHwB0Uu6kgaVFXOs~l0al4Z4Qlq6SRRiUnQ6R9kC8~lQ6F1v-J9EK5lx0wUkKKGcpO0Oju4yVdXsUeopbm2P4HdxVeBpF70CF1s29GK6no6seWpB4P3gxWPMMYVy8dcp2mkEg387S3nyUUbM0v983EHhP3JnggJqYKKYojBCaiDcfZ83UoS-FHylpBDLlN2r3NieaC-qiRcK93RZ3VOrNCY6gKCL9EuV6gwin1rekCl7-V86T2v~reNwMMUnSH7Aza3itVlIq5n5GG2vzsYKOQegHpkQNB-9h3j-GR2NmhblA-CIw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps44 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/48/4x5/45x2/452x9/45291100014/597576284_1/597576284.1080p.wz.g264.mp4?Expires=1773432000&Signature=ItB0I84btWWolQeNYwEUf~4lOwYGaoldH2itMIU~zd5ItB78hjq~5SBxWOcn4aJ68x3k~8-hosk0M37S2RabhPYSOe2jP9APXgkfTAtIQGxWFoToXufk0VMeXgNTAfTzJTkicr32kftjEj4vbAz3oEQRRGNv8DoeOE-e~0ShuenT8z9RJIzoUw-c90QohDOExd1OpJI5ydQ4jSyj5QallfRBEJMzD3kw1ZpHAHh3rrMFigjnXsQi3-1PzqN5Hz3Ak8chfkyyvgzSQ~Ho4cV3-xK5fRqkjXKqZsdCM4FzsfzuVM38Ylv7v6GQUyiuP6xlPBz7mKrepIZKBoaQc1tXPw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps45 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/58/4x5/45x2/452x9/45291100014/597576285_1/597576285.1080p.wz.g264.mp4?Expires=1773432000&Signature=hGWTLUrsVXSdjvHzA3iCd6uUJzWrEjWEMg3azShPJkkkQ2vqoL1ldaOFC8SsrRx~XP3S0hw2uTGiEerp-ayYImLoP3o2xrrMGnxdX6ZeDauknc0ZVhxs7Kys~5TE7gZYyQvZOhq3Mr3-rdxb~puwOJ9wdeCi5cCaVWlWTFjUe5JAI8p4TVmdH4wjExU427ZZ1JRHqCCeGje8pAHdLbSgN75YSsK2usX7oRO9~bfhlFJucgrd2z1kldH40EP0RX7Lk6m2i6wSpeDXz8WOPnshiP1Wj-u6pM6BMpackKZH6S3UpMlZlFYgKCIu~GLOT~xzEzCq4W~Ln54ii014~U6Scg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps46 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/68/4x5/45x2/452x9/45291100014/597576286_1/597576286.1080p.wz.g264.mp4?Expires=1773435600&Signature=YI6DJHOsPwM0gMv8fJQE3fK6IC8cUJ9rySxgoZ1hFi1ZoUBcKRuGPdaXNcrX3KkgTKDC-J-usEbXz5nwMOSb3AMjxtVFZyvrTSKJ0wOtNeKbNRT-aFoDYSqTcfOQKf1jDUyMM4mC3sMWCQXhzqDtiBAIpRtngkGlHEpzQhRUQCqAKL-pSnwX4C~FBt4l~Ovnv8EeUaxSu8TS1R9X0m5mouPvF1PaPXi0dAQ4yAEHRyGhgAliAP3umGZviyG2VImcSaDdeYJGUFlOOMBuTcqPOm~vZ4y~cfP9JBdxx5qWhDdwkd-ksG45TUqgOa~uevqh4zJs4wdYd1mLTH~DBJh0Yw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps47 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/78/4x5/45x2/452x9/45291100014/597576287_1/597576287.1080p.wz.g264.mp4?Expires=1773432000&Signature=N-0SbPklRykVkB81gDQrhIhBPBB7s8pZzS0H2yd7hbTmrqUXalVjH2~03wPwMkjCl7mXLPEVgzmzPNItZmL5cDIdOTzpLiU9AXx9Rp60lALkwqOpsSmkx0k6~-CQecQCDHsTW0dfE-yiGzlnegLjh2RHzgVZOBZ7-~cn2pMU8NM~1c~0yiqumBoX~D77yoVmm6MHHaV2lUD~8IC3L~zlzHbh-aEPQv0lVPY9Z88qoM4tVRDVqNuMnUxMSH63Dsw8XCTa5T5goeE3y6ru9U~UULfR1GNMXvkm7M03VopvAa3kGPTYXOYu~7K45F5yb~6nv6M-9gFrrQ0IfOaxJxlfYg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps48 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/88/4x5/45x2/452x9/45291100014/597576288_1/597576288.1080p.wz.g264.mp4?Expires=1773432000&Signature=Sw8PVmgA6m63oen7l5eF~aQzZJKyWP-utamaAaoaIBO~baovIYle3E88dSQw27qZHmtLCBxolAWfvQJ7mvS-7EfJPTxneZSHmEjbCeKAzSh~VY~jeZcv5AO59rDz8FoldzynXY7x~hqmfmwR2tN6RCyWuRcDdQdil2jamBkt5eLn9rGducv6D4bmYrHkfaZOXo30aVAKcz8H6iPBcVOXT~CvDSLQr8Ompib5VBa4MuGAODjaSuJEDQJHBdbUybRIg3hjDWUAvup-pCYUGGk0RpeEGdHx-hyksGoZh-ej3Q8ptNmKoMiP9rHJYyIcORV48Xfzmdw7N0nD1jI4UqR3QA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps49 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/98/4x5/45x2/452x9/45291100014/597576289_1/597576289.1080p.wz.g264.mp4?Expires=1773432000&Signature=OJ-ONUYD8yMvTQcnWWkZCz273oXlNtQ5BRCizi2CSED8jucSbjCsHpRkCOd41lzxT~gXDJc4uhVK~0bocnm3Ct~YTKsFb1oIeVE9fSqw4aojc-cxspHkW75jXJtHf2A5R1PXV5Vk3ZDbM0p4M7eKMhh3tNQWUCaTGY7-i75dm~cTwxbKuOzPGs6c6IOC4zp63yoVs34MKkKvb7aNkRUzxqEhasyYRBfsg2I8VtHa1-NZU2L-e2JWIqYo1~qjszhyVfLysAoFRq20GMSqrt3N5gG6qvMS4KFnKE3OVnbAPYYQc0ynY-6BsBWhSP7Yecd4IbCU9yNDx7O5-5bu2~R7OA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps50 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/09/4x5/45x2/452x9/45291100014/597576290_1/597576290.1080p.wz.g264.mp4?Expires=1773432000&Signature=iInkSc4sMJ8HlWfmF1yvh9M6aBPwc22HTbThe0Q64HnOcTox5U~s4DBEtRYy82FHtM5ICTgjr-K3YVUhxoHi9Z2l1qkPKsbIRmp6dddeR-WhDAi1xJSxe-QtKelDpp94dpIBacm86o~xwgmYdgb0VZyl3YNqDcb~Od6sEbCIsDloPl56ATYcsZUe0BspJsA3Z30Mk7bzH3bVXcpWd7sUupvK-1xQvYBA5zNmJ5kcL2sVpMBJQXJr66rklRoc5w6DJTLHvksBb20r0iUmhWs4jjZV4HDlqRj2YUYhLTIjRk-QlQKXZJfa6Uf2SIcakprktB0mvFEe4LsNSzdajz7BHg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps51 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/19/4x5/45x2/452x9/45291100014/597576291_1/597576291.1080p.wz.g264.mp4?Expires=1773435600&Signature=IQERYkdp82ekp6VTDiRnGsghKEsdMD2TyODivHP8Ge5IqIDcJmHgsgPvbA0958Oc1otnhmPRCyI0dY3Hn8k2grNOgy0Z63rxdEOsNswRsqVDyFkPvbhI-HHT1sfAeMkYoWdn6VL16-AhPVelLgI0hCFuvb5rOWrqxBehpVVMaR8Ahy2QNfb2GnFGzcWf1vs1JGu9LUlWXldakjUfiQKj0WMK9rQVppoCe-zX6ktNAr5rmO0yMMsGJ9ONsGqPcxXNXQIlNt-lndOWLKqAC-T1SQqO59mn3n5T~i5dBXncV5LhkSxQT5Qkh4ZXVkqqDapBnpWSJoAE4GyAeEQmCdZzvA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps52 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/29/4x5/45x2/452x9/45291100014/597576292_1/597576292.1080p.wz.g264.mp4?Expires=1773432000&Signature=WvBBC6ZKBbmNKnwRcR2NzZXQaDx5EVAEIf~NtU-gMiQ0vLgPmAdQiTaXVSyRgreiPmn4D2aNoOpxfkemrIQWyfoXGXzSVuBHsHlrHskgRqFWgvpf7LeXR1qj~vOg~VkykI6XBkcrB-Y5GJvHHZvdC6ZiODy4elrzGAinOyhNP7oroEorl041H~Ls55S7K2TZGHRGaL6K-ufnCwfSL~TN1GOpJ3LGvhSWK~nBOzOedsWswRIG5ysMDjCgIOxSfkeDEvmIusCVD~dKo6PKzhdSD~R-KoNODKpGyulkCHnkBySHKf2gb47WSivwxH44~a~56KXuI~6j~Ew7qfOdP45vYA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Ciumanmu Mengubah Duniaku",Ciumanmu Mengubah Duniaku - eps53 [05:59:18 WIB]
+https://hwztvideo.dramaboxdb.com/39/4x5/45x2/452x9/45291100014/597576293_1/597576293.1080p.wz.g264.mp4?Expires=1773432000&Signature=s5IO3hw~SRFt4QfKstgJn5k5SzQ9XATfQIyiB1DtuIt-KGokVYjCelfzHwVbk2upa93ZIXaPX6McnxX8tkYkRgucumERFR3JzOD-ySB64c0FwBWgtNfmuYNlcVqR6ZW84xPhtfKwWWoSuwM3Wteh2ssyZqx3tml5aKaSJ4Rp09YQ3LtcRA634c5IDR7HSupITHEWngQaH0GmuzdHrKYb6Qrck4CSz32XpWeP-pyyoIlgOTm0wvEda9slVVIzacvaKuGSMe86ysLmuJPcIZUsFs-lyy7Y4xDM8pq51l2GldF-fMob3jXhJDxqS3WBkfXDnu5vYJU~O7oz17UPihPZyA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps1 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/4153bfd89b25dc0e435cfef0b4df1391/69b47ad0/60/7x0/70x2/702x3/70230100014/570271706_1/570271706.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps2 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/9f7a4a6862d3359e7900590c2c19858c/69b47ad0/70/7x0/70x2/702x3/70230100014/570271707_1/570271707.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps3 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/a039840aeef8fe9d817b210a4bdb4e39/69b47ad0/80/7x0/70x2/702x3/70230100014/570271708_1/570271708.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps4 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/a2b5bd7e34b1787894a6164eddcbe18e/69b47ad0/90/7x0/70x2/702x3/70230100014/570271709_1/570271709.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps5 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/356780b89001600593769af5472da26d/69b47ad0/01/7x0/70x2/702x3/70230100014/570271710_1/570271710.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps6 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/2dff49dc77e8770cd69fd39eda725228/69b47ad0/11/7x0/70x2/702x3/70230100014/570271711_1/570271711.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps7 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/8ac31bbce4eb7fd849a9ab8a6932071a/69b47ad0/21/7x0/70x2/702x3/70230100014/570271712_1/570271712.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps8 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/d2be3b385d8f6d158a0fb5a7516670fa/69b47ad0/31/7x0/70x2/702x3/70230100014/570271713_1/570271713.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps9 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/d07453ed3744a17db5c2d5a55519d041/69b47ad0/41/7x0/70x2/702x3/70230100014/570271714_1/570271714.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps10 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/afe00913f2ad9c520e10ec14af537377/69b47ad0/51/7x0/70x2/702x3/70230100014/570271715_1/570271715.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps11 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/5ee307927b026bc007059aaa58768cff/69b47ad0/61/7x0/70x2/702x3/70230100014/570271716_1/570271716.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps12 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/389eccd15a08dca9cd2eecabfd9580eb/69b47ad0/71/7x0/70x2/702x3/70230100014/570271717_1/570271717.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps13 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/bfca035e1d658123422cd767d2088b60/69b47ad0/81/7x0/70x2/702x3/70230100014/570271718_1/570271718.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps14 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/06562cf532ed8bf877dec9f40caf9753/69b47ad0/91/7x0/70x2/702x3/70230100014/570271719_1/570271719.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps15 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/d00f9e7fdcf4550ed36460796b114780/69b47ad0/02/7x0/70x2/702x3/70230100014/570271720_1/570271720.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps16 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/b76b95f62b4171f4e5620474f2cd20cb/69b47ad0/12/7x0/70x2/702x3/70230100014/570271721_1/570271721.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps17 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/90a0ac490d1039f55bc96572ebc72e30/69b47ad0/22/7x0/70x2/702x3/70230100014/570271722_1/570271722.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps18 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/cd7c33d3ccfa1b4a3ca67157e6175ccc/69b47ad0/32/7x0/70x2/702x3/70230100014/570271723_1/570271723.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps19 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/b85526c589bab342ddf41356dd1d0252/69b47ad0/42/7x0/70x2/702x3/70230100014/570271724_1/570271724.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps20 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/015c6c4999b3bfc8d478684740563256/69b47ad0/52/7x0/70x2/702x3/70230100014/570271725_1/570271725.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps21 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/02c48aff75dfd12cc73f1c4a11e85f99/69b47ad0/62/7x0/70x2/702x3/70230100014/570271726_1/570271726.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps22 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/eeae2269fda452dfd5e72af9f1035a8a/69b47ad0/72/7x0/70x2/702x3/70230100014/570271727_1/570271727.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps23 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/a14eddfc5d4ffdf4cfd2696c7f81f81e/69b47ad0/82/7x0/70x2/702x3/70230100014/570271728_1/570271728.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps24 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/a2c09bd85b9c28961fe85facdc470640/69b47ad0/92/7x0/70x2/702x3/70230100014/570271729_1/570271729.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps25 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/581474ad58440860b035b59a12c24d9b/69b47ad0/03/7x0/70x2/702x3/70230100014/570271730_1/570271730.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps26 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/e899f452e1fa1e91a253d3ffed1c67e0/69b47ad0/13/7x0/70x2/702x3/70230100014/570271731_1/570271731.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps27 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/2438d4a7a08398a6c22a26bf9cda6d95/69b47ad0/23/7x0/70x2/702x3/70230100014/570271732_1/570271732.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps28 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/5f72a3f2a1cbcad1f45c4af14ea1f594/69b47ad0/33/7x0/70x2/702x3/70230100014/570271733_1/570271733.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps29 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/b3132cfde75206d0b26b61daee62b996/69b47ad0/43/7x0/70x2/702x3/70230100014/570271734_1/570271734.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps30 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/afe91cdd8bf5aa1ba019bc019768043b/69b47ad0/53/7x0/70x2/702x3/70230100014/570271735_1/570271735.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps31 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/7a80a1bdf4b000a63bb55f2796915b10/69b47ad0/63/7x0/70x2/702x3/70230100014/570271736_1/570271736.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps32 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/c3e7cd5311153382267922bc39d13871/69b47ad0/73/7x0/70x2/702x3/70230100014/570271737_1/570271737.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps33 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/23d5182b28881b914c4a1f8731e3eebc/69b47ad0/83/7x0/70x2/702x3/70230100014/570271738_1/570271738.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps34 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/7e9a892345bc07723c24a2e10c8e6477/69b47ad0/93/7x0/70x2/702x3/70230100014/570271739_1/570271739.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps35 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/22f8d4adda88dff010e5166de78bf3e1/69b47ad0/04/7x0/70x2/702x3/70230100014/570271740_1/570271740.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps36 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/6a9b078978fd1d7d7be73722808c0910/69b47ad0/14/7x0/70x2/702x3/70230100014/570271741_1/570271741.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps37 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/cff81a066f6329bebe76832ae876ad57/69b47ad0/24/7x0/70x2/702x3/70230100014/570271742_1/570271742.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps38 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/299597f66d08b44261bf5e213160a340/69b47ad0/34/7x0/70x2/702x3/70230100014/570271743_1/570271743.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps39 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/106adae63132fe1f3d979a1e18a12d72/69b47ad0/44/7x0/70x2/702x3/70230100014/570271744_1/570271744.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps40 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/2fa57e675dbc8d4691454bb9a32814db/69b47ad0/54/7x0/70x2/702x3/70230100014/570271745_1/570271745.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps41 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/1cfec6235c9ad3e271d2af5345ab7399/69b47ad0/64/7x0/70x2/702x3/70230100014/570271746_1/570271746.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps42 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/49326f26814a3007837005fe766784c0/69b47ad0/74/7x0/70x2/702x3/70230100014/570271747_1/570271747.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps43 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/5e1b25be23b4afa37a9af65a5c1c4bc8/69b47ad0/84/7x0/70x2/702x3/70230100014/570271748_1/570271748.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps44 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/fbba59ace47c09e6577f0e66ce9cb356/69b47ad0/94/7x0/70x2/702x3/70230100014/570271749_1/570271749.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps45 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/3aad5562700b13a427f1fe28ea40aaeb/69b47ad0/05/7x0/70x2/702x3/70230100014/570271750_1/570271750.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps46 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/85e77c5c524a8e2f77290696b2be7fef/69b47ad0/15/7x0/70x2/702x3/70230100014/570271751_1/570271751.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps47 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/5f83514fc6054d252cab136b2f967368/69b47ad0/25/7x0/70x2/702x3/70230100014/570271752_1/570271752.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps48 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/cb46f9812fd8fc791a93984d0acc5e30/69b47ad0/35/7x0/70x2/702x3/70230100014/570271753_1/570271753.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps49 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/1db159290a9c17a9482b15bcb68f13b0/69b47ad0/45/7x0/70x2/702x3/70230100014/570271754_1/570271754.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps50 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/0e833d3f39f7e19262f4f991d2d52b98/69b47ad0/55/7x0/70x2/702x3/70230100014/570271755_1/570271755.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps51 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/04e3923d56faf9e799d58f747b2e6aa5/69b47ad0/65/7x0/70x2/702x3/70230100014/570271756_1/570271756.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps52 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/64fc6a1e54d20b7e90925d4904256467/69b47ad0/75/7x0/70x2/702x3/70230100014/570271757_1/570271757.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps53 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/3d9fe850138608e35cac4cba010be3f5/69b47ad0/85/7x0/70x2/702x3/70230100014/570271758_1/570271758.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps54 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/81aa894a84b55d7b057160f05eba75f5/69b47ad0/95/7x0/70x2/702x3/70230100014/570271759_1/570271759.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps55 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/10732098bb175083a5bbaa5afb93d931/69b47ad0/06/7x0/70x2/702x3/70230100014/570271760_1/570271760.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps56 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/577e5f3208fde4aba2ada3adf6110bed/69b47ad0/16/7x0/70x2/702x3/70230100014/570271761_1/570271761.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps57 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/479b803a9eb34a3eaa27431db2cc9f06/69b47ad0/26/7x0/70x2/702x3/70230100014/570271762_1/570271762.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps58 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/bf6eb18ff9905712e1fd58b57bef69b9/69b47ad0/36/7x0/70x2/702x3/70230100014/570271763_1/570271763.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps59 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/19e2e20ccf36f872e8c8bb4a3cf8521c/69b47ad0/46/7x0/70x2/702x3/70230100014/570271764_1/570271764.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps60 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/8233ed729b06c4a9aef4525a15a27e83/69b47ad0/56/7x0/70x2/702x3/70230100014/570271765_1/570271765.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps61 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/9b4ec6a2fc9f9c2ab46e10e2763c74d3/69b47ad0/66/7x0/70x2/702x3/70230100014/570271766_1/570271766.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps62 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/a427232ca892543ae0592a1236452cd2/69b47ad0/76/7x0/70x2/702x3/70230100014/570271767_1/570271767.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps63 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/c648e72201d4d9dbc825750c88fdaf08/69b47ad0/86/7x0/70x2/702x3/70230100014/570271768_1/570271768.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps64 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/197f9e7647e8d8365197866530bb50fc/69b47ad0/96/7x0/70x2/702x3/70230100014/570271769_1/570271769.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps65 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/437024c8fd1b059967eb5de8c3373fa8/69b47ad0/07/7x0/70x2/702x3/70230100014/570271770_1/570271770.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps66 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/3d7674add3b95248e10e4972cc4c39b9/69b47ad0/17/7x0/70x2/702x3/70230100014/570271771_1/570271771.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps67 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/8f4288e17860e6a857941b4ada1d38e0/69b47ad0/27/7x0/70x2/702x3/70230100014/570271772_1/570271772.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps68 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/0fed51bd37db28cd4f1dd12a604d5328/69b47ad0/37/7x0/70x2/702x3/70230100014/570271773_1/570271773.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps69 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/c5f32c287da8c21cac3b36b6e55e7814/69b47ad0/47/7x0/70x2/702x3/70230100014/570271774_1/570271774.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps70 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/0d601a72bffce709ed4c27285a7a1f2f/69b47ad0/57/7x0/70x2/702x3/70230100014/570271775_1/570271775.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps71 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/24346999b6d520c6ad553ef61db5a66e/69b47ad0/67/7x0/70x2/702x3/70230100014/570271776_1/570271776.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps72 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/29a69b08d6f1f9efce4861003eb1b5d3/69b47ad0/77/7x0/70x2/702x3/70230100014/570271777_1/570271777.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps73 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/1b2fdcc557b034df03ea8972b82aefc7/69b47ad0/87/7x0/70x2/702x3/70230100014/570271778_1/570271778.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps74 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/8d69970c9f64f06b146a40b7cfc6f07e/69b47ad0/97/7x0/70x2/702x3/70230100014/570271779_1/570271779.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps75 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/ffe003f2e256976aeb11816b98bb2e7c/69b47ad0/08/7x0/70x2/702x3/70230100014/570271780_1/570271780.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps76 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/7ca8ccd081b12adbe4e73aec2658edc2/69b47ad0/18/7x0/70x2/702x3/70230100014/570271781_1/570271781.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps77 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/0bcc12387eeb9e6ae6d7f0066e047874/69b47ad0/28/7x0/70x2/702x3/70230100014/570271782_1/570271782.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps78 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/39445c7fd6a271bfd80dcd6b8e4b2b8f/69b47ad0/38/7x0/70x2/702x3/70230100014/570271783_1/570271783.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps79 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/2a2ce72e8ef1c7512751668a75a95447/69b47ad0/48/7x0/70x2/702x3/70230100014/570271784_1/570271784.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps80 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/9170859d962350dc67325e740c9345f6/69b47ad0/58/7x0/70x2/702x3/70230100014/570271785_1/570271785.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps81 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/668caa8d86834c02c70d9f7e39cdccbe/69b47ad0/68/7x0/70x2/702x3/70230100014/570271786_1/570271786.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps82 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/8cfc3b279d31251f2ddc548b30379f62/69b47ad0/78/7x0/70x2/702x3/70230100014/570271787_1/570271787.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps83 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/5c933edb43a3ab79bcd757cef145daed/69b47ad0/88/7x0/70x2/702x3/70230100014/570271788_1/570271788.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps84 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/827ddc9b87bef4c292ab02190096c0a9/69b47ad0/98/7x0/70x2/702x3/70230100014/570271789_1/570271789.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps85 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/e5267c3872b86484fe306c4acb859964/69b47ad0/09/7x0/70x2/702x3/70230100014/570271790_1/570271790.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps86 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/638832af882857ba3a707bab5f1b304f/69b47ad0/19/7x0/70x2/702x3/70230100014/570271791_1/570271791.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Kebangkitan Jiwa",Kebangkitan Jiwa - eps87 [05:59:19 WIB]
+https://hwztakavideo.dramaboxdb.com/05de0517ba5ff27c0e7de88b2975cec1/69b47ad0/29/7x0/70x2/702x3/70230100014/570271792_1/570271792.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps1 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/99c1fb7ecfdb0d75ccf816d3e12b96b7/69b488e0/69/9x0/90x7/907x6/90760000024/700449496_1/700449496.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps2 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/ca91a7d3e671edd3be55d7d65d131527/69b488e0/79/9x0/90x7/907x6/90760000024/700449497_1/700449497.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps3 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/4d5b654d6f57cefa2c9fa0b4e9fa8c06/69b488e0/89/9x0/90x7/907x6/90760000024/700449498_1/700449498.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps4 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/669262fb82358813c3b55f2fa2622e31/69b488e0/99/9x0/90x7/907x6/90760000024/700449499_1/700449499.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps5 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/52ccc9d3101f83790ac7a69c8f3e94b3/69b488e0/00/9x0/90x7/907x6/90760000024/700449500_1/700449500.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps6 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/ed7fd64ac365465e476a966434be9e97/69b488e0/10/9x0/90x7/907x6/90760000024/700449501_1/700449501.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps7 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/569278b4ee3108e35822212f9bf7af08/69b488e0/20/9x0/90x7/907x6/90760000024/700449502_1/700449502.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps8 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/6e327107839becacc1dcb3c1d962865f/69b488e0/30/9x0/90x7/907x6/90760000024/700449503_1/700449503.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps9 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/d7cf49321ba13e2cfc12545c83bfd214/69b488e0/40/9x0/90x7/907x6/90760000024/700449504_1/700449504.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps10 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/ccb4602175ea108ad7402717efb368d3/69b488e0/50/9x0/90x7/907x6/90760000024/700449505_1/700449505.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps11 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/15d579527922609c073a6aa6257906c1/69b488e0/60/9x0/90x7/907x6/90760000024/700449506_1/700449506.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps12 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/dbe0a7431278a949c9ba0a2998e00921/69b488e0/70/9x0/90x7/907x6/90760000024/700449507_1/700449507.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps13 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/3ccc755a7031c17b85ed1814aec1e561/69b488e0/80/9x0/90x7/907x6/90760000024/700449508_1/700449508.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps14 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/b9136af2c03db31e2b94430b6fcedcfa/69b488e0/90/9x0/90x7/907x6/90760000024/700449509_1/700449509.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps15 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/780f54138367fecfc13e8e915c7b91dc/69b488e0/01/9x0/90x7/907x6/90760000024/700449510_1/700449510.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps16 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/1234aa6b8b85ca038e7538d8f4e6b19f/69b488e0/11/9x0/90x7/907x6/90760000024/700449511_1/700449511.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps17 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/9ffa8ba6a4b1d3a14557a54a04702d53/69b488e0/21/9x0/90x7/907x6/90760000024/700449512_1/700449512.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps18 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/6be962323bea56e5a2a3149ccd53fde2/69b488e0/31/9x0/90x7/907x6/90760000024/700449513_1/700449513.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps19 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/4f11c31e0b2aa050205d65ab3edafdab/69b488e0/41/9x0/90x7/907x6/90760000024/700449514_1/700449514.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps20 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/90be7e0129ab0d91eaf0cf27603388b2/69b488e0/51/9x0/90x7/907x6/90760000024/700449515_1/700449515.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps21 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/03643210310a538f7b98d3a09f39efdc/69b488e0/61/9x0/90x7/907x6/90760000024/700449516_1/700449516.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps22 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/b6620c33bec7e994f70eaf1275999549/69b488e0/71/9x0/90x7/907x6/90760000024/700449517_1/700449517.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps23 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/770adac1e9043402f501b64d1f45f8a8/69b488e0/81/9x0/90x7/907x6/90760000024/700449518_1/700449518.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps24 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/22626f423b62cf0788b0f69cdb7eb712/69b488e0/91/9x0/90x7/907x6/90760000024/700449519_1/700449519.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps25 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/dc9f6210dff6cc2c39f13126a1659d40/69b488e0/02/9x0/90x7/907x6/90760000024/700449520_1/700449520.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps26 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/c6cb8cccde9b549bed7c050dbafc5d40/69b488e0/12/9x0/90x7/907x6/90760000024/700449521_1/700449521.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps27 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/2c0d6a180e583c7549895b41ea5c9663/69b488e0/22/9x0/90x7/907x6/90760000024/700449522_1/700449522.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps28 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/27421212511ff52f945746bc495b7c92/69b488e0/32/9x0/90x7/907x6/90760000024/700449523_1/700449523.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps29 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/782ac885e28763586b6f06435d70935d/69b488e0/42/9x0/90x7/907x6/90760000024/700449524_1/700449524.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps30 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/1f7b8d3afd3ddae8d2002ed4579e2f64/69b488e0/52/9x0/90x7/907x6/90760000024/700449525_1/700449525.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps31 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/558db08b5253e96d8ddcda1a44be218c/69b488e0/62/9x0/90x7/907x6/90760000024/700449526_1/700449526.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps32 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/9157fa5568dc31836cb2411d22dbbcc9/69b488e0/72/9x0/90x7/907x6/90760000024/700449527_1/700449527.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps33 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/5b2bde8651f10c052cb8332b160e571f/69b488e0/82/9x0/90x7/907x6/90760000024/700449528_1/700449528.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps34 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/463bc945266a32487488c90892687e9e/69b488e0/92/9x0/90x7/907x6/90760000024/700449529_1/700449529.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps35 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/1da788285d516cbf3faf91b889a14764/69b488e0/03/9x0/90x7/907x6/90760000024/700449530_1/700449530.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps36 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/e218135a23237efbca8c360adeb3f36b/69b488e0/13/9x0/90x7/907x6/90760000024/700449531_1/700449531.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps37 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/8d287c63c816ddbdf85da7d5ef1c494b/69b488e0/23/9x0/90x7/907x6/90760000024/700449532_1/700449532.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps38 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/707e1f06c10eec3829a898a974a747c0/69b488e0/33/9x0/90x7/907x6/90760000024/700449533_1/700449533.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps39 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/981fc6fcb03279bc0d7bee995f0e07f7/69b488e0/43/9x0/90x7/907x6/90760000024/700449534_1/700449534.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps40 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/7b57641ec5af47f8c803db7f5c9e58c6/69b488e0/53/9x0/90x7/907x6/90760000024/700449535_1/700449535.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps41 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/2e2c1eb0d7453ae6ad494310f91db0b6/69b488e0/63/9x0/90x7/907x6/90760000024/700449536_1/700449536.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps42 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/7850bbde3d9f4a2f40c5fddf279bdd74/69b488e0/73/9x0/90x7/907x6/90760000024/700449537_1/700449537.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps43 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/088fdbcf0f62302436892b261563d753/69b488e0/83/9x0/90x7/907x6/90760000024/700449538_1/700449538.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps44 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/49a49ef9d71e88175ca3a7aafae17818/69b488e0/93/9x0/90x7/907x6/90760000024/700449539_1/700449539.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps45 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/8f7aedf2595059aeda59520be28d56a3/69b488e0/04/9x0/90x7/907x6/90760000024/700449540_1/700449540.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps46 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/b436b44ef83ff898aec62af0e5763e67/69b488e0/14/9x0/90x7/907x6/90760000024/700449541_1/700449541.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps47 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/0a903e6cd2de554b70a8343cfcc8a2e5/69b488e0/24/9x0/90x7/907x6/90760000024/700449542_1/700449542.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps48 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/33c91310645faab19e53908025829f8a/69b488e0/34/9x0/90x7/907x6/90760000024/700449543_1/700449543.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps49 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/1a2d4d92e377431fbdb543b36ddb37cb/69b488e0/44/9x0/90x7/907x6/90760000024/700449544_1/700449544.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps50 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/3360e02506175fe82e3610a3755877d8/69b488e0/54/9x0/90x7/907x6/90760000024/700449545_1/700449545.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps51 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/2e5f58a2e9d65040adc1fce0521d6934/69b488e0/64/9x0/90x7/907x6/90760000024/700449546_1/700449546.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps52 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/da46ae0c96db69d000626d71a9f7dc5f/69b488e0/74/9x0/90x7/907x6/90760000024/700449547_1/700449547.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps53 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/aaf65e408078f979c879bcc8590a38cb/69b488e0/84/9x0/90x7/907x6/90760000024/700449548_1/700449548.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps54 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/668037f23e639fa4d5499213bd34b2b5/69b488e0/94/9x0/90x7/907x6/90760000024/700449549_1/700449549.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps55 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/88908367093b72755adf15f160e698da/69b488e0/05/9x0/90x7/907x6/90760000024/700449550_1/700449550.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps56 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/fd599fe9e73ada152c2624940a83f8b3/69b488e0/15/9x0/90x7/907x6/90760000024/700449551_1/700449551.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps57 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/35f58d616213d1824b376206e8e78697/69b488e0/25/9x0/90x7/907x6/90760000024/700449552_1/700449552.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps58 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/9a045bdf3e9adad3b4c5c3b147ef4fb2/69b488e0/35/9x0/90x7/907x6/90760000024/700449553_1/700449553.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps59 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/d0c78f2e643f1a3532f21261c85c320d/69b488e0/45/9x0/90x7/907x6/90760000024/700449554_1/700449554.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps60 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/979b0341115b2a29082a3ebd00eed48f/69b488e0/55/9x0/90x7/907x6/90760000024/700449555_1/700449555.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps61 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/47f157b3166b9048f4e728b6e4071a76/69b488e0/65/9x0/90x7/907x6/90760000024/700449556_1/700449556.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps62 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/1a56e678ef55d461720ebb5bb05e17b0/69b488e0/75/9x0/90x7/907x6/90760000024/700449557_1/700449557.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps63 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/e9a3e8486c4f3ca0dd60308973a77745/69b488e0/85/9x0/90x7/907x6/90760000024/700449558_1/700449558.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps64 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/ba8b10aaf4793edfe1e50eeefff8a2a4/69b488e0/95/9x0/90x7/907x6/90760000024/700449559_1/700449559.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps65 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/8873bc5b52c0548c7861aa3497b1f4ad/69b488e0/06/9x0/90x7/907x6/90760000024/700449560_1/700449560.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps66 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/535cba4c20f0443334c440ac872cf2a7/69b488e0/16/9x0/90x7/907x6/90760000024/700449561_1/700449561.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps67 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/cf5149515829fe58b99d0cac6b79dba7/69b488e0/26/9x0/90x7/907x6/90760000024/700449562_1/700449562.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps68 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/dd155052b1cf0a9330fd15983f9dd005/69b488e0/36/9x0/90x7/907x6/90760000024/700449563_1/700449563.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps69 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/cd378c8c0313fd9b758247a4456e4748/69b488e0/46/9x0/90x7/907x6/90760000024/700449564_1/700449564.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps70 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/756d3cbbfb32b13bd0bf23ebd15a8e2e/69b488e0/56/9x0/90x7/907x6/90760000024/700449565_1/700449565.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps71 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/1f4e346f3d865c4fe5f8fc3f31f85a67/69b488e0/66/9x0/90x7/907x6/90760000024/700449566_1/700449566.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps72 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/04a0f02987dcb75e5013aa3398235acc/69b488e0/76/9x0/90x7/907x6/90760000024/700449567_1/700449567.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps73 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/9d368519e8ea61dd723ffb8ab75adc03/69b488e0/86/9x0/90x7/907x6/90760000024/700449568_1/700449568.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps74 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/4464184f579a83d5d24bb60e7af2a98e/69b488e0/96/9x0/90x7/907x6/90760000024/700449569_1/700449569.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps75 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/072921b5bce06c4523aef2c394334036/69b488e0/07/9x0/90x7/907x6/90760000024/700449570_1/700449570.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps76 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/9652487953a281dcad00946b83e065b0/69b488e0/17/9x0/90x7/907x6/90760000024/700449571_1/700449571.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps77 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/de366c0b3155ee5e99d4a11c723495e6/69b488e0/27/9x0/90x7/907x6/90760000024/700449572_1/700449572.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps78 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/aacf7a44ed9501360ae874bb497f3759/69b488e0/37/9x0/90x7/907x6/90760000024/700449573_1/700449573.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps79 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/d745e8aee764ba735bc3f1a76c368554/69b488e0/47/9x0/90x7/907x6/90760000024/700449574_1/700449574.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps80 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/c5f2489929f197e40f6f205540528494/69b488e0/57/9x0/90x7/907x6/90760000024/700449575_1/700449575.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Cinta Pertama di Ujung Perceraian",Cinta Pertama di Ujung Perceraian - eps81 [05:59:37 WIB]
+https://hwztakavideo.dramaboxdb.com/9174cb793686c4661f87d8f45c42b3ed/69b488e0/67/9x0/90x7/907x6/90760000024/700449576_1/700449576.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps1 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/0a9b0201cbe2d6f204d8807ff46b1097/69b47ad0/39/7x7/77x9/779x5/77950000024/700386493_1/700386493.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps2 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/0158999724a1f71fc733680d18a82423/69b47ad0/49/7x7/77x9/779x5/77950000024/700386494_1/700386494.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps3 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/a74c332b01d10cc4962d95792e9b636e/69b47ad0/59/7x7/77x9/779x5/77950000024/700386495_1/700386495.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps4 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/85921e74e06f3eba495b6cb785fb9a00/69b47ad0/69/7x7/77x9/779x5/77950000024/700386496_1/700386496.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps5 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/6219d8fb1f97edfa0fae0642d7ee976a/69b47ad0/79/7x7/77x9/779x5/77950000024/700386497_1/700386497.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps6 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/e70067034e700a44316e276f08d919f8/69b47ad0/89/7x7/77x9/779x5/77950000024/700386498_1/700386498.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps7 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/a1d9d3f4a7a29d2d15d9b036b928eed6/69b47ad0/99/7x7/77x9/779x5/77950000024/700386499_1/700386499.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps8 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/bfac434b02e4d20d5ef3c5c26e91af58/69b47ad0/00/7x7/77x9/779x5/77950000024/700386500_1/700386500.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps9 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/67f3f8f1659cf5989ad7462c4b709664/69b47ad0/10/7x7/77x9/779x5/77950000024/700386501_1/700386501.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps10 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/5ef67089e5cfe1989c8b6bfdfb0d506d/69b47ad0/20/7x7/77x9/779x5/77950000024/700386502_1/700386502.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps11 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/f879227847efd64315c8af89d98ad1d0/69b47ad0/30/7x7/77x9/779x5/77950000024/700386503_1/700386503.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps12 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/2848e929d5f9a9cc66c1da8830ef8d81/69b47ad0/40/7x7/77x9/779x5/77950000024/700386504_1/700386504.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps13 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/ee0014ed7fa7d20f384bf62ec3b4bfe2/69b47ad0/50/7x7/77x9/779x5/77950000024/700386505_1/700386505.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps14 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/1507beb1b2e025499ef4e175bc7cd9b6/69b47ad0/60/7x7/77x9/779x5/77950000024/700386506_1/700386506.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps15 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/8fa41d4b1b3b247a4b29016334c9eab9/69b47ad0/70/7x7/77x9/779x5/77950000024/700386507_1/700386507.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps16 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/85bb941d4857c429fed3a7db364ab9b4/69b47ad0/80/7x7/77x9/779x5/77950000024/700386508_1/700386508.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps17 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/ed28951be498529b53357a3d3b47bea5/69b47ad0/90/7x7/77x9/779x5/77950000024/700386509_1/700386509.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps18 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/c1dd191dc658c30944114478793997a0/69b47ad0/01/7x7/77x9/779x5/77950000024/700386510_1/700386510.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps19 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/f487f181d8586dc1e7b71e67ae9f6194/69b47ad0/11/7x7/77x9/779x5/77950000024/700386511_1/700386511.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps20 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/2a49990a812582301b515354ee23262c/69b47ad0/21/7x7/77x9/779x5/77950000024/700386512_1/700386512.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps21 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/e82ec6411dcd447e629b7ea42b5e3dde/69b47ad0/31/7x7/77x9/779x5/77950000024/700386513_1/700386513.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps22 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/80dd9f0f031403fea0c5a94e5c9c8348/69b47ad0/41/7x7/77x9/779x5/77950000024/700386514_1/700386514.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps23 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/54c5fb58d05ba132bffbd3f9bb468595/69b47ad0/51/7x7/77x9/779x5/77950000024/700386515_1/700386515.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps24 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/3035579d0ddfb495a2fe59a6e794efa7/69b47ad0/61/7x7/77x9/779x5/77950000024/700386516_1/700386516.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps25 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/1b9d9714f1a09d7149e3c5fcc1b89148/69b47ad0/71/7x7/77x9/779x5/77950000024/700386517_1/700386517.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps26 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/893ed05f882e254f143daf1654124aab/69b47ad0/81/7x7/77x9/779x5/77950000024/700386518_1/700386518.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps27 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/cb8accd94ea0d9b3bba6b21e4bbe332f/69b47ad0/91/7x7/77x9/779x5/77950000024/700386519_1/700386519.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps28 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/f777f7b56dcfead34e206f52ef404b8b/69b47ad0/02/7x7/77x9/779x5/77950000024/700386520_1/700386520.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps29 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/92f8edc8f8d2c4b1f2671c3c8ed48f5b/69b47ad0/12/7x7/77x9/779x5/77950000024/700386521_1/700386521.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps30 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/459a55fd109aa5160d01342573409c55/69b47ad0/22/7x7/77x9/779x5/77950000024/700386522_1/700386522.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps31 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/6fe69bcd9536834c1313fb5857a86481/69b47ad0/32/7x7/77x9/779x5/77950000024/700386523_1/700386523.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps32 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/63d0638b73d50075d716924b60feb7d8/69b47ad0/42/7x7/77x9/779x5/77950000024/700386524_1/700386524.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps33 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/ad0a514de4e215c1da24d6dfe289ed83/69b47ad0/52/7x7/77x9/779x5/77950000024/700386525_1/700386525.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps34 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/1911130fbb506d783f19473abbb2a592/69b47ad0/62/7x7/77x9/779x5/77950000024/700386526_1/700386526.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps35 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/fedfdfb77e26957808659aff8180a209/69b47ad0/72/7x7/77x9/779x5/77950000024/700386527_1/700386527.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps36 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/64522f634ee4e88c2339adbbe70ac83b/69b47ad0/82/7x7/77x9/779x5/77950000024/700386528_1/700386528.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps37 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/7ead291edccd0f5de1876bd3b37ae5fe/69b47ad0/92/7x7/77x9/779x5/77950000024/700386529_1/700386529.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps38 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/df0848a5939a9836b94971da2a9c8ab2/69b47ad0/03/7x7/77x9/779x5/77950000024/700386530_1/700386530.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps39 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/8a004612e0671a4f0859a12be648ad50/69b47ad0/13/7x7/77x9/779x5/77950000024/700386531_1/700386531.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps40 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/575100868093acce75162aa925e51cfa/69b47ad0/23/7x7/77x9/779x5/77950000024/700386532_1/700386532.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps41 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/403e5472620e66b1fb4f0575f59dba95/69b47ad0/33/7x7/77x9/779x5/77950000024/700386533_1/700386533.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps42 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/e50cc7de0fc80c11973a8d8ffc499b67/69b47ad0/43/7x7/77x9/779x5/77950000024/700386534_1/700386534.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps43 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/7a17372df423adbbb111b4533a1e9703/69b47ad0/53/7x7/77x9/779x5/77950000024/700386535_1/700386535.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps44 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/e2c62e04600f7bc927476e8c3b8cc61b/69b47ad0/63/7x7/77x9/779x5/77950000024/700386536_1/700386536.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps45 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/c4463efe998c5f171a74d2e1f46f233b/69b47ad0/73/7x7/77x9/779x5/77950000024/700386537_1/700386537.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps46 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/bc01009fcae2c9ebf54d37a27934cbc3/69b47ad0/83/7x7/77x9/779x5/77950000024/700386538_1/700386538.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps47 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/eb5e0b4bf9855db5626ce90ef9da01af/69b47ad0/93/7x7/77x9/779x5/77950000024/700386539_1/700386539.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps48 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/ef2460b749ebdf1e13ad310feecf1ff4/69b47ad0/04/7x7/77x9/779x5/77950000024/700386540_1/700386540.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps49 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/5cbd3aecc6991314206a578746ef8241/69b47ad0/14/7x7/77x9/779x5/77950000024/700386541_1/700386541.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps50 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/272612eaacce6728ad0cedb1d4de50ee/69b47ad0/24/7x7/77x9/779x5/77950000024/700386542_1/700386542.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps51 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/f037fdd5963a898749bff48d2ecbde0e/69b47ad0/34/7x7/77x9/779x5/77950000024/700386543_1/700386543.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps52 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/1b834021cccfd02afed44f63c9459c80/69b47ad0/44/7x7/77x9/779x5/77950000024/700386544_1/700386544.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps53 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/21ae3dc082a73cf890bd5c7c74e57855/69b47ad0/54/7x7/77x9/779x5/77950000024/700386545_1/700386545.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps54 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/96e64610ba01799d8c4266b85af51216/69b47ad0/64/7x7/77x9/779x5/77950000024/700386546_1/700386546.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps55 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/ff0ce132734310ae14cb23e846772812/69b47ad0/74/7x7/77x9/779x5/77950000024/700386547_1/700386547.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps56 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/208f6c32d628a5af0b40cf286a1a0945/69b47ad0/84/7x7/77x9/779x5/77950000024/700386548_1/700386548.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps57 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/79fb2b3ddbb3b18235302fa620f70e6e/69b47ad0/94/7x7/77x9/779x5/77950000024/700386549_1/700386549.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps58 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/4db257c418e53dc12d653071314f6d61/69b47ad0/05/7x7/77x9/779x5/77950000024/700386550_1/700386550.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps59 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/4db8006da485bb3140a145cace58dc38/69b47ad0/15/7x7/77x9/779x5/77950000024/700386551_1/700386551.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps60 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/3b54c872ca9cc18356e04564571e2525/69b47ad0/25/7x7/77x9/779x5/77950000024/700386552_1/700386552.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps61 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/42a5e5db1e588b1c8872816cfcec8834/69b47ad0/35/7x7/77x9/779x5/77950000024/700386553_1/700386553.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps62 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/c580c17750b7ccd4b65a875c14b20c9c/69b47ad0/45/7x7/77x9/779x5/77950000024/700386554_1/700386554.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps63 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/335b8e8cfb76636a6f004d86a81d7ffe/69b47ad0/55/7x7/77x9/779x5/77950000024/700386555_1/700386555.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps64 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/959d0d7f7747aaa77f3bf1fa6690d96c/69b47ad0/65/7x7/77x9/779x5/77950000024/700386556_1/700386556.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps65 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/00f5053586ae5031428dc0e598079feb/69b47ad0/75/7x7/77x9/779x5/77950000024/700386557_1/700386557.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps66 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/29999db0de396a8663af703bdbb1c8ea/69b47ad0/85/7x7/77x9/779x5/77950000024/700386558_1/700386558.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps67 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/583ddf4c74a6488dea5ad4d6207986ba/69b47ad0/95/7x7/77x9/779x5/77950000024/700386559_1/700386559.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps68 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/6de4e5f871fa8ed50f953496ff50a54b/69b47ad0/06/7x7/77x9/779x5/77950000024/700386560_1/700386560.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps69 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/071e7988b5e0f9908e0a55b88d1f49cb/69b47ad0/16/7x7/77x9/779x5/77950000024/700386561_1/700386561.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps70 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/f341c69edefd422e5e754552f3d5df8e/69b47ad0/26/7x7/77x9/779x5/77950000024/700386562_1/700386562.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps71 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/0c129316edd149aa7c19a5a14a815767/69b47ad0/36/7x7/77x9/779x5/77950000024/700386563_1/700386563.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps72 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/23ccfa2aadcddba7b1bd0b5f85614c23/69b47ad0/46/7x7/77x9/779x5/77950000024/700386564_1/700386564.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps73 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/d96bb50267140338a9e3f07e8eaa475b/69b47ad0/56/7x7/77x9/779x5/77950000024/700386565_1/700386565.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps74 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/da7089a54f91a93f607a476cbe8e76bb/69b47ad0/66/7x7/77x9/779x5/77950000024/700386566_1/700386566.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps75 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/dfca7d58e5416f37291bbde4c531ceca/69b47ad0/76/7x7/77x9/779x5/77950000024/700386567_1/700386567.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps76 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/1fdc16a59841cc6eb05d03ac9d13550a/69b47ad0/86/7x7/77x9/779x5/77950000024/700386568_1/700386568.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps77 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/89092d2d61ba762e7214efd2054fe448/69b47ad0/96/7x7/77x9/779x5/77950000024/700386569_1/700386569.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps78 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/ed8ed460ece108b7a25cae1c1666f641/69b47ad0/07/7x7/77x9/779x5/77950000024/700386570_1/700386570.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps79 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/999e6984121ddbb645fbff578b2790d5/69b47ad0/17/7x7/77x9/779x5/77950000024/700386571_1/700386571.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps80 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/d20c1fc3ecca6fd169894ed11dc73329/69b47ad0/27/7x7/77x9/779x5/77950000024/700386572_1/700386572.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps81 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/d0c4fd964f1bb9602fbca7cc011f7782/69b47ad0/37/7x7/77x9/779x5/77950000024/700386573_1/700386573.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps82 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/6eeddc6d6e58f638e078ce04fb85ccff/69b47ad0/47/7x7/77x9/779x5/77950000024/700386574_1/700386574.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps83 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/9a9ca1fad015d520e70b167cd297197f/69b47ad0/57/7x7/77x9/779x5/77950000024/700386575_1/700386575.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Pewaris Asli dari Sarang Penjahat (Sulih Suara)",Pewaris Asli dari Sarang Penjahat (Sulih Suara) - eps84 [05:59:38 WIB]
+https://hwztakavideo.dramaboxdb.com/0fdc59084451893960185034064ca477/69b47ad0/67/7x7/77x9/779x5/77950000024/700386576_1/700386576.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps1 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/ea9a898963bc13e04047d83a368a073e/69b488e0/76/9x3/93x9/939x2/93922100014/602518667_1/602518667.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps2 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/ed2cf3eac5b8a3dfa7f49b037368a7c1/69b488e0/86/9x3/93x9/939x2/93922100014/602518668_1/602518668.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps3 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/51f461c2c32793c220ade543bee646a7/69b488e0/96/9x3/93x9/939x2/93922100014/602518669_1/602518669.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps4 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/6ac809b34f6471cf90ac53c7341a6e10/69b488e0/07/9x3/93x9/939x2/93922100014/602518670_1/602518670.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps5 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/c0146e48c5b1a9f6c0bb28c2073f3055/69b488e0/17/9x3/93x9/939x2/93922100014/602518671_1/602518671.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps6 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/c76c00ec7a9e9d874cf745ef733b9e15/69b488e0/27/9x3/93x9/939x2/93922100014/602518672_1/602518672.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps7 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/46f625d52342877a17f7e44ed4265c95/69b488e0/37/9x3/93x9/939x2/93922100014/602518673_1/602518673.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps8 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/ea71ac6518cf3fe26b1f99cd7c3b8293/69b488e0/47/9x3/93x9/939x2/93922100014/602518674_1/602518674.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps9 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/fc3801e4787d23297537a1314db6285d/69b488e0/57/9x3/93x9/939x2/93922100014/602518675_1/602518675.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps10 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/d51fd0f3d5487da4ed43940eef542bbd/69b488e0/67/9x3/93x9/939x2/93922100014/602518676_1/602518676.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps11 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/904af0aa9092ec6cbc13d788c866f130/69b488e0/77/9x3/93x9/939x2/93922100014/602518677_1/602518677.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps12 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/35f7eed660dbe397aa6e0fee5b9a8a3b/69b488e0/87/9x3/93x9/939x2/93922100014/602518678_1/602518678.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps13 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/4477f589b588ef6ad2a455c62e7d4bd1/69b488e0/97/9x3/93x9/939x2/93922100014/602518679_1/602518679.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps14 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/4145a676ef22ef2e4a4fba54de8dcde2/69b488e0/08/9x3/93x9/939x2/93922100014/602518680_1/602518680.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps15 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/dac8af8cc16a30ed5e5c07be33dd1923/69b488e0/18/9x3/93x9/939x2/93922100014/602518681_1/602518681.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps16 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/db5b0ac84075cd80a8d662fc626b392b/69b488e0/28/9x3/93x9/939x2/93922100014/602518682_1/602518682.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps17 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/c88169b5a40e63ef023eea671a7f7567/69b488e0/38/9x3/93x9/939x2/93922100014/602518683_1/602518683.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps18 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/26d0812beb756d552db88f72b33d244a/69b488e0/48/9x3/93x9/939x2/93922100014/602518684_1/602518684.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps19 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/c960b2814ed00a0e0d1adea6cf6151f9/69b488e0/58/9x3/93x9/939x2/93922100014/602518685_1/602518685.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps20 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/3115568a9ab68e3dd11b0b3a27af856c/69b488e0/68/9x3/93x9/939x2/93922100014/602518686_1/602518686.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps21 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/d0537c8792a61ce5e18dae17ddf18cce/69b488e0/78/9x3/93x9/939x2/93922100014/602518687_1/602518687.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps22 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/bbbe0d2bacdb33077e1db9ae5aa35e28/69b488e0/88/9x3/93x9/939x2/93922100014/602518688_1/602518688.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps23 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/cf3d4e2def4cc684dc4260561760793d/69b488e0/98/9x3/93x9/939x2/93922100014/602518689_1/602518689.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps24 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/4d6736fc564c0bc709890c967b473b2c/69b488e0/09/9x3/93x9/939x2/93922100014/602518690_1/602518690.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps25 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/d7aa9d1b906dc7d89f448320f0b9708b/69b488e0/19/9x3/93x9/939x2/93922100014/602518691_1/602518691.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps26 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/b0b4632aa4a3c396c3e53c46d7aff6fa/69b488e0/29/9x3/93x9/939x2/93922100014/602518692_1/602518692.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps27 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/6795bdf66ae322eaa67ebe996bf089f9/69b488e0/39/9x3/93x9/939x2/93922100014/602518693_1/602518693.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps28 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/c76842afe822ddd5eef3af0738ff033a/69b488e0/49/9x3/93x9/939x2/93922100014/602518694_1/602518694.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps29 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/fe09d60f638a71488cac5790cdefb7e9/69b488e0/59/9x3/93x9/939x2/93922100014/602518695_1/602518695.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps30 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/35853a50f162591b7bb191ec2a321f01/69b488e0/69/9x3/93x9/939x2/93922100014/602518696_1/602518696.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps31 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/1b491ea20c48870a563e5a29e1dcdbf7/69b488e0/79/9x3/93x9/939x2/93922100014/602518697_1/602518697.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps32 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/54ad22e7182111edcde21ed9330189ae/69b488e0/89/9x3/93x9/939x2/93922100014/602518698_1/602518698.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps33 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/777eb970899afb2859ab83ebc0359ab4/69b488e0/99/9x3/93x9/939x2/93922100014/602518699_1/602518699.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps34 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/b0a0b5b0fdf6bfde63eba2bb31074801/69b488e0/00/9x3/93x9/939x2/93922100014/602518700_1/602518700.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps35 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/98b44723a6f43ed1d96de27a905118b2/69b488e0/10/9x3/93x9/939x2/93922100014/602518701_1/602518701.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps36 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/bb7998b347c205756e715ec5cfe66bd4/69b488e0/20/9x3/93x9/939x2/93922100014/602518702_1/602518702.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps37 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/0892e690270e98ed8630b7919d78e142/69b488e0/30/9x3/93x9/939x2/93922100014/602518703_1/602518703.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps38 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/907516049f4a4c067a38f64fdd21054f/69b488e0/40/9x3/93x9/939x2/93922100014/602518704_1/602518704.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps39 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/701bfa17a3a131db450ed8bbff514af0/69b488e0/50/9x3/93x9/939x2/93922100014/602518705_1/602518705.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps40 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/f1beb73191bd1470327888e178d423af/69b488e0/60/9x3/93x9/939x2/93922100014/602518706_1/602518706.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps41 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/bac486a3b851a4c862871dcfff303a2e/69b488e0/70/9x3/93x9/939x2/93922100014/602518707_1/602518707.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps42 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/d68280b9220ffb89e47663bddf97d0eb/69b488e0/80/9x3/93x9/939x2/93922100014/602518708_1/602518708.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps43 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/0586aa999bb60d11631faa82a866c923/69b488e0/90/9x3/93x9/939x2/93922100014/602518709_1/602518709.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps44 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/de35130db9862cb8a154270f49ad6f43/69b488e0/01/9x3/93x9/939x2/93922100014/602518710_1/602518710.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps45 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/f867b91dd83574abe261dfefb50e29c5/69b488e0/11/9x3/93x9/939x2/93922100014/602518711_1/602518711.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps46 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/bdaeac61105241bda82d313e3c7ebe7a/69b488e0/21/9x3/93x9/939x2/93922100014/602518712_1/602518712.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps47 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/b768a3a6097c6ac7f5f3b83f415c753d/69b488e0/31/9x3/93x9/939x2/93922100014/602518713_1/602518713.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps48 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/293e526d9c1ff81081db2aa1e96dede9/69b488e0/41/9x3/93x9/939x2/93922100014/602518714_1/602518714.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps49 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/7a157064c1ebb23e02d09be2ef8fc74a/69b488e0/51/9x3/93x9/939x2/93922100014/602518715_1/602518715.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps50 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/ba86a8c9254a8d95679160f2d373aff7/69b488e0/61/9x3/93x9/939x2/93922100014/602518716_1/602518716.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps51 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/67a18768bc68e779b3ab0f415c08e6f9/69b488e0/71/9x3/93x9/939x2/93922100014/602518717_1/602518717.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps52 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/d01b05fb086701a895760cdbca170153/69b488e0/81/9x3/93x9/939x2/93922100014/602518718_1/602518718.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps53 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/3fb3328fd73b122182e44dbcb2235bf0/69b488e0/91/9x3/93x9/939x2/93922100014/602518719_1/602518719.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps54 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/c3a025b24ced1388f39b32d30b49cd22/69b488e0/02/9x3/93x9/939x2/93922100014/602518720_1/602518720.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps55 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/423804a99802966fff3e35035c58e2bd/69b488e0/12/9x3/93x9/939x2/93922100014/602518721_1/602518721.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps56 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/396ca54d8226a914f136d47af8421465/69b488e0/22/9x3/93x9/939x2/93922100014/602518722_1/602518722.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps57 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/d01000e268a95a452a1cfa3d696b17fa/69b488e0/32/9x3/93x9/939x2/93922100014/602518723_1/602518723.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps58 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/b33c026d294ad955e9c926be074520e0/69b488e0/42/9x3/93x9/939x2/93922100014/602518724_1/602518724.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps59 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/3f575ad1365f265ecb54ef1e1506d7be/69b488e0/52/9x3/93x9/939x2/93922100014/602518725_1/602518725.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps60 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/d50b755cc885fe8304c533ff6479a4c0/69b488e0/62/9x3/93x9/939x2/93922100014/602518726_1/602518726.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps61 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/c34fb7f91714c528cead00066fc1580c/69b488e0/72/9x3/93x9/939x2/93922100014/602518727_1/602518727.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps62 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/0275625814cf4c978e5731e1eaf27a9c/69b488e0/82/9x3/93x9/939x2/93922100014/602518728_1/602518728.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps63 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/bcdf4c3401a1255bb0a03f1c87ff53ab/69b488e0/92/9x3/93x9/939x2/93922100014/602518729_1/602518729.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps64 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/dc73d87d8b8ef00c6c11526abadc9e87/69b488e0/03/9x3/93x9/939x2/93922100014/602518730_1/602518730.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps65 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/b1e5a2a5adcb3e942bdcd52ee267de47/69b488e0/13/9x3/93x9/939x2/93922100014/602518731_1/602518731.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps66 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/18219432b18921c58a6a1a8d12918e80/69b488e0/23/9x3/93x9/939x2/93922100014/602518732_1/602518732.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps67 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/f48bf71c631b9263cf982eddf12e19ac/69b488e0/33/9x3/93x9/939x2/93922100014/602518733_1/602518733.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps68 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/1e04f7487f97412800198cb30418c321/69b488e0/43/9x3/93x9/939x2/93922100014/602518734_1/602518734.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps69 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/7ae1bf50bab8cbd3c91a0f4f407fb6c3/69b488e0/53/9x3/93x9/939x2/93922100014/602518735_1/602518735.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps70 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/1964667a1784ba19460c4f663dfc3962/69b488e0/63/9x3/93x9/939x2/93922100014/602518736_1/602518736.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps71 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/2396ca05584c0f4a8378e95d2982607e/69b488e0/73/9x3/93x9/939x2/93922100014/602518737_1/602518737.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps72 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/97f776187d857a81b600f8b5aded72ad/69b488e0/83/9x3/93x9/939x2/93922100014/602518738_1/602518738.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps73 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/56190d8337050307b674d4f6590eda08/69b488e0/93/9x3/93x9/939x2/93922100014/602518739_1/602518739.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Istriku Tiga, Takdirku Gila (Sulih Suara) ",Istriku Tiga, Takdirku Gila (Sulih Suara)  - eps74 [05:59:39 WIB]
+https://hwztakavideo.dramaboxdb.com/2c2c3c800bf8c77f18f40cdb1709b55f/69b488e0/04/9x3/93x9/939x2/93922100014/602518740_1/602518740.1080p.wz.g264.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps1 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/f829bf7ad7b2d1d6e025ce17fe3879d5/69b47ad0/60/9x6/96x2/962x6/96260000024/700411006_1/700411006.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps2 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/398206b9fb1ba0ce42a437e9c003781d/69b47ad0/70/9x6/96x2/962x6/96260000024/700411007_1/700411007.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps3 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/5ffd168f8d4b01e15a22b34117e50dd8/69b47ad0/80/9x6/96x2/962x6/96260000024/700411008_1/700411008.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps4 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/f082a827d35954e9c0aa9fbbf66e4f28/69b47ad0/90/9x6/96x2/962x6/96260000024/700411009_1/700411009.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps5 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/722b5e007a5cb39657b505bf56d63423/69b47ad0/01/9x6/96x2/962x6/96260000024/700411010_1/700411010.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps6 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/32e8bc71a97e884831f00ee1efb2e39f/69b47ad0/11/9x6/96x2/962x6/96260000024/700411011_1/700411011.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps7 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/1558b2a893df9ab8a648de0dbdbc1224/69b47ad0/21/9x6/96x2/962x6/96260000024/700411012_1/700411012.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps8 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/46cf6f3c4054fcbdce22dcd3f321e6f4/69b47ad0/31/9x6/96x2/962x6/96260000024/700411013_1/700411013.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps9 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/6922b6c44060a8c05e484c089b80c741/69b47ad0/41/9x6/96x2/962x6/96260000024/700411014_1/700411014.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps10 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/f79ccc882a419344844592806df18207/69b47ad0/51/9x6/96x2/962x6/96260000024/700411015_1/700411015.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps11 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/cca393ef471313152592163bec13b588/69b47ad0/61/9x6/96x2/962x6/96260000024/700411016_1/700411016.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps12 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/0549731db1691a81fb47cff924df09fb/69b47ad0/71/9x6/96x2/962x6/96260000024/700411017_1/700411017.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps13 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/9b57814c365b72fb52dd23f345bda2bd/69b47ad0/81/9x6/96x2/962x6/96260000024/700411018_1/700411018.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps14 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/a7d24a2d0bfd8d292b57ce76a3a564fd/69b47ad0/91/9x6/96x2/962x6/96260000024/700411019_1/700411019.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps15 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/19e05adcff40c43eed38a72166870c8a/69b47ad0/02/9x6/96x2/962x6/96260000024/700411020_1/700411020.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps16 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/2b09bb6c4200b1c8aa5062435b7fa14b/69b47ad0/12/9x6/96x2/962x6/96260000024/700411021_1/700411021.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps17 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/f644a81b30e0dfed9d46751f7b2530ac/69b47ad0/22/9x6/96x2/962x6/96260000024/700411022_1/700411022.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps18 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/45ee16b271f36eca90280fd962396b60/69b47ad0/32/9x6/96x2/962x6/96260000024/700411023_1/700411023.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps19 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/42433931f8998fbadfe4b47df821a81e/69b47ad0/42/9x6/96x2/962x6/96260000024/700411024_1/700411024.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps20 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/52cf3c2dd9f5973e609ded5f1ba9b1cb/69b47ad0/52/9x6/96x2/962x6/96260000024/700411025_1/700411025.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps21 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/4a58a1443c02c5ffab403fbbf6bd4edb/69b47ad0/62/9x6/96x2/962x6/96260000024/700411026_1/700411026.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps22 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/72af168f069b763f50955a2667a31c06/69b47ad0/72/9x6/96x2/962x6/96260000024/700411027_1/700411027.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps23 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/e207de58dcca80aa93884daefe0ed307/69b47ad0/82/9x6/96x2/962x6/96260000024/700411028_1/700411028.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps24 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/58f10ea786b0c7e51470093a2400bef3/69b47ad0/92/9x6/96x2/962x6/96260000024/700411029_1/700411029.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps25 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/789a6fc28ec2e9fb0425c5b47d7b719b/69b47ad0/03/9x6/96x2/962x6/96260000024/700411030_1/700411030.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps26 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/be17c25c860cb56fc9e9c3705d935d27/69b47ad0/13/9x6/96x2/962x6/96260000024/700411031_1/700411031.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps27 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/b1a96fd450c9cb096ed5e6981383320b/69b47ad0/23/9x6/96x2/962x6/96260000024/700411032_1/700411032.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps28 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/9b205dc04cb4f03f99e7ad46f3a17b65/69b47ad0/33/9x6/96x2/962x6/96260000024/700411033_1/700411033.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps29 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/09ac271a0e62d1177e4beabbc4c7d682/69b47ad0/43/9x6/96x2/962x6/96260000024/700411034_1/700411034.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps30 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/afded4270e17fbe03a22c951a23c0116/69b47ad0/53/9x6/96x2/962x6/96260000024/700411035_1/700411035.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps31 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/a14ca3e7dd498fc8f17fc293c2c7fc55/69b47ad0/63/9x6/96x2/962x6/96260000024/700411036_1/700411036.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps32 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/57c09cd1ec3f779985492c55646246d2/69b47ad0/73/9x6/96x2/962x6/96260000024/700411037_1/700411037.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps33 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/c111502dbd6dc1268490871114a95199/69b47ad0/83/9x6/96x2/962x6/96260000024/700411038_1/700411038.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps34 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/a0f6cc03a91b83c71d4b8bf4b5f43848/69b47ad0/93/9x6/96x2/962x6/96260000024/700411039_1/700411039.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps35 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/f7c0a7dfaeeb3e17805aaf90e81284f8/69b47ad0/04/9x6/96x2/962x6/96260000024/700411040_1/700411040.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps36 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/ec10528f394f198a4692f146f6569887/69b47ad0/14/9x6/96x2/962x6/96260000024/700411041_1/700411041.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps37 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/c881471f4627511cf18c420d58254d1d/69b47ad0/24/9x6/96x2/962x6/96260000024/700411042_1/700411042.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps38 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/1e0f29917e616ce076e4db55c0f71fee/69b47ad0/34/9x6/96x2/962x6/96260000024/700411043_1/700411043.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps39 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/5e32ade738584bc309dee28ce149704b/69b47ad0/44/9x6/96x2/962x6/96260000024/700411044_1/700411044.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps40 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/5f516dd123a1d66949854cf67dbc0ab0/69b47ad0/54/9x6/96x2/962x6/96260000024/700411045_1/700411045.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps41 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/3947c3a352647a34b5f5c8f137b9f3a2/69b47ad0/64/9x6/96x2/962x6/96260000024/700411046_1/700411046.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps42 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/91f3b2f70a75897391665b8bd9466287/69b47ad0/74/9x6/96x2/962x6/96260000024/700411047_1/700411047.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps43 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/a4cdf82807dac9eb70c34df669f817ed/69b47ad0/84/9x6/96x2/962x6/96260000024/700411048_1/700411048.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps44 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/e473ca8300b7d61f4811e722e92c6c2d/69b47ad0/94/9x6/96x2/962x6/96260000024/700411049_1/700411049.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps45 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/a06e87197af0e5ec8d04855d7e965740/69b47ad0/05/9x6/96x2/962x6/96260000024/700411050_1/700411050.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps46 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/14e739f335afba7e5e4eb1217b10b98d/69b47ad0/15/9x6/96x2/962x6/96260000024/700411051_1/700411051.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps47 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/f86121e03bb327734e4829f290a3e56a/69b47ad0/25/9x6/96x2/962x6/96260000024/700411052_1/700411052.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps48 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/962470e33595bd3dedc281ad76c0d550/69b47ad0/35/9x6/96x2/962x6/96260000024/700411053_1/700411053.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps49 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/3d8b0e70bb8ec314be3779824dd7e062/69b47ad0/45/9x6/96x2/962x6/96260000024/700411054_1/700411054.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps50 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/34b43f3310e5e540932c497164aab37d/69b47ad0/55/9x6/96x2/962x6/96260000024/700411055_1/700411055.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps51 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/f9dc0d1c1b3a46a597c047aaa586882f/69b47ad0/65/9x6/96x2/962x6/96260000024/700411056_1/700411056.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps52 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/c0cb635f0fec8410765d67666a4f3b75/69b47ad0/75/9x6/96x2/962x6/96260000024/700411057_1/700411057.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps53 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/004c2496e54c757869de7a04ef9b29b6/69b47ad0/85/9x6/96x2/962x6/96260000024/700411058_1/700411058.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps54 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/db4f0482eed1d81f396e593e28c85e71/69b47ad0/95/9x6/96x2/962x6/96260000024/700411059_1/700411059.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps55 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/b94bfb307a99495dfd8d85c55d718c0f/69b47ad0/06/9x6/96x2/962x6/96260000024/700411060_1/700411060.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps56 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/dd6949fd5fe360f1a4e7dd7c1612524c/69b47ad0/16/9x6/96x2/962x6/96260000024/700411061_1/700411061.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps57 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/534ae05cc8eb03d5771c76a10356cae1/69b47ad0/26/9x6/96x2/962x6/96260000024/700411062_1/700411062.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps58 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/be19f6fe7040d1f876c5ec7967dd674c/69b47ad0/36/9x6/96x2/962x6/96260000024/700411063_1/700411063.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps59 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/454d27e31c4accc1c6ddf23fab7d0170/69b47ad0/46/9x6/96x2/962x6/96260000024/700411064_1/700411064.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps60 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/8fe59ed25786e7d296f652eaf2240c73/69b47ad0/56/9x6/96x2/962x6/96260000024/700411065_1/700411065.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps61 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/d522e66f141ed40302840da386480557/69b47ad0/66/9x6/96x2/962x6/96260000024/700411066_1/700411066.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps62 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/04361aba3bdd4304e08088891ac40a0b/69b47ad0/76/9x6/96x2/962x6/96260000024/700411067_1/700411067.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps63 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/fb273cb5c726a786b2c9437b122f86a3/69b47ad0/86/9x6/96x2/962x6/96260000024/700411068_1/700411068.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Aku Bos Sebenarnya",Aku Bos Sebenarnya - eps64 [05:59:41 WIB]
+https://hwztakavideo.dramaboxdb.com/aa325573923b6bb9a31de0a81832f447/69b47ad0/96/9x6/96x2/962x6/96260000024/700411069_1/700411069.1080p.nav2.mp4
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps1 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/56/9x9/99x4/994x0/99401100014/585488965_2/585488965.1080p.wz.g264.mp4?Expires=1773435600&Signature=QZyxcFuWZHIQ2Y8IrN~AvzV44cOqP1jH1bE9ykF58s3yetqM5UkrF1LcJqmZ5Ee~1Lz-OHKBr6xCqf-PNzn4G-Br2BTQOoh38HvV2LDvWNNmqe8ezrQDQ52erq7FqjbaiPBzdLtmNaCNwP~jaifOkTFn735s6fzew66QyfYMGJn3ShNLbazvE4Zr498UwLuSSaUTPEYcJo1PIbjEwEGUbCnByOe4yiXRN0XtaOoH2RZwmbBqFyTHl4gZsC2Un5eX5ZJmx3Dj8HTCuQecNfElR0WqVs5Dx4U9Cd1WdeVJ1RDrrd-VZMhRk-kOkw-Wr1~Hge8lD92W2556C67sdBin7A__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps2 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/66/9x9/99x4/994x0/99401100014/585488966_2/585488966.1080p.wz.g264.mp4?Expires=1773435600&Signature=R-lOeTQeOUZUqF3Sy2wVbEPLT68K~g6ZIWlrkgf6tN74SVJf68Gv2dDj2Vn0NJcdsxlbKB29CEIpHGYlxkKKpSK4ipjtb2hy5tqZ0eusFzHKoL3tLkFIzfg5ZM~hOrEZQz1qjleNwi-7T9OJ2CK2B5-k6jFQJqeT1GX1lHShhliCPfcjJB38QmXqT~x820CenH4ZkqHtRwUixZU0VLUHIqPsZcO~WIC61Lnh6BKQXt72oyyASS-bOA68UOKqpZyXPCYcm8Ao9xWzt1EeZ0Zi-d6N4lXgwc8X9qXB~h4mCOYcASuQSahoqA5cTaFsvgJncM8okidJBkWZbqTJ~Q400g__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps3 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/76/9x9/99x4/994x0/99401100014/585488967_2/585488967.1080p.wz.g264.mp4?Expires=1773435600&Signature=bGas~FqfWvitpIYsTfrnp4d45IoOraYgqLWRZoh5BxoBtDGxRL-NX6dDWe6HFV-nuGDdjTcGca0BFaBHPI4UX3Gqmjj701Gy4cF~rXCCf3PfYCgvGF5NKx8UMEQNacaPKpB9-htbyyWpv0XuwOUSUU5vbByGnZZClyA5o734QP2bNfN0U3YRpeXj6X7Srk68DUSfOrByaioZWVsRzjGeE9nIucCCmmFxW9G21Pnuyd~e4Ggef8Cs2CJDBzLsZMrDi-8dLBR6wzvPrE4DvJoHdbfbV60-rOecwUPlNNdyUZVjtDqGN3I8zvdg31dCp7VAk8uDUXQCUbCorSsOa7nvkA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps4 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/86/9x9/99x4/994x0/99401100014/585488968_2/585488968.1080p.wz.g264.mp4?Expires=1773435600&Signature=HopgGNeFztJ0ObuXdLq5ST7t5Wo35u3Ib2wL-MNHqOzt43gtz3Gu3OgOmnvct3c1zkNULsveqy5948HtN0-xjv71lH2olsYiE2aNr2h81MjrAl~QMVVavnBoxZ~ZDjSZaJp4fHBM6hIBCzYy12Pk3w0QyfknClbihD58emXXoz8QPx7VAsLa23zFb7UNKr~-7eErlEm6SroCdFeDzv53kaSo2dFUTSd7XI7fwhPF86krjLJnUZTFACBmoazIQYmmbRN8yNPYmrsFtcYCjuuZaDV0nvbUI7Z9Opm8WyITXRLMdcxZOy5JrjvqisUvahSrBBjEJg1ZjiAMyGLu4d9c5Q__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps5 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/96/9x9/99x4/994x0/99401100014/585488969_2/585488969.1080p.wz.g264.mp4?Expires=1773435600&Signature=cHeOzGrtuowI-DnbLiHi8PHnRX~kEEXuvvkYniurZPUHH82IiV73JBqDZIgmiBjUcFcg8HK~aMJ0U~ak5-wBRLsK8Qd9vhsC1RVOBstKs~26CXX1M2sTF1WGI5CGLSK--JpBAgXOA718i9mSSg055FP9SJu49~cBqCP6Q~ms30QtmfcT6YhZ0J8eXEjwJ0CFMvZAgoNMcc7JNgJS5PgZM6WxvvbfBGIievQTiAOThFbKslysfhogQ3vqa61NRfnFr3NlGKnvtRvVWSW~oR7yGqrrS~yTY3GvviqjP5xqS5L2QdeGPQi9sf8v6i903uL-qMGBNG0gsNTtXXT6rJGqug__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps6 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/07/9x9/99x4/994x0/99401100014/585488970_2/585488970.1080p.wz.g264.mp4?Expires=1773435600&Signature=rwF6UIbnkiunhQkNh2Tdx8B~UM8~zW7x5-bdPgS3WRrLgE41jKHL08uh~aKP-pXxYdu6leXzVj6VMRizh6mA0XDOiZEVXUGfq4b8Z9~DdD1WFQ7XZKRagcwlztUfl-GNEDzqpx8EqppQgOLZVa~ENbCyDKgN-QAkw3oam6yzeahgsI5xHtN-9p3ajOwKXy~n90jcFmIDYCnZDDtCBHrq68bydfDPEyMsE8DSY5~pr4DsFEW2IJm~vx3EeHNTSF56l4EfrzsT5TA7uhB28~6t0I2p2UpSdVhQlGSQ6tpMaCoeJEwe3k7KvRRNvEIPbC6DnZFH3PUOGsOeoeYiuOB4jQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps7 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/17/9x9/99x4/994x0/99401100014/585488971_2/585488971.1080p.wz.g264.mp4?Expires=1773435600&Signature=sI6Ly8XR403h2BpTc-FGkIKHDiGRAt3OeMa-kNoc5x~ulcWcEiVBuc-pfkCD0o1Ax1-uP5bjkKEgBw~uRF5ufMsLAOHHS-Xi0i2-MU-i3ryo1jXpuxQVKBRi3YCgpDsmHayjzNIM9FTrGmgsEGIOlJePYiCleiqN46S5lsBvZUaIs4dmRjQEbjyI2c5c5EV1gBM64z33L-YjXdpfYljyDnv9BTJoo9UMOmGIMjHKJoMtK6QpC5bJlNprmJqLxqO72NDDGQdany50bkWAX5tNugYtYKIZx~OL6TvC8VLzUli-AgdMHLwiezTGnc~BxrOCtf28Gjzq411mDY-CefU5iA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps8 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/27/9x9/99x4/994x0/99401100014/585488972_2/585488972.1080p.wz.g264.mp4?Expires=1773435600&Signature=cV5veW8CMbYiIzR9VIp0z-4ORKC4pbjY40WJnB5FxMPuiJu~1fnkcow9yELmy-2U3rqlg6jZmejFayBUc-HAiUvhc-ICuNDKe7hCDu1IKnOUZHMaBYJH9AEkYa6xsuub0LLDWbUZDbN-f0d1JavxgxhXkeBMLDwoTDZz9gTuotdJIfsdGo5v909FhIiBxK0cGnh0OeWrn-pza89WQPVPK14ak3NesGHMcPTYAAQ1tacZhBN4coVpTI~MICbnNfKVwl9qarFEYLVG~6XD0Q37eUKy9bbtsN2mRIBoK5UluOoDNRQ7UX~yYc~BG0YxKZ-sXnsInGTlBYZWkPzgKl4GGA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps9 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/37/9x9/99x4/994x0/99401100014/585488973_2/585488973.1080p.wz.g264.mp4?Expires=1773432000&Signature=i7EdF8xXCeB98Pr2CpOQhbFRqhcHbt5fttqfRKY0IbFczH5ftKG0PKufJ44f1CpMBAyPI85ED68yKdhoyHLHAWVUgrLjMi6UWScwLEGJs2x-qqMf~hfDHA3xK0hNZAbiyJmsFX1m9wTlZz4LAseKuL5dqBFPYu7oNONCTz67SqHzWTRer4OlkxroztGGfEdQGfy8pYuoWNHeP7~nc41seO9m2GLVenCs-WuAAeutfiK6j5zn6UZfiagmXu-PPybhiA5DyCUwVh4R3MpuMTrELQ4mfSi0BH9N4VnEc1lWffFivxnSgwvgNBnkyj0SxQc1DgmKoDdiSkWHVKlMnJbuVg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps10 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/47/9x9/99x4/994x0/99401100014/585488974_2/585488974.1080p.wz.g264.mp4?Expires=1773432000&Signature=XX7d26PwPwZ4UGdZdkOawRJepkBR9glyjXdWwKnBiN7mnRIIk0FGhPYnw-UI8YkSVVS3V8RgQB4~gtdIJX2bNhE04cl-ZzfEImj-dKaSJPTL5UBXH0xG4cq9KeHTMbV8Q~LjBX-bTThHv2GoX-Vi~QbcoeqtUDg7V4fXfoP3g7HCKOoXo4lg8rKiFhraZ3hXl40hvgJIkySMXI27jL8iqSsuU9v78PRnMwRaqCKMJSXRKAQdngLz0Ksm1~NZb967F-GPWXIa72WElFkFGVH66hA5u0O6XdgPorIYpKyNUbYr01oCfmYegqnduNv0xpxch~fOXv0ozeXsSJSkrIevzA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps11 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/57/9x9/99x4/994x0/99401100014/585488975_2/585488975.1080p.wz.g264.mp4?Expires=1773435600&Signature=kCUjz-IZ45lB2F~QWu5E47oxR2q7uTBJcTYt0Y5Cd3TURoK5dS2KeK7BxbVQdy5S4KJKjiH8Fq3UvepT8H1Dv-p8pdeFR82eecUo53UbUwK3LzlWuOBrl3QskPPsSq5VLo96ZTknL6-IWyAha3UXBGc0Tt674exnQNMoVxEeS00lj7~AmzflztFa0qCM9bLSijhi0RXgsbCtbymA0VVDO~Ls7jIz4FjHzEg51ooN6Xq1qBwXjDd1CJISfd6HSn0UxoTH7oYcSKIex6p73blFR387u4XoixQyH0BjEkO8asuySg5upPwntmx5CRun07XgPuVK5jjCi3HxHr8csKAPTg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps12 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/67/9x9/99x4/994x0/99401100014/585488976_2/585488976.1080p.wz.g264.mp4?Expires=1773435600&Signature=t32EpfL7xBeQHh6OJsrpiEilB68QaML7wAHz8TPMCmXO-MdtwVOBB~9ykvDc0Z1QdZORdBHZGQPNFmXRkWk0cqY4zW-a1MHZbwhIUOsOV6gRsJUgBdb2o00RD9DNSdKeFuv82U8W9lnGnIWgKvwjs5wZKSZzmlhQ4omJqYBZf8CIGmENokCagpYlYsDbBY9hdyeyNhPGyhxmqKrW95Ved0uEBB4FkqKqGFv6lyHJA0TyZVfid~FxJkZz2gDtqjEKuRLVBfGv72LbXN-5HIa4PtyCLi3SvLOtuKKASbtO9ZiSmWlUUgyszR4Xm8Lmw8c4Ywz-JcJAsRrfFfYLfRTchQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps13 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/77/9x9/99x4/994x0/99401100014/585488977_2/585488977.1080p.wz.g264.mp4?Expires=1773435600&Signature=v9qVsLUMuGsOAd~xyWIsQ79Bnpsos1f4yt8iAoq9zA824rDe~TttyjVUAfr~fmGtaXT3F-EYHhqPLqt-EVIuLO62vofEm-u4jmCvBRMPd7fmGM8D8X3cQ~XC27vO6ixxcaBAbGQqxOz9K0dPqqs9vDvU6VuAZU-xnMcSqF7SxHpibKQ975SiLdNxNTfQK-L5DpGcUthoM0qEjZ8PWoJp4ZqUg336va3SHQkZD4zHqZuaIgXQU2L-cz8aLsV60XxmV3LOXW0kcwc~RcT-Aj~CfDUcsjBOZT3B37XDt0iJEinZaQAupja~r3ZLJnJF42GfADSS86Z-5Ym8bI9I9NAAMw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps14 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/87/9x9/99x4/994x0/99401100014/585488978_2/585488978.1080p.wz.g264.mp4?Expires=1773435600&Signature=UR1DZik0TajCvsxh0uQ~P7Mp~GJ9e01dQ2~sn7VZtNAAHi6mlc0~BcVgHKy4Oa-jYvjQx5sBGV-YeA4mv6WalkjOK24~x56M18xmGQwsLHUCVCaJbGyG8aNjbYJ9uMZs4pN0uzoRgnFZMEmJdcjKHiq3EuDUVA0iWbvYCm56C67yIRNVgq6tt8tfsEbHrEuv8dOC2cGo2S9SIdaA~q~ya0yBSkkMGqRp-Svxn0ILG8lUJPQ6HsVlK~LiDNa4j7gJ7mTFO2cxbNxNquheOiTZ5og2pSQh-tPTaJVUHxi6ygbxn-fDojP-ZBpUg3dkEvFFMR6Y4NpfnFF5gCj1-RjvpQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps15 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/97/9x9/99x4/994x0/99401100014/585488979_2/585488979.1080p.wz.g264.mp4?Expires=1773435600&Signature=XtCzSGwt07-8Y1Zm0d36cpNDmgUiPW4VoIpciVhGqo2dXDjRZaQnaYi7D-npUcdCzu1OuVbI3lGijafra4lrtRnewtJ0hnpToDnaaY1-GDKIuQeX5Bi7AkswCAvP~EXXc3KHy3KgVjqYYXP86~349cR~bbbMz-81xcKe-HZerRuNL94jFtwJmnksngDMSFb~56UHh6kH0teGauOX6tZh8Ps9z5EJ2AQkcgNEMLUkRD~ZYKE2mxVV3z9ZXQOEjqIB7juQzRDhqENZu7rnOMWLC6Lkutj5XBByqsYCO79YloHEo2OrAb40~3h01uDGXW6VDIhfdpOtZtpk9Um9T6C4Qw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps16 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/08/9x9/99x4/994x0/99401100014/585488980_2/585488980.1080p.wz.g264.mp4?Expires=1773435600&Signature=BBr~L7-IL5WcX53a1IFGE8gCf3nst~8RreBJfcz0OY4V7NHASllxrOJTjMrdLiCp9eivudDwzGcKf3RZAIJC1qI9JA4n4n4K7b6jQoVO0TcAY92YQ25JdKKUZjirRVHz~RKUppq3aIovRnxh~KlJb4zPrALngqGUv9AViiMfQincXmmmMmoS0M~ZjkIWEsUxkwgY5ZMJ1x5kiVpxHafxCBSqs~MkqHxBrd7A59EyyaKRXdv~zi0LepoOw2mLK5HF4X55uZRL0-4FYY3Y9UAPxfG~6UOchpqzhkV6VMs3F3bUrdXm3Q3Om439BaEMK78tkZ1rMd9i~hmPZnK5enIlZg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps17 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/18/9x9/99x4/994x0/99401100014/585488981_2/585488981.1080p.wz.g264.mp4?Expires=1773435600&Signature=kh0LH5tdgn6dS~JOBNSMOU9yKETwxcV2b~SolXDK2UCcfhETGUHMyfY-rkYb1y2rjZ764jtW3Dl-6QD59Oa8D5jgiFK0JqJPoH-9m0GOXcv61tkckgEAGyrUbK62-9xUkImQxcPCGmsyaWg77lfoChAD3srBh1GGEzzPYONWieumO3TYixY9JP9B6oPAcXMkkUxpEnz3kbDnPnnXNtrieDF78cz0~-Omh3b8J2XUkDEiJIZmJhaBTrsnmbmyBsenN-vU8jI~P0IYA4Z0mVyqRAxWq3cCRNu2XSV5VUxThYNfDbGySKdE9F1O7Zrvh5rc1woGr17y18aOQhSTw5RdFQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps18 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/28/9x9/99x4/994x0/99401100014/585488982_2/585488982.1080p.wz.g264.mp4?Expires=1773435600&Signature=SYL2dGXV9aaT45Sov8BMeFgqD70djUfj85UjeUI3robYmGVylCLo-u~tHzFejdo-CXfs-1yzctw-OcGI598GYbzdTnDszCyn2FIStHN6Qq~Y0S3oaxjkIbKU-AzA~M3rg~RdUYZNoBkMKIr77DnOJOebQj7802CpxE3VSkxUXV8svZTyP7t14UGP345~MxaMWJ6nsrpkuO~3Ip7csDLG3vBAWBTl0~AB8-mw27PMius0crFXDlqr451cXY63556e-Q5oBKmmdZ1r65MCqrpC2CVCAoBiXSNw3q9BrNawn88U10m-hLuBuFL7d-1tAoRruNdJ5oUy93slYVYgsD624g__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps19 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/38/9x9/99x4/994x0/99401100014/585488983_2/585488983.1080p.wz.g264.mp4?Expires=1773435600&Signature=iZf2vsUiktq8B7aMSGmGAl63aj6HElsdMXIWYo7xPDlDuH8L-eRqV7HrFZT60ctW3~YjOgIH~791eFj7cn3g1ic~zx6Hmb6peFfTqI~Q4LcLKDrPn6DqSxl-rtYujfm0MzIfU60BCYv~nzz-wqkzsfRw4wVXufSR8xXEdCOOsZ4zFarS6y92~t8T8672AVXH9BBjfXZkLOem5RxTf39BzQoNNIrcJ-YJfReR4j5h48SOtVGG2TsQASfi-j4QEgYGxOMV2O5xPnw3JZv1qp6ojPMh1Vd3uGilV5Xz7y1saxPBfSNNb626XY~hzq4UK1Wm0kzVAJ0dMWdhxwlbSdIY5g__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps20 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/48/9x9/99x4/994x0/99401100014/585488984_2/585488984.1080p.wz.g264.mp4?Expires=1773435600&Signature=oQf9wLhZT5YjGpGrIX2pyBcLgpbG8aWMYHw6QkWku-of8XZd~JfKC0ExHWELLI4iqLy5dzQvV9ctoTvLyrzSfW8DwUL5AcyVk~z0ZhREKdTLX0KmZBQIuc1Xa9ShcrV2XB7kEP-Mf5WyhE0x41kDGF3RyJycyMehIHpUqRnq~HVA970WSbstxnQ2nMFOL5zIp6YKuSlg5ZvEwhOMjG54V-~RemLoqic9UPOgYzGBw3MWt4ElQqiUfHzFQ08EleXH1rbkfK1RvAF9boFxOXQc7pjd94UUEUP4x6ZTB4xj~r795E6o18sRa5AtY~aGXJe3aUMVreMeuOdEavqYCOx9~Q__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps21 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/58/9x9/99x4/994x0/99401100014/585488985_2/585488985.1080p.wz.g264.mp4?Expires=1773435600&Signature=nEaBExQyiHEeuFeVzAgiE~mfVDvwiXQJmOfpQ9CLyNuqnoHjOncTsRBg2UA9AlFrz-B9HavIpe2IidnJAL9Gd6BAb8nDjH7GrKUVjrgdF-W3XoU51ZWmLSRSnHtYeSrFMd7dFRXXFnuR7MqO9l~ea96qnTRQPSuZ7Qoav~2N7m5-m557X1v519Gj4O8QfQpGzz~yUPGsJSq4aduRp6e0mRf5iJ9GjPtONuHANig2eAKwU6R9WNDwGIoWM4hhG10Cl5ibaiJasFvULTHGL03HF18rUDQjEA9CwNdX1r47FS6Lx594ljwJESbOhCsYhDFNSqcXdIDS0wXKOIUyKnFSQw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps22 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/68/9x9/99x4/994x0/99401100014/585488986_2/585488986.1080p.wz.g264.mp4?Expires=1773435600&Signature=H9PS0JuSVeGvks~EqM9ejaiAZ5Gv99N4OkkGMH~sDgvdiNJi2QrWXwLofU5q9Aga8q-YBFqwUB1RUMXKRA6imKwKtCzjNBroKgSMgAvHQuDU4LHY~ExnvhPyPNu2hIHnqYkd9DYrbPHeHwcCtDMNNuKUBFZiLA8SnRhqmKEPrFRfFUv2ZNjgCycQ5Di1oseBLtRGkOrTZz-OXRy5YmlQqiqPQGh82keXCT24fPhREklHVapI0H9YTcOiyp2MpuKdPLUug6ZvEeBsfKVbsKZfnr6XVyfw6-A9wGqPLYQ5l4-N5Y9fzfJtifYXRZkxJ24IO-u~QQyn9ygCjewgxAj2Ew__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps23 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/78/9x9/99x4/994x0/99401100014/585488987_2/585488987.1080p.wz.g264.mp4?Expires=1773435600&Signature=U4qN7ELptu9FPBG2e3SYmpoL7ma15KUlDTByVkjJ9mUJ4AInXfCiqOvZr7nrattQy~jJlRz5DJZvxQ~vxoMW7TsytXs0n-b4WeF8LhjY2T-KCnivAeQoLzp9TcyLxWyWLgPXkgkHlSiCwSSRpee~ZzC4ltG3a7rf9jWLfQQpROOOClRk1vNduibNFmNoSigbMhIysjZdcrHgz5QMl6Zgh4q64KcpZd-IHKObCcE1jjZHDDc4d9dn9PZV~thH~7ltgJ~azeM4fTuM5xcfp1TPa9-Mgh5ZO4HsYpO-rE7apDSQKHGCZj7iDa1Rbv30H1-D91FPjYgiEUwVDU0bXFbg5A__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps24 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/88/9x9/99x4/994x0/99401100014/585488988_2/585488988.1080p.wz.g264.mp4?Expires=1773435600&Signature=YK~Vrq5CVd2UDEXrdRhTZ4mVNP7vJAzKz2htTadjlswkFJwEz75RKBjEOv81PVBinVUmEvuShOcPXNnNOsiDj4LawUenHBlkCGJdQw3gKJdKTIgwnW8hxLSSm1PhYrLeyhNErmWCcDxA1ZcLnlMu~LB4jcKvQ4qj-fLLnxyQvw-ZDFs-cKXN8YcSuXIGLuWVvy1CtPfDcl3sxyxBFr-pvTmml6JqNrigCGvcI2MuaicnK-staH6a0-VwPMD1nnWmF9ZdQJY~6cBFTx2lOTaIGWdHEVZGx7AuZQ0ZFdaE5FHBPiixwvuZlxQ5eqfejMbyMnc0RD6T6Vjmu4Gj7PZnrw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps25 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/98/9x9/99x4/994x0/99401100014/585488989_2/585488989.1080p.wz.g264.mp4?Expires=1773435600&Signature=NlRbVjw6vzjBmosiN~T5xOUWOY9ZyUEBNLvhS~MpCw7cjFKJeMZjf0j7wA9ru0V~TlWA0VzFe2tRsralywb5STjdAp0vG11WSsRW2boOtjw59q8eFkq2kno1C7BnbqKwGw4~fuHw9XAD5rALTyMxVfoCiJzzwOOUxgdH25xvMxcFAg2hSW3hmye-cbuSJrIxM-02ovrK8WQsV7PpveRx2lHuYHOV3n4uLaiQsZNdRgEitknhZDqqeang19~uqMCmzUOwTxU6~vcJXar~43z-ltvmKfCfqZAOF70W2bZ13prsdxH4vrTrAV-~ceK5HFe3C1iC2sRic661Lhd6OhH~2w__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps26 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/09/9x9/99x4/994x0/99401100014/585488990_2/585488990.1080p.wz.g264.mp4?Expires=1773435600&Signature=x9q1YjiXrCNXZyDPn6l-7pgrqVgVDpPvDB5ZvYzXk3hty5I0UOUk8tputwfsmv4YdXilRVMIfLKuNqOFz5DdIRr2L51YBVRVuih4Lqawsd6piqsIXiZjkcOpNnZnFittV2DhQjHaV9Cng047i1rQ5JDxiVytt91kdAuievvjggIwR5nsMtqD~PSnMzYPhuKcKZXgfxmi~CtXG0MOwMe46a6qsCF-nwCoz4Xqv4dJuofjAhhnOBnzh-ZVaF9ffm5e1LCvAVLXaB1AMTcAg6jBR9q12e4RvYlSFw4iFZiFHfb17a72pRhiR1euJ25VAsh6Zwa4dYhEZYH5DI4bnuBB5g__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps27 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/19/9x9/99x4/994x0/99401100014/585488991_2/585488991.1080p.wz.g264.mp4?Expires=1773435600&Signature=jyDoYjFsJpVxQNxgvbGhIC3bBDq131frqOOZ-odorD~Kk3TiuMrr2AI6zSbd8~qAQPvHFL4LhZAGJyweXodqxZ8oEGLEEshfxC36JzAFzMr9W3B2qlymt0ebVDeDsayLEHNLzKt2ll7zAa2J~d68WDtQzJcfgvVNAkagkFPSpDf2E1z2jRhJxy5LRucyVp-9uYY049kmQuLf94ZECdlASlN4ra~CasSfhH6DtBpx1GkJU9XZMyLcGBPygrCLfKe8ZRmDPoi0-2jFjJQlujHO1HpWXuF8TLAMXjtTPp8N~3G1rupHSmKM7aSJczfmgadAYICqulwHDTibQK8rFG2-XA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps28 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/29/9x9/99x4/994x0/99401100014/585488992_2/585488992.1080p.wz.g264.mp4?Expires=1773435600&Signature=smyRH8~PB15fqB~sfleqrlwpmXez7KHAXUbRB3PLaflzXcBtYxLpAZCvJsc3XtBZwrIg2WSd23EfOylDJxoyp495fU3LQ5lCvzEx8F9iyh6PbbzWcSgPvkjlIk6hkNuTF3KSkQR8MPKqsJj~hJWNoifjCBGEB8g9QLrr5JJ3hPpbcnEPWlsb3W5-U5dAaJkIG~i4GbbEHExY-jE2jqtXoREj426SwjpTvoh02CLvKRLbfYKwyWugv74yJhZf6G3srYsMe2YukBTXBgcITISBslctzU2FpVg~flDWIBOcrYK0noXzasIMfENjktr7j-fs5ucz0mOYnCeEIfVMZwpCCA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps29 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/39/9x9/99x4/994x0/99401100014/585488993_2/585488993.1080p.wz.g264.mp4?Expires=1773435600&Signature=uPhhZ6wapBrxvIyF8pLL~ddv8huuTea5iaq7PzDfyHcplb6cEicBl1~FSTBQweKIBAeudNKvssURC7PGql8WurheODnr30d168FdD5Aa5HcwJCUxy8dM9BAPOl3w5Yq0LDAH27bk7wg2~wO5OHzICARClDkdB25z19nx1KtFtJykZreu3SbvgSXHNHH809zFBDjWWl~Y4BMclA8XmaYEp89v5hQzFKyfj2AY-IABv6aotgUuW45s1YQmXsSX-DlI3hARywUz26DqUvLisz5PlvxPfZvVa9SRdZZWt6TpWuexcaEEQqnQJEbG-d1MIx1ws7xQuaCqUs4-PG836fmBjw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps30 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/49/9x9/99x4/994x0/99401100014/585488994_2/585488994.1080p.wz.g264.mp4?Expires=1773435600&Signature=t4LlXKx5ZNcxSbkgEG~jFneZuEdNRtfrnwMh0dcqnWXMOqpubtK2WfXvCzau-PxS8Nipds1UGOPccWIqADOA0y~8wpNDer-cR3AWttfyo~bCrXAHSeoyzy-joilpzBeiisbd9Y4zxu7QHTO1E8IC6NKZkjmbVUhmW-LsqcqeJVDHRiR2iEvALFEmbhiRhygxV3y2ha-xREOWmDSmK6nY3Q6TJ6rGcrN0su69yCgnkHX9YX1q7NrCKTYxecGG0ndta1KY6QfwWicm62xiTseD6FsyYcTfpj7GbFESrNu8OtEWY1uYKkLPMvVknwv-356coSTye7MZsK~t195B57Somg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps31 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/59/9x9/99x4/994x0/99401100014/585488995_2/585488995.1080p.wz.g264.mp4?Expires=1773435600&Signature=vnf4QgPdmzvI0szz4pEgJxhrbHPYNt5hGQbUFVslzKT8k6lq0ruACiTKv7RtWtRYCmwFS3wMvM6UzUc8ZLbOo6dBj1-ndkm03z8HenU0g6D73yvnuoeXUL~gx7IUuDsh0OMvekiQZKYnN2vmU6von6Mjg4S477ZsWzdMjCUTEfpbTE8~IIgq0T2t1jqo6NawVCwL3bMyuAbt8RZfbDUH4BSktJj4hTTMlIcxOaS3FLZVTdVL6I4B9AC-eFWdwkhiQ2fmccsAKzd7-sxj75C5ZnWQ0FI18Ir6oQPc9qmPMK6Wok4q3brrj65YDeTZUvzgVmCBAGO~ytUqZoJyKc-ucw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps32 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/69/9x9/99x4/994x0/99401100014/585488996_2/585488996.1080p.wz.g264.mp4?Expires=1773435600&Signature=ZTZ82xQzOKCgz2DhmY~pswfFIMabecLAqzSiToldqdZQ4tneUdnPlK9NwekHBOm-h2ZTxuAZ2Q0~2ms5zPLjH4S1c2GGjfUayyrfc-lxHEoYbbMtSvOVuIods-zZEccnHFuG9X8h3nlYJ8amBXkPImzSUEdvjZp3qWB-VPpvS3XYHif3pLjkQDRShXkGdjkcwqTLLU6WUMmvmxU5At5X-7Wb2WubcvQFw0BDCQTPMAtNQ5fsWiMWA5TamngBgKKdskJoRu1XGxCIUg0KfkbCld9SvR3XukpyKJ0E3HDK84DGfVEUfmSh-jkO66eKtO0EDv8WrhvLtmqy8~HYnWbgjA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps33 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/79/9x9/99x4/994x0/99401100014/585488997_2/585488997.1080p.wz.g264.mp4?Expires=1773435600&Signature=Ma3s3Pd0GC4YdBBhRPhrXxZ~GpC0qzqAb4J3uz-f-h5fAt7kMyjxZ-Wgw-Z9-aH0y9i6QzPoq1IJ1RV~5~twUgAudqkJhr6tfbGJsT95NkA2MDe002MxDtxgAex-iC9-2RhDz~0~-BHywtf3NugQoID3Vq3hROi25NDPxuvm07UgPgjNNkoZMsr8WtInbRsoOqguc5hI9PKi581GQEsnNQbITO3g135fQd6JwX9bS6vkx4e48Lpx4lP6fpj5P9C4OJB3GdNAIcWo~vOdFIkWKrzxB5ZfFH5~mnTlr3rD8~njKDsPEW4BziiqvqPmpXxSeoS0WA1uW~6uTl8X5smXpQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps34 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/89/9x9/99x4/994x0/99401100014/585488998_2/585488998.1080p.wz.g264.mp4?Expires=1773435600&Signature=EpTFD6J4IOj1kxVf3Od1xKt2s4pIsX7v7fZl4XDwr3XJlQiYwsAld8rXhx2BsarVpsXf3hILr62UOt5kCZLuqTrLD5fQkP5hXLblV5hJoAk0JiAa0xVBsJJ2o0nYOITQYP0HTA5KoP25EOUA4is~3dAaOT4v-oeB--PtIJDpSD5XTcD6d2dGUifBkh4TJMq3tCFqdJa93kHu9XsNSeruHBc8vsO9utA0RqDspQkfKwEWKLYRpCeaJI5h~HkC5RtUcO7dmXTjvFd~2djaR1PY~TvGkfqq44svwC3LBkGp8GCJZ85-PCc5mg7EemFSXM5SxRdEDonTc-xw5DyWPPLpEA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps35 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/99/9x9/99x4/994x0/99401100014/585488999_2/585488999.1080p.wz.g264.mp4?Expires=1773435600&Signature=t5qqTMV9TJpkuROvIm1D590KUcrBSsE~xSjPbhIKCS3FR9d9mRm1tfguu94TqTcrWKioTw~JBQx8OGg4T1zEMGymLT2kffuREW3LCYkVM-X8LQ0hFOHGYRUwKH7X74E6VHvDyoEb8LrpPxmLPWEg0WpvbVgX5tiRGJx8UNhR9aH0-4I1JyhiHnRD5qKECBUhn5xgLWIyBDzHBBqnOsYYH25vhuoqY7Z~tT2zKon2I8eH3dCT6ae5ZyKTTj-ywmJTh1lYH4dijWhqOrTQ7LUePJR6I~mESITqzsgM4Vd664BJT1kD4okGzayNdiTgDIzDiPQxboZQ1zQaFUXLslyidg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps36 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/00/9x9/99x4/994x0/99401100014/585489000_2/585489000.1080p.wz.g264.mp4?Expires=1773435600&Signature=OrAO~nUUCv7Gg-SjskI3l~outZz~FQzdIlNnAyTKCBCSGlqLUxBl2auzmb4otPpB-9nYDqIIgyL0Z3yZ29AXT4Jc8RiK8JuZhM07lwHarFMRP18IwxCVOrYwg6W5tt2cBb~WL7RO0JMjaHttDkk0ID3H1yybMyfPJyqWAeZGiU9t9UNwGs69q3POdHD3v7nz-zclVTBODjKsoODv9qePXKtEbUKpZTBzJKa~1EkcrEcGpAhcAgBfVuhNBwXkfxLkRvJw-38hXvnW~x3ulclnzo0FQva2BdzQmkWwlpr1wgdYnQvYNOKkcUj67Kz986B5F~TSDOG3ILY8DcQMK36ejA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps37 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/10/9x9/99x4/994x0/99401100014/585489001_2/585489001.1080p.wz.g264.mp4?Expires=1773435600&Signature=gN03YeyRIHjqqlWRiRQrkIQt6~9F63mGCFJcRMDe0FovX29wbiVIkweyF5W1ztBRjg0tg2ssxXfZ9IXbebf~Ztf~LYJ~KTeajW2F9wTOD8rKaJfpztlRXjNI2gYaV3hYx2DdBlOdnQ~5bNVEH9ecEDGrZorqrKNYTVK8NmBjq2Q4OQ364qdg8olzFnGyIga0uMRqzgmS7cQINNLZJxsS~B3n1vfyA~n0ArMng1EMcfLEZ0SzRGceq9X6yrb92e9g-jAWHpA-01IRiMurt2N5jmLAycpf6Sp53xve8N9KjB9JzLuSZ4VHN-Y~V1z99EZq43juRD-zKMpwUAnc8EXRIw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps38 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/20/9x9/99x4/994x0/99401100014/585489002_2/585489002.1080p.wz.g264.mp4?Expires=1773435600&Signature=Y6WFHW0S0qbBZev1GKrADQCI84JOwsjnckegTTvaxmdNV~Gm3hqjrBwrtGw6XBQ3iAvS2S9fCgDPMIJD~n588w8~15WKlNSSImzn1J6G8ZImN0gV9AgHelaJscae9PlFLVViFnvfoL1rgGQoJRSSSpjC8Rryz3aE8ttasUROxyDYy4BBm~AOIlQ1EwayFwi4fecolUoLzGW-NfPdbwU9QRLdoqvbI-ovQxt1TLzEboBZgtcWcPxKY2BjqOIRNxic7088J4-24JJ1HD~wvInSsef0Z6hCe3MIM0ivs4j39AP~gtjCJWQgD1At4JlDYStUK2pZwF26X3p7lcQaasFTRA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps39 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/30/9x9/99x4/994x0/99401100014/585489003_2/585489003.1080p.wz.g264.mp4?Expires=1773435600&Signature=OBLiC03ud8qZbBxEa2VdKBRwdvi0mm0tN6ezheTTvjxk-OPNWmzlWwHZnhI4PXMad-rIl9yIBXqTGYQ5ZnhThOf~zB0lu0Oz-VofT9TMZHRiSADL~TfyAcAaDwxDLkvJ-Q0CK46Wcy8Mb4GFQ3~cULk3h-OLr4rvUlVNAULwVX9Q2vj190xXBRuEhR9dBCI6msRpUAolvDlCOX4OiQaZDBvK~99R6dhZd3afg4VqHrXY7h3EfWiVl5NGGHyI8U8hz5fWHgiJN61crh8Uw3MnhshWxDkTsQCBfdVWepHXTmhsqCky5msSPG~7WDboYaIJeHymSzuiRIj-f-XR4D7ZBw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps40 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/40/9x9/99x4/994x0/99401100014/585489004_2/585489004.1080p.wz.g264.mp4?Expires=1773435600&Signature=esyqDzT6~FnEAhyAJfNhaJC397WqcwzOOwFTQjPNXwZiVaOCTFTHcsy45qcYLMcx4zCci~hXTXP8TWcS-dd5abIJZYMXiF8zGcDCn97QPjAUHMk4TGGWVUb2k~6JJdvkiB6TLpi4Kd~aFMxnJqSrNcRqzC-HiO1~AvkBg8oRc-6t9VUa-x8HKKJZNMmw4ZVg4HdJvhLLhqnD~~0sF9YOFsDyv4nr2fPcgRx-aD1Kaqu1uPtkqxpksD42fved8Ewdc07xcKfQpZ6T1MU1yXhWkz-W2U-EqW8iuRig8efgEwqE3aGWG3XKgPF2pp0I8bdhPE7OQR~JnKXPVoKCHunO3A__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps41 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/50/9x9/99x4/994x0/99401100014/585489005_2/585489005.1080p.wz.g264.mp4?Expires=1773435600&Signature=eL8mdRvl9Hf0xKvByNF4GXO~cp~BR1-vmITBPYYgr0S1cRSAwgTkiEZI7yTPibNbT5PnImXjweaRIzn9FRI5hDqW3ja08cc~vdR5aFzov~0mn13jUfkKypasWjFMaLIosehB7Q0u1TckFi1j55OEsrryTy9oxKICjIRwI-DYhbiqNngYjXmZ-Ij-ForFQy6JXbgSQs4zsxgasulc5~XM7FP8ySLhUH8Md6Rc9KOZC-pu6Z~WNnItnzwQzFcC79w-Qq2jZh83K-Uugi1G~CNveVXX5DM3wzio53DYlS3Y7OSxNtMsIZdyXkDK~cbUdm~HqvrXdM2CFxgIPt~UFcX2nw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps42 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/60/9x9/99x4/994x0/99401100014/585489006_2/585489006.1080p.wz.g264.mp4?Expires=1773435600&Signature=bPOmS3uGUtLHSqW8FGKLDFbdzRvi8R-Sd80U09LtBWtx~46CPjkdDL4pLfYtW-fqrl9cDSoIRXlYbwiPXePGPHpGdl-kH7UDLR0nYR2UCCarpB4i5NqAPyy6c1~Zv2QBSeb41ziCSmgM8dOHpEa6X04J32h3oIulaKnAJZh98Fsf~98O42WSpxi7E4Q1fUDkFQMqnQT4s4Eo3HNjKMdIbwFv75rbu1ryohWs8sheMo5~CR0-Asw2sETgvK5qyxWxWLhOzlazxGu4cPfO3ILvxz7i7FFsCS-ULfGFfR0GKvK2TlpqCn0El0FPGmw0S~diX9EQQNgbTToK9OykNSwZJQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps43 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/70/9x9/99x4/994x0/99401100014/585489007_2/585489007.1080p.wz.g264.mp4?Expires=1773435600&Signature=lKZIj~cPyPbe9jNoBoMBZwuHlacjW8w0TGzDimaSqrtmL6E6cKKcyMTuAsr5M-nSMYRMv~k9t~WJKY7AaqmqfmgPuajDVZBBKoOWaS3Zy5zRPL5-37-dvNjFZulNZg934nV2wgevbwQObtzy6oAl9O5pFWGglIdD2eXWUS5lNcR3-RsByYPpgfuGCyrDhWsieWP21T-Q6qXCgj4joLx61EZIADydl324kVwpxxpsuKcMrbUAhUYRZdqZJWV8S66TDgcf-EkkezWsFwKBkcd1Vq6pJhBzHh6mpGPKqBj1xNDluZ0jpXp0HzSFvFh01IN6zUr~iqskRMxLZBjAOhuP~w__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps44 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/80/9x9/99x4/994x0/99401100014/585489008_2/585489008.1080p.wz.g264.mp4?Expires=1773435600&Signature=u6CYuZQIgD21db3J~QbQ9v1nzVLBzupP~gDXWs01X~1SdegHat4KTwEyslrsJoyYl0zmo67vIgIHCc7~GudemQaGGkWDcb2lVdYiAB8vMuv6q0f2ZTXgIzPA2cAe7GFNHU0SI7PKxrG6mh6q2~RZO5GjFD4lKROWsx-52ixmAe4UAHRMf4edhZokdwzhRwJ5hHWVdf118CnqMTTBfngHJwXrayD04XuWhaQUpaCjDltYKe3tq9UsaLBtwcAqFSIrLb0GGMe2c~-SdOHpwc5sA44dMcSOap4WgHvsyxKRpqo5oxedooxp7eNX5LggspRQp7j96LnibDNBrIZcCMgb9Q__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps45 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/90/9x9/99x4/994x0/99401100014/585489009_2/585489009.1080p.wz.g264.mp4?Expires=1773435600&Signature=kKtT9q8Ex75o~Subi6k5i4fZC2htDSjoyUk3Rr3cgqQi6q-brj5~3ecJh614EV0W3ypDLZ304AatBEjFC8Qajaj6KhJCgWxr33FjY0JAkQYBeQLjtA8BtoNZbHsEoCSvfCYK2RXQppuLECIgfXU7fdCyif1l8SBH5wencgHu3HPoKOafrhlYOyatQyLt6doJtUWUsLnnT5LkXmeFKSWm9S4WLCOw0JxH4qO8laPvVBdVHiSTtLc62sgGKCF59snGWghAwSyiEb8migKdgSWvBkKiHd-ykcc2ng1zvbV9HLcyJdUpMSHzSLY4iG6fTxxcJbMEpMkAWXOUdIA3AjkRuw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps46 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/01/9x9/99x4/994x0/99401100014/585489010_2/585489010.1080p.wz.g264.mp4?Expires=1773435600&Signature=duAloqdcO4eu~rdCOMCKV5rGXHr5sIso908opEo-gjnd6QxigoS2NPm4mpFDhouHw1CYf1USVDJ7vMDs7hJofxCiPYgs8~aDLsD1j-aur3VsVNzYDFZTvgi7eZWHGSEEoJWtJ~g0FPX8JmV6x~vOOcNEkFg5B1-oJz5WRB8rgR-mW1jhkxbfjXUtnPqlktGyiYQlhT1FI7aa7kP-aBwwku3GIgUtmjySJ2vpK42QyvtPBNcv0gSgcObDBAeUypu0ixuT4HAF1oNrKvZLSRo2ZwqsM3W9AygchkBNXqGg46UWBT8jAVg9G9VjfZZWxx-meAV0tfYz1qG1A6gDY~HSmg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps47 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/11/9x9/99x4/994x0/99401100014/585489011_2/585489011.1080p.wz.g264.mp4?Expires=1773435600&Signature=pEa2D5XwLgjtNUayf8lC74NowggUko6-4jpAb6hstRY6e5pMvtBjvFNxpfDxh142sTeWDudz626ZSJ9N1mpw~Q0WrlWRnK71mpFtJlXhM6M80m1y3CoPz2EtcHSztBFczwMwgnqOLd-dGkswoFoUihoaTCeFR4Y4ZlivEMo6pl3lxw-gAp-KF~vCrj2N53ZYlir8BMuZRTiCbddSgbYEUaKx7jmqG3mlxl7Mde3YMEi9qvaKIOXrrlQvC~ChOIbYjIi544ugKhMED7rAI1fA4vScIEnEzOQCM7ZE-AUccuIy-7d7oYytCfPvTxc3eQB-S8L-BA8B-xIAPusjLYrnDg__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps48 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/21/9x9/99x4/994x0/99401100014/585489012_2/585489012.1080p.wz.g264.mp4?Expires=1773435600&Signature=cEMG6kQeaMsfh4uZnw0YGiTQjyJEi~xrgUJZg7fvqHuz5OYsICNTwa~SG4H2z7bR36sEVV10BAtSNbXOZvetotS3oP33btcpk7Dx0pNBY2Zs4678NQ2Qv60MOex~g378JW37p0z5sFdurJ6UX7jbwp87WdDM1VspsRADEcuDmM4Qovo8P5mw4S0HOsVoKkz6aqap7P2J6tmCPrE-ARQwVvf~4tJE-oFhlyThleIm8FTMi-NV72rjCwMRcJPBcSnSlNP-YhhsF-5kzqyu567iAwEWIKDOBzeOOKG6feVPgM0jESHcPEyQbGhikurUCFRNfRwyMJwsNbABanisbIKIAQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps49 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/31/9x9/99x4/994x0/99401100014/585489013_2/585489013.1080p.wz.g264.mp4?Expires=1773435600&Signature=eofFMlnkDYw66iPN4OoQH6vID-aBcWcCtoOW9yb7gvOMZ6z68RLPBzAar65VtAVenpJQr1yjMlAqfhY~ubVI~-aANjmdvrFONg5SSeVbuXCU2Q0PTDHna8GA0bkB99Y4sx89fPS-iKOnSFuvWMLCYG7Mwz326SR-1pkvBKPExXckS5sHYepl1rYwIzpYVSfszm~Ig948ESDynbVfBlj0UVnAxyX9qmcjJn8yk8-xADFa0UP8RDHah~cBUkAVqnSsBP4FPe~xk6q5SDL3K8aAOrT0bhFuw494jib2UHgS3E8cgV6tTtd7Ej6fnENpu0sFarNtUuWuRdY6o8fhMZc9Dw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps50 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/41/9x9/99x4/994x0/99401100014/585489014_2/585489014.1080p.wz.g264.mp4?Expires=1773435600&Signature=edYCS1Eq0TN78mDEDwYB7QSqvaRkLSTJGW1PqXYm5DCdlBUbTyj21n3opCAp1~~~0cpnKRY-DSXTPiK6DpZVQ-a9BxsGwd-aRiZy2~PcBTGH~F8aSB-DN3HLa6GihxrDbdRe~FTticrRshgY7Dpu6inp8JCQf7hpoPIBcrmyUif7d6eQplbYr3x4vKL0zjLqUf8pjAp95hOzK~ARtneq3slHlCNqNMk9h0x3R3puCcovWD3F-ZWIh40p4ticQqeDI28lhRi62mzyWDXuWmZQFeWKKkcGD9ToOyhXHXVpXmk0CSPu1Km1DlG6ivO8yMy-ybzkmAFfKudBD5xHLn7tlA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps51 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/51/9x9/99x4/994x0/99401100014/585489015_2/585489015.1080p.wz.g264.mp4?Expires=1773435600&Signature=hphhkXKB8GmHfMH3rlJtUYQag1Z8RU8dz8NLxE3v1joGAgvKYN6tGk1akWXR7WBHBVtINa7ySdonZBjLWwXInSxOC8pis0EBTbnzr4LKPDYWuIarX~YQICU9D6iAY2h5lVH0LirprcTNlzMDOoH8rVwiUv1FNe6YGOugZfzePAC3I-5Kn9-ooh8Gs9vWtGwWJcNTyFEyd0k5IUIY7fLLSCyC-OH1UoUAjlerJG~2vW5Q8aaG549N7wmOwwUyh7QxzASr-wqrSVC0ZcUCzlDY8ZSArNoffvCncBhcpSpzztafaB02tc7vw33QInnqWKOKTfmzPay2wfUW2id2BL2HfA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps52 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/61/9x9/99x4/994x0/99401100014/585489016_2/585489016.1080p.wz.g264.mp4?Expires=1773435600&Signature=OL~iFxI5BSt7KjzVr3NlpT9nrBvHa3C9jOehhG74yeakh4jfk4Ljp1Ym7TjkvTH8D0ABXOyOHADSWoIBv6k47QhxkSx0idA81CndiZLVa127O1uW41dQnIaGfnwE3vGPpuyTLgArgU5NVK0T636TT6nWgHKeEPGlGQ1VxCtbbaOsnQFLHthdu23Wk5WS1Pg5mJT5vvSf1zYcQK7QGLzz2M5S8UP6Uo7egDyFbNzs-3~ZngsnIAuETmb0-waTCD4S80jytqmKtKyvtSl5lyzzmfToD15~L6mlQK-SNV~7gu9IVfXZBbuOhy0J4rG0Di2oKp2q0LcWiaHo5IZOY1eN7A__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps53 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/71/9x9/99x4/994x0/99401100014/585489017_2/585489017.1080p.wz.g264.mp4?Expires=1773435600&Signature=to04Ohcih4CxQLsWzmOELjdi4jjTmFy8g8tL~IA9v~IWbZ5b1zw8zM~NHhRjO0vQy16GTE04me-Zz8gdS4E~RFMpZ9KXjJxr4mWLt~pyljP9U5u2H6xm44B5wMyt4to1erap2vUdaCqYDv22VJioicc9kvoSt2gUX4e~YRs1yl3JyMJBW0E~uzIg96jT1DSas~~rkq79otOPZ4QAc00vIBGgxDJpQpXQ8AAWPN6RNnt3RsBAzJ4xJcOQwtn5dxDOEop9oU0ddfbIq4MQn8mtmL3Tsg9FWM2qp23482ZieCnCgOCm8ZYGsSds2HQXoSdDJsY0-HIFbo9pUlWpJUlw5g__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps54 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/81/9x9/99x4/994x0/99401100014/585489018_2/585489018.1080p.wz.g264.mp4?Expires=1773435600&Signature=hzi45K7jqug4oRMjathfoyQI73IWADY7MjrRihrlJDqBlrQlLqdD-fOjvR~sYWP7-h80LNWk-WTHHT~kcI0JAKHYwA39TiNgStjC40Jvl0F7BDAreg7lV0Qmfnf3W0vOGE~~1nsvA8QqqkuhekJYWnbFNCkn6eUxdU4XxZHaZyhgStZqd10K-S0MplIy-t1E-SE7iiZ9Smr8LN3w9-u6OizwXDMExqwmB1Fp0xzHoeFvKNxv0DIUlW~LkQgnY9SSm23jzVg5I4S11fggUIqN4~6~Ca4KBwyZvtipzFxmMZG-V2vgczgkhGXV8S-ohqiLiK0n8YVomq5wREKUYbFqcA__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps55 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/91/9x9/99x4/994x0/99401100014/585489019_2/585489019.1080p.wz.g264.mp4?Expires=1773435600&Signature=syEzDkVTVU1Nu4n65ieqF7T8ndazp-U1gqM88mynn9ut3AANqXVeN7xmKHz-qm9ykxzfJvGMj50jko260hKtH4u7AxpjFecWyW18km4LqWZo~aVh1W4wSSpV09b6VuqN25tC2jdyefUiq3mKCefIH-gxSONfTM8tdVJo1uVEKIMEffeyMk-9F9GI6DX7ibniioResFGfTqqwVhpqbNGxxpVSOhtBWV98N0IvugTy93MHoIRjjbrzMAdHnQXMXyNyfTdO3ciXk9CTrN4TlwkqurPkIrPjGR0nEamT1MdLHlJ9P5wsKtlhtUclrPNL7jyL61dbbj3eUpsliOMx4AaH7w__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps56 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/02/9x9/99x4/994x0/99401100014/585489020_2/585489020.1080p.wz.g264.mp4?Expires=1773435600&Signature=E3xdFpFBXr8fn00a8NmdjC37XBlj6uN15i2o-KFLoDeJqNrOx~PSRKW0CNfWnizsTBf4kLbqC9euo0RQ4rBFK9k35RJosUItkrVCa101Kk9JMT8P3pwRyOTxo3jhRuvKUyswjVYTLMjuhUXoUVEsBWiEvD0BjSiZGdEVI8KJvlgcSipzQI910dve4dgHKRl-2jtStXAKY2y2Dcn4kUR0L9FXzmQC2FoRRoeBnZE36sSIQFuxuA-PIg7mxwPL6-6yiZwDIa9gBMhRoS7hVu9trfrVFAK7RT2Lqf6Vke4gBk4OFawmQ6UeVuI7nMfm-lz0SUdOlnKv63yVj0hwkBrzAQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps57 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/12/9x9/99x4/994x0/99401100014/585489021_2/585489021.1080p.wz.g264.mp4?Expires=1773435600&Signature=fTrhIJBt3W1GrOgIm-XgSWMVJCzQrGeRloBRZTIVuwiSbR~JHBkRR8z6uXN2EdpR4MDksP5obf5VSGh8lWMS1ddecR99ABAj0ADaPAZEWUj2RzuT~muUb9NVnWGttB4LBGg3YGzumLkNC3AAcn~TPlNLo-5erl79HGd2K0OBfECOmxJeBc2e30iOrgsrEKlMiBCxejq83~oNbxSdJQMcuXI78F3yVRCCCzxXoviYTQ3AHDyhGq9BcCpg7cjczopIjHsxDyjyWz2D0vPn6HFiFiZ22IO5M-hyTMzvXZyC9JtJ4jQM4C4X-Dvk3uEWcCB1TkpMOxUkoFuyDJhx~G99uw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps58 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/22/9x9/99x4/994x0/99401100014/585489022_2/585489022.1080p.wz.g264.mp4?Expires=1773432000&Signature=CemhsqvPoM7QNn-fhSOcMP8dZ1KjSvgGEnNHAWhgQ1ETBXnpXADplTAgDVr9hY12TNduAKA1GdzmmJCThVC4NhBBS64rn2SY8S3BEPwINkwPdLaRYBkliwlQEy0GiTBeFTASpe8rTJKccBiE7fnYWNhAhwguu-QSBf16wQpGgoRC4re-zw6BQ2zXXMg-mDt9tgJQcSoByMNR2FKGlLzOJOgfGE2~XvplcBuI1ytrCax4ka4hHhquNsSwgmyEia2-U6VBFtVBQrj5qAIqa8HNH23M7Se4MWYg4y763Y-8P6yKFBmIrbHhnoiCG9sFeE9PqAauajKpKNil1A5~jMoLyw__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps59 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/32/9x9/99x4/994x0/99401100014/585489023_2/585489023.1080p.wz.g264.mp4?Expires=1773432000&Signature=ulS86Po493ShowPOL5boNk64uI89pKR4OADYNGYYMV3EHPZWRaeE9rYcbFSkeZAvFBsMgLegAm9LTSwP0Y3jkD4hvUUYM~PjrXjU-0nxR1O~GR0IYgdu8Hub10yOzkGfMRAbrBtjcZHqeOBp5AYLlbB4N5W800KWcKb1FmnCoRtJs8SVE0YEOFBajupwX2xD7ekYZf4tJO7KXrbf-dvnXOBF9UfemMxeqt2id3CHKSgnR~KyP33LaeBqnhmwXt~7QAA4AWoxLaJ3iycXb1SnqefUxGRhPkGbDYdqYwTKQFbjN0A3uDHHJjx2CANFWv5z2qYpJ6lbga~woYVlituf2Q__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps60 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/42/9x9/99x4/994x0/99401100014/585489024_2/585489024.1080p.wz.g264.mp4?Expires=1773435600&Signature=auaIIE8s-ExehU49g-kY7gxnG3kkSRpx0xvGWHu4nnnB-QXeJlqMVX-9U2MYnvc8J~lGpfXIMypeIq~II~e2Kt~dkaer7AYOg7FCwGlSyYdubDM0gBZoPaAYn8xmRskv8WDECBcXQdPUA616xqSUryDZx-k9ju0velWLSBRB75l5INNU6vfKjJAT1iVM4uhK-vmuNwA94wrXOAxSvw8ra6cnYz72O0PPynmlYiqEyMR7EPr4NM2uUnip4KC4dn1RJrfzEMmKS~fegn77GxA~V8lG03RimMffrYmeobGnIT09yCKa36VCCAD6h0FsjfVlmU~wVRZ1-n2Nd~f6xLr-IQ__&Key-Pair-Id=K3HA2TLE2QH99V
+#EXTINF:-1 tvg-logo="" group-title="Gadis Lugu Penakluk Raja Mafia (Sulih Suara)",Gadis Lugu Penakluk Raja Mafia (Sulih Suara) - eps61 [05:59:43 WIB]
+https://hwztvideo.dramaboxdb.com/52/9x9/99x4/994x0/99401100014/585489025_2/585489025.1080p.wz.g264.mp4?Expires=1773435600&Signature=un7Ct7Hv-hggYGQth0eGtISdAbv0KFpQJ9eY7CaNkvXtp-4WzpYFijRMXBGSBQlTh96bvdg9GhXCs0Vdf4M7sVrVztJeI7i-xzjntysroqeLQ4m5~A6W2sOAboyVIaY3NZ7UZbqUDI6k0DQh08XMCVrMkc2ffym5rF4DDAC-mmlkghWEwTstJvSgrueqP9ftFJ4-sIIv1HFmVudlcBXE-Kl4MGX9WEcb~bWABiVsAC0lf8HRP3V2CFXmJG2KkVHnNL5eQgV9urbF2jneia9iFzrz49oipCWRd2hQTUw2Ce5tFxJ4GKNI370w-Hfd6KlDm8S~A5uh1TMzLUhZps7UhA__&Key-Pair-Id=K3HA2TLE2QH99V
