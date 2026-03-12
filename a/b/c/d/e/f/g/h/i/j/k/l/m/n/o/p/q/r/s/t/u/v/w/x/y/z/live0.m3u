@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-12 11:40:59
-# 🔄 Total Channels: 1454
+# ⏰ Latest Updated: 2026-03-12 11:45:07
+# 🔄 Total Channels: 1554
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -187,10 +187,24 @@ https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F54341_1gqxrc64vt1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:30   12/03 76 Igdir Belediye spor vs Bodrumspor  TRIEU TU LONG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F68008e9a65b11570ca08439864bcf784%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",18:00   12/03 Difai Agsu FK vs Baku Sporting FK Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4943_1h8dcbedpxk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:30   12/03 FC Syunik vs Andranik  VO TONG m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d0a09e6f1ceb60cb277a2eb127eedaa3/playlist.m3u8
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4943_1h8dcbedpxk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:30   12/03 FC Syunik vs Andranik  VO TONG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4943_1h8dcbedpxk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:30   12/03 FC Syunik vs Andranik  URA m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4943_1h8dcbedpxk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:30   12/03 FC Syunik vs Andranik  URA flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4943_1h8dcbedpxk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:30   12/03 FC Syunik vs Andranik  LY QUY m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4943_1h8dcbedpxk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:30   12/03 FC Syunik vs Andranik  LY QUY flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2cea4858800049e1214f44c3c9cec7db%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   12/03 Finland Women U17 vs Romania Women U17 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -223,6 +237,10 @@ https://pull-live3.fastestcdn-global.com/live/80bd5459e1ad4b92ab12155b67b46b99/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://pull-live4.fastestcdn-global.com/live/80bd5459e1ad4b92ab12155b67b46b99/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F68008e9a65b11570ca08439864bcf784%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",18:00   12/03 Difai Agsu FK vs Baku Sporting FK Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d0a09e6f1ceb60cb277a2eb127eedaa3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_125854_a588808b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",17:30   12/03 76 Igdir Belediyespor vs BB Bodrumspor HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -231,6 +249,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoivang.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoivanghd.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_133319_d10a6439.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",19:00   12/03 Svay Rieng vs Phnom Penh Crown HD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_133031_58895cd2.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",19:15   12/03 Tampines Rovers vs Bangkok United HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -327,10 +349,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F68008e9a65b11570ca08439864bcf784%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",18:00   12/03 Difai Agsu FK vs Baku Sporting FK Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d0a09e6f1ceb60cb277a2eb127eedaa3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2cea4858800049e1214f44c3c9cec7db%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   12/03 Finland Women U17 vs Romania Women U17 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -403,90 +421,10 @@ https://pull-live7.fastestcdn-global.com/live/99de5699a86c4a35b6af3c803ba7b925/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5ae179dfba40b20a4e090eea86f0baf7/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Volleyball League Women] 17:00 12/03 Daejeon JKJ W vs Hyundai E&C Hillstate W [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Volleyball League Women] 17:00 12/03 Daejeon JKJ W vs Hyundai E&C Hillstate W [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Volleyball League Women] 17:00 12/03 Daejeon JKJ W vs Hyundai E&C Hillstate W [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[1. Lig] 17:00 12/03 Igdir FK vs BB Bodrumspor [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[1. Lig] 17:00 12/03 Igdir FK vs BB Bodrumspor [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[1. Lig] 17:00 12/03 Igdir FK vs BB Bodrumspor [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [ HENRY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1773317858-0-0-1fe2d18f0fe13369d900176dccd46df9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [ HENRY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1773317858-0-0-3a5fe2664bb0d8cac7552ddd5c0848fa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [ HENRY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773317858-0-0-7e080532b36972dec993359ee589d430
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [ HENRY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773317858-0-0-43526b919f47cda8c658810bf7215d64
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [A CHE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773317858-0-0-3f59f7307a9345dc32dbf15a6a0710d5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [A CHE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773317858-0-0-85f6d9a7cb84003495a2ac086e153a63
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [A CHE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773317858-0-0-11d7dbedb12661a7a62360ea9a029e3e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [A CHE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773317858-0-0-216ee2a99a2dc12b99063adcce3f593d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1773317858-0-0-cb4103b3682ddf87ec55efb8b61b788b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1773317858-0-0-506987abe544bb488d003145073ec653
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1773317858-0-0-ad93a156a15dc4055d7c52a3b9c73efa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1773317858-0-0-c0ac84dc28ba280ef57d404a39216431
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ MIXI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1773317858-0-0-1e8d042ada40d27bbdb8a1b3f0cc6c39
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ MIXI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1773317858-0-0-4ac1bffe404af77c230b4456c2a7e273
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ MIXI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1773317858-0-0-07db38d67f2fbce7ff7dcc24cbd311ed
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ MIXI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1773317858-0-0-78fc0bb71e070dabb2b6859aef7bca8c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ TOMIA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1773317858-0-0-4566ffea83e7285403f6232fe910730a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ TOMIA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1773317858-0-0-56affca906fc6832959507764686cf3d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ TOMIA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1773317858-0-0-e8a0e6a6247c9662f020e121fc3dea54
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ TOMIA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1773317858-0-0-98c0971d4120e416243af06a26f68742
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F68008e9a65b11570ca08439864bcf784%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",18:00   12/03 Difai Agsu FK vs Baku Sporting FK Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d0a09e6f1ceb60cb277a2eb127eedaa3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [LOGAN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1773318218-0-0-f5709dcf7259c1d601856dd38cc95c3e
@@ -667,6 +605,114 @@ https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=a861793a54dac53407a7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: socolive",19:00 ngay 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BUA TA] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=ff32531118c5177220097992beccd0ea&txTime=69b2f802
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ MIXI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1773318938-0-0-9220971fbe8881d423a4c8db31a0830b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ MIXI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1773318938-0-0-748deb0621410e73d532d42584273cd8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ MIXI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1773318938-0-0-b9aabc426b2e6c90614d0cad52a08770
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ MIXI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1773318938-0-0-bb33100bc5c80676594adb54a77ed28e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ TOMIA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1773318938-0-0-323d787a7226f783a18b2477f507b02c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ TOMIA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1773318938-0-0-81f055e7ec4e630115e9e53d451795a1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ TOMIA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1773318938-0-0-b1116d587fa454cc6b8e54f3e252a7c4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ TOMIA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1773318938-0-0-0316ee096a9237f0c74fd37828bd4e08
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1773318938-0-0-0d1e2a094f6d0e03a9c9f37ecb86a85d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1773318938-0-0-a269fe95bd76db5efb5ebd29b2e87bb6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1773318938-0-0-77741e5f51bf7f9ca08176015dabfb92
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1773318938-0-0-3c57b87a3895798e754c0b4124d47adf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [RICKHANTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=78e97ff3e9b46ed7c53b15cc8fc1ece8&txTime=69b2f96a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [RICKHANTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=e00b886785c1bd4a34f2e1f119014039&txTime=69b2f96a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [RICKHANTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=78e97ff3e9b46ed7c53b15cc8fc1ece8&txTime=69b2f96a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [RICKHANTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=e00b886785c1bd4a34f2e1f119014039&txTime=69b2f96a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [ZIDANE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1773318938-0-0-044da63a1f43ba2696e884b41db5c99f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [ZIDANE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1773318938-0-0-a61c9d1f5092dae3cf0499f969242daa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [ZIDANE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1773318938-0-0-069ade23df5dcb76ac537728bbe107f2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [ZIDANE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1773318938-0-0-03013f582b2dae85597f3212a4866896
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: socolive",19:00 ngay 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [LOKA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1773318955-0-0-2c80e06309e521ae67d023764c4c6c32
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: socolive",19:00 ngay 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [LOKA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1773318955-0-0-12e395c6efc5cd1d272cdf904f9c3301
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: socolive",19:00 ngay 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [LOKA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1773318955-0-0-80090201da072632b84a0ef7d3db907c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: socolive",19:00 ngay 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [LOKA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1773318955-0-0-41fb7c15f23e775945ed13762ed5468a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [ HENRY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1773318938-0-0-4d8bdfc377890243043e33d8cb5dc983
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [ HENRY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1773318938-0-0-47af6355c1f5c9caa4000f706a281f51
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [ HENRY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773318938-0-0-5a076e99273b757de911e0ea761afca5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [ HENRY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773318938-0-0-e4428c687c9e63193edbafab07046e11
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [A CHE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773318938-0-0-50e51a7483b26500f8d86ac6d855caa8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [A CHE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773318938-0-0-7902b5db37b7ad5bbf857b5c298f7b97
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [A CHE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773318938-0-0-04683cf122299049b14780b243cd2668
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: socolive",17:00 ngay 12/03 Seoul Knights vs Wonju DB [A CHE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773318938-0-0-1f61e391d62fd33f5fed6dfd06d6939b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: socolive",19:00 ngay 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [A PAO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1773318938-0-0-7011733ccfa4197ee9ffbb1fd337d80a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: socolive",19:00 ngay 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [A PAO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1773318938-0-0-c6013f794354689f44bdc95abfc213af
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: socolive",19:00 ngay 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [A PAO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1773318938-0-0-41503869405d7c8989df06311da17724
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: socolive",19:00 ngay 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [A PAO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1773318938-0-0-f17a006f76e6a2a8d981e77e627be8fe
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17259.png" group-title="Live Event: Hội quán",17:30 12/03 Igdir FK vs Bodrum FK FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -920,46 +966,212 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://daffodil.lifesharper.com/nba3.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [A CHE] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773296258-0-0-b235c7a31af94791b9f96d76431cb7da
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [A CHE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773296258-0-0-976be22f40885c8d65f2dbc57160e2f7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [A CHE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773296258-0-0-ba1a052c27ecc9bdd2edebd890abf935
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [A CHE] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773296258-0-0-c53a9b9516384c79e6ee0884f72e5c8f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1773296618-0-0-b9dd296c22189f12f89cda001a95b3a8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1773296618-0-0-462e6c229f926707068e85fb8d7c8b2e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773296618-0-0-c3a00214c0d9aaef33f76422f15eb5e8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773296618-0-0-f54f65247db80452b23de69394d2603b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BRIAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1773296618-0-0-b413ec86d6767efb406faab178361a49
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BRIAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1773296618-0-0-abb56160e7cdcf2fcd96dc809e288e4c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1773296618-0-0-b54e8dd0a1042d067b3e723e49f4821b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1773296618-0-0-aed3b3a69d424fb06683f5be870c68d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [HUNTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773296978-0-0-ddae628c2ca4831e09d267c19bf0001e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [HUNTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773296978-0-0-30ed5903ceb5e8ffe2188c4d1baf44a1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773296978-0-0-7a19b266b702de2225063e64d6d26c1c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773296978-0-0-676a02441a80024b1897e40d6a594c0c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [KING] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1773296618-0-0-6e1a69cf2f8607c91c284294ffbf1680
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [KING] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1773296618-0-0-d3bf51c5ea60b01a5d8a533d4620c3bf
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1773296618-0-0-a033358869d1aedd1c02b97f13868467
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1773296618-0-0-4e2f61a0948039435c719a8915fdbe84
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" group-title="Live Event: Cadangan",17:00 12/03 Seoul Knights vs Wonju Dongbu Promy
+https://live5.msrktz.app/live/82054853.m3u8
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/volleyball/team/c3c68807405f8a6afae66040d0f2b4b7/image/small" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Daejeon KGC Women vs Hyundai E&C Hillstate Women (Khan Dai A) hd_3
+https://pull-live4.fastestcdn-global.com/live/80bd5459e1ad4b92ab12155b67b46b99/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773252763.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB (Luong Son) BLV SHIN flv
+https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773252763.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB (Luong Son) BLV SHIN m3u
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773252763.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB (Luong Son) BLV YEN THANH flv
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1773252763.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB (Luong Son) BLV YEN THANH m3u
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB [A CHE] (Socolive) flv
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773317858-0-0-3f59f7307a9345dc32dbf15a6a0710d5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB [A CHE] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773317858-0-0-85f6d9a7cb84003495a2ac086e153a63
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB [A CHE] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773317858-0-0-216ee2a99a2dc12b99063adcce3f593d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB [A CHE] (Socolive) m3u8
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773317858-0-0-11d7dbedb12661a7a62360ea9a029e3e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB [BLV HENRY] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1773317858-0-0-1fe2d18f0fe13369d900176dccd46df9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB [BLV HENRY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1773317858-0-0-3a5fe2664bb0d8cac7552ddd5c0848fa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB [BLV HENRY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773317858-0-0-43526b919f47cda8c658810bf7215d64
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/b63511fae1fcef7830bdc1c1859567cb.png" group-title="Live Event: Cadangan",17:00 Gvision TV 12/03 Seoul Knights vs Wonju DB [BLV HENRY] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773317858-0-0-7e080532b36972dec993359ee589d430
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/29fe4bba24a993fa8057566c5166e68f.png!w80" group-title="Live Event: Cadangan",17:30 12/03 Igdir FK vs Bodrumspor
+https://live5.msrktz.app/live/88508431.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17259.png" group-title="Live Event: Cadangan",17:30 12/03 Igdir FK vs Bodrum FK (Hoi Quan) FHD
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17259.png" group-title="Live Event: Cadangan",17:30 12/03 Igdir FK vs Bodrum FK (Hoi Quan) HD
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17259.png" group-title="Live Event: Cadangan",17:30 12/03 Igdir FK vs Bodrum FK (Hoi Quan) SD
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/54341_1gqxrc64vt1y.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 76 Igdir Belediye spor vs Bodrumspor (Luong Son) BLV DUONG QUA flv
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/54341_1gqxrc64vt1y.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 76 Igdir Belediye spor vs Bodrumspor (Luong Son) BLV DUONG QUA m3u
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/54341_1gqxrc64vt1y.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 76 Igdir Belediye spor vs Bodrumspor (Luong Son) BLV KAKA flv
+https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/54341_1gqxrc64vt1y.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 76 Igdir Belediye spor vs Bodrumspor (Luong Son) BLV KAKA m3u
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/54341_1gqxrc64vt1y.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 76 Igdir Belediye spor vs Bodrumspor (Luong Son) BLV KEVILL flv
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/54341_1gqxrc64vt1y.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 76 Igdir Belediye spor vs Bodrumspor (Luong Son) BLV KEVILL m3u
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/54341_1gqxrc64vt1y.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 76 Igdir Belediye spor vs Bodrumspor (Luong Son) BLV TRIEU TU LONG flv
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/54341_1gqxrc64vt1y.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 76 Igdir Belediye spor vs Bodrumspor (Luong Son) BLV TRIEU TU LONG m3u
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV COZY] (Socolive) flv
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773318578-0-0-4750f9edbbb8e7e5d269c9d481f79a4f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV COZY] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773318578-0-0-7349d80bff0911f4dda279ed422da1d2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV COZY] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773318578-0-0-e11e18304378e4cca3c4898df3a1051e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV COZY] (Socolive) m3u8
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773318578-0-0-bfb567ac712dc1c9f97cb5e4f0de7d47
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV ENZO] (Socolive) flv
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1773318578-0-0-40260b02bbf0bf9c7b680a0791e69e9e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV ENZO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1773318578-0-0-bb80649e4ea76322c942c00ed83976a9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV ENZO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1773318578-0-0-a5e0f9ac8fb617817057e26542cf296c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV ENZO] (Socolive) m3u8
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1773318578-0-0-77edf5ce77290a50ef0d3fec666196fb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV MIXI] (Socolive) flv
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1773317858-0-0-1e8d042ada40d27bbdb8a1b3f0cc6c39
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV MIXI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1773317858-0-0-4ac1bffe404af77c230b4456c2a7e273
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV MIXI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1773317858-0-0-78fc0bb71e070dabb2b6859aef7bca8c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV MIXI] (Socolive) m3u8
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1773317858-0-0-07db38d67f2fbce7ff7dcc24cbd311ed
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV TOMIA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1773317858-0-0-4566ffea83e7285403f6232fe910730a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV TOMIA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1773317858-0-0-56affca906fc6832959507764686cf3d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV TOMIA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1773317858-0-0-98c0971d4120e416243af06a26f68742
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [BLV TOMIA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1773317858-0-0-e8a0e6a6247c9662f020e121fc3dea54
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [LOGAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1773318218-0-0-f5709dcf7259c1d601856dd38cc95c3e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [LOGAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1773318218-0-0-f12c0be77718e0e8a5f16534a3218fe9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [LOGAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1773318218-0-0-7aec938a0952dd3eaee72528b63072a2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [LOGAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1773318218-0-0-b0c2ef30c6cd9587104893b8faf9dfd9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1773317858-0-0-cb4103b3682ddf87ec55efb8b61b788b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1773317858-0-0-506987abe544bb488d003145073ec653
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1773317858-0-0-c0ac84dc28ba280ef57d404a39216431
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: Cadangan",17:30 Gvision TV 12/03 Igdir FK vs Bodrum FK [SUNG A MUP] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1773317858-0-0-ad93a156a15dc4055d7c52a3b9c73efa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/f4ccad5563f7257c9c8e411c20c1d8e8.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Difai Agsu FK vs Baku Sporting FK [BLV RAMBO] (Socolive) flv
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=1dd3ef040e977f97aee0c8a3d1645ea0&txTime=69b2f69a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/f4ccad5563f7257c9c8e411c20c1d8e8.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Difai Agsu FK vs Baku Sporting FK [BLV RAMBO] (Socolive) hdFlv
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=05002043d0228e04eb984f65e73c27a1&txTime=69b2f69a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/f4ccad5563f7257c9c8e411c20c1d8e8.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Difai Agsu FK vs Baku Sporting FK [BLV RAMBO] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=05002043d0228e04eb984f65e73c27a1&txTime=69b2f69a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/f4ccad5563f7257c9c8e411c20c1d8e8.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Difai Agsu FK vs Baku Sporting FK [BLV RAMBO] (Socolive) m3u8
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=1dd3ef040e977f97aee0c8a3d1645ea0&txTime=69b2f69a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/4fa12ba86ff4e24a5c6cee58b2178566.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Mingachevir vs Sabail FC [BLV SOI] (Socolive) flv
+https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1773318218-0-0-f1ee1586d5b9b61c2dd5f23ad8306acf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/4fa12ba86ff4e24a5c6cee58b2178566.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Mingachevir vs Sabail FC [BLV SOI] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1773318218-0-0-eaad11037f6728935682210c1f4e5541
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/4fa12ba86ff4e24a5c6cee58b2178566.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Mingachevir vs Sabail FC [BLV SOI] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1773318218-0-0-2a09fed7ed5f130a56e7726ada4f2ec0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/4fa12ba86ff4e24a5c6cee58b2178566.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Mingachevir vs Sabail FC [BLV SOI] (Socolive) m3u8
+https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1773318218-0-0-fe2d9bcaaedcd1fb81cd46cf08af2cb6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/4fa12ba86ff4e24a5c6cee58b2178566.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Mingachevir vs Sabail FC [BLV VIP] (Socolive) flv
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=84dd5ff296d1db98ed0956f7ff38af41&txTime=69b2f69a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/4fa12ba86ff4e24a5c6cee58b2178566.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Mingachevir vs Sabail FC [BLV VIP] (Socolive) hdFlv
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=c0519ff2a208ae44a5889a599dd4db79&txTime=69b2f69a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/4fa12ba86ff4e24a5c6cee58b2178566.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Mingachevir vs Sabail FC [BLV VIP] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=c0519ff2a208ae44a5889a599dd4db79&txTime=69b2f69a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/4fa12ba86ff4e24a5c6cee58b2178566.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Mingachevir vs Sabail FC [BLV VIP] (Socolive) m3u8
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=84dd5ff296d1db98ed0956f7ff38af41&txTime=69b2f69a
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14253_1hgexq7vza1x.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku (Luong Son) BLV LY UNG flv
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14253_1hgexq7vza1x.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku (Luong Son) BLV LY UNG m3u
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14253_1hgexq7vza1x.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku (Luong Son) BLV PHONG VAN flv
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14253_1hgexq7vza1x.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku (Luong Son) BLV PHONG VAN m3u
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/09ab072219e663559d4ed181dedf6842.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku [BLV VITAMIN] (Socolive) flv
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1773318578-0-0-462c70b617b4e2a7607f744646476d48
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/09ab072219e663559d4ed181dedf6842.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku [BLV VITAMIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1773318578-0-0-1fb4e37e06502aa16e7c12c6383b5997
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/09ab072219e663559d4ed181dedf6842.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku [BLV VITAMIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1773318578-0-0-12e19390de2de3db38d0cd1b367fe472
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/09ab072219e663559d4ed181dedf6842.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku [BLV VITAMIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1773318578-0-0-26c1c39cc1aedfa8e38b6a40981d9c2f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/09ab072219e663559d4ed181dedf6842.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku [NGUOI THEP] (Socolive) flv
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1773318578-0-0-1499c65688bdb734a74c58bad24cb15e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/09ab072219e663559d4ed181dedf6842.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku [NGUOI THEP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1773318578-0-0-4dcfcef6872c8ef4f3b8b1a1aca3d0d3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/09ab072219e663559d4ed181dedf6842.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku [NGUOI THEP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1773318578-0-0-a54b7495d1c2f15891eced2ad396d40b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/09ab072219e663559d4ed181dedf6842.png" group-title="Live Event: Cadangan",18:00 Gvision TV 12/03 Shahdagh Qusar vs FK MOIK Baku [NGUOI THEP] (Socolive) m3u8
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1773318578-0-0-edb545b4cedc8e5772b788b7307911a7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/56988e9bafb97b6cec7b07407b57762d.png" group-title="Live Event: Cadangan",18:30 Gvision TV 12/03 Australia W vs Japan W [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773318578-0-0-98d58db4e3c2739b60568591aa18aa9c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/56988e9bafb97b6cec7b07407b57762d.png" group-title="Live Event: Cadangan",18:30 Gvision TV 12/03 Australia W vs Japan W [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773318578-0-0-59c0ff6cc637a63fac6d8f136cbca4b8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/56988e9bafb97b6cec7b07407b57762d.png" group-title="Live Event: Cadangan",18:30 Gvision TV 12/03 Australia W vs Japan W [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773318578-0-0-7107e4d9fc0da4cb7860d63b7ba4589f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/56988e9bafb97b6cec7b07407b57762d.png" group-title="Live Event: Cadangan",18:30 Gvision TV 12/03 Australia W vs Japan W [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773318578-0-0-e87cfcbb1ed794019d06f7e5cee38a6a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BLV ALEX] (Socolive) flv
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1773318578-0-0-7501808fa8028145dafd71ba345b989c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BLV ALEX] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1773318578-0-0-11278f03c5e3e7d609b3b8b96b38cb55
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BLV ALEX] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1773318578-0-0-798be13add0365defe1b34b0428e1f43
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BLV ALEX] (Socolive) m3u8
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1773318578-0-0-330068a3d1c8ad4000b34823b6f6044e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BLV XO] (Socolive) flv
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1773318578-0-0-021a986824b235d6498dc2a4788e74e3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BLV XO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1773318578-0-0-9270eb87ae8efb11b12ba79aecea2524
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BLV XO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1773318578-0-0-e9eb5a5864b0393fe7e305523275eb2d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BLV XO] (Socolive) m3u8
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1773318578-0-0-ca1e3bab479e32fcab719f8709d66e75
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BUA TA] (Socolive) flv
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=a861793a54dac53407a7353739448ae0&txTime=69b2f802
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BUA TA] (Socolive) hdFlv
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=ff32531118c5177220097992beccd0ea&txTime=69b2f802
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [BUA TA] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=ff32531118c5177220097992beccd0ea&txTime=69b2f802
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [GOAT] (Socolive) flv
+https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1773318578-0-0-ce2c31eb310c212529fe6f74db73cda5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [GOAT] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1773318578-0-0-47025577bb4a33c0fd9e4059c3c11384
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [GOAT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1773318578-0-0-71544bee9b1908ac4d5ebfda843e1168
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/881bb0a75c333739fac74680271b740f.png" group-title="Live Event: Cadangan",19:00 Gvision TV 12/03 Preah Khan Reach Svay Rieng FC vs Phnom Penh Crown FC [GOAT] (Socolive) m3u8
+https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1773318578-0-0-8a4325b3ce04fbbe23663731aa4ae3d3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: Cadangan",22:15 Gvision TV 11/03 Paris FC Women vs Strasbourg Women [RABBIT] (Socolive) flv
+https://pull06.scstream.net/live/stream-596191_lsd.flv?auth_key=1773318578-0-0-5196cdef204b263300800b975d7a204a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: Cadangan",22:15 Gvision TV 11/03 Paris FC Women vs Strasbourg Women [RABBIT] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-596191_lhd.flv?auth_key=1773318578-0-0-c43eabfdb02fce2beaa46f2258e1f947
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: Cadangan",22:15 Gvision TV 11/03 Paris FC Women vs Strasbourg Women [RABBIT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1773318578-0-0-eb08eca87247dee3bc5ac3d995120d18
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: Cadangan",22:15 Gvision TV 11/03 Paris FC Women vs Strasbourg Women [RABBIT] (Socolive) m3u8
+https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1773318578-0-0-5c67ae5295ef270fd830a338669aebed
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[1. Lig] 17:00 12/03 Igdir FK vs BB Bodrumspor [FHD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[1. Lig] 17:00 12/03 Igdir FK vs BB Bodrumspor [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[1. Lig] 17:00 12/03 Igdir FK vs BB Bodrumspor [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Volleyball League Women] 17:00 12/03 Daejeon JKJ W vs Hyundai E&C Hillstate W [FHD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Volleyball League Women] 17:00 12/03 Daejeon JKJ W vs Hyundai E&C Hillstate W [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Volleyball League Women] 17:00 12/03 Daejeon JKJ W vs Hyundai E&C Hillstate W [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+) (Kadang Offline)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
