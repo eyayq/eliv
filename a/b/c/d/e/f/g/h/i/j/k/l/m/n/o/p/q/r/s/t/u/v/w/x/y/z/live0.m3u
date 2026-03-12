@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-12 14:36:54
-# 🔄 Total Channels: 1547
+# ⏰ Latest Updated: 2026-03-12 14:42:29
+# 🔄 Total Channels: 1571
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -125,12 +125,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 https://sonymtmnew.akamaized.net/hls/live/2105080/DAI24ME-V3/master.m3u8?hdnea=exp=1773361819~acl=/*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~hmac=e972c7b28fdf7f6782569a3edcac63e020c8b60cd8f510f83129d2c002e376f2|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-F926U1; Build/AP3A.240905.015.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2316416534193a538b4427be621b855b-1773324600106
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015999/1773143587014356_the_hundred_auction_mens_landscape_thumb.jpg" group-title="Live Event: Sony LIV",ENG | Auction - 12 Mar  (Cricket) | Gvision TV
 https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/master.m3u8?hdnea=exp=1773361819~acl=/*~id=ae032ebfdb7e1939b3723e76d695b184-1773318600160~hmac=e972c7b28fdf7f6782569a3edcac63e020c8b60cd8f510f83129d2c002e376f2|User-Agent=com.sonyliv/6.22.4 (Android 11; en_GB; V2143; Build/RP1A.200720.012)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2316416534193a538b4427be621b855b-1773324600106
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16802_1j3c1qr0bbr.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   12/03 Persis Solo FC vs Bali United  KEVILL m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16802_1j3c1qr0bbr.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   12/03 Persis Solo FC vs Bali United  KEVILL flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16802_1j3c1qr0bbr.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   12/03 Persis Solo FC vs Bali United  TON LAP m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
@@ -149,6 +143,12 @@ https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16802_1j3c1qr0bbr.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   12/03 Persis Solo FC vs Bali United  URA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16802_1j3c1qr0bbr.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   12/03 Persis Solo FC vs Bali United  KEVILL m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16802_1j3c1qr0bbr.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   12/03 Persis Solo FC vs Bali United  KEVILL flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa3e0cbc7ba89e2dfe8fd60bfe3b67d91%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:30   12/03 Persis Solo FC vs Bali United Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -217,30 +217,18 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  LY UNG m3u Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14948_1jyz7cnxhat.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:30   12/03 OTMK Olmaliq vs Sogdiana Jizak  TAN CA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  LY UNG flv Gvision TV
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14948_1jyz7cnxhat.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:30   12/03 OTMK Olmaliq vs Sogdiana Jizak  TAN CA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  NGU CA m3u Gvision TV
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5350_20130806232829.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Boluspor vs Corum Belediyespor  TONG GIANG m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  NGU CA flv Gvision TV
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5350_20130806232829.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Boluspor vs Corum Belediyespor  TONG GIANG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  DOAN DU m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  DOAN DU flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  KENCHU m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  KENCHU flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5350_20130806232829.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Boluspor vs Corum Belediyespor  TRIEU TU LONG m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
@@ -253,16 +241,48 @@ https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035d
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5350_20130806232829.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Boluspor vs Corum Belediyespor  DUONG QUA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5350_20130806232829.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Boluspor vs Corum Belediyespor  TONG GIANG m3u Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  NGU CA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5350_20130806232829.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Boluspor vs Corum Belediyespor  TONG GIANG flv Gvision TV
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  NGU CA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F68008e9a65b11570ca08439864bcf784%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",18:00   12/03 Difai Agsu FK vs Baku Sporting FK Gvision TV
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  KENCHU m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/d0a09e6f1ceb60cb277a2eb127eedaa3/playlist.m3u8
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  KENCHU flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  DOAN DU m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  DOAN DU flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  LY UNG m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F25972_1k2dzsp8ag1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   12/03 Chanmari FC vs Dempo  LY UNG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14948_1jyz7cnxhat.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:30   12/03 OTMK Olmaliq vs Sogdiana Jizak  KAKA m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14948_1jyz7cnxhat.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:30   12/03 OTMK Olmaliq vs Sogdiana Jizak  KAKA flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14948_1jyz7cnxhat.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:30   12/03 OTMK Olmaliq vs Sogdiana Jizak  NHI KA m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14948_1jyz7cnxhat.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:30   12/03 OTMK Olmaliq vs Sogdiana Jizak  NHI KA flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14948_1jyz7cnxhat.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:30   12/03 OTMK Olmaliq vs Sogdiana Jizak  VO TONG m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14948_1jyz7cnxhat.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:30   12/03 OTMK Olmaliq vs Sogdiana Jizak  VO TONG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2cea4858800049e1214f44c3c9cec7db%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   12/03 Finland Women U17 vs Romania Women U17 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -299,6 +319,10 @@ https://live.alilicloud.com/live/c10896a1e5c917d26250b82bb7001f06/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9a6c7fedd3a5fae7a35dd7610c3bb38c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F68008e9a65b11570ca08439864bcf784%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",18:00   12/03 Difai Agsu FK vs Baku Sporting FK Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/d0a09e6f1ceb60cb277a2eb127eedaa3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_131728_7368d970.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",22:00   12/03 Dinamo Samarqand vs Nasaf HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -403,10 +427,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F48170442feb728497bd1809e555f5e61%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:15   12/03 Tampines Rovers FC vs Bangkok United FC Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6c4e6b8e1727a34acd341839de01afa7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb33851344e150c09c86baa6c5caf12a3%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",18:00   12/03 Association Sportif Inter Star vs Kayanza Utd Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -423,66 +443,10 @@ https://live.alilicloud.com/live/eb5db287631463ab2cdbfc6a492baba4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/9a6c7fedd3a5fae7a35dd7610c3bb38c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [ ROSI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773328298-0-0-1eb92402d63345331999677a552631a2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [ ROSI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773328298-0-0-e28955dbed3be669ed05408efe515c85
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [ ROSI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773328298-0-0-e7a2236a2f8fb13cee09b6d56ba89415
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [ ROSI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773328298-0-0-3d3b9ed023f4dfd778aea5532d6dcebd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [  TYPN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1773328298-0-0-bbab536a0349bd426d6e15d4cbf12440
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [  TYPN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1773328298-0-0-15f36e4bc1483f8c3a8284bec3586e7d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [  TYPN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1773328298-0-0-e9753b743560e662353a2ae389f41d0e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [  TYPN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1773328298-0-0-49ba3a71a18f830b933fe0be24ed8346
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ VITAMIN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1773328298-0-0-8ccfa90647267976e2102b5f484d697e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ VITAMIN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1773328298-0-0-b646cf4b4c130adb9baf8eefb59b66a7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ VITAMIN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1773328298-0-0-200797208e7712aedd8d8b097538f5b3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ VITAMIN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1773328298-0-0-82e7334e05434c3a3c5638cade35d7b4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ RAMBO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=7c6bfab274c18e4ea17378f6bf81a0e4&txTime=69b31dfa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ RAMBO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=465fdf0599d3ffcf6d3f6e73f61c5124&txTime=69b31dfa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ RAMBO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=7c6bfab274c18e4ea17378f6bf81a0e4&txTime=69b31dfa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ RAMBO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=465fdf0599d3ffcf6d3f6e73f61c5124&txTime=69b31dfa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ COZY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773328298-0-0-17cab91b53beae981d018fbad02c056e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ COZY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773328298-0-0-fee1ec3a06e1a07cac592f3aa2a26794
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ COZY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773328298-0-0-fe26c02fa19e0b633cf7428e3aa7b096
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ COZY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773328298-0-0-b86e075eebf93bb33ac32028e57a6171
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F48170442feb728497bd1809e555f5e61%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:15   12/03 Tampines Rovers FC vs Bangkok United FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6c4e6b8e1727a34acd341839de01afa7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [CR Buoi] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1773328658-0-0-89c81cd9a662e28986d53c22319921e8
@@ -555,6 +519,66 @@ https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1773329018-0-0-5a7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [ TOMIA] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1773329018-0-0-fced86cd748d67ace4be1587fb9a60f5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [  TYPN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1773329378-0-0-ec94fa20067f919cc8865ec4f5e42122
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [  TYPN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1773329378-0-0-7c8b486e582499bdf77e83be6a2296dd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [  TYPN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1773329378-0-0-e179dd125e6b4dd21a896332b5400e8e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [  TYPN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1773329378-0-0-60a2a51a3c2949874bc5975c392d57e8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ RAMBO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=efe00ffc2d4f34642c2dfd4fef6faac1&txTime=69b32232
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ RAMBO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=07fe186ddbbff2c5a94db3cd82697909&txTime=69b32232
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ RAMBO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=efe00ffc2d4f34642c2dfd4fef6faac1&txTime=69b32232
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ RAMBO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=07fe186ddbbff2c5a94db3cd82697909&txTime=69b32232
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ VITAMIN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1773329378-0-0-e8a05f394168d41ec36c75bddae39e31
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ VITAMIN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1773329378-0-0-9df83d79e9fac54595a2fae3de67c7cd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ VITAMIN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1773329378-0-0-1360301c6ac33a4481ae937cd57711e7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ VITAMIN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1773329378-0-0-c63c9769a06dfb9abfb7bdc693748694
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ COZY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773329378-0-0-e266cd8af9d84abfd9edb3bab400dce1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ COZY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773329378-0-0-6ce37dbdfd828de40bbe1e5b0101325a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ COZY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773329378-0-0-cb691ce0349ded102dc19772de5d2125
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/47c70a2a7b9b396bfd5335f295cb050d.png" group-title="Live Event: socolive",20:30 ngay 12/03 Dewa United FC vs Manila Digger FC [ COZY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773329378-0-0-6fea178cc40d83f976da815fea906043
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [ ROSI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773329378-0-0-1abcbde5247cd472321fcffc957ba9fb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [ ROSI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773329378-0-0-611c7f10a348160f5db82eff3c4d9fe8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [ ROSI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773329378-0-0-f3841bcc1010aafeb3ebccf1dcdd6ed8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/44ce91bd600cd011f709bf3d0d1e1c4e.png" group-title="Live Event: socolive",20:30 ngay 12/03 Persis Solo FC vs Bali United [ ROSI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773329378-0-0-91592a0faf54c0c3b37184a25ab8ddc8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4243.png" group-title="Live Event: Hội quán",20:30 12/03 Persis Solo vs Bali United FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -573,54 +597,6 @@ https://live5.msrktz.app/live/33982309.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46e87ccb8a5cacc290719d822b9f8fe1.png!w80" group-title="Live Event: Colalive",20:30 12/03 Persis Solo vs Bali United Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [CU DEM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1773328298-0-0-eda9606609a22049cef3dd436a213b05
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [CU DEM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1773328298-0-0-126aecd2eb4b1d3c63ded69517662dbb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [CU DEM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1773328298-0-0-5c89aca49c307a5496f17fb9586be635
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/ef365de6748871f3de177b599239e03c.png" group-title="Live Event: socolive",19:15 ngay 12/03 Tampines Rovers FC vs Bangkok United FC [CU DEM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1773328298-0-0-ff891f9b1d0492bb529aa717554e5482
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ ENZO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1773328298-0-0-cc5e226c70ed7dc2b6b3002deebd66ea
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ ENZO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1773328298-0-0-2e46c9333dcb3c607419329b1bbe8dcc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ ENZO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1773328298-0-0-06dc3a660569c95ffba1401b39c21cbd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ ENZO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1773328298-0-0-0dad8cb3f8218e537e117642c83ac35f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/662a17188ef057b7a8aee2924e2dea21.png" group-title="Live Event: socolive",20:00 ngay 12/03 Boluspor vs Corum Belediyespor [MR BICH] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1773328298-0-0-22f7d9718e76ca01f5a93d277c95e028
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/662a17188ef057b7a8aee2924e2dea21.png" group-title="Live Event: socolive",20:00 ngay 12/03 Boluspor vs Corum Belediyespor [MR BICH] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1773328298-0-0-18a905da8d1c9d361d338577324ce380
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/662a17188ef057b7a8aee2924e2dea21.png" group-title="Live Event: socolive",20:00 ngay 12/03 Boluspor vs Corum Belediyespor [MR BICH] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1773328298-0-0-cb960d1c8363f279020d0c7eb35be53d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/662a17188ef057b7a8aee2924e2dea21.png" group-title="Live Event: socolive",20:00 ngay 12/03 Boluspor vs Corum Belediyespor [MR BICH] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1773328298-0-0-bbad99c6d168b60863537b5e7f905104
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/dadacda2006337a3cad78a6c04faa6c4.jpg" group-title="Live Event: socolive",21:30 ngay 12/03 Hungary W vs Canada W [KING] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1773328298-0-0-3620f36c63690b6a2d59602e4bd07863
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/dadacda2006337a3cad78a6c04faa6c4.jpg" group-title="Live Event: socolive",21:30 ngay 12/03 Hungary W vs Canada W [KING] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1773328298-0-0-2378daebacdab0da60a9021b26f934b7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/dadacda2006337a3cad78a6c04faa6c4.jpg" group-title="Live Event: socolive",21:30 ngay 12/03 Hungary W vs Canada W [KING] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1773328298-0-0-c0816e01e1a08adec7b9e6204fbc3408
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/dadacda2006337a3cad78a6c04faa6c4.jpg" group-title="Live Event: socolive",21:30 ngay 12/03 Hungary W vs Canada W [KING] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1773328298-0-0-8fd4909a8832314d48fa444b1481103f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/61326f37d697eefe1658c11db105f647.png" group-title="Live Event: socolive",21:30 ngay 12/03 FC OKMK Olmaliq vs Sogdiana Jizak [ ROBBEN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1773328658-0-0-ae2732c4bd14d05043e7ff6b955952d6
@@ -729,6 +705,102 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773329018-0-0-dc28
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773329018-0-0-a14041c94bcd06badc48e90fc63e99c5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/662a17188ef057b7a8aee2924e2dea21.png" group-title="Live Event: socolive",20:00 ngay 12/03 Boluspor vs Corum Belediyespor [MR BICH] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1773329378-0-0-3355652431d5e7d40e3946d7f4eaa4c4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/662a17188ef057b7a8aee2924e2dea21.png" group-title="Live Event: socolive",20:00 ngay 12/03 Boluspor vs Corum Belediyespor [MR BICH] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1773329378-0-0-37beab2726094ad0e757b652a0ad32f7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/662a17188ef057b7a8aee2924e2dea21.png" group-title="Live Event: socolive",20:00 ngay 12/03 Boluspor vs Corum Belediyespor [MR BICH] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1773329378-0-0-4fcc9959febf3d2c6234631115069507
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/662a17188ef057b7a8aee2924e2dea21.png" group-title="Live Event: socolive",20:00 ngay 12/03 Boluspor vs Corum Belediyespor [MR BICH] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1773329378-0-0-9eaac95b1a1478284c59eecc0289c7f4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ ENZO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1773329378-0-0-3a8e6d647a75d347beb1e2adee60f105
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ ENZO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1773329378-0-0-bedc7d584586608b61a5ab735671028a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ ENZO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1773329378-0-0-9b8f562d94d8bd62f5bcc24c37bcd2ba
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dd3dfc0ea5b20413fc7838f8fada585e.png" group-title="Live Event: socolive",17:30 ngay 12/03 Igdir FK vs Bodrum FK [ ENZO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1773329378-0-0-54fbd3a6da8dda64dbb78e669130cef1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [ ALEX] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1773329378-0-0-8ae17c660faff16ba4d72b677dafa9f2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [ ALEX] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1773329378-0-0-b96274776c23747c394be4785e24c7f4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [ ALEX] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1773329378-0-0-885941225d056cdc83a901162570f9da
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [ ALEX] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1773329378-0-0-537dd52f8f2c921fbe8bd99e3cbc5a46
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [SUNG A MUP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1773329378-0-0-6b9227f2f25a4cd974e0e5932cd2383f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [SUNG A MUP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1773329378-0-0-23adef1fd70626c56e1c40922fba40ce
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [SUNG A MUP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1773329378-0-0-10e604d8210159f0330a76efe7d477e3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [SUNG A MUP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1773329378-0-0-a998ca2876d504b5ba6aaa5192fe4db3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/dadacda2006337a3cad78a6c04faa6c4.jpg" group-title="Live Event: socolive",21:30 ngay 12/03 Hungary W vs Canada W [KING] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1773329378-0-0-e3883a197311f8020d5f48afbe9a1014
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/dadacda2006337a3cad78a6c04faa6c4.jpg" group-title="Live Event: socolive",21:30 ngay 12/03 Hungary W vs Canada W [KING] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1773329378-0-0-aa867a360cd66abd4ae43c3af3367e78
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/dadacda2006337a3cad78a6c04faa6c4.jpg" group-title="Live Event: socolive",21:30 ngay 12/03 Hungary W vs Canada W [KING] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1773329378-0-0-8de25a8c89285ba811891be7191acf9d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/dadacda2006337a3cad78a6c04faa6c4.jpg" group-title="Live Event: socolive",21:30 ngay 12/03 Hungary W vs Canada W [KING] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1773329378-0-0-0dc5d8e768e2538f4ac58aa3d025075b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/61326f37d697eefe1658c11db105f647.png" group-title="Live Event: socolive",21:30 ngay 12/03 FC OKMK Olmaliq vs Sogdiana Jizak [GOAT] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1773329395-0-0-d3a4cac4f11b691230bcd24029203535
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/61326f37d697eefe1658c11db105f647.png" group-title="Live Event: socolive",21:30 ngay 12/03 FC OKMK Olmaliq vs Sogdiana Jizak [GOAT] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1773329395-0-0-9386ec04d784706e537f982e28ec26bb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/61326f37d697eefe1658c11db105f647.png" group-title="Live Event: socolive",21:30 ngay 12/03 FC OKMK Olmaliq vs Sogdiana Jizak [GOAT] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1773329395-0-0-3e3cc5383ebd915c116a784df78755cc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/61326f37d697eefe1658c11db105f647.png" group-title="Live Event: socolive",21:30 ngay 12/03 FC OKMK Olmaliq vs Sogdiana Jizak [GOAT] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1773329395-0-0-e78e878cff286236acbe4ba0d5d6d128
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dbcaee1d3c30e917ed873b5bddcc295a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Dinamo Samarqand vs Nasaf Qarshi [NGUOI THEP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1773329378-0-0-fbff66c7ed1f42155e56f311dd8eebde
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dbcaee1d3c30e917ed873b5bddcc295a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Dinamo Samarqand vs Nasaf Qarshi [NGUOI THEP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1773329378-0-0-8206a128b466af22d3dbc73fe29423d1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dbcaee1d3c30e917ed873b5bddcc295a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Dinamo Samarqand vs Nasaf Qarshi [NGUOI THEP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1773329378-0-0-b241ca597cc3c907faa6f2b7a74fca53
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/dbcaee1d3c30e917ed873b5bddcc295a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Dinamo Samarqand vs Nasaf Qarshi [NGUOI THEP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1773329378-0-0-4be0bc2c28ad3526e84131a7e38c09a2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [CHANH MUOI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1773329382-0-0-20e9bf4bb7910a48646c873f67faad6d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [CHANH MUOI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1773329382-0-0-e22815257b74782a9f00b5ceb5bf165f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [CHANH MUOI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1773329382-0-0-6bcc4fd0e7a3ba2888043aef94095905
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/af8f742fecd893cb780dcff8b6cb114a.png" group-title="Live Event: socolive",22:00 ngay 12/03 Samgurali Tskh vs Dinamo Batumi [CHANH MUOI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1773329382-0-0-69b7844f59cf0a2e52af3f961d47a378
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png!w80" group-title="Live Event: Colalive",20:00 12/03 Boluspor vs Corum Belediyespor Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/41943555.m3u8
