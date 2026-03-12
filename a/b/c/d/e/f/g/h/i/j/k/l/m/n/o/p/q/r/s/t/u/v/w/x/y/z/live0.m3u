@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-12 09:14:51
-# 🔄 Total Channels: 1376
+# ⏰ Latest Updated: 2026-03-12 09:19:46
+# 🔄 Total Channels: 1398
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -155,10 +155,12 @@ https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d7
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23666_1hg20gb4ny30.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:00   12/03 Shan United vs Mahar United  TON LAP flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faaccfe48f5d876fcdaf017a331c05cb9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",10:30   12/03 San Diego FC vs Toluca Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23666_1hg20gb4ny30.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:00   12/03 Shan United vs Mahar United  TONG GIANG m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7cb6d48f22f2f10342b17aefc67f1cf1/playlist.m3u8
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23666_1hg20gb4ny30.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:00   12/03 Shan United vs Mahar United  TONG GIANG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8c4a30b4ffc6cae1fbadf25cc81ed90f%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",16:00   12/03 Shan United vs Mahar United hd_1 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -171,6 +173,10 @@ https://pull-live3.fastestcdn-global.com/live/afaadf44eb6e419f8d65996239cd242f/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://pull-live4.fastestcdn-global.com/live/afaadf44eb6e419f8d65996239cd242f/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faaccfe48f5d876fcdaf017a331c05cb9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",10:30   12/03 San Diego FC vs Toluca Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7cb6d48f22f2f10342b17aefc67f1cf1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_125739_0846d509.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",16:00   12/03 Shan United vs Mahar United FC HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -283,6 +289,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8c4a30b4ffc6cae1fbadf25cc81ed90f%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:00   12/03 Shan United vs Mahar United Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8f81d5dda3a241f8c956fae9abde1c4b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8c4a30b4ffc6cae1fbadf25cc81ed90f%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:00   12/03 Shan United vs Mahar United sd_1 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -319,30 +329,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [BRIAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1773309218-0-0-38515f1f152f052cb4edac7b1715b3be
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [BRIAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1773309218-0-0-31a46d4f5e0623e620f8f7b03edf5d00
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [BRIAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1773309218-0-0-1cd11787a3d279f992f799c8fdfb6a9a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [BRIAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1773309218-0-0-717ed6557efad66e1e984885f286d43b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: socolive",16:00 ngay 12/03 Shan United vs Mahar United [ PEWPEW] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1773309218-0-0-6ff6ed89b2c2506b57a1c8dc9c50bf74
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: socolive",16:00 ngay 12/03 Shan United vs Mahar United [ PEWPEW] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1773309218-0-0-7ace4a416243db1c413960b7749b6c30
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: socolive",16:00 ngay 12/03 Shan United vs Mahar United [ PEWPEW] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1773309218-0-0-bc2d7c4ab8f4d2a956f3d36a8929af11
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: socolive",16:00 ngay 12/03 Shan United vs Mahar United [ PEWPEW] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1773309218-0-0-7cb93a6f5a75ccb91ba211303e336564
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [CHAN SENA] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1773309578-0-0-b3397e1c4f9b3bc3fe45b2d1653342b3
@@ -427,6 +413,30 @@ https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=8bfa81d11b048385707
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: socolive",16:00 ngay 12/03 Shan United vs Mahar United [RICKHANTER] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=012eaa6f9ddf2a2b18c1c0c6256e96e6&txTime=69b2d642
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: socolive",16:00 ngay 12/03 Shan United vs Mahar United [ PEWPEW] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1773310298-0-0-a3681d1d8af92a1333d312261b4e0a5c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: socolive",16:00 ngay 12/03 Shan United vs Mahar United [ PEWPEW] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1773310298-0-0-061ebb8868a4fb4008b6b06ea1f7723a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: socolive",16:00 ngay 12/03 Shan United vs Mahar United [ PEWPEW] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1773310298-0-0-76c1e475ce71d5ca6346fb1081a665b7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: socolive",16:00 ngay 12/03 Shan United vs Mahar United [ PEWPEW] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1773310298-0-0-504e4d3c229a59feae28c9484344f333
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [BRIAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1773310298-0-0-4242cfa4ef76bf420f9a59e1e76e707d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [BRIAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1773310298-0-0-8414c3c61f98e85bd7a8a510af987b5f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [BRIAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1773310298-0-0-bcb1caabd5fcdcac0c8f4a94c05432dc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [BRIAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1773310298-0-0-58e2a17ba2bd29ce43fd9c947e9381ba
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/81591ca25d2179a9877ec9c24bbe59e3.png!w80" group-title="Live Event: Colalive",16:00 12/03 Shan United vs Mahar United Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/99121525.m3u8
@@ -665,46 +675,84 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://daffodil.lifesharper.com/nba3.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [A CHE] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773296258-0-0-b235c7a31af94791b9f96d76431cb7da
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [A CHE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773296258-0-0-976be22f40885c8d65f2dbc57160e2f7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [A CHE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773296258-0-0-ba1a052c27ecc9bdd2edebd890abf935
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [A CHE] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773296258-0-0-c53a9b9516384c79e6ee0884f72e5c8f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1773296618-0-0-b9dd296c22189f12f89cda001a95b3a8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1773296618-0-0-462e6c229f926707068e85fb8d7c8b2e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773296618-0-0-c3a00214c0d9aaef33f76422f15eb5e8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773296618-0-0-f54f65247db80452b23de69394d2603b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BRIAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1773296618-0-0-b413ec86d6767efb406faab178361a49
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BRIAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1773296618-0-0-abb56160e7cdcf2fcd96dc809e288e4c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BRIAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1773296618-0-0-b54e8dd0a1042d067b3e723e49f4821b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [BRIAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1773296618-0-0-aed3b3a69d424fb06683f5be870c68d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [HUNTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773296978-0-0-ddae628c2ca4831e09d267c19bf0001e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [HUNTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773296978-0-0-30ed5903ceb5e8ffe2188c4d1baf44a1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773296978-0-0-7a19b266b702de2225063e64d6d26c1c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773296978-0-0-676a02441a80024b1897e40d6a594c0c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [KING] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1773296618-0-0-6e1a69cf2f8607c91c284294ffbf1680
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [KING] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1773296618-0-0-d3bf51c5ea60b01a5d8a533d4620c3bf
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [KING] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1773296618-0-0-a033358869d1aedd1c02b97f13868467
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/6bf7c20953c0b53a2bafa06ebf11f80c.png" group-title="Live Event: Cadangan",12:30 Gvision TV 12/03 South Sudan W vs Brazil W [KING] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1773296618-0-0-4e2f61a0948039435c719a8915fdbe84
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [BRIAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1773309218-0-0-38515f1f152f052cb4edac7b1715b3be
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [BRIAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1773309218-0-0-31a46d4f5e0623e620f8f7b03edf5d00
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [BRIAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1773309218-0-0-717ed6557efad66e1e984885f286d43b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [BRIAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1773309218-0-0-1cd11787a3d279f992f799c8fdfb6a9a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [CHAN SENA] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1773309578-0-0-b3397e1c4f9b3bc3fe45b2d1653342b3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [CHAN SENA] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1773309578-0-0-e02f4da1c7d69984014becd7d965f78c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [CHAN SENA] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1773309578-0-0-002ee9d40a3425fde26f9f0383ed7bff
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [CHAN SENA] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1773309578-0-0-ffdabd29493d6f3b50cc221707f09a64
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [HUNTER] (Socolive) flv
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773309578-0-0-1835a8f736648ad993867eac31ecda12
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [HUNTER] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773309578-0-0-3e67421ea898c5cd53e072a0518dd7f2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [HUNTER] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773309578-0-0-6b3ec2de393e8ee1e174ee378a585648
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: Cadangan",15:30 Gvision TV 12/03 Mali W vs Czech Republic W [HUNTER] (Socolive) m3u8
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773309578-0-0-7dc44a3d6b48e9f5e47d49a25d8580c8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/81591ca25d2179a9877ec9c24bbe59e3.png!w80" group-title="Live Event: Cadangan",16:00 12/03 Shan United vs Mahar United
+https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/23666_1hg20gb4ny30.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United (Luong Son) BLV LEO flv
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/23666_1hg20gb4ny30.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United (Luong Son) BLV LEO m3u
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/23666_1hg20gb4ny30.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United (Luong Son) BLV TON LAP flv
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/23666_1hg20gb4ny30.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United (Luong Son) BLV TON LAP m3u
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/23666_1hg20gb4ny30.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United (Luong Son) BLV URA flv
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/23666_1hg20gb4ny30.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United (Luong Son) BLV URA m3u
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV CO] (Socolive) flv
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1773309938-0-0-35f893bb7bf3d14b58f9f28d31ba96b3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV CO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1773309938-0-0-1899ce4ae991a1459981fed9c6f8e368
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV CO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1773309938-0-0-b38e56aa36a1f29c538bec98737f52fe
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV CO] (Socolive) m3u8
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1773309938-0-0-7fc21c18438233f40c0f20451c5572c2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV KEM] (Socolive) flv
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1773309938-0-0-e97f1bda4ac3392e15dce415b35c0bab
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV KEM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1773309938-0-0-5c7562db5dee675db50667091b10a838
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV KEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1773309938-0-0-9e5a5ab1a8dcb3111a36feac51942a14
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV KEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1773309938-0-0-c004222558b116951fa0b64f83a898d1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV PEWPEW] (Socolive) flv
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1773309218-0-0-6ff6ed89b2c2506b57a1c8dc9c50bf74
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV PEWPEW] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1773309218-0-0-7ace4a416243db1c413960b7749b6c30
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV PEWPEW] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1773309218-0-0-7cb93a6f5a75ccb91ba211303e336564
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [BLV PEWPEW] (Socolive) m3u8
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1773309218-0-0-bc2d7c4ab8f4d2a956f3d36a8929af11
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [CONG CHAT] (Socolive) flv
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1773309578-0-0-acc3a0ec4ffeef5515e8367cf8eddec4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [CONG CHAT] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1773309578-0-0-36136cefe4dd99af7e93008953f118a9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [CONG CHAT] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1773309578-0-0-e69566343c31958ede5fcd02f17b99e3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [CONG CHAT] (Socolive) m3u8
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1773309578-0-0-c4be7d1422af88006f1aaee6a81bb276
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [RICKHANTER] (Socolive) flv
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=8bfa81d11b0483857078071ff9c60709&txTime=69b2d642
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [RICKHANTER] (Socolive) hdFlv
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=012eaa6f9ddf2a2b18c1c0c6256e96e6&txTime=69b2d642
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [RICKHANTER] (Socolive) hdM3u8
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=012eaa6f9ddf2a2b18c1c0c6256e96e6&txTime=69b2d642
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260309/c8a40c6122ea6c0b7f09cdc37dc0afb2.png" group-title="Live Event: Cadangan",16:00 Gvision TV 12/03 Shan United vs Mahar United [RICKHANTER] (Socolive) m3u8
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=8bfa81d11b0483857078071ff9c60709&txTime=69b2d642
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+) (Kadang Offline)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
