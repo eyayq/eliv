@@ -1,10 +1,8 @@
 #EXTM3U
-# Generated Thu Mar 12 23:44:03 2026
+# Generated Thu Mar 12 23:49:11 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 13-03-2026 06:43:47 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 13-03-2026 06:48:59 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Mexico Liga MX Femenil 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6350b03022c4e5344c808657c3282bb.png",📁😈Cruz Azul Women😈VS😈Club Necaxa Women [LIVE]😈📁
-https://bf.jalaplay.net/live/322580.m3u8?txSecret=c549ac0867afa604644759559523fc04&txTime=69b34d73
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Remo Belem (PA)😈VS😈Fluminense RJ [LIVE]😈📁
 https://bf.jalaplay.net/live/322717.m3u8?txSecret=2293f0011ab9972bcaff6a564360289e&txTime=69b346fa
 #EXTINF:-1 group-title="📁😈 Argentine Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png",📁😈Estudiantes Rio Cuarto😈VS😈Belgrano [LIVE]😈📁
@@ -12,10 +10,10 @@ https://bf.jalaplay.net/live/5005097.m3u8?txSecret=821cf727791975e3de5b8adb884af
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Clube de Regatas Vasco da Gama😈VS😈Palmeiras [LIVE]😈📁
 https://bf.jalaplay.net/live/322708.m3u8?txSecret=0422a8ffe30c74b2a220dbb8661188af&txTime=69b34a33
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Sao Paulo😈VS😈Chapecoense SC [LIVE]😈📁
+https://bf.jalaplay.net/live/5005093.m3u8?txSecret=fd791589bfd57464cc3ac945814d9a96&txTime=69b3502c
+#EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Sao Paulo😈VS😈Chapecoense SC [LIVE]😈📁
 https://bf.jalaplay.net/live/322675.m3u8?txSecret=8e76077b4d6cc368b4c440ef67dfbfe2&txTime=69b34f67
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Sao Paulo😈VS😈Chapecoense SC [LIVE]😈📁
-https://bf.jalaplay.net/live/5005093.m3u8?txSecret=f2c2b63d6f841d572d7b60b193282398&txTime=69b3421a
-#EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Sao Paulo😈VS😈Chapecoense SC [LIVE]😈📁
-https://bf.jalaplay.net/live/5004423.m3u8?txSecret=a21c6fd64dcd3dcd59b4d4fbfa06fbf5&txTime=69b3422f
-#EXTINF:-1 group-title="📁😈 CONCACAF Champions Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png",📁😈FC Cincinnati😈VS😈Tigres UANL [16m]😈📁
+https://bf.jalaplay.net/live/5004423.m3u8?txSecret=d71eac6bce5d8f50a7418b8153308001&txTime=69b35040
+#EXTINF:-1 group-title="📁😈 CONCACAF Champions Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png",📁😈FC Cincinnati😈VS😈Tigres UANL [10m]😈📁
 https://bf.jalaplay.net/live/322707.m3u8?txSecret=db889bf254684350434b765da1967082&txTime=69b34b29
