@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-12 08:08:49
-# 🔄 Total Channels: 1361
+# ⏰ Latest Updated: 2026-03-12 08:14:03
+# 🔄 Total Channels: 1367
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -137,6 +137,12 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1773295561.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/03 Arsenal vs Sunderland MEGA LIVE m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TEST/index.m3u8?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1773295561.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/03 Arsenal vs Sunderland MEGA LIVE flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TEST.flv?expire=1788427256&sign=47963ed63da3360fd84dccfb53a2c83c
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faaccfe48f5d876fcdaf017a331c05cb9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",10:30   12/03 San Diego FC vs Toluca Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -269,30 +275,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [HUNTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773305258-0-0-f0b40600a60c5a4e97303503513b57fe
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [HUNTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773305258-0-0-6cefdb7d6d8576fe8bbacf602ccf7a13
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [HUNTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773305258-0-0-b94b92763270b798325e0af1f463583e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [HUNTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773305258-0-0-a4dfe35b9a3d68ac4d45c80884a557e4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773305258-0-0-ba27f8df5e98710a8608c7e809687424
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773305258-0-0-e46ae26cfa01033d7f8cf3fdd563a44a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773305258-0-0-2eefbe1ed7e407283b6bc8ae6010b1f5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773305258-0-0-d95069968a162325bee94657ffd6d061
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [BRIAN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1773305978-0-0-8c3b4667b8313c2368007614b877e408
@@ -377,6 +359,42 @@ https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1773305978-0-0-1b8d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: socolive",Tuong thuat: UEFA CL - Galatasaray vs Liverpool [Soc nham nhang nho] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1773305978-0-0-a64a7208ebc6ef1a79ee004812c40ed7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [CHAN SENA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1773306338-0-0-b8e38ef090457adc39361505805054f4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [CHAN SENA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1773306338-0-0-48b4710d7f3de971509b078891366158
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [CHAN SENA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1773306338-0-0-5a962f839e1457e968ecbb28f9cb2247
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [CHAN SENA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1773306338-0-0-f21c975aa6f1d87fb48dfa1e7c3a9c07
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [HUNTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773306338-0-0-1dca50ed104ac15d067274b80e5f2974
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [HUNTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773306338-0-0-b848b34fed55efdd340291c911683d0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [HUNTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773306338-0-0-54d9ada0cf87ba57cb0599f580f618eb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260310/55b8ff91471cf88a8d84c0eda613b8be.png" group-title="Live Event: socolive",15:30 ngay 12/03 Mali W vs Czech Republic W [HUNTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773306338-0-0-93fd219fe86350744cba16523ec4c5d0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773306338-0-0-53386f942634831987c0e98015ce3fda
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773306338-0-0-44cd10cb0e6935e67ad0d55240056ab2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773306338-0-0-769bfe4a50088546d2cc6760e4df1469
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260307/e91d650330ee9069efd363ad8c7fb298.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773306338-0-0-b5bc7b9ef6bb45b68fe35262302f7d23
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Argentina Liga Profesional] Argentinos Jrs vs Rosario Central Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
