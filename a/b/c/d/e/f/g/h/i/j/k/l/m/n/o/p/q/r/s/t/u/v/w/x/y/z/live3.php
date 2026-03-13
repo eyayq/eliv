@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Fri Mar 13 22:21:28 2026
+# Generated Fri Mar 13 22:26:51 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 05:21:09 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 05:26:29 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Paraguayan Primera Division 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f6ee5b5c991ae7af40af139efa05a07f.png",📁😈Sportivo Luqueno😈VS😈Sportivo San Lorenzo [LIVE]😈📁
 https://bf.jalaplay.net/live/322717.m3u8?txSecret=ddf9cdb4e2853810ce2971e8d647b4e8&txTime=69b48c74
