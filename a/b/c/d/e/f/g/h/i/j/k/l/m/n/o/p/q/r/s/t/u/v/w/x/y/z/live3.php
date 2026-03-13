@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Fri Mar 13 10:46:07 2026
+# Generated Fri Mar 13 10:51:58 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 13-03-2026 17:45:54 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 13-03-2026 17:51:47 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 National Premier Leagues Victoria 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",📁😈Oakleigh Cannons😈VS😈Heidelberg United [LIVE]😈📁
 https://bf.jalaplay.net/live/5005011.m3u8?txSecret=d630fbaa85fef9ada744533e6b3d686a&txTime=69b3ea4d
@@ -13,7 +13,9 @@ https://bf.jalaplay.net/live/5005035.m3u8?txSecret=8ae5cac24d49757a0a862a8974df7
 https://bf.jalaplay.net/live/5004997.m3u8?txSecret=ecdd10347b2a32ae52fc14350cc93ce6&txTime=69b3ea47
 #EXTINF:-1 group-title="📁😈 AFC Women’s Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png",📁😈Australia Women😈VS😈North Korea Women [LIVE]😈📁
 https://bf.jalaplay.net/live/5005074.m3u8?txSecret=3b69bbaf1e53e9405904a85c650bac25&txTime=69b3ea88
-#EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈SC Poltava😈VS😈FC Karpaty Lviv [14m]😈📁
+#EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈SC Poltava😈VS😈FC Karpaty Lviv [8m]😈📁
 https://bf.jalaplay.net/live/5005094.m3u8?txSecret=f66123b9babaf7c28c073f0f63dc99d1&txTime=69b3e934
-#EXTINF:-1 group-title="📁😈 Vietnam National Champion League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png",📁😈Thep Xanh Nam Dinh FC😈VS😈CLB Thanh Hoa [14m]😈📁
+#EXTINF:-1 group-title="📁😈 Vietnam National Champion League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png",📁😈Thep Xanh Nam Dinh FC😈VS😈CLB Thanh Hoa [8m]😈📁
 https://bf.jalaplay.net/live/5005004.m3u8?txSecret=9f9bc76a2900bc7ab9527db05c0d0a49&txTime=69b3e1b5
+#EXTINF:-1 group-title="📁😈 Vietnam National Champion League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png",📁😈SHB Da Nang😈VS😈Hoang Anh Gia Lai [8m]😈📁
+https://bf.jalaplay.net/live/5004995.m3u8?txSecret=57d39aaf3f52d27f05f4cc3910b39d27&txTime=69b3eaf2
