@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-13 22:24:42
-# 🔄 Total Channels: 1568
+# ⏰ Latest Updated: 2026-03-13 22:30:04
+# 🔄 Total Channels: 1518
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -549,18 +549,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: socolive",05:00 ngay 14/03 AS FAR Rabat vs Pyramids FC [ A WIN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1773443138-0-0-63997f2e3b38ed79a9fb29762d1e3731
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: socolive",05:00 ngay 14/03 AS FAR Rabat vs Pyramids FC [ A WIN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1773443138-0-0-f330dea03cb0d34d106cefa8d64424a0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: socolive",05:00 ngay 14/03 AS FAR Rabat vs Pyramids FC [ A WIN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1773443138-0-0-c0ddeafb522d0d53e2658c764645a73c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: socolive",05:00 ngay 14/03 AS FAR Rabat vs Pyramids FC [ A WIN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1773443138-0-0-483eaa45b9adaca940f9b99788564eed
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1adedc5b113fef41a32b4d893d9f11d4.png" group-title="Live Event: socolive",04:30 ngay 14/03 Tecnico Universitario vs Libertad FC [THE KOP] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1773443498-0-0-e8b6bc4f042e9c759c28b16c8715c441
@@ -597,6 +585,18 @@ https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1773443858-0-0-017e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1adedc5b113fef41a32b4d893d9f11d4.png" group-title="Live Event: socolive",04:30 ngay 14/03 Tecnico Universitario vs Libertad FC [VIT BAC] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1773443858-0-0-903dcb70904ecc5534d2d2cc3a03ee84
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: socolive",05:00 ngay 14/03 AS FAR Rabat vs Pyramids FC [ A WIN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1773444218-0-0-1a4af7f0c0e0418a81458e895bbcc38e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: socolive",05:00 ngay 14/03 AS FAR Rabat vs Pyramids FC [ A WIN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1773444218-0-0-8edd3d826a5e3a27c7d028fc7c76c7ab
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: socolive",05:00 ngay 14/03 AS FAR Rabat vs Pyramids FC [ A WIN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1773444218-0-0-fdbbbe118c8e89aea1654b33e393bf8d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: socolive",05:00 ngay 14/03 AS FAR Rabat vs Pyramids FC [ A WIN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1773444218-0-0-1bd7c1d1a4e69699c1269549c59dca22
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/83d851fb1110f1e395690403f9cf01bb.webp" group-title="live event: fawa",[Austria Bundesliga] LASK vs Hartberg Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1072,130 +1072,30 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://daffodil.shadow-ran.online/bein.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1af8463ec165513675278d1ab3db3889.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Marseille vs AJ Auxerre [BLV A WIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1773441338-0-0-3669f5aefb276950518ab2b3ec492c68
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1af8463ec165513675278d1ab3db3889.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Marseille vs AJ Auxerre [BLV A WIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1773441338-0-0-536e042651586d97127de7a74dbc6b54
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1af8463ec165513675278d1ab3db3889.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Marseille vs AJ Auxerre [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1773441338-0-0-557b7bf289795223e6030c76e69a80e5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1af8463ec165513675278d1ab3db3889.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Marseille vs AJ Auxerre [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1773441338-0-0-58f25351b0097d58ff1ec266d270fb4a
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/512_164869071877.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma (Luong Son) BLV TAN CA flv
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/512_164869071877.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma (Luong Son) BLV TAN CA m3u
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV A TU] (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1773441338-0-0-b456f7610ae84911a376e0dc371b6729
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV A TU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1773441338-0-0-382f930f4c258b861ce743438819c95c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV A TU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1773441338-0-0-7a8927ac361a27da8d53bf3aa27ee7ae
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV A TU] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1773441338-0-0-110ea378a46b98a44da25534ca35ca3f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1773440618-0-0-f295e9c55154e2979507e54bf6ba72e8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1773440618-0-0-a7540f83c0d0ef6d75c3733129149900
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1773440618-0-0-45505c782d15bb7f6ea785d9c78e974b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1773440618-0-0-8d36029dd9582a45353d8da6dda3109f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV ROBBEN] (Socolive) flv
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1773441338-0-0-e0b64f2a51162cba9b87313493d85616
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV ROBBEN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1773441338-0-0-266ac84626d26d85c4f7ecd53510de5a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV ROBBEN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1773441338-0-0-c8875b84512f1d7f790ee5ba46d98521
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/709f7c9273bdee0f2b1d8a426d36d46a.png" group-title="Live Event: Cadangan",02:45 Gvision TV 14/03 Torino vs Parma [BLV ROBBEN] (Socolive) m3u8
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1773441338-0-0-bdc64862e2aeb31e06e0ab7ba205fc34
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fffbebaa7a0c3c2db7e8d637a3de1811.png!w80" group-title="Live Event: Cadangan",03:00 14/03 Alaves vs Villarreal
-https://live5.msrktz.app/live/79665343.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png" group-title="Live Event: Cadangan",03:00 14/03 Alaves vs Villarreal (Hoi Quan) FHD
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6ee72ef6dd0d994c0fd5fb7d82d5acc9.png!w80" group-title="Live Event: Cadangan",03:00 14/03 Wrexham vs Swansea City
-https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/126_164871280016.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Alaves vs Villarreal (Luong Son) BLV DUONG QUA flv
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/126_164871280016.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Alaves vs Villarreal (Luong Son) BLV DUONG QUA m3u
-https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/126_164871280016.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Alaves vs Villarreal (Luong Son) BLV NHI KA flv
-https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/126_164871280016.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Alaves vs Villarreal (Luong Son) BLV NHI KA m3u
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BLV COZY] (Socolive) flv
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773440618-0-0-5f1be40a6c3ce76fb7425ff658ba3bdc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BLV COZY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773440618-0-0-f291cb5b20e0010de601f7d83b4c03cf
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773440618-0-0-d09a754109ac766ddbf590b32bdb4fd8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773440618-0-0-13600d1e68e2ad8856f64e65a3343a49
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BLV XO] (Socolive) flv
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1773440618-0-0-b936e291dc2090f4a2bd810fa36e76e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BLV XO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1773440618-0-0-dc58b3ee0a98e1e6ce82391c930f227c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1773440618-0-0-d02e940e4036b04671ec8237cf2ca032
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1773440618-0-0-f549e8e7189fcc0396698f4660c62041
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BUA TA] (Socolive) flv
-https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=e60f52936817448bcd51eb017f25b808&txTime=69b4d4ba
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BUA TA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=1a3f472a0350d914ba460be5b843c151&txTime=69b4d4ba
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BUA TA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=1a3f472a0350d914ba460be5b843c151&txTime=69b4d4ba
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [BUA TA] (Socolive) m3u8
-https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=e60f52936817448bcd51eb017f25b808&txTime=69b4d4ba
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [CU DEM] (Socolive) flv
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1773441338-0-0-7a8526abab2e1c07a6b4b713f2adf6f5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [CU DEM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1773441338-0-0-cdf3cdd8ffc9c080fa895025e4ae3a2c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [CU DEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1773441338-0-0-59a10d77b33acc8b88f4c33994e2c0c7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [CU DEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1773441338-0-0-aea9b05f389710221928e95a2d5b085a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [LOKA] (Socolive) flv
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1773441338-0-0-0c67f7c0b5af7da4060c75d820356c17
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [LOKA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1773441338-0-0-9249c0b059e7b715ee7cc527c50c977c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [LOKA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1773441338-0-0-1c2462b4dbc893a80c0df07720109b3f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [LOKA] (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1773441338-0-0-d562e0855043a7ce4647972c0e1648d8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [LAO LAM] (Socolive) flv
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1773440618-0-0-20a9abffb0c080585164857a1980263e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [LAO LAM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1773440618-0-0-0c32c7c0a8bf2831d9bd78f39fc23eb5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [LAO LAM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1773440618-0-0-4044494253fbad11905f1b50ec29ad9d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/127d28b85be60bfd81b7ecb94f677e04.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Deportivo Alaves vs Villarreal CF [LAO LAM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1773440618-0-0-b2d4678db76bf6c9f03ae1624a2397b4
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/324_1grmn0cd5d24.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Wrexham vs Swansea City (Luong Son) BLV MA SIEU flv
-https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/324_1grmn0cd5d24.png" group-title="Live Event: Cadangan",03:00 Gvision TV 14/03 Wrexham vs Swansea City (Luong Son) BLV MA SIEU m3u
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1adedc5b113fef41a32b4d893d9f11d4.png" group-title="Live Event: Cadangan",04:30 Gvision TV 14/03 Tecnico Universitario vs Libertad FC [THE KOP] (Socolive) flv
-https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1773441338-0-0-da07ee7545d1e4942f19a18eec0a5bd0
+https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1773443498-0-0-e8b6bc4f042e9c759c28b16c8715c441
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1adedc5b113fef41a32b4d893d9f11d4.png" group-title="Live Event: Cadangan",04:30 Gvision TV 14/03 Tecnico Universitario vs Libertad FC [THE KOP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1773441338-0-0-70941df015e52fbeae98d38aef584b79
+https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1773443498-0-0-e43f977777c68cf7f1547d3513b51d2d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1adedc5b113fef41a32b4d893d9f11d4.png" group-title="Live Event: Cadangan",04:30 Gvision TV 14/03 Tecnico Universitario vs Libertad FC [THE KOP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1773441338-0-0-f9e88aa8fcfd0a5189c327bf7e4ff86e
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1773443498-0-0-694dcb3f3e2d513a0e5c9c1db1dda7fb
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1adedc5b113fef41a32b4d893d9f11d4.png" group-title="Live Event: Cadangan",04:30 Gvision TV 14/03 Tecnico Universitario vs Libertad FC [THE KOP] (Socolive) m3u8
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1773441338-0-0-45e1635a85357c9cddefa01b9bd977e7
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1773443498-0-0-e72eac021e13035437fed206fbbf57fe
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1adedc5b113fef41a32b4d893d9f11d4.png" group-title="Live Event: Cadangan",04:30 Gvision TV 14/03 Tecnico Universitario vs Libertad FC [VIT BAC] (Socolive) flv
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1773440618-0-0-a84b34b07fc7f5f6c5a74fde13dcd619
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1773442778-0-0-e25e2dee0dc47ce1e2638e67537eb376
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1adedc5b113fef41a32b4d893d9f11d4.png" group-title="Live Event: Cadangan",04:30 Gvision TV 14/03 Tecnico Universitario vs Libertad FC [VIT BAC] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1773440618-0-0-d981d58266409620165ac942748f4c25
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1773442778-0-0-176ccfd16bee0fc250c5e55cd133816b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1adedc5b113fef41a32b4d893d9f11d4.png" group-title="Live Event: Cadangan",04:30 Gvision TV 14/03 Tecnico Universitario vs Libertad FC [VIT BAC] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1773440618-0-0-c69e76011a9e599e0b92f763d92cd5fc
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1773442778-0-0-75541e20f319b998ef001f21aa414932
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/1adedc5b113fef41a32b4d893d9f11d4.png" group-title="Live Event: Cadangan",04:30 Gvision TV 14/03 Tecnico Universitario vs Libertad FC [VIT BAC] (Socolive) m3u8
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1773440618-0-0-c0b1d96835d57044f6feb30715542d6c
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[La Liga] 03:00 14/03 Alaves vs Villarreal [FHD]
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[La Liga] 03:00 14/03 Alaves vs Villarreal [HD]
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[La Liga] 03:00 14/03 Alaves vs Villarreal [SD]
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_sd.m3u8
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1773442778-0-0-019a7801985f5b6a8c79f356d0b56a78
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: Cadangan",05:00 Gvision TV 14/03 AS FAR Rabat vs Pyramids FC [BLV A WIN] (Socolive) flv
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1773443138-0-0-63997f2e3b38ed79a9fb29762d1e3731
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: Cadangan",05:00 Gvision TV 14/03 AS FAR Rabat vs Pyramids FC [BLV A WIN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1773443138-0-0-f330dea03cb0d34d106cefa8d64424a0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: Cadangan",05:00 Gvision TV 14/03 AS FAR Rabat vs Pyramids FC [BLV A WIN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1773443138-0-0-483eaa45b9adaca940f9b99788564eed
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/971bcf38bcedba2c83c8a727f8ad8f20.png" group-title="Live Event: Cadangan",05:00 Gvision TV 14/03 AS FAR Rabat vs Pyramids FC [BLV A WIN] (Socolive) m3u8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1773443138-0-0-c0ddeafb522d0d53e2658c764645a73c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+) (Kadang Offline)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
