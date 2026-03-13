@@ -1,20 +1,12 @@
 #EXTM3U
-# Generated Fri Mar 13 10:09:04 2026
+# Generated Fri Mar 13 10:14:25 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 13-03-2026 17:08:47 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 13-03-2026 17:14:12 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Brisbane Roar😈VS😈Western Sydney [LIVE]😈📁
-https://bf.jalaplay.net/live/5004423.m3u8?txSecret=011aa69c7a6524da1066f7ae6d6ed4c7&txTime=69b3dc2e
-#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Brisbane Roar😈VS😈Western Sydney [LIVE]😈📁
-https://bf.jalaplay.net/live/322707.m3u8?txSecret=4d99cd71329b1f7e56c6ab86f625a221&txTime=69b3da43
-#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Brisbane Roar😈VS😈Western Sydney [LIVE]😈📁
-https://bf.jalaplay.net/live/322675.m3u8?txSecret=814170b16ff9aa9b88d2e21da5a85741&txTime=69b3db4b
-#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Brisbane Roar😈VS😈Western Sydney [LIVE]😈📁
-https://bf.jalaplay.net/live/5005093.m3u8?txSecret=ac0e2c6a0d11423b85e701069481af9d&txTime=69b3dd0b
 #EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Manly United😈VS😈Western Sydney Wanderers AM [LIVE]😈📁
 https://bf.jalaplay.net/live/5004975.m3u8?txSecret=1cde9ca400e626aa4f01e4044c656595&txTime=69b3e055
 #EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Manly United😈VS😈Western Sydney Wanderers AM [LIVE]😈📁
-https://bf.jalaplay.net/live/322666.m3u8?txSecret=6daf5615d8e4fd8929d201e6359aafff&txTime=69b3d41f
+https://bf.jalaplay.net/live/322666.m3u8?txSecret=57fa6dfd650f617edcff018603643716&txTime=69b3e232
 #EXTINF:-1 group-title="📁😈 National Premier Leagues Victoria 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",📁😈Green Gully Cavaliers😈VS😈South Melbourne [LIVE]😈📁
 https://bf.jalaplay.net/live/5004995.m3u8?txSecret=35213a0fd8910f87ba2fc7ca3e6690fc&txTime=69b3dc4d
 #EXTINF:-1 group-title="📁😈 National Premier Leagues Victoria 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",📁😈Oakleigh Cannons😈VS😈Heidelberg United [LIVE]😈📁
