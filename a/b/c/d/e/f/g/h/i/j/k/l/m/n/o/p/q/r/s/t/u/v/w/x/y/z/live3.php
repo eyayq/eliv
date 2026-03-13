@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Fri Mar 13 10:19:34 2026
+# Generated Fri Mar 13 10:24:43 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 13-03-2026 17:19:15 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 13-03-2026 17:24:27 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Manly United😈VS😈Western Sydney Wanderers AM [LIVE]😈📁
 https://bf.jalaplay.net/live/5004975.m3u8?txSecret=1cde9ca400e626aa4f01e4044c656595&txTime=69b3e055
