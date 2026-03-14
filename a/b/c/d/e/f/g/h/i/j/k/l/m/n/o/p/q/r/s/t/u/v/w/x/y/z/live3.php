@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Fri Mar 13 23:56:28 2026
+# Generated Sat Mar 14 00:02:28 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 06:56:09 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 07:02:07 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Argentine Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png",📁😈Estudiantes La Plata😈VS😈Club Atlético Lanús [LIVE]😈📁
 https://bf.jalaplay.net/live/322723.m3u8?txSecret=e776df64ebe9ae86847e7191c11bbbd1&txTime=69b4a06e
