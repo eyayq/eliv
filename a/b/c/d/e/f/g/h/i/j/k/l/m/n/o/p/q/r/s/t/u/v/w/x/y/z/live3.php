@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Sat Mar 14 09:17:18 2026
+# Generated Sat Mar 14 09:22:13 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 16:17:01 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 16:21:58 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Daejeon Citizen😈VS😈Gimcheon Sangmu Football Club [LIVE]😈📁
 https://bf.jalaplay.net/live/5005035.m3u8?txSecret=562973579d7877ebc2109292e84dc4d4&txTime=69b52444
