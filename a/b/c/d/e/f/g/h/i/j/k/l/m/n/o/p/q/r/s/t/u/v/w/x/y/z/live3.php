@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Sat Mar 14 06:01:06 2026
+# Generated Sat Mar 14 06:06:29 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 13:00:44 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 13:06:03 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 AFC Women’s Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png",📁😈China Women😈VS😈Chinese Taipei Women [LIVE]😈📁
 https://bf.jalaplay.net/live/5005081.m3u8?txSecret=8432c4da8a22205de6bb290c4923bce1&txTime=69b4f590
@@ -26,10 +26,10 @@ https://bf.jalaplay.net/live/5004423.m3u8?txSecret=80c02ce13e0eedcf9946282a4ecd7
 #EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Newcastle Jets😈VS😈Auckland FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5005095.m3u8?txSecret=06357d4f9ad0b629871b5dd3a48ce57f&txTime=69b4f845
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kashima Antlers😈VS😈Kawasaki Frontale [LIVE]😈📁
+https://bf.jalaplay.net/live/5005093.m3u8?txSecret=b9f5d8ce4e39778616d0fd4f3f829235&txTime=69b4f55f
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kashima Antlers😈VS😈Kawasaki Frontale [LIVE]😈📁
 https://bf.jalaplay.net/live/5004426.m3u8?txSecret=330f824a464a0b73916a156a522ae79a&txTime=69b4f452
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kashima Antlers😈VS😈Kawasaki Frontale [LIVE]😈📁
 https://bf.jalaplay.net/live/322666.m3u8?txSecret=964d237c9a60ad01abf0a69bfeec7b06&txTime=69b4ee2c
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kashima Antlers😈VS😈Kawasaki Frontale [LIVE]😈📁
-https://bf.jalaplay.net/live/5005093.m3u8?txSecret=b9f5d8ce4e39778616d0fd4f3f829235&txTime=69b4f55f
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Sanfrecce Hiroshima😈VS😈Gamba Osaka [LIVE]😈📁
 https://bf.jalaplay.net/live/5004997.m3u8?txSecret=75606ce6fa0d11a7c0fa8231efb44796&txTime=69b4f557
