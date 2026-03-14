@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Sat Mar 14 05:12:25 2026
+# Generated Sat Mar 14 05:17:44 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 12:12:08 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 12:17:22 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈FC Juarez😈VS😈Monterrey [LIVE]😈📁
 https://bf.jalaplay.net/live/5004997.m3u8?txSecret=2b3fea1e5d9bb73eca43da31c4bbb42b&txTime=69b4e6cd
