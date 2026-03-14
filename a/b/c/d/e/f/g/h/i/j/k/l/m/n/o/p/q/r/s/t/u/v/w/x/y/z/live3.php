@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Sat Mar 14 23:51:02 2026
+# Generated Sat Mar 14 23:54:25 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Sunday 15-03-2026 06:50:39 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Sunday 15-03-2026 06:54:08 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Columbus Crew😈VS😈Nashville [LIVE]😈📁
 https://bf.jalaplay.net/live/322717.m3u8?txSecret=a20e0f596b56b952f5323008ea9478e4&txTime=69b5e9c3
