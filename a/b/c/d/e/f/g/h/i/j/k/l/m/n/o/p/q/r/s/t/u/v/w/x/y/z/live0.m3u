@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-14 18:24:02
-# 🔄 Total Channels: 2028
+# ⏰ Latest Updated: 2026-03-14 18:29:05
+# 🔄 Total Channels: 2043
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -129,18 +129,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18_164577409120.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   15/03 Chelsea vs Newcastle United  LU BO m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18_164577409120.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   15/03 Chelsea vs Newcastle United  LU BO flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F273_1%3A71kxn41qn.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:00   15/03 Angers vs Nice  KHONG MINH m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F273_1%3A71kxn41qn.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:00   15/03 Angers vs Nice  KHONG MINH flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F13_164577419697.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   15/03 Arsenal vs Everton  DUONG QUA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
@@ -231,74 +219,18 @@ https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa4
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1422_1h5bjb8vna9.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   15/03 Goztepe vs Alanyaspor  MAYBACH flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F000ad8200cc553da7afe959eda588a29%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:15   14/03 Botev Plovdiv vs Botev Vratsa Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18_164577409120.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   15/03 Chelsea vs Newcastle United  LU BO m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e040c6abafc8aad6d1df6eea2d75c998/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5c8ea1c85378dd7f883edeab335ad905%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Faetano vs AC Juvenes Gvision TV
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18_164577409120.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   15/03 Chelsea vs Newcastle United  LU BO flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/825a5e88de54c7f9ed9d73f42bac05cf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F164507ba8935ef5ff6f16cd246756f9d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 NA Hussein Dey vs MC Saida Gvision TV
+https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F273_1%3A71kxn41qn.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:00   15/03 Angers vs Nice  KHONG MINH m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/03d22b69cc2dca762dea90a91e576a80/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fce3e0a182f9d7a19ed9c5691b4646e00%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   14/03 AS Otoho vs Zamalek SC Gvision TV
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F273_1%3A71kxn41qn.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:00   15/03 Angers vs Nice  KHONG MINH flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/74aefe9d64d661ebbf8f36fd1223e93c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8fa7092cf0aa396a587ffda81eb01f6a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 JS Tixeraine vs ASM Oran Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/382532184138a2e153ef0cd3210c9454/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ddfa6aaf425c8d923912e669aa4d757%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Cesena vs Frosinone Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b062fb760a92b5aadf0f12af01dc573d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7ee598144ea61d6dba3d908c0658f1fb%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Padova vs Catanzaro Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/db7317d1dc8a52c98153d59b88cba923/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff9b868aaaf82d6aa34228a616b63c362%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   14/03 Rodange 91 vs US MondorfvslesvsBains Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/31ca44f39ba6678fbab7503d02cd2c54/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb9b0c39974615cd817933ae67aa418d5%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   14/03 VfL Osnabruck vs SV Waldhof Mannheim Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b8bfc96a02974a5c32fa0a3d696ab183/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7612dba657d483886edfc8d13ccfbcbe%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 USM Annaba vs HB Chelghoum Laid Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/b7c6750034153d6de96770d4a0fb9a18/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc21bf1050c7d069f7f0931684bd30dc2%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:30   14/03 Sport Podbrezova vs Michalovce Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8d7847ca11c1012d60b5749f245be3fb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fafd07eb435fdb71ebb3180f37528d868%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Mlada Boleslav vs Pardubice Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/acdb88dded87bf2fcf28c7b12f56724c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff5a973b4dab2d487ef78a1c37214a245%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Tre Fiori vs SS Virtus Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7b5ea0037f8a6d20c5a039a7a5adb8fa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff5cac4d5591875fb94b75b0cccacae46%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   14/03 Red Star FC 93 vs USL Dunkerque Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c5b23ec27609c99453e07f83243d92bc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F46debca41fd7ca2fb6ffb8cb67b0ab32%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   14/03 Cerro Montevideo vs Club Atletico Progreso Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/454190d73ea2624c895629661c097f36/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2ce1fde5e70c251dbe5079a6f7354986%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   14/03 Rheindorf Altach vs FC Blau Weiss Linz Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/72b93d588a2c193cff82e7bf5d135f61/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa8ef31f597d1c555a3015b61e7b3437d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Riga FC vs BFC Daugavpils Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e3cd0c3995935dbe880c6eceed7890f3/playlist.m3u8
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F17e923e772435ac7468af3e20146f83e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",22:00   14/03 Stoke City vs Watford Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -463,6 +395,74 @@ https://live.alilicloud.com/live/11caf41aa1db0568a96d114514a6bcc7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/f7396bcf8ae0e053d7d6ed2e17f1f6ac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F000ad8200cc553da7afe959eda588a29%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:15   14/03 Botev Plovdiv vs Botev Vratsa Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e040c6abafc8aad6d1df6eea2d75c998/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5c8ea1c85378dd7f883edeab335ad905%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Faetano vs AC Juvenes Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/825a5e88de54c7f9ed9d73f42bac05cf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F164507ba8935ef5ff6f16cd246756f9d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 NA Hussein Dey vs MC Saida Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/03d22b69cc2dca762dea90a91e576a80/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fce3e0a182f9d7a19ed9c5691b4646e00%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   14/03 AS Otoho vs Zamalek SC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/74aefe9d64d661ebbf8f36fd1223e93c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8fa7092cf0aa396a587ffda81eb01f6a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 JS Tixeraine vs ASM Oran Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/382532184138a2e153ef0cd3210c9454/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ddfa6aaf425c8d923912e669aa4d757%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Cesena vs Frosinone Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b062fb760a92b5aadf0f12af01dc573d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7ee598144ea61d6dba3d908c0658f1fb%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Padova vs Catanzaro Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/db7317d1dc8a52c98153d59b88cba923/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff9b868aaaf82d6aa34228a616b63c362%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   14/03 Rodange 91 vs US MondorfvslesvsBains Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/31ca44f39ba6678fbab7503d02cd2c54/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb9b0c39974615cd817933ae67aa418d5%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   14/03 VfL Osnabruck vs SV Waldhof Mannheim Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b8bfc96a02974a5c32fa0a3d696ab183/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7612dba657d483886edfc8d13ccfbcbe%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 USM Annaba vs HB Chelghoum Laid Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b7c6750034153d6de96770d4a0fb9a18/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc21bf1050c7d069f7f0931684bd30dc2%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:30   14/03 Sport Podbrezova vs Michalovce Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8d7847ca11c1012d60b5749f245be3fb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fafd07eb435fdb71ebb3180f37528d868%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Mlada Boleslav vs Pardubice Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/acdb88dded87bf2fcf28c7b12f56724c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff5a973b4dab2d487ef78a1c37214a245%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Tre Fiori vs SS Virtus Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7b5ea0037f8a6d20c5a039a7a5adb8fa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff5cac4d5591875fb94b75b0cccacae46%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   14/03 Red Star FC 93 vs USL Dunkerque Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c5b23ec27609c99453e07f83243d92bc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F46debca41fd7ca2fb6ffb8cb67b0ab32%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   14/03 Cerro Montevideo vs Club Atletico Progreso Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/454190d73ea2624c895629661c097f36/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2ce1fde5e70c251dbe5079a6f7354986%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   14/03 Rheindorf Altach vs FC Blau Weiss Linz Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/72b93d588a2c193cff82e7bf5d135f61/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa8ef31f597d1c555a3015b61e7b3437d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   14/03 Riga FC vs BFC Daugavpils Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e3cd0c3995935dbe880c6eceed7890f3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_125616_1c0d1552.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",22:30   14/03 Guimaraes vs Famalicao HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -587,86 +587,6 @@ https://stream.chuoichien.tv/chuoihot/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://stream.chuoichien.tv/chuoihot.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff9b868aaaf82d6aa34228a616b63c362%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   14/03 Rodange 91 vs US MondorfvslesvsBains Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/31ca44f39ba6678fbab7503d02cd2c54/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2073e7885e5fe8fc6777396fd879d833%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",00:30   15/03 Hamburger SV vs FC Koln Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6c65df1145e92d46fafe8d9f4532e932/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc21bf1050c7d069f7f0931684bd30dc2%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:30   14/03 Sport Podbrezova vs Michalovce Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8d7847ca11c1012d60b5749f245be3fb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2ce1fde5e70c251dbe5079a6f7354986%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   14/03 Rheindorf Altach vs FC Blau Weiss Linz Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/72b93d588a2c193cff82e7bf5d135f61/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F77dd851502db96e4d2da4375b8d60b11%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",00:00   15/03 Spartak Trnava vs Dunajska Streda Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/03a1c70e2a5ed44119360abdb4b724f8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa5081c1f9158ea3e80b98c07602a093c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:00   14/03 Crewe Alexandra vs Walsall Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6b25a309c8191b9309e497f63021be4a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F26054f24b12a50040c39905a2c83465d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   14/03 SC Covilha vs Lusitano Evora Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b2d223488aec243749988e9d4dfc1761/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff34276227ad6c36e9cfd1a9adcfc71b4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   15/03 Gil Vicente vs Alverca Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5ba15c31694a88f059edd7f221e70f5a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa72506a82a3e64a1ff2228a94d68e531%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:30   14/03 Pontedera vs Guidonia Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/e3f352841a1e8d7c79ed49833bdcaa6b/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5db78121a7054731e6124b73d1a2d795%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:00   14/03 RC Sporting Charleroi vs OudvsHeverlee Leuven Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/0bdd7ab6e59d8fe9d940906a7bc54026/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2ebebf105f2ef516c273277dd5abf308%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:30   14/03 Colwyn Bay vs Barry Town United Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4da597105bca8231f3a6d599fc09e642/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fde4a3ef223c82538886ef8c82e213e8e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:30   14/03 Vitoria Guimaraes vs FC Famalicao Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/5f837ee37f50ac3beaa15527f5429be1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd148adf1aae2d63081ab399165aea709%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",00:30   15/03 Panserraikos vs Aris Thessaloniki Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/d832f61b2c4f40b541d92ce3d7fe4f36/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5097f8bc4757235362a933c8e9361cf9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",00:30   15/03 Real Valladolid CF vs CD Leganes Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/af93b0a1d63f77d0a87c06c4e0cfaccc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb3ce91d4df9db0f4b088110b611d3586%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:45   14/03 Ludogorets Razgrad vs CSKA Sofia Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/221b0688bf5fbb12e30a72f207176fe4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F256442ffa253899c400b37ffd8f0cf88%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   15/03 Benfica Women vs Valadares Gaia FC Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c696f611387324e092ad1da1ee01f8dd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2b1b14c5ad9a00d6da1ebfdc38d99fd2%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:00   14/03 West Bromwich Albion vs Hull City Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/ac3921fa3a550aa9a6e50f5df607a1d9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc23f685db504d6bbbf875321ee5a6fe9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   15/03 AEL Larisa vs Asteras Aktor Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/cbcaa3d59b6ce5ef914e84c1eca7fcb2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1ec25affaf09cd9af1359440a98acf88%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:30   14/03 Tatran Presov vs KFC Komarno Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/e25cf82e31e348d2d8316eee803ff931/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F863dc0cfca8348e9f8055b7de3cfda84%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:30   14/03 Boston Legacy W vs Gotham FC Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/51bb486989f4824ad06ec621ef1bfdb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F17e923e772435ac7468af3e20146f83e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:00   14/03 Stoke City vs Watford Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -835,6 +755,86 @@ https://live.alilicloud.com/live/bad510ed522c51899923ab293a31fea9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/5ace19d13de17204ab126137a8f64797/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff9b868aaaf82d6aa34228a616b63c362%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   14/03 Rodange 91 vs US MondorfvslesvsBains Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/31ca44f39ba6678fbab7503d02cd2c54/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2073e7885e5fe8fc6777396fd879d833%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",00:30   15/03 Hamburger SV vs FC Koln Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6c65df1145e92d46fafe8d9f4532e932/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc21bf1050c7d069f7f0931684bd30dc2%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:30   14/03 Sport Podbrezova vs Michalovce Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8d7847ca11c1012d60b5749f245be3fb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2ce1fde5e70c251dbe5079a6f7354986%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   14/03 Rheindorf Altach vs FC Blau Weiss Linz Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/72b93d588a2c193cff82e7bf5d135f61/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F77dd851502db96e4d2da4375b8d60b11%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",00:00   15/03 Spartak Trnava vs Dunajska Streda Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/03a1c70e2a5ed44119360abdb4b724f8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa5081c1f9158ea3e80b98c07602a093c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:00   14/03 Crewe Alexandra vs Walsall Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6b25a309c8191b9309e497f63021be4a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F26054f24b12a50040c39905a2c83465d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   14/03 SC Covilha vs Lusitano Evora Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/b2d223488aec243749988e9d4dfc1761/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff34276227ad6c36e9cfd1a9adcfc71b4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   15/03 Gil Vicente vs Alverca Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5ba15c31694a88f059edd7f221e70f5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa72506a82a3e64a1ff2228a94d68e531%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:30   14/03 Pontedera vs Guidonia Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/e3f352841a1e8d7c79ed49833bdcaa6b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5db78121a7054731e6124b73d1a2d795%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:00   14/03 RC Sporting Charleroi vs OudvsHeverlee Leuven Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/0bdd7ab6e59d8fe9d940906a7bc54026/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2ebebf105f2ef516c273277dd5abf308%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:30   14/03 Colwyn Bay vs Barry Town United Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4da597105bca8231f3a6d599fc09e642/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fde4a3ef223c82538886ef8c82e213e8e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:30   14/03 Vitoria Guimaraes vs FC Famalicao Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5f837ee37f50ac3beaa15527f5429be1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd148adf1aae2d63081ab399165aea709%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",00:30   15/03 Panserraikos vs Aris Thessaloniki Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/d832f61b2c4f40b541d92ce3d7fe4f36/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5097f8bc4757235362a933c8e9361cf9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",00:30   15/03 Real Valladolid CF vs CD Leganes Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/af93b0a1d63f77d0a87c06c4e0cfaccc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb3ce91d4df9db0f4b088110b611d3586%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:45   14/03 Ludogorets Razgrad vs CSKA Sofia Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/221b0688bf5fbb12e30a72f207176fe4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F256442ffa253899c400b37ffd8f0cf88%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   15/03 Benfica Women vs Valadares Gaia FC Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c696f611387324e092ad1da1ee01f8dd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2b1b14c5ad9a00d6da1ebfdc38d99fd2%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:00   14/03 West Bromwich Albion vs Hull City Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ac3921fa3a550aa9a6e50f5df607a1d9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc23f685db504d6bbbf875321ee5a6fe9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   15/03 AEL Larisa vs Asteras Aktor Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/cbcaa3d59b6ce5ef914e84c1eca7fcb2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1ec25affaf09cd9af1359440a98acf88%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:30   14/03 Tatran Presov vs KFC Komarno Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/e25cf82e31e348d2d8316eee803ff931/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F863dc0cfca8348e9f8055b7de3cfda84%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:30   14/03 Boston Legacy W vs Gotham FC Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/51bb486989f4824ad06ec621ef1bfdb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Premier League] 00:30 15/03 Chelsea vs Newcastle [FHD] Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
@@ -907,186 +907,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [CU DEM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1773514778-0-0-0ccad3fd47b8843cfcf3698ad618a418
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [CU DEM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1773514778-0-0-17f3154fed55a24c0a2d8970f4b3369f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [CU DEM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1773514778-0-0-ab5bdf56fdbafff4cc977c4212a30778
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [CU DEM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1773514778-0-0-d26a6041839f861138746ac4f37420ae
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ZIDANE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1773514778-0-0-b22f59fd851253b59adb64a6750e525b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ZIDANE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1773514778-0-0-6b7a5fedef0ecae00e3b1edc4c813e5a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ZIDANE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1773514778-0-0-40f72ce3abdeb0ec1458e264172c4c67
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ZIDANE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1773514778-0-0-d9af00daea86add28c9e0120e56a98e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ KEM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=f2345d134af81bbcdde0e45a0090ef3b&txTime=69b5f66a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ KEM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=5f27d81e293d859461dc2ed5c233470d&txTime=69b5f66a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ KEM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=f2345d134af81bbcdde0e45a0090ef3b&txTime=69b5f66a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ KEM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=5f27d81e293d859461dc2ed5c233470d&txTime=69b5f66a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ A BEU] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1773514778-0-0-14417eba876cc7ba3facacdb310e5e58
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ A BEU] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1773514778-0-0-b0d0574a119750bd4e2a1b7f17f882e8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ A BEU] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1773514778-0-0-d633429b7583eb854a4711c10c2da98b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ A BEU] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1773514778-0-0-207a45fb538bfaca4f4094a2317a5b8e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [CR Buoi] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1773514778-0-0-1f39481589a47b693a3878dcbd1a8c82
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [CR Buoi] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1773514778-0-0-d9c6a4346ef2ee8412d74185a31d17e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [CR Buoi] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1773514778-0-0-8c345037708ebd47482f06a5de980d09
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [CR Buoi] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1773514778-0-0-ddc3ae598c0dce837d38cbd1ba8487d7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ COCA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1773514778-0-0-9b49f36072095aa22ec62bd5bfd5520e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ COCA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1773514778-0-0-787d57b477c341b2b4176cdd1c248a4d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ COCA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1773514778-0-0-768576b0d23bcfd7279975141315c85e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ COCA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1773514778-0-0-a47a88aa3c2f1253b9d6f9d485f6c788
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ PIRLO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1773514778-0-0-f203c6bf26e16df04a00d7c1ce41db06
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ PIRLO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1773514778-0-0-aea774396387b85b2552f46b5a3ffb50
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ PIRLO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1773514778-0-0-b8debb6966e2387b0f8ebd2ac9034408
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ PIRLO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1773514778-0-0-745525898666b4fc52437df62118592d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ TAP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1773514778-0-0-1e0b6d6340e32300cda797fd29979a84
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ TAP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1773514778-0-0-659e84d95395b96ae5ff5024fb88a328
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ TAP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1773514778-0-0-c0cd37fc4aacb9540af6bcdd5139a097
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ TAP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1773514778-0-0-320e2826d021c488122a9029787e301f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ 7UP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1773514778-0-0-d15a06a14455307070f03243612a36c2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ 7UP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1773514778-0-0-478766b48752ad5a4a1d9ad6207eb251
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ 7UP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1773514778-0-0-f82073d8ff81841bcfdb860a446e31c6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ 7UP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1773514778-0-0-581cb2f185fb3feb7baa589cf18dc0a4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ DOM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1773514778-0-0-68d78e2d83bff7836b1249c7831258e2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ DOM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1773514778-0-0-c3767f7934699e54b5e57dbca4936137
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ DOM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1773514778-0-0-107036d6308b502bb7f912a3de58f4f5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ DOM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1773514778-0-0-c8fe52613bc0cf947fbf2faf39a0067c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: socolive",01:00 ngay 15/03 Angers SCO vs OGC Nice [ FIREMAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1773514778-0-0-13f0c88e8082bf6714f6693f2228545c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: socolive",01:00 ngay 15/03 Angers SCO vs OGC Nice [ FIREMAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1773514778-0-0-702b4edc52cd458368898b57943ed792
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: socolive",01:00 ngay 15/03 Angers SCO vs OGC Nice [ FIREMAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1773514778-0-0-0ad2e9065dfceb142f936de0f2ee49ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: socolive",01:00 ngay 15/03 Angers SCO vs OGC Nice [ FIREMAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1773514778-0-0-500c8164b66a3369fdde56dd3264e65f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: socolive",00:30 ngay 15/03 Real Oviedo vs Valencia CF [BUA TA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=02afd07996182ca29890281d3e2ffb75&txTime=69b5f66a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: socolive",00:30 ngay 15/03 Real Oviedo vs Valencia CF [BUA TA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=5ec80b3339949b51ababfac7ea58cbc7&txTime=69b5f66a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: socolive",00:30 ngay 15/03 Real Oviedo vs Valencia CF [BUA TA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=02afd07996182ca29890281d3e2ffb75&txTime=69b5f66a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: socolive",00:30 ngay 15/03 Real Oviedo vs Valencia CF [BUA TA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=5ec80b3339949b51ababfac7ea58cbc7&txTime=69b5f66a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1773514778-0-0-5027bdb6357a37e58691e1c8009b8e2a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1773514778-0-0-89f51f58cee1aa8610ae78908827beda
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1773514778-0-0-e9cb92167262788da05b4f627f5da714
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1773514778-0-0-07b04072011c5945d7c1313acfb2504f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1773514778-0-0-2ca5846e44ba608d6aa00b611ea49e94
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1773514778-0-0-ddf2bf7c649e73dbf4c0a8c147505f13
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1773514778-0-0-49555d8dd9b3ece3107ed03cc0cfbcb4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1773514778-0-0-e5d54949e5bf86478b9ea60378a8a79c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773514778-0-0-72d65bbfd8746fcc01e8bbd9f132ea37
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773514778-0-0-975c4ddc3f8e7fc50be501116fec0b12
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773514778-0-0-48761c909c1f8826b330b5604d532c5b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773514778-0-0-b1ef7ed9dabacf57abcd04142b46894f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [TA BIEN GIOI] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773515138-0-0-430f1e0ba1607d3d251a72ff4746cc59
@@ -1267,6 +1087,198 @@ https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1773515498-0-0-5dde
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/527a3baa59dfc7df6feea73a228a2d8a.png" group-title="Live Event: socolive",00:00 ngay 15/03 Galatasaray vs Basaksehir Futbol Kulubu [NGUOI THEP] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1773515498-0-0-bba7efe5d1ad1bb6ff3be1327643e4c8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ A BEU] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1773515858-0-0-60715860fcc6327a2c3d7093d79aaf27
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ A BEU] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1773515858-0-0-3c7ea0d52b41c4ef1472a33c3bef2524
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ A BEU] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1773515858-0-0-7320efc834917686bea613cd80c81290
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ A BEU] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1773515858-0-0-b2e329b2238637ab66de53b607833dc9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ TAP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1773515858-0-0-8598a0f87cd4210974ab3a41a6bcedfd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ TAP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1773515858-0-0-1fa7f29ef94ceedf2ee669c53c2f1ddf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ TAP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1773515858-0-0-9f5d41f12076e33460f1537dca5981e9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ TAP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1773515858-0-0-6ed0d382e95afc90c751e020ecfc7519
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ 7UP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1773515858-0-0-d06e54f4be591ab88daf01563f80749f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ 7UP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1773515858-0-0-380a313d1e4ce9cdd5093e28c8abffac
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ 7UP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1773515858-0-0-51a3c339abae6cbb5c96c1d15ebc0a4a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ 7UP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1773515858-0-0-2310bdf7a147b4a3ffda956187e86b08
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [THACH TU] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=71396a77add8b5971cd356c082af1a3b&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [THACH TU] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=c39c365461ce3ca88dc98edbb32ec7b3&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [THACH TU] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=71396a77add8b5971cd356c082af1a3b&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [THACH TU] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=c39c365461ce3ca88dc98edbb32ec7b3&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ZIDANE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1773515858-0-0-97ff6d8ee18d003fd1575c7820d58f96
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ZIDANE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1773515858-0-0-a615cb7cfa8f1360f772b11cefc2c92c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ZIDANE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1773515858-0-0-e5d3449549b8efaacb1f86498ae17849
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ZIDANE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1773515858-0-0-4593f978e0a6c596c0df11a8f53006ed
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ KEM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=b20d765a40e4c753f730f130d733c8f8&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ KEM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=a09bfe5a83d8f1f81b5ae243449b6217&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ KEM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=b20d765a40e4c753f730f130d733c8f8&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ KEM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=a09bfe5a83d8f1f81b5ae243449b6217&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ COCA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1773515858-0-0-edb5357d696e38c3bf4561fb116a240d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ COCA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1773515858-0-0-ba081c83454736ac70c3e04758f68130
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ COCA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1773515858-0-0-ab098516272e2cdb2041589625031f0c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ COCA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1773515858-0-0-99d6da104649a0fade11888500202857
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ PIRLO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1773515858-0-0-0af30e0e3d1608cd00d464ba72788d5e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ PIRLO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1773515858-0-0-3d72fba5a43b839063078c483679f5ac
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ PIRLO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1773515858-0-0-47475ec0d74fd5df5744503e48a07237
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [ PIRLO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1773515858-0-0-ca75596339e0d58fdc8d6b06e4d7e11a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [CU DEM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1773515858-0-0-694b2a1380ac5967a153aa7508d02d71
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [CU DEM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1773515858-0-0-c987698361eea6ea357b5a518704b4f8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [CU DEM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1773515858-0-0-be7e0dd8348cf8bbee76f2990bb1b806
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: socolive",00:30 ngay 15/03 Chelsea vs Newcastle United [CU DEM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1773515858-0-0-55510ef365723bef1da23c3ca46e547f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [CR Buoi] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1773515858-0-0-ec6b2fb5953777711cdaf6dabe1c8d80
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [CR Buoi] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1773515858-0-0-f814fc8687fd133ab5e406c3c14be00d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [CR Buoi] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1773515858-0-0-3ee58a6f7ec361b95801ce57dc1da9e3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [CR Buoi] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1773515858-0-0-471eb59174a454b1fdb6ae6286591c2e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ DOM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1773515858-0-0-c371ba8eaf900b52b91ca6a282995b33
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ DOM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1773515858-0-0-5acc83cdff351c3f7cd0826eaded7f33
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ DOM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1773515858-0-0-3dcb25cafc33517b339b8e66209f00ce
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: socolive",00:30 ngay 15/03 Arsenal vs Everton [ DOM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1773515858-0-0-f5f301f42ae4b6855ab535b77c660c4b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: socolive",01:00 ngay 15/03 Angers SCO vs OGC Nice [ FIREMAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1773515858-0-0-b4991ede1332b5c27f04779d88e2c0f6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: socolive",01:00 ngay 15/03 Angers SCO vs OGC Nice [ FIREMAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1773515858-0-0-a8f2d36e589267d55b982abb5f41ea0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: socolive",01:00 ngay 15/03 Angers SCO vs OGC Nice [ FIREMAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1773515858-0-0-38556ba49ad91bb432978eb816fe9c84
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: socolive",01:00 ngay 15/03 Angers SCO vs OGC Nice [ FIREMAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1773515858-0-0-5f5f7ab7d76d7d60ba99a62a0424dcbb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1773515858-0-0-e35c45e61d9e021eb0c1933cc1189253
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1773515858-0-0-a6eb847f0452b82969adfde13fc7d1d0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1773515858-0-0-ef1fd06ce13d2d79a56d4ee948698264
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1773515858-0-0-0389108b6b1d38ba62fec782e52c3ac0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: socolive",00:30 ngay 15/03 Real Oviedo vs Valencia CF [BUA TA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=6ea7c5b914352b7da448fc7a11063595&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: socolive",00:30 ngay 15/03 Real Oviedo vs Valencia CF [BUA TA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=d9c8ede3f9c92f2279ed7f83a4069057&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: socolive",00:30 ngay 15/03 Real Oviedo vs Valencia CF [BUA TA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=6ea7c5b914352b7da448fc7a11063595&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: socolive",00:30 ngay 15/03 Real Oviedo vs Valencia CF [BUA TA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=d9c8ede3f9c92f2279ed7f83a4069057&txTime=69b5faa2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1773515858-0-0-4a15a856fdd934e0f14ed8615d29e85b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1773515858-0-0-ebf939b32d0b1a5f2f5a6cffc57b2893
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1773515858-0-0-dd8320b02aede0ae979fd9f6a05bce8d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: socolive",00:45 ngay 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1773515858-0-0-27029f99bbdc7d3e0f751e54eb4d520e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773515858-0-0-fdd755f288c4657799430bd112e5ed06
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773515858-0-0-e0a7eea78637fe0c4abb1699e09d2175
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773515858-0-0-492018a655db475c48b56272abe32358
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773515858-0-0-d590c3cba38c915e65522a5212bc2bc5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png" group-title="Live Event: Hội quán",00:00 15/03 Galatasaray vs Basaksehir FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2455,21 +2467,21 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/37ed13d27edccd30e053167962c02b3a.png!w80" group-title="Live Event: Cadangan",00:00 15/03 S.S.C. Napoli vs U.S. Lecce
 https://live5.msrktz.app/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/527a3baa59dfc7df6feea73a228a2d8a.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Galatasaray vs Basaksehir Futbol Kulubu [BLV VITAMIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1773511178-0-0-c09c30409d1a379b867ed27948023a6f
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1773515498-0-0-e4074e0a74ee17a5fb660f6b3e608bf3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/527a3baa59dfc7df6feea73a228a2d8a.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Galatasaray vs Basaksehir Futbol Kulubu [BLV VITAMIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1773511178-0-0-2bd0b5cfcf6ad8da4c4c68d38cc12e9e
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1773515498-0-0-1728da80f81d3f07b9a150081bc9202b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/527a3baa59dfc7df6feea73a228a2d8a.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Galatasaray vs Basaksehir Futbol Kulubu [BLV VITAMIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1773511178-0-0-98399c5a658cfd558bdab6f83fb11471
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1773515498-0-0-40ba5cf7f46db6d6ac4f4bac6b7249db
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/527a3baa59dfc7df6feea73a228a2d8a.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Galatasaray vs Basaksehir Futbol Kulubu [BLV VITAMIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1773511178-0-0-72f2005cec7e9b9784466c6d02ea11b1
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1773515498-0-0-ae981441b8ab8713ff9f468e6b857bcd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/527a3baa59dfc7df6feea73a228a2d8a.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Galatasaray vs Basaksehir Futbol Kulubu [NGUOI THEP] (Socolive) flv
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1773511178-0-0-a28fad0fa7673f887912a9123e2acdab
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1773515498-0-0-26257f02e17370cb1cfc994f0be82ec4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/527a3baa59dfc7df6feea73a228a2d8a.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Galatasaray vs Basaksehir Futbol Kulubu [NGUOI THEP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1773511178-0-0-834a8491c4ca140196b434fe50ad42c7
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1773515498-0-0-a797e59868e852b48ceb6d6d631f99d5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/527a3baa59dfc7df6feea73a228a2d8a.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Galatasaray vs Basaksehir Futbol Kulubu [NGUOI THEP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1773511178-0-0-f723ec458de6c5bb12678c0a0937f1f3
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1773515498-0-0-bba7efe5d1ad1bb6ff3be1327643e4c8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/527a3baa59dfc7df6feea73a228a2d8a.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Galatasaray vs Basaksehir Futbol Kulubu [NGUOI THEP] (Socolive) m3u8
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1773511178-0-0-36d3b1f2a0cb15fbaf502313271518f0
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1773515498-0-0-5dde5e6b7cb5dc591475750582e6a7e9
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1:8fzs04zm1m.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Galatasaray vs Istanbul Basaksehir (Luong Son) BLV MA SIEU flv
 https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/471_1:8fzs04zm1m.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Galatasaray vs Istanbul Basaksehir (Luong Son) BLV MA SIEU m3u
@@ -2491,311 +2503,333 @@ https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1231_1j9ah1053g16.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce (Luong Son) BLV NGU CA m3u
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV COZY] (Socolive) flv
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773511178-0-0-3f524c641e8f433bd71a04c2dc56c738
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773515498-0-0-3a934d6714f1e2b0378c3b2a3a601152
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV COZY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773511178-0-0-dfb17d6f3475a65ab9261f006ce6142e
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773515498-0-0-34e059017d970f2c27524eb745d8f401
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV COZY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773511178-0-0-a471e6a79e0717640769fde76665defb
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773515498-0-0-f9e9f1cf78164b128af3b2c6ee1fc5de
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV COZY] (Socolive) m3u8
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773511178-0-0-1dee6c8bea8bb08cb43ccfce3ad6f9f7
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773515498-0-0-dba0642755af41755e5f5415ec33d938
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV ROSI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773511178-0-0-ed14d5919cfc09830cca3e4e6ce8f396
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773515498-0-0-d20c91727dcdf6b06e36156636f676bd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV ROSI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773511178-0-0-5b37532fdb8b6618cac250a2410e53a2
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773515498-0-0-266ac13facea02aa30d47c4dc463affd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV ROSI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773511178-0-0-c39107c19a3ec8310def4b43d4e4b0a9
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773515498-0-0-a8cb303f38300a85297fc64a4d7ca257
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV ROSI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773511178-0-0-2f5e9c3f4fea56f8ae307e1baf616f7c
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773515498-0-0-a3949429b00b8b5d9a12347687b70158
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV TOMIA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1773511178-0-0-21153baf78869edeeba5964a9686c9fd
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1773515498-0-0-fdbd44575ea3733a35061cde301331aa
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV TOMIA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1773511178-0-0-507cd14935dd13a1c8154dd4f26ae01f
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1773515498-0-0-6d535d6fae577916c18e1296a3cd6572
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV TOMIA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1773511178-0-0-9ff92310193988fac33a872556b4688f
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1773515498-0-0-019ac277ab20af32ea09480d7a7e4fdf
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [BLV TOMIA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1773511178-0-0-50588275cd53fa24f11ee5ed8b95c066
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1773515498-0-0-62aa48176c9a73026b38242230323a49
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [LOKA] (Socolive) flv
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1773511178-0-0-7083ef1be3709be835504152088ae6df
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1773515498-0-0-8bae64fecafaa06b5e8389fb802438e2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [LOKA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1773511178-0-0-1a9438508b5ec0009e60a007d4e0e5e8
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1773515498-0-0-b9397f467e552879d4393ea1650dd9fb
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [LOKA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1773511178-0-0-b6c9e4d9c237b3e78240d7953e539e5f
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1773515498-0-0-9b06206929ba6b01a89b2332673f7b0e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [LOKA] (Socolive) m3u8
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1773511178-0-0-42922230ea809d2bf3bb21c39d74760b
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1773515498-0-0-8f89559f0484605c88e62b0daca9fb75
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [LAO LAM] (Socolive) flv
-https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1773511178-0-0-6600a53e0b842aef1070cd7309b98d67
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1773515498-0-0-11f0b3ef60c1dd3da400f2846de70a65
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [LAO LAM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1773511178-0-0-54b94333c712f73226bc5fbf38c0cbda
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1773515498-0-0-7a17c289aeb88aa15156042f3c699eea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [LAO LAM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1773511178-0-0-e9808e52897bc5e99e927fb3016d0e0e
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1773515498-0-0-63af381d1432d459734ff56f40a3b34f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [LAO LAM] (Socolive) m3u8
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1773511178-0-0-8eba90be09b8ded6a81d4bd1bd700ec0
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1773515498-0-0-0a9421c143fe05786c330f6861f81434
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [VUONG ANH] (Socolive) flv
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=a21c24a9c0904af98d4bacf92d796829&txTime=69b5e85a
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=f55ad5506dacbe15a0a4fbbfcfa717d6&txTime=69b5f93a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [VUONG ANH] (Socolive) hdFlv
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=179232e204b97bfa2aa6d1f6552daede&txTime=69b5e85a
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=c74a245df270e42a807176530fe9a51b&txTime=69b5f93a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [VUONG ANH] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=179232e204b97bfa2aa6d1f6552daede&txTime=69b5e85a
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c74a245df270e42a807176530fe9a51b&txTime=69b5f93a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/3438244683c23d5becb17f10ee6a1bba.png" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Napoli vs Lecce [VUONG ANH] (Socolive) m3u8
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=a21c24a9c0904af98d4bacf92d796829&txTime=69b5e85a
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=f55ad5506dacbe15a0a4fbbfcfa717d6&txTime=69b5f93a
 #EXTINF:-1 tvg-logo="https://img.rapid-api.icu/volleyball/team/d2f75711bbd7d6873d4c1d6a466890c0/image/small" group-title="Live Event: Cadangan",00:00 Gvision TV 15/03 Piacenza vs Modena (Khan Dai A) hd_3
 https://pull-live4.fastestcdn-global.com/live/7f61446e3c5548c79048df39e9cec49c/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="Live Event: Cadangan",00:30 15/03 Arsenal vs Everton
+https://live5.msrktz.app/live/79665343.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg" group-title="Live Event: Cadangan",00:30 15/03 Arsenal vs Everton (Hoi Quan) FHD
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg" group-title="Live Event: Cadangan",00:30 15/03 Arsenal vs Everton (Hoi Quan) HD
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg" group-title="Live Event: Cadangan",00:30 15/03 Arsenal vs Everton (Hoi Quan) SD
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="Live Event: Cadangan",00:30 15/03 Chelsea vs Newcastle
+https://live5.msrktz.app/live/97312754.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png" group-title="Live Event: Cadangan",00:30 15/03 Chelsea vs Newcastle (Hoi Quan) FHD
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png" group-title="Live Event: Cadangan",00:30 15/03 Chelsea vs Newcastle (Hoi Quan) HD
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png" group-title="Live Event: Cadangan",00:30 15/03 Chelsea vs Newcastle (Hoi Quan) SD
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/81f8f9e258e6b73bc522bab06730720a.png!w80" group-title="Live Event: Cadangan",00:30 15/03 Hamburger SV vs FC Koln
+https://live5.msrktz.app/live/90725470.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/21551996567bcd206ee574043d509a84.png!w80" group-title="Live Event: Cadangan",00:30 15/03 R. Oviedo vs Valencia CF
+https://live5.msrktz.app/live/14707124.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton (Luong Son) BLV A TUA flv
+https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton (Luong Son) BLV A TUA m3u
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton (Luong Son) BLV DUONG QUA flv
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton (Luong Son) BLV DUONG QUA m3u
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton (Luong Son) BLV LUU BI flv
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton (Luong Son) BLV LUU BI m3u
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton (Luong Son) BLV TON LAP flv
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/13_164577419697.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton (Luong Son) BLV TON LAP m3u
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1773511538-0-0-dc8eee717a7605874e420a6d11e9f33d
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1773514778-0-0-9b49f36072095aa22ec62bd5bfd5520e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1773511538-0-0-b4a0191890b36e524af36dc49ae738aa
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1773514778-0-0-787d57b477c341b2b4176cdd1c248a4d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1773511538-0-0-252087f5d02abfaf669fbb71a304ef2d
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1773514778-0-0-a47a88aa3c2f1253b9d6f9d485f6c788
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1773511538-0-0-1892e7be700a817b2365459b0d3f0a5f
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1773514778-0-0-768576b0d23bcfd7279975141315c85e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [BLV DOM] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1773511538-0-0-884e666db9bd477088f338ca5b2b5485
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1773514778-0-0-68d78e2d83bff7836b1249c7831258e2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [BLV DOM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1773511538-0-0-a4729eea087e00f4f2cf75009a154b3e
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1773514778-0-0-c3767f7934699e54b5e57dbca4936137
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [BLV DOM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1773511538-0-0-92ba5d7ee98f7085dd7a982939eb3f75
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1773514778-0-0-c8fe52613bc0cf947fbf2faf39a0067c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [BLV DOM] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1773511538-0-0-f103d61ffbae6d8bb0ff71c0082979f6
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1773514778-0-0-107036d6308b502bb7f912a3de58f4f5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [CR Buoi] (Socolive) flv
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1773511538-0-0-bc997b80aabb00d873c97df4cd8fdf3e
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1773514778-0-0-1f39481589a47b693a3878dcbd1a8c82
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [CR Buoi] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1773511538-0-0-f27d1f9472b8e9a4f49d049bda943a47
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1773514778-0-0-d9c6a4346ef2ee8412d74185a31d17e3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [CR Buoi] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1773511538-0-0-cc695227dbbd8de335502c1b34509703
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1773514778-0-0-ddc3ae598c0dce837d38cbd1ba8487d7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [CR Buoi] (Socolive) m3u8
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1773511538-0-0-7b7a16eeee73a7e7eecf03740c7147b5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [THACH TU] (Socolive) flv
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=0a4ee8c2fa69d462c046419abc3b3833&txTime=69b5eb2a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [THACH TU] (Socolive) hdFlv
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=271ae6e27e5811f0672b814989ada964&txTime=69b5eb2a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [THACH TU] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=271ae6e27e5811f0672b814989ada964&txTime=69b5eb2a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [THACH TU] (Socolive) m3u8
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=0a4ee8c2fa69d462c046419abc3b3833&txTime=69b5eb2a
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1773514778-0-0-8c345037708ebd47482f06a5de980d09
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [TA BIEN GIOI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773511898-0-0-cbff66dad6bf719d1e768ad6876f2648
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773515138-0-0-430f1e0ba1607d3d251a72ff4746cc59
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [TA BIEN GIOI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773511898-0-0-2af8a99f3065c23d1381ffe0312b4c9b
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773515138-0-0-d45919a23ebfc4079fa718cbd5b0c092
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [TA BIEN GIOI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773511898-0-0-91c22664770373337ef5dcaabe0a9fb9
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773515138-0-0-cf46f5ce9ddbfcd082bd3353274fb58e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [TA BIEN GIOI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773511898-0-0-8b95a9b783b40e233a7c02ae79e92041
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773515138-0-0-fb7cbe796ce72e7982ef841d467b67f9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [ZIDANE] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1773511538-0-0-5802474280eb6802ba8ebe68fcb7a49e
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1773514778-0-0-b22f59fd851253b59adb64a6750e525b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [ZIDANE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1773511538-0-0-fde97b08dc8edb55245503de72c9b358
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1773514778-0-0-6b7a5fedef0ecae00e3b1edc4c813e5a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [ZIDANE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1773511538-0-0-c9fc99ed34e427877527169dafd33bd7
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1773514778-0-0-d9af00daea86add28c9e0120e56a98e3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/73730776494135ddda7bcdd4a01743e3.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Arsenal vs Everton [ZIDANE] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1773511538-0-0-526a31587f9de1a005ff7233fb8a086d
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1773514778-0-0-40f72ce3abdeb0ec1458e264172c4c67
 #EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/3608721168c00e7d2709faae8b4150df/image/small?v=1768601124" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United (Ga Vang) sd_3
 https://pull-live8.fastestcdn-global.com/live/40fed6747cfc418ba5ffe33fe29a9ca9/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/3608721168c00e7d2709faae8b4150df/image/small?v=1768601124" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United (Khan Dai A) hd_3
 https://pull-live4.fastestcdn-global.com/live/bad9543f7c0c4381b0812b83fc4667de/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/18_164577409120.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United (Luong Son) BLV KAKA flv
+https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/18_164577409120.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United (Luong Son) BLV KAKA m3u
+https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/18_164577409120.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United (Luong Son) BLV KEVILL flv
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/18_164577409120.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United (Luong Son) BLV KEVILL m3u
+https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/18_164577409120.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United (Luong Son) BLV LEO flv
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/18_164577409120.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United (Luong Son) BLV LEO m3u
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/18_164577409120.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United (Luong Son) BLV LU BO flv
+https://flv.cdnok9.com/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/18_164577409120.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United (Luong Son) BLV LU BO m3u
+https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV 7UP] (Socolive) flv
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1773511538-0-0-f16534bc0ee40258e7ffc345e6d4e7cc
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1773514778-0-0-d15a06a14455307070f03243612a36c2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV 7UP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1773511538-0-0-bef652c01906070ce769500fb5508c39
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1773514778-0-0-478766b48752ad5a4a1d9ad6207eb251
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV 7UP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1773511538-0-0-b0ca6c2b7da31676b97b76f0069992f2
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1773514778-0-0-581cb2f185fb3feb7baa589cf18dc0a4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV 7UP] (Socolive) m3u8
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1773511538-0-0-9fab456dc779eb9c0cb8d3d103e753db
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1773514778-0-0-f82073d8ff81841bcfdb860a446e31c6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV A BEU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1773511538-0-0-c00f70f0eb415175a39fe8a0603083b2
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1773514778-0-0-14417eba876cc7ba3facacdb310e5e58
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV A BEU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1773511538-0-0-19489dbbd47911765fcc8fea775c88f5
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1773514778-0-0-b0d0574a119750bd4e2a1b7f17f882e8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV A BEU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1773511538-0-0-15cd0311977235846e356b3bf4c3f207
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1773514778-0-0-207a45fb538bfaca4f4094a2317a5b8e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV A BEU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1773511538-0-0-5da833b43bf9688f730a4524eef15ab3
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1773514778-0-0-d633429b7583eb854a4711c10c2da98b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV KEM] (Socolive) flv
-https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=17f89a07f09c1357901ba6dbdf435ac4&txTime=69b5e9c2
+https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=f2345d134af81bbcdde0e45a0090ef3b&txTime=69b5f66a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV KEM] (Socolive) hdFlv
-https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=944d13f786cad3419bb4c96cdfbfcf97&txTime=69b5e9c2
+https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=5f27d81e293d859461dc2ed5c233470d&txTime=69b5f66a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV KEM] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=944d13f786cad3419bb4c96cdfbfcf97&txTime=69b5e9c2
+https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=5f27d81e293d859461dc2ed5c233470d&txTime=69b5f66a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV KEM] (Socolive) m3u8
-https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=17f89a07f09c1357901ba6dbdf435ac4&txTime=69b5e9c2
+https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=f2345d134af81bbcdde0e45a0090ef3b&txTime=69b5f66a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV PIRLO] (Socolive) flv
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1773511538-0-0-5e4102a9302adde1326d97099f619ede
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1773514778-0-0-f203c6bf26e16df04a00d7c1ce41db06
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV PIRLO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1773511538-0-0-87432cf277ba5822b67d926e514d26a0
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1773514778-0-0-aea774396387b85b2552f46b5a3ffb50
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV PIRLO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1773511538-0-0-82f20d53cbe9fba8a9927da76d13d7ce
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1773514778-0-0-745525898666b4fc52437df62118592d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV PIRLO] (Socolive) m3u8
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1773511538-0-0-489d7f7861f9b6bb3de7abb03197dcc5
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1773514778-0-0-b8debb6966e2387b0f8ebd2ac9034408
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV TAP] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1773511538-0-0-fdb64d81db91fccc5ac383020f6f12f5
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1773514778-0-0-1e0b6d6340e32300cda797fd29979a84
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV TAP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1773511538-0-0-d014b8d7adaf7d95a95a29c60a983ac0
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1773514778-0-0-659e84d95395b96ae5ff5024fb88a328
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV TAP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1773511538-0-0-9119fde757b714c630b88ecc981a818e
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1773514778-0-0-320e2826d021c488122a9029787e301f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [BLV TAP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1773511538-0-0-5e15b9fecf2d99bdba50e2ad164af549
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1773514778-0-0-c0cd37fc4aacb9540af6bcdd5139a097
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [CU DEM] (Socolive) flv
+https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1773514778-0-0-0ccad3fd47b8843cfcf3698ad618a418
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [CU DEM] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1773514778-0-0-17f3154fed55a24c0a2d8970f4b3369f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [CU DEM] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1773514778-0-0-d26a6041839f861138746ac4f37420ae
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/a73eab66411e3c58f8ce0c967721fd98.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Chelsea vs Newcastle United [CU DEM] (Socolive) m3u8
+https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1773514778-0-0-ab5bdf56fdbafff4cc977c4212a30778
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/147_1jpxz6w3rw1s.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln (Luong Son) BLV PHONG VAN flv
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/147_1jpxz6w3rw1s.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln (Luong Son) BLV PHONG VAN m3u
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/147_1jpxz6w3rw1s.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln (Luong Son) BLV QUAN VU flv
+https://flv.cdnok9.com/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/147_1jpxz6w3rw1s.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln (Luong Son) BLV QUAN VU m3u
+https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV ANH TAI] (Socolive) flv
-https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=ddeb5e919e26695e60c8e25e222c177f&txTime=69b5eb2a
+https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=ba9f8e6c29d4c87574c3e1ca6e7ca321&txTime=69b5f7d2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV ANH TAI] (Socolive) hdFlv
-https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=138439b0de5454938f3e3a1a1f177a64&txTime=69b5eb2a
+https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=1d0a6a98a1a3a1dc35b44b25c448e07e&txTime=69b5f7d2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV ANH TAI] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=138439b0de5454938f3e3a1a1f177a64&txTime=69b5eb2a
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=1d0a6a98a1a3a1dc35b44b25c448e07e&txTime=69b5f7d2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV ANH TAI] (Socolive) m3u8
-https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=ddeb5e919e26695e60c8e25e222c177f&txTime=69b5eb2a
+https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=ba9f8e6c29d4c87574c3e1ca6e7ca321&txTime=69b5f7d2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV VIP] (Socolive) flv
-https://pull06.scstream.net/live/stream-491873_lsd.flv?auth_key=1773511538-0-0-17b2b238989670b44bd80f4425e7662d
+https://pull06.scstream.net/live/stream-491873_lsd.flv?auth_key=1773515138-0-0-e5bc2b9ad42789fb717552084abc3726
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV VIP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-491873_lhd.flv?auth_key=1773511538-0-0-333044b297ffa0915df246242662869e
+https://pull06.scstream.net/live/stream-491873_lhd.flv?auth_key=1773515138-0-0-3d5a06ed82695a60cc8672dfa6982cc5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV VIP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1773511538-0-0-378b70a2858b95b29123244338a05a87
+https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1773515138-0-0-e6923cfd6ec0e2f8a85af0ca08be7713
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV VIP] (Socolive) m3u8
-https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1773511538-0-0-84662c9c72ece43ac4fa69ce91a4a483
+https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1773515138-0-0-39f5df52cf8a5fb693f470e7ba87f362
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV WUKONG] (Socolive) flv
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1773511178-0-0-f5f8e8c7f420a945e6953e23bf6f2bac
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1773515498-0-0-e2de6b88798a1962c49d34173315d774
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV WUKONG] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1773511178-0-0-6f2fe5e5cb2e4270678794be4323a14a
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1773515498-0-0-68f7787317baf3b8bc8aec50799c5847
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV WUKONG] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1773511178-0-0-766d6f2e6406821bff5ce948e7246941
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1773515498-0-0-b3d992db6639066edc2fda60511ba3a3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [BLV WUKONG] (Socolive) m3u8
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1773511178-0-0-a6bd09a9faabd66c41b64980eea28baa
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1773515498-0-0-0fada17892e7aad6ad854d5d5661a46d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [MR BICH] (Socolive) flv
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1773511178-0-0-46ae19e0db887f6bf92aa4286556e820
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1773515498-0-0-9ca3c5ae9f8dcd3bd1715497ae61145f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [MR BICH] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1773511178-0-0-f3b28c6134764d62bb3e19028ab13306
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1773515498-0-0-b9b617fe6986abd30f2890bb8765a35f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [MR BICH] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1773511178-0-0-13241b2a7f6029ff5667f1b89aae19b2
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1773515498-0-0-99784fc0010d9de170b873708c4d1f3b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/0641bbf1f543cbe87581b5b73f931070.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Hamburger SV vs FC Koln [MR BICH] (Socolive) m3u8
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1773511178-0-0-6489c6be299cf445c14bf2d10d85daa0
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1773515498-0-0-8b0bced1e1e2d358db844db120acb02c
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3998_1j3s1rtr5j2f.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia (Luong Son) BLV NHI KA flv
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3998_1j3s1rtr5j2f.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia (Luong Son) BLV NHI KA m3u
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3998_1j3s1rtr5j2f.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia (Luong Son) BLV TRIEU TU LONG flv
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3998_1j3s1rtr5j2f.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia (Luong Son) BLV TRIEU TU LONG m3u
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia CF [BUA TA] (Socolive) flv
-https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=6caf454db37a251fedbb11b61dc1cf64&txTime=69b5e9c2
+https://pull.niur.live/live/stream-570313_lsd.flv?txSecret=02afd07996182ca29890281d3e2ffb75&txTime=69b5f66a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia CF [BUA TA] (Socolive) hdFlv
-https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=e5af0ae91967f94b246d1e504df5db40&txTime=69b5e9c2
+https://pull.niur.live/live/stream-570313_lhd.flv?txSecret=5ec80b3339949b51ababfac7ea58cbc7&txTime=69b5f66a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia CF [BUA TA] (Socolive) hdM3u8
-https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=e5af0ae91967f94b246d1e504df5db40&txTime=69b5e9c2
+https://pull.niur.live/live/stream-570313_lhd.m3u8?txSecret=5ec80b3339949b51ababfac7ea58cbc7&txTime=69b5f66a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia CF [BUA TA] (Socolive) m3u8
-https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=6caf454db37a251fedbb11b61dc1cf64&txTime=69b5e9c2
+https://pull.niur.live/live/stream-570313_lsd.m3u8?txSecret=02afd07996182ca29890281d3e2ffb75&txTime=69b5f66a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia CF [Dinh Bac] (Socolive) flv
-https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1773511178-0-0-231561bd48e8e843a65f14bb5719d5f9
+https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1773515498-0-0-da04c9ffc7c6cb142148116104313373
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia CF [Dinh Bac] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1773511178-0-0-ae15c1e06a6cd736207a84c07b19705f
+https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1773515498-0-0-661828194b4c2d96540baaad3bf81919
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia CF [Dinh Bac] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1773511178-0-0-1b6d94c4c28ad1450664b465aade9ed6
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1773515498-0-0-90364337e9ddddfc51713095ac145a82
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/362030b821cde030910b22737828d9ba.png" group-title="Live Event: Cadangan",00:30 Gvision TV 15/03 Real Oviedo vs Valencia CF [Dinh Bac] (Socolive) m3u8
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1773511178-0-0-f9fe772b7e2facd4fc1c575bf70bfaed
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg" group-title="Live Event: Cadangan",22:15 14/03 Atletico Madrid vs Getafe (Hoi Quan) FHD
-https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg" group-title="Live Event: Cadangan",22:15 14/03 Atletico Madrid vs Getafe (Hoi Quan) HD
-https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg" group-title="Live Event: Cadangan",22:15 14/03 Atletico Madrid vs Getafe (Hoi Quan) SD
-https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/390977b0421bce136c562057ea171ecf.png!w80" group-title="Live Event: Cadangan",22:15 14/03 Atletico Madrid vs Getafe CF
-https://live5.msrktz.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/df0a03caca12ab56fb72e47a6501409c/image/small?v=1768601124" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe (Ga Vang) sd_3
-https://pull-live8.fastestcdn-global.com/live/337841789be34349a30e3ec8cff4fd51/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/df0a03caca12ab56fb72e47a6501409c/image/small?v=1768601124" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe (Khan Dai A) hd_3
-https://pull-live4.fastestcdn-global.com/live/ff8581e293c2476cb59885fa80b41902/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/99_164871274624.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe (Luong Son) BLV SHIN flv
-https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/99_164871274624.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe (Luong Son) BLV SHIN m3u
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/99_164871274624.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe (Luong Son) BLV DOAN DU flv
-https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/99_164871274624.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe (Luong Son) BLV DOAN DU m3u
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV ALEX] (Socolive) flv
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1773511178-0-0-e5aae6fe6a6256ef9e10a242329886fd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV ALEX] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1773511178-0-0-b8a84df400481a2d949ac5f7f42614ba
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV ALEX] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1773511178-0-0-13b10886606129d9c071924a53365de7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV ALEX] (Socolive) m3u8
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1773511178-0-0-ae2b85d375b8e9782d325fd9974b0941
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV PEWPEW] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1773511898-0-0-94f02fae7688fcd39db7ace107a425b7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV PEWPEW] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1773511898-0-0-28c3bb18a13baeb2a2102cf2b2a621ed
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV PEWPEW] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1773511898-0-0-2f0987665d39267c90f2621d4cbc414f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV PEWPEW] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1773511898-0-0-73e7c47ed4f4af4b25a85783ea30d47d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV SATIVA] (Socolive) flv
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1773511898-0-0-2c092d3a7fd92aa8e0af7d0d3a3e4537
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV SATIVA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1773511898-0-0-7012f89fdd549031903385722350e50e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV SATIVA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1773511898-0-0-4a460e8d7d2cfa483422a968090f49e2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV SATIVA] (Socolive) m3u8
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1773511898-0-0-43ab67dc3d23b9f352fe11e59bc7acbe
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV XO] (Socolive) flv
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1773511538-0-0-73675c848f96acffc14d0b1f5cc339c4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV XO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1773511538-0-0-82432978077148a03ae8d12b1989b5ec
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV XO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1773511538-0-0-fdb6d994a315cd6c29e80fc61215e5ec
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [BLV XO] (Socolive) m3u8
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1773511538-0-0-1c2a0cb5260d8522eaeb5e545132ce32
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [CU DEM] (Socolive) flv
-https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1773511538-0-0-04f64d0459a2066190ae4c2337f88954
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [CU DEM] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-547345_lhd.flv?auth_key=1773511538-0-0-31d7723de916c9c24f3e3e9e9b314c5d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [CU DEM] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1773511538-0-0-bb43b048c8005eb7ca1255926327a1a7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [CU DEM] (Socolive) m3u8
-https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1773511538-0-0-378349b216db5346bed8deaa3268f985
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [SUNG A MUP] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1773511898-0-0-3c243bdd9e929af27dd30cc4889a79a1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [SUNG A MUP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1773511898-0-0-c6ff2d63c0d6c5649324f33b047795c0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [SUNG A MUP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1773511898-0-0-5ffad04beedd4e40c412bdff3c3588d7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: Cadangan",22:15 Gvision TV 14/03 Atletico Madrid vs Getafe [SUNG A MUP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1773511898-0-0-6b223b62a37fa559bf8f3817a59d0186
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/804_165095604742.png" group-title="Live Event: Cadangan",22:30 Gvision TV 14/03 Vitoria Guimaraes vs FC Famalicao (Luong Son) BLV LY UNG flv
-https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/804_165095604742.png" group-title="Live Event: Cadangan",22:30 Gvision TV 14/03 Vitoria Guimaraes vs FC Famalicao (Luong Son) BLV LY UNG m3u
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b593727321793084b1f7804aebedc31a.png!w80" group-title="Live Event: Cadangan",23:00 14/03 FC Lorient vs RC Lens
-https://live5.msrktz.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/299_164871192161.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs Lens (Luong Son) BLV TAN CA flv
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/299_164871192161.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs Lens (Luong Son) BLV TAN CA m3u
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [BLV A TU] (Socolive) flv
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1773511178-0-0-47f099c4d44121d616b641a5f501850e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [BLV A TU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1773511178-0-0-f512ae50703ffcfa56bceb6ac9f06dcd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [BLV A TU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1773511178-0-0-5af9b9fe58715abda89a86f334ea4503
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [BLV A TU] (Socolive) m3u8
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1773511178-0-0-ab554cde395230a542be848de8ef278c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [BLV A WIN] (Socolive) flv
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1773511178-0-0-79cc90ed245a94306233075a4ed5d18a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [BLV A WIN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1773511178-0-0-e14926b6a7816391f3eabc3d5839f798
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [BLV A WIN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1773511178-0-0-9a685c9bda18a74aa0e7e7b29fcbdbbf
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [BLV A WIN] (Socolive) m3u8
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1773511178-0-0-36957be2811d9e2308654a23a14c112c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [NGUOI CA] (Socolive) flv
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1773511178-0-0-084dc42e41669974d288ac6cb9637f17
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [NGUOI CA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1773511178-0-0-614a16059319101ada34143b2e4a9629
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [NGUOI CA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1773511178-0-0-e6787b309c3df721d4009a82287564b1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [NGUOI CA] (Socolive) m3u8
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1773511178-0-0-b4f3b1fdf324a0be58cb774fa46a8500
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [RABBIT] (Socolive) flv
-https://pull06.scstream.net/live/stream-596191_lsd.flv?auth_key=1773511178-0-0-14f4fd88541028d3ee4e5d21117d8743
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [RABBIT] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-596191_lhd.flv?auth_key=1773511178-0-0-420822c72e44b756d6fae42ed5e6e70f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [RABBIT] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1773511178-0-0-a5b7330d5576a4e8c0db797d6d1baff4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/5521fb8110dce08edc39c1752b4625f6.png" group-title="Live Event: Cadangan",23:00 Gvision TV 14/03 Lorient vs RC Lens [RABBIT] (Socolive) m3u8
-https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1773511178-0-0-e0c1484d4e534658e22ae15f2293c77b
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1773515498-0-0-e231763b96f9e3e8721897ed20362eb3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: Cadangan",00:45 Gvision TV 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] (Socolive) flv
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1773514778-0-0-5027bdb6357a37e58691e1c8009b8e2a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: Cadangan",00:45 Gvision TV 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1773514778-0-0-89f51f58cee1aa8610ae78908827beda
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: Cadangan",00:45 Gvision TV 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1773514778-0-0-07b04072011c5945d7c1313acfb2504f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: Cadangan",00:45 Gvision TV 15/03 PSV Eindhoven vs NEC Nijmegen [A PAO] (Socolive) m3u8
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1773514778-0-0-e9cb92167262788da05b4f627f5da714
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: Cadangan",00:45 Gvision TV 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] (Socolive) flv
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1773514778-0-0-2ca5846e44ba608d6aa00b611ea49e94
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: Cadangan",00:45 Gvision TV 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1773514778-0-0-ddf2bf7c649e73dbf4c0a8c147505f13
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: Cadangan",00:45 Gvision TV 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1773514778-0-0-e5d54949e5bf86478b9ea60378a8a79c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/81157bb3151955174454645a02d47b02.png" group-title="Live Event: Cadangan",00:45 Gvision TV 15/03 PSV Eindhoven vs NEC Nijmegen [KEP] (Socolive) m3u8
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1773514778-0-0-49555d8dd9b3ece3107ed03cc0cfbcb4
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/526150064f4f983d670deb33fa6385b6.png!w80" group-title="Live Event: Cadangan",01:00 15/03 Angers SCO vs OGC Nice
+https://live5.msrktz.app/live/75748097.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: Cadangan",01:00 Gvision TV 15/03 Angers SCO vs OGC Nice [BLV FIREMAN] (Socolive) flv
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1773514778-0-0-13f0c88e8082bf6714f6693f2228545c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: Cadangan",01:00 Gvision TV 15/03 Angers SCO vs OGC Nice [BLV FIREMAN] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1773514778-0-0-702b4edc52cd458368898b57943ed792
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: Cadangan",01:00 Gvision TV 15/03 Angers SCO vs OGC Nice [BLV FIREMAN] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1773514778-0-0-500c8164b66a3369fdde56dd3264e65f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/76cf51bfdf892201aa8ba97d6a45c462.png" group-title="Live Event: Cadangan",01:00 Gvision TV 15/03 Angers SCO vs OGC Nice [BLV FIREMAN] (Socolive) m3u8
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1773514778-0-0-0ad2e9065dfceb142f936de0f2ee49ca
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/273_1:71kxn41qn.png" group-title="Live Event: Cadangan",01:00 Gvision TV 15/03 Angers vs Nice (Luong Son) BLV KHONG MINH flv
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/273_1:71kxn41qn.png" group-title="Live Event: Cadangan",01:00 Gvision TV 15/03 Angers vs Nice (Luong Son) BLV KHONG MINH m3u
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-logo="https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg" group-title="Live Event: Cadangan",01:30 15/03 Euro Open (Hoi Quan) FHD
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg" group-title="Live Event: Cadangan",01:30 15/03 Euro Open (Hoi Quan) HD
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg" group-title="Live Event: Cadangan",01:30 15/03 Euro Open (Hoi Quan) SD
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/57691432893dd7f24c09eb72d475fa9d.png" group-title="Live Event: Cadangan",02:00 Gvision TV 15/03 Al Khaleej Club vs Al Nassr FC [BLV A TU] (Socolive) flv
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1773515138-0-0-bd20757277ba71f98ccbb4f0a9b2ecd2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/57691432893dd7f24c09eb72d475fa9d.png" group-title="Live Event: Cadangan",02:00 Gvision TV 15/03 Al Khaleej Club vs Al Nassr FC [BLV A TU] (Socolive) hdFlv
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1773515138-0-0-84178a0c81d3b769e279d2b81a32db71
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/57691432893dd7f24c09eb72d475fa9d.png" group-title="Live Event: Cadangan",02:00 Gvision TV 15/03 Al Khaleej Club vs Al Nassr FC [BLV A TU] (Socolive) hdM3u8
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1773515138-0-0-7299f7410e7cf03f8af925ebd84ce640
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/57691432893dd7f24c09eb72d475fa9d.png" group-title="Live Event: Cadangan",02:00 Gvision TV 15/03 Al Khaleej Club vs Al Nassr FC [BLV A TU] (Socolive) m3u8
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1773515138-0-0-8dd9cd89ceec3362e6343101f2056510
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Premier League] 00:30 15/03 Arsenal vs Everton [FHD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Premier League] 00:30 15/03 Arsenal vs Everton [FHD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Premier League] 00:30 15/03 Arsenal vs Everton [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Premier League] 00:30 15/03 Arsenal vs Everton [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Premier League] 00:30 15/03 Arsenal vs Everton [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Premier League] 00:30 15/03 Arsenal vs Everton [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Premier League] 00:30 15/03 Chelsea vs Newcastle [FHD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Premier League] 00:30 15/03 Chelsea vs Newcastle [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_7_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Premier League] 00:30 15/03 Chelsea vs Newcastle [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_7_sd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Pro League] 00:30 15/03 Al Khaleej Saihat vs Al-Nassr [FHD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Serie A] 00:30 15/03 Napoli vs Lecce [FHD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Serie A] 00:30 15/03 Napoli vs Lecce [HD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Cadangan",[Serie A] 00:30 15/03 Napoli vs Lecce [SD]
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+) (Kadang Offline)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
