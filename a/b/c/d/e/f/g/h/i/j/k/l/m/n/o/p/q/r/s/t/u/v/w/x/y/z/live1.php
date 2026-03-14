@@ -1,15 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁16:37:59 14-03-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁16:43:21 14-03-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football Super League📁00:00:00📁",📁Shandong Taishan vs Beijing Guoan📁14-03-2026 16:37:51 WIB📁00:00:00📁
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football Super League📁00:00:00📁",📁Shandong Taishan vs Beijing Guoan📁14-03-2026 16:37:51 WIB📁00:00:00📁
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football Super League📁00:00:00📁",📁Zhejiang Professional FC vs Shanghai Shenhua📁14-03-2026 16:37:51 WIB📁00:00:00📁
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football Super League📁00:00:00📁",📁Zhejiang Professional FC vs Shanghai Shenhua📁14-03-2026 16:37:51 WIB📁00:00:00📁
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Thai League 1📁00:00:00📁",📁Muangthong United vs Uthai Thani Forest📁14-03-2026 16:37:51 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Vietnam National First Class League📁00:00:00📁",📁Quang Ninh vs Xuan Thien Phu Tho📁14-03-2026 16:43:16 WIB📁00:00:00📁
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Thai League 1📁00:00:00📁",📁Muangthong United vs Uthai Thani Forest📁14-03-2026 16:43:16 WIB📁00:00:00📁
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean K League 1📁00:00:00📁",📁Daejeon Citizen vs Gimcheon Sangmu Football Club📁14-03-2026 16:37:54 WIB📁00:00:00📁
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
