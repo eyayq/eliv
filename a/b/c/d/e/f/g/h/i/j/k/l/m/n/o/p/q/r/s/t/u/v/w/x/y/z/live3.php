@@ -1,16 +1,8 @@
 #EXTM3U
-# Generated Sat Mar 14 05:50:31 2026
+# Generated Sat Mar 14 05:55:45 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 12:50:05 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Saturday 14-03-2026 12:55:28 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Central Coast Mariners😈VS😈Adelaide United [LIVE]😈📁
-https://bf.jalaplay.net/live/5004423.m3u8?txSecret=1ce3991f3f47617dffed743e9d919f60&txTime=69b4ee04
-#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Central Coast Mariners😈VS😈Adelaide United [LIVE]😈📁
-https://bf.jalaplay.net/live/5005095.m3u8?txSecret=f624e474e3380142de58cfaf32ab91a4&txTime=69b4ea28
-#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Central Coast Mariners😈VS😈Adelaide United [LIVE]😈📁
-https://bf.jalaplay.net/live/322707.m3u8?txSecret=42865200e2439ad0d9d5b5c68661d4d3&txTime=69b4f30c
-#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Central Coast Mariners😈VS😈Adelaide United [LIVE]😈📁
-https://bf.jalaplay.net/live/322675.m3u8?txSecret=647ff8d93dcb18685f4cc3ae4919d918&txTime=69b4f58e
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Yokohama F. Marinos😈VS😈JEF United Ichihara Chiba [LIVE]😈📁
 https://bf.jalaplay.net/live/322723.m3u8?txSecret=89859eda5858fd9d22d47e3d2d70a22b&txTime=69b4f690
 #EXTINF:-1 group-title="📁😈 AFC Women’s Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png",📁😈China Women😈VS😈Chinese Taipei Women [LIVE]😈📁
@@ -27,13 +19,19 @@ https://bf.jalaplay.net/live/5005017.m3u8?txSecret=473dc708a0dabbdd6270155ebb196
 https://bf.jalaplay.net/live/5004453.m3u8?txSecret=fe03cf574a24d0d774b190e49b1f4b64&txTime=69b4f51b
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Gwangju Football Club😈VS😈Jeonbuk Hyundai Motors [LIVE]😈📁
 https://bf.jalaplay.net/live/5004448.m3u8?txSecret=ad94f6e67c9136f0b810828f207c24e5&txTime=69b4f4b8
-#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Newcastle Jets😈VS😈Auckland FC [9m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Newcastle Jets😈VS😈Auckland FC [4m]😈📁
+https://bf.jalaplay.net/live/5004423.m3u8?txSecret=1ce3991f3f47617dffed743e9d919f60&txTime=69b4ee04
+#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Newcastle Jets😈VS😈Auckland FC [4m]😈📁
+https://bf.jalaplay.net/live/322675.m3u8?txSecret=647ff8d93dcb18685f4cc3ae4919d918&txTime=69b4f58e
+#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Newcastle Jets😈VS😈Auckland FC [4m]😈📁
 https://bf.jalaplay.net/live/322647.m3u8?txSecret=b9df7c4e4645ead2d4aa0f98ae03e4a4&txTime=69b4f504
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kashima Antlers😈VS😈Kawasaki Frontale [9m]😈📁
-https://bf.jalaplay.net/live/322666.m3u8?txSecret=964d237c9a60ad01abf0a69bfeec7b06&txTime=69b4ee2c
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kashima Antlers😈VS😈Kawasaki Frontale [9m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Newcastle Jets😈VS😈Auckland FC [4m]😈📁
+https://bf.jalaplay.net/live/5005095.m3u8?txSecret=06357d4f9ad0b629871b5dd3a48ce57f&txTime=69b4f845
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kashima Antlers😈VS😈Kawasaki Frontale [4m]😈📁
 https://bf.jalaplay.net/live/5005093.m3u8?txSecret=b9f5d8ce4e39778616d0fd4f3f829235&txTime=69b4f55f
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kashima Antlers😈VS😈Kawasaki Frontale [9m]😈📁
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kashima Antlers😈VS😈Kawasaki Frontale [4m]😈📁
 https://bf.jalaplay.net/live/5004426.m3u8?txSecret=330f824a464a0b73916a156a522ae79a&txTime=69b4f452
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Sanfrecce Hiroshima😈VS😈Gamba Osaka [9m]😈📁
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kashima Antlers😈VS😈Kawasaki Frontale [4m]😈📁
+https://bf.jalaplay.net/live/322666.m3u8?txSecret=964d237c9a60ad01abf0a69bfeec7b06&txTime=69b4ee2c
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Sanfrecce Hiroshima😈VS😈Gamba Osaka [4m]😈📁
 https://bf.jalaplay.net/live/5004997.m3u8?txSecret=75606ce6fa0d11a7c0fa8231efb44796&txTime=69b4f557
