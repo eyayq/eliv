@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-14 01:32:14
-# 🔄 Total Channels: 1647
+# ⏰ Latest Updated: 2026-03-14 01:37:21
+# 🔄 Total Channels: 1650
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -913,6 +913,18 @@ https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Wellington_Phoenix_FC_logo.svg/1200px-Wellington_Phoenix_FC_logo.svg.png" group-title="Live Event: Hội quán",09:00 14/03 Wellington Phoenix vs Perth Glory FHD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Wellington_Phoenix_FC_logo.svg/1200px-Wellington_Phoenix_FC_logo.svg.png" group-title="Live Event: Hội quán",09:00 14/03 Wellington Phoenix vs Perth Glory HD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Wellington_Phoenix_FC_logo.svg/1200px-Wellington_Phoenix_FC_logo.svg.png" group-title="Live Event: Hội quán",09:00 14/03 Wellington Phoenix vs Perth Glory SD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgbcQTwQftJppnCiKC9Wed1i6puDevH9m5Q&s" group-title="Live Event: Hội quán",08:00 14/03 Elena Rybakina vs Elina Svitolina FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
