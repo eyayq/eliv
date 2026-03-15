@@ -1,10 +1,10 @@
 #EXTM3U
-# Generated Sun Mar 15 04:10:10 2026
+# Generated Sun Mar 15 04:15:36 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Sunday 15-03-2026 11:09:47 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Sunday 15-03-2026 11:15:17 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Los Angeles FC😈VS😈St. Louis City SC [LIVE]😈📁
-https://bf.jalaplay.net/live/5005017.m3u8?txSecret=50dcf874159194e7c7cc53247521e78b&txTime=69b62376
+https://bf.jalaplay.net/live/5005017.m3u8?txSecret=f2f832503fdc98631b37bb5495b859c8&txTime=69b63189
 #EXTINF:-1 group-title="📁😈 Australia W-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png",📁😈Melbourne City Women😈VS😈Canberra United Women [LIVE]😈📁
 https://bf.jalaplay.net/live/5005035.m3u8?txSecret=131fee8e6d23fd77d58621409bfa1988&txTime=69b62c63
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈Pumas U.N.A.M.😈VS😈Cruz Azul [LIVE]😈📁
