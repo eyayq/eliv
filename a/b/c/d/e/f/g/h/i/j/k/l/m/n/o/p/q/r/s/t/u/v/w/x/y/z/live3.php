@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Sun Mar 15 22:59:19 2026
+# Generated Sun Mar 15 23:04:46 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 05:59:06 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 06:04:29 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Palmeiras😈VS😈Mirassol [LIVE]😈📁
 https://bf.jalaplay.net/live/322580.m3u8?txSecret=b6c1642ae5c70c1c1cde7339dc2c32f3&txTime=69b72f22
@@ -9,15 +9,15 @@ https://bf.jalaplay.net/live/322580.m3u8?txSecret=b6c1642ae5c70c1c1cde7339dc2c32
 https://bf.jalaplay.net/live/322708.m3u8?txSecret=bbf66fd20e68046919c522993d47dbb2&txTime=69b72f88
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX Femenil 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6350b03022c4e5344c808657c3282bb.png",📁😈Club Necaxa Women😈VS😈Saint Louis Athletica Women [LIVE]😈📁
 https://bf.jalaplay.net/live/322717.m3u8?txSecret=66dcf8df4f93b3423517521c01e9e791&txTime=69b73992
-#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈San Jose Earthquakes😈VS😈Seattle Sounders [0m]😈📁
-https://bf.jalaplay.net/live/5004423.m3u8?txSecret=ecb6478bdaffce142eb7789f3c3815df&txTime=69b73696
-#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈San Jose Earthquakes😈VS😈Seattle Sounders [0m]😈📁
-https://bf.jalaplay.net/live/5005093.m3u8?txSecret=9e7a94129f067a42381065d99c3137a7&txTime=69b736b9
-#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈San Jose Earthquakes😈VS😈Seattle Sounders [0m]😈📁
+#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈San Jose Earthquakes😈VS😈Seattle Sounders [LIVE]😈📁
 https://bf.jalaplay.net/live/322707.m3u8?txSecret=ef709bd57ecc0e2c9b35bd53a71514dc&txTime=69b73493
-#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈San Jose Earthquakes😈VS😈Seattle Sounders [0m]😈📁
+#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈San Jose Earthquakes😈VS😈Seattle Sounders [LIVE]😈📁
+https://bf.jalaplay.net/live/5005093.m3u8?txSecret=9e7a94129f067a42381065d99c3137a7&txTime=69b736b9
+#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈San Jose Earthquakes😈VS😈Seattle Sounders [LIVE]😈📁
 https://bf.jalaplay.net/live/322675.m3u8?txSecret=c3fd78c7a057bea46de828055811d34c&txTime=69b73434
-#EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈Tigres UANL😈VS😈Queretaro FC [0m]😈📁
+#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈San Jose Earthquakes😈VS😈Seattle Sounders [LIVE]😈📁
+https://bf.jalaplay.net/live/5004423.m3u8?txSecret=ecb6478bdaffce142eb7789f3c3815df&txTime=69b73696
+#EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈Tigres UANL😈VS😈Queretaro FC [LIVE]😈📁
 https://bf.jalaplay.net/live/322572.m3u8?txSecret=ca28e2b28f062ebe5c91a675badd5d61&txTime=69b73512
-#EXTINF:-1 group-title="📁😈 Categoría Primera A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png",📁😈Jaguares de Cordoba😈VS😈Dep.Independiente Medellin [20m]😈📁
+#EXTINF:-1 group-title="📁😈 Categoría Primera A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png",📁😈Jaguares de Cordoba😈VS😈Dep.Independiente Medellin [15m]😈📁
 https://bf.jalaplay.net/live/5004449.m3u8?txSecret=2d3b4345fb4b213a3c64fa6ffb1d0860&txTime=69b73620
