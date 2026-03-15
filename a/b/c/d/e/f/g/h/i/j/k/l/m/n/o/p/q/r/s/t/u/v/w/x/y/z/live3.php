@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Sun Mar 15 05:25:30 2026
+# Generated Sun Mar 15 05:30:58 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Sunday 15-03-2026 12:25:08 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Sunday 15-03-2026 12:30:37 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 J2/J3 100 Year Vision League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png",📁😈Vanraure Hachinohe FC😈VS😈Tochigi City [LIVE]😈📁
 https://bf.jalaplay.net/live/322572.m3u8?txSecret=f2f5bd16796b3052d881320bc0e52ce6&txTime=69b63801
@@ -14,13 +14,13 @@ https://bf.jalaplay.net/live/5005081.m3u8?txSecret=61abb2dfcbf1f4ccb460374334f7a
 #EXTINF:-1 group-title="📁😈 AFC Women’s Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png",📁😈Japan Women😈VS😈Philippines Women [LIVE]😈📁
 https://bf.jalaplay.net/live/5005035.m3u8?txSecret=cb2c55881289629b5009b796817f38d6&txTime=69b63c1d
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈V-Varen Nagasaki😈VS😈Avispa Fukuoka [LIVE]😈📁
+https://bf.jalaplay.net/live/322666.m3u8?txSecret=bd45e0cca0c8415d0aff29a0edc48bdd&txTime=69b6387f
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈V-Varen Nagasaki😈VS😈Avispa Fukuoka [LIVE]😈📁
 https://bf.jalaplay.net/live/322647.m3u8?txSecret=58af4b968cfd2bbeafec136a718182ce&txTime=69b63a4f
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈V-Varen Nagasaki😈VS😈Avispa Fukuoka [LIVE]😈📁
 https://bf.jalaplay.net/live/5005095.m3u8?txSecret=7ed70b54987d22ec773c333723df7aa1&txTime=69b64227
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈V-Varen Nagasaki😈VS😈Avispa Fukuoka [LIVE]😈📁
 https://bf.jalaplay.net/live/5004423.m3u8?txSecret=f12e6b641ef0950ff2f64a5f53972c05&txTime=69b63a14
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈V-Varen Nagasaki😈VS😈Avispa Fukuoka [LIVE]😈📁
-https://bf.jalaplay.net/live/322666.m3u8?txSecret=bd45e0cca0c8415d0aff29a0edc48bdd&txTime=69b6387f
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Jeju SK FC😈VS😈Football Club Seoul [LIVE]😈📁
 https://bf.jalaplay.net/live/5005017.m3u8?txSecret=035b738ef8edbdb5e7db7262caf14a7f&txTime=69b63f9b
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Jeju SK FC😈VS😈Football Club Seoul [LIVE]😈📁
