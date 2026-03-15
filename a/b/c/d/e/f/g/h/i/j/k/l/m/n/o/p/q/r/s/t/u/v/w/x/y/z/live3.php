@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Sun Mar 15 22:04:40 2026
+# Generated Sun Mar 15 22:10:28 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 05:04:24 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 05:10:09 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Portuguese Primera Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",📁😈FC Porto😈VS😈Moreirense [LIVE]😈📁
 https://bf.jalaplay.net/live/322713.m3u8?txSecret=e8cde3c88189437b00775c73027f7296&txTime=69b7247e
