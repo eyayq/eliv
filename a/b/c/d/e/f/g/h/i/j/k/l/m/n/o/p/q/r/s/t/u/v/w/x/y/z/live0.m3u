@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-15 10:40:41
-# 🔄 Total Channels: 1647
+# ⏰ Latest Updated: 2026-03-15 10:45:54
+# 🔄 Total Channels: 1655
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -848,6 +848,30 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773574178-0-0-55a3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260311/62812f3684669b6f5b5d40faec30ad6c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773574178-0-0-b89e455c8110840a08641eb53ef8da37
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/05b350eeb17c12c11bf3b92d6cbb5f41.png" group-title="Live Event: socolive",18:00 ngay 15/03 Shanghai Port vs Qingdao West Coast [ TOMMY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1773574538-0-0-881e9ca252da1ce385c2919fb8c60d05
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/05b350eeb17c12c11bf3b92d6cbb5f41.png" group-title="Live Event: socolive",18:00 ngay 15/03 Shanghai Port vs Qingdao West Coast [ TOMMY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1773574538-0-0-835ccc73a1fabc9bd9c649f2b0666587
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/05b350eeb17c12c11bf3b92d6cbb5f41.png" group-title="Live Event: socolive",18:00 ngay 15/03 Shanghai Port vs Qingdao West Coast [ TOMMY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1773574538-0-0-9fd3c4153b94ba3379ea186996437789
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/05b350eeb17c12c11bf3b92d6cbb5f41.png" group-title="Live Event: socolive",18:00 ngay 15/03 Shanghai Port vs Qingdao West Coast [ TOMMY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1773574538-0-0-50a6135b1f78dd3f18463fec9bd48e6a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/05b350eeb17c12c11bf3b92d6cbb5f41.png" group-title="Live Event: socolive",18:00 ngay 15/03 Shanghai Port vs Qingdao West Coast [ KEM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.flv?txSecret=5ef601c463564bdae1913f118e1a8b7a&txTime=69b6dfda
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/05b350eeb17c12c11bf3b92d6cbb5f41.png" group-title="Live Event: socolive",18:00 ngay 15/03 Shanghai Port vs Qingdao West Coast [ KEM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.flv?txSecret=4ddac17d73c04ae0fd8f4d3401e27fd6&txTime=69b6dfda
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/05b350eeb17c12c11bf3b92d6cbb5f41.png" group-title="Live Event: socolive",18:00 ngay 15/03 Shanghai Port vs Qingdao West Coast [ KEM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lsd.m3u8?txSecret=5ef601c463564bdae1913f118e1a8b7a&txTime=69b6dfda
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/05b350eeb17c12c11bf3b92d6cbb5f41.png" group-title="Live Event: socolive",18:00 ngay 15/03 Shanghai Port vs Qingdao West Coast [ KEM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-513394_lhd.m3u8?txSecret=4ddac17d73c04ae0fd8f4d3401e27fd6&txTime=69b6dfda
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/836.png" group-title="Live Event: Hội quán",18:00 15/03 SHANGHAI SIPG vs Qingdao Youth Island FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
