@@ -1,16 +1,16 @@
 #EXTM3U
-# Generated Sun Mar 15 21:53:45 2026
+# Generated Sun Mar 15 21:55:20 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 04:53:29 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 04:55:02 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",📁😈Real Sociedad😈VS😈CA Osasuna [LIVE]😈📁
-https://bf.jalaplay.net/live/5004991.m3u8?txSecret=5fef3efe40bb9a339b3818a68610f167&txTime=69b72667
-#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",📁😈Real Sociedad😈VS😈CA Osasuna [LIVE]😈📁
-https://bf.jalaplay.net/live/322801.m3u8?txSecret=d2eae6d3112b0a11e0b2237f22ed1837&txTime=69b7255c
 #EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",📁😈Real Sociedad😈VS😈CA Osasuna [LIVE]😈📁
 https://bf.jalaplay.net/live/322711.m3u8?txSecret=c0b27d60bf8757803f5a06dba1c8ea2a&txTime=69b720a8
 #EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",📁😈Real Sociedad😈VS😈CA Osasuna [LIVE]😈📁
+https://bf.jalaplay.net/live/322801.m3u8?txSecret=d2eae6d3112b0a11e0b2237f22ed1837&txTime=69b7255c
+#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",📁😈Real Sociedad😈VS😈CA Osasuna [LIVE]😈📁
 https://bf.jalaplay.net/live/5004691.m3u8?txSecret=637d20d8a28d4f014070569dbaf67e37&txTime=69b72888
+#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",📁😈Real Sociedad😈VS😈CA Osasuna [LIVE]😈📁
+https://bf.jalaplay.net/live/5004991.m3u8?txSecret=5fef3efe40bb9a339b3818a68610f167&txTime=69b72667
 #EXTINF:-1 group-title="📁😈 Portuguese Primera Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",📁😈FC Porto😈VS😈Moreirense [LIVE]😈📁
 https://bf.jalaplay.net/live/322713.m3u8?txSecret=e8cde3c88189437b00775c73027f7296&txTime=69b7247e
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Vancouver Whitecaps😈VS😈Minnesota United FC [LIVE]😈📁
