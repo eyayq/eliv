@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Sun Mar 15 04:15:36 2026
+# Generated Sun Mar 15 04:20:32 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Sunday 15-03-2026 11:15:17 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Sunday 15-03-2026 11:20:18 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Los Angeles FC😈VS😈St. Louis City SC [LIVE]😈📁
 https://bf.jalaplay.net/live/5005017.m3u8?txSecret=f2f832503fdc98631b37bb5495b859c8&txTime=69b63189
