@@ -1,10 +1,8 @@
 #EXTM3U
-# Generated Mon Mar 16 02:47:35 2026
+# Generated Mon Mar 16 02:53:06 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 09:47:23 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 09:52:52 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Argentine Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png",📁😈Club Atlético Unión😈VS😈Boca Juniors [LIVE]😈📁
-https://bf.jalaplay.net/live/5005035.m3u8?txSecret=873808d6f93542055911927e38e5704a&txTime=69b76cb1
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈Club America😈VS😈Mazatlan FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5004423.m3u8?txSecret=ca45d9e1cbf79d7535aa69caf8e8ba10&txTime=69b766a3
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈Club America😈VS😈Mazatlan FC [LIVE]😈📁
