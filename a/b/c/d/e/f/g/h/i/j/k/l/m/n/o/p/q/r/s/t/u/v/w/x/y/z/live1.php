@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁16:19:42 16-03-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁16:25:48 16-03-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Kazakhstan Premier League📁00:00:00📁",📁Ulytau Zhezkazgan vs Kyzylzhar Petropavlovsk📁16-03-2026 16:19:38 WIB📁00:00:00📁
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁National Premier Leagues Victoria 2📁00:00:00📁",📁FC Bulleen Lions vs Brunswick Juventus📁16-03-2026 16:19:38 WIB📁00:00:00📁
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Myanmar Professional League📁00:00:00📁",📁Rakhine United FC vs ISPE FC📁16-03-2026 16:19:38 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Myanmar Professional League📁00:00:00📁",📁Rakhine United FC vs ISPE FC📁16-03-2026 16:25:45 WIB📁00:00:00📁
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Myanmar Professional League📁00:00:00📁",📁Rakhine United FC vs ISPE FC📁16-03-2026 16:19:38 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Myanmar Professional League📁00:00:00📁",📁Rakhine United FC vs ISPE FC📁16-03-2026 16:25:45 WIB📁00:00:00📁
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Italian Campionato Primavera 1📁00:00:00📁",📁Parma U20 vs Lecce U20📁16-03-2026 16:19:38 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Kazakhstan Premier League📁00:00:00📁",📁Ulytau Zhezkazgan vs Kyzylzhar Petropavlovsk📁16-03-2026 16:25:45 WIB📁00:00:00📁
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Italian Campionato Primavera 1📁00:00:00📁",📁Parma U20 vs Lecce U20📁16-03-2026 16:25:45 WIB📁00:00:00📁
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
