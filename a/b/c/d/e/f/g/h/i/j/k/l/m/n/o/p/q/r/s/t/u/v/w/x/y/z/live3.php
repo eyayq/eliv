@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Mon Mar 16 01:57:10 2026
+# Generated Mon Mar 16 02:02:41 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 08:56:50 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 09:02:23 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Argentine Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png",📁😈Club Atlético Unión😈VS😈Boca Juniors [LIVE]😈📁
 https://bf.jalaplay.net/live/5005035.m3u8?txSecret=3fcb774c3a6177945f8bdbdce9be1b6d&txTime=69b75ea1
@@ -17,5 +17,5 @@ https://bf.jalaplay.net/live/322572.m3u8?txSecret=22e7f6bec42c08e1546e6bc8b9c9ba
 https://bf.jalaplay.net/live/5004453.m3u8?txSecret=bbb64affb5e30e67e7051573dd8a9b93&txTime=69b75e48
 #EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈Vancouver Whitecaps Reserve😈VS😈MINNESOTA United B [LIVE]😈📁
 https://bf.jalaplay.net/live/5005017.m3u8?txSecret=4d496990c9e51a045e31ed1c88da7ecd&txTime=69b75879
-#EXTINF:-1 group-title="📁😈 Mexico Liga MX Femenil 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6350b03022c4e5344c808657c3282bb.png",📁😈Tigres Women😈VS😈Queretaro Women [3m]😈📁
+#EXTINF:-1 group-title="📁😈 Mexico Liga MX Femenil 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6350b03022c4e5344c808657c3282bb.png",📁😈Tigres Women😈VS😈Queretaro Women [LIVE]😈📁
 https://bf.jalaplay.net/live/5004997.m3u8?txSecret=92004bacd89227a789db159b2434acd2&txTime=69b75ff0
