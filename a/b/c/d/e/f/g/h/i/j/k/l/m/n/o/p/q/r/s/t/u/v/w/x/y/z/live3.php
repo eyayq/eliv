@@ -1,10 +1,8 @@
 #EXTM3U
-# Generated Mon Mar 16 22:06:29 2026
+# Generated Mon Mar 16 22:17:29 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 05:06:18 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 05:17:19 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Liga Portugal 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png",📁😈SCU Torreense😈VS😈Portimonense [LIVE]😈📁
-https://bf.jalaplay.net/live/5005029.m3u8?txSecret=12977e2996efd2722befea5fbeeb82ec&txTime=69b87d15
 #EXTINF:-1 group-title="📁😈 CHI Liga de Primera 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fee37a97f3d0e08209e4846fcff45cba.png",📁😈Union La Calera😈VS😈O.Higgins [LIVE]😈📁
 https://bf.jalaplay.net/live/5004691.m3u8?txSecret=e871c32790c6334507d6bcad1d828796&txTime=69b87a2c
 #EXTINF:-1 group-title="📁😈 Argentine Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png",📁😈San Lorenzo😈VS😈Defensa Y Justicia [LIVE]😈📁
