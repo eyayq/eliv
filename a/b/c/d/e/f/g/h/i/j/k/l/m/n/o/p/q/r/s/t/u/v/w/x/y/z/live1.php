@@ -1,19 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁20:16:56 16-03-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁20:22:27 16-03-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Kazakhstan Premier League📁00:00:00📁",📁Tobol Kostanai vs FC Zhetysu Taldykorgan📁16-03-2026 20:16:51 WIB📁00:00:00📁
-https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Kazakhstan Premier League📁00:00:00📁",📁Tobol Kostanai vs FC Zhetysu Taldykorgan📁16-03-2026 20:16:51 WIB📁00:00:00📁
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Armenian Premier League📁00:00:00📁",📁Ararat-Armenia FC vs FK Van Charentsavan📁16-03-2026 20:16:51 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Armenian Premier League📁00:00:00📁",📁Ararat-Armenia FC vs FK Van Charentsavan📁16-03-2026 20:22:24 WIB📁00:00:00📁
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Turkish First League📁00:00:00📁",📁Corum Belediyespor vs Erokspor📁16-03-2026 20:16:51 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Kazakhstan Premier League📁00:00:00📁",📁Tobol Kostanai vs FC Zhetysu Taldykorgan📁16-03-2026 20:22:24 WIB📁00:00:00📁
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Kazakhstan Premier League📁00:00:00📁",📁Tobol Kostanai vs FC Zhetysu Taldykorgan📁16-03-2026 20:22:24 WIB📁00:00:00📁
+https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Turkish First League📁00:00:00📁",📁Corum Belediyespor vs Erokspor📁16-03-2026 20:22:24 WIB📁00:00:00📁
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Turkish First League📁00:00:00📁",📁Corum Belediyespor vs Erokspor📁16-03-2026 20:16:51 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Turkish First League📁00:00:00📁",📁Corum Belediyespor vs Erokspor📁16-03-2026 20:22:24 WIB📁00:00:00📁
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Singapore Premier League📁00:00:00📁",📁Tanjong Pagar Utd vs Tampines Rovers FC📁16-03-2026 20:16:51 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Singapore Premier League📁00:00:00📁",📁Tanjong Pagar Utd vs Tampines Rovers FC📁16-03-2026 20:22:24 WIB📁00:00:00📁
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Singapore Premier League📁00:00:00📁",📁Tanjong Pagar Utd vs Tampines Rovers FC📁16-03-2026 20:16:51 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Singapore Premier League📁00:00:00📁",📁Tanjong Pagar Utd vs Tampines Rovers FC📁16-03-2026 20:22:24 WIB📁00:00:00📁
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Kazakhstan Premier League📁00:00:00📁",📁Kaisar Kyzylorda vs FC Astana📁16-03-2026 20:16:52 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Kazakhstan Premier League📁00:00:00📁",📁Kaisar Kyzylorda vs FC Astana📁16-03-2026 20:22:24 WIB📁00:00:00📁
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Kazakhstan Premier League📁00:00:00📁",📁FC Kairat Almaty vs FK Aktobe Lento📁16-03-2026 20:22:24 WIB📁00:00:00📁
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
