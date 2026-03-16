@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Mon Mar 16 22:25:04 2026
+# Generated Mon Mar 16 22:31:13 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 05:24:54 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 05:31:03 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 CHI Liga de Primera 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fee37a97f3d0e08209e4846fcff45cba.png",📁😈Union La Calera😈VS😈O.Higgins [LIVE]😈📁
 https://bf.jalaplay.net/live/5004691.m3u8?txSecret=e871c32790c6334507d6bcad1d828796&txTime=69b87a2c
