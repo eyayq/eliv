@@ -1,33 +1,33 @@
 #EXTM3U
-# Generated Mon Mar 16 13:00:11 2026
+# Generated Mon Mar 16 13:05:55 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 19:59:53 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Monday 16-03-2026 20:05:43 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Armenian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/dc8217bf1c8219d1265fe704f1dd460b.png",📁😈Ararat-Armenia FC😈VS😈FK Van Charentsavan [LIVE]😈📁
 https://bf.jalaplay.net/live/5005094.m3u8?txSecret=6f74fd861d2b0b191624be6773edd08a&txTime=69b7fe39
 #EXTINF:-1 group-title="📁😈 Kazakhstan Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/db5bd04b2bd768144487ef32a4d482e5.png",📁😈Tobol Kostanai😈VS😈FC Zhetysu Taldykorgan [LIVE]😈📁
-https://bf.jalaplay.net/live/5004994.m3u8?txSecret=6043ddec087e92c92d2e33078ba8adc9&txTime=69b7f1da
+https://bf.jalaplay.net/live/5004994.m3u8?txSecret=9062f7be110ed40762b17c15c396c458&txTime=69b7ffed
 #EXTINF:-1 group-title="📁😈 Kazakhstan Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/db5bd04b2bd768144487ef32a4d482e5.png",📁😈Tobol Kostanai😈VS😈FC Zhetysu Taldykorgan [LIVE]😈📁
 https://bf.jalaplay.net/live/322693.m3u8?txSecret=c3ff0de1154ac2203d1701911b3d9be2&txTime=69b7f855
 #EXTINF:-1 group-title="📁😈 Singapore Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f673935d115d19fd412bcedf9ac3f936.png",📁😈Tanjong Pagar Utd😈VS😈Tampines Rovers FC [LIVE]😈📁
-https://bf.jalaplay.net/live/5004448.m3u8?txSecret=1feaf3ec97dd13e723306bca147b6bf9&txTime=69b7f0eb
+https://bf.jalaplay.net/live/5005009.m3u8?txSecret=ff3b3f9d0f6cecb5d6633f1d3c79581c&txTime=69b7ff20
 #EXTINF:-1 group-title="📁😈 Singapore Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f673935d115d19fd412bcedf9ac3f936.png",📁😈Tanjong Pagar Utd😈VS😈Tampines Rovers FC [LIVE]😈📁
-https://bf.jalaplay.net/live/322677.m3u8?txSecret=255e7f3dd22b6a4023169717fc0b1bfa&txTime=69b7f4aa
-#EXTINF:-1 group-title="📁😈 Singapore Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f673935d115d19fd412bcedf9ac3f936.png",📁😈Tanjong Pagar Utd😈VS😈Tampines Rovers FC [LIVE]😈📁
-https://bf.jalaplay.net/live/5005009.m3u8?txSecret=4ac006a33887a1b4638f214ea8eac72e&txTime=69b7f10f
+https://bf.jalaplay.net/live/5005010.m3u8?txSecret=5c1a9b5413d13f973ae9fcc1f7677d5a&txTime=69b7f364
 #EXTINF:-1 group-title="📁😈 Singapore Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f673935d115d19fd412bcedf9ac3f936.png",📁😈Tanjong Pagar Utd😈VS😈Tampines Rovers FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5005018.m3u8?txSecret=975ef7f472b86436a1f312727432ef3f&txTime=69b7f626
 #EXTINF:-1 group-title="📁😈 Singapore Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f673935d115d19fd412bcedf9ac3f936.png",📁😈Tanjong Pagar Utd😈VS😈Tampines Rovers FC [LIVE]😈📁
-https://bf.jalaplay.net/live/5005010.m3u8?txSecret=5c1a9b5413d13f973ae9fcc1f7677d5a&txTime=69b7f364
-#EXTINF:-1 group-title="📁😈 Italian Campionato Primavera 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png",📁😈Monza U20😈VS😈Cesena U20 [0m]😈📁
-https://bf.jalaplay.net/live/5004470.m3u8?txSecret=a0f155148bf512dc87fabc309bb08095&txTime=69b7faee
-#EXTINF:-1 group-title="📁😈 Italian Campionato Primavera 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png",📁😈Monza U20😈VS😈Cesena U20 [0m]😈📁
+https://bf.jalaplay.net/live/322677.m3u8?txSecret=255e7f3dd22b6a4023169717fc0b1bfa&txTime=69b7f4aa
+#EXTINF:-1 group-title="📁😈 Singapore Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f673935d115d19fd412bcedf9ac3f936.png",📁😈Tanjong Pagar Utd😈VS😈Tampines Rovers FC [LIVE]😈📁
+https://bf.jalaplay.net/live/5004448.m3u8?txSecret=5329f9ce510aca3d804c8ec7f04ec351&txTime=69b7fefc
+#EXTINF:-1 group-title="📁😈 Italian Campionato Primavera 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png",📁😈Monza U20😈VS😈Cesena U20 [LIVE]😈📁
 https://bf.jalaplay.net/live/322720.m3u8?txSecret=886ca3f5eb203f65da6beb9535577e8c&txTime=69b7f8c0
-#EXTINF:-1 group-title="📁😈 Turkish First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png",📁😈Corum Belediyespor😈VS😈Erokspor [0m]😈📁
-https://bf.jalaplay.net/live/5004991.m3u8?txSecret=2ba3fd499700147e607d2bcf92779c6b&txTime=69b7fadc
-#EXTINF:-1 group-title="📁😈 Turkish First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png",📁😈Corum Belediyespor😈VS😈Erokspor [0m]😈📁
-https://bf.jalaplay.net/live/5004980.m3u8?txSecret=49bb92c4ddc763024768373b9026ccd2&txTime=69b7f81a
-#EXTINF:-1 group-title="📁😈 Turkish First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png",📁😈Corum Belediyespor😈VS😈Erokspor [0m]😈📁
+#EXTINF:-1 group-title="📁😈 Italian Campionato Primavera 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png",📁😈Monza U20😈VS😈Cesena U20 [LIVE]😈📁
+https://bf.jalaplay.net/live/5004470.m3u8?txSecret=a0f155148bf512dc87fabc309bb08095&txTime=69b7faee
+#EXTINF:-1 group-title="📁😈 Turkish First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png",📁😈Corum Belediyespor😈VS😈Erokspor [LIVE]😈📁
 https://bf.jalaplay.net/live/5004691.m3u8?txSecret=bb6162643c0e9efe3e193cb88c256a69&txTime=69b7fa51
-#EXTINF:-1 group-title="📁😈 Turkish First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png",📁😈Corum Belediyespor😈VS😈Erokspor [0m]😈📁
+#EXTINF:-1 group-title="📁😈 Turkish First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png",📁😈Corum Belediyespor😈VS😈Erokspor [LIVE]😈📁
 https://bf.jalaplay.net/live/5004993.m3u8?txSecret=e2e8739540c7b313894a41c3eeecb287&txTime=69b7f91f
+#EXTINF:-1 group-title="📁😈 Turkish First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png",📁😈Corum Belediyespor😈VS😈Erokspor [LIVE]😈📁
+https://bf.jalaplay.net/live/5004991.m3u8?txSecret=2ba3fd499700147e607d2bcf92779c6b&txTime=69b7fadc
+#EXTINF:-1 group-title="📁😈 Turkish First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png",📁😈Corum Belediyespor😈VS😈Erokspor [LIVE]😈📁
+https://bf.jalaplay.net/live/5004980.m3u8?txSecret=49bb92c4ddc763024768373b9026ccd2&txTime=69b7f81a
