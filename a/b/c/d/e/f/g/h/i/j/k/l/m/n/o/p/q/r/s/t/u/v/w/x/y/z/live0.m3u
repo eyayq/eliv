@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-16 04:14:15
-# 🔄 Total Channels: 1569
+# ⏰ Latest Updated: 2026-03-16 04:19:37
+# 🔄 Total Channels: 1522
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -46,9 +46,6 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" group-title="Live Event: Colalive",09:00 16/03 Sacramento Kings vs Utah Jazz Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/82054853.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT: MANUAL",23:30 WIB - 15 MARET 2026 Liverpool vs Tottenham Hotspur
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -121,54 +118,12 @@ https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d7
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F32720_1h4spc8ka731.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",09:00   16/03 Tigres vs Queretaro  TON LAP flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F581f5474ad820825249c3a1c62993dbc%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   16/03 Crown Legacy FC vs International Miami B Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1773630520.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",11:05   16/03 Lazio vs AC Milan  LEO REPLAY m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5eaae7da53e0d68834deb79d0baeeced/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fad90d0eae5233b06e2704a08636d0fb7%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   16/03 Cruzeiro Esporte Clube vs Clube de Regatas Vasco da Gama Gvision TV
+https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1773630520.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",11:05   16/03 Lazio vs AC Milan  LEO REPLAY flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7df026d2587a9ab4324680d7de2e6cc0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6d2c2ed959a9f1c3cb1f13e461a2b491%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   16/03 Guapore  vs Porto Velho EC Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/36ffd2076a2274a0dc6014593d82afd9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ffbc907c7633e08cbe4cac5a557fae4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   16/03 Cusco FC vs Cienciano Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7695af3bf4b5800ea974a7bc7f30493d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F514a231f06a158d0dcb1060a9a791c1e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   16/03 Houston Dynamo B vs Portland Timbers Reserve Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5a13561b4c86c678347e2eaa53db3cfb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F77418e241ebfd7c4337342f7744a8bbf%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   16/03 Angel City FC Women vs Chicago Red Stars Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ac648cfa8ca9572b1ee9967f135b5c7e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fceadaa02f053d8c9849d150090c11bc1%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   16/03 Red Bull Bragantino vs Sao Paulo Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9938669127fcfcaed59ae536ddd430a8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fccac2a8a090ca3ac64005cbbbe12af83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   16/03 Nublense vs Deportes La Serena Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/cddbcc01f664fec043e5789df451646c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe3747b3a27abc05d5af993330788b5f5%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",08:00   16/03 Club Atletico Union vs Boca Juniors Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9df27ca722d65b822d36a3d42dfba6ec/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4cf4e00cfce887d205e304fb15bcb0bc%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   16/03 Sportivo Ameliano vs Club Guarani Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9705600e3af359a420f8ab43ec123cc7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7fb6a397cc91742809e7a94f0a77774f%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   16/03 SV Robinhood vs SV Flora Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2c6d4f7d757e396dab6e5e02d81c817a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa35f3469c95ff4e3e66c4cdb31d15863%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:45   16/03 Centro Social Dep Barber vs Jong Holland Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9056eef07bc076e58dedfd2456003e3f/playlist.m3u8
+https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a959338f7907e145915b3a4c7a5a423%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",05:45   16/03 River Plate vs Sarmiento Junin Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -261,6 +216,54 @@ https://live.alilicloud.com/live/30f90280d06dcf2b0a55f6f31f850ace/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/7f002353f0b7d15e59218c2dafa3425b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F581f5474ad820825249c3a1c62993dbc%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   16/03 Crown Legacy FC vs International Miami B Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5eaae7da53e0d68834deb79d0baeeced/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fad90d0eae5233b06e2704a08636d0fb7%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   16/03 Cruzeiro Esporte Clube vs Clube de Regatas Vasco da Gama Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7df026d2587a9ab4324680d7de2e6cc0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6d2c2ed959a9f1c3cb1f13e461a2b491%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   16/03 Guapore  vs Porto Velho EC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/36ffd2076a2274a0dc6014593d82afd9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ffbc907c7633e08cbe4cac5a557fae4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   16/03 Cusco FC vs Cienciano Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7695af3bf4b5800ea974a7bc7f30493d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F514a231f06a158d0dcb1060a9a791c1e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   16/03 Houston Dynamo B vs Portland Timbers Reserve Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5a13561b4c86c678347e2eaa53db3cfb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F77418e241ebfd7c4337342f7744a8bbf%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   16/03 Angel City FC Women vs Chicago Red Stars Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ac648cfa8ca9572b1ee9967f135b5c7e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fceadaa02f053d8c9849d150090c11bc1%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   16/03 Red Bull Bragantino vs Sao Paulo Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9938669127fcfcaed59ae536ddd430a8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fccac2a8a090ca3ac64005cbbbe12af83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   16/03 Nublense vs Deportes La Serena Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/cddbcc01f664fec043e5789df451646c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe3747b3a27abc05d5af993330788b5f5%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",08:00   16/03 Club Atletico Union vs Boca Juniors Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9df27ca722d65b822d36a3d42dfba6ec/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4cf4e00cfce887d205e304fb15bcb0bc%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   16/03 Sportivo Ameliano vs Club Guarani Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9705600e3af359a420f8ab43ec123cc7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7fb6a397cc91742809e7a94f0a77774f%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   16/03 SV Robinhood vs SV Flora Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/2c6d4f7d757e396dab6e5e02d81c817a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa35f3469c95ff4e3e66c4cdb31d15863%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:45   16/03 Centro Social Dep Barber vs Jong Holland Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9056eef07bc076e58dedfd2456003e3f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_143658_d4ce8b72.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",09:00   16/03 Tigres UANL W vs Queretaro W HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -345,10 +348,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe3747b3a27abc05d5af993330788b5f5%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",08:00   16/03 Club Atletico Union vs Boca Juniors Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/9df27ca722d65b822d36a3d42dfba6ec/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1eecd0a1322d1748c5c4e2b0cb477804%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:30   16/03 Austin FC II vs North Texas SC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -373,54 +372,10 @@ https://live.alilicloud.com/live/9ee884b923b8147534051a369bf8919f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/30f90280d06dcf2b0a55f6f31f850ace/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga MX Femenil] 09:00 16/03 Tigres UANL W vs Queretaro W [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga MX Femenil] 09:00 16/03 Tigres UANL W vs Queretaro W [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga MX Femenil] 09:00 16/03 Tigres UANL W vs Queretaro W [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: socolive",09:00 ngay 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773636818-0-0-07f466b69caa62c06ead4d7d027b59d5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: socolive",09:00 ngay 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773636818-0-0-489000a9162ac97220bd8e701d267780
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: socolive",09:00 ngay 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773636818-0-0-bd391c2745c9cfcc143fb7749f478c33
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: socolive",09:00 ngay 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773636818-0-0-446cec7d8f72c867cc001a16b50f129c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: socolive",09:00 ngay 16/03 Sacramento Kings vs Utah Jazz [HUNTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773636818-0-0-8d979dd36952d00fccd858b7f6415739
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: socolive",09:00 ngay 16/03 Sacramento Kings vs Utah Jazz [HUNTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773636818-0-0-d51689253e864ebcaa8705665330c21e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: socolive",09:00 ngay 16/03 Sacramento Kings vs Utah Jazz [HUNTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773636818-0-0-fe5cf9c8919138eac32ca0799c32f472
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: socolive",09:00 ngay 16/03 Sacramento Kings vs Utah Jazz [HUNTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773636818-0-0-301dcfd467c4879aa2b82948414e2def
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773636818-0-0-eec3373b22416904b7984ceed6650668
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773636818-0-0-f449d253807acd4c796ecdcc875189ce
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773636818-0-0-2ecaf6db1a9c2b989274bea5fd715773
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773636818-0-0-950d6cd2ff5f661b74faf57066897dc0
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe3747b3a27abc05d5af993330788b5f5%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",08:00   16/03 Club Atletico Union vs Boca Juniors Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/9df27ca722d65b822d36a3d42dfba6ec/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: socolive",09:00 ngay 16/03 Sacramento Kings vs Utah Jazz [CHAN SENA] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1773637178-0-0-d985b6edcdc06baa3d676876d91feb4a
@@ -529,6 +484,42 @@ https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1773637538-0-0-c455
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png" group-title="Live Event: socolive",Tuong thuat: ENG PR - Nottingham Forest vs Fulham [Soc dau co vai gay] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1773637538-0-0-e881e2df3017225d7d57606c8adca0b4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: socolive",09:00 ngay 16/03 Sacramento Kings vs Utah Jazz [HUNTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773637898-0-0-542dbf32985616b3ca316145109e2047
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: socolive",09:00 ngay 16/03 Sacramento Kings vs Utah Jazz [HUNTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773637898-0-0-b117d06118a2b367086a996077467384
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: socolive",09:00 ngay 16/03 Sacramento Kings vs Utah Jazz [HUNTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773637898-0-0-d4935bd5e4a37c57da5ad5436721f07a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: socolive",09:00 ngay 16/03 Sacramento Kings vs Utah Jazz [HUNTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773637898-0-0-218772bc5a6e63bde0f3851a916648a3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: socolive",09:00 ngay 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773637898-0-0-feff7cf3dbe1180f8fd2132108038d0a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: socolive",09:00 ngay 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773637898-0-0-7410874c54a75718f22087397125c019
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: socolive",09:00 ngay 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773637898-0-0-37ba8d6134b6516d04911f4f47f190e8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: socolive",09:00 ngay 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773637898-0-0-991a701fa6e5e8b3d97001a2d7c1a406
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773637898-0-0-2404b0e31c5b8c99ee696dafdfef9c8f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1773637898-0-0-753ef8ac4815983c667c728c709574f0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773637898-0-0-ef40dfa880d056ce898cc12f719c2a5f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/601a105b579fc4922c541bd425530ca4.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773637898-0-0-65e0b328988bea2a0e7b2a6ff321e390
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/rNy30FAr-UPll9Lyj.png" group-title="Live Event: Hội quán",09:00 16/03 Sacramento Kings vs Utah Jazz FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1181,48 +1172,6 @@ https://mainstreams.pro/hls/griogoehvn2.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://daffodil.shadow-ran.online/one.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1171_1gv1yk239r2a.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C (Luong Son) BLV KAKA flv
-https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1171_1gv1yk239r2a.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C (Luong Son) BLV KAKA m3u
-https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1171_1gv1yk239r2a.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C (Luong Son) BLV VO TONG flv
-https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1171_1gv1yk239r2a.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C (Luong Son) BLV VO TONG m3u
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [BLV NIBO] (Socolive) flv
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1773634298-0-0-50817ef83aaddc1d613e748c0813cf34
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [BLV NIBO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1773634298-0-0-3610fe04849ec0b619acde7c94236f1a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [BLV NIBO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1773634298-0-0-b2951407c22d6829850032f6c92be27b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [BLV NIBO] (Socolive) m3u8
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1773634298-0-0-54edda37b6c63116e85e39aa6d09d351
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [BLV SATIVA] (Socolive) flv
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1773634298-0-0-a7bcaeb1ba8dddf5bd5c137e79c202a8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [BLV SATIVA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1773634298-0-0-bc6f36e60c627aad3da9ab40d86554f0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [BLV SATIVA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1773634298-0-0-111aa5ccf46f96e9b8bbe8fc68613c15
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [BLV SATIVA] (Socolive) m3u8
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1773634298-0-0-3a87b66ddbacedc14b36ddc68cdc388a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [VENDETTA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1773633938-0-0-4baabd496c98b94ab508b217ee04e3da
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [VENDETTA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1773633938-0-0-b90d8f561c8329787e77df63de1b595b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [VENDETTA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1773633938-0-0-ace75be77980098d1560bc30f7aafc82
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [VENDETTA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1773633938-0-0-898771a720c60fbde9ef7b81603adb83
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [XUAN SON] (Socolive) flv
-https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1773634298-0-0-f7e4b4f5e9410594496c7f72392b8b86
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [XUAN SON] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1773634298-0-0-92c7af4215772e9b581928e2d4812dc6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [XUAN SON] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1773634298-0-0-d49d4ed9a0c703ffc8f976c6b55720b3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/42ef4e12718919c14266ba8470d27723.png" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Atletico Junior Barranquilla vs Fortaleza F.C [XUAN SON] (Socolive) m3u8
-https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1773634298-0-0-b285b234ea161e15666b72aacac39e35
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/15680_20130921173052.gif" group-title="Live Event: Cadangan",08:30 Gvision TV 16/03 Vancouver Whitecaps Reserve vs MINNESOTA United B (Luong Son) NHA DAI m3u
-https://auto.cdnok9.com/live/sd-6MwcqKN5qAnx1RW62G/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80" group-title="Live Event: Cadangan",09:00 16/03 Sacramento Kings vs Utah Jazz
 https://live5.msrktz.app/live/82054853.m3u8
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/rNy30FAr-UPll9Lyj.png" group-title="Live Event: Cadangan",09:00 16/03 Sacramento Kings vs Utah Jazz (Hoi Quan) FHD
@@ -1232,93 +1181,45 @@ https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/rNy30FAr-UPll9Lyj.png" group-title="Live Event: Cadangan",09:00 16/03 Sacramento Kings vs Utah Jazz (Hoi Quan) SD
 https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [A CHE] (Socolive) flv
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773634298-0-0-39b363be289c91f040011a6e4903f9de
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773636458-0-0-d5b077111dc2e0e38ea1861a5784f226
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [A CHE] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773634298-0-0-1c533d7bd5443bf0f2e912e4dc422335
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773636458-0-0-d901ab0970ad4b48061997b971a8ffd3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [A CHE] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773634298-0-0-2422c664cbf2c8c05117126e978b5a20
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773636458-0-0-2116a4cd0f4b6aae7f360fb7c46ab3c9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [A CHE] (Socolive) m3u8
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773634298-0-0-30fc441c7db6e97f0b3b0ebfef52e2c3
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773636458-0-0-ae907308fb7d2c1b665ed031caef72c9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [BLV HENRY] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1773634298-0-0-51245d74bb368d04ad373b8ef9f448c4
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1773636458-0-0-882a4663b3e6b53dab0b74571dc543d0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [BLV HENRY] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1773634298-0-0-f1519ca9b9dbbfad508c90a12e7d0af8
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1773636458-0-0-5fea9acc0cb53c6d6e9446ce02dfe02c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [BLV HENRY] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773634298-0-0-0def3869b027eaf6f8f8212d08b19326
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1773636458-0-0-7f4fd86f56d60aa23eafc78af2056618
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [BLV HENRY] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773634298-0-0-bb06a145d06f11154d34e44827f3af99
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1773636458-0-0-ff7fed42346479559550784f1f813967
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [CHAN SENA] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1773633938-0-0-215eed47e179849fe6120bdedc524390
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1773637178-0-0-d985b6edcdc06baa3d676876d91feb4a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [CHAN SENA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1773633938-0-0-0c9b80bc3ed1d82893e7646bf484301c
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1773637178-0-0-924757a4db53245efc60260e6b4892c7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [CHAN SENA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1773633938-0-0-6c9a9af4dc97085353ee333e7391684b
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1773637178-0-0-18a3e1391e526e4bfa80a179a4991dbd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [CHAN SENA] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1773633938-0-0-c8ffd4f1e77b71701fa6638c4596064f
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1773637178-0-0-405aa424bf850334326ee184f736bfd6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [HUNTER] (Socolive) flv
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773634658-0-0-9a675b7f529d14c5d75e4cac38aef2b2
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773636818-0-0-8d979dd36952d00fccd858b7f6415739
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [HUNTER] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773634658-0-0-7960ef0d03b358790d8f7d9770e4bf9d
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773636818-0-0-d51689253e864ebcaa8705665330c21e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [HUNTER] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773634658-0-0-29445c7b21732d11cfdca1498fce9234
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773636818-0-0-301dcfd467c4879aa2b82948414e2def
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/875203af1f59a0bf7af224ef367fb730.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Sacramento Kings vs Utah Jazz [HUNTER] (Socolive) m3u8
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773634658-0-0-d8ca2bc8ef4b8a58ec02cc03677d0e35
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/32720_1:4spc8ka731.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres (W) vs Queretaro (W) (Luong Son) BLV KENCHU flv
-https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/32720_1:4spc8ka731.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres (W) vs Queretaro (W) (Luong Son) BLV KENCHU m3u
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/32720_1:4spc8ka731.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres (W) vs Queretaro (W) (Luong Son) BLV TON LAP flv
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/32720_1:4spc8ka731.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres (W) vs Queretaro (W) (Luong Son) BLV TON LAP m3u
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV A BEU] (Socolive) flv
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1773634298-0-0-e7667873b4b2ed300ff42b1aa5ca4d20
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV A BEU] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1773634298-0-0-a3b8498c56751d35e4ef3c57b348a6f5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV A BEU] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1773634298-0-0-928851e29c5c76763c3c85ba1e65a76f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV A BEU] (Socolive) m3u8
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1773634298-0-0-44697b60a5df2b48d73f54ed3be49f07
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV COCA] (Socolive) flv
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1773634298-0-0-a6eee98f7dde3a5c5b74dbc5e6679fc2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV COCA] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1773634298-0-0-1ee11c19256197188160fb2f147ab9be
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV COCA] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1773634298-0-0-58971c6ef2bfd268a5aafef286c7e935
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV COCA] (Socolive) m3u8
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1773634298-0-0-248eb25a84c6f9c1d6107adb883a4279
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV FIREMAN] (Socolive) flv
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1773634658-0-0-e5f4b3bce25364647cd0ca9340ae8e42
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV FIREMAN] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1773634658-0-0-839844d40567878bd58e515850f061cf
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV FIREMAN] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1773634658-0-0-7c144db0807d0076a9838887a33f58cb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV FIREMAN] (Socolive) m3u8
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1773634658-0-0-e9e18910738a0a36f58b70d20e33d7af
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV PIRLO] (Socolive) flv
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1773634298-0-0-f405939513c231a812a406b812518a8c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV PIRLO] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1773634298-0-0-7460f278b1caecebfd1ab7749eb26090
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV PIRLO] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1773634298-0-0-f27c028d1c7493d073e280a950280a5d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV PIRLO] (Socolive) m3u8
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1773634298-0-0-a9cd6c1a38b979fad902e9b876363dbc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV TAP] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1773634658-0-0-634d61967f0bb736fce15b838a1d38c8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV TAP] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1773634658-0-0-5c9c1f6e539bccc793ea14b8c9804f5b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV TAP] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1773634658-0-0-51449408b6529f448f5bc00a7351763a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [BLV TAP] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1773634658-0-0-6bd7111437b69f30f1e3752014920f9c
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773636818-0-0-fe5cf9c8919138eac32ca0799c32f472
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] (Socolive) flv
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773634658-0-0-5273a44055bfa3995f05015fb7cbe89f
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773636818-0-0-07f466b69caa62c06ead4d7d027b59d5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] (Socolive) hdFlv
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773634658-0-0-4770eabc284d9d38339fc74ac291d356
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773636818-0-0-489000a9162ac97220bd8e701d267780
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] (Socolive) hdM3u8
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773634658-0-0-acc1ce9fcbc18ad372aca65319d0b33d
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773636818-0-0-446cec7d8f72c867cc001a16b50f129c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260312/56364b73bf9c47cc73f16e79e28da06d.png" group-title="Live Event: Cadangan",09:00 Gvision TV 16/03 Tigres Women vs Queretaro Women [TA BIEN GIOI] (Socolive) m3u8
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773634658-0-0-c022c5dff6d82df281091000d9c0f020
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773636818-0-0-bd391c2745c9cfcc143fb7749f478c33
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+) (Kadang Offline)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
