@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Mon Mar 16 23:38:45 2026
+# Generated Mon Mar 16 23:44:05 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 06:38:34 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 06:43:52 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Argentine Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png",📁😈Racing Club de Avellaneda😈VS😈Estudiantes Rio Cuarto [LIVE]😈📁
 https://bf.jalaplay.net/live/5004997.m3u8?txSecret=dadb98c47b764323e9f15f8988e9ad84&txTime=69b887b8
