@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-17 22:01:33
-# 🔄 Total Channels: 1730
+# ⏰ Latest Updated: 2026-03-17 22:03:03
+# 🔄 Total Channels: 1721
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -46,9 +46,9 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="Live Event: Colalive",03:00 18/03 Manchester City vs Real Madrid CF Gvision TV
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="Live Event: Colalive",05:00 18/03 Lanus vs Newells Old Boys Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/24561735.m3u8
+https://live5.msrktz.app/live/71426314.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016276/1773680124436111_UCL_26_RD16_L2_Man_city_vs_Rreal_madrid_landscape_thumb_sponsor.jpg" group-title="Live Event: Sony LIV",ENG | Man City vs Real Madrid - Round Of 16 - Leg 2 - 18 Mar  (Football) | Gvision TV
 https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21ME-V3/master.m3u8?hdnea=exp=1773811853~acl=/*~id=33583985942987539230909908776114~hmac=936a2a3aed752f9a9d5423741e3ece1d3e02837879ade0d7e1f1feef39ca7b50|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9bff6bc68084f653cb1ae618f2a6ee5e-1773784200121
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016276/1773680124436111_UCL_26_RD16_L2_Man_city_vs_Rreal_madrid_landscape_thumb_sponsor.jpg" group-title="Live Event: Sony LIV",HIN | Man City vs Real Madrid - Round Of 16 - Leg 2 - 18 Mar  (Football) | Gvision TV
@@ -1022,42 +1022,6 @@ https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1773788018-0-0-564
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/b8fcb0c5c89c80ecfb506833ce36ab39.png" group-title="Live Event: socolive",05:00 ngay 18/03 Club Atletico Lanus vs Club Atletico Newell's Old Boys [ LONG] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1773788018-0-0-4093b69fe4192a19e564468a29d4f330
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg" group-title="Live Event: Hội quán",03:00 18/03 Arsenal vs Bayer Leverkusen FHD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg" group-title="Live Event: Hội quán",03:00 18/03 Arsenal vs Bayer Leverkusen HD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg" group-title="Live Event: Hội quán",03:00 18/03 Arsenal vs Bayer Leverkusen SD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png" group-title="Live Event: Hội quán",03:00 18/03 Chelsea vs Paris Saint Germain FHD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png" group-title="Live Event: Hội quán",03:00 18/03 Chelsea vs Paris Saint Germain HD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png" group-title="Live Event: Hội quán",03:00 18/03 Chelsea vs Paris Saint Germain SD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg" group-title="Live Event: Hội quán",03:00 18/03 Manchester City vs Real Madrid FHD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg" group-title="Live Event: Hội quán",03:00 18/03 Manchester City vs Real Madrid HD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg" group-title="Live Event: Hội quán",03:00 18/03 Manchester City vs Real Madrid SD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png" group-title="Live Event: Hội quán",03:00 18/03 Chelsea vs Paris Saint Germain FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
