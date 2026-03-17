@@ -1,25 +1,25 @@
 #EXTM3U
-# Generated Tue Mar 17 11:36:08 2026
+# Generated Tue Mar 17 11:41:48 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 18:35:56 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 18:41:31 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 AFC Women’s Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png",📁😈China Women😈VS😈Australia Women [LIVE]😈📁
-https://bf.jalaplay.net/live/5005074.m3u8?txSecret=5c7cce99d1d41506594c725d48048ff4&txTime=69b930a4
-#EXTINF:-1 group-title="📁😈 AFC Women’s Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png",📁😈China Women😈VS😈Australia Women [LIVE]😈📁
-https://bf.jalaplay.net/live/5004438.m3u8?txSecret=64baf903aa21620b9fc56f146a1eec62&txTime=69b92eb5
+https://bf.jalaplay.net/live/5005017.m3u8?txSecret=9afc051e587ec88a80f919681c35c713&txTime=69b93c64
 #EXTINF:-1 group-title="📁😈 AFC Women’s Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png",📁😈China Women😈VS😈Australia Women [LIVE]😈📁
 https://bf.jalaplay.net/live/322675.m3u8?txSecret=0f026471476b4b688c13c48c90356bf9&txTime=69b93c46
 #EXTINF:-1 group-title="📁😈 AFC Women’s Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png",📁😈China Women😈VS😈Australia Women [LIVE]😈📁
-https://bf.jalaplay.net/live/5005017.m3u8?txSecret=9afc051e587ec88a80f919681c35c713&txTime=69b93c64
+https://bf.jalaplay.net/live/5004438.m3u8?txSecret=c116cc24c7453b4c8b9ef5a64ee21008&txTime=69b93cc6
+#EXTINF:-1 group-title="📁😈 AFC Women’s Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b4ea89450fe5c3fbe083b8e0665e9d78.png",📁😈China Women😈VS😈Australia Women [LIVE]😈📁
+https://bf.jalaplay.net/live/5005074.m3u8?txSecret=5c7cce99d1d41506594c725d48048ff4&txTime=69b930a4
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Gimcheon Sangmu Football Club😈VS😈Gwangju Football Club [LIVE]😈📁
-https://bf.jalaplay.net/live/5004423.m3u8?txSecret=f5ed20554e1818764f0ddc495a034bdc&txTime=69b93a38
+https://bf.jalaplay.net/live/5005016.m3u8?txSecret=768ffed531861a6a2f0c2bd39302d75a&txTime=69b93d84
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Gimcheon Sangmu Football Club😈VS😈Gwangju Football Club [LIVE]😈📁
 https://bf.jalaplay.net/live/5005093.m3u8?txSecret=7e31d1445d7efd3fc0a0a37c36679411&txTime=69b9365f
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Gimcheon Sangmu Football Club😈VS😈Gwangju Football Club [LIVE]😈📁
-https://bf.jalaplay.net/live/5005016.m3u8?txSecret=9a1ffcd6043ba8883e4ed6b505a0fa80&txTime=69b92f71
-#EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Gimcheon Sangmu Football Club😈VS😈Gwangju Football Club [LIVE]😈📁
 https://bf.jalaplay.net/live/322707.m3u8?txSecret=ebc57601dbfd9a15e1cc3da00179e2b6&txTime=69b9397e
+#EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Gimcheon Sangmu Football Club😈VS😈Gwangju Football Club [LIVE]😈📁
+https://bf.jalaplay.net/live/5004423.m3u8?txSecret=f5ed20554e1818764f0ddc495a034bdc&txTime=69b93a38
 #EXTINF:-1 group-title="📁😈 Portuguese U23 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png",📁😈Torreense U23😈VS😈Santa Clara U23 [LIVE]😈📁
 https://bf.jalaplay.net/live/5005004.m3u8?txSecret=c2753eb860c0a10a45d6c761e48de2b5&txTime=69b93b0b
-#EXTINF:-1 group-title="📁😈 Kazakhstan Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/db5bd04b2bd768144487ef32a4d482e5.png",📁😈FK Kaspyi Aktau😈VS😈Okzhetpes [24m]😈📁
+#EXTINF:-1 group-title="📁😈 Kazakhstan Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/db5bd04b2bd768144487ef32a4d482e5.png",📁😈FK Kaspyi Aktau😈VS😈Okzhetpes [18m]😈📁
 https://bf.jalaplay.net/live/322673.m3u8?txSecret=1520e56c67bd524e5d56bcd7545b2c8a&txTime=69b934d7
