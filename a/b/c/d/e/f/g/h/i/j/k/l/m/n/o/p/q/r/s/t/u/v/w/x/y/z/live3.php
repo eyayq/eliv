@@ -1,19 +1,19 @@
 #EXTM3U
-# Generated Tue Mar 17 13:27:27 2026
+# Generated Tue Mar 17 13:38:56 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 20:27:16 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 20:38:40 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Kazakhstan Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/db5bd04b2bd768144487ef32a4d482e5.png",📁😈FK Kaspyi Aktau😈VS😈Okzhetpes [LIVE]😈📁
 https://bf.jalaplay.net/live/322673.m3u8?txSecret=7df8112e8f7430f01cc6316606bd4ab7&txTime=69b950fa
 #EXTINF:-1 group-title="📁😈 UEFA Youth League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",📁😈Atletico de Madrid U19😈VS😈Club Brugge U19 [LIVE]😈📁
-https://bf.jalaplay.net/live/5004993.m3u8?txSecret=2f2ffb69a6d5ce34461ece7a485e7d3a&txTime=69b94a28
+https://bf.jalaplay.net/live/322720.m3u8?txSecret=8ec4b758dcd74a71b913dc8e975cbccb&txTime=69b9583d
+#EXTINF:-1 group-title="📁😈 UEFA Youth League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",📁😈Atletico de Madrid U19😈VS😈Club Brugge U19 [LIVE]😈📁
+https://bf.jalaplay.net/live/5004994.m3u8?txSecret=9dcf136409b3964a4b52298599e22f74&txTime=69b957ec
+#EXTINF:-1 group-title="📁😈 UEFA Youth League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",📁😈Atletico de Madrid U19😈VS😈Club Brugge U19 [LIVE]😈📁
+https://bf.jalaplay.net/live/5004980.m3u8?txSecret=c6e29902faa9dba38c93dbea3d221926&txTime=69b955d8
 #EXTINF:-1 group-title="📁😈 UEFA Youth League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",📁😈Atletico de Madrid U19😈VS😈Club Brugge U19 [LIVE]😈📁
 https://bf.jalaplay.net/live/5004470.m3u8?txSecret=83e152b61941131e5cb8c2bdae2fed75&txTime=69b95164
 #EXTINF:-1 group-title="📁😈 UEFA Youth League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",📁😈Atletico de Madrid U19😈VS😈Club Brugge U19 [LIVE]😈📁
-https://bf.jalaplay.net/live/5004991.m3u8?txSecret=add83c3ec3f7026e952011e6ef109d5d&txTime=69b94b22
+https://bf.jalaplay.net/live/5004993.m3u8?txSecret=dd37f98a5f26ff537380229c58eb5fa4&txTime=69b95838
 #EXTINF:-1 group-title="📁😈 UEFA Youth League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",📁😈Atletico de Madrid U19😈VS😈Club Brugge U19 [LIVE]😈📁
-https://bf.jalaplay.net/live/322720.m3u8?txSecret=97c9bd191105e42f740ab913fe383108&txTime=69b94a2d
-#EXTINF:-1 group-title="📁😈 UEFA Youth League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",📁😈Atletico de Madrid U19😈VS😈Club Brugge U19 [LIVE]😈📁
-https://bf.jalaplay.net/live/5004994.m3u8?txSecret=2aeef4b61392335ac16ff264eeaefa63&txTime=69b949db
-#EXTINF:-1 group-title="📁😈 UEFA Youth League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",📁😈Atletico de Madrid U19😈VS😈Club Brugge U19 [LIVE]😈📁
-https://bf.jalaplay.net/live/5004980.m3u8?txSecret=c6e29902faa9dba38c93dbea3d221926&txTime=69b955d8
+https://bf.jalaplay.net/live/5004991.m3u8?txSecret=bde37840dfc85f05f4227cccb488fa22&txTime=69b95932
