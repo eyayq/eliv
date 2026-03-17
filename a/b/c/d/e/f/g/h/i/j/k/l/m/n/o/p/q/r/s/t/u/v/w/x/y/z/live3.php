@@ -1,15 +1,15 @@
 #EXTM3U
-# Generated Tue Mar 17 03:43:42 2026
+# Generated Tue Mar 17 03:49:13 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 10:43:33 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 10:49:02 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX Femenil 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6350b03022c4e5344c808657c3282bb.png",📁😈Club America Women😈VS😈Toluca Women [LIVE]😈📁
 https://bf.jalaplay.net/live/322572.m3u8?txSecret=7ba6b40d1a00b0a3356f8ee1f52cc610&txTime=69b8c5e5
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX Femenil 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6350b03022c4e5344c808657c3282bb.png",📁😈Leon Women😈VS😈Mazatlan FC Women [LIVE]😈📁
-https://bf.jalaplay.net/live/5005017.m3u8?txSecret=3169304949162a7e75270aaafe128fe9&txTime=69b8cd7c
+https://bf.jalaplay.net/live/322723.m3u8?txSecret=3c63bb3fcdc6ca75c887e3dee219b499&txTime=69b8cc9a
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX Femenil 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6350b03022c4e5344c808657c3282bb.png",📁😈Leon Women😈VS😈Mazatlan FC Women [LIVE]😈📁
 https://bf.jalaplay.net/live/5005035.m3u8?txSecret=445c090dfc7f217c250491090967487f&txTime=69b8c583
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX Femenil 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6350b03022c4e5344c808657c3282bb.png",📁😈Leon Women😈VS😈Mazatlan FC Women [LIVE]😈📁
-https://bf.jalaplay.net/live/322723.m3u8?txSecret=3c63bb3fcdc6ca75c887e3dee219b499&txTime=69b8cc9a
+https://bf.jalaplay.net/live/5005017.m3u8?txSecret=3169304949162a7e75270aaafe128fe9&txTime=69b8cd7c
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX Femenil 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6350b03022c4e5344c808657c3282bb.png",📁😈Leon Women😈VS😈Mazatlan FC Women [LIVE]😈📁
 https://bf.jalaplay.net/live/5004449.m3u8?txSecret=2b24576b4288c9e8ca2399dd788991dc&txTime=69b8ccec
