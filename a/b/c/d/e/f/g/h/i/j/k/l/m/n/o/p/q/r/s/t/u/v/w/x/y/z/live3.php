@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Tue Mar 17 01:28:02 2026
+# Generated Tue Mar 17 01:33:33 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 08:27:48 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 08:33:19 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 CHI Liga de Primera 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fee37a97f3d0e08209e4846fcff45cba.png",📁😈Colo Colo😈VS😈Huachipato [LIVE]😈📁
 https://bf.jalaplay.net/live/5004426.m3u8?txSecret=a637365e16d5cb2cee98e95971b63819&txTime=69b8a817
