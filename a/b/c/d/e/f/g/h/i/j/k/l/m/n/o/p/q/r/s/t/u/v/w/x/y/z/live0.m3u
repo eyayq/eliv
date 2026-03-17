@@ -1,5 +1,5 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-17 09:31:08
+# ⏰ Latest Updated: 2026-03-17 09:37:05
 # 🔄 Total Channels: 1465
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
@@ -53,7 +53,7 @@ https://live5.msrktz.app/live/97312754.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/90865415.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016263/1773666401317489_NZ_vs_SA_2nd_T20I_landscape_thumb.jpg" group-title="Live Event: Sony LIV",ENG | 2nd T20I - 17 Mar  (Cricket) | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1773772204~acl=/*~id=2a039e99eb135597c8d50ca5ebb62949-1773729000104~hmac=04154674e5fcf1942344ec21c3d80f79b1e33970772fdf7c6a687d17432848a0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b21138579b6132bcd56a74254c0c766d-1773737400125
+https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1773772204~acl=/*~id=2a039e99eb135597c8d50ca5ebb62949-1773729000104~hmac=04154674e5fcf1942344ec21c3d80f79b1e33970772fdf7c6a687d17432848a0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=3ee942e54b82ee2f038ced87f3edb092-1773739800130
 #EXTINF:-1 tvg-logo="https://shorter.me/ii84S" group-title="LIVE EVENT: MANUAL",00:45 WIB - 18 MARET 2026 Sporting CP vs Bodo / Glimt
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -299,90 +299,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [TA BIEN GIOI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773742298-0-0-4f0044f397533cf30eb560a4fe386171
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [TA BIEN GIOI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773742298-0-0-7ef9ad95c7d106c9be7fc7647b72a47d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [TA BIEN GIOI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773742298-0-0-f6b0f702ecf7adcc0fd8c65589ebeb9f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [TA BIEN GIOI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773742298-0-0-0af241e139c0158b737bd0c66e29387a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [HAI THANH] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1773742298-0-0-e4b748745e7aab6e2f8533af9b7bdc5e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [HAI THANH] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1773742298-0-0-bd39bcd84c97f0961939ca57c4714c71
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [HAI THANH] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1773742298-0-0-fa06b93623e4042237fe6fba249babc1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [HAI THANH] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1773742298-0-0-43960502a77a84a4d97a50f313acd183
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [HUNTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773742298-0-0-1d0078ed5c871f723d29ea343b63e705
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [HUNTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773742298-0-0-5b9246102a74aec351d0330197686a0b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [HUNTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773742298-0-0-e52f11e6ac2c61ced8a749c0097b2652
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [HUNTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773742298-0-0-7351a3adfe160a7781404355d1d52ec2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [KING] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1773742298-0-0-a702856d2d4f4a81792976f75aa8e9b9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [KING] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1773742298-0-0-7fd2bab66a29e5f5561bb79b332b6b8b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [KING] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1773742298-0-0-2dff0dde111f0e82a9c1e617fa2f4534
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [KING] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1773742298-0-0-f6f498871a77bfe3944d7ba5ca7bbba9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ COCA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1773742298-0-0-a956623cc8f3257ffe7351e5254a6683
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ COCA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1773742298-0-0-c855af0127fa4d0e8889df81eda8a43e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ COCA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1773742298-0-0-896225e966ed950cf9e355c1c67e2ab3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ COCA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1773742298-0-0-6f55b62f378e14f1616a9b55ccf7ebd9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [XUAN SON] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1773742298-0-0-22f94b22e297e80a5607e28a02c3978f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [XUAN SON] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1773742298-0-0-73f0b4608ea60437f1e7f9938fc7d60f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [XUAN SON] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1773742298-0-0-daedf27cd655a5320c1fbf33dc31ea67
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [XUAN SON] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1773742298-0-0-238d26f0c70ff5668e97cb14ce578326
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [ LIO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1773742298-0-0-48e6c5931ae722986ecd7bc087d07c34
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [ LIO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1773742298-0-0-5a2b1ba767d7d99e2ea3afcc14599f0e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [ LIO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1773742298-0-0-f19d613392abc3abc2639ab89347a372
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [ LIO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1773742298-0-0-18efcf50253c3e86740140c92665f806
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/cb61c311357b4ec124d8192fa49db5b9.png" group-title="Live Event: socolive",15:30 ngay 17/03 Adelaide vs South East Melbourne [BRIAN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1773742658-0-0-0802f7f4e3c6cd2e3b614d83b492dce4
@@ -527,6 +443,90 @@ https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=9bde9a7282ed6409c4c4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/d1a795137fb64473112c58ad88e26840.png" group-title="Live Event: socolive",16:30 ngay 17/03 Mahar United vs Ayeyawady united [ KAN] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=ab9139e278a28117e422b265f381b028&txTime=69b971fa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [KING] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1773743378-0-0-e25b992d68531386fdab7a30910435e0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [KING] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1773743378-0-0-680e67d93144add628c27dcaf2637aad
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [KING] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1773743378-0-0-1de1a944eeea0297fd547c16fb526ab6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [KING] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1773743378-0-0-876c88a7730f37c649e644f5eca5c952
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [HAI THANH] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1773743378-0-0-7dba8fec34cf6f7f155d32975d4a7bfd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [HAI THANH] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1773743378-0-0-39c5f64f44592353e3236c24311a8fa1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [HAI THANH] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1773743378-0-0-5758e19c3edf0383f7d3a63bb183f1df
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [HAI THANH] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1773743378-0-0-a836b1de66efc8a3d4371565fad294bc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [HUNTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773743378-0-0-8fa6df361d4e19d85bff8230de9f2fc9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [HUNTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1773743378-0-0-2153d40f382dea41ad90406b5b847ba2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [HUNTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1773743378-0-0-15d58ac2737896bf3e3ff45d4516a474
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/bcdaabf2182fd8e33aef04897eeefa58.png" group-title="Live Event: socolive",15:30 ngay 17/03 Belgium W vs Czech Republic W [HUNTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1773743378-0-0-fe5255cac036317c38400f35c68ca420
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ COCA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1773743378-0-0-50a2dc1faa1b52110b36a86bc7706b3e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ COCA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1773743378-0-0-1aa414cb5b5b56c797e4011b91ce436b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ COCA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1773743378-0-0-b5caa82a73a96867f294e746567db6a5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ COCA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1773743378-0-0-b3bfbfe4658dd76e40d923e8771a301f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [TA BIEN GIOI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773743378-0-0-5eb07b98a693c4ac378cf00474266497
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [TA BIEN GIOI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773743378-0-0-40ca0535e47105115f3c8cf0de3ffc7f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [TA BIEN GIOI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773743378-0-0-f64449bfc212d9b5ebb3d4d680ee9fe0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [TA BIEN GIOI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773743378-0-0-c75d4be07a369059668e557f01ddb8d8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [XUAN SON] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1773743378-0-0-c5322ae00939e90f103454d37a003910
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [XUAN SON] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1773743378-0-0-82e9bc00f4cef414a01faaa9f08973fc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [XUAN SON] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1773743378-0-0-848b7fb2be4801ec8462a4d84c86b18d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [XUAN SON] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1773743378-0-0-2ef0c675908ad8f3a7bd14553df97f5e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [ LIO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1773743378-0-0-a589c4daab9a0e3ef802452ee4bcd397
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [ LIO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1773743378-0-0-79a4362fafeff819dc86c55d0cd741e5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [ LIO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1773743378-0-0-3c94eba6506b75d063e56940ae09ca7c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/c798b1af759ca33bf9071b69b09220b6.png" group-title="Live Event: socolive",16:00 ngay 17/03 Yarmanya United FC vs Thitsar Arman FC [ LIO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1773743378-0-0-97b7451a55586da02e4d3773c06a4462
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/943.png" group-title="Live Event: Hội quán",15:00 17/03 Sydney vs Melbourne City FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
