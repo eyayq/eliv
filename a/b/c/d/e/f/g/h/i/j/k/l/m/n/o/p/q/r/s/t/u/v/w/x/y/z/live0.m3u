@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-17 06:45:20
-# 🔄 Total Channels: 1369
+# ⏰ Latest Updated: 2026-03-17 06:51:05
+# 🔄 Total Channels: 1373
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -47,7 +47,7 @@ http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016263/1773666401317489_NZ_vs_SA_2nd_T20I_landscape_thumb.jpg" group-title="Live Event: Sony LIV",ENG | 2nd T20I - 17 Mar  (Cricket) | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1773772204~acl=/*~id=2a039e99eb135597c8d50ca5ebb62949-1773729000104~hmac=04154674e5fcf1942344ec21c3d80f79b1e33970772fdf7c6a687d17432848a0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=160ec1bd0c4549caaa56497bf760fd14-1773729000156
+https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1773772204~acl=/*~id=2a039e99eb135597c8d50ca5ebb62949-1773729000104~hmac=04154674e5fcf1942344ec21c3d80f79b1e33970772fdf7c6a687d17432848a0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1d0b5cbf7c509b707f7e536bd17b64d2-1773730200116
 #EXTINF:-1 tvg-logo="https://g-sports.id/wp-content/uploads/2025/08/Liga-Italia.jpg" group-title="LIVE EVENT: MANUAL",02:45 WIB - 17 MARET 2026 Cremonese vs Fiorentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -88,10 +88,6 @@ https://hls.cdnok9.com/live/TO6A/index.m3u8?expire=1891408380&sign=df6b95775ca8c
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1773723393.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:05   17/03 Lazio vs AC Milan  LEO REPLAY flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TO6A.flv?expire=1891408380&sign=df6b95775ca8cf6b58a17d54271d96e3
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F06941d118ff19a59adeb36a086ade74e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",08:00   17/03 Atlas Women vs Monterrey Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/dc1f5d66ba0b2e70e5b893aba0be3bab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Feac9916f6a1fc224a379a5c273d8cd12%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",08:20   17/03 Deportes Quindio vs Real Soacha Cundinamarca Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -112,6 +108,10 @@ https://live.alilicloud.com/live/21052bcfa620256fc0738455b848bc9e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/91949e77935448fcab755442b3aa2297/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F06941d118ff19a59adeb36a086ade74e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",08:00   17/03 Atlas Women vs Monterrey Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/dc1f5d66ba0b2e70e5b893aba0be3bab/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_130440_53d90f93.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",15:00   17/03 Sydney vs Melbourne City HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -172,18 +172,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/81966aca98b786da65d318c504b8f3fe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [KING] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1773732218-0-0-0e515ecbe22164eeed7437219eb8b864
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [KING] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1773732218-0-0-d91fc7f7d71bd2079ed2e23663400f9d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [KING] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1773732218-0-0-e2c704f10c6718aeb8c47d97ca6a0a4c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [KING] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1773732218-0-0-fc4246783cadfbff83a6ae6841047f07
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [HUNTER] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1773732578-0-0-aafee200bce2dca82eea95a1f7368d28
@@ -244,6 +232,30 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773732938-0-0-3cbb
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773732938-0-0-f5340b649d4224c1ef2a5a32368f8ab6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [KING] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1773733298-0-0-8768723e33f5d0e1868c461103d63cab
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [KING] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1773733298-0-0-883ecf96d29ea3c8fa47d5fae1aef4db
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [KING] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1773733298-0-0-f3d363d8ca3d3cb61500756ae2aa521c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [KING] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1773733298-0-0-31f9cc93bf5282af3f4497df9c38986c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [A CHE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773733298-0-0-4422632d03880a2d32746cc8806681bc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [A CHE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773733298-0-0-b2783d78df305bd5fd427003423de327
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [A CHE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773733298-0-0-7f250f8245392d5031734524c12cc005
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e2078182c9b5886b79c099b17d33eb0d.png" group-title="Live Event: socolive",12:30 ngay 17/03 South Sudan W vs Mali W [A CHE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773733298-0-0-a10d36b4c7824fa7e3fb24de8ada974d
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Argentina Liga Profesional] Instituto vs Independiente Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
