@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Tue Mar 17 02:24:12 2026
+# Generated Tue Mar 17 02:29:42 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 09:23:57 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Tuesday 17-03-2026 09:29:28 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Mexico Liga MX Femenil 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6350b03022c4e5344c808657c3282bb.png",📁😈Atlas Women😈VS😈Monterrey Women [LIVE]😈📁
 https://bf.jalaplay.net/live/5005035.m3u8?txSecret=ea74fb58e9768486ac192cb490827118&txTime=69b8b881
