@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-17 08:47:49
-# 🔄 Total Channels: 1425
+# ⏰ Latest Updated: 2026-03-17 08:55:46
+# 🔄 Total Channels: 1427
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -50,7 +50,7 @@ http://103.66.62.83:8000/play/a00i/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/97312754.m3u8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016263/1773666401317489_NZ_vs_SA_2nd_T20I_landscape_thumb.jpg" group-title="Live Event: Sony LIV",ENG | 2nd T20I - 17 Mar  (Cricket) | Gvision TV
-https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1773772204~acl=/*~id=2a039e99eb135597c8d50ca5ebb62949-1773729000104~hmac=04154674e5fcf1942344ec21c3d80f79b1e33970772fdf7c6a687d17432848a0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=377585094878c5d71f1fc0c013bcc95f-1773736200139
+https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1773772204~acl=/*~id=2a039e99eb135597c8d50ca5ebb62949-1773729000104~hmac=04154674e5fcf1942344ec21c3d80f79b1e33970772fdf7c6a687d17432848a0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b21138579b6132bcd56a74254c0c766d-1773737400125
 #EXTINF:-1 tvg-logo="https://shorter.me/ii84S" group-title="LIVE EVENT: MANUAL",00:45 WIB - 18 MARET 2026 Sporting CP vs Bodo / Glimt
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -92,24 +92,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  LEO m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  LEO flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  LUU BI m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  LUU BI flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  A TUA m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  A TUA flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1773680984.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   17/03 Adelaide vs South East Melbourne  YEN THANH m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -122,6 +104,24 @@ https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f80
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  KEVILL flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  LEO m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  LEO flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  A TUA m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  A TUA flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  LUU BI m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2438_1gq92j83knp.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   17/03 Sydney FC vs Melbourne City  LUU BI flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F645e2dbd7ecc6ffb7bc5efd7e58d1c5c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",10:00   17/03 Leon Women vs Mazatlan FC Women Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -150,6 +150,14 @@ https://gckc0525.edgemaxcdn.org/live/manze.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/manzehd.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2F20260128_085917_5f0c9e44.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",16:00   17/03 Yarmanya United FC vs Thitsar Arman HD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2F20260128_085928_afcd7c99.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",16:30   17/03 Mahar United FC vs Ayeyawady United HD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_142845_d31bb816.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",17:00   17/03 China W vs Australia W HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -238,54 +246,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ TAP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1773739778-0-0-a39af71d905d7c922c0830bff412f8af
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ TAP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1773739778-0-0-9d53463421153d6a3f47b02ba3e3937e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ TAP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1773739778-0-0-82e36235c8538a22e76a68d7a00ac99c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ TAP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1773739778-0-0-716c0a702dd277e620990b518aeb78c0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ DOM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1773739778-0-0-28aaa8a279d743b94234533f8e504677
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ DOM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1773739778-0-0-9a522315781c9d35f468d87548a67a4b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ DOM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1773739778-0-0-6fd5ae7ae18ecf39e71df9f849835c91
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ DOM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1773739778-0-0-d29e19e4135a75947f8f8a8903eb9ffc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/cb61c311357b4ec124d8192fa49db5b9.png" group-title="Live Event: socolive",15:30 ngay 17/03 Adelaide vs South East Melbourne [CHAN SENA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1773739778-0-0-3f4dd25a8df171e4c5f07f15196ec215
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/cb61c311357b4ec124d8192fa49db5b9.png" group-title="Live Event: socolive",15:30 ngay 17/03 Adelaide vs South East Melbourne [CHAN SENA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1773739778-0-0-f32d0ad16b03edef33a0c4d3faf3c4ac
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/cb61c311357b4ec124d8192fa49db5b9.png" group-title="Live Event: socolive",15:30 ngay 17/03 Adelaide vs South East Melbourne [CHAN SENA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1773739778-0-0-c1bc81ae6e02b28fe640990d62ce9add
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/cb61c311357b4ec124d8192fa49db5b9.png" group-title="Live Event: socolive",15:30 ngay 17/03 Adelaide vs South East Melbourne [CHAN SENA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1773739778-0-0-1e2e7c19d093318c274007b9b2ec3b0f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [THACH TU] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=9f8f7999ead03abb42ac39a76bd3c630&txTime=69b96552
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [THACH TU] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=c76cedabaa6a922a7935a7f1ccd9f605&txTime=69b96552
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [THACH TU] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=9f8f7999ead03abb42ac39a76bd3c630&txTime=69b96552
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [THACH TU] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=c76cedabaa6a922a7935a7f1ccd9f605&txTime=69b96552
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [TA BIEN GIOI] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773740138-0-0-5dc20a8b08bab2eb62873cd78a26076d
@@ -406,6 +366,54 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773740498-0-0-5824
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773740498-0-0-5f7325990176f3c4c2afc31563290b8a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ TAP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1773740858-0-0-c766a2bac3e6987e4b2e6d1aafa5b868
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ TAP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1773740858-0-0-fb357a9c23aad3d2ddf41bd6379d3066
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ TAP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1773740858-0-0-2c997c18df53dc29aa9b97f6356ec5b4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ TAP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1773740858-0-0-5a8ca1749f87dc0d858c48b809260a80
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [THACH TU] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=f84da26faee61724dc98f067ed0490d1&txTime=69b9698a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [THACH TU] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=9a76bffaf251fbed03256ddd59ea4f5c&txTime=69b9698a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [THACH TU] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=f84da26faee61724dc98f067ed0490d1&txTime=69b9698a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [THACH TU] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=9a76bffaf251fbed03256ddd59ea4f5c&txTime=69b9698a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ DOM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1773740858-0-0-352dabd39dc2f8fd1c9af7bfe79b4ff2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ DOM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1773740858-0-0-5a591d4c18a627b04ba979301e798601
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ DOM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1773740858-0-0-411a10300d745675e31b89a7bfa9d1d3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/485a983bc9ee14037692792d510a922b.png" group-title="Live Event: socolive",15:00 ngay 17/03 Sydney FC vs Melbourne City [ DOM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1773740858-0-0-4150d8f92479fac122b7734754762ef7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/cb61c311357b4ec124d8192fa49db5b9.png" group-title="Live Event: socolive",15:30 ngay 17/03 Adelaide vs South East Melbourne [CHAN SENA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1773740858-0-0-9e123fcd8bc3a74079fd63539ee281fe
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/cb61c311357b4ec124d8192fa49db5b9.png" group-title="Live Event: socolive",15:30 ngay 17/03 Adelaide vs South East Melbourne [CHAN SENA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1773740858-0-0-7f960a658b5458fd0751fac5d60c9bb1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/cb61c311357b4ec124d8192fa49db5b9.png" group-title="Live Event: socolive",15:30 ngay 17/03 Adelaide vs South East Melbourne [CHAN SENA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1773740858-0-0-ef721d32f73ecf7e6c9e0999563fc901
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/cb61c311357b4ec124d8192fa49db5b9.png" group-title="Live Event: socolive",15:30 ngay 17/03 Adelaide vs South East Melbourne [CHAN SENA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1773740858-0-0-c1140a0262e5139e00e24f3bd1826e7d
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/943.png" group-title="Live Event: Hội quán",15:00 17/03 Sydney vs Melbourne City FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
