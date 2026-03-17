@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-17 13:08:36
-# 🔄 Total Channels: 1579
+# ⏰ Latest Updated: 2026-03-17 13:14:15
+# 🔄 Total Channels: 1580
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -46,9 +46,6 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="Live Event: Colalive",18:00 17/03 Torreense U23 vs Santa Clara U23 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="Live Event: Colalive",18:35 17/03 Guangdong Southern Tigers vs Xinjiang Yilite Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/82054853.m3u8
@@ -58,6 +55,9 @@ https://live5.msrktz.app/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="Live Event: Colalive",19:00 17/03 Kaspij Aktau vs Okzhetpes Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/90865415.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="Live Event: Colalive",20:00 17/03 Atletico de Madrid U19 vs Club Brugge U19 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/41943555.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/ii84S" group-title="LIVE EVENT: MANUAL",00:45 WIB - 18 MARET 2026 Sporting CP vs Bodo / Glimt
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -99,30 +99,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   17/03 Torreense U23 vs Santa Clara U23  MAYBACH m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   17/03 Torreense U23 vs Santa Clara U23  MAYBACH flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   17/03 Torreense U23 vs Santa Clara U23  KENCHU m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   17/03 Torreense U23 vs Santa Clara U23  KENCHU flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12897_1gtn24pfq6n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:00   17/03 FK Kaspyi Aktau vs Okzhetpes  TON LAP m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12897_1gtn24pfq6n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:00   17/03 FK Kaspyi Aktau vs Okzhetpes  TON LAP flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12897_1gtn24pfq6n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:00   17/03 FK Kaspyi Aktau vs Okzhetpes  NGU CA m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12897_1gtn24pfq6n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:00   17/03 FK Kaspyi Aktau vs Okzhetpes  NGU CA flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1773681039.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:30   17/03 China W vs Brazil W  YEN THANH m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -135,14 +111,30 @@ https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   17/03 Torreense U23 vs Santa Clara U23  TAN CA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd503b3b827871d441b072439d857978a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   17/03 Sydney FC vs Melbourne City Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   17/03 Torreense U23 vs Santa Clara U23  KENCHU m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/888b87b041a4abfdf182b060fdcbb3f7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2Fed27fe007c1b9d74574a9cee4d55b59e%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   17/03 Expressway Co Women vs IBK Women Gvision TV
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   17/03 Torreense U23 vs Santa Clara U23  KENCHU flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/aa4ec6caa99d4a6fb0cad0085043b0ef/playlist.m3u8
+https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   17/03 Torreense U23 vs Santa Clara U23  MAYBACH m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   17/03 Torreense U23 vs Santa Clara U23  MAYBACH flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12897_1gtn24pfq6n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:00   17/03 FK Kaspyi Aktau vs Okzhetpes  TON LAP m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12897_1gtn24pfq6n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:00   17/03 FK Kaspyi Aktau vs Okzhetpes  TON LAP flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12897_1gtn24pfq6n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:00   17/03 FK Kaspyi Aktau vs Okzhetpes  NGU CA m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12897_1gtn24pfq6n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:00   17/03 FK Kaspyi Aktau vs Okzhetpes  NGU CA flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F323aecbd109de35a9445b6261fffe597%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",16:30   17/03 Mahar United vs Ayeyawady united Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -203,6 +195,18 @@ https://pull-live3.fastestcdn-global.com/live/1b505f46a1fe47bcbd663389c28bba56/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://pull-live4.fastestcdn-global.com/live/1b505f46a1fe47bcbd663389c28bba56/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcb240ce8e8f58560a32f2d0cd12d6d6f%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   17/03 Kudrivka Nyva U21 vs Polissya Zhytomyr U21 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8d978ee68f95eda53973c1d70b8a1509/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd503b3b827871d441b072439d857978a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   17/03 Sydney FC vs Melbourne City Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/888b87b041a4abfdf182b060fdcbb3f7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2Fed27fe007c1b9d74574a9cee4d55b59e%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   17/03 Expressway Co Women vs IBK Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/aa4ec6caa99d4a6fb0cad0085043b0ef/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_130558_e740ba93.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",19:00   17/03 Kaspiy vs Okzhetpes HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -331,38 +335,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoinuonghd.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffff08d76dbe833ca8844e868f2fb7261%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   17/03 FC Chernigiv vs Fenix Mariupol Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/047193704fe920ba90ecc6b542e52369/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8928929d293633618af9c9fb6c607fea/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 sd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 sd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 sd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F323aecbd109de35a9445b6261fffe597%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:30   17/03 Mahar United vs Ayeyawady united Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -443,78 +415,54 @@ https://live.alilicloud.com/live/9ced0e4a9ba7f975634d40a1616975a4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/a1f14a78046a5deb954aa66162934204/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png" group-title="Live Event: socolive",KOS SL: KF Drenica Skenderaj vs Malisheva [ COZY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773755258-0-0-a0b9de5ac7e6b35ff9b58fa3d4f1f009
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png" group-title="Live Event: socolive",KOS SL: KF Drenica Skenderaj vs Malisheva [ COZY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773755258-0-0-6f07c2595bdaa0c22d2ed95019866a3c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png" group-title="Live Event: socolive",KOS SL: KF Drenica Skenderaj vs Malisheva [ COZY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773755258-0-0-fbf54ba62ebdd71357e40288ce5837a6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png" group-title="Live Event: socolive",KOS SL: KF Drenica Skenderaj vs Malisheva [ COZY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773755258-0-0-594bea71d6bec96641ad95193fe723d8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [NGUOI THEP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1773755258-0-0-8469e94cfbad2e316842b402fecfe9f8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [NGUOI THEP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1773755258-0-0-2faf73b97a64ecf9bcb8698077e2f56c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [NGUOI THEP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1773755258-0-0-47b2e594b40e41d98e524b5cdcfe16f0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [NGUOI THEP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1773755258-0-0-f227e6026c1d70bd675ccddcf08c2aad
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [SUNG A MUP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1773755258-0-0-2d7552893d1ea47cf3b630fd3bbd554c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [SUNG A MUP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1773755258-0-0-e71941081de6d1d0f63118e24d640496
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [SUNG A MUP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1773755258-0-0-826a3a121cef7ca242a4227e20335afb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [SUNG A MUP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1773755258-0-0-25ff5a2ab0bd1eb84121fb90ffa20b16
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [ BEO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=2a4fcada061cd7b8d6b01fccf8aeb1d3&txTime=69b9a1ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [ BEO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=ee8291c983e299c881c5d362bb630408&txTime=69b9a1ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [ BEO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=2a4fcada061cd7b8d6b01fccf8aeb1d3&txTime=69b9a1ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [ BEO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ee8291c983e299c881c5d362bb630408&txTime=69b9a1ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png" group-title="Live Event: socolive",18:00 ngay 17/03 Torreense U23 vs Santa Clara U23 [A PAO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1773755258-0-0-91a91d31cff45366069a3b9c957ee534
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png" group-title="Live Event: socolive",18:00 ngay 17/03 Torreense U23 vs Santa Clara U23 [A PAO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1773755258-0-0-7332f0be395b8023d4e8b198ee732e6f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png" group-title="Live Event: socolive",18:00 ngay 17/03 Torreense U23 vs Santa Clara U23 [A PAO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1773755258-0-0-420e312ec89fddd1b3ae9b3fae36123d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png" group-title="Live Event: socolive",18:00 ngay 17/03 Torreense U23 vs Santa Clara U23 [A PAO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1773755258-0-0-7c08b23c47bdc3c548b7213b5909fe5a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597924_lsd.flv?auth_key=1773755258-0-0-e1c23407113d3fee65c055448e59c8bf
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597924_lhd.flv?auth_key=1773755258-0-0-8279abb542cdc075b2a902b58f32ad61
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597924_lsd.m3u8?auth_key=1773755258-0-0-dd177930d01b04efe056a2c148c3ca64
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597924_lhd.m3u8?auth_key=1773755258-0-0-94f8a1ccbe96124bc910aaefb917b432
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffff08d76dbe833ca8844e868f2fb7261%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   17/03 FC Chernigiv vs Fenix Mariupol Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/047193704fe920ba90ecc6b542e52369/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8928929d293633618af9c9fb6c607fea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 sd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 hd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 sd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 hd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 sd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8a4fe57891ff8240ab2dbedba39dd7ce%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Atletico de Madrid U19 vs Club Brugge U19 hd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/bfb59d17e1344c6f9d0fbf8063a2d389/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcb240ce8e8f58560a32f2d0cd12d6d6f%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   17/03 Kudrivka Nyva U21 vs Polissya Zhytomyr U21 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8d978ee68f95eda53973c1d70b8a1509/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[UEFA Youth League] 20:00 17/03 Atletico Madrid U19 vs Club Brugge U19 [FHD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[UEFA Youth League] 20:00 17/03 Atletico Madrid U19 vs Club Brugge U19 [HD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[UEFA Youth League] 20:00 17/03 Atletico Madrid U19 vs Club Brugge U19 [SD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png" group-title="Live Event: socolive",KOS SL: KF Drenica Skenderaj vs Malisheva [ ANH TAI] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=91bb877393fc0564f6d030765500288a&txTime=69b9a332
@@ -659,6 +607,66 @@ https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1773755978-0-0-effe
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260313/c8279709a5417657d7d75146a992d980.png" group-title="Live Event: socolive",KOS SL: KF Ferizaj vs Prishtina [NGUOI CA] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1773755978-0-0-bf2bb971632abb5a3b59689aadc527f3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [SUNG A MUP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lsd.flv?auth_key=1773756338-0-0-1687dc27ce67d546b82b771a6acba2e2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [SUNG A MUP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912097_lhd.flv?auth_key=1773756338-0-0-9849dcc0dc11ac69eef929bc0352d8a7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [SUNG A MUP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1773756338-0-0-3ffa3206506c55d89bf069aa9dc91fee
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [SUNG A MUP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1773756338-0-0-126566333cc587c4f9e245a8cf7df7ad
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [NGUOI THEP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1773756338-0-0-5e1236881d9a47f58dfa6703e8939534
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [NGUOI THEP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1773756338-0-0-65bd51592d2bb71dbe5579c452443cb8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [NGUOI THEP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1773756338-0-0-84d3e71cfa909de34984d2830dff33f3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [NGUOI THEP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1773756338-0-0-6383da064241ff19a511b51689d58988
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [ BEO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=992d894f8285a7e66cf364ba55bf573b&txTime=69b9a602
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [ BEO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=6446b6aa3e07d99ba1b8570fcc03cf26&txTime=69b9a602
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [ BEO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=992d894f8285a7e66cf364ba55bf573b&txTime=69b9a602
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/5d4a7a9ba0b93c8b77c134b772803a71.png" group-title="Live Event: socolive",20:00 ngay 17/03 Atletico de Madrid U19 vs Club Brugge U19 [ BEO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=6446b6aa3e07d99ba1b8570fcc03cf26&txTime=69b9a602
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png" group-title="Live Event: socolive",18:00 ngay 17/03 Torreense U23 vs Santa Clara U23 [A PAO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1773756338-0-0-0d20f9c05df9ec5830c728a98b33edea
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png" group-title="Live Event: socolive",18:00 ngay 17/03 Torreense U23 vs Santa Clara U23 [A PAO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1773756338-0-0-f20f560b0cccdbc0e7120099c73795ee
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png" group-title="Live Event: socolive",18:00 ngay 17/03 Torreense U23 vs Santa Clara U23 [A PAO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1773756338-0-0-fb755c122915f69907fa62cffdfe2b8e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/0c03130301fffde12ff58835904f4b55.png" group-title="Live Event: socolive",18:00 ngay 17/03 Torreense U23 vs Santa Clara U23 [A PAO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1773756338-0-0-b8f78371b711b2ee71a8aa29d6a57cc2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597924_lsd.flv?auth_key=1773756338-0-0-53198fdbfcf97a436b205c8f126c5054
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597924_lhd.flv?auth_key=1773756338-0-0-4767ef199598add580059cfc9b8ae15c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597924_lsd.m3u8?auth_key=1773756338-0-0-71d39571e2819e0ebd66a477f2131bf6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/03caf9ad3a06e0e3d902e57aaea695be.png" group-title="Live Event: socolive",19:00 ngay 17/03 FK Kaspyi Aktau vs Okzhetpes [BON BON] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597924_lhd.m3u8?auth_key=1773756338-0-0-e7910848ee943b991c5564a2c8fc5d48
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Guangdong_Southern_Tigers.png" group-title="Live Event: Hội quán",18:35 17/03 Guangdong vs Xinjiang FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
