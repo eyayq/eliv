@@ -1,5 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="👰🏻Support Me! trakteer👰🏻[06:06 WIB]👰🏻",👰🏻https://trakteer.id/mybhianesse0 Support Server IPTV👰🏻
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="👰🏻Support Me!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [08:34:00 WIB]👰🏻
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="👰🏻Support Me! 2 trakteer👰🏻[06:07 WIB]👰🏻",👰🏻Dukung Server IPTV Agar Tetap Online👰🏻
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="👰🏻Support Me!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [08:34:00 WIB]👰🏻
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="👰🏻Support Me!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [08:34:00 WIB]👰🏻
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="👰🏻Support Me!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [08:34:00 WIB]👰🏻
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="👰🏻Support Me!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [08:34:00 WIB]👰🏻
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="👰🏻Support Me!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [08:34:00 WIB]👰🏻
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="👰🏻Support Me!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [08:34:00 WIB]👰🏻
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="👰🏻Support Me!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [08:34:00 WIB]👰🏻
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="👰🏻Support Me!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [08:34:00 WIB]👰🏻
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="👰🏻Support Me!👰🏻",👰🏻Support Server Dengan Donasi Agar Tetap Online [08:34:00 WIB]👰🏻
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
