@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Wed Mar 18 11:07:33 2026
+# Generated Wed Mar 18 11:14:01 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 18-03-2026 18:07:15 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 18-03-2026 18:13:43 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Cerezo Osaka😈VS😈Fagiano Okayama [LIVE]😈📁
 https://bf.jalaplay.net/live/5005017.m3u8?txSecret=01c17d814dc0dcd06ef58de6c728bbc8&txTime=69ba80de
@@ -30,13 +30,13 @@ https://bf.jalaplay.net/live/5005095.m3u8?txSecret=23834aa6710490f4e0703592bdaa0
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Incheon United Club😈VS😈Daejeon Citizen [LIVE]😈📁
 https://bf.jalaplay.net/live/322572.m3u8?txSecret=4505f4fe8751dc25986b42a9fc20a149&txTime=69ba8609
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Jeonbuk Hyundai Motors😈VS😈FC Anyang [LIVE]😈📁
-https://bf.jalaplay.net/live/5004451.m3u8?txSecret=00cd8e362ceae341d2aae13d621221b1&txTime=69ba79d6
+https://bf.jalaplay.net/live/5004451.m3u8?txSecret=13a1181c66b743d7fcce24bc4deee1d0&txTime=69ba87e8
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Bucheon FC 1995😈VS😈Gangwon Football Club [LIVE]😈📁
-https://bf.jalaplay.net/live/5004453.m3u8?txSecret=54c5295a0cdcbb191db7582544dd6faa&txTime=69ba7a53
+https://bf.jalaplay.net/live/5004453.m3u8?txSecret=cb12f319ba9a55b80b6480bf43cc653a&txTime=69ba8865
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Pohang Steelers😈VS😈Football Club Seoul [LIVE]😈📁
 https://bf.jalaplay.net/live/5005074.m3u8?txSecret=8e24559636b41d5a03b8cd723f4c696f&txTime=69ba7b3c
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Jeju SK FC😈VS😈Ulsan HD FC [LIVE]😈📁
-https://bf.jalaplay.net/live/5005094.m3u8?txSecret=b5a28b225814aef6dba68eadc38eee8a&txTime=69ba7a29
+https://bf.jalaplay.net/live/5005094.m3u8?txSecret=084690997f649b90eaac5f77d4fa5503&txTime=69ba8839
 #EXTINF:-1 group-title="📁😈 Thai League Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png",📁😈Chonburi FC😈VS😈Thap Luang United [LIVE]😈📁
 https://bf.jalaplay.net/live/5005016.m3u8?txSecret=b32a8057ea1e8a4915785c62e88d1dc0&txTime=69ba8063
 #EXTINF:-1 group-title="📁😈 Thai League Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png",📁😈BG Pathum United😈VS😈Mahasarakham SBT FC [LIVE]😈📁
