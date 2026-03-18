@@ -1,13 +1,13 @@
 #EXTM3U
-# Generated Wed Mar 18 05:55:49 2026
+# Generated Wed Mar 18 06:01:32 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 18-03-2026 12:55:33 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 18-03-2026 13:01:14 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Australia W-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png",📁😈Melbourne City Women😈VS😈Adelaide United Women [LIVE]😈📁
-https://bf.jalaplay.net/live/322723.m3u8?txSecret=090faf64017760e4974db0deeba3c5ea&txTime=69ba3255
-#EXTINF:-1 group-title="📁😈 Australia W-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png",📁😈Melbourne City Women😈VS😈Adelaide United Women [LIVE]😈📁
-https://bf.jalaplay.net/live/5005081.m3u8?txSecret=f98730cb22eeb9c5a29588a5fee08c8c&txTime=69ba3116
+https://bf.jalaplay.net/live/5004449.m3u8?txSecret=00f6db85117239743d033d79f2843eec&txTime=69ba3a65
 #EXTINF:-1 group-title="📁😈 Australia W-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png",📁😈Melbourne City Women😈VS😈Adelaide United Women [LIVE]😈📁
 https://bf.jalaplay.net/live/322572.m3u8?txSecret=82d203f6a4b2b777265da1d28e4c69a3&txTime=69ba339f
 #EXTINF:-1 group-title="📁😈 Australia W-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png",📁😈Melbourne City Women😈VS😈Adelaide United Women [LIVE]😈📁
-https://bf.jalaplay.net/live/5004449.m3u8?txSecret=00f6db85117239743d033d79f2843eec&txTime=69ba3a65
+https://bf.jalaplay.net/live/322723.m3u8?txSecret=090faf64017760e4974db0deeba3c5ea&txTime=69ba3255
+#EXTINF:-1 group-title="📁😈 Australia W-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png",📁😈Melbourne City Women😈VS😈Adelaide United Women [LIVE]😈📁
+https://bf.jalaplay.net/live/5005081.m3u8?txSecret=1c7fce25c061afb44792c5261865be79&txTime=69ba3f27
