@@ -1,20 +1,18 @@
 #EXTM3U
-# Generated Wed Mar 18 11:26:35 2026
+# Generated Wed Mar 18 11:32:50 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 18-03-2026 18:26:16 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 18-03-2026 18:32:35 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Cerezo Osaka😈VS😈Fagiano Okayama [LIVE]😈📁
-https://bf.jalaplay.net/live/5005017.m3u8?txSecret=01c17d814dc0dcd06ef58de6c728bbc8&txTime=69ba80de
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈JEF United Ichihara Chiba😈VS😈FC Tokyo [LIVE]😈📁
 https://bf.jalaplay.net/live/322723.m3u8?txSecret=8583e49e963d175e88b05d9439cf6916&txTime=69ba7f9c
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Mito Hollyhock😈VS😈Yokohama F. Marinos [LIVE]😈📁
 https://bf.jalaplay.net/live/322707.m3u8?txSecret=a1b0da6530f7b1bbe3e34aae54c02f31&txTime=69ba7fb8
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Tokyo Verdy😈VS😈Kawasaki Frontale [LIVE]😈📁
-https://bf.jalaplay.net/live/5004438.m3u8?txSecret=cd96b0f10442c832db1f246ce35256d2&txTime=69ba811c
+https://bf.jalaplay.net/live/322666.m3u8?txSecret=a92255bb2839c539356ede4d1251a1df&txTime=69ba7ffd
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Tokyo Verdy😈VS😈Kawasaki Frontale [LIVE]😈📁
 https://bf.jalaplay.net/live/5005093.m3u8?txSecret=3d5384d3e6f0e94b50858b6ed3921b44&txTime=69ba8112
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Tokyo Verdy😈VS😈Kawasaki Frontale [LIVE]😈📁
-https://bf.jalaplay.net/live/322666.m3u8?txSecret=a92255bb2839c539356ede4d1251a1df&txTime=69ba7ffd
+https://bf.jalaplay.net/live/5004438.m3u8?txSecret=cd96b0f10442c832db1f246ce35256d2&txTime=69ba811c
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Avispa Fukuoka😈VS😈Shimizu S-Pulse [LIVE]😈📁
 https://bf.jalaplay.net/live/5005035.m3u8?txSecret=5ac971b8b68979369b593b04a0a516b8&txTime=69ba82af
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Nagoya Grampus😈VS😈Sanfrecce Hiroshima [LIVE]😈📁
