@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Wed Mar 18 11:20:21 2026
+# Generated Wed Mar 18 11:26:35 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 18-03-2026 18:19:58 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Wednesday 18-03-2026 18:26:16 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Cerezo Osaka😈VS😈Fagiano Okayama [LIVE]😈📁
 https://bf.jalaplay.net/live/5005017.m3u8?txSecret=01c17d814dc0dcd06ef58de6c728bbc8&txTime=69ba80de
