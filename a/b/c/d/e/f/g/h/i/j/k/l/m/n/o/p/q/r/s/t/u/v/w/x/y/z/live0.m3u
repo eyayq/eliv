@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-18 06:52:09
-# 🔄 Total Channels: 1410
+# ⏰ Latest Updated: 2026-03-18 06:58:11
+# 🔄 Total Channels: 1409
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -49,39 +49,54 @@ http://103.66.62.83:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="Live Event: Colalive",12:30 18/03 Melbourne City Nu vs Adelaide Nu Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://shorter.me/ii84S" group-title="LIVE EVENT: MANUAL",00:45 WIB - 18 MARET 2026 Sporting CP vs Bodo / Glimt
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://iili.io/Kc6R4Dv.png" group-title="LIVE EVENT: MANUAL",17:00 WIB - 18 MARET 2026 Suwon KEPCO Vixtorm vs KB Stars
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/ii84S" group-title="LIVE EVENT: MANUAL",03:00 WIB - 18 MARET 2026 Arsenal vs Bayer Leverkusen
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/Pflov" group-title="LIVE EVENT: MANUAL",22:30 WIB - 18 MARET 2026 Sporting Braga vs Ferencvaros
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/ii84S" group-title="LIVE EVENT: MANUAL",03:00 WIB - 18 MARET 2026 Chelsea vs PSG
+#EXTINF:-1 tvg-logo="https://shorter.me/ii84S" group-title="LIVE EVENT: MANUAL",00:45 WIB - 19 MARET 2026 Barcelona vs Newcastle United
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 tvg-logo="https://shorter.me/ii84S" group-title="LIVE EVENT: MANUAL",03:00 WIB - 18 MARET 2026 Manchester City vs Real Madrid
+#EXTINF:-1 tvg-logo="https://shorter.me/ii84S" group-title="LIVE EVENT: MANUAL",03:00 WIB - 19 MARET 2026 Bayern Munchen vs Atalanta
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDEVw9nXVfCyeCfDqNdCR8krthobrCfWfcCQ&s" group-title="LIVE EVENT: MANUAL",15:00 WIB - 17 MARET 2026 Orleans Masters Badminton 2026
-https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4149268943886061_AiHD.m3u8?txSecret=3ec56e1146c152675695e6ee8b99fa84&txTime=69BA3F60
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDEVw9nXVfCyeCfDqNdCR8krthobrCfWfcCQ&s" group-title="LIVE EVENT: MANUAL",15:00 WIB - 17 MARET 2026 Orleans Masters Badminton 2026
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4149269176754061_AiHD.m3u8?txSecret=fb261eb3885bdd4215418e27610fb875&txTime=69BA3F60
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDEVw9nXVfCyeCfDqNdCR8krthobrCfWfcCQ&s" group-title="LIVE EVENT: MANUAL",15:00 WIB - 17 MARET 2026 Orleans Masters Badminton 2026
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4149269401740061_AiHD.m3u8?txSecret=fc5c2d6435aeadd387a9b0e107a5ecea&txTime=69BA3F60
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDEVw9nXVfCyeCfDqNdCR8krthobrCfWfcCQ&s" group-title="LIVE EVENT: MANUAL",15:00 WIB - 17 MARET 2026 Orleans Masters Badminton 2026
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4149269655909061_AiHD.m3u8?txSecret=f9a9c787e4067a402fb10e8cd9addbda&txTime=69BA3F60
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/ii84S" group-title="LIVE EVENT: MANUAL",03:00 WIB - 19 MARET 2026 Liverpool vs Galatasaray
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://shorter.me/ii84S" group-title="LIVE EVENT: MANUAL",03:00 WIB - 19 MARET 2026 Tottenham Hotspur vs Atletico Madrid
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/King_Cup.png" group-title="LIVE EVENT: MANUAL",02:00 WIB - 19 MARET 2026 Al-Ahli vs Al Hilal
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/King_Cup.png" group-title="LIVE EVENT: MANUAL",02:00 WIB - 19 MARET 2026 Al Kholood vs Al Ittihad
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 #EXTINF:-1 tvg-logo="" group-title="Live Event: Bún chả",[AFC Women's Asian Cup] China Women vs Bangladesh luc 15:24   03/03/2026 [MAIN] Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
@@ -90,12 +105,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:30   18/03 Melbourne City vs Adelaide United  KHONG MINH m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:30   18/03 Melbourne City vs Adelaide United  KHONG MINH flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1582_20130913233507.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   18/03 Portuguesa Desportos vs SC Paysandu Para NHA DAI m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MwcqGA2C1eX1dAgYU/playlist.m3u8
@@ -112,14 +121,18 @@ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:30   18/03 Melbourne City vs Adelaide United  VO TONG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F44e3c29bbce6c22ddaff1ae3cdda0b81%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",10:06   18/03 Tijuana Women vs Unam Pumas Women Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:30   18/03 Melbourne City vs Adelaide United  KHONG MINH m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/af1197d9b1ce73afaeaed281428ee273/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbb21d2f0c4e1f72848d232fa6ddc7672%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",08:00   18/03 Santos Laguna Women vs Cruz Azul Women Gvision TV
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23260_1gq6k99f9c1m.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:30   18/03 Melbourne City vs Adelaide United  KHONG MINH flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ec21824425efd459410334d0a9baf646/playlist.m3u8
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1773816262.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   18/03 Manchester City vs Real Madrid  KEVILL REPLAY m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1773816262.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   18/03 Manchester City vs Real Madrid  KEVILL REPLAY flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbe0f452652a842b0f5680bd8d7297705%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",10:00   18/03 Cruz Azul vs Monterrey Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -156,6 +169,14 @@ https://live.alilicloud.com/live/b386624d72096accb39d38a0fe8d4fe4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/d0bf6b30b14c82f0a2b73c1703cd4a19/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F44e3c29bbce6c22ddaff1ae3cdda0b81%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",10:06   18/03 Tijuana Women vs Unam Pumas Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/af1197d9b1ce73afaeaed281428ee273/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbb21d2f0c4e1f72848d232fa6ddc7672%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",08:00   18/03 Santos Laguna Women vs Cruz Azul Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ec21824425efd459410334d0a9baf646/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_133802_858d0eac.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",12:30   18/03 Melbourne City W vs Adelaide United W HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -324,10 +345,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoinuonghd.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F44e3c29bbce6c22ddaff1ae3cdda0b81%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",10:06   18/03 Tijuana Women vs Unam Pumas Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/af1197d9b1ce73afaeaed281428ee273/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8e4ee379c696e9fdc87bbc192766c199%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",12:30   18/03 Melbourne City Women vs Adelaide United Women Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -336,78 +353,10 @@ https://live.alilicloud.com/live/d7cfd3de85ea5b7bf4881cd2d143392e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b386624d72096accb39d38a0fe8d4fe4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[A-League Women] 12:30 18/03 Melbourne City W vs Adelaide United W [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[A-League Women] 12:30 18/03 Melbourne City W vs Adelaide United W [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[A-League Women] 12:30 18/03 Melbourne City W vs Adelaide United W [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [CONG CHAT] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1773819338-0-0-846be66442dbb4d0489dce467753613f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [CONG CHAT] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1773819338-0-0-0066040fe78d191889fc8eb7245e08d0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [CONG CHAT] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1773819338-0-0-c686a7c481bdab7f1ed93275cddd9e1b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [CONG CHAT] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1773819338-0-0-a4877f2b5c07a926bcb3ef9f3d5bce54
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [TA BIEN GIOI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773819338-0-0-50c13cdd2dbeebea6e7ca2f431bd4181
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [TA BIEN GIOI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773819338-0-0-d63932a44aa00a8591dc6468c2f1873d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [TA BIEN GIOI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773819338-0-0-0ba080c04f7e4284dc3773190e58f026
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [TA BIEN GIOI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773819338-0-0-e7171c7cce8198c804cf4bfc89ea64e1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [SAO LA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=ae024a9960c6de1dd0b11699c84c3773&txTime=69ba9c1a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [SAO LA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=2953a4768e41143fd373b97e1d9d8da5&txTime=69ba9c1a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [SAO LA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=ae024a9960c6de1dd0b11699c84c3773&txTime=69ba9c1a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [SAO LA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2953a4768e41143fd373b97e1d9d8da5&txTime=69ba9c1a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ COCA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1773819338-0-0-d7622c0fe58f30c4b4b9a6214103e83c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ COCA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1773819338-0-0-9450058747df49e5303fdf6610a48f57
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ COCA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1773819338-0-0-5fb7589650a7b2aa28ae514df5b8a719
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ COCA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1773819338-0-0-85059ed16a75ee3a0b431810fe46154f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ TOMMY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1773819338-0-0-de7a0c62b5c7db730db51dacbbd28281
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ TOMMY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1773819338-0-0-c5ebfd3ae343b1b5c54c2b0fdcf3d34f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ TOMMY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1773819338-0-0-e928750f07faed6c9cb0934761ebee35
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ TOMMY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1773819338-0-0-63a676342d7ec802fab529f917cc75cb
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F44e3c29bbce6c22ddaff1ae3cdda0b81%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",10:06   18/03 Tijuana Women vs Unam Pumas Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/af1197d9b1ce73afaeaed281428ee273/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/35edaa6d0b4240d1340f7d10e40d5214.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1773819698-0-0-c4ef1a6162a675ce1eae6a8376e92b6b
@@ -432,6 +381,66 @@ https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1773820058-0-0-fd0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ DOM] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1773820058-0-0-5743e35388cce888dc6132fa3a66ea1d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [CONG CHAT] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1773820418-0-0-8c9cc52be83c319a636c911be44c0f40
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [CONG CHAT] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1773820418-0-0-98786849cbd108c62561b67f8f04f0ec
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [CONG CHAT] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1773820418-0-0-c39ffff48553e14a5d1d2d1d99875e3e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [CONG CHAT] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1773820418-0-0-8ac39f36591faaf6cff5bcbea54aa07b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ TOMMY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1773820418-0-0-f80bc69e4432616325ebb99ac72d8324
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ TOMMY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1773820418-0-0-dd09d52ccbb14893b9f7367f4b4be90a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ TOMMY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1773820418-0-0-62c9e22473366825e6c062328bbf4248
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ TOMMY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1773820418-0-0-0790fb67d5a3e019eab874387036ebfd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [TA BIEN GIOI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773820418-0-0-cbbf5880a65d0c1478ad483ff9c4b3a0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [TA BIEN GIOI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773820418-0-0-bd851b40c7849c9a387bbd4776ef3751
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [TA BIEN GIOI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773820418-0-0-19ef772651b84112b11ab03da8af2a98
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [TA BIEN GIOI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773820418-0-0-a8bdbdb6d6e8022f21f4cc835d706852
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [SAO LA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=836be4be5cba5e9107ac1d47c0c16ad7&txTime=69baa052
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [SAO LA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=87854fcc46de591563a9fb1f48f24086&txTime=69baa052
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [SAO LA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=836be4be5cba5e9107ac1d47c0c16ad7&txTime=69baa052
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [SAO LA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=87854fcc46de591563a9fb1f48f24086&txTime=69baa052
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ COCA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1773820418-0-0-cb4cf94db426c6774d9e269d5b59dfbc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ COCA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1773820418-0-0-b59d5df8fd3e714c7fb4a7f1916cd24e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ COCA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1773820418-0-0-6c2f522d6f4529991b9160850a579685
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20251214/67720bd4e1fa9b87c700580c021131ec.png" group-title="Live Event: socolive",12:30 ngay 18/03 Melbourne City Women vs Adelaide United Women [ COCA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1773820418-0-0-5ff5e7d4ca50a5bf3244115e8125c31a
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Argentina Liga Profesional] Central Cordoba vs Dep Riestra Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
