@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-19 12:31:41
-# 🔄 Total Channels: 1862
+# ⏰ Latest Updated: 2026-03-19 12:37:32
+# 🔄 Total Channels: 1867
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -46,9 +46,6 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/205111004b08c5b99ee531ade038964e.png!w80" group-title="Live Event: Colalive",17:30 19/03 FC Chanmari vs Lajong Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/71426314.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aa6d9f240dd67791dd86ff4de072d846.png!w80" group-title="Live Event: Colalive",18:00 19/03 Karvan Evlakh vs Zira FK Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/75748097.m3u8
@@ -407,102 +404,6 @@ https://live.alilicloud.com/live/657f1f8e16b04709c62f8a314667cd02/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/69f22e0eb9986377ff8b15deb78efe99/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[CVL] 18:00 19/03 Tianjin vs Shanghai [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[CVL] 18:00 19/03 Tianjin vs Shanghai [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[CVL] 18:00 19/03 Tianjin vs Shanghai [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Blast Open 2026] 18:00 19/03 Team Spirit vs Team Liquid [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Blast Open 2026] 18:00 19/03 Team Spirit vs Team Liquid [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Blast Open 2026] 18:00 19/03 Team Spirit vs Team Liquid [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d705a7b65928210964800ffde90de56e.png" group-title="Live Event: socolive",18:00 ngay 19/03 Simal FK vs PFK Zaqatala [ VITAMIN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1773925898-0-0-d7c22aebdd009bad0296d95e42b670b5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d705a7b65928210964800ffde90de56e.png" group-title="Live Event: socolive",18:00 ngay 19/03 Simal FK vs PFK Zaqatala [ VITAMIN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1773925898-0-0-3562fe68c601b6fb5e673338caa38c05
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d705a7b65928210964800ffde90de56e.png" group-title="Live Event: socolive",18:00 ngay 19/03 Simal FK vs PFK Zaqatala [ VITAMIN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1773925898-0-0-f79b7bf69ca0fee3ea3aa86ba681b272
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d705a7b65928210964800ffde90de56e.png" group-title="Live Event: socolive",18:00 ngay 19/03 Simal FK vs PFK Zaqatala [ VITAMIN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1773925898-0-0-7254d9e35046a7cdde1de36c376cd389
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ COZY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773925898-0-0-b8b67ae6e738ad1a8d0a4325b2546c44
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ COZY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773925898-0-0-3b66400c0b0a40144dd6ebaaaa82a4b5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ COZY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773925898-0-0-e2f510280ce4ae9054349914895d107e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ COZY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773925898-0-0-b587feee7f54a2692fab9f229e21c31d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e9c500400355872ec44dd1edaba8a1ed.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Andijon vs Mashal Muborak [ FIREMAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1773925898-0-0-b12d9fa48a5acea216726d3764f0fd59
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e9c500400355872ec44dd1edaba8a1ed.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Andijon vs Mashal Muborak [ FIREMAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1773925898-0-0-19925192319b8b07746fe8d8c37e0ca0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e9c500400355872ec44dd1edaba8a1ed.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Andijon vs Mashal Muborak [ FIREMAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1773925898-0-0-9f2a920377e350ddaaa64d7be8f4bd38
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e9c500400355872ec44dd1edaba8a1ed.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Andijon vs Mashal Muborak [ FIREMAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1773925898-0-0-8792e2f5275f4242d5b601bfadca1cad
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ CO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1773925898-0-0-010d179db60afcaa26e48e7473c5c0a4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ CO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1773925898-0-0-a0f3adf0ceb34b4c71b30e2b6d3ee4cb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ CO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1773925898-0-0-5b4b515bffe9f896dae857f03e373d42
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ CO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1773925898-0-0-31c48cd504fa29a637e027221954bdd9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/77d418441dc5e70883ca0807be449392.png" group-title="Live Event: socolive",18:35 ngay 19/03 Fujian vs Beijing [A CHE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773925898-0-0-eea3528ce9f4db7612ffc7771fee698d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/77d418441dc5e70883ca0807be449392.png" group-title="Live Event: socolive",18:35 ngay 19/03 Fujian vs Beijing [A CHE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773925898-0-0-7b310389572afd1dee311988700fa309
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/77d418441dc5e70883ca0807be449392.png" group-title="Live Event: socolive",18:35 ngay 19/03 Fujian vs Beijing [A CHE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773925898-0-0-af93c836bc0abe4ce4d9299acb0fdf9c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/77d418441dc5e70883ca0807be449392.png" group-title="Live Event: socolive",18:35 ngay 19/03 Fujian vs Beijing [A CHE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773925898-0-0-27f69104761cbf7de1ee19c36be6b935
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/ab52101245d2c26d5ed381a601c7e211.png" group-title="Live Event: socolive",18:00 ngay 19/03 Difai Agsu FK vs Cebrayil [ A TU] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1773925898-0-0-0ca9fce8889e4e86ef7b2a3245add392
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/ab52101245d2c26d5ed381a601c7e211.png" group-title="Live Event: socolive",18:00 ngay 19/03 Difai Agsu FK vs Cebrayil [ A TU] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1773925898-0-0-4171e9716ef02b031ff55c489cde2d2c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/ab52101245d2c26d5ed381a601c7e211.png" group-title="Live Event: socolive",18:00 ngay 19/03 Difai Agsu FK vs Cebrayil [ A TU] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1773925898-0-0-fcd2e4106a305bae445d012052713762
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/ab52101245d2c26d5ed381a601c7e211.png" group-title="Live Event: socolive",18:00 ngay 19/03 Difai Agsu FK vs Cebrayil [ A TU] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1773925898-0-0-6ff5f639578d49d8d4e9da00ec7c9de9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/65f5a10c8919162cce429754707a594c.png" group-title="Live Event: socolive",18:00 ngay 19/03 Karvan Evlakh vs Zira FK [ ROBBEN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1773926258-0-0-308389eaf09ed2996c21002fdb5390b4
@@ -695,6 +596,114 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773926618-0-0-2f51
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260314/ff5978abfba247e25f8c3ee66c46f5fb.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773926618-0-0-a52b8b4639a9f85f2e6550b85eff82e3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ COZY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1773926978-0-0-14c6690badf20a186fce9ee6ca383d8e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ COZY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1773926978-0-0-7d4eccf063eeaf8eced52c2ca65ff4d2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ COZY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1773926978-0-0-cb978a1e0a97c0087ae24b99533017df
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ COZY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1773926978-0-0-016822a7b1e0086281107d98936e5c7a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [ 7UP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1773926978-0-0-b099f15ba5ffeb58494db5f6a139e7e2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [ 7UP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1773926978-0-0-95fae21dc413242421c0d39e4d92ae7c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [ 7UP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1773926978-0-0-f25096bb8638523e3441cf73ff47fce9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [ 7UP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1773926978-0-0-3537fa54af70892ae1820c81d4b90c5d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [DECO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1773926978-0-0-39eae5b5da46e45b0374ec7a36df948f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [DECO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1773926978-0-0-de6ebbd3ad6a8def09175702c040ef73
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [DECO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1773926978-0-0-3d3b5172c06426bc043bc727ea5aff23
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [DECO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1773926978-0-0-6d56f6f1fa75cede2c740749df386df4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ CO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1773926978-0-0-1c2a0332775e3cf86eaa57adc7026338
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ CO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1773926978-0-0-270e23c707cbe277be99032f5daa0bc0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ CO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1773926978-0-0-465991f8d4b2f45883301e14850edc41
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/454d3f19c819a076fcd8355c0738284d.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Oleksandria vs Dynamo Kyiv [ CO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1773926978-0-0-afc148dd8edfcc0e723a1f93ec3459df
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d705a7b65928210964800ffde90de56e.png" group-title="Live Event: socolive",18:00 ngay 19/03 Simal FK vs PFK Zaqatala [ VITAMIN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1773926978-0-0-54ac26f1bc6754f461138c823de256ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d705a7b65928210964800ffde90de56e.png" group-title="Live Event: socolive",18:00 ngay 19/03 Simal FK vs PFK Zaqatala [ VITAMIN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1773926978-0-0-3106dcdeb32c8f3b26bc126cfa385d24
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d705a7b65928210964800ffde90de56e.png" group-title="Live Event: socolive",18:00 ngay 19/03 Simal FK vs PFK Zaqatala [ VITAMIN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1773926978-0-0-e606e2258eb26c437d4ed66c683110cb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d705a7b65928210964800ffde90de56e.png" group-title="Live Event: socolive",18:00 ngay 19/03 Simal FK vs PFK Zaqatala [ VITAMIN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1773926978-0-0-dbbf7082592f2ae5ef9b53fea1fa9f51
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [ MIXI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1773926978-0-0-68b56c1897b20cc7bbf89f8a3ed63c1d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [ MIXI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1773926978-0-0-2e86a4203871a631736396425ecd208d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [ MIXI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1773926978-0-0-81e211096ac3ed66e4b98f49d5c4464a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/589e9fd82da47fbf72dc1db5db420ac2.png" group-title="Live Event: socolive",20:00 ngay 19/03 Kayserispor vs Karagumruk [ MIXI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1773926978-0-0-7dbaccab7a181b787e2fd67139f0440f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e9c500400355872ec44dd1edaba8a1ed.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Andijon vs Mashal Muborak [ FIREMAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1773926978-0-0-7dd04ecd4b864a68698ac764510c87a5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e9c500400355872ec44dd1edaba8a1ed.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Andijon vs Mashal Muborak [ FIREMAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1773926978-0-0-4a34c6fdae5b8d047fb1de176bccaf2a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e9c500400355872ec44dd1edaba8a1ed.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Andijon vs Mashal Muborak [ FIREMAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1773926978-0-0-49803d428a9f53d73139931f03e0540b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/e9c500400355872ec44dd1edaba8a1ed.png" group-title="Live Event: socolive",18:00 ngay 19/03 FK Andijon vs Mashal Muborak [ FIREMAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1773926978-0-0-a3a27f83c14b9ffc49f0a89a457110f3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/ab52101245d2c26d5ed381a601c7e211.png" group-title="Live Event: socolive",18:00 ngay 19/03 Difai Agsu FK vs Cebrayil [ A TU] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1773926978-0-0-05d2b82d639a598f3f8ba108ced66bf4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/ab52101245d2c26d5ed381a601c7e211.png" group-title="Live Event: socolive",18:00 ngay 19/03 Difai Agsu FK vs Cebrayil [ A TU] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1773926978-0-0-c970d519f80e7a63536cd7f08a1e5b9d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/ab52101245d2c26d5ed381a601c7e211.png" group-title="Live Event: socolive",18:00 ngay 19/03 Difai Agsu FK vs Cebrayil [ A TU] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1773926978-0-0-6b1bd42f019e40e5f58d99a1276744e9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/ab52101245d2c26d5ed381a601c7e211.png" group-title="Live Event: socolive",18:00 ngay 19/03 Difai Agsu FK vs Cebrayil [ A TU] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1773926978-0-0-63581f199cd27af00f979b69c5c804c8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/77d418441dc5e70883ca0807be449392.png" group-title="Live Event: socolive",18:35 ngay 19/03 Fujian vs Beijing [A CHE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1773926978-0-0-b2444b879d302889091a9265b8d5e661
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/77d418441dc5e70883ca0807be449392.png" group-title="Live Event: socolive",18:35 ngay 19/03 Fujian vs Beijing [A CHE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1773926978-0-0-fcfa3e42006776f146f8d4c123879191
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/77d418441dc5e70883ca0807be449392.png" group-title="Live Event: socolive",18:35 ngay 19/03 Fujian vs Beijing [A CHE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1773926978-0-0-e6aaf735884ca90839840a4fda2f1698
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/77d418441dc5e70883ca0807be449392.png" group-title="Live Event: socolive",18:35 ngay 19/03 Fujian vs Beijing [A CHE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1773926978-0-0-bf2ca0b65fa3ab839c4049ea8d0afe46
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/SichuanGuancheng.jpg/250px-SichuanGuancheng.jpg" group-title="Live Event: Hội quán",18:35 19/03 Sichuan vs Ningbo Rockets FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2654,57 +2663,57 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=85502af51e9d3061669f98101c087d09&wsABSTime=1773966618
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=36b65cc448a04054694246a8f095a614&wsABSTime=1773966916
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",18:00 WIB - FK ANDIJON VS MASHAL MUBORAK [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=8550d43daa17f7091b8b28a86efeefd1&wsABSTime=1773966619
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=d650458dc5037a79724facc6a41c424c&wsABSTime=1773966917
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",18:00 WIB - KARVAN EVLAKH VS ZIRA FK [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=5e0d0c4a356483e426362f0831d12e7a&wsABSTime=1773966619
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=da10aaea7879121daa5236d079206a8c&wsABSTime=1773966917
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",18:30 WIB - HAYQ VS URARTU II [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=a31edd136c04a76e38f00f7f9c8694ec&wsABSTime=1773966620
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=3e28e8181b1aab90ec939bd170d1d4d9&wsABSTime=1773966918
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",20:00 WIB - KAYSERISPOR VS KARAGUMRUK [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=2516724980a5f3f96856e559ded88af2&wsABSTime=1773966622
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=e3dc98bcfdf56cb3fb9b8b3b53f139c2&wsABSTime=1773966919
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",20:15 WIB - BUXORO FK VS DINAMO SAMARQAND [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=92dde7ee067216454cb23766fc65ae31&wsABSTime=1773966622
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=d878d69d9865e86cb663e51f32f8796e&wsABSTime=1773966919
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",21:00 WIB - SC DELHI VS JAMSHEDPUR FC [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=9b4c432318f3e352918c7c3d07419b5a&wsABSTime=1773966623
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=f0bbb915906f5c10b81540b3632ac9b7&wsABSTime=1773966920
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",22:15 WIB - SABAH FK VS SUMGAYIT FK [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=6c5f891e857c47aad6d44e1b61306c97&wsABSTime=1773966623
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=6b544f4e8ac6c77e49ad68a7858eedc9&wsABSTime=1773966920
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",22:30 WIB - KRYLYA SOVETOV VS LOKOMOTIV MOSCOW [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=a6d5b28f335c34ea4807885d0eec3c56&wsABSTime=1773966624
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=c50d0069d8081ab0cf25f47d323ef56b&wsABSTime=1773966921
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:00 WIB - SPARTAK VARNA VS LUDOGORETS [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=4b044a8d958c8a48733c2bff4c351c67&wsABSTime=1773966624
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=6a0bf17a5676ebd1c70b6f9ce4bae2ac&wsABSTime=1773966921
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:00 WIB - METALIST 1925 VS SC POLTAVA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=2701dfec3e79ac787eb1bd34c842f70f&wsABSTime=1773966626
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=1773bd98a81dfe97156115ebff7574ce&wsABSTime=1773966921
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - NU THO NHI KY U17 VS NU CROATIA U17 [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | UKR Premier League",FK Oleksandria vs Dynamo Kyiv
