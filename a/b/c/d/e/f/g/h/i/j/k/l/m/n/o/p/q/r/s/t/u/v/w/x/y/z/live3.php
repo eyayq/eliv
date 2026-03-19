@@ -1,10 +1,10 @@
 #EXTM3U
-# Generated Thu Mar 19 11:39:48 2026
+# Generated Thu Mar 19 11:45:35 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 19-03-2026 18:39:33 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 19-03-2026 18:45:24 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈FK Andijon😈VS😈Mashal Muborak [LIVE]😈📁
-https://bf.jalaplay.net/live/5004451.m3u8?txSecret=0bb9e6085f2c77544912cd829c11234b&txTime=69bbd27e
+https://bf.jalaplay.net/live/5004451.m3u8?txSecret=7e31cf7e3eef5ab519cc3bf1e26eb6ab&txTime=69bbe090
 #EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈FK Andijon😈VS😈Mashal Muborak [LIVE]😈📁
 https://bf.jalaplay.net/live/322572.m3u8?txSecret=8bfe53ac2f28e1c756f36e81dabc4155&txTime=69bbdee5
 #EXTINF:-1 group-title="📁😈 Azerbaijan Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fef1f81febbe012e11f987726f8fef15.png",📁😈Karvan Evlakh😈VS😈Zira FK [LIVE]😈📁
