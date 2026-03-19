@@ -1,38 +1,38 @@
 #EXTM3U
-# Generated Thu Mar 19 17:54:21 2026
+# Generated Thu Mar 19 18:01:12 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 00:54:08 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 01:00:59 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Turkish Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png",📁😈Konyaspor😈VS😈Genclerbirligi [LIVE]😈📁
 https://bf.jalaplay.net/live/322717.m3u8?txSecret=08a3f93f7857bcf6315313c2a4751053&txTime=69bc3080
 #EXTINF:-1 group-title="📁😈 Turkish Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png",📁😈Besiktas JK😈VS😈Kasimpasa [LIVE]😈📁
 https://bf.jalaplay.net/live/322801.m3u8?txSecret=44594179c3e0e5d1b52539e4bed6244a&txTime=69bc32df
 #EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈SC Freiburg😈VS😈Racing Genk [LIVE]😈📁
-https://bf.jalaplay.net/live/5005007.m3u8?txSecret=47e478af10a59a9a871f40d02d16e420&txTime=69bc329f
-#EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈SC Freiburg😈VS😈Racing Genk [LIVE]😈📁
 https://bf.jalaplay.net/live/5005009.m3u8?txSecret=4bd9fa99b90fa229182a3e314b8f6a86&txTime=69bc36e6
+#EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈SC Freiburg😈VS😈Racing Genk [LIVE]😈📁
+https://bf.jalaplay.net/live/5005007.m3u8?txSecret=47e478af10a59a9a871f40d02d16e420&txTime=69bc329f
 #EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Lyon😈VS😈RC Celta [LIVE]😈📁
 https://bf.jalaplay.net/live/5004993.m3u8?txSecret=20cd87663da16575f3330e3d38717711&txTime=69bc2f76
+#EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Lyon😈VS😈RC Celta [LIVE]😈📁
+https://bf.jalaplay.net/live/322677.m3u8?txSecret=f2552f5ee121df4c28aaeb48815811bd&txTime=69bc32e8
 #EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Lyon😈VS😈RC Celta [LIVE]😈📁
 https://bf.jalaplay.net/live/5004980.m3u8?txSecret=8290188b954f1bee25ce45f3d1405dd7&txTime=69bc2f90
 #EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Lyon😈VS😈RC Celta [LIVE]😈📁
 https://bf.jalaplay.net/live/5005018.m3u8?txSecret=f380ca20447a3b31d472e6bb6e041513&txTime=69bc383b
-#EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Lyon😈VS😈RC Celta [LIVE]😈📁
-https://bf.jalaplay.net/live/322677.m3u8?txSecret=f2552f5ee121df4c28aaeb48815811bd&txTime=69bc32e8
 #EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Midtjylland😈VS😈Nottingham Forest [LIVE]😈📁
-https://bf.jalaplay.net/live/5004447.m3u8?txSecret=206cffa94b8e0cb2d8e7495b1bc59f80&txTime=69bc2bc5
+https://bf.jalaplay.net/live/322693.m3u8?txSecret=866597fc449e3859d1f43548b25ebdab&txTime=69bc39c5
 #EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Midtjylland😈VS😈Nottingham Forest [LIVE]😈📁
-https://bf.jalaplay.net/live/322693.m3u8?txSecret=1bc628241a628d352a85ae36677e9616&txTime=69bc2bb5
+https://bf.jalaplay.net/live/5004447.m3u8?txSecret=e605f8ee0d3fe028161a3c5594a2373c&txTime=69bc39d8
 #EXTINF:-1 group-title="📁😈 UEFA Europa League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",📁😈Midtjylland😈VS😈Nottingham Forest [LIVE]😈📁
 https://bf.jalaplay.net/live/322720.m3u8?txSecret=022c23bb74ff547947c14853d96aca52&txTime=69bc2ef2
 #EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈AEK Larnaca😈VS😈Crystal Palace [LIVE]😈📁
-https://bf.jalaplay.net/live/5004991.m3u8?txSecret=fc6eb38dbde1868a68883c414aeee465&txTime=69bc307a
-#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈AEK Larnaca😈VS😈Crystal Palace [LIVE]😈📁
 https://bf.jalaplay.net/live/5004448.m3u8?txSecret=51f2270cf40d6acb8d641d1e7646960a&txTime=69bc2c74
 #EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈AEK Larnaca😈VS😈Crystal Palace [LIVE]😈📁
-https://bf.jalaplay.net/live/5004994.m3u8?txSecret=a3497d88a3e5e855ac2d437fd244b331&txTime=69bc2ef1
+https://bf.jalaplay.net/live/5004991.m3u8?txSecret=fc6eb38dbde1868a68883c414aeee465&txTime=69bc307a
 #EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈AEK Larnaca😈VS😈Crystal Palace [LIVE]😈📁
-https://bf.jalaplay.net/live/5004691.m3u8?txSecret=21acf5ca867696f231cd43760f3467a8&txTime=69bc2b2c
+https://bf.jalaplay.net/live/5004691.m3u8?txSecret=f691b5f78b165ab1f15a4d9f8e574f49&txTime=69bc393d
+#EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈AEK Larnaca😈VS😈Crystal Palace [LIVE]😈📁
+https://bf.jalaplay.net/live/5004994.m3u8?txSecret=a3497d88a3e5e855ac2d437fd244b331&txTime=69bc2ef1
 #EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈Rakow Czestochowa😈VS😈Fiorentina [LIVE]😈📁
 https://bf.jalaplay.net/live/322580.m3u8?txSecret=22b037076eacb695ec9c752ca6546ab2&txTime=69bc3270
 #EXTINF:-1 group-title="📁😈 UEFA Europa Conference League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",📁😈AEK Athens😈VS😈NK Publikum Celje [LIVE]😈📁
