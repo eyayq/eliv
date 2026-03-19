@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Thu Mar 19 12:18:40 2026
+# Generated Thu Mar 19 12:28:18 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 19-03-2026 19:18:31 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 19-03-2026 19:28:04 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈FK Andijon😈VS😈Mashal Muborak [LIVE]😈📁
 https://bf.jalaplay.net/live/322572.m3u8?txSecret=8bfe53ac2f28e1c756f36e81dabc4155&txTime=69bbdee5
