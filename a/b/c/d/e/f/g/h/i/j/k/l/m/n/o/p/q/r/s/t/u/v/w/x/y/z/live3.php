@@ -1,25 +1,21 @@
 #EXTM3U
-# Generated Thu Mar 19 16:59:23 2026
+# Generated Thu Mar 19 17:05:57 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 19-03-2026 23:59:08 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 00:05:44 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Azerbaijan Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fef1f81febbe012e11f987726f8fef15.png",📁😈Sabah Baku😈VS😈Sumgayit FK [LIVE]😈📁
-https://bf.jalaplay.net/live/5005009.m3u8?txSecret=8cd9793cdce121344f7bc6e87be57019&txTime=69bc28d5
-#EXTINF:-1 group-title="📁😈 Azerbaijan Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fef1f81febbe012e11f987726f8fef15.png",📁😈Sabah Baku😈VS😈Sumgayit FK [LIVE]😈📁
-https://bf.jalaplay.net/live/5004691.m3u8?txSecret=21acf5ca867696f231cd43760f3467a8&txTime=69bc2b2c
+#EXTINF:-1 group-title="📁😈 Russian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e0c9159f947b299772f5caa7ae4bf376.png",📁😈Krylya Sovetov😈VS😈Lokomotiv Moscow [LIVE]😈📁
+https://bf.jalaplay.net/live/5004447.m3u8?txSecret=206cffa94b8e0cb2d8e7495b1bc59f80&txTime=69bc2bc5
 #EXTINF:-1 group-title="📁😈 Russian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e0c9159f947b299772f5caa7ae4bf376.png",📁😈Krylya Sovetov😈VS😈Lokomotiv Moscow [LIVE]😈📁
 https://bf.jalaplay.net/live/5005018.m3u8?txSecret=67ca9dec01da749392e51067149c2f45&txTime=69bc2a28
 #EXTINF:-1 group-title="📁😈 Russian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e0c9159f947b299772f5caa7ae4bf376.png",📁😈Krylya Sovetov😈VS😈Lokomotiv Moscow [LIVE]😈📁
-https://bf.jalaplay.net/live/322693.m3u8?txSecret=28cf4d972d17f283dc0951c0f034d2bb&txTime=69bc1da4
+https://bf.jalaplay.net/live/322677.m3u8?txSecret=16956222993bf3644a8cc184e241f5d2&txTime=69bc2c31
 #EXTINF:-1 group-title="📁😈 Russian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e0c9159f947b299772f5caa7ae4bf376.png",📁😈Krylya Sovetov😈VS😈Lokomotiv Moscow [LIVE]😈📁
-https://bf.jalaplay.net/live/5004448.m3u8?txSecret=466c107b830687b69da842bd8ec0e40f&txTime=69bc1e63
+https://bf.jalaplay.net/live/5004448.m3u8?txSecret=51f2270cf40d6acb8d641d1e7646960a&txTime=69bc2c74
+#EXTINF:-1 group-title="📁😈 Russian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e0c9159f947b299772f5caa7ae4bf376.png",📁😈Krylya Sovetov😈VS😈Lokomotiv Moscow [LIVE]😈📁
+https://bf.jalaplay.net/live/322693.m3u8?txSecret=1bc628241a628d352a85ae36677e9616&txTime=69bc2bb5
 #EXTINF:-1 group-title="📁😈 Russian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e0c9159f947b299772f5caa7ae4bf376.png",📁😈Krylya Sovetov😈VS😈Lokomotiv Moscow [LIVE]😈📁
 https://bf.jalaplay.net/live/5004995.m3u8?txSecret=1f6d35f4eb0a05c79730a624cc60a78d&txTime=69bc2038
-#EXTINF:-1 group-title="📁😈 Russian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e0c9159f947b299772f5caa7ae4bf376.png",📁😈Krylya Sovetov😈VS😈Lokomotiv Moscow [LIVE]😈📁
-https://bf.jalaplay.net/live/5004447.m3u8?txSecret=3b44b5a46cd7c944c0031533f324b04b&txTime=69bc1db4
-#EXTINF:-1 group-title="📁😈 Russian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e0c9159f947b299772f5caa7ae4bf376.png",📁😈Krylya Sovetov😈VS😈Lokomotiv Moscow [LIVE]😈📁
-https://bf.jalaplay.net/live/322677.m3u8?txSecret=1ebd34e0084a0f865a032ec071beb690&txTime=69bc1e20
-#EXTINF:-1 group-title="📁😈 Turkish Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png",📁😈Konyaspor😈VS😈Genclerbirligi [0m]😈📁
+#EXTINF:-1 group-title="📁😈 Turkish Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png",📁😈Konyaspor😈VS😈Genclerbirligi [LIVE]😈📁
 https://bf.jalaplay.net/live/322717.m3u8?txSecret=e0170f893b47f3c6698af2b7b8508d84&txTime=69bc226e
-#EXTINF:-1 group-title="📁😈 Turkish Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png",📁😈Besiktas JK😈VS😈Kasimpasa [0m]😈📁
+#EXTINF:-1 group-title="📁😈 Turkish Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png",📁😈Besiktas JK😈VS😈Kasimpasa [LIVE]😈📁
 https://bf.jalaplay.net/live/322801.m3u8?txSecret=7b2477f9cc2933da5c5f93593b5fc677&txTime=69bc24ce
