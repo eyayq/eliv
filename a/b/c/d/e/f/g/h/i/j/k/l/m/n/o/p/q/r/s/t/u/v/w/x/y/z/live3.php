@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Thu Mar 19 01:04:38 2026
+# Generated Thu Mar 19 01:10:59 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 19-03-2026 08:04:28 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Thursday 19-03-2026 08:10:46 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Clube de Regatas Vasco da Gama😈VS😈Fluminense RJ [LIVE]😈📁
 https://bf.jalaplay.net/live/5005035.m3u8?txSecret=b0ca389fcc09d9fa12c78570596c3a9a&txTime=69bb4697
