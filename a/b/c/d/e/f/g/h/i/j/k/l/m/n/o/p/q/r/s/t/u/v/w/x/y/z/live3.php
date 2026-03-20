@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Fri Mar 20 16:27:17 2026
+# Generated Fri Mar 20 16:29:15 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 23:27:02 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 23:28:59 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Italian Campionato Primavera 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png",📁😈Verona U20😈VS😈Torino U20 [LIVE]😈📁
 https://bf.jalaplay.net/live/322580.m3u8?txSecret=4d67cb532644fe21ae5dcca909c8c745&txTime=69bd6ac2
