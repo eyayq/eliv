@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Fri Mar 20 15:28:02 2026
+# Generated Fri Mar 20 15:35:11 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 22:27:46 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 22:34:59 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Indian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png",📁😈Mohun Bagan Super Giant😈VS😈Mumbai City FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5004448.m3u8?txSecret=8ab64d76aeda57aa097b0f6ee44fc815&txTime=69bd5b16
