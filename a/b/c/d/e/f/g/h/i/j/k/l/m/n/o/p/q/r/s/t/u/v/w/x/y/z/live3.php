@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Fri Mar 20 05:13:08 2026
+# Generated Fri Mar 20 05:18:55 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 12:12:52 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 12:18:46 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 J2/J3 100 Year Vision League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png",📁😈Albirex Niigata😈VS😈Kataller Toyama [LIVE]😈📁
 https://bf.jalaplay.net/live/5004423.m3u8?txSecret=943c2d51e4246bf81e3ceaa079588543&txTime=69bcd4ac
