@@ -1,9 +1,9 @@
 #EXTM3U
-# Generated Fri Mar 20 00:42:21 2026
+# Generated Fri Mar 20 00:48:11 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 07:42:07 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 07:47:57 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈CR Flamengo😈VS😈Remo Belem (PA) [LIVE]😈📁
-https://bf.jalaplay.net/live/5004453.m3u8?txSecret=1e8b36b74fe11ebf0efb58aac1c46baf&txTime=69bc8a53
+https://bf.jalaplay.net/live/5004453.m3u8?txSecret=fb7330c1bd5b6b2c64d87b8802514884&txTime=69bc9864
 #EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Chapecoense SC😈VS😈Sport Club Corinthians Paulista [LIVE]😈📁
 https://bf.jalaplay.net/live/5005035.m3u8?txSecret=674b09d76ffb73c0ac9884cf7bffddf8&txTime=69bc8e59
