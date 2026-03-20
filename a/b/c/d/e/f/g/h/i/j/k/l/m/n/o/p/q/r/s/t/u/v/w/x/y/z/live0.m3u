@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-20 10:27:08
-# 🔄 Total Channels: 1910
+# ⏰ Latest Updated: 2026-03-20 10:33:17
+# 🔄 Total Channels: 1918
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -55,6 +55,9 @@ https://live5.msrktz.app/live/90865415.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fb0f48eaeeab5946deb0073f4163eac.png!w80" group-title="Live Event: Colalive",16:30 20/03 Peninsula Power vs Gold Coast United Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/71426314.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/624b1a84ff50919f44835640108bdd42.png!w80" group-title="Live Event: Colalive",17:00 20/03 Suwon KT vs KoGas Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT: MANUAL",03:00 WIB - 21 MARET 2026 AFC Bournemouth vs Manchester United
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
@@ -624,102 +627,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [CONG CHAT] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1774004739-0-0-f2609896f4dfe98b9c5a37aa1906e997
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [CONG CHAT] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1774004739-0-0-62ae03b9521bc9524828e82307fc026b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [CONG CHAT] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1774004739-0-0-fd20bff403e34b6ff8ba131c1b499e47
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [CONG CHAT] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1774004739-0-0-6ec87189783940f5c6bf2f43a1e14cc5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/9db80bbc6b46c6707cb7727d51b48785.png" group-title="Live Event: socolive",15:35 ngay 20/03 Western Sydney vs Adelaide United [ DOM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1774004739-0-0-4604516a3e42386ffe559d54ae75f6ab
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/9db80bbc6b46c6707cb7727d51b48785.png" group-title="Live Event: socolive",15:35 ngay 20/03 Western Sydney vs Adelaide United [ DOM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1774004739-0-0-b668f237c8a68919cc86e96f7b9615d9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/9db80bbc6b46c6707cb7727d51b48785.png" group-title="Live Event: socolive",15:35 ngay 20/03 Western Sydney vs Adelaide United [ DOM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1774004739-0-0-46480ceedd3aac67b6ed728147eeb1a6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/9db80bbc6b46c6707cb7727d51b48785.png" group-title="Live Event: socolive",15:35 ngay 20/03 Western Sydney vs Adelaide United [ DOM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1774004739-0-0-673e71fe27a3f21618848d84c677ae83
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [HUNTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1774004739-0-0-3b17678649d63cb0a2b634c8261dee83
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [HUNTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1774004739-0-0-6c82bcb30036ba6e4e9a4598e98e8718
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [HUNTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774004739-0-0-9de97d40677a0f45d015aef45ae0f57a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [HUNTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774004739-0-0-27734f2ce3ddef800594d21c059b3d76
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [HOI GYM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1774004739-0-0-53190718d638596bf0ee6152fb7866a6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [HOI GYM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1774004739-0-0-c873f2a2ca9a73f87b3435822cab870a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [HOI GYM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1774004739-0-0-a435478929f9b974b44bc348bc15f4f6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [HOI GYM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1774004739-0-0-c66c15f740ceb00d1c1acbdca235db68
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [A CHE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1774004739-0-0-94c428ea5ea52091d1c56ea4901a992d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [A CHE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1774004739-0-0-88f7db15a8a6b9c33436c8c2e6c723fe
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [A CHE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1774004739-0-0-41fad68ac17e29b405424fd92cfff0de
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [A CHE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1774004739-0-0-0488f438d7a5001a5395fd2049338faf
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4242052cf533ea5df2eae7df6c7180e0.png" group-title="Live Event: socolive",17:00 ngay 20/03 Suwon KT vs KoGas [ HENRY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1774004739-0-0-4093dc9a21af1fd3d2d399ece2b3257c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4242052cf533ea5df2eae7df6c7180e0.png" group-title="Live Event: socolive",17:00 ngay 20/03 Suwon KT vs KoGas [ HENRY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1774004739-0-0-f62745c8c4a81815d403e28a64c7009c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4242052cf533ea5df2eae7df6c7180e0.png" group-title="Live Event: socolive",17:00 ngay 20/03 Suwon KT vs KoGas [ HENRY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1774004739-0-0-ff3d9703df64ca8232cb6e3322d30faf
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4242052cf533ea5df2eae7df6c7180e0.png" group-title="Live Event: socolive",17:00 ngay 20/03 Suwon KT vs KoGas [ HENRY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1774004739-0-0-41fafc25c045a0a8531ef103f0913330
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/3d94d09e3d8b3ab99a130fd50792aa14.png" group-title="Live Event: socolive",16:15 ngay 20/03 Oakleigh Cannons vs Caroline Springs George Cross [ GON] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=ecc839e634f1220365b2d259ea50b945&txTime=69bd7053
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/3d94d09e3d8b3ab99a130fd50792aa14.png" group-title="Live Event: socolive",16:15 ngay 20/03 Oakleigh Cannons vs Caroline Springs George Cross [ GON] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=8876a471b4ad6f87b842e35c9b4b3ce6&txTime=69bd7053
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/3d94d09e3d8b3ab99a130fd50792aa14.png" group-title="Live Event: socolive",16:15 ngay 20/03 Oakleigh Cannons vs Caroline Springs George Cross [ GON] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=ecc839e634f1220365b2d259ea50b945&txTime=69bd7053
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/3d94d09e3d8b3ab99a130fd50792aa14.png" group-title="Live Event: socolive",16:15 ngay 20/03 Oakleigh Cannons vs Caroline Springs George Cross [ GON] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=8876a471b4ad6f87b842e35c9b4b3ce6&txTime=69bd7053
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774004738-0-0-48d7f59b12102b10dbac973858488a5e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774004738-0-0-f11935e8bdd3a6c1397f2dc7ad632f54
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774004738-0-0-8d57d533652aa43f77145656bfd4fc74
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774004738-0-0-e827545c4c6e0532a42ad9c5d53aae39
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4242052cf533ea5df2eae7df6c7180e0.png" group-title="Live Event: socolive",17:00 ngay 20/03 Suwon KT vs KoGas [CHAN SENA] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1774005099-0-0-ca631c9f03a30d4912727461cc959985
@@ -852,6 +759,126 @@ https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1774005459-0-0-39b9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/47f2504616fc8e09ed6e4b91a711ecc8.png" group-title="Live Event: socolive",16:30 ngay 20/03 Peninsula Power vs Gold Coast United [ XO] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1774005459-0-0-beb09b3b4a1043854620d02f3998a838
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4242052cf533ea5df2eae7df6c7180e0.png" group-title="Live Event: socolive",17:00 ngay 20/03 Suwon KT vs KoGas [ HENRY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1774005819-0-0-f13f6364dccb361e3555a0ab5cd8ed04
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4242052cf533ea5df2eae7df6c7180e0.png" group-title="Live Event: socolive",17:00 ngay 20/03 Suwon KT vs KoGas [ HENRY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1774005819-0-0-198cd6d10a2f79f7974e045a9627d4d2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4242052cf533ea5df2eae7df6c7180e0.png" group-title="Live Event: socolive",17:00 ngay 20/03 Suwon KT vs KoGas [ HENRY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1774005819-0-0-227f9938e5841cb5f7d8b6c94cd6924c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4242052cf533ea5df2eae7df6c7180e0.png" group-title="Live Event: socolive",17:00 ngay 20/03 Suwon KT vs KoGas [ HENRY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1774005819-0-0-fac910568410cb62d2fcc5c727ed83ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/9db80bbc6b46c6707cb7727d51b48785.png" group-title="Live Event: socolive",15:35 ngay 20/03 Western Sydney vs Adelaide United [ DOM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1774005819-0-0-e72808a82c67b000689e858402bb48cd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/9db80bbc6b46c6707cb7727d51b48785.png" group-title="Live Event: socolive",15:35 ngay 20/03 Western Sydney vs Adelaide United [ DOM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1774005819-0-0-6a6a12d0faad4289f36e492e4defd492
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/9db80bbc6b46c6707cb7727d51b48785.png" group-title="Live Event: socolive",15:35 ngay 20/03 Western Sydney vs Adelaide United [ DOM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1774005819-0-0-ba2f9fdbe1f987e01f5e3890844d017b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/9db80bbc6b46c6707cb7727d51b48785.png" group-title="Live Event: socolive",15:35 ngay 20/03 Western Sydney vs Adelaide United [ DOM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1774005819-0-0-c51498e66de9fb13b17d8ce90da1d94c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c9bf5c715e852a6da8ea65fae50d673f.png" group-title="Live Event: socolive",18:00 ngay 20/03 Dalian Yingbo vs Shanghai Port [ 7UP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1774005819-0-0-4e66e71dc46471f7c7f39ae2289c23b9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c9bf5c715e852a6da8ea65fae50d673f.png" group-title="Live Event: socolive",18:00 ngay 20/03 Dalian Yingbo vs Shanghai Port [ 7UP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1774005819-0-0-f635f192107bb66835bcfdffa0c8d615
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c9bf5c715e852a6da8ea65fae50d673f.png" group-title="Live Event: socolive",18:00 ngay 20/03 Dalian Yingbo vs Shanghai Port [ 7UP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1774005819-0-0-08f6b1009c98624aaeab2a4ad2f6dca9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c9bf5c715e852a6da8ea65fae50d673f.png" group-title="Live Event: socolive",18:00 ngay 20/03 Dalian Yingbo vs Shanghai Port [ 7UP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1774005819-0-0-b55e330bb8159ff8960596831ab62635
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [CONG CHAT] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1774005819-0-0-9bf7678ea54abbbaccb4ab1446d5f255
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [CONG CHAT] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1774005819-0-0-ac91ebdfbf40bebe0e3f64c989ae4eed
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [CONG CHAT] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1774005819-0-0-e6b009bdcfbfc10e9780112bf8cfdc19
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [CONG CHAT] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1774005819-0-0-b2d4b74968e74a8e1ae07daafdbfe7ab
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [HOI GYM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1774005819-0-0-5852a23aa5b68dd0f8c7f5d525e4a24e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [HOI GYM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1774005819-0-0-867ff3ab3afb197b7efe7a46df037659
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [HOI GYM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1774005819-0-0-d339a8af149036e56a56ecdc20ea98c9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/f83da190e6ea9c985166fb85c6177007.png" group-title="Live Event: socolive",16:00 ngay 20/03 Brisbane Roar Women vs Newcastle Jets Women [HOI GYM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1774005819-0-0-6056ca2d472bf6317ed75baef6d32990
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/3d94d09e3d8b3ab99a130fd50792aa14.png" group-title="Live Event: socolive",16:15 ngay 20/03 Oakleigh Cannons vs Caroline Springs George Cross [ GON] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=8435f171331ea11f2b0776b9a7bedef7&txTime=69bd748b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/3d94d09e3d8b3ab99a130fd50792aa14.png" group-title="Live Event: socolive",16:15 ngay 20/03 Oakleigh Cannons vs Caroline Springs George Cross [ GON] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=d51808ab8aee32c3e5a48f632df61d64&txTime=69bd748b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/3d94d09e3d8b3ab99a130fd50792aa14.png" group-title="Live Event: socolive",16:15 ngay 20/03 Oakleigh Cannons vs Caroline Springs George Cross [ GON] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=8435f171331ea11f2b0776b9a7bedef7&txTime=69bd748b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/3d94d09e3d8b3ab99a130fd50792aa14.png" group-title="Live Event: socolive",16:15 ngay 20/03 Oakleigh Cannons vs Caroline Springs George Cross [ GON] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=d51808ab8aee32c3e5a48f632df61d64&txTime=69bd748b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [A CHE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1774005819-0-0-e0437e41d741bf8933b2a94db17b1406
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [A CHE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1774005819-0-0-2ff1a7ae3bbac4583750d26b69bf9c2a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [A CHE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1774005819-0-0-b5e229b1e32132fd704b4e9b85f91802
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [A CHE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1774005819-0-0-74b5f24e3a2ecde69c115cf71150bb58
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [HUNTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1774005819-0-0-2444ea612c01df7af76e0a7ab31b5d08
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [HUNTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1774005819-0-0-5ee0154a2fe91bfe0a65c614bb8c61cb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [HUNTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774005819-0-0-0b202aef850e60c31967459d63c0d84c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/3262d7efd7807b545230c1bb9520ba77.png" group-title="Live Event: socolive",16:15 ngay 20/03 TNT Tropang Giga vs Rain or Shine Elastopainters [HUNTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774005819-0-0-8a0c1289a47baf89fbeb0c303ecb960b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/2f709d5b80bb0ecc08b8b37f165ccc9b.png" group-title="Live Event: socolive",18:00 ngay 20/03 Wuxi Wugo vs Shenzhen Juniors [ FIREMAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1774005819-0-0-101f2c7f4068abffe1d1e0cd002e1575
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/2f709d5b80bb0ecc08b8b37f165ccc9b.png" group-title="Live Event: socolive",18:00 ngay 20/03 Wuxi Wugo vs Shenzhen Juniors [ FIREMAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1774005819-0-0-189b6e8effb463047aee5fa4f0312f9c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/2f709d5b80bb0ecc08b8b37f165ccc9b.png" group-title="Live Event: socolive",18:00 ngay 20/03 Wuxi Wugo vs Shenzhen Juniors [ FIREMAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1774005819-0-0-31e872f26a4fca42aa96741b58287560
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/2f709d5b80bb0ecc08b8b37f165ccc9b.png" group-title="Live Event: socolive",18:00 ngay 20/03 Wuxi Wugo vs Shenzhen Juniors [ FIREMAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1774005819-0-0-0afbebbe67310afd9bc07a59114d0906
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774005819-0-0-f0cac732e2225ee99ac295ef7aa114cc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774005819-0-0-cb908a2f0f3190ee1d23c9da9aa544fb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774005819-0-0-1afec5723ee7095f0c1e9accf12b1266
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774005819-0-0-c491cf56a3d63cbab141c954702445cf
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/939.png" group-title="Live Event: Hội quán",15:35 20/03 Western Sydney Wanderers vs Adelaide United FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2880,43 +2907,41 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=2a2a47b33f66a95a9d07c355dce488d1&wsABSTime=1774045543
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=a7523722419d3b909da547ffade264d5&wsABSTime=1774045842
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",15:35 WIB - WESTERN SYDNEY VS ADELAIDE UNITED [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=8b1494eafdb2e557f41fa212b6e4bd66&wsABSTime=1774045543
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=309bfb46d69b88ad4212b18df92c23f9&wsABSTime=1774045843
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",15:45 WIB - DANDENONG CITY SC VS HUME CITY [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=426be8613d0f0847313a3c443c1ffcb4&wsABSTime=1774045544
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=fc21555f238d4878c8ba72aaf4f59c26&wsABSTime=1774045843
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",16:00 WIB - NU BRISBANE ROAR VS NU NEWCASTLE JETS [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=18b0221c0a34910f124dc69b3f0b3cd3&wsABSTime=1774045544
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=b5930ed940149a2d9cd4428f1aeb39a0&wsABSTime=1774045844
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",16:30 WIB - WEST BIRKALLA VS WHITE CITY [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=73face7788e29508c645f9af1a73a1b1&wsABSTime=1774045546
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=3cbbe86943611df6611565b7d468b7c9&wsABSTime=1774045845
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",17:00 WIB - KYZYLZHAR VS IRTYSH PAVLODAR [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=1706b81e998152f254890e72780e5152&wsABSTime=1774045547
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",16:00 WIB - CAMARINES SUR EXPRESS VS TIKAS KAPAMPANGAN [Server 1] [FOOTBALL]
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=d6bc46b050d5bbc047d7258c8267b29c&wsABSTime=1774045846
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",17:00 WIB - ADELAIDE COMETS FC VS ADELAIDE U21 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel44.flv?wsSecret=f81221f74a4acd3749fbc84bc5d6fdbd&wsABSTime=1774045547
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=f3c257ee68c6fa8d5db263b9fe90f6fd&wsABSTime=1774045847
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - NU MANLY UTD VS NU NORTHERN TIGERS [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | AUS A-League",Western Sydney vs Adelaide United
-https://play3.yhuias.com/live/111421607139_467244901_adaptive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | AUS W-League",Brisbane Roar Women vs Newcastle Jets Women
-https://v.lfsxfj.com/live/100471.m3u8?txSecret=f51ca967df7d106e5339b248243d687c&txTime=69BD25A9&sign=503449fddafbe970
+https://v.lfsxfj.com/live/100471.m3u8?txSecret=17182bae9ec32b9d290b62b4db95240a&txTime=69BD2879&sign=58d064825fb60e2a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+) (Kadang Offline)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
