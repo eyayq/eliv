@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-20 19:29:37
-# 🔄 Total Channels: 2008
+# ⏰ Latest Updated: 2026-03-20 19:35:57
+# 🔄 Total Channels: 2012
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -1154,18 +1154,6 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774038219-0-0-5470
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774038219-0-0-f15190dd95511078a80aa5ce1b5844d3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a8/Cagliari_Calcio_1920.png" group-title="Live Event: Hội quán",00:30 21/03 Cagliari vs Napoli FHD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a8/Cagliari_Calcio_1920.png" group-title="Live Event: Hội quán",00:30 21/03 Cagliari vs Napoli HD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a8/Cagliari_Calcio_1920.png" group-title="Live Event: Hội quán",00:30 21/03 Cagliari vs Napoli SD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4e/Genoa_cfc.png" group-title="Live Event: Hội quán",02:45 21/03 Genoa vs Udinese FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1178,6 +1166,42 @@ https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png" group-title="Live Event: Hội quán",03:00 21/03 Bournemouth vs Manchester United FHD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png" group-title="Live Event: Hội quán",03:00 21/03 Bournemouth vs Manchester United HD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png" group-title="Live Event: Hội quán",03:00 21/03 Bournemouth vs Manchester United SD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png" group-title="Live Event: Hội quán",03:00 21/03 Bournemouth vs Manchester United FHD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png" group-title="Live Event: Hội quán",03:00 21/03 Bournemouth vs Manchester United HD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hif/5/53/AFC_Bournemouth_%282013%29.png" group-title="Live Event: Hội quán",03:00 21/03 Bournemouth vs Manchester United SD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg" group-title="Live Event: Hội quán",03:00 21/03 Villarreal vs Real Sociedad FHD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg" group-title="Live Event: Hội quán",03:00 21/03 Villarreal vs Real Sociedad HD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/70/Villarreal_CF_logo.svg" group-title="Live Event: Hội quán",03:00 21/03 Villarreal vs Real Sociedad SD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/83d851fb1110f1e395690403f9cf01bb.webp" group-title="live event: fawa",[Austria Bundesliga] Sturm Graz vs Salzburg Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -3168,67 +3192,64 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=2&url=https:%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fkidsflix.jpg" group-title="KIDS",KIDSFLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:30 WIB - CAGLIARI VS NAPOLI [Server 1] [FOOTBALL]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=86f1d3a04d38c2716d3f16a27e8b5331&wsABSTime=1774077942
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:30 WIB - CAGLIARI VS NAPOLI [Server 2] [FOOTBALL]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=e15a27b9655b5f151eba96a5f5d3b3c5&wsABSTime=1774077942
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",02:30 WIB - RB LEIPZIG VS TSG HOFFENHEIM [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=d6013a0823ed8df27d3afa882ceb7c1f&wsABSTime=1774077943
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=ca3177f5746442cbca22a26ae5575480&wsABSTime=1774078542
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",02:45 WIB - GENOA VS UDINESE [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=7f3ca945b40d3b14e4dc7b3dc097edd3&wsABSTime=1774077943
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=fd382036807346de1f793ca68ee95728&wsABSTime=1774078542
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",03:00 WIB - AFC BOURNEMOUTH VS MANCHESTER UNITED [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=d555edf8bfb6f84b4153d30c363cfc33&wsABSTime=1774077944
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=52371c48c00e9bab93ca1577f45f06fc&wsABSTime=1774078543
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",03:00 WIB - AFC BOURNEMOUTH VS MANCHESTER UNITED [Server 2] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=b3332a4dc3b88b0ece922a5a137042f3&wsABSTime=1774077944
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=a372203e79e1a880c2eb338f5e7dca0c&wsABSTime=1774078543
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",03:00 WIB - VILLARREAL VS REAL SOCIEDAD [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=0dc966d0825bdd988498531fab7565af&wsABSTime=1774078544
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:30 WIB - HANNOVER 96 VS E BRAUNSCHWEIG [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=660f418f7b0cae4054161d9fed991e6c&wsABSTime=1774077944
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:30 WIB - KARLSRUHER SC VS GREUTHER FURTH [Server 1] [FOOTBALL]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=2ad2edd0ef947f4e79481e2355c52afb&wsABSTime=1774077945
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=0dc966d0825bdd988498531fab7565af&wsABSTime=1774078544
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",01:00 WIB - WADI DEGLA SC VS EL GOUNAH [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=e021e36dc00021a0d5dd6e08914fe1c4&wsABSTime=1774077946
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=f4b1d67fa321c9471d594543eb6b29d1&wsABSTime=1774078544
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",01:00 WIB - VEJLE VS ODENSE BK [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=363371863f595a71f19010098cbd9355&wsABSTime=1774077946
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=da181eb6724500ce2cd209c3edd7a55b&wsABSTime=1774078545
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",01:30 WIB - STURM GRAZ VS RED BULL SALZBURG [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=bb5800761bcd188e4726bc5752464b11&wsABSTime=1774077947
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - NU SGS ESSEN VS NU BAYERN MUNCHEN [FOOTBALL]
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=f2f1bfd866e2a000acad38757eef8886&wsABSTime=1774078546
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",02:00 WIB - HERACLES ALMELO VS EXCELSIOR SBV [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=c44158a9069948eb98e18f53114eedd0&wsABSTime=1774078547
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - GD CHAVES VS UNIAO LEIRIA [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | DEN Superliga",Vejle vs Odense BK
-https://v.lfsxfj.com/live/100335.m3u8?txSecret=41759e80cdf8762bd3be4c11ab1d8abb&txTime=69BDA439&sign=ce702757f3b7b239
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | FRA Ligue 1",RC Lens vs Angers SCO
-https://hwcn111pull-b.bszb.me/live/2459618_1774026326.flv
+https://v.lfsxfj.com/live/100335.m3u8?txSecret=36bbb8732e0f10657943bae5c0ba7166&txTime=69BDA5A1&sign=ab41415122ddc654
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | ENG EFL Championship",Preston North End vs Stoke City
+https://hwcn111pull-b.bszb.me/live/2048226_1774028920.flv
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | ENG Premier League",Bournemouth AFC vs Manchester United
+https://hwcn111pull-b.bszb.me/live/2455722_1774027972.flv
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | FRA Ligue 2",Boulogne vs Nancy
 https://hwcn111pull-b.bszb.me/live/2380018_1774032502.flv
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | FRA Ligue 2",Clermont vs Red Star FC 93
@@ -3239,12 +3260,8 @@ https://hwcn111pull-b.bszb.me/live/2069958_1774032115.flv
 https://hwcn111pull-b.bszb.me/live/2368794_1774034512.flv
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | GER Bundesliga 2",Hannover 96 vs Eintracht Braunschweig
 https://live1.trendgallary.com/live/12535682_4ae41ba536b64b5f9484db247226f120.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | GER Bundesliga 2",Karlsruher SC vs SpVgg Greuther Furth
-https://live2.trendgallary.com/live/12535683_56051ff623c68652e080646780102f80.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | ITA Serie A",Cagliari vs Napoli
-https://live.trendgallary.com/live/12418742_8c741a050004097bbb18611cb1cc94a1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | NED Eredivisie",Heracles Almelo vs Excelsior SBV
-https://v.lfsxfj.com/live/100316.m3u8?txSecret=28bf298d52c899cde2d4f9f7dbe31c63&txTime=69BDA43A&sign=8050c8d9c94eb8af
+https://v.lfsxfj.com/live/100316.m3u8?txSecret=b38c95fc610d0412455a0564a923b2bd&txTime=69BDA5A2&sign=263ac669c3ca24d6
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | Liga Portugal 2",GD Chaves vs Uniao Leiria
 https://live.trendgallary.com/live/12598138_a3b723e43dbf454a39f34cb3e7cc1076.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+) (Kadang Offline)
