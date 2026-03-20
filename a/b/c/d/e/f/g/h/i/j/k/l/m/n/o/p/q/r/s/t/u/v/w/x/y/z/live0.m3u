@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-20 05:09:16
-# 🔄 Total Channels: 1796
+# ⏰ Latest Updated: 2026-03-20 05:16:37
+# 🔄 Total Channels: 1800
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -46,6 +46,12 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0a999ff8b768f0b5efb87511dc863265.png!w80" group-title="Live Event: Colalive",12:00 20/03 Thespakusatsu Gunma vs Shonan Bellmare Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/71426314.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a4bfaa33f9e24bdb4a4952a0b4aab142.png!w80" group-title="Live Event: Colalive",12:00 20/03 Albirex Niigata vs Kataller Toyama Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/Kc6R4Dv.png" group-title="LIVE EVENT: MANUAL",17:00 WIB - 19 MARET 2026 Hyundai Skywalkers vs KAL Jumbos
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -102,6 +108,44 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F165_1gtzd3qtet5.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:00   20/03 Albirex Niigata vs Kataller Toyama  SHIN m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F165_1gtzd3qtet5.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:00   20/03 Albirex Niigata vs Kataller Toyama  SHIN flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F286bffa41b3bdb74463d7ee911d04138%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",11:00   20/03 Briobecca Urayasu vs Yokogawa Musashino FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/2362444ddf4ceb41cfa11bceca1529f9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcd4c7b2fd21026461ee40e9c2dfad013%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",11:00   20/03 Verspah Oita vs Maruyasu Okazaki Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/91b2c0d55bd65dbec65fd93e8a37b071/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe1c36b1fbf3a971f685a4579aa3b9a79%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:00   20/03 Rancho Santana FC vs Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/958eac853335abb9afae7d19c72518c3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F1c2b8358a8c7ec3f733ba876a48c35e6%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:00   20/03 Indy Ignite Women vs Columbus Fury Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/11a8ed73bd30f540b30af6bce7eb957d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fca8cef4bf2453e526f069bbc9411c848%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",12:00   20/03 Thespa Kusatsu Gunma vs Shonan Bellmare Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a13f100d41d1b09ff1f3c8460897607f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F30d0ad2860333dc10d0c7f3d90fdda64%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   20/03 Westchester SC vs NY Renegades Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a9a8b2ea47e41978673a5ab038ac7892/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F76353fe712c35ce62ac6090890ac9245%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",12:00   20/03 Gangneung Citizen vs Dangjin Citizen Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3a9e01412275bdb26422c1a9cdef44c7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff6df891137f4a32deccaf168741d15f4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:00   20/03  vs Chattanooga Red Wolves Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7d4a09291596a92476572c35e68337c5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1ff2345d288d52fe3c419e29754fa164%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:30   20/03 Laredo Heat vs El Paso Locomotive FC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -142,38 +186,6 @@ https://live.alilicloud.com/live/0b4084ef501e8fc12add21a23fab0982/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/0675b3fae50bb2ad582e0a4622be0945/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F286bffa41b3bdb74463d7ee911d04138%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",11:00   20/03 Briobecca Urayasu vs Yokogawa Musashino FC Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2362444ddf4ceb41cfa11bceca1529f9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcd4c7b2fd21026461ee40e9c2dfad013%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",11:00   20/03 Verspah Oita vs Maruyasu Okazaki Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/91b2c0d55bd65dbec65fd93e8a37b071/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe1c36b1fbf3a971f685a4579aa3b9a79%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:00   20/03 Rancho Santana FC vs Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/958eac853335abb9afae7d19c72518c3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F1c2b8358a8c7ec3f733ba876a48c35e6%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:00   20/03 Indy Ignite Women vs Columbus Fury Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/11a8ed73bd30f540b30af6bce7eb957d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fca8cef4bf2453e526f069bbc9411c848%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",12:00   20/03 Thespa Kusatsu Gunma vs Shonan Bellmare Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a13f100d41d1b09ff1f3c8460897607f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F30d0ad2860333dc10d0c7f3d90fdda64%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   20/03 Westchester SC vs NY Renegades Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a9a8b2ea47e41978673a5ab038ac7892/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F76353fe712c35ce62ac6090890ac9245%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",12:00   20/03 Gangneung Citizen vs Dangjin Citizen Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3a9e01412275bdb26422c1a9cdef44c7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff6df891137f4a32deccaf168741d15f4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:00   20/03  vs Chattanooga Red Wolves Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7d4a09291596a92476572c35e68337c5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_133801_53d90f93.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",15:00   20/03 Sydney FC W vs Wellington Phoenix W HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -286,14 +298,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoihothd.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0980e8c4933b10aca16e3ba5b123f4f6%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",08:30   20/03 Dep.Independiente Medellin vs Atletico Junior Barranquilla Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/81522bf17590c57968f3ed72d426e1b0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4709357c274fe8465e2113334ddb1708%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",09:00   20/03 Xelaju MC vs CSD Municipal Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7f1820ad2494249a952f67fcc1446051/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F286bffa41b3bdb74463d7ee911d04138%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",11:00   20/03 Briobecca Urayasu vs Yokogawa Musashino FC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -310,54 +314,14 @@ https://live.alilicloud.com/live/a13f100d41d1b09ff1f3c8460897607f/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/3a9e01412275bdb26422c1a9cdef44c7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=1641374653d3426fcb4e567f08ffcf00&txTime=69bd25ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=70928849d7eaeafb20a165774aa45471&txTime=69bd25ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=1641374653d3426fcb4e567f08ffcf00&txTime=69bd25ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=70928849d7eaeafb20a165774aa45471&txTime=69bd25ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png" group-title="Live Event: socolive",12:00 ngay 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [ ROSI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773985658-0-0-75f3dd831759ae0e2413a3a903eb1cbc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png" group-title="Live Event: socolive",12:00 ngay 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [ ROSI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773985658-0-0-7a5de76fd41f3c3b1c854d31f460142c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png" group-title="Live Event: socolive",12:00 ngay 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [ ROSI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773985658-0-0-9e7657cc21e69c53448905f8a01857b0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png" group-title="Live Event: socolive",12:00 ngay 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [ ROSI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773985658-0-0-765f6ebc24349ad4ce7499ad7972b7f4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [TA BIEN GIOI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773985658-0-0-0d2925fade5e48165517156b0fdd9303
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [TA BIEN GIOI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773985658-0-0-5d6af5ab94eb040479d11f67d27d5e1c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [TA BIEN GIOI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773985658-0-0-ab19ff0026df0fc0bfb633982981c79d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [TA BIEN GIOI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773985658-0-0-11ad68faea731cf7b5abe183dc59a697
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png" group-title="Live Event: socolive",12:00 ngay 20/03 Gangneung Citizen vs Dangjin Citizen [XUAN SON] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1773985658-0-0-6866354ef7f346e1c06ae4455effd79a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png" group-title="Live Event: socolive",12:00 ngay 20/03 Gangneung Citizen vs Dangjin Citizen [XUAN SON] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1773985658-0-0-e034696e000fa37334cdc9834c983fb3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png" group-title="Live Event: socolive",12:00 ngay 20/03 Gangneung Citizen vs Dangjin Citizen [XUAN SON] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1773985658-0-0-2e9bc0f114f14d9179954031cc1a4c6d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png" group-title="Live Event: socolive",12:00 ngay 20/03 Gangneung Citizen vs Dangjin Citizen [XUAN SON] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1773985658-0-0-ae6cf6ace7b8f284d0ba66c04a33066d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0980e8c4933b10aca16e3ba5b123f4f6%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",08:30   20/03 Dep.Independiente Medellin vs Atletico Junior Barranquilla Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/81522bf17590c57968f3ed72d426e1b0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4709357c274fe8465e2113334ddb1708%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",09:00   20/03 Xelaju MC vs CSD Municipal Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7f1820ad2494249a952f67fcc1446051/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [TAM MAO] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=1d36b5dc6de1469426a1c7bcab4c8bc7&txTime=69bd2732
@@ -466,6 +430,54 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1773986378-0-0-796a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1773986378-0-0-9aac11a862ca6d93df5fe7ec730f7156
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [TA BIEN GIOI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1773986738-0-0-d8151f407bf609bc5493639c74039433
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [TA BIEN GIOI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1773986738-0-0-2ae0f8cd4cfe7ea4e068dbbb7709e3e3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [TA BIEN GIOI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1773986738-0-0-e02334669d608c53bd97f413fbf9fa56
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [TA BIEN GIOI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1773986738-0-0-5b90681b8029a306b9ddc25e2b0a836e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=a475fac91911a676ac2e8ad855061630&txTime=69bd2a02
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=ba809ba322406d86b0868a9fe6cb5313&txTime=69bd2a02
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=a475fac91911a676ac2e8ad855061630&txTime=69bd2a02
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/791ae75ae77f5f1f78ab5f0b546a3e27.png" group-title="Live Event: socolive",12:00 ngay 20/03 Albirex Niigata vs Kataller Toyama [RICKHANTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=ba809ba322406d86b0868a9fe6cb5313&txTime=69bd2a02
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png" group-title="Live Event: socolive",12:00 ngay 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [ ROSI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1773986738-0-0-87e73d33b462c6c00756e875f7c4cc94
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png" group-title="Live Event: socolive",12:00 ngay 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [ ROSI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1773986738-0-0-b936d3709073d296ed84e57225b5a3dc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png" group-title="Live Event: socolive",12:00 ngay 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [ ROSI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1773986738-0-0-687af1fbc438468e57d123dc95e9f458
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/bb7f1fbf4e37a44c1210e10dcda3c7df.png" group-title="Live Event: socolive",12:00 ngay 20/03 Thespa Kusatsu Gunma vs Shonan Bellmare [ ROSI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1773986738-0-0-1f5179a144bb8b054bf65efc94c3371b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png" group-title="Live Event: socolive",12:00 ngay 20/03 Gangneung Citizen vs Dangjin Citizen [XUAN SON] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1773986738-0-0-bc37aed359d9d00280c9a7117c91c2cf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png" group-title="Live Event: socolive",12:00 ngay 20/03 Gangneung Citizen vs Dangjin Citizen [XUAN SON] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1773986738-0-0-d2d41a6b9db87c16729d080f75354657
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png" group-title="Live Event: socolive",12:00 ngay 20/03 Gangneung Citizen vs Dangjin Citizen [XUAN SON] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1773986738-0-0-c69ba0dc6a735cb3679aed44375c6730
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/4daa2726501b70c57fa00e9a354e9db5.png" group-title="Live Event: socolive",12:00 ngay 20/03 Gangneung Citizen vs Dangjin Citizen [XUAN SON] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1773986738-0-0-4669b7ce84c64484f4ee1df2139286a8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/b/b3/AlbirexNiigata.png" group-title="Live Event: Hội quán",12:00 20/03 Albirex Niigata vs Kataller Toyama FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2482,32 +2494,32 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=3917dce3e94acd7ca479765f2840dfa2&wsABSTime=1774026060
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=b4bb6b47cb4a7289efef44bcf0ed9f58&wsABSTime=1774026948
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",12:00 WIB - THESPA GUNMA VS SHONAN BELLMARE [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=612f6088abeac1edfe3fd87bf93294ae&wsABSTime=1774026060
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=6056b9a650c3f7ac7f2d678eb51ff88f&wsABSTime=1774026948
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",14:15 WIB - NU PRESTON LIONS VS NU ALAMEIN [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=a7780b26a36520ebaed0b278df27c920&wsABSTime=1774026062
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=7017a977a67ce16150ef553d2d83c0b2&wsABSTime=1774026950
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",15:00 WIB - NU SYDNEY FC VS NU WELLINGTON PHOENIX [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=cd9284a6878ab96cd0cb10173102774f&wsABSTime=1774026063
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=a4f313a68ef9ffe535b8f9297706a469&wsABSTime=1774026951
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",10:15 WIB - RAYOS DE HERMOSILLO VS ASTROS DE JALISCO [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel55.flv?wsSecret=9b4dbafe7a046ee1d10169796668d0c5&wsABSTime=1774026063
+https://live1.pro2cdnlive.com/live/channel55.flv?wsSecret=4826a98b6e3b0a2b60194056488e04ca&wsABSTime=1774026952
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",13:00 WIB - NU AISIN AW WINGS VS NU YAMANASHI QUEENBEES [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=8b81e6d95a2041c1e2a3fcef0c05bb80&wsABSTime=1774026064
+https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=a11bbe16379ec17bc156ec84a6b811c8&wsABSTime=1774026952
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - NU SPERANZA OSAKA VS NU AC FUKUSHIMA [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | J2/J3 League",Albirex Niigata vs Kataller Toyama
