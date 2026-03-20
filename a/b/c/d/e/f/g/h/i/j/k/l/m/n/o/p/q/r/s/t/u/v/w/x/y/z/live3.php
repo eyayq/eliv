@@ -1,14 +1,14 @@
 #EXTM3U
-# Generated Fri Mar 20 15:55:09 2026
+# Generated Fri Mar 20 16:02:05 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 22:54:57 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Friday 20-03-2026 23:01:48 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Indian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png",📁😈Mohun Bagan Super Giant😈VS😈Mumbai City FC [LIVE]😈📁
-https://bf.jalaplay.net/live/5004991.m3u8?txSecret=1e0195f2e33cad41b5f70c580c4315e8&txTime=69bd6603
 #EXTINF:-1 group-title="📁😈 Indian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png",📁😈Mohun Bagan Super Giant😈VS😈Mumbai City FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5004994.m3u8?txSecret=1b3b8879d0138ebbed750436971338ee&txTime=69bd66d2
 #EXTINF:-1 group-title="📁😈 Indian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png",📁😈Mohun Bagan Super Giant😈VS😈Mumbai City FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5004448.m3u8?txSecret=bed23709e93a0b893cb2412f0cba29da&txTime=69bd6927
+#EXTINF:-1 group-title="📁😈 Indian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png",📁😈Mohun Bagan Super Giant😈VS😈Mumbai City FC [LIVE]😈📁
+https://bf.jalaplay.net/live/5004991.m3u8?txSecret=1e0195f2e33cad41b5f70c580c4315e8&txTime=69bd6603
 #EXTINF:-1 group-title="📁😈 Italian Campionato Primavera 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png",📁😈Verona U20😈VS😈Torino U20 [LIVE]😈📁
 https://bf.jalaplay.net/live/322801.m3u8?txSecret=199cfd3ee3fc028f45c062f9442f591e&txTime=69bd6b58
 #EXTINF:-1 group-title="📁😈 Italian Campionato Primavera 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png",📁😈Verona U20😈VS😈Torino U20 [LIVE]😈📁
