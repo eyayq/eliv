@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-20 16:13:54
-# 🔄 Total Channels: 1906
+# ⏰ Latest Updated: 2026-03-20 16:20:23
+# 🔄 Total Channels: 1889
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -49,6 +49,9 @@ http://103.66.62.83:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7dc80ef40b717d99f9aafeaf024f7e8c.png!w80" group-title="Live Event: Colalive",22:00 20/03 CLB Haras El Hedoud vs Ismaily Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/18812304.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e087c9b939975c0cb726253fc3c3e418.png!w80" group-title="Live Event: Colalive",23:00 20/03 Slavia Sofia vs Botev Plovdiv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/71426314.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FtSr5Mb.jpg" group-title="LIVE EVENT: MANUAL",03:00 WIB - 21 MARET 2026 AFC Bournemouth vs Manchester United
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
@@ -100,24 +103,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2195_1jej31aybee.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",22:15   20/03 FC Neftci Baku vs Mil Mugan  TAY MON KHANH m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2195_1jej31aybee.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",22:15   20/03 FC Neftci Baku vs Mil Mugan  TAY MON KHANH flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16074_1j5f9yc1jx2p.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",22:00   20/03 Verona U20 vs Torino U20  A TUA m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16074_1j5f9yc1jx2p.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",22:00   20/03 Verona U20 vs Torino U20  A TUA flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1774011961.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   20/03 SOHEE vs OK9 TV MEGA LIVE m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1774011961.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   20/03 SOHEE vs OK9 TV MEGA LIVE flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/HANGVU1.flv?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16074_1j5f9yc1jx2p.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",22:00   20/03 Verona U20 vs Torino U20  LU BO m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
@@ -166,46 +151,18 @@ https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F990_1%3A746htc3c12.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",23:00   20/03 Slavia Sofia vs Botev Plovdiv  LY UNG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",22:15   20/03 FC Neftci Baku vs Imisli FK Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2195_1jej31aybee.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",22:15   20/03 FC Neftci Baku vs Mil Mugan  TAY MON KHANH m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/71b6a80e7563803b09b31439b2186e13/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc385d7b0a7830a5221aed8680e978622%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   20/03 Pine Hills vs Samford Rangers Gvision TV
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2195_1jej31aybee.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",22:15   20/03 FC Neftci Baku vs Mil Mugan  TAY MON KHANH flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/69fb2ebbb2e23b14225e8c8a2b6ce7f7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F610947132320fba38ad81ce6a5d9e9d7%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   20/03 Bumamuru vs Kayanza Utd Gvision TV
+https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16074_1j5f9yc1jx2p.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",22:00   20/03 Verona U20 vs Torino U20  A TUA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/30eb370e4d99abdcac5dbc707931b0e7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21d12182372cb259dfcb484b2a7278bd%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   20/03 Redlands United FC vs Holland Park Hawks FC Gvision TV
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F16074_1j5f9yc1jx2p.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",22:00   20/03 Verona U20 vs Torino U20  A TUA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3da2b23a75e40105c7551dec81431fd4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa0eb517e8ba2ccd7626bc2f0c8cfb1fa%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",18:00   20/03 Royal Vision vs Olympique Star Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/90126d153196b4d28dfc8887ca1b3226/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   20/03 Slavia Sofia vs Botev Plovdiv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3c87c860d0e79450465aadf74e0970ae/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/5627fb408b434440aa6ddfaa4da85d23/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/5627fb408b434440aa6ddfaa4da85d23/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/5627fb408b434440aa6ddfaa4da85d23/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faade162afbd3dea9c10c569c221675fb%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   20/03 North Star vs St George Willawong FC Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/52eac1a9a887c3ed12b292d7e4c6e7ee/playlist.m3u8
+https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa63b7a7c3cbd2bfa58a1aae93d57b0d1%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",18:35   20/03 Qingdao Hainiu vs Zhejiang Professional FC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -354,10 +311,46 @@ https://pull-live3.fastestcdn-global.com/live/65bb5efad6a44de7a71ae8bbf2133d21/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://pull-live4.fastestcdn-global.com/live/65bb5efad6a44de7a71ae8bbf2133d21/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2F20251009_193732_ee0d8fd0.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",20:15   20/03 LPBank Ninh Binh vs The Cong Tan Cang HD2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m4x1.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",22:15   20/03 FC Neftci Baku vs Imisli FK Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/71b6a80e7563803b09b31439b2186e13/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc385d7b0a7830a5221aed8680e978622%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   20/03 Pine Hills vs Samford Rangers Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/69fb2ebbb2e23b14225e8c8a2b6ce7f7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F610947132320fba38ad81ce6a5d9e9d7%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   20/03 Bumamuru vs Kayanza Utd Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/30eb370e4d99abdcac5dbc707931b0e7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F21d12182372cb259dfcb484b2a7278bd%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   20/03 Redlands United FC vs Holland Park Hawks FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3da2b23a75e40105c7551dec81431fd4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa0eb517e8ba2ccd7626bc2f0c8cfb1fa%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",18:00   20/03 Royal Vision vs Olympique Star Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/90126d153196b4d28dfc8887ca1b3226/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   20/03 Slavia Sofia vs Botev Plovdiv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3c87c860d0e79450465aadf74e0970ae/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/5627fb408b434440aa6ddfaa4da85d23/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/5627fb408b434440aa6ddfaa4da85d23/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/5627fb408b434440aa6ddfaa4da85d23/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faade162afbd3dea9c10c569c221675fb%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   20/03 North Star vs St George Willawong FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/52eac1a9a887c3ed12b292d7e4c6e7ee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_130127_e3024d14.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",22:00   20/03 Haras El Hodood vs Ismaily SC HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -370,6 +363,18 @@ https://gckc0525.edgemaxcdn.org/live/m5x2.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_133811_8fa0756e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",23:30   20/03 Rotor Volgograd vs Fakel HD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_125600_1f684e4e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",00:30   21/03 Cagliari vs Napoli HD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_125600_1f684e4e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",00:30   21/03 Cagliari vs Napoli FHD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoinuonghd.flv
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_125557_d38d0dff.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",02:30   21/03 RB Leipzig vs 1899 Hoffenheim HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -410,70 +415,6 @@ https://gckc0525.edgemaxcdn.org/live/manze.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/manzehd.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/71b6a80e7563803b09b31439b2186e13/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK sd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK sd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK sd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F610947132320fba38ad81ce6a5d9e9d7%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   20/03 Bumamuru vs Kayanza Utd Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/30eb370e4d99abdcac5dbc707931b0e7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa0eb517e8ba2ccd7626bc2f0c8cfb1fa%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   20/03 Royal Vision vs Olympique Star Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/90126d153196b4d28dfc8887ca1b3226/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/3c87c860d0e79450465aadf74e0970ae/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv sd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv sd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv sd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F40bc8c025930d0b324b259ebe4fcb38d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 RC Kadiogo vs Real du Faso Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -538,6 +479,74 @@ https://live.alilicloud.com/live/b35791b9d5aabececcf7fd381f17f78a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/7248de2209325612dc4614aaceb192f2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/71b6a80e7563803b09b31439b2186e13/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK sd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK hd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK sd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK hd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK sd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4fdddfb80ae622d030c4df3d238617ba%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",22:15   20/03 FC Neftci Baku vs Imisli FK hd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/26c84f10fcb44d34881a33f9a7ce6c30/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F610947132320fba38ad81ce6a5d9e9d7%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   20/03 Bumamuru vs Kayanza Utd Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/30eb370e4d99abdcac5dbc707931b0e7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa0eb517e8ba2ccd7626bc2f0c8cfb1fa%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   20/03 Royal Vision vs Olympique Star Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/90126d153196b4d28dfc8887ca1b3226/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/3c87c860d0e79450465aadf74e0970ae/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv sd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv sd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv sd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F676ea0b1477b79d9986c4425ed94de83%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Slavia Sofia vs Botev Plovdiv hd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/d5e8acf978d84cf7b11b96ba1fd1b192/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F228a30e69d49bfd1b53d1c4796b828e1%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   20/03 Sporting Football des Cascades vs ASF Bobo Dioulasso Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/e1a3c7c6c62ff4320641c0082861540c/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[TAURON Liga Women] 23:30 20/03 Budowlani Lodz W vs Bielsko-Biala W [FHD] Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
@@ -550,150 +559,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [ VOI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lsd.flv?auth_key=1774025259-0-0-e87db98f402aa4ed3c4e1b255e0b5631
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [ VOI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1774025259-0-0-8cf6d51cb0289b539a62b6be62a7307b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [ VOI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1774025259-0-0-b8684f93c42fb97f461dcf01e1f44366
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [ VOI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1774025259-0-0-4b6b066a43c26caa309fbabda578ba69
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [SAO LA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=15627875f7e6e9835d9d07f49a8a6ff0&txTime=69bdc07b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [SAO LA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=5401f71177f9a4aa558f0d46f41799e9&txTime=69bdc07b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [SAO LA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=15627875f7e6e9835d9d07f49a8a6ff0&txTime=69bdc07b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [SAO LA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5401f71177f9a4aa558f0d46f41799e9&txTime=69bdc07b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [HAI THANH] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1774025259-0-0-530169acc1015114a879d3cc47c98362
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [HAI THANH] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1774025259-0-0-253bdfe29976107bde973f23ae7f9d8a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [HAI THANH] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1774025259-0-0-8319162d9395118f9414638f6c3c2035
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [HAI THANH] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1774025259-0-0-de253e283ce66646476fdd33a7cd1805
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",IND SL: Mohun Bagan Super Giant vs Mumbai City [DECO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1774025259-0-0-3b7192e59732ebb876511106eb03d80c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",IND SL: Mohun Bagan Super Giant vs Mumbai City [DECO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1774025259-0-0-98038af6f27ef6b576840bde871df60c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",IND SL: Mohun Bagan Super Giant vs Mumbai City [DECO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1774025259-0-0-7e68437aa878f4a67d96a242d7b5ab2d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",IND SL: Mohun Bagan Super Giant vs Mumbai City [DECO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1774025259-0-0-c85e3e548fecba27aa8d0c7e50c2b99a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [ COZY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1774025259-0-0-1f0098c791c14ee85531455129f0589b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [ COZY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1774025259-0-0-3fc4a1948bc535ebb67f56c840842146
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [ COZY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1774025259-0-0-1519e154960d6f9428ede4898af45ada
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [ COZY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1774025259-0-0-862ab40f1a331f3ffedc2adc165b8de0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [CONG CHAT] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1774025259-0-0-9cc100dd3c1a582b10c380f529a859c5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [CONG CHAT] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1774025259-0-0-b23eaf1414554307a4b4553fface7c1f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [CONG CHAT] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1774025259-0-0-fb34f341b628d4da4ae404faf23b20d9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [CONG CHAT] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1774025259-0-0-24121ba51999a76826330eb8908f3ff3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BUL D1: Slavia Sofia vs Botev Plovdiv [ ALEX] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1774025259-0-0-3bf20d8751e46f7a49051d743cc8c6ac
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BUL D1: Slavia Sofia vs Botev Plovdiv [ ALEX] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1774025259-0-0-458ccb8dedf164cbfa66448b9ec060c4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BUL D1: Slavia Sofia vs Botev Plovdiv [ ALEX] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1774025259-0-0-88009f0b07a413bbffc43e8c5fb566b2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BUL D1: Slavia Sofia vs Botev Plovdiv [ ALEX] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1774025259-0-0-f9140d2eff97c0c7d773da25851bcd60
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/835e0e19d556f5c63efc5a9bc2c739e1.png" group-title="Live Event: socolive",22:15 ngay 20/03 FC Neftci Baku vs Imisli FK [NGUOI THEP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1774025259-0-0-00c8e3867c2f056d1af194b9122f5bbd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/835e0e19d556f5c63efc5a9bc2c739e1.png" group-title="Live Event: socolive",22:15 ngay 20/03 FC Neftci Baku vs Imisli FK [NGUOI THEP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1774025259-0-0-ff2d71ef615704d6cffe67132555ff7b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/835e0e19d556f5c63efc5a9bc2c739e1.png" group-title="Live Event: socolive",22:15 ngay 20/03 FC Neftci Baku vs Imisli FK [NGUOI THEP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1774025259-0-0-27e5773f5dac545302cb3ff0da7ea74b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/835e0e19d556f5c63efc5a9bc2c739e1.png" group-title="Live Event: socolive",22:15 ngay 20/03 FC Neftci Baku vs Imisli FK [NGUOI THEP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1774025259-0-0-39dbff0cbec73ca802c1312510b3625f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",MOL D1: Sheriff Tiraspol vs Dacia-Buiucani [KEP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1774025259-0-0-a4bface1942cfabd7bd590ed06dc2382
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",MOL D1: Sheriff Tiraspol vs Dacia-Buiucani [KEP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1774025259-0-0-1ed49fecea260e09eaa2b3bdc4b1bd81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",MOL D1: Sheriff Tiraspol vs Dacia-Buiucani [KEP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1774025259-0-0-a440e9da9b1ec19ec94e8ebe18f55e84
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",MOL D1: Sheriff Tiraspol vs Dacia-Buiucani [KEP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1774025259-0-0-413ad30b96ab5bf5fcb8f1842fdd7b47
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",LAT D1: FK Auda Riga vs Riga FC [NGUOI CA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1774025259-0-0-99a43a2590dfb636a814a460b6000603
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",LAT D1: FK Auda Riga vs Riga FC [NGUOI CA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1774025259-0-0-4ade63bfd988298238d9e874cee74267
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",LAT D1: FK Auda Riga vs Riga FC [NGUOI CA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1774025259-0-0-371a22f72deb65714ada7d4aad194149
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",LAT D1: FK Auda Riga vs Riga FC [NGUOI CA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1774025259-0-0-8b6ba1c9528f0da8da3707f9f0ad348d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774025259-0-0-22fae0f87a630aa7ca4183d812da2c2a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774025259-0-0-32b5c68a8c1ade66baad1e5faddbe410
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774025259-0-0-a4133db134ec20151c5e8e5b148504c5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774025259-0-0-3e9cb96cef62a2cd1fe4bef7f992ff43
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [ 7UP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1774025619-0-0-6e3df466ce9d7005e4d9c3625fc56eea
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [ 7UP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1774025619-0-0-f0e0be617cf594698f7a4885db611ca5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [ 7UP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1774025619-0-0-9d0ed9e12e25ac34a3feed7b6cfe6a83
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [ 7UP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1774025619-0-0-910e322d4d78aa9f3909b81c000c1825
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [CU DEM] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-547345_lsd.flv?auth_key=1774025619-0-0-5957a20b68aa5e71297679a675531336
@@ -706,18 +571,6 @@ https://pull.niues.live/live/stream-547345_lsd.m3u8?auth_key=1774025619-0-0-ede9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [CU DEM] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-547345_lhd.m3u8?auth_key=1774025619-0-0-7da556ebf55039db52e51f154fcafcab
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [VENDETTA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1774025619-0-0-ced46bb0500b979815d3fb93403c7950
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [VENDETTA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1774025619-0-0-f118aa2a2854b02435533aa25142b647
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [VENDETTA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1774025619-0-0-a6dd59ea6133e5affd0baa440f4d7698
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/c1b208c2a738117fccdde6d89263430a.png" group-title="Live Event: socolive",21:00 ngay 20/03 Mohun Bagan Super Giant vs Mumbai City FC [VENDETTA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1774025619-0-0-4edb8c58d0cde391244d206082a73c4c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BUL D1: Slavia Sofia vs Botev Plovdiv [ MIXI] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1774025619-0-0-fb1bd1d4c5934a6cbb094c03bdb69fd5
@@ -874,6 +727,114 @@ https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1774025979-0-0-7970
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",LAT D1: FK Auda Riga vs Riga FC [RABBIT] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1774025979-0-0-a23e384b50755f8e4b84c0bf751cb271
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [CONG CHAT] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1774026339-0-0-3e367a30e2d2d057f9c5b7aa2894367b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [CONG CHAT] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1774026339-0-0-1505ca539cee52f1a85077c49906d5c2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [CONG CHAT] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1774026339-0-0-1c61893c244cb298338828eac028a89b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [CONG CHAT] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1774026339-0-0-ec9583888d2e7c5d08b3ea1452f1e0d7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [ COZY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1774026339-0-0-7701e7d24d9e92fa6bd78a92c5e9f5c4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [ COZY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1774026339-0-0-ec620ab39d5b3c28dc741da16984bc96
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [ COZY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1774026339-0-0-d9c5b9a49a5a591202cde7536dd1df48
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [ COZY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1774026339-0-0-b939638c72b798f61c99672f92094e46
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BUL D1: Slavia Sofia vs Botev Plovdiv [ ALEX] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1774026339-0-0-a35cc7e2f5a1f78e4cee28ee2e4be0ba
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BUL D1: Slavia Sofia vs Botev Plovdiv [ ALEX] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1774026339-0-0-83e841cb6edfa7d0648f7f53837d2f60
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BUL D1: Slavia Sofia vs Botev Plovdiv [ ALEX] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1774026339-0-0-fc12c659502bdf1564fe86f2c604cd71
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BUL D1: Slavia Sofia vs Botev Plovdiv [ ALEX] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1774026339-0-0-535e2c3e1620d03fe8179e6ac841b2a1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",LAT D1: FK Auda Riga vs Riga FC [NGUOI CA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1774026339-0-0-4e764da34dc1adef68892b29b4b78363
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",LAT D1: FK Auda Riga vs Riga FC [NGUOI CA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1774026339-0-0-4f18c8611c4a5a6b30f67800ffb9ef00
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",LAT D1: FK Auda Riga vs Riga FC [NGUOI CA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1774026339-0-0-89856ea3db42b068a99edb74dc9908b0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",LAT D1: FK Auda Riga vs Riga FC [NGUOI CA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1774026339-0-0-7c316f4a08b6db9ced85b469de934551
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [HAI THANH] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1774026339-0-0-64fd2c6823353f4a9f8036e3df47e25d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [HAI THANH] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1774026339-0-0-444e8b52a2979124625bc1712a39f144
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [HAI THANH] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1774026339-0-0-c5efe170300f50ba31681e035cd579a7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/b3411d06552e5af49ad5a9bcd4faba11.png" group-title="Live Event: socolive",22:00 ngay 20/03 Haras El Hodood vs Ismaily SC [HAI THANH] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1774026339-0-0-a4070284527e04b2d7a62cb1479a89ef
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/835e0e19d556f5c63efc5a9bc2c739e1.png" group-title="Live Event: socolive",22:15 ngay 20/03 FC Neftci Baku vs Imisli FK [NGUOI THEP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1774026339-0-0-9ec05289dda5fe8ba4592cfd6b039831
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/835e0e19d556f5c63efc5a9bc2c739e1.png" group-title="Live Event: socolive",22:15 ngay 20/03 FC Neftci Baku vs Imisli FK [NGUOI THEP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1774026339-0-0-05d85520577183705dadc507fc6579bc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/835e0e19d556f5c63efc5a9bc2c739e1.png" group-title="Live Event: socolive",22:15 ngay 20/03 FC Neftci Baku vs Imisli FK [NGUOI THEP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1774026339-0-0-db53df0aac610609d21127fb2d5b7fcd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/835e0e19d556f5c63efc5a9bc2c739e1.png" group-title="Live Event: socolive",22:15 ngay 20/03 FC Neftci Baku vs Imisli FK [NGUOI THEP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1774026339-0-0-e1228652bfa61bb2e969d14b320b8c24
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",MOL D1: Sheriff Tiraspol vs Dacia-Buiucani [KEP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1774026339-0-0-833185a3f2be8cf95502b8d8171c4951
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",MOL D1: Sheriff Tiraspol vs Dacia-Buiucani [KEP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1774026339-0-0-556fcfe39f141924f531c71f9ac465d7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",MOL D1: Sheriff Tiraspol vs Dacia-Buiucani [KEP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1774026339-0-0-712cf4efb7ceadcaa9ec9406df48857c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",MOL D1: Sheriff Tiraspol vs Dacia-Buiucani [KEP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1774026339-0-0-ad1556d118bf19831a062a2a9d3b6737
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",RUS D2: Rotor Volgograd vs Fakel Voronezh [ CAO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1774026339-0-0-b85f87a7868ac42abbc8c1e2ea03e159
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",RUS D2: Rotor Volgograd vs Fakel Voronezh [ CAO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1774026339-0-0-6aa74e7d919acd353ce18c0b523bdf05
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",RUS D2: Rotor Volgograd vs Fakel Voronezh [ CAO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1774026339-0-0-fd57461c13e5729a36bc8b3a2bdcc030
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",RUS D2: Rotor Volgograd vs Fakel Voronezh [ CAO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1774026339-0-0-9651c4085c5deff5402eb583f1133c67
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774026339-0-0-3ccdd24a3ce9fc92b055bdb2a090443a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774026339-0-0-1d95d20e063002dbc984d7f90cff4b7e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774026339-0-0-92082ebe5e8959fcf3cf0488bf4d0b6f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260315/d52a4fb650cd2d12dc18b6c2f611bf89.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774026339-0-0-4e1eaa10b428b00d062072f10c9926f6
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15516.png" group-title="Live Event: Hội quán",21:00 20/03 ATK Mohun Bagan vs Mumbai City FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -886,18 +847,6 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZnfCRDn6TG9DMNGKNHLStb_AokFPVAMIURQ&s" group-title="Live Event: Hội quán",20:15 20/03 LP Bank Ninh Binh vs The Cong Tan Cang FHD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZnfCRDn6TG9DMNGKNHLStb_AokFPVAMIURQ&s" group-title="Live Event: Hội quán",20:15 20/03 LP Bank Ninh Binh vs The Cong Tan Cang HD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZnfCRDn6TG9DMNGKNHLStb_AokFPVAMIURQ&s" group-title="Live Event: Hội quán",20:15 20/03 LP Bank Ninh Binh vs The Cong Tan Cang SD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[AFL Aussie Rules] Adelaide Crows vs Western Bulldogs Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -2797,57 +2746,57 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=c73f75dc5036ccfc1773abd090225fee&wsABSTime=1774066242
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=f5ceafff5759ec0ea8171298295dc9df&wsABSTime=1774066542
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",22:00 WIB - BKMA VS URARTU [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=6ce489739411f70b50afb85fd9ebe34c&wsABSTime=1774066242
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=517c2b33ca4b54cdbee1430c723308a6&wsABSTime=1774066542
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",22:15 WIB - FC NEFTCI BAKU VS IMISLI FK [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=1bcd9ce9a3036a544d764a0d7a644295&wsABSTime=1774066243
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=cef06bd95c110162438a6e058c8112a8&wsABSTime=1774066543
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:00 WIB - SLAVIA SOFIA VS BOTEV PLOVDIV [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=c3a3703b6868f10aa3eddc1c0608e6db&wsABSTime=1774066243
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=f7d8414159bfae0b645ba0aec1d84f1a&wsABSTime=1774066544
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:00 WIB - FK AUDA RIGA VS RIGA FC [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=1d641e4eab8001da09d80fe4fa827691&wsABSTime=1774066243
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=32a3f98a970c892f2c3a7c21e65ab783&wsABSTime=1774066544
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:00 WIB - FK SPARTAK VODA VS RADNIK SURDULICA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=c5e3f0dc0c977aa72c00f977cd1c2ddd&wsABSTime=1774066244
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=1373c0119f971b00e236c6c534ab8230&wsABSTime=1774066545
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:30 WIB - ROTOR VOLGOGRAD VS FAKEL [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=ba6258bfd0578061e345eef0661b0a92&wsABSTime=1774066245
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=63b66670e4a61353a85cf380b7340ce4&wsABSTime=1774066546
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:30 WIB - NK ALUMINIJ VS MARIBOR [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=6e8fb8f27dc5cdc5c0b4a75568e18496&wsABSTime=1774066245
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=40f9cc70af4ab07e6380964f8ae176d4&wsABSTime=1774066546
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:00 WIB - FCSB VS UTA ARAD [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=597bd3ec0b9e6f8d445bd538d74fd9fe&wsABSTime=1774066245
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=e03e90aee9bb5bdf73e244125e8297fa&wsABSTime=1774066547
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:00 WIB - PIAST GLIWICE VS RADOMIAK RADOM [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=59a23026de31231817b472a66c4c7f5e&wsABSTime=1774066246
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=71ccc26b1d17175c21530ea17ae2cff4&wsABSTime=1774066547
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:00 WIB - OGRE UNITED VS FK LIEPAJA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=075bc7f284ea0aaa92e6e82fc1d58643&wsABSTime=1774066246
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=1ceecbce0ee0a22abe1e6e7bbe108710&wsABSTime=1774066548
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - SLOVAN LJUBLJANA VS TRIGLAV GORENJSKA [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | ARM Premier League",BKMA vs Urartu
