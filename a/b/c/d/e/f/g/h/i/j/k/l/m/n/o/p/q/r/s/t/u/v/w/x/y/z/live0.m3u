@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-21 08:30:45
-# 🔄 Total Channels: 1943
+# ⏰ Latest Updated: 2026-03-21 08:37:03
+# 🔄 Total Channels: 1946
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -1067,6 +1067,18 @@ https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1774085019-0-0-4f4e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/3de1c37cbf5075786c22342722f793ec.png" group-title="Live Event: socolive",15:30 ngay 21/03 Metrostars SC vs Adelaide City FC [NGUOI THEP] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1774085019-0-0-69aa5b614b8b0b7dbc0fcc3462d9f226
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1720.png" group-title="Live Event: Hội quán",16:00 21/03 Japan W vs Australia W FHD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1720.png" group-title="Live Event: Hội quán",16:00 21/03 Japan W vs Australia W HD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1720.png" group-title="Live Event: Hội quán",16:00 21/03 Japan W vs Australia W SD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Beijing_Guoan_F.C.svg" group-title="Live Event: Hội quán",14:30 21/03 Beijing Guoan vs Shanghai Shenhua FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -3023,33 +3035,33 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=e0434420c7da07e5ec1b986767240dca&wsABSTime=1774125016
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=badd06f585aea613051628b275c4d81c&wsABSTime=1774125316
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",14:30 WIB - BEIJING GUOAN VS SHANGHAI SHENHUA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=8cb328f5e27aebb39006687853c15983&wsABSTime=1774125016
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=6833f9a2f9bd99871e6d5a5622c96382&wsABSTime=1774125316
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",14:30 WIB - CHEONAN CITY VS SEOUL E LAND FC [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=269a8ff8243d43225192766af14c7811&wsABSTime=1774125017
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=0a998a1d2733da3eed9fa603fe0accee&wsABSTime=1774125317
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",14:30 WIB - CHEONGJU FC VS ANSAN GREENERS [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=ee092c4e75b2fb2ce9fc84dcd17638af&wsABSTime=1774125017
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=ba6a4f3297bb396bb46214c6117bec82&wsABSTime=1774125317
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",13:30 WIB - NEW TAIPEI CTBC DEA VS KAOHSIUNG AQUAS [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=6d7568c203cd75cbde746783f531c6ff&wsABSTime=1774125018
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=a48c7cab4005bc13d97e06a05ee2cb56&wsABSTime=1774125320
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE BASKETBALL | XOILACZ AI",15:00 WIB - DANDENONG THUNDER VS SOUTH MELBOURNE [Server 1] [BASKETBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=ad476c3dda7799d2898891db504d1394&wsABSTime=1774125018
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - SYDNEY OLYMPIC VS WESTERN SYDNEY AM [FOOTBALL]
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=a96c7a0f1821c5f5a4d5fac93410c53f&wsABSTime=1774125318
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - THE COVE FC VS ADELAIDE OLYMPIC [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | CSL",Beijing Guoan vs Shanghai Shenhua
 https://live.trendgallary.com/live/13598974_ce9b4e8f2426b45109ba4e3f79e7cc04.m3u8
