@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-22 17:51:02
-# 🔄 Total Channels: 2119
+# ⏰ Latest Updated: 2026-03-22 17:55:35
+# 🔄 Total Channels: 2127
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -889,18 +889,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/1f43fd9ea6931d7eb85b3584e89ccad6.png" group-title="Live Event: socolive",00:30 ngay 23/03 Athletic Club vs Real Betis [ ANH TAI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=f87ffba5d383c86fec0e829a71da4d84&txTime=69c07b63
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/1f43fd9ea6931d7eb85b3584e89ccad6.png" group-title="Live Event: socolive",00:30 ngay 23/03 Athletic Club vs Real Betis [ ANH TAI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=c04f64b6adf92d297c7ed6c0ecda484c&txTime=69c07b63
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/1f43fd9ea6931d7eb85b3584e89ccad6.png" group-title="Live Event: socolive",00:30 ngay 23/03 Athletic Club vs Real Betis [ ANH TAI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=f87ffba5d383c86fec0e829a71da4d84&txTime=69c07b63
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/1f43fd9ea6931d7eb85b3584e89ccad6.png" group-title="Live Event: socolive",00:30 ngay 23/03 Athletic Club vs Real Betis [ ANH TAI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=c04f64b6adf92d297c7ed6c0ecda484c&txTime=69c07b63
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/25d021be2dd01c69b7d0a85eddea0674.png" group-title="Live Event: socolive",23:30 ngay 22/03 Arsenal vs Manchester City [ PIRLO] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1774204539-0-0-cd1f1ec01e5f8b4c3291a95a18113da6
@@ -1417,6 +1405,42 @@ https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1774204899-0-0-74f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/1f43fd9ea6931d7eb85b3584e89ccad6.png" group-title="Live Event: socolive",00:30 ngay 23/03 Athletic Club vs Real Betis [ LONG] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1774204899-0-0-c4b1a4fbc778e48995be160bda8dad03
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/1f43fd9ea6931d7eb85b3584e89ccad6.png" group-title="Live Event: socolive",00:30 ngay 23/03 Athletic Club vs Real Betis [ ANH TAI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=c4f01eebbc7b69c5a67a1ef81d2ac07e&txTime=69c07f9b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/1f43fd9ea6931d7eb85b3584e89ccad6.png" group-title="Live Event: socolive",00:30 ngay 23/03 Athletic Club vs Real Betis [ ANH TAI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=fcc7536d2ffc7fa062f0c945c40de228&txTime=69c07f9b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/1f43fd9ea6931d7eb85b3584e89ccad6.png" group-title="Live Event: socolive",00:30 ngay 23/03 Athletic Club vs Real Betis [ ANH TAI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=c4f01eebbc7b69c5a67a1ef81d2ac07e&txTime=69c07f9b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/1f43fd9ea6931d7eb85b3584e89ccad6.png" group-title="Live Event: socolive",00:30 ngay 23/03 Athletic Club vs Real Betis [ ANH TAI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=fcc7536d2ffc7fa062f0c945c40de228&txTime=69c07f9b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/bb4c5a358aa78fbb8a7325439ba79e0f.png" group-title="Live Event: socolive",01:00 ngay 23/03 Alverca vs Sporting CP [NGUOI CA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1774205259-0-0-1edef5e8d8dd40ba52fb0b2a4729e45d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/bb4c5a358aa78fbb8a7325439ba79e0f.png" group-title="Live Event: socolive",01:00 ngay 23/03 Alverca vs Sporting CP [NGUOI CA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1774205259-0-0-7791cf58252451fe57a9d99de3d38de8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/bb4c5a358aa78fbb8a7325439ba79e0f.png" group-title="Live Event: socolive",01:00 ngay 23/03 Alverca vs Sporting CP [NGUOI CA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1774205259-0-0-c038fa6039a958b45f02f1843c2e1ea1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/bb4c5a358aa78fbb8a7325439ba79e0f.png" group-title="Live Event: socolive",01:00 ngay 23/03 Alverca vs Sporting CP [NGUOI CA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1774205259-0-0-208da9c9b853e7d9f6bcea4eb2da42b7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/bb4c5a358aa78fbb8a7325439ba79e0f.png" group-title="Live Event: socolive",01:00 ngay 23/03 Alverca vs Sporting CP [MR BICH] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1774205259-0-0-d26f3a4222c9b4cb2ce8382844857bb0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/bb4c5a358aa78fbb8a7325439ba79e0f.png" group-title="Live Event: socolive",01:00 ngay 23/03 Alverca vs Sporting CP [MR BICH] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1774205259-0-0-674c4f0c3ad1875837b8b6055a878062
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/bb4c5a358aa78fbb8a7325439ba79e0f.png" group-title="Live Event: socolive",01:00 ngay 23/03 Alverca vs Sporting CP [MR BICH] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1774205259-0-0-82739b511ff21387dbdeae1c3870b5c9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/bb4c5a358aa78fbb8a7325439ba79e0f.png" group-title="Live Event: socolive",01:00 ngay 23/03 Alverca vs Sporting CP [MR BICH] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1774205259-0-0-b4d5b1490fea916a7272ba4d1832332e
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/81.png" group-title="Live Event: Hội quán",23:15 22/03 Marseille vs Lille FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
