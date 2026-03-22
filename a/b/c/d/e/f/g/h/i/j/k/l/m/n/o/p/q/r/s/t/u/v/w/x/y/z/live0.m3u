@@ -1,5 +1,5 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-22 11:56:14
+# ⏰ Latest Updated: 2026-03-22 12:02:52
 # 🔄 Total Channels: 1914
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
@@ -61,6 +61,9 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="Orleans Masters Badminton 2026",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="Live Event: Colalive",19:00 22/03 Newcastle vs Sunderland Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/97312754.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w80" group-title="Live Event: Colalive",18:30 22/03 Calcio Como vs Pisa Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/75748097.m3u8
@@ -957,150 +960,6 @@ https://live.alilicloud.com/live/cacb7ea0f7d07f12418b1f5fd1fcfb4b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/2993edf77deff2b99b10ebd34b86bf64/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [HOI GYM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1774182939-0-0-61c1c57f532f669ddb3c574ba013dd04
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [HOI GYM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1774182939-0-0-ffc21317e05b6b96195c5bb950fed0c3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [HOI GYM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1774182939-0-0-0982013de6d5e9e200dc45169df3c4e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [HOI GYM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1774182939-0-0-3b7410fd9a4b6fa2b7e48f88096d460c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TAP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1774182939-0-0-4900231a196c527a726d4994807e32fb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TAP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1774182939-0-0-4a4088e240114b353bf80822b3b10bcf
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TAP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1774182939-0-0-8214d3391dacff1e7007e2a0f79b3fb1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TAP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1774182939-0-0-418f06002857fc52c68d7ae451c4fe6a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [DECO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1774182939-0-0-790bf27d7e10472331ed3c12d1e4ad99
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [DECO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1774182939-0-0-f14ead182ef653d0b782c2e0f1492bd6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [DECO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1774182939-0-0-1a89b0413fd5eaae1b9cd29ee8c512ed
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [DECO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1774182939-0-0-77e1706f97ae96ba184b7a8fa2bd302a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [TA BIEN GIOI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1774182939-0-0-c1a27f2eb91428dba7765b2d9268bb9c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [TA BIEN GIOI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1774182939-0-0-12b37777ab7667458b9ed9c942a8b0b3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [TA BIEN GIOI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1774182939-0-0-bdbaa183ee9cde7eb92a879b5a206f3e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [TA BIEN GIOI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1774182939-0-0-f9ac1320e77e54b8ea55caadb1bf8487
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [ KEM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1774182939-0-0-d033190a0e48195f4229c4f9c234d430
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [ KEM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1774182939-0-0-cf936cdae382173d44b7220b7d0e584c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [ KEM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1774182939-0-0-c1bee243a50e81ca77a0eb05b28cf7df
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [ KEM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1774182939-0-0-f684df3d75fa4beaccee4833187b8e92
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [CHANH MUOI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1774182939-0-0-4fb15064a55c14995d4f1cc4d74ec7e6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [CHANH MUOI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1774182939-0-0-7b0a3af6c202bf1e9153fda97e9134b5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [CHANH MUOI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1774182939-0-0-95f5b287a1ad406ba41594ed48be1461
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [CHANH MUOI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1774182939-0-0-66a780a86efa668007fff6eedb2aef99
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TOMMY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1774182939-0-0-5228c57b5571627092cb6378c531765e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TOMMY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1774182939-0-0-c3813fa7c8277a5b325b72a5da71cb3b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TOMMY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1774182939-0-0-0bdf52ad300e6c927045210f7ba6fa0b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TOMMY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1774182939-0-0-28d162f0a5bc49555524ac3162e4b205
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [ BEO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=2ebe9c9b67b897f6cf0dd5dec50d557e&txTime=69c0286b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [ BEO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=c073a849b6dc6f7b417467d93b2fb740&txTime=69c0286b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [ BEO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=2ebe9c9b67b897f6cf0dd5dec50d557e&txTime=69c0286b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [ BEO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c073a849b6dc6f7b417467d93b2fb740&txTime=69c0286b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4e3e7661a3736f06c86ff6f0ac24ef9e.png" group-title="Live Event: socolive",17:45 ngay 22/03 Gazovik Orenburg vs Spartak Moscow [ ANH TAI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=aaadb3868f893c8cccfd16998654b245&txTime=69c0286b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4e3e7661a3736f06c86ff6f0ac24ef9e.png" group-title="Live Event: socolive",17:45 ngay 22/03 Gazovik Orenburg vs Spartak Moscow [ ANH TAI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=882922038f49938c513c9d1015eeeec6&txTime=69c0286b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4e3e7661a3736f06c86ff6f0ac24ef9e.png" group-title="Live Event: socolive",17:45 ngay 22/03 Gazovik Orenburg vs Spartak Moscow [ ANH TAI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=aaadb3868f893c8cccfd16998654b245&txTime=69c0286b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4e3e7661a3736f06c86ff6f0ac24ef9e.png" group-title="Live Event: socolive",17:45 ngay 22/03 Gazovik Orenburg vs Spartak Moscow [ ANH TAI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=882922038f49938c513c9d1015eeeec6&txTime=69c0286b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",HOL D1 : NEC Nijmegen vs SC Heerenveen [Giang A Tho] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1774182939-0-0-a0697c025757191a627861066f71ae3c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",HOL D1 : NEC Nijmegen vs SC Heerenveen [Giang A Tho] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1774182939-0-0-fc44424dac2939ecad725519ce198e0c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",HOL D1 : NEC Nijmegen vs SC Heerenveen [Giang A Tho] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1774182939-0-0-70bf3921fb506ac246a6e738414f782f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",HOL D1 : NEC Nijmegen vs SC Heerenveen [Giang A Tho] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1774182939-0-0-9b1fcbba3d47bd4f4fb8673ab569f857
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260320/2e27fa5052f6b4b85e2143c25ac41093.png" group-title="Live Event: socolive",18:35 ngay 22/03 Jiangsu Dragons vs Zhejiang Guangsha [A CHE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1774182939-0-0-f5bebb9387d4d50f8ffe6f24d4059a5d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260320/2e27fa5052f6b4b85e2143c25ac41093.png" group-title="Live Event: socolive",18:35 ngay 22/03 Jiangsu Dragons vs Zhejiang Guangsha [A CHE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1774182939-0-0-8507f6b166dfbaee926d3618a4544d84
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260320/2e27fa5052f6b4b85e2143c25ac41093.png" group-title="Live Event: socolive",18:35 ngay 22/03 Jiangsu Dragons vs Zhejiang Guangsha [A CHE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1774182939-0-0-a56b4f8de069d351e726a8a98c42f870
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260320/2e27fa5052f6b4b85e2143c25ac41093.png" group-title="Live Event: socolive",18:35 ngay 22/03 Jiangsu Dragons vs Zhejiang Guangsha [A CHE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1774182939-0-0-e261e36a38f24c26ec5745f74badd6c6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774182939-0-0-618318256a2dcd2ec430208f918e93da
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774182939-0-0-40150b9b6b166c488a6e03fa9a2eae1c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774182939-0-0-46d9e8f8d37ffc1bfb351c968f14fb42
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774182939-0-0-62e45492ac13b219f058a33fa98277d0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [ PEWPEW] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1774183299-0-0-ea8a9cc0f3f6cec979985134c5878ad0
@@ -1257,6 +1116,150 @@ https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1774183659-0-0-384d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [LOKA] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1774183659-0-0-76ea8fe38c4ae53eda5b87821c80b127
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TOMMY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1774184019-0-0-d0e1071cb88a5bce9a946a24b2ce5b1a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TOMMY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1774184019-0-0-c13945498ab2b7fb71c02f83a334e9d2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TOMMY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1774184019-0-0-2a3e35ead6990f06bcdc1768d9f541fd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TOMMY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1774184019-0-0-457fa13c966b51a31793545f08021a43
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [HOI GYM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1774184019-0-0-a84643448d1738762d7580c59c2ea90c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [HOI GYM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1774184019-0-0-0a6c2693f99ac2951edae1c28cc149be
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [HOI GYM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1774184019-0-0-55f6f476e9900d858f831107990b87c5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [HOI GYM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1774184019-0-0-1efa699195a55e2f5775a8359d2601bf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [TA BIEN GIOI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1774184019-0-0-c33dc11d05fe925ccf8a9f9eac8a9156
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [TA BIEN GIOI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1774184019-0-0-10bbb0e0139e21d0075d36e66195e029
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [TA BIEN GIOI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1774184019-0-0-d0c16d444933b5714c36f6fa4f40d270
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [TA BIEN GIOI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1774184019-0-0-5c40b021cc8d6d3c35f76fab173fad41
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [ KEM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1774184019-0-0-999775489730812f9bbf6b8eee030c65
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [ KEM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1774184019-0-0-4e2ecedb070c2e367e66ac5d4d288d3f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [ KEM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1774184019-0-0-7c4d5fa3bfbdaab450b5747d899c3c31
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/f0965952a93a9d0d96b68a2acad8e10e.png" group-title="Live Event: socolive",18:30 ngay 22/03 Como vs Pisa [ KEM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1774184019-0-0-c64d86c1e4788f1e88c7d1a59fd0319d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TAP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1774184019-0-0-ced228a2bd5e5d4199c65b859bf5eb1b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TAP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1774184019-0-0-4ea975b92ebd10872a55ad3b97b73c30
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TAP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1774184019-0-0-6eeb872d2c3c2bc93b78bb7edfdd08b5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [ TAP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1774184019-0-0-7322cf1fc0251dc2ed2e8e7c4cd9cef8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [DECO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1774184019-0-0-f6d2a9aa7fdd63d56e773da8e97f3c77
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [DECO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1774184019-0-0-61e0e5dff15041b1815181ce27d33977
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [DECO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1774184019-0-0-8e17cf9369d91ae74ab721425f9937dd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/263c80fa53dafc033bcc5ddb1ec8bfe6.png" group-title="Live Event: socolive",19:00 ngay 22/03 Newcastle United vs Sunderland [DECO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1774184019-0-0-12fb5abbdc01f29ba8f651960141f47f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",HOL D1 : NEC Nijmegen vs SC Heerenveen [Giang A Tho] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1774184019-0-0-c6f26fa470d338baa88ad9d7efea7f7c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",HOL D1 : NEC Nijmegen vs SC Heerenveen [Giang A Tho] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1774184019-0-0-5ce65488f13708fef5752b4d53c1f0c8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",HOL D1 : NEC Nijmegen vs SC Heerenveen [Giang A Tho] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1774184019-0-0-f1d57354ed7a9814e697ace9fac6f874
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",HOL D1 : NEC Nijmegen vs SC Heerenveen [Giang A Tho] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1774184019-0-0-0709b2bbacfd354cbe7c3a8192fc735b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [ BEO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=be740e35f9c7b49e9c41e152ce19d1ba&txTime=69c02ca3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [ BEO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=963a8ef43466e39a3a7080f6a7286a59&txTime=69c02ca3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [ BEO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=be740e35f9c7b49e9c41e152ce19d1ba&txTime=69c02ca3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [ BEO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=963a8ef43466e39a3a7080f6a7286a59&txTime=69c02ca3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [CHANH MUOI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1774184019-0-0-f8c3be1c7c520caa60e89e1fd9910d28
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [CHANH MUOI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1774184019-0-0-0eb4d7ac6fa6f70e213ba3a50b602dd8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [CHANH MUOI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1774184019-0-0-41f8707357523729051bd07c0f382e79
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/35ba9346b876ea2d32bab00eb9a497ab.png" group-title="Live Event: socolive",18:00 ngay 22/03 SHB Da Nang vs Cong An Ha Noi FC [CHANH MUOI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1774184019-0-0-0bd162d48bd76dda612384421c210b90
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4e3e7661a3736f06c86ff6f0ac24ef9e.png" group-title="Live Event: socolive",17:45 ngay 22/03 Gazovik Orenburg vs Spartak Moscow [ ANH TAI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.flv?txSecret=c2f1c70b6d4236d7a07d53ac1553c703&txTime=69c02ca3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4e3e7661a3736f06c86ff6f0ac24ef9e.png" group-title="Live Event: socolive",17:45 ngay 22/03 Gazovik Orenburg vs Spartak Moscow [ ANH TAI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.flv?txSecret=be879944291b8862bce3c0290994a1dd&txTime=69c02ca3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4e3e7661a3736f06c86ff6f0ac24ef9e.png" group-title="Live Event: socolive",17:45 ngay 22/03 Gazovik Orenburg vs Spartak Moscow [ ANH TAI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=c2f1c70b6d4236d7a07d53ac1553c703&txTime=69c02ca3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260319/4e3e7661a3736f06c86ff6f0ac24ef9e.png" group-title="Live Event: socolive",17:45 ngay 22/03 Gazovik Orenburg vs Spartak Moscow [ ANH TAI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=be879944291b8862bce3c0290994a1dd&txTime=69c02ca3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260320/2e27fa5052f6b4b85e2143c25ac41093.png" group-title="Live Event: socolive",18:35 ngay 22/03 Jiangsu Dragons vs Zhejiang Guangsha [A CHE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1774184019-0-0-98ec7970cf23868e15d6b710470ffeed
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260320/2e27fa5052f6b4b85e2143c25ac41093.png" group-title="Live Event: socolive",18:35 ngay 22/03 Jiangsu Dragons vs Zhejiang Guangsha [A CHE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1774184019-0-0-d8f115d638ef3a2571fd93b911d1c8af
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260320/2e27fa5052f6b4b85e2143c25ac41093.png" group-title="Live Event: socolive",18:35 ngay 22/03 Jiangsu Dragons vs Zhejiang Guangsha [A CHE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1774184019-0-0-4e04ca41539b4818a55c861a1c916401
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260320/2e27fa5052f6b4b85e2143c25ac41093.png" group-title="Live Event: socolive",18:35 ngay 22/03 Jiangsu Dragons vs Zhejiang Guangsha [A CHE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1774184019-0-0-1a5dd80540217dc7b60d17430fe6c9d7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774184019-0-0-660760c2be1231ee1dc290a7bda88ca2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774184019-0-0-ea849e359b3e2446e748d880bb01c023
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774184019-0-0-dfc75d0b748d563028f79afbb535cb24
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260317/464730b6b55097cbd85dea8de5b0bb34.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774184019-0-0-87f465cfce544cfff29707fa270cf502
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/250px-Logo_Como_1907_2019.png" group-title="Live Event: Hội quán",18:30 22/03 Como vs Pisa FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -3281,63 +3284,63 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=c61d7a1d912106a8c72a5f92a065ffa8&wsABSTime=1774223724
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=d3db4937d218e3f13eb74e439457fe14&wsABSTime=1774224033
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",19:00 WIB - NEWCASTLE UNITED VS SUNDERLAND [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=0ceb0fff4f758017844e19848fe32798&wsABSTime=1774223724
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=d65333a476d09eb2e0e2646786d7ead6&wsABSTime=1774224033
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",19:00 WIB - NEWCASTLE UNITED VS SUNDERLAND [Server 2] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=b6726095515f03d47b88664b4b85aac7&wsABSTime=1774223724
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=1d1bbbae4a2fb1d590f88c607191636a&wsABSTime=1774224034
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",21:15 WIB - TOTTENHAM VS NOTTINGHAM FOREST [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=5c278da836e41db4968e09b67b6aab20&wsABSTime=1774223725
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=d0550595c846f4a9c070bc462c8ebd16&wsABSTime=1774224034
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",21:15 WIB - TOTTENHAM VS NOTTINGHAM FOREST [Server 2] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=9c2bc6bcd0dea31bf036d350c3856b14&wsABSTime=1774223725
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=9d75b05da4479464e4cad0e3ccca9685&wsABSTime=1774224034
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:30 WIB - ARSENAL VS MANCHESTER CITY [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=9125ab7b1c64e53eacfcc5bd992ec614&wsABSTime=1774223725
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=af07fc7a226e6550138f6dd4c772a5b2&wsABSTime=1774224035
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:30 WIB - ARSENAL VS MANCHESTER CITY [Server 2] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=26694dff633099de58942c6fb28bd64f&wsABSTime=1774223726
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",17:00 WIB - ALTAY FK VS FK KASPYI AKTAU [Server 1] [FOOTBALL]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=337c466777ea146a76284f418134be66&wsABSTime=1774223727
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=1481aedb879c78d754d02f9456bc2d13&wsABSTime=1774224035
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",17:30 WIB - PFK MONTANA VS BEROE STARA ZAGORA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=fb8d014a78243297c77434a7dafd6e7b&wsABSTime=1774223727
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=a903e72456d3b47d53b0849c90370611&wsABSTime=1774224036
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",17:45 WIB - GAZOVIK ORENBURG VS SPARTAK MOSCOW [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=4435720c9ed6faeddaf4543c7b3a6ecd&wsABSTime=1774223728
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=7119cb4e15c32952dc0258ae1b552579&wsABSTime=1774224036
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",18:00 WIB - SHB DA NANG VS CONG AN HA NOI [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=ba71ec284419a4bea45866fc86342d04&wsABSTime=1774223728
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=967898277f5d45ab321cb22a4cd77e2e&wsABSTime=1774224037
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",18:00 WIB - CHIANGRAI UNITED VS PORT FC [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=0e0ea3202fdd56f4807f77c87dffb61c&wsABSTime=1774223729
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - BELEDIYE VANSPOR VS SARIYER [FOOTBALL]
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=9e06dcb693180c050d44cd3e5016709d&wsABSTime=1774224037
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",18:15 WIB - NEC NIJMEGEN VS SC HEERENVEEN [Server 1] [FOOTBALL]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=4d8da4c04e6a5e07e88168bf3037f2e2&wsABSTime=1774224038
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - SOKOL SARATOV VS NEFTEKHIMIK FC [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | ENG Premier League",Newcastle United vs Sunderland
 https://hwcn111pull-b.bszb.me/live/1052339_1774179902.flv
@@ -3345,10 +3348,8 @@ https://hwcn111pull-b.bszb.me/live/1052339_1774179902.flv
 https://hwcn111pull-b.bszb.me/live/2403950_1774178305.flv
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | NED Eredivisie",NEC Nijmegen vs SC Heerenveen
 https://hwcn111pull-b.bszb.me/live/957497_1774177312.flv
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | RUS 1st League",Sokol Saratov vs Neftekhimik Nizhnekamsk
-https://live1.trendgallary.com/live/69540576_1d280541f849cf65a6c1b349296683a3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | RUS 1st League",Ural Yekaterinburg vs Yenisey Krasnoyarsk
-https://v.lfsxfj.com/live/100322.m3u8?txSecret=034265ec15335f9ba43979418e9e8e29&txTime=69BFDDC1&sign=6a19bf0ba169946c
+https://v.lfsxfj.com/live/100322.m3u8?txSecret=fc1cc469b06ab9ef74e0331f628ffc2b&txTime=69BFDF29&sign=7551ea92c32e70b3
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | RUS Premier League",Gazovik Orenburg vs Spartak Moscow
 https://hwcn111pull-b.bszb.me/live/2213229_1774173622.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+) (Kadang Offline)
