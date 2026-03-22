@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated Sun Mar 22 03:39:17 2026
+# Generated Sun Mar 22 03:46:15 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Sunday 22-03-2026 10:39:03 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support • Sunday 22-03-2026 10:45:58 WIB😈📁
 http://phate.io/listen
