@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁16:06:26 23-03-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁16:14:39 23-03-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia Victorian Women's Premier League📁00:00:00📁",📁FC Bulleen Lions Women vs Bentleigh Greens Women📁23-03-2026 16:14:37 WIB📁00:00:00📁
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁South Australia State League 1📁00:00:00📁",📁Adelaide Blue Eagles vs Modbury Jets📁23-03-2026 16:14:37 WIB📁00:00:00📁
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
