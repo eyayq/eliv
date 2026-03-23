@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-23 18:38:55
-# 🔄 Total Channels: 1709
+# ⏰ Latest Updated: 2026-03-23 18:47:06
+# 🔄 Total Channels: 1753
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -49,6 +49,9 @@ http://103.66.62.83:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/470e63e2f9ed2b556aab332b1645c4a1.png!w80" group-title="Live Event: Colalive",00:00 24/03 Union Berlin Nu vs Werder Bremen Nu Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/78905744.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b17f903b42eebe1e7ad55f4f346d2bf8.png!w80" group-title="Live Event: Colalive",01:30 24/03 Unirea Slobozia vs Otelul Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/43612277.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRdv9AagomdmIo44ksuq8W8pHMz1cIZ1kotQ&s" group-title="LIVE EVENT: MANUAL",02:30 WIB - 24 MARET 2026 CD Castellon vs Cultural Leonesa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -64,30 +67,54 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  LEO m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  LEO flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  TON LAP m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  TON LAP flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  A TUA m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  A TUA flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  DUONG QUA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  DUONG QUA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  A TUA m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  A TUA flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  LEO m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8834_1j3kr7hxc72t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   24/03 Union Berlin vs Werder Bremen  LEO flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F19620_167307933265.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:30   24/03 Granada CF vs Deportivo La Coruna W  DUONG CHI m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F19620_167307933265.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:30   24/03 Granada CF vs Deportivo La Coruna W  DUONG CHI flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15912_1h4yn3r90b2d.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:30   24/03 CA Fenix Pilar vs Puerto Nuevo  CHUNN m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F15912_1h4yn3r90b2d.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:30   24/03 CA Fenix Pilar vs Puerto Nuevo  CHUNN flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/CHUN1.flv?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F13215_1grwfg41cv1q.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:30   24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati  TRIEU TU LONG m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F13215_1grwfg41cv1q.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:30   24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati  TRIEU TU LONG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F13215_1grwfg41cv1q.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:30   24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati  YEN THANH m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F13215_1grwfg41cv1q.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:30   24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati  YEN THANH flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F66b7f6e0e3e69081a6ea9e72b54fe29a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:30   24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -124,6 +151,10 @@ https://pull-live4.fastestcdn-global.com/live/113acad043804a03a9c8749c6a86f091/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/b3a1e3137c4a4afa6d28ea850ffac066/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fed6efd52d4932884c36a1a1049cd8b9a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:30   24/03 Sportivo Dock Sud vs Villa San Carlos Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e2fb138a3a03a6a63d3f42d0c4531fdd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3b21a7c47e6998936d29e802612b8fb3%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   23/03 East Bengal FC vs Mohammedan SC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -132,6 +163,10 @@ https://live.alilicloud.com/live/ec4b51d8054319e34c5cadf937221dbf/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/ce8463397c75c22b2937504ed74fbbfd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F23cec2e195c71c779373a2d9f8f3f186%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:30   24/03 CA Fenix Pilar vs Puerto Nuevo Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/38807806f5421d412b410a65db6e9113/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F41dd246fa12304aadbbc27800dd061d8%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",23:30   23/03 Team Rhino FC vs Medina United FC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -224,6 +259,22 @@ https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoihothd.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F607e88e0f27f74056b9e4d2d416253ea%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   23/03 Fortune FC vs Harts Academy FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/11c124eb9e951e62a14f85384a654cce/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F55836ee36a986a6bed31c12ab0a1f9f1%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   23/03 TMT FA vs Samger FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/7627902ae3654140c256eac0b18e2fe0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcd3c9eb7a6731fde6b70c0906d1a5ee9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   23/03 Yantra Gabrovo vs Fratria Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8927d0ce91fca4eeff8e3531d5920785/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F16a24a191c919d4969bf2b6b2d6e882f%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   23/03 Steve Biko FC vs Greater Tomorrow FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/59cd4fdf67e2cbf4021a312c71f53a55/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F66b7f6e0e3e69081a6ea9e72b54fe29a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:30   24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -260,6 +311,10 @@ https://live.alilicloud.com/live/9458dc6bd7a7242fc8a5bc3c53a1fda9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b3a1e3137c4a4afa6d28ea850ffac066/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fed6efd52d4932884c36a1a1049cd8b9a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:30   24/03 Sportivo Dock Sud vs Villa San Carlos Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/e2fb138a3a03a6a63d3f42d0c4531fdd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb97dcc27ebc823639015ee1d7ae6522e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:30   23/03 Erbil SC vs Diala Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -292,6 +347,10 @@ https://pull-live8.fastestcdn-global.com/live/b0090db35a474fbbaf90b62ef7c11289/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://pull-live8.fastestcdn-global.com/live/b0090db35a474fbbaf90b62ef7c11289/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F23cec2e195c71c779373a2d9f8f3f186%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:30   24/03 CA Fenix Pilar vs Puerto Nuevo Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/38807806f5421d412b410a65db6e9113/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F41dd246fa12304aadbbc27800dd061d8%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:30   23/03 Team Rhino FC vs Medina United FC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -312,22 +371,34 @@ https://live.alilicloud.com/live/9ee93a09d96d25f6b328a0b466ae08a6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/eccbfbf0b1ed1cf3bd94215f4927a5d7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F607e88e0f27f74056b9e4d2d416253ea%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   23/03 Fortune FC vs Harts Academy FC Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F27f0dfcd8abf6c82b6e24068f439b796%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",02:00   24/03 Boyaca Chico vs Deportes Tolima Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/11c124eb9e951e62a14f85384a654cce/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F55836ee36a986a6bed31c12ab0a1f9f1%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   23/03 TMT FA vs Samger FC Gvision TV
+https://live.alilicloud.com/live/a5bf2947ab6d7010e35941dd419f6400/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F27f0dfcd8abf6c82b6e24068f439b796%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",02:00   24/03 Boyaca Chico vs Deportes Tolima sd_1 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/7627902ae3654140c256eac0b18e2fe0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcd3c9eb7a6731fde6b70c0906d1a5ee9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   23/03 Yantra Gabrovo vs Fratria Gvision TV
+https://pull-live7.fastestcdn-global.com/live/28478e7485ac403fac2c648ca6ddfe07/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F27f0dfcd8abf6c82b6e24068f439b796%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",02:00   24/03 Boyaca Chico vs Deportes Tolima hd_1 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8927d0ce91fca4eeff8e3531d5920785/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F16a24a191c919d4969bf2b6b2d6e882f%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",23:00   23/03 Steve Biko FC vs Greater Tomorrow FC Gvision TV
+https://pull-live7.fastestcdn-global.com/live/28478e7485ac403fac2c648ca6ddfe07/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F27f0dfcd8abf6c82b6e24068f439b796%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",02:00   24/03 Boyaca Chico vs Deportes Tolima sd_2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/59cd4fdf67e2cbf4021a312c71f53a55/playlist.m3u8
+https://pull-live8.fastestcdn-global.com/live/28478e7485ac403fac2c648ca6ddfe07/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F27f0dfcd8abf6c82b6e24068f439b796%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",02:00   24/03 Boyaca Chico vs Deportes Tolima hd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/28478e7485ac403fac2c648ca6ddfe07/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F27f0dfcd8abf6c82b6e24068f439b796%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",02:00   24/03 Boyaca Chico vs Deportes Tolima sd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/28478e7485ac403fac2c648ca6ddfe07/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F27f0dfcd8abf6c82b6e24068f439b796%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",02:00   24/03 Boyaca Chico vs Deportes Tolima hd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/28478e7485ac403fac2c648ca6ddfe07/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Iraqi League] 23:30 23/03 Erbil vs Diyala [FHD] Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
@@ -340,186 +411,258 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ VIP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=8403bea002682ad77389392aee84e86c&txTime=69c1d6bb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ VIP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=7e444311ac98f34f1abb2391dbb68a68&txTime=69c1d6bb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ VIP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=8403bea002682ad77389392aee84e86c&txTime=69c1d6bb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ VIP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=7e444311ac98f34f1abb2391dbb68a68&txTime=69c1d6bb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ 7UP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1774293099-0-0-3aaff5f72ae0da1b3bc68a6c8e7d4091
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ 7UP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1774293099-0-0-ac417a21a33a9466826117b01d170ec1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ 7UP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1774293099-0-0-3529b31f51a7c17243866271f5296b0f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ 7UP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1774293099-0-0-50c23a0c911b339a53d9a6415d954cb5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [MR BICH] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1774293099-0-0-bc88c1093255f3a6063589d50ce2bdc5
+https://pull06.scstream.net/live/stream-285067_lsd.flv?auth_key=1774294179-0-0-108ffda8bf08f4775cf899da4185fd2b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [MR BICH] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1774293099-0-0-f787383b946e43ae9ee8f374c1e79941
+https://pull06.scstream.net/live/stream-285067_lhd.flv?auth_key=1774294179-0-0-a8b1e93c1475a61fd17bd39629f1b159
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [MR BICH] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1774293099-0-0-1c3bd297367a4d11107881015fa1cf86
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1774294179-0-0-1ab9e43349670156079d2512b4f2cb1c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [MR BICH] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1774293099-0-0-51db4be3b1f933a78ac14ff0754971ee
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ WUKONG] flv Gvision TV
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1774294179-0-0-49add51118c2bd7405100ef8680cb119
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ VIP] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1774293099-0-0-52f3aea2467f224ebf0eb40a71f2e818
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ WUKONG] hdFlv Gvision TV
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=a09bd94baf514252852bc73b8a4cf5ba&txTime=69c1daf3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ VIP] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1774293099-0-0-9aca59e64ab3bcac2fd60082079c0632
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ WUKONG] m3u8 Gvision TV
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=380131c5911418c51ac48e63295c1784&txTime=69c1daf3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ VIP] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1774293099-0-0-125e0b724232a654b13dec3d416e85ea
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ WUKONG] hdM3u8 Gvision TV
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=a09bd94baf514252852bc73b8a4cf5ba&txTime=69c1daf3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ VIP] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1774293099-0-0-a3f31ea15758e7dfc8443aac032550ac
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=380131c5911418c51ac48e63295c1784&txTime=69c1daf3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [CONG CHAT] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1774293099-0-0-9b996a7b9ede11edf7e4e7b01a847847
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1774294179-0-0-4f394a480d6189511dff7ab612776e94
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [CONG CHAT] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1774293099-0-0-de2d3a5cd6a6923ae4e6aa3d5e85b1cc
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1774294179-0-0-0a9f4c76e9890f4136452be0a76ff6fb
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [CONG CHAT] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1774293099-0-0-6ac4796d15236a77db3c4308cb920368
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1774294179-0-0-70a6cad88a48a7ec0626b2f07f8d0fcd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [CONG CHAT] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1774293099-0-0-daaa8a7c034b1a5f765d97dbe653ef5e
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1774294179-0-0-f1456278e4adc25d4c8111ffff0a0111
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ WUKONG] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1774294179-0-0-44292cc79a3fd1678fa7dbcea2cd9376
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ WUKONG] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1774294179-0-0-ca7b125e6da78616410b9aae055cf368
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ WUKONG] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1774294179-0-0-b784c20dd88a9c6d825d8bff52f641fd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ WUKONG] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1774294179-0-0-80c7595bbd4eb0a56571973b4cde5dad
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ 7UP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1774294179-0-0-9622b29695f7d74db93c80b2afd439ba
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ 7UP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1774294179-0-0-c3cfa5479a7aeaa68ac9fe48184f1468
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ 7UP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1774294179-0-0-8e6be6d3a972a1d8139257c139cc60af
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ 7UP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1774294179-0-0-444147d5adf0f82c7d8a47cd29efc570
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [LAO LAM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lsd.flv?auth_key=1774294179-0-0-dffe5805bdb2fc910e1c4f1537cc77e0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [LAO LAM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1774294179-0-0-a0b0494612265c7b816cff3e79366e8b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [LAO LAM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1774294179-0-0-7aeef8bc3a72bba81973c44fdf1983ee
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [LAO LAM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1774294179-0-0-7aea806fc8a0bd9a690c0ad5615769a5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [LOGAN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1774293099-0-0-0b5c9d9c05fa1afb5c03cfc68d4b0b28
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1774294179-0-0-6da9e786db1526496270f0d999f1bea7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [LOGAN] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1774293099-0-0-2287dd9e6d191c3040c3dbd098e2fe31
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1774294179-0-0-5052867b76a4a1057f8b9fb9aef96481
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [LOGAN] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1774293099-0-0-0b10128f5ed7f23745d25fd8ac8bf06d
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1774294179-0-0-87c66340980a74f028bfdb4974380da8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [LOGAN] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1774293099-0-0-823158baed8ad421486984a1cc346174
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1774294179-0-0-2d44ce8d828f01d2f5d98d8e4c2fb699
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/3218e0b6b880b626f839fdd0549ca140.png" group-title="Live Event: socolive",00:00 ngay 24/03 Al Arabi vs Al Sadd [HUNTER] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1774293099-0-0-88a4660b62d34452321fa1288328750b
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1774294179-0-0-fdf18902b9d77fd1564e670e1d37a890
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/3218e0b6b880b626f839fdd0549ca140.png" group-title="Live Event: socolive",00:00 ngay 24/03 Al Arabi vs Al Sadd [HUNTER] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1774293099-0-0-9fe4a7aeb71677d12eadabfb85929f2e
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1774294179-0-0-acb277db704fb95ce9f1f26285f49d41
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/3218e0b6b880b626f839fdd0549ca140.png" group-title="Live Event: socolive",00:00 ngay 24/03 Al Arabi vs Al Sadd [HUNTER] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774293099-0-0-6318d52a14667a7e354b0fd3baf06956
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774294179-0-0-1390e32b76538516558d987a39a2cf71
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/3218e0b6b880b626f839fdd0549ca140.png" group-title="Live Event: socolive",00:00 ngay 24/03 Al Arabi vs Al Sadd [HUNTER] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774293099-0-0-748b2d0cb08635217b1fb9a3466a3bcb
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774294179-0-0-56edb0cc602cac3070383a2ba05f04d5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/d43a160570c23c383a1ae6ba3a5b1849.png" group-title="Live Event: socolive",02:00 ngay 24/03 Ulm vs Bonn [KING] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1774293099-0-0-6e781233b095e2942d0fe3358b343440
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1774294179-0-0-116b6e76580a30a49792674ecb4039eb
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/d43a160570c23c383a1ae6ba3a5b1849.png" group-title="Live Event: socolive",02:00 ngay 24/03 Ulm vs Bonn [KING] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1774293099-0-0-c88fae965e4549ebb88beea4eb650b46
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1774294179-0-0-c430206dbcd356f8cde1a6d6d0705782
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/d43a160570c23c383a1ae6ba3a5b1849.png" group-title="Live Event: socolive",02:00 ngay 24/03 Ulm vs Bonn [KING] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1774293099-0-0-748cf1e265140ef02feaf417dae24bf3
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1774294179-0-0-2ffc6adc78c1d722acd69a1e8694c08d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/d43a160570c23c383a1ae6ba3a5b1849.png" group-title="Live Event: socolive",02:00 ngay 24/03 Ulm vs Bonn [KING] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1774293099-0-0-bbcd1989b573635671913fbd2b74e6f1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ COCA] flv Gvision TV
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1774294179-0-0-6075ee3cbdf398013c645c1fb0ae1bfa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [ LUCAS] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1774293459-0-0-d7f44ace37416f16f60833b8ce0dd745
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ COCA] hdFlv Gvision TV
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1774294179-0-0-01447ca458f184a97a8fa2288b6f0638
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [ LUCAS] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1774293459-0-0-09d9a323c4d03b5ff728b8f98e6f9f64
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ COCA] m3u8 Gvision TV
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1774294179-0-0-8bcd864dc6247653664c48323272f3a8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [ LUCAS] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1774293459-0-0-3a203d46b6fc1b670023f1a913cfb66a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ COCA] hdM3u8 Gvision TV
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1774294179-0-0-2c9dca8d4a0aa82cc02c01bd1d157074
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [ LUCAS] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1774293459-0-0-2fcb6fd64cfaddfd440b432edb954812
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ COZY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1774293459-0-0-0af319f3a917ba1c151fe47cddbc3950
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ COZY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1774293459-0-0-e369f63c762e2ff99802645be437cd57
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ COZY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1774293459-0-0-c6267f207e23eec8e7af45b07ffb0ebd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ COZY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1774293459-0-0-63c3e5b3502e87f2787a66e6d48a5b23
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [THACH TU] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=ad75ce4e2446ba19f1bc37fa1cbff321&txTime=69c1d823
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [THACH TU] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=e776c9d466fe6911c4efa833b37991b0&txTime=69c1d823
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [THACH TU] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=ad75ce4e2446ba19f1bc37fa1cbff321&txTime=69c1d823
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [THACH TU] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=e776c9d466fe6911c4efa833b37991b0&txTime=69c1d823
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ ROBBEN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1774293459-0-0-3eaad00dcc7c8beec812b14eeae75097
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ ROBBEN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1774293459-0-0-6e38b18108bf3196fea3998ed5a94d15
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ ROBBEN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1774293459-0-0-62b56383472cd285c1e8218209d9b5f9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ ROBBEN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1774293459-0-0-aa361dcdf47909e0421dfefce5488a59
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1774294179-0-0-c96f57b817a73b1fc20285f673c5c3ef
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ KEM] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1774293459-0-0-cfecfcf2d47db99484d3597f00984e01
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1774294539-0-0-220f652b86e99b06b3e22c5301f58269
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ KEM] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1774293459-0-0-46632ab4bafb5a321859977755e51a57
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1774294539-0-0-bd124794825a5001199434f1d7dc4c84
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ KEM] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1774293459-0-0-032a7af73537764474a012af9abeb68a
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1774294539-0-0-b37d9831d169bc708962d219b9cc5cd3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ KEM] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1774293459-0-0-9bb2f01f55b01d9caefe714953614afc
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1774294539-0-0-fb6f2bf3537fce8192c5f589c802f77c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ ROBBEN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1774294539-0-0-c4cf6ee9b9da04f4c72b1174b519e621
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ ROBBEN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1774294539-0-0-768f2857d2d311afdc689e8804ec258c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ ROBBEN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1774294539-0-0-4b025d134ce00f38ef7afbeb44a237fd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ ROBBEN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1774294539-0-0-2243a8f8fdaaf36673cb3cc84e57e241
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ COCA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1774294539-0-0-027ec2536dfecb6733cfa1c11aae9ad7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ COCA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1774294539-0-0-ef491092ffcef2636ffbee759246144d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ COCA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1774294539-0-0-7c14058011c97e194267e2c6e1a35362
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/e3f3a904bc8b133ccce27005e939511e.png" group-title="Live Event: socolive",00:00 ngay 24/03 Union Berlin Women vs Werder Bremen Women [ COCA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1774294539-0-0-bea4ea2f4ff4545a8b1a87ddeb100025
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [THACH TU] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=76bc56aadff82a21cf8777c22a72ed07&txTime=69c1dc5b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [THACH TU] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=1bff3f9ef9dab1c326cb80375020e64b&txTime=69c1dc5b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [THACH TU] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=76bc56aadff82a21cf8777c22a72ed07&txTime=69c1dc5b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [THACH TU] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=1bff3f9ef9dab1c326cb80375020e64b&txTime=69c1dc5b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ COZY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lsd.flv?auth_key=1774294539-0-0-6028cf714427951874d379886fc4d8c7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ COZY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1774294539-0-0-ec36e13415156509a7fef6afb5225d49
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ COZY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1774294539-0-0-664d42a06d37af1872ae41e2665c3b24
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ COZY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1774294539-0-0-116f5889792d3e73bc6eb4d42ec82195
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ LONG] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912050_lsd.flv?auth_key=1774294539-0-0-ffd0f37d9fb9eef03f8b328cb81f1bd3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ LONG] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912050_lhd.flv?auth_key=1774294539-0-0-ce28f4d6da5e177b74661a13cead0fe8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ LONG] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1774294539-0-0-5c7ce69d9b5a6068744ac7e288e8bba0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/0e9b52500f079c4c052650f6fff2ab75.png" group-title="Live Event: socolive",01:30 ngay 24/03 FC Unirea 2004 Slobozia vs FC Otelul Galati [ LONG] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1774294539-0-0-9b8e9afd86fee2ffaaa70f00016bb199
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/983987b3ab9f0664ece04dac65169b35.png" group-title="Live Event: socolive",02:00 ngay 24/03 Nueva Chicago vs Gimnasia y Tiro [ VITAMIN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1774293459-0-0-f8125a6aa78d99c80229f90792ccb849
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1774294539-0-0-9857ed6a9708675a17f4cdbff262d4ea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/983987b3ab9f0664ece04dac65169b35.png" group-title="Live Event: socolive",02:00 ngay 24/03 Nueva Chicago vs Gimnasia y Tiro [ VITAMIN] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1774293459-0-0-a15ba9f49bb429517dc0dfb0a7abab0f
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1774294539-0-0-01849e11c701a362d81d8a0912bf5549
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/983987b3ab9f0664ece04dac65169b35.png" group-title="Live Event: socolive",02:00 ngay 24/03 Nueva Chicago vs Gimnasia y Tiro [ VITAMIN] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1774293459-0-0-53495733ccea7b6b76464dffd60893a0
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1774294539-0-0-e6bfc0f0f0cb4991d834bd0ac853152e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/983987b3ab9f0664ece04dac65169b35.png" group-title="Live Event: socolive",02:00 ngay 24/03 Nueva Chicago vs Gimnasia y Tiro [ VITAMIN] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1774293459-0-0-d6ad4668deb449b23d4bd91894cd4528
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1774294539-0-0-586b4980083475178211a221db87621a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/983987b3ab9f0664ece04dac65169b35.png" group-title="Live Event: socolive",02:00 ngay 24/03 Nueva Chicago vs Gimnasia y Tiro [NGUOI THEP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lsd.flv?auth_key=1774294539-0-0-05c2ba1e14266f89d1612646b62b4a63
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/983987b3ab9f0664ece04dac65169b35.png" group-title="Live Event: socolive",02:00 ngay 24/03 Nueva Chicago vs Gimnasia y Tiro [NGUOI THEP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-568233_lhd.flv?auth_key=1774294539-0-0-80442a71ecdcdbf8ac40fdfb34800275
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/983987b3ab9f0664ece04dac65169b35.png" group-title="Live Event: socolive",02:00 ngay 24/03 Nueva Chicago vs Gimnasia y Tiro [NGUOI THEP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1774294539-0-0-642f455484a41e099ce78cb44b515816
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/983987b3ab9f0664ece04dac65169b35.png" group-title="Live Event: socolive",02:00 ngay 24/03 Nueva Chicago vs Gimnasia y Tiro [NGUOI THEP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1774294539-0-0-aafcabc2fe685ff53dec40457275b0e0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774293459-0-0-0f3f3b851d9669256620f861464b8540
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774294539-0-0-7a70942d187da11de1212a01e7193318
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774293459-0-0-29e1445ef86dd1fe850ea0c58fed8b04
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774294539-0-0-f5126951e9eb0d3abbe79630362687d5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774293459-0-0-ff78acef67cfde2285920ba9d959d15c
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774294539-0-0-844a954c98774741ee5e1d363fff3e2d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774293459-0-0-8808d0f319c8165b3ee70835eab076ba
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774294539-0-0-65be6c082dbe0eea059c9d7e18c6f6da
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [ FIREMAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1774294899-0-0-cd5116737179299fd589cf3bfc199ff7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [ FIREMAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1774294899-0-0-e10cb1143f6bc16c0a48407fae2ceaa6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [ FIREMAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1774294899-0-0-dd063153cfb92f69166e7d6176a87235
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [ FIREMAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1774294899-0-0-4dadcb8c8cf95d4c6f9e5a255f0ed3fe
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [RABBIT] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-596191_lsd.flv?auth_key=1774294899-0-0-2946adaa80d6a1333e631e28100dd81f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [RABBIT] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-596191_lhd.flv?auth_key=1774294899-0-0-9833aa549bfe84fb139542e35d429b0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [RABBIT] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1774294899-0-0-9a78da02bfcf9c408a3852e91d78ca53
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2788ac4f4d38b7baeaf108198603110f.png" group-title="Live Event: socolive",02:00 ngay 24/03 Boyaca Chico vs Deportes Tolima [RABBIT] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1774294899-0-0-bc5861a0767adf338a4204becded617f
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/6916.png" group-title="Live Event: Hội quán",01:30 24/03 Unirea Slobozia vs Otelul FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2515,38 +2658,38 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=cd1ab19ba3c081808715ff7228322f98&wsABSTime=1774334121
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=9a98e6445694fab9b592cd51676d0a65&wsABSTime=1774334721
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",01:00 WIB - HB TORSHAVN WOMEN VS FC HOYVIK W [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel45.flv?wsSecret=044ca694a7b371241ee010b9988430b8&wsABSTime=1774334122
+https://live1.pro2cdnlive.com/live/channel45.flv?wsSecret=948707aee90682602e694b1c9eed88fa&wsABSTime=1774334722
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",01:30 WIB - UNIREA SLOBOZIA VS OTELUL GALATI [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=b8f53012aa66b145802148ad3100b128&wsABSTime=1774334123
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=86996be09a9f3abdc62f6be4f4a1535f&wsABSTime=1774334722
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",01:30 WIB - NU GRANADA VS NU DEPORTIVO CORUNA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=33c2509e0f7c8ac5ea093e1a979f5b35&wsABSTime=1774334123
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=fb319a511595ed490914b3b34d304dff&wsABSTime=1774334723
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",02:00 WIB - BOYACA CHICO VS DEPORTES TOLIMA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=09ae720cb864e899cb98d7af4546b4db&wsABSTime=1774334124
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=915ee91672756edc8595727adc219cbd&wsABSTime=1774334724
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",02:30 WIB - CASTELLON VS CULTURAL LEONESA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=cf6fa6cb31e6b7997cc718a2080d0e92&wsABSTime=1774334125
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE BASKETBALL | XOILACZ AI",23:30 WIB - SALT LAKE CITY STARS VS RAPTORS 905 [Server 1] [BASKETBALL]
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=32591d96ca135198b96e09ebf11e82d3&wsABSTime=1774334725
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:00 WIB - CAYIROVA BELEDIYESI VS ROYAL HALI GAZIANTEP [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=da425697e8a0408ad3857257a84f7f21&wsABSTime=1774334127
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - WUSUM STARS VS FREETOWN CITY [FOOTBALL]
+https://live1.pro2cdnlive.com/live/channel44.flv?wsSecret=7fc0d352a99233ba7ae8eb52ef773ae7&wsABSTime=1774334726
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - NU MACARA VS CARNERAS UPS WOMEN [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | IND Super League",East Bengal FC vs Mohammedan SC
 https://hwcn111pull-b.bszb.me/live/2213229_1774273905.flv
