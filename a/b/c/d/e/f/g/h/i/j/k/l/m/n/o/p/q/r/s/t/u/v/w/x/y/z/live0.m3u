@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-24 02:21:23
-# 🔄 Total Channels: 1766
+# ⏰ Latest Updated: 2026-03-24 02:28:26
+# 🔄 Total Channels: 1725
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -52,6 +52,9 @@ https://live5.msrktz.app/live/87379114.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="Live Event: Colalive",08:00 24/03 Club Leon Nu vs Atlas Nu Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/79665343.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ca05b27dd2979a344914fd662c3471c7.png!w80" group-title="Live Event: Colalive",09:00 24/03 Portland Timbers 2 vs Ventura County FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRdv9AagomdmIo44ksuq8W8pHMz1cIZ1kotQ&s" group-title="LIVE EVENT: MANUAL",02:30 WIB - 24 MARET 2026 CD Castellon vs Cultural Leonesa
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -67,30 +70,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F70384_1k2xgnbfnp1v.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Biteburs vs Escorpiones Belen  KENCHU m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F70384_1k2xgnbfnp1v.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Biteburs vs Escorpiones Belen  KENCHU flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F70384_1k2xgnbfnp1v.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Biteburs vs Escorpiones Belen  DOAN DU m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F70384_1k2xgnbfnp1v.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Biteburs vs Escorpiones Belen  DOAN DU flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F30746_20191227090750.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Lobos UPNFM vs Olancho FC  NGU CA m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F30746_20191227090750.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Lobos UPNFM vs Olancho FC  NGU CA flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F30746_20191227090750.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Lobos UPNFM vs Olancho FC  SHIN m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F30746_20191227090750.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Lobos UPNFM vs Olancho FC  SHIN flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18982_20130921172639.gif&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",09:00   24/03 Portland Timbers Reserve vs Ventura County FC  KAKA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -127,6 +106,50 @@ https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d9
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1774286885.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:30   24/03 Dallas Mavericks vs Golden State Warriors  YEN THANH flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F70384_1k2xgnbfnp1v.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Biteburs vs Escorpiones Belen  DOAN DU m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/DOANDU1/index.m3u8?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F70384_1k2xgnbfnp1v.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Biteburs vs Escorpiones Belen  DOAN DU flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/DOANDU1.flv?expire=1923832980&sign=fed2ed3dc2f0dcec98029592cada4e3d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F70384_1k2xgnbfnp1v.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Biteburs vs Escorpiones Belen  KENCHU m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F70384_1k2xgnbfnp1v.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Biteburs vs Escorpiones Belen  KENCHU flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F30746_20191227090750.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Lobos UPNFM vs Olancho FC  SHIN m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F30746_20191227090750.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Lobos UPNFM vs Olancho FC  SHIN flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F30746_20191227090750.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Lobos UPNFM vs Olancho FC  NGU CA m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F30746_20191227090750.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   24/03 Lobos UPNFM vs Olancho FC  NGU CA flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a156a7e4977427fc1dec08eac881161%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:00   24/03 Sociedad Deportiva Aucas vs Orense SC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3748a3d540143186f113212b3623e3fd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa4b51f131cc552ebadedc71910b05d02%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:15   24/03 CA Huracan vs Barracas Central Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/7a3f82227d4e52e637d753e4a8f5bfb6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa177972d3d491d03802e61e01fa5c029%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",05:00   24/03 Estudiantes La Plata vs Central Cordoba SDE Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/af4def7fdb3516afdcd108f318b88aee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F17409c40a334245a4e6685d16391ecdd%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",04:00   24/03 Union San Felipe vs San Marcos de Arica Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a51377bc15b3878cafd0e60df96cec5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faba4de2a28a3f91615766938ef996120%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   24/03 Rubio nu vs Sportivo Ameliano Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3b90a2ef616747147352e2af9f50ed19/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ba27ba7171f0f2cb5529720780fcfd9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   24/03 Metropolitanos FC vs Academia Anzoategui Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -167,26 +190,6 @@ https://live.alilicloud.com/live/26e0cc80f39d73bb93209f59260bb8bf/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/99dc738e1cf600a600df090a514f0759/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a156a7e4977427fc1dec08eac881161%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:00   24/03 Sociedad Deportiva Aucas vs Orense SC Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3748a3d540143186f113212b3623e3fd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa4b51f131cc552ebadedc71910b05d02%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:15   24/03 CA Huracan vs Barracas Central Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/7a3f82227d4e52e637d753e4a8f5bfb6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa177972d3d491d03802e61e01fa5c029%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",05:00   24/03 Estudiantes La Plata vs Central Cordoba SDE Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/af4def7fdb3516afdcd108f318b88aee/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F17409c40a334245a4e6685d16391ecdd%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",04:00   24/03 Union San Felipe vs San Marcos de Arica Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a51377bc15b3878cafd0e60df96cec5a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faba4de2a28a3f91615766938ef996120%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   24/03 Rubio nu vs Sportivo Ameliano Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3b90a2ef616747147352e2af9f50ed19/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_132721_d2eaa045.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",07:15   24/03 Huracan vs Barracas Central HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -207,22 +210,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ba27ba7171f0f2cb5529720780fcfd9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:00   24/03 Metropolitanos FC vs Academia Anzoategui Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/1c969e72411d54aeaeae52a834b74b68/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F147f17c4fa667f3a07b6f85062e7fbf3%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:00   24/03 Comunicaciones BsAs vs Liniers Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/944917d5fda988490aa299eb336fceaf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2512f96d1f97f9174ae7763763a3f8c5%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:30   24/03 Mount Pleasant FA vs Portmore United Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/49b83d0db8f8ebafb06465dbf56fce94/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a7b357850be6cec76bc427760660752%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",09:00   24/03 Portland Timbers Reserve vs Ventura County FC Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/26e0cc80f39d73bb93209f59260bb8bf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a156a7e4977427fc1dec08eac881161%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:00   24/03 Sociedad Deportiva Aucas vs Orense SC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -259,294 +246,22 @@ https://pull-live8.fastestcdn-global.com/live/067152d910e9412084cf867d9c481dcd/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/3b90a2ef616747147352e2af9f50ed19/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 08:30 24/03 Dallas Mavericks vs Golden State Warriors [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 08:30 24/03 Dallas Mavericks vs Golden State Warriors [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 08:30 24/03 Dallas Mavericks vs Golden State Warriors [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga MX Femenil] 08:30 24/03 Leon W vs Atlas W [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga MX Femenil] 08:30 24/03 Leon W vs Atlas W [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga MX Femenil] 08:30 24/03 Leon W vs Atlas W [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [ BEO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=6c19597d87ddc7ec961408bd3e9283a8&txTime=69c2446b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [ BEO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=77a74fd33977c4236f64176c97b049d4&txTime=69c2446b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [ BEO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=6c19597d87ddc7ec961408bd3e9283a8&txTime=69c2446b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [ BEO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=77a74fd33977c4236f64176c97b049d4&txTime=69c2446b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [HOI GYM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1774321179-0-0-a0d6209a1faa256774bf28c0b6599edf
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [HOI GYM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1774321179-0-0-72ccc02da6d040d11acdafb38a9622f0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [HOI GYM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1774321179-0-0-e468b6f7fb86f349ed7c62c3c05b3785
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [HOI GYM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1774321179-0-0-e1a232f09691dc60f8f4033e6a9d53b1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [VENDETTA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1774321179-0-0-33c8346e5fff4ee57946e3104cf62f91
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [VENDETTA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1774321179-0-0-e9aa1dae968c0fc423603f9ddf15366b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [VENDETTA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1774321179-0-0-76f50073d2cabe8154ff06d2e237650b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [VENDETTA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1774321179-0-0-d9a4f3e119811b700b9bf98ae33fbdd0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ CAO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1774321179-0-0-7ff688d807e619e93c7c4ea946ee45d5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ CAO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1774321179-0-0-ce669c04e0c13da5583b61df1048cc67
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ CAO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1774321179-0-0-8b698b30c48612d2bafda8769910f3be
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ CAO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1774321179-0-0-4e7cfbf257ed35ae175333a64236a541
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/860ffdaa96e93af0ca19cf85f885f04e.png" group-title="Live Event: socolive",07:00 ngay 24/03 Chicago Bulls vs Houston Rockets [CHAN SENA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1774321179-0-0-8aea4be65b3d8d6254b203ef996ebc5a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/860ffdaa96e93af0ca19cf85f885f04e.png" group-title="Live Event: socolive",07:00 ngay 24/03 Chicago Bulls vs Houston Rockets [CHAN SENA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1774321179-0-0-8fe325154db7febb666f15a7170151bb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/860ffdaa96e93af0ca19cf85f885f04e.png" group-title="Live Event: socolive",07:00 ngay 24/03 Chicago Bulls vs Houston Rockets [CHAN SENA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1774321179-0-0-fc32a8691b5d268463a37edfd7969581
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/860ffdaa96e93af0ca19cf85f885f04e.png" group-title="Live Event: socolive",07:00 ngay 24/03 Chicago Bulls vs Houston Rockets [CHAN SENA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1774321179-0-0-8fbeda20d0e22150f0eb9ca314432e7e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ XO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1774321179-0-0-52a585b907114c1369aff551df405ac5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ XO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1774321179-0-0-5082188e954e013520e7400c9e54e490
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ XO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1774321179-0-0-6b6fcde3e7699c6333133309f86f4733
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ XO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1774321179-0-0-f907f0f92cee2b963fe67f788cdd7d86
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ GON] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=dc9182186301cdc2ddf894b60558cd31&txTime=69c2446b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ GON] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=82f0a458b2edd7fb4b2cb40a9c8e5805&txTime=69c2446b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ GON] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=dc9182186301cdc2ddf894b60558cd31&txTime=69c2446b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ GON] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=82f0a458b2edd7fb4b2cb40a9c8e5805&txTime=69c2446b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ TOMMY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1774321539-0-0-7cee429d96072af6ac426b9fa5c24976
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ TOMMY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1774321539-0-0-6e6e9508ec613c4df50abc50e664cdf2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ TOMMY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1774321539-0-0-56a4934fce94c83839528817822d77bb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ TOMMY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1774321539-0-0-ea519a7bb2a24b09e0a39e3db5e66eca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ PIRLO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1774321539-0-0-af532fbbf3ec6fb1afccb5112398c178
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ PIRLO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1774321539-0-0-e1bbeeb5dafe2b17ade4ded77006a36d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ PIRLO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1774321539-0-0-de3fcb334007b33673776c742696ada3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ PIRLO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1774321539-0-0-2c7a7b4b37d69da0e6314bc543dae95f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [SAO LA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=a5aff7f5f507aad0812b1706dd05da92&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [SAO LA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=a6b837ce7826faedba78f54b9315c9bc&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [SAO LA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=a5aff7f5f507aad0812b1706dd05da92&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [SAO LA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a6b837ce7826faedba78f54b9315c9bc&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ COCA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1774321539-0-0-e9ab305e28c48ed46c724db19400e143
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ COCA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1774321539-0-0-04641237d0e4b11f27d74a38703fae5d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ COCA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1774321539-0-0-09ac611f8d053bbdfabd7552bf69146b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ COCA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1774321539-0-0-47962f9f89fe13a9a313d1f5fe699c24
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ 7UP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1774321539-0-0-d071b7b968de090c79ec2fb1180003f2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ 7UP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1774321539-0-0-6e94bff128470f5692df54f615e52950
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ 7UP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1774321539-0-0-67bdd32d3a61b89537128b2dea90e959
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ 7UP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1774321539-0-0-076fe45b2c962d474c0972db52e728d2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [RICKHANTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=adc8cc1537c17f2ac4034aa3f911708e&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [RICKHANTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=bba136d41feadd6c5a3299a510463519&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [RICKHANTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=adc8cc1537c17f2ac4034aa3f911708e&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [RICKHANTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=bba136d41feadd6c5a3299a510463519&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ DOM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1774321539-0-0-c185009fb5720032bb8a7ec9f382d1f5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ DOM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1774321539-0-0-4b6e469848ff4831816fe67ae7f8cd81
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ DOM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1774321539-0-0-f6ad53ac5872d7591effbe3540e268f8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ DOM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1774321539-0-0-ef2604e97166154ad50e043ef251c09f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [CR Buoi] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1774321539-0-0-df65e571f4de8692476363807fc24761
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [CR Buoi] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1774321539-0-0-849f017a0799f5868555e2964e2d9113
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [CR Buoi] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1774321539-0-0-93613810647c11575e280b5f28cd839e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [CR Buoi] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1774321539-0-0-aa4c3f378325e8f875231b291a52a40c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [VUONG ANH] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=6d19877e4776c54899a302faa8dac451&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [VUONG ANH] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=90bbe97986854c4e296887f81099d948&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [VUONG ANH] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=6d19877e4776c54899a302faa8dac451&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [VUONG ANH] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=90bbe97986854c4e296887f81099d948&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=7d2832e30b788f25ec53d18e58e70981&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=b73adb862963ab9151c95325d3db5d49&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=7d2832e30b788f25ec53d18e58e70981&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=b73adb862963ab9151c95325d3db5d49&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ TOMIA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1774321539-0-0-8c56bce87f77908b239b709bc17e43de
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ TOMIA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1774321539-0-0-7935eedeb522db430404737c0301bf57
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ TOMIA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1774321539-0-0-dd70e4de59f5c400f1688df04dd11b49
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ TOMIA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1774321539-0-0-82a1bbf0585270dc6d767e352c502ec6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ RAMBO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=84accb224c3ad1f02f217ba46cd49155&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ RAMBO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=5ed3ae6704a5bda74c3f223eb54cc43d&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ RAMBO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=84accb224c3ad1f02f217ba46cd49155&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ RAMBO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5ed3ae6704a5bda74c3f223eb54cc43d&txTime=69c245d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ LUCAS] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1774321539-0-0-c55a9c97aa6013485c1676d000148f92
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ LUCAS] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1774321539-0-0-3d986c34975d5a40b6101a53ca59bed8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ LUCAS] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1774321539-0-0-2a8c5e0a460f1ee8dab0ecd035daecaa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ LUCAS] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1774321539-0-0-4a114e57ad09f20617d2b5076a9daf4a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ SOI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lsd.flv?auth_key=1774321539-0-0-862326ab045d6657fbd58b574a7b28ad
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ SOI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-427562_lhd.flv?auth_key=1774321539-0-0-bac4f7d8e6e3302a61545dc4f9c0b96f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ SOI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1774321539-0-0-76b27b083802ea3c6f38b3236620f785
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ SOI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1774321539-0-0-db5d0c46fb58644d51bfd06bed22f66f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774321539-0-0-25ac204f244da37060faf547d18c0fa5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774321539-0-0-bdfec91260a3770d7c8e2fe7aa56694f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774321539-0-0-23410df4984de75c096b4a54d2245bff
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774321539-0-0-4083847436b10d11f2d7a5763fcbb653
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ba27ba7171f0f2cb5529720780fcfd9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:00   24/03 Metropolitanos FC vs Academia Anzoategui Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/1c969e72411d54aeaeae52a834b74b68/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F147f17c4fa667f3a07b6f85062e7fbf3%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:00   24/03 Comunicaciones BsAs vs Liniers Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/944917d5fda988490aa299eb336fceaf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F2512f96d1f97f9174ae7763763a3f8c5%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:30   24/03 Mount Pleasant FA vs Portmore United Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/49b83d0db8f8ebafb06465dbf56fce94/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1a7b357850be6cec76bc427760660752%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",09:00   24/03 Portland Timbers Reserve vs Ventura County FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/26e0cc80f39d73bb93209f59260bb8bf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [ ROSI] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1774321899-0-0-b6518b42350ae86af8ef25c10b2ce9e3
@@ -571,18 +286,6 @@ https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1774321899-0-0-0b8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [TA BIEN GIOI] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1774321899-0-0-25f9c35342d635639cb69d69f67355c4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [DECO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1774321899-0-0-a60b5a7b22c147c80664b4ac0339c223
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [DECO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1774321899-0-0-cebbdc57d2fb74796e69f6443015681f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [DECO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1774321899-0-0-ccd368912e998b451d6b2367155eb8a8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/67f9286d5c507c8ca5b4c41ec5f93e40.png" group-title="Live Event: socolive",07:15 ngay 24/03 CA Huracan vs Barracas Central [DECO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1774321899-0-0-40a1d35a509fd49971d50a07b038c733
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ TAP] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1774321899-0-0-71084c6fcdd80e63be263f4b1755667b
@@ -643,18 +346,6 @@ https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1774321899-0-0-1ff0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/860ffdaa96e93af0ca19cf85f885f04e.png" group-title="Live Event: socolive",07:00 ngay 24/03 Chicago Bulls vs Houston Rockets [A CHE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1774321899-0-0-329114f78c60cff765190094f921577f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ KAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=c9dbe8b7f799527bf62903160da457a1&txTime=69c2473b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ KAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=6be5e3e368ee3c3f02565626bd7eace0&txTime=69c2473b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ KAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=c9dbe8b7f799527bf62903160da457a1&txTime=69c2473b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/1d21568fedbbb3915ebb662f4bca9691.png" group-title="Live Event: socolive",07:00 ngay 24/03 Sociedad Deportiva Aucas vs Orense SC [ KAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=6be5e3e368ee3c3f02565626bd7eace0&txTime=69c2473b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [GOAT] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1774321899-0-0-e297dd6a96a8b09d3767c972e17b7847
@@ -691,6 +382,186 @@ https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1774321899-0-0-5b1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/760b7aa544ea6e577a39a99d96b1da04.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Trail Blazers vs Brooklyn Nets [BRIAN] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1774321899-0-0-c9b71cbf6218f5bf28855742865b37fa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [VENDETTA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lsd.flv?auth_key=1774322259-0-0-1f6f0dd701c5803280adbfd88f148302
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [VENDETTA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912009_lhd.flv?auth_key=1774322259-0-0-b6d827967e75321181ecd8c241f8f325
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [VENDETTA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lsd.m3u8?auth_key=1774322259-0-0-7bdc9369f625c9db79d38761890adf7a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [VENDETTA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1774322259-0-0-3840f0481f9dcbb6d22b948eacb28579
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/860ffdaa96e93af0ca19cf85f885f04e.png" group-title="Live Event: socolive",07:00 ngay 24/03 Chicago Bulls vs Houston Rockets [CHAN SENA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lsd.flv?auth_key=1774322259-0-0-180bd2856253d3db183470b2a89c3b59
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/860ffdaa96e93af0ca19cf85f885f04e.png" group-title="Live Event: socolive",07:00 ngay 24/03 Chicago Bulls vs Houston Rockets [CHAN SENA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1774322259-0-0-23585e4b018529b0c212e51e735fbe89
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/860ffdaa96e93af0ca19cf85f885f04e.png" group-title="Live Event: socolive",07:00 ngay 24/03 Chicago Bulls vs Houston Rockets [CHAN SENA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1774322259-0-0-98e7bd1bf52009d844cefcde15e41825
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/860ffdaa96e93af0ca19cf85f885f04e.png" group-title="Live Event: socolive",07:00 ngay 24/03 Chicago Bulls vs Houston Rockets [CHAN SENA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1774322259-0-0-ea5cdf0f468f83d4e7e62b71f3ffdd6c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ XO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1774322259-0-0-1602e9ec44c2800e7a5afaa702f2c9e8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ XO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1774322259-0-0-b5179e8c9cc032713217525b81f54690
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ XO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1774322259-0-0-573acf8bcc5afc6d08d61dcb06c3befd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ XO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1774322259-0-0-cb5e50a51a1f66a78519f639e7d25345
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ GON] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=de6c0d421bc7908ec6bb2d7f69fd1f8d&txTime=69c248a3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ GON] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=a2d0bdd20937e2ea0a2ec53dcc999ecd&txTime=69c248a3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ GON] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=de6c0d421bc7908ec6bb2d7f69fd1f8d&txTime=69c248a3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/67f5a10df6bdf6acc42090a2c0fe4a30.png" group-title="Live Event: socolive",08:00 ngay 24/03 Lobos UPNFM vs Olancho FC [ GON] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=a2d0bdd20937e2ea0a2ec53dcc999ecd&txTime=69c248a3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [SAO LA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=aa89099f8b221082cfb66e225066eb8b&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [SAO LA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=2c22def215c1aabf07bfb17b5a8b0e34&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [SAO LA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=aa89099f8b221082cfb66e225066eb8b&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [SAO LA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=2c22def215c1aabf07bfb17b5a8b0e34&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ 7UP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1774322619-0-0-a7d02b82bc383ada7390d08a72bd958e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ 7UP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1774322619-0-0-15eb12ccd9237934257e1674253ee079
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ 7UP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1774322619-0-0-a54f13762218e02fbcc3cec3b41caf28
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ 7UP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1774322619-0-0-b50c8d6db5b391c335700b509e5841e2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [RICKHANTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=a601e3c2e11689688dd4f40dc17d09ed&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [RICKHANTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=5636ee72889e2bfca82aedb9aa5ebf58&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [RICKHANTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=a601e3c2e11689688dd4f40dc17d09ed&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [RICKHANTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=5636ee72889e2bfca82aedb9aa5ebf58&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=50d21dc9b9f1db4439679fbb0fdfcc69&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=8314052163729d08333e5e85761e4f6c&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=50d21dc9b9f1db4439679fbb0fdfcc69&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [TAM MAO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=8314052163729d08333e5e85761e4f6c&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ COCA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1774322619-0-0-dc01a1d4581db49966e56f15ffe21de5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ COCA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1774322619-0-0-ad4769f06880316d98bab00373d2fa3d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ COCA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1774322619-0-0-745e4a55d95710269a5ff78190ebd2c7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ COCA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1774322619-0-0-f60bcfeca2611d5f457dabf8feafe0f2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ TOMMY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1774322619-0-0-1ba1bed6e5ea34cd1db7e6a47f3eabf3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ TOMMY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1774322619-0-0-e4a1b0974817c7e1bf32c35e996c1a29
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ TOMMY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1774322619-0-0-eabeffbd746f0ed67bead3ee5a005815
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ TOMMY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1774322619-0-0-d0e9ae750ca934046970790ecd4fc03e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ PIRLO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1774322619-0-0-734a63f93516c14e2378581ffed430e2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ PIRLO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1774322619-0-0-b2d9807483172279c70a67f712a3dcff
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ PIRLO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1774322619-0-0-f3114f3dc758bce2fc29753539de2280
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/4d1305bf40191a30d18dcc6a2db75f6e.png" group-title="Live Event: socolive",08:00 ngay 24/03 Antigua GFC vs Marquense [ PIRLO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1774322619-0-0-95f76c76a59df4be7362d207c5e9d959
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ DOM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1774322619-0-0-fd20f70d7cf2ce0f71df673871d5a4e6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ DOM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1774322619-0-0-2784396a195cf9a6b5303d20ede1bee0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ DOM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1774322619-0-0-d95efd293af18287da7c1dce355db082
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ DOM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1774322619-0-0-56c19b0c02519c12ff0ac5e21433543c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ TOMIA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1774322619-0-0-3ff68a008496af74e4b9dcc31688ce96
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ TOMIA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1774322619-0-0-dcedac4a3524206422095e5b1e3e162e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ TOMIA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1774322619-0-0-2b2a0ea53c4bc92e6cde351682980835
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/2acb114a2dd40367b42be849273fb3dc.png" group-title="Live Event: socolive",09:00 ngay 24/03 Portland Timbers Reserve vs Ventura County FC [ TOMIA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1774322619-0-0-8ac881ebada72ea8ce491d02564021ab
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ RAMBO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.flv?txSecret=ed3988bbc7dce0d3f6387b1319332cce&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ RAMBO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=57065d913cdd79a78bec9204fe391b79&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ RAMBO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ed3988bbc7dce0d3f6387b1319332cce&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/40b3be5a3d072e12a0a576fc31e834c6.png" group-title="Live Event: socolive",08:00 ngay 24/03 Leon Women vs Atlas Women [ RAMBO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=57065d913cdd79a78bec9204fe391b79&txTime=69c24a0b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774322619-0-0-bd603e3642fedd7b3e07b42c42e374f9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774322619-0-0-7a720c7d2ab78ec6b6d8bec8c515f4ed
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774322619-0-0-9f87e151b76f231d1badc3fc72351b0c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260321/371cb9ad7203fd139fd1db73376f8f7c.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774322619-0-0-78da023aa44d1912d75fe4620352e148
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3656.png" group-title="Live Event: Hội quán",09:00 24/03 Antigua GFC vs Marquense FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2646,37 +2517,37 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=e411371c8dc9c8fbbcb7a8dce0feabc5&wsABSTime=1774362045
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=4ac363ec08f37deb15618da67e78def2&wsABSTime=1774362345
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",08:00 WIB - LOBOS UPNFM VS OLANCHO FC [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=f5347740bab564e864592b11647c71f0&wsABSTime=1774362045
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=490ba6d4735296c04be5f3f2245d9951&wsABSTime=1774362346
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",09:00 WIB - PORTLAND TIMBERS R VS VENTURA COUNTY FC [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=842a5df5e2fa43434a03114b7d069585&wsABSTime=1774362046
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=c06a033944cc7f4a527bac3df409aabb&wsABSTime=1774362346
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",16:00 WIB - MALTA U17 VS LITHUANIA U17 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=c31b580ba60197cbf4ac347dbbbeb1a7&wsABSTime=1774362047
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=21a84fac4a5611a9f741396b667172ea&wsABSTime=1774362347
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",17:45 WIB - BANGLADESH U20 VS PAKISTAN U20 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=4614f132995d47c18c5e0e859da885b4&wsABSTime=1774362048
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=f9c5966285b252c8af04b224c2ab7bdc&wsABSTime=1774362348
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",19:00 WIB - LIBYA U17 VS ALGERIA U17 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=22e5db88a2793b59a8badf18e09f3a2a&wsABSTime=1774362049
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=c35acc1646f3e4937f908864019d275a&wsABSTime=1774362349
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",19:00 WIB - LERNAYIN ARTSAKH VS SADARAKPAT [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=47e97a33d42b25eb8033e797537c68b5&wsABSTime=1774362050
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=960bc5edded32b8d5266b9df310bcfba&wsABSTime=1774362350
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - MOUNT PLEASANT FA VS PORTMORE UNITED [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | IND Super League",East Bengal FC vs Mohammedan SC
