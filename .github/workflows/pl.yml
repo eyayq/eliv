@@ -38,7 +38,7 @@ jobs:
 
       - name: Restore Python script from secret
         run: |
-          echo "${{ secrets.PL_PY }}" | base64 -d > z.py
+          echo "${{ secrets.PL_PY }}" | base64 -d > pl.py
           chmod +x pl.py
 
       - name: Run scraper
