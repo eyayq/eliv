@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-25 01:34:47
-# 🔄 Total Channels: 1381
+# ⏰ Latest Updated: 2026-03-25 01:42:22
+# 🔄 Total Channels: 1386
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -46,6 +46,9 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6efc34c36daa9ca8a84c495a829964fa.png!w80" group-title="Live Event: Colalive",08:30 25/03 Atletico Choloma vs Genesis Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5a721f997fe18b1c151116a96b1b4ea8.png!w80" group-title="Live Event: Colalive",08:00 25/03 Fortaleza CEIF vs Dep. Pasto Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/68848594.m3u8
@@ -81,18 +84,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6461_1gzt19t0y62b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   25/03 Ferroviario CE vs Fortaleza  KHONG MINH m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6461_1gzt19t0y62b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   25/03 Ferroviario CE vs Fortaleza  KHONG MINH flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3524_1gxsf3fv7a21.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   25/03 Sport Club do Recife vs EC Jacuipense  MA SIEU m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3524_1gxsf3fv7a21.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   25/03 Sport Club do Recife vs EC Jacuipense  MA SIEU flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1774375943.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:00   25/03 Cleveland Cavaliers vs Orlando Magic  SHIN m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -117,6 +108,46 @@ https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9c
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14705_1gryz01ysv2h.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   25/03 Fortaleza F.C vs Deportivo Pasto  KAKA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3524_1gxsf3fv7a21.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   25/03 Sport Club do Recife vs EC Jacuipense  MA SIEU m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3524_1gxsf3fv7a21.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   25/03 Sport Club do Recife vs EC Jacuipense  MA SIEU flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6461_1gzt19t0y62b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   25/03 Ferroviario CE vs Fortaleza  KHONG MINH m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6461_1gzt19t0y62b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   25/03 Ferroviario CE vs Fortaleza  KHONG MINH flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa39780f53de0dee4eedcda739666b3ac%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",05:00   25/03 Fortaleza CEIF FC Women vs CD Real Santander Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e6300139dbceaa1ab09656f71a64d291/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc24b472a464558b69526986bf33bae8e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:15   25/03 Cianorte PR vs Volta Redonda Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8bea6eb2ebca95bf60b1f7b07e714800/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F217432b67c897d34e706b396deafc913%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",08:00   25/03 Fortaleza F.C vs Deportivo Pasto Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/73da44e427141fcb0834725ce18e793a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc8770b11953cafd29f5e458bfa1a1260%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   25/03 Atletico Junior Barranquilla vs Atletico Bucaramanga Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/9505b26ba3404d5c621a84e0a09b9abc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa3a48c273741194e05df9e49d64686be%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:30   25/03 Sport Club do Recife vs EC Jacuipense Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/469750b8f031d5a16feaf9a870ea76e1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0de0384d9877ee3693168689011b911b%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",03:30   25/03 Deportivo Pereira vs Cucuta Deportivo Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/eef73f65abeb21ba3606433b546c52f1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3b7787aaab3e81b9406d900b688abac7%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:30   25/03 Ferroviario CE vs Fortaleza Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f36fa6f07b0fbadcb25727807f8a0c42/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faa27ad3aff88ca8d10f6e792c158d374%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",04:00   25/03 Universidad de Chile vs Union La Calera Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -149,34 +180,6 @@ https://live.alilicloud.com/live/193b463bea9d37be1d2e1b35c7c28051/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/090e97dac1206f5b920ada6660982632/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa39780f53de0dee4eedcda739666b3ac%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",05:00   25/03 Fortaleza CEIF FC Women vs CD Real Santander Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e6300139dbceaa1ab09656f71a64d291/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc24b472a464558b69526986bf33bae8e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:15   25/03 Cianorte PR vs Volta Redonda Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8bea6eb2ebca95bf60b1f7b07e714800/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F217432b67c897d34e706b396deafc913%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",08:00   25/03 Fortaleza F.C vs Deportivo Pasto Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/73da44e427141fcb0834725ce18e793a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc8770b11953cafd29f5e458bfa1a1260%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   25/03 Atletico Junior Barranquilla vs Atletico Bucaramanga Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/9505b26ba3404d5c621a84e0a09b9abc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa3a48c273741194e05df9e49d64686be%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:30   25/03 Sport Club do Recife vs EC Jacuipense Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/469750b8f031d5a16feaf9a870ea76e1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0de0384d9877ee3693168689011b911b%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",03:30   25/03 Deportivo Pereira vs Cucuta Deportivo Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/eef73f65abeb21ba3606433b546c52f1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3b7787aaab3e81b9406d900b688abac7%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:30   25/03 Ferroviario CE vs Fortaleza Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f36fa6f07b0fbadcb25727807f8a0c42/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_133538_9411a093.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",08:00   25/03 Fortaleza FC vs Deportivo Pasto HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -281,174 +284,6 @@ https://live.alilicloud.com/live/b0eaab5c7ee4d03354e97f2240408958/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/090e97dac1206f5b920ada6660982632/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [THE KOP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1774404699-0-0-8ec39d2d27b6e6259c4f41d63c2d06d9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [THE KOP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1774404699-0-0-7514ac1f46d734e5f756b26bd38ec245
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [THE KOP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1774404699-0-0-8ec97eeab114b6e3833fd96fb0326a1a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [THE KOP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1774404699-0-0-73236ece401c9e219cf631ee927a0142
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ ROSI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1774404699-0-0-7b0611ee5aeaadd1fa62897a5554a70b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ ROSI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1774404699-0-0-c57e41f8b04dfc5eafd531b2ed720bda
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ ROSI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1774404699-0-0-1fab88a0c306c4b1982b25c09943d365
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ ROSI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1774404699-0-0-b87c07523cc5a4c8056d40ddd7bc9367
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [CONG CHAT] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1774404699-0-0-17041f651b606e82a2f869e673adeeb9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [CONG CHAT] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1774404699-0-0-fa3bee8c93ba6b6204fb88095f2b35d5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [CONG CHAT] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1774404699-0-0-ca08a7a0da2c0008bc439d7c338940d7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [CONG CHAT] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1774404699-0-0-fcc5dcee5811d63cf869c356bc57f8c0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [LOKA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1774404699-0-0-6d5adf5700247b6fdf4bc76a8d27156e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [LOKA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1774404699-0-0-0e137d41d6f89e9fce43aaf2ebf4d79b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [LOKA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1774404699-0-0-aba65450ca32114bd80539656840e369
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [LOKA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1774404699-0-0-90f4e0922b7a4b1ba2fb429ecf095e8a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ 7UP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1774404699-0-0-93655bfd6bed7014108d3fe70f50d361
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ 7UP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1774404699-0-0-eea5dfe592d6b11a6d788258e51e5557
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ 7UP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1774404699-0-0-dc8e72e918fcaec7dcd74915ee3aad66
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ 7UP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1774404699-0-0-ad3afb0f8aad0090d7f4551aa182b8ea
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/6454fdf4f1a6b6675b901d750d1a9230.png" group-title="Live Event: socolive",06:30 ngay 25/03 Nacional Montevideo vs Cerro Largo [XUAN SON] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1774404699-0-0-2c0cdb03cac8db22f345466fcc7b8fff
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/6454fdf4f1a6b6675b901d750d1a9230.png" group-title="Live Event: socolive",06:30 ngay 25/03 Nacional Montevideo vs Cerro Largo [XUAN SON] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1774404699-0-0-e438961c8fba1f16389da67a9b31f06a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/6454fdf4f1a6b6675b901d750d1a9230.png" group-title="Live Event: socolive",06:30 ngay 25/03 Nacional Montevideo vs Cerro Largo [XUAN SON] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1774404699-0-0-063b9fb097c02686c5819dabb350da36
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/6454fdf4f1a6b6675b901d750d1a9230.png" group-title="Live Event: socolive",06:30 ngay 25/03 Nacional Montevideo vs Cerro Largo [XUAN SON] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1774404699-0-0-f2d56e14e559a1f4cdc50470530fed0d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [RICKHANTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=c96291d09e2305b8d5906fb8000aca61&txTime=69c38c13
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [RICKHANTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=810a8e42d1cedcf498c08915a7a7b369&txTime=69c38c13
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [RICKHANTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=c96291d09e2305b8d5906fb8000aca61&txTime=69c38c13
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [RICKHANTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=810a8e42d1cedcf498c08915a7a7b369&txTime=69c38c13
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",HON D1 : Atletico Choloma vs Genesis Policia Nacional [Giang A Tho] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1774405059-0-0-0d4d6a6d6cbedc4ccbc000e294c4383b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",HON D1 : Atletico Choloma vs Genesis Policia Nacional [Giang A Tho] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1774405059-0-0-a67387de6f0a3cf0282f6f5a5ca0eeed
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",HON D1 : Atletico Choloma vs Genesis Policia Nacional [Giang A Tho] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1774405059-0-0-ec064a4382e4e5458de874635b6670bd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",HON D1 : Atletico Choloma vs Genesis Policia Nacional [Giang A Tho] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1774405059-0-0-25fd1092ddffc40d97fa5f6e38e17ea6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/5806f5203ef3b2b7d4ae83677432049e.png" group-title="Live Event: socolive",07:30 ngay 25/03 Sport Club do Recife vs EC Jacuipense [GOAT] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1774405059-0-0-4a615e1863d707a6288ae184e697954d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/5806f5203ef3b2b7d4ae83677432049e.png" group-title="Live Event: socolive",07:30 ngay 25/03 Sport Club do Recife vs EC Jacuipense [GOAT] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1774405059-0-0-4767542dd839e56f9add8fcd46f8c80f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/5806f5203ef3b2b7d4ae83677432049e.png" group-title="Live Event: socolive",07:30 ngay 25/03 Sport Club do Recife vs EC Jacuipense [GOAT] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1774405059-0-0-df7d3f58c4516ccf4e285511befead78
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/5806f5203ef3b2b7d4ae83677432049e.png" group-title="Live Event: socolive",07:30 ngay 25/03 Sport Club do Recife vs EC Jacuipense [GOAT] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1774405059-0-0-77bf38cbdfa1279448c8ba16bc319356
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [A CHE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1774405059-0-0-90adfdea73ae79fdf7481bf9295e19fd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [A CHE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1774405059-0-0-a614474d5d612aca580fd53ddc503273
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [A CHE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1774405059-0-0-287efaff00262b9b82ed76c5c2dc2fc2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [A CHE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1774405059-0-0-0ab92aa3433c7e6d3ad7deaf69ae7f26
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [HUNTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1774405059-0-0-23a05685b850636d16ee4c11081eafc6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [HUNTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1774405059-0-0-4ad875e0b4994dba77b05a3b9cdea982
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [HUNTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774405059-0-0-2f5e19cc3da8743703e0f82d08947047
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [HUNTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774405059-0-0-c8929a030c7f4a2ae51cd41cc1a4ca96
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [KEP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1774405059-0-0-7892844c2d7809da42a5e586330ce028
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [KEP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1774405059-0-0-c98175600078b409c935a67d3e714452
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [KEP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1774405059-0-0-4f04a0baed5bd4ef091f23855d8b62f0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [KEP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1774405059-0-0-81f02f004457927056042f061a3c178b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [A PAO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1774405059-0-0-c65587266dc649fa6a66284aa2b581c1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [A PAO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1774405059-0-0-778e5896e5c5d3b010c21cc713560362
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [A PAO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1774405059-0-0-7e3ad4556afb9e44fa2742173f3c402d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [A PAO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1774405059-0-0-8758307ba51bba89de09a4796cf7283e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774405059-0-0-53e6c82045009b1ff6c4e4ad12f6b731
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774405059-0-0-951874f53b03846cd43603f4f5efc1d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774405059-0-0-bf469a9127be3ad03e0322ef50621765
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774405059-0-0-2affe1bf8e387dae9b490e1686657b4f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ TOMIA] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1774405419-0-0-07be48e39a9c403a75f755b85c334e56
@@ -473,18 +308,6 @@ https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=2c650e45a67ceb5c03fb
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [ CHIVAS] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a99556f3b6c067fb5e5528e048e3376d&txTime=69c38d7b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/6454fdf4f1a6b6675b901d750d1a9230.png" group-title="Live Event: socolive",06:30 ngay 25/03 Nacional Montevideo vs Cerro Largo [HAI THANH] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1774405423-0-0-1c8ba82faff749df8a242b1ad71e4843
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/6454fdf4f1a6b6675b901d750d1a9230.png" group-title="Live Event: socolive",06:30 ngay 25/03 Nacional Montevideo vs Cerro Largo [HAI THANH] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1774405423-0-0-1361e8c2def7492c28b67c983905a1dc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/6454fdf4f1a6b6675b901d750d1a9230.png" group-title="Live Event: socolive",06:30 ngay 25/03 Nacional Montevideo vs Cerro Largo [HAI THANH] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1774405423-0-0-e0c644b43803ad4132767f9fd354a304
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/6454fdf4f1a6b6675b901d750d1a9230.png" group-title="Live Event: socolive",06:30 ngay 25/03 Nacional Montevideo vs Cerro Largo [HAI THANH] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1774405423-0-0-fccd4183475ccfbc2d23c4a1bcc3d46e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [BRIAN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1774405419-0-0-561bf3690dfb2863520b22ed99a69287
@@ -509,6 +332,198 @@ https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1774405419-0-0-a82
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/f5d0395d705a69cf100ec1cc18befda0.png" group-title="Live Event: socolive",07:00 ngay 25/03 Cleveland Cavaliers vs Orlando Magic [CHAN SENA] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1774405419-0-0-3b1dfd7a29655aec6bfe6ef21eef2a54
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ 7UP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1774405779-0-0-b283f637e65c8841923d3fbc6b9a4a85
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ 7UP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1774405779-0-0-1dfa38fa2a181c2fa9ae28abcb0760f4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ 7UP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1774405779-0-0-d3f6ef472a64083dba31fdf4023f1496
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ 7UP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1774405779-0-0-c07322532b9a979bc6d48eec525c3745
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [CONG CHAT] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lsd.flv?auth_key=1774405779-0-0-0fc164eebd86fed617a5f773e13a3a78
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [CONG CHAT] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1774405779-0-0-7ee31b98857ad271d2a3f47af4242c32
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [CONG CHAT] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1774405779-0-0-97e4b4c2053b30194e0ba2157b2ab463
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [CONG CHAT] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1774405779-0-0-4e171350aed3703e2afc15cf3afd82bf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ ROSI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1774405779-0-0-44f5b7ddf2fd3ff3a09d3bc79a8db10f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ ROSI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1774405779-0-0-895ac72535881d41542157e8e17ff5eb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ ROSI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1774405779-0-0-39e215b165ff81e8aa038a51c0c5f409
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [ ROSI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1774405779-0-0-973f9e0b04e6db7fcb2539b2df81e5cd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [TAM MAO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=7ab83994394287bc560cbb82942224cb&txTime=69c38ee3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [TAM MAO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=392f9bd45ffae79417b8769e0f7d1932&txTime=69c38ee3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [TAM MAO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=7ab83994394287bc560cbb82942224cb&txTime=69c38ee3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [TAM MAO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=392f9bd45ffae79417b8769e0f7d1932&txTime=69c38ee3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [LOKA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1774405779-0-0-9f20891f728a75c9f9d2941d4bc8b853
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [LOKA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1774405779-0-0-977d6a41ddd5566312bced1c1eedb25f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [LOKA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1774405779-0-0-355d89087bf295faa1fdd0b86c5f6cc3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [LOKA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1774405779-0-0-294893a6ebce5944425e7b0162853e0d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [THE KOP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1774405779-0-0-dc1478a3068c0c07e8dcf8c691109566
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [THE KOP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1774405779-0-0-f8cb33a191b980ad56d9e6622fab6b42
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [THE KOP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1774405779-0-0-ccd81d0c5af858d9b7a0428605393945
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [THE KOP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1774405779-0-0-2e06d9c5bf1df693dc43cec5784ee5f8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [ MESSI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1774405792-0-0-43ebbdbb916ce90a98e1d15937116427
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [ MESSI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1774405792-0-0-ee13f10c403d17c4f4b4b0270a798470
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [ MESSI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1774405792-0-0-fe1e8ec20295318770de50293c6f25e8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [ MESSI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1774405792-0-0-7b36e1894122d9cb867ab469117f9391
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [ DOM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1774406139-0-0-02d243610f33f78550efa71a1df95e59
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [ DOM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1774406139-0-0-07947d983dfbc1060138f3d1814e10ac
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [ DOM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1774406139-0-0-a893aa51d7dc9d3566f4deade42c1e0d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/711d237e87711e41bfbe027ab45bbf57.png" group-title="Live Event: socolive",09:00 ngay 25/03 Sporting FC vs Puntarenas FC [ DOM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1774406139-0-0-d85a4d3a0672a692e7b37185b0093877
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",HON D1 : Atletico Choloma vs Genesis Policia Nacional [Giang A Tho] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1774406139-0-0-8b6763784da0b6220f132d15a4987c8f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",HON D1 : Atletico Choloma vs Genesis Policia Nacional [Giang A Tho] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1774406139-0-0-f2b029c5e11b89ef8701be1474341efa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",HON D1 : Atletico Choloma vs Genesis Policia Nacional [Giang A Tho] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1774406139-0-0-1646e35783294c771dc6fffc9a0a1d50
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",HON D1 : Atletico Choloma vs Genesis Policia Nacional [Giang A Tho] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1774406139-0-0-c81fb8b033e30088ce077b23bdb118c8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/5806f5203ef3b2b7d4ae83677432049e.png" group-title="Live Event: socolive",07:30 ngay 25/03 Sport Club do Recife vs EC Jacuipense [GOAT] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1774406139-0-0-b087680e5f0ec0704c6bcca0dfedbaa6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/5806f5203ef3b2b7d4ae83677432049e.png" group-title="Live Event: socolive",07:30 ngay 25/03 Sport Club do Recife vs EC Jacuipense [GOAT] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1774406139-0-0-3f91c32291253d6d0f8acea79f47944c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/5806f5203ef3b2b7d4ae83677432049e.png" group-title="Live Event: socolive",07:30 ngay 25/03 Sport Club do Recife vs EC Jacuipense [GOAT] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1774406139-0-0-61ac8ba444ba59b97937f7171979f6b2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/5806f5203ef3b2b7d4ae83677432049e.png" group-title="Live Event: socolive",07:30 ngay 25/03 Sport Club do Recife vs EC Jacuipense [GOAT] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1774406139-0-0-7d911175da986c3984c55f184d95d835
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [A CHE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1774406139-0-0-541cfcede5a6b07f2d5035e8880d2aee
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [A CHE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1774406139-0-0-c28f5cfdcdd7b23371f6b6c57b7c2395
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [A CHE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1774406139-0-0-fe7f8b5a53ee58110b06b58386874b6d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [A CHE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1774406139-0-0-5c0c312172bda10ca8138764e54fae24
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [RICKHANTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=0fa2c9a893774aedde504700992f64dd&txTime=69c3904b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [RICKHANTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=c00ddc7172b6f56a580d75c57f4c750a&txTime=69c3904b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [RICKHANTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=0fa2c9a893774aedde504700992f64dd&txTime=69c3904b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/2c0cd4a1627fa70a32f81359d85c1560.png" group-title="Live Event: socolive",08:00 ngay 25/03 Fortaleza F.C vs Deportivo Pasto [RICKHANTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=c00ddc7172b6f56a580d75c57f4c750a&txTime=69c3904b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [HUNTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1774406139-0-0-c185327545c0950904366c993b2340d2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [HUNTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1774406139-0-0-fb85bc531b0310b4c246c3a0c2986c0a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [HUNTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774406139-0-0-ef9d5c57f1dcf51248487576615a70a3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260323/468dd5977860ce49a73df3cf5fa07436.png" group-title="Live Event: socolive",06:30 ngay 25/03 New York Knicks vs New Orleans Pelicans [HUNTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774406139-0-0-67d63e2f7087efee3149ae994743f593
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [KEP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1774406139-0-0-77beed01446c043c843b63a93e6b89d7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [KEP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1774406139-0-0-8df9f9b403f3ea251ea66f9d5c8ed16c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [KEP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1774406139-0-0-b1fab761301190cb81c1197f5573ef11
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [KEP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1774406139-0-0-1d8eb6e52e6863beaf36b6733fbe0d3f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [A PAO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1774406139-0-0-cd6ce56694708706eab6d794ecc79841
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [A PAO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1774406139-0-0-7920ebc33785fed1d32661f349707357
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [A PAO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1774406139-0-0-1373be555d58972905a9bc82148eb4d6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260322/ce27e8fcac297766b36329672faad98e.png" group-title="Live Event: socolive",08:30 ngay 25/03 Atletico Choloma vs Genesis Policia Nacional [A PAO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1774406139-0-0-15f16a92b7aefd2efc8e51447bbf4420
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1774406139-0-0-66ca7aeafd32527cc6427f27f264a0e4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1774406139-0-0-f3007c8c24bff75eecfa12a5034328df
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774406139-0-0-8403977478ac9345f5169596330cec99
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260103/41f4ec46e04efed57a879a04ac2de72a.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774406139-0-0-3350b2e2195c1dda133b6a970dc74890
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1147.png" group-title="Live Event: Hội quán",08:00 25/03 Fortaleza FC vs Deportivo Pasto FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
