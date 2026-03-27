@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-27 09:08:16
-# 🔄 Total Channels: 1779
+# ⏰ Latest Updated: 2026-03-27 09:17:39
+# 🔄 Total Channels: 1804
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -91,6 +91,12 @@ https://live5.msrktz.app/live/79665343.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80" group-title="Live Event: Colalive",15:30 27/03 Adelaide 36ers vs Sydney Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/87379114.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7f291910f4d25f651ce0cc1ba097f774.png!w80" group-title="Live Event: Colalive",16:00 27/03 Olympic FC vs Gold Coast Knights Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/71426314.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/acf9aab5d7335ccbbcff0e253ad35da0.png!w80" group-title="Live Event: Colalive",16:00 27/03 Brisbane Roar Nu vs Perth Nu Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png" group-title="LIVE EVENT: MANUAL",21:30 WIB - 26 MARET 2026 Tanzania vs Liechtenstein
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -187,18 +193,6 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2395_165018681518.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/03 Solomon Islands vs Bulgaria  CHUNN m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2395_165018681518.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/03 Solomon Islands vs Bulgaria  CHUNN flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/CHUN1.flv?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2395_165018681518.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/03 Solomon Islands vs Bulgaria  TAN CA m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2395_165018681518.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/03 Solomon Islands vs Bulgaria  TAN CA flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1774555786.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/03 Adelaide vs Sydney  YEN THANH m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -211,54 +205,48 @@ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F7897_1grcyn2cdw6.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/03 Sydney FC vs A.P.I.A. Leichhardt Tigers  VO TONG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260324%2F34ae3bdc878d12cf9b915ad03b3f7e5e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Solomon Islands vs Bulgaria Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F10518_1gq6k99f941g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:00   27/03 Brisbane Roar vs Perth Glory  LUU BI m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1b77bd1218a77465d0d624343fcf7770/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260324%2F34ae3bdc878d12cf9b915ad03b3f7e5e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Solomon Islands vs Bulgaria hd_1 Gvision TV
+https://hls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F10518_1gq6k99f941g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:00   27/03 Brisbane Roar vs Perth Glory  LUU BI flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/86f4e253e1494f0398425823410dcbed/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260324%2F34ae3bdc878d12cf9b915ad03b3f7e5e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Solomon Islands vs Bulgaria hd_2 Gvision TV
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F10518_1gq6k99f941g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:00   27/03 Brisbane Roar vs Perth Glory  KENCHU m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/86f4e253e1494f0398425823410dcbed/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260324%2F34ae3bdc878d12cf9b915ad03b3f7e5e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Solomon Islands vs Bulgaria hd_3 Gvision TV
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F10518_1gq6k99f941g.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:00   27/03 Brisbane Roar vs Perth Glory  KENCHU flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/86f4e253e1494f0398425823410dcbed/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdd7eb6fc933921ff112370b91de443b3%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Monaro Panthers vs Tuggeranong United Gvision TV
+https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F795_165018939680.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:10   27/03 Australia vs Cameroon  TONG GIANG m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/abb86ef4b099c0e2cf07cb3d9ed1ff03/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8171e2bc6a228673f2ef4b5e26851def%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Heidelberg United vs Melbourne City NPL Gvision TV
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F795_165018939680.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:10   27/03 Australia vs Cameroon  TONG GIANG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/36f3a62b34eb2cb6dce90a463b6d2aee/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F702a451ce65a296bcec3f0b83be18a86%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",14:00   27/03 Addis Ketema vs Bishoftu Ketema Gvision TV
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F795_165018939680.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:10   27/03 Australia vs Cameroon  KHONG MINH m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c13346021d8df5550470dec8de47ef6d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f3a948d9b6e2e7888dd39469dfeed8e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Sydney FC Youth vs APIA Leichhardt Tigers Gvision TV
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F795_165018939680.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:10   27/03 Australia vs Cameroon  KHONG MINH flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/12c1028ad3c3d425492bff0b3e2d381c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcc3f7e1de4fc32434f30a973be1ece33%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Bentleigh greens vs Dandenong Thunder Gvision TV
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F795_165018939680.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:10   27/03 Australia vs Cameroon  DUONG QUA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c2a37ac4452ddb8b0fd20ac30e5a6434/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260324%2F6894018558ccd7d491180a0a9eb0b316.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",13:00   27/03 New Zealand vs Finland Gvision TV
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F795_165018939680.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:10   27/03 Australia vs Cameroon  DUONG QUA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/651b920a75d0b7254239964982354ad0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F38c72e5319973c79e44df60e57082334%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",13:00   27/03 China vs Curacao Gvision TV
+https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2395_165018681518.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/03 Solomon Islands vs Bulgaria  TAN CA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/63f33dadbe3a49eb1f08a767ba7899b0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F81b42eaeae9b3a1f4d674582b0264e0c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",13:30   27/03 Monaro Panthers U23 vs Tuggeranong United U23 Gvision TV
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2395_165018681518.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/03 Solomon Islands vs Bulgaria  TAN CA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/bf4f49c031d96ab73e8f8081c0cf977a/playlist.m3u8
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2395_165018681518.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/03 Solomon Islands vs Bulgaria  CHUNN m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/CHUN1/index.m3u8?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F2395_165018681518.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/03 Solomon Islands vs Bulgaria  CHUNN flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/CHUN1.flv?expire=1890830700&sign=dbdc8ced2f1b21adf9d5a264bfe72141
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ff5076ca72881a200553c230bdc271a26%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",14:00   27/03 Adamstown Rosebud Reserves vs Edgeworth Eagles Reserves Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -283,6 +271,74 @@ https://pull-live4.fastestcdn-global.com/live/41f100e7a6a74aa3834814eef7775628/i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/378c5864cf7db2bc7f53bc734623cd93/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260324%2F34ae3bdc878d12cf9b915ad03b3f7e5e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Solomon Islands vs Bulgaria Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1b77bd1218a77465d0d624343fcf7770/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260324%2F34ae3bdc878d12cf9b915ad03b3f7e5e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Solomon Islands vs Bulgaria hd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/86f4e253e1494f0398425823410dcbed/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260324%2F34ae3bdc878d12cf9b915ad03b3f7e5e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Solomon Islands vs Bulgaria hd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/86f4e253e1494f0398425823410dcbed/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260324%2F34ae3bdc878d12cf9b915ad03b3f7e5e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Solomon Islands vs Bulgaria hd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/86f4e253e1494f0398425823410dcbed/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdd7eb6fc933921ff112370b91de443b3%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Monaro Panthers vs Tuggeranong United Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/abb86ef4b099c0e2cf07cb3d9ed1ff03/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8171e2bc6a228673f2ef4b5e26851def%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Heidelberg United vs Melbourne City NPL Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/36f3a62b34eb2cb6dce90a463b6d2aee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8fef315a6a1b4118fada33a4f6567002%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",16:00   27/03 Adelaide Olympic vs Modbury Jets Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/172c6b33fadfe8b2f8b42bc77b241552/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F702a451ce65a296bcec3f0b83be18a86%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",14:00   27/03 Addis Ketema vs Bishoftu Ketema Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c13346021d8df5550470dec8de47ef6d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6eb9595e7b68cca95aa195a3d7f41bdb%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",16:00   27/03 Cumberland United FC vs Eastern United Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/bc6b51657eb6239c685d20559ef3b299/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F3475ff3c7b620d2c654f9d75b728181b%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   27/03 Brisbane Roar Women vs Perth Glory Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/cadda6a4c16d887d629dfdec1513805a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f3a948d9b6e2e7888dd39469dfeed8e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Sydney FC Youth vs APIA Leichhardt Tigers Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/12c1028ad3c3d425492bff0b3e2d381c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcc3f7e1de4fc32434f30a973be1ece33%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/03 Bentleigh greens vs Dandenong Thunder Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c2a37ac4452ddb8b0fd20ac30e5a6434/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fsta.vnres.co%2Ffile%2Fcommon%2F20260324%2F6894018558ccd7d491180a0a9eb0b316.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",13:00   27/03 New Zealand vs Finland Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/651b920a75d0b7254239964982354ad0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F30cf5b913802d071e58e5464daeab09d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",16:00   27/03 Belmont Swansea United SC vs Charleston City Blues Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/abd27a6876f552d560a4dbda8b7ece4e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F38c72e5319973c79e44df60e57082334%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",13:00   27/03 China vs Curacao Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/63f33dadbe3a49eb1f08a767ba7899b0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ee939a29cc05b71fc8e8073c4a13639%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",16:00   27/03 Adamstown Rosebuds FC vs Edgeworth Eagles FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ff8dd8e484ca523c4f25f344f3ea1bc9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F81b42eaeae9b3a1f4d674582b0264e0c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",13:30   27/03 Monaro Panthers U23 vs Tuggeranong United U23 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/bf4f49c031d96ab73e8f8081c0cf977a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_133804_7b530b93.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",15:00   27/03 Brisbane Roar FC W vs Perth Glory FC W HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -319,58 +375,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdd7eb6fc933921ff112370b91de443b3%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:30   27/03 Monaro Panthers vs Tuggeranong United Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/abb86ef4b099c0e2cf07cb3d9ed1ff03/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8171e2bc6a228673f2ef4b5e26851def%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:30   27/03 Heidelberg United vs Melbourne City NPL Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/36f3a62b34eb2cb6dce90a463b6d2aee/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F702a451ce65a296bcec3f0b83be18a86%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",14:00   27/03 Addis Ketema vs Bishoftu Ketema Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c13346021d8df5550470dec8de47ef6d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f3a948d9b6e2e7888dd39469dfeed8e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:30   27/03 Sydney FC Youth vs APIA Leichhardt Tigers Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/12c1028ad3c3d425492bff0b3e2d381c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcc3f7e1de4fc32434f30a973be1ece33%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:30   27/03 Bentleigh greens vs Dandenong Thunder Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c2a37ac4452ddb8b0fd20ac30e5a6434/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/6e1cf939495e4cea03c811f52b5792c0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon sd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon sd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon sd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F81b42eaeae9b3a1f4d674582b0264e0c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",13:30   27/03 Monaro Panthers U23 vs Tuggeranong United U23 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/bf4f49c031d96ab73e8f8081c0cf977a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FvqLkKVYA-IJIsQ3zG.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:30   27/03 Solomon Islands vs Bulgaria Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -435,126 +439,66 @@ https://live.alilicloud.com/live/cadda6a4c16d887d629dfdec1513805a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/651b920a75d0b7254239964982354ad0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [SAO LA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=f61ba3e53e4eb585bcc64068b85ba942&txTime=69c6988b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [SAO LA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=71705b40bb8d0aa38e583aa3bf621274&txTime=69c6988b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [SAO LA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f61ba3e53e4eb585bcc64068b85ba942&txTime=69c6988b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [SAO LA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=71705b40bb8d0aa38e583aa3bf621274&txTime=69c6988b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/34ae3bdc878d12cf9b915ad03b3f7e5e.png" group-title="Live Event: socolive",15:30 ngay 27/03 Solomon Islands vs Bulgaria [ KEM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1774604859-0-0-ca63ae55fe70228aea314a67a6cd7c3c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/34ae3bdc878d12cf9b915ad03b3f7e5e.png" group-title="Live Event: socolive",15:30 ngay 27/03 Solomon Islands vs Bulgaria [ KEM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1774604859-0-0-a7eac025e1028a99b169ee870c473498
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/34ae3bdc878d12cf9b915ad03b3f7e5e.png" group-title="Live Event: socolive",15:30 ngay 27/03 Solomon Islands vs Bulgaria [ KEM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1774604859-0-0-120849698f1638290f01325e74896697
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/34ae3bdc878d12cf9b915ad03b3f7e5e.png" group-title="Live Event: socolive",15:30 ngay 27/03 Solomon Islands vs Bulgaria [ KEM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1774604859-0-0-158fcfb0cca4d9c1e98f9bd71a1a1ac0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [ Cu Cai] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1774604859-0-0-cc4ea49e30e2486010b35f2e202628fd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [ Cu Cai] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1774604859-0-0-af547cab2ede38b0bb9dfe64123f26f6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [ Cu Cai] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1774604859-0-0-5bbec75f72aaa6f8ce21f56c854f2df4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [ Cu Cai] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1774604859-0-0-8ad29fe8f4edb1a0deb75af3c42782f7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/6905254d0ced73068b7c54459c72a6cb.png" group-title="Live Event: socolive",15:30 ngay 27/03 Sydney FC Youth vs APIA Leichhardt Tigers [HAI THANH] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1774604859-0-0-9fc4395cd477d3f256bfc83fc18820a8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/6905254d0ced73068b7c54459c72a6cb.png" group-title="Live Event: socolive",15:30 ngay 27/03 Sydney FC Youth vs APIA Leichhardt Tigers [HAI THANH] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1774604859-0-0-5c8b7c1d2338106012bbbb2d4ec7dac5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/6905254d0ced73068b7c54459c72a6cb.png" group-title="Live Event: socolive",15:30 ngay 27/03 Sydney FC Youth vs APIA Leichhardt Tigers [HAI THANH] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1774604859-0-0-a2841126b5b6b01c5a3e26702119aad6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/6905254d0ced73068b7c54459c72a6cb.png" group-title="Live Event: socolive",15:30 ngay 27/03 Sydney FC Youth vs APIA Leichhardt Tigers [HAI THANH] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1774604859-0-0-2b99a2115797141972f5391858415968
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [BRIAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1774604859-0-0-0a5ef091a09cc3ee8a2ed0b12cb2951f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [BRIAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1774604859-0-0-1318a625d17c6072f5b97d3e03ed2967
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [BRIAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1774604859-0-0-da3726c6524e9e53455e3fdf1258cb8d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [BRIAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1774604859-0-0-42d60c3cac68ae78c787a135e7cb5dc9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [ HENRY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1774604859-0-0-1fa0fc58e9efb268d626940f521bc7c8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [ HENRY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1774604859-0-0-aed7f1e2ecf8990fb5c0b6a38b5def80
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [ HENRY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1774604859-0-0-45fd4536e39d55730540f1a89769f7ac
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [ HENRY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1774604859-0-0-065ff7e4bcf1515b17b40f4536f6a46e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [HUNTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1774604859-0-0-74a882c778098697d5553f3a5b277e33
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [HUNTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1774604859-0-0-31375457e9c51b8ef4c131dcb4cbba5e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [HUNTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774604859-0-0-b449ab030cd174a219f955c0a8484dc4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [HUNTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774604859-0-0-7f97e9dee7c166557d9b81cd5b81aff9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/1a31278ece9af0091144be676dc1c9c8.png" group-title="Live Event: socolive",15:30 ngay 27/03 Monaro Panthers vs Tuggeranong United [ XO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1774604859-0-0-7bbd920a6c7c929bd86c115336ec9bc5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/1a31278ece9af0091144be676dc1c9c8.png" group-title="Live Event: socolive",15:30 ngay 27/03 Monaro Panthers vs Tuggeranong United [ XO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1774604859-0-0-798030916158b5ce9d186457aba4a267
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/1a31278ece9af0091144be676dc1c9c8.png" group-title="Live Event: socolive",15:30 ngay 27/03 Monaro Panthers vs Tuggeranong United [ XO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1774604859-0-0-ce84502f414ee412de14d51d77c50647
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/1a31278ece9af0091144be676dc1c9c8.png" group-title="Live Event: socolive",15:30 ngay 27/03 Monaro Panthers vs Tuggeranong United [ XO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1774604859-0-0-bc9193dcaed88355cc707ced49cf5a1b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [XUAN SON] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1774604859-0-0-1f861720507033694085714d8f4a8327
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [XUAN SON] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1774604859-0-0-c193cb424e1d72a5bd0de742489c1a50
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [XUAN SON] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1774604859-0-0-2681b190f963aaffd4d5d9b7143ad194
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [XUAN SON] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1774604859-0-0-6937804e65d04431e2dd0e195010656f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [PINKMAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=771b9ba7c0e176642ad7df18e414f275&txTime=69c6988b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [PINKMAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=0930ce8b2bcfdcc14abeb2463dae5b16&txTime=69c6988b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [PINKMAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=771b9ba7c0e176642ad7df18e414f275&txTime=69c6988b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [PINKMAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=0930ce8b2bcfdcc14abeb2463dae5b16&txTime=69c6988b
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fdd7eb6fc933921ff112370b91de443b3%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:30   27/03 Monaro Panthers vs Tuggeranong United Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/abb86ef4b099c0e2cf07cb3d9ed1ff03/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8171e2bc6a228673f2ef4b5e26851def%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:30   27/03 Heidelberg United vs Melbourne City NPL Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/36f3a62b34eb2cb6dce90a463b6d2aee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F702a451ce65a296bcec3f0b83be18a86%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",14:00   27/03 Addis Ketema vs Bishoftu Ketema Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c13346021d8df5550470dec8de47ef6d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f3a948d9b6e2e7888dd39469dfeed8e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:30   27/03 Sydney FC Youth vs APIA Leichhardt Tigers Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/12c1028ad3c3d425492bff0b3e2d381c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fcc3f7e1de4fc32434f30a973be1ece33%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:30   27/03 Bentleigh greens vs Dandenong Thunder Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c2a37ac4452ddb8b0fd20ac30e5a6434/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F30cf5b913802d071e58e5464daeab09d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:00   27/03 Belmont Swansea United SC vs Charleston City Blues Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/abd27a6876f552d560a4dbda8b7ece4e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/6e1cf939495e4cea03c811f52b5792c0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon sd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon hd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon sd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon hd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon sd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FYgu7zgHG-YNb3oHYR.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:10   27/03 Australia vs Cameroon hd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/bac5fe72cd504b20b7ab17f2135da68a/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8ee939a29cc05b71fc8e8073c4a13639%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",16:00   27/03 Adamstown Rosebuds FC vs Edgeworth Eagles FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/ff8dd8e484ca523c4f25f344f3ea1bc9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F81b42eaeae9b3a1f4d674582b0264e0c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",13:30   27/03 Monaro Panthers U23 vs Tuggeranong United U23 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/bf4f49c031d96ab73e8f8081c0cf977a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [DECO] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1774605219-0-0-509082c032dde6327b8a20552ad075d6
@@ -759,6 +703,138 @@ https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1774605579-0-0-6455
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [ NIBO] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1774605579-0-0-56b742bbe394889ea104980bb7794179
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [ Cu Cai] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1774605939-0-0-55750b731cc7f5427546985c9211d7e6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [ Cu Cai] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1774605939-0-0-1ba5c46df4023adb67591c55677c3b3c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [ Cu Cai] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1774605939-0-0-28c4738251beb9d5416f3c3b0e58af55
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [ Cu Cai] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1774605939-0-0-4098309c7d244eadf3d99c7c7c0b7a4b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/34ae3bdc878d12cf9b915ad03b3f7e5e.png" group-title="Live Event: socolive",15:30 ngay 27/03 Solomon Islands vs Bulgaria [ KEM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1774605939-0-0-998e8cd4006e8b68c335cce19eaca6ba
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/34ae3bdc878d12cf9b915ad03b3f7e5e.png" group-title="Live Event: socolive",15:30 ngay 27/03 Solomon Islands vs Bulgaria [ KEM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1774605939-0-0-dff9d2f00eee96ef1831a9098c93c4cd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/34ae3bdc878d12cf9b915ad03b3f7e5e.png" group-title="Live Event: socolive",15:30 ngay 27/03 Solomon Islands vs Bulgaria [ KEM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1774605939-0-0-a5fbfb2b209c9be2b72d3aaf1590b5e0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/34ae3bdc878d12cf9b915ad03b3f7e5e.png" group-title="Live Event: socolive",15:30 ngay 27/03 Solomon Islands vs Bulgaria [ KEM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1774605939-0-0-e5d9fa23df4b4db1a07cebc7cbb6a110
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [SAO LA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=0c132c812c2230c1d0e206b167837e65&txTime=69c69cc3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [SAO LA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=e858eccce78c02231a9951e384df1617&txTime=69c69cc3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [SAO LA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=0c132c812c2230c1d0e206b167837e65&txTime=69c69cc3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/733d5ec557895a1569c46d28d3dda7e6.png" group-title="Live Event: socolive",16:10 ngay 27/03 Australia vs Cameroon [SAO LA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=e858eccce78c02231a9951e384df1617&txTime=69c69cc3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/6905254d0ced73068b7c54459c72a6cb.png" group-title="Live Event: socolive",15:30 ngay 27/03 Sydney FC Youth vs APIA Leichhardt Tigers [HAI THANH] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lsd.flv?auth_key=1774605939-0-0-7bf1c05888a77daf08f02c16be6086ed
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/6905254d0ced73068b7c54459c72a6cb.png" group-title="Live Event: socolive",15:30 ngay 27/03 Sydney FC Youth vs APIA Leichhardt Tigers [HAI THANH] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1774605939-0-0-270053ad6003a77c42cfaf677596a98f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/6905254d0ced73068b7c54459c72a6cb.png" group-title="Live Event: socolive",15:30 ngay 27/03 Sydney FC Youth vs APIA Leichhardt Tigers [HAI THANH] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1774605939-0-0-f5909ba7483726f9c1ab1db4c6199547
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/6905254d0ced73068b7c54459c72a6cb.png" group-title="Live Event: socolive",15:30 ngay 27/03 Sydney FC Youth vs APIA Leichhardt Tigers [HAI THANH] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1774605939-0-0-5e4cd1917ae01355206a4ad6fce74f7e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [BRIAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1774605939-0-0-ed6e250eafe941327638ec29904332dc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [BRIAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1774605939-0-0-50b133e379bba8e07949e1f767017b73
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [BRIAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1774605939-0-0-6d525d89d29e1b14e713fc4dbe9647d6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [BRIAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1774605939-0-0-a10fed2c1da7dc09a5e4f60bc0a176ba
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [XUAN SON] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-501412_lsd.flv?auth_key=1774605939-0-0-5cac992293a11f7b21f360030d888c30
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [XUAN SON] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-501412_lhd.flv?auth_key=1774605939-0-0-97adfec0bbb2d0f9a7c359ed021e2a53
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [XUAN SON] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1774605939-0-0-47f7054ed9fe55db4fb52277d7ee2372
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [XUAN SON] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1774605939-0-0-ba7a739f15bb26e71a10c2706c13aa58
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [ HENRY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1774605939-0-0-7895619e474fc0ee0f59b65694e18b5a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [ HENRY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1774605939-0-0-5bc04e9a6fda2ad306e081ae85188f5b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [ HENRY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1774605939-0-0-0745922100058b407c4627acc88fbd3d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [ HENRY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1774605939-0-0-b7b02d3b5060e8014d63d11dae2a539e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/1a31278ece9af0091144be676dc1c9c8.png" group-title="Live Event: socolive",15:30 ngay 27/03 Monaro Panthers vs Tuggeranong United [ XO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1774605939-0-0-eb11e2af444bc8cda15bdcd324d704bc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/1a31278ece9af0091144be676dc1c9c8.png" group-title="Live Event: socolive",15:30 ngay 27/03 Monaro Panthers vs Tuggeranong United [ XO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1774605939-0-0-479cc29a84410955175544293a0b97d1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/1a31278ece9af0091144be676dc1c9c8.png" group-title="Live Event: socolive",15:30 ngay 27/03 Monaro Panthers vs Tuggeranong United [ XO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1774605939-0-0-853452dd9201b59717f5ea1bbb5af46a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/1a31278ece9af0091144be676dc1c9c8.png" group-title="Live Event: socolive",15:30 ngay 27/03 Monaro Panthers vs Tuggeranong United [ XO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1774605939-0-0-111215cbfd1bc0dc2d2778befa00001e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [HUNTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1774605939-0-0-3aa1cfff7545addc56f6d3258918fb3a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [HUNTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1774605939-0-0-fb7f629e1f62755b8adcc8d2bd8ce361
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [HUNTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1774605939-0-0-bf5bab567df10a6359657b3be4d9958b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260325/d4a797a0cea874f366044279d0b096a4.png" group-title="Live Event: socolive",15:30 ngay 27/03 Adelaide vs Sydney [HUNTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1774605939-0-0-1f6dec18aec6791f9bf6f8137feccc61
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [PINKMAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=8885ae8ba1c67aff774b392b843f95db&txTime=69c69cc3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [PINKMAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=ba705b5290af0db9a0e28cad0a27ce56&txTime=69c69cc3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [PINKMAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=8885ae8ba1c67aff774b392b843f95db&txTime=69c69cc3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/53d410f513e8daadf577c32d8565cb41.png" group-title="Live Event: socolive",15:00 ngay 27/03 Brisbane Roar Women vs Perth Glory Women [PINKMAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=ba705b5290af0db9a0e28cad0a27ce56&txTime=69c69cc3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/d87630fb410d15b89b79c2a7f1284727.png" group-title="Live Event: socolive",17:00 ngay 27/03 Venezuela vs Trinidad Tobago [GOAT] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-585206_lsd.flv?auth_key=1774605939-0-0-8d57a1cf89b71f7c2d1d032ee53d7e33
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/d87630fb410d15b89b79c2a7f1284727.png" group-title="Live Event: socolive",17:00 ngay 27/03 Venezuela vs Trinidad Tobago [GOAT] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-585206_lhd.flv?auth_key=1774605939-0-0-403fdce2b90b35fcc06dc46cc76f711a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/d87630fb410d15b89b79c2a7f1284727.png" group-title="Live Event: socolive",17:00 ngay 27/03 Venezuela vs Trinidad Tobago [GOAT] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-585206_lsd.m3u8?auth_key=1774605939-0-0-30cb1a3b0414796b8d0f52fbdc3f18ae
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/d87630fb410d15b89b79c2a7f1284727.png" group-title="Live Event: socolive",17:00 ngay 27/03 Venezuela vs Trinidad Tobago [GOAT] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-585206_lhd.m3u8?auth_key=1774605939-0-0-27a05b3ed5faf215265c0f325c122818
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1973.png" group-title="Live Event: Hội quán",16:00 27/03 Brisbane Roar FC W vs Perth Glory FC W FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1232,76 +1308,83 @@ https://pipit.barjagaul.workers.dev/play.mpd?id=20216&type=dash
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzIwOTkyLnozaDg_cXJpX3hueHZfMDkmZz0xNzc0NjEyOTk0Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZ1PTIycTA1NHFuc3M5czg1OTQ1bnE4c284cjFuM3MyNDA4cHAwOTFxOXBuMDUzcXBxcjMyNjk3MzlvMTJxNXFzMzl8MTc3NTIwNjk5OA
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzIwOTkyLnozaDg_cXJpX3hueHZfMDkmZz0xNzc0NjEzNjI2Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZ1PW5zNHNxbzIzOXNvMTVxMTcxbnBucjY2cjU0NXNzcTkwM3M2cTU2cXExMTlyODdxNDE4OThxNjY2NDYxNDAyMDF8MTc3NTIwNzYzMA
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BVMnpUw0Ys9S47jCC_B0zIp3hkA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969426/d3179d.jpg" group-title="FIFA SERIES",15:05 WIB 27/03/26 Solomon Islands vs Bulgaria - FIFA Series (INTI MPD)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzIwOTkyLnFlej9xcmlfeG54dl8wOSZnPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJnU9MjJxMDU0cW5zczlzODU5NDVucThzbzhyMW4zczI0MDhwcDA5MXE5cG4wNTNxcHFyMzI2OTczOW8xMnE1cXMzOXwxNzc1MjA2OTk4
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzIwOTkyLnFlej9xcmlfeG54dl8wOSZnPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJnU9bnM0c3FvMjM5c28xNXExNzFucG5yNjZyNTQ1c3NxOTAzczZxNTZxcTExOXI4N3E0MTg5OHE2NjY0NjE0MDIwMXwxNzc1MjA3NjMw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzIwOTkyLnpjcT9xcmlfeG54dl8wOSZnPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJnU9MjJxMDU0cW5zczlzODU5NDVucThzbzhyMW4zczI0MDhwcDA5MXE5cG4wNTNxcHFyMzI2OTczOW8xMnE1cXMzOXwxNzc1MjA2OTk4
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzIwOTkyLnpjcT9xcmlfeG54dl8wOSZnPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJnU9bnM0c3FvMjM5c28xNXExNzFucG5yNjZyNTQ1c3NxOTAzczZxNTZxcTExOXI4N3E0MTg5OHE2NjY0NjE0MDIwMXwxNzc1MjA3NjMw
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BVMnpUw0Ys9S47jCC_B0zIp3hkA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969426/d3179d.jpg" group-title="FIFA SERIES",15:05 WIB 27/03/26 Solomon Islands vs Bulgaria - FIFA Series (ALT HLS/M3U8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8yMDk5Mi56M2g4P3JrYz0xNzc0NjEyOTk0Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZmdnRhPXFuNjUzczczcnA0cTZvcjJuczgwMjNyMDJxODE5bzE1NDlubnIyNDA2czUwcDI1ODg2MHI1cDU4Mm84N3A0Nzl8MTc3NTIwNjk5OA
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8yMDk5Mi56M2g4P3JrYz0xNzc0NjEzNjI2Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZmdnRhPTczMzk1MDk2OTc3ODAwNm9wNHI4NnMxNW5ucm9xbjdvOHE4bjFwNDdycW40bjU0MjJzNjBwMTg3MnM2cDg4OTh8MTc3NTIwNzYzMA
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BVMnpUw0Ys9S47jCC_B0zIp3hkA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969426/d3179d.jpg" group-title="FIFA SERIES",15:05 WIB 27/03/26 Solomon Islands vs Bulgaria - FIFA Series (ALT MPD)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8yMDk5Mi5xZXo_cmtjPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9bjU1MTFzcW4yMThxMm41MjEyMHFyNjJvMThuNW9vNzJucjJwNW5yMXBvNXJvN3Jucm5vczM4MTM0MTNwNzYyMXwxNzc1MjA2OTk4
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8yMDk5Mi5xZXo_cmtjPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9NzY3OTM3N3ByODdxcDFyMTZuNHJzMTc5cnI1cTg1ODFuOHJzbzVzMjg2cjI5OTM4NjEycjc2cHNxODAzNjk2MnwxNzc1MjA3NjMw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8yMDk5Mi56Y3E_cmtjPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9cW42NTNzNzNycDRxNm9yMm5zODAyM3IwMnE4MTlvMTU0OW5ucjI0MDZzNTBwMjU4ODYwcjVwNTgybzg3cDQ3OXwxNzc1MjA2OTk4
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8yMDk5Mi56Y3E_cmtjPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9NzMzOTUwOTY5Nzc4MDA2b3A0cjg2czE1bm5yb3FuN284cThuMXA0N3JxbjRuNTQyMnM2MHAxODcyczZwODg5OHwxNzc1MjA3NjMw
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8HadKqQj3QBHjjjNDak_q5uFS6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969603/158d79.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 27/03/26 Persikad vs Persekat Tegal - Pegadaian Championship (INTI HLS/M3U8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzE5NTQxLnozaDg_cXJpX3hueHZfMDkmZz0xNzc0NjEyOTk0Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZ1PTE3Njhvc3A4MDY3Mjk4NW9yczQzNzQxc3IwODY5MjdwOTk2bjgzNXMybjM0NTEyMTU1cW4wcDk3NTBycnBxODN8MTc3NTIwNjk5OA
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzE5NTQxLnozaDg_cXJpX3hueHZfMDkmZz0xNzc0NjEzNjI2Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZ1PTkyMTg4OTcxcDcxMTRucDQ3czhzMjYzNG40Mm9ucXJxMXM2cDM4OXBucDk2cW5uMTY2bzJycTlwc3Ezbzhuc3F8MTc3NTIwNzYzMA
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8HadKqQj3QBHjjjNDak_q5uFS6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969603/158d79.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 27/03/26 Persikad vs Persekat Tegal - Pegadaian Championship (INTI MPD)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzE5NTQxLnFlej9xcmlfeG54dl8wOSZnPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJnU9MTc2OG9zcDgwNjcyOTg1b3JzNDM3NDFzcjA4NjkyN3A5OTZuODM1czJuMzQ1MTIxNTVxbjBwOTc1MHJycHE4M3wxNzc1MjA2OTk4
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzE5NTQxLnFlej9xcmlfeG54dl8wOSZnPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJnU9OTIxODg5NzFwNzExNG5wNDdzOHMyNjM0bjQyb25xcnExczZwMzg5cG5wOTZxbm4xNjZvMnJxOXBzcTNvOG5zcXwxNzc1MjA3NjMw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzE5NTQxLnpjcT9xcmlfeG54dl8wOSZnPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJnU9MTc2OG9zcDgwNjcyOTg1b3JzNDM3NDFzcjA4NjkyN3A5OTZuODM1czJuMzQ1MTIxNTVxbjBwOTc1MHJycHE4M3wxNzc1MjA2OTk4
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzE5NTQxLnpjcT9xcmlfeG54dl8wOSZnPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJnU9OTIxODg5NzFwNzExNG5wNDdzOHMyNjM0bjQyb25xcnExczZwMzg5cG5wOTZxbm4xNjZvMnJxOXBzcTNvOG5zcXwxNzc1MjA3NjMw
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8HadKqQj3QBHjjjNDak_q5uFS6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969603/158d79.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 27/03/26 Persikad vs Persekat Tegal - Pegadaian Championship (ALT HLS/M3U8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8xOTU0MS56M2g4P3JrYz0xNzc0NjEyOTk0Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZmdnRhPTAzcDBzMnIybzY1MTFuMnIzMDc4NXFvczA4cG81MjZxMjQwczk5MjNybzRzMW9vbnA3bnI0OTk0OG9vMnBuMG58MTc3NTIwNjk5OA
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8xOTU0MS56M2g4P3JrYz0xNzc0NjEzNjI2Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZmdnRhPTBuNW4zczI2Mm84OHNyNDRuMG43OTg0NzQ1MDE2cm9yNTcyOHNwNzMybzUwNG8yMm5xcHEyODY1czBzM24ycjl8MTc3NTIwNzYzMA
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8HadKqQj3QBHjjjNDak_q5uFS6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969603/158d79.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 27/03/26 Persikad vs Persekat Tegal - Pegadaian Championship (ALT MPD)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8xOTU0MS5xZXo_cmtjPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9cHE4MDJyNDQ0MDBvODg4cXJzODk3ODA4MTVxMDY1b3AzMzU3bzlwNzc2NHI0NjlvNTYwMDlwbzk2ODNzMzYxOHwxNzc1MjA2OTk4
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8xOTU0MS5xZXo_cmtjPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9czc4OXI3NjY1bjNvbjM5bzYyMTQwOTg3cTA4MnIxcDMxMjNxbjE4bm4zbnAxbjZwMDk1b3A2OXAwcjZwcTg1M3wxNzc1MjA3NjMw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8xOTU0MS56Y3E_cmtjPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9MDNwMHMycjJvNjUxMW4ycjMwNzg1cW9zMDhwbzUyNnEyNDBzOTkyM3JvNHMxb29ucDducjQ5OTQ4b28ycG4wbnwxNzc1MjA2OTk4
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8xOTU0MS56Y3E_cmtjPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9MG41bjNzMjYybzg4c3I0NG4wbjc5ODQ3NDUwMTZyb3I1NzI4c3A3MzJvNTA0bzIybnFwcTI4NjVzMHMzbjJyOXwxNzc1MjA3NjMw
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0tzVGRKBs0cXp00_OTbpVCg10o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4969752/4f40c3.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 28/03/26 Persela Lamongan vs Persiba Balikpapan - Pegadaian Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTIwNjk5OA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTIwNzYzMA
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Di_QD_Ac24Iqu_fovqQwxKMWxJM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974398/714a29.jpg" group-title="BWF BADMINTON & VOLLEYBALL",15:30 WIB 02/04/26 Final Four Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator - Proliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTIwNjk5OA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTIwNzYzMA
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SbrEey_kB6fK0CfiEHFAjon4kJw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21006/merdeka-com-22eb79.jpg" group-title="FIFA SERIES",18:00 WIB 27/03/26 LIVE - Jelang Timnas Garuda Vs Saint Kitts and Nevis di FIFA Series 2026, Pembuktian Coach Herdman (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzIxMDA2LnFlej9xcmlfeG54dl8wOSZnPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJnU9MTc1cDIzNTBuMnBzODRzcTBxcXE0NzYwMTY0M29wMDg5b242bzQ0b3BzbjExMm45NTJzcHBuczAxODAxNjk0c3wxNzc1MjA2OTk4
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzIxMDA2LnFlej9xcmlfeG54dl8wOSZnPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJnU9cjE2NzRvMjFzbjMybzU2NzE2MzAzMzU3MjJwODY1b3NyNTQwMjdvczIyN3A5cTQ3NnFyOXMxM25xMTdxOTUwb3wxNzc1MjA3NjMw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzIxMDA2LnpjcT9xcmlfeG54dl8wOSZnPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJnU9MTc1cDIzNTBuMnBzODRzcTBxcXE0NzYwMTY0M29wMDg5b242bzQ0b3BzbjExMm45NTJzcHBuczAxODAxNjk0c3wxNzc1MjA2OTk4
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzIxMDA2LnpjcT9xcmlfeG54dl8wOSZnPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJnU9cjE2NzRvMjFzbjMybzU2NzE2MzAzMzU3MjJwODY1b3NyNTQwMjdvczIyN3A5cTQ3NnFyOXMxM25xMTdxOTUwb3wxNzc1MjA3NjMw
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SbrEey_kB6fK0CfiEHFAjon4kJw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21006/merdeka-com-22eb79.jpg" group-title="FIFA SERIES",18:00 WIB 27/03/26 LIVE - Jelang Timnas Garuda Vs Saint Kitts and Nevis di FIFA Series 2026, Pembuktian Coach Herdman (ALT)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8yMTAwNi5xZXo_cmtjPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9czM1NXBxczg4MDIyMHAzNDQ0MnAzNnEzMnI1MHMxMzYxMHM1OG5wcjYzMjNuNDI0c3IwbjkyN3BwN282NDkwcXwxNzc1MjA2OTk4
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8yMTAwNi5xZXo_cmtjPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9bnI3OW40NDYwNzhxbjBuM24wMDY1NjI5czkxbzg4OHBzbzVuNDU2OTZwcTUyb3Jybzczbjgzc3E5NTZxbjJyMHwxNzc1MjA3NjMw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8yMTAwNi56Y3E_cmtjPTE3NzQ2MTI5OTQmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9bzNxcXMzczRvcTVyNTg0c29wMTgwMjkzNjk3MjM3NzczbjYzb3A5MG5zNTgwMjA2NDAzMXIwMW4ycDg2cTYycHwxNzc1MjA2OTk4
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS8yMTAwNi56Y3E_cmtjPTE3NzQ2MTM2MjYmaHZjPTEwMy4zMC4xNDcuMTIwJmZ2dGE9NnFxNjMzMTMzMTNwMTkxcDFzMTQ4OTFxODNuNzY2cXByNXA2MW80NXIwMzg3bjQ1MG9ubm4wbzdwNTczOTZzOXwxNzc1MjA3NjMw
+#EXTINF:-1 tvg-logo="https://aspaltvpasti.top/1/apa/logonobar.php?home=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2Ffe7a0e897d5cc10b81a7f3ee2b7dd46c.png&away=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F3370681d192c09290b9323bf1bb56d4c.png" group-title="FIFA SERIES", [Live] Solomon Islands vs Bulgaria * FIFA Series (15:30 WIB * 27/03/2026)
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9pLnlzZmtzdy5wYnoveXZpci8xMDAzODUuejNoOD9na0ZycGVyZz1wMHE4Nzhuc3I5b29zNTkycTZwcG5uNTk5OTZubzFvbiZna0d2enI9NjlQNjRTU1ImZnZ0YT1xN29ucjI2czI3cTgwczlzfDE3NzUyMDc2MzA
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1kazqdb9h92n.png" group-title="BRI SUPER LEAGUE", [LIVE] Persikad vs Persekat Tegal * Indonesia: Liga 2 (15:30 WIB * 27/03/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk0MTU2OSZmZ2Vybno9NDEyOTMxfDE3NzUyMDY5OTg
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk0MTU2OSZmZ2Vybno9NDEyOTMxfDE3NzUyMDc2MzA
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1kmevm1hwj24.png" group-title="FIFA SERIES", [LIVE] Kepulauan Solomon vs Bulgaria * World FIFA Series (15:30 WIB * 27/03/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk2NDI3MyZmZ2Vybno9NDEzMjQxfDE3NzUyMDY5OTg
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk2NDI3MyZmZ2Vybno9NDEzMjQxfDE3NzUyMDc2MzA
+#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1kmevm1hwj24.png" group-title="FIFA SERIES", [LIVE] Australia vs Kamerun * World FIFA Series (16:10 WIB * 27/03/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
+#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk2NDI3MCZmZ2Vybno9NDEzMTkyfDE3NzUyMDc2MzA
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/livenobar/logonobar.php?home=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2Ffe7a0e897d5cc10b81a7f3ee2b7dd46c.png&away=https%3A%2F%2Fcdn.sportnanoapi.com%2Ffootball%2Fteam%2F3370681d192c09290b9323bf1bb56d4c.png" group-title="FIFA SERIES", [Live] Solomon Islands vs Bulgaria * FIFA Series (15:30 WIB * 27/03/2026)
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9pLnlzZmtzdy5wYnoveXZpci8xMDAzODUuejNoOD9na0ZycGVyZz1uMTI0MTk3bjk2bzc5NnNzNW83cnIyc3E2OTIyczhwNCZna0d2enI9NjlQNjRQNzkmZnZ0YT0zMTZzMTdyNTk2cDNuMG5ufDE3NzUyMDY5OTg
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9pLnlzZmtzdy5wYnoveXZpci8xMDAzODUuejNoOD9na0ZycGVyZz1wMHE4Nzhuc3I5b29zNTkycTZwcG5uNTk5OTZubzFvbiZna0d2enI9NjlQNjRTU1ImZnZ0YT1xN29ucjI2czI3cTgwczlzfDE3NzUyMDc2MzA
 #EXTINF:-1 tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png" group-title="EVENT 026/MARET/2026",21:30 WIB Tanzania vs Liechtenstein
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
@@ -2986,42 +3069,42 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=6fd0456cb25c665216e1df176b2a1ba4&wsABSTime=1774645528
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=937dceefedd2ec25207598aeaaeb2430&wsABSTime=1774646128
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",15:30 WIB - HEIDELBERG UNITED VS MELBOURNE CITY NPL [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=9489e204f30b7bbb5ee42b7283868d6f&wsABSTime=1774645528
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=791a4584fd1d00e9a280ec579da3d086&wsABSTime=1774646129
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",16:00 WIB - NU BRISBANE ROAR VS NU PERTH GLORY [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=e106147eb25929bb5eabd920c19c2f6b&wsABSTime=1774645530
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=d17413cb8ffd0d3ca86b8d6f6a37a71b&wsABSTime=1774646130
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",16:00 WIB - BRISBANE OLYMPIC FC VS GOLD COAST KNIGHTS [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=c7788dd762fcd6a1322e7c6c9e306d78&wsABSTime=1774645530
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=008b023c30f8b120a65fa179521525bb&wsABSTime=1774646131
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",16:10 WIB - AUSTRALIA VS CAMEROON [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=1f7a87daff3d57cc73e2ffb5b7aa6ee9&wsABSTime=1774645531
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=1c48702127db74daa89b7437b74952b2&wsABSTime=1774646132
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",14:30 WIB - NU NORTHERN TASMANIA VS NU FRANKSTON BLUES [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=fe889c782ac330a4163557c9100db305&wsABSTime=1774645532
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=dc837c4213c39fe9749c92a124b990b1&wsABSTime=1774646133
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - NU ADELAIDE UNIVERSITY VS NU SALISBURY INTER [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | AUS NSW Premier League",Sydney FC Youth vs APIA Leichhardt Tigers
-https://v.lfsxfj.com/live/100469.m3u8?txSecret=6bc787065aebeca7acdf59adc4ce1267&txTime=69C64E95&sign=e5b2e183a3f794d6
+https://live.bbs456.com/live/13394863_029c80330921302f966ac5b74cddb592.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | AUS W-League",Brisbane Roar Women vs Perth Glory Women
-https://v.lfsxfj.com/live/100481.m3u8?txSecret=e44fb7ef586b207f0422ba748d89cb92&txTime=69C64B12&sign=03a4592c26cd1c47
+https://live.bbs456.com/live/13134065_d596598795d10eeea0dadb59ee6158a0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | FIFA Series",Solomon Islands vs Bulgaria
-https://v.lfsxfj.com/live/100385.m3u8?txSecret=716000216119310d613eceaac77ef481&txTime=69C64E96&sign=d97264e0329d9a96
+https://live5.bbs456.com/live/13737777_fa8a7d2999e6147d6adacf9350d2addf.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | FIFA Series",Australia vs Cameroon
-https://hwc777pullb.bszb.me/live/2476627_1774601230.flv
+https://live.bbs456.com/live/13510505_78d3dd2baba27fb84ee85023475f5d8e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
