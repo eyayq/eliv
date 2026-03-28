@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-28 21:53:39
-# 🔄 Total Channels: 1948
+# ⏰ Latest Updated: 2026-03-28 21:58:28
+# 🔄 Total Channels: 1927
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -46,9 +46,6 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fc749b5065db363497b7d93c966b0a51.png!w80" group-title="Live Event: Colalive",03:00 29/03 Sporting Gijon vs Dep. La Coruna Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/18812304.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a2f731e9147f64082f22b9a561425308.png!w80" group-title="Live Event: Colalive",03:00 29/03 Albacete vs Castellon Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/08552895.m3u8
@@ -555,78 +552,6 @@ https://live.alilicloud.com/live/5898ed683ffb481556bbc6e7317c0f04/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/6265787b29f017e7387f24c6261ffa01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [Dinh Bac] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lsd.flv?auth_key=1774737339-0-0-f8c0ff0fab2c3e5c095591fa7be52964
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [Dinh Bac] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-579144_lhd.flv?auth_key=1774737339-0-0-d12e1d2bb7ef50a2101d062f7a875461
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [Dinh Bac] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1774737339-0-0-c1ee40329d9657de1222e5422cc65516
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [Dinh Bac] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1774737339-0-0-930bf123462f5f4ee4be66881e97b01a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ WUKONG] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1774737339-0-0-1a0d627346a7ddd77ab42d7af053b16f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ WUKONG] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1774737339-0-0-f5c4ebf48d43e40257988bcf54348352
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ WUKONG] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1774737339-0-0-ebdaedeedd76544cae23a8656196f808
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ WUKONG] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1774737339-0-0-736ace3c2277d57f593b1ddfb3d77053
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/39622fafcc5056ef03ce8187823ada60.png" group-title="Live Event: socolive",03:00 ngay 29/03 Albacete Balompie SAD vs Castellon [ ALEX] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1774737339-0-0-ec0c17a81bbd246762cc29b675a51273
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/39622fafcc5056ef03ce8187823ada60.png" group-title="Live Event: socolive",03:00 ngay 29/03 Albacete Balompie SAD vs Castellon [ ALEX] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1774737339-0-0-6d342d316b058bc04ad217b73c482a02
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/39622fafcc5056ef03ce8187823ada60.png" group-title="Live Event: socolive",03:00 ngay 29/03 Albacete Balompie SAD vs Castellon [ ALEX] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1774737339-0-0-2f2fd9de9d943be218d9b8426c358880
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/39622fafcc5056ef03ce8187823ada60.png" group-title="Live Event: socolive",03:00 ngay 29/03 Albacete Balompie SAD vs Castellon [ ALEX] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1774737339-0-0-013bb0eefff3e12795d2e56496eb2f8f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ SATIVA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1774737339-0-0-45072d96d615a545fdb4e8d7efeb5ad9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ SATIVA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1774737339-0-0-2313f8aa190eacf4f36d2863f8b9eec2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ SATIVA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1774737339-0-0-556fdefa278f93555a49f35a8c08eedb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ SATIVA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1774737339-0-0-25afb609a2811275f297289e7c29d2cc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/2d44ab07eecfc974ded650ac77b9c7c0.png" group-title="Live Event: socolive",04:00 ngay 29/03 Cucuta Deportivo vs Boyaca Chico [CHANH MUOI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1774737339-0-0-2262a6113d9693ff8dbadaa02b5dd6a3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/2d44ab07eecfc974ded650ac77b9c7c0.png" group-title="Live Event: socolive",04:00 ngay 29/03 Cucuta Deportivo vs Boyaca Chico [CHANH MUOI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1774737339-0-0-722674de370e00628a8d7950df20ec74
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/2d44ab07eecfc974ded650ac77b9c7c0.png" group-title="Live Event: socolive",04:00 ngay 29/03 Cucuta Deportivo vs Boyaca Chico [CHANH MUOI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1774737339-0-0-cfc1f4cdeece2dc9f6f94a13f42de6d3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/2d44ab07eecfc974ded650ac77b9c7c0.png" group-title="Live Event: socolive",04:00 ngay 29/03 Cucuta Deportivo vs Boyaca Chico [CHANH MUOI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1774737339-0-0-865c6477585aab76fb327f623e3f7f3c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/ed3e821fea0ae7b0d8e64ec66eddabdf.png" group-title="Live Event: socolive",04:30 ngay 29/03 Olimpia Asuncion vs Club Sportivo 2 de Mayo [THE KOP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1774737339-0-0-be24650936af1aee279888aaf174c2d8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/ed3e821fea0ae7b0d8e64ec66eddabdf.png" group-title="Live Event: socolive",04:30 ngay 29/03 Olimpia Asuncion vs Club Sportivo 2 de Mayo [THE KOP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1774737339-0-0-756b2e8892819d1d18bf8b6cd69b2b90
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/ed3e821fea0ae7b0d8e64ec66eddabdf.png" group-title="Live Event: socolive",04:30 ngay 29/03 Olimpia Asuncion vs Club Sportivo 2 de Mayo [THE KOP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1774737339-0-0-3cd6e4c231613f5ca632baa7893b0c8e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/ed3e821fea0ae7b0d8e64ec66eddabdf.png" group-title="Live Event: socolive",04:30 ngay 29/03 Olimpia Asuncion vs Club Sportivo 2 de Mayo [THE KOP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1774737339-0-0-46f7a58b47168b32b99841a814ecff2f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/39622fafcc5056ef03ce8187823ada60.png" group-title="Live Event: socolive",03:00 ngay 29/03 Albacete Balompie SAD vs Castellon [NGUOI CA] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1774737699-0-0-297a322c81bcf47115a39d36977c680e
@@ -771,6 +696,66 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774738059-0-0-d304
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/db83b8faaa5808910f75183bb1bd345a.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774738059-0-0-1b966686dc22e016ea2d0690c3691dee
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ WUKONG] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lsd.flv?auth_key=1774738419-0-0-a338a6d0d74d66c3b0750c8b9ea4c663
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ WUKONG] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1774738419-0-0-829dc2fdf6570fc85bd502ec424ce368
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ WUKONG] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1774738419-0-0-4ce6e15956232669f6f7edfd52520f44
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ WUKONG] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1774738419-0-0-8eac11c47d0138bf2225cd1be56c28b5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/39622fafcc5056ef03ce8187823ada60.png" group-title="Live Event: socolive",03:00 ngay 29/03 Albacete Balompie SAD vs Castellon [ ALEX] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1774738419-0-0-aa0a0cb63b9e736778ae1df2566f0f82
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/39622fafcc5056ef03ce8187823ada60.png" group-title="Live Event: socolive",03:00 ngay 29/03 Albacete Balompie SAD vs Castellon [ ALEX] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1774738419-0-0-dc11e5cc62ce106d4804235ad76d9566
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/39622fafcc5056ef03ce8187823ada60.png" group-title="Live Event: socolive",03:00 ngay 29/03 Albacete Balompie SAD vs Castellon [ ALEX] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1774738419-0-0-017dc3c3b184726524e76bf80236dac7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/39622fafcc5056ef03ce8187823ada60.png" group-title="Live Event: socolive",03:00 ngay 29/03 Albacete Balompie SAD vs Castellon [ ALEX] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1774738419-0-0-8bca0b1f3a59805a3cf21fd3a1420d95
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ SATIVA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1774738443-0-0-0dc34a7b44aa2f205afef24e535ff933
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ SATIVA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1774738443-0-0-181e694c8b08e1994e0284e3fd69cf0a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ SATIVA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1774738443-0-0-5c93d7a48c34b85089b676674af9dc1f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/d7a5a77d15a600cecb89c246a9c46d16.png" group-title="Live Event: socolive",03:00 ngay 29/03 Sporting Gijon vs Deportivo La Coruna [ SATIVA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1774738443-0-0-d032d4cd5cb3dfc140c469a6254fc1a0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/2d44ab07eecfc974ded650ac77b9c7c0.png" group-title="Live Event: socolive",04:00 ngay 29/03 Cucuta Deportivo vs Boyaca Chico [CHANH MUOI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lsd.flv?auth_key=1774738419-0-0-c1939c8a90abd48845b2e0064cfb820a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/2d44ab07eecfc974ded650ac77b9c7c0.png" group-title="Live Event: socolive",04:00 ngay 29/03 Cucuta Deportivo vs Boyaca Chico [CHANH MUOI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1774738419-0-0-44246af987e21cd4843603c51a4ebcd3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/2d44ab07eecfc974ded650ac77b9c7c0.png" group-title="Live Event: socolive",04:00 ngay 29/03 Cucuta Deportivo vs Boyaca Chico [CHANH MUOI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1774738419-0-0-f9ed9dafb3e17ba20f62cc09e8c8f5ec
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/2d44ab07eecfc974ded650ac77b9c7c0.png" group-title="Live Event: socolive",04:00 ngay 29/03 Cucuta Deportivo vs Boyaca Chico [CHANH MUOI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1774738419-0-0-4e7bd3d2bb071b02815a9896cc1ad1f7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/ed3e821fea0ae7b0d8e64ec66eddabdf.png" group-title="Live Event: socolive",04:30 ngay 29/03 Olimpia Asuncion vs Club Sportivo 2 de Mayo [THE KOP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1774738419-0-0-b07fabf6c1678e2e5f1c4a78910391d4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/ed3e821fea0ae7b0d8e64ec66eddabdf.png" group-title="Live Event: socolive",04:30 ngay 29/03 Olimpia Asuncion vs Club Sportivo 2 de Mayo [THE KOP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1774738419-0-0-b8011e9a8a778e63ac39b66ab02c48e1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/ed3e821fea0ae7b0d8e64ec66eddabdf.png" group-title="Live Event: socolive",04:30 ngay 29/03 Olimpia Asuncion vs Club Sportivo 2 de Mayo [THE KOP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1774738419-0-0-125eeb743306d0a06106785891f1f0ec
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/ed3e821fea0ae7b0d8e64ec66eddabdf.png" group-title="Live Event: socolive",04:30 ngay 29/03 Olimpia Asuncion vs Club Sportivo 2 de Mayo [THE KOP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1774738419-0-0-4f1a8f117054fba945e37bcc93ac73c0
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="Live Event: Hội quán",02:30 29/03 USA vs Belgium FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1506,66 +1491,6 @@ https://pipit.barjagaul.workers.dev/play.mpd?id=9182&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://pipit.barjagaul.workers.dev/play.mpd?id=9183&type=dash
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UwzvTcf5m-QaEIMnok96r8Nb5Co=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970030/1f8f25.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 29/03/26 PS. Barito Putera vs Persiku Kudus - Pegadaian Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMzOTUzMA
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WpDudqjC3N27ZDnK_zmA3jxTPjA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970029/022af3.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 29/03/26 Garudayaksa FC vs FC Bekasi City - Pegadaian Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMzOTUzMA
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nfmRMT1rHA8QCjBhABD00j34htI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970032/160969.jpg" group-title="BRI SUPER LEAGUE",18:52 WIB 29/03/26 PSIS Semarang vs Persipal FC - Pegadaian Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMzOTUzMA
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iedwSYI8BWExo7BoWHVkOVSssV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980160/4c93d5.jpg" group-title="FIFA SERIES",15:20 WIB 30/03/26 3rd Place: Saint Kitts and Nevis vs Solomon Islands - FIFA Series
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMzOTUzMA
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Di_QD_Ac24Iqu_fovqQwxKMWxJM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974398/714a29.jpg" group-title="BWF BADMINTON & VOLLEYBALL",15:30 WIB 02/04/26 Final Four Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator - Proliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMzOTUzMA
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1h80hxdr2n1e.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Gijon vs Dep. La Coruna * Spanyol: LaLiga2 (03:00 WIB * 29/03/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9MjgwNzk2OCZmZ2Vybno9NDEzMjM4fDE3NzUzMzk1MzA
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F20140109111011.jpg" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Detroit vs Charleston * Amerika Serikat: Kejuaraan USL (03:00 WIB * 29/03/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk1ODgyNSZmZ2Vybno9NDEzNDQ1fDE3NzUzMzk1MzA
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1kmevm1hwj24.png" group-title="FIFA SERIES", [LIVE] Samoa Amerika vs Guam * World FIFA Series (03:00 WIB * 29/03/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk2OTkzNCZmZ2Vybno9NDEzNDYxfDE3NzUzMzk1MzA
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1kmevm1hwj24.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Samoa Amerika vs Guam * World FIFA Series (03:00 WIB * 29/03/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk2OTkzNCZmZ2Vybno9NDEzNDYxfDE3NzUzMzk1MzA
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F20140109111312.jpg" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Portland Thorns (W) vs Kansas City Current (W) * Amerika Serikat: NWSL Wanita (03:10 WIB * 29/03/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk1Njg4NSZmZ2Vybno9NDEzMTE0fDE3NzUzMzk1MzA
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F20140109111011.jpg" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Hartford Athletic vs Indy Eleven * Amerika Serikat: Kejuaraan USL (04:00 WIB * 29/03/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9MjkwOTYwOSZmZ2Vybno9NDEzNDQ2fDE3NzUzMzk1MzA
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F16391041090.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Cucuta vs Chico * Kolombia: Primera A (04:00 WIB * 29/03/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9MjkyMjIzOSZmZ2Vybno9NDEzMTE3fDE3NzUzMzk1MzA
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1kjyf091rf2t.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Union Omaha vs Corpus Christi FC * USL League One (04:00 WIB * 29/03/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk1Mzk3MyZmZ2Vybno9NDEzNDQ3fDE3NzUzMzk1MzA
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fnba.titan007.com%2Ffiles%2Fteam%2F20180117154934.jpg" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Minnesota Timberwolves vs Detroit Pistons * National Basketball Association (04:30 WIB * 29/03/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
-#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9NjY0NTYwJmZnZXJuej00MTMyNzB8MTc3NTMzOTUzMA
 #EXTINF:-1 tvg-logo="https://api.cdn-live.tv/api/v1/channels/images6318/united-states/astro-cricket.webp" group-title="SPORTS FHD",Astro Cricket
 #EXTVLCOPT:http-referrer=https://edge.cdn-live.ru/
 https://edge.cdn-live.ru/secure/api/v1/us-astro-cricket/playlist.m3u8?token=882b489c23b122d628af45c4701f9ef183581d1be46eac04d6781633caa8d0e8.1774733554.faa13904f3beede1ef4245168be73db1.b65ebd6ddabba06835f31e7d602cb80e.98f0343f9a6d1c94559b29d2199c1db7&signature=3f9441f238fbfc1e6794b3ba2cc6b79f1ddfb9b6277f29a45d2a395b705a0c65
@@ -3529,45 +3454,41 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=0585efcf09ed20853dd3fad13e00ab8d&wsABSTime=1774777830
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=cb7d2e02db79eb0056f69db5c13b0c33&wsABSTime=1774778129
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",03:00 WIB - NU NANTES VS NU PSG [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=36e1b864c3c2f8627a33bcf78dfd5191&wsABSTime=1774777831
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=eab5e3e27f326160212993ea674990dc&wsABSTime=1774778129
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",03:00 WIB - CRB AL VS VITORIA BA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=270aceb6e076787396100f81275932ef&wsABSTime=1774777831
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=9a2a115988760e497feaf3f2105983f8&wsABSTime=1774778129
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",03:00 WIB - ALBACETE VS CASTELLON [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=f9923d4cfff1bb8b116330a85f745618&wsABSTime=1774777832
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=24372a5eab1587d34ee5989f022a32e7&wsABSTime=1774778131
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",04:00 WIB - CUCUTA DEPORTIVO VS BOYACA CHICO [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=80df196259361a876bf289482ffb95bb&wsABSTime=1774777833
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=9e5d670f7608487eed0eec59cba3375d&wsABSTime=1774778131
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",04:00 WIB - HARTFORD ATHLETIC VS INDY ELEVEN [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=2661a8d141d16fc2bd936f2386f95caa&wsABSTime=1774777833
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=06683323a8c0503c9f056d2612352722&wsABSTime=1774778132
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",04:45 WIB - NU CRUZ AZUL VS NU PUEBLA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=1c24d657eb41996360e943303d4c4c8e&wsABSTime=1774777834
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=2f4ebca51f59769e53d3bc7d0c1d9424&wsABSTime=1774778133
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - RETRO FC BRASIL VS CEARA [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | NED Eerste Divisie",FC Eindhoven vs Emmen
-https://live4.bbs456.com/live/12512641_6b72f0bf2e632334fc7d3389c7d1a5c7.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | SPA Segunda Division",Albacete Balompie SAD vs Castellon
 https://live1.bbs456.com/live/12562455_6035c4ae0b80bc788eb9ae96a87340e4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | SPA Segunda Division",Sporting Gijon vs Deportivo La Coruna
-https://live2.bbs456.com/live/12562462_efe43b28b6c8320e14cdc0ee0f9c4ff4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
