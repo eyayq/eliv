@@ -1,5 +1,5 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-28 17:48:43
+# ⏰ Latest Updated: 2026-03-28 17:53:09
 # 🔄 Total Channels: 2132
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
@@ -856,18 +856,6 @@ https://live.alilicloud.com/live/22c13272a8d3a8607f00b94b405c6202/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b819cc28a8aafcd07069f6c1ef70feda/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/db83b8faaa5808910f75183bb1bd345a.png" group-title="Live Event: socolive",QAT Cup: Al Rayyan vs Umm Salal [ A TU] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1774722579-0-0-6d693557b22e58f63d7c3cab0b46b81f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/db83b8faaa5808910f75183bb1bd345a.png" group-title="Live Event: socolive",QAT Cup: Al Rayyan vs Umm Salal [ A TU] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1774722579-0-0-9b5479d1083648edff957d7f018fdddc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/db83b8faaa5808910f75183bb1bd345a.png" group-title="Live Event: socolive",QAT Cup: Al Rayyan vs Umm Salal [ A TU] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1774722579-0-0-5164b42ea6b94c0d9d3f401a00e917e5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/db83b8faaa5808910f75183bb1bd345a.png" group-title="Live Event: socolive",QAT Cup: Al Rayyan vs Umm Salal [ A TU] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1774722579-0-0-26026a59e0088c740f6790c5f28ce541
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260326/9358e49547a8174de11b1343f5fe8139.png" group-title="Live Event: socolive",00:00 ngay 29/03 Scotland vs Japan [ Cu Cai] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1774722939-0-0-82096a8ca04e16d5c113b083aae9c72c
@@ -1324,6 +1312,18 @@ https://pull.niues.live/live/stream-121289_lsd.m3u8?auth_key=1774723299-0-0-dc94
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/db83b8faaa5808910f75183bb1bd345a.png" group-title="Live Event: socolive",test live : INTERF - Scotland vs Japan [Casting] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-121289_lhd.m3u8?auth_key=1774723299-0-0-36250e6f94b5348a98f7eb84783b868c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/db83b8faaa5808910f75183bb1bd345a.png" group-title="Live Event: socolive",QAT Cup: Al Rayyan vs Umm Salal [ A TU] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1774723659-0-0-05365c25ab4aff448822f3bbf18b7528
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/db83b8faaa5808910f75183bb1bd345a.png" group-title="Live Event: socolive",QAT Cup: Al Rayyan vs Umm Salal [ A TU] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1774723659-0-0-41817f7acab9dc0986f75416ded52680
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/db83b8faaa5808910f75183bb1bd345a.png" group-title="Live Event: socolive",QAT Cup: Al Rayyan vs Umm Salal [ A TU] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1774723659-0-0-21d15e5803ca785b73d7b9151567fc86
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260324/db83b8faaa5808910f75183bb1bd345a.png" group-title="Live Event: socolive",QAT Cup: Al Rayyan vs Umm Salal [ A TU] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1774723659-0-0-6d757e49de91c6b791f6b1aa24d54f47
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png" group-title="Live Event: Hội quán",23:00 28/03 Senegal vs Peru FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -2096,54 +2096,54 @@ https://pipit.barjagaul.workers.dev/play.mpd?id=9182&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://pipit.barjagaul.workers.dev/play.mpd?id=9183&type=dash
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/Sksf4aKV/poster.jpg?width=720" group-title="LIVE EVENT NOW | VOLI",ITA TOOLS Stal Mielec - UNI Opole | Play Off - QF Round 2
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly92YXYuem55dmF0LmN5L2lvZ2kvRnhmczRuWEkuejNoOHwxNzc1MzI0NzAw
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly92YXYuem55dmF0LmN5L2lvZ2kvRnhmczRuWEkuejNoOHwxNzc1MzI1MDE0
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/NoSJOfdJ/poster.jpg?width=720" group-title="LIVE EVENT NOW | VOLI",Cbf Balducci Hr Macerata - Reale Mutua Fenera Chieri 76 | Challenge Play Off - Round 5
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly92YXYuem55dmF0LmN5L2lvZ2kvQWJGV0JzcVcuejNoOHwxNzc1MzI0NzAw
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly92YXYuem55dmF0LmN5L2lvZ2kvQWJGV0JzcVcuejNoOHwxNzc1MzI1MDE0
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WpDudqjC3N27ZDnK_zmA3jxTPjA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970029/022af3.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 29/03/26 Garudayaksa FC vs FC Bekasi City - Pegadaian Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMyNDcwMA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMyNTAxNA
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UwzvTcf5m-QaEIMnok96r8Nb5Co=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970030/1f8f25.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 29/03/26 PS. Barito Putera vs Persiku Kudus - Pegadaian Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMyNDcwMA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMyNTAxNA
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nfmRMT1rHA8QCjBhABD00j34htI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4970032/160969.jpg" group-title="BRI SUPER LEAGUE",18:52 WIB 29/03/26 PSIS Semarang vs Persipal FC - Pegadaian Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMyNDcwMA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMyNTAxNA
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iedwSYI8BWExo7BoWHVkOVSssV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980160/4c93d5.jpg" group-title="FIFA SERIES",15:30 WIB 30/03/26 3rd Place: Saint Kitts and Nevis vs Solomon Islands - FIFA Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMyNDcwMA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMyNTAxNA
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Di_QD_Ac24Iqu_fovqQwxKMWxJM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974398/714a29.jpg" group-title="BWF BADMINTON & VOLLEYBALL",15:30 WIB 02/04/26 Final Four Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator - Proliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMyNDcwMA
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTMyNTAxNA
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F20140109111312.jpg" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Boston Legacy W vs Utah Royals (W) * Amerika Serikat: NWSL Wanita (23:00 WIB * 28/03/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk1Njg4MyZmZ2Vybno9NDEzNTE1fDE3NzUzMjQ3MDA
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk1Njg4MyZmZ2Vybno9NDEzNTE1fDE3NzUzMjUwMTQ
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1hcv9hs0ekt.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Senegal vs Peru * International Friendly (23:00 WIB * 28/03/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk2NzEwNyZmZ2Vybno9NDEzMDg2fDE3NzUzMjQ3MDA
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk2NzEwNyZmZ2Vybno9NDEzMDg2fDE3NzUzMjUwMTQ
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1hcv9hs0ekt.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Skotlandia vs Jepang * International Friendly (00:00 WIB * 29/03/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk2NTA2NCZmZ2Vybno9NDEzNDA3fDE3NzUzMjQ3MDA
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk2NTA2NCZmZ2Vybno9NDEzNDA3fDE3NzUzMjUwMTQ
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1hcv9hs0ekt.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Hungaria vs Slovenia * International Friendly (00:00 WIB * 29/03/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk2NjcwMCZmZ2Vybno9NDEzMDkxfDE3NzUzMjQ3MDA
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk2NjcwMCZmZ2Vybno9NDEzMDkxfDE3NzUzMjUwMTQ
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1h80hxdr2n1e.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Malaga vs Leganes * Spanyol: LaLiga2 (00:30 WIB * 29/03/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9MjgwNzk3MCZmZ2Vybno9NDEzMDk5fDE3NzUzMjQ3MDA
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9MjgwNzk3MCZmZ2Vybno9NDEzMDk5fDE3NzUzMjUwMTQ
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F20200412144948.jpg" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Arsenal (W) vs Tottenham (W) * Inggris: Liga Super Wanita (00:30 WIB * 29/03/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9MjgzNDkzMiZmZ2Vybno9NDEzMjM0fDE3NzUzMjQ3MDA
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9MjgzNDkzMiZmZ2Vybno9NDEzMjM0fDE3NzUzMjUwMTQ
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT |  CRICKET",A Sports
 #EXTVLCOPT:http-referrer=https://player0003.com/
 https://jan.bhalocast.com:7059/hls/asportsd.m3u8?md5=4sRZ185sLgkRQLwPY_vNig&expires=1774722316&ch=asportsd&s=948a22559c719c75d0e5ec94b74855e3
@@ -4125,42 +4125,42 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=89161e686ec1357fa30ae5ab79124ed2&wsABSTime=1774763128
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=b6db6f0bcb2da23b78084ebaa2805f2d&wsABSTime=1774763427
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:00 WIB - ITALY U19 VS SLOVAKIA U19 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=73bcc9d161fbdfa434caa3e8bba18e9d&wsABSTime=1774763128
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=d888340f43d411ca3dbcd7665b44588d&wsABSTime=1774763427
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:00 WIB - BO DAO NHA U19 VS SERBIA U19 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=dbd6535b356213946be2e47614217101&wsABSTime=1774763128
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=b14d7521222aa3b260d4e091c155d7c1&wsABSTime=1774763427
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",23:00 WIB - CH SEC U19 VS UKRAINE U19 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=22915694ef11c5e02bb0d8f8a078dbbf&wsABSTime=1774763129
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=498cf70b8e84025268cdf8e455ccf397&wsABSTime=1774763428
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:00 WIB - CANADA VS ICELAND [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=6654e5b269c074d7711937c157e7063f&wsABSTime=1774763131
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=6f9cf6f901a0d11bcbcceb4705b5f644&wsABSTime=1774763430
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:00 WIB - HUNGARY VS SLOVENIA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=22216514a856626bbb35e1828c6f7b37&wsABSTime=1774763131
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=dd56bcba242d649143fbf23ca39bc210&wsABSTime=1774763430
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:00 WIB - SCOTLAND VS NHAT BAN [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=fdb3827b4fe748ff3b5b63115950a0b4&wsABSTime=1774763132
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=79dce3f7b71b356b9306006e84ddcb76&wsABSTime=1774763431
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",00:00 WIB - TAY BAN NHA U19 VS PHAN LAN U19 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=405c8832cb68943043a145ba03007e91&wsABSTime=1774763132
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=4cdeca3303ae7441d7fa3009536e2244&wsABSTime=1774763431
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE FOOTBALL | XOILACZ AI",OFFLINE - NU CSKA MOSCOW VS NU LOKOMOTIV FC [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | ENG FA WSL",Arsenal Women vs Tottenham Hotspur Women
@@ -4174,7 +4174,7 @@ https://hls.livelivelive.space/live/4512478.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | INT FRL",Scotland vs Japan
 https://hls.livelivelive.space/live/4512479.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | INT FRL",Canada vs Iceland
-https://v.lfsxfj.com/live/100337.m3u8?txSecret=3680ffa55e7583b8b4a33cc89e8f74ec&txTime=69C81A8D&sign=1c2b8204fe8d18c1
+https://v.lfsxfj.com/live/100337.m3u8?txSecret=1034fc21c9832d61b4c0072f325adcb1&txTime=69C81B21&sign=60e77b08a4f24f19
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | NED Eerste Divisie",Willem II vs De Graafschap
 https://hls.livelivelive.space/live/4426469.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | SPA Segunda Division",Malaga vs CD Leganes
