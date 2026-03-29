@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁17:48:09 29-03-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁17:58:18 29-03-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Portuguese U23 League📁00:00:00📁",📁Estrela FC U23 vs Rio Ave U23📁29-03-2026 17:48:03 WIB📁00:00:00📁
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Portuguese U23 League📁00:00:00📁",📁Estrela FC U23 vs Rio Ave U23📁29-03-2026 17:48:03 WIB📁00:00:00📁
-https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁AFC Women’s Champions League📁00:00:00📁",📁Wuhan Jianghan Women vs Suwon FC Women📁29-03-2026 17:48:03 WIB📁00:00:00📁
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁AFC Women’s Champions League📁00:00:00📁",📁Wuhan Jianghan Women vs Suwon FC Women📁29-03-2026 17:48:03 WIB📁00:00:00📁
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁Chelsea FC Women vs Aston Villa Women📁29-03-2026 17:48:03 WIB📁00:00:00📁
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁Chelsea FC Women vs Aston Villa Women📁29-03-2026 17:48:03 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁Chelsea FC Women vs Aston Villa Women📁29-03-2026 17:58:14 WIB📁00:00:00📁
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁Chelsea FC Women vs Aston Villa Women📁29-03-2026 17:48:03 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁Chelsea FC Women vs Aston Villa Women📁29-03-2026 17:58:14 WIB📁00:00:00📁
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁Chelsea FC Women vs Aston Villa Women📁29-03-2026 17:48:03 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁Chelsea FC Women vs Aston Villa Women📁29-03-2026 17:58:14 WIB📁00:00:00📁
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁Chelsea FC Women vs Aston Villa Women📁29-03-2026 17:58:14 WIB📁00:00:00📁
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁Chelsea FC Women vs Aston Villa Women📁29-03-2026 17:48:03 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁Chelsea FC Women vs Aston Villa Women📁29-03-2026 17:58:14 WIB📁00:00:00📁
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁West Ham United Women vs London City Lionesses Women📁29-03-2026 17:48:03 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English FA Women's Super League📁00:00:00📁",📁West Ham United Women vs London City Lionesses Women📁29-03-2026 17:58:14 WIB📁00:00:00📁
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Portuguese U23 League📁00:00:00📁",📁Estrela FC U23 vs Rio Ave U23📁29-03-2026 17:58:14 WIB📁00:00:00📁
+https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Portuguese U23 League📁00:00:00📁",📁Estrela FC U23 vs Rio Ave U23📁29-03-2026 17:58:14 WIB📁00:00:00📁
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁AFC Women’s Champions League📁00:00:00📁",📁Wuhan Jianghan Women vs Suwon FC Women📁29-03-2026 17:58:14 WIB📁00:00:00📁
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁AFC Women’s Champions League📁00:00:00📁",📁Wuhan Jianghan Women vs Suwon FC Women📁29-03-2026 17:58:14 WIB📁00:00:00📁
+https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
