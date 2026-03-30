@@ -1,24 +1,8 @@
 #EXTM3U
-# Updated: 2026-03-30 18:39:43 WIB
+# Updated: 2026-03-30 18:49:47 WIB
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="⚽DONASI https://trakteer.id/mybhianesse0 2026-03-30 18:39:43 WIB⚽",⚽DUKUNG SERVER KAMI 2026-03-30 18:39:43 WIB⚽
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="⚽DONASI https://trakteer.id/mybhianesse0 2026-03-30 18:49:47 WIB⚽",⚽DUKUNG SERVER KAMI 2026-03-30 18:49:47 WIB⚽
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1f79527d0a3a37d436b3ce7af2fe3e81.png" group-title="⚽🔴 LIVE⚽",⚽Ethiopian Higher League⚽Nekemte Ketema 🆚 Harare City (ETH)⚽[17:30 WIB 30/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MwdakBVD5AbMcnSgp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1f79527d0a3a37d436b3ce7af2fe3e81.png" group-title="⚽🔴 LIVE⚽",⚽Ethiopian Higher League⚽Nekemte Ketema 🆚 Harare City (ETH)⚽[17:30 WIB 30/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Rha0JWRDVBYk1jblNncC5mbHY=&expire=1774874381&salt=8581d22e1bb70fff&sig=c10d6055c1d8ec15fc9c90606513afc527895bfd14eb6af1690f75501b5885ca
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/829523f3f1b3fd6b478c2cbf3e0428ae.png" group-title="⚽🔴 LIVE⚽",⚽FIFA Series⚽Trinidad Tobago 🆚 Gabon⚽[17:00 WIB 30/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -26,7 +10,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6Mwd5eHE1oiitRUzq6/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Q1ZUhFMW9paXRSVXpxNi5mbHY=&expire=1774874986&salt=de29e1ed3718d3dd&sig=1e67d4706cc50aef9e94fab502e45036d33a3f7ae145d02786fdc36bbe60b90b
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/829523f3f1b3fd6b478c2cbf3e0428ae.png" group-title="⚽🔴 LIVE⚽",⚽FIFA Series⚽Trinidad Tobago 🆚 Gabon⚽[17:00 WIB 30/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -34,7 +18,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-6Mwd5eHE1oiitRUzq6/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Q1ZUhFMW9paXRSVXpxNi5mbHY=&expire=1774874381&salt=20c9ed77f4c4a238&sig=e291878756d46776ae2f5c7530b782796c07e100341c127cf8191b8a8c849e1b
+https://a9j41125.edgemaxcdn.org/live/sd-6Mwd5eHE1oiitRUzq6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/47a5ac024e726fabd2fb01905b84a282.png" group-title="⚽🔴 LIVE⚽",⚽IND DSD⚽Shastri FC 🆚 Vatika FC⚽[17:30 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-6MwdaoXdBfM2qEYay6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/47a5ac024e726fabd2fb01905b84a282.png" group-title="⚽🔴 LIVE⚽",⚽IND DSD⚽Shastri FC 🆚 Vatika FC⚽[17:30 WIB 30/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Rhb1hkQmZNMnFFWWF5Ni5mbHY=&expire=1774874986&salt=80397adf0d049d29&sig=16d31a84fa3ab43b7a729afc71abbe3b8f6e0fb15e9f284dc71c80ab3872091c
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/90ec31dd72d9e3f5ec36881b73949c08.png" group-title="⚽🔴 LIVE⚽",⚽Ukrainian Second League⚽Chayka Petropavlovsk Borshchagovka 🆚 Chernomorets Odessa II⚽[18:00 WIB 30/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -42,7 +42,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2NxcGpFQUhMZDFIckNqQS5mbHY=&expire=1774874381&salt=c1acd2471370b779&sig=2f7b09bc40f741c99f841b856518381392b987e4cb3e24bd997f9f1400145035
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2NxcGpFQUhMZDFIckNqQS5mbHY=&expire=1774874986&salt=6ae7d4077c81700d&sig=8b126709bbbae449fc6a59fb38d3e6c27a8c764b775b6f6adbe9b0e108e908a1
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/90ec31dd72d9e3f5ec36881b73949c08.png" group-title="⚽🔴 LIVE⚽",⚽Ukrainian Second League⚽Chayka Petropavlovsk Borshchagovka 🆚 Chernomorets Odessa II⚽[18:00 WIB 30/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -52,69 +52,53 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-6MwcqpjEAHLd1HrCjA/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/47a5ac024e726fabd2fb01905b84a282.png" group-title="⚽🔴 LIVE⚽",⚽IND DSD⚽Shastri FC 🆚 Vatika FC⚽[17:30 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1f79527d0a3a37d436b3ce7af2fe3e81.png" group-title="⚽🔴 LIVE⚽",⚽Ethiopian Higher League⚽Nekemte Ketema 🆚 Harare City (ETH)⚽[17:30 WIB 30/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Rhb1hkQmZNMnFFWWF5Ni5mbHY=&expire=1774874381&salt=a65d1d10d14bbd67&sig=ce9d331248fc9681c70d66aaf080e707030337c542153d97a02fc2f15c9d0df7
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Rha0JWRDVBYk1jblNncC5mbHY=&expire=1774874986&salt=b7abdbb730fc6422&sig=8a13f983390d18729bbdaae5a98ea54942deb4c93fac55c8bda7082b03499b89
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/47a5ac024e726fabd2fb01905b84a282.png" group-title="⚽🔴 LIVE⚽",⚽IND DSD⚽Shastri FC 🆚 Vatika FC⚽[17:30 WIB 30/03/2026] [SVR-BHNS2]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1f79527d0a3a37d436b3ce7af2fe3e81.png" group-title="⚽🔴 LIVE⚽",⚽Ethiopian Higher League⚽Nekemte Ketema 🆚 Harare City (ETH)⚽[17:30 WIB 30/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MwdaoXdBfM2qEYay6/playlist.m3u8
+https://a9j41125.edgemaxcdn.org/live/sd-6MwdakBVD5AbMcnSgp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a3e14106dcb15870b3819617e636ed7d.png" group-title="⚽🔴 LIVE⚽",⚽FIFA Series⚽St. Kitts and Nevis 🆚 Solomon Islands⚽[16:50 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/24dddb1fa2a1cd4459e0a59a717a01bb.png" group-title="⚽🔴 LIVE 2⚽",⚽Ethiopian Higher League⚽Yeka Sub City FC 🆚 Akaki Kality⚽[20:00 WIB 30/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2RhUWZqTTdxdUYyTWo3RS5mbHY=&expire=1774874381&salt=6ed3f5beb3bcca2f&sig=6e3717b78053c14a9c0b997e50cd1a0a5d3e68a8df5e87b32ba06439c42a52eb
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Rha0NEaDdkQWVlUjRMUS5mbHY=&expire=1774874986&salt=5a53d58fe30fa4e9&sig=5d212484f6af0d14075591dcd490037123c2c284a55e8d4613fe210b18653143
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a3e14106dcb15870b3819617e636ed7d.png" group-title="⚽🔴 LIVE⚽",⚽FIFA Series⚽St. Kitts and Nevis 🆚 Solomon Islands⚽[16:50 WIB 30/03/2026] [SVR-BHNS2]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/24dddb1fa2a1cd4459e0a59a717a01bb.png" group-title="⚽🔴 LIVE 2⚽",⚽Ethiopian Higher League⚽Yeka Sub City FC 🆚 Akaki Kality⚽[20:00 WIB 30/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MwdaQfjM7quF2Mj7E/playlist.m3u8
+https://a9j41125.edgemaxcdn.org/live/sd-6MwdakCDh7dAeeR4LQ/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/73eb1225ba1694d8e440bb48aadb525e.png" group-title="⚽🔴 LIVE⚽",⚽CMG Mass Football Invitational Tournament⚽Hohhot Team 🆚 Yushu Tibetan⚽[18:35 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6ab1782364049d6313678f74a706d246.png" group-title="⚽🔴 LIVE 2⚽",⚽Israel Leumit League⚽Hapoel Rishon Lezion 🆚 Kafr Qasem⚽[20:30 WIB 30/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Rha0JWRDlaWjZhU0d6Yy5mbHY=&expire=1774874381&salt=9ce0842f6ddf8f9e&sig=6567af41bd0d6da3bf9ee767f5993a0ae4c52b07958ca087fed4a799bb39dbb9
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNdlhNU1ljczc3Q1N3WFlzYS5mbHY=&expire=1774874986&salt=f88a30d526422cda&sig=0455027d5d68bcc76d0d4fc2e4a1f90c897ebc8179d417ae2b89fde70fe713d5
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/73eb1225ba1694d8e440bb48aadb525e.png" group-title="⚽🔴 LIVE⚽",⚽CMG Mass Football Invitational Tournament⚽Hohhot Team 🆚 Yushu Tibetan⚽[18:35 WIB 30/03/2026] [SVR-BHNS2]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6ab1782364049d6313678f74a706d246.png" group-title="⚽🔴 LIVE 2⚽",⚽Israel Leumit League⚽Hapoel Rishon Lezion 🆚 Kafr Qasem⚽[20:30 WIB 30/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MwdakBVD9ZZ6aSGzc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3c057cb2b41f22c0e740974d7a428918.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Indonesia 🆚 Bulgaria⚽[20:00 WIB 30/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2RhUWZqTWNSOVpHNmU2dC5mbHY=&expire=1774874381&salt=e62b1394aac51a26&sig=692a204ae78cb4ae81d56e6af9bd37a99f4a821b8cbba08b6d3356fad9803ea8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3c057cb2b41f22c0e740974d7a428918.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Indonesia 🆚 Bulgaria⚽[20:00 WIB 30/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MwdaQfjMcR9ZG6e6t/playlist.m3u8
+https://a9j41125.edgemaxcdn.org/live/sd-6MvXMSYcs77CSwXYsa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2757e9eb2032aed6d9bdc28bc245d6c6.png" group-title="⚽🔴 LIVE 2⚽",⚽Israel Leumit League⚽Kiryat Yam SC 🆚 Hapoel Acre FC⚽[20:30 WIB 30/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -130,39 +114,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-6MvXMSYdNUWbxknnkQ/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNdlhNU1lkTlVXYnhrbm5rUS5mbHY=&expire=1774874381&salt=76f411e8ab116064&sig=18abf0fdcdcf17e66aa2fc5902847a0bb46c97302c6e2e35e4ffcd3c163cb30b
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Albania U21 🆚 Uzbekistan U23⚽[20:30 WIB 30/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2RhWEF6MmlWR3ZIdmZiRS5mbHY=&expire=1774874381&salt=69d6f80216a5b7dc&sig=0c23d6376ed8eb5cd4f819af16d98e6da1140e8b2934c6cb6fbbce9be0a44636
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Albania U21 🆚 Uzbekistan U23⚽[20:30 WIB 30/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MwdaXAz2iVGvHvfbE/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/24dddb1fa2a1cd4459e0a59a717a01bb.png" group-title="⚽🔴 LIVE 2⚽",⚽Ethiopian Higher League⚽Yeka Sub City FC 🆚 Akaki Kality⚽[20:00 WIB 30/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Rha0NEaDdkQWVlUjRMUS5mbHY=&expire=1774874381&salt=8beb5863fbfaaa34&sig=41241cb31c8f5e244c8d856588f92cd4bb928d9a5dee38795e27371f214e8009
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/24dddb1fa2a1cd4459e0a59a717a01bb.png" group-title="⚽🔴 LIVE 2⚽",⚽Ethiopian Higher League⚽Yeka Sub City FC 🆚 Akaki Kality⚽[20:00 WIB 30/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MwdakCDh7dAeeR4LQ/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNdlhNU1lkTlVXYnhrbm5rUS5mbHY=&expire=1774874986&salt=3d862795129eb41a&sig=d96aa9873cfe35e2d846873956186d060d9ba4672583ee7bc577ca8509a54362
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2d9ce1d56996c5fcae328c4ad5f192a7.png" group-title="⚽🔴 LIVE 2⚽",⚽Israel Leumit League⚽Maccabi Herzliya 🆚 Hapoel Hadera⚽[20:30 WIB 30/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -170,7 +122,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-6MwdakCDh7dAeeR4LQ/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MvXMSYdNb73aCGYD6/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNdlhNU1lkTmI3M2FDR1lENi5mbHY=&expire=1774874986&salt=a02b0b202427eaf3&sig=006cbc321d914bd22fbcc79b741849c8fa9dc04414ea2393fc672138d4cde03e
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2d9ce1d56996c5fcae328c4ad5f192a7.png" group-title="⚽🔴 LIVE 2⚽",⚽Israel Leumit League⚽Maccabi Herzliya 🆚 Hapoel Hadera⚽[20:30 WIB 30/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -178,23 +130,71 @@ https://a9j41125.edgemaxcdn.org/live/sd-6MvXMSYdNb73aCGYD6/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNdlhNU1lkTmI3M2FDR1lENi5mbHY=&expire=1774874381&salt=21f174c97f3f4705&sig=7b1af52469bd13b2dc6ca631688abc0abb00dc95af1eb5075a89ed1d27ed4c69
+https://a9j41125.edgemaxcdn.org/live/sd-6MvXMSYdNb73aCGYD6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6ab1782364049d6313678f74a706d246.png" group-title="⚽🔴 LIVE 2⚽",⚽Israel Leumit League⚽Hapoel Rishon Lezion 🆚 Kafr Qasem⚽[20:30 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3c057cb2b41f22c0e740974d7a428918.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Indonesia 🆚 Bulgaria⚽[20:00 WIB 30/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MvXMSYcs77CSwXYsa/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2RhUWZqTWNSOVpHNmU2dC5mbHY=&expire=1774874986&salt=4051821d07d3c53e&sig=af61ebfbf3f56b2dcb64611c1098f848942c472704ac8291d2c04937b8b64111
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6ab1782364049d6313678f74a706d246.png" group-title="⚽🔴 LIVE 2⚽",⚽Israel Leumit League⚽Hapoel Rishon Lezion 🆚 Kafr Qasem⚽[20:30 WIB 30/03/2026] [SVR-BHNS2]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3c057cb2b41f22c0e740974d7a428918.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Indonesia 🆚 Bulgaria⚽[20:00 WIB 30/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNdlhNU1ljczc3Q1N3WFlzYS5mbHY=&expire=1774874381&salt=f9dc661244ba4cc4&sig=2494ff03e36022b9f6e997e1c47d880291c618d2e935ede52f3030506066a3fc
+https://a9j41125.edgemaxcdn.org/live/sd-6MwdaQfjMcR9ZG6e6t/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/e95c7637c80c7da5845b4a6f93e79f77.png" group-title="⚽🔴 LIVE 2⚽",⚽Israel Leumit League⚽Ironi Modiin 🆚 Hapoel Kfar Saba⚽[20:30 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-6MvXMSYdNWi5qEchuJ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/e95c7637c80c7da5845b4a6f93e79f77.png" group-title="⚽🔴 LIVE 2⚽",⚽Israel Leumit League⚽Ironi Modiin 🆚 Hapoel Kfar Saba⚽[20:30 WIB 30/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNdlhNU1lkTldpNXFFY2h1Si5mbHY=&expire=1774874986&salt=ef074581b78d07b2&sig=3755c9810cef64f9aca947a718285177bd8c761906b268124022c8ab394ba8b5
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Albania U21 🆚 Uzbekistan U23⚽[20:30 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-6MwdaXAz2iVGvHvfbE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Albania U21 🆚 Uzbekistan U23⚽[20:30 WIB 30/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2RhWEF6MmlWR3ZIdmZiRS5mbHY=&expire=1774874986&salt=91ba8ccad3a7c802&sig=7ec497f83f3b5a7c7556045a06f16fd4be9c8878a0a8f71b01a2507982b3efe6
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Grenada 🆚 Kenya⚽[21:00 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-6MwdaoSUxBDJ5JnkLG/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Grenada 🆚 Kenya⚽[21:00 WIB 30/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Rhb1NVeEJESjVKbmtMRy5mbHY=&expire=1774874986&salt=d9b48b2276637842&sig=9ae0590273221b7121196644a77146b88848e3b29bcf0945539940c3cec6c7cd
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Uzbekistan 🆚 Venezuela⚽[21:00 WIB 30/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -210,71 +210,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-6Mwd5eHE1mXF1wf5gC/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Q1ZUhFMW1YRjF3ZjVnQy5mbHY=&expire=1774874381&salt=abbe5e0040c3a332&sig=34ac52706c04dc803aaea49193903c03e97f00e982f4fe854416970a77e96fdb
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/e95c7637c80c7da5845b4a6f93e79f77.png" group-title="⚽🔴 LIVE 2⚽",⚽Israel Leumit League⚽Ironi Modiin 🆚 Hapoel Kfar Saba⚽[20:30 WIB 30/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNdlhNU1lkTldpNXFFY2h1Si5mbHY=&expire=1774874381&salt=a2c53cd521c23e24&sig=72cbdb9a675b986e5f440eac18d829b4606d3301473b0c5d2f605aeb4cdca838
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/e95c7637c80c7da5845b4a6f93e79f77.png" group-title="⚽🔴 LIVE 2⚽",⚽Israel Leumit League⚽Ironi Modiin 🆚 Hapoel Kfar Saba⚽[20:30 WIB 30/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MvXMSYdNWi5qEchuJ/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9248a959405836566e6ba694aaa884a6.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Azerbaijan 🆚 Sierra Leone⚽[22:00 WIB 30/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9248a959405836566e6ba694aaa884a6.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Azerbaijan 🆚 Sierra Leone⚽[22:00 WIB 30/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874381&salt=67fd1b009ff1c2f4&sig=4f52d6a4f1d297b8cacdf83e297a20dce5c1abd3e42ad50f9a7d242a7b4be8a2
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Grenada 🆚 Kenya⚽[21:00 WIB 30/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Rhb1NVeEJESjVKbmtMRy5mbHY=&expire=1774874381&salt=39fddc82e925aa54&sig=8c38d1bc8e01113345974633c48b91232f715ae0eb79a5da8fb6115f2ec7bdea
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Grenada 🆚 Kenya⚽[21:00 WIB 30/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MwdaoSUxBDJ5JnkLG/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7421513831e839a215c3bea5f9333d0a.png" group-title="⚽🔴 LIVE 2⚽",⚽Elite League U20⚽Czechia Republic U20 🆚 Portugal U20⚽[22:00 WIB 30/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-6MuT7eagSvh5n7nt3S/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7421513831e839a215c3bea5f9333d0a.png" group-title="⚽🔴 LIVE 2⚽",⚽Elite League U20⚽Czechia Republic U20 🆚 Portugal U20⚽[22:00 WIB 30/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNdVQ3ZWFnU3ZoNW43bnQzUy5mbHY=&expire=1774874381&salt=61eb762b82c9ac72&sig=52576f2e196a925493988dc29ce693cc688765573141e5d01e899a0f86bd5f29
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Q1ZUhFMW1YRjF3ZjVnQy5mbHY=&expire=1774874986&salt=a870219e6e3321a5&sig=0a2e8c106fdc676ec030fde119f6e64ad7c46c701e7a0a48f4e7805169b7e238
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/35e665fa4086e183fda582249d625c2b.png" group-title="⚽🔴 LIVE 2⚽",⚽Egypt League Cup⚽Al Masry 🆚 El Gounah⚽[22:00 WIB 30/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -290,9 +226,17 @@ https://a9j41125.edgemaxcdn.org/live/sd-6MwcqsyVmRqRiE5c2C/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Nxc3lWbVJxUmlFNWMyQy5mbHY=&expire=1774874381&salt=929edece34608788&sig=ed22b1d71405d1b135a649ef434cd9e57654ac8958a33770e0caaf5747595f37
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNd2Nxc3lWbVJxUmlFNWMyQy5mbHY=&expire=1774874986&salt=2eccc3e0c4e459b5&sig=fe66b90431ed5ec9f0e0d6204777e351dfd721bcec7bd95db8b8474346d1a8ba
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/987b18be72d918583f9dd5b1a17f130e.png" group-title="⚽🔴 LIVE 2⚽",⚽Russian First LeagueLeague⚽Torpedo Moscow 🆚 SKA Khabarovsk⚽[23:30 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9248a959405836566e6ba694aaa884a6.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Azerbaijan 🆚 Sierra Leone⚽[22:00 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=28768be13a35e15e&sig=3f890d270d905f5aec6762b0ee70e127c5d2f84e215fe6a95759389bf1e7c069
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9248a959405836566e6ba694aaa884a6.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Azerbaijan 🆚 Sierra Leone⚽[22:00 WIB 30/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
@@ -300,29 +244,21 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/987b18be72d918583f9dd5b1a17f130e.png" group-title="⚽🔴 LIVE 2⚽",⚽Russian First LeagueLeague⚽Torpedo Moscow 🆚 SKA Khabarovsk⚽[23:30 WIB 30/03/2026] [SVR-BHNS2]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7421513831e839a215c3bea5f9333d0a.png" group-title="⚽🔴 LIVE 2⚽",⚽Elite League U20⚽Czechia Republic U20 🆚 Portugal U20⚽[22:00 WIB 30/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874381&salt=b6bd6259b3bbec9c&sig=af9b5ce6e5fc09d34068820e6f450d487e63b8dddcd9ac0f86a6e54f556e6d50
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLTZNdVQ3ZWFnU3ZoNW43bnQzUy5mbHY=&expire=1774874986&salt=646a853c9564b2c9&sig=c8bbaa2a0e7ae624a9b6d8db5dfe5b97d98ead00138397ce5219741839990271
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7824287c7de940d7766b6d1da5e3c010.png" group-title="⚽🔴 LIVE 2⚽",⚽Montaigu Tournament(w)⚽England Women U16 🆚 China U16 Women⚽[23:30 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7421513831e839a215c3bea5f9333d0a.png" group-title="⚽🔴 LIVE 2⚽",⚽Elite League U20⚽Czechia Republic U20 🆚 Portugal U20⚽[22:00 WIB 30/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7824287c7de940d7766b6d1da5e3c010.png" group-title="⚽🔴 LIVE 2⚽",⚽Montaigu Tournament(w)⚽England Women U16 🆚 China U16 Women⚽[23:30 WIB 30/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874381&salt=4ac66953451b2f88&sig=b042aac99d99dd9a843ef24e7dd22f601ed6a7ba500ff0a40e6f903458f4644f
+https://a9j41125.edgemaxcdn.org/live/sd-6MuT7eagSvh5n7nt3S/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/350035841e1182bf4389c52752d8bd0d.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Rwanda 🆚 Estonia⚽[00:30 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -330,7 +266,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=1d5b71f5a2de778e&sig=50852dd223fb47960d1d0e8b96a974a82270994aa878186aba890b27bb39ddab
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/350035841e1182bf4389c52752d8bd0d.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Rwanda 🆚 Estonia⚽[00:30 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -338,39 +274,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=28c9efc7269b91b2&sig=a981ce24ee2b2180866bc523535831d2747a2b9b109c1d09f08733be3aff3767
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/488cf4038705fadaf6c7db920782aa89.png" group-title="⚽🔴 LIVE 2⚽",⚽Italian Serie C⚽US Casertana 1908 🆚 AS Sorrento Calcio⚽[01:30 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7824287c7de940d7766b6d1da5e3c010.png" group-title="⚽🔴 LIVE 2⚽",⚽Montaigu Tournament(w)⚽England Women U16 🆚 China U16 Women⚽[23:30 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=7f8ec7b9b453eccd&sig=4ac361eb980440cf1c93047966070e3637b947a6731557f50ff95bc1dd6fbc6a
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7824287c7de940d7766b6d1da5e3c010.png" group-title="⚽🔴 LIVE 2⚽",⚽Montaigu Tournament(w)⚽England Women U16 🆚 China U16 Women⚽[23:30 WIB 30/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/488cf4038705fadaf6c7db920782aa89.png" group-title="⚽🔴 LIVE 2⚽",⚽Italian Serie C⚽US Casertana 1908 🆚 AS Sorrento Calcio⚽[01:30 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=3ccc321ae7b7df07&sig=3be5c775d29709ecfa8577ca77284bd9e1762e89103e9267dfec2a87126e9108
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/99eb094c4965c9489832f2969e758024.png" group-title="⚽🔴 LIVE 2⚽",⚽Italian Serie C⚽Arezzo 🆚 Ascoli⚽[01:30 WIB 31/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/99eb094c4965c9489832f2969e758024.png" group-title="⚽🔴 LIVE 2⚽",⚽Italian Serie C⚽Arezzo 🆚 Ascoli⚽[01:30 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=26ab718b2fed1a35&sig=93addd5f18dc8a17620dc139adf2e8276479c9bf33a3c5356194f33ad78bcf1c
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/213564797bbfa3921e60bb314c92354b.png" group-title="⚽🔴 LIVE 2⚽",⚽Uruguay Primera Division⚽CA Juventud 🆚 Boston River⚽[01:00 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -378,7 +298,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=09e70ce119241191&sig=09aefb70bb5d2243538daf4d8f6e239d9d9ee1146195856c973ea3427f1c3301
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/213564797bbfa3921e60bb314c92354b.png" group-title="⚽🔴 LIVE 2⚽",⚽Uruguay Primera Division⚽CA Juventud 🆚 Boston River⚽[01:00 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -386,9 +306,17 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=9158ffd65b9b8c4e&sig=eae62a99b1773215f78840f4e0dad017119182b34552d8d44259511f8e2242b0
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/109f72e810b7fdf166636650f0ed244a.png" group-title="⚽🔴 LIVE 2⚽",⚽ARG Primera Nacional⚽Defensores de Belgrano 🆚 Atletico Rafaela⚽[02:00 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/987b18be72d918583f9dd5b1a17f130e.png" group-title="⚽🔴 LIVE 2⚽",⚽Russian First LeagueLeague⚽Torpedo Moscow 🆚 SKA Khabarovsk⚽[23:30 WIB 30/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=35cde713fd5b843d&sig=aefc529169584cdea68311f70911cafe39eea0d85604b64a85f8e4514c70db47
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/987b18be72d918583f9dd5b1a17f130e.png" group-title="⚽🔴 LIVE 2⚽",⚽Russian First LeagueLeague⚽Torpedo Moscow 🆚 SKA Khabarovsk⚽[23:30 WIB 30/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
@@ -396,13 +324,37 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/109f72e810b7fdf166636650f0ed244a.png" group-title="⚽🔴 LIVE 2⚽",⚽ARG Primera Nacional⚽Defensores de Belgrano 🆚 Atletico Rafaela⚽[02:00 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/99eb094c4965c9489832f2969e758024.png" group-title="⚽🔴 LIVE 2⚽",⚽Italian Serie C⚽Arezzo 🆚 Ascoli⚽[01:30 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=567e8ad7e6c21566&sig=ac7071fcc3f4902cb83c4bf3da82c1e266d03c65b3a5ef25e2ed80b8f165c6ff
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=259b45462ea43cc3&sig=8b56c13de01cca6eff31d29ac3fd0dcb8efe3afb8804f6bb29cba75e6f98d076
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/99eb094c4965c9489832f2969e758024.png" group-title="⚽🔴 LIVE 2⚽",⚽Italian Serie C⚽Arezzo 🆚 Ascoli⚽[01:30 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/488cf4038705fadaf6c7db920782aa89.png" group-title="⚽🔴 LIVE 2⚽",⚽Italian Serie C⚽US Casertana 1908 🆚 AS Sorrento Calcio⚽[01:30 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=9592c2f1589c95dd&sig=df4a877024443459269830c93cb28acb3c5cfc232621f4da818e692b1298c8e1
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/488cf4038705fadaf6c7db920782aa89.png" group-title="⚽🔴 LIVE 2⚽",⚽Italian Serie C⚽US Casertana 1908 🆚 AS Sorrento Calcio⚽[01:30 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/75800f73fa80f935216b8cfbedf77bfa.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Germany 🆚 Ghana⚽[01:45 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -410,7 +362,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=a30de8b746900ce1&sig=8bf55a30558138528e1c1592cfca5521d54e78eae11249ab701624427d6a87fa
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/75800f73fa80f935216b8cfbedf77bfa.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Germany 🆚 Ghana⚽[01:45 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -418,7 +370,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=51c334d2013c1bcc&sig=28a21e64c02118f91f4d299b468743f0f2a22c2bdaeeb6bbf573048a5041651f
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/109f72e810b7fdf166636650f0ed244a.png" group-title="⚽🔴 LIVE 2⚽",⚽ARG Primera Nacional⚽Defensores de Belgrano 🆚 Atletico Rafaela⚽[02:00 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=a93a338cc5ccbcf8&sig=5835bd3f9ec2f8b0788aaf5838790e2c5fd1ea0014c552676609a6f76a03ebf8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/109f72e810b7fdf166636650f0ed244a.png" group-title="⚽🔴 LIVE 2⚽",⚽ARG Primera Nacional⚽Defensores de Belgrano 🆚 Atletico Rafaela⚽[02:00 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/160c9f3f589e2fb4578e984d2e692d18.png" group-title="⚽🔴 LIVE 2⚽",⚽Uruguay Primera Division⚽Cerro Largo 🆚 Danubio FC⚽[03:55 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -426,7 +394,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=b2af2128cf8bf160&sig=6adc3bd23be7e869e6bb78cec09039b98c4abd48df89ee1ec69471aaeb1c7049
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/160c9f3f589e2fb4578e984d2e692d18.png" group-title="⚽🔴 LIVE 2⚽",⚽Uruguay Primera Division⚽Cerro Largo 🆚 Danubio FC⚽[03:55 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -434,7 +402,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=0e1fcec76c6e5eed&sig=e99b6d83b75b357bb70db0e1396e68b4d6692321e3359911ed03359e09816701
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2bdca3e16a51a2de37b73978915d433a.png" group-title="⚽🔴 LIVE 2⚽",⚽Uruguay Primera Division⚽Defensor Sporting Montevideo 🆚 Albion FC⚽[05:00 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -442,7 +410,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=15823a1b18343fe2&sig=d54150d2699f00345f3150b45d7249f63fa8400429e464b73eb6c09aeb348385
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2bdca3e16a51a2de37b73978915d433a.png" group-title="⚽🔴 LIVE 2⚽",⚽Uruguay Primera Division⚽Defensor Sporting Montevideo 🆚 Albion FC⚽[05:00 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -450,7 +418,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=167d451b881882dd&sig=88ab48079f5254baa81a6ee0e9d9639bb13ed2c0bc27fccf65c91146e6ee23fd
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png" group-title="⚽🔴 LIVE 2⚽",⚽Categoría Primera A⚽Dep.Independiente Medellin 🆚 America de Cali⚽[06:10 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -458,7 +426,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=0212d7becc09611a&sig=676920b6a9212b8c0abc0c9d4de46d5e40163487ec2ecdcce3c4f6fc841e5f89
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png" group-title="⚽🔴 LIVE 2⚽",⚽Categoría Primera A⚽Dep.Independiente Medellin 🆚 America de Cali⚽[06:10 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -466,7 +434,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=6e9ef9f91207629f&sig=09198a35ce7d463d848d84b374765a00a28e5b5833981651314d84d15fa2281d
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/39c13ebcebf4312e09fc8d87575727ea.png" group-title="⚽🔴 LIVE 2⚽",⚽Paraguayan Primera Division⚽Club Libertad Asunción 🆚 Deportivo Recoleta⚽[06:30 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -474,7 +442,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=fd85f5ab6f0fedf5&sig=96b44d9b4fadfb08b966c6488c2dcfb71dce4400c3fd891844091b9814fb3e93
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/39c13ebcebf4312e09fc8d87575727ea.png" group-title="⚽🔴 LIVE 2⚽",⚽Paraguayan Primera Division⚽Club Libertad Asunción 🆚 Deportivo Recoleta⚽[06:30 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -482,23 +450,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=c65d8ab1f8365477&sig=6589c8d603a80ba232e0da03892751a93ac86376db167e7c2de85bbdb782e220
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/932f3790a25e5c4f40ae328ad9060055.png" group-title="⚽🔴 LIVE 2⚽",⚽Uruguay Primera Division⚽Central Espanol 🆚 Deportivo Maldonado⚽[06:55 WIB 31/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/932f3790a25e5c4f40ae328ad9060055.png" group-title="⚽🔴 LIVE 2⚽",⚽Uruguay Primera Division⚽Central Espanol 🆚 Deportivo Maldonado⚽[06:55 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=6f18efdec728ff40&sig=2d7710bfe1bc465a2435f03304b4e9c8accc78918a2c6ba5b92983da657ca520
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/5a721f997fe18b1c151116a96b1b4ea8.png" group-title="⚽🔴 LIVE 2⚽",⚽Categoría Primera A⚽Millonarios 🆚 Fortaleza F.C⚽[08:20 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -506,7 +458,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=33b421d41b43d161&sig=3ca5bcf9bfbfcb077bae59740ed62fdc08b42da7b9eea3fc64e5d943eea5cd50
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/5a721f997fe18b1c151116a96b1b4ea8.png" group-title="⚽🔴 LIVE 2⚽",⚽Categoría Primera A⚽Millonarios 🆚 Fortaleza F.C⚽[08:20 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -514,7 +466,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=ed3a9a3bf147692a&sig=919c7c198e9a3d52b6a33279d39a60c3a7c4eff9a078f678002ef7cefa2027e1
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/932f3790a25e5c4f40ae328ad9060055.png" group-title="⚽🔴 LIVE 2⚽",⚽Uruguay Primera Division⚽Central Espanol 🆚 Deportivo Maldonado⚽[06:55 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=ca463b5de9c016ce&sig=b802160e6538d4db2a222fe3aae07b0dc7a8ec6eab293e65346a5ca7b452af3c
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/932f3790a25e5c4f40ae328ad9060055.png" group-title="⚽🔴 LIVE 2⚽",⚽Uruguay Primera Division⚽Central Espanol 🆚 Deportivo Maldonado⚽[06:55 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Cameroon 🆚 China⚽[13:00 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -522,7 +490,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=ed1a867c58abddef&sig=7e5cdbe704c059785b8b8c0d5bb9d2e9b44cb281ea0455e8d7723423348a3180
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/445ef89e5620a875f7c2eaddd033e39d.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Cameroon 🆚 China⚽[13:00 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -530,7 +498,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=418f375a605e14af&sig=ba5750516c926d9a22e011c164f7a1abfcfa7b0dbea822adeab7747ad44c1521
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Pakistan 🆚 Myanmar⚽[16:00 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -538,7 +506,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=760731afacce9771&sig=7cdd3f131a52ce7088f58e7c39329618003d93e003343f5c86f03f8e5a587182
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Pakistan 🆚 Myanmar⚽[16:00 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -546,7 +514,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=452b7164756bbac8&sig=411eccb464fe285a92eff42d3ad7bc245d9ba39f9129d1dc57bd07d96909e890
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/31fd3b7fb312954c8a781d31f83166b7.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Australia 🆚 Curacao⚽[16:10 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -554,7 +522,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=494f08624c10d3f9&sig=4c9f5764e07d9f32c94ceb196c7ffd1f95314790d31252a93f42e1a4a1e32f92
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/31fd3b7fb312954c8a781d31f83166b7.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA Series⚽Australia 🆚 Curacao⚽[16:10 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -562,39 +530,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=1449e4fe4d8dc89f&sig=2aab43081390fddf9b33497a189ad01d971bd9546f2023a1a919ea75bb61745e
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Maldives 🆚 Timor Leste⚽[17:30 WIB 31/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Maldives 🆚 Timor Leste⚽[17:30 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=c798bcef8e01a69f&sig=82001259cee340382323756109e392e0952c9385a2e757122bbb45c7b700ae27
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4643dd49216b67d9c617ceb260e45684.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Chinese Taipei 🆚 Sri Lanka⚽[17:30 WIB 31/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4643dd49216b67d9c617ceb260e45684.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Chinese Taipei 🆚 Sri Lanka⚽[17:30 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=faf41d814323e7bb&sig=983b4094b03a526f3660ed909e6ae25ecdaab9064eca7e6626ee3cc4d3d22744
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0851c8b7fadde83f3330e2b8164837a8.png" group-title="⚽🔴 LIVE 2⚽",⚽Indian League Division 1⚽Gokulam Kerala FC 🆚 Aizawl FC⚽[17:30 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -602,7 +538,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=bcb3b30fb6a7cdec&sig=ffdbd36ff7cd7ae3c60b3175f889e374e0567b6ad4f3e8534655479189632fe2
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0851c8b7fadde83f3330e2b8164837a8.png" group-title="⚽🔴 LIVE 2⚽",⚽Indian League Division 1⚽Gokulam Kerala FC 🆚 Aizawl FC⚽[17:30 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -610,9 +546,17 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=3011f811cc28f152&sig=8bd29f9622f3cf08f091d6924b1302a45c5f9af84dd844c1e92898fc8025f526
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2d8fe42de2f833581faa077f788329fa.png" group-title="⚽🔴 LIVE 2⚽",⚽CFA Team China International Tournament⚽China U19 🆚 Australia U19⚽[18:35 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4643dd49216b67d9c617ceb260e45684.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Chinese Taipei 🆚 Sri Lanka⚽[17:30 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=4d2c0a2582d6efe7&sig=9e15f2271d6c1db856e642b40b4e91039614aa6c22f3316973f7c76979f3c60a
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4643dd49216b67d9c617ceb260e45684.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Chinese Taipei 🆚 Sri Lanka⚽[17:30 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
@@ -620,13 +564,21 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2d8fe42de2f833581faa077f788329fa.png" group-title="⚽🔴 LIVE 2⚽",⚽CFA Team China International Tournament⚽China U19 🆚 Australia U19⚽[18:35 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Maldives 🆚 Timor Leste⚽[17:30 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=6b8555a0abd53e68&sig=2059e3b02efbfb8a46eb66573a1b7b5621e179df803ce0f4e9c5fa1b9b9a2190
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=ac230be23e4e1baa&sig=ab400c2593aa949a28e803ca7ad97d8b49cd17463ba6440db93fdc44adece901
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Maldives 🆚 Timor Leste⚽[17:30 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" group-title="⚽🔴 LIVE 2⚽",⚽CFA Team China International Tournament⚽China U23 🆚 Vietnam U23⚽[18:35 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -634,7 +586,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=1e20af33b2295282&sig=a04356654e2b466dd9148c4b4ef1a8149a4c31a37a9d1e1079465efb2311bea3
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png" group-title="⚽🔴 LIVE 2⚽",⚽CFA Team China International Tournament⚽China U23 🆚 Vietnam U23⚽[18:35 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -642,39 +594,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=df98a6060806b9f8&sig=fe2d24568233a9f8fb2aed57c4811cff44e248b2f66e363151338df08b12569e
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Vietnam 🆚 Malaysia⚽[19:00 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2d8fe42de2f833581faa077f788329fa.png" group-title="⚽🔴 LIVE 2⚽",⚽CFA Team China International Tournament⚽China U19 🆚 Australia U19⚽[18:35 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=627975f04c9efb21&sig=41b4d8ff1c656e1c3d55383414b98fbdaa91656f580502e0725d0d471d50caf0
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/2d8fe42de2f833581faa077f788329fa.png" group-title="⚽🔴 LIVE 2⚽",⚽CFA Team China International Tournament⚽China U19 🆚 Australia U19⚽[18:35 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Vietnam 🆚 Malaysia⚽[19:00 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=b00117062b6bd8e3&sig=3d285b836117aa610680178b3ebb94dcd5eedaf44904b958c6a711a387497028
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Nepal 🆚 Laos⚽[19:00 WIB 31/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Nepal 🆚 Laos⚽[19:00 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=0c69d46a82897bc4&sig=6bc1eb484798634de4419cd69ae48c84af10320b2212ea0400509d69085fd587
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Singapore 🆚 Bangladesh⚽[19:00 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -682,7 +618,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=c7b35682432ed922&sig=7504c70688551751c83f7c22496f898aeee8405f1547f628fc35fae728bc52ec
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f00b6379b82a515a9478b6e58b783de9.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Singapore 🆚 Bangladesh⚽[19:00 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -690,7 +626,39 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=0641e9998677e47d&sig=46bfec818596d386561194f385682ca9ad24f699cb1b26270ffeea37b34e33ff
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Nepal 🆚 Laos⚽[19:00 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=2e5492cc47b28b3e&sig=97ec6b37ae3eea7a433c61ac89a0f6e92925f95948bd65bad417188d553885aa
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ac3f493742d14eee1e4e4ae00f2704f6.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Nepal 🆚 Laos⚽[19:00 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Vietnam 🆚 Malaysia⚽[19:00 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=fb8c38ff14b65160&sig=7404e0adbe2c45f02696bc20a6cb80ede966075793620e2e12adf6f4c34f7f81
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Vietnam 🆚 Malaysia⚽[19:00 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/366c97caa1e66d39a0c21edb8fdc9caf.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Thailand 🆚 Turkmenistan⚽[19:30 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -698,7 +666,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=e58719753cfb7148&sig=f8830894cfb7ffae2b643dd0884f3894c8b524476070e5da07d6637d74c1bfff
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/366c97caa1e66d39a0c21edb8fdc9caf.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Thailand 🆚 Turkmenistan⚽[19:30 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -706,7 +674,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=2d5c9032cec58ef5&sig=10314c95ebdcc879120a3a3f0383e13b0ea551ae3087a9401e84217cd6987069
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/10d4b366f410a1275f7b684f07a28456.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Bhutan 🆚 Brunei Darussalam⚽[19:30 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -714,7 +682,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=abc1571f285b38fb&sig=6269bd827c7889167b78b072e30b7d1d7cf59a89fc243a4ef908575062b9fd58
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/10d4b366f410a1275f7b684f07a28456.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Bhutan 🆚 Brunei Darussalam⚽[19:30 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -722,39 +690,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=1a535214237e6f9b&sig=edb3d2aaf2edaea50a1a3834b49b7655d6d07d25bd5c30a2b4b9b7701d0444ab
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34e723d39845c6316e8e24a9659a4e2f.png" group-title="⚽🔴 LIVE 2⚽",⚽CAF Africa Cup of Nations⚽Ethiopia 🆚 Sao Tome   Principe⚽[20:00 WIB 31/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34e723d39845c6316e8e24a9659a4e2f.png" group-title="⚽🔴 LIVE 2⚽",⚽CAF Africa Cup of Nations⚽Ethiopia 🆚 Sao Tome   Principe⚽[20:00 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=47f49172ee54c431&sig=96d361b0979c6490d79697d2732c5709f1483e060eac3259f7359ee568969d99
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/df321578b4f5f132345d2e6b39743126.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽India 🆚 Hong Kong⚽[20:30 WIB 31/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/df321578b4f5f132345d2e6b39743126.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽India 🆚 Hong Kong⚽[20:30 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=e5ded2b93875b47a&sig=66600ee3c14da094abfe027f2f5da49e9c8c03248fdf8a58e8d8da7d60b42e2e
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/fe05902972a0cee210923aa814be2f23.png" group-title="⚽🔴 LIVE 2⚽",⚽CAF Africa Cup of Nations⚽Burundi 🆚 Chad⚽[20:00 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -762,7 +698,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=a4867761cac3973f&sig=879280c245d3fea67fb734be5d5da0c009942bfc85262e568da76dd96c960cf7
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/fe05902972a0cee210923aa814be2f23.png" group-title="⚽🔴 LIVE 2⚽",⚽CAF Africa Cup of Nations⚽Burundi 🆚 Chad⚽[20:00 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -770,9 +706,17 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=8b92bc11170dc696&sig=85adde1e1b6d0febe5b97ceb69bb1270f829c6a476967ea45564c8ff11909b74
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Tajikistan 🆚 Philippines⚽[21:00 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34e723d39845c6316e8e24a9659a4e2f.png" group-title="⚽🔴 LIVE 2⚽",⚽CAF Africa Cup of Nations⚽Ethiopia 🆚 Sao Tome   Principe⚽[20:00 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=0d3fa1dc054d2d2b&sig=7c413fc61ba70b23b26e70fb5ebc24acad442d1bdb4a005e7946ab3972bde07d
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/34e723d39845c6316e8e24a9659a4e2f.png" group-title="⚽🔴 LIVE 2⚽",⚽CAF Africa Cup of Nations⚽Ethiopia 🆚 Sao Tome   Principe⚽[20:00 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
@@ -780,13 +724,21 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Tajikistan 🆚 Philippines⚽[21:00 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/df321578b4f5f132345d2e6b39743126.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽India 🆚 Hong Kong⚽[20:30 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=3b709c6e68d4e1fd&sig=039f524692bb343b61d0aaad565156e92d790efc4e0291bee729e46058ee3c3e
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=686e5540a53a8cf3&sig=0a6d7d33b209fc9be4dea64d2b492c04bb43382e2bbc213e39c5304102653a60
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/df321578b4f5f132345d2e6b39743126.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽India 🆚 Hong Kong⚽[20:30 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png" group-title="⚽🔴 LIVE 2⚽",⚽CAF Africa Cup of Nations⚽Eswatini 🆚 Eritrea⚽[21:00 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -794,7 +746,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=dd2e623c7ddd2f2d&sig=68b7267846f8b5dedaee4771e1e7b8b1d1cfaadf6f844ed1c9b935735dc442f3
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png" group-title="⚽🔴 LIVE 2⚽",⚽CAF Africa Cup of Nations⚽Eswatini 🆚 Eritrea⚽[21:00 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -802,7 +754,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=b537862d926e0fc4&sig=013163de7282139bce36cf2efe7d2818593658582762eff919dc682cf67477e5
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Tajikistan 🆚 Philippines⚽[21:00 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=15d0d967a83826f5&sig=22f416a67db1260298ca781244fbf9135376829debf626b806b43b02a76e5104
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0c620bcfc2a979fe9f22acbe0019f276.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Tajikistan 🆚 Philippines⚽[21:00 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9e711eed66626f029224625549071450.png" group-title="⚽🔴 LIVE 2⚽",⚽Türkmenistanyn Yokary Ligasy⚽Altyn Asyr FC 🆚 Ahal FK⚽[22:00 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -810,7 +778,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=26502b49efff0134&sig=47aac6b1caf6339f6fb007e199f09f3f291f2933d9a57557de429b48bf9d2a8e
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/9e711eed66626f029224625549071450.png" group-title="⚽🔴 LIVE 2⚽",⚽Türkmenistanyn Yokary Ligasy⚽Altyn Asyr FC 🆚 Ahal FK⚽[22:00 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -818,7 +786,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=165def5418e69738&sig=f369d3219253c1a6a2f4dc33febe6c3674a3c26bb2b22d7a118c366348dc9fae
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/27ab2e099af3df31bb3a67cece587ffe.png" group-title="⚽🔴 LIVE 2⚽",⚽CAF Africa Cup of Nations⚽Mauritius 🆚 Somalia⚽[22:00 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -826,7 +794,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874986&salt=ef2687182bdd7463&sig=ae727231a80c8d28ac038e51029d5c2eae6035cde719b769c1df58ab500a94b3
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/27ab2e099af3df31bb3a67cece587ffe.png" group-title="⚽🔴 LIVE 2⚽",⚽CAF Africa Cup of Nations⚽Mauritius 🆚 Somalia⚽[22:00 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -834,71 +802,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=798e34a9e5147786&sig=6c555863942e01ab5595aaedbc98a338169a8355227e2f47a8299eb3130696fa
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/275612d39c2aacdf7b64836df54b9229.png" group-title="⚽🔴 LIVE 2⚽",⚽UEFA Nations League⚽Latvia 🆚 Gibraltar⚽[23:00 WIB 31/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/275612d39c2aacdf7b64836df54b9229.png" group-title="⚽🔴 LIVE 2⚽",⚽UEFA Nations League⚽Latvia 🆚 Gibraltar⚽[23:00 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=11bc59e81aeafcd0&sig=0591d80060736ca3eaed2db74796ecdd1157f8590cf3c20b14f92d775f1e738c
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4402fbc939277321386d11fd427eb2b6.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Norway 🆚 Switzerland⚽[23:00 WIB 31/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4402fbc939277321386d11fd427eb2b6.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Norway 🆚 Switzerland⚽[23:00 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=b035cf9a9fa7e8ed&sig=fe9bc6364a421b7135d5e9e8370ba78b501f5108e451daa36e7859594c637949
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a94eea42ecd117d87eb79c61bdd656e.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Russia 🆚 Mali⚽[00:00 WIB 01/04/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a94eea42ecd117d87eb79c61bdd656e.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Russia 🆚 Mali⚽[00:00 WIB 01/04/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=d639439899703555&sig=0ab08496afe37e65d54a5d13039e044afc3d2b781258bbf80970e19948b9d57e
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a4cc3a85c7cda24dd3e028306403697d.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Syria 🆚 Afghanistan⚽[23:15 WIB 31/03/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a4cc3a85c7cda24dd3e028306403697d.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Syria 🆚 Afghanistan⚽[23:15 WIB 31/03/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=49561d1ee9fe0f86&sig=75750ddff45442110f29e84551a0e66abbffefedd1e444328fc1f191dc668fd2
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f7eb745a5f9b3016b083019da91b5f74.png" group-title="⚽🔴 LIVE 2⚽",⚽UEFA Nations League⚽Luxembourg 🆚 Malta⚽[23:00 WIB 31/03/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -906,7 +810,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=14a5e2fbe9b734f2&sig=e8302daf259e988642a7f126c02c3da313787242d31aa64d02d2ddf3b1b32c47
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f7eb745a5f9b3016b083019da91b5f74.png" group-title="⚽🔴 LIVE 2⚽",⚽UEFA Nations League⚽Luxembourg 🆚 Malta⚽[23:00 WIB 31/03/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -914,7 +818,55 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=e83cc482a5ad8a64&sig=d7576bc376985486fe838f455c3ab5a799a942ef9291c29dbac0cc1c82f4e95b
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4402fbc939277321386d11fd427eb2b6.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Norway 🆚 Switzerland⚽[23:00 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=f2bc92b34406f5af&sig=8f03fb14f06bf9bec2ea0b3a4b316488a1141208b70f34f738d2103a905abd32
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4402fbc939277321386d11fd427eb2b6.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Norway 🆚 Switzerland⚽[23:00 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/275612d39c2aacdf7b64836df54b9229.png" group-title="⚽🔴 LIVE 2⚽",⚽UEFA Nations League⚽Latvia 🆚 Gibraltar⚽[23:00 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=8b446acbe818ea1f&sig=74e08cf4ecb446d5d27e1fd4a2532568795fc13822ec9a5bce53a356cbf9f33b
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/275612d39c2aacdf7b64836df54b9229.png" group-title="⚽🔴 LIVE 2⚽",⚽UEFA Nations League⚽Latvia 🆚 Gibraltar⚽[23:00 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a4cc3a85c7cda24dd3e028306403697d.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Syria 🆚 Afghanistan⚽[23:15 WIB 31/03/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=4ce19c0fef195f56&sig=94528f9debc7209f0d5251f2289cb93871846daa28c5ec102f58ddfa50d6c3cd
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a4cc3a85c7cda24dd3e028306403697d.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC Asian Cup⚽Syria 🆚 Afghanistan⚽[23:15 WIB 31/03/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a2f731e9147f64082f22b9a561425308.png" group-title="⚽🔴 LIVE 2⚽",⚽Spanish Segunda Division⚽Mirandes 🆚 Albacete Balompié SAD⚽[00:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -922,7 +874,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=6c92886141156502&sig=62bef04de1948b76d71d5e972ffc6c8171d1d7f0c1cee720833e56e802f5336a
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a2f731e9147f64082f22b9a561425308.png" group-title="⚽🔴 LIVE 2⚽",⚽Spanish Segunda Division⚽Mirandes 🆚 Albacete Balompié SAD⚽[00:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -930,7 +882,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=64689fbf01df2b05&sig=73785965c39e3479e6fb2eb1b87bade0caa28fe1a8aae906c66eb170b160fbf4
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a94eea42ecd117d87eb79c61bdd656e.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Russia 🆚 Mali⚽[00:00 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=3ecd8cee3c8addbb&sig=7b35a8e42b441093199cb4ba8234682193cf7de5cef556a010952a8d402089cd
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0a94eea42ecd117d87eb79c61bdd656e.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Russia 🆚 Mali⚽[00:00 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/cd6fd11fd9ca07c46747cb03b87f4dbb.png" group-title="⚽🔴 LIVE 2⚽",⚽Spanish Segunda Division⚽Deportivo La Coruna 🆚 Cordoba⚽[01:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -938,7 +906,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=4f38575335441461&sig=528b5b31ae73a9443775191f76af17332290266cb683a9a5994155e77c6b3b29
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/cd6fd11fd9ca07c46747cb03b87f4dbb.png" group-title="⚽🔴 LIVE 2⚽",⚽Spanish Segunda Division⚽Deportivo La Coruna 🆚 Cordoba⚽[01:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -946,7 +914,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=5734e3ae2be8039e&sig=37deb945a06b7866b07068611c09a96bfe20e5c30c6d35a4d05dbf20c046458b
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4ceefb51ae9ec399a69540c895f4519f.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Scotland 🆚 Cote d'Ivoire⚽[01:30 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -954,7 +922,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=0f5007a6933ff4b3&sig=764f5e5c1b31f4105fb75cddd90ade856cc6cc4a4afe51d0f3e66910cc82d3b2
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4ceefb51ae9ec399a69540c895f4519f.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Scotland 🆚 Cote d'Ivoire⚽[01:30 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -962,71 +930,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874382&salt=52118ed6af8ac188&sig=f4c43ad0a81ed0b9554526029fd2a479bf220b4733bd90f71cab029c10963666
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Kosovo 🆚 Turkiye⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Kosovo 🆚 Turkiye⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=7a8de13057a23bdd&sig=a0ccae93f0cfbe2ba86f04a3d3d6bfb771696eab26127a2e06265196328d2dff
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/cb4f05e5448145bbba8c26a840ab900d.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽England 🆚 Japan⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/cb4f05e5448145bbba8c26a840ab900d.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽England 🆚 Japan⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=55febe9901797a9d&sig=8eda6f782f300d6f38957cefd137b6fb7a6c800c6275303643986abfc4696664
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1f47cef5e38c952f94c5d61726027439.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Sweden 🆚 Poland⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1f47cef5e38c952f94c5d61726027439.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Sweden 🆚 Poland⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=c627e4e9a6cf3c77&sig=cd898dcec222e2ccea723c6dd503f0bd169694de211efa0c6a2e2a23abd23ebc
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Netherlands 🆚 Ecuador⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Netherlands 🆚 Ecuador⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=fe38da28ebfb4f9b&sig=60cc03a54e730eb92fc0714ffe8d5837802ec954465dbe11aa32b4572b6dea26
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/775bc655c77d679c193f1982dac04668.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Bosnia-Herzegovina 🆚 Italy⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1034,7 +938,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=f2313b5ad5038315&sig=1de44d8cc708e476aa59c659c2284309fad5b978a44649cd0fece36332d6ca48
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/775bc655c77d679c193f1982dac04668.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Bosnia-Herzegovina 🆚 Italy⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1042,9 +946,17 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=4b6256c35c279318&sig=64a0da4267f69a22ffce80908f9e4ac723aabda16db7d43a8b2463fe2d41432b
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Austria 🆚 South Korea⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/cb4f05e5448145bbba8c26a840ab900d.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽England 🆚 Japan⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=e62e51d6da850b54&sig=53fc95bdee61b04e7dd0696199c2b6f93410c5d5b1bff23b424287a5ea72f2ad
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/cb4f05e5448145bbba8c26a840ab900d.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽England 🆚 Japan⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
@@ -1052,13 +964,21 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Austria 🆚 South Korea⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Kosovo 🆚 Turkiye⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=bfde245050fb7fe2&sig=a08b33eb79a69a7ddb62acb87ca37a06461c6ca1546d88c2a35f68c31eb22fa9
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=385fa70aae1d4f11&sig=134a8a39d5f8862beb1cc03cbb94ffcf3859c5d6a1bb16d6346ef59f844cb9d3
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Kosovo 🆚 Turkiye⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Czechia 🆚 Denmark⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1066,7 +986,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=bf06c12267ae185d&sig=fdecd05a3aa92fb4f0eb1e3939bbdd11b7658b4ed370a35f51a4c0cf949fd453
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Czechia 🆚 Denmark⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1074,7 +994,55 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=71db79e4df17ad28&sig=1ead00c3bb9b3180aed68c5c74b51e8c6a3ee39e0baf3c4ae99ea81bb5835043
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Netherlands 🆚 Ecuador⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=9ffe9ccb0ea929d9&sig=5eee68b242343bde958ce666fe1d93ab55826e7396d442f0c75981cc2d113837
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Netherlands 🆚 Ecuador⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Austria 🆚 South Korea⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=ad815258626d3f5f&sig=3c5353530945e6adc579bc8a4eca2287e1c30709071adf51ebee9ef77a3397e8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6581bc34692022be4c21d98778e33df0.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Austria 🆚 South Korea⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1f47cef5e38c952f94c5d61726027439.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Sweden 🆚 Poland⚽[01:45 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=bf2e2c153d4a75f9&sig=e18b7f2c44c3b1067bcc648778eb63b5c925b42d71b4a4d91eee600470ca5c8f
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1f47cef5e38c952f94c5d61726027439.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup qualification (UEFA)⚽Sweden 🆚 Poland⚽[01:45 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/65a579da11fa712149bca347ecfcb208.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Spain 🆚 Egypt⚽[02:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1082,7 +1050,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=914bb229a464ec80&sig=e1fc5d7e391ae0938d73883306f03d5d854f2772cfc820e04d01376e82cf136b
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/65a579da11fa712149bca347ecfcb208.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Spain 🆚 Egypt⚽[02:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1090,7 +1058,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=22ef17e7567a5af0&sig=7c88d14359fea35e1c5bc78990cc238ec1ee849a5ac1cba1b42de6c643e1ee44
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/13ad117ddb310052841244f0d1ed3c1e.png" group-title="⚽🔴 LIVE 2⚽",⚽Spanish Segunda Division⚽Real Valladolid CF 🆚 Cadiz⚽[02:30 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1098,7 +1066,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=f54e5d80c766139e&sig=7f339701ed84de745b1e39590f1ca355f569ad024d7ae86c0d4c6dc1bc8f5d18
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/13ad117ddb310052841244f0d1ed3c1e.png" group-title="⚽🔴 LIVE 2⚽",⚽Spanish Segunda Division⚽Real Valladolid CF 🆚 Cadiz⚽[02:30 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1106,7 +1074,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=21bdc8eccf62efc0&sig=8b2f3a42cf23ab4501a3488d25105691eacd56e5328f2e45b466e8867366dd55
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f7779710d2026dca44c41da7a9b7c748.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup (Inter-confederation Play-offs)⚽Democratic Republic of the Congo 🆚 Jamaica⚽[04:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1114,7 +1082,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=8da38825803bdfae&sig=a1a32b3c21d0dd982fea083e7735d7ba4f911f4649f6b448e9d26cc94ce79f5d
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f7779710d2026dca44c41da7a9b7c748.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup (Inter-confederation Play-offs)⚽Democratic Republic of the Congo 🆚 Jamaica⚽[04:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1122,23 +1090,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=4eca5dbe54511fc7&sig=1a99bae23dcd6836c72665903cfe5c2279728265b0d592ccf876120070ce7d3a
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/87668a20b488fbb0e1fcb9210165cfd8.png" group-title="⚽🔴 LIVE 2⚽",⚽Brazilian Serie B⚽Juventude 🆚 Gremio Novorizontino⚽[04:30 WIB 01/04/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/87668a20b488fbb0e1fcb9210165cfd8.png" group-title="⚽🔴 LIVE 2⚽",⚽Brazilian Serie B⚽Juventude 🆚 Gremio Novorizontino⚽[04:30 WIB 01/04/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=a34ae12fabfba7ff&sig=ecfaef7f041a879e14defc07ce3f99399c3bd64884563ab2901c8fed79ee2cc7
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ffa3acd73ef1b617c050414162a20694.png" group-title="⚽🔴 LIVE 2⚽",⚽Paraguayan Primera Division⚽Club Sportivo 2 de Mayo 🆚 FC Nacional Asuncion⚽[04:30 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1146,7 +1098,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=8cda20041ad819f0&sig=1179f2e262684bf1ce2dc147a7efa98eb550a683c87384c7611cdd12da44cc83
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/ffa3acd73ef1b617c050414162a20694.png" group-title="⚽🔴 LIVE 2⚽",⚽Paraguayan Primera Division⚽Club Sportivo 2 de Mayo 🆚 FC Nacional Asuncion⚽[04:30 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1154,7 +1106,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=9a907e092cd7950c&sig=6c35bc7018f2e7b4e23a959724e044ca3309191ff78b0d02b547d95cc3a548cc
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/87668a20b488fbb0e1fcb9210165cfd8.png" group-title="⚽🔴 LIVE 2⚽",⚽Brazilian Serie B⚽Juventude 🆚 Gremio Novorizontino⚽[04:30 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=0567607e90f7841b&sig=f5de108de35ffef483d596630d7a555795ffb940e0d702524f1ff99344adc310
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/87668a20b488fbb0e1fcb9210165cfd8.png" group-title="⚽🔴 LIVE 2⚽",⚽Brazilian Serie B⚽Juventude 🆚 Gremio Novorizontino⚽[04:30 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a9e3f5956f84947cbd6503823dcffbb0.png" group-title="⚽🔴 LIVE 2⚽",⚽Brazilian Serie B⚽Fortaleza 🆚 Cuiaba⚽[05:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1162,7 +1130,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=20a4104a1cb224ea&sig=164350bd96c81088f8780a1297b0e2c7623bacde0fcdb55158c96c8c1fcba0cf
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a9e3f5956f84947cbd6503823dcffbb0.png" group-title="⚽🔴 LIVE 2⚽",⚽Brazilian Serie B⚽Fortaleza 🆚 Cuiaba⚽[05:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1170,39 +1138,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=d5771a4076a4c740&sig=3c799aa2c4800a6fd24d993b5c8df5da6dba994bd3b58d176e4c6b971fe352df
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d92d7ec47187a662aacda2d4b4c7628e.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽USA 🆚 Portugal⚽[06:00 WIB 01/04/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d92d7ec47187a662aacda2d4b4c7628e.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽USA 🆚 Portugal⚽[06:00 WIB 01/04/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=6c08b3745ac06487&sig=b4a0acc1ac1861788ca2a996fd673688aa7782c69e6b2aaabf045dbd03503bea
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3bb39baf42957397d3fae8e0e66b6554.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Argentina 🆚 Zambia⚽[06:15 WIB 01/04/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3bb39baf42957397d3fae8e0e66b6554.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Argentina 🆚 Zambia⚽[06:15 WIB 01/04/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=de94c4ce3d822172&sig=b440132a0971497a818720995921055decfeffd38a801aaef08694af63c782ca
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/680f427a2bc69ae676240a60d8aa2bdb.png" group-title="⚽🔴 LIVE 2⚽",⚽Mexico Liga MX Femenil⚽Leon Women 🆚 Toluca Women⚽[06:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1210,7 +1146,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=c6e5e775eaf6a515&sig=4791e5454a18a8d733fe58c40488975d4217075e58683c51f6c0ef11561a36bf
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/680f427a2bc69ae676240a60d8aa2bdb.png" group-title="⚽🔴 LIVE 2⚽",⚽Mexico Liga MX Femenil⚽Leon Women 🆚 Toluca Women⚽[06:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1218,9 +1154,17 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=2e40cd2e24622ca9&sig=7c6ca4ffa547ada2cf7a19968c3de015595b30f2040658ee01dddd10d0ee9863
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3647a0ee61721dbc5ea4029212e35548.png" group-title="⚽🔴 LIVE 2⚽",⚽Paraguayan Primera Division⚽Sportivo San Lorenzo 🆚 Sportivo Ameliano⚽[06:30 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d92d7ec47187a662aacda2d4b4c7628e.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽USA 🆚 Portugal⚽[06:00 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=ba3c19a6528f2677&sig=0320b99279b927a2f471399538885213a851a8d237188798485d7e372a2af9c5
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/d92d7ec47187a662aacda2d4b4c7628e.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽USA 🆚 Portugal⚽[06:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
@@ -1228,13 +1172,21 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3647a0ee61721dbc5ea4029212e35548.png" group-title="⚽🔴 LIVE 2⚽",⚽Paraguayan Primera Division⚽Sportivo San Lorenzo 🆚 Sportivo Ameliano⚽[06:30 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3bb39baf42957397d3fae8e0e66b6554.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Argentina 🆚 Zambia⚽[06:15 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=202f7354550ae25d&sig=c2e38df7af131d853f9f1757b4e53bc118072fa132ac1118a5903d5e6e04ab59
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=d045a8c345c9afbc&sig=2e56a69e4a4ce3680aed2c5ded895629065b884aaf4d223ece69b220a8521506
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3bb39baf42957397d3fae8e0e66b6554.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Argentina 🆚 Zambia⚽[06:15 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/c210e6c1fadf9e292797da2cdf685555.jpg" group-title="⚽🔴 LIVE 2⚽",⚽Paraguayan Primera Division⚽Sportivo Luqueno 🆚 Cerro Porteno⚽[06:30 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1242,7 +1194,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=7762687d10398fd4&sig=fee82c0a3bc62cb48390621ef69c968e9aa28c0e09cfc0682aaf8a58ed9ccad6
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/c210e6c1fadf9e292797da2cdf685555.jpg" group-title="⚽🔴 LIVE 2⚽",⚽Paraguayan Primera Division⚽Sportivo Luqueno 🆚 Cerro Porteno⚽[06:30 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1250,7 +1202,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=d6ecb574bb7af2f6&sig=2abc4a67bd41c97c8a444b7436bb29570a4117c57144255b5fdcbfa2632befb5
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Canada 🆚 Tunisia⚽[06:30 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1258,7 +1210,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=7cfd7b44ad61b6ae&sig=3f659391b8506038967d11e994b2291529b74632a4ce2deaee8a010192648cfb
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Canada 🆚 Tunisia⚽[06:30 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1266,7 +1218,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=ca9915ddaeed1952&sig=b1e8afdadc001ec021de700fab2e43eecd081d8289e01769f00cf8a33f1a0c34
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Brazil 🆚 Croatia⚽[07:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1274,7 +1226,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=fe04ca07b018bf80&sig=52a3737b2b86e393b035484a8dab8846884c5c805d820e5e7de7c20cbb2dc0c4
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0c383e8deecbd58d5cbdfd324132b91f.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Brazil 🆚 Croatia⚽[07:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1282,23 +1234,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=5846489f162b75ee&sig=90e5d5034e35e72295acf1740a756a41bdd65456c28cfc4a9a1080442859da84
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3190d6d022fe9b36c65d83cf98e16d15.png" group-title="⚽🔴 LIVE 2⚽",⚽Categoría Primera A⚽Deportes Tolima 🆚 Aguilas Doradas⚽[08:00 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3647a0ee61721dbc5ea4029212e35548.png" group-title="⚽🔴 LIVE 2⚽",⚽Paraguayan Primera Division⚽Sportivo San Lorenzo 🆚 Sportivo Ameliano⚽[06:30 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=fd947fb9732e6eea&sig=053a0541ae3199c8f4a86fe826430c33d0e5f5733280df89948d1f8b56333552
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3647a0ee61721dbc5ea4029212e35548.png" group-title="⚽🔴 LIVE 2⚽",⚽Paraguayan Primera Division⚽Sportivo San Lorenzo 🆚 Sportivo Ameliano⚽[06:30 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.viiip
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3190d6d022fe9b36c65d83cf98e16d15.png" group-title="⚽🔴 LIVE 2⚽",⚽Categoría Primera A⚽Deportes Tolima 🆚 Aguilas Doradas⚽[08:00 WIB 01/04/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=f48433f8c182c7eb&sig=8eb4e45fe23cc48d0746d1f14aa6399b2ca29ffc6420af4e14afbf8f3a595d05
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Mexico 🆚 Belgium⚽[08:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1306,7 +1258,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=a9b47df6e3aa793f&sig=5d3710bb5f74d8d7ff7e886dac45b2103c7fa5a508e1dd63bf672ec92fae3644
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png" group-title="⚽🔴 LIVE 2⚽",⚽International Friendly⚽Mexico 🆚 Belgium⚽[08:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1314,7 +1266,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=4434d7a17c415ead&sig=f1561e081b23f8cb1b38e22d5140bd21cafd0d167db6769b347f844a1ffecaa4
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3190d6d022fe9b36c65d83cf98e16d15.png" group-title="⚽🔴 LIVE 2⚽",⚽Categoría Primera A⚽Deportes Tolima 🆚 Aguilas Doradas⚽[08:00 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=bc83616331b746f0&sig=807ab71093706b6d5bb65a23d5ca9037c196b7a18693275a23459eb15f4f7070
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/3190d6d022fe9b36c65d83cf98e16d15.png" group-title="⚽🔴 LIVE 2⚽",⚽Categoría Primera A⚽Deportes Tolima 🆚 Aguilas Doradas⚽[08:00 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/17d0194350341e7466cd67969ac39e2e.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup (Inter-confederation Play-offs)⚽Iraq 🆚 Bolivia⚽[10:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1322,7 +1290,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=59edb54d23e62127&sig=ddef561094927a1239aa412718b09a4aaa64a63e082924589a7973fd8cf6b0c3
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/17d0194350341e7466cd67969ac39e2e.png" group-title="⚽🔴 LIVE 2⚽",⚽FIFA World Cup (Inter-confederation Play-offs)⚽Iraq 🆚 Bolivia⚽[10:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1330,7 +1298,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=f936495077e5c4d6&sig=4d4ea45c9c465c14cb957f40ee8bf0a21e92857ab2341d1fd2164e2fbef37663
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1d34742d9f6dc58402490d93e7216f71.png" group-title="⚽🔴 LIVE 2⚽",⚽CMG Mass Football Invitational Tournament⚽Yushu Tibetan 🆚 Taishan Urban Construction⚽[12:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1338,7 +1306,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=970dccfbba80f0cb&sig=1894a1fd2893284d7047903223fee49e2cde9224904d485f504e7e84213b780e
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/1d34742d9f6dc58402490d93e7216f71.png" group-title="⚽🔴 LIVE 2⚽",⚽CMG Mass Football Invitational Tournament⚽Yushu Tibetan 🆚 Taishan Urban Construction⚽[12:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1346,7 +1314,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=d8ee94d813df7fec&sig=6de88047ec7db0c5fdf18b5e4cf3dd172c761093aad914ad22cb10565e91a525
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a785b849636cc4f48342b3646ee86999.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC U-20 Women's Asian Cup⚽China U20 Women 🆚 Vietnam Women U20⚽[16:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1354,7 +1322,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=a3b2cdeb9351b9d4&sig=c14bd87289dcf28eeccc4c65b973f787df8665739d454d4acfaefddac4a9467c
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a785b849636cc4f48342b3646ee86999.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC U-20 Women's Asian Cup⚽China U20 Women 🆚 Vietnam Women U20⚽[16:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1362,23 +1330,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=156036471b037b1a&sig=8e14bd0cf033a41e4bf34d8d865cd462389460ef5e54cb8661eda3efa4e26abc
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/333df39860930a21cf72b4e9664723ab.png" group-title="⚽🔴 LIVE 2⚽",⚽Japanese J1 League⚽Machida Zelvia 🆚 FC Tokyo⚽[17:00 WIB 01/04/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/333df39860930a21cf72b4e9664723ab.png" group-title="⚽🔴 LIVE 2⚽",⚽Japanese J1 League⚽Machida Zelvia 🆚 FC Tokyo⚽[17:00 WIB 01/04/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=c09b309395dd73d5&sig=79ecbf070cd6e819a6fd98c34ffcd17ffbb7a02cb234814d4f5c8f953238fa30
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/fa4105f0408ef893d941e70ae003ab4c.png" group-title="⚽🔴 LIVE 2⚽",⚽Japanese J1 League⚽Vissel Kobe 🆚 Shimizu S-Pulse⚽[17:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1386,7 +1338,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=b2396f7a4012f52d&sig=b09f2ee8a5e09d45547de2873f30ed443aa6bc9f91be78236a39c33b6a1b3725
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/fa4105f0408ef893d941e70ae003ab4c.png" group-title="⚽🔴 LIVE 2⚽",⚽Japanese J1 League⚽Vissel Kobe 🆚 Shimizu S-Pulse⚽[17:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1394,7 +1346,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=d72c2fa59610c286&sig=46f5b99164cac99d3cf423326f05269631782ea4a72fe2b7aa0cbb92a35a94be
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/333df39860930a21cf72b4e9664723ab.png" group-title="⚽🔴 LIVE 2⚽",⚽Japanese J1 League⚽Machida Zelvia 🆚 FC Tokyo⚽[17:00 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=45689bc9105b103d&sig=42a74bc3116bac44788fdb77f01a912e2f305526063d423d52158e4c337ae710
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/333df39860930a21cf72b4e9664723ab.png" group-title="⚽🔴 LIVE 2⚽",⚽Japanese J1 League⚽Machida Zelvia 🆚 FC Tokyo⚽[17:00 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/205111004b08c5b99ee531ade038964e.png" group-title="⚽🔴 LIVE 2⚽",⚽Indian League Division 1⚽Rajasthan United FC 🆚 Chanmari FC⚽[17:30 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1402,7 +1370,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=f16ccfc706fc3fd5&sig=4c7a92d1a513757d779830d9682eb7c61a829e63b1b5b1757085f20faca2ba5d
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/205111004b08c5b99ee531ade038964e.png" group-title="⚽🔴 LIVE 2⚽",⚽Indian League Division 1⚽Rajasthan United FC 🆚 Chanmari FC⚽[17:30 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1410,23 +1378,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=4325897721294fd5&sig=bd5e99d56e508429af2187a184ba42cd8554eb23a94b5d084fe5f69248e79a7f
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0eb0fea326c52b2cc6d7cea1993c836e.png" group-title="⚽🔴 LIVE 2⚽",⚽CMG Mass Football Invitational Tournament⚽Ganzhou Team 🆚 Yongzhou Football Team⚽[18:35 WIB 01/04/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0eb0fea326c52b2cc6d7cea1993c836e.png" group-title="⚽🔴 LIVE 2⚽",⚽CMG Mass Football Invitational Tournament⚽Ganzhou Team 🆚 Yongzhou Football Team⚽[18:35 WIB 01/04/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.viiip
-#EXTVLCOPT:http-origin=https://xoilactv.viiip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=8d81288dc66e82ca&sig=4714dcddc76c1a28b3aabc8a35a53bf443c51740f29c775be69dbc6bd6106d6a
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/cc5e70a5cfd524b023e0c54984cd6921.png" group-title="⚽🔴 LIVE 2⚽",⚽Indian League Division 1⚽Sreenidi Deccan 🆚 Shillong Lajong FC⚽[20:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1434,7 +1386,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=4a8e4e577d98bc41&sig=4951ddf9bad0c4e258d13031618b871f7d9ffb79ab6fc227fb5029058b8ddae3
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/cc5e70a5cfd524b023e0c54984cd6921.png" group-title="⚽🔴 LIVE 2⚽",⚽Indian League Division 1⚽Sreenidi Deccan 🆚 Shillong Lajong FC⚽[20:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1442,7 +1394,23 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=195ff6810c097543&sig=74ebb7a0f054d5ab3ccbedf4b7aa69fcb5ad83aa73bbce2d55d2c4c5ef0d4e20
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0eb0fea326c52b2cc6d7cea1993c836e.png" group-title="⚽🔴 LIVE 2⚽",⚽CMG Mass Football Invitational Tournament⚽Ganzhou Team 🆚 Yongzhou Football Team⚽[18:35 WIB 01/04/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=e59b908e2637c158&sig=9d34601526e51de129f2c1293d172d4dbc2bed257504174824a7b509e2b7bc1e
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/0eb0fea326c52b2cc6d7cea1993c836e.png" group-title="⚽🔴 LIVE 2⚽",⚽CMG Mass Football Invitational Tournament⚽Ganzhou Team 🆚 Yongzhou Football Team⚽[18:35 WIB 01/04/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.viiip
+#EXTVLCOPT:http-origin=https://xoilactv.viiip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a7d2632f724ef2a813bcc66dbc212146.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC U-20 Women's Asian Cup⚽Thailand U20(w) 🆚 Bangladesh (w) U20⚽[20:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1450,7 +1418,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=430f36a7f5d99e6c&sig=cc5caa6e9140961b866a7506a839548830d18aea6cb19332c927576b17ad646b
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a7d2632f724ef2a813bcc66dbc212146.png" group-title="⚽🔴 LIVE 2⚽",⚽AFC U-20 Women's Asian Cup⚽Thailand U20(w) 🆚 Bangladesh (w) U20⚽[20:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1458,7 +1426,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=16fc3d9aa125d20e&sig=915cc77b7cdda282a8c261d9118b022e2f6404bcc5893107e2e5e91433ed2b9f
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6bc6b443e0a93517420542a1bf48540f.png" group-title="⚽🔴 LIVE 2⚽",⚽RUS D3A⚽Zenit 2 St. Petersburg 🆚 Amkar Perm⚽[23:00 WIB 01/04/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1466,7 +1434,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874987&salt=c4764e5c8394df5b&sig=24a44236a8ff3d830e66ffe2706f6e5e090a73ffad123f95a9556b01d10cc3cd
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/6bc6b443e0a93517420542a1bf48540f.png" group-title="⚽🔴 LIVE 2⚽",⚽RUS D3A⚽Zenit 2 St. Petersburg 🆚 Amkar Perm⚽[23:00 WIB 01/04/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1474,5 +1442,5 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.viiip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1774874383&salt=62d981d4a5fd2002&sig=5792d5ab6cc23416bd2c4f177b23750fcd14e186afee557306ab838041592935
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
