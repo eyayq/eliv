@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-03-31 14:40:51
-# 🔄 Total Channels: 2121
+# ⏰ Latest Updated: 2026-03-31 14:51:57
+# 🔄 Total Channels: 2085
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -49,9 +49,6 @@ http://103.66.62.83:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80" group-title="Live Event: Colalive",21:00 31/03 Tajikistan vs Philippines Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="Live Event: Colalive",19:30 31/03 Thai Lan vs Turkmenistan Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/41943555.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fac20ee3c5bc1659bc8e6ba2771c5b31.png!w80" group-title="Live Event: Colalive",20:00 31/03 Ethiopia vs Sao Tome & Principe Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/02456966.m3u8
@@ -70,17 +67,77 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHa6fdrwNJ6HuLPrEj0BZq5PHVNV_KWYe_A&s" group-title="LIVE EVENT: MANUAL",19:30 WIB - 31 MARET 2026 Thailand vs Turkmenistan
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-http://195.178.110.2/hls/ZVVVQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png" group-title="LIVE EVENT: MANUAL",00:00 WIB - 1APRIL 2026 Hungaria vs Yunani
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png" group-title="LIVE EVENT: MANUAL",02:00 WIB - 1APRIL 2026 Spanyol vs Mesir
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png" group-title="LIVE EVENT: MANUAL",01:45 WIB - 1APRIL 2026 Inggris vs Jepang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://www.srilankasports.com/wp-content/uploads/2024/02/friendly.png" group-title="LIVE EVENT: MANUAL",07:00 WIB - 1APRIL 2026 Brasil vs Kroasia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEHa6fdrwNJ6HuLPrEj0BZq5PHVNV_KWYe_A&s" group-title="LIVE EVENT: MANUAL",21:00 WIB - 31 MARET 2026 Tajikistan vs Filipina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKXX0UGwIrKL1kzCjCSFNvLemjfkBzboHDw&s" group-title="LIVE EVENT: MANUAL",23:00 WIB - 31 MARET 2026 Latvia vs Gibraltar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s" group-title="LIVE EVENT: MANUAL",01:45 WIB - 1APRIL 2026 Republik Ceko vs Denmark
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s" group-title="LIVE EVENT: MANUAL",01:45 WIB - 1APRIL 2026 Bosnia Herzegovina vs Italia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s" group-title="LIVE EVENT: MANUAL",01:45 WIB - 1APRIL 2026 Swedia vs Polandia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s" group-title="LIVE EVENT: MANUAL",01:45 WIB - 1APRIL 2026 Kosovo vs Turki
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s" group-title="LIVE EVENT: MANUAL",04:00 WIB - 1APRIL 2026 Republik Demokratik Kongo vs Jamaika
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCdeZSPOI7JqrzKowZoppjXkBxRlBEMh9eQ&s" group-title="LIVE EVENT: MANUAL",10:00 WIB - 1APRIL 2026 Irak vs Bolivia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRdv9AagomdmIo44ksuq8W8pHMz1cIZ1kotQ&s" group-title="LIVE EVENT: MANUAL",02:30 WIB - 1APRIL 2026 Real Valladolid vs Cadiz
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-logo="" group-title="Live Event: Bún chả",[AFC Women's Asian Cup] China Women vs Bangladesh luc 15:24   03/03/2026 [MAIN] Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
@@ -89,54 +146,72 @@ https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv.net/
 https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  TAY MON KHANH m3u Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F778_165018996488.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   31/03 India vs Hong Kong  TAN CA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  TAY MON KHANH flv Gvision TV
+https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F778_165018996488.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   31/03 India vs Hong Kong  TAN CA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  LY QUY m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  LY QUY flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F778_165018996488.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   31/03 India vs Hong Kong  DUONG CHI m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F778_165018996488.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   31/03 India vs Hong Kong  DUONG CHI flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  LY QUY m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  LY QUY flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  TAY MON KHANH m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  TAY MON KHANH flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F42101_1hpqr1be931p.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:30   31/03 Al Qasim Sport Club vs Dyala  NHI KA m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F42101_1hpqr1be931p.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:30   31/03 Al Qasim Sport Club vs Dyala  NHI KA flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1774943318.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 SOHEE vs OK9 TV MEGA LIVE m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/HANGVU1/index.m3u8?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1774943318.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 SOHEE vs OK9 TV MEGA LIVE flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/HANGVU1.flv?expire=1788427256&sign=35e56aacb29c1a0624a29230271c3db1
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F748_1%3A4317342a1b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Slovenia U21 vs Norway U21  PHONG VAN m3u Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Torreense U23 vs Famalicao U23  FERNANDO m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F748_1%3A4317342a1b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Slovenia U21 vs Norway U21  PHONG VAN flv Gvision TV
+https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Torreense U23 vs Famalicao U23  FERNANDO flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F769_165018981275.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Tajikistan vs Philippines  TON LAP m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F769_165018981275.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Tajikistan vs Philippines  TON LAP flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+https://flv.cdnok9.com/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F769_165018981275.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Tajikistan vs Philippines  LY UNG m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F769_165018981275.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Tajikistan vs Philippines  LY UNG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F769_165018981275.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Tajikistan vs Philippines  TON LAP m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F769_165018981275.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Tajikistan vs Philippines  TON LAP flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F769_165018981275.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Tajikistan vs Philippines  FALCON m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F769_165018981275.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Tajikistan vs Philippines  FALCON flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/falcon.flv?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  TRIEU TU LONG m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  TRIEU TU LONG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Torreense U23 vs Famalicao U23  VUONG LUAN m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
@@ -149,42 +224,84 @@ https://hls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9c
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Torreense U23 vs Famalicao U23  KAKA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Torreense U23 vs Famalicao U23  FERNANDO m3u Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F748_1%3A4317342a1b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Slovenia U21 vs Norway U21  PHONG VAN m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F62353_1h7ejsen6b2f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Torreense U23 vs Famalicao U23  FERNANDO flv Gvision TV
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F748_1%3A4317342a1b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   31/03 Slovenia U21 vs Norway U21  PHONG VAN flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  TRIEU TU LONG m3u Gvision TV
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F79d0360cd882c01f1ac008b3bb85feb3.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   31/03 Tajikistan vs Philippines Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F676_165018993893.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   31/03 Iran vs Costa Rica  TRIEU TU LONG flv Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e3c6c3dacea0a91907c9f574987be0c3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F79d0360cd882c01f1ac008b3bb85feb3.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   31/03 Tajikistan vs Philippines hd_1 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F771_165018982554.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:30   31/03 Thailand vs Turkmenistan  VO TONG m3u Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/d5eb33f9b6064d9a9a949728c2e01833/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F79d0360cd882c01f1ac008b3bb85feb3.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   31/03 Tajikistan vs Philippines hd_2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F771_165018982554.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:30   31/03 Thailand vs Turkmenistan  VO TONG flv Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live3.fastestcdn-global.com/live/d5eb33f9b6064d9a9a949728c2e01833/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F79d0360cd882c01f1ac008b3bb85feb3.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   31/03 Tajikistan vs Philippines hd_3 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F771_165018982554.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:30   31/03 Thailand vs Turkmenistan  MA SIEU m3u Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://pull-live4.fastestcdn-global.com/live/d5eb33f9b6064d9a9a949728c2e01833/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc494ccaa4939c679b62bd38fe87b2c2e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:15   31/03 Gold Coast Knights Women vs Gold Coast United Women Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F771_165018982554.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:30   31/03 Thailand vs Turkmenistan  MA SIEU flv Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4d37431f95b11affc4cbbcc2d42f7ab6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa1d21baa159ca8c93d61e2ae2928253b%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   31/03 Finland U19 vs Czechia Republic U19 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F771_165018982554.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:30   31/03 Thailand vs Turkmenistan  MAYBACH m3u Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/102997ac9330e1341aaf9013bddf4942/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F40a981f6a68acd5107c46ed5b4e6f8c4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   31/03 Garhwal FC vs Hindustan Aeronautics Limited Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F771_165018982554.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",19:30   31/03 Thailand vs Turkmenistan  MAYBACH flv Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/31d1f4aa95035fddc13e6f9acc6cb4d7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2Fbfa20d86a59044ef90a4609dde03985c.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",19:00   31/03 Singapore vs Bangladesh Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F778_165018996488.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   31/03 India vs Hong Kong  TAN CA m3u Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/31e043eeec5054d394019dd5d4f9408b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe6298dc7280f667d60ea17078101ae37%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   31/03 France U19 vs Croatia U19 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F778_165018996488.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:30   31/03 India vs Hong Kong  TAN CA flv Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e4a7c881afbe08f4e12d98f3a65b6c17/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa98516a16291002aa03254b8e26c4370%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   31/03 Portugal U18 vs USA U18 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/4d449e14e30b86873aabe2dcaa81a3c0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f4397c3c4a632a6c7fbb3cb78f7d5e1%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:15   31/03 Souths United SC Women vs Queensland Lions Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/2c74520362618dce9be45849ba90d239/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F139d3393f32856726f91f89a7d70a07a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   31/03 Hapoel Nof HaGalil vs Bnei Yehuda Tel Aviv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/34d3384f60e3a69f17ac382ad2122486/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F275fa7d010c36555888c186d82dee5a5%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:15   31/03 Brisbane City Women vs Capalaba Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/ea48344e56129208b97114ec4bf1a021/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fac2e5d9f2cf6a85ca64987d5eb35bb4a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   31/03 Switzerland U20 vs Romania U20 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c5b5b777e646bd968cf947cd3b0b5589/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F543a35da4f028d26b3009c9f3c9dfa6b%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   31/03 Romania U19 vs Denmark U19 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/bf8edf19bf59e09e8d138001a44cdb1a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F866bf00ac843d305220bf2f844641b1a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",19:00   31/03 Costa Rica vs Iran Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/80302cabfafa93899259f98e64bc7922/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2Fdebe9dfcc3e4dbea1c509ffab6bf9f0b.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   31/03 Maldives vs Timor Leste Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/114ffbb008d392b7e4eae404cd3287cb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee4b12f8f2c274d59a40dfb011ebd0c4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:30   31/03 North Macedonia U17 vs Slovenia U17 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b827de4b85a2bd1fbfb5ba20b1992565/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F543a35da4f028d26b3009c9f3c9dfa6b%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   31/03 Romania U19 vs Ukraine U19 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -201,6 +318,10 @@ https://live.alilicloud.com/live/3d249b9c41406990b33206b31c0109af/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/457d6af3649138fd989010514f562450/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F91cb00d19c3b7f04e8153af2888aeab2%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:30   31/03 Hungary U21 vs Ukraine U21 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/28ccf7df125260ad213ba335d0bd98b8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F9cf843c00e4afa98581d5c1db08b074a%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",18:00   31/03 Shanghai Bright Ubest vs Jiangsu Zenith Steel Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -213,6 +334,10 @@ https://live.alilicloud.com/live/c606a20f2c40ab71a02ced005d29e992/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/8aadf2e4428c77e6bb8df3d58bf170fc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F81a58a6e67528e5653027beaf1ed3d03%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:30   31/03 France U17 vs Germany U17 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8d2df61356b97f54a2917c388f964322/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1c147f284903a8b2bfa8a76e6fa617e8%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",18:35   31/03 China U19 vs Australia U19 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -273,98 +398,10 @@ https://live.alilicloud.com/live/2c3354c394b9c3f407087525f06c361c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/066413fc9ea2c97754810ffaa557927b/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F79d0360cd882c01f1ac008b3bb85feb3.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   31/03 Tajikistan vs Philippines Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0e8a114b9d48919c6d4936408bb4ab40%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:45   31/03 Poland U20 vs Germany U20 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e3c6c3dacea0a91907c9f574987be0c3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F79d0360cd882c01f1ac008b3bb85feb3.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   31/03 Tajikistan vs Philippines hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/d5eb33f9b6064d9a9a949728c2e01833/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F79d0360cd882c01f1ac008b3bb85feb3.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   31/03 Tajikistan vs Philippines hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/d5eb33f9b6064d9a9a949728c2e01833/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F79d0360cd882c01f1ac008b3bb85feb3.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",21:00   31/03 Tajikistan vs Philippines hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/d5eb33f9b6064d9a9a949728c2e01833/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc494ccaa4939c679b62bd38fe87b2c2e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:15   31/03 Gold Coast Knights Women vs Gold Coast United Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4d37431f95b11affc4cbbcc2d42f7ab6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa1d21baa159ca8c93d61e2ae2928253b%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   31/03 Finland U19 vs Czechia Republic U19 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/102997ac9330e1341aaf9013bddf4942/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F40a981f6a68acd5107c46ed5b4e6f8c4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   31/03 Garhwal FC vs Hindustan Aeronautics Limited Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/31d1f4aa95035fddc13e6f9acc6cb4d7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2Fbfa20d86a59044ef90a4609dde03985c.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",19:00   31/03 Singapore vs Bangladesh Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/31e043eeec5054d394019dd5d4f9408b/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe6298dc7280f667d60ea17078101ae37%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   31/03 France U19 vs Croatia U19 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e4a7c881afbe08f4e12d98f3a65b6c17/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa98516a16291002aa03254b8e26c4370%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   31/03 Portugal U18 vs USA U18 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/4d449e14e30b86873aabe2dcaa81a3c0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0f4397c3c4a632a6c7fbb3cb78f7d5e1%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:15   31/03 Souths United SC Women vs Queensland Lions Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/2c74520362618dce9be45849ba90d239/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F43b2dd1c93748297cfbbea4d31247641.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",19:30   31/03 Thailand vs Turkmenistan Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8c98192e794a33f88124f2dab75ab468/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F43b2dd1c93748297cfbbea4d31247641.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",19:30   31/03 Thailand vs Turkmenistan hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/319cf2a9bb864f4e909a069369cbca92/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F43b2dd1c93748297cfbbea4d31247641.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",19:30   31/03 Thailand vs Turkmenistan hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/319cf2a9bb864f4e909a069369cbca92/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2F43b2dd1c93748297cfbbea4d31247641.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",19:30   31/03 Thailand vs Turkmenistan hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/319cf2a9bb864f4e909a069369cbca92/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F139d3393f32856726f91f89a7d70a07a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",20:00   31/03 Hapoel Nof HaGalil vs Bnei Yehuda Tel Aviv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/34d3384f60e3a69f17ac382ad2122486/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F275fa7d010c36555888c186d82dee5a5%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:15   31/03 Brisbane City Women vs Capalaba Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/ea48344e56129208b97114ec4bf1a021/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fac2e5d9f2cf6a85ca64987d5eb35bb4a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   31/03 Switzerland U20 vs Romania U20 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c5b5b777e646bd968cf947cd3b0b5589/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F543a35da4f028d26b3009c9f3c9dfa6b%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   31/03 Romania U19 vs Denmark U19 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/bf8edf19bf59e09e8d138001a44cdb1a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F866bf00ac843d305220bf2f844641b1a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",19:00   31/03 Costa Rica vs Iran Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/80302cabfafa93899259f98e64bc7922/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg0.aiscore.com%2Ffootball%2Fteam%2Fdebe9dfcc3e4dbea1c509ffab6bf9f0b.png%21w80&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   31/03 Maldives vs Timor Leste Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/114ffbb008d392b7e4eae404cd3287cb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_132715_358dda20.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",19:30   31/03 Thailand vs Turkmenistan HD2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihot.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_132715_358dda20.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",19:30   31/03 Thailand vs Turkmenistan FHD2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoihothd.flv
+https://live.alilicloud.com/live/c82d0d4bb280b2fcae8e81dd8384624b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_134311_eaf689af.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",20:30   31/03 India vs Hong Kong HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -489,6 +526,54 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa98516a16291002aa03254b8e26c4370%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   31/03 Portugal U18 vs USA U18 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/4d449e14e30b86873aabe2dcaa81a3c0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F139d3393f32856726f91f89a7d70a07a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   31/03 Hapoel Nof HaGalil vs Bnei Yehuda Tel Aviv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/34d3384f60e3a69f17ac382ad2122486/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F9cf843c00e4afa98581d5c1db08b074a%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",18:00   31/03 Shanghai Bright Ubest vs Jiangsu Zenith Steel Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/da3f163b284b6754b9beefac692a93d2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/066413fc9ea2c97754810ffaa557927b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong sd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong hd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong sd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong hd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong sd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong hd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F866bf00ac843d305220bf2f844641b1a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:00   31/03 Costa Rica vs Iran Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/80302cabfafa93899259f98e64bc7922/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee4b12f8f2c274d59a40dfb011ebd0c4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:30   31/03 North Macedonia U17 vs Slovenia U17 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/b827de4b85a2bd1fbfb5ba20b1992565/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F543a35da4f028d26b3009c9f3c9dfa6b%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:00   31/03 Romania U19 vs Ukraine U19 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -501,10 +586,18 @@ https://live.alilicloud.com/live/3d249b9c41406990b33206b31c0109af/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/31e043eeec5054d394019dd5d4f9408b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F91cb00d19c3b7f04e8153af2888aeab2%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:30   31/03 Hungary U21 vs Ukraine U21 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/28ccf7df125260ad213ba335d0bd98b8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FE7oFtljl-IuvzgF4s.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:00   31/03 Slovenia U21 vs Norway U21 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/8aadf2e4428c77e6bb8df3d58bf170fc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F81a58a6e67528e5653027beaf1ed3d03%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:30   31/03 France U17 vs Germany U17 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/8d2df61356b97f54a2917c388f964322/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1c147f284903a8b2bfa8a76e6fa617e8%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",18:35   31/03 China U19 vs Australia U19 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -561,6 +654,10 @@ https://live.alilicloud.com/live/49898f8a844ad949a8778124af4cc7ed/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ee036fcc13f61e8ad0efd1f0765ebcac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6f513c873787edcc183a3bf216298900%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:00   31/03 Georgia U21 vs Malta U21 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/48141689ab8ecd543b40dbc3e41e6bc3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FIJDZmhjl-lSxdJQh4.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",18:35   31/03 China U23 vs Vietnam U23 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -569,34 +666,6 @@ https://live.alilicloud.com/live/5e35bf8b2ef77f51ff72c6841be3c01d/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/27cdfb0984ab9406f99e3942c8407582/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FjH8flBZA-UknO2XLh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:30   31/03 Thailand vs Turkmenistan Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/8c98192e794a33f88124f2dab75ab468/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FjH8flBZA-UknO2XLh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:30   31/03 Thailand vs Turkmenistan sd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/fc1d0bd7b4554377869641e2f84f47b1/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FjH8flBZA-UknO2XLh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:30   31/03 Thailand vs Turkmenistan hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/fc1d0bd7b4554377869641e2f84f47b1/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FjH8flBZA-UknO2XLh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:30   31/03 Thailand vs Turkmenistan sd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/fc1d0bd7b4554377869641e2f84f47b1/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FjH8flBZA-UknO2XLh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:30   31/03 Thailand vs Turkmenistan hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/fc1d0bd7b4554377869641e2f84f47b1/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FjH8flBZA-UknO2XLh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:30   31/03 Thailand vs Turkmenistan sd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/fc1d0bd7b4554377869641e2f84f47b1/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2FjH8flBZA-UknO2XLh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:30   31/03 Thailand vs Turkmenistan hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/fc1d0bd7b4554377869641e2f84f47b1/index.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc3a956bb9b63819218838bc5c1f2d4bf%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:00   31/03 Denmark U19 vs Czechia Republic U19 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -617,254 +686,10 @@ https://live.alilicloud.com/live/1f09f3f65bc9655444f9bf1651179e4c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/2a58659f6e1877806ef72ae69a8d5c73/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F40a981f6a68acd5107c46ed5b4e6f8c4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:30   31/03 Garhwal FC vs Hindustan Aeronautics Limited Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0e8a114b9d48919c6d4936408bb4ab40%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",21:45   31/03 Poland U20 vs Germany U20 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/31d1f4aa95035fddc13e6f9acc6cb4d7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa98516a16291002aa03254b8e26c4370%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   31/03 Portugal U18 vs USA U18 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/4d449e14e30b86873aabe2dcaa81a3c0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F139d3393f32856726f91f89a7d70a07a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:00   31/03 Hapoel Nof HaGalil vs Bnei Yehuda Tel Aviv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/34d3384f60e3a69f17ac382ad2122486/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Fvolleyball%2Fteam%2F9cf843c00e4afa98581d5c1db08b074a%2Fimage%2Fsmall&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",18:00   31/03 Shanghai Bright Ubest vs Jiangsu Zenith Steel Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/da3f163b284b6754b9beefac692a93d2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fac2e5d9f2cf6a85ca64987d5eb35bb4a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:30   31/03 Switzerland U20 vs Romania U20 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c5b5b777e646bd968cf947cd3b0b5589/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/066413fc9ea2c97754810ffaa557927b/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong sd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong sd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong sd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fstatic.flashscore.com%2Fres%2Fimage%2Fdata%2Fnqz3kJDa-YB0DoGZt.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",20:30   31/03 India vs Hong Kong hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/0b396bab6c3e4a039031fce27e39e188/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F866bf00ac843d305220bf2f844641b1a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",19:00   31/03 Costa Rica vs Iran Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/80302cabfafa93899259f98e64bc7922/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fc6fee04edb606777c1509cec4fb34e30%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:30   31/03 Maldives vs Timor Leste Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/114ffbb008d392b7e4eae404cd3287cb/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Asian Cup - Qualification] 21:00 31/03 Tajikistan vs Philippines [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Asian Cup - Qualification] 21:00 31/03 Tajikistan vs Philippines [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Asian Cup - Qualification] 21:00 31/03 Tajikistan vs Philippines [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [RICKHANTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=6e0e19053f875257a783a97df23c5eac&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [RICKHANTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=fb07c6c908694c8d616c9cb16c772b75&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [RICKHANTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=6e0e19053f875257a783a97df23c5eac&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [RICKHANTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=fb07c6c908694c8d616c9cb16c772b75&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ PIRLO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1774970260-0-0-4b85f035c7f22e162fc468ba87285a1e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ PIRLO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1774970260-0-0-0dbb5fa8aff325c0e37fbb947253710e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ PIRLO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1774970260-0-0-77cf67be817e1fff7c56431a767821a9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ PIRLO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1774970260-0-0-bc6f4cf69d604eab1af73f822f5e6681
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [THACH TU] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-344370_lsd.flv?auth_key=1774970260-0-0-7a960ee7a8a4bfa3a58c42e68d9ce733
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [THACH TU] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-344370_lhd.flv?auth_key=1774970260-0-0-396b719edda30b7269b277ba8b92d3ab
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [THACH TU] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-344370_lsd.m3u8?auth_key=1774970260-0-0-477b67734e46dc1d6d9676da54817a20
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [THACH TU] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-344370_lhd.m3u8?auth_key=1774970260-0-0-aad5c0ffb24b87baf3d20040647708ba
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [SAO LA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=c814555c656df58dac42e2c9dea3aff6&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [SAO LA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=58a48a4a7352da4ea86e231cff6f32ef&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [SAO LA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=c814555c656df58dac42e2c9dea3aff6&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [SAO LA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=58a48a4a7352da4ea86e231cff6f32ef&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ Cu Cai] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1774970260-0-0-e3dcf8c1c4182bd7ef5bfe49a1c7f89f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ Cu Cai] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1774970260-0-0-e738ac3e38abd8440a68b22284808cd9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ Cu Cai] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1774970260-0-0-3e18b3715fcf025902eb403aed916a2e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ Cu Cai] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1774970260-0-0-3ea9712b2830b704e146ed9a30b1f486
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/efcc102b24c13314df660d9c062d354e.png" group-title="Live Event: socolive",21:00 ngay 31/03 Slovenia U21 vs Norway U21 [PINKMAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=af5c446e355bd302431e62f0a1f78d73&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/efcc102b24c13314df660d9c062d354e.png" group-title="Live Event: socolive",21:00 ngay 31/03 Slovenia U21 vs Norway U21 [PINKMAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=c5ce31cc92410595e1761d17d3e4ee56&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/efcc102b24c13314df660d9c062d354e.png" group-title="Live Event: socolive",21:00 ngay 31/03 Slovenia U21 vs Norway U21 [PINKMAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=af5c446e355bd302431e62f0a1f78d73&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/efcc102b24c13314df660d9c062d354e.png" group-title="Live Event: socolive",21:00 ngay 31/03 Slovenia U21 vs Norway U21 [PINKMAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=c5ce31cc92410595e1761d17d3e4ee56&txTime=69cc2be4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [ ANH TAI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1774970260-0-0-d1bcbe3147c338dbd62b0aacf0f6377e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [ ANH TAI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1774970260-0-0-c32a092ab5024db5e4be94f6ce0cad72
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [ ANH TAI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1774970260-0-0-0002cab4b28626c4a54b05334cec9f5a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [ ANH TAI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1774970260-0-0-42aab8012409ca5bbb333625f6429dae
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [VIT BAC] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1774970620-0-0-888909310836e44b231335db212940b9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [VIT BAC] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1774970620-0-0-3c064892163576067582db2bb7a3bc14
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [VIT BAC] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1774970620-0-0-4095ad61ec061c13b68d91b2038d85e1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [VIT BAC] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1774970620-0-0-b0a28be8c896bba5677e2beb11325adb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [RABBIT] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-596191_lsd.flv?auth_key=1774970620-0-0-7a0d98ab17db29a3ac2df88f280fffc2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [RABBIT] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-596191_lhd.flv?auth_key=1774970620-0-0-c3ba784d3c71f85a15b8437aa43a8a9a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [RABBIT] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1774970620-0-0-b3e464760ee3a60eebbfb650af07e065
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [RABBIT] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1774970620-0-0-fdb7e4cda940a4d04112cb2578c0df15
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ ENZO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1774970980-0-0-bb24b51922048fb1e617c18a7f7d9305
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ ENZO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1774970980-0-0-951349293d36974832ab06904182bb67
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ ENZO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1774970980-0-0-3997690751cef152bd982235450c79b3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ ENZO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1774970980-0-0-76fa5a44a765bebc067cf65c850f0e68
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [VENDETTA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=104396a25adb83327db84814893784b3&txTime=69cc2eb4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [VENDETTA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=22be6be6568c5d3f3726ff287d7f7c76&txTime=69cc2eb4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [VENDETTA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=104396a25adb83327db84814893784b3&txTime=69cc2eb4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [VENDETTA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=22be6be6568c5d3f3726ff287d7f7c76&txTime=69cc2eb4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ TOMIA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1774970980-0-0-b36f394962f70883da4a617696c3d98c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ TOMIA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1774970980-0-0-3b5d71b4011d782f748cf15231163210
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ TOMIA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1774970980-0-0-1d29cd7b67120da86966b2d710b8e1b5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ TOMIA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1774970980-0-0-b1d9c5693ea939711a7fdbe19860e77a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ MESSI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1774970980-0-0-4f1a935ef60eb85435905dda71252fa7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ MESSI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1774970980-0-0-7cc0e89f81489b0e7b20149196cdd566
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ MESSI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1774970980-0-0-7cddcc7673efbbc8713c1508d1b9ea52
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [ MESSI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1774970980-0-0-481c94a4c036d3736e43d68057f370af
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [LOGAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1774970980-0-0-a808e2fbf09019b1aa1c1b2e53f67b36
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [LOGAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1774970980-0-0-e3ee78f9b7b1750d27fb623d28e0fccb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [LOGAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1774970980-0-0-4b54394b688ea426532c4d398fe9c26e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [LOGAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1774970980-0-0-8bcce717f6e8937cecde77e676fdff2f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [TAM MAO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=c798d58a7aa2b65477e2f3974e196647&txTime=69cc2eb4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [TAM MAO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=310304b5591c6a553d72135cce93aeef&txTime=69cc2eb4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [TAM MAO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=c798d58a7aa2b65477e2f3974e196647&txTime=69cc2eb4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5a8e39cf80454eddbe931a9342ade0f6.png" group-title="Live Event: socolive",19:30 ngay 31/03 Thailand vs Turkmenistan [TAM MAO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=310304b5591c6a553d72135cce93aeef&txTime=69cc2eb4
+https://live.alilicloud.com/live/c82d0d4bb280b2fcae8e81dd8384624b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ CO] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1774970980-0-0-0d14b4933d09815a1e38538003eeb244
@@ -973,18 +798,138 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1774970980-0-0-7b14
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260327/202e06dc0f127aedd8fcf21f8b53085d.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1774970980-0-0-ae9a37daea4fec732cf4d3b0a05406ec
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1564.png" group-title="Live Event: Hội quán",19:30 31/03 Thailand vs Turkmenistan FHD Gvision TV
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ PIRLO] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1564.png" group-title="Live Event: Hội quán",19:30 31/03 Thailand vs Turkmenistan HD Gvision TV
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1774971340-0-0-189c6177c606341096b63d8595047d86
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ PIRLO] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1564.png" group-title="Live Event: Hội quán",19:30 31/03 Thailand vs Turkmenistan SD Gvision TV
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1774971340-0-0-47dfd95c4b001114e6c955bbbfae7b3f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ PIRLO] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1774971340-0-0-fecdb78940e6893b863d23f4590a0bcb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ PIRLO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1774971340-0-0-aa3e3dbb7049310e6b63c7dbb1445ca4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/efcc102b24c13314df660d9c062d354e.png" group-title="Live Event: socolive",21:00 ngay 31/03 Slovenia U21 vs Norway U21 [PINKMAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.flv?txSecret=a629580368d1a7db9a5228f5fb6f0446&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/efcc102b24c13314df660d9c062d354e.png" group-title="Live Event: socolive",21:00 ngay 31/03 Slovenia U21 vs Norway U21 [PINKMAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=91332420c8713dc3d5426c6ed3ade277&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/efcc102b24c13314df660d9c062d354e.png" group-title="Live Event: socolive",21:00 ngay 31/03 Slovenia U21 vs Norway U21 [PINKMAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=a629580368d1a7db9a5228f5fb6f0446&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/efcc102b24c13314df660d9c062d354e.png" group-title="Live Event: socolive",21:00 ngay 31/03 Slovenia U21 vs Norway U21 [PINKMAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=91332420c8713dc3d5426c6ed3ade277&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ Cu Cai] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1774971340-0-0-b3ddab221d8d317be250d9bd4ff97c7a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ Cu Cai] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1774971340-0-0-d96b8dd326a84c8696d4b06ac0518574
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ Cu Cai] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1774971340-0-0-f86a3cc21a6feb166116c988a120c987
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [ Cu Cai] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1774971340-0-0-3f67a769c9566499a4d8d5de2358d75d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [RICKHANTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=c209d850e42e654739f85c301cdf2c1b&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [RICKHANTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=a2b62f92703d0bc9b42580ba4e41f669&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [RICKHANTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=c209d850e42e654739f85c301cdf2c1b&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [RICKHANTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=a2b62f92703d0bc9b42580ba4e41f669&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [SAO LA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=f8927db18df45fa52d483b09a065c62c&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [SAO LA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=958961c96314e10085815f6e268c352c&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [SAO LA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f8927db18df45fa52d483b09a065c62c&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [SAO LA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=958961c96314e10085815f6e268c352c&txTime=69cc301c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [THACH TU] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-344370_lsd.flv?auth_key=1774971340-0-0-e8416873bc7174875cfb198b213df7dd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [THACH TU] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-344370_lhd.flv?auth_key=1774971340-0-0-798dcb7b4ba0455308b92f50871e5d8f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [THACH TU] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-344370_lsd.m3u8?auth_key=1774971340-0-0-b6b9c978f7d385c1cbddea6efdbdad33
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/5eb39b7d030097c6eeeabbd1506bc5c1.png" group-title="Live Event: socolive",21:00 ngay 31/03 Tajikistan vs Philippines [THACH TU] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-344370_lhd.m3u8?auth_key=1774971340-0-0-864960fcedfb58a479d35005e29f7ad2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [ ANH TAI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1774971340-0-0-604cc4e69caf02dda61a1f53c58f38c2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [ ANH TAI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1774971340-0-0-3aac996d5af56126a64921590e66afcd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [ ANH TAI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1774971340-0-0-fc01a053c073bd6934875029997f6ef4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [ ANH TAI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1774971340-0-0-906b66d6a7074bb84a28d0b68f4bb294
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/863fef44b566a1ba76e69dee5c483daf.png" group-title="Live Event: socolive",22:00 ngay 31/03 Czechia Republic U21 vs Gibraltar U21 [ ROBBEN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1774971340-0-0-17698bcabc2f93248e7149abd76304a1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/863fef44b566a1ba76e69dee5c483daf.png" group-title="Live Event: socolive",22:00 ngay 31/03 Czechia Republic U21 vs Gibraltar U21 [ ROBBEN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1774971340-0-0-4f639c9006bfd1462c495c3f7b749f22
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/863fef44b566a1ba76e69dee5c483daf.png" group-title="Live Event: socolive",22:00 ngay 31/03 Czechia Republic U21 vs Gibraltar U21 [ ROBBEN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1774971340-0-0-fed2d4cdabf095e5349c389e0e6e03dc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/863fef44b566a1ba76e69dee5c483daf.png" group-title="Live Event: socolive",22:00 ngay 31/03 Czechia Republic U21 vs Gibraltar U21 [ ROBBEN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1774971340-0-0-b624ff4706f6cf6914d8290e8afd4bff
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [RABBIT] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-596191_lsd.flv?auth_key=1774971700-0-0-9a0ce4f393011f93ac72c599f8accb75
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [RABBIT] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-596191_lhd.flv?auth_key=1774971700-0-0-73269f5eece60961212b45d65d4ffc79
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [RABBIT] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1774971700-0-0-2df3ac9209c6cdc98f17dbda68f30e99
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [RABBIT] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1774971700-0-0-448fe63a23e5aec3904913c1c12fcc03
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [VIT BAC] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1774971700-0-0-f6f728f65651e73f89ab383009071b50
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [VIT BAC] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1774971700-0-0-82c9f21ee5ffb2204809f7a9562515c2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [VIT BAC] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1774971700-0-0-8acb99d2b72399cea175465f2a4fe3b3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260329/821f74034469230e8660523e24fb4859.gif" group-title="Live Event: socolive",21:30 ngay 31/03 Hungary U21 vs Ukraine U21 [VIT BAC] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1774971700-0-0-db37967d527e6079312e637b197072d9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/f8af8aec549f0e97344657e4f760b66e.png" group-title="Live Event: socolive",22:00 ngay 31/03 Israel U21 vs Bosnia-Herzegovina U21 [ CAO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597929_lsd.flv?auth_key=1774971700-0-0-f677d2d041a0026d55fffbe20052d917
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/f8af8aec549f0e97344657e4f760b66e.png" group-title="Live Event: socolive",22:00 ngay 31/03 Israel U21 vs Bosnia-Herzegovina U21 [ CAO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1774971700-0-0-a6ee9b622a20bf847c358ee14325e913
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/f8af8aec549f0e97344657e4f760b66e.png" group-title="Live Event: socolive",22:00 ngay 31/03 Israel U21 vs Bosnia-Herzegovina U21 [ CAO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1774971700-0-0-f0fc6c57362539237969b6948ed3c2f1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260328/f8af8aec549f0e97344657e4f760b66e.png" group-title="Live Event: socolive",22:00 ngay 31/03 Israel U21 vs Bosnia-Herzegovina U21 [ CAO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1774971700-0-0-5ea3841b1c3ba6b673bb6caf731e6878
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1200px-Flag_of_Tajikistan.svg.png" group-title="Live Event: Hội quán",21:00 31/03 Tajikistan vs Philippines FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1443,34 +1388,55 @@ https://pipit.barjagaul.workers.dev/play.mpd?id=9183&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://pipit.barjagaul.workers.dev/play.mpd?id=20216&type=dash
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/4tQXXW93/poster.jpg?width=720" group-title="LIVE EVENT NOW | VOLI",UNI Opole - ITA TOOLS Stal Mielec | Play Off - QF Round 3
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly92YXYuem55dmF0LmN5L2lvZ2kvNGdES0tKOTMuejNoOHwxNzc1NTczMjYy
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Di_QD_Ac24Iqu_fovqQwxKMWxJM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4974398/714a29.jpg" group-title="BWF BADMINTON & VOLLEYBALL",15:30 WIB 02/04/26 Final Four Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator - Proliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTU3MjU5Mg
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTU3MzI2Mg
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a_gKf6dO52jwyxyh6qqe7FQi3Tk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981227/ab09c7.jpg" group-title="BRI SUPER LEAGUE",15:00 WIB 03/04/26 Arema FC vs Malut United FC - BRI Super League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTU3MjU5Mg
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTU3MzI2Mg
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/icxKZimQcaGVhHOfEcTm0uDApBk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4981229/0295d6.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 03/04/26 Sriwijaya FC vs PSPS Pekanbaru - Pegadaian Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTU3MjU5Mg
+https://aspaltvpasti.top/xxx/play.php?ch=dWdnY2Y6Ly9uZmNueWdpY25mZ3YuZ2JjL29yeWh6eXZpci56YzR8MTc3NTU3MzI2Mg
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7YTsfzXpuHZVnhFMkywdpsm1UEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997508/f9c88b.jpg" group-title="BRI SUPER LEAGUE",09:00 WIB 01/04/26 MEGA BOLLYWOOD SINGHAM AGAIN (INTI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzc4Mi5xZXo_cXJpX3hueHZfMDkmZz0xNzc0OTc5MjU3Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZ1PTA2MjBvc3BxOHI1bjM2czcycTVwMDlwNDNubjZxNjU5MzdvNjk3NXI1bjNvNDE4cDIwNW80NG81NTYwMTgzMDV8MTc3NTU3MzI2Mg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9pdnEtbXJlYi10cnluYXQucXZmdmF2LmpiZXhyZWYucXJpLzc4Mi56Y3E_cXJpX3hueHZfMDkmZz0xNzc0OTc5MjU3Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZ1PTA2MjBvc3BxOHI1bjM2czcycTVwMDlwNDNubjZxNjU5MzdvNjk3NXI1bjNvNDE4cDIwNW80NG81NTYwMTgzMDV8MTc3NTU3MzI2Mg
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7YTsfzXpuHZVnhFMkywdpsm1UEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4997508/f9c88b.jpg" group-title="BRI SUPER LEAGUE",09:00 WIB 01/04/26 MEGA BOLLYWOOD SINGHAM AGAIN (ALT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/xxx/license?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS83ODIucWV6P3JrYz0xNzc0OTc5MjU3Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZmdnRhPTE3NThwOHI3NW4zcnM3MTBvM280MjkxMDIxMnEzNzk4MTYzbzhwcTE5NXE1OTEzb245czA3cTdyMjlwb3A2Mzd8MTc3NTU3MzI2Mg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/xxx/play.mpd?ch=dWdnY2Y6Ly9tcmVia2traXZxLnF2ZnZhdi5qYmV4cmVmLnFyaS83ODIuemNxP3JrYz0xNzc0OTc5MjU3Jmh2Yz0xMDMuMzAuMTQ3LjEyMCZmdnRhPTU4MjM3bnJyNXIyOTNuOXJycDgwMzBwcTI2NnAzOHBvOTJzNDU5MG8wOHNxb245NXFzNDQzMDBxcXFzbzA0bjh8MTc3NTU3MzI2Mg
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1jnmnr8a342x.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Tajikistan vs Filipina * Asia: Asian Cup (21:00 WIB * 31/03/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9MjcwOTYyMyZmZ2Vybno9NDEzODgxfDE3NzU1NzI1OTI
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9MjcwOTYyMyZmZ2Vybno9NDEzODgxfDE3NzU1NzMyNjI
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1hywg9fz6119.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Masedonia Utara U17 vs Slovenia U17 * Eropa: Euro U17 (21:30 WIB * 31/03/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk1OTY2NiZmZ2Vybno9NDEzODA1fDE3NzU1NzI1OTI
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk1OTY2NiZmZ2Vybno9NDEzODA1fDE3NzU1NzMyNjI
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1hywg9fz6119.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Perancis U17 vs Jerman U17 * Eropa: Euro U17 (21:30 WIB * 31/03/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
 #EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
-https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk1OTY2NyZmZ2Vybno9NDEzODA0fDE3NzU1NzI1OTI
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjk1OTY2NyZmZ2Vybno9NDEzODA0fDE3NzU1NzMyNjI
+#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1j25n7vrfj9.png" group-title="LIVE EVENT NOW | 808 SCORE", [LIVE] Polandia U20 vs Jerman U20 * Europe Elite League U20 (21:45 WIB * 31/03/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd18.plaifrdcikf.shop/
+#EXTVLCOPT:http-origin=https://ppdd18.plaifrdcikf.shop
+https://aspaltvpasti.top/xxx/play.m3u8?ch=dWdnY2Y6Ly9naXhoLnNuenZ5bC9xbmFnci9ndnRibnlmL3RiLnozaDg_em5ncHU9Mjc4ODMxMCZmZ2Vybno9NDEzODA4fDE3NzU1NzMyNjI
 #EXTINF:-1 tvg-logo="" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] Darts - Players Championship | (18.00 WIB) Tuan Rumah vs Tamu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/114414_hd/index.m3u8?is_vip=true&token=dara-0nkf6965&x-sign=5805387339d6accc64a459ecd6288448&x-time=1774967640|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/114414_hd/index.m3u8?is_vip=true&token=dara-7af2r8cs&x-sign=2c2e9880a5948cedc19626262ec4e3fb&x-time=1774968240|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/e7083a9eae16cbc27fa133d41212e4c8.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] AFC Asian Cup: India vs Hong Kong
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1510,37 +1476,37 @@ https://hls.livelivelive.space/live/4336628.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=5b7e52cca1fae74debb79b1ab8ea55b3&wsABSTime=1775010914
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=680479349ea40e260be398202bd3c0a1&wsABSTime=1775011512
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="🔴 🔴 LIVE EVENT NOW",20:00 WIB - BURUNDI VS CHAD [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=32dd0395247ce7408f0c75e3f5e435a1&wsABSTime=1775010914
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=5be2ef9bea98ed5c19ecc39cda0b966c&wsABSTime=1775011512
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="🔴 🔴 LIVE EVENT NOW",20:00 WIB - THO NHI KY U19 VS ITALY U19 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=3952ee1608f7014bb2e9751ce7d0da61&wsABSTime=1775010915
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=d2e40cecf91cca7567efe4c54c765eb7&wsABSTime=1775011513
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="🔴 🔴 LIVE EVENT NOW",20:30 WIB - AN DO VS HONG KONG [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=658496fb673e01474b12d3a81922f18f&wsABSTime=1775010916
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=5b7190a4c950e26252d8f9c202e8f9a1&wsABSTime=1775011514
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="🔴 🔴 LIVE EVENT NOW",21:00 WIB - TAJIKISTAN VS PHILIPPINES [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=a6a562f93fa6f4ececfb9e836e2f3d39&wsABSTime=1775010917
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=9c1d9ce5c3a4955109ab3e773d227bb7&wsABSTime=1775011515
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="🔴 🔴 LIVE EVENT NOW",21:00 WIB - ESWATINI VS ERITREA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=89d6d46aa7bf96fccce1610d350d3a6f&wsABSTime=1775010917
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=555c2e2a75ff156b654d27c19fd9e178&wsABSTime=1775011515
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="🔴 🔴 LIVE EVENT NOW",21:00 WIB - SLOVENIA U21 VS NA UY U21 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=a4d6b4dccee9449df0941ef4d8ff6292&wsABSTime=1775010918
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=c7dc25e4219dfbf57149af263436d495&wsABSTime=1775011516
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="🔴 🔴 LIVE EVENT NOW",OFFLINE - HA LAN U17 VS BELARUS U17 [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_149_1728448757_thumb.png" group-title="SPORTS FHD",SONY SPORTS 1 HD
@@ -3489,143 +3455,39 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=e5195300f99170feb301a316474f0eef&wsABSTime=1775011212
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=392501f80b18f164609609af2b056906&wsABSTime=1775011811
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT | XOILACZ AI",20:00 WIB - BURUNDI VS CHAD [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=29ce1aacab19eac86e26765ab63738be&wsABSTime=1775011212
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=e710d9fb375295035c13b4ab71d58e38&wsABSTime=1775011812
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT | XOILACZ AI",20:00 WIB - THO NHI KY U19 VS ITALY U19 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=28cf3158aa4d7c8e557b63dc0b0d806c&wsABSTime=1775011213
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=30b0387fc08c39c3d2790aeea96b3e47&wsABSTime=1775011815
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT | XOILACZ AI",20:30 WIB - AN DO VS HONG KONG [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=be5577dd3bafca47b4765c562f45f6b6&wsABSTime=1775011214
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=a17a8751ba8dfe38d87965afac68f42a&wsABSTime=1775011816
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT | XOILACZ AI",21:00 WIB - TAJIKISTAN VS PHILIPPINES [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=cd052dea33392275b2cf34350b1ba2fa&wsABSTime=1775011215
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=a107896640781830058cd4ceb7f4c26a&wsABSTime=1775011816
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT | XOILACZ AI",21:00 WIB - ESWATINI VS ERITREA [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=bf2f7473bed928bffb9806e3c099c7e1&wsABSTime=1775011215
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=e5a89849015cde58132755a2182ea1ae&wsABSTime=1775011817
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT | XOILACZ AI",21:00 WIB - SLOVENIA U21 VS NA UY U21 [Server 1] [FOOTBALL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=feef7974178b4b85ebfb42539c4d8b6b&wsABSTime=1775011216
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=f9401a36f047a5e3b84aaf320b3e0994&wsABSTime=1775011817
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - HA LAN U17 VS BELARUS U17 [FOOTBALL]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="LIVE EVENT FAWANEWS",21:00 WIB | Tajikistan vs Philippines
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/PPPZQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304292122686713857/lrp_AtSy_400x400.jpg" group-title="LIVE EVENT FAWANEWS",21:00 WIB | Punjab Kings vs Gujarat Titans
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.25/hls/PPPZQQQQQX.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2029090914468036608/DSPQyBl2_400x400.jpg" group-title="LIVE EVENT FAWANEWS",21:00 WIB | Islamabad United vs Peshawar Zalmi
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.25/hls/PPPZQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",21:00 WIB | Slovenia U21 vs Norway U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/PPPZQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",21:30 WIB | Hungary U21 vs Ukraine U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/UUUU.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE EVENT FAWANEWS",21:45 WIB | Poland U20 vs Germany U20
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/UUUUQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE EVENT FAWANEWS",22:00 WIB | Liberia vs Libya
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/UUUUQQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",22:00 WIB | Kazakhstan U21 vs Ireland U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/UUUUQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",22:00 WIB | Israel U21 vs Bosnia and Herzegovina U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/UUUUQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",22:00 WIB | Finland U21 vs Cyprus U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/UUUUQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",22:00 WIB | Czech Republic U21 vs Gibraltar U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/UUUUQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",22:30 WIB | Croatia U21 vs Turkey U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/FFFFV.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1532322889332137984/PvUYI8-n_400x400.jpg" group-title="LIVE EVENT FAWANEWS",23:00 WIB | Luxembourg vs Malta
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.37/hls/ATTTQQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1532322889332137984/PvUYI8-n_400x400.jpg" group-title="LIVE EVENT FAWANEWS",23:00 WIB | Latvia vs Gibraltar
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.37/hls/ATTTQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE EVENT FAWANEWS",23:00 WIB | Norway vs Switzerland
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.27/hls/ATTTQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE EVENT FAWANEWS",23:00 WIB | Montenegro vs Slovenia
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.27/hls/ATTT.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE EVENT FAWANEWS",23:00 WIB | Serbia vs Saudi Arabia
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.37/hls/ATTTQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE EVENT FAWANEWS",23:00 WIB | San Marino vs Andorra
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.27/hls/ATTTQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",23:00 WIB | Romania U21 vs San Marino U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/AJJJQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",23:00 WIB | Greece U21 vs Germany U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/AJJJQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",23:00 WIB | Denmark U21 vs Wales U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/AJJJQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",23:00 WIB | Bulgaria U21 vs Azerbaijan U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/AJJJQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",23:00 WIB | Austria U21 vs Belarus U21
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/AJJJ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="LIVE EVENT FAWANEWS",20:30 WIB | India vs Hong Kong
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/VAVAVAZZ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1962804184819826688/hKp8GOg3_400x400.jpg" group-title="LIVE EVENT FAWANEWS",20:00 WIB | Ethiopia vs Sao Tome and Principe
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/kikiki.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE EVENT FAWANEWS",20:00 WIB | Costa Rica vs Iran
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.2/hls/VAVAVAZ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="LIVE EVENT FAWANEWS",19:30 WIB | Thailand vs Turkmenistan
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -3638,10 +3500,22 @@ http://195.178.110.2/hls/ZVVVQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.2/hls/ZVVVQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="LIVE EVENT FAWANEWS",19:00 WIB | Darts Players Championship 8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="LIVE EVENT FAWANEWS",19:00 WIB | Vietnam vs Malaysia
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.27/hls/YYYY.m3u8
+http://195.178.110.2/hls/ZVVV.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="LIVE EVENT FAWANEWS",19:00 WIB | Singapore vs Bangladesh
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/KTTTZZZZZ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="LIVE EVENT FAWANEWS",19:00 WIB | Nepal vs Laos
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/KTTTZZZZ.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",19:00 WIB | Montenegro U21 vs Poland U21
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/KTTTZZZ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="LIVE EVENT FAWANEWS",19:00 WIB | Snooker Tour Championship     Table 1
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -3658,6 +3532,34 @@ http://195.178.110.37/hls/EEEEQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.37/hls/EEEEQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:35 WIB | China U23 vs Vietnam U23
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/KTTTZZ.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/UEFA_European_Under-21_Championship_logo.svg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | Latvia U21 vs Northern Ireland U21
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/KTTTZ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="LIVE EVENT FAWANEWS",17:30 WIB | Maldives vs Timor Leste
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/ZAAAQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="LIVE EVENT FAWANEWS",17:30 WIB | Chinese Taipei vs Sri Lanka
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/ZAAAQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE EVENT FAWANEWS",17:30 WIB | Switzerland U20 vs Romania U20
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/KTTT.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="LIVE EVENT FAWANEWS",16:10 WIB | Australia vs Curacao
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/ZAAAQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1747638026832887808/ZCUr0JdI_400x400.jpg" group-title="LIVE EVENT FAWANEWS",16:00 WIB | Pakistan vs Myanmar
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/ZAAA.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (21:00 WIB) Tajikistan vs Philippines [BLV COCA]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -3673,17 +3575,12 @@ https://live5.msrktz.app/live/99121525.m3u8
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4186b8943907012bd947930996fe9051.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (20:00 WIB) Burundi vs Chad [BLV SPRITE]
-#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
-#EXTVLCOPT:http-origin=https://www.spindlersptown.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/90725470.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e7083a9eae16cbc27fa133d41212e4c8.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (20:30 WIB) An Do vs Hong Kong [BLV STING]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2fbdd77210d6beb40c3bd1bd026f63ed.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (22:00 WIB) Mauritius vs Somalia [BLV MOUNTAIN DEW]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9cc25407f209e031babdac7d3c520ccb.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (22:00 WIB) Cong hoa Sec U21 vs Gibraltar U21 [BLV MOUNTAIN DEW]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
