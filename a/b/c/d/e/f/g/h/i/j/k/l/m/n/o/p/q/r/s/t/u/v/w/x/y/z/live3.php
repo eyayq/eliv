@@ -1,12 +1,12 @@
 #EXTM3U
-# Generated Tue Mar 31 17:23:26 2026
+# Generated Tue Mar 31 17:34:24 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 01-04-2026 00:23:10 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 01-04-2026 00:34:10 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Latvia😈 [🆚] 😈Gibraltar [LIVE]😈📁
-https://bf.jalaplay.net/live/5005043.m3u8?txSecret=40b55cdab265875351e71bee958dc138&txTime=69cc0269
-#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Latvia😈 [🆚] 😈Gibraltar [LIVE]😈📁
 https://bf.jalaplay.net/live/5005010.m3u8?txSecret=ef0c8d19e8ee289cc4bc538e9a892f14&txTime=69cc0149
+#EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Latvia😈 [🆚] 😈Gibraltar [LIVE]😈📁
+https://bf.jalaplay.net/live/5005043.m3u8?txSecret=40b55cdab265875351e71bee958dc138&txTime=69cc0269
 #EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Luxembourg😈 [🆚] 😈Malta [LIVE]😈📁
 https://bf.jalaplay.net/live/5004994.m3u8?txSecret=200448b189f28f50a71dae553965437e&txTime=69cc0273
 #EXTINF:-1 group-title="📁😈 UEFA Nations League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/245bff452fbdc34d417164e361097ae7.png",📁😈Luxembourg😈 [🆚] 😈Malta [LIVE]😈📁
@@ -24,60 +24,60 @@ https://bf.jalaplay.net/live/322813.m3u8?txSecret=9d54b2b66bb0e2e458321c01117996
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Montenegro😈 [🆚] 😈Slovenia [LIVE]😈📁
 https://bf.jalaplay.net/live/5005029.m3u8?txSecret=30d872ad6213151040dc7769fa61df1e&txTime=69cbf97c
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈San Marino😈 [🆚] 😈Andorra [LIVE]😈📁
-https://bf.jalaplay.net/live/322673.m3u8?txSecret=7748a7ab347a6a7e2b73a79ead27dd74&txTime=69cbf6d8
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Russia😈 [🆚] 😈Mali [LIVE]😈📁
-https://bf.jalaplay.net/live/322693.m3u8?txSecret=b5c168545416014f08f69c4afc2832ae&txTime=69cbfa0b
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Russia😈 [🆚] 😈Mali [LIVE]😈📁
-https://bf.jalaplay.net/live/5004993.m3u8?txSecret=ccdb35078f5dfe46bb6180799366de2c&txTime=69cbf881
+https://bf.jalaplay.net/live/322673.m3u8?txSecret=a78faaf9a5f1fbfbd2cb48edb6f8447b&txTime=69cc04ea
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Russia😈 [🆚] 😈Mali [LIVE]😈📁
 https://bf.jalaplay.net/live/5004470.m3u8?txSecret=644d3806548053200421fee6e92586b5&txTime=69cbf91c
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Russia😈 [🆚] 😈Mali [LIVE]😈📁
+https://bf.jalaplay.net/live/322693.m3u8?txSecret=b5c168545416014f08f69c4afc2832ae&txTime=69cbfa0b
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Russia😈 [🆚] 😈Mali [LIVE]😈📁
 https://bf.jalaplay.net/live/5004980.m3u8?txSecret=95092a83ff7a6f05b8c3d185cfcacfea&txTime=69cc0217
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈South Africa😈 [🆚] 😈Panama [6m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Russia😈 [🆚] 😈Mali [LIVE]😈📁
+https://bf.jalaplay.net/live/5004993.m3u8?txSecret=ccdb35078f5dfe46bb6180799366de2c&txTime=69cbf881
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈South Africa😈 [🆚] 😈Panama [LIVE]😈📁
 https://bf.jalaplay.net/live/322717.m3u8?txSecret=f385e96fbd36a268f273ef909ae54ff5&txTime=69cbfb46
-#EXTINF:-1 group-title="📁😈 UEFA European U21 Championship qualification 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0f2d2e79833b106e3c0407d4c7131307.png",📁😈Portugal U21😈 [🆚] 😈Scotland U21 [66m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA European U21 Championship qualification 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0f2d2e79833b106e3c0407d4c7131307.png",📁😈Portugal U21😈 [🆚] 😈Scotland U21 [55m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4336466
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈England😈 [🆚] 😈Japan [81m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈England😈 [🆚] 😈Japan [70m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4512434
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Netherlands😈 [🆚] 😈Ecuador [81m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Netherlands😈 [🆚] 😈Ecuador [70m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4512461
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Austria😈 [🆚] 😈South Korea [81m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Austria😈 [🆚] 😈South Korea [70m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4512470
-#EXTINF:-1 group-title="📁😈 FIFA World Cup qualification (UEFA) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/27e2db8369af0785fc90b88eac36c96c.png",📁😈Kosovo😈 [🆚] 😈Turkiye [81m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup qualification (UEFA) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/27e2db8369af0785fc90b88eac36c96c.png",📁😈Kosovo😈 [🆚] 😈Turkiye [70m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4523053
-#EXTINF:-1 group-title="📁😈 FIFA World Cup qualification (UEFA) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/27e2db8369af0785fc90b88eac36c96c.png",📁😈Bosnia-Herzegovina😈 [🆚] 😈Italy [81m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup qualification (UEFA) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/27e2db8369af0785fc90b88eac36c96c.png",📁😈Bosnia-Herzegovina😈 [🆚] 😈Italy [70m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4523068
-#EXTINF:-1 group-title="📁😈 FIFA World Cup qualification (UEFA) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/27e2db8369af0785fc90b88eac36c96c.png",📁😈Czechia😈 [🆚] 😈Denmark [81m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup qualification (UEFA) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/27e2db8369af0785fc90b88eac36c96c.png",📁😈Czechia😈 [🆚] 😈Denmark [70m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4523069
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Spain😈 [🆚] 😈Egypt [96m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Spain😈 [🆚] 😈Egypt [85m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4512489
-#EXTINF:-1 group-title="📁😈 FIFA World Cup (Inter-confederation Play-offs) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d7098499775871931e6d8deea2076a82.png",📁😈Democratic Republic of the Congo😈 [🆚] 😈Jamaica [216m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup (Inter-confederation Play-offs) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d7098499775871931e6d8deea2076a82.png",📁😈Democratic Republic of the Congo😈 [🆚] 😈Jamaica [205m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4458191
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈USA😈 [🆚] 😈Portugal [336m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈USA😈 [🆚] 😈Portugal [325m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460234
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Argentina😈 [🆚] 😈Zambia [366m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Argentina😈 [🆚] 😈Zambia [355m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4518539
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Brazil😈 [🆚] 😈Croatia [396m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Brazil😈 [🆚] 😈Croatia [385m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4510340
-#EXTINF:-1 group-title="📁😈 FIFA World Cup (Inter-confederation Play-offs) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d7098499775871931e6d8deea2076a82.png",📁😈Iraq😈 [🆚] 😈Bolivia [576m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup (Inter-confederation Play-offs) 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d7098499775871931e6d8deea2076a82.png",📁😈Iraq😈 [🆚] 😈Bolivia [565m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4458192
-#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈China U20 Women😈 [🆚] 😈Vietnam Women U20 [936m]😈📁
+#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈China U20 Women😈 [🆚] 😈Vietnam Women U20 [925m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4452298
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Machida Zelvia😈 [🆚] 😈FC Tokyo [996m]😈📁
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Machida Zelvia😈 [🆚] 😈FC Tokyo [985m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4470691
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Vissel Kobe😈 [🆚] 😈Shimizu S-Pulse [996m]😈📁
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Vissel Kobe😈 [🆚] 😈Shimizu S-Pulse [985m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4470782
-#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈Thailand U20(w)😈 [🆚] 😈Bangladesh (w) U20 [1176m]😈📁
+#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈Thailand U20(w)😈 [🆚] 😈Bangladesh (w) U20 [1165m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4452297
-#EXTINF:-1 group-title="📁😈 Finnish Ykkosliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9267ee08759fdc25c89d3e4642303522.png",📁😈KTP Kotka😈 [🆚] 😈FC Haka [1326m]😈📁
+#EXTINF:-1 group-title="📁😈 Finnish Ykkosliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9267ee08759fdc25c89d3e4642303522.png",📁😈KTP Kotka😈 [🆚] 😈FC Haka [1315m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4477323
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Bayern Munchen Women😈 [🆚] 😈Manchester United Women [1401m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Bayern Munchen Women😈 [🆚] 😈Manchester United Women [1390m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4501148
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Chelsea FC Women😈 [🆚] 😈Arsenal Women [1536m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Chelsea FC Women😈 [🆚] 😈Arsenal Women [1525m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4501107
-#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈North Korea Women U20😈 [🆚] 😈Jordan (w) U20 [2616m]😈📁
+#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈North Korea Women U20😈 [🆚] 😈Jordan (w) U20 [2605m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4452304
-#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Sogdiana Jizak😈 [🆚] 😈FK Kokand 1912 [2736m]😈📁
+#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Sogdiana Jizak😈 [🆚] 😈FK Kokand 1912 [2725m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4488017
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Barcelona Women😈 [🆚] 😈Real Madrid Women [2841m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Barcelona Women😈 [🆚] 😈Real Madrid Women [2830m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4501071
