@@ -1,124 +1,109 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" group-title="😈DONASI SERVER😈:03:56:31-WIB😈",😈Donasi Server Playlist Agar Tetap Hidup😈
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" group-title="😈DONASI SERVER😈:04:07:31-WIB😈",😈Donasi Server Playlist Agar Tetap Hidup😈
 
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1853.png" group-title="😈UEFA Champions League Women😈|😈09:00:00-WIB😈",😈Chelsea W vs Arsenal W😈|😈02-04-2026😈|⏳05:03:28😈
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://alive.zlylive.com/bgtv_blv_delua/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1853.png" group-title="😈UEFA Champions League Women😈|😈09:00:00-WIB😈",😈Chelsea W vs Arsenal W😈|😈02-04-2026😈|⏳05:03:28😈
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://alive.zlylive.com/bgtv_blv_delua/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1853.png" group-title="😈UEFA Champions League Women😈|😈09:00:00-WIB😈",😈Chelsea W vs Arsenal W😈|😈02-04-2026😈|⏳05:03:28😈
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4665.png" group-title="😈Segunda División😈|😈09:30:00-WIB😈",😈Racing Santander vs Sporting Gijon😈|😈02-04-2026😈|⏳05:33:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4665.png" group-title="😈Segunda División😈|😈09:30:00-WIB😈",😈Racing Santander vs Sporting Gijon😈|😈02-04-2026😈|⏳05:22:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieupao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4665.png" group-title="😈Segunda División😈|😈09:30:00-WIB😈",😈Racing Santander vs Sporting Gijon😈|😈02-04-2026😈|⏳05:33:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4665.png" group-title="😈Segunda División😈|😈09:30:00-WIB😈",😈Racing Santander vs Sporting Gijon😈|😈02-04-2026😈|⏳05:22:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieupao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4665.png" group-title="😈Segunda División😈|😈09:30:00-WIB😈",😈Racing Santander vs Sporting Gijon😈|😈02-04-2026😈|⏳05:33:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4665.png" group-title="😈Segunda División😈|😈09:30:00-WIB😈",😈Racing Santander vs Sporting Gijon😈|😈02-04-2026😈|⏳05:22:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15550.png" group-title="😈A-League😈|😈22:35:00-WIB😈",😈Macarthur vs Newcastle Jets😈|😈02-04-2026😈|⏳18:38:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15550.png" group-title="😈A-League😈|😈22:35:00-WIB😈",😈Macarthur vs Newcastle Jets😈|😈02-04-2026😈|⏳18:27:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieungoandong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15550.png" group-title="😈A-League😈|😈22:35:00-WIB😈",😈Macarthur vs Newcastle Jets😈|😈02-04-2026😈|⏳18:38:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15550.png" group-title="😈A-League😈|😈22:35:00-WIB😈",😈Macarthur vs Newcastle Jets😈|😈02-04-2026😈|⏳18:27:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieungoandong/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15550.png" group-title="😈A-League😈|😈22:35:00-WIB😈",😈Macarthur vs Newcastle Jets😈|😈02-04-2026😈|⏳18:38:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15550.png" group-title="😈A-League😈|😈22:35:00-WIB😈",😈Macarthur vs Newcastle Jets😈|😈02-04-2026😈|⏳18:27:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/947.png" group-title="😈A-League😈|😈00:00:00-WIB😈",😈Brisbane Roar vs Sydney😈|😈03-04-2026😈|⏳20:03:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/947.png" group-title="😈A-League😈|😈00:00:00-WIB😈",😈Brisbane Roar vs Sydney😈|😈03-04-2026😈|⏳19:52:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieubao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/947.png" group-title="😈A-League😈|😈00:00:00-WIB😈",😈Brisbane Roar vs Sydney😈|😈03-04-2026😈|⏳20:03:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/947.png" group-title="😈A-League😈|😈00:00:00-WIB😈",😈Brisbane Roar vs Sydney😈|😈03-04-2026😈|⏳19:52:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieubao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/947.png" group-title="😈A-League😈|😈00:00:00-WIB😈",😈Brisbane Roar vs Sydney😈|😈03-04-2026😈|⏳20:03:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/947.png" group-title="😈A-League😈|😈00:00:00-WIB😈",😈Brisbane Roar vs Sydney😈|😈03-04-2026😈|⏳19:52:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19086.png" group-title="😈AFC U20 Asian Cup - Women😈|😈03:00:00-WIB😈",😈Japan U20 W vs India U20 W😈|😈03-04-2026😈|⏳23:03:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19086.png" group-title="😈AFC U20 Asian Cup - Women😈|😈03:00:00-WIB😈",😈Japan U20 W vs India U20 W😈|😈03-04-2026😈|⏳22:52:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_trada/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19086.png" group-title="😈AFC U20 Asian Cup - Women😈|😈03:00:00-WIB😈",😈Japan U20 W vs India U20 W😈|😈03-04-2026😈|⏳23:03:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19086.png" group-title="😈AFC U20 Asian Cup - Women😈|😈03:00:00-WIB😈",😈Japan U20 W vs India U20 W😈|😈03-04-2026😈|⏳22:52:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_trada/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19086.png" group-title="😈AFC U20 Asian Cup - Women😈|😈03:00:00-WIB😈",😈Japan U20 W vs India U20 W😈|😈03-04-2026😈|⏳23:03:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/19086.png" group-title="😈AFC U20 Asian Cup - Women😈|😈03:00:00-WIB😈",😈Japan U20 W vs India U20 W😈|😈03-04-2026😈|⏳22:52:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2930.png" group-title="😈Division 1😈|😈05:55:00-WIB😈",😈Al-Faisaly FC vs Al Jubail😈|😈03-04-2026😈|⏳01:58:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2930.png" group-title="😈Division 1😈|😈05:55:00-WIB😈",😈Al-Faisaly FC vs Al Jubail😈|😈03-04-2026😈|⏳01:47:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_delua/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2930.png" group-title="😈Division 1😈|😈05:55:00-WIB😈",😈Al-Faisaly FC vs Al Jubail😈|😈03-04-2026😈|⏳01:58:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2930.png" group-title="😈Division 1😈|😈05:55:00-WIB😈",😈Al-Faisaly FC vs Al Jubail😈|😈03-04-2026😈|⏳01:47:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_delua/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2930.png" group-title="😈Division 1😈|😈05:55:00-WIB😈",😈Al-Faisaly FC vs Al Jubail😈|😈03-04-2026😈|⏳01:58:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2930.png" group-title="😈Division 1😈|😈05:55:00-WIB😈",😈Al-Faisaly FC vs Al Jubail😈|😈03-04-2026😈|⏳01:47:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:48:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:37:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_delua/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:48:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:37:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_delua/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:48:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:37:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:48:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:37:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieupao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:48:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:37:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieupao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:48:28😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1918.png" group-title="😈UEFA Champions League Women😈|😈06:45:00-WIB😈",😈Barcelona W vs Real Madrid W😈|😈03-04-2026😈|⏳02:37:28😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
