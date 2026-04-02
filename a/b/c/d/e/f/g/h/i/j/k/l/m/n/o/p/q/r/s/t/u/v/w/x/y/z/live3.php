@@ -1,39 +1,39 @@
 #EXTM3U
-# Generated Thu Apr  2 07:43:50 2026
+# Generated Thu Apr  2 07:55:08 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 02-04-2026 14:43:39 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 02-04-2026 14:54:57 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Macarthur FC😈 [🆚] 😈Newcastle Jets [51m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Macarthur FC😈 [🆚] 😈Newcastle Jets [40m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4426717
-#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈Australia Women U20😈 [🆚] 😈Chinese Taipei U20 Women [76m]😈📁
+#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈Australia Women U20😈 [🆚] 😈Chinese Taipei U20 Women [65m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4452311
-#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Brisbane Roar😈 [🆚] 😈Sydney FC [136m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Brisbane Roar😈 [🆚] 😈Sydney FC [125m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4426723
-#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈North Korea Women U20😈 [🆚] 😈Jordan (w) U20 [316m]😈📁
+#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈North Korea Women U20😈 [🆚] 😈Jordan (w) U20 [305m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4452304
-#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈Japan Women U20😈 [🆚] 😈India (w) U20 [316m]😈📁
+#EXTINF:-1 group-title="📁😈 AFC U-20 Women's Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png",📁😈Japan Women U20😈 [🆚] 😈India (w) U20 [304m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4452310
-#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Sogdiana Jizak😈 [🆚] 😈FK Kokand 1912 [316m]😈📁
+#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Sogdiana Jizak😈 [🆚] 😈FK Kokand 1912 [304m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4488017
-#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Bunyodkor😈 [🆚] 😈Lokomotiv Tashkent [376m]😈📁
+#EXTINF:-1 group-title="📁😈 Uzbekistan Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png",📁😈Bunyodkor😈 [🆚] 😈Lokomotiv Tashkent [364m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4488012
-#EXTINF:-1 group-title="📁😈 UEFA EL W 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ee7ce682e2eddfc71425fbcdb4ba9080.png",📁😈BK Hacken Women😈 [🆚] 😈Eintracht Frankfurt Women [526m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA EL W 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ee7ce682e2eddfc71425fbcdb4ba9080.png",📁😈BK Hacken Women😈 [🆚] 😈Eintracht Frankfurt Women [514m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4500016
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Barcelona Women😈 [🆚] 😈Real Madrid Women [541m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈Barcelona Women😈 [🆚] 😈Real Madrid Women [529m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4501071
-#EXTINF:-1 group-title="📁😈 UEFA EL W 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ee7ce682e2eddfc71425fbcdb4ba9080.png",📁😈Hammarby Women😈 [🆚] 😈Sparta Praha Women [556m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA EL W 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ee7ce682e2eddfc71425fbcdb4ba9080.png",📁😈Hammarby Women😈 [🆚] 😈Sparta Praha Women [544m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4500018
-#EXTINF:-1 group-title="📁😈 Saudi Arabia Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png",📁😈Al Zulfi😈 [🆚] 😈Al-Anwar Club [591m]😈📁
+#EXTINF:-1 group-title="📁😈 Saudi Arabia Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png",📁😈Al Zulfi😈 [🆚] 😈Al-Anwar Club [579m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4479046
-#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈OL Lyonnes Women😈 [🆚] 😈VfL Wolfsburg Women [676m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA Women's Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png",📁😈OL Lyonnes Women😈 [🆚] 😈VfL Wolfsburg Women [664m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4517915
-#EXTINF:-1 group-title="📁😈 Brazilian Serie B 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png",📁😈Sao Bernardo😈 [🆚] 😈Operario Ferroviario PR [856m]😈📁
+#EXTINF:-1 group-title="📁😈 Brazilian Serie B 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png",📁😈Sao Bernardo😈 [🆚] 😈Operario Ferroviario PR [844m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4494484
-#EXTINF:-1 group-title="📁😈 Indonesian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Dewa United FC😈 [🆚] 😈PSIM Yogyakarta [1696m]😈📁
+#EXTINF:-1 group-title="📁😈 Indonesian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Dewa United FC😈 [🆚] 😈PSIM Yogyakarta [1684m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4379478
-#EXTINF:-1 group-title="📁😈 Malaysian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d1bf68cb91607804e9997a6c4b70debe.png",📁😈Kuala Lumpur City FC😈 [🆚] 😈Johor Darul Ta'zim FC [1711m]😈📁
+#EXTINF:-1 group-title="📁😈 Malaysian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d1bf68cb91607804e9997a6c4b70debe.png",📁😈Kuala Lumpur City FC😈 [🆚] 😈Johor Darul Ta'zim FC [1699m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4523784
-#EXTINF:-1 group-title="📁😈 Qatar Stars League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png",📁😈Al Shahaniya😈 [🆚] 😈Al-Arabi SC [1906m]😈📁
+#EXTINF:-1 group-title="📁😈 Qatar Stars League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png",📁😈Al Shahaniya😈 [🆚] 😈Al-Arabi SC [1894m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4471661
-#EXTINF:-1 group-title="📁😈 Saudi Professional League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9115e93d22380b87e231573b0a796f27.png",📁😈Al Ittihad Club😈 [🆚] 😈Al Hazem [1951m]😈📁
+#EXTINF:-1 group-title="📁😈 Saudi Professional League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9115e93d22380b87e231573b0a796f27.png",📁😈Al Ittihad Club😈 [🆚] 😈Al Hazem [1939m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4404669
