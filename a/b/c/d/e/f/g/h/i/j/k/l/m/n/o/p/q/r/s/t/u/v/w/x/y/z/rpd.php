@@ -1,81 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [14.47 WIB 03/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [15.10 WIB 03/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 1",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=a64d716022d611368b0b2f82dfc08698&txTime=69cfc394
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 2",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=bb783eca194ef3b41f1531c92753f6b5&txTime=69cfc394
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 3",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=2829a307930f5c9b21880cf816d38abf&txTime=69cfc394
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 4",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=7b483fd8685dfa82dd601f8651dfc1e8&txTime=69cfc394
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 5",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1775205700-0-0-547173c511ef20a1a1dcc051c57d6ff4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 6",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1775205700-0-0-38483e4d91f7cfafe408e5f67aefb8d8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 7",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=7fe5f0b72fdd0a34d237cf2880319917&txTime=69cfc394
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 8",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=9fcbe6a4c188978ac34d990a2aa67a97&txTime=69cfc394
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 9",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=6605bd41aff623274f7d57409aa072fb&txTime=69cfc394
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 10",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=ffebe824974b6a72e955da8c2a6eb555&txTime=69cfc394
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 11",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1775205700-0-0-5441d49f331e75ee6afb77d32c11cb2a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-women-71bc36.webp" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 12",[LIVE 12:50 WIB 03/04/26] Adelaide United Women vs Wellington Phoenix Women | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1775205700-0-0-0ea78c09dc3311d24df81b88b53711ab
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-w-5c19da.png" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United (W) vs Wellington Phoenix (W) | Server 1",[LIVE 12:50 WIB 03/04/26] Adelaide United (W) vs Wellington Phoenix (W) | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/adelaide-united-w-5c19da.png" group-title="[LIVE 12:50 WIB 03/04/26] Adelaide United (W) vs Wellington Phoenix (W) | Server 2",[LIVE 12:50 WIB 03/04/26] Adelaide United (W) vs Wellington Phoenix (W) | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
- https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apia-leichhardt-tigers-86737e.webp" group-title="[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 1",[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1775205700-0-0-4219f6048197001616e3c07aee996d5f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apia-leichhardt-tigers-86737e.webp" group-title="[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 2",[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1775205700-0-0-02ab4593f00e99e37a8ac667911d5376
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apia-leichhardt-tigers-86737e.webp" group-title="[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 3",[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1775205700-0-0-522fc88373334c4934ed3f587354af07
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apia-leichhardt-tigers-86737e.webp" group-title="[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 4",[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1775205700-0-0-80eb2ef695460702f5e70a9caa76b952
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apia-leichhardt-tigers-86737e.webp" group-title="[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 5",[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c7865bd0a64181207193160a5c1935fa&txTime=69cfc394
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apia-leichhardt-tigers-86737e.webp" group-title="[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 6",[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=fde03408a10fd9129d21a0089add9ef5&txTime=69cfc394
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apia-leichhardt-tigers-86737e.webp" group-title="[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 7",[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1775205700-0-0-2cce41d9e6c6ce0952bff33c2e795bf0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apia-leichhardt-tigers-86737e.webp" group-title="[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 8",[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1775205700-0-0-29857f06f56516a603021ac74b9cdabe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apia-leichhardt-tigers-86737e.webp" group-title="[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 9",[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/apia-leichhardt-tigers-86737e.webp" group-title="[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 10",[LIVE 13:00 WIB 03/04/26] APIA Leichhardt Tigers vs Western Sydney Wanderers AM | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
- https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/eastern-district-sa-c1c0fd.png" group-title="[LIVE 14:00 WIB 03/04/26] Eastern District SA vs LeeMan | Server 1",[LIVE 14:00 WIB 03/04/26] Eastern District SA vs LeeMan | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/eastern-district-sa-c1c0fd.png" group-title="[LIVE 14:00 WIB 03/04/26] Eastern District SA vs LeeMan | Server 2",[LIVE 14:00 WIB 03/04/26] Eastern District SA vs LeeMan | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-glory-women-ff16ec.webp" group-title="[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 1",[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=0eff8910e50136ca4486896e62b46930&txTime=69cfc934
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-glory-women-ff16ec.webp" group-title="[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 2",[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ee919673e21c4b02f1c152a52d4688a8&txTime=69cfc934
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-glory-women-ff16ec.webp" group-title="[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 3",[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1775207140-0-0-fcc77fc42144ab875b006806eae6f554
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-glory-women-ff16ec.webp" group-title="[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 4",[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1775207140-0-0-632906d070981a667e1f871d151fe3e0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-glory-women-ff16ec.webp" group-title="[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 5",[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-501412_lsd.m3u8?auth_key=1775207140-0-0-b12aaabc6329670ea3b5235219c52031
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-glory-women-ff16ec.webp" group-title="[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 6",[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-501412_lhd.m3u8?auth_key=1775207140-0-0-09a1625549bccf0feb2a4923b48c12e0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-glory-women-ff16ec.webp" group-title="[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 7",[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1775207140-0-0-99d37ee04fb0e290d3924c2bba36e7a0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-glory-women-ff16ec.webp" group-title="[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 8",[LIVE 15:00 WIB 03/04/26] Perth Glory Women vs Melbourne Victory Women | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1775207140-0-0-05ce55f447bc7a8a9b5abc2f0c401f28
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manly-united-b5936e.webp" group-title="[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 1",[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1775207140-0-0-d001efb4f26f3bfcb460f7993ac130f5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manly-united-b5936e.webp" group-title="[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 2",[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1775207140-0-0-820f55630ea8b072f833f90f5eee55bf
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manly-united-b5936e.webp" group-title="[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 3",[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1775207140-0-0-6792521f9a5df380172c1b4da73ee167
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manly-united-b5936e.webp" group-title="[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 4",[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1775207140-0-0-66a3cc6f5b143f84bb5117215773186a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manly-united-b5936e.webp" group-title="[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 5",[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manly-united-b5936e.webp" group-title="[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 6",[LIVE 15:00 WIB 03/04/26] Manly United vs Sydney FC Youth | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/west-adelaide-bearcats-836aff.jpg" group-title="[LIVE 15:00 WIB 03/04/26] West Adelaide Bearcats vs Forestville Eagles | Server 1",[LIVE 15:00 WIB 03/04/26] West Adelaide Bearcats vs Forestville Eagles | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1775207140-0-0-96ea65249cca93433f7a05eb9892284a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/west-adelaide-bearcats-836aff.jpg" group-title="[LIVE 15:00 WIB 03/04/26] West Adelaide Bearcats vs Forestville Eagles | Server 2",[LIVE 15:00 WIB 03/04/26] West Adelaide Bearcats vs Forestville Eagles | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1775207140-0-0-cb0e4bfd80539adc578867a2f691245a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-glory-w-a1af92.png" group-title="[LIVE 15:00 WIB 03/04/26] Perth Glory (W) vs Melbourne Victory (W) | Server 1",[LIVE 15:00 WIB 03/04/26] Perth Glory (W) vs Melbourne Victory (W) | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+ https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/perth-glory-w-a1af92.png" group-title="[LIVE 15:00 WIB 03/04/26] Perth Glory (W) vs Melbourne Victory (W) | Server 2",[LIVE 15:00 WIB 03/04/26] Perth Glory (W) vs Melbourne Victory (W) | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
