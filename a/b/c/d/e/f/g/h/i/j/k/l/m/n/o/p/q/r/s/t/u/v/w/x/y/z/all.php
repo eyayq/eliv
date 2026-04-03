@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.12 WIB 03/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.53 WIB 03/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="k82rekhg94l2rep" tvg-name="West Bromwich Albion vs Wrexham" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] West Bromwich Albion vs Wrexham",[LIVE 21:00 WIB | 03/04/26] West Bromwich Albion vs Wrexham (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="k82rekhg94l2rep" tvg-name="West Bromwich Albion vs Wrexham" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] West Bromwich Albion vs Wrexham",[LIVE 21:00 WIB | 03/04/26] West Bromwich Albion vs Wrexham (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="3glrw7hn15d1qdy" tvg-name="Norwich City vs Portsmouth" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Norwich City vs Portsmouth",[LIVE 21:00 WIB | 03/04/26] Norwich City vs Portsmouth (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="3glrw7hn15d1qdy" tvg-name="Norwich City vs Portsmouth" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Norwich City vs Portsmouth",[LIVE 21:00 WIB | 03/04/26] Norwich City vs Portsmouth (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="2y8m4zh5j922ql0" tvg-name="Leicester City vs Preston North End" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Leicester City vs Preston North End",[LIVE 21:00 WIB | 03/04/26] Leicester City vs Preston North End (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="2y8m4zh5j922ql0" tvg-name="Leicester City vs Preston North End" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Leicester City vs Preston North End",[LIVE 21:00 WIB | 03/04/26] Leicester City vs Preston North End (Giàng A Chiến)
@@ -25,10 +17,22 @@ https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0b
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="x7lm7phjoe4wm2w" tvg-name="Oxford United vs Hull City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Oxford United vs Hull City",[LIVE 21:00 WIB | 03/04/26] Oxford United vs Hull City (Lữ Bố (Giàng Phụng Tiên))
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="318q66hx8jg5qo9" tvg-name="Qarabag vs Sabah Baku" tvg-logo="https://img.cdnok9.com/football/competition/a9d9726d17514f81abb93899ef407f3a.png" group-title="[UPCO 23:00 WIB | 6m | 03/04/26] Qarabag vs Sabah Baku",[UPCO 23:00 WIB | 6m | 03/04/26] Qarabag vs Sabah Baku (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="318q66hx8jg5qo9" tvg-name="Qarabag vs Sabah Baku" tvg-logo="https://img.cdnok9.com/football/competition/a9d9726d17514f81abb93899ef407f3a.png" group-title="[UPCO 23:00 WIB | 6m | 03/04/26] Qarabag vs Sabah Baku",[UPCO 23:00 WIB | 6m | 03/04/26] Qarabag vs Sabah Baku (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="n54qllhne6vdqvy" tvg-name="Queens Park Rangers vs Watford" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Queens Park Rangers vs Watford",[LIVE 21:00 WIB | 03/04/26] Queens Park Rangers vs Watford (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="n54qllhne6vdqvy" tvg-name="Queens Park Rangers vs Watford" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Queens Park Rangers vs Watford",[LIVE 21:00 WIB | 03/04/26] Queens Park Rangers vs Watford (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="965mkyhkzwl6r1g" tvg-name="Al Kholood vs Al Khaleej Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[UPCO 23:00 WIB | 6m | 03/04/26] Al Kholood vs Al Khaleej Club",[UPCO 23:00 WIB | 6m | 03/04/26] Al Kholood vs Al Khaleej Club (Giàng A Voi)
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="965mkyhkzwl6r1g" tvg-name="Al Kholood vs Al Khaleej Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[UPCO 23:00 WIB | 6m | 03/04/26] Al Kholood vs Al Khaleej Club",[UPCO 23:00 WIB | 6m | 03/04/26] Al Kholood vs Al Khaleej Club (Giàng A Voi)
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="4wyrn4h6oo7vq86" tvg-name="Al Shahaniya vs Al-Arabi SC" tvg-logo="https://img.cdnok9.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png" group-title="[LIVE 22:30 WIB | 03/04/26] Al Shahaniya vs Al-Arabi SC",[LIVE 22:30 WIB | 03/04/26] Al Shahaniya vs Al-Arabi SC (Giàng A Sún)
+https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="4wyrn4h6oo7vq86" tvg-name="Al Shahaniya vs Al-Arabi SC" tvg-logo="https://img.cdnok9.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png" group-title="[LIVE 22:30 WIB | 03/04/26] Al Shahaniya vs Al-Arabi SC",[LIVE 22:30 WIB | 03/04/26] Al Shahaniya vs Al-Arabi SC (Giàng A Sún)
+https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="y39mp1h6zv2kmoj" tvg-name="Dinamo Batumi vs Spaeri FC" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 03/04/26] Dinamo Batumi vs Spaeri FC",[LIVE 22:00 WIB | 03/04/26] Dinamo Batumi vs Spaeri FC (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="y39mp1h6zv2kmoj" tvg-name="Dinamo Batumi vs Spaeri FC" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 03/04/26] Dinamo Batumi vs Spaeri FC",[LIVE 22:00 WIB | 03/04/26] Dinamo Batumi vs Spaeri FC (HOÀNG CÁI)
@@ -45,7 +49,15 @@ https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb022234
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="4jwq2ghnkjl9m0v" tvg-name="Stoke City vs Sheffield Wednesday" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Stoke City vs Sheffield Wednesday",[LIVE 21:00 WIB | 03/04/26] Stoke City vs Sheffield Wednesday (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="4wyrn4h6oo7vq86" tvg-name="Al Shahaniya vs Al-Arabi SC" tvg-logo="https://img.cdnok9.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png" group-title="[UPCO 22:30 WIB | 17m | 03/04/26] Al Shahaniya vs Al-Arabi SC",[UPCO 22:30 WIB | 17m | 03/04/26] Al Shahaniya vs Al-Arabi SC (Giàng A Sún)
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="4wyrn4h6oo7vq86" tvg-name="Al Shahaniya vs Al-Arabi SC" tvg-logo="https://img.cdnok9.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png" group-title="[UPCO 22:30 WIB | 17m | 03/04/26] Al Shahaniya vs Al-Arabi SC",[UPCO 22:30 WIB | 17m | 03/04/26] Al Shahaniya vs Al-Arabi SC (Giàng A Sún)
-https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="k82rekhg94l2rep" tvg-name="West Bromwich Albion vs Wrexham" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] West Bromwich Albion vs Wrexham",[LIVE 21:00 WIB | 03/04/26] West Bromwich Albion vs Wrexham (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="k82rekhg94l2rep" tvg-name="West Bromwich Albion vs Wrexham" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] West Bromwich Albion vs Wrexham",[LIVE 21:00 WIB | 03/04/26] West Bromwich Albion vs Wrexham (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="3glrw7hn15d1qdy" tvg-name="Norwich City vs Portsmouth" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Norwich City vs Portsmouth",[LIVE 21:00 WIB | 03/04/26] Norwich City vs Portsmouth (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="3glrw7hn15d1qdy" tvg-name="Norwich City vs Portsmouth" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Norwich City vs Portsmouth",[LIVE 21:00 WIB | 03/04/26] Norwich City vs Portsmouth (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="965mkyhkz8p6r1g" tvg-name="Al Ittihad Club vs Al Hazem" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[UPCO 23:15 WIB | 21m | 03/04/26] Al Ittihad Club vs Al Hazem",[UPCO 23:15 WIB | 21m | 03/04/26] Al Ittihad Club vs Al Hazem (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="965mkyhkz8p6r1g" tvg-name="Al Ittihad Club vs Al Hazem" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[UPCO 23:15 WIB | 21m | 03/04/26] Al Ittihad Club vs Al Hazem",[UPCO 23:15 WIB | 21m | 03/04/26] Al Ittihad Club vs Al Hazem (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
