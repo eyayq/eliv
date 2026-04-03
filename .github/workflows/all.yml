@@ -37,7 +37,7 @@ jobs:
 
       - name: Decode Python Script
         run: |
-          echo "${{ secrets.ALL_PY }}" | base64 -d > jj.py
+          echo "${{ secrets.ALL_PY }}" | base64 -d > all.py
           chmod +x all.py
 
       - name: Run Scr
