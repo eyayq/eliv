@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.33 WIB 03/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.12 WIB 03/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="k82rekhg94l2rep" tvg-name="West Bromwich Albion vs Wrexham" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] West Bromwich Albion vs Wrexham",[LIVE 21:00 WIB | 03/04/26] West Bromwich Albion vs Wrexham (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
@@ -17,10 +17,6 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="l5ergph436z6r8k" tvg-name="Charlton Athletic vs Bristol City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Charlton Athletic vs Bristol City",[LIVE 21:00 WIB | 03/04/26] Charlton Athletic vs Bristol City (Giàng A Ka)
 https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="dn1m1ghlez5gmoe" tvg-name="Birmingham City vs Blackburn Rovers" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Birmingham City vs Blackburn Rovers",[LIVE 21:00 WIB | 03/04/26] Birmingham City vs Blackburn Rovers (CAKHIA TV )
-https://hls.686868.me/live/GIANGAWIN/index.m3u8?expire=1781426880&sign=75bd59861b9f6a988525bab769356d92
-#EXTINF:-1 tvg-id="dn1m1ghlez5gmoe" tvg-name="Birmingham City vs Blackburn Rovers" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Birmingham City vs Blackburn Rovers",[LIVE 21:00 WIB | 03/04/26] Birmingham City vs Blackburn Rovers (CAKHIA TV )
-https://flv.686868.me/live/GIANGAWIN.flv?expire=1781426880&sign=75bd59861b9f6a988525bab769356d92
 #EXTINF:-1 tvg-id="dn1m1ghlez5gmoe" tvg-name="Birmingham City vs Blackburn Rovers" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Birmingham City vs Blackburn Rovers",[LIVE 21:00 WIB | 03/04/26] Birmingham City vs Blackburn Rovers (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="dn1m1ghlez5gmoe" tvg-name="Birmingham City vs Blackburn Rovers" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Birmingham City vs Blackburn Rovers",[LIVE 21:00 WIB | 03/04/26] Birmingham City vs Blackburn Rovers (Giàng A Choén)
@@ -33,6 +29,10 @@ https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df7
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="n54qllhne6vdqvy" tvg-name="Queens Park Rangers vs Watford" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Queens Park Rangers vs Watford",[LIVE 21:00 WIB | 03/04/26] Queens Park Rangers vs Watford (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="y39mp1h6zv2kmoj" tvg-name="Dinamo Batumi vs Spaeri FC" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 03/04/26] Dinamo Batumi vs Spaeri FC",[LIVE 22:00 WIB | 03/04/26] Dinamo Batumi vs Spaeri FC (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="y39mp1h6zv2kmoj" tvg-name="Dinamo Batumi vs Spaeri FC" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 03/04/26] Dinamo Batumi vs Spaeri FC",[LIVE 22:00 WIB | 03/04/26] Dinamo Batumi vs Spaeri FC (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="y0or5jh83lelqwz" tvg-name="Gil Vicente vs AVS Futebol SAD" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 21:30 WIB | 03/04/26] Gil Vicente vs AVS Futebol SAD",[LIVE 21:30 WIB | 03/04/26] Gil Vicente vs AVS Futebol SAD (Giàng A Khoai)
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="y0or5jh83lelqwz" tvg-name="Gil Vicente vs AVS Futebol SAD" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 21:30 WIB | 03/04/26] Gil Vicente vs AVS Futebol SAD",[LIVE 21:30 WIB | 03/04/26] Gil Vicente vs AVS Futebol SAD (Giàng A Khoai)
@@ -45,7 +45,7 @@ https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb022234
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="4jwq2ghnkjl9m0v" tvg-name="Stoke City vs Sheffield Wednesday" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 03/04/26] Stoke City vs Sheffield Wednesday",[LIVE 21:00 WIB | 03/04/26] Stoke City vs Sheffield Wednesday (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="y39mp1h6zv2kmoj" tvg-name="Dinamo Batumi vs Spaeri FC" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[UPCO 22:00 WIB | 26m | 03/04/26] Dinamo Batumi vs Spaeri FC",[UPCO 22:00 WIB | 26m | 03/04/26] Dinamo Batumi vs Spaeri FC (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="y39mp1h6zv2kmoj" tvg-name="Dinamo Batumi vs Spaeri FC" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[UPCO 22:00 WIB | 26m | 03/04/26] Dinamo Batumi vs Spaeri FC",[UPCO 22:00 WIB | 26m | 03/04/26] Dinamo Batumi vs Spaeri FC (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="4wyrn4h6oo7vq86" tvg-name="Al Shahaniya vs Al-Arabi SC" tvg-logo="https://img.cdnok9.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png" group-title="[UPCO 22:30 WIB | 17m | 03/04/26] Al Shahaniya vs Al-Arabi SC",[UPCO 22:30 WIB | 17m | 03/04/26] Al Shahaniya vs Al-Arabi SC (Giàng A Sún)
+https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="4wyrn4h6oo7vq86" tvg-name="Al Shahaniya vs Al-Arabi SC" tvg-logo="https://img.cdnok9.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png" group-title="[UPCO 22:30 WIB | 17m | 03/04/26] Al Shahaniya vs Al-Arabi SC",[UPCO 22:30 WIB | 17m | 03/04/26] Al Shahaniya vs Al-Arabi SC (Giàng A Sún)
+https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
