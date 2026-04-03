@@ -20,6 +20,9 @@ WORKFLOW_GROUPS = [
     ["hh.yml", "kk.yml"],
     ["jj.yml", "ii.yml"],
     ["pl.yml", "z.yml"],
+    ["cucen.yml", "rpd.yml"],
+    ["all.yml", "kecoa.yml"],
+    ["gvng.yml", "z.yml"],
     ["lve1.yml"]
 ]
 
