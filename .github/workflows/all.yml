@@ -1,4 +1,4 @@
-name: Itc scr
+name: All php
 
 on:
   schedule:
@@ -8,8 +8,8 @@ on:
     branches:
       - main
     paths:
-      - 'jj.py'
-      - '.github/workflows/jj.yml'
+      - 'all.py'
+      - '.github/workflows/all.yml'
 
 jobs:
   merge-and-commit:
@@ -33,16 +33,16 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests aiohttp
 
       - name: Decode Python Script
         run: |
-          echo "${{ secrets.JJ_PY }}" | base64 -d > jj.py
-          chmod +x jj.py
+          echo "${{ secrets.ALL_PY }}" | base64 -d > jj.py
+          chmod +x all.py
 
       - name: Run Scr
         run: |
-          python jj.py
+          python all.py
 
       - name: Commit Playlist
         env:
@@ -51,7 +51,7 @@ jobs:
           git config --global user.name "yanshdroid[bot]"
           git config --global user.email "yanshdroid[bot]@users.noreply.github.com"
 
-          FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live1.php"
+          FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/all.php"
 
           if [ -f "$FILE" ]; then
             git add "$FILE"
@@ -66,5 +66,5 @@ jobs:
               sleep 5
             done
           else
-            echo "live1.php not found"
+            echo "all.php not found"
           fi
