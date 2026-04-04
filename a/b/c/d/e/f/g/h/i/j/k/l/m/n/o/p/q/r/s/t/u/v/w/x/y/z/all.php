@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.00 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.04 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="l5ergph4v5l6r8k" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 05/04/26] Atletico Madrid vs FC Barcelona (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
@@ -25,27 +25,11 @@ https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="l5ergph4v5l6r8k" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 05/04/26] Atletico Madrid vs FC Barcelona (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="x7lm7phjwk0gm2w" tvg-name="FC Porto vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 05/04/26] FC Porto vs FC Famalicao",[LIVE 02:30 WIB | 05/04/26] FC Porto vs FC Famalicao (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="x7lm7phjwk0gm2w" tvg-name="FC Porto vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 05/04/26] FC Porto vs FC Famalicao",[LIVE 02:30 WIB | 05/04/26] FC Porto vs FC Famalicao (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="23xmvkh6o8pyqg8" tvg-name="LOSC Lille vs RC Lens" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 05/04/26] LOSC Lille vs RC Lens",[LIVE 02:05 WIB | 05/04/26] LOSC Lille vs RC Lens (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="23xmvkh6o8pyqg8" tvg-name="LOSC Lille vs RC Lens" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 05/04/26] LOSC Lille vs RC Lens",[LIVE 02:05 WIB | 05/04/26] LOSC Lille vs RC Lens (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="x7lm7phjwk0gm2w" tvg-name="FC Porto vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 05/04/26] FC Porto vs FC Famalicao",[LIVE 02:30 WIB | 05/04/26] FC Porto vs FC Famalicao (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="x7lm7phjwk0gm2w" tvg-name="FC Porto vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 05/04/26] FC Porto vs FC Famalicao",[LIVE 02:30 WIB | 05/04/26] FC Porto vs FC Famalicao (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
