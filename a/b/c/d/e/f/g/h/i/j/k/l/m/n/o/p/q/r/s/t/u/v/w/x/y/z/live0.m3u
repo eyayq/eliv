@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-04-04 01:21:48
-# 🔄 Total Channels: 2047
+# ⏰ Latest Updated: 2026-04-04 01:41:11
+# 🔄 Total Channels: 2035
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -46,31 +46,36 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Cdnlivetv",[Liga MX] Juarez vs Puebla (CDNTV)
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=tudn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge.cdn-live.ru/secure/api/v1/us-tudn/playlist.m3u8?token=2d414d7b0dac343748e0362f8b3ee95f22f60c91357dc629785dfdddf9805b58.1775265441.64e522d1b780c77a5a05641fc65c9739.c3582985f92e770dc955c3d23f67d8d0.81091412796e06e73b545de9d80714c6&signature=de024fa36396559c55fb21b33119abe08921baa3d1585b2c40047934f18ed07c
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Cdnlivetv",[MLB] Atlanta Braves vs Arizona Diamondbacks (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=arizona+diamondbacks&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=arizona+diamondbacks&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge.cdn-live.ru/secure/api/v1/us-mlb-arizona-diamondbacks/playlist.m3u8?token=5caa8f0822ac360d171ed09d627d900cccc2e3492de24ff65690ef70eda2ea06.1775265461.5015396d3d60466a40c9eadee35b462d.017c89b1f3c776c03bdb85b6d64cf77e.839e9b07c6202675e3c7f99056097db0&signature=61415affb2fa2953cddfe8d82a56d0c4b88555c3d3f8dda2d51950b1c31550e2
+https://edge.cdn-live.ru/secure/api/v1/us-mlb-arizona-diamondbacks/playlist.m3u8?token=e5aee05c95d26c6c0d2fffcc0699730c4b88d4f596c0804f6a75f3be9070dc9c.1775266534.6780e6bc429fc454541f1c2a85aadf71.d78b5eb9c16b240d9e26d86c6633ea26.e939d288dfc8f05d90df163e9f2e9bbd&signature=bd84d6d41d4a50b0a3261b5a5dd9d33ed660cc66b2b173f4040886a16a8f0360
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Cdnlivetv",[MLB] Houston Astros vs Oakland Athletics (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=oakland+athletics&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=oakland+athletics&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge.cdn-live.ru/secure/api/v1/us-mlb-oakland-athletics/playlist.m3u8?token=cea837e1098b57418e9179decbc08fde2cb4dcc71af462fd66ac44eb2f560b60.1775265464.668ab11d56190c8a0289de6b592f5e00.3361e8133ce077b81b46851dcc29740f.83fd726f975b3cd9827b51fe961e92bd&signature=d90e1cdff51d882e3e2dd4169e34b276129ef5a696ec05c9b23c333504b3d958
+https://edge.cdn-live.ru/secure/api/v1/us-mlb-oakland-athletics/playlist.m3u8?token=98e47ed39f67840ebacdf12d66af852ec2946bb980d63e9c97f614c45328c9d4.1775266538.e18d3ea898061769f818ba47090a44a4.309d8b12952048472874dffaa48aec5e.5366d4c1344eda602721246faf066a68&signature=0011107d0c2dcf8c41c13fe0cb0de2103d143ec79375d1c082f5718636e876fa
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Cdnlivetv",[MLB] Los Angeles Angels vs Seattle Mariners (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=seattle+mariners&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=seattle+mariners&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge.cdn-live.ru/secure/api/v1/us-mlb-seattle-mariners/playlist.m3u8?token=1915d85561a0b700d6d949bb8e43a6e19a690ce9d2ece01aa8d7fc63d627aeda.1775265457.d24b6f78de6b8ec84d6355ee501e1591.5edc29a5da927d3b761b2aa153a31c24.d0e0fd1f74868460c33da4f4862b4c39&signature=b225e5e74b7c48689b3ac74bf5c471e6bb256115cd2932e152853edbe93612f8
+https://edge.cdn-live.ru/secure/api/v1/us-mlb-seattle-mariners/playlist.m3u8?token=1718b75fe6367c7c26e79908a0eea1e4ee844260cefd400b14b8fa9d7871aec8.1775266531.46aa23b00da9d44f939f4d503a140d52.8e85154694c9ee31b4b103b2e0dd9b8d.f2c121be7007b580e44df2b54b871e43&signature=913cfe3f9363dbcb2faf314f8c857b612cdfcac8ad42bde33daf6fb34e2910d8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Cdnlivetv",[NBA] New Orleans Pelicans vs Sacramento Kings (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=tnt+sports+8&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/gb-tnt-sports-8/playlist.m3u8?token=283c9bc6ba03413d82564f4909915fc8ea8fad408318bccf009d184744000e58.1775266524.28841d8a47850a1b22d9cb2a834c53d9.f56281428f27d2324dceb9a42d0653d9.13b754d9ded5d111f73a1f2c641c5a4a&signature=8510b0c4eee19a5783f1a3bfa4a46f935172ef800903277b32bdfe5891a995db
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Cdnlivetv",[NHL] Anaheim Ducks vs St. Louis Blues (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=38c20dc810d132c1503733893e60ae34776fc676402db0d5e777bcff61a32ea0.1775266527.0178b3784d05becec4bee8dd20196eb2.b2f1de1cc9969fa32231cc0e16a3d23a.0ab127eeac09a9dac75e265583e6ee91&signature=ad51357d7a63e19930136dcfa065e91d764e1d21da9926e4f82f24e53078a0df
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Cdnlivetv",[Primera A] Deportivo Cali vs Junior (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge.cdn-live.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=6a666eb3f827cd37aaac0be5ea01b84a9115d58a8e1063e13e612eafa051a8a5.1775265453.2e2412581afa11abe6d3afde244458f5.10a83a78b9605b4c80ea2a0c630730a6.5572deedb54c5104dff741c08f20f4fe&signature=a009414a397fa6d659fcea040b37a387bdd2c7bc6070bdc1f669913e0dfbe98c
+https://edge.cdn-live.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=7c00ba11434d8ffa215ee2c44a94dbef2ce2aaf9630a71ecb57d70722b79f782.1775266521.8ad4a516cab4ed7fd1b782ed59877aab.94746bfb99adfb05801f18d297ad4738.1536901cf157bc200f1202e7b739efbf&signature=fb09e78574e4955ab8d437b42b6e17ffcbc6120cc9b79e280f00aeee7a1ae84a
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Fawa",[Argentina Liga Profesional] San Lorenzo vs Estudiantes LP (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -320,477 +325,487 @@ https://l1.loreofeldenring.site/dailymotion/live/playlist/7.m3u8
 #EXTVLCOPT:http-referrer=https://pawastreams.net/f1-japanese-gp/101817/
 #EXTVLCOPT:http-origin=https://pawastreams.net/f1-japanese-gp/101817/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb.buzztip.site/1/index.m3u8?token=7b4ba19d96b2bbdc534807412d54114109919817-96205ebe60b9e686a92dc43c14737aac-1775275937-1775265137
+https://lb.buzztip.site/1/index.m3u8?token=9507d5dac04b23b1692b577c2c91c568807c7048-24df3e7854330eeb884df575a3e7222c-1775277014-1775266214
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pawa",[Live Event] F1 Japanese GP Race (PAWA)
 #EXTVLCOPT:http-referrer=https://pawastreams.net/f1-japanese-gp-race/101816/
 #EXTVLCOPT:http-origin=https://pawastreams.net/f1-japanese-gp-race/101816/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb.buzztip.site/1/index.m3u8?token=2e1d5679398a8a05f38688aa595db14da6026318-1137c6536b162ef95b3415ad7f3ade88-1775275937-1775265137
+https://lb.buzztip.site/1/index.m3u8?token=839a4cfb1c24dce2dd7b9d076a46c9199c6ee356-784a6ba4e242453ec14011e9d5a63aca-1775277015-1775266215
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pawa",[Live Event] Sporting CP vs Santa Clara (PAWA)
 #EXTVLCOPT:http-referrer=https://pawastreams.net/sporting-cp-vs-santa-clara/102099/
 #EXTVLCOPT:http-origin=https://pawastreams.net/sporting-cp-vs-santa-clara/102099/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://toocdn.top/p2/index.m3u8?token=d6846394786bd99c204078489eb370ca6f63bbbc-23964736bb8f3f70c86a42347590182c-1775275937-1775265137
+https://toocdn.top/p2/index.m3u8?token=5d5c2e8c5ae3c04091236f3573ef869485349d5a-65b1b8ce78bd86172e002eb8414b7a62-1775277013-1775266213
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pawa",[Live Event] Sporting CP vs Santa Clara t (PAWA)
 #EXTVLCOPT:http-referrer=https://pawastreams.net/sporting-cp-vs-santa-clara-t/102122/
 #EXTVLCOPT:http-origin=https://pawastreams.net/sporting-cp-vs-santa-clara-t/102122/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://toocdn.top/p2/index.m3u8?token=5e8a9e89e697cec49bb9b102d0222706c221952c-5adcebd96457b91f07917a40988ba792-1775275936-1775265136
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="Ppv",[24/7 Streams] 24/7 COWS (PPV)
+https://toocdn.top/p2/index.m3u8?token=aa552644e471cc656d51f9e582f7380ef9c71088-0858a119b9ad1fc310d3b586311cd2b6-1775277013-1775266213
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="Ppv",[24/7 Streams] 24/7 COWS (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/247-cows#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/247-cows#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/ujufmBfCCkWfnlKChiUUxXdKNucUhQvX/0/1775351978/cows/tracks-v1a1/mono.ts.m3u8
+https://lb4.modifiles.fans/secure/mRdmWxVuXWpYcWGJVGShCXfuRgXfKNRD/0/1775353044/cows/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="Ppv",[24/7 Streams] 24/7 Family Guy (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/247-family-guy#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/247-family-guy#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/mUdsYmsThFMuEqsomYIdHLQnyUaWQejT/0/1775351971/familyguy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="Ppv",[24/7 Streams] 24/7 SpongeBob Squarepants (PPV)
+https://lb4.modifiles.fans/secure/bXOuvyVsZELbXlYZKdvqboRFUtadAHvf/0/1775353006/familyguy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="Ppv",[24/7 Streams] 24/7 SpongeBob Squarepants (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/247-spongebob-squarepants#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/247-spongebob-squarepants#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/vOfjWsCUkWCzMiWoMxzqOXGChJoUzCld/0/1775351981/spongebob/tracks-v1a1/mono.ts.m3u8
+https://lb3.modifiles.fans/secure/vxWiYQhleCbIMjCHxkFzxQTFYnKRUEtq/0/1775353024/spongebob/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="Ppv",[24/7 Streams] 24/7 The Simpsons (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/247-the-simpsons#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/247-the-simpsons#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/TRduQaakSDsRZYFaeGXOlplJRMKocDHQ/0/1775351980/thesimpsons/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="Ppv",[24/7 Streams] Rally TV (PPV)
+https://lb4.modifiles.fans/secure/veDPBDixUNTZRdwQuIrBTRkDjmQeFwpn/0/1775353047/thesimpsons/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="Ppv",[24/7 Streams] Rally TV (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/rally-tv#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/rally-tv#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/5a291be4b3ba5b169f0d3bf7824fc613-thumbnail.jpg" group-title="Ppv",[Baseball] Atlanta Braves vs. Arizona Diamondbacks (PPV)
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/5a291be4b3ba5b169f0d3bf7824fc613-thumbnail.jpg" group-title="Ppv",[Baseball] Atlanta Braves vs. Arizona Diamondbacks (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-03/atl-ari#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-03/atl-ari#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/luLWjbBrOwYOepsqOGcnJmTTHXhUTyDh/1775256000/1775286600/arizonadiamondbacks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/09af49b7d00a7d302cc89eb5b003580c-thumbnail.jpg" group-title="Ppv",[Baseball] Houston Astros vs. Athletics (PPV)
+https://lb1.modifiles.fans/secure/EPFqXFrMnKZqIhcpcEtTSkrqfYmNrDst/1775256000/1775286600/arizonadiamondbacks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/09af49b7d00a7d302cc89eb5b003580c-thumbnail.jpg" group-title="Ppv",[Baseball] Houston Astros vs. Athletics (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-03/hou-ath#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-03/hou-ath#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/kJQAqgZanUdFennUyXlUMDgHHsTfgydY/1775256000/1775286600/athletics/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/13fae5d1725afe29e16124602d66479f-thumbnail.jpg" group-title="Ppv",[Baseball] Milwaukee Brewers vs. Kansas City Royals (PPV)
+https://lb1.modifiles.fans/secure/ybwxyrXKNGWzYiyChWQLOlxikiSfdFKJ/1775256000/1775286600/athletics/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/13fae5d1725afe29e16124602d66479f-thumbnail.jpg" group-title="Ppv",[Baseball] Milwaukee Brewers vs. Kansas City Royals (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-03/mil-kc#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-03/mil-kc#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/ZpiWgAFJkBBkVXvecXgFxwIdTIBczbil/1775248800/1775279400/kansascityroyals/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/437f2b28c636273aaa1a4d6a2b26136b-thumbnail.jpg" group-title="Ppv",[Baseball] New York Mets vs. San Francisco Giants (PPV)
+https://lb5.modifiles.fans/secure/vGVGjbOZzDcOjwYvPgYpLHpRLxsOxjqn/1775248800/1775279400/kansascityroyals/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/437f2b28c636273aaa1a4d6a2b26136b-thumbnail.jpg" group-title="Ppv",[Baseball] New York Mets vs. San Francisco Giants (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-03/nym-sf#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-03/nym-sf#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/LpiTsiOvITtlNbLcaaGTRnbfEEQnZmIy/1775258100/1775288700/sanfranciscogiants/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/a5e4b72859961e025ab6cd9711e4ff40-thumbnail.jpg" group-title="Ppv",[Baseball] Seattle Mariners vs. Los Angeles Angels (PPV)
+https://lb3.modifiles.fans/secure/THSFWuefjBkJULUpzoSuPADCFBwjXaYB/1775258100/1775288700/sanfranciscogiants/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/a5e4b72859961e025ab6cd9711e4ff40-thumbnail.jpg" group-title="Ppv",[Baseball] Seattle Mariners vs. Los Angeles Angels (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-03/sea-laa#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-03/sea-laa#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/CcqHbhmRBLlZDEAEtgieMLmHGEPZbTHc/1775255880/1775286480/losangelesangels/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/992451b80109d452c4fcf88d96051a67-thumbnail.jpg" group-title="Ppv",[Basketball] Atlanta Hawks vs. Brooklyn Nets (PPV)
+https://lb4.modifiles.fans/secure/fHJsJOsDNWuQLJUNlENPHYUklnrtVfNf/1775255880/1775286480/losangelesangels/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/992451b80109d452c4fcf88d96051a67-thumbnail.jpg" group-title="Ppv",[Basketball] Atlanta Hawks vs. Brooklyn Nets (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-03/atl-bkn#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-03/atl-bkn#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/TivcRFBRIcdwBTvSknGJBRhOMtpJOEaq/1775248200/1775276280/brooklynnets/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/92ea8b3a31b441eb07f7c32ceb4ce86d-thumbnail.jpg" group-title="Ppv",[Basketball] Boston Celtics vs. Milwaukee Bucks (PPV)
+https://lb4.modifiles.fans/secure/zsIaulWjPHfnsSsCRWMjVKrERKmVLCvS/1775248200/1775276280/brooklynnets/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/92ea8b3a31b441eb07f7c32ceb4ce86d-thumbnail.jpg" group-title="Ppv",[Basketball] Boston Celtics vs. Milwaukee Bucks (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-03/bos-mil#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-03/bos-mil#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/oROTTMlJNxUKaYJNYFuXdchviDEPKCsP/1775250000/1775278080/milwaukeebucks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/04c8b5fb543cda096b1de8a32f7a268d-thumbnail.jpg" group-title="Ppv",[Basketball] Chicago Bulls vs. New York Knicks (PPV)
+https://lb1.modifiles.fans/secure/PvTMRorVeBEWESfHqJkzuUttIDDgDyEK/1775250000/1775278080/milwaukeebucks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/04c8b5fb543cda096b1de8a32f7a268d-thumbnail.jpg" group-title="Ppv",[Basketball] Chicago Bulls vs. New York Knicks (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-03/chi-ny#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-03/chi-ny#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/YUDKEwIzkjRQXadAjREUwtSQtsrIwAcn/1775248200/1775276280/newyorkknicks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/1418eb62b4d81c0306b411c3d0fdf786-thumbnail.jpg" group-title="Ppv",[Basketball] Indiana Pacers vs. Charlotte Hornets (PPV)
+https://lb4.modifiles.fans/secure/NjWbLyTMQRTLEbFmwfihZPoTbamylkvv/1775248200/1775276280/newyorkknicks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/1418eb62b4d81c0306b411c3d0fdf786-thumbnail.jpg" group-title="Ppv",[Basketball] Indiana Pacers vs. Charlotte Hornets (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-03/ind-cha#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-03/ind-cha#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/jnRmREOyzsFxaCKNRbGIgPHuqhaAkJUp/1775246400/1775274480/charlottehornets/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/4875d235235f86e50d3556e9206d89df-thumbnail.jpg" group-title="Ppv",[Basketball] Minnesota Timberwolves vs. Philadelphia 76ers (PPV)
+https://lb5.modifiles.fans/secure/jSGqLbRDlgprrsfQppiKLOAkIXXTiXKZ/1775246400/1775274480/charlottehornets/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/4875d235235f86e50d3556e9206d89df-thumbnail.jpg" group-title="Ppv",[Basketball] Minnesota Timberwolves vs. Philadelphia 76ers (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-03/min-phi#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-03/min-phi#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/ROcJLtfTjFeTiLDsJypXNrVWulnDRcQS/1775246400/1775274480/philadelphia76ers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/4ffc65a5f6e77844f739e660fd9c06d9-thumbnail.jpg" group-title="Ppv",[Basketball] New Orleans Pelicans vs. Sacramento Kings (PPV)
+https://lb2.modifiles.fans/secure/wslDVWCsvTFOcenFuzOssErgmuWIMIBe/1775246400/1775274480/philadelphia76ers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/4ffc65a5f6e77844f739e660fd9c06d9-thumbnail.jpg" group-title="Ppv",[Basketball] New Orleans Pelicans vs. Sacramento Kings (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-03/no-sac#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-03/no-sac#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/tXwRgaKUhyrctABxIcWHwXTchzUPIhkd/1775257200/1775285280/sacramentokings/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/1d2ac0f8832e7e233a503da51d8ccbd5-thumbnail.jpg" group-title="Ppv",[Basketball] Orlando Magic vs. Dallas Mavericks (PPV)
+https://lb2.modifiles.fans/secure/DtkahJgNYwgaUPTgiBZnBXorCYaWTJHO/1775257200/1775285280/sacramentokings/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/1d2ac0f8832e7e233a503da51d8ccbd5-thumbnail.jpg" group-title="Ppv",[Basketball] Orlando Magic vs. Dallas Mavericks (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-03/orl-dal#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-03/orl-dal#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/MNHLSoanWqdyfnXrEdAPjMvirwkJoznd/1775251800/1775279880/dallasmavericks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/e11752e6c8073e3d2842b5a653a450ab-thumbnail.jpg" group-title="Ppv",[Basketball] Toronto Raptors vs. Memphis Grizzlies (PPV)
+https://lb2.modifiles.fans/secure/PlPsAChWWyfMAJZOfinxBFDRHVrmRfIU/1775251800/1775279880/dallasmavericks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/e11752e6c8073e3d2842b5a653a450ab-thumbnail.jpg" group-title="Ppv",[Basketball] Toronto Raptors vs. Memphis Grizzlies (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-03/tor-mem#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-03/tor-mem#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/kKZzvtygTpeVzFlHnfyQQaVXSbxMgzga/1775250000/1775278080/memphisgrizzlies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/a54099d41733d89e8fb9c38b13c1efb1-thumbnail.jpg" group-title="Ppv",[Basketball] Utah Jazz vs. Houston Rockets (PPV)
+https://lb1.modifiles.fans/secure/TBztRtOlkFvXkzyGuYKQrzXsezauwLSq/1775250000/1775278080/memphisgrizzlies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/a54099d41733d89e8fb9c38b13c1efb1-thumbnail.jpg" group-title="Ppv",[Basketball] Utah Jazz vs. Houston Rockets (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-03/utah-hou#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-03/utah-hou#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/CQtoEMwrhvIcSPwKchSjsyAaGvDAJQmN/1775250000/1775278080/houstonrockets/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/681a5feaad59cddc07448f893e1be144-thumbnail.jpg" group-title="Ppv",[Combat Sports] Chisora vs. Wilder (PPV)
+https://lb1.modifiles.fans/secure/OQbSscCYDnwkbyUMrIqabWGqLbVICmzJ/1775250000/1775278080/houstonrockets/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/681a5feaad59cddc07448f893e1be144-thumbnail.jpg" group-title="Ppv",[Combat Sports] Chisora vs. Wilder (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/chisora-vs.-wilder#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/chisora-vs.-wilder#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/yrwxukNyyPRMeAwBEmbwDDmrBqDSCDca/1775314800/1775354400/daznboxing/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/58a75caaf828fc71e4363be5d9511046-thumbnail.jpg" group-title="Ppv",[Combat Sports] UFC Fight Night: Moicano vs. Duncan (PPV)
+https://lb2.modifiles.fans/secure/YQjNjYyaJaiJLzBESHVQgnDAbqPenTBR/1775314800/1775354400/daznboxing/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/58a75caaf828fc71e4363be5d9511046-thumbnail.jpg" group-title="Ppv",[Combat Sports] UFC Fight Night: Moicano vs. Duncan (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ufc-fight-night-moicano-vs.-duncan#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ufc-fight-night-moicano-vs.-duncan#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/JAlbaBgWFcrzTlkoDHVvCGideTcpIBJr/1775325600/1775379600/ufc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/4e3f53b97b7267c8ba0cf4a7236f2de6-thumbnail.jpg" group-title="Ppv",[Cricket] Delhi Capitals vs. Mumbai Indians (PPV)
+https://lb4.modifiles.fans/secure/scNuDtTlTBuNJdQVSPJOQypZXMkUeVHW/1775325600/1775379600/ufc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/4e3f53b97b7267c8ba0cf4a7236f2de6-thumbnail.jpg" group-title="Ppv",[Cricket] Delhi Capitals vs. Mumbai Indians (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ipl/2026-04-04/dc-mi#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ipl/2026-04-04/dc-mi#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/xLeeJIrVZgyVoQfYTwmhTveexCjCAKHO/1775286000/1775314800/ipl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/d6c95db4ca1be033fb16518d5cc216d5-thumbnail.jpg" group-title="Ppv",[Cricket] Gujarat Titans vs. Rajasthan Royals (PPV)
+https://lb4.modifiles.fans/secure/UXlTjXwqFWVwgreMlAaKXFRipVZvejJK/1775286000/1775314800/ipl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/d6c95db4ca1be033fb16518d5cc216d5-thumbnail.jpg" group-title="Ppv",[Cricket] Gujarat Titans vs. Rajasthan Royals (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ipl/2026-04-04/gt-rr#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ipl/2026-04-04/gt-rr#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/rMUClMjXxlEsxZRMquxCfMCzgfGEfJqj/1775300400/1775329200/ipl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 1 - Afternoon (PPV)
+https://lb4.modifiles.fans/secure/rogUznpSDtCmfRwqayTMitabRiagytMj/1775300400/1775329200/ipl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 1 - Afternoon (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/german-darts-grand-prix-|-day-1---afternoon#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/german-darts-grand-prix-|-day-1---afternoon#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/NiAcLtoOQDWfCFOWNztAXoClgXhDPWsn/1775289600/1775325600/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 1 - Evening (PPV)
+https://lb4.modifiles.fans/secure/GuAVedewVmZWTfMqudhOMtTOdoaHTOXm/1775289600/1775325600/darts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 1 - Evening (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/german-darts-grand-prix-|-day-1---evening#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/german-darts-grand-prix-|-day-1---evening#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/ZZZlPmLRSjouLNOUDfJpFRnXILHBVhaG/1775311200/1775347200/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 2 - Afternoon (PPV)
+https://lb3.modifiles.fans/secure/RiWFJBmViPXVubpgOztQMWikDfiEvldB/1775311200/1775347200/darts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 2 - Afternoon (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---afternoon#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---afternoon#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/VUIeYZLNkBJLhoNblVuqAbxvtohcnCoL/1775376000/1775412000/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 2 - Evening (PPV)
+https://lb3.modifiles.fans/secure/RNQBsJivHCsMtmZxcbJsbWaJBLraOnHC/1775376000/1775412000/darts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 2 - Evening (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---evening#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---evening#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/uJvrKIuTKQyEGtQmPuJCpXWcrtezNJml/1775397600/1775433600/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/ee76b182c48de253c02d24c86e32ac28-thumbnail.jpg" group-title="Ppv",[Football] 1. FC Union Berlin vs. St. Pauli (PPV)
+https://lb2.modifiles.fans/secure/kzbSUyiPAOXWpGajzpjujmdWigsLSZOr/1775397600/1775433600/darts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/ee76b182c48de253c02d24c86e32ac28-thumbnail.jpg" group-title="Ppv",[Football] 1. FC Union Berlin vs. St. Pauli (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-05/fcu-stp#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-05/fcu-stp#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/yYhUMKCQRasaJhZztJsOWsapIwxkcfCb/1775385000/1775412000/bl_fcu/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/1e2c075f23ebfdce1c38e7940f26e7ec-thumbnail.jpg" group-title="Ppv",[Football] AS Monaco vs. Marseille (PPV)
+https://lb2.modifiles.fans/secure/NJKErWAhRgQiXeBqDACVRbFBCDHGVGru/1775385000/1775412000/bl_fcu/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/1e2c075f23ebfdce1c38e7940f26e7ec-thumbnail.jpg" group-title="Ppv",[Football] AS Monaco vs. Marseille (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-05/mon-olm#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-05/mon-olm#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/ZCvpjEXUzZvpdBrIbZcvYlZpQVimZzPm/1775403900/1775430900/l1_mon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/0a24d56eceb9035a47db31fa9ae1ad80-thumbnail.jpg" group-title="Ppv",[Football] Alaves vs. Osasuna (PPV)
+https://lb5.modifiles.fans/secure/mGsQBvDthHBGihylrTwjUAuDjVswAdXv/1775403900/1775430900/l1_mon/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/0a24d56eceb9035a47db31fa9ae1ad80-thumbnail.jpg" group-title="Ppv",[Football] Alaves vs. Osasuna (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-05/ala-osa#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-05/ala-osa#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/mcNQHcwTZDvMyHUqxUkLwDyGamSGYoWM/1775404800/1775431800/ll_ala/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/67d29b1b4bead73f4cb2a7c07b668e0c-thumbnail.jpg" group-title="Ppv",[Football] Angers vs. Lyon (PPV)
+https://lb5.modifiles.fans/secure/NkOJKRNBIPMxbgnmJNfPCgSnLzZAtGbZ/1775404800/1775431800/ll_ala/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/67d29b1b4bead73f4cb2a7c07b668e0c-thumbnail.jpg" group-title="Ppv",[Football] Angers vs. Lyon (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-05/ang-lyon#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-05/ang-lyon#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/AkDTvbpqImtjmFKYFnaARgxgeaTvRIjl/1775383200/1775410200/l1_ang/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/6d4e31afad3b09a4e2b1a211591d663c-thumbnail.jpg" group-title="Ppv",[Football] Atlanta United FC vs. Columbus Crew (PPV)
+https://lb2.modifiles.fans/secure/ldoALhnfDbJzKbIJIhhwHWFOGqyZirIf/1775383200/1775410200/l1_ang/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/6d4e31afad3b09a4e2b1a211591d663c-thumbnail.jpg" group-title="Ppv",[Football] Atlanta United FC vs. Columbus Crew (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/atl-clb#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/atl-clb#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/cqVWvUIGUsuEhnRGMPwOnlIBRdOgMJZu/1775334600/1775363400/mls_atl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/d1aa249cef607de3b72bf993afce73a1-thumbnail.jpg" group-title="Ppv",[Football] Atletico Madrid vs. Barcelona (PPV)
+https://lb3.modifiles.fans/secure/hGLrLZTLBVMAcyrsOKLByJWSlFPPyaoe/1775334600/1775363400/mls_atl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/d1aa249cef607de3b72bf993afce73a1-thumbnail.jpg" group-title="Ppv",[Football] Atletico Madrid vs. Barcelona (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-04/atm-bar#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-04/atm-bar#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/JQlBPtJhavKGBdlIMNkWOmipjVHowJZl/1775318400/1775345400/ll_atm/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/c10127675579c1e29a8596ec95905d16-thumbnail.jpg" group-title="Ppv",[Football] Bayer Leverkusen vs. VfL Wolfsburg (PPV)
+https://lb2.modifiles.fans/secure/dtskasSWoofdYHImIncaSYozrSLqoHsm/1775318400/1775345400/ll_atm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/c10127675579c1e29a8596ec95905d16-thumbnail.jpg" group-title="Ppv",[Football] Bayer Leverkusen vs. VfL Wolfsburg (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/b04-wob#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/b04-wob#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/pfYsLOxDusSSsEFbeHSKRsHwJAVFssEY/1775298600/1775325600/bl_b04/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/669bd93c9561c0ea574794aa82525ee6-thumbnail.jpg" group-title="Ppv",[Football] Borussia Monchengladbach vs. 1. FC Heidenheim 1846 (PPV)
+https://lb1.modifiles.fans/secure/tlCSaWpRogyxVYimitcfmsZVMPAjCzew/1775298600/1775325600/bl_b04/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/669bd93c9561c0ea574794aa82525ee6-thumbnail.jpg" group-title="Ppv",[Football] Borussia Monchengladbach vs. 1. FC Heidenheim 1846 (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/bmg-hdh#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/bmg-hdh#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/WijPLSztGtcVYLHxaOWoZKrfaHSbxEhg/1775298600/1775325600/bl_bmg/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/a3f338d49b4e936182d1c88a98b5798f-thumbnail.jpg" group-title="Ppv",[Football] Brest vs. Stade Rennais (PPV)
+https://lb4.modifiles.fans/secure/YSlHaVDxiaCAwyJrjPbzlFFolqSsFwDq/1775298600/1775325600/bl_bmg/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/a3f338d49b4e936182d1c88a98b5798f-thumbnail.jpg" group-title="Ppv",[Football] Brest vs. Stade Rennais (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-04/bre-ren#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-04/bre-ren#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/tDCTTTSmVHgQiCUjNJfqXqwBMHjRVSwt/1775311200/1775338200/l1_bre/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/85c0dab069df249c8c49ecdc5ec4a70d-thumbnail.jpg" group-title="Ppv",[Football] Charlotte FC vs. Philadelphia Union (PPV)
+https://lb5.modifiles.fans/secure/ekiHJTUbARKUhQNAYBSDLuMeOLkiSyXy/1775311200/1775338200/l1_bre/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/85c0dab069df249c8c49ecdc5ec4a70d-thumbnail.jpg" group-title="Ppv",[Football] Charlotte FC vs. Philadelphia Union (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/clt-phi#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/clt-phi#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/jSgzVurcDljlICoeYhsMzhjhULVbUtnU/1775334600/1775363400/mls_clt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/04acfa79fa9dc92affa5fb71e4f2f7f6-thumbnail.jpg" group-title="Ppv",[Football] Chelsea vs. Port Vale (PPV)
+https://lb3.modifiles.fans/secure/NNsyqEUNtNPTBFuAqkSqmdlFhcdpPJhB/1775334600/1775363400/mls_clt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/04acfa79fa9dc92affa5fb71e4f2f7f6-thumbnail.jpg" group-title="Ppv",[Football] Chelsea vs. Port Vale (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/english-fa-cup/2026-04-04/che-ptv#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/english-fa-cup/2026-04-04/che-ptv#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/KxRKrERjjxmahdSUNwuDBzegGJoutEqq/1775308500/1775335500/eng_che/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/2a3112a2f311dbe423a85c42b2206adc-thumbnail.jpg" group-title="Ppv",[Football] Chicago Fire FC vs. Nashville SC (PPV)
+https://lb1.modifiles.fans/secure/IpitDTYpSrIvlMHndVGifCfperiomDVv/1775308500/1775335500/eng_che/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/2a3112a2f311dbe423a85c42b2206adc-thumbnail.jpg" group-title="Ppv",[Football] Chicago Fire FC vs. Nashville SC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/chi-nsh#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/chi-nsh#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/exwNDWUbmpcrOrjmIdGSMnfzabcOBtfp/1775338200/1775367000/mls_chi/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/b5ae5d614e91a3e9c17d41983b847bfd-thumbnail.jpg" group-title="Ppv",[Football] Cremonese vs. Bologna (PPV)
+https://lb4.modifiles.fans/secure/RwFaJmWqxpwYpfPGxhQZsDmjOBtHzIet/1775338200/1775367000/mls_chi/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/b5ae5d614e91a3e9c17d41983b847bfd-thumbnail.jpg" group-title="Ppv",[Football] Cremonese vs. Bologna (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-05/cre-bol#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-05/cre-bol#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/XIyOPzuWFOOGLHWMzuyYPeLpIdaxzZOg/1775383200/1775410200/sa_cre/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/98d21340c119744e3a9790b3ef70beb9-thumbnail.jpg" group-title="Ppv",[Football] D.C. United vs. FC Dallas (PPV)
+https://lb2.modifiles.fans/secure/eipZRLQqGiwCaXNKIUCUeXjKYJWeQjjB/1775383200/1775410200/sa_cre/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/98d21340c119744e3a9790b3ef70beb9-thumbnail.jpg" group-title="Ppv",[Football] D.C. United vs. FC Dallas (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/dc-dal#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/dc-dal#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/jOIegzCNNMEBypgJZheYCzfVXdvPQIqj/1775334600/1775363400/mls_dc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/ac55bec20ec8b5adaa9c1be026b6ef48-thumbnail.jpg" group-title="Ppv",[Football] Eintracht Frankfurt vs. FC Cologne (PPV)
+https://lb3.modifiles.fans/secure/oohlAENzWtevQybitPUVsWNdCKYWFQRI/1775334600/1775363400/mls_dc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/ac55bec20ec8b5adaa9c1be026b6ef48-thumbnail.jpg" group-title="Ppv",[Football] Eintracht Frankfurt vs. FC Cologne (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-05/sge-koe#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-05/sge-koe#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/YNocnrEOQCBaOwdxJtpWTsJTKkRnOgon/1775392200/1775419200/bl_sge/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/4eb08be1cdda53f8ab9f122bced0377d-thumbnail.jpg" group-title="Ppv",[Football] Getafe vs. Athletic Club (PPV)
+https://lb1.modifiles.fans/secure/qGHyoHMmnqJwoqqWUjUvfJJwZGByBQPq/1775392200/1775419200/bl_sge/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/4eb08be1cdda53f8ab9f122bced0377d-thumbnail.jpg" group-title="Ppv",[Football] Getafe vs. Athletic Club (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-05/get-ath#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-05/get-ath#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/orGXZGGDtSfcFYLUUiywTPpJUsDqOlEx/1775379600/1775406600/ll_get/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/424d072144ea569834a17ad2a941ba99-thumbnail.jpg" group-title="Ppv",[Football] Hamburg SV vs. FC Augsburg (PPV)
+https://lb2.modifiles.fans/secure/UigoEVmuaQmynDorPuYaTzpwDkzukqzu/1775379600/1775406600/ll_get/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/424d072144ea569834a17ad2a941ba99-thumbnail.jpg" group-title="Ppv",[Football] Hamburg SV vs. FC Augsburg (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/hsv-fca#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/hsv-fca#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/UitnaNCMMujvThdjVpDWwQsQAoRtrTgw/1775298600/1775325600/bl_hsv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/19017df09484d74b92f4bcf65661fe51-thumbnail.jpg" group-title="Ppv",[Football] Hellas Verona vs. Fiorentina (PPV)
+https://lb4.modifiles.fans/secure/hJNMOuVDccPxKYCGyotyaLEPmatSLluL/1775298600/1775325600/bl_hsv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/19017df09484d74b92f4bcf65661fe51-thumbnail.jpg" group-title="Ppv",[Football] Hellas Verona vs. Fiorentina (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-04/ver-fio#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-04/ver-fio#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/BACwAxSvnitGFBPXbkCaIhpclbAllnQz/1775307600/1775334600/sa_ver/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/4b3872b7eba6f9fcb804a7926787eaa8-thumbnail.jpg" group-title="Ppv",[Football] Houston Dynamo FC vs. Seattle Sounders FC (PPV)
+https://lb1.modifiles.fans/secure/KsYCznmjuWZMIOhtbSmEWVWsmHcHjPJt/1775307600/1775334600/sa_ver/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/4b3872b7eba6f9fcb804a7926787eaa8-thumbnail.jpg" group-title="Ppv",[Football] Houston Dynamo FC vs. Seattle Sounders FC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/hou-sea#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/hou-sea#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/sTksEysTsjSHnfECStPBEaCvHFOLbYrx/1775338200/1775367000/mls_hou/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/82a322abfee7563e850c26683d8d8e3d-thumbnail.jpg" group-title="Ppv",[Football] Inter Miami CF vs. Austin FC (PPV)
+https://lb4.modifiles.fans/secure/cQYEkLDJDEIiOMbGFZIIJWPKxYadEbdg/1775338200/1775367000/mls_hou/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/82a322abfee7563e850c26683d8d8e3d-thumbnail.jpg" group-title="Ppv",[Football] Inter Miami CF vs. Austin FC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/mia-atx#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/mia-atx#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/djgxmPjuoOxByEXkwRxHUaWfaHLjhTrb/1775334600/1775363400/mls_mia/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/11562fa5fea3fbf9176533f9adab4338-thumbnail.jpg" group-title="Ppv",[Football] Inter Milan vs. AS Roma (PPV)
+https://lb3.modifiles.fans/secure/kaodhcubbjbBsgbrtgdVXhQesrzFBRcI/1775334600/1775363400/mls_mia/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/11562fa5fea3fbf9176533f9adab4338-thumbnail.jpg" group-title="Ppv",[Football] Inter Milan vs. AS Roma (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-05/int-roma#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-05/int-roma#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/waNTyfQdBJtmJSvIvBFIKUidoJVwxtLV/1775403900/1775430900/sa_int/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/5602ee578bf05d8bf5909d7f3067fa38-thumbnail.jpg" group-title="Ppv",[Football] LA Galaxy vs. Minnesota United FC (PPV)
+https://lb5.modifiles.fans/secure/asaPDgWWsWSpfJNTwECyVwYzwNUmApsB/1775403900/1775430900/sa_int/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/5602ee578bf05d8bf5909d7f3067fa38-thumbnail.jpg" group-title="Ppv",[Football] LA Galaxy vs. Minnesota United FC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/la-min#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/la-min#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/QhcKUxfqfYebJKaBhlIftjkQxQCPnVLP/1775345400/1775374200/mls_la/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/365b39e2bb74f743689d517bf8942bad-thumbnail.jpg" group-title="Ppv",[Football] LAFC vs. Orlando City SC (PPV)
+https://lb4.modifiles.fans/secure/ILGhVcQkwzTnajVSxGfPrpAcyPLUqigo/1775345400/1775374200/mls_la/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/365b39e2bb74f743689d517bf8942bad-thumbnail.jpg" group-title="Ppv",[Football] LAFC vs. Orlando City SC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/lafc-orl#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/lafc-orl#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/dMSRTAKQImpEmglOxzCBYieJxHzqmNOP/1775341800/1775370600/mls_lafc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/d7d8fc867d232e4347e0273b970b8c77-thumbnail.jpg" group-title="Ppv",[Football] Lazio vs. Parma (PPV)
+https://lb4.modifiles.fans/secure/NiNekJcuFAircsoTQLVUFgmOebWCtRWG/1775341800/1775370600/mls_lafc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/d7d8fc867d232e4347e0273b970b8c77-thumbnail.jpg" group-title="Ppv",[Football] Lazio vs. Parma (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-04/laz-par#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-04/laz-par#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/rhDPlJXcrCCHuXEeNFoyBKVEDGLTwhGf/1775317500/1775344500/sa_laz/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/f8b150512d0de7fbe572fea29b283e9a-thumbnail.jpg" group-title="Ppv",[Football] Le Havre AC vs. AJ Auxerre (PPV)
+https://lb5.modifiles.fans/secure/WRSuOtRmnjgyDuwnKhnquGhCMaRXzLOy/1775317500/1775344500/sa_laz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/f8b150512d0de7fbe572fea29b283e9a-thumbnail.jpg" group-title="Ppv",[Football] Le Havre AC vs. AJ Auxerre (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-05/hac-aux#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-05/hac-aux#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/DzAHHfpUqHQfjEiJVTIqigJWGbNWPdeJ/1775391300/1775418300/l1_hac/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/3cff7e8ada4bd2e3725cc2830e69f952-thumbnail.jpg" group-title="Ppv",[Football] Lille vs. Lens (PPV)
+https://lb1.modifiles.fans/secure/cURzdDofzDqWcgtjUaSSKEZHfiYHqbRh/1775391300/1775418300/l1_hac/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/3cff7e8ada4bd2e3725cc2830e69f952-thumbnail.jpg" group-title="Ppv",[Football] Lille vs. Lens (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-04/lill-rcl#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-04/lill-rcl#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/VQUeTVkqAQNEcjyrSAwLlRudsLCBtWXL/1775318700/1775345700/l1_lill/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/d05040115c9e33a89c4ba1dc1e4b48bb-thumbnail.jpg" group-title="Ppv",[Football] Lorient vs. Paris FC (PPV)
+https://lb2.modifiles.fans/secure/YGGyiAlvJWBbOObOtvJGJJGNXvjVCzWQ/1775318700/1775345700/l1_lill/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/d05040115c9e33a89c4ba1dc1e4b48bb-thumbnail.jpg" group-title="Ppv",[Football] Lorient vs. Paris FC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-05/lor-par#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-05/lor-par#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/lrUaiNgmtXCHrqEzVLqFYyAvebIyPAuz/1775391300/1775418300/l1_lor/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/cb0be323a1754e020e4f45d95f0e8e14-thumbnail.jpg" group-title="Ppv",[Football] Mallorca vs. Real Madrid (PPV)
+https://lb1.modifiles.fans/secure/sItHpPKOTJvAmWTWcBBnRfBBNDbnPmiv/1775391300/1775418300/l1_lor/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/cb0be323a1754e020e4f45d95f0e8e14-thumbnail.jpg" group-title="Ppv",[Football] Mallorca vs. Real Madrid (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-04/mll-rma#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-04/mll-rma#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/LvdnhjYigRPmhPpivTHqLobERAstgeQI/1775301300/1775328300/ll_mll/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/3c1626c865b0699dbede12735a793a9d-thumbnail.jpg" group-title="Ppv",[Football] Manchester City vs. Liverpool (PPV)
+https://lb3.modifiles.fans/secure/vbNDTPEHwUWuKGXHbeltMhcJLrpKcXXK/1775301300/1775328300/ll_mll/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/3c1626c865b0699dbede12735a793a9d-thumbnail.jpg" group-title="Ppv",[Football] Manchester City vs. Liverpool (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/english-fa-cup/2026-04-04/mnc-liv#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/english-fa-cup/2026-04-04/mnc-liv#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/cEIMrFmXLpphLueILZtdMtikHpGCburL/1775292300/1775319300/eng_mnc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/e498175803e6f92e824ca073b2e2a226-thumbnail.jpg" group-title="Ppv",[Football] Metz vs. Nantes (PPV)
+https://lb2.modifiles.fans/secure/YsZpkmDdsxEbOpmsNdAijtmbXtSLpREb/1775292300/1775319300/eng_mnc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/e498175803e6f92e824ca073b2e2a226-thumbnail.jpg" group-title="Ppv",[Football] Metz vs. Nantes (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-05/metz-nan#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-05/metz-nan#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/CdBIBuQofkjKuKTUrSfiwczakmqsYODq/1775391300/1775418300/l1_metz/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/42706641abbfac49f3298f6b561f3911-thumbnail.jpg" group-title="Ppv",[Football] New England Revolution vs. CF Montreal (PPV)
+https://lb1.modifiles.fans/secure/UTnOpkvlnUTnnpKRCEyWmLirjDEyAYfH/1775391300/1775418300/l1_metz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/42706641abbfac49f3298f6b561f3911-thumbnail.jpg" group-title="Ppv",[Football] New England Revolution vs. CF Montreal (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/ne-mtl#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/ne-mtl#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/RPFEALclRChVzFimihmpShGSeClHcUEl/1775323800/1775352600/mls_ne/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/1cd26aae1fc1acf67666ad0276d2ee69-thumbnail.jpg" group-title="Ppv",[Football] New York City FC vs. St. Louis CITY SC (PPV)
+https://lb2.modifiles.fans/secure/SCQtuDodPIUjNYlWVwXNSxDyXosTReii/1775323800/1775352600/mls_ne/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/1cd26aae1fc1acf67666ad0276d2ee69-thumbnail.jpg" group-title="Ppv",[Football] New York City FC vs. St. Louis CITY SC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/nyc-stl#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/nyc-stl#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/vohGtFiToRtVbHRtVWuYIyHHUFVEdBNa/1775334600/1775363400/mls_nyc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/d236b4a8b701dba2ec4975ea92686837-thumbnail.jpg" group-title="Ppv",[Football] Pisa vs. Torino (PPV)
+https://lb3.modifiles.fans/secure/XEpyIjnfrRwMlhCRuCqqhdGiILwmoYJR/1775334600/1775363400/mls_nyc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/d236b4a8b701dba2ec4975ea92686837-thumbnail.jpg" group-title="Ppv",[Football] Pisa vs. Torino (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-05/pis-tor#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-05/pis-tor#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/ZjEsNfDMbdUjRtFcQsgifWUHOaadUHgw/1775394000/1775421000/sa_pis/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/106c359d624fd24141c3834aa9ca46f6-thumbnail.jpg" group-title="Ppv",[Football] Real Betis vs. Espanyol (PPV)
+https://lb1.modifiles.fans/secure/bjbNKEplTWSfFZVabUCdJkmJxFMYxuuf/1775394000/1775421000/sa_pis/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/106c359d624fd24141c3834aa9ca46f6-thumbnail.jpg" group-title="Ppv",[Football] Real Betis vs. Espanyol (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-04/bet-esp#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-04/bet-esp#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/cZrehWOiHTQEPWyYPQihBfXMeqTISiik/1775309400/1775336400/ll_bet/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/91e86528a7e518eb90ce83554eadbc5c-thumbnail.jpg" group-title="Ppv",[Football] Real Oviedo vs. Sevilla (PPV)
+https://lb5.modifiles.fans/secure/EaDKjzFPidGVVoWOUYBLAtVGxwPMnXpk/1775309400/1775336400/ll_bet/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/91e86528a7e518eb90ce83554eadbc5c-thumbnail.jpg" group-title="Ppv",[Football] Real Oviedo vs. Sevilla (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-05/ovi-sev#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-05/ovi-sev#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/siSxrZCbUclEzefwPTZRwoXuCsPLTbvT/1775395800/1775422800/ll_ovi/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/bf0d8bd2e1ca68b16043a6698ed486d1-thumbnail.jpg" group-title="Ppv",[Football] Real Salt Lake vs. Sporting Kansas City (PPV)
+https://lb5.modifiles.fans/secure/DhAYRdMDqpuoUfugDZdHPjiZpvZiCvjO/1775395800/1775422800/ll_ovi/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/bf0d8bd2e1ca68b16043a6698ed486d1-thumbnail.jpg" group-title="Ppv",[Football] Real Salt Lake vs. Sporting Kansas City (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/rsl-skc#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/rsl-skc#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/nPrmYmiSHTMrhMTmPtvWmyHGzRfWCSRM/1775323800/1775352600/mls_rsl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/bbc73ac830cdd4c4327b1331a0725300-thumbnail.jpg" group-title="Ppv",[Football] Real Sociedad vs. Levante (PPV)
+https://lb2.modifiles.fans/secure/zslVtIKDrVYMDrAduppzzoIOGcNjhedi/1775323800/1775352600/mls_rsl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/bbc73ac830cdd4c4327b1331a0725300-thumbnail.jpg" group-title="Ppv",[Football] Real Sociedad vs. Levante (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-04/rso-lev#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-04/rso-lev#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/RPRvOUhzQDuxKgOjeSdOSImpPjYVngLH/1775293200/1775320200/ll_rso/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/7a6a84bce102ad1b2292b215e3965b36-thumbnail.jpg" group-title="Ppv",[Football] Red Bull New York vs. FC Cincinnati (PPV)
+https://lb2.modifiles.fans/secure/pIJpNAjuWNGwBgvAVdBFBgjFqWdepFXj/1775293200/1775320200/ll_rso/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/7a6a84bce102ad1b2292b215e3965b36-thumbnail.jpg" group-title="Ppv",[Football] Red Bull New York vs. FC Cincinnati (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/rbny-cin#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/rbny-cin#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/LYBuUTXBpbXZuwDUmMCyXkWalefvOCqy/1775334600/1775363400/mls_rbny/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/5cd2f968a8421319dc2cfb1ff08b902c-thumbnail.jpg" group-title="Ppv",[Football] SC Freiburg vs. Bayern Munich (PPV)
+https://lb3.modifiles.fans/secure/EGAttqGHrNjNLLAPYYmzBNVCyEuJZIAs/1775334600/1775363400/mls_rbny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/5cd2f968a8421319dc2cfb1ff08b902c-thumbnail.jpg" group-title="Ppv",[Football] SC Freiburg vs. Bayern Munich (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/scf-mun#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/scf-mun#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/rgvKPHCicwDvANZKfKBPPkPPYoJNwUoC/1775298600/1775325600/bl_scf/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/2f476970127802637b2ea0342599b1a0-thumbnail.jpg" group-title="Ppv",[Football] San Jose Earthquakes vs. San Diego FC (PPV)
+https://lb4.modifiles.fans/secure/WkcEeUuBjSGtzkynzuOeiWfxnvDsGPcM/1775298600/1775325600/bl_scf/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/2f476970127802637b2ea0342599b1a0-thumbnail.jpg" group-title="Ppv",[Football] San Jose Earthquakes vs. San Diego FC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/sj-sd#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/sj-sd#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/pEDIRCHCKXgAsDzLLhxXkQVNdlvJWYrW/1775345400/1775374200/mls_sj/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/f34359346fa907cd7721dea72b45718a-thumbnail.jpg" group-title="Ppv",[Football] Sassuolo vs. Cagliari (PPV)
+https://lb4.modifiles.fans/secure/qyIEEYHowpKcQathWKmUrtvQfOAljmPl/1775345400/1775374200/mls_sj/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/f34359346fa907cd7721dea72b45718a-thumbnail.jpg" group-title="Ppv",[Football] Sassuolo vs. Cagliari (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-04/sas-cag#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-04/sas-cag#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/VjlZQhFaKRgYdTXDcSmrqDBRiVhaDvIP/1775296800/1775323800/sa_sas/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/c8e2e4b9256f53e7b3fa915371d7e2fa-thumbnail.jpg" group-title="Ppv",[Football] Southampton vs. Arsenal (PPV)
+https://lb1.modifiles.fans/secure/yYWVMMMnfswBgzAFYHJRcsKehVXzAheA/1775296800/1775323800/sa_sas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/c8e2e4b9256f53e7b3fa915371d7e2fa-thumbnail.jpg" group-title="Ppv",[Football] Southampton vs. Arsenal (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/english-fa-cup/2026-04-04/sou-ars#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/english-fa-cup/2026-04-04/sou-ars#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/CIfsAuToQEZazkVaVDCLMgKltJdPmDxC/1775318400/1775345400/eng_sou/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/89ea62821e3780a5f698bc3227fb6b4f-thumbnail.jpg" group-title="Ppv",[Football] Strasbourg vs. Nice (PPV)
+https://lb2.modifiles.fans/secure/nrYCVxbDsfOxpTMRtJOSzaAkUEzrAyck/1775318400/1775345400/eng_sou/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/89ea62821e3780a5f698bc3227fb6b4f-thumbnail.jpg" group-title="Ppv",[Football] Strasbourg vs. Nice (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-04/str-nice#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-04/str-nice#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/CnmDEAQsNhoFCClYFUuKHDnZOduMjQHT/1775304000/1775331000/l1_str/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/7dfd12ecbb3d7b385863eb34c0d8dcd8-thumbnail.jpg" group-title="Ppv",[Football] TSG Hoffenheim vs. Mainz (PPV)
+https://lb1.modifiles.fans/secure/OqAxEbsKCruauaxmuVLjqSewEAHAhAUG/1775304000/1775331000/l1_str/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/7dfd12ecbb3d7b385863eb34c0d8dcd8-thumbnail.jpg" group-title="Ppv",[Football] TSG Hoffenheim vs. Mainz (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/tsg-m05#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/tsg-m05#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/RZCQZHlgrOeImpZcpzMIubsiGDScXynQ/1775298600/1775325600/bl_tsg/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/4d725c5721e0bfd81ca956077fd2ce75-thumbnail.jpg" group-title="Ppv",[Football] Toronto FC vs. Colorado Rapids (PPV)
+https://lb5.modifiles.fans/secure/TdwKzilkwaspztBRvSsDKJHQMwGpyDiK/1775298600/1775325600/bl_tsg/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/4d725c5721e0bfd81ca956077fd2ce75-thumbnail.jpg" group-title="Ppv",[Football] Toronto FC vs. Colorado Rapids (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/tor-col#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/tor-col#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/YMrgTBmbLQXhAGEjlTKouaQzSDKkUhGQ/1775311200/1775340000/mls_tor/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/ebb9a441e78cdbcc685939f696c77888-thumbnail.jpg" group-title="Ppv",[Football] Valencia vs. Celta Vigo (PPV)
+https://lb5.modifiles.fans/secure/dfjKWLKijPMjDCYYuCURlfSKiSbLeQZn/1775311200/1775340000/mls_tor/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/ebb9a441e78cdbcc685939f696c77888-thumbnail.jpg" group-title="Ppv",[Football] Valencia vs. Celta Vigo (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-05/val-cel#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-05/val-cel#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/HGEFwQSiHIMqpAwEvuXzSOvhlpQQSSPd/1775387700/1775414700/ll_val/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/4edb53f0411b3fb7e465692e8afd2af8-thumbnail.jpg" group-title="Ppv",[Football] Vancouver Whitecaps vs. Portland Timbers (PPV)
+https://lb2.modifiles.fans/secure/yFoFleTZUdxBRvLIGNsUhCJZqDEKMRBA/1775387700/1775414700/ll_val/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/4edb53f0411b3fb7e465692e8afd2af8-thumbnail.jpg" group-title="Ppv",[Football] Vancouver Whitecaps vs. Portland Timbers (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/van-por#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/van-por#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/ZugRepvRHcJphZJmGzkLxIINhFAuIiPb/1775345400/1775374200/mls_van/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/6eedfedd2309dedd6a8eebdd33e058c2-thumbnail.jpg" group-title="Ppv",[Football] VfB Stuttgart vs. Borussia Dortmund (PPV)
+https://lb4.modifiles.fans/secure/EussaVzfEcypAoDgKDngChiSeZfisggL/1775345400/1775374200/mls_van/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/6eedfedd2309dedd6a8eebdd33e058c2-thumbnail.jpg" group-title="Ppv",[Football] VfB Stuttgart vs. Borussia Dortmund (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/vfb-dor#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/vfb-dor#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/VsdFVjuSGAtxcxQkvLlHlAyHCzYaWWiF/1775309400/1775336400/bl_vfb/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/2f7f30303d840d34633fe4194c322c12-thumbnail.jpg" group-title="Ppv",[Football] Werder Bremen vs. RB Leipzig (PPV)
+https://lb5.modifiles.fans/secure/mJLhDiGwdhEiJYQTblmgGzkcuhiiVIsc/1775309400/1775336400/bl_vfb/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/2f7f30303d840d34633fe4194c322c12-thumbnail.jpg" group-title="Ppv",[Football] Werder Bremen vs. RB Leipzig (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/svw-rbl#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/svw-rbl#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/KXnemwqvYtLzOffIhkRSVzMtqCBHmOoJ/1775298600/1775325600/bl_svw/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/cd9601b0da518b7bd02648cca917e1d4-thumbnail.jpg" group-title="Ppv",[Football] West Ham United vs. Leeds United (PPV)
+https://lb3.modifiles.fans/secure/ofZXndzRPiUUZintIVgYwiydfSkHQhRg/1775298600/1775325600/bl_svw/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/cd9601b0da518b7bd02648cca917e1d4-thumbnail.jpg" group-title="Ppv",[Football] West Ham United vs. Leeds United (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/english-fa-cup/2026-04-05/whu-lee#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/english-fa-cup/2026-04-05/whu-lee#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/nTDQHTHdUtvXfGnVoDmymSsIXaeIwSCs/1775392200/1775419200/eng_whu/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/fd9fb7367a54317d088995383f30091c-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Philadelphia Flyers vs. New York Islanders (PPV)
+https://lb1.modifiles.fans/secure/AEbcqIqoESQwbgDvMyrwbLbehcryjTPz/1775392200/1775419200/eng_whu/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/fd9fb7367a54317d088995383f30091c-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Philadelphia Flyers vs. New York Islanders (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-03/phi-nyi#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-03/phi-nyi#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/accwUmXNumlibQYVRfqNtypBJqqAyUso/1775246400/1775275200/newyorkislanders/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/d9c7ab7e7444da14042b8f6d58d063dc-thumbnail.jpg" group-title="Ppv",[Ice Hockey] St. Louis Blues vs. Anaheim Ducks (PPV)
+https://lb5.modifiles.fans/secure/zeVajniFgewVBZYfVHugUtqlpKzccKOf/1775246400/1775275200/newyorkislanders/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/d9c7ab7e7444da14042b8f6d58d063dc-thumbnail.jpg" group-title="Ppv",[Ice Hockey] St. Louis Blues vs. Anaheim Ducks (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-03/stl-ana#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-03/stl-ana#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/fNEpPvFQNUFNOxzYAAptGOzGWMXYMJOj/1775257200/1775286000/anaheimducks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Ppv",[Wrestling] AEW: Saturday Night Collision (PPV)
+https://lb5.modifiles.fans/secure/VTIlYMkkLlzvdaizRHBvZimDVIBpLZmq/1775257200/1775286000/anaheimducks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Ppv",[Wrestling] AEW: Saturday Night Collision (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/aew/collision/2026-04-04#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/aew/collision/2026-04-04#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/PtckWNODTlMHfqnCcBbmKNgiIgZQOVba/1775336400/1775365200/TNT/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.cx/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Ppv",[Wrestling] WWE: Friday Night Smackdown (PPV)
+https://lb4.modifiles.fans/secure/HODPiUtocEnqcfTyUEIIyMmsJiOKlKvf/1775336400/1775365200/TNT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.sh/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Ppv",[Wrestling] WWE: Friday Night Smackdown (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/wwe/smackdown/2026-04-03#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/wwe/smackdown/2026-04-03#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/VNUUGRPayEFexxQXomRWnuCBDSrLrhUk/1775250000/1775278800/USA/tracks-v1a1/mono.ts.m3u8
+https://lb4.modifiles.fans/secure/TxtYQdejqKqwvvKiZpeteepoeDHHrrdQ/1775250000/1775278800/USA/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Roxie",[Fighting] Brown vs. Ducar (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://602.shdigital.site/ppv.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Roxie",[Fighting] WWE Smackdown (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.shadow-ran.online/wwe.m3u8
+https://daffodil.simplyataide.boutique/wwe.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Atlanta Braves vs Arizona Diamondbacks (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.premiumjh.shop/mlb14.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Baltimore Orioles vs Pittsburgh Pirates (ROXIE)
+https://605.premiumjh.shop/mlb14.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Chicago Cubs vs Cleveland Guardians (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.premiumjh.shop/mlb10.m3u8
+https://daffodil.premiumjh.shop/mlb7.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Cincinnati Reds vs Texas Rangers (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://daffodil.premiumjh.shop/mlb6.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Houston Astros vs Athletics (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://605.premiumjh.shop/mlb13.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Los Angeles Dodgers vs Washington Nationals (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://602.premiumjh.shop/mlb.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Miami Marlins vs New York Yankees (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.premiumjh.shop/mlb3.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Milwaukee Brewers vs Kansas City Royals (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://602.premiumjh.shop/mlb11.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] New York Mets vs San Francisco Giants (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://605.premiumjh.shop/mlb15.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Philadelphia Phillies vs Colorado Rockies (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://daffodil.premiumjh.shop/mlb9.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] San Diego Padres vs Boston Red Sox (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.simplyataide.boutique/mlb4.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Seattle Mariners vs Los Angeles Angels (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.premiumjh.shop/mlb12.m3u8
+https://605.premiumjh.shop/mlb12.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] St. Louis Cardinals vs Detroit Tigers (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://602.premiumjh.shop/mlb2.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Tampa Bay Rays vs Minnesota Twins (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
@@ -815,67 +830,67 @@ https://605.premiumjh.shop/nba7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.simplyataide.boutique/nba4.m3u8
+https://daffodil.shdigital.site/nba4.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Roxie",[NBA] Indiana Pacers vs Charlotte Hornets (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.shdigital.site/nba.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Roxie",[NBA] New Orleans Pelicans vs Sacramento Kings (ROXIE)
+https://daffodil.simplyataide.boutique/nba.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Roxie",[NBA] Minnesota Timberwolves vs Philadelphia 76ers (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://605.premiumjh.shop/nba9.m3u8
+https://daffodil.simplyataide.boutique/nba2.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Roxie",[NBA] Orlando Magic vs Dallas Mavericks (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://605.premiumjh.shop/nba8.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Roxie",[NBA] Toronto Raptors vs Memphis Grizzlies (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://605.premiumjh.shop/nba6.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Roxie",[NHL] St. Louis Blues vs Anaheim Ducks (ROXIE)
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Roxie",[NHL] Philadelphia Flyers vs New York Islanders (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.premiumjh.shop/nhl2.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Roxie",[Racing] NASCAR Craftsman Truck Series (ROXIE)
+https://603.premiumjh.shop/test2/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Roxie",[Soccer] Al Nassr vs Al Najma (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.premiumjh.shop/fs1.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Roxie",[Soccer] Coventry City vs Derby County (ROXIE)
+https://daffodil.shdigital.site/fsp.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Roxie",[Soccer] Middlesbrough vs Millwall (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://daffodil.shdigital.site/golazo.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Roxie",[Soccer] Leicester City vs Preston North End (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.simplyataide.boutique/golazo.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Roxie",[Soccer] Puebla vs Juarez (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.simplyataide.boutique/fana.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Roxie",[Soccer] Rayo Vallecano vs Elche (ROXIE)
-#EXTVLCOPT:http-referrer=https://roxiestreams.su
-#EXTVLCOPT:http-origin=https://roxiestreams.su
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.shdigital.site/dep.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Roxie",[Soccer] Tijuana vs Tigres UANL (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.shdigital.site/fana.m3u8
+https://602.simplyataide.boutique/fana.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Shark",[MLB] Atlanta Braves vs Arizona Diamondbacks (SHARK)
+#EXTVLCOPT:http-referrer=https://sharkstreams.net
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://5bb.tlfiles.cfd/live/braves/stream.m3u8?expires=1775243577&token=f5e4b2e7313ff1275648c8665052369cb9958d1f67139bb7e249765e04b4ca6d
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Shark",[MLB] Houston Astros vs Athletics (SHARK)
+#EXTVLCOPT:http-referrer=https://sharkstreams.net
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://5bb.tlfiles.cfd/live/astros/stream.m3u8?expires=1775243577&token=9cdacd95893d8b0fb7809504f0abbcfaa5d473e302fea998dcc5675f845afac2
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Shark",[MLB] Seattle Mariners vs Los Angeles Angels (SHARK)
+#EXTVLCOPT:http-referrer=https://sharkstreams.net
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://4bb.tlfiles.cfd/live/mariners/stream.m3u8?expires=1775243576&token=39fbfad23fa25e948e7bb37c7f915fcebdd199d0d4424e8e576ae9540867a7b2
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Shark",[MMA] LFA: Bartling vs Cleveland (SHARK)
 #EXTVLCOPT:http-referrer=https://sharkstreams.net
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://1bb.tlfiles.cfd/live/lfa/stream.m3u8?expires=1775243576&token=7de8a37168b0ebffba77242aa281cb7c6b76096b583bab29009953a51e4d8f00
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Shark",[NBA] Orlando Magic vs Dallas Mavericks (SHARK)
-#EXTVLCOPT:http-referrer=https://sharkstreams.net
-#EXTVLCOPT:http-origin=https://sharkstreams.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://9bb.tlfiles.cfd/live/magic/stream.m3u8?expires=1775243576&token=b5a781205e1f8595f89b8f10e0bb15bd1d224a59e2cdaa1335efe250ce876b3a
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Streamcenter",[Baseball] Atlanta Braves at Arizona Diamondbacks (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
@@ -910,67 +925,57 @@ https://mainstreams.pro/hls/hjksgdfauzy51.m3u8
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=tudn_usa
 #EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=tudn_usa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://doc1.streameasthd.net:443/global/tudn_usa/index.m3u8?token=cdad8a12fd882fb80dea16e7ee7be5fdff810c21-bb-1775310436-1775256436&
+https://8c51.streameasthd.net:443/global/tudn_usa/index.m3u8?token=f95941861bd459ab6b70936928c39f65d671ad15-1f-1775311512-1775257512&
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Futbol] Liga MX: Tijuana vs Tigres UANL (STP)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=tudn_usa
 #EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=tudn_usa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://doc1.streameasthd.net:443/global/tudn_usa/index.m3u8?token=6e9ea587ba444fee301c0bc71f40870627fda3b0-31-1775310437-1775256437&
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Futbol] Primera Division: Nacional vs Central Espanol (STP)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=disney1
-#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=disney1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://14c51.streameasthd.net:443/global/disney1/index.m3u8?token=58a1cd54e16f594996ffe62f09953081adf6cc72-b8-1775310436-1775256436&
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Live Event] Liga BetPlay: Fortaleza CEIF vs Inter Bogota (STP)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=winplus2
-#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=winplus2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://8c51.streameasthd.net:443/global/winplus2/index.m3u8?token=aab62eb38a7cdee4b86f983a75e242fc75ea7aa8-9a-1775310436-1775256436&
+https://14c51.streameasthd.net:443/global/tudn_usa/index.m3u8?token=16010aee3a68bbd0e7ba4492854456e632e2f77b-c6-1775311513-1775257513&
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Live Event] Liga BetPlay: Junior vs Deportivo Cali (STP)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=winplus2
 #EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=winplus2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pecdl1.streameasthd.net:443/global/winplus2/index.m3u8?token=86e4b2b613c29c2a56492381a9425df6543f1e59-18-1775310436-1775256436&
+https://98ca2.streameasthd.net:443/global/winplus2/index.m3u8?token=09ea57b87cce760d1d2778ad8135714bb1d959a8-e8-1775311513-1775257513&
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Totalsportek",[Boxing] Antonio Perez vs Abraham Montoya (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.foo/Antonio-Perez-vs-Abraham-Montoya/65184
 #EXTVLCOPT:http-origin=https://live3.totalsportek.foo/Antonio-Perez-vs-Abraham-Montoya/65184
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch15/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNSIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2NzIzNywicmFuZCI6IjU2YTg5MzljNzNiYmVlZWEifQ.3955e8c2f657ac906b041f7a0002bf1722859bdfc4a962a8518fa80d49dbc680
+https://fg1.fgfbg5433dd.site/simpch15/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNSIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2ODMxNCwicmFuZCI6IjllY2RkYjg2NmMzMGJjYzEifQ.81cfcd629f76071957b4fb030e295d503d046e318c040a4a94dc13e10e0affb5
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Totalsportek",[NBA] Brooklyn Nets vs Atlanta Hawks (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.foo/Brooklyn-Nets-vs-Atlanta-Hawks/60774
 #EXTVLCOPT:http-origin=https://live3.totalsportek.foo/Brooklyn-Nets-vs-Atlanta-Hawks/60774
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch18/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxOCIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2NzI0MSwicmFuZCI6ImUzZjdmMDQwNDkwZDYxNTIifQ.da480399a74390e04ebc0bcaa7b113274256125fa1ba371472b704da7367c85e
+https://fg1.fgfbg5433dd.site/simpch18/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxOCIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2ODMyMiwicmFuZCI6IjUzZDE0Y2YxZjM1YmFiMzIifQ.2bad49b84af5240c430deb2c250bbc5983c6dcad464e759962229011a756cc68
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Totalsportek",[NBA] Charlotte Hornets vs Indiana Pacers (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.foo/Charlotte-Hornets-vs-Indiana-Pacers/60773
 #EXTVLCOPT:http-origin=https://live3.totalsportek.foo/Charlotte-Hornets-vs-Indiana-Pacers/60773
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch16/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNiIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2NzI0MSwicmFuZCI6ImI3OTBhYWI5YTMxNDUxNDIifQ.3cc37f53f1b732ff9b6967b9f32898a8db133db1b6a667dab195f0f99e5f9bea
+https://fg1.fgfbg5433dd.site/simpch16/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNiIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2ODMyMiwicmFuZCI6IjIxYWVkNjQ2MTczM2RiYjcifQ.b72771603366ad3e473ce6ccd338031f7175771c3f014a20bb30fd8400f1fa28
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Totalsportek",[NBA] Dallas Mavericks vs Orlando Magic (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.foo/Dallas-Mavericks-vs-Orlando-Magic/60779
 #EXTVLCOPT:http-origin=https://live3.totalsportek.foo/Dallas-Mavericks-vs-Orlando-Magic/60779
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch23/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyMyIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2NzI0MywicmFuZCI6ImJjMWYzZGMzZDEzNDYzNjEifQ.33b9cd49ac3d5ed35d370a90cd87177c0fd4a8018e3e6eb13963c8aacd1e71c7
+https://fg1.fgfbg5433dd.site/simpch23/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyMyIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2ODMyNSwicmFuZCI6IjNmYTI2Mzg3NDU1MTc3OTQifQ.c744871a8471d2666f2279dc518dee13d9dd0d562c7673007af6d784f7ce7b0e
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Totalsportek",[NBA] Memphis Grizzlies vs Toronto Raptors (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.foo/Memphis-Grizzlies-vs-Toronto-Raptors/60778
 #EXTVLCOPT:http-origin=https://live3.totalsportek.foo/Memphis-Grizzlies-vs-Toronto-Raptors/60778
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch21/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyMSIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2NzI0MywicmFuZCI6ImU0ZWE2MjBjY2QwMzMzNmMifQ.fbd539bdf11ed8b5592fafd92a0e888e1a6a9507fcb6142c3c057b14cce20531
+https://fg1.fgfbg5433dd.site/simpch21/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyMSIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2ODMyNSwicmFuZCI6IjI3ODE4NDJmYTEzNTljM2QifQ.668c87f5b68e72aa5fc4d4ec3a9a0a3b1689347fc7dfde9485e52d2c6d83e565
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Totalsportek",[NBA] Milwaukee Bucks vs Boston Celtics (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.foo/Milwaukee-Bucks-vs-Boston-Celtics/60776
 #EXTVLCOPT:http-origin=https://live3.totalsportek.foo/Milwaukee-Bucks-vs-Boston-Celtics/60776
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch22/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyMiIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2NzI0MiwicmFuZCI6Ijg5NTQzYTA3Nzg1ZjNmNDIifQ.057f8f0d91fa6c83c864a78eddd77996a72f33d9fc6952f833355a6d0dc5ac75
+https://fg1.fgfbg5433dd.site/simpch22/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyMiIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2ODMyNCwicmFuZCI6ImZlYzFjYzFiZTlmNmY0MjUifQ.c4652641ffcb3d6e8c3360de045f644f9e7ed8ca7b8a8d717c98b96af3bb723f
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Totalsportek",[NBA] New York Knicks vs Chicago Bulls (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.foo/New-York-Knicks-vs-Chicago-Bulls/60775
 #EXTVLCOPT:http-origin=https://live3.totalsportek.foo/New-York-Knicks-vs-Chicago-Bulls/60775
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch19/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxOSIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2NzI0MiwicmFuZCI6IjI3MjZmZWVhMjJhMGFkZmQifQ.5fd688ce7fc73bc3a0c61a023483ae58cfcce96c2459981ea4e14bf8395f8ffe
+https://fg1.fgfbg5433dd.site/simpch19/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxOSIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2ODMyMywicmFuZCI6IjA3YTA2NjI1ZDRmNmQxOTUifQ.f094ce6d50e5c8d26e3b751c4ebf2ff49bb67be90c88f78f0b3a0aed8aa6b8d8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Totalsportek",[NBA] Sacramento Kings vs New Orleans Pelicans (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.foo/Sacramento-Kings-vs-New-Orleans-Pelicans/60781
 #EXTVLCOPT:http-origin=https://live3.totalsportek.foo/Sacramento-Kings-vs-New-Orleans-Pelicans/60781
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch24/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyNCIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2NzI0NCwicmFuZCI6ImVkZGRiMzAyMjEwYzgwMmMifQ.a5dc9ff2bcb284c3da081ad2b150638bd090aa2b50a23953eaabd34a8e0efab6
+https://fg1.fgfbg5433dd.site/simpch24/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gyNCIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI2ODMyNiwicmFuZCI6ImFhZmZlYTg0NTNjZGQ3MTMifQ.8c45b9a5028b13d486e2eabd683de9f94b3f6621e0e46cd80767d4181e601e7e
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Tvapp",[MLB] Atlanta Braves vs Arizona Diamondbacks (TVAPP)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -1101,60 +1106,64 @@ http://origin.thetvapp.to/hls/nhl01/mono.m3u8
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/nhl02/mono.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Watchfooty",[Mexican Liga BBVA MX] Puebla vs Juarez (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4633005/puebla-fc-juarez/easy/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-origin=https://sportsembed.su/embed/4633005/puebla-fc-juarez/easy/1?player=clappr&autoplay=true
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/22.png" group-title="Watchfooty",[Mexican Liga BBVA MX] Puebla vs FC Juarez (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401840923/puebla-fc-juarez/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/401840923/puebla-fc-juarez/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.wfty.wtf/playlist/easy/puebla-fc-juarez/1/4633005/playlist.m3u8?hash=b42fcdfd5c4893e4ad0d35120085e18e&t=1775265612958
+https://lb1.wfty.wtf/playlist/easy/puebla-fc-juarez/1/401840923/playlist.m3u8?hash=faee2b1eecb0f7ee52d2c5b22dceaeb3&t=1775266708165
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Watchfooty",[NBA] Brooklyn Nets vs Atlanta Hawks (WATCHFTY)
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4526035/brooklyn-nets-atlanta-hawks/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/4526035/brooklyn-nets-atlanta-hawks/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb8.wfty.wtf/playlist/easy/brooklyn-nets-atlanta-hawks/1/4526035/playlist.m3u8?hash=edd3bd01efa66a9664360754660b7f6f&t=1775265608805
+https://lb5.wfty.wtf/playlist/easy/brooklyn-nets-atlanta-hawks/1/4526035/playlist.m3u8?hash=5dc572f369bb8255c76de42b6ec127c2&t=1775266703129
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Watchfooty",[NBA] Dallas Mavericks vs Orlando Magic (WATCHFTY)
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401810982/dallas-mavericks-orlando-magic/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/401810982/dallas-mavericks-orlando-magic/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb9.wfty.wtf/playlist/easy/dallas-mavericks-orlando-magic/1/401810982/playlist.m3u8?hash=b6c324bd3f47ac8c5f66e59523fcabab&t=1775265609631
+https://lb7.wfty.wtf/playlist/easy/dallas-mavericks-orlando-magic/1/401810982/playlist.m3u8?hash=8672ea6f57056ffbd75082a35a4aaebe&t=1775266703951
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Watchfooty",[NBA] Houston Rockets vs Utah Jazz (WATCHFTY)
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401810979/houston-rockets-utah-jazz/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/401810979/houston-rockets-utah-jazz/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.wfty.wtf/playlist/easy/houston-rockets-utah-jazz/1/401810979/playlist.m3u8?hash=3fb0f21ccbc6d0c9ba67c9a7a765978e&t=1775265611302
+https://lb10.wfty.wtf/playlist/easy/houston-rockets-utah-jazz/1/401810979/playlist.m3u8?hash=08db1261c43a28f3ef7e8877afed3882&t=1775266702320
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Watchfooty",[NBA] Memphis Grizzlies vs Toronto Raptors (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401810980/memphis-grizzlies-toronto-raptors/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/401810980/memphis-grizzlies-toronto-raptors/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb10.wfty.wtf/playlist/easy/memphis-grizzlies-toronto-raptors/1/401810980/playlist.m3u8?hash=7acf00ecec2d882c849679246109fd4d&t=1775266705683
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Watchfooty",[NBA] Milwaukee Bucks vs Boston Celtics (WATCHFTY)
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401810981/milwaukee-bucks-boston-celtics/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/401810981/milwaukee-bucks-boston-celtics/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.wfty.wtf/playlist/easy/milwaukee-bucks-boston-celtics/1/401810981/playlist.m3u8?hash=3ce1a229c53a427e5347a3eb8c233523&t=1775265607966
+https://lb5.wfty.wtf/playlist/easy/milwaukee-bucks-boston-celtics/1/401810981/playlist.m3u8?hash=e4be7a6e1c8b88e9e5baed4a85c23e78&t=1775266701473
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Watchfooty",[NBA] New York Knicks vs Chicago Bulls (WATCHFTY)
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401810978/new-york-knicks-chicago-bulls/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/401810978/new-york-knicks-chicago-bulls/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.wfty.wtf/playlist/easy/new-york-knicks-chicago-bulls/1/401810978/playlist.m3u8?hash=a0cd718bfffdeaafc3dd86f959026b52&t=1775265610465
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Watchfooty",[NBA] Philadelphia 76ers vs Minnesota Timberwolves (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401810976/philadelphia-76ers-minnesota-timberwolves/easy/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-origin=https://sportsembed.su/embed/401810976/philadelphia-76ers-minnesota-timberwolves/easy/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.wfty.wtf/playlist/easy/philadelphia-76ers-minnesota-timberwolves/1/401810976/playlist.m3u8?hash=d88ef700177d5cea5f77c3d12bf51545&t=1775265607132
+https://lb7.wfty.wtf/playlist/easy/new-york-knicks-chicago-bulls/1/401810978/playlist.m3u8?hash=ce34f92b7a89d769a6737a6f6d4f83ca&t=1775266704766
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Watchfooty",[NHL] New York Islanders vs Philadelphia Flyers (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401803556/new-york-islanders-philadelphia-flyers/prime/4?player=clappr&autoplay=true
-#EXTVLCOPT:http-origin=https://sportsembed.su/embed/401803556/new-york-islanders-philadelphia-flyers/prime/4?player=clappr&autoplay=true
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401803556/new-york-islanders-philadelphia-flyers/prime/6?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/401803556/new-york-islanders-philadelphia-flyers/prime/6?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb7.wfty.wtf/playlist/prime/new-york-islanders-philadelphia-flyers/4/401803556/playlist.m3u8?hash=8b659377eb41608233456edf0427fa0f&t=1775265612133
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2323.png" group-title="Watchfooty",[NWSL] Orlando Pride vs Angel City FC (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401853879/orlando-pride-angel-city-fc/easy/2?player=clappr&autoplay=true
-#EXTVLCOPT:http-origin=https://sportsembed.su/embed/401853879/orlando-pride-angel-city-fc/easy/2?player=clappr&autoplay=true
+https://lb8.wfty.wtf/playlist/prime/new-york-islanders-philadelphia-flyers/6/401803556/playlist.m3u8?hash=7ecaebdac173f54276ab2e1a774fa063&t=1775266706504
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2323.png" group-title="Watchfooty",[NWSL] Orlando Pride (W) vs Angel City FC (W) (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5161480/orlando-pride-angel-city-fc/easy/2?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/5161480/orlando-pride-angel-city-fc/easy/2?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb10.wfty.wtf/playlist/easy/orlando-pride-angel-city-fc/2/401853879/playlist.m3u8?hash=c1881f6741e728ca9c611d7db9ca4e6e&t=1775265613821
+https://lb9.wfty.wtf/playlist/easy/orlando-pride-angel-city-fc/2/5161480/playlist.m3u8?hash=adef363118d0f6b5a2685fca427cfd51&t=1775266707349
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Webcast",[NHL] Blues vs Ducks (WEBCAST)
+#EXTVLCOPT:http-referrer=https://slapstreams.com
+#EXTVLCOPT:http-origin=https://slapstreams.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/90.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Webcast",[NHL] Flyers vs Islanders (WEBCAST)
+#EXTVLCOPT:http-referrer=https://slapstreams.com
+#EXTVLCOPT:http-origin=https://slapstreams.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/172.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80" group-title="Live Event: Colalive",06:30 04/04 New York Knicks vs Chicago Bulls Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5a721f997fe18b1c151116a96b1b4ea8.png!w80" group-title="Live Event: Colalive",06:20 04/04 Fortaleza CEIF vs La Equidad Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aa97d18606e06696fd770ed04a5d040b.png!w80" group-title="Live Event: Colalive",06:30 04/04 Nacional vs Central Espanol Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/33982309.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80" group-title="Live Event: Colalive",07:00 04/04 Milwaukee Bucks vs Boston Celtics Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/90865415.m3u8
@@ -1190,12 +1199,6 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel15.m3u8?wsSecret=796baabf373552b168b54380f98ae384&wsABSTime=1773517215
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1775240017.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:00   04/04 Charlotte Hornets vs Indiana Pacers  VO TONG m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1775240017.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:00   04/04 Charlotte Hornets vs Indiana Pacers  VO TONG flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1157_1j3s2155mk16.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   04/04 Puebla vs FC Juarez  NGU CA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
@@ -1294,10 +1297,6 @@ https://live.alilicloud.com/live/46844c55eeec20cc712f5e903450eaf5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/3ed36e80905555a934ddacf9ddcd193f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa3cb2ad85503dfbb1a24b31e12f7a59f%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",02:30   04/04 Sporting CP vs Santa Clara Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/84d277a109dc6f6ad5be10ba9e7a25df/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0c04cafa50e2a753b1dbc8fe73ac6860%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   04/04 Nacional Montevideo vs Central Espanol Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1530,10 +1529,6 @@ https://live.alilicloud.com/live/8b2500579902b0e7d9db8d2ac7b70ffe/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/dcd910b5d806a1625c2a50d41ef40f1e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fad90bbd052f4abdbf45097c405e6748a%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",04:15   04/04 Independiente Petrolero vs Nacional Potosi Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/b39b2350d9e47c0dddfc21ec55eace70/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F217432b67c897d34e706b396deafc913%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:20   04/04 Fortaleza F.C vs Internacional de Bogota Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -1582,270 +1577,234 @@ https://live.alilicloud.com/live/8f9904b62eaf20b34f585479d8f49dad/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/18a1f8ceca28e8b4f6e4f07c7d6c304b/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 07:00 04/04 Milwaukee Bucks vs Boston Celtics [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 07:00 04/04 Milwaukee Bucks vs Boston Celtics [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 07:00 04/04 Milwaukee Bucks vs Boston Celtics [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 07:00 04/04 Dallas Mavericks vs Orlando Magic [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 07:00 04/04 Dallas Mavericks vs Orlando Magic [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_hd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 07:00 04/04 Dallas Mavericks vs Orlando Magic [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3_sd.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/8772abd222f99cdaefbf40e7cc546f54.png" group-title="Live Event: socolive",06:20 ngay 04/04 Fortaleza F.C vs Internacional de Bogota [ NIBO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1775267980-0-0-4d2e99785b418d28d59a143bd349d027
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/8772abd222f99cdaefbf40e7cc546f54.png" group-title="Live Event: socolive",06:20 ngay 04/04 Fortaleza F.C vs Internacional de Bogota [ NIBO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1775267980-0-0-d580a4c4da8f2e8364c4de070f6a8b5b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/8772abd222f99cdaefbf40e7cc546f54.png" group-title="Live Event: socolive",06:20 ngay 04/04 Fortaleza F.C vs Internacional de Bogota [ NIBO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1775267980-0-0-93ede336fb81157f483a34cd91858f4e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/8772abd222f99cdaefbf40e7cc546f54.png" group-title="Live Event: socolive",06:20 ngay 04/04 Fortaleza F.C vs Internacional de Bogota [ NIBO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1775267980-0-0-fb7795011c43fe7bdbc158d5c1c98d5a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ KEM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1775267980-0-0-8cc1e39afab1ea813576a7eb1f8bd078
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ KEM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1775267980-0-0-7e990fd27811109f1fb97d710628e60a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ KEM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1775267980-0-0-257b62cd32db47567a514a4c2ad6b93b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ KEM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1775267980-0-0-2e82d3c1e81bbf1dc53afc5a1f5f605a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",MEX D2 :  Club Deportivo Irapuato vs Club Atletico La Paz [Giang A Tho] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1775267980-0-0-83990153ae995e9a8004c3c261b93a90
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",MEX D2 :  Club Deportivo Irapuato vs Club Atletico La Paz [Giang A Tho] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1775267980-0-0-6455004a83871ed25d8063d3f5a01c72
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",MEX D2 :  Club Deportivo Irapuato vs Club Atletico La Paz [Giang A Tho] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1775267980-0-0-2ac1b5f1936f2b14aa65fe7ae67666af
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",MEX D2 :  Club Deportivo Irapuato vs Club Atletico La Paz [Giang A Tho] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1775267980-0-0-7c924d4ef8ba735fc2073425f6dc3a1f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [DECO] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1775267980-0-0-f467c9b241d193bf407085a3c6596ab7
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1775269060-0-0-68bc4e1028c7baa5c4ef06a0e9b6dc14
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [DECO] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1775267980-0-0-12f7e725343bfbb12d984612e7abcf47
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1775269060-0-0-183be16d77e3e08aa047f12f97276869
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [DECO] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1775267980-0-0-43f7b543ccaa3da28e3b1d2c7aeae086
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1775269060-0-0-49f77c01c1a6616aa027f6b05c2fce75
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [DECO] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1775267980-0-0-661862d88c99a53484acedbf7571c7fa
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1775269060-0-0-9aab68971ad6ce176ecb697f7875c770
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",MEX D2 :  Club Deportivo Irapuato vs Club Atletico La Paz [Giang A Tho] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-592799_lsd.flv?auth_key=1775269060-0-0-c24a4a73132a688f12026776528317c0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",MEX D2 :  Club Deportivo Irapuato vs Club Atletico La Paz [Giang A Tho] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-592799_lhd.flv?auth_key=1775269060-0-0-37835914e087e9ef204d2ddda2653b96
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",MEX D2 :  Club Deportivo Irapuato vs Club Atletico La Paz [Giang A Tho] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1775269060-0-0-a2301ab8b2dd2eeeed5de83cb177c5de
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",MEX D2 :  Club Deportivo Irapuato vs Club Atletico La Paz [Giang A Tho] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1775269060-0-0-e1681ac736122d93f63e94b97dbcf135
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ KEM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lsd.flv?auth_key=1775269060-0-0-2b92762593b202183ed262de0f632ee7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ KEM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1775269060-0-0-e421c0d6018ac324824813f5ba28a728
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ KEM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1775269060-0-0-f8614b456b8581d2499dba5417fa3c13
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ KEM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1775269060-0-0-a295ac61d1c62705b56a9edde2e87509
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/bc6e76efff59bf1c7e07d64b2e6932aa.png" group-title="Live Event: socolive",08:00 ngay 04/04 Correcaminos de la U.A.T. vs Cancun FC [ CAO] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lsd.flv?txSecret=f923eec80e6d8fb9559f8fdb9f1a1e77&txTime=69d0b6dc
+https://pull.niur.live/live/stream-597929_lsd.flv?txSecret=b8ac77fb05810dc21165deb18a045667&txTime=69d0bb14
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/bc6e76efff59bf1c7e07d64b2e6932aa.png" group-title="Live Event: socolive",08:00 ngay 04/04 Correcaminos de la U.A.T. vs Cancun FC [ CAO] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lhd.flv?txSecret=441e86127d763b71b4c9c895e0564c2c&txTime=69d0b6dc
+https://pull.niur.live/live/stream-597929_lhd.flv?txSecret=2dfc4aa82bb257ad34d3a1737d26f009&txTime=69d0bb14
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/bc6e76efff59bf1c7e07d64b2e6932aa.png" group-title="Live Event: socolive",08:00 ngay 04/04 Correcaminos de la U.A.T. vs Cancun FC [ CAO] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=f923eec80e6d8fb9559f8fdb9f1a1e77&txTime=69d0b6dc
+https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=b8ac77fb05810dc21165deb18a045667&txTime=69d0bb14
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/bc6e76efff59bf1c7e07d64b2e6932aa.png" group-title="Live Event: socolive",08:00 ngay 04/04 Correcaminos de la U.A.T. vs Cancun FC [ CAO] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=441e86127d763b71b4c9c895e0564c2c&txTime=69d0b6dc
+https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=2dfc4aa82bb257ad34d3a1737d26f009&txTime=69d0bb14
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0811e495be22392f9352b92bbc43cb7a.png" group-title="Live Event: socolive",06:30 ngay 04/04 Brooklyn Nets vs Atlanta Hawks [A CHE] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1775267980-0-0-a1b7a5029496c74e7a4759ab7c5535b2
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1775269060-0-0-256f50dc7c7ff01a952e29e30532969e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0811e495be22392f9352b92bbc43cb7a.png" group-title="Live Event: socolive",06:30 ngay 04/04 Brooklyn Nets vs Atlanta Hawks [A CHE] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1775267980-0-0-6a0e8794d016201b78d79f6c749cbc99
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1775269060-0-0-69fe098e07b66df6de1f2937a4949934
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0811e495be22392f9352b92bbc43cb7a.png" group-title="Live Event: socolive",06:30 ngay 04/04 Brooklyn Nets vs Atlanta Hawks [A CHE] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1775267980-0-0-097a78546ab85307184141408d4208b6
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1775269060-0-0-6f9e32a3bdf38bf26f9096163fe3aadc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0811e495be22392f9352b92bbc43cb7a.png" group-title="Live Event: socolive",06:30 ngay 04/04 Brooklyn Nets vs Atlanta Hawks [A CHE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1775267980-0-0-409e86e901aedf735a484d3e1dc07ebf
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1775269060-0-0-5983277a3e5184798ee7a8cf6e4c831f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1775267980-0-0-0f10be200759923acef7753aca0d0caa
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1775269060-0-0-2eb28f39999ee611c45da420c7d4f0c3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1775267980-0-0-03f50c8fdce3ecd33abf1d3098a38006
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1775269060-0-0-e9ea25765aaf96db2e3b6593c3ebcc39
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1775267980-0-0-bab4b748c3aca52d3043ff5e68708511
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1775269060-0-0-87c3b814ced576240257e7816160c893
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260330/4d85162b6e448d500f27227ea1a12013.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1775267980-0-0-2846957becffbef134fddddff027fea9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ TOMMY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1775268340-0-0-cfeed19e8b3a9c4927a888585349f7c5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ TOMMY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1775268340-0-0-49a18236c1508471df2e4fe17bdbe8df
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ TOMMY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1775268340-0-0-7ad0eae81f0772c4a17e94c5bf05cced
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ TOMMY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1775268340-0-0-1fbb685b3e890ea892c5dbf45abb1edb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/8772abd222f99cdaefbf40e7cc546f54.png" group-title="Live Event: socolive",06:20 ngay 04/04 Fortaleza F.C vs Internacional de Bogota [ LIO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lsd.flv?auth_key=1775268340-0-0-21d52f7cb9d5a36b61ce374193e80dbc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/8772abd222f99cdaefbf40e7cc546f54.png" group-title="Live Event: socolive",06:20 ngay 04/04 Fortaleza F.C vs Internacional de Bogota [ LIO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-564362_lhd.flv?auth_key=1775268340-0-0-cb23e12f2ee6c9eb5bece05f40b5c987
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/8772abd222f99cdaefbf40e7cc546f54.png" group-title="Live Event: socolive",06:20 ngay 04/04 Fortaleza F.C vs Internacional de Bogota [ LIO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1775268340-0-0-5601bb4b4f1bebbcfa1de38f7e9ffaf0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/8772abd222f99cdaefbf40e7cc546f54.png" group-title="Live Event: socolive",06:20 ngay 04/04 Fortaleza F.C vs Internacional de Bogota [ LIO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1775268340-0-0-ce9cbef078eb40c5c73e77ed091f4063
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ ENZO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1775268340-0-0-dd3af20bd5e8731f53dfe597f62a5fe1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ ENZO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1775268340-0-0-c7703e04fcd1ed134d56c683c8a3b5b8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ ENZO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1775268340-0-0-7a095b3b17e3b4c189cc327cd9e1eecc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ ENZO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1775268340-0-0-99dcf7bd1f2e5d10a317b9ed70d55c92
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1775269060-0-0-ce32fd152e5d100d93da45f982b6e89d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/bc6e76efff59bf1c7e07d64b2e6932aa.png" group-title="Live Event: socolive",08:00 ngay 04/04 Correcaminos de la U.A.T. vs Cancun FC [ PEWPEW] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1775268340-0-0-b646878efbc7181b0b4fde65293e4a2a
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1775269420-0-0-7b37c9efd161da32345f4cb15e4351c9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/bc6e76efff59bf1c7e07d64b2e6932aa.png" group-title="Live Event: socolive",08:00 ngay 04/04 Correcaminos de la U.A.T. vs Cancun FC [ PEWPEW] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1775268340-0-0-198500f4346a0346dde7d24875102768
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1775269420-0-0-157c648eb717eb0301bb6daed7589538
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/bc6e76efff59bf1c7e07d64b2e6932aa.png" group-title="Live Event: socolive",08:00 ngay 04/04 Correcaminos de la U.A.T. vs Cancun FC [ PEWPEW] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1775268340-0-0-049d787340cbf0654a40a50a4831306c
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1775269420-0-0-da250b73b87a426e5df0476820ab6e52
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/bc6e76efff59bf1c7e07d64b2e6932aa.png" group-title="Live Event: socolive",08:00 ngay 04/04 Correcaminos de la U.A.T. vs Cancun FC [ PEWPEW] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1775268340-0-0-a6e5a4e3220f2ce65af7656a1bfcb685
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/9c6270b03df6f7d73b5b70f20eceb365.png" group-title="Live Event: socolive",08:00 ngay 04/04 Club Deportivo Irapuato vs Club Atletico La Paz [TAM MAO] flv Gvision TV
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1775269420-0-0-09ff944aea9c90d6c16788c82fb94e18
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ ENZO] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=acbcaad6b1e2dea0b6e0ea1fa32f165a&txTime=69d0b844
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/9c6270b03df6f7d73b5b70f20eceb365.png" group-title="Live Event: socolive",08:00 ngay 04/04 Club Deportivo Irapuato vs Club Atletico La Paz [TAM MAO] hdFlv Gvision TV
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1775269420-0-0-8ab9d59d113e36f5b2c8973ac89179b5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ ENZO] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=cf181400ac819daa088d3afc16869132&txTime=69d0b844
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/9c6270b03df6f7d73b5b70f20eceb365.png" group-title="Live Event: socolive",08:00 ngay 04/04 Club Deportivo Irapuato vs Club Atletico La Paz [TAM MAO] m3u8 Gvision TV
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1775269420-0-0-b384beb5b10b18d10710404499f8e6f7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ ENZO] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=acbcaad6b1e2dea0b6e0ea1fa32f165a&txTime=69d0b844
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/9c6270b03df6f7d73b5b70f20eceb365.png" group-title="Live Event: socolive",08:00 ngay 04/04 Club Deportivo Irapuato vs Club Atletico La Paz [TAM MAO] hdM3u8 Gvision TV
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1775269420-0-0-d494074f4a3a2345db2a7c7ec4d71db1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ ENZO] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=cf181400ac819daa088d3afc16869132&txTime=69d0b844
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [VENDETTA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=635e9ae578e1f39d4cb4b7f644114c9d&txTime=69d0b844
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [VENDETTA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=0c9ae30eb540cf6b18d199b4027b87ab&txTime=69d0b844
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [VENDETTA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=635e9ae578e1f39d4cb4b7f644114c9d&txTime=69d0b844
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [VENDETTA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=0c9ae30eb540cf6b18d199b4027b87ab&txTime=69d0b844
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0e2f15ef5c25107be1b2ea0295aafe49.png" group-title="Live Event: socolive",07:00 ngay 04/04 Houston Rockets vs Utah Jazz [HUNTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1775268340-0-0-d5d3fc07538a476f4784b92e8997aefc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0e2f15ef5c25107be1b2ea0295aafe49.png" group-title="Live Event: socolive",07:00 ngay 04/04 Houston Rockets vs Utah Jazz [HUNTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1775268340-0-0-938a1d983171f2066a59b12cb0675b17
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0e2f15ef5c25107be1b2ea0295aafe49.png" group-title="Live Event: socolive",07:00 ngay 04/04 Houston Rockets vs Utah Jazz [HUNTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1775268340-0-0-999c215476b26439df97fb4080c98420
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0e2f15ef5c25107be1b2ea0295aafe49.png" group-title="Live Event: socolive",07:00 ngay 04/04 Houston Rockets vs Utah Jazz [HUNTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1775268340-0-0-8c0ff6e70f0210b667156ec080913cad
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1775269420-0-0-2ec6aca8dcf191888d93957f480a91ea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/5037f8200f99bbbc645b8eb88d3312c9.png" group-title="Live Event: socolive",06:30 ngay 04/04 New York Knicks vs Chicago Bulls [BRIAN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1775268340-0-0-810c69f614f14888a0fcc935c5baab95
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1775269420-0-0-54e4df43d3bb9acdb2b7f59af1b20d93
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/5037f8200f99bbbc645b8eb88d3312c9.png" group-title="Live Event: socolive",06:30 ngay 04/04 New York Knicks vs Chicago Bulls [BRIAN] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1775268340-0-0-48f72adc9d6e00e6bd30ead4c38958ef
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1775269420-0-0-4d1d7de333d22d9f5b595dddd25a6b27
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/5037f8200f99bbbc645b8eb88d3312c9.png" group-title="Live Event: socolive",06:30 ngay 04/04 New York Knicks vs Chicago Bulls [BRIAN] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1775268340-0-0-ad1c11217bc4292b4f5173127fc5508d
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1775269420-0-0-7a9adf6a9ac5e68cec061c8911966694
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/5037f8200f99bbbc645b8eb88d3312c9.png" group-title="Live Event: socolive",06:30 ngay 04/04 New York Knicks vs Chicago Bulls [BRIAN] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1775268340-0-0-63b6166ad7306d0a23b45a40c43b5633
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1775269420-0-0-fb5bbd3a6d83091f94f9b8e8a7474d2d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [VENDETTA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=2cde8d664d39cf66b7b9fd4e5b19a1e3&txTime=69d0bc7c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [VENDETTA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=5e739fde831e583a93abbffda69e2c32&txTime=69d0bc7c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [VENDETTA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=2cde8d664d39cf66b7b9fd4e5b19a1e3&txTime=69d0bc7c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [VENDETTA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=5e739fde831e583a93abbffda69e2c32&txTime=69d0bc7c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ TOMMY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1775269420-0-0-716a24f12f38d942eb441c0563bfe11f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ TOMMY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1775269420-0-0-1e62e5708ed69a82895b7a3aa1d40757
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ TOMMY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1775269420-0-0-63402f511907c79009ad43101bbda415
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ TOMMY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1775269420-0-0-52d9fa91ec5f9c4db794110a9098dcfd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/9c6270b03df6f7d73b5b70f20eceb365.png" group-title="Live Event: socolive",08:00 ngay 04/04 Club Deportivo Irapuato vs Club Atletico La Paz [TAM MAO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=3a0fe990ed5e39a298079a267a588e29&txTime=69d0bc7c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/9c6270b03df6f7d73b5b70f20eceb365.png" group-title="Live Event: socolive",08:00 ngay 04/04 Club Deportivo Irapuato vs Club Atletico La Paz [TAM MAO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=655a51a6b706d4613ce9cf5d670de6da&txTime=69d0bc7c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/9c6270b03df6f7d73b5b70f20eceb365.png" group-title="Live Event: socolive",08:00 ngay 04/04 Club Deportivo Irapuato vs Club Atletico La Paz [TAM MAO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=3a0fe990ed5e39a298079a267a588e29&txTime=69d0bc7c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/9c6270b03df6f7d73b5b70f20eceb365.png" group-title="Live Event: socolive",08:00 ngay 04/04 Club Deportivo Irapuato vs Club Atletico La Paz [TAM MAO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=655a51a6b706d4613ce9cf5d670de6da&txTime=69d0bc7c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0811e495be22392f9352b92bbc43cb7a.png" group-title="Live Event: socolive",06:30 ngay 04/04 Brooklyn Nets vs Atlanta Hawks [ HENRY] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1775268340-0-0-e7635a22950e5409f12f4ba28b423c43
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1775269420-0-0-813b34280c9bcd232e994ec12977a004
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0811e495be22392f9352b92bbc43cb7a.png" group-title="Live Event: socolive",06:30 ngay 04/04 Brooklyn Nets vs Atlanta Hawks [ HENRY] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1775268340-0-0-ffa85dd9023f60d5bb66dde7b17cf935
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1775269420-0-0-ded3570ce0716e7699296f7fb393f121
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0811e495be22392f9352b92bbc43cb7a.png" group-title="Live Event: socolive",06:30 ngay 04/04 Brooklyn Nets vs Atlanta Hawks [ HENRY] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1775268340-0-0-da6467ca0d92ad0a1e054c9194152bf3
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1775269420-0-0-d324726b8a62865a8febb15fbf4d9bf8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0811e495be22392f9352b92bbc43cb7a.png" group-title="Live Event: socolive",06:30 ngay 04/04 Brooklyn Nets vs Atlanta Hawks [ HENRY] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1775268340-0-0-aaab5c53bc658af5d03c0b8f7f501ed0
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1775269420-0-0-0fc2e7bcfb65226706d0b01492857f7e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0e2f15ef5c25107be1b2ea0295aafe49.png" group-title="Live Event: socolive",07:00 ngay 04/04 Houston Rockets vs Utah Jazz [HUNTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1775269420-0-0-dc497bd0223f22fe80ea7fefc7cbd748
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0e2f15ef5c25107be1b2ea0295aafe49.png" group-title="Live Event: socolive",07:00 ngay 04/04 Houston Rockets vs Utah Jazz [HUNTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1775269420-0-0-0ef99384f449a7efb950bb26bcda9e28
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0e2f15ef5c25107be1b2ea0295aafe49.png" group-title="Live Event: socolive",07:00 ngay 04/04 Houston Rockets vs Utah Jazz [HUNTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1775269420-0-0-6db426299e22fec0eb6bd5bdf30e53e0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/0e2f15ef5c25107be1b2ea0295aafe49.png" group-title="Live Event: socolive",07:00 ngay 04/04 Houston Rockets vs Utah Jazz [HUNTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1775269420-0-0-f5725f65cb23266760704d229cf567d2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [ ANH TAI] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1775268340-0-0-a391652c85536902ef2219723a40385e
+https://pull06.scstream.net/live/stream-406865_lsd.flv?auth_key=1775269420-0-0-7284fcedba0a1a2f1c03a5bae3eea2b2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [ ANH TAI] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1775268340-0-0-ba380dcb41be9cf83afab708b7e2cf14
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1775269420-0-0-1f10b756c52eda03cf655dcc166e0248
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [ ANH TAI] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1775268340-0-0-d1e6b2e7f6cfd4c0262abbd8a4f7c4e9
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1775269420-0-0-db1be7fbd07edc07ade43115a8343a35
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d684cb650d8c229dce461ab3e327c429.png" group-title="Live Event: socolive",08:30 ngay 04/04 Atletico Junior Barranquilla vs Deportivo Cali [ ANH TAI] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1775268340-0-0-15f75e060e075ea65ade585d098226ba
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [CR Buoi] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1775268700-0-0-309c564f1f58f8e3a08f53450c54b9be
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [CR Buoi] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1775268700-0-0-6ce96b825e538bce705b9fcd51f9a56e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [CR Buoi] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1775268700-0-0-bb8b3be152888d41cade4856ee24c060
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [CR Buoi] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1775268700-0-0-1e2b4d96db709d930a65f9062ebffb6f
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1775269420-0-0-f34682fbf489e6ac78620a22c90a9e34
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ LUCAS] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1775268700-0-0-12f54f77e5c4a301bce099a1b714e088
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1775269780-0-0-d7e44bbb1641aa496096e812dd7b3ce9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ LUCAS] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1775268700-0-0-8fa44b06724749249e42cfc5aa5be146
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1775269780-0-0-c643463c44343e95a3d7e811045ae85d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ LUCAS] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1775268700-0-0-4418085ece5b83631315ec0f60d15ee1
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1775269780-0-0-afa56db0640a707d649b5d78abf9e50d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [ LUCAS] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1775268700-0-0-cb296598f970f3b87d59e0844123a983
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1775269780-0-0-b4cb6ce4faf4e8a12e82289118e54e7c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [CR Buoi] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lsd.flv?auth_key=1775269780-0-0-583eb3409785e121a2bf79640214a701
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [CR Buoi] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1775269780-0-0-d4de19779c65ab10b310bf2fa53c5a36
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [CR Buoi] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1775269780-0-0-558f7c43474aee806a672fcd106e35d0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0a5d81daf9471fed67bd0bd309eca04b.png" group-title="Live Event: socolive",08:00 ngay 04/04 Puebla vs FC Juarez [CR Buoi] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1775269780-0-0-a74cee1386fdaedcbc59b610aaa8933c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d3bdc6889eaeab4c847f218f3fc403f0.png" group-title="Live Event: socolive",09:00 ngay 04/04 Tepatitlan FC vs Alebrijes de Oaxaca [ ROSI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lsd.flv?auth_key=1775269780-0-0-b7ba39c5f4ab5fa345846d4f40afb61c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d3bdc6889eaeab4c847f218f3fc403f0.png" group-title="Live Event: socolive",09:00 ngay 04/04 Tepatitlan FC vs Alebrijes de Oaxaca [ ROSI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912102_lhd.flv?auth_key=1775269780-0-0-1d7a0a1b9c9c69d7caf56991f1b74152
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d3bdc6889eaeab4c847f218f3fc403f0.png" group-title="Live Event: socolive",09:00 ngay 04/04 Tepatitlan FC vs Alebrijes de Oaxaca [ ROSI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1775269780-0-0-d2878d982f9441bc5234843810ae0e9b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/d3bdc6889eaeab4c847f218f3fc403f0.png" group-title="Live Event: socolive",09:00 ngay 04/04 Tepatitlan FC vs Alebrijes de Oaxaca [ ROSI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1775269780-0-0-a9f19bc030d3bd1a8546aa8ae6b2dc61
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/5037f8200f99bbbc645b8eb88d3312c9.png" group-title="Live Event: socolive",06:30 ngay 04/04 New York Knicks vs Chicago Bulls [CHAN SENA] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lsd.flv?txSecret=ed5a63cc4585007ea5f2b6961adca370&txTime=69d0b9ac
+https://pull.niur.live/live/stream-9912115_lsd.flv?txSecret=5d19e96a75f8e167a031ff83fc51a4b8&txTime=69d0bde4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/5037f8200f99bbbc645b8eb88d3312c9.png" group-title="Live Event: socolive",06:30 ngay 04/04 New York Knicks vs Chicago Bulls [CHAN SENA] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=0314ea7ceb55f394ab04ee4afc9d94e5&txTime=69d0b9ac
+https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=8056e43fad922eed28a3295dada4ff69&txTime=69d0bde4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/5037f8200f99bbbc645b8eb88d3312c9.png" group-title="Live Event: socolive",06:30 ngay 04/04 New York Knicks vs Chicago Bulls [CHAN SENA] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=ed5a63cc4585007ea5f2b6961adca370&txTime=69d0b9ac
+https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=5d19e96a75f8e167a031ff83fc51a4b8&txTime=69d0bde4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260402/5037f8200f99bbbc645b8eb88d3312c9.png" group-title="Live Event: socolive",06:30 ngay 04/04 New York Knicks vs Chicago Bulls [CHAN SENA] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=0314ea7ceb55f394ab04ee4afc9d94e5&txTime=69d0b9ac
+https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=8056e43fad922eed28a3295dada4ff69&txTime=69d0bde4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Club_Puebla_logo.svg/250px-Club_Puebla_logo.svg.png" group-title="Live Event: Hội quán",08:00 04/04 Puebla vs FC Juarez FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -4108,28 +4067,33 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=3ed0948dd1aa1df4960b5190a4894cf9&wsABSTime=1775308836
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=4a28ea9c17e1163eb81e0e11227e6de0&wsABSTime=1775310034
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgwweryk0/image/small" group-title="LIVE EVENT | XOILACZ AI",08:00 WIB - CLUB IRAPUATO VS CLUB ATLETICO LA PAZ [MEX D2] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=63fef5d8b66ae41d21aec0b60728d926&wsABSTime=1775308836
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=d776766281cb037f5e47572adce3b206&wsABSTime=1775310035
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlh887ryk0/image/small" group-title="LIVE EVENT | XOILACZ AI",08:30 WIB - ATLETICO JUNIOR VS DEPORTIVO CALI [COL D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=775e7b30e3f4eb2f50f093052f433062&wsABSTime=1775308837
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/vl7oqd4tzgjq510/image/small" group-title="LIVE EVENT | XOILACZ AI",06:00 WIB - CHARLOTTE HORNETS VS INDIANA PACERS [NBA] (v1)
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=9d21dc347ab2f5b16f59b2dfd2ca3804&wsABSTime=1775310035
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh94wwrepz/image/small" group-title="LIVE EVENT | XOILACZ AI",09:00 WIB - TEPATITLAN FC VS ALEBRIJES DE OAXACA [MEX D2] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=b101987b76d56154daad56ffc1e6c497&wsABSTime=1775308839
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/yl5ergytj4wr8k0/image/small" group-title="LIVE EVENT | XOILACZ AI",06:00 WIB - PHILADELPHIA 76ERS VS MINNESOTA TIMBERWOLVES [NBA] (v1)
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=056cff566507bbd87cd6fde91b670c4a&wsABSTime=1775310036
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/l965mk8t98zm1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",06:30 WIB - BROOKLYN NETS VS ATLANTA HAWKS [NBA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=8420947922fae6fe488088536acab13f&wsABSTime=1775308840
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whkzl6ryox/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - CARACAS FC VS METROPOLITANOS FC [VEN D1]
+https://live1.pro2cdnlive.com/live/channel45.flv?wsSecret=ab78c48bbddc53cfbcc79a3a8e8268c1&wsABSTime=1775310038
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/e4wyrn1t16oq86p/image/small" group-title="LIVE EVENT | XOILACZ AI",06:30 WIB - NEW YORK KNICKS VS CHICAGO BULLS [NBA] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=10d5e40f4c05f7ad62e8028f27d557c9&wsABSTime=1775310038
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhv3ooryk0/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - TIJUANA U21 VS TIGRES UANL U21 [MEX]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | MEX Liga MX",Puebla vs FC Juarez
 https://live.bbs456.com/live/13376347_4cfc9d3ce5e539fec636e4fbaf0914c2.m3u8
