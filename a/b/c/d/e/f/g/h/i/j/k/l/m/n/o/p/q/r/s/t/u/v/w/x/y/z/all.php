@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.11 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.22 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Rùa)
+https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Giàng A Rùa)
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Thích Đủ Thứ)
@@ -41,10 +41,6 @@ https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="l5ergph4v5l6r8k" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 05/04/26] Atletico Madrid vs FC Barcelona (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="dn1m1ghl2w50moe" tvg-name="FC Basel 1893 vs Young Boys" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 01:30 WIB | 05/04/26] FC Basel 1893 vs Young Boys",[LIVE 01:30 WIB | 05/04/26] FC Basel 1893 vs Young Boys (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="dn1m1ghl2w50moe" tvg-name="FC Basel 1893 vs Young Boys" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 01:30 WIB | 05/04/26] FC Basel 1893 vs Young Boys",[LIVE 01:30 WIB | 05/04/26] FC Basel 1893 vs Young Boys (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="ednm9whw9d8dryo" tvg-name="AFC Ajax vs FC Twente Enschede" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede",[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="ednm9whw9d8dryo" tvg-name="AFC Ajax vs FC Twente Enschede" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede",[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede (GIÀNG A MÂY)
@@ -73,3 +69,7 @@ https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0b
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="jw2r09hkle70rz8" tvg-name="Lazio vs Parma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 05/04/26] Lazio vs Parma",[LIVE 01:45 WIB | 05/04/26] Lazio vs Parma (Giàng A Sún)
 https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="dn1m1ghl2w50moe" tvg-name="FC Basel 1893 vs Young Boys" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 01:30 WIB | 05/04/26] FC Basel 1893 vs Young Boys",[LIVE 01:30 WIB | 05/04/26] FC Basel 1893 vs Young Boys (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="dn1m1ghl2w50moe" tvg-name="FC Basel 1893 vs Young Boys" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 01:30 WIB | 05/04/26] FC Basel 1893 vs Young Boys",[LIVE 01:30 WIB | 05/04/26] FC Basel 1893 vs Young Boys (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
