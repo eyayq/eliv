@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.47 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.54 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Lữ Bố (Giàng Phụng Tiên))
@@ -13,10 +13,10 @@ https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df7
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Giàng A Chiến)
 https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Giàng A Kê)
@@ -25,18 +25,6 @@ https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool",[LIVE 18:45 WIB | 04/04/26] Manchester City vs Liverpool (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="6ypq3nhvz4v6md7" tvg-name="Real Sociedad vs Levante" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 04/04/26] Real Sociedad vs Levante",[LIVE 19:00 WIB | 04/04/26] Real Sociedad vs Levante (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="6ypq3nhvz4v6md7" tvg-name="Real Sociedad vs Levante" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 04/04/26] Real Sociedad vs Levante",[LIVE 19:00 WIB | 04/04/26] Real Sociedad vs Levante (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="dn1m1ghlnjngmoe" tvg-name="Kasimpasa vs Kayserispor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 18:30 WIB | 04/04/26] Kasimpasa vs Kayserispor",[LIVE 18:30 WIB | 04/04/26] Kasimpasa vs Kayserispor (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="dn1m1ghlnjngmoe" tvg-name="Kasimpasa vs Kayserispor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 18:30 WIB | 04/04/26] Kasimpasa vs Kayserispor",[LIVE 18:30 WIB | 04/04/26] Kasimpasa vs Kayserispor (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="l7oqdehg4pnxr51" tvg-name="Genclerbirligi vs Goztepe" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 18:30 WIB | 04/04/26] Genclerbirligi vs Goztepe",[LIVE 18:30 WIB | 04/04/26] Genclerbirligi vs Goztepe (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="l7oqdehg4pnxr51" tvg-name="Genclerbirligi vs Goztepe" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 18:30 WIB | 04/04/26] Genclerbirligi vs Goztepe",[LIVE 18:30 WIB | 04/04/26] Genclerbirligi vs Goztepe (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="jw2r09hkk0pxrz8" tvg-name="Shandong Taishan vs Dalian Yingbo" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:00 WIB | 04/04/26] Shandong Taishan vs Dalian Yingbo",[LIVE 18:00 WIB | 04/04/26] Shandong Taishan vs Dalian Yingbo (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="jw2r09hkk0pxrz8" tvg-name="Shandong Taishan vs Dalian Yingbo" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:00 WIB | 04/04/26] Shandong Taishan vs Dalian Yingbo",[LIVE 18:00 WIB | 04/04/26] Shandong Taishan vs Dalian Yingbo (Giàng A Sếu)
@@ -45,18 +33,26 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="4wyrn4h6y9xvq86" tvg-name="Truong Tuoi Dong Nai vs PVF-CAND B" tvg-logo="https://img.cdnok9.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png" group-title="[LIVE 18:00 WIB | 04/04/26] Truong Tuoi Dong Nai vs PVF-CAND B",[LIVE 18:00 WIB | 04/04/26] Truong Tuoi Dong Nai vs PVF-CAND B (Giàng A Sún)
 https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="zp5rzghggeeoq82" tvg-name="PVF CAND vs Becamex Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City",[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="zp5rzghggeeoq82" tvg-name="PVF CAND vs Becamex Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City",[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="zp5rzghggeeoq82" tvg-name="PVF CAND vs Becamex Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City",[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="zp5rzghggeeoq82" tvg-name="PVF CAND vs Becamex Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City",[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-id="zp5rzghggeeoq82" tvg-name="PVF CAND vs Becamex Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City",[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="zp5rzghggeeoq82" tvg-name="PVF CAND vs Becamex Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City",[LIVE 18:00 WIB | 04/04/26] PVF CAND vs Becamex Ho Chi Minh City (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="23xmvkh66zzyqg8" tvg-name="XM Hai Phong FC vs Hanoi FC" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 04/04/26] XM Hai Phong FC vs Hanoi FC",[LIVE 18:00 WIB | 04/04/26] XM Hai Phong FC vs Hanoi FC (Giàng A Mèo)
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="23xmvkh66zzyqg8" tvg-name="XM Hai Phong FC vs Hanoi FC" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 04/04/26] XM Hai Phong FC vs Hanoi FC",[LIVE 18:00 WIB | 04/04/26] XM Hai Phong FC vs Hanoi FC (Giàng A Mèo)
 https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="l5ergph48o7lr8k" tvg-name="Vietnam Women U20 vs Thailand U20(w)" tvg-logo="https://img.cdnok9.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png" group-title="[UPCO 20:00 WIB | 5m | 04/04/26] Vietnam Women U20 vs Thailand U20(w)",[UPCO 20:00 WIB | 5m | 04/04/26] Vietnam Women U20 vs Thailand U20(w) (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="l5ergph48o7lr8k" tvg-name="Vietnam Women U20 vs Thailand U20(w)" tvg-logo="https://img.cdnok9.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png" group-title="[UPCO 20:00 WIB | 5m | 04/04/26] Vietnam Women U20 vs Thailand U20(w)",[UPCO 20:00 WIB | 5m | 04/04/26] Vietnam Women U20 vs Thailand U20(w) (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="3glrw7hnwx0eqdy" tvg-name="Sassuolo vs Cagliari" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 5m | 04/04/26] Sassuolo vs Cagliari",[UPCO 20:00 WIB | 5m | 04/04/26] Sassuolo vs Cagliari (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="3glrw7hnwx0eqdy" tvg-name="Sassuolo vs Cagliari" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 5m | 04/04/26] Sassuolo vs Cagliari",[UPCO 20:00 WIB | 5m | 04/04/26] Sassuolo vs Cagliari (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="3glrw7hnjy00qdy" tvg-name="Zenit St. Petersburg vs Krylya Sovetov" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 19:15 WIB | 04/04/26] Zenit St. Petersburg vs Krylya Sovetov",[LIVE 19:15 WIB | 04/04/26] Zenit St. Petersburg vs Krylya Sovetov (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 tvg-id="3glrw7hnjy00qdy" tvg-name="Zenit St. Petersburg vs Krylya Sovetov" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 19:15 WIB | 04/04/26] Zenit St. Petersburg vs Krylya Sovetov",[LIVE 19:15 WIB | 04/04/26] Zenit St. Petersburg vs Krylya Sovetov (Giàng A Lỏ)
@@ -69,11 +65,15 @@ https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc1225
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="l7oqdehg355or51" tvg-name="Ratchaburi FC vs Buriram United" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 19:00 WIB | 04/04/26] Ratchaburi FC vs Buriram United",[LIVE 19:00 WIB | 04/04/26] Ratchaburi FC vs Buriram United (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="l5ergph48o7lr8k" tvg-name="Vietnam Women U20 vs Thailand U20(w)" tvg-logo="https://img.cdnok9.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png" group-title="[UPCO 20:00 WIB | 12m | 04/04/26] Vietnam Women U20 vs Thailand U20(w)",[UPCO 20:00 WIB | 12m | 04/04/26] Vietnam Women U20 vs Thailand U20(w) (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="l5ergph48o7lr8k" tvg-name="Vietnam Women U20 vs Thailand U20(w)" tvg-logo="https://img.cdnok9.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png" group-title="[UPCO 20:00 WIB | 12m | 04/04/26] Vietnam Women U20 vs Thailand U20(w)",[UPCO 20:00 WIB | 12m | 04/04/26] Vietnam Women U20 vs Thailand U20(w) (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="3glrw7hnwx0eqdy" tvg-name="Sassuolo vs Cagliari" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 12m | 04/04/26] Sassuolo vs Cagliari",[UPCO 20:00 WIB | 12m | 04/04/26] Sassuolo vs Cagliari (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="3glrw7hnwx0eqdy" tvg-name="Sassuolo vs Cagliari" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 12m | 04/04/26] Sassuolo vs Cagliari",[UPCO 20:00 WIB | 12m | 04/04/26] Sassuolo vs Cagliari (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="6ypq3nhvz4v6md7" tvg-name="Real Sociedad vs Levante" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 04/04/26] Real Sociedad vs Levante",[LIVE 19:00 WIB | 04/04/26] Real Sociedad vs Levante (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="6ypq3nhvz4v6md7" tvg-name="Real Sociedad vs Levante" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 04/04/26] Real Sociedad vs Levante",[LIVE 19:00 WIB | 04/04/26] Real Sociedad vs Levante (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="dn1m1ghlnjngmoe" tvg-name="Kasimpasa vs Kayserispor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 18:30 WIB | 04/04/26] Kasimpasa vs Kayserispor",[LIVE 18:30 WIB | 04/04/26] Kasimpasa vs Kayserispor (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="dn1m1ghlnjngmoe" tvg-name="Kasimpasa vs Kayserispor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 18:30 WIB | 04/04/26] Kasimpasa vs Kayserispor",[LIVE 18:30 WIB | 04/04/26] Kasimpasa vs Kayserispor (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="l7oqdehg4pnxr51" tvg-name="Genclerbirligi vs Goztepe" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 18:30 WIB | 04/04/26] Genclerbirligi vs Goztepe",[LIVE 18:30 WIB | 04/04/26] Genclerbirligi vs Goztepe (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="l7oqdehg4pnxr51" tvg-name="Genclerbirligi vs Goztepe" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 18:30 WIB | 04/04/26] Genclerbirligi vs Goztepe",[LIVE 18:30 WIB | 04/04/26] Genclerbirligi vs Goztepe (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
