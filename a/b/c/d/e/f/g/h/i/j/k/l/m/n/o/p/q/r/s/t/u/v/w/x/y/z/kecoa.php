@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [00.14 WIB 05/04/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [00.19 WIB 05/04/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456240229-football-icon.svg" group-title="[LIVE 23:00 WIB 04/04/26] Verona vs Fiorentina",[LIVE 23:00 WIB 04/04/26] Verona vs Fiorentina (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
@@ -31,23 +31,23 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_full-hd.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_hd.m3u8
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767890792303-football-icon.png" group-title="[LIVE 23:30 WIB 04/04/26] VfB Stuttgart vs Borussia Dortmund",[LIVE 23:30 WIB 04/04/26] VfB Stuttgart vs Borussia Dortmund (SD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_sd.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal (HD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal (HD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_hd.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal (SD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal (SD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_sd.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal (HD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal (HD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5_hd.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 45m 02:00 WIB 05/04/26] Southampton vs Arsenal (SD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767963557150-download.png" group-title="[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal",[UPCOMING 1j 40m 02:00 WIB 05/04/26] Southampton vs Arsenal (SD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5_sd.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 1j 45m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona",[UPCOMING 1j 45m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 1j 40m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona",[UPCOMING 1j 40m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 1j 45m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona",[UPCOMING 1j 45m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 1j 40m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona",[UPCOMING 1j 40m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 1j 45m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona",[UPCOMING 1j 45m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona (HD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 1j 40m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona",[UPCOMING 1j 40m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona (HD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_hd.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 1j 45m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona",[UPCOMING 1j 45m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona (SD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 1j 40m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona",[UPCOMING 1j 40m 02:00 WIB 05/04/26] Atletico Madrid vs Barcelona (SD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2_sd.m3u8
