@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.12 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.31 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="1l4rjnh9jwwnm7v" tvg-name="Atletico Junior Barranquilla vs Deportivo Cali" tvg-logo="https://img.cdnok9.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="[LIVE 08:30 WIB | 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali",[LIVE 08:30 WIB | 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali (DERICE)
 https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
