@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [10.28 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [10.31 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="4wyrn4h6oz11q86" tvg-name="Necaxa vs Mazatlan FC" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LIVE 10:00 WIB | 04/04/26] Necaxa vs Mazatlan FC",[LIVE 10:00 WIB | 04/04/26] Necaxa vs Mazatlan FC (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
