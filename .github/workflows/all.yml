@@ -19,7 +19,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
@@ -30,41 +30,43 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests aiohttp
+          pip install requests
+          pip install aiohttp
 
-      - name: Decode Python Script
+      - name: Restore Python script from secret
         run: |
           echo "${{ secrets.ALL_PY }}" | base64 -d > all.py
           chmod +x all.py
 
-      - name: Run Scr
+      - name: Run scraper
         run: |
           python all.py
 
-      - name: Commit Playlist
+      - name: Commit playlist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name "yanshdroid[bot]"
-          git config --global user.email "yanshdroid[bot]@users.noreply.github.com"
-
           FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/all.php"
+
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
           if [ -f "$FILE" ]; then
             git add "$FILE"
-            git commit -m "Auto update playlist $(date)" || echo "No changes"
+            git commit -m "Update ALLPHP playlist $(date)" || echo "No changes"
 
-            # retry push jika banyak runner
+            # retry push untuk multi runner (10 runner)
             for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
             do
               git pull --rebase --autostash origin main
               git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main && break
-              echo "Push failed. retry $i..."
+              echo "Push failed, retry $i..."
               sleep 5
             done
+
           else
-            echo "all.php not found"
+            echo "all.m3u not found"
           fi
