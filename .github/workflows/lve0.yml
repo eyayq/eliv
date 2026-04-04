@@ -27,7 +27,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: "3.11"
 
       - name: Install Dependencies
         run: |
@@ -66,8 +66,13 @@ jobs:
               echo "No changes to commit"
             fi
 
-            git pull --rebase --autostash origin main
-            git push origin main
+            # 👉 hanya bagian ini ditambah retry (tanpa ubah yang lain)
+            for i in 1 2 3 4 5; do
+              git pull --rebase --autostash origin main
+              git push origin main && break
+              echo "Push gagal, retry ke-$i..."
+              sleep 5
+            done
 
           else
             echo "live0.m3u not found"
