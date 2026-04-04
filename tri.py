@@ -89,7 +89,7 @@ def wait_run_finish(run_id):
 
         if r.status_code != 200:
             print("API error:", r.text)
-            time.sleep(10)
+            time.sleep(3)
             continue
 
         status = r.json()["status"]
@@ -98,7 +98,7 @@ def wait_run_finish(run_id):
         if status == "completed":
             return
 
-        time.sleep(10)
+        time.sleep(3)
 
 
 while True:
