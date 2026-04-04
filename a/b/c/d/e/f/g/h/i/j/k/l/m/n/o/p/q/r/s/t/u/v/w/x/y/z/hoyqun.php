@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V7: [00:16 WIB 05/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V7: [00:16 WIB 05/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V7: [00:24 WIB 05/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V7: [00:24 WIB 05/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://probilliardseries.com/wp-content/uploads/2026/01/WM8BWC-logo-inline-black-2048x989.webp" group-title="2026 Yalin WPA Men’s 8-Ball World Championship",[23:00 WIB 04/04/26] 2026 Yalin WPA Men’s 8-Ball World Championship [FHD] [LIVE]
@@ -56,13 +56,13 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://abcnews4.com/resources/media/206f9bb5-0707-44eb-84cb-5137db09a768-large16x9_CreditOneCharlestonOpen_Logo_HorizontalBlack.png.jpg?1632422073123" group-title="WTA500 Charleston",[00:00 WIB 05/04/26] Jessica Pegula vs Iva Jovic [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 05/04/26] Al-Hilal Saudi FC vs Al Taawon [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 05/04/26] Al-Hilal Saudi FC vs Al Taawon [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 05/04/26] Al-Hilal Saudi FC vs Al Taawon [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 05/04/26] Al-Hilal Saudi FC vs Al Taawon [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 05/04/26] Al-Hilal Saudi FC vs Al Taawon [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 05/04/26] Al-Hilal Saudi FC vs Al Taawon [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://abcnews4.com/resources/media/206f9bb5-0707-44eb-84cb-5137db09a768-large16x9_CreditOneCharlestonOpen_Logo_HorizontalBlack.png.jpg?1632422073123" group-title="WTA500 Charleston",[01:30 WIB 05/04/26] Madison Keys vs Yuliia Starodubtseva [FHD] [NANTIKAN]
@@ -471,13 +471,13 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[17:30 WIB 06/04/26] Udinese vs Como [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[17:30 WIB 06/04/26] Udinese vs Como [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[17:30 WIB 06/04/26] Udinese vs Como [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 06/04/26] Guangzhou vs Zhejiang Guangsha [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
