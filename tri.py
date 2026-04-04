@@ -14,26 +14,33 @@ HEADERS = {
 
 SLEEP_AFTER_ALL = 130  # 5 menit
 
+# 👉 jumlah runner per batch (bebas ubah)
+BATCH_SIZE = 3
+
+# 👉 daftar workflow (tetap dari kamu, tidak diubah)
+WORKFLOW_LIST = [
+    "lve.yml", "lve0.yml",
+    "lve2.yml", "auto.yml",
+    "hh.yml", "kk.yml",
+    "jj.yml", "ii.yml",
+    "pl.yml", "z.yml",
+    "lve1.yml",
+    "cucen.yml", "rpd.yml",
+    "all.yml", "kecoa.yml",
+    "gvng.yml", "hoyqun.yml",
+    "lve1.yml"
+]
+
+# 👉 auto grouping (INI SAJA PERUBAHANNYA)
 WORKFLOW_GROUPS = [
-    ["auto.yml", "lve0.yml"],
-    ["lve2.yml", "lve.yml"],
-    ["hh.yml", "kk.yml"],
-    ["jj.yml", "ii.yml"],
-    ["pl.yml", "z.yml"],
-    ["lve1.yml"],
-    ["cucen.yml", "rpd.yml"],
-    ["all.yml", "kecoa.yml"],
-    ["gvng.yml", "hoyqun.yml"],
-    ["lve1.yml"],
+    WORKFLOW_LIST[i:i+BATCH_SIZE]
+    for i in range(0, len(WORKFLOW_LIST), BATCH_SIZE)
 ]
 
 
 def trigger_workflow(workflow):
-
     url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow}/dispatches"
-
     data = {"ref": "main"}
-
     r = requests.post(url, headers=HEADERS, json=data)
 
     if r.status_code == 204:
@@ -43,9 +50,7 @@ def trigger_workflow(workflow):
 
 
 def get_latest_run(workflow):
-
     url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow}/runs?per_page=1"
-
     r = requests.get(url, headers=HEADERS)
 
     if r.status_code != 200:
@@ -61,11 +66,8 @@ def get_latest_run(workflow):
 
 
 def wait_run_finish(run_id):
-
     while True:
-
         url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/runs/{run_id}"
-
         r = requests.get(url, headers=HEADERS)
 
         if r.status_code != 200:
@@ -74,7 +76,6 @@ def wait_run_finish(run_id):
             continue
 
         status = r.json()["status"]
-
         print("Run status:", status)
 
         if status == "completed":
@@ -92,9 +93,7 @@ while True:
         run_ids = []
 
         for wf in group:
-
             trigger_workflow(wf)
-
             time.sleep(3)
 
             run_id = get_latest_run(wf)
@@ -110,7 +109,7 @@ while True:
         print("Group finished:", group)
 
     print("All workflows finished")
-
     print("Sleep", SLEEP_AFTER_ALL, "seconds")
 
     time.sleep(SLEEP_AFTER_ALL)
+    
