@@ -15,8 +15,8 @@ HEADERS = {
 SLEEP_AFTER_ALL = 130  # 5 menit
 
 WORKFLOW_GROUPS = [
-    ["lve.yml", "lve0.yml"],
-    ["lve2.yml", "auto.yml"],
+    ["auto.yml", "lve0.yml"],
+    ["lve2.yml", "lve.yml"],
     ["hh.yml", "kk.yml"],
     ["jj.yml", "ii.yml"],
     ["pl.yml", "z.yml"],
@@ -24,7 +24,7 @@ WORKFLOW_GROUPS = [
     ["cucen.yml", "rpd.yml"],
     ["all.yml", "kecoa.yml"],
     ["gvng.yml", "hoyqun.yml"],
-    ["lve1.yml"]
+    ["lve1.yml"],
 ]
 
 
