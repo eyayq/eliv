@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-04-04 09:48:30
-# 🔄 Total Channels: 2087
+# ⏰ Latest Updated: 2026-04-04 09:51:14
+# 🔄 Total Channels: 2093
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -46,11 +46,16 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/362e31efdd0dad03b00858f4fb0901b5.png" group-title="Cdnlivetv",[Ekstraklasa] Wisla Plock vs Katowice (CDNTV)
+#EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=canal+sport+3&code=pl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edge.cdn-live.ru/secure/api/v1/pl-canal-sport-3/playlist.m3u8?token=eefb8c170ad40549e87d18db6fce65765a106b8f685e7a271b7e0b437ec598e0.1775296074.d8b4ff9862dd3e6af8aa2240bb910a3b.033b638bd077127a713ab11d652d4f51.6cc41048ec18b6cb14fbb169f1f6209e&signature=b3f72389642c33c846750c6a8f7f479fd42e04db00c9b17abfcdf54036b893ff
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Cdnlivetv",[Segunda liga] Feirense vs Farense (CDNTV)
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdn-live.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edge.cdn-live.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=16661bec3ae4932137bbb496362d80b56cd15c7806f475df74a844ab6d821672.1775295796.9665f8dbdc83c68e197ea82b13de3d54.ee7fde5e6bc00a6e499184618bcc8e28.957916694ca4a5a6fd8d70e823d45d8a&signature=26b7e7a59a75d4ff94bb6a93792f545f1d0a60a0cc3dbc4b978ffa907f86f9eb
+https://edge.cdn-live.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=6cb6ee94684488dc586912c7825ca0c8a1bf163513aba89beb39c272e691f137.1775296072.7cd8d52cdca483939dec85b0e5fa02e0.e457797ac76cd97d144acceb8a04ff94.59a565903f5150d2497501e3102b35fb&signature=87e022ddb909d6eb9fc011a186341683d849dac1d9874e792bdf87cff8d75d1a
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Fawa",[AFL Aussie Rules] West Coast Eagles vs Sydney Swans (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -165,532 +170,532 @@ http://195.178.110.2/hls/SASASAQQQQ.m3u8
 #EXTVLCOPT:http-referrer=https://pawastreams.net/f1-japanese-gp/101817/
 #EXTVLCOPT:http-origin=https://pawastreams.net/f1-japanese-gp/101817/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb.buzztip.site/1/index.m3u8?token=393c05a9d2ad1a3fa7a424272b75ae9ba25e82a5-a77e0d88698e49c5dd25b7df5e2b5036-1775306296-1775295496
+https://lb.buzztip.site/1/index.m3u8?token=1529c86252bbe38a2e2d818e21c18a68b59af98f-211b86104eda2fe1e87715843fc652d1-1775306573-1775295773
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pawa",[Live Event] F1 Japanese GP Race (PAWA)
 #EXTVLCOPT:http-referrer=https://pawastreams.net/f1-japanese-gp-race/101816/
 #EXTVLCOPT:http-origin=https://pawastreams.net/f1-japanese-gp-race/101816/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb.buzztip.site/1/index.m3u8?token=f0eb15e786882ee81bfd8e9a5dfed0d6d0a5222f-f2cefa22cb84870819010a69010ff7b6-1775306297-1775295497
+https://lb.buzztip.site/1/index.m3u8?token=58a092f009937cfa60d6e2b2b8d611b179ab5a84-b73025c8f49f3bf32d3cda8dbe8b827c-1775306574-1775295774
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pawa",[Live Event] Sporting CP vs Santa Clara (PAWA)
 #EXTVLCOPT:http-referrer=https://pawastreams.net/sporting-cp-vs-santa-clara/102099/
 #EXTVLCOPT:http-origin=https://pawastreams.net/sporting-cp-vs-santa-clara/102099/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://toocdn.top/p2/index.m3u8?token=6aa94eb6c4bb62b0e12bae1d182a76dd6f324e35-eabead774d4869cdb6287cfb1c93d252-1775306296-1775295496
+https://toocdn.top/p2/index.m3u8?token=bb492381e39b16496b0ac59cfb4cca044eacb0ed-d5102df93dc4f03730d47a3535547ebf-1775306573-1775295773
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pawa",[Live Event] Sporting CP vs Santa Clara t (PAWA)
 #EXTVLCOPT:http-referrer=https://pawastreams.net/sporting-cp-vs-santa-clara-t/102122/
 #EXTVLCOPT:http-origin=https://pawastreams.net/sporting-cp-vs-santa-clara-t/102122/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://toocdn.top/p2/index.m3u8?token=b7d8b06317222f75b959e4ea5288563aeea72375-6622cfeb6d39fa8b187b96b3e2d8a253-1775306296-1775295496
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="Ppv",[24/7 Streams] 24/7 COWS (PPV)
+https://toocdn.top/p2/index.m3u8?token=dd8b0ea98ded1f48a46601149335d67887daa5bb-583ea10f76dc76ad261bfb7cec928fa8-1775306573-1775295773
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="Ppv",[24/7 Streams] 24/7 COWS (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/247-cows#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/247-cows#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/xGnIFlwhAWvGcfjfXzZiIBPMYlmDPxEB/0/1775382276/cows/tracks-v1a1/mono.ts.m3u8
+https://lb3.modifiles.fans/secure/gkSvnOEEtotCSQjExoolQJgTkoJFedhO/0/1775382564/cows/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="Ppv",[24/7 Streams] 24/7 Family Guy (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/247-family-guy#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/247-family-guy#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/javqacZYmMQuSkRrtoCDPrwbsBKKRtZW/0/1775382277/familyguy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="Ppv",[24/7 Streams] 24/7 SpongeBob Squarepants (PPV)
+https://lb3.modifiles.fans/secure/iujmmLFkJzTFQUzBbftJyOzBLNBWaplC/0/1775382564/familyguy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="Ppv",[24/7 Streams] 24/7 SpongeBob Squarepants (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/247-spongebob-squarepants#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/247-spongebob-squarepants#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/jiVwDfRRGQEaunimFdViRIPFJWHQSZul/0/1775382279/spongebob/tracks-v1a1/mono.ts.m3u8
+https://lb3.modifiles.fans/secure/LxPcEgNNXRiVeiPbSXDIRLIjZrBvrdmo/0/1775382566/spongebob/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="Ppv",[24/7 Streams] 24/7 The Simpsons (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/247-the-simpsons#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/247-the-simpsons#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/bHErOwAHAWXfMYtlCKcOIFuMoGuQWzYj/0/1775382278/thesimpsons/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="Ppv",[24/7 Streams] Rally TV (PPV)
+https://lb3.modifiles.fans/secure/YmSlnohOhFdLiVZmAViyHzwUAejuTfIV/0/1775382565/thesimpsons/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="Ppv",[24/7 Streams] Rally TV (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/rally-tv#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/rally-tv#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/5a291be4b3ba5b169f0d3bf7824fc613-thumbnail.jpg" group-title="Ppv",[Baseball] Atlanta Braves vs. Arizona Diamondbacks (PPV)
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a291be4b3ba5b169f0d3bf7824fc613-thumbnail.jpg" group-title="Ppv",[Baseball] Atlanta Braves vs. Arizona Diamondbacks (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/atl-ari#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/atl-ari#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/aiecTwpqIooFqBPwGgYddnsOsAtKVpOh/1775333700/1775364300/arizonadiamondbacks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/3ac64b9d0d3aeb1bca8a65a6ce505196-thumbnail.jpg" group-title="Ppv",[Baseball] Baltimore Orioles vs. Pittsburgh Pirates (PPV)
+https://lb1.modifiles.fans/secure/PhfbGPtbKkssEfiCcOJbQUgSjOnSNNqw/1775333700/1775364300/arizonadiamondbacks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ac64b9d0d3aeb1bca8a65a6ce505196-thumbnail.jpg" group-title="Ppv",[Baseball] Baltimore Orioles vs. Pittsburgh Pirates (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/bal-pit#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/bal-pit#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/rEVOZONOovwSGOnqUyJcETvAOmxNEYHb/1775322300/1775352900/pittsburghpirates/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/34e097d572f514b566cd297658f433a9-thumbnail.jpg" group-title="Ppv",[Baseball] Chicago Cubs vs. Cleveland Guardians (PPV)
+https://lb4.modifiles.fans/secure/MEtHoaxXNVzpKdicocRZYAviGccbVKIe/1775322300/1775352900/pittsburghpirates/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/34e097d572f514b566cd297658f433a9-thumbnail.jpg" group-title="Ppv",[Baseball] Chicago Cubs vs. Cleveland Guardians (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/chc-cle#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/chc-cle#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/pgzsLRIzogHZJAmbKybybMNYeVxFuWJn/1775333700/1775364300/clevelandguardians/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/0e8b3294e99719fd601a207d3d75c3ef-thumbnail.jpg" group-title="Ppv",[Baseball] Cincinnati Reds vs. Texas Rangers (PPV)
+https://lb2.modifiles.fans/secure/rQItXwQELNiFKbAIVKimorurOCtYbHFs/1775333700/1775364300/clevelandguardians/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e8b3294e99719fd601a207d3d75c3ef-thumbnail.jpg" group-title="Ppv",[Baseball] Cincinnati Reds vs. Texas Rangers (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/cin-tex#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/cin-tex#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/DgvQgGQuFDdOffbgKRqBrJkYOyVNUCPa/1775333100/1775363700/texasrangers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/09af49b7d00a7d302cc89eb5b003580c-thumbnail.jpg" group-title="Ppv",[Baseball] Houston Astros vs. Athletics (PPV)
+https://lb2.modifiles.fans/secure/TqqLHCbBuVwuynqjgVdsNzrffbYfOaYz/1775333100/1775363700/texasrangers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09af49b7d00a7d302cc89eb5b003580c-thumbnail.jpg" group-title="Ppv",[Baseball] Houston Astros vs. Athletics (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/hou-ath#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/hou-ath#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/FHfQBZtskWeOMxYhgZapXcxpBCMPCWut/1775322300/1775352900/athletics/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/38700f31221c326681e7f254a75d7ba2-thumbnail.jpg" group-title="Ppv",[Baseball] Los Angeles Dodgers vs. Washington Nationals (PPV)
+https://lb4.modifiles.fans/secure/FnRNOUhpTsExiMVhKNKzYyFKCZvmNANk/1775322300/1775352900/athletics/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38700f31221c326681e7f254a75d7ba2-thumbnail.jpg" group-title="Ppv",[Baseball] Los Angeles Dodgers vs. Washington Nationals (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/lad-wsh#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/lad-wsh#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/odQaRraUUYYCCAHFwhOoeqXYIldvvZby/1775322300/1775352900/washingtonnationals/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/94e704acfb023e67701fb5aa4601aa12-thumbnail.jpg" group-title="Ppv",[Baseball] Miami Marlins vs. New York Yankees (PPV)
+https://lb4.modifiles.fans/secure/tDIfrOpSgpbwihuTNThUrOusijohDKrs/1775322300/1775352900/washingtonnationals/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94e704acfb023e67701fb5aa4601aa12-thumbnail.jpg" group-title="Ppv",[Baseball] Miami Marlins vs. New York Yankees (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/mia-nyy#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/mia-nyy#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/YDrYYMxHNvgVSPYjhvjrQLjZBtRkrsEM/1775333100/1775363700/newyorkyankees/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/13fae5d1725afe29e16124602d66479f-thumbnail.jpg" group-title="Ppv",[Baseball] Milwaukee Brewers vs. Kansas City Royals (PPV)
+https://lb4.modifiles.fans/secure/DvmQXjZKTpTBfMCejhwcUCzsUKgZyRlK/1775333100/1775363700/newyorkyankees/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/13fae5d1725afe29e16124602d66479f-thumbnail.jpg" group-title="Ppv",[Baseball] Milwaukee Brewers vs. Kansas City Royals (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/mil-kc/game-2#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/mil-kc/game-2#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/RsHcRWSVtBQHPXTujPgsxPPoVmDOPuiL/1775333400/1775364000/kansascityroyals/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/437f2b28c636273aaa1a4d6a2b26136b-thumbnail.jpg" group-title="Ppv",[Baseball] New York Mets vs. San Francisco Giants (PPV)
+https://lb2.modifiles.fans/secure/IJVBNgyWRBqjviHjACbzQpIfwFIFCQBs/1775333400/1775364000/kansascityroyals/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/437f2b28c636273aaa1a4d6a2b26136b-thumbnail.jpg" group-title="Ppv",[Baseball] New York Mets vs. San Francisco Giants (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/nym-sf#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/nym-sf#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/xjpYCmCzVpBrohPZcPBMsGZIreCbidFQ/1775340300/1775370900/sanfranciscogiants/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/5e51d4e3b6b1cc38bf6e271185f80575-thumbnail.jpg" group-title="Ppv",[Baseball] Philadelphia Phillies vs. Colorado Rockies (PPV)
+https://lb1.modifiles.fans/secure/SgGjPApexIvyIrtIDNcLwsQdBgVMHLDh/1775340300/1775370900/sanfranciscogiants/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e51d4e3b6b1cc38bf6e271185f80575-thumbnail.jpg" group-title="Ppv",[Baseball] Philadelphia Phillies vs. Colorado Rockies (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/phi-col#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/phi-col#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/MVGVwMpuAuWoIvuuzwJrRBXkUtHaubJS/1775337000/1775367600/coloradorockies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/60f3624568850c184913b9de9683757d-thumbnail.jpg" group-title="Ppv",[Baseball] San Diego Padres vs. Boston Red Sox (PPV)
+https://lb1.modifiles.fans/secure/LSQpPAzpmhBoVQGJqXFMQbQqIZWhWPvD/1775337000/1775367600/coloradorockies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/60f3624568850c184913b9de9683757d-thumbnail.jpg" group-title="Ppv",[Baseball] San Diego Padres vs. Boston Red Sox (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/sd-bos#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/sd-bos#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/KSeriKysYgNeXjXjbGCXNZVigKOKQqLA/1775322600/1775353200/bostonredsox/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/a5e4b72859961e025ab6cd9711e4ff40-thumbnail.jpg" group-title="Ppv",[Baseball] Seattle Mariners vs. Los Angeles Angels (PPV)
+https://lb4.modifiles.fans/secure/ILUWEcCDSqlBUwftjIdobvwPHCrJjSrW/1775322600/1775353200/bostonredsox/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5e4b72859961e025ab6cd9711e4ff40-thumbnail.jpg" group-title="Ppv",[Baseball] Seattle Mariners vs. Los Angeles Angels (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/sea-laa#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/sea-laa#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/AbBZrgQxNdWJKiNCOaqXGRsoTTGpsUmH/1775342280/1775372880/losangelesangels/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/d7fe2eb413ca7a14f12e46490e1b5362-thumbnail.jpg" group-title="Ppv",[Baseball] St. Louis Cardinals vs. Detroit Tigers (PPV)
+https://lb1.modifiles.fans/secure/vKVhQyAXmEbLtBqMrHMXZPgYxUtjQoFb/1775342280/1775372880/losangelesangels/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d7fe2eb413ca7a14f12e46490e1b5362-thumbnail.jpg" group-title="Ppv",[Baseball] St. Louis Cardinals vs. Detroit Tigers (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/stl-det#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/stl-det#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/hlgbTezAWljuEIrPmXdSLTkavFfoBDiQ/1775311800/1775342400/detroittigers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/e2f7e1a8ac801862c1d569a92eceac1f-thumbnail.jpg" group-title="Ppv",[Baseball] Tampa Bay Rays vs. Minnesota Twins (PPV)
+https://lb1.modifiles.fans/secure/fALgzPRsblSTFZRfiyraVYIoKavsxvZj/1775311800/1775342400/detroittigers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e2f7e1a8ac801862c1d569a92eceac1f-thumbnail.jpg" group-title="Ppv",[Baseball] Tampa Bay Rays vs. Minnesota Twins (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/tb-min#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/tb-min#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/nTWMgQrjpEvpMtjddSOtTFcvJECvVMTg/1775333400/1775364000/minnesotatwins/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/4b3b5108033127bfc97fb193c79643aa-thumbnail.jpg" group-title="Ppv",[Baseball] Toronto Blue Jays vs. Chicago White Sox (PPV)
+https://lb2.modifiles.fans/secure/ZDPdElUJGPwAEYdevlBTCuMCWyBuVfhN/1775333400/1775364000/minnesotatwins/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b3b5108033127bfc97fb193c79643aa-thumbnail.jpg" group-title="Ppv",[Baseball] Toronto Blue Jays vs. Chicago White Sox (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mlb/2026-04-04/tor-chw#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-04/tor-chw#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/tgsFUQoUMqvLkzheYfMYdxgTbkQadjpY/1775315400/1775346000/chicagowhitesox/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/b2a3b329188fb0d8f77f01636ad6332c-thumbnail.jpg" group-title="Ppv",[Basketball] Detroit Pistons vs. Philadelphia 76ers (PPV)
+https://lb1.modifiles.fans/secure/rsOOmRZdGMZGQhPriQVLvKpUmNRPDwqM/1775315400/1775346000/chicagowhitesox/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b2a3b329188fb0d8f77f01636ad6332c-thumbnail.jpg" group-title="Ppv",[Basketball] Detroit Pistons vs. Philadelphia 76ers (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-04/det-phi#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-04/det-phi#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/McdSIdcqcrZqfVqKPCqGIsNvhPVFvBVn/1775332800/1775360880/philadelphia76ers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/8ba22ea922b5cd4519409208a4b1f289-thumbnail.jpg" group-title="Ppv",[Basketball] Illinois Fighting Illini vs. UConn Huskies (PPV)
+https://lb4.modifiles.fans/secure/BZODUgwWbRSquObzeNCMtpyCwhjCGCaV/1775332800/1775360880/philadelphia76ers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8ba22ea922b5cd4519409208a4b1f289-thumbnail.jpg" group-title="Ppv",[Basketball] Illinois Fighting Illini vs. UConn Huskies (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/march-madness/2026-04-04/ill-conn#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/march-madness/2026-04-04/ill-conn#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/ZyNJOvQapwAxhWyKCvNNiNAUsNWmwTHD/1775329740/1775358540/TBS/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/d035f1c14a9ced28f3258eb9d6ecb1d5-thumbnail.jpg" group-title="Ppv",[Basketball] Michigan Wolverines vs. Arizona Wildcats (PPV)
+https://lb4.modifiles.fans/secure/KZYgnAlubuLPASOSXRfdofeqoQiNXUdh/1775329740/1775358540/TBS/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d035f1c14a9ced28f3258eb9d6ecb1d5-thumbnail.jpg" group-title="Ppv",[Basketball] Michigan Wolverines vs. Arizona Wildcats (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/march-madness/2026-04-04/mich-ariz#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/march-madness/2026-04-04/mich-ariz#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/QqMCfKfHxuCwaUBBcwRHbJLEjbgcZFEE/1775339340/1775368140/TBS/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/8e46d090bad9a40ac19226ce911ddb67-thumbnail.jpg" group-title="Ppv",[Basketball] San Antonio Spurs vs. Denver Nuggets (PPV)
+https://lb4.modifiles.fans/secure/aQaikweWOldmqUvdZIIuLmuvDYRpCmRD/1775339340/1775368140/TBS/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e46d090bad9a40ac19226ce911ddb67-thumbnail.jpg" group-title="Ppv",[Basketball] San Antonio Spurs vs. Denver Nuggets (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-04/sa-den#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-04/sa-den#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/yHRFQJAiDMRISKSbynqldoxCNvevzNaM/1775318400/1775346480/denvernuggets/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/3b6a1ca69c481e77acfa6a4098b3a9c7-thumbnail.jpg" group-title="Ppv",[Basketball] Washington Wizards vs. Miami Heat (PPV)
+https://lb4.modifiles.fans/secure/ihKFWejsdzOcuhzOdfEtgXaHuRVOtjFL/1775318400/1775346480/denvernuggets/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3b6a1ca69c481e77acfa6a4098b3a9c7-thumbnail.jpg" group-title="Ppv",[Basketball] Washington Wizards vs. Miami Heat (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-04/wsh-mia#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-04/wsh-mia#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/GnSwXsTFZCtrSFPRTwRAPwagGYKtSTse/1775318400/1775346480/miamiheat/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/681a5feaad59cddc07448f893e1be144-thumbnail.jpg" group-title="Ppv",[Combat Sports] Chisora vs. Wilder (PPV)
+https://lb1.modifiles.fans/secure/KXKPVvwfCOEOiztmoVUXqahKEXpBKPoh/1775318400/1775346480/miamiheat/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/681a5feaad59cddc07448f893e1be144-thumbnail.jpg" group-title="Ppv",[Combat Sports] Chisora vs. Wilder (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/chisora-vs.-wilder#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/chisora-vs.-wilder#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/pvBsfxkmlqLZbpJkAPRPSUMdTPJroNgD/1775314800/1775354400/daznboxing/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/58a75caaf828fc71e4363be5d9511046-thumbnail.jpg" group-title="Ppv",[Combat Sports] UFC Fight Night: Moicano vs. Duncan (PPV)
+https://lb4.modifiles.fans/secure/gCloSYzKbginmZXHZGsBoTInVgFJUYzc/1775314800/1775354400/daznboxing/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/58a75caaf828fc71e4363be5d9511046-thumbnail.jpg" group-title="Ppv",[Combat Sports] UFC Fight Night: Moicano vs. Duncan (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ufc-fight-night-moicano-vs.-duncan#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ufc-fight-night-moicano-vs.-duncan#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/dABmiaGbmkxNEFFSHTNXZYsgdzIjFbMC/1775325600/1775379600/ufc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/4e3f53b97b7267c8ba0cf4a7236f2de6-thumbnail.jpg" group-title="Ppv",[Cricket] Delhi Capitals vs. Mumbai Indians (PPV)
+https://lb5.modifiles.fans/secure/IwgMPIYErkLOSQyUtDYnLIVrNUEmSsoP/1775325600/1775379600/ufc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e3f53b97b7267c8ba0cf4a7236f2de6-thumbnail.jpg" group-title="Ppv",[Cricket] Delhi Capitals vs. Mumbai Indians (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ipl/2026-04-04/dc-mi#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ipl/2026-04-04/dc-mi#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/zTYVFupGakmLeejdETUqEojwkqTwOXpc/1775286000/1775314800/ipl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/d6c95db4ca1be033fb16518d5cc216d5-thumbnail.jpg" group-title="Ppv",[Cricket] Gujarat Titans vs. Rajasthan Royals (PPV)
+https://lb5.modifiles.fans/secure/HzVgcKqKtwgrlcnsDOpFjsHpBgriAAtH/1775286000/1775314800/ipl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d6c95db4ca1be033fb16518d5cc216d5-thumbnail.jpg" group-title="Ppv",[Cricket] Gujarat Titans vs. Rajasthan Royals (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ipl/2026-04-04/gt-rr#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ipl/2026-04-04/gt-rr#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/fMcguLZlFxYGFISEDatGMhAUUCVITIBL/1775300400/1775329200/ipl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/e7db6cbe7188e2b06c5a28e7b5932d40-thumbnail.jpg" group-title="Ppv",[Cricket] Royal Challengers Bengaluru vs. Chennai Super Kings (PPV)
+https://lb5.modifiles.fans/secure/CRVCLMjTLNISsadYUtpyVzPMQFHJTOPN/1775300400/1775329200/ipl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e7db6cbe7188e2b06c5a28e7b5932d40-thumbnail.jpg" group-title="Ppv",[Cricket] Royal Challengers Bengaluru vs. Chennai Super Kings (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ipl/2026-04-05/rcb-csk#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ipl/2026-04-05/rcb-csk#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/gNXsgEUWkKxXwoataJxnFGRlOAJWuclK/1775386800/1775415600/ipl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/848dca8804d213f283887aea262fb965-thumbnail.jpg" group-title="Ppv",[Cricket] Sunrisers Hyderabad vs. Lucknow Super Giants (PPV)
+https://lb5.modifiles.fans/secure/nRyOCEQcEYxaPSSgmxunbWmATiDmlVcj/1775386800/1775415600/ipl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/848dca8804d213f283887aea262fb965-thumbnail.jpg" group-title="Ppv",[Cricket] Sunrisers Hyderabad vs. Lucknow Super Giants (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ipl/2026-04-05/srh-lsg#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ipl/2026-04-05/srh-lsg#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/trBwMVgFrVhGhwpnosRxwTgohmtevezq/1775372400/1775401200/ipl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 1 - Afternoon (PPV)
+https://lb5.modifiles.fans/secure/wjZZGAQrsrKiSaMSGKioWAaFtMuRsLOE/1775372400/1775401200/ipl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 1 - Afternoon (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/german-darts-grand-prix-|-day-1---afternoon#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/german-darts-grand-prix-|-day-1---afternoon#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/XbCjuIpvxQfyTGbQEjAfAfXqmSBxlTOZ/1775289600/1775325600/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 1 - Evening (PPV)
+https://lb5.modifiles.fans/secure/rNHAesBGOYBvpcFBuiQVvNCHrIzRlImV/1775289600/1775325600/darts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 1 - Evening (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/german-darts-grand-prix-|-day-1---evening#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/german-darts-grand-prix-|-day-1---evening#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/FAJoGKPZwrmDDXZHKszpuJBBhxXhDTML/1775311200/1775347200/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 2 - Afternoon (PPV)
+https://lb2.modifiles.fans/secure/CuyzokhQEFXKbQEddMrwlIatnEVtnLif/1775311200/1775347200/darts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 2 - Afternoon (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---afternoon#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---afternoon#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/OZGUOXSuHKzDeVJXyxMqXalVvXStPIxC/1775376000/1775412000/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 2 - Evening (PPV)
+https://lb2.modifiles.fans/secure/BgEtnuWRHuCpdwBPfZilGoOclyZzgIJq/1775376000/1775412000/darts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Ppv",[Darts] German Darts Grand Prix | Day 2 - Evening (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---evening#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---evening#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/aolMdPHmgdjmIQjFBOJPoCIEieZLzgLI/1775397600/1775433600/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/ee76b182c48de253c02d24c86e32ac28-thumbnail.jpg" group-title="Ppv",[Football] 1. FC Union Berlin vs. St. Pauli (PPV)
+https://lb2.modifiles.fans/secure/vehqgbfjOVXBveFzaPBQfUpWwpJcQOHW/1775397600/1775433600/darts/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ee76b182c48de253c02d24c86e32ac28-thumbnail.jpg" group-title="Ppv",[Football] 1. FC Union Berlin vs. St. Pauli (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-05/fcu-stp#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-05/fcu-stp#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/SQkgkCTQkamhsrCtNyNxtcpcNBikKslb/1775385000/1775412000/bl_fcu/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/1e2c075f23ebfdce1c38e7940f26e7ec-thumbnail.jpg" group-title="Ppv",[Football] AS Monaco vs. Marseille (PPV)
+https://lb2.modifiles.fans/secure/VogwwOxUhkEDXIwdgnOffsrUpnjcKnvo/1775385000/1775412000/bl_fcu/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1e2c075f23ebfdce1c38e7940f26e7ec-thumbnail.jpg" group-title="Ppv",[Football] AS Monaco vs. Marseille (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-05/mon-olm#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-05/mon-olm#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/UOunpTlYoKEiFHjwvPUXSsehWvYnzDhs/1775403900/1775430900/l1_mon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/0a24d56eceb9035a47db31fa9ae1ad80-thumbnail.jpg" group-title="Ppv",[Football] Alaves vs. Osasuna (PPV)
+https://lb4.modifiles.fans/secure/TOTaVpYEybYErZismQfARavyjODZvrGG/1775403900/1775430900/l1_mon/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0a24d56eceb9035a47db31fa9ae1ad80-thumbnail.jpg" group-title="Ppv",[Football] Alaves vs. Osasuna (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-05/ala-osa#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-05/ala-osa#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/rkNxFfzDjlNuWNbrNJLeFAWYuHqcSWMA/1775404800/1775431800/ll_ala/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/67d29b1b4bead73f4cb2a7c07b668e0c-thumbnail.jpg" group-title="Ppv",[Football] Angers vs. Lyon (PPV)
+https://lb4.modifiles.fans/secure/uNHnWGmfAIlWjHYUxwvAncXrYTjGVVqA/1775404800/1775431800/ll_ala/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67d29b1b4bead73f4cb2a7c07b668e0c-thumbnail.jpg" group-title="Ppv",[Football] Angers vs. Lyon (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-05/ang-lyon#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-05/ang-lyon#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/sPJgBuWEWoqBrKeAqqRBfGvQgQcMbTqn/1775383200/1775410200/l1_ang/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/6d4e31afad3b09a4e2b1a211591d663c-thumbnail.jpg" group-title="Ppv",[Football] Atlanta United FC vs. Columbus Crew (PPV)
+https://lb2.modifiles.fans/secure/LtdbkdiRQHYZzfucUzSHqrGNMSWoiiQv/1775383200/1775410200/l1_ang/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6d4e31afad3b09a4e2b1a211591d663c-thumbnail.jpg" group-title="Ppv",[Football] Atlanta United FC vs. Columbus Crew (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/atl-clb#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/atl-clb#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/yCPyikEYZAofTZWkvTEJCqnawdMKiNZg/1775334600/1775363400/mls_atl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/d1aa249cef607de3b72bf993afce73a1-thumbnail.jpg" group-title="Ppv",[Football] Atletico Madrid vs. Barcelona (PPV)
+https://lb3.modifiles.fans/secure/zuMUQPIQnYyhaYqjVtdtyqJXUJPoRBQw/1775334600/1775363400/mls_atl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d1aa249cef607de3b72bf993afce73a1-thumbnail.jpg" group-title="Ppv",[Football] Atletico Madrid vs. Barcelona (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-04/atm-bar#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-04/atm-bar#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/aRrSVqnbAnxgRoTAXDBRQlHRQWTdHJpf/1775318400/1775345400/ll_atm/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/c10127675579c1e29a8596ec95905d16-thumbnail.jpg" group-title="Ppv",[Football] Bayer Leverkusen vs. VfL Wolfsburg (PPV)
+https://lb2.modifiles.fans/secure/tGeYEwiksrqeKEExaaiijWlOMFCMUKwT/1775318400/1775345400/ll_atm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c10127675579c1e29a8596ec95905d16-thumbnail.jpg" group-title="Ppv",[Football] Bayer Leverkusen vs. VfL Wolfsburg (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/b04-wob#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/b04-wob#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/noMuyjLXhJYYKcOAnXRWdyeOuUoaIKck/1775298600/1775325600/bl_b04/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/669bd93c9561c0ea574794aa82525ee6-thumbnail.jpg" group-title="Ppv",[Football] Borussia Monchengladbach vs. 1. FC Heidenheim 1846 (PPV)
+https://lb4.modifiles.fans/secure/LXwdASAqcPIRxJFfQkxnbHSKwwNcRCmy/1775298600/1775325600/bl_b04/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/669bd93c9561c0ea574794aa82525ee6-thumbnail.jpg" group-title="Ppv",[Football] Borussia Monchengladbach vs. 1. FC Heidenheim 1846 (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/bmg-hdh#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/bmg-hdh#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/oqEWBLBGxlfGRtsGyapKsZXhaqRSNTFR/1775298600/1775325600/bl_bmg/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/a3f338d49b4e936182d1c88a98b5798f-thumbnail.jpg" group-title="Ppv",[Football] Brest vs. Stade Rennais (PPV)
+https://lb4.modifiles.fans/secure/EdlEDawZMkRLczUOkWmuqKToaRLxqwHC/1775298600/1775325600/bl_bmg/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a3f338d49b4e936182d1c88a98b5798f-thumbnail.jpg" group-title="Ppv",[Football] Brest vs. Stade Rennais (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-04/bre-ren#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-04/bre-ren#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/yAqtECRAsRtkRvrSdEASMVjdUbphxxQu/1775311200/1775338200/l1_bre/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/85c0dab069df249c8c49ecdc5ec4a70d-thumbnail.jpg" group-title="Ppv",[Football] Charlotte FC vs. Philadelphia Union (PPV)
+https://lb2.modifiles.fans/secure/aWxyuzARXRpwchJiBegRxBfjPdTIBDEZ/1775311200/1775338200/l1_bre/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/85c0dab069df249c8c49ecdc5ec4a70d-thumbnail.jpg" group-title="Ppv",[Football] Charlotte FC vs. Philadelphia Union (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/clt-phi#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/clt-phi#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/IzPfKgpgNPlwGZLZYZwxFMNnodDIRheY/1775334600/1775363400/mls_clt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/04acfa79fa9dc92affa5fb71e4f2f7f6-thumbnail.jpg" group-title="Ppv",[Football] Chelsea vs. Port Vale (PPV)
+https://lb3.modifiles.fans/secure/EiuHrCXxCmolUNTMagJYDXleIEJUDZcM/1775334600/1775363400/mls_clt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04acfa79fa9dc92affa5fb71e4f2f7f6-thumbnail.jpg" group-title="Ppv",[Football] Chelsea vs. Port Vale (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/english-fa-cup/2026-04-04/che-ptv#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/english-fa-cup/2026-04-04/che-ptv#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/iPexMcABzFORKbWNZVQxyVJcggiwdVgS/1775308500/1775335500/eng_che/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/2a3112a2f311dbe423a85c42b2206adc-thumbnail.jpg" group-title="Ppv",[Football] Chicago Fire FC vs. Nashville SC (PPV)
+https://lb3.modifiles.fans/secure/zurWxAudnplFOrLjRYYDIaXjDvKztsIZ/1775308500/1775335500/eng_che/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a3112a2f311dbe423a85c42b2206adc-thumbnail.jpg" group-title="Ppv",[Football] Chicago Fire FC vs. Nashville SC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/chi-nsh#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/chi-nsh#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/UcJzxifOeqeHeMDZymdJzTWNWBOCjAHb/1775338200/1775367000/mls_chi/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/b5ae5d614e91a3e9c17d41983b847bfd-thumbnail.jpg" group-title="Ppv",[Football] Cremonese vs. Bologna (PPV)
+https://lb1.modifiles.fans/secure/QqwEhzvFQxrwoJrWIDzwTYeyKYCoWNKt/1775338200/1775367000/mls_chi/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b5ae5d614e91a3e9c17d41983b847bfd-thumbnail.jpg" group-title="Ppv",[Football] Cremonese vs. Bologna (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-05/cre-bol#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-05/cre-bol#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/RGFAFBeiOGBLIQdXkibLOChzXtpShYFO/1775383200/1775410200/sa_cre/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/98d21340c119744e3a9790b3ef70beb9-thumbnail.jpg" group-title="Ppv",[Football] D.C. United vs. FC Dallas (PPV)
+https://lb2.modifiles.fans/secure/ohNhNNYXgcHbLhWeBvMdmGfOCeMOSeVf/1775383200/1775410200/sa_cre/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98d21340c119744e3a9790b3ef70beb9-thumbnail.jpg" group-title="Ppv",[Football] D.C. United vs. FC Dallas (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/dc-dal#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/dc-dal#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/gERrwEaxFihRntvkNLxmvVzSTLyDqtcc/1775334600/1775363400/mls_dc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/ac55bec20ec8b5adaa9c1be026b6ef48-thumbnail.jpg" group-title="Ppv",[Football] Eintracht Frankfurt vs. FC Cologne (PPV)
+https://lb1.modifiles.fans/secure/sYIYaoOChdeTXPGokeQiFJcNpjAzDYxW/1775334600/1775363400/mls_dc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac55bec20ec8b5adaa9c1be026b6ef48-thumbnail.jpg" group-title="Ppv",[Football] Eintracht Frankfurt vs. FC Cologne (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-05/sge-koe#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-05/sge-koe#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/NFLBmOfVOOursDGsLciJmNNYcGeaKvNX/1775392200/1775419200/bl_sge/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/4eb08be1cdda53f8ab9f122bced0377d-thumbnail.jpg" group-title="Ppv",[Football] Getafe vs. Athletic Club (PPV)
+https://lb3.modifiles.fans/secure/SgDrcoWIKHkxthgOqRYaKQzgzHrjOUef/1775392200/1775419200/bl_sge/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4eb08be1cdda53f8ab9f122bced0377d-thumbnail.jpg" group-title="Ppv",[Football] Getafe vs. Athletic Club (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-05/get-ath#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-05/get-ath#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/xfJFDqcORzUqZnpXEhjoOObQNmCPNmoP/1775379600/1775406600/ll_get/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/424d072144ea569834a17ad2a941ba99-thumbnail.jpg" group-title="Ppv",[Football] Hamburg SV vs. FC Augsburg (PPV)
+https://lb4.modifiles.fans/secure/wGtKWiGPtksvPxxuukNNnENfleYROWkZ/1775379600/1775406600/ll_get/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/424d072144ea569834a17ad2a941ba99-thumbnail.jpg" group-title="Ppv",[Football] Hamburg SV vs. FC Augsburg (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/hsv-fca#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/hsv-fca#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/vubbYImDsjRblqhWQoDqWIIGgYDDMvSL/1775298600/1775325600/bl_hsv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/19017df09484d74b92f4bcf65661fe51-thumbnail.jpg" group-title="Ppv",[Football] Hellas Verona vs. Fiorentina (PPV)
+https://lb4.modifiles.fans/secure/AbUGUNWQIqCMbYbvlczHaJdYxgeQODck/1775298600/1775325600/bl_hsv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/19017df09484d74b92f4bcf65661fe51-thumbnail.jpg" group-title="Ppv",[Football] Hellas Verona vs. Fiorentina (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-04/ver-fio#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-04/ver-fio#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/CnoAwdFANQAuRwMjOUjNbbmOMYehxFRa/1775307600/1775334600/sa_ver/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/4b3872b7eba6f9fcb804a7926787eaa8-thumbnail.jpg" group-title="Ppv",[Football] Houston Dynamo FC vs. Seattle Sounders FC (PPV)
+https://lb3.modifiles.fans/secure/IOBkLEihfbEUtaOlvxUVyPZHKGhCigtm/1775307600/1775334600/sa_ver/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b3872b7eba6f9fcb804a7926787eaa8-thumbnail.jpg" group-title="Ppv",[Football] Houston Dynamo FC vs. Seattle Sounders FC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/hou-sea#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/hou-sea#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/hJVsuKsYaSrMDTvXqQKQfnRAhgkAtxpS/1775338200/1775367000/mls_hou/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/82a322abfee7563e850c26683d8d8e3d-thumbnail.jpg" group-title="Ppv",[Football] Inter Miami CF vs. Austin FC (PPV)
+https://lb1.modifiles.fans/secure/FvTGQcIrPvxlJVDRpRlwhEOxPUrTcrbc/1775338200/1775367000/mls_hou/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/82a322abfee7563e850c26683d8d8e3d-thumbnail.jpg" group-title="Ppv",[Football] Inter Miami CF vs. Austin FC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/mia-atx#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/mia-atx#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/dtEOebNmdGgzDRxrMvgRFlCMuJfGSjOI/1775334600/1775363400/mls_mia/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/11562fa5fea3fbf9176533f9adab4338-thumbnail.jpg" group-title="Ppv",[Football] Inter Milan vs. AS Roma (PPV)
+https://lb1.modifiles.fans/secure/JVjAcsyGvtOtveYOvTDzlhQwVxyyLFhy/1775334600/1775363400/mls_mia/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/11562fa5fea3fbf9176533f9adab4338-thumbnail.jpg" group-title="Ppv",[Football] Inter Milan vs. AS Roma (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-05/int-roma#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-05/int-roma#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/mkIKQJAZeRKTFxwGWvSkiigFPSZeGAUT/1775403900/1775430900/sa_int/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/5602ee578bf05d8bf5909d7f3067fa38-thumbnail.jpg" group-title="Ppv",[Football] LA Galaxy vs. Minnesota United FC (PPV)
+https://lb3.modifiles.fans/secure/vwrqutkSCAeFvgNzaZxXzQzecjoAxZgX/1775403900/1775430900/sa_int/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5602ee578bf05d8bf5909d7f3067fa38-thumbnail.jpg" group-title="Ppv",[Football] LA Galaxy vs. Minnesota United FC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/la-min#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/la-min#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/HpzRnefywQhZkWkdfWaLIUIvCJTlLGry/1775345400/1775374200/mls_la/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/365b39e2bb74f743689d517bf8942bad-thumbnail.jpg" group-title="Ppv",[Football] LAFC vs. Orlando City SC (PPV)
+https://lb4.modifiles.fans/secure/BwGVcXXCvEbnQeGMLmNHOtwCisbBZnQk/1775345400/1775374200/mls_la/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/365b39e2bb74f743689d517bf8942bad-thumbnail.jpg" group-title="Ppv",[Football] LAFC vs. Orlando City SC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/lafc-orl#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/lafc-orl#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/FxOpprKCMMkqcLUgfSJaoPwOTQUUgVRB/1775341800/1775370600/mls_lafc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/d7d8fc867d232e4347e0273b970b8c77-thumbnail.jpg" group-title="Ppv",[Football] Lazio vs. Parma (PPV)
+https://lb4.modifiles.fans/secure/YWfpGiSUTqpxBhovpOHkQAgoMPKmdTPR/1775341800/1775370600/mls_lafc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d7d8fc867d232e4347e0273b970b8c77-thumbnail.jpg" group-title="Ppv",[Football] Lazio vs. Parma (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-04/laz-par#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-04/laz-par#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/lOvftpZASFNtingupvIlDPCpeAMUzKtj/1775317500/1775344500/sa_laz/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/f8b150512d0de7fbe572fea29b283e9a-thumbnail.jpg" group-title="Ppv",[Football] Le Havre AC vs. AJ Auxerre (PPV)
+https://lb2.modifiles.fans/secure/WTYgREdaCOkIbViKKFTOyjRPIurkkZRx/1775317500/1775344500/sa_laz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8b150512d0de7fbe572fea29b283e9a-thumbnail.jpg" group-title="Ppv",[Football] Le Havre AC vs. AJ Auxerre (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-05/hac-aux#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-05/hac-aux#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/NaTSxmlJuBhlaOiiwtaNzicoXzllCSRP/1775391300/1775418300/l1_hac/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/3cff7e8ada4bd2e3725cc2830e69f952-thumbnail.jpg" group-title="Ppv",[Football] Lille vs. Lens (PPV)
+https://lb2.modifiles.fans/secure/mwqQKOiScxpAcJhKixhtTMUhqirXvodC/1775391300/1775418300/l1_hac/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3cff7e8ada4bd2e3725cc2830e69f952-thumbnail.jpg" group-title="Ppv",[Football] Lille vs. Lens (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-04/lill-rcl#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-04/lill-rcl#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/dOJFQrYtnrQkOgzPFfdEilJzcuKLBzia/1775318700/1775345700/l1_lill/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/d05040115c9e33a89c4ba1dc1e4b48bb-thumbnail.jpg" group-title="Ppv",[Football] Lorient vs. Paris FC (PPV)
+https://lb3.modifiles.fans/secure/VqaoVycmeDlbcyiDWtWQhXmNJYoNuPbD/1775318700/1775345700/l1_lill/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d05040115c9e33a89c4ba1dc1e4b48bb-thumbnail.jpg" group-title="Ppv",[Football] Lorient vs. Paris FC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-05/lor-par#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-05/lor-par#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/lTUYNWPupglJaHoOYkRQSyKvhPOAnrNH/1775391300/1775418300/l1_lor/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/cb0be323a1754e020e4f45d95f0e8e14-thumbnail.jpg" group-title="Ppv",[Football] Mallorca vs. Real Madrid (PPV)
+https://lb2.modifiles.fans/secure/JQIIurvGKFYshRVpWulCpMqUhIlxtJnu/1775391300/1775418300/l1_lor/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cb0be323a1754e020e4f45d95f0e8e14-thumbnail.jpg" group-title="Ppv",[Football] Mallorca vs. Real Madrid (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-04/mll-rma#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-04/mll-rma#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/VCrxOLCmmDCHpOKiLKDfSUlxnFjLWIXr/1775301300/1775328300/ll_mll/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/3c1626c865b0699dbede12735a793a9d-thumbnail.jpg" group-title="Ppv",[Football] Manchester City vs. Liverpool (PPV)
+https://lb3.modifiles.fans/secure/yNcmonSdUcpynVoCqbmkWlqPgcEMAsYi/1775301300/1775328300/ll_mll/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c1626c865b0699dbede12735a793a9d-thumbnail.jpg" group-title="Ppv",[Football] Manchester City vs. Liverpool (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/english-fa-cup/2026-04-04/mnc-liv#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/english-fa-cup/2026-04-04/mnc-liv#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/WPRUMLVsfSXlnvdxLLcoNOJqoLRyUKcc/1775292300/1775319300/eng_mnc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/e498175803e6f92e824ca073b2e2a226-thumbnail.jpg" group-title="Ppv",[Football] Metz vs. Nantes (PPV)
+https://lb2.modifiles.fans/secure/CIWaKJmGmbZkSKhffWMZfnjDUoXGGpeU/1775292300/1775319300/eng_mnc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e498175803e6f92e824ca073b2e2a226-thumbnail.jpg" group-title="Ppv",[Football] Metz vs. Nantes (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-05/metz-nan#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-05/metz-nan#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/oLhMjeDeyyYambIQktAdZWrEfMbBNKiN/1775391300/1775418300/l1_metz/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/42706641abbfac49f3298f6b561f3911-thumbnail.jpg" group-title="Ppv",[Football] New England Revolution vs. CF Montreal (PPV)
+https://lb3.modifiles.fans/secure/wPuLFpOXCJQEkdpbhxiQMqbIUSgQAxgZ/1775391300/1775418300/l1_metz/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42706641abbfac49f3298f6b561f3911-thumbnail.jpg" group-title="Ppv",[Football] New England Revolution vs. CF Montreal (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/ne-mtl#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/ne-mtl#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/moaVhJQjxVVzdqlxEqXwLzUswKmjhjWf/1775323800/1775352600/mls_ne/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/1cd26aae1fc1acf67666ad0276d2ee69-thumbnail.jpg" group-title="Ppv",[Football] New York City FC vs. St. Louis CITY SC (PPV)
+https://lb3.modifiles.fans/secure/FoDEaeaJHGgCDDbFsnorrSlXkmkTgaJi/1775323800/1775352600/mls_ne/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1cd26aae1fc1acf67666ad0276d2ee69-thumbnail.jpg" group-title="Ppv",[Football] New York City FC vs. St. Louis CITY SC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/nyc-stl#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/nyc-stl#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/FXqPdvPPwRfErJnKeZXejEZEQlVuXsmX/1775334600/1775363400/mls_nyc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/d236b4a8b701dba2ec4975ea92686837-thumbnail.jpg" group-title="Ppv",[Football] Pisa vs. Torino (PPV)
+https://lb1.modifiles.fans/secure/CRobkRZVhxBXawUyTXSXzFFpwcFFeapE/1775334600/1775363400/mls_nyc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d236b4a8b701dba2ec4975ea92686837-thumbnail.jpg" group-title="Ppv",[Football] Pisa vs. Torino (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-05/pis-tor#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-05/pis-tor#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/DGTKHdXvibouzACtLyVhEuoaCbIpcHdw/1775394000/1775421000/sa_pis/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/106c359d624fd24141c3834aa9ca46f6-thumbnail.jpg" group-title="Ppv",[Football] Real Betis vs. Espanyol (PPV)
+https://lb3.modifiles.fans/secure/ajbvIshLKNpwrgJDrZcoWYfFeFECJxSl/1775394000/1775421000/sa_pis/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/106c359d624fd24141c3834aa9ca46f6-thumbnail.jpg" group-title="Ppv",[Football] Real Betis vs. Espanyol (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-04/bet-esp#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-04/bet-esp#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/CVuidVltNNixNheZxlUDHmuQUavUaTfB/1775309400/1775336400/ll_bet/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/91e86528a7e518eb90ce83554eadbc5c-thumbnail.jpg" group-title="Ppv",[Football] Real Oviedo vs. Sevilla (PPV)
+https://lb3.modifiles.fans/secure/gxqByCEYqbAxTwRLpvzlczUkEbDFTEbB/1775309400/1775336400/ll_bet/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/91e86528a7e518eb90ce83554eadbc5c-thumbnail.jpg" group-title="Ppv",[Football] Real Oviedo vs. Sevilla (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-05/ovi-sev#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-05/ovi-sev#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/OCwMVqVFQMgAkNVCjuJltzbowsLxSirM/1775395800/1775422800/ll_ovi/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/bf0d8bd2e1ca68b16043a6698ed486d1-thumbnail.jpg" group-title="Ppv",[Football] Real Salt Lake vs. Sporting Kansas City (PPV)
+https://lb3.modifiles.fans/secure/ZwoBCSHWTTcdNsBdnwWobFhoheiEolCK/1775395800/1775422800/ll_ovi/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf0d8bd2e1ca68b16043a6698ed486d1-thumbnail.jpg" group-title="Ppv",[Football] Real Salt Lake vs. Sporting Kansas City (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/rsl-skc#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/rsl-skc#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/DEpHpuRaAFFflwxhkzjxENygOkkDOyZK/1775323800/1775352600/mls_rsl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/bbc73ac830cdd4c4327b1331a0725300-thumbnail.jpg" group-title="Ppv",[Football] Real Sociedad vs. Levante (PPV)
+https://lb3.modifiles.fans/secure/pvbSRQtnmFLszWALihLMuyYYprJxEsYc/1775323800/1775352600/mls_rsl/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bbc73ac830cdd4c4327b1331a0725300-thumbnail.jpg" group-title="Ppv",[Football] Real Sociedad vs. Levante (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-04/rso-lev#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-04/rso-lev#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/VGnzfiOmmouWClldBEINjoQAKYmbbDzZ/1775293200/1775320200/ll_rso/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/7a6a84bce102ad1b2292b215e3965b36-thumbnail.jpg" group-title="Ppv",[Football] Red Bull New York vs. FC Cincinnati (PPV)
+https://lb2.modifiles.fans/secure/pSHggGwxMvGMuBztswFWsCZYCXfqdbpe/1775293200/1775320200/ll_rso/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7a6a84bce102ad1b2292b215e3965b36-thumbnail.jpg" group-title="Ppv",[Football] Red Bull New York vs. FC Cincinnati (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/rbny-cin#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/rbny-cin#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/zNOghmxjtNznBZBtdGZUAowEGUbCAKdt/1775334600/1775363400/mls_rbny/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/5cd2f968a8421319dc2cfb1ff08b902c-thumbnail.jpg" group-title="Ppv",[Football] SC Freiburg vs. Bayern Munich (PPV)
+https://lb1.modifiles.fans/secure/BhaCqOSRAEjQCGXZrfUbFwjEPstJjTkl/1775334600/1775363400/mls_rbny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5cd2f968a8421319dc2cfb1ff08b902c-thumbnail.jpg" group-title="Ppv",[Football] SC Freiburg vs. Bayern Munich (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/scf-mun#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/scf-mun#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/NswZgQGaHvqWaAvqKZXnlUZJmKIkMTfK/1775298600/1775325600/bl_scf/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/2f476970127802637b2ea0342599b1a0-thumbnail.jpg" group-title="Ppv",[Football] San Jose Earthquakes vs. San Diego FC (PPV)
+https://lb4.modifiles.fans/secure/UleKIlOSrgGcyXQaMcjhHjMEKsmeUZvp/1775298600/1775325600/bl_scf/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f476970127802637b2ea0342599b1a0-thumbnail.jpg" group-title="Ppv",[Football] San Jose Earthquakes vs. San Diego FC (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/sj-sd#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/sj-sd#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/XePifczxVvcyUZgVWggdaPomTPHWxZDU/1775345400/1775374200/mls_sj/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/f34359346fa907cd7721dea72b45718a-thumbnail.jpg" group-title="Ppv",[Football] Sassuolo vs. Cagliari (PPV)
+https://lb4.modifiles.fans/secure/RPQWttBIDNygqgmJTzQUrOvCXNqmmhRc/1775345400/1775374200/mls_sj/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f34359346fa907cd7721dea72b45718a-thumbnail.jpg" group-title="Ppv",[Football] Sassuolo vs. Cagliari (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-04/sas-cag#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-04/sas-cag#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/zLVSYSTKeiwYATypmbOmASVcZVfollVi/1775296800/1775323800/sa_sas/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/c8e2e4b9256f53e7b3fa915371d7e2fa-thumbnail.jpg" group-title="Ppv",[Football] Southampton vs. Arsenal (PPV)
+https://lb4.modifiles.fans/secure/yTKMWTreLzFGsTAXCCGxgzlmeQDCuSlH/1775296800/1775323800/sa_sas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c8e2e4b9256f53e7b3fa915371d7e2fa-thumbnail.jpg" group-title="Ppv",[Football] Southampton vs. Arsenal (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/english-fa-cup/2026-04-04/sou-ars#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/english-fa-cup/2026-04-04/sou-ars#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/UDbcerzEftdTHAbKOHbdehpmNRkSbpJe/1775318400/1775345400/eng_sou/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/89ea62821e3780a5f698bc3227fb6b4f-thumbnail.jpg" group-title="Ppv",[Football] Strasbourg vs. Nice (PPV)
+https://lb3.modifiles.fans/secure/QrkfmHBLMclyTMxEUllHZAFzGfezppOn/1775318400/1775345400/eng_sou/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89ea62821e3780a5f698bc3227fb6b4f-thumbnail.jpg" group-title="Ppv",[Football] Strasbourg vs. Nice (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-04/str-nice#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-04/str-nice#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/LJMrFxTljmYNfffKGCRKURVJKfJQqFTO/1775304000/1775331000/l1_str/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/7dfd12ecbb3d7b385863eb34c0d8dcd8-thumbnail.jpg" group-title="Ppv",[Football] TSG Hoffenheim vs. Mainz (PPV)
+https://lb3.modifiles.fans/secure/TDeioYvIMtGTtFqYYFRDLWCtMcvRnGII/1775304000/1775331000/l1_str/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7dfd12ecbb3d7b385863eb34c0d8dcd8-thumbnail.jpg" group-title="Ppv",[Football] TSG Hoffenheim vs. Mainz (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/tsg-m05#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/tsg-m05#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/WflHaFISxcBDCyGRktgOCSzcvgRLJySV/1775298600/1775325600/bl_tsg/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/4d725c5721e0bfd81ca956077fd2ce75-thumbnail.jpg" group-title="Ppv",[Football] Toronto FC vs. Colorado Rapids (PPV)
+https://lb4.modifiles.fans/secure/edhAlbKfouatCsSFlVPhOtkmHIKMnPUN/1775298600/1775325600/bl_tsg/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4d725c5721e0bfd81ca956077fd2ce75-thumbnail.jpg" group-title="Ppv",[Football] Toronto FC vs. Colorado Rapids (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/tor-col#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/tor-col#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/bWcVJQSvFDnpaDEsGdKzDpyYSTxjsreA/1775311200/1775340000/mls_tor/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/ebb9a441e78cdbcc685939f696c77888-thumbnail.jpg" group-title="Ppv",[Football] Valencia vs. Celta Vigo (PPV)
+https://lb2.modifiles.fans/secure/hnkVlTXyHVNTtErCNSSOAnNzZxceoQYk/1775311200/1775340000/mls_tor/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ebb9a441e78cdbcc685939f696c77888-thumbnail.jpg" group-title="Ppv",[Football] Valencia vs. Celta Vigo (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-05/val-cel#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-05/val-cel#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/ygqOmcbaUudgRoGvwNtjKkWESmAanPmV/1775387700/1775414700/ll_val/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/4edb53f0411b3fb7e465692e8afd2af8-thumbnail.jpg" group-title="Ppv",[Football] Vancouver Whitecaps vs. Portland Timbers (PPV)
+https://lb2.modifiles.fans/secure/OUgcLrFVEYmcpQhYBTYULxIIytbPFMEI/1775387700/1775414700/ll_val/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4edb53f0411b3fb7e465692e8afd2af8-thumbnail.jpg" group-title="Ppv",[Football] Vancouver Whitecaps vs. Portland Timbers (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/mls/2026-04-04/van-por#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mls/2026-04-04/van-por#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.modifiles.fans/secure/RMkfIKcgARJLRxMIIhBvyOsLCrElgutt/1775345400/1775374200/mls_van/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/6eedfedd2309dedd6a8eebdd33e058c2-thumbnail.jpg" group-title="Ppv",[Football] VfB Stuttgart vs. Borussia Dortmund (PPV)
+https://lb4.modifiles.fans/secure/YwuPnsoffwSGQNRbJAlJwIcRrlereywG/1775345400/1775374200/mls_van/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6eedfedd2309dedd6a8eebdd33e058c2-thumbnail.jpg" group-title="Ppv",[Football] VfB Stuttgart vs. Borussia Dortmund (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/vfb-dor#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/vfb-dor#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/gOMsaWQIWiVTprCluhkydUfTEnKFXvAv/1775309400/1775336400/bl_vfb/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/2f7f30303d840d34633fe4194c322c12-thumbnail.jpg" group-title="Ppv",[Football] Werder Bremen vs. RB Leipzig (PPV)
+https://lb2.modifiles.fans/secure/xzKcceoSEHXDSBsVJCGSWbVHAExxSXcU/1775309400/1775336400/bl_vfb/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f7f30303d840d34633fe4194c322c12-thumbnail.jpg" group-title="Ppv",[Football] Werder Bremen vs. RB Leipzig (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/bundesliga/2026-04-04/svw-rbl#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/bundesliga/2026-04-04/svw-rbl#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/ydKixJaVPiTDouwinknHaigqDxcLNZNu/1775298600/1775325600/bl_svw/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/cd9601b0da518b7bd02648cca917e1d4-thumbnail.jpg" group-title="Ppv",[Football] West Ham United vs. Leeds United (PPV)
+https://lb3.modifiles.fans/secure/xpsGUrIkXbBTIljnQzUhGTmGqBfRZNYS/1775298600/1775325600/bl_svw/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cd9601b0da518b7bd02648cca917e1d4-thumbnail.jpg" group-title="Ppv",[Football] West Ham United vs. Leeds United (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/english-fa-cup/2026-04-05/whu-lee#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/english-fa-cup/2026-04-05/whu-lee#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.modifiles.fans/secure/rHMnFlsMLIyfoGJzsRjFxHIGSHmrMFKm/1775392200/1775419200/eng_whu/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/42b501558ecc2d58d88d2a22a602127b-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Boston Bruins vs. Tampa Bay Lightning (PPV)
+https://lb3.modifiles.fans/secure/JBZalwpZKRYtCwSrHFuJIdHhpHosjLVV/1775392200/1775419200/eng_whu/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42b501558ecc2d58d88d2a22a602127b-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Boston Bruins vs. Tampa Bay Lightning (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/bos-tb#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/bos-tb#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/JPUrkwOhpgtMbFWDgkrzmIriOtcYsToA/1775325600/1775354400/tampabaylightning/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/c903a1c253a75c771db772165ca4835a-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Buffalo Sabres vs. Washington Capitals (PPV)
+https://lb2.modifiles.fans/secure/rSWnYHxPSOYSvFqMQRSqXPfpBZEKOblK/1775325600/1775354400/tampabaylightning/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c903a1c253a75c771db772165ca4835a-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Buffalo Sabres vs. Washington Capitals (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/buf-wsh#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/buf-wsh#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/UBjIWSvcvlTdDLBsAnXqPoxHVGAjBhbc/1775332800/1775361600/washingtoncapitals/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/69d80ce9dee5bf330f66b8d7fe655004-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Calgary Flames vs. Anaheim Ducks (PPV)
+https://lb2.modifiles.fans/secure/rLMLqsUNXcwtEyJQIyAxEWBohMqKZamF/1775332800/1775361600/washingtoncapitals/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69d80ce9dee5bf330f66b8d7fe655004-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Calgary Flames vs. Anaheim Ducks (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/cgy-ana#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/cgy-ana#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/UajgpiUWjPMBLAOuMRfYnszQjenxDqGd/1775343600/1775372400/anaheimducks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/39c34ff94b59131e0bc15ab6a2887f05-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Chicago Blackhawks vs. Seattle Kraken (PPV)
+https://lb1.modifiles.fans/secure/toXcbpRzSWjyPzEiMlWrRyRUekWoIgHc/1775343600/1775372400/anaheimducks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/39c34ff94b59131e0bc15ab6a2887f05-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Chicago Blackhawks vs. Seattle Kraken (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/chi-sea#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/chi-sea#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/GBMBsqgidBndOCdESQAORZygxdXJgiSy/1775343600/1775372400/seattlekraken/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/ed7984062d2d0d29c7a234a8d5f3537e-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Colorado Avalanche vs. Dallas Stars (PPV)
+https://lb1.modifiles.fans/secure/dSkJlzMCMfYRmWahgdgnsMkqQLIwXxye/1775343600/1775372400/seattlekraken/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ed7984062d2d0d29c7a234a8d5f3537e-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Colorado Avalanche vs. Dallas Stars (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/col-dal#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/col-dal#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/EkUryreWQUpswTszrVkotnuZkDdppEON/1775318400/1775347200/dallasstars/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/35e446e48a087075b28459293e4fbf15-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Detroit Red Wings vs. New York Rangers (PPV)
+https://lb4.modifiles.fans/secure/IsTJYCFsUGfRuHrYwNvEXfqadrYzkPCy/1775318400/1775347200/dallasstars/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/35e446e48a087075b28459293e4fbf15-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Detroit Red Wings vs. New York Rangers (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/det-nyr#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/det-nyr#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/XknWwPAXpaszWWWazFeCzXoQLUmHcbaG/1775309400/1775338200/newyorkrangers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/2a6d61a1886f695d5c836751ba7ff259-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Florida Panthers vs. Pittsburgh Penguins (PPV)
+https://lb4.modifiles.fans/secure/VUJjmpgPfvwyNRHHOfwJnSaDrgQImtcP/1775309400/1775338200/newyorkrangers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a6d61a1886f695d5c836751ba7ff259-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Florida Panthers vs. Pittsburgh Penguins (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/fla-pit#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/fla-pit#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/MKhhoKQBYoLDDEduEmjOAsQUMivfLVVL/1775325600/1775354400/pittsburghpenguins/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/426d70bdfae454a9548a9761178fa577-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Minnesota Wild vs. Ottawa Senators (PPV)
+https://lb2.modifiles.fans/secure/JEHXEcwoTVIIXktIxdwQLjrYQuWvCBhO/1775325600/1775354400/pittsburghpenguins/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/426d70bdfae454a9548a9761178fa577-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Minnesota Wild vs. Ottawa Senators (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/min-ott#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/min-ott#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb1.modifiles.fans/secure/KQvnEeEwaEFzhcBrERflfTtZcgeeQjcf/1775311200/1775340000/ottawasenators/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/fd529c3ba3aeefb380866e8824c13dee-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Montreal Canadiens vs. New Jersey Devils (PPV)
+https://lb4.modifiles.fans/secure/UhWSUaODMdFgFqatubelyNcOrauZQpZO/1775311200/1775340000/ottawasenators/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fd529c3ba3aeefb380866e8824c13dee-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Montreal Canadiens vs. New Jersey Devils (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/mtl-nj#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/mtl-nj#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/JePALhGfcSIdxCdTPxaFWgHAJuIwefRk/1775332800/1775361600/newjerseydevils/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/7db566b766f87523d8335c868d91d4e6-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Nashville Predators vs. San Jose Sharks (PPV)
+https://lb2.modifiles.fans/secure/uFDkeWRfjLxjaeMwqkCzmvHgYjKrDgUp/1775332800/1775361600/newjerseydevils/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7db566b766f87523d8335c868d91d4e6-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Nashville Predators vs. San Jose Sharks (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/nsh-sj#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/nsh-sj#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/uUkgpkfGxbDJBLBvvkuKprjoiBmZavga/1775343600/1775372400/sanjosesharks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/dd937c0c0e3480b1cbc80c0688b7e8d2-thumbnail.jpg" group-title="Ppv",[Ice Hockey] New York Islanders vs. Carolina Hurricanes (PPV)
+https://lb1.modifiles.fans/secure/FwDUFViPGMWGanHCDzlShOytQIQRAcyd/1775343600/1775372400/sanjosesharks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dd937c0c0e3480b1cbc80c0688b7e8d2-thumbnail.jpg" group-title="Ppv",[Ice Hockey] New York Islanders vs. Carolina Hurricanes (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/nyi-car#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/nyi-car#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/lxNVnlfsDVqNFXVPwollJafLAhtyOilV/1775332800/1775361600/carolinahurricanes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/e0d9c99b0e7c058ce9bbfdbaef2b86f2-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Toronto Maple Leafs vs. Los Angeles Kings (PPV)
+https://lb2.modifiles.fans/secure/hvUYNtdrmbGRGsjmXPxXaRpzfmnJbEsC/1775332800/1775361600/carolinahurricanes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e0d9c99b0e7c058ce9bbfdbaef2b86f2-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Toronto Maple Leafs vs. Los Angeles Kings (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/tor-la#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/tor-la#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/sBbVeqjIgKYGTXVJogCqYZOTnWRMkZld/1775332800/1775361600/losangeleskings/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/0f7ad0a042e8e8a9c93a2a320f877071-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Utah Mammoth vs. Vancouver Canucks (PPV)
+https://lb1.modifiles.fans/secure/kffxxkAYASIvXsAwLaHJMhQDyGVOUPAH/1775332800/1775361600/losangeleskings/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f7ad0a042e8e8a9c93a2a320f877071-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Utah Mammoth vs. Vancouver Canucks (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/uta-van#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/uta-van#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/yEeOzGkmEOKMZBEaewPMXgAYlyqcLuTc/1775332800/1775361600/vancouvercanucks/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/3e99ffe7c5062af97da18e73c30d834e-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Vegas Golden Knights vs. Edmonton Oilers (PPV)
+https://lb1.modifiles.fans/secure/rHfcICaqgKJkffanbsNzljhvlBdBXuYb/1775332800/1775361600/vancouvercanucks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3e99ffe7c5062af97da18e73c30d834e-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Vegas Golden Knights vs. Edmonton Oilers (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/vgk-edm#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/vgk-edm#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/qaDkYNvOaOJIoAfreGgSBCnZpzvqkCYy/1775343600/1775372400/edmontonoilers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/55232f37656c105629bfebd689197396-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Winnipeg Jets vs. Columbus Blue Jackets (PPV)
+https://lb1.modifiles.fans/secure/jLoFSkhyXQIbhzIFuFzkXBrrROVRPZrv/1775343600/1775372400/edmontonoilers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/55232f37656c105629bfebd689197396-thumbnail.jpg" group-title="Ppv",[Ice Hockey] Winnipeg Jets vs. Columbus Blue Jackets (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-04/wpg-cbj#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-04/wpg-cbj#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.modifiles.fans/secure/SAwMdlDJhyEszfbxLOUeqmASKFyYIvOu/1775332800/1775361600/columbusbluejackets/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.la/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Ppv",[Wrestling] AEW: Saturday Night Collision (PPV)
+https://lb2.modifiles.fans/secure/gnMJEZDupckuykKbHbeHDHePhXeGqTbx/1775332800/1775361600/columbusbluejackets/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Ppv",[Wrestling] AEW: Saturday Night Collision (PPV)
 #EXTVLCOPT:http-referrer=https://pooembed.eu/embed/aew/collision/2026-04-04#player=clappr#autoplay=true
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/aew/collision/2026-04-04#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb5.modifiles.fans/secure/OvFtjEMEoYawfKDXIvyQvUBmoeQlCmAz/1775336400/1775365200/TNT/tracks-v1a1/mono.ts.m3u8
+https://lb3.modifiles.fans/secure/kfSDsPDbBCQLiCtLYoKnbzljnktzGTva/1775336400/1775365200/TNT/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Roxie",[Fighting] Brown vs. Ducar (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.simplyataide.boutique/ppv.m3u8
+https://602.shadow-ran.online/ppv.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Roxie",[Fighting] WWE Smackdown (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
@@ -750,7 +755,7 @@ https://daffodil.premiumjh.shop/mlb9.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.shdigital.site/mlb4.m3u8
+https://602.simplyataide.boutique/mlb4.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Roxie",[MLB] Seattle Mariners vs Los Angeles Angels (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
@@ -775,7 +780,7 @@ https://602.premiumjh.shop/mlb5.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.simplyataide.boutique/nba3.m3u8
+https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Roxie",[NBA] Boston Celtics vs Milwaukee Bucks (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
@@ -785,12 +790,12 @@ https://605.premiumjh.shop/nba7.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.simplyataide.boutique/nba4.m3u8
+https://daffodil.shadow-ran.online/nba4.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Roxie",[NBA] Indiana Pacers vs Charlotte Hornets (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.simplyataide.boutique/nba.m3u8
+https://daffodil.shadow-ran.online/nba.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Roxie",[NBA] Minnesota Timberwolves vs Philadelphia 76ers (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
@@ -845,7 +850,7 @@ https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://daffodil.shdigital.site/golazo.m3u8
+https://daffodil.shadow-ran.online/golazo.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Roxie",[Soccer] Middlesbrough vs Millwall (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
@@ -865,7 +870,7 @@ https://daffodil.shadow-ran.online/beines.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.simplyataide.boutique/fana.m3u8
+https://602.shadow-ran.online/fana.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="Roxie",[Soccer] Rayo Vallecano vs Elche (ROXIE)
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
@@ -875,22 +880,72 @@ https://daffodil.shadow-ran.online/dep.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://602.simplyataide.boutique/fana.m3u8
+https://602.shadow-ran.online/fana.m3u8
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Futbol] Bundesliga: Bayer Leverkusen vs Wolfsburg (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=disney7
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=disney7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://14c51.streameasthd.net:443/global/disney7/index.m3u8?token=1477c24516c843925fafbc09c0904049d6a2b27e-ae-1775341074-1775287074&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Futbol] Bundesliga: Borussia M'gladbach vs Heidenheim (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=disney6
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=disney6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://8c51.streameasthd.net:443/global/disney6/index.m3u8?token=c37df83069617d2009802d146bfe209acbd2ea95-6a-1775341074-1775287074&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Futbol] Bundesliga: Freiburg vs Bayern Munchen (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=disney5
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=disney5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://doc1.streameasthd.net:443/global/disney5/index.m3u8?token=17a2c61dd377a6d77803ab377f1f9a39a3c77aec-18-1775341074-1775287074&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Futbol] Bundesliga: Hamburger SV vs Augsburg (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=disney8
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=disney8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://98ca2.streameasthd.net:443/global/disney8/index.m3u8?token=4c442f45daee61dc6033b1adce563988a8231527-26-1775341074-1775287074&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Futbol] Bundesliga: Hoffenheim vs Mainz 05 (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=disney4
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=disney4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://51a1.streameasthd.net:443/global/disney4/index.m3u8?token=54211e2b7c8c72874ee888b4fcccc23f9c565821-de-1775341074-1775287074&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Futbol] FA Cup: Manchester City vs Liverpool (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=espn
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://24a1.streameasthd.net:443/global/espn/index.m3u8?token=5a6ca06deb2a08b3dc74c8a36818b580ee6b4055-24-1775341072-1775287072&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Futbol] LaLiga: Real Sociedad vs Levante (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=espnplus2
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=espnplus2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://98ca2.streameasthd.net:443/global/espnplus2/index.m3u8?token=f433725cbf911afb956c553b51469b879fb5236e-00-1775341073-1775287073&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Futbol] Primera Division: Racing vs Juventud (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=disney3
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=disney3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://8c51.streameasthd.net:443/global/disney3/index.m3u8?token=35d88c3ebcb1ec2bed6280f9b43141d3b5c63d8d-db-1775341074-1775287074&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Futbol] Serie A: Sassuolo vs Cagliari (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=paramount1
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=paramount1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pecdl1.streameasthd.net:443/global/paramount1/index.m3u8?token=65e603caccc1d67d7773a3cb6356fa8bbf8057d9-90-1775341073-1775287073&
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Streamtpnew",[Live Event] LaLiga 2: Cadiz vs Cordoba (STP)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/global1.php?stream=laligahypermotion
+#EXTVLCOPT:http-origin=https://streamtpnew.com/global1.php?stream=laligahypermotion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://98ca2.streameasthd.net:443/global/laligahypermotion/index.m3u8?token=a16fc0afcb1c280c2f05fba6561db099175e54fa-07-1775341073-1775287073&
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Totalsportek",[Boxing] Antonio Perez vs Abraham Montoya (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.foo/Antonio-Perez-vs-Abraham-Montoya/65184
 #EXTVLCOPT:http-origin=https://live3.totalsportek.foo/Antonio-Perez-vs-Abraham-Montoya/65184
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch15/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNSIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI5NzU5NywicmFuZCI6IjQyMTM0MmVjN2M1ODgwN2UifQ.1f9ea88a4cbb06fc2f3e840cf7b62d6324eacaebaba3b20bbfd2ff0422b869f2
+https://fg1.fgfbg5433dd.site/simpch15/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNSIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI5Nzg3NCwicmFuZCI6IjZjMTZmOGU5ZDU5NTIzYTIifQ.24c97eeb11cd47041aecb6fa3e31135e429bd44533f51c36a2384f3d01400677
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Totalsportek",[Boxing] Lauren Price vs Stephanie Aquino (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.foo/Lauren-Price-vs-Stephanie-Aquino/63789
 #EXTVLCOPT:http-origin=https://live3.totalsportek.foo/Lauren-Price-vs-Stephanie-Aquino/63789
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch37/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzNyIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI5NzU5OSwicmFuZCI6ImMyMjg3ODdmNWJjZDU4YTIifQ.aadd4272271f2bc0e1560856d4f5cd3002af7fdea6ac11e9a02e3c13dbff4cee
+https://fg1.fgfbg5433dd.site/simpch37/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzNyIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI5Nzg3NiwicmFuZCI6IjY3OGY0ODJlOGU3ODUyODcifQ.4f40d184f858c2663f02f2acf279945d2ca858976ca0665b0c5095c7da090929
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Totalsportek",[Boxing] Pedro Taduran vs Gustavo Perez Alvarez (TOTALSPRTK)
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.foo/Pedro-Taduran-vs-Gustavo-Perez-Alvarez/63787
 #EXTVLCOPT:http-origin=https://live3.totalsportek.foo/Pedro-Taduran-vs-Gustavo-Perez-Alvarez/63787
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch34/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzNCIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI5NzU5OCwicmFuZCI6ImFlYTQ5MjI4MjU2OTc0ZjMifQ.3829f3061e843dc72cf316209825f13797d86e4932f3083eeacb8625c9931462
+https://fg1.fgfbg5433dd.site/simpch34/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gzNCIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NTI5Nzg3NSwicmFuZCI6IjlkZGQ1MjRhNjQ0NzAzMWMifQ.3c694c629af59db9f9ccaf7a6b4a7bf7c0288f160bddc67ff97ac2021ac40cf7
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Tvapp",[MLB] Atlanta Braves vs Arizona Diamondbacks (TVAPP)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -1025,42 +1080,12 @@ http://origin.thetvapp.to/hls/nhl02/mono.m3u8
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4546709/melbourne-city-fc-western-sydney-wanderers/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/4546709/melbourne-city-fc-western-sydney-wanderers/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb4.wfty.wtf/playlist/easy/melbourne-city-fc-western-sydney-wanderers/1/4546709/playlist.m3u8?hash=da9273b2bd5e6b3b84a9b0164d411ffa&t=1775295899041
+https://lb6.wfty.wtf/playlist/easy/melbourne-city-fc-western-sydney-wanderers/1/4546709/playlist.m3u8?hash=daa20d72b70a77aa2a6d51485bafc344&t=1775296186698
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Watchfooty",[Super Rugby Pacific] Queensland Reds vs Western Force (WATCHFTY)
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/603168/queensland-reds-western-force/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/603168/queensland-reds-western-force/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb2.wfty.wtf/playlist/easy/queensland-reds-western-force/1/603168/playlist.m3u8?hash=3b73ede879cd23b4cde0ac75ca9009dd&t=1775295899850
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Webcast",[NHL] Blackhawks vs Kraken (WEBCAST)
-#EXTVLCOPT:http-referrer=https://slapstreams.com
-#EXTVLCOPT:http-origin=https://slapstreams.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/97.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Webcast",[NHL] Flames vs Ducks (WEBCAST)
-#EXTVLCOPT:http-referrer=https://slapstreams.com
-#EXTVLCOPT:http-origin=https://slapstreams.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/90.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Webcast",[NHL] Knights vs Oilers (WEBCAST)
-#EXTVLCOPT:http-referrer=https://slapstreams.com
-#EXTVLCOPT:http-origin=https://slapstreams.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/98.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Webcast",[NHL] Maple Leafs vs Kings (WEBCAST)
-#EXTVLCOPT:http-referrer=https://slapstreams.com
-#EXTVLCOPT:http-origin=https://slapstreams.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/95.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Webcast",[NHL] Predators vs Sharks (WEBCAST)
-#EXTVLCOPT:http-referrer=https://slapstreams.com
-#EXTVLCOPT:http-origin=https://slapstreams.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/103.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Webcast",[NHL] Utah vs Canucks (WEBCAST)
-#EXTVLCOPT:http-referrer=https://slapstreams.com
-#EXTVLCOPT:http-origin=https://slapstreams.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/88.m3u8
+https://lb1.wfty.wtf/playlist/easy/queensland-reds-western-force/1/603168/playlist.m3u8?hash=205fb47b9d032629cd29753bc54e78c9&t=1775296187605
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0d74d0d263697b29a9ad3bfc78a6cc46.png!w80" group-title="Live Event: Colalive",15:30 04/04 PSM Makassar vs Persis Solo Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/08552895.m3u8
@@ -1225,12 +1250,6 @@ https://live.alilicloud.com/live/0f40867cf722218afbe92632a355a57b/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/0f40867cf722218afbe92632a355a57b/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1775240149.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:30   04/04 Seoul Knights vs KoGas  YEN THANH m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1775240149.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:30   04/04 Seoul Knights vs KoGas  YEN THANH flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12869_1gq92j83kv7.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:35   04/04 Melbourne City vs Western Sydney  KEVILL m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
@@ -1249,34 +1268,12 @@ https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12869_1gq92j83kv7.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:35   04/04 Melbourne City vs Western Sydney  MA SIEU flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb6e23aad56ba7d5ce491b3eb4f4e3009%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",11:00   04/04 Honda FC vs Verspah Oita Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1775240149.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:30   04/04 Seoul Knights vs KoGas  YEN THANH m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/28fb8e79872506c76bccc29cd02fffd0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F13138e3fe40ce38c68022897ba60d8c6%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   04/04 Scolar Resita vs FC Bacau Gvision TV
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1775240149.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:30   04/04 Seoul Knights vs KoGas  YEN THANH flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/5a00c219a7ea9503c0c0ed6299e52a8f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffcd641a6d68ce8939ab811db6c6a7475%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   04/04 Shenzhen Juniors vs Yanbian Longding Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/515d6f87df7144cf7c3beb92078ffb19/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F74c46b08e59409df683ab945e634a550%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   04/04 Guangzhou Dandelion Alpha vs Chengdu Rongcheng B Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/07df540ac1601cb0d0a27f4f551df2aa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa7310022b3bb408b1633a74e4156e502%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",12:00   04/04 Gyeongju Korea Hydro & Nuclear Power WFC vs Incheon Hyundai Steel Red Angels Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/1475882d0c1992e92ff78287b75e5d5a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F06279e489e13a2c6466fde61871ae5f8%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",14:00   04/04 FC Ryukyu Okinawa vs Roasso Kumamoto Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/3e8a47ef1b0312d8efe259c6deda357d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbfed22f324e2883ae7834a7395b66529%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",12:00   04/04 Suwon FC Women vs Seoul Amazones Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/8e0f5dbac7bc0be33187645ab75a3a6a/playlist.m3u8
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fa%2Fa7%2FNakhon_Ratchasima_Mazda%252C_2018.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   04/04 Nakhon Ratchasima vs KKU Khonkaen Star hd_1 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -1453,6 +1450,34 @@ https://live.alilicloud.com/live/b41121d540dd75d69dd413502c50a343/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/310f93db21893a06daf46b6a457f1d41/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb6e23aad56ba7d5ce491b3eb4f4e3009%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",11:00   04/04 Honda FC vs Verspah Oita Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/28fb8e79872506c76bccc29cd02fffd0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F13138e3fe40ce38c68022897ba60d8c6%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   04/04 Scolar Resita vs FC Bacau Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5a00c219a7ea9503c0c0ed6299e52a8f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffcd641a6d68ce8939ab811db6c6a7475%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   04/04 Shenzhen Juniors vs Yanbian Longding Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/515d6f87df7144cf7c3beb92078ffb19/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F74c46b08e59409df683ab945e634a550%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   04/04 Guangzhou Dandelion Alpha vs Chengdu Rongcheng B Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/07df540ac1601cb0d0a27f4f551df2aa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa7310022b3bb408b1633a74e4156e502%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",12:00   04/04 Gyeongju Korea Hydro & Nuclear Power WFC vs Incheon Hyundai Steel Red Angels Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/1475882d0c1992e92ff78287b75e5d5a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F06279e489e13a2c6466fde61871ae5f8%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",14:00   04/04 FC Ryukyu Okinawa vs Roasso Kumamoto Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/3e8a47ef1b0312d8efe259c6deda357d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fbfed22f324e2883ae7834a7395b66529%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",12:00   04/04 Suwon FC Women vs Seoul Amazones Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/8e0f5dbac7bc0be33187645ab75a3a6a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_130441_83c08c1b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",15:35   04/04 Melbourne City vs Western Sydney Wanderers HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -4265,37 +4290,37 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=5f089edad5d3bed8e5e470f166373989&wsABSTime=1775339122
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=a20ba0f3e5863af8db85e8df8dfb453e&wsABSTime=1775339421
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd57m0ve/image/small" group-title="LIVE EVENT | XOILACZ AI",18:45 WIB - MANCHESTER CITY VS LIVERPOOL [ENG FAC] (v2)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=ba35c0fb97a3b4c069d7f28b14a3620e&wsABSTime=1775339122
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=d7944d9de150f7dba6b4f2abfec7fa94&wsABSTime=1775339422
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnh6699m7vx/image/small" group-title="BRI SUPER LEAGUE",15:30 WIB - PSM MAKASSAR VS PERSIS SOLO FC [IDN ISL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=5fec08e3b59e3988c3d911814a6298f2&wsABSTime=1775339124
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=3da5e50c37ab53e3af6a5d29a37b0575&wsABSTime=1775339424
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hw29eqdyj/image/small" group-title="LIVE EVENT | XOILACZ AI",15:35 WIB - MELBOURNE CITY VS WESTERN SYDNEY [AUS D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=8ffcd7d841a870cf387910405f8dc74b&wsABSTime=1775339125
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=f866b9bd57a0d29ba9ab967e873fadaa&wsABSTime=1775339424
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8wo6q86p/image/small" group-title="LIVE EVENT | XOILACZ AI",16:00 WIB - DONG TAM LONG AN VS BAC NINH [VIE D2] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=27803c5fd25e7f17011c5bf249a939bc&wsABSTime=1775339125
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=ccdb0a6425f887a47d35108d8e857fea&wsABSTime=1775339425
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4hv052q86p/image/small" group-title="LIVE EVENT | XOILACZ AI",16:00 WIB - NU BANGLADESH U20 VS NU TRUNG QUOC U20 [AFC] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=69b1ef558de8919b2880cb9012d88d63&wsABSTime=1775339125
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=186a15e8fcebce23070cf6b835fa51cc&wsABSTime=1775339425
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh3x0er1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - AKRON TOGLIATTI VS CSKA MOSCOW [RUS PR] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=49b8e77535d14ef20f48b8134310457b&wsABSTime=1775339127
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=dbce84853b0b66231f955f0dc342792b&wsABSTime=1775339426
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohk9j5q1zp/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - FC RYUKYU VS ROASSO KUMAMOTO [J2/]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | AFC U20W C",Bangladesh (w) U20 vs China U20 Women
@@ -4304,6 +4329,8 @@ https://hls.livelivelive.space/live/4452301.m3u8
 https://live.bbs456.com/live/13039993_09b8b36f5c44e6c667014de9d9f78d83.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | CHN League 1",Shenzhen Juniors vs Yanbian Longding
 https://live.bbs456.com/live/13658901_79dcb23f30a2a21ba64fc72cb7096da7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | FIN Veikkausliiga",Inter Turku vs Vaasa VPS
+https://hwc777pullb.bszb.me/live/583717_1775296023.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
