@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [16.02 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [16.04 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="dn1m1ghl9123moe" tvg-name="Dong Tam Long An vs Bac Ninh" tvg-logo="https://img.cdnok9.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png" group-title="[LIVE 16:00 WIB | 04/04/26] Dong Tam Long An vs Bac Ninh",[LIVE 16:00 WIB | 04/04/26] Dong Tam Long An vs Bac Ninh (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="dn1m1ghl9123moe" tvg-name="Dong Tam Long An vs Bac Ninh" tvg-logo="https://img.cdnok9.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png" group-title="[LIVE 16:00 WIB | 04/04/26] Dong Tam Long An vs Bac Ninh",[LIVE 16:00 WIB | 04/04/26] Dong Tam Long An vs Bac Ninh (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="pxwrxlhy7zv4ryk" tvg-name="Melbourne City vs Western Sydney" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 15:35 WIB | 04/04/26] Melbourne City vs Western Sydney",[LIVE 15:35 WIB | 04/04/26] Melbourne City vs Western Sydney (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="pxwrxlhy7zv4ryk" tvg-name="Melbourne City vs Western Sydney" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 15:35 WIB | 04/04/26] Melbourne City vs Western Sydney",[LIVE 15:35 WIB | 04/04/26] Melbourne City vs Western Sydney (Thích Đủ Thứ)
@@ -33,7 +29,11 @@ https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f3
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="4wyrn4h66l78q86" tvg-name="Qingdao Hainiu vs Henan FC" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 14:30 WIB | 04/04/26] Qingdao Hainiu vs Henan FC",[LIVE 14:30 WIB | 04/04/26] Qingdao Hainiu vs Henan FC (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[UPCO 18:45 WIB | 2j 42m | 04/04/26] Manchester City vs Liverpool",[UPCO 18:45 WIB | 2j 42m | 04/04/26] Manchester City vs Liverpool (Giàng A Gấu)
+#EXTINF:-1 tvg-id="dn1m1ghl9123moe" tvg-name="Dong Tam Long An vs Bac Ninh" tvg-logo="https://img.cdnok9.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png" group-title="[LIVE 16:00 WIB | 04/04/26] Dong Tam Long An vs Bac Ninh",[LIVE 16:00 WIB | 04/04/26] Dong Tam Long An vs Bac Ninh (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="dn1m1ghl9123moe" tvg-name="Dong Tam Long An vs Bac Ninh" tvg-logo="https://img.cdnok9.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png" group-title="[LIVE 16:00 WIB | 04/04/26] Dong Tam Long An vs Bac Ninh",[LIVE 16:00 WIB | 04/04/26] Dong Tam Long An vs Bac Ninh (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[UPCO 18:45 WIB | 2j 40m | 04/04/26] Manchester City vs Liverpool",[UPCO 18:45 WIB | 2j 40m | 04/04/26] Manchester City vs Liverpool (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[UPCO 18:45 WIB | 2j 42m | 04/04/26] Manchester City vs Liverpool",[UPCO 18:45 WIB | 2j 42m | 04/04/26] Manchester City vs Liverpool (Giàng A Gấu)
+#EXTINF:-1 tvg-id="4wyrn4h6yl0pq86" tvg-name="Manchester City vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[UPCO 18:45 WIB | 2j 40m | 04/04/26] Manchester City vs Liverpool",[UPCO 18:45 WIB | 2j 40m | 04/04/26] Manchester City vs Liverpool (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
