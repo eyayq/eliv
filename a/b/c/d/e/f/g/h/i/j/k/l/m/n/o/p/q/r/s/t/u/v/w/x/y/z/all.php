@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.15 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.25 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="318q66hx8gndqo9" tvg-name="Southampton vs Arsenal" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal",[LIVE 02:00 WIB | 05/04/26] Southampton vs Arsenal (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
@@ -49,22 +49,22 @@ https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="dn1m1ghl2w50moe" tvg-name="FC Basel 1893 vs Young Boys" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 01:30 WIB | 05/04/26] FC Basel 1893 vs Young Boys",[LIVE 01:30 WIB | 05/04/26] FC Basel 1893 vs Young Boys (GIÀNG A PHỆ )
 https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="4jwq2ghn9w0xm0v" tvg-name="Toronto FC vs Colorado Rapids" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 00:10 WIB | 05/04/26] Toronto FC vs Colorado Rapids",[LIVE 00:10 WIB | 05/04/26] Toronto FC vs Colorado Rapids (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="4jwq2ghn9w0xm0v" tvg-name="Toronto FC vs Colorado Rapids" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 00:10 WIB | 05/04/26] Toronto FC vs Colorado Rapids",[LIVE 00:10 WIB | 05/04/26] Toronto FC vs Colorado Rapids (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="ednm9whw9d8dryo" tvg-name="AFC Ajax vs FC Twente Enschede" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede",[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="ednm9whw9d8dryo" tvg-name="AFC Ajax vs FC Twente Enschede" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede",[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="ednm9whw9d8dryo" tvg-name="AFC Ajax vs FC Twente Enschede" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede",[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="ednm9whw9d8dryo" tvg-name="AFC Ajax vs FC Twente Enschede" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede",[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="ednm9whw9d8dryo" tvg-name="AFC Ajax vs FC Twente Enschede" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede",[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="ednm9whw9d8dryo" tvg-name="AFC Ajax vs FC Twente Enschede" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede",[LIVE 02:00 WIB | 05/04/26] AFC Ajax vs FC Twente Enschede (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="4jwq2ghnk1l1m0v" tvg-name="Excelsior SBV vs NEC Nijmegen" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 02:00 WIB | 05/04/26] Excelsior SBV vs NEC Nijmegen",[LIVE 02:00 WIB | 05/04/26] Excelsior SBV vs NEC Nijmegen (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="4jwq2ghnk1l1m0v" tvg-name="Excelsior SBV vs NEC Nijmegen" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 02:00 WIB | 05/04/26] Excelsior SBV vs NEC Nijmegen",[LIVE 02:00 WIB | 05/04/26] Excelsior SBV vs NEC Nijmegen (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="x7lm7phjwk0gm2w" tvg-name="FC Porto vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 4m | 05/04/26] FC Porto vs FC Famalicao",[UPCO 02:30 WIB | 4m | 05/04/26] FC Porto vs FC Famalicao (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="x7lm7phjwk0gm2w" tvg-name="FC Porto vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 4m | 05/04/26] FC Porto vs FC Famalicao",[UPCO 02:30 WIB | 4m | 05/04/26] FC Porto vs FC Famalicao (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="23xmvkh6o8pyqg8" tvg-name="LOSC Lille vs RC Lens" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 05/04/26] LOSC Lille vs RC Lens",[LIVE 02:05 WIB | 05/04/26] LOSC Lille vs RC Lens (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="23xmvkh6o8pyqg8" tvg-name="LOSC Lille vs RC Lens" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 05/04/26] LOSC Lille vs RC Lens",[LIVE 02:05 WIB | 05/04/26] LOSC Lille vs RC Lens (Giàng A Húp)
@@ -73,7 +73,3 @@ https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="2y8m4zh573z6ql0" tvg-name="Union Saint-Gilloise vs Sint-Truidense" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 01:45 WIB | 05/04/26] Union Saint-Gilloise vs Sint-Truidense",[LIVE 01:45 WIB | 05/04/26] Union Saint-Gilloise vs Sint-Truidense (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="x7lm7phjwk0gm2w" tvg-name="FC Porto vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 14m | 05/04/26] FC Porto vs FC Famalicao",[UPCO 02:30 WIB | 14m | 05/04/26] FC Porto vs FC Famalicao (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="x7lm7phjwk0gm2w" tvg-name="FC Porto vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 14m | 05/04/26] FC Porto vs FC Famalicao",[UPCO 02:30 WIB | 14m | 05/04/26] FC Porto vs FC Famalicao (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
