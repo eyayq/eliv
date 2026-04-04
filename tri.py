@@ -15,7 +15,7 @@ HEADERS = {
 SLEEP_AFTER_ALL = 130  # 5 menit
 
 # 👉 jumlah runner per batch (bebas ubah)
-BATCH_SIZE = 2
+BATCH_SIZE = 4
 
 # 👉 daftar workflow (tetap dari kamu, tidak diubah)
 WORKFLOW_LIST = [
@@ -31,7 +31,7 @@ WORKFLOW_LIST = [
     "lve1.yml"
 ]
 
-# 👉 auto grouping (satu-satunya perubahan)
+# 👉 auto grouping (punyamu, tetap)
 WORKFLOW_GROUPS = []
 temp = []
 
@@ -66,18 +66,28 @@ def trigger_workflow(workflow):
         print("Trigger failed:", workflow, r.text)
 
 
+# 🔥 FIX FINAL anti loncat + tepat workflow
 def get_latest_run(workflow):
-    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow}/runs?per_page=1"
-    r = requests.get(url, headers=HEADERS)
+    url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow}/runs?per_page=5"
 
-    if r.status_code != 200:
-        print("API error:", r.text)
-        return None
+    for _ in range(6):
+        r = requests.get(url, headers=HEADERS)
 
-    data = r.json()
+        if r.status_code != 200:
+            print("API error:", r.text)
+            time.sleep(2)
+            continue
 
-    if data["workflow_runs"]:
-        return data["workflow_runs"][0]["id"]
+        data = r.json()
+
+        for run in data["workflow_runs"]:
+            if (
+                run["path"].endswith(workflow) and
+                run["status"] in ["queued", "in_progress"]
+            ):
+                return run["id"]
+
+        time.sleep(2)
 
     return None
 
@@ -111,7 +121,9 @@ while True:
 
         for wf in group:
             trigger_workflow(wf)
-            time.sleep(3)
+
+            # delay biar run kebaca benar
+            time.sleep(6)
 
             run_id = get_latest_run(wf)
 
@@ -129,4 +141,3 @@ while True:
     print("Sleep", SLEEP_AFTER_ALL, "seconds")
 
     time.sleep(SLEEP_AFTER_ALL)
-    
