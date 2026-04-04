@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.10 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.26 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="n54qllhn91owqvy" tvg-name="Central Coast Mariners Women vs Sydney FC Women" tvg-logo="https://img.cdnok9.com/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png" group-title="[LIVE 10:15 WIB | 04/04/26] Central Coast Mariners Women vs Sydney FC Women",[LIVE 10:15 WIB | 04/04/26] Central Coast Mariners Women vs Sydney FC Women (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="n54qllhn91owqvy" tvg-name="Central Coast Mariners Women vs Sydney FC Women" tvg-logo="https://img.cdnok9.com/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png" group-title="[LIVE 10:15 WIB | 04/04/26] Central Coast Mariners Women vs Sydney FC Women",[LIVE 10:15 WIB | 04/04/26] Central Coast Mariners Women vs Sydney FC Women (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="8yomo4h1ge8nq0j" tvg-name="Club Tijuana vs Tigres UANL" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LIVE 10:06 WIB | 04/04/26] Club Tijuana vs Tigres UANL",[LIVE 10:06 WIB | 04/04/26] Club Tijuana vs Tigres UANL (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="8yomo4h1ge8nq0j" tvg-name="Club Tijuana vs Tigres UANL" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LIVE 10:06 WIB | 04/04/26] Club Tijuana vs Tigres UANL",[LIVE 10:06 WIB | 04/04/26] Club Tijuana vs Tigres UANL (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="pxwrxlhy517xryk" tvg-name="Jeju SK FC vs Bucheon FC 1995" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 04/04/26] Jeju SK FC vs Bucheon FC 1995",[LIVE 12:00 WIB | 04/04/26] Jeju SK FC vs Bucheon FC 1995 (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="pxwrxlhy517xryk" tvg-name="Jeju SK FC vs Bucheon FC 1995" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 04/04/26] Jeju SK FC vs Bucheon FC 1995",[LIVE 12:00 WIB | 04/04/26] Jeju SK FC vs Bucheon FC 1995 (GIÀNG A MIKE)
