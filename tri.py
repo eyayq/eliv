@@ -31,11 +31,28 @@ WORKFLOW_LIST = [
     "lve1.yml"
 ]
 
-# 👉 auto grouping (INI SAJA PERUBAHANNYA)
-WORKFLOW_GROUPS = [
-    WORKFLOW_LIST[i:i+BATCH_SIZE]
-    for i in range(0, len(WORKFLOW_LIST), BATCH_SIZE)
-]
+# 👉 auto grouping (satu-satunya perubahan)
+WORKFLOW_GROUPS = []
+temp = []
+
+for wf in WORKFLOW_LIST:
+
+    if wf == "lve1.yml":
+        if temp:
+            WORKFLOW_GROUPS.append(temp)
+            temp = []
+
+        WORKFLOW_GROUPS.append([wf])
+
+    else:
+        temp.append(wf)
+
+        if len(temp) == BATCH_SIZE:
+            WORKFLOW_GROUPS.append(temp)
+            temp = []
+
+if temp:
+    WORKFLOW_GROUPS.append(temp)
 
 
 def trigger_workflow(workflow):
