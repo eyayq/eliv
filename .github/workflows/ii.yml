@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - 'II.py'
+      - 'ii.py'
       - '.github/workflows/ii.yml'
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
@@ -28,11 +28,10 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install requests
 
       - name: Restore Python script from secret
@@ -43,6 +42,7 @@ jobs:
       - name: Run scraper
         run: |
           python ii.py
+          ls -lah
 
       - name: Commit playlist
         env:
@@ -51,13 +51,13 @@ jobs:
           FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/live3.php"
 
           git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.email "actions@github.com"
 
           if [ -f "$FILE" ]; then
             git add "$FILE"
-            git commit -m "Update LIVE3PHP playlist $(date)" || echo "No changes"
+            git commit -m "update playlist $(date)" || echo "No changes"
 
-            # retry push untuk multi runner (10 runner)
+            # retry push jika banyak runner
             for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
             do
               git pull --rebase --autostash origin main
@@ -65,7 +65,6 @@ jobs:
               echo "Push failed, retry $i..."
               sleep 5
             done
-
           else
             echo "live3.php not found"
           fi
