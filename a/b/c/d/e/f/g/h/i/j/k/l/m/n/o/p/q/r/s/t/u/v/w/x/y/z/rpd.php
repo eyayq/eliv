@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.09 WIB 04/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [09.28 WIB 04/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 1",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -8,113 +8,113 @@ https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
  https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 3",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1775271940-0-0-9d4aec2d817216dc40d60af131fcbf76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1775272840-0-0-63e04a207fef0ee06ad1fad43ca57cbe
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 4",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1775271940-0-0-5de7663f20ffec98275bc7c87ff224b0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1775272840-0-0-e77f0b218150b8ef37c1fbbf64079fdd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 5",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1775271940-0-0-05b67602f7aa0b00818a159ca4027f18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1775272840-0-0-535be53a70440f69586224bb7d35fd39
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 6",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1775271940-0-0-1e12cfb3ee8614509275a3e735ef8590
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1775272840-0-0-27ec3d84a8337143da2f1f73d5c80c93
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 7",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1775271940-0-0-759297a3ced13d573283116fad894a92
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1775272840-0-0-9403e3533753bca07a7f71a21f729399
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 8",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1775271940-0-0-e71ee8065a80328c0c366150629e844e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1775272840-0-0-76d0590e42edf0dc8eb52f50697d8035
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 9",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1775271940-0-0-6770040368e11c64da844b0723289022
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1775272840-0-0-8a73b085fc96d9fe6298607dfbc43c82
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 10",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1775271940-0-0-060f88eccd53330bd9a80de10f71361b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1775272840-0-0-81ee8d2d9797554b1affbb911e829122
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 11",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1775271940-0-0-d2288ffef58e587849c515c76ea2e10d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1775272840-0-0-5557d40e99a924dff868679647b15af7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 12",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1775271940-0-0-7beea8bad0288734d466a53750cd3022
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1775272840-0-0-502311c689b2c9c5aca8a3f21c3786b0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 13",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1775271940-0-0-5709424e81fe65366affb09c863775ab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1775272840-0-0-1dcd8904a7cfdea300909a07edefdb0d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/puebla-1167ea.webp" group-title="[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 14",[LIVE 08:00 WIB 04/04/26] Puebla vs FC Juarez | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1775271940-0-0-454ede7978667402e82efee3742d5b13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1775272840-0-0-d6ddf94970291cf2ec5b6a265367bc17
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/correcaminos-de-la-uat-a1d0f3.png" group-title="[LIVE 08:00 WIB 04/04/26] Correcaminos de la U.A.T. vs Cancun FC | Server 1",[LIVE 08:00 WIB 04/04/26] Correcaminos de la U.A.T. vs Cancun FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=f9371289188f4dd9f87d1099001855aa&txTime=69d0c654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1775272840-0-0-bc691b285649da68562e21d0f2acc2ec
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/correcaminos-de-la-uat-a1d0f3.png" group-title="[LIVE 08:00 WIB 04/04/26] Correcaminos de la U.A.T. vs Cancun FC | Server 2",[LIVE 08:00 WIB 04/04/26] Correcaminos de la U.A.T. vs Cancun FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=111408271cf9e15fa7645c4b08f8bc97&txTime=69d0c654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1775272840-0-0-3a1f35c803621ff92b8d1d1a139993c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/correcaminos-de-la-uat-a1d0f3.png" group-title="[LIVE 08:00 WIB 04/04/26] Correcaminos de la U.A.T. vs Cancun FC | Server 3",[LIVE 08:00 WIB 04/04/26] Correcaminos de la U.A.T. vs Cancun FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1775271940-0-0-fad3b93b2aa3237755953d2237a9133f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=bc6175749757cb3f1c3942627d094977&txTime=69d0c9d8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/correcaminos-de-la-uat-a1d0f3.png" group-title="[LIVE 08:00 WIB 04/04/26] Correcaminos de la U.A.T. vs Cancun FC | Server 4",[LIVE 08:00 WIB 04/04/26] Correcaminos de la U.A.T. vs Cancun FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1775271940-0-0-114a0799525efaec3994ddc8ec68fd8b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=c6d93a93c08bd7adaf314fc87895a4de&txTime=69d0c9d8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-irapuato-24f71c.webp" group-title="[LIVE 08:00 WIB 04/04/26] Club Deportivo Irapuato vs Club Atletico La Paz | Server 1",[LIVE 08:00 WIB 04/04/26] Club Deportivo Irapuato vs Club Atletico La Paz | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1775271940-0-0-d44c4937b9938f1faf023d32ca627749
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-592799_lsd.m3u8?auth_key=1775272840-0-0-9e4da38f8a3482ad527aafeb4422da47
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-irapuato-24f71c.webp" group-title="[LIVE 08:00 WIB 04/04/26] Club Deportivo Irapuato vs Club Atletico La Paz | Server 2",[LIVE 08:00 WIB 04/04/26] Club Deportivo Irapuato vs Club Atletico La Paz | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1775271940-0-0-6274ce5270d014e19e6edded855203f1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-592799_lhd.m3u8?auth_key=1775272840-0-0-ae4d0861a0e53d704564bb0b1a2c32c4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-irapuato-24f71c.webp" group-title="[LIVE 08:00 WIB 04/04/26] Club Deportivo Irapuato vs Club Atletico La Paz | Server 3",[LIVE 08:00 WIB 04/04/26] Club Deportivo Irapuato vs Club Atletico La Paz | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=47fb0d069e1d43ec8722855f92dc0717&txTime=69d0c654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=e9a9174e35a1be186a86b49e1b3da16d&txTime=69d0c9d8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-deportivo-irapuato-24f71c.webp" group-title="[LIVE 08:00 WIB 04/04/26] Club Deportivo Irapuato vs Club Atletico La Paz | Server 4",[LIVE 08:00 WIB 04/04/26] Club Deportivo Irapuato vs Club Atletico La Paz | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=3a036a90320468aa292b320994b33234&txTime=69d0c654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=bef2aa6a10db7f3e37ac5c0eb2878975&txTime=69d0c9d8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-junior-barranquilla-d55293.png" group-title="[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 1",[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-junior-barranquilla-d55293.png" group-title="[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 2",[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-junior-barranquilla-d55293.png" group-title="[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 3",[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1775271940-0-0-d7ec4163180d940ff4a5d4101e0cde6b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=e2c3443c34fb457eb2f9c0341d027a1f&txTime=69d0c9d8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-junior-barranquilla-d55293.png" group-title="[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 4",[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1775271940-0-0-23e45e7bc99c22c6c65342924062d8cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=509e04b1e15a0d4fa063d35edce3bdf6&txTime=69d0c9d8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-junior-barranquilla-d55293.png" group-title="[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 5",[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=f27d41761edfca3c24d73a749600769d&txTime=69d0c654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1775272840-0-0-d13071a96f5499258ef10bf6c5f23490
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-junior-barranquilla-d55293.png" group-title="[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 6",[LIVE 08:30 WIB 04/04/26] Atletico Junior Barranquilla vs Deportivo Cali | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=bff2f53c0ad80f0179f99734cbceff5c&txTime=69d0c654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1775272840-0-0-5a90767e499c54383e77ae5a1f1f8b98
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sacramento-kings-ffcf3f.webp" group-title="[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 1",[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sacramento-kings-ffcf3f.webp" group-title="[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 2",[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=7e59515b38fbf5c580bbbf84b2d80694&txTime=69d0c654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=9d36306d50e300ea3fa24e5b91847898&txTime=69d0c9d8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sacramento-kings-ffcf3f.webp" group-title="[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 3",[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=5c18ca9ddb773df6efa1d67aa248ef42&txTime=69d0c654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=6f77406a7d76e2ce5540e145d3a24182&txTime=69d0c9d8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sacramento-kings-ffcf3f.webp" group-title="[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 4",[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1775271940-0-0-7118c4324080bee6493215d3ea5abba1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1775272840-0-0-c4f6c11555b9539fc7b6b6cc61dae18b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sacramento-kings-ffcf3f.webp" group-title="[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 5",[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1775271940-0-0-907f4aece20fe90dd6388c47a056749f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1775272840-0-0-a500f57c5486410e6c492a364b1b9882
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sacramento-kings-ffcf3f.webp" group-title="[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 6",[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1775271940-0-0-bf5bde9db7f2053ba2a5d343d7243ab2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1775272840-0-0-3c08666d68f1cb333184b32f9391fd77
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sacramento-kings-ffcf3f.webp" group-title="[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 7",[LIVE 09:00 WIB 04/04/26] Sacramento Kings vs New Orleans Pelicans | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1775271940-0-0-3084bcece2291b346b0d666ea78aaac5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1775272840-0-0-1e5a8a744e8aee8405d9d51fa6ed8cd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tepatitlan-fc-6467a9.png" group-title="[LIVE 09:00 WIB 04/04/26] Tepatitlan FC vs Alebrijes de Oaxaca | Server 1",[LIVE 09:00 WIB 04/04/26] Tepatitlan FC vs Alebrijes de Oaxaca | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1775271940-0-0-dfa5ca6e81aad7a53c3c7b508d028c9a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=fdafee522fef3e8cffc6f220b2ae48cf&txTime=69d0c9d8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tepatitlan-fc-6467a9.png" group-title="[LIVE 09:00 WIB 04/04/26] Tepatitlan FC vs Alebrijes de Oaxaca | Server 2",[LIVE 09:00 WIB 04/04/26] Tepatitlan FC vs Alebrijes de Oaxaca | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1775271940-0-0-39f8bf011fa44868bae9e8175dbd77d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e27ba0beef268b9eeedeb52535e4263c&txTime=69d0c9d8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tepatitlan-fc-6467a9.png" group-title="[LIVE 09:00 WIB 04/04/26] Tepatitlan FC vs Alebrijes de Oaxaca | Server 3",[LIVE 09:00 WIB 04/04/26] Tepatitlan FC vs Alebrijes de Oaxaca | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=8556267835a08cff1a92a28af1b782c7&txTime=69d0c654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1775272840-0-0-52dc1d03320149e907cdd97543384552
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tepatitlan-fc-6467a9.png" group-title="[LIVE 09:00 WIB 04/04/26] Tepatitlan FC vs Alebrijes de Oaxaca | Server 4",[LIVE 09:00 WIB 04/04/26] Tepatitlan FC vs Alebrijes de Oaxaca | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=93f088141c47ae1666a36b30c08c0dcf&txTime=69d0c654
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1775272840-0-0-df76f00f4310e904c00f325eb429bfc3
