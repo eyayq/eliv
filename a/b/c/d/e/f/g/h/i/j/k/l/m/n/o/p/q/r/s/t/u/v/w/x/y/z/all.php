@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.37 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.46 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (Giàng A Gấu)
@@ -13,14 +13,14 @@ https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa69089696
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (Giàng A Khoai)
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="dn1m1ghl90kzmoe" tvg-name="Chelsea vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale",[LIVE 23:15 WIB | 04/04/26] Chelsea vs Port Vale (Giàng A Chiến)
@@ -45,14 +45,14 @@ https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="318q66hx1okgqo9" tvg-name="Oud-Heverlee Leuven vs Standard Liege" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 23:15 WIB | 04/04/26] Oud-Heverlee Leuven vs Standard Liege",[LIVE 23:15 WIB | 04/04/26] Oud-Heverlee Leuven vs Standard Liege (GIÀNG A PHỆ )
 https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina",[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina",[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina",[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina",[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina",[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina",[LIVE 23:00 WIB | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="n54qllhn4ke1qvy" tvg-name="Midtjylland vs Sonderjyske" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 23:00 WIB | 04/04/26] Midtjylland vs Sonderjyske",[LIVE 23:00 WIB | 04/04/26] Midtjylland vs Sonderjyske (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="n54qllhn4ke1qvy" tvg-name="Midtjylland vs Sonderjyske" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 23:00 WIB | 04/04/26] Midtjylland vs Sonderjyske",[LIVE 23:00 WIB | 04/04/26] Midtjylland vs Sonderjyske (VĂN GÔN)
