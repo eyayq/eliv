@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.56 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [15.04 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1l4rjnh9j50km7v" tvg-name="Nagoya Grampus vs Cerezo Osaka" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 04/04/26] Nagoya Grampus vs Cerezo Osaka",[LIVE 13:00 WIB | 04/04/26] Nagoya Grampus vs Cerezo Osaka (Giàng A Páo)
-https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="1l4rjnh9j50km7v" tvg-name="Nagoya Grampus vs Cerezo Osaka" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 04/04/26] Nagoya Grampus vs Cerezo Osaka",[LIVE 13:00 WIB | 04/04/26] Nagoya Grampus vs Cerezo Osaka (Giàng A Páo)
-https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="l7oqdehgdl1xr51" tvg-name="Central Coast Mariners vs Perth Glory" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 13:00 WIB | 04/04/26] Central Coast Mariners vs Perth Glory",[LIVE 13:00 WIB | 04/04/26] Central Coast Mariners vs Perth Glory (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="l7oqdehgdl1xr51" tvg-name="Central Coast Mariners vs Perth Glory" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 13:00 WIB | 04/04/26] Central Coast Mariners vs Perth Glory",[LIVE 13:00 WIB | 04/04/26] Central Coast Mariners vs Perth Glory (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="ednm9whw7909ryo" tvg-name="Pohang Steelers vs Daejeon Citizen" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 04/04/26] Pohang Steelers vs Daejeon Citizen",[LIVE 14:30 WIB | 04/04/26] Pohang Steelers vs Daejeon Citizen (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="ednm9whw7909ryo" tvg-name="Pohang Steelers vs Daejeon Citizen" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 04/04/26] Pohang Steelers vs Daejeon Citizen",[LIVE 14:30 WIB | 04/04/26] Pohang Steelers vs Daejeon Citizen (HOÀNG CÁI)
@@ -25,3 +17,7 @@ https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f3
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="4wyrn4h66l78q86" tvg-name="Qingdao Hainiu vs Henan FC" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 14:30 WIB | 04/04/26] Qingdao Hainiu vs Henan FC",[LIVE 14:30 WIB | 04/04/26] Qingdao Hainiu vs Henan FC (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="pxwrxlhy7zv4ryk" tvg-name="Melbourne City vs Western Sydney" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 15:35 WIB | 30m | 04/04/26] Melbourne City vs Western Sydney",[UPCO 15:35 WIB | 30m | 04/04/26] Melbourne City vs Western Sydney (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="pxwrxlhy7zv4ryk" tvg-name="Melbourne City vs Western Sydney" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 15:35 WIB | 30m | 04/04/26] Melbourne City vs Western Sydney",[UPCO 15:35 WIB | 30m | 04/04/26] Melbourne City vs Western Sydney (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
