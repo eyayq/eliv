@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.06 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.19 WIB 04/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="dn1m1ghle2vlmoe" tvg-name="SC Freiburg vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] SC Freiburg vs FC Bayern Munich",[LIVE 20:30 WIB | 04/04/26] SC Freiburg vs FC Bayern Munich (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
@@ -17,10 +17,10 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="dn1m1ghle2vlmoe" tvg-name="SC Freiburg vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] SC Freiburg vs FC Bayern Munich",[LIVE 20:30 WIB | 04/04/26] SC Freiburg vs FC Bayern Munich (Giàng A Sếu)
 https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Giàng A Kê)
@@ -29,10 +29,10 @@ https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Lữ Bố (Giàng Phụng Tiên))
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Giàng A Chiến)
@@ -41,34 +41,6 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="vjxm8ghej2ljr6o" tvg-name="RCD Mallorca vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid",[LIVE 21:15 WIB | 04/04/26] RCD Mallorca vs Real Madrid (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="3glrw7hnwx0eqdy" tvg-name="Sassuolo vs Cagliari" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 04/04/26] Sassuolo vs Cagliari",[LIVE 20:00 WIB | 04/04/26] Sassuolo vs Cagliari (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="3glrw7hnwx0eqdy" tvg-name="Sassuolo vs Cagliari" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 04/04/26] Sassuolo vs Cagliari",[LIVE 20:00 WIB | 04/04/26] Sassuolo vs Cagliari (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="4wyrn4h6exzyq86" tvg-name="SV Werder Bremen vs RB Leipzig" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] SV Werder Bremen vs RB Leipzig",[LIVE 20:30 WIB | 04/04/26] SV Werder Bremen vs RB Leipzig (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="4wyrn4h6exzyq86" tvg-name="SV Werder Bremen vs RB Leipzig" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] SV Werder Bremen vs RB Leipzig",[LIVE 20:30 WIB | 04/04/26] SV Werder Bremen vs RB Leipzig (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="965mkyhk4y2dr1g" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="965mkyhk4y2dr1g" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="965mkyhk4y2dr1g" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="965mkyhk4y2dr1g" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="3glrw7hn1oveqdy" tvg-name="PSV Eindhoven vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht",[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht (Giàng A Ka)
-https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="3glrw7hn1oveqdy" tvg-name="PSV Eindhoven vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht",[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht (Giàng A Ka)
-https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="3glrw7hn1oveqdy" tvg-name="PSV Eindhoven vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht",[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="3glrw7hn1oveqdy" tvg-name="PSV Eindhoven vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht",[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="965mkyhk42per1g" tvg-name="TSG Hoffenheim vs 1. FSV Mainz 05" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] TSG Hoffenheim vs 1. FSV Mainz 05",[LIVE 20:30 WIB | 04/04/26] TSG Hoffenheim vs 1. FSV Mainz 05 (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="965mkyhk42per1g" tvg-name="TSG Hoffenheim vs 1. FSV Mainz 05" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] TSG Hoffenheim vs 1. FSV Mainz 05",[LIVE 20:30 WIB | 04/04/26] TSG Hoffenheim vs 1. FSV Mainz 05 (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="4jwq2ghnkz8km0v" tvg-name="Hamburger SV vs FC Augsburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] Hamburger SV vs FC Augsburg",[LIVE 20:30 WIB | 04/04/26] Hamburger SV vs FC Augsburg (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="4jwq2ghnkz8km0v" tvg-name="Hamburger SV vs FC Augsburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] Hamburger SV vs FC Augsburg",[LIVE 20:30 WIB | 04/04/26] Hamburger SV vs FC Augsburg (Giàng A Páo)
@@ -85,7 +57,35 @@ https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="l5ergph43lz8r8k" tvg-name="Bayer 04 Leverkusen vs VfL Wolfsburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] Bayer 04 Leverkusen vs VfL Wolfsburg",[LIVE 20:30 WIB | 04/04/26] Bayer 04 Leverkusen vs VfL Wolfsburg (Giàng A Sún)
 https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 53m | 04/04/26] Hellas Verona vs Fiorentina",[UPCO 23:00 WIB | 53m | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Choén)
+#EXTINF:-1 tvg-id="4wyrn4h6exzyq86" tvg-name="SV Werder Bremen vs RB Leipzig" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] SV Werder Bremen vs RB Leipzig",[LIVE 20:30 WIB | 04/04/26] SV Werder Bremen vs RB Leipzig (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="4wyrn4h6exzyq86" tvg-name="SV Werder Bremen vs RB Leipzig" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] SV Werder Bremen vs RB Leipzig",[LIVE 20:30 WIB | 04/04/26] SV Werder Bremen vs RB Leipzig (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="965mkyhk4y2dr1g" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="965mkyhk4y2dr1g" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="965mkyhk4y2dr1g" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="965mkyhk4y2dr1g" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 22:00 WIB | 04/04/26] RC Strasbourg Alsace vs OGC Nice (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="3glrw7hn1oveqdy" tvg-name="PSV Eindhoven vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht",[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="3glrw7hn1oveqdy" tvg-name="PSV Eindhoven vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht",[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="3glrw7hn1oveqdy" tvg-name="PSV Eindhoven vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht",[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht (Giàng A Ka)
+https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="3glrw7hn1oveqdy" tvg-name="PSV Eindhoven vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht",[LIVE 21:30 WIB | 04/04/26] PSV Eindhoven vs FC Utrecht (Giàng A Ka)
+https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="965mkyhk42per1g" tvg-name="TSG Hoffenheim vs 1. FSV Mainz 05" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] TSG Hoffenheim vs 1. FSV Mainz 05",[LIVE 20:30 WIB | 04/04/26] TSG Hoffenheim vs 1. FSV Mainz 05 (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="965mkyhk42per1g" tvg-name="TSG Hoffenheim vs 1. FSV Mainz 05" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 04/04/26] TSG Hoffenheim vs 1. FSV Mainz 05",[LIVE 20:30 WIB | 04/04/26] TSG Hoffenheim vs 1. FSV Mainz 05 (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 40m | 04/04/26] Hellas Verona vs Fiorentina",[UPCO 23:00 WIB | 40m | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 40m | 04/04/26] Hellas Verona vs Fiorentina",[UPCO 23:00 WIB | 40m | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 40m | 04/04/26] Hellas Verona vs Fiorentina",[UPCO 23:00 WIB | 40m | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 53m | 04/04/26] Hellas Verona vs Fiorentina",[UPCO 23:00 WIB | 53m | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Choén)
+#EXTINF:-1 tvg-id="y0or5jh8lvjpqwz" tvg-name="Hellas Verona vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 40m | 04/04/26] Hellas Verona vs Fiorentina",[UPCO 23:00 WIB | 40m | 04/04/26] Hellas Verona vs Fiorentina (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
