@@ -1,6 +1,6 @@
 #EXTM3U
-# ⏰ Latest Updated: 2026-04-04 22:56:33
-# 🔄 Total Channels: 1814
+# ⏰ Latest Updated: 2026-04-04 23:06:55
+# 🔄 Total Channels: 1820
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -52,6 +52,12 @@ https://live5.msrktz.app/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/9b9691dfc9038bbf35e973022738d126.png!w80" group-title="Live Event: Colalive",05:09 05/04 UConn vs Illinois Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/82054853.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png!w80" group-title="Live Event: Colalive",06:00 05/04 Philadelphia 76ers vs Detroit Pistons Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/90865415.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e93c69c95a943755907a17adf4d7d732.png!w80" group-title="Live Event: Colalive",06:00 05/04 Queretaro vs Toluca Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/71426314.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/FtSMHX9.jpg" group-title="LIVE EVENT: MANUAL",02:00 WIB - 5APRIL 2026 Atletico Madrid vs Barcelona
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -416,102 +422,6 @@ https://live.alilicloud.com/live/8f6828fde9b202347d195d521a829d81/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/e6a84c2140c9954dc5b89ab87cb4f6ef/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ GON] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=6d1a6880f48ea394c950ba242236d489&txTime=69d1e69c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ GON] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=e9ac5872b68d062849f492de7f0de526&txTime=69d1e69c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ GON] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=6d1a6880f48ea394c950ba242236d489&txTime=69d1e69c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ GON] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=e9ac5872b68d062849f492de7f0de526&txTime=69d1e69c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260403/54a69e59f79ed7127627a507ffd0d65f.png" group-title="Live Event: socolive",06:00 ngay 05/04 Philadelphia 76ers vs Detroit Pistons [CHAN SENA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lsd.flv?txSecret=cca11e9148daeb16aae21da9b882366e&txTime=69d1e69c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260403/54a69e59f79ed7127627a507ffd0d65f.png" group-title="Live Event: socolive",06:00 ngay 05/04 Philadelphia 76ers vs Detroit Pistons [CHAN SENA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=40b27143a9bea63cb18fbb5077c32485&txTime=69d1e69c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260403/54a69e59f79ed7127627a507ffd0d65f.png" group-title="Live Event: socolive",06:00 ngay 05/04 Philadelphia 76ers vs Detroit Pistons [CHAN SENA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=cca11e9148daeb16aae21da9b882366e&txTime=69d1e69c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260403/54a69e59f79ed7127627a507ffd0d65f.png" group-title="Live Event: socolive",06:00 ngay 05/04 Philadelphia 76ers vs Detroit Pistons [CHAN SENA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=40b27143a9bea63cb18fbb5077c32485&txTime=69d1e69c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ NIBO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1775345740-0-0-70f97a20c0b3dd740a22c22a87127f06
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ NIBO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1775345740-0-0-d4879ad69b1fb4defa807e6c5c482235
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ NIBO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1775345740-0-0-bc72c950b370d67b71d5d030396ae00c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ NIBO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1775345740-0-0-1957a0584dc1053cd3509ae977ddf134
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [THE KOP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1775345740-0-0-a5a7e2e1586f69408631c259d45de516
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [THE KOP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1775345740-0-0-0ec9146965c843a3ee477529aa91cbff
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [THE KOP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1775345740-0-0-ffa6b5bb4e30a69785aec6f995260656
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [THE KOP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1775345740-0-0-078f54b3e0573363056b4b63c3b291ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [VIT BAC] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1775345740-0-0-89b6227f06322f89271b33c7de077d1a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [VIT BAC] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1775345740-0-0-e7de1c1fc2ecd7e15dff5397e63c354d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [VIT BAC] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1775345740-0-0-35a628fd5994aec1e343478ff52a596a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [VIT BAC] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1775345740-0-0-38fc1474df09855b1ff997ff1e741780
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/13b00d20c146da8166cd98af25761ca3.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1775345740-0-0-6b6bd622e27026206f0e9bf80a94b71d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/13b00d20c146da8166cd98af25761ca3.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1775345740-0-0-230e813fd87c881fe70af984354b8b50
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/13b00d20c146da8166cd98af25761ca3.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1775345740-0-0-e835402431a47df0a6bb5fbbaab8df8c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/13b00d20c146da8166cd98af25761ca3.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1775345740-0-0-df83ed971f9c041467f94047317df622
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ FIREMAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1775346100-0-0-c8275508a3cd8a7145f7cb7345702034
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ FIREMAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1775346100-0-0-0e44e6eed47c6473789a60a8631a37cd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ FIREMAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1775346100-0-0-d63b1724c87cf5723c5880f1c59be17e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ FIREMAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1775346100-0-0-5ed438f5aecf545c321bf4eaeada7ac1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ CHIVAS] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=f3906afb3f763c2036321a1ede8d5ae9&txTime=69d1e804
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ CHIVAS] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=dfaae8d4231dffd56faca1336e06496c&txTime=69d1e804
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ CHIVAS] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=f3906afb3f763c2036321a1ede8d5ae9&txTime=69d1e804
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ CHIVAS] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=dfaae8d4231dffd56faca1336e06496c&txTime=69d1e804
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260403/54a69e59f79ed7127627a507ffd0d65f.png" group-title="Live Event: socolive",06:00 ngay 05/04 Philadelphia 76ers vs Detroit Pistons [BRIAN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1775346460-0-0-2baf8557acb77b0614968c7ae23b4cac
@@ -560,18 +470,126 @@ https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=a8f72db753e96665030
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/c3415fca4cdb566b9fe62afc79d28229.png" group-title="Live Event: socolive",06:30 ngay 05/04 Inter Miami CF vs Austin FC [TAM MAO] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=673e06a6417ce89826341c2828e2d116&txTime=69d1e96c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0e51acacd6768b331aa72a9feb920f94.png" group-title="Live Event: socolive",03:30 ngay 05/04 Real Salt Lake vs Sporting Kansas City [ A TU] flv Gvision TV
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ LUCAS] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lsd.flv?auth_key=1775346202-0-0-e36d1bfcb127d2e4de0e5d9ed47eb260
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0e51acacd6768b331aa72a9feb920f94.png" group-title="Live Event: socolive",03:30 ngay 05/04 Real Salt Lake vs Sporting Kansas City [ A TU] hdFlv Gvision TV
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1775346820-0-0-00f0e7a11818dd8e74e3daa452051714
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ LUCAS] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1775346202-0-0-418e9972db6de4c69ff4e4cfbf8dcd72
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0e51acacd6768b331aa72a9feb920f94.png" group-title="Live Event: socolive",03:30 ngay 05/04 Real Salt Lake vs Sporting Kansas City [ A TU] m3u8 Gvision TV
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1775346820-0-0-eedd5dba9e5d8c090fe1ade0978bd089
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ LUCAS] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1775346202-0-0-9a419ca12df3cae1a4b647f3bb27b755
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/0e51acacd6768b331aa72a9feb920f94.png" group-title="Live Event: socolive",03:30 ngay 05/04 Real Salt Lake vs Sporting Kansas City [ A TU] hdM3u8 Gvision TV
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1775346820-0-0-4b3aab4f37af9b50f5922359cf159da0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ LUCAS] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1775346202-0-0-d99a25064c8a3cea2151f2cbcd1d48ef
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1775346820-0-0-3a90972a8468e7906048a7cdd3e5a3f4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [VIT BAC] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1775346820-0-0-a8457ad5295f3430dee7d889988046e7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [VIT BAC] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1775346820-0-0-30489df96192673154ab663278065277
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [VIT BAC] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1775346820-0-0-e8e469111cdd83fab6548b4968117947
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [VIT BAC] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1775346820-0-0-f4d86a099cf838741796bcb4b760bbb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ NIBO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1775346820-0-0-2152501bee9d4c020a7308c67c279a5c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ NIBO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1775346820-0-0-4a2fa98fa5b61ce95dfc812eae65a77d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ NIBO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1775346820-0-0-efd736650f0701b0665a8c3d7cb42ef3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ NIBO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1775346820-0-0-27bef68f9a8ff57d65ba0d4a1e69efe9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ GON] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=0cef1ee46a11e7eea99863ba62dc93ee&txTime=69d1ead4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ GON] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=74645ac5bea615ecd31f13a6abe75588&txTime=69d1ead4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ GON] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=0cef1ee46a11e7eea99863ba62dc93ee&txTime=69d1ead4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ GON] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=74645ac5bea615ecd31f13a6abe75588&txTime=69d1ead4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260403/54a69e59f79ed7127627a507ffd0d65f.png" group-title="Live Event: socolive",06:00 ngay 05/04 Philadelphia 76ers vs Detroit Pistons [CHAN SENA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lsd.flv?txSecret=a9217f83d22bcb5594b023d060960486&txTime=69d1ead4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260403/54a69e59f79ed7127627a507ffd0d65f.png" group-title="Live Event: socolive",06:00 ngay 05/04 Philadelphia 76ers vs Detroit Pistons [CHAN SENA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=d2f97e15b8db0c5b5cdcdfee1040562c&txTime=69d1ead4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260403/54a69e59f79ed7127627a507ffd0d65f.png" group-title="Live Event: socolive",06:00 ngay 05/04 Philadelphia 76ers vs Detroit Pistons [CHAN SENA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=a9217f83d22bcb5594b023d060960486&txTime=69d1ead4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260403/54a69e59f79ed7127627a507ffd0d65f.png" group-title="Live Event: socolive",06:00 ngay 05/04 Philadelphia 76ers vs Detroit Pistons [CHAN SENA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=d2f97e15b8db0c5b5cdcdfee1040562c&txTime=69d1ead4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [THE KOP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-581585_lsd.flv?auth_key=1775346820-0-0-6c053cfa8502fc73f6ea8303ecbdafd9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [THE KOP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-581585_lhd.flv?auth_key=1775346820-0-0-b799d477ae8f5262849332f13a81a677
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [THE KOP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1775346820-0-0-d004c837f60985d09ff94c57a9171b84
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/7a1eb7b0bff0a2b4781e3b89917673cf.png" group-title="Live Event: socolive",04:30 ngay 05/04 Sao Paulo vs Cruzeiro Esporte Clube [THE KOP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1775346820-0-0-54607ab2b1c2f503a145d31216fa2359
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/c3415fca4cdb566b9fe62afc79d28229.png" group-title="Live Event: socolive",06:30 ngay 05/04 Inter Miami CF vs Austin FC [ CO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1775346820-0-0-24cf658ce6faa7103690a66a7cd6c169
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/c3415fca4cdb566b9fe62afc79d28229.png" group-title="Live Event: socolive",06:30 ngay 05/04 Inter Miami CF vs Austin FC [ CO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1775346820-0-0-2fb70c3b0385b00daad33d55fe53308e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/c3415fca4cdb566b9fe62afc79d28229.png" group-title="Live Event: socolive",06:30 ngay 05/04 Inter Miami CF vs Austin FC [ CO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1775346820-0-0-258f3fc71ddf3eecafc8df7625182830
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/c3415fca4cdb566b9fe62afc79d28229.png" group-title="Live Event: socolive",06:30 ngay 05/04 Inter Miami CF vs Austin FC [ CO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1775346820-0-0-5adc141a1adb82905df1327cc49407d7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/13b00d20c146da8166cd98af25761ca3.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1775346820-0-0-5a7b3ebdc6e369753b51d233f200a43e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/13b00d20c146da8166cd98af25761ca3.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1775346820-0-0-3df7166c6145f0110b5a6743b4530c2f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/13b00d20c146da8166cd98af25761ca3.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1775346820-0-0-0bcfdcab78c3606a15cf76590c77f1d0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/13b00d20c146da8166cd98af25761ca3.png" group-title="Live Event: socolive",BIT.LY/SOCOLIVE [SOCOLIVE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1775346820-0-0-cf7b6b19ae4cfb21c2920c70777e4910
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ CHIVAS] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=dd76011dbc6799fef858ebdb1faa981e&txTime=69d1ec3c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ CHIVAS] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=e5a3865da3c4ed0c03ef79ec5d6efe51&txTime=69d1ec3c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ CHIVAS] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=dd76011dbc6799fef858ebdb1faa981e&txTime=69d1ec3c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/ddc756838b446fbddce6dccf5ac2d044.png" group-title="Live Event: socolive",06:00 ngay 05/04 Monterrey vs Atletico San Luis [ CHIVAS] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=e5a3865da3c4ed0c03ef79ec5d6efe51&txTime=69d1ec3c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ FIREMAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1775347180-0-0-cb1811d20ca3f0c8209870923f52f378
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ FIREMAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1775347180-0-0-eec6a0eafe2521330205eb3547cde657
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ FIREMAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1775347180-0-0-11d96fac3766ba0c43cbf1206f37c4a3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260401/48659a288aa2ef93a8de859764026452.png" group-title="Live Event: socolive",06:00 ngay 05/04 Queretaro FC vs Toluca [ FIREMAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1775347180-0-0-4f968f1904a930dc652503fc71ed8a8b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Club_de_F%C3%BAtbol_Monterrey.png/250px-Club_de_F%C3%BAtbol_Monterrey.png" group-title="Live Event: Hội quán",06:00 05/04 Monterrey vs Atletico San Luis FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -3189,32 +3207,35 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=a5e70ca21fbb0eaeb58dac6309c30300&wsABSTime=1775386518
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=a861f37c072fc2f7d673cbdfe0712411&wsABSTime=1775387117
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlh60kryk0/image/small" group-title="LIVE EVENT | XOILACZ AI",06:00 WIB - MONTERREY VS ATL SAN LUIS [MEX D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=25c04d09e8cf8a92655c1f752e28b658&wsABSTime=1775386520
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=2204392c265aca0dc2c41b7db8903c26&wsABSTime=1775387120
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghd6wr6od/image/small" group-title="LIVE EVENT | XOILACZ AI",06:00 WIB - QUERETARO FC VS TOLUCA [MEX D1] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=2540851223a01e84fdbb03c0a808ecb9&wsABSTime=1775387120
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/v2y8m4pt21jml07/image/small" group-title="LIVE EVENT | XOILACZ AI",05:09 WIB - UCONN HUSKIES VS UNIVERSITY OF ILLINOIS [NCA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=e3b0cda9b41c50e375fcc907543279f9&wsABSTime=1775386520
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=b2ba964c785957c26e01a7ecb958dcfe&wsABSTime=1775387121
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/yl5ergytj4wr8k0/image/small" group-title="LIVE EVENT | XOILACZ AI",06:00 WIB - PHILADELPHIA 76ERS VS DETROIT PISTONS [NBA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=b23ec75a54a5ca57d7afcc27fa638fe4&wsABSTime=1775386521
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=6872cc2c5e24d8dfac47afa1b3623588&wsABSTime=1775387121
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghjkloq82w/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - COLORADO SPRINGS VS LEXINGTON [USL CH]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | BRA Serie B",Cuiaba vs Ceara
-https://live1.bbs456.com/live/13586281_42a17e5785ec36b9d9e8bbb0dc54d41b.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | BRA Serie B",Nautico (PE) vs Ponte Preta
-https://live2.bbs456.com/live/13587788_441f8c34fcd51ddd1054c28f08940d4d.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | MEX Liga MX",Queretaro FC vs Toluca
-https://hwc777pullb.bszb.me/live/2464811_1775306313.flv
+https://hls.livelivelive.space/live/4465569.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | BRA Serie A",Sao Paulo vs Cruzeiro Esporte Clube
 https://live.bbs456.com/live/13376985_86279ef632e60902a0dc64ab5fb5b4a1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIVE EVENT | BRA Serie B",Nautico (PE) vs Ponte Preta
+https://live2.bbs456.com/live/13587788_441f8c34fcd51ddd1054c28f08940d4d.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
