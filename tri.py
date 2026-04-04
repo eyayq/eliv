@@ -15,7 +15,7 @@ HEADERS = {
 SLEEP_AFTER_ALL = 130  # 5 menit
 
 # 👉 jumlah runner per batch (bebas ubah)
-BATCH_SIZE = 3
+BATCH_SIZE = 2
 
 # 👉 daftar workflow (tetap dari kamu, tidak diubah)
 WORKFLOW_LIST = [
