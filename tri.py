@@ -123,7 +123,7 @@ while True:
             trigger_workflow(wf)
 
             # delay biar run kebaca benar
-            time.sleep(10)
+            time.sleep(7)
 
             run_id = get_latest_run(wf)
 
