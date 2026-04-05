@@ -1,141 +1,165 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.38 WIB 06/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.47 WIB 06/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 1",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1775418100-0-0-6cd3ece12a143c1b1c7cfdfa6d793ad4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 2",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1775418100-0-0-4436e0565b33d6a4cb3cbd8f401cd26a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 3",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1775418100-0-0-707a132e63a0d2757f5e973b8be1d77b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 4",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1775418100-0-0-8bf6f0307c2b974412ae5ee5329b9303
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 5",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=02f276850fecfd7c7186049fd44fff3f&txTime=69d30144
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 6",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=152ebfdd8161585a00ca33155996d4d6&txTime=69d30144
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 7",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 2",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 2 (SVR-BHNS 2)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 8",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 3",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1775417560-0-0-24bc98580c5d5889f36c21e92f46752e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 4",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1775417560-0-0-e17b07b65d88153dc90e12ffa9fe37e6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 5",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1775417560-0-0-484454203481b9c2804311a053895e59
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 6",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1775417560-0-0-20db247fb5f386c235bdf49fe185fd4d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 7",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=c3fc888d17ab11392b2a40b70749f931&txTime=69d2ff28
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fenerbahce-274477.png" group-title="[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 8",[LIVE 00:00 WIB 06/04/26] Fenerbahce vs Besiktas JK | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=d80399e61d065d67670d2eb4e1414378&txTime=69d2ff28
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palermo-8669fe.png" group-title="[LIVE 00:30 WIB 06/04/26] Palermo vs Avellino | Server 1",[LIVE 00:30 WIB 06/04/26] Palermo vs Avellino | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-597924_lsd.m3u8?auth_key=1775417560-0-0-1e560a88f924a41f5e47f46015806746
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597924_lsd.m3u8?auth_key=1775418100-0-0-79b36a079429b16263a38ea6e67c8645
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/palermo-8669fe.png" group-title="[LIVE 00:30 WIB 06/04/26] Palermo vs Avellino | Server 2",[LIVE 00:30 WIB 06/04/26] Palermo vs Avellino | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-597924_lhd.m3u8?auth_key=1775417560-0-0-95bda74aaa6422e0a1285b44c327bb52
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597924_lhd.m3u8?auth_key=1775418100-0-0-d01b2b221aa4122c34a34158db33fcc5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/olympiacos-piraeus-837497.png" group-title="[LIVE 01:00 WIB 06/04/26] Olympiacos Piraeus vs AEK Athens | Server 1",[LIVE 01:00 WIB 06/04/26] Olympiacos Piraeus vs AEK Athens | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1775418100-0-0-4bfa7f775c477b4a8d0784f920cab9fd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/olympiacos-piraeus-837497.png" group-title="[LIVE 01:00 WIB 06/04/26] Olympiacos Piraeus vs AEK Athens | Server 2",[LIVE 01:00 WIB 06/04/26] Olympiacos Piraeus vs AEK Athens | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1775418100-0-0-6c995228839476e23650658a88d1c8ca
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-riyadh-cd5cff.png" group-title="[LIVE 01:00 WIB 06/04/26] Al Riyadh vs Al Shabab FC | Server 1",[LIVE 01:00 WIB 06/04/26] Al Riyadh vs Al Shabab FC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=28abebf0fd6712bf4b040f3bd037fa17&txTime=69d30144
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-riyadh-cd5cff.png" group-title="[LIVE 01:00 WIB 06/04/26] Al Riyadh vs Al Shabab FC | Server 2",[LIVE 01:00 WIB 06/04/26] Al Riyadh vs Al Shabab FC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=2384bece30dc502e5c5f01eace39c07a&txTime=69d30144
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ettifaq-fc-5a6a12.webp" group-title="[LIVE 01:00 WIB 06/04/26] Al Ettifaq FC vs Al Qadsiah | Server 1",[LIVE 01:00 WIB 06/04/26] Al Ettifaq FC vs Al Qadsiah | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1775418100-0-0-e4ab4a3d0913814b7242c7b9290e5aeb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ettifaq-fc-5a6a12.webp" group-title="[LIVE 01:00 WIB 06/04/26] Al Ettifaq FC vs Al Qadsiah | Server 2",[LIVE 01:00 WIB 06/04/26] Al Ettifaq FC vs Al Qadsiah | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1775418100-0-0-1886a1d8ff758ba160743caba782235c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ettifaq-532a5e.png" group-title="[LIVE 01:00 WIB 06/04/26] Al-Ettifaq vs Al Qadsiah | Server 1",[LIVE 01:00 WIB 06/04/26] Al-Ettifaq vs Al Qadsiah | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-riyadh-cd5cff.png" group-title="[LIVE 01:00 WIB 06/04/26] Al Riyadh vs Al Shabab FC | Server 1",[LIVE 01:00 WIB 06/04/26] Al Riyadh vs Al Shabab FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=8fc5bd197e02a260ecfc733ad03f2202&txTime=69d2ff28
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-riyadh-cd5cff.png" group-title="[LIVE 01:00 WIB 06/04/26] Al Riyadh vs Al Shabab FC | Server 2",[LIVE 01:00 WIB 06/04/26] Al Riyadh vs Al Shabab FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=5138a04e5ed72b23d056e316854a103a&txTime=69d2ff28
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ettifaq-fc-5a6a12.webp" group-title="[LIVE 01:00 WIB 06/04/26] Al Ettifaq FC vs Al Qadsiah | Server 1",[LIVE 01:00 WIB 06/04/26] Al Ettifaq FC vs Al Qadsiah | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1775417560-0-0-6771ff6e6bd1f5a968ab307e440813d7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ettifaq-fc-5a6a12.webp" group-title="[LIVE 01:00 WIB 06/04/26] Al Ettifaq FC vs Al Qadsiah | Server 2",[LIVE 01:00 WIB 06/04/26] Al Ettifaq FC vs Al Qadsiah | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1775417560-0-0-a21c25e2dc96b2fdb532d163b4dd0b9c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/olympiacos-piraeus-837497.png" group-title="[LIVE 01:00 WIB 06/04/26] Olympiacos Piraeus vs AEK Athens | Server 1",[LIVE 01:00 WIB 06/04/26] Olympiacos Piraeus vs AEK Athens | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1775417560-0-0-34394e21ba576f588e44fb0c8c34e4e8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/olympiacos-piraeus-837497.png" group-title="[LIVE 01:00 WIB 06/04/26] Olympiacos Piraeus vs AEK Athens | Server 2",[LIVE 01:00 WIB 06/04/26] Olympiacos Piraeus vs AEK Athens | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1775417560-0-0-d43b252e511d3e217b623da2adcb9b33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-riyadh-cd5cff.png" group-title="[LIVE 01:00 WIB 06/04/26] Al-Riyadh vs Al-Shabab | Server 1",[LIVE 01:00 WIB 06/04/26] Al-Riyadh vs Al-Shabab | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-riyadh-cd5cff.png" group-title="[LIVE 01:00 WIB 06/04/26] Al-Riyadh vs Al-Shabab | Server 2",[LIVE 01:00 WIB 06/04/26] Al-Riyadh vs Al-Shabab | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gimnasia-la-plata-ef2454.webp" group-title="[LIVE 01:30 WIB 06/04/26] Gimnasia La Plata vs CA Huracan | Server 1",[LIVE 01:30 WIB 06/04/26] Gimnasia La Plata vs CA Huracan | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 1",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1775417560-0-0-ff355f5b31acb9040e36168bfed98711
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1775418100-0-0-4a9b8642beabdc9b8f793e2d7888a50b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 2",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1775417560-0-0-109f12faca02a0742fcd6defde75200b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1775418100-0-0-beac2a3229433fc4abc7724f940196c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 3",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1775417560-0-0-e115267a25b2a05f2d4be764c44102b3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1775418100-0-0-a74bdb810fd7a760163310f6c4e31374
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 4",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1775417560-0-0-1e9c0d116ba1dc47c1cd0718eae44ed6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1775418100-0-0-10d4d4a542c99fa1f6a08990df0590ba
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 5",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1775417560-0-0-9cf63c944a68575431eddeddb4ef90ef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1775418100-0-0-f16b6d34e2597720cdc11a8b795be073
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 6",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1775417560-0-0-1769e02305f68180536950c154fd6169
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1775418100-0-0-f442a5896cd7a69f9c2760bd76d7c4ab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 7",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1775417560-0-0-cc3bba6d9ed097696b7444987460c665
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1775418100-0-0-1008ae51ac0674f6a50aacd2ecf1bc1a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 8",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1775417560-0-0-f8c9c7bcab9774269c15a72e3ccf42c2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1775418100-0-0-3261ac2a38fca18665e4f717c825be67
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 9",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1775417560-0-0-07280f22f9cdc7d6dded1ec52c40eec5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1775418100-0-0-10c7c22401a8d9c15949956829c56cd6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 10",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1775417560-0-0-50da0384a9eb9f86bbd0b2d2b32fab7a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1775418100-0-0-2cf1a1b01858a08c159f9c4fab4dae79
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 11",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1775417560-0-0-155bb9a20e7964fbb210b8a99f6f6e11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1775418100-0-0-331fa92e2132bcdada1d157d74ec4b9e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 12",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1775417560-0-0-4ce7f2d3c1b4722625819b7eca6bc973
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1775418100-0-0-fbfa8574d40979342a72e03f70923d47
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 13",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 14",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 15",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 16",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 16 (SVR-BHNS 16)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/inter-milan-8fd1a6.png" group-title="[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 17",[LIVE 01:45 WIB 06/04/26] Inter Milan vs AS Roma | Server 17 (SVR-BHNS 17)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 1",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-572879_lhd.flv?auth_key=1775349509-0-0-8e84f78e220aeeaae6599ae9f814ec6e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 2",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-572879_lsd.flv?auth_key=1775349509-0-0-8e84f78e220aeeaae6599ae9f814ec6e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 3",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1775417559-0-0-5935bcb115c64ed629365755e25da7af
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=fa1ab7f4fc79c354b7e7f25fa4ec002d&txTime=69d30144
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 4",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1775417559-0-0-cb5264214af3f2742114d363f7523838
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=763f295c64bfb4f2d67a2f88583fee55&txTime=69d30144
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 5",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=47e7688d5315c1561791e58cb4284aea&txTime=69d2ff28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-596191_lsd.m3u8?auth_key=1775418100-0-0-2c2f4c88f04141fa7d7f1909828e8899
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 6",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=139cdab285452eae8a80135103eda4cc&txTime=69d2ff28
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-596191_lhd.m3u8?auth_key=1775418100-0-0-254a0d93229bb2dc3db7e0bb25aab406
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 7",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1775417528-0-0-afbd5c27edc24da3df642f068f9a66ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1775418100-0-0-81e34db0824dac09ed312046402ab66c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 8",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1775417528-0-0-0d59e1a0d06ed45d3cdec7eb253a3302
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1775418100-0-0-4799619eff7bb68ea7a17066f33b110e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 9",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1775417569-0-0-19d86186748ad30749c3276326ea5991
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1775418100-0-0-02a87fd998d962427b6c6eb68130a7ad
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 10",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1775417569-0-0-fc11cc2766075707891628fbd4a2ec3e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1775418100-0-0-db5e21bdcd91e3cb4f551e0611960184
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 11",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1775417560-0-0-9363b554dd6cc306e409f4bf92e21159
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1775418100-0-0-66c83fdcf7a469dbe3e31182fcb8d0b9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 12",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1775417560-0-0-ed428297d58a4c3dabda6616d49ca5e8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1775418100-0-0-5fc28e519b0664141cdd9009576fe0f7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 13",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1775417560-0-0-95e9cb9917b3172eb39a035e881f2ab5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1775418100-0-0-c86ee07c0a25b8966d53c063c86b4431
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 14",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1775417560-0-0-684d69960d9cd35f8e657c8cdfb66026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1775418100-0-0-a3ce7cbb02e235444bcd4b705bc12de9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 15",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 16",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 16 (SVR-BHNS 16)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-monaco-7ade9a.webp" group-title="[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 17",[LIVE 01:45 WIB 06/04/26] AS Monaco vs Marseille | Server 17 (SVR-BHNS 17)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+ https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
