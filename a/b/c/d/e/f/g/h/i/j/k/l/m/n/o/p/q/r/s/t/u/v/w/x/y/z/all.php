@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [18.02 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [18.10 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="965mkyhkk99dr1g" tvg-name="CLB Thanh Hoa vs Cong An Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 05/04/26] CLB Thanh Hoa vs Cong An Ho Chi Minh City",[LIVE 18:00 WIB | 05/04/26] CLB Thanh Hoa vs Cong An Ho Chi Minh City (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="965mkyhkk99dr1g" tvg-name="CLB Thanh Hoa vs Cong An Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 05/04/26] CLB Thanh Hoa vs Cong An Ho Chi Minh City",[LIVE 18:00 WIB | 05/04/26] CLB Thanh Hoa vs Cong An Ho Chi Minh City (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="3glrw7hnpwg2qdy" tvg-name="Jordan (w) U20 vs South Korea Women U20" tvg-logo="https://img.cdnok9.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png" group-title="[LIVE 16:00 WIB | 05/04/26] Jordan (w) U20 vs South Korea Women U20",[LIVE 16:00 WIB | 05/04/26] Jordan (w) U20 vs South Korea Women U20 (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="3glrw7hnpwg2qdy" tvg-name="Jordan (w) U20 vs South Korea Women U20" tvg-logo="https://img.cdnok9.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png" group-title="[LIVE 16:00 WIB | 05/04/26] Jordan (w) U20 vs South Korea Women U20",[LIVE 16:00 WIB | 05/04/26] Jordan (w) U20 vs South Korea Women U20 (Giàng A Húp)
@@ -43,3 +39,11 @@ https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb022234
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="4jwq2ghnndddm0v" tvg-name="Hoang Anh Gia Lai vs Ninh Binh FC" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 17:00 WIB | 05/04/26] Hoang Anh Gia Lai vs Ninh Binh FC",[LIVE 17:00 WIB | 05/04/26] Hoang Anh Gia Lai vs Ninh Binh FC (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="965mkyhkk99dr1g" tvg-name="CLB Thanh Hoa vs Cong An Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 05/04/26] CLB Thanh Hoa vs Cong An Ho Chi Minh City",[LIVE 18:00 WIB | 05/04/26] CLB Thanh Hoa vs Cong An Ho Chi Minh City (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="965mkyhkk99dr1g" tvg-name="CLB Thanh Hoa vs Cong An Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 05/04/26] CLB Thanh Hoa vs Cong An Ho Chi Minh City",[LIVE 18:00 WIB | 05/04/26] CLB Thanh Hoa vs Cong An Ho Chi Minh City (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="8yomo4h11455q0j" tvg-name="Tianjin Jinmen Tiger vs Shanghai Shenhua" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[UPCO 18:35 WIB | 24m | 05/04/26] Tianjin Jinmen Tiger vs Shanghai Shenhua",[UPCO 18:35 WIB | 24m | 05/04/26] Tianjin Jinmen Tiger vs Shanghai Shenhua (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="8yomo4h11455q0j" tvg-name="Tianjin Jinmen Tiger vs Shanghai Shenhua" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[UPCO 18:35 WIB | 24m | 05/04/26] Tianjin Jinmen Tiger vs Shanghai Shenhua",[UPCO 18:35 WIB | 24m | 05/04/26] Tianjin Jinmen Tiger vs Shanghai Shenhua (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
