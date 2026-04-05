@@ -1,109 +1,109 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" group-title="😈DONASI SERVER😈:19:07:16-WIB😈",😈Donasi Server Playlist Agar Tetap Hidup😈
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" group-title="😈DONASI SERVER😈:19:15:33-WIB😈",😈Donasi Server Playlist Agar Tetap Hidup😈
 
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Nam Dinh😈|😈06-04-2026😈|⏳05:52:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Nam Dinh😈|😈06-04-2026😈|⏳05:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieubao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Nam Dinh😈|😈06-04-2026😈|⏳05:52:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Nam Dinh😈|😈06-04-2026😈|⏳05:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieubao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Nam Dinh😈|😈06-04-2026😈|⏳05:52:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Nam Dinh😈|😈06-04-2026😈|⏳05:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/546.png" group-title="😈La Liga😈|😈02:00:00-WIB😈",😈Getafe vs Athletic Club😈|😈06-04-2026😈|⏳06:52:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/546.png" group-title="😈La Liga😈|😈02:00:00-WIB😈",😈Getafe vs Athletic Club😈|😈06-04-2026😈|⏳06:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieupao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/546.png" group-title="😈La Liga😈|😈02:00:00-WIB😈",😈Getafe vs Athletic Club😈|😈06-04-2026😈|⏳06:52:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/546.png" group-title="😈La Liga😈|😈02:00:00-WIB😈",😈Getafe vs Athletic Club😈|😈06-04-2026😈|⏳06:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieupao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/546.png" group-title="😈La Liga😈|😈02:00:00-WIB😈",😈Getafe vs Athletic Club😈|😈06-04-2026😈|⏳06:52:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/546.png" group-title="😈La Liga😈|😈02:00:00-WIB😈",😈Getafe vs Athletic Club😈|😈06-04-2026😈|⏳06:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/77.png" group-title="😈Ligue 1😈|😈03:00:00-WIB😈",😈Angers vs Lyon😈|😈06-04-2026😈|⏳07:52:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/77.png" group-title="😈Ligue 1😈|😈03:00:00-WIB😈",😈Angers vs Lyon😈|😈06-04-2026😈|⏳07:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieungoandong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/77.png" group-title="😈Ligue 1😈|😈03:00:00-WIB😈",😈Angers vs Lyon😈|😈06-04-2026😈|⏳07:52:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/77.png" group-title="😈Ligue 1😈|😈03:00:00-WIB😈",😈Angers vs Lyon😈|😈06-04-2026😈|⏳07:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieungoandong/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/77.png" group-title="😈Ligue 1😈|😈03:00:00-WIB😈",😈Angers vs Lyon😈|😈06-04-2026😈|⏳07:52:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/77.png" group-title="😈Ligue 1😈|😈03:00:00-WIB😈",😈Angers vs Lyon😈|😈06-04-2026😈|⏳07:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg" group-title="😈Vô địch thế giới 8 bi😈|😈04:00:00-WIB😈",😈Dương Quốc Hoàng vs Oliver Szolnoki😈|😈06-04-2026😈|⏳08:52:43😈
+#EXTINF:-1 tvg-logo="https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg" group-title="😈Vô địch thế giới 8 bi😈|😈04:00:00-WIB😈",😈Dương Quốc Hoàng vs Oliver Szolnoki😈|😈06-04-2026😈|⏳08:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_delua/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg" group-title="😈Vô địch thế giới 8 bi😈|😈04:00:00-WIB😈",😈Dương Quốc Hoàng vs Oliver Szolnoki😈|😈06-04-2026😈|⏳08:52:43😈
+#EXTINF:-1 tvg-logo="https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg" group-title="😈Vô địch thế giới 8 bi😈|😈04:00:00-WIB😈",😈Dương Quốc Hoàng vs Oliver Szolnoki😈|😈06-04-2026😈|⏳08:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_delua/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg" group-title="😈Vô địch thế giới 8 bi😈|😈04:00:00-WIB😈",😈Dương Quốc Hoàng vs Oliver Szolnoki😈|😈06-04-2026😈|⏳08:52:43😈
+#EXTINF:-1 tvg-logo="https://sv2.anhsieuviet.com/2026/03/04/signal-2026-03-04-151814.jpg" group-title="😈Vô địch thế giới 8 bi😈|😈04:00:00-WIB😈",😈Dương Quốc Hoàng vs Oliver Szolnoki😈|😈06-04-2026😈|⏳08:44:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_delua/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/532.png" group-title="😈La Liga😈|😈04:15:00-WIB😈",😈Valencia vs Celta Vigo😈|😈06-04-2026😈|⏳09:07:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/532.png" group-title="😈La Liga😈|😈04:15:00-WIB😈",😈Valencia vs Celta Vigo😈|😈06-04-2026😈|⏳08:59:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieuho/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/532.png" group-title="😈La Liga😈|😈04:15:00-WIB😈",😈Valencia vs Celta Vigo😈|😈06-04-2026😈|⏳09:07:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/532.png" group-title="😈La Liga😈|😈04:15:00-WIB😈",😈Valencia vs Celta Vigo😈|😈06-04-2026😈|⏳08:59:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieuho/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/532.png" group-title="😈La Liga😈|😈04:15:00-WIB😈",😈Valencia vs Celta Vigo😈|😈06-04-2026😈|⏳09:07:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/532.png" group-title="😈La Liga😈|😈04:15:00-WIB😈",😈Valencia vs Celta Vigo😈|😈06-04-2026😈|⏳08:59:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_tieuho/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/48.png" group-title="😈FA Cup😈|😈05:30:00-WIB😈",😈West Ham vs Leeds😈|😈06-04-2026😈|⏳10:22:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/48.png" group-title="😈FA Cup😈|😈05:30:00-WIB😈",😈West Ham vs Leeds😈|😈06-04-2026😈|⏳10:14:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_trada/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/48.png" group-title="😈FA Cup😈|😈05:30:00-WIB😈",😈West Ham vs Leeds😈|😈06-04-2026😈|⏳10:22:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/48.png" group-title="😈FA Cup😈|😈05:30:00-WIB😈",😈West Ham vs Leeds😈|😈06-04-2026😈|⏳10:14:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_trada/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/48.png" group-title="😈FA Cup😈|😈05:30:00-WIB😈",😈West Ham vs Leeds😈|😈06-04-2026😈|⏳10:22:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/48.png" group-title="😈FA Cup😈|😈05:30:00-WIB😈",😈West Ham vs Leeds😈|😈06-04-2026😈|⏳10:14:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/718.png" group-title="😈La Liga😈|😈06:30:00-WIB😈",😈Oviedo vs Sevilla😈|😈06-04-2026😈|⏳11:22:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/718.png" group-title="😈La Liga😈|😈06:30:00-WIB😈",😈Oviedo vs Sevilla😈|😈06-04-2026😈|⏳11:14:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieupao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/718.png" group-title="😈La Liga😈|😈06:30:00-WIB😈",😈Oviedo vs Sevilla😈|😈06-04-2026😈|⏳11:22:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/718.png" group-title="😈La Liga😈|😈06:30:00-WIB😈",😈Oviedo vs Sevilla😈|😈06-04-2026😈|⏳11:14:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.zlylive.com/bgtv_blv_tieupao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/718.png" group-title="😈La Liga😈|😈06:30:00-WIB😈",😈Oviedo vs Sevilla😈|😈06-04-2026😈|⏳11:22:43😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/718.png" group-title="😈La Liga😈|😈06:30:00-WIB😈",😈Oviedo vs Sevilla😈|😈06-04-2026😈|⏳11:14:26😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
