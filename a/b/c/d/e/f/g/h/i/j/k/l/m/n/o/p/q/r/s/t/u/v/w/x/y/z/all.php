@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [13.03 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [13.11 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="l7oqdehg82j8r51" tvg-name="Kashiwa Reysol vs Yokohama F. Marinos" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos",[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="l7oqdehg82j8r51" tvg-name="Kashiwa Reysol vs Yokohama F. Marinos" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos",[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="l7oqdehg82j8r51" tvg-name="Kashiwa Reysol vs Yokohama F. Marinos" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos",[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos (Giàng A Mèo)
-https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="l7oqdehg82j8r51" tvg-name="Kashiwa Reysol vs Yokohama F. Marinos" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos",[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos (Giàng A Mèo)
-https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="23xmvkh6p9jdqg8" tvg-name="Fagiano Okayama vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Fagiano Okayama vs Vissel Kobe",[LIVE 12:00 WIB | 05/04/26] Fagiano Okayama vs Vissel Kobe (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="23xmvkh6p9jdqg8" tvg-name="Fagiano Okayama vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Fagiano Okayama vs Vissel Kobe",[LIVE 12:00 WIB | 05/04/26] Fagiano Okayama vs Vissel Kobe (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="zp5rzghg5748q82" tvg-name="FC Anyang vs Football Club Seoul" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 05/04/26] FC Anyang vs Football Club Seoul",[LIVE 12:00 WIB | 05/04/26] FC Anyang vs Football Club Seoul (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="zp5rzghg5748q82" tvg-name="FC Anyang vs Football Club Seoul" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 05/04/26] FC Anyang vs Football Club Seoul",[LIVE 12:00 WIB | 05/04/26] FC Anyang vs Football Club Seoul (Giàng A Chiến)
@@ -21,10 +9,6 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="zp5rzghg5748q82" tvg-name="FC Anyang vs Football Club Seoul" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 05/04/26] FC Anyang vs Football Club Seoul",[LIVE 12:00 WIB | 05/04/26] FC Anyang vs Football Club Seoul (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="ednm9whw2x4dryo" tvg-name="V-Varen Nagasaki vs Shimizu S-Pulse" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse",[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="ednm9whw2x4dryo" tvg-name="V-Varen Nagasaki vs Shimizu S-Pulse" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse",[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="l5ergph4lykyr8k" tvg-name="FC Tokyo vs Machida Zelvia" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 05/04/26] FC Tokyo vs Machida Zelvia",[LIVE 13:00 WIB | 05/04/26] FC Tokyo vs Machida Zelvia (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="l5ergph4lykyr8k" tvg-name="FC Tokyo vs Machida Zelvia" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 05/04/26] FC Tokyo vs Machida Zelvia",[LIVE 13:00 WIB | 05/04/26] FC Tokyo vs Machida Zelvia (Giàng A Kê)
@@ -37,3 +21,15 @@ https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0b
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="vjxm8ghe9pxnr6o" tvg-name="Melbourne Victory vs Wellington Phoenix" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 12:00 WIB | 05/04/26] Melbourne Victory vs Wellington Phoenix",[LIVE 12:00 WIB | 05/04/26] Melbourne Victory vs Wellington Phoenix (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="l7oqdehg82j8r51" tvg-name="Kashiwa Reysol vs Yokohama F. Marinos" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos",[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos (Giàng A Mèo)
+https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="l7oqdehg82j8r51" tvg-name="Kashiwa Reysol vs Yokohama F. Marinos" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos",[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos (Giàng A Mèo)
+https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="l7oqdehg82j8r51" tvg-name="Kashiwa Reysol vs Yokohama F. Marinos" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos",[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="l7oqdehg82j8r51" tvg-name="Kashiwa Reysol vs Yokohama F. Marinos" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos",[LIVE 12:00 WIB | 05/04/26] Kashiwa Reysol vs Yokohama F. Marinos (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="23xmvkh6p9jdqg8" tvg-name="Fagiano Okayama vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Fagiano Okayama vs Vissel Kobe",[LIVE 12:00 WIB | 05/04/26] Fagiano Okayama vs Vissel Kobe (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="23xmvkh6p9jdqg8" tvg-name="Fagiano Okayama vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 05/04/26] Fagiano Okayama vs Vissel Kobe",[LIVE 12:00 WIB | 05/04/26] Fagiano Okayama vs Vissel Kobe (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
