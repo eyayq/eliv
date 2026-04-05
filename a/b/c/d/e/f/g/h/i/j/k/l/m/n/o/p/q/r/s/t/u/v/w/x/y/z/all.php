@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.05 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.12 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="l5ergph4k821r8k" tvg-name="West Ham United vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United",[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="l5ergph4k821r8k" tvg-name="West Ham United vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United",[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="l5ergph4k821r8k" tvg-name="West Ham United vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United",[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="l5ergph4k821r8k" tvg-name="West Ham United vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United",[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="l5ergph4k821r8k" tvg-name="West Ham United vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United",[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="l5ergph4k821r8k" tvg-name="West Ham United vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United",[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United (Giàng A Gấu)
@@ -13,18 +13,34 @@ https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa69089696
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="l5ergph4k821r8k" tvg-name="West Ham United vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United",[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United (Giàng A Kê)
 https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="l5ergph4k821r8k" tvg-name="West Ham United vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United",[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="l5ergph4k821r8k" tvg-name="West Ham United vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United",[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="dj2ryohljogzq1z" tvg-name="Fenerbahce vs Besiktas JK" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK",[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="dj2ryohljogzq1z" tvg-name="Fenerbahce vs Besiktas JK" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK",[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="dj2ryohljogzq1z" tvg-name="Fenerbahce vs Besiktas JK" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK",[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="dj2ryohljogzq1z" tvg-name="Fenerbahce vs Besiktas JK" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK",[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="l5ergph4k821r8k" tvg-name="West Ham United vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United",[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="l5ergph4k821r8k" tvg-name="West Ham United vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United",[LIVE 22:30 WIB | 05/04/26] West Ham United vs Leeds United (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="n54qllhne7pnqvy" tvg-name="Havre Athletic Club vs AJ Auxerre" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre",[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="n54qllhne7pnqvy" tvg-name="Havre Athletic Club vs AJ Auxerre" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre",[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="n54qllhne7pnqvy" tvg-name="Havre Athletic Club vs AJ Auxerre" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre",[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="n54qllhne7pnqvy" tvg-name="Havre Athletic Club vs AJ Auxerre" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre",[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="1l4rjnh914jdm7v" tvg-name="Metz vs FC Nantes" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes",[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="1l4rjnh914jdm7v" tvg-name="Metz vs FC Nantes" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes",[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="1l4rjnh914jdm7v" tvg-name="Metz vs FC Nantes" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes",[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="1l4rjnh914jdm7v" tvg-name="Metz vs FC Nantes" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes",[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="zp5rzghg756oq82" tvg-name="Lorient vs Paris FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC",[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC (Giàng A Sún)
+https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="zp5rzghg756oq82" tvg-name="Lorient vs Paris FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC",[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC (Giàng A Sún)
+https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="zp5rzghg756oq82" tvg-name="Lorient vs Paris FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC",[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="zp5rzghg756oq82" tvg-name="Lorient vs Paris FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC",[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="23xmvkh6dg8gqg8" tvg-name="Real Oviedo vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 05/04/26] Real Oviedo vs Sevilla FC",[LIVE 23:30 WIB | 05/04/26] Real Oviedo vs Sevilla FC (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="23xmvkh6dg8gqg8" tvg-name="Real Oviedo vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 05/04/26] Real Oviedo vs Sevilla FC",[LIVE 23:30 WIB | 05/04/26] Real Oviedo vs Sevilla FC (GIÀNG A TÁO)
@@ -41,6 +57,14 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="23xmvkh6dg8gqg8" tvg-name="Real Oviedo vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 05/04/26] Real Oviedo vs Sevilla FC",[LIVE 23:30 WIB | 05/04/26] Real Oviedo vs Sevilla FC (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="dj2ryohljogzq1z" tvg-name="Fenerbahce vs Besiktas JK" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK",[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="dj2ryohljogzq1z" tvg-name="Fenerbahce vs Besiktas JK" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK",[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="dj2ryohljogzq1z" tvg-name="Fenerbahce vs Besiktas JK" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK",[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="dj2ryohljogzq1z" tvg-name="Fenerbahce vs Besiktas JK" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK",[LIVE 00:00 WIB | 06/04/26] Fenerbahce vs Besiktas JK (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="pxwrxlhyg670ryk" tvg-name="Pisa vs Torino" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 05/04/26] Pisa vs Torino",[LIVE 23:00 WIB | 05/04/26] Pisa vs Torino (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="pxwrxlhyg670ryk" tvg-name="Pisa vs Torino" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 05/04/26] Pisa vs Torino",[LIVE 23:00 WIB | 05/04/26] Pisa vs Torino (VĂN GÔN)
@@ -61,27 +85,3 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="y0or5jh84z72qwz" tvg-name="Eintracht Frankfurt vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 05/04/26] Eintracht Frankfurt vs FC Köln",[LIVE 22:30 WIB | 05/04/26] Eintracht Frankfurt vs FC Köln (Giàng A Sếu)
 https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="n54qllhne7pnqvy" tvg-name="Havre Athletic Club vs AJ Auxerre" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre",[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="n54qllhne7pnqvy" tvg-name="Havre Athletic Club vs AJ Auxerre" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre",[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="n54qllhne7pnqvy" tvg-name="Havre Athletic Club vs AJ Auxerre" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre",[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="n54qllhne7pnqvy" tvg-name="Havre Athletic Club vs AJ Auxerre" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre",[LIVE 22:15 WIB | 05/04/26] Havre Athletic Club vs AJ Auxerre (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="1l4rjnh914jdm7v" tvg-name="Metz vs FC Nantes" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes",[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="1l4rjnh914jdm7v" tvg-name="Metz vs FC Nantes" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes",[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="1l4rjnh914jdm7v" tvg-name="Metz vs FC Nantes" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes",[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="1l4rjnh914jdm7v" tvg-name="Metz vs FC Nantes" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes",[LIVE 22:15 WIB | 05/04/26] Metz vs FC Nantes (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="zp5rzghg756oq82" tvg-name="Lorient vs Paris FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC",[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="zp5rzghg756oq82" tvg-name="Lorient vs Paris FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC",[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="zp5rzghg756oq82" tvg-name="Lorient vs Paris FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC",[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC (Giàng A Sún)
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="zp5rzghg756oq82" tvg-name="Lorient vs Paris FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC",[LIVE 22:15 WIB | 05/04/26] Lorient vs Paris FC (Giàng A Sún)
-https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
