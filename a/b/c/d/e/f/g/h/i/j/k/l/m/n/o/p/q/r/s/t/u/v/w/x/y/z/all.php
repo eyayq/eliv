@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [15.05 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [15.06 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="dj2ryohle471q1z" tvg-name="Kawasaki Frontale vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 14:00 WIB | 05/04/26] Kawasaki Frontale vs Urawa Red Diamonds",[LIVE 14:00 WIB | 05/04/26] Kawasaki Frontale vs Urawa Red Diamonds (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="dj2ryohle471q1z" tvg-name="Kawasaki Frontale vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 14:00 WIB | 05/04/26] Kawasaki Frontale vs Urawa Red Diamonds",[LIVE 14:00 WIB | 05/04/26] Kawasaki Frontale vs Urawa Red Diamonds (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="l5ergph4lykyr8k" tvg-name="FC Tokyo vs Machida Zelvia" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 05/04/26] FC Tokyo vs Machida Zelvia",[LIVE 13:00 WIB | 05/04/26] FC Tokyo vs Machida Zelvia (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="l5ergph4lykyr8k" tvg-name="FC Tokyo vs Machida Zelvia" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 05/04/26] FC Tokyo vs Machida Zelvia",[LIVE 13:00 WIB | 05/04/26] FC Tokyo vs Machida Zelvia (Giàng A Kê)
@@ -17,3 +13,7 @@ https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="dj2ryohllxdnq1z" tvg-name="Zhejiang Professional FC vs Chongqing Tonglianglong" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 14:30 WIB | 05/04/26] Zhejiang Professional FC vs Chongqing Tonglianglong",[LIVE 14:30 WIB | 05/04/26] Zhejiang Professional FC vs Chongqing Tonglianglong (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="dj2ryohle471q1z" tvg-name="Kawasaki Frontale vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 14:00 WIB | 05/04/26] Kawasaki Frontale vs Urawa Red Diamonds",[LIVE 14:00 WIB | 05/04/26] Kawasaki Frontale vs Urawa Red Diamonds (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="dj2ryohle471q1z" tvg-name="Kawasaki Frontale vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 14:00 WIB | 05/04/26] Kawasaki Frontale vs Urawa Red Diamonds",[LIVE 14:00 WIB | 05/04/26] Kawasaki Frontale vs Urawa Red Diamonds (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
