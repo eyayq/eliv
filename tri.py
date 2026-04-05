@@ -24,11 +24,11 @@ WORKFLOW_LIST = [
     "hh.yml", "kk.yml",
     "jj.yml", "ii.yml",
     "pl.yml", "z.yml",
-    "lve1.yml",
+    "lve1.yml", "auto.yml",
     "cucen.yml", "rpd.yml",
     "all.yml", "kecoa.yml",
     "gvng.yml", "hoyqun.yml",
-    "lve1.yml"
+    "lve1.yml", "auto.yml"
 ]
 
 # 👉 auto grouping (punyamu, tetap)
