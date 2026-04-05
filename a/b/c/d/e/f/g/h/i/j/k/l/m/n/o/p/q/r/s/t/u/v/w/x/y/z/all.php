@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.16 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.22 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="318q66hxo9nkqo9" tvg-name="Inter Milan vs AS Roma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma",[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="318q66hxo9nkqo9" tvg-name="Inter Milan vs AS Roma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma",[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="318q66hxo9nkqo9" tvg-name="Inter Milan vs AS Roma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma",[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="318q66hxo9nkqo9" tvg-name="Inter Milan vs AS Roma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma",[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma (Giàng A Gấu)
@@ -13,10 +17,6 @@ https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="318q66hxo9nkqo9" tvg-name="Inter Milan vs AS Roma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma",[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma (Lữ Bố (Giàng Phụng Tiên))
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="318q66hxo9nkqo9" tvg-name="Inter Milan vs AS Roma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma",[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="318q66hxo9nkqo9" tvg-name="Inter Milan vs AS Roma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma",[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="318q66hxo9nkqo9" tvg-name="Inter Milan vs AS Roma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma",[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="318q66hxo9nkqo9" tvg-name="Inter Milan vs AS Roma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma",[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma (Thích Đủ Thứ)
@@ -29,11 +29,11 @@ https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f3
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="4jwq2ghnkezdm0v" tvg-name="AS Monaco vs Marseille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 01:45 WIB | 06/04/26] AS Monaco vs Marseille",[LIVE 01:45 WIB | 06/04/26] AS Monaco vs Marseille (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="3glrw7hn3kvlqdy" tvg-name="CR Flamengo vs Santos" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[UPCO 03:30 WIB | 13m | 06/04/26] CR Flamengo vs Santos",[UPCO 03:30 WIB | 13m | 06/04/26] CR Flamengo vs Santos (HOÀNG CÁI)
+#EXTINF:-1 tvg-id="3glrw7hn3kvlqdy" tvg-name="CR Flamengo vs Santos" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[UPCO 03:30 WIB | 7m | 06/04/26] CR Flamengo vs Santos",[UPCO 03:30 WIB | 7m | 06/04/26] CR Flamengo vs Santos (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="3glrw7hn3kvlqdy" tvg-name="CR Flamengo vs Santos" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[UPCO 03:30 WIB | 13m | 06/04/26] CR Flamengo vs Santos",[UPCO 03:30 WIB | 13m | 06/04/26] CR Flamengo vs Santos (HOÀNG CÁI)
+#EXTINF:-1 tvg-id="3glrw7hn3kvlqdy" tvg-name="CR Flamengo vs Santos" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[UPCO 03:30 WIB | 7m | 06/04/26] CR Flamengo vs Santos",[UPCO 03:30 WIB | 7m | 06/04/26] CR Flamengo vs Santos (HOÀNG CÁI)
 https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="3glrw7hn3kvlqdy" tvg-name="CR Flamengo vs Santos" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[UPCO 03:30 WIB | 13m | 06/04/26] CR Flamengo vs Santos",[UPCO 03:30 WIB | 13m | 06/04/26] CR Flamengo vs Santos (VĂN GÔN)
+#EXTINF:-1 tvg-id="3glrw7hn3kvlqdy" tvg-name="CR Flamengo vs Santos" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[UPCO 03:30 WIB | 7m | 06/04/26] CR Flamengo vs Santos",[UPCO 03:30 WIB | 7m | 06/04/26] CR Flamengo vs Santos (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="3glrw7hn3kvlqdy" tvg-name="CR Flamengo vs Santos" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[UPCO 03:30 WIB | 13m | 06/04/26] CR Flamengo vs Santos",[UPCO 03:30 WIB | 13m | 06/04/26] CR Flamengo vs Santos (VĂN GÔN)
+#EXTINF:-1 tvg-id="3glrw7hn3kvlqdy" tvg-name="CR Flamengo vs Santos" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[UPCO 03:30 WIB | 7m | 06/04/26] CR Flamengo vs Santos",[UPCO 03:30 WIB | 7m | 06/04/26] CR Flamengo vs Santos (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
