@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.21 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.25 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="318q66hxo9nkqo9" tvg-name="Inter Milan vs AS Roma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma",[LIVE 01:45 WIB | 06/04/26] Inter Milan vs AS Roma (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
@@ -33,11 +33,11 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="ednm9whweo8nryo" tvg-name="Al Ettifaq FC vs Al Qadsiah" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 06/04/26] Al Ettifaq FC vs Al Qadsiah",[LIVE 01:00 WIB | 06/04/26] Al Ettifaq FC vs Al Qadsiah (Giàng A Sún)
 https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="n54qllhnd4o3qvy" tvg-name="Al Riyadh vs Al Shabab FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC",[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="n54qllhnd4o3qvy" tvg-name="Al Riyadh vs Al Shabab FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC",[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="n54qllhnd4o3qvy" tvg-name="Al Riyadh vs Al Shabab FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC",[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="n54qllhnd4o3qvy" tvg-name="Al Riyadh vs Al Shabab FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC",[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="n54qllhnd4o3qvy" tvg-name="Al Riyadh vs Al Shabab FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC",[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="n54qllhnd4o3qvy" tvg-name="Al Riyadh vs Al Shabab FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC",[LIVE 01:00 WIB | 06/04/26] Al Riyadh vs Al Shabab FC (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
