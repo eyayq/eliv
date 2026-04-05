@@ -1,33 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V7: [01:32 WIB 06/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V7: [01:32 WIB 06/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V7: [01:38 WIB 06/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V7: [01:38 WIB 06/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[22:00 WIB 05/04/26] Geal Monfils vs Tallon Griekspoor [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[22:00 WIB 05/04/26] Geal Monfils vs Tallon Griekspoor [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[22:00 WIB 05/04/26] Geal Monfils vs Tallon Griekspoor [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[23:30 WIB 05/04/26] Oviedo vs Sevilla [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[23:30 WIB 05/04/26] Oviedo vs Sevilla [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[23:30 WIB 05/04/26] Oviedo vs Sevilla [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[23:30 WIB 05/04/26] Moise Kouame vs Ugo Humbert [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[23:30 WIB 05/04/26] Moise Kouame vs Ugo Humbert [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[23:30 WIB 05/04/26] Moise Kouame vs Ugo Humbert [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/203.png" group-title="Süper Lig",[00:00 WIB 06/04/26] Fenerbahçe vs Beşiktaş [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
@@ -37,15 +10,6 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/203.png" group-title="Süper Lig",[00:00 WIB 06/04/26] Fenerbahçe vs Beşiktaş [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://abcnews4.com/resources/media/206f9bb5-0707-44eb-84cb-5137db09a768-large16x9_CreditOneCharlestonOpen_Logo_HorizontalBlack.png.jpg?1632422073123" group-title="WTA500 Charleston",[00:00 WIB 06/04/26] WTA500 Charleston [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://abcnews4.com/resources/media/206f9bb5-0707-44eb-84cb-5137db09a768-large16x9_CreditOneCharlestonOpen_Logo_HorizontalBlack.png.jpg?1632422073123" group-title="WTA500 Charleston",[00:00 WIB 06/04/26] WTA500 Charleston [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://abcnews4.com/resources/media/206f9bb5-0707-44eb-84cb-5137db09a768-large16x9_CreditOneCharlestonOpen_Logo_HorizontalBlack.png.jpg?1632422073123" group-title="WTA500 Charleston",[00:00 WIB 06/04/26] WTA500 Charleston [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 06/04/26] Al Riyadh vs Al Shabab [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
@@ -74,14 +38,23 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[01:45 WIB 06/04/26] Monaco vs Marseille [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 06/04/26] Alaves vs Osasuna [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 06/04/26] Alaves vs Osasuna [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 06/04/26] Alaves vs Osasuna [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 06/04/26] Alaves vs Osasuna [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 06/04/26] Alaves vs Osasuna [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 06/04/26] Alaves vs Osasuna [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://abcnews4.com/resources/media/206f9bb5-0707-44eb-84cb-5137db09a768-large16x9_CreditOneCharlestonOpen_Logo_HorizontalBlack.png.jpg?1632422073123" group-title="WTA500 Charleston",[02:00 WIB 06/04/26] WTA500 Charleston [FHD] [LIVE]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://abcnews4.com/resources/media/206f9bb5-0707-44eb-84cb-5137db09a768-large16x9_CreditOneCharlestonOpen_Logo_HorizontalBlack.png.jpg?1632422073123" group-title="WTA500 Charleston",[02:00 WIB 06/04/26] WTA500 Charleston [HD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://abcnews4.com/resources/media/206f9bb5-0707-44eb-84cb-5137db09a768-large16x9_CreditOneCharlestonOpen_Logo_HorizontalBlack.png.jpg?1632422073123" group-title="WTA500 Charleston",[02:00 WIB 06/04/26] WTA500 Charleston [SD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Segunda División",[03:15 WIB 06/04/26] Santos vs Ayacucho FC [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
