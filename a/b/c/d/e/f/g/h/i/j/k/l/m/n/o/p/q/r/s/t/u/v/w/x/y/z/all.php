@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.08 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.16 WIB 05/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="ednm9whw2x4dryo" tvg-name="V-Varen Nagasaki vs Shimizu S-Pulse" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse",[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="ednm9whw2x4dryo" tvg-name="V-Varen Nagasaki vs Shimizu S-Pulse" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse",[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="y39mp1h60v86moj" tvg-name="Santos Laguna vs Club America" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LIVE 10:10 WIB | 05/04/26] Santos Laguna vs Club America",[LIVE 10:10 WIB | 05/04/26] Santos Laguna vs Club America (PHONG VÂN)
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="y39mp1h60v86moj" tvg-name="Santos Laguna vs Club America" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LIVE 10:10 WIB | 05/04/26] Santos Laguna vs Club America",[LIVE 10:10 WIB | 05/04/26] Santos Laguna vs Club America (PHONG VÂN)
@@ -13,11 +17,11 @@ https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="2y8m4zh5p74eql0" tvg-name="Los Angeles Galaxy vs Minnesota United FC" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 09:40 WIB | 05/04/26] Los Angeles Galaxy vs Minnesota United FC",[LIVE 09:40 WIB | 05/04/26] Los Angeles Galaxy vs Minnesota United FC (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="ednm9whw2x4dryo" tvg-name="V-Varen Nagasaki vs Shimizu S-Pulse" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse",[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="ednm9whw2x4dryo" tvg-name="V-Varen Nagasaki vs Shimizu S-Pulse" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse",[LIVE 11:00 WIB | 05/04/26] V-Varen Nagasaki vs Shimizu S-Pulse (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="l5ergph4lykyr8k" tvg-name="FC Tokyo vs Machida Zelvia" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 1j 51m | 05/04/26] FC Tokyo vs Machida Zelvia",[UPCO 13:00 WIB | 1j 51m | 05/04/26] FC Tokyo vs Machida Zelvia (Giàng A Kê)
+#EXTINF:-1 tvg-id="zp5rzghg5748q82" tvg-name="FC Anyang vs Football Club Seoul" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 42m | 05/04/26] FC Anyang vs Football Club Seoul",[UPCO 12:00 WIB | 42m | 05/04/26] FC Anyang vs Football Club Seoul (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="zp5rzghg5748q82" tvg-name="FC Anyang vs Football Club Seoul" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 42m | 05/04/26] FC Anyang vs Football Club Seoul",[UPCO 12:00 WIB | 42m | 05/04/26] FC Anyang vs Football Club Seoul (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="l5ergph4lykyr8k" tvg-name="FC Tokyo vs Machida Zelvia" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 1j 42m | 05/04/26] FC Tokyo vs Machida Zelvia",[UPCO 13:00 WIB | 1j 42m | 05/04/26] FC Tokyo vs Machida Zelvia (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="l5ergph4lykyr8k" tvg-name="FC Tokyo vs Machida Zelvia" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 1j 51m | 05/04/26] FC Tokyo vs Machida Zelvia",[UPCO 13:00 WIB | 1j 51m | 05/04/26] FC Tokyo vs Machida Zelvia (Giàng A Kê)
+#EXTINF:-1 tvg-id="l5ergph4lykyr8k" tvg-name="FC Tokyo vs Machida Zelvia" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 1j 42m | 05/04/26] FC Tokyo vs Machida Zelvia",[UPCO 13:00 WIB | 1j 42m | 05/04/26] FC Tokyo vs Machida Zelvia (Giàng A Kê)
 https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
