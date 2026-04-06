@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.42 WIB 07/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.50 WIB 07/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="8yomo4h1konnq0j" tvg-name="Hull City vs Coventry City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City",[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="8yomo4h1konnq0j" tvg-name="Hull City vs Coventry City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City",[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="8yomo4h1konnq0j" tvg-name="Hull City vs Coventry City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City",[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="8yomo4h1konnq0j" tvg-name="Hull City vs Coventry City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City",[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="8yomo4h1konnq0j" tvg-name="Hull City vs Coventry City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City",[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="8yomo4h1konnq0j" tvg-name="Hull City vs Coventry City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City",[LIVE 02:00 WIB | 07/04/26] Hull City vs Coventry City (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="8yomo4h17w9yq0j" tvg-name="Napoli vs AC Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 07/04/26] Napoli vs AC Milan",[LIVE 01:45 WIB | 07/04/26] Napoli vs AC Milan (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="8yomo4h17w9yq0j" tvg-name="Napoli vs AC Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 07/04/26] Napoli vs AC Milan",[LIVE 01:45 WIB | 07/04/26] Napoli vs AC Milan (Thích Đủ Thứ)
