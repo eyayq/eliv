@@ -1,26 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.41 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.50 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="l7oqdehg80nwr51" tvg-name="Kristiansund BK vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Kristiansund BK vs Bodo Glimt",[LIVE 22:00 WIB | 06/04/26] Kristiansund BK vs Bodo Glimt (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="l7oqdehg80nwr51" tvg-name="Kristiansund BK vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Kristiansund BK vs Bodo Glimt",[LIVE 22:00 WIB | 06/04/26] Kristiansund BK vs Bodo Glimt (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="x7lm7phj3w00m2w" tvg-name="Ham-Kam vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Ham-Kam vs Brann",[LIVE 22:00 WIB | 06/04/26] Ham-Kam vs Brann (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="x7lm7phj3w00m2w" tvg-name="Ham-Kam vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Ham-Kam vs Brann",[LIVE 22:00 WIB | 06/04/26] Ham-Kam vs Brann (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="n54qllhnp88zqvy" tvg-name="Sarpsborg 08 vs Start Kristiansand" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Sarpsborg 08 vs Start Kristiansand",[LIVE 22:00 WIB | 06/04/26] Sarpsborg 08 vs Start Kristiansand (Giàng A Sún)
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="n54qllhnp88zqvy" tvg-name="Sarpsborg 08 vs Start Kristiansand" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Sarpsborg 08 vs Start Kristiansand",[LIVE 22:00 WIB | 06/04/26] Sarpsborg 08 vs Start Kristiansand (Giàng A Sún)
-https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="y0or5jh8zegeqwz" tvg-name="GAIS vs Djurgardens" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 21:30 WIB | 06/04/26] GAIS vs Djurgardens",[LIVE 21:30 WIB | 06/04/26] GAIS vs Djurgardens (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="y0or5jh8zegeqwz" tvg-name="GAIS vs Djurgardens" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 21:30 WIB | 06/04/26] GAIS vs Djurgardens",[LIVE 21:30 WIB | 06/04/26] GAIS vs Djurgardens (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="jw2r09hk2oekrz8" tvg-name="St. Gallen vs FC Zurich" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 21:30 WIB | 06/04/26] St. Gallen vs FC Zurich",[LIVE 21:30 WIB | 06/04/26] St. Gallen vs FC Zurich (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="jw2r09hk2oekrz8" tvg-name="St. Gallen vs FC Zurich" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 21:30 WIB | 06/04/26] St. Gallen vs FC Zurich",[LIVE 21:30 WIB | 06/04/26] St. Gallen vs FC Zurich (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (Giàng A Kê)
+https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (Giàng A Kê)
+https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 9m | 06/04/26] Juventus vs Genoa (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="l5ergph4w9zwr8k" tvg-name="Servette vs Luzern" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 21:30 WIB | 06/04/26] Servette vs Luzern",[LIVE 21:30 WIB | 06/04/26] Servette vs Luzern (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="l5ergph4w9zwr8k" tvg-name="Servette vs Luzern" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 21:30 WIB | 06/04/26] Servette vs Luzern",[LIVE 21:30 WIB | 06/04/26] Servette vs Luzern (GIÀNG A PHỆ )
@@ -61,23 +65,23 @@ https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="zp5rzghg6pj2q82" tvg-name="Molde vs Lillestrom" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Molde vs Lillestrom",[LIVE 22:00 WIB | 06/04/26] Molde vs Lillestrom (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="4wyrn4h68j00q86" tvg-name="Juventus vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa",[UPCO 23:00 WIB | 18m | 06/04/26] Juventus vs Genoa (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="l7oqdehg80nwr51" tvg-name="Kristiansund BK vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Kristiansund BK vs Bodo Glimt",[LIVE 22:00 WIB | 06/04/26] Kristiansund BK vs Bodo Glimt (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="l7oqdehg80nwr51" tvg-name="Kristiansund BK vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Kristiansund BK vs Bodo Glimt",[LIVE 22:00 WIB | 06/04/26] Kristiansund BK vs Bodo Glimt (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="x7lm7phj3w00m2w" tvg-name="Ham-Kam vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Ham-Kam vs Brann",[LIVE 22:00 WIB | 06/04/26] Ham-Kam vs Brann (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="x7lm7phj3w00m2w" tvg-name="Ham-Kam vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Ham-Kam vs Brann",[LIVE 22:00 WIB | 06/04/26] Ham-Kam vs Brann (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="n54qllhnp88zqvy" tvg-name="Sarpsborg 08 vs Start Kristiansand" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Sarpsborg 08 vs Start Kristiansand",[LIVE 22:00 WIB | 06/04/26] Sarpsborg 08 vs Start Kristiansand (Giàng A Sún)
+https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="n54qllhnp88zqvy" tvg-name="Sarpsborg 08 vs Start Kristiansand" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 22:00 WIB | 06/04/26] Sarpsborg 08 vs Start Kristiansand",[LIVE 22:00 WIB | 06/04/26] Sarpsborg 08 vs Start Kristiansand (Giàng A Sún)
+https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="y0or5jh8zegeqwz" tvg-name="GAIS vs Djurgardens" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 21:30 WIB | 06/04/26] GAIS vs Djurgardens",[LIVE 21:30 WIB | 06/04/26] GAIS vs Djurgardens (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="y0or5jh8zegeqwz" tvg-name="GAIS vs Djurgardens" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 21:30 WIB | 06/04/26] GAIS vs Djurgardens",[LIVE 21:30 WIB | 06/04/26] GAIS vs Djurgardens (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="jw2r09hk2oekrz8" tvg-name="St. Gallen vs FC Zurich" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 21:30 WIB | 06/04/26] St. Gallen vs FC Zurich",[LIVE 21:30 WIB | 06/04/26] St. Gallen vs FC Zurich (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="jw2r09hk2oekrz8" tvg-name="St. Gallen vs FC Zurich" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 21:30 WIB | 06/04/26] St. Gallen vs FC Zurich",[LIVE 21:30 WIB | 06/04/26] St. Gallen vs FC Zurich (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
