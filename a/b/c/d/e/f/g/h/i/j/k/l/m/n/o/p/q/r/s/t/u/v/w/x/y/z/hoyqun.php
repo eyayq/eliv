@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:57 WIB 07/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:57 WIB 07/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [02:06 WIB 07/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:06 WIB 07/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/203.png" group-title="Süper Lig",[00:00 WIB 07/04/26] Kocaelispor vs Başakşehir [FHD] [LIVE]
@@ -64,6 +64,87 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:00 WIB 07/04/26] Denver Nuggets vs Portland Trail Blazers [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[08:00 WIB 07/04/26] TRAN Dinh Manh/PHAM Thi Khanh vs Dhiren AYYAPPAN/Taabia KHAN [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[08:00 WIB 07/04/26] TRAN Dinh Manh/PHAM Thi Khanh vs Dhiren AYYAPPAN/Taabia KHAN [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[08:00 WIB 07/04/26] TRAN Dinh Manh/PHAM Thi Khanh vs Dhiren AYYAPPAN/Taabia KHAN [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[08:30 WIB 07/04/26] KIM Jae Hyeon/JANG Ha Jeong vs PHAM Van Truong/BUI Bich Phuong [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[08:30 WIB 07/04/26] KIM Jae Hyeon/JANG Ha Jeong vs PHAM Van Truong/BUI Bich Phuong [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[08:30 WIB 07/04/26] KIM Jae Hyeon/JANG Ha Jeong vs PHAM Van Truong/BUI Bich Phuong [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[09:00 WIB 07/04/26] NGUYEN Hai Dang vs Hein HTUT [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[09:00 WIB 07/04/26] NGUYEN Hai Dang vs Hein HTUT [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[09:00 WIB 07/04/26] NGUYEN Hai Dang vs Hein HTUT [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[10:00 WIB 07/04/26] PHAM Van Truong/BUI Bich Phuong vs Thulith PALLIYAGURU/Panchali ADHIKARI [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[10:00 WIB 07/04/26] PHAM Van Truong/BUI Bich Phuong vs Thulith PALLIYAGURU/Panchali ADHIKARI [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[10:00 WIB 07/04/26] PHAM Van Truong/BUI Bich Phuong vs Thulith PALLIYAGURU/Panchali ADHIKARI [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[10:30 WIB 07/04/26] Isuri ATTANAYAKE/Sithumi DE SILVA vs PHAM Thi Dieu Ly/PHAM Thi Khanh [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[10:30 WIB 07/04/26] Isuri ATTANAYAKE/Sithumi DE SILVA vs PHAM Thi Dieu Ly/PHAM Thi Khanh [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[10:30 WIB 07/04/26] Isuri ATTANAYAKE/Sithumi DE SILVA vs PHAM Thi Dieu Ly/PHAM Thi Khanh [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[12:00 WIB 07/04/26] TRAN Dinh Manh/PHAM Thi Khanh vs Kriston Jun Hao CHOO/Xiao En HENG [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[12:00 WIB 07/04/26] TRAN Dinh Manh/PHAM Thi Khanh vs Kriston Jun Hao CHOO/Xiao En HENG [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[12:00 WIB 07/04/26] TRAN Dinh Manh/PHAM Thi Khanh vs Kriston Jun Hao CHOO/Xiao En HENG [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[12:30 WIB 07/04/26] NGUYEN Hai Dang vs mahd SHAIKH [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[12:30 WIB 07/04/26] NGUYEN Hai Dang vs mahd SHAIKH [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[12:30 WIB 07/04/26] NGUYEN Hai Dang vs mahd SHAIKH [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[15:00 WIB 07/04/26] GUO Xin Wa/CHEN Fang Hui vs WU Guan Xun/LEE Chia Hsin [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[15:00 WIB 07/04/26] GUO Xin Wa/CHEN Fang Hui vs WU Guan Xun/LEE Chia Hsin [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[15:00 WIB 07/04/26] GUO Xin Wa/CHEN Fang Hui vs WU Guan Xun/LEE Chia Hsin [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[15:00 WIB 07/04/26] Dechapol PUAVARANUKROH/Supissara PAEWSAMPRAN vs Bobby SETIABUDI/Melati Daeva OKTAVIANTI [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[15:00 WIB 07/04/26] Dechapol PUAVARANUKROH/Supissara PAEWSAMPRAN vs Bobby SETIABUDI/Melati Daeva OKTAVIANTI [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[15:00 WIB 07/04/26] Dechapol PUAVARANUKROH/Supissara PAEWSAMPRAN vs Bobby SETIABUDI/Melati Daeva OKTAVIANTI [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:00 WIB 07/04/26] Melbourne City vs Central Coast Mariners [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
