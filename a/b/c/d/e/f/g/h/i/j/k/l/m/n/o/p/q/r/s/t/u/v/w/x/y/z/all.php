@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [15.45 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [15.55 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="zp5rzghg7kzvq82" tvg-name="Lazio U20 vs Napoli U20" tvg-logo="https://img.cdnok9.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png" group-title="[UPCO 16:00 WIB | 4m | 06/04/26] Lazio U20 vs Napoli U20",[UPCO 16:00 WIB | 4m | 06/04/26] Lazio U20 vs Napoli U20 (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="zp5rzghg7kzvq82" tvg-name="Lazio U20 vs Napoli U20" tvg-logo="https://img.cdnok9.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png" group-title="[UPCO 16:00 WIB | 4m | 06/04/26] Lazio U20 vs Napoli U20",[UPCO 16:00 WIB | 4m | 06/04/26] Lazio U20 vs Napoli U20 (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="965mkyhkkn5lr1g" tvg-name="FC Bekasi City vs Persekat Tegal" tvg-logo="https://img.cdnok9.com/football/competition/06565a2672fc1f85be8c44da526c3820.png" group-title="[LIVE 15:30 WIB | 06/04/26] FC Bekasi City vs Persekat Tegal",[LIVE 15:30 WIB | 06/04/26] FC Bekasi City vs Persekat Tegal (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="965mkyhkkn5lr1g" tvg-name="FC Bekasi City vs Persekat Tegal" tvg-logo="https://img.cdnok9.com/football/competition/06565a2672fc1f85be8c44da526c3820.png" group-title="[LIVE 15:30 WIB | 06/04/26] FC Bekasi City vs Persekat Tegal",[LIVE 15:30 WIB | 06/04/26] FC Bekasi City vs Persekat Tegal (Giàng A Choén)
@@ -33,19 +37,17 @@ https://auto.cdnok9.com/live/sd-6Mwdb2VB5wE6g4Ki76/playlist.m3u8
 https://auto.cdnok9.com/live/sd-6MwcqphmCYCoFZ2Dp8/playlist.m3u8
 #EXTINF:-1 tvg-id="l5ergph4dw27r8k" tvg-name="China U16 vs Peru U16" tvg-logo="https://img.cdnok9.com/football/competition/5dc1a78500873c212bdae9743c1f7833.png" group-title="[LIVE 15:30 WIB | 06/04/26] China U16 vs Peru U16",[LIVE 15:30 WIB | 06/04/26] China U16 vs Peru U16 (NHÀ ĐÀI)
 https://auto.cdnok9.com/live/sd-6MwdadhhfVJGJ6vqgx/playlist.m3u8
-#EXTINF:-1 tvg-id="zp5rzghg7kzvq82" tvg-name="Lazio U20 vs Napoli U20" tvg-logo="https://img.cdnok9.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png" group-title="[UPCO 16:00 WIB | 14m | 06/04/26] Lazio U20 vs Napoli U20",[UPCO 16:00 WIB | 14m | 06/04/26] Lazio U20 vs Napoli U20 (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="zp5rzghg7kzvq82" tvg-name="Lazio U20 vs Napoli U20" tvg-logo="https://img.cdnok9.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png" group-title="[UPCO 16:00 WIB | 14m | 06/04/26] Lazio U20 vs Napoli U20",[UPCO 16:00 WIB | 14m | 06/04/26] Lazio U20 vs Napoli U20 (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="x7lm7phjvkgjm2w" tvg-name="Akron Togliatti-2 vs Dinamo Barnaul" tvg-logo="https://img.cdnok9.com/football/competition/6d69860d9e4e8140fce94361b7729b10.png" group-title="[UPCO 17:00 WIB | 1j 14m | 06/04/26] Akron Togliatti-2 vs Dinamo Barnaul",[UPCO 17:00 WIB | 1j 14m | 06/04/26] Akron Togliatti-2 vs Dinamo Barnaul (NHÀ ĐÀI)
+#EXTINF:-1 tvg-id="x7lm7phjo13om2w" tvg-name="Wisla Krakow vs Gornik Leczna" tvg-logo="https://img.cdnok9.com/football/competition/32e02c7fa9bc570120e7f7f1f1525d23.png" group-title="[UPCO 16:30 WIB | 34m | 06/04/26] Wisla Krakow vs Gornik Leczna",[UPCO 16:30 WIB | 34m | 06/04/26] Wisla Krakow vs Gornik Leczna (NHÀ ĐÀI)
+https://auto.cdnok9.com/live/sd-6MuSrvjteLVFbyAFWL/playlist.m3u8
+#EXTINF:-1 tvg-id="x7lm7phjvkgjm2w" tvg-name="Akron Togliatti-2 vs Dinamo Barnaul" tvg-logo="https://img.cdnok9.com/football/competition/6d69860d9e4e8140fce94361b7729b10.png" group-title="[UPCO 17:00 WIB | 1j 4m | 06/04/26] Akron Togliatti-2 vs Dinamo Barnaul",[UPCO 17:00 WIB | 1j 4m | 06/04/26] Akron Togliatti-2 vs Dinamo Barnaul (NHÀ ĐÀI)
 https://auto.cdnok9.com/live/sd-6MwdaX82atpXeVXVDE/playlist.m3u8
-#EXTINF:-1 tvg-id="6ypq3nhv5jn2md7" tvg-name="Stal Rzeszow vs Odra Opole" tvg-logo="https://img.cdnok9.com/football/competition/32e02c7fa9bc570120e7f7f1f1525d23.png" group-title="[UPCO 17:00 WIB | 1j 14m | 06/04/26] Stal Rzeszow vs Odra Opole",[UPCO 17:00 WIB | 1j 14m | 06/04/26] Stal Rzeszow vs Odra Opole (NHÀ ĐÀI)
+#EXTINF:-1 tvg-id="6ypq3nhv5jn2md7" tvg-name="Stal Rzeszow vs Odra Opole" tvg-logo="https://img.cdnok9.com/football/competition/32e02c7fa9bc570120e7f7f1f1525d23.png" group-title="[UPCO 17:00 WIB | 1j 4m | 06/04/26] Stal Rzeszow vs Odra Opole",[UPCO 17:00 WIB | 1j 4m | 06/04/26] Stal Rzeszow vs Odra Opole (NHÀ ĐÀI)
 https://auto.cdnok9.com/live/sd-6MuSrvjtens23j5FM6/playlist.m3u8
-#EXTINF:-1 tvg-id="23xmvkh6wk5lqg8" tvg-name="Helmond Sport vs RKC Waalwijk" tvg-logo="https://img.cdnok9.com/football/competition/a808c778b477ba6dd32d5290b9d133cc.png" group-title="[UPCO 17:15 WIB | 1j 29m | 06/04/26] Helmond Sport vs RKC Waalwijk",[UPCO 17:15 WIB | 1j 29m | 06/04/26] Helmond Sport vs RKC Waalwijk (NHÀ ĐÀI)
+#EXTINF:-1 tvg-id="23xmvkh6wk5lqg8" tvg-name="Helmond Sport vs RKC Waalwijk" tvg-logo="https://img.cdnok9.com/football/competition/a808c778b477ba6dd32d5290b9d133cc.png" group-title="[UPCO 17:15 WIB | 1j 19m | 06/04/26] Helmond Sport vs RKC Waalwijk",[UPCO 17:15 WIB | 1j 19m | 06/04/26] Helmond Sport vs RKC Waalwijk (NHÀ ĐÀI)
 https://auto.cdnok9.com/live/sd-6MvY6kvSfXZL4CL3pG/playlist.m3u8
-#EXTINF:-1 tvg-id="8yomo4h10jgjq0j" tvg-name="Giugliano vs Crotone" tvg-logo="https://img.cdnok9.com/football/competition/ed94e6389456957de772c629b5338ac9.png" group-title="[UPCO 17:30 WIB | 1j 44m | 06/04/26] Giugliano vs Crotone",[UPCO 17:30 WIB | 1j 44m | 06/04/26] Giugliano vs Crotone (NHÀ ĐÀI)
+#EXTINF:-1 tvg-id="8yomo4h10jgjq0j" tvg-name="Giugliano vs Crotone" tvg-logo="https://img.cdnok9.com/football/competition/ed94e6389456957de772c629b5338ac9.png" group-title="[UPCO 17:30 WIB | 1j 34m | 06/04/26] Giugliano vs Crotone",[UPCO 17:30 WIB | 1j 34m | 06/04/26] Giugliano vs Crotone (NHÀ ĐÀI)
 https://auto.cdnok9.com/live/sd-6MuPtPmo8JWLKTQPik/playlist.m3u8
-#EXTINF:-1 tvg-id="y0or5jh8gdz7qwz" tvg-name="AS Sorrento Calcio vs Altamura" tvg-logo="https://img.cdnok9.com/football/competition/ed94e6389456957de772c629b5338ac9.png" group-title="[UPCO 17:30 WIB | 1j 44m | 06/04/26] AS Sorrento Calcio vs Altamura",[UPCO 17:30 WIB | 1j 44m | 06/04/26] AS Sorrento Calcio vs Altamura (NHÀ ĐÀI)
+#EXTINF:-1 tvg-id="y0or5jh8gdz7qwz" tvg-name="AS Sorrento Calcio vs Altamura" tvg-logo="https://img.cdnok9.com/football/competition/ed94e6389456957de772c629b5338ac9.png" group-title="[UPCO 17:30 WIB | 1j 34m | 06/04/26] AS Sorrento Calcio vs Altamura",[UPCO 17:30 WIB | 1j 34m | 06/04/26] AS Sorrento Calcio vs Altamura (NHÀ ĐÀI)
 https://auto.cdnok9.com/live/sd-6MuPtPmo8XhDYLMte8/playlist.m3u8
-#EXTINF:-1 tvg-id="6ypq3nhvlj3vmd7" tvg-name="Cesena vs SudTirol" tvg-logo="https://img.cdnok9.com/football/competition/aed17489efef04d8cbfc7ffaae36cef7.png" group-title="[UPCO 17:30 WIB | 1j 44m | 06/04/26] Cesena vs SudTirol",[UPCO 17:30 WIB | 1j 44m | 06/04/26] Cesena vs SudTirol (NHÀ ĐÀI)
+#EXTINF:-1 tvg-id="6ypq3nhvlj3vmd7" tvg-name="Cesena vs SudTirol" tvg-logo="https://img.cdnok9.com/football/competition/aed17489efef04d8cbfc7ffaae36cef7.png" group-title="[UPCO 17:30 WIB | 1j 34m | 06/04/26] Cesena vs SudTirol",[UPCO 17:30 WIB | 1j 34m | 06/04/26] Cesena vs SudTirol (NHÀ ĐÀI)
 https://auto.cdnok9.com/live/sd-6MuPtjNkDuhFGxYtui/playlist.m3u8
