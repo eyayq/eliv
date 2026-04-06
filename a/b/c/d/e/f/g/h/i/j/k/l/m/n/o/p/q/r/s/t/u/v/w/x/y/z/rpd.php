@@ -1,42 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [05.06 WIB 07/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [05.14 WIB 07/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-pereira-f127f8.png" group-title="[LIVE 03:30 WIB 07/04/26] Deportivo Pereira vs Alianza | Server 1",[LIVE 03:30 WIB 07/04/26] Deportivo Pereira vs Alianza | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1775516560-0-0-b0d462dc678e95ba2ad773444c5b5e24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1775517100-0-0-70841c59fff4eec569b73033a7962be9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-pereira-f127f8.png" group-title="[LIVE 03:30 WIB 07/04/26] Deportivo Pereira vs Alianza | Server 2",[LIVE 03:30 WIB 07/04/26] Deportivo Pereira vs Alianza | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1775516560-0-0-06112af7f1fe225a13487b53aeaab738
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1775517100-0-0-bac87c14bfee1828a7d15ed33fc51075
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-pereira-f127f8.png" group-title="[LIVE 03:30 WIB 07/04/26] Deportivo Pereira vs Alianza | Server 3",[LIVE 03:30 WIB 07/04/26] Deportivo Pereira vs Alianza | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1775516560-0-0-7dd1dfc5caa43c7b935b70a282587a70
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1775517100-0-0-24c758d4697ad08496aed27ca7666827
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-pereira-f127f8.png" group-title="[LIVE 03:30 WIB 07/04/26] Deportivo Pereira vs Alianza | Server 4",[LIVE 03:30 WIB 07/04/26] Deportivo Pereira vs Alianza | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1775516560-0-0-47887686ad465cbe4743e383f541624a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1775517100-0-0-21477c342234024d2590ee4051d7dccd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentinos-juniors-2a4f69.webp" group-title="[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 1",[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1775516560-0-0-1462827f08b4494ca0ba5d8aa0aedb8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1775517100-0-0-20e1e6b761db255b91c6c556124099c0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentinos-juniors-2a4f69.webp" group-title="[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 2",[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1775516560-0-0-d05b20c45b6b1cdbafbec896a118e8e8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1775517100-0-0-22272b19bc0edefb30efa4a1a1f8271f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentinos-juniors-2a4f69.webp" group-title="[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 3",[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1775516560-0-0-529686c14e8b7d282fce0d69d2e06ddd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1775517100-0-0-d0d6bac3eb20da0c4ef236467e93aa59
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentinos-juniors-2a4f69.webp" group-title="[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 4",[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1775516560-0-0-82592f3a5e473c640f454578461e3ccd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1775517100-0-0-967a56cad033690280750a4bfad1e8f3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentinos-juniors-2a4f69.webp" group-title="[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 5",[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1775516560-0-0-6a3c4b0a868b7085c0b14b4639e0d69a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1775517100-0-0-ae63bf7f8827e33ca465d6c986625ca5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentinos-juniors-2a4f69.webp" group-title="[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 6",[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1775516560-0-0-084764cd71a028c9bcef52bd763396f2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1775517100-0-0-3d0770893ddc0e973c371e5a36548a23
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentinos-juniors-2a4f69.webp" group-title="[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 7",[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1775516560-0-0-275a3ba50b197842ac46e4ff2d103de3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1775517100-0-0-a5ad3c51cd086389e0b1d341448a3205
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentinos-juniors-2a4f69.webp" group-title="[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 8",[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.9962.1259 Mobile Safari/537.36
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1775516560-0-0-1c154c492b2515d6397f2f84cae0186e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1775517100-0-0-bc6815e8c80aa6f32df80c0fa2ddf033
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentinos-juniors-2a4f69.webp" group-title="[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 9",[LIVE 05:00 WIB 07/04/26] Argentinos Juniors vs Banfield | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
  https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
