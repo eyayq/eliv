@@ -1,46 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.25 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.33 WIB 06/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Giàng A Mèo)
-https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Giàng A Mèo)
-https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Giàng A Kê)
-https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Giàng A Kê)
-https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="vjxm8ghe4n96r6o" tvg-name="Udinese vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 06/04/26] Udinese vs Como",[LIVE 17:30 WIB | 06/04/26] Udinese vs Como (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="1l4rjnh9xokwm7v" tvg-name="Bali United vs PSBS Biak Numfor" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:00 WIB | 06/04/26] Bali United vs PSBS Biak Numfor",[LIVE 19:00 WIB | 06/04/26] Bali United vs PSBS Biak Numfor (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="1l4rjnh9xokwm7v" tvg-name="Bali United vs PSBS Biak Numfor" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:00 WIB | 06/04/26] Bali United vs PSBS Biak Numfor",[LIVE 19:00 WIB | 06/04/26] Bali United vs PSBS Biak Numfor (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="vjxm8ghegdvjr6o" tvg-name="Millwall vs Norwich City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 19:00 WIB | 06/04/26] Millwall vs Norwich City",[LIVE 19:00 WIB | 06/04/26] Millwall vs Norwich City (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="vjxm8ghegdvjr6o" tvg-name="Millwall vs Norwich City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 19:00 WIB | 06/04/26] Millwall vs Norwich City",[LIVE 19:00 WIB | 06/04/26] Millwall vs Norwich City (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="dj2ryohlpkneq1z" tvg-name="Club Brugge vs Anderlecht" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 18:30 WIB | 06/04/26] Club Brugge vs Anderlecht",[LIVE 18:30 WIB | 06/04/26] Club Brugge vs Anderlecht (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="dj2ryohlpkneq1z" tvg-name="Club Brugge vs Anderlecht" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 18:30 WIB | 06/04/26] Club Brugge vs Anderlecht",[LIVE 18:30 WIB | 06/04/26] Club Brugge vs Anderlecht (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="1l4rjnh99pe6m7v" tvg-name="Namdhari FC vs Diamond Harbour FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 06/04/26] Namdhari FC vs Diamond Harbour FC",[LIVE 17:30 WIB | 06/04/26] Namdhari FC vs Diamond Harbour FC (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="1l4rjnh99pe6m7v" tvg-name="Namdhari FC vs Diamond Harbour FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 06/04/26] Namdhari FC vs Diamond Harbour FC",[LIVE 17:30 WIB | 06/04/26] Namdhari FC vs Diamond Harbour FC (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="x7lm7phj3wg0m2w" tvg-name="Vålerenga Fotball Elite vs Viking" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 19:30 WIB | 06/04/26] Vålerenga Fotball Elite vs Viking",[LIVE 19:30 WIB | 06/04/26] Vålerenga Fotball Elite vs Viking (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="x7lm7phj3wg0m2w" tvg-name="Vålerenga Fotball Elite vs Viking" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 19:30 WIB | 06/04/26] Vålerenga Fotball Elite vs Viking",[LIVE 19:30 WIB | 06/04/26] Vålerenga Fotball Elite vs Viking (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="965mkyhk8g3wr1g" tvg-name="Vejle vs Randers FC" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 19:00 WIB | 06/04/26] Vejle vs Randers FC",[LIVE 19:00 WIB | 06/04/26] Vejle vs Randers FC (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="965mkyhk8g3wr1g" tvg-name="Vejle vs Randers FC" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 19:00 WIB | 06/04/26] Vejle vs Randers FC",[LIVE 19:00 WIB | 06/04/26] Vejle vs Randers FC (Giàng A Húp)
@@ -53,11 +21,31 @@ https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="4wyrn4h6xkjoq86" tvg-name="Grasshopper vs FC Sion" tvg-logo="https://img.cdnok9.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png" group-title="[LIVE 19:00 WIB | 06/04/26] Grasshopper vs FC Sion",[LIVE 19:00 WIB | 06/04/26] Grasshopper vs FC Sion (Giàng A Sún)
 https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="x7lm7phj3wg0m2w" tvg-name="Vålerenga Fotball Elite vs Viking" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[UPCO 19:30 WIB | 4m | 06/04/26] Vålerenga Fotball Elite vs Viking",[UPCO 19:30 WIB | 4m | 06/04/26] Vålerenga Fotball Elite vs Viking (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="x7lm7phj3wg0m2w" tvg-name="Vålerenga Fotball Elite vs Viking" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[UPCO 19:30 WIB | 4m | 06/04/26] Vålerenga Fotball Elite vs Viking",[UPCO 19:30 WIB | 4m | 06/04/26] Vålerenga Fotball Elite vs Viking (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="dj2ryohlkw51q1z" tvg-name="Lecce vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 34m | 06/04/26] Lecce vs Atalanta",[UPCO 20:00 WIB | 34m | 06/04/26] Lecce vs Atalanta (Giàng A Khoai)
+#EXTINF:-1 tvg-id="1l4rjnh9xokwm7v" tvg-name="Bali United vs PSBS Biak Numfor" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:00 WIB | 06/04/26] Bali United vs PSBS Biak Numfor",[LIVE 19:00 WIB | 06/04/26] Bali United vs PSBS Biak Numfor (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="1l4rjnh9xokwm7v" tvg-name="Bali United vs PSBS Biak Numfor" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:00 WIB | 06/04/26] Bali United vs PSBS Biak Numfor",[LIVE 19:00 WIB | 06/04/26] Bali United vs PSBS Biak Numfor (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="vjxm8ghegdvjr6o" tvg-name="Millwall vs Norwich City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 19:00 WIB | 06/04/26] Millwall vs Norwich City",[LIVE 19:00 WIB | 06/04/26] Millwall vs Norwich City (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="vjxm8ghegdvjr6o" tvg-name="Millwall vs Norwich City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 19:00 WIB | 06/04/26] Millwall vs Norwich City",[LIVE 19:00 WIB | 06/04/26] Millwall vs Norwich City (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="dj2ryohlpkneq1z" tvg-name="Club Brugge vs Anderlecht" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 18:30 WIB | 06/04/26] Club Brugge vs Anderlecht",[LIVE 18:30 WIB | 06/04/26] Club Brugge vs Anderlecht (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="dj2ryohlpkneq1z" tvg-name="Club Brugge vs Anderlecht" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 18:30 WIB | 06/04/26] Club Brugge vs Anderlecht",[LIVE 18:30 WIB | 06/04/26] Club Brugge vs Anderlecht (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="dj2ryohlkw51q1z" tvg-name="Lecce vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta",[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="dj2ryohlkw51q1z" tvg-name="Lecce vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta",[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="dj2ryohlkw51q1z" tvg-name="Lecce vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta",[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta (Giàng A Mèo)
+https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="dj2ryohlkw51q1z" tvg-name="Lecce vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta",[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta (Giàng A Mèo)
+https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="dj2ryohlkw51q1z" tvg-name="Lecce vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta",[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta (Giàng A Rùa)
+https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="dj2ryohlkw51q1z" tvg-name="Lecce vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta",[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta (Giàng A Rùa)
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="dj2ryohlkw51q1z" tvg-name="Lecce vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta",[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta (Giàng A Khoai)
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="dj2ryohlkw51q1z" tvg-name="Lecce vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 34m | 06/04/26] Lecce vs Atalanta",[UPCO 20:00 WIB | 34m | 06/04/26] Lecce vs Atalanta (Giàng A Khoai)
+#EXTINF:-1 tvg-id="dj2ryohlkw51q1z" tvg-name="Lecce vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta",[UPCO 20:00 WIB | 25m | 06/04/26] Lecce vs Atalanta (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
