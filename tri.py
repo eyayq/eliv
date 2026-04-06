@@ -123,7 +123,7 @@ while True:
             trigger_workflow(wf)
 
             
-            time.sleep(7)
+            time.sleep(5)
 
             run_id = get_latest_run(wf)
 
