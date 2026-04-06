@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V7: [13:59 WIB 06/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V7: [13:59 WIB 06/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V7: [14:08 WIB 06/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V7: [14:08 WIB 06/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 06/04/26] Persik Kediri vs Persijap [FHD] [NANTIKAN]
@@ -182,6 +182,33 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/94.png" group-title="Primeira Liga",[02:45 WIB 07/04/26] Casa Pia vs Benfica [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/128.png" group-title="Liga Profesional Argentina",[07:15 WIB 07/04/26] Instituto Cordoba vs Defensa Y Justicia [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/128.png" group-title="Liga Profesional Argentina",[07:15 WIB 07/04/26] Instituto Cordoba vs Defensa Y Justicia [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/128.png" group-title="Liga Profesional Argentina",[07:15 WIB 07/04/26] Instituto Cordoba vs Defensa Y Justicia [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:00 WIB 07/04/26] Melbourne City vs Central Coast Mariners [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:00 WIB 07/04/26] Melbourne City vs Central Coast Mariners [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:00 WIB 07/04/26] Melbourne City vs Central Coast Mariners [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/204.png" group-title="1. Lig",[18:30 WIB 07/04/26] Hatayspor vs Adana Demirspor [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/204.png" group-title="1. Lig",[18:30 WIB 07/04/26] Hatayspor vs Adana Demirspor [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/204.png" group-title="1. Lig",[18:30 WIB 07/04/26] Hatayspor vs Adana Demirspor [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 07/04/26] Vietnam U20 W vs Bangladesh U20 W [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 
@@ -190,3 +217,30 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 07/04/26] Vietnam U20 W vs Bangladesh U20 W [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 07/04/26] Thailand U20 W vs China PR U20 W [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 07/04/26] Thailand U20 W vs China PR U20 W [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 07/04/26] Thailand U20 W vs China PR U20 W [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 07/04/26] Chennaiyin vs Inter Kashi [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 07/04/26] Chennaiyin vs Inter Kashi [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 07/04/26] Chennaiyin vs Inter Kashi [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[22:00 WIB 07/04/26] Krylia Sovetov vs CSKA Moscow [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[22:00 WIB 07/04/26] Krylia Sovetov vs CSKA Moscow [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[22:00 WIB 07/04/26] Krylia Sovetov vs CSKA Moscow [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
