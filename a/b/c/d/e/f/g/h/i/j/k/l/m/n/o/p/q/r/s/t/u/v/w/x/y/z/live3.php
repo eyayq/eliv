@@ -1,26 +1,26 @@
 #EXTM3U
-# Generated Mon Apr  6 17:05:25 2026
+# Generated Mon Apr  6 17:05:58 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 07-04-2026 00:05:10 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 07-04-2026 00:05:42 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 PKO Bank Polski EKSTRAKLASA 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png",📁😈Pogon Szczecin😈 [🆚] 😈Legia Warszawa [LIVE]😈📁
 https://bf.jalaplay.net/live/5005074.m3u8?txSecret=48ffa37ff178676af09ef7dcd54ca281&txTime=69d3dc5e
 #EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
-https://bf.jalaplay.net/live/5004470.m3u8?txSecret=5ea9c32301389ae813af4d084673711b&txTime=69d3e679
-#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
-https://bf.jalaplay.net/live/5004980.m3u8?txSecret=77b6557dbcea2a51567b025e6c806732&txTime=69d3dfe8
-#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
-https://bf.jalaplay.net/live/322677.m3u8?txSecret=1bcfa959d9d9f47b0f916eb021e7cfb5&txTime=69d3e613
-#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
 https://bf.jalaplay.net/live/322720.m3u8?txSecret=31beaa3736390d746298946a8346c627&txTime=69d3e56b
-#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
-https://bf.jalaplay.net/live/5004993.m3u8?txSecret=acc792cff43de31560a807b186a94a0e&txTime=69d3e07f
-#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
-https://bf.jalaplay.net/live/5004994.m3u8?txSecret=d0311482a9c5d2795f06678845032143&txTime=69d3e63d
 #EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
 https://bf.jalaplay.net/live/5004447.m3u8?txSecret=0e454b448d88002477c0f6512cd2a20f&txTime=69d3db45
 #EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
+https://bf.jalaplay.net/live/5004980.m3u8?txSecret=77b6557dbcea2a51567b025e6c806732&txTime=69d3dfe8
+#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
+https://bf.jalaplay.net/live/5004470.m3u8?txSecret=5ea9c32301389ae813af4d084673711b&txTime=69d3e679
+#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
 https://bf.jalaplay.net/live/5005018.m3u8?txSecret=81fd2e3d2d86df912977d0251cbbe793&txTime=69d3de56
+#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
+https://bf.jalaplay.net/live/5004994.m3u8?txSecret=d0311482a9c5d2795f06678845032143&txTime=69d3e63d
+#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
+https://bf.jalaplay.net/live/5004993.m3u8?txSecret=acc792cff43de31560a807b186a94a0e&txTime=69d3e07f
+#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Juventus😈 [🆚] 😈Genoa [LIVE]😈📁
+https://bf.jalaplay.net/live/322677.m3u8?txSecret=1bcfa959d9d9f47b0f916eb021e7cfb5&txTime=69d3e613
 #EXTINF:-1 group-title="📁😈 Danish Superliga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png",📁😈Viborg😈 [🆚] 😈Aarhus AGF [LIVE]😈📁
 https://bf.jalaplay.net/live/322673.m3u8?txSecret=ffa68efecaadab1ec45812ce13e79335&txTime=69d3db07
 #EXTINF:-1 group-title="📁😈 Danish Superliga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png",📁😈Viborg😈 [🆚] 😈Aarhus AGF [LIVE]😈📁
@@ -30,9 +30,9 @@ https://bf.jalaplay.net/live/5005029.m3u8?txSecret=3ee51d20f238dd372eba951fae585
 #EXTINF:-1 group-title="📁😈 English Football League Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/349caefc8ea220e4e840776502a67d90.png",📁😈Swansea City😈 [🆚] 😈Middlesbrough [LIVE]😈📁
 https://bf.jalaplay.net/live/5005010.m3u8?txSecret=7463bb84efef0269c557f21b92927cf8&txTime=69d3db51
 #EXTINF:-1 group-title="📁😈 Russian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d4d461679eedfed50374d47d84431ef3.png",📁😈FC Sochi😈 [🆚] 😈Rubin Kazan [LIVE]😈📁
-https://bf.jalaplay.net/live/322717.m3u8?txSecret=87c4e9e7919eae6a065b0e4cd6a3bf91&txTime=69d3e470
-#EXTINF:-1 group-title="📁😈 Russian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d4d461679eedfed50374d47d84431ef3.png",📁😈FC Sochi😈 [🆚] 😈Rubin Kazan [LIVE]😈📁
 https://bf.jalaplay.net/live/5004475.m3u8?txSecret=5ece21bc554553e18d7e33ad81b2cd56&txTime=69d3e322
+#EXTINF:-1 group-title="📁😈 Russian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d4d461679eedfed50374d47d84431ef3.png",📁😈FC Sochi😈 [🆚] 😈Rubin Kazan [LIVE]😈📁
+https://bf.jalaplay.net/live/322717.m3u8?txSecret=87c4e9e7919eae6a065b0e4cd6a3bf91&txTime=69d3e470
 #EXTINF:-1 group-title="📁😈 Belgian Pro League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/66b24b09759356277ac913d6f2589f26.png",📁😈KAA Gent😈 [🆚] 😈KV Mechelen [LIVE]😈📁
 https://bf.jalaplay.net/live/322708.m3u8?txSecret=49916474540fb6f49237c6db9cf08f02&txTime=69d3daab
 #EXTINF:-1 group-title="📁😈 Spanish Segunda Division 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png",📁😈Castellon😈 [🆚] 😈Granada CF [LIVE]😈📁
