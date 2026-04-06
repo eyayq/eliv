@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁11:35:09 06-04-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁11:43:37 06-04-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Mexico Liga MX Femenil📁00:00:00📁",📁Mazatlan FC Women vs Saint Louis Athletica Women📁06-04-2026 11:35:05 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Mexico Liga MX Femenil📁00:00:00📁",📁Mazatlan FC Women vs Saint Louis Athletica Women📁06-04-2026 11:43:32 WIB📁00:00:00📁
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia New South Wales Premier League📁00:00:00📁",📁Sydney United 58 FC vs Marconi Stallions📁06-04-2026 11:35:05 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia New South Wales Women's League📁00:00:00📁",📁Maca Searle Women vs Hills United (W)📁06-04-2026 11:43:32 WIB📁00:00:00📁
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia New South Wales Premier League📁00:00:00📁",📁Sydney United 58 FC vs Marconi Stallions📁06-04-2026 11:43:32 WIB📁00:00:00📁
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
