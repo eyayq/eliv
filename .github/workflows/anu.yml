@@ -1,7 +1,7 @@
-name: Runtri
+name: Auntri
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # manual trigger, tidak perlu branches
   schedule:
     - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
 
@@ -15,16 +15,22 @@ jobs:
     timeout-minutes: 360
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: bhns0   
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install requests
+      - name: Install Dependencies
+        run: pip install requests
 
       - name: Run Tri Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python tri.py
+        
