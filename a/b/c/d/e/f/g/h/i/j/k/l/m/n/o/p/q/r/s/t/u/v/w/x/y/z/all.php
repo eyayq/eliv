@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.16 WIB 08/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.24 WIB 08/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="69d5920d18749ec3d3a6449b" tvg-name="Real Madrid vs Bayen Munchen" tvg-logo="" group-title="[UPCO 23:59 WIB | 17j 34m | 08/04/26] Real Madrid vs Bayen Munchen",[UPCO 23:59 WIB | 17j 34m | 08/04/26] Real Madrid vs Bayen Munchen (Giàng A Kê)
+https://hls.686868.me/live/ARuoiBLV/index.m3u8?expire=1890828060&sign=15d2f0ab2004d2e15ffc8144cce5a700
+#EXTINF:-1 tvg-id="69d5920d18749ec3d3a6449b" tvg-name="Real Madrid vs Bayen Munchen" tvg-logo="" group-title="[UPCO 23:59 WIB | 17j 34m | 08/04/26] Real Madrid vs Bayen Munchen",[UPCO 23:59 WIB | 17j 34m | 08/04/26] Real Madrid vs Bayen Munchen (Giàng A Kê)
+https://flv.686868.me/live/ARuoiBLV.flv?expire=1890828060&sign=15d2f0ab2004d2e15ffc8144cce5a700
 #EXTINF:-1 tvg-id="318q66hx8ek2qo9" tvg-name="Independiente Rivadavia vs Bolivar" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 05:00 WIB | 08/04/26] Independiente Rivadavia vs Bolivar",[LIVE 05:00 WIB | 08/04/26] Independiente Rivadavia vs Bolivar (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="318q66hx8ek2qo9" tvg-name="Independiente Rivadavia vs Bolivar" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 05:00 WIB | 08/04/26] Independiente Rivadavia vs Bolivar",[LIVE 05:00 WIB | 08/04/26] Independiente Rivadavia vs Bolivar (Giàng A Páo)
