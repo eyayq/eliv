@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:28 WIB 07/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:28 WIB 07/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:47 WIB 07/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:47 WIB 07/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 07/04/26] Liaoning vs Fujian  [FHD] [LIVE]
@@ -10,24 +10,6 @@ https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 07/04/26] Liaoning vs Fujian  [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[19:30 WIB 07/04/26] Carlos Alcaraz vs Sebastian Baez [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[19:30 WIB 07/04/26] Carlos Alcaraz vs Sebastian Baez [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[19:30 WIB 07/04/26] Carlos Alcaraz vs Sebastian Baez [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[19:30 WIB 07/04/26] Alexei Popyrin vs Casper Ruud [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[19:30 WIB 07/04/26] Alexei Popyrin vs Casper Ruud [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[19:30 WIB 07/04/26] Alexei Popyrin vs Casper Ruud [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 07/04/26] Vietnam U20 W vs Bangladesh U20 W [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
@@ -57,22 +39,22 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[20:30 WIB 07/04/26] Cameron Norrie vs Alex de Minaur [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[20:30 WIB 07/04/26] Cameron Norrie vs Alex de Minaur [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[20:30 WIB 07/04/26] Cameron Norrie vs Alex de Minaur [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 07/04/26] Chennaiyin vs Inter Kashi [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 07/04/26] Chennaiyin vs Inter Kashi [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[20:30 WIB 07/04/26] Cameron Norrie vs Alex de Minaur [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 07/04/26] Chennaiyin vs Inter Kashi [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[20:30 WIB 07/04/26] Cameron Norrie vs Alex de Minaur [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 07/04/26] Chennaiyin vs Inter Kashi [FHD] [LIVE]
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 07/04/26] Chennaiyin vs Inter Kashi [HD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 07/04/26] Chennaiyin vs Inter Kashi [SD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[22:00 WIB 07/04/26] Krylia Sovetov vs CSKA Moscow [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
@@ -290,6 +272,15 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[23:45 WIB 08/04/26] SC Braga vs Real Betis [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="VĐQG Thổ Nhĩ Kì",[00:00 WIB 09/04/26]  Galatasaray vs goztepe [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="VĐQG Thổ Nhĩ Kì",[00:00 WIB 09/04/26]  Galatasaray vs goztepe [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="VĐQG Thổ Nhĩ Kì",[00:00 WIB 09/04/26]  Galatasaray vs goztepe [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 09/04/26] Al-Hilal Saudi FC vs Al Kholood [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
 
@@ -298,6 +289,15 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 09/04/26] Al-Hilal Saudi FC vs Al Kholood [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 09/04/26] Al-Ittihad FC vs NEOM [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 09/04/26] Al-Ittihad FC vs NEOM [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 09/04/26] Al-Ittihad FC vs NEOM [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 09/04/26] Barcelona vs Atletico Madrid [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
@@ -343,6 +343,69 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[05:00 WIB 09/04/26] Deportivo Cuenca vs Santos [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="Conmebol Libertadores",[07:30 WIB 09/04/26] Atletico Junior vs Palmeiras [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="Conmebol Libertadores",[07:30 WIB 09/04/26] Atletico Junior vs Palmeiras [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="Conmebol Libertadores",[07:30 WIB 09/04/26] Atletico Junior vs Palmeiras [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[10:00 WIB 09/04/26] Toluca vs Los Angeles Galaxy [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[10:00 WIB 09/04/26] Toluca vs Los Angeles Galaxy [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[10:00 WIB 09/04/26] Toluca vs Los Angeles Galaxy [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/1e/AFC_Challenge_League_logo.svg/1269px-AFC_Challenge_League_logo.svg.png" group-title="AFC Challenge League",[19:00 WIB 09/04/26] Svay Rieng vs Manila Digger [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/1e/AFC_Challenge_League_logo.svg/1269px-AFC_Challenge_League_logo.svg.png" group-title="AFC Challenge League",[19:00 WIB 09/04/26] Svay Rieng vs Manila Digger [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/1e/AFC_Challenge_League_logo.svg/1269px-AFC_Challenge_League_logo.svg.png" group-title="AFC Challenge League",[19:00 WIB 09/04/26] Svay Rieng vs Manila Digger [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[19:30 WIB 09/04/26] Lokomotiv Sofia vs Beroe [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[19:30 WIB 09/04/26] Lokomotiv Sofia vs Beroe [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[19:30 WIB 09/04/26] Lokomotiv Sofia vs Beroe [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 09/04/26] Jamshedpur vs Mumbai City [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 09/04/26] Jamshedpur vs Mumbai City [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 09/04/26] Jamshedpur vs Mumbai City [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 09/04/26] Ludogorets vs Cherno More Varna [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 09/04/26] Ludogorets vs Cherno More Varna [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 09/04/26] Ludogorets vs Cherno More Varna [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:00 WIB 09/04/26] Damac vs Al-Qadisiyah FC [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:00 WIB 09/04/26] Damac vs Al-Qadisiyah FC [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:00 WIB 09/04/26] Damac vs Al-Qadisiyah FC [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[23:45 WIB 09/04/26] Rayo Vallecano vs AEK Athens FC [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
