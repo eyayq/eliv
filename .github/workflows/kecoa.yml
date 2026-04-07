@@ -39,6 +39,17 @@ jobs:
           pip install aiohttp playwright
 
       # =========================
+      # CACHE PLAYWRIGHT BROWSERS
+      # =========================
+      - name: Cache Playwright Browsers
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('**/kecoa.py') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
+            
+      # =========================
       # INSTALL PLAYWRIGHT BROWSER (WAJIB)
       # =========================
       - name: Install Playwright Browsers
