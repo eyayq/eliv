@@ -24,11 +24,11 @@ WORKFLOW_LIST = [
     "hh.yml", "kk.yml",
     "jj.yml", "ii.yml",
     "pl.yml", "z.yml",
-    "lve1.yml", "auto.yml",
+    "lve1.yml",
     "cucen.yml", "rpd.yml",
     "all.yml", "kecoa.yml",
     "gvng.yml", "hoyqun.yml",
-    "z.yml", "lve1.yml"
+    "z.yml", "lve1.yml",
 ]
 
 # 👉
@@ -108,7 +108,7 @@ def wait_run_finish(run_id):
         if status == "completed":
             return
 
-        time.sleep(2)
+        time.sleep(3)
 
 
 while True:
