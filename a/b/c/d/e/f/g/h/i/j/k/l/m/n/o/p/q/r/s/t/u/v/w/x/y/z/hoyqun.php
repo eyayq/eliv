@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:53 WIB 08/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:53 WIB 08/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:01 WIB 08/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:01 WIB 08/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[16:30 WIB 08/04/26] VÔ ĐỊCH CHÂU  [FHD] [LIVE]
@@ -10,15 +10,6 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[16:30 WIB 08/04/26] VÔ ĐỊCH CHÂU  [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/18.png" group-title="AFC Cup",[17:00 WIB 08/04/26] Gamba Osaka vs Bangkok United [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/18.png" group-title="AFC Cup",[17:00 WIB 08/04/26] Gamba Osaka vs Bangkok United [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/18.png" group-title="AFC Cup",[17:00 WIB 08/04/26] Gamba Osaka vs Bangkok United [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[17:30 WIB 08/04/26] Cristian Garin vs Alexander Zverev [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
@@ -164,13 +155,13 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 09/04/26] Paris Saint Germain vs Liverpool [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 09/04/26] Paris Saint Germain vs Liverpool [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( ĐẦU CẦU LIVER )",[02:00 WIB 09/04/26] Paris Saint Germain vs Liverpool [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 09/04/26] Paris Saint Germain vs Liverpool [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( ĐẦU CẦU LIVER )",[02:00 WIB 09/04/26] Paris Saint Germain vs Liverpool [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 09/04/26] Paris Saint Germain vs Liverpool [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( ĐẦU CẦU LIVER )",[02:00 WIB 09/04/26] Paris Saint Germain vs Liverpool [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[05:00 WIB 09/04/26] Deportivo Cuenca vs Santos [FHD] [NANTIKAN]
@@ -246,13 +237,13 @@ https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/1e/AFC_Challenge_League_logo.svg/1269px-AFC_Challenge_League_logo.svg.png" group-title="AFC Challenge League",[19:00 WIB 09/04/26] Svay Rieng vs Manila Digger [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/1e/AFC_Challenge_League_logo.svg/1269px-AFC_Challenge_League_logo.svg.png" group-title="AFC Challenge League",[19:00 WIB 09/04/26] Svay Rieng vs Manila Digger [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/1e/AFC_Challenge_League_logo.svg/1269px-AFC_Challenge_League_logo.svg.png" group-title="AFC Challenge League",[19:00 WIB 09/04/26] Svay Rieng vs Manila Digger [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[19:30 WIB 09/04/26] Lokomotiv Sofia vs Beroe [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
