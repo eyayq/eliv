@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 23:00:54 WIB 08-04-2026
+# ⏰ Latest Updated: 23:01:25 WIB 08-04-2026
 # 🔄 Total Channels: 2196
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [23:00:54 WIB 08-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [23:01:25 WIB 08-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -420,18 +420,6 @@ https://live.alilicloud.com/live/a4722495ffad6b2b20da1b596dddccdf/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ddc3097e3baaefd32c9936557dbd0ab4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260407/b6c744e8ea7fca88e65c6f3510102d94.png" group-title="Live Event: socolive",06:00 ngay 09/04 Orlando Magic vs Minnesota Timberwolves [BRIAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1775691341-0-0-386fed867b36c788738ca105ab1f11d6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260407/b6c744e8ea7fca88e65c6f3510102d94.png" group-title="Live Event: socolive",06:00 ngay 09/04 Orlando Magic vs Minnesota Timberwolves [BRIAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1775691341-0-0-bc47e674325c8c37791a541e4fd4ba30
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260407/b6c744e8ea7fca88e65c6f3510102d94.png" group-title="Live Event: socolive",06:00 ngay 09/04 Orlando Magic vs Minnesota Timberwolves [BRIAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1775691341-0-0-9590d738780698d2f732777e56dbc264
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260407/b6c744e8ea7fca88e65c6f3510102d94.png" group-title="Live Event: socolive",06:00 ngay 09/04 Orlando Magic vs Minnesota Timberwolves [BRIAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1775691341-0-0-2a8db2131b39cc5b51fcf14a8dff1fb5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260406/921a01d1cb50d5f07491471e80d7d71e.png" group-title="Live Event: socolive",05:00 ngay 09/04 Mirassol vs Club Atletico Lanus [THACH TU] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=8270a5aa346f856becb9a53ad488f7ae&txTime=69d72e05
@@ -636,6 +624,18 @@ https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=1ac2b962f71f9aec802
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260407/da20984349beb6ab0d2c91d0ca880b24.png" group-title="Live Event: socolive",06:00 ngay 09/04 Cleveland Cavaliers vs Atlanta Hawks [CHAN SENA] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=323381e24f823d6ee854c3da1f92286a&txTime=69d72f6d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260407/b6c744e8ea7fca88e65c6f3510102d94.png" group-title="Live Event: socolive",06:00 ngay 09/04 Orlando Magic vs Minnesota Timberwolves [BRIAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1775692421-0-0-aceccea8726233cf5b0087ec80cb79c5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260407/b6c744e8ea7fca88e65c6f3510102d94.png" group-title="Live Event: socolive",06:00 ngay 09/04 Orlando Magic vs Minnesota Timberwolves [BRIAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1775692421-0-0-e70c033a75034a680fa7c687d5f1288e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260407/b6c744e8ea7fca88e65c6f3510102d94.png" group-title="Live Event: socolive",06:00 ngay 09/04 Orlando Magic vs Minnesota Timberwolves [BRIAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1775692421-0-0-8939f34587eaa8ace1e3c6d93619f032
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260407/b6c744e8ea7fca88e65c6f3510102d94.png" group-title="Live Event: socolive",06:00 ngay 09/04 Orlando Magic vs Minnesota Timberwolves [BRIAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1775692421-0-0-3b8c4f3e90f79d5320b12eb69a1b365b
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1154.png" group-title="Live Event: Hội quán",05:00 09/04 Deportivo Cuenca vs Santos FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
