@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:17 WIB 08/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:17 WIB 08/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [15:36 WIB 08/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:36 WIB 08/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[08:00 WIB 08/04/26] Trần Đình Mạnh/Phạm Thị Khánh vs Yuichi SHIMOGAMI / Sayaka HOBARA [FHD] [LIVE]
@@ -29,31 +29,31 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/765.png" group-title="PFL",[14:00 WIB 08/04/26] Philippine Army vs Kaya [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[16:00 WIB 08/04/26] Japan U20 W vs Australia U20 W [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[16:00 WIB 08/04/26] Japan U20 W vs Australia U20 W [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[16:00 WIB 08/04/26] Japan U20 W vs Australia U20 W [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[16:00 WIB 08/04/26] Japan U20 W vs Australia U20 W [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[16:00 WIB 08/04/26] Japan U20 W vs Australia U20 W [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[16:00 WIB 08/04/26] Japan U20 W vs Australia U20 W [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Daniil Medvedev vs Matteo Berrettini [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Daniil Medvedev vs Matteo Berrettini [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Daniil Medvedev vs Matteo Berrettini [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Daniil Medvedev vs Matteo Berrettini [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Daniil Medvedev vs Matteo Berrettini [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Daniil Medvedev vs Matteo Berrettini [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Andrey Rublev vs Zizou Bergs [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Andrey Rublev vs Zizou Bergs [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Andrey Rublev vs Zizou Bergs [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Andrey Rublev vs Zizou Bergs [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Andrey Rublev vs Zizou Bergs [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 08/04/26] Andrey Rublev vs Zizou Bergs [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[16:30 WIB 08/04/26] Tochigi SC vs Vanraure Hachinohe [FHD] [NANTIKAN]
