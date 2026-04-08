@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [20.05 WIB 08/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [20.14 WIB 08/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="vjxm8ghe0825r6o" tvg-name="Chonburi FC vs Port FC" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC",[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="vjxm8ghe0825r6o" tvg-name="Chonburi FC vs Port FC" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC",[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="vjxm8ghe0825r6o" tvg-name="Chonburi FC vs Port FC" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC",[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="vjxm8ghe0825r6o" tvg-name="Chonburi FC vs Port FC" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC",[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="vjxm8ghe0825r6o" tvg-name="Chonburi FC vs Port FC" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC",[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="vjxm8ghe0825r6o" tvg-name="Chonburi FC vs Port FC" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC",[LIVE 19:00 WIB | 08/04/26] Chonburi FC vs Port FC (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="4jwq2ghng76zm0v" tvg-name="Cebrayil vs PFK Zaqatala" tvg-logo="https://img.cdnok9.com/football/competition/037cb5cd1380d9d8506dec3f712e749f.png" group-title="[LIVE 18:30 WIB | 08/04/26] Cebrayil vs PFK Zaqatala",[LIVE 18:30 WIB | 08/04/26] Cebrayil vs PFK Zaqatala (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="4jwq2ghng76zm0v" tvg-name="Cebrayil vs PFK Zaqatala" tvg-logo="https://img.cdnok9.com/football/competition/037cb5cd1380d9d8506dec3f712e749f.png" group-title="[LIVE 18:30 WIB | 08/04/26] Cebrayil vs PFK Zaqatala",[LIVE 18:30 WIB | 08/04/26] Cebrayil vs PFK Zaqatala (Giàng A Choén)
@@ -29,14 +29,14 @@ https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="dj2ryohlxk97q1z" tvg-name="North Korea Women U20 vs South Korea Women U20" tvg-logo="https://img.cdnok9.com/football/competition/2d5c97d98c8ae3dd0af77970e4cbc06a.png" group-title="[LIVE 20:00 WIB | 08/04/26] North Korea Women U20 vs South Korea Women U20",[LIVE 20:00 WIB | 08/04/26] North Korea Women U20 vs South Korea Women U20 (Giàng A Chiến)
 https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="3glrw7hn9ylpqdy" tvg-name="Buriram United vs BG Pathum United" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United",[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="3glrw7hn9ylpqdy" tvg-name="Buriram United vs BG Pathum United" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United",[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="3glrw7hn9ylpqdy" tvg-name="Buriram United vs BG Pathum United" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United",[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="3glrw7hn9ylpqdy" tvg-name="Buriram United vs BG Pathum United" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United",[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-id="3glrw7hn9ylpqdy" tvg-name="Buriram United vs BG Pathum United" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United",[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="3glrw7hn9ylpqdy" tvg-name="Buriram United vs BG Pathum United" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United",[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="3glrw7hn9ylpqdy" tvg-name="Buriram United vs BG Pathum United" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United",[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="3glrw7hn9ylpqdy" tvg-name="Buriram United vs BG Pathum United" tvg-logo="https://img.cdnok9.com/football/competition/6b2dff569b6aabac57cf11a5279b4ccf.png" group-title="[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United",[LIVE 19:00 WIB | 08/04/26] Buriram United vs BG Pathum United (Giàng A Rùa)
@@ -49,7 +49,7 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="4wyrn4h6xw5gq86" tvg-name="FK Kokand 1912 vs Nasaf Qarshi" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 20:00 WIB | 08/04/26] FK Kokand 1912 vs Nasaf Qarshi",[LIVE 20:00 WIB | 08/04/26] FK Kokand 1912 vs Nasaf Qarshi (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="jw2r09hk53dxrz8" tvg-name="Sassuolo U20 vs Atalanta U20" tvg-logo="https://img.cdnok9.com/football/competition/7b2eee2e5baa916c5a6f2e0e53f11075.png" group-title="[UPCO 21:00 WIB | 54m | 08/04/26] Sassuolo U20 vs Atalanta U20",[UPCO 21:00 WIB | 54m | 08/04/26] Sassuolo U20 vs Atalanta U20 (Giàng A Gấu)
+#EXTINF:-1 tvg-id="jw2r09hk53dxrz8" tvg-name="Sassuolo U20 vs Atalanta U20" tvg-logo="https://img.cdnok9.com/football/competition/7b2eee2e5baa916c5a6f2e0e53f11075.png" group-title="[UPCO 21:00 WIB | 45m | 08/04/26] Sassuolo U20 vs Atalanta U20",[UPCO 21:00 WIB | 45m | 08/04/26] Sassuolo U20 vs Atalanta U20 (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="jw2r09hk53dxrz8" tvg-name="Sassuolo U20 vs Atalanta U20" tvg-logo="https://img.cdnok9.com/football/competition/7b2eee2e5baa916c5a6f2e0e53f11075.png" group-title="[UPCO 21:00 WIB | 54m | 08/04/26] Sassuolo U20 vs Atalanta U20",[UPCO 21:00 WIB | 54m | 08/04/26] Sassuolo U20 vs Atalanta U20 (Giàng A Gấu)
+#EXTINF:-1 tvg-id="jw2r09hk53dxrz8" tvg-name="Sassuolo U20 vs Atalanta U20" tvg-logo="https://img.cdnok9.com/football/competition/7b2eee2e5baa916c5a6f2e0e53f11075.png" group-title="[UPCO 21:00 WIB | 45m | 08/04/26] Sassuolo U20 vs Atalanta U20",[UPCO 21:00 WIB | 45m | 08/04/26] Sassuolo U20 vs Atalanta U20 (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
