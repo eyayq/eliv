@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.11 WIB 09/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.26 WIB 09/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Mèo)
-https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Mèo)
-https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Mèo)
+https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Mèo)
+https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Khoai)
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Khoai)
@@ -25,6 +21,10 @@ https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Chiến)
 https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Rùa)
+https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Rùa)
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="x7lm7phjxyg3m2w" tvg-name="FC Barcelona vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] FC Barcelona vs Atletico Madrid",[LIVE 02:00 WIB | 09/04/26] FC Barcelona vs Atletico Madrid (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="x7lm7phjxyg3m2w" tvg-name="FC Barcelona vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] FC Barcelona vs Atletico Madrid",[LIVE 02:00 WIB | 09/04/26] FC Barcelona vs Atletico Madrid (Giàng A Kê)
