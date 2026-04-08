@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.55 WIB 09/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.03 WIB 09/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="y0or5jh89yxnqwz" tvg-name="Paris Saint Germain vs Liverpool" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool",[LIVE 02:00 WIB | 09/04/26] Paris Saint Germain vs Liverpool (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
@@ -49,10 +49,6 @@ https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d9
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="x7lm7phjxyg3m2w" tvg-name="FC Barcelona vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 09/04/26] FC Barcelona vs Atletico Madrid",[LIVE 02:00 WIB | 09/04/26] FC Barcelona vs Atletico Madrid (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="y0or5jh81926qwz" tvg-name="Al Hilal vs Al Kholood" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 09/04/26] Al Hilal vs Al Kholood",[LIVE 01:00 WIB | 09/04/26] Al Hilal vs Al Kholood (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="y0or5jh81926qwz" tvg-name="Al Hilal vs Al Kholood" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 09/04/26] Al Hilal vs Al Kholood",[LIVE 01:00 WIB | 09/04/26] Al Hilal vs Al Kholood (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="y0or5jh81929qwz" tvg-name="Al Ittihad Club vs NEOM Sports Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 09/04/26] Al Ittihad Club vs NEOM Sports Club",[LIVE 01:00 WIB | 09/04/26] Al Ittihad Club vs NEOM Sports Club (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="y0or5jh81929qwz" tvg-name="Al Ittihad Club vs NEOM Sports Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 09/04/26] Al Ittihad Club vs NEOM Sports Club",[LIVE 01:00 WIB | 09/04/26] Al Ittihad Club vs NEOM Sports Club (HOÀNG CÁI)
@@ -61,7 +57,3 @@ https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="dj2ryohl7plvq1z" tvg-name="Ghazl El Mahallah vs El Gounah" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 01:00 WIB | 09/04/26] Ghazl El Mahallah vs El Gounah",[LIVE 01:00 WIB | 09/04/26] Ghazl El Mahallah vs El Gounah (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="2y8m4zh5v753ql0" tvg-name="Haras El Hodood vs Modern Sport FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 01:00 WIB | 09/04/26] Haras El Hodood vs Modern Sport FC",[LIVE 01:00 WIB | 09/04/26] Haras El Hodood vs Modern Sport FC (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="2y8m4zh5v753ql0" tvg-name="Haras El Hodood vs Modern Sport FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 01:00 WIB | 09/04/26] Haras El Hodood vs Modern Sport FC",[LIVE 01:00 WIB | 09/04/26] Haras El Hodood vs Modern Sport FC (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
