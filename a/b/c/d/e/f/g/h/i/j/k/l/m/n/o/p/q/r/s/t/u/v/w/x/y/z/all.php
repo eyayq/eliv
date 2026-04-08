@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [23.46 WIB 08/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.09 WIB 09/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="318q66hx8ywxqo9" tvg-name="Sporting Braga vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 23:45 WIB | 08/04/26] Sporting Braga vs Real Betis",[LIVE 23:45 WIB | 08/04/26] Sporting Braga vs Real Betis (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
@@ -25,26 +25,30 @@ https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="318q66hx8ywxqo9" tvg-name="Sporting Braga vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 23:45 WIB | 08/04/26] Sporting Braga vs Real Betis",[LIVE 23:45 WIB | 08/04/26] Sporting Braga vs Real Betis (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="318q66hx1n2pqo9" tvg-name="Atromitos Athens vs AE Kifisias" tvg-logo="https://img.cdnok9.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png" group-title="[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias",[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="318q66hx1n2pqo9" tvg-name="Atromitos Athens vs AE Kifisias" tvg-logo="https://img.cdnok9.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png" group-title="[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias",[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="4wyrn4h6w6weq86" tvg-name="Zawisza Bydgoszcz SA vs Gornik Zabrze" tvg-logo="https://img.cdnok9.com/football/competition/c388ed79b130f27d9ec33a7f04a0734f.png" group-title="[LIVE 23:00 WIB | 08/04/26] Zawisza Bydgoszcz SA vs Gornik Zabrze",[LIVE 23:00 WIB | 08/04/26] Zawisza Bydgoszcz SA vs Gornik Zabrze (Giàng A Voi)
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="4wyrn4h6w6weq86" tvg-name="Zawisza Bydgoszcz SA vs Gornik Zabrze" tvg-logo="https://img.cdnok9.com/football/competition/c388ed79b130f27d9ec33a7f04a0734f.png" group-title="[LIVE 23:00 WIB | 08/04/26] Zawisza Bydgoszcz SA vs Gornik Zabrze",[LIVE 23:00 WIB | 08/04/26] Zawisza Bydgoszcz SA vs Gornik Zabrze (Giàng A Voi)
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="318q66hx1n2pqo9" tvg-name="Atromitos Athens vs AE Kifisias" tvg-logo="https://img.cdnok9.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png" group-title="[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias",[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="318q66hx1n2pqo9" tvg-name="Atromitos Athens vs AE Kifisias" tvg-logo="https://img.cdnok9.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png" group-title="[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias",[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="318q66hx1n2pqo9" tvg-name="Atromitos Athens vs AE Kifisias" tvg-logo="https://img.cdnok9.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png" group-title="[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias",[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="318q66hx1n2pqo9" tvg-name="Atromitos Athens vs AE Kifisias" tvg-logo="https://img.cdnok9.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png" group-title="[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias",[LIVE 23:00 WIB | 08/04/26] Atromitos Athens vs AE Kifisias (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="4wyrn4h66dk6q86" tvg-name="Jelgava vs Rigas Futbola Skola" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[LIVE 23:00 WIB | 08/04/26] Jelgava vs Rigas Futbola Skola",[LIVE 23:00 WIB | 08/04/26] Jelgava vs Rigas Futbola Skola (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="4wyrn4h66dk6q86" tvg-name="Jelgava vs Rigas Futbola Skola" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[LIVE 23:00 WIB | 08/04/26] Jelgava vs Rigas Futbola Skola",[LIVE 23:00 WIB | 08/04/26] Jelgava vs Rigas Futbola Skola (HOÀNG CÁI)
 https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="pxwrxlhyvld3ryk" tvg-name="Al Fayha vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC",[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="pxwrxlhyvld3ryk" tvg-name="Al Fayha vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC",[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="pxwrxlhyvld3ryk" tvg-name="Al Fayha vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC",[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="pxwrxlhyvld3ryk" tvg-name="Al Fayha vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC",[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="pxwrxlhyvld3ryk" tvg-name="Al Fayha vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC",[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="pxwrxlhyvld3ryk" tvg-name="Al Fayha vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC",[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="pxwrxlhyvld3ryk" tvg-name="Al Fayha vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC",[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="pxwrxlhyvld3ryk" tvg-name="Al Fayha vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC",[LIVE 22:55 WIB | 08/04/26] Al Fayha vs Al-Ahli SFC (Giàng A Rùa)
@@ -61,14 +65,14 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="pxwrxlhyxx2yryk" tvg-name="Al Rayyan vs Umm Salal" tvg-logo="https://img.cdnok9.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png" group-title="[LIVE 22:30 WIB | 08/04/26] Al Rayyan vs Umm Salal",[LIVE 22:30 WIB | 08/04/26] Al Rayyan vs Umm Salal (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="l7oqdehgjxo7r51" tvg-name="Wadi Degla SC vs Pharco" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 08/04/26] Wadi Degla SC vs Pharco",[LIVE 22:00 WIB | 08/04/26] Wadi Degla SC vs Pharco (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="l7oqdehgjxo7r51" tvg-name="Wadi Degla SC vs Pharco" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 08/04/26] Wadi Degla SC vs Pharco",[LIVE 22:00 WIB | 08/04/26] Wadi Degla SC vs Pharco (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="23xmvkh6gj09qg8" tvg-name="PFK Montana vs CSKA Sofia" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 22:00 WIB | 08/04/26] PFK Montana vs CSKA Sofia",[LIVE 22:00 WIB | 08/04/26] PFK Montana vs CSKA Sofia (GIÀNG A PHỆ )
+#EXTINF:-1 tvg-id="vjxm8ghejj16r6o" tvg-name="Mladost Lucani vs FK Napredak Krusevac" tvg-logo="https://img.cdnok9.com/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" group-title="[LIVE 00:00 WIB | 09/04/26] Mladost Lucani vs FK Napredak Krusevac",[LIVE 00:00 WIB | 09/04/26] Mladost Lucani vs FK Napredak Krusevac (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="23xmvkh6gj09qg8" tvg-name="PFK Montana vs CSKA Sofia" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 22:00 WIB | 08/04/26] PFK Montana vs CSKA Sofia",[LIVE 22:00 WIB | 08/04/26] PFK Montana vs CSKA Sofia (GIÀNG A PHỆ )
+#EXTINF:-1 tvg-id="vjxm8ghejj16r6o" tvg-name="Mladost Lucani vs FK Napredak Krusevac" tvg-logo="https://img.cdnok9.com/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" group-title="[LIVE 00:00 WIB | 09/04/26] Mladost Lucani vs FK Napredak Krusevac",[LIVE 00:00 WIB | 09/04/26] Mladost Lucani vs FK Napredak Krusevac (GIÀNG A PHỆ )
 https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="1l4rjnh9z715m7v" tvg-name="Goztepe vs Galatasaray" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 09/04/26] Goztepe vs Galatasaray",[LIVE 00:00 WIB | 09/04/26] Goztepe vs Galatasaray (Giàng A Sún)
+https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="1l4rjnh9z715m7v" tvg-name="Goztepe vs Galatasaray" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 09/04/26] Goztepe vs Galatasaray",[LIVE 00:00 WIB | 09/04/26] Goztepe vs Galatasaray (Giàng A Sún)
+https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="l7oqdehgjxz0r51" tvg-name="Juventus U20 vs Parma U20" tvg-logo="https://img.cdnok9.com/football/competition/7b2eee2e5baa916c5a6f2e0e53f11075.png" group-title="[LIVE 23:30 WIB | 08/04/26] Juventus U20 vs Parma U20",[LIVE 23:30 WIB | 08/04/26] Juventus U20 vs Parma U20 (Giàng A Ka)
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="l7oqdehgjxz0r51" tvg-name="Juventus U20 vs Parma U20" tvg-logo="https://img.cdnok9.com/football/competition/7b2eee2e5baa916c5a6f2e0e53f11075.png" group-title="[LIVE 23:30 WIB | 08/04/26] Juventus U20 vs Parma U20",[LIVE 23:30 WIB | 08/04/26] Juventus U20 vs Parma U20 (Giàng A Ka)
@@ -81,11 +85,7 @@ https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="23xmvkh6dd5eqg8" tvg-name="Vojvodina Novi Sad vs Radnicki Nis" tvg-logo="https://img.cdnok9.com/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" group-title="[LIVE 23:00 WIB | 08/04/26] Vojvodina Novi Sad vs Radnicki Nis",[LIVE 23:00 WIB | 08/04/26] Vojvodina Novi Sad vs Radnicki Nis (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="4wyrn4h6w6weq86" tvg-name="Zawisza Bydgoszcz SA vs Gornik Zabrze" tvg-logo="https://img.cdnok9.com/football/competition/c388ed79b130f27d9ec33a7f04a0734f.png" group-title="[LIVE 23:00 WIB | 08/04/26] Zawisza Bydgoszcz SA vs Gornik Zabrze",[LIVE 23:00 WIB | 08/04/26] Zawisza Bydgoszcz SA vs Gornik Zabrze (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="4wyrn4h6w6weq86" tvg-name="Zawisza Bydgoszcz SA vs Gornik Zabrze" tvg-logo="https://img.cdnok9.com/football/competition/c388ed79b130f27d9ec33a7f04a0734f.png" group-title="[LIVE 23:00 WIB | 08/04/26] Zawisza Bydgoszcz SA vs Gornik Zabrze",[LIVE 23:00 WIB | 08/04/26] Zawisza Bydgoszcz SA vs Gornik Zabrze (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="1l4rjnh9z715m7v" tvg-name="Goztepe vs Galatasaray" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[UPCO 00:00 WIB | 12m | 09/04/26] Goztepe vs Galatasaray",[UPCO 00:00 WIB | 12m | 09/04/26] Goztepe vs Galatasaray (Giàng A Sún)
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="1l4rjnh9z715m7v" tvg-name="Goztepe vs Galatasaray" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[UPCO 00:00 WIB | 12m | 09/04/26] Goztepe vs Galatasaray",[UPCO 00:00 WIB | 12m | 09/04/26] Goztepe vs Galatasaray (Giàng A Sún)
-https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="2y8m4zh5v753ql0" tvg-name="Haras El Hodood vs Modern Sport FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[UPCO 01:00 WIB | 50m | 09/04/26] Haras El Hodood vs Modern Sport FC",[UPCO 01:00 WIB | 50m | 09/04/26] Haras El Hodood vs Modern Sport FC (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="2y8m4zh5v753ql0" tvg-name="Haras El Hodood vs Modern Sport FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[UPCO 01:00 WIB | 50m | 09/04/26] Haras El Hodood vs Modern Sport FC",[UPCO 01:00 WIB | 50m | 09/04/26] Haras El Hodood vs Modern Sport FC (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
