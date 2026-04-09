@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.11 WIB 09/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.15 WIB 09/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="23xmvkh66xk5qg8" tvg-name="Jamshedpur FC vs Mumbai City FC" tvg-logo="https://img.cdnok9.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LIVE 21:00 WIB | 09/04/26] Jamshedpur FC vs Mumbai City FC",[LIVE 21:00 WIB | 09/04/26] Jamshedpur FC vs Mumbai City FC (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
@@ -25,14 +25,14 @@ https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d9
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="318q66hxw135qo9" tvg-name="Buxoro FK vs Qizilqum Zarafshon" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 21:00 WIB | 09/04/26] Buxoro FK vs Qizilqum Zarafshon",[LIVE 21:00 WIB | 09/04/26] Buxoro FK vs Qizilqum Zarafshon (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="pxwrxlhynzdxryk" tvg-name="Al Wahda(UAE) vs Ittihad Kalba FC" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC",[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="pxwrxlhynzdxryk" tvg-name="Al Wahda(UAE) vs Ittihad Kalba FC" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC",[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="pxwrxlhynzdxryk" tvg-name="Al Wahda(UAE) vs Ittihad Kalba FC" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC",[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="pxwrxlhynzdxryk" tvg-name="Al Wahda(UAE) vs Ittihad Kalba FC" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC",[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="pxwrxlhynzdxryk" tvg-name="Al Wahda(UAE) vs Ittihad Kalba FC" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC",[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="pxwrxlhynzdxryk" tvg-name="Al Wahda(UAE) vs Ittihad Kalba FC" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC",[LIVE 20:55 WIB | 09/04/26] Al Wahda(UAE) vs Ittihad Kalba FC (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="l7oqdehgo8y9r51" tvg-name="Albania U19Women vs Montenegro Women U19" tvg-logo="https://img.cdnok9.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png" group-title="[LIVE 20:15 WIB | 09/04/26] Albania U19Women vs Montenegro Women U19",[LIVE 20:15 WIB | 09/04/26] Albania U19Women vs Montenegro Women U19 (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="l7oqdehgo8y9r51" tvg-name="Albania U19Women vs Montenegro Women U19" tvg-logo="https://img.cdnok9.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png" group-title="[LIVE 20:15 WIB | 09/04/26] Albania U19Women vs Montenegro Women U19",[LIVE 20:15 WIB | 09/04/26] Albania U19Women vs Montenegro Women U19 (Giàng A Choén)
@@ -41,6 +41,10 @@ https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0b
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="l7oqdehgo8y9r51" tvg-name="Albania U19Women vs Montenegro Women U19" tvg-logo="https://img.cdnok9.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png" group-title="[LIVE 20:15 WIB | 09/04/26] Albania U19Women vs Montenegro Women U19",[LIVE 20:15 WIB | 09/04/26] Albania U19Women vs Montenegro Women U19 (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="y0or5jh80ko0qwz" tvg-name="Lokomotiv Sofia vs Beroe Stara Zagora" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora",[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora (Giàng A Ka)
+https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="y0or5jh80ko0qwz" tvg-name="Lokomotiv Sofia vs Beroe Stara Zagora" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora",[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora (Giàng A Ka)
+https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="y0or5jh80ko0qwz" tvg-name="Lokomotiv Sofia vs Beroe Stara Zagora" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora",[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="y0or5jh80ko0qwz" tvg-name="Lokomotiv Sofia vs Beroe Stara Zagora" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora",[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora (Lữ Bố (Giàng Phụng Tiên))
@@ -49,10 +53,6 @@ https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df7
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="y0or5jh80ko0qwz" tvg-name="Lokomotiv Sofia vs Beroe Stara Zagora" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora",[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora (Giàng A Hổ)
 https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="y0or5jh80ko0qwz" tvg-name="Lokomotiv Sofia vs Beroe Stara Zagora" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora",[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora (Giàng A Ka)
-https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="y0or5jh80ko0qwz" tvg-name="Lokomotiv Sofia vs Beroe Stara Zagora" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora",[LIVE 19:30 WIB | 09/04/26] Lokomotiv Sofia vs Beroe Stara Zagora (Giàng A Ka)
-https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="1l4rjnh94jykm7v" tvg-name="Malta U19 Women vs Israel Women U19" tvg-logo="https://img.cdnok9.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png" group-title="[LIVE 19:30 WIB | 09/04/26] Malta U19 Women vs Israel Women U19",[LIVE 19:30 WIB | 09/04/26] Malta U19 Women vs Israel Women U19 (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="1l4rjnh94jykm7v" tvg-name="Malta U19 Women vs Israel Women U19" tvg-logo="https://img.cdnok9.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png" group-title="[LIVE 19:30 WIB | 09/04/26] Malta U19 Women vs Israel Women U19",[LIVE 19:30 WIB | 09/04/26] Malta U19 Women vs Israel Women U19 (GIÀNG A MÂY)
