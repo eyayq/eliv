@@ -1,24 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [00:54 WIB 10/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:54 WIB 10/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:42 WIB 10/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:42 WIB 10/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:00 WIB 09/04/26] Damac vs Al-Qadisiyah FC [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:00 WIB 09/04/26] Damac vs Al-Qadisiyah FC [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:00 WIB 09/04/26] Damac vs Al-Qadisiyah FC [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[23:00 WIB 09/04/26] Hapoel Tel-Aviv vs Olympiacos [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[23:00 WIB 09/04/26] Hapoel Tel-Aviv vs Olympiacos [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[23:00 WIB 09/04/26] Hapoel Tel-Aviv vs Olympiacos [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[23:15 WIB 09/04/26] Valentin Vacherot vs Hubert Hurkacz	 [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
@@ -56,76 +38,58 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 10/04/26] Al-Ettifaq vs Al Riyadh [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 10/04/26] Al-Ettifaq vs Al Riyadh [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 10/04/26] Al-Ettifaq vs Al Riyadh [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 10/04/26] Al-Ettifaq vs Al Riyadh [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[01:45 WIB 10/04/26] Fenerbahce vs Real Madrid [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[01:45 WIB 10/04/26] Fenerbahce vs Real Madrid [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[01:45 WIB 10/04/26] Fenerbahce vs Real Madrid [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] Bologna vs Aston Villa [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] Bologna vs Aston Villa [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] Bologna vs Aston Villa [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] Bologna vs Aston Villa [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] Bologna vs Aston Villa [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] Bologna vs Aston Villa [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] SC Freiburg vs Celta Vigo [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] SC Freiburg vs Celta Vigo [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] SC Freiburg vs Celta Vigo [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] SC Freiburg vs Celta Vigo [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] SC Freiburg vs Celta Vigo [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] SC Freiburg vs Celta Vigo [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] FC Porto vs Nottingham Forest [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] FC Porto vs Nottingham Forest [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] FC Porto vs Nottingham Forest [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] FC Porto vs Nottingham Forest [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] FC Porto vs Nottingham Forest [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 10/04/26] FC Porto vs Nottingham Forest [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Crystal Palace vs Fiorentina [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Crystal Palace vs Fiorentina [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Crystal Palace vs Fiorentina [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Crystal Palace vs Fiorentina [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Crystal Palace vs Fiorentina [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Crystal Palace vs Fiorentina [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Shakhtar Donetsk vs AZ Alkmaar [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Shakhtar Donetsk vs AZ Alkmaar [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Shakhtar Donetsk vs AZ Alkmaar [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Shakhtar Donetsk vs AZ Alkmaar [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Shakhtar Donetsk vs AZ Alkmaar [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] Shakhtar Donetsk vs AZ Alkmaar [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] FSV Mainz 05 vs Strasbourg [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] FSV Mainz 05 vs Strasbourg [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] FSV Mainz 05 vs Strasbourg [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] FSV Mainz 05 vs Strasbourg [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] FSV Mainz 05 vs Strasbourg [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 10/04/26] FSV Mainz 05 vs Strasbourg [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 10/04/26] Toronto Raptors vs Miami Heat [FHD] [NANTIKAN]
@@ -138,13 +102,13 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:30 WIB 10/04/26] New York Knicks vs Boston Celtics [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:30 WIB 10/04/26] New York Knicks vs Boston Celtics [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:30 WIB 10/04/26] New York Knicks vs Boston Celtics [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[07:30 WIB 10/04/26] Carabobo FC vs RB Bragantino [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
@@ -379,15 +343,6 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/203.png" group-title="Süper Lig",[00:00 WIB 11/04/26] Beşiktaş vs Antalyaspor [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[00:30 WIB 11/04/26] Monaco vs Barcelona  [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[00:30 WIB 11/04/26] Monaco vs Barcelona  [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[00:30 WIB 11/04/26] Monaco vs Barcelona  [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://phapluat.tuoitrethudo.vn/stores/news_dataimages/hoangphuongduy/102019/21/15/in_article/0102_2000px-Bundesliga-Logo.svg.jpg" group-title="Bundesliga",[01:30 WIB 11/04/26] FC Augsburg vs 1899 Hoffenheim [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanbap/playlist.m3u8
