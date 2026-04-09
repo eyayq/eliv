@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.24 WIB 10/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.33 WIB 10/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="2y8m4zh5vy6oql0" tvg-name="Rayo Vallecano vs AEK Athens" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 23:45 WIB | 09/04/26] Rayo Vallecano vs AEK Athens",[LIVE 23:45 WIB | 09/04/26] Rayo Vallecano vs AEK Athens (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
@@ -21,10 +21,6 @@ https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d9
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="2y8m4zh5vy6oql0" tvg-name="Rayo Vallecano vs AEK Athens" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 23:45 WIB | 09/04/26] Rayo Vallecano vs AEK Athens",[LIVE 23:45 WIB | 09/04/26] Rayo Vallecano vs AEK Athens (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="x7lm7phj5e7pm2w" tvg-name="Levski Sofia vs Arda" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 00:30 WIB | 5m | 10/04/26] Levski Sofia vs Arda",[UPCO 00:30 WIB | 5m | 10/04/26] Levski Sofia vs Arda (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="x7lm7phj5e7pm2w" tvg-name="Levski Sofia vs Arda" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 00:30 WIB | 5m | 10/04/26] Levski Sofia vs Arda",[UPCO 00:30 WIB | 5m | 10/04/26] Levski Sofia vs Arda (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="6ypq3nhvzz98md7" tvg-name="Crvena Zvezda vs FK Spartak Subotica" tvg-logo="https://img.cdnok9.com/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" group-title="[LIVE 00:00 WIB | 10/04/26] Crvena Zvezda vs FK Spartak Subotica",[LIVE 00:00 WIB | 10/04/26] Crvena Zvezda vs FK Spartak Subotica (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="6ypq3nhvzz98md7" tvg-name="Crvena Zvezda vs FK Spartak Subotica" tvg-logo="https://img.cdnok9.com/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" group-title="[LIVE 00:00 WIB | 10/04/26] Crvena Zvezda vs FK Spartak Subotica",[LIVE 00:00 WIB | 10/04/26] Crvena Zvezda vs FK Spartak Subotica (GIÀNG A PHỆ )
@@ -69,7 +65,11 @@ https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0b
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="dj2ryohl2pv2q1z" tvg-name="Damac vs Al Qadsiah" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:00 WIB | 09/04/26] Damac vs Al Qadsiah",[LIVE 23:00 WIB | 09/04/26] Damac vs Al Qadsiah (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="y39mp1h6dgz0moj" tvg-name="Crystal Palace vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[UPCO 02:00 WIB | 1j 35m | 10/04/26] Crystal Palace vs Fiorentina",[UPCO 02:00 WIB | 1j 35m | 10/04/26] Crystal Palace vs Fiorentina (Giàng A Long)
+#EXTINF:-1 tvg-id="x7lm7phj5e7pm2w" tvg-name="Levski Sofia vs Arda" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 00:30 WIB | 10/04/26] Levski Sofia vs Arda",[LIVE 00:30 WIB | 10/04/26] Levski Sofia vs Arda (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="x7lm7phj5e7pm2w" tvg-name="Levski Sofia vs Arda" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 00:30 WIB | 10/04/26] Levski Sofia vs Arda",[LIVE 00:30 WIB | 10/04/26] Levski Sofia vs Arda (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="y39mp1h6dgz0moj" tvg-name="Crystal Palace vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[UPCO 02:00 WIB | 1j 25m | 10/04/26] Crystal Palace vs Fiorentina",[UPCO 02:00 WIB | 1j 25m | 10/04/26] Crystal Palace vs Fiorentina (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="y39mp1h6dgz0moj" tvg-name="Crystal Palace vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[UPCO 02:00 WIB | 1j 35m | 10/04/26] Crystal Palace vs Fiorentina",[UPCO 02:00 WIB | 1j 35m | 10/04/26] Crystal Palace vs Fiorentina (Giàng A Long)
+#EXTINF:-1 tvg-id="y39mp1h6dgz0moj" tvg-name="Crystal Palace vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[UPCO 02:00 WIB | 1j 25m | 10/04/26] Crystal Palace vs Fiorentina",[UPCO 02:00 WIB | 1j 25m | 10/04/26] Crystal Palace vs Fiorentina (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
