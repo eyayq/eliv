@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 11:29:20 WIB 09-04-2026
-# 🔄 Total Channels: 2179
+# ⏰ Latest Updated: 11:34:17 WIB 09-04-2026
+# 🔄 Total Channels: 2257
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:29:20 WIB 09-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:34:17 WIB 09-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -49,6 +49,9 @@ http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0ab30ccb3c3f94ad592e8c357eff7ea4.png!w80" group-title="Live Event: Colalive",18:30 09/04 Simal FK vs Mingachevir Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/79665343.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80" group-title="Live Event: Colalive",17:00 09/04 Shakhtar Karagandy vs Okzhetpes Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.m3u8
@@ -961,6 +964,68 @@ https://602.shadow-ran.online/xtra.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.su
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://602.simplyataide.boutique/xtra.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",Pro Liga 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoibWhaUHk5THZrMHBDcDBcL2JHN0loSnJGVG1ud1NkWEgxaUVNODdtV2NqMDVBazRJZDdcL0FkeVljdmxLUmt1WHY5WTd5ekwzWVJmdVJLZkgzNlU0MmtjckNsbHF1K3BpR004UVJPRXExOUREcWdsV2tXZGoreEM3c2c5VzNqV3lnWXJSbHFoeG9aanJcLzB5Vm9ubEw5WkNjQVNlemVSNHBCeHZndXdONWt0WnlobldKSDY5eFwvaXExYWEwb2E1SFk1Y0ZPM2ZUOVRGS2NxK3NiMEJmUUZFOHR2cHg1QVZHd3pTbHpYa2FSNWx2XC82U2J6bXExY2RvaU92NFRjcVwvK2xzZmFDd2laakY0dTdPelBhTk54Z2VleGMwY0REZnNJNGNMTll1bGNudkNcL1hMeWlZZll6cFFJZFd5bDZybXhnQU1NWEl5dGJWMDlHM1UrM3N4TVl5c09XYithOTRNRjFvS3NwWGRQK1BrdGlFUDRlbCt0SjFYNlI3WURacnVtMnpvWG9nKzZ5dm5USVdIVE9BWm9SUzZiYU91NFlMbVh0MFUzTEVJdjhFYXNKOWVwUFNpVEVYalBWY1VsZEhMMFp2bHEifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",Pro Liga 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJubENkc2ZFNWJ5dVVSdVk3aFBaODFSekQ3Q1c3aHkyXC9wQzQ3NUg4WFZpZmZGNlVlelhnWUNuVzFGWVBHbzJnZ2FWQUo5ODNucUxVaFZFM0VjeFg0U2VjWjE3ZnQ1TUVSR1BRUVBwV3ZCRFdtQUlEeUZlT1VjeWZnWmd4eTdON2tidjZhTGVTUzdQSUVra0NoY0hLZFpIQllNR0lyaU5DYlI3V3RYZG5zMTlkS250TnJBeFZ3NHdZRUdJM3dMUHVpcFptQ2QwU1lUTWs1WjYyK0NlNVp0VkxCallNU0VuVHF6dGN4VnQzVDZcL2x4R01WYU50aElcL0toTFwvOVJYZGJHWVlleGU4cU5td01kNlE4K3NiZ0d5VmtNVmFJMnZCUko0ZVlvc21hUTJ1UnJQNzlZVUdwTTlsaW5acEI5TmZxd2d0dFhTTXFqaTQ3bmpHdFkweFwvdjV4eWNjWnZrT2JzeXlrXC9PQzFRdEg3RDA9In0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiS0VBZmRINWI2UEZLTkl1djV4R0FXdUg3UW05RHdQRzVuQ0tKXC9cL05DUDZjbUxYSmJWNXFhXC9YMnBDbUZ2V2JDWHJ3dlBZZUp0RDJ6ZTBDY3FndVR3T1ZicjZBSE9KWVwvcmVJNXBkZmc2blVDQWRNNWFzYkJUdldPQ3RLQklzcmJyRTN0RWowRlwvcW1FXC9IOENKcnlVWnM3bzZyOHc2YkpzUU1IZDZua0ZOZnhNeElKdlJpS3dmeFRiN0dTbGJvR1FZT2NtMzhRMm1XT0VCbnF5KzMwNkxOc05qRENCRnhIVGlIbzB5SHJLRDZINUZcL0ZRNnZhdmJaK0hIWnJ0MnRteUVqV1JuZ25YbE1YWDZua1BEYW5KeGJXM0dSZUxNQkFpNG9OWDlwRFVJR3FWS0FRRXJ0OHR4R0xiQnlpZzJNTUFwZzRYUGJORlNxdzc0bzdWK2UzZjBidXgrTzJGMVAwcSt4OFdLK0lTU3BERW9qQzlxQ1E0cERtTmZ2NXpyK0NPNmx4c09EeHhzTGxXRllCOE5Jd3BhMDVZbzNwZ0EwS2JXWVl2bklYakxXcmM9In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",Pro Liga 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiemNwUyt0cFB6SUdcL1wvT1NaRDczbE5mOGg5bzBMbXRRbCtnOVlFVUxwb0FLNHRQVDdXditNRjQ4Wit4VUw0ZVpmRkJ0TWx1UXBIaUZnTk9sWjJJOUNPK2FwUTNFN3RIbWEwUVR1Tk82TXFiRzdsMkNBRUdkTDR0eEpjMktlc0o3QkN5ZEpuWmI1aFVIQ3hYZm5hM1laY2pHV2ZkUFQ1RXNMUWdhemNOTEhCeUdISGVQd2gzczcxdG1pM3JieG1lZU5COEtUWXBHYkFoa29oY2ZtOHFZNXFEV2VtRGlaZDZJV3FFc2JWOWZsazlmdm1HeWhzNzl4UEdhOWVjemFieE5wOExZeDJzSHVKMEtVZGs5OStoWjhkd2FYdTRjRUwrWGs1MnlPazRJbDNTQ1Fsc0hQTjdxcFg3VmtuVkRxNHNLMnZiclVQdVROT25KcGZUdHBraThCWEVLcGlaTTFqZzFlSTlVeDRzZXhNS1ZRaGl2TzBZVFd5cGtrenJqVDJBTmlrUllsUlN0UVA1cUxsbDliQlhnUFNnczY4VzVOZVZnMmFIcHJCMVhPVVprPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",Pro Liga 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJGbElRNTZJaHY1VEMwVG1QbGdFSUlDc05pWmt6YzdyRVdVcXdvbTlWZU1kRXVaVlcyRHhHN1JJZ2g4YnhUS3dJbHRpZ3pNXC9WR0JmS05odmFid212YmJLODJDbVZIcUpcL3hza1pcL21TdnJrWDFhNE1ERW1IbkRmdzl2VkdSaFhKUWkyajlpYzlaUTFvQjVYUWxOWmRqc0RoNHdmVk4xWTVqN0tubzlyY2pcL1hSdklJRDhKcEVNQm9yaVo1SmlxaVJ1MUxLcElSNGcwaHp3OFJmZ2k0b0V2bWdMNVBsTzVXUXdWZ3drSERUVDlCeE1Kc0wrclZsa2xzdXpUVGxKUFR6Y1V5T2I0V2VTbmxzTm1qN2ltXC9nNkhjcUUyUHEzKytMd3FHSG5DYk5mZGVVdGFXNENFb1JncHpxZTZNamxWWUMxblFxeWNTMHdHOVFNK041WEtvbkZDUT09In0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiSUxzNjRSMHljSVF5aUlZWnRLMTdPQzczQUdtRUpXUGF5UUd5SFVnUjJuWjZ4VDZ2U2NDdVwvTHo3MjRFY2RtNlp2NzdHbndtVzZpTFdSSWd5WjRtSkhMaUJpbCtVK09zYnlyTHhZSkpYem82c0czcmdWbndJdklGa2RadElqSnlpQ3ErN3RGNnFmSEpsdkxNMXlQd3k2eWRGV2NpRXJMbGdGN1loXC9VTjBNUWNBQnhhbzR2VndzTlBQWjFKNzNkRGVSTytya2Zwb3oweWxkSFpZMWxlRWlqT0hKcWx0R213NkxKK3JKSGIyV0Rna24wSWl4dDZyUU9MY0JZS0x5aUJWdFllbzFFc3BDeU1HWDRmYUFFTXp1UHZDelFoT0RtcTgreThrcTdHZ0hCQXhGdzQrRWJRS0oyT0xmSFVLeGhpT2ZGTEl5aDZQVzk0VkNlMkhsQ0RGUUxtcDlcL292a2d3MmQ3bUV6aWhZU3FXVjd6VUlUc2Z3RzZKY21YekpLeW9ZaTJcL3JuSTlNXC9MaVJ5YnhxVXlKVXl6R1hVZW92Z21uQlV0a0E4MHRxc3hjPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",Pro Liga 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiTnYwZndTU1B4MDExTHJiZ2hneWc2OGVoYmdFXC9KMDZhSHVYY2hqNWp5TGh6c1VWQ2N2YWRIalNYczNOb0hPME9BNk9NanIrOHFVbExwSXJMbGluMWFFSVZtXC90YlwvXC91VlZBQWh0SUk3cFZOOWtkUWRiMDg0c1wvanlJNHFuUFdlcXVyaktKbXBKMTNtVE5iTVdqdWNvMzNOckI0MEtZSm5RdzFGN0Mza0pcL0tBcURvUHo0aGdvN1c5QktMbHdOWjRsMjVtb01EU0RWK29zTmJqaHd2OVhtbEtDSW9NbmZLaFRwb1AzR3lvRTdhTzBXcENnTU90QVQwRFJTamZKWTR5WFlZZmlxR0RIN1RYdkxvakpZR3hkbXRySFhxRTc4Zno2XC9SVktta21RVGVPSXRwV1wvTDEreVlwVjh2NWNVOURNcjY4MWNLTXlKbnVmVGtacldSeUhxSkR2ajFOMG5oZFYxZU00cjY0TmNjZHdzbXhhNGJvYVI0UnZiUW5jUjRHMGRwR1hYQlYrNXUrU0JxWHdydWsrakJYZTdmS1hkaHAzZkpwbWhwalVvZUZTQWRcL3E2T2tPd3RqSktkXC9MQ0NhcDAifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",Pro Liga 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20240.drm?dev_kaki_09&t=1775745243&uip=103.30.147.120&h=b32eb4ea66856c5ee477e6dd41849b723e59a7b5c4f89d0a7a8aef80db863101
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+https://vid-zero-gelang.disini.workers.dev/20240.mpd?dev_kaki_09&t=1775745243&uip=103.30.147.120&h=b32eb4ea66856c5ee477e6dd41849b723e59a7b5c4f89d0a7a8aef80db863101
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",Pro Liga 2026
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJqTVBaZmtQTWd6M1lkUDFVa2dqMWN0RUV2OUc0bEVOWmJNQ0JWc0dcL2loT3lJZWZtSG0xelRRa2lFWmlYTk11THp1aTZMQ0JBb3hnUXEyZjFLTERzemFsVXpiMGYxM2FBbk96a2lQWURuQVVGTnVtbm9sSUxGMFBFbWhPb0xtNzRlXC94YitQaU9TMUtSdCs4TkwwUk1GS0N2Rko0anVHMnhPN1JMQjUrK1N4RzdaSVJBYzVjVjZZZHZnYVpZcnRjOXRFdmk2MklGSWxFMzNyaWhSREJRcnc9PSJ9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
+#EXTVLCOPT:network-caching=1000
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRU41TVFqdkhGaEZRUUlac25aMXljVXhWMFAzZkpxczMxcmdadVFucTdoTndDNHJsZm1FR1dIS0Q4MXV3dUZ2UVM4Q201RmJkTEdDNjQwR1dkRFYwYXE1RjlZNWtCNXlKczdKOHV6WlZqMjdBUTJJK2xxMk82V2hOS2I0UXlzYjNodGpjcVV3RVAxWVMrcDdFc0hyUExMVzBkalpHVzVRTDRcL1dKZmF0TGRUZUJ0d2tpNDBNa3YwZCtKVGxzM1JmRVwvOFRsWUtQMXpxc0JtaWJ4UHZaN0FZUUt4SDRYemp6Qkk4ZjFWN2grdllxZGZTUDJFQWdiNEpadTVWSURCT1NMS3FkRXVSMXpIZW10SXVxSGlUSDByUT09In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",Pro Liga 2026
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ4R1liWjVVWlJweUZNcFZVWU0rZjBWMGFrQWxqN0JKMW44T0U3aEhlTWh2XC9GWGNUV3dCUWFqUmFZQUlPWlRwN25WTHNvQVhcL1BjemY1V3hBVXdnNUR6Vm5sUGNUWmcyWEVYNmlMZ0ZWM2hhOEVCZkxScGJ2Z01PbGV6SW5keWI0QjR1SDhZTmNQdlFYR2pkU1RCUUI5WVwvdDE0TTBUdlZadUNBVmhcL2xoNXV3PSJ9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
+#EXTVLCOPT:network-caching=1000
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRlk3MkpUTmUzQ1BOQjZKUFNPOTM3dFNwNkY4SCttWUlUYVE3dU9PU291WWc2Q3FMNnlvamhHNTFoTVlxcjNPSVwvU21vekNWQ0Rqc2Zvd21vVDl4V1FabnRQaUxOMzJranpIRDhJcWNvZ25sNzZKZkNrc21uM0hRVzJpS2NHT3lsMGtVeHhSakVJY1U5T1BZemZYbTZpbmx5bmFEXC84UlNEcFlOQU14dlNtWjlLcnJJWlc1bm1ZajlZUm1BdWxSU2x0a21haHh6S0EwanhNOFBENVwvUVJjOSt3dkE5cFB2QUZYYlR2NWxSelA5ZXZ5RjJiVTVjblYwMEZpaGZpNTFHdiJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/k0h4UWCj5BcVdeji-02CXsuNY14=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007960/b0e433.jpg" group-title="BWF BADMINTON & VOLLEYBALL",Pro Liga 2026
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVEhaVEpSRUd5dDVoQU01VE13N29FdjBBR1dvY1E5R1pwWkVTSXBHQzRxeE1yQWVqc2VJMVVmWWY1c3VNUTI0Ynh4SGJUVDdqU21zSERmMmpqUU1RZ0hIY3I2ZFFxWlpUOUYwcmVzWWtodWRqTXNUNGFqUHZ5QzR2Yk40YUx5cHR5NkdCRlRXMlZLTUkxdnkwS1BuRGx6ekl3YnJSTERUemdYKzFcL0pQQW5ITzZ4WHFlQWNVRlwvblhYaGtzaWwycks5QVI5d2ZiYkVmZUUzdFZCYkVFTFJ6eU9Zd0hCMVQrOGFzSEp3ZkJCTlNnPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",Pro Liga 2026
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=20240&type=drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+https://vidx.semar.my.id/19354.mpd?pepek=l4GkPP62b9eNUvOlhkSsBp_gU2jULD5S6u5gdGh0H1V0DNyVt_waf1SBTYqcb2feKY8TP_Tc7ACWr0p6O8oYve9xbUOkVBzZ_3Rn-O47Hm9YVJtyPK4UtDcvcDMWblbL
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kn6CPGO76mBffMU_acQFRHuQA3U=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/20216/champion-fight-cover-cc8809.jpg" group-title="CHAMPIONS TV",CHAMPIONS TV FIGHT
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -988,23 +1053,233 @@ https://aspaltvpasti.top/11111/19541.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://aspaltvpasti.top/11111/19543.mpd
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wTu7tP9E/poster.jpg?width=720" group-title="LIVE EVENT NOW | VOLI",Thamela/Victoria (BRA) vs Carol Horta/Elize Maia (BRA), Women Pool E on CC | Saquarema (BRA)
-https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVStJNlNNTlFcL2dIMlozVndmZUp0RVRXSlh0eldIWEVDcG5mQndOQVFuWXFCRWNQQkI1bGorSk8xR0owOXorc0J3UFZ3ZEh6RDE0cFRuTEw5WEhTVFdldXdwOGFRSGE1UUIxMGJ2ZHN5S1g0dGNVN2dMclVac0NPRnhiXC9ZZzR3S3lJTGhvQzBaWXpjNW9hTHByQ1pRRGNrdDJheHYxSFwvVEwyNTN2SXRDMElFNnFWSXd5TmlvdVF2Umkwdmh5TkI5UWF2cm43d3FSV1pKNkpJXC8xelJLeDkrVGZ2a3lkVERnanlTZEcrZXR3U1RzRE1zb213cjFKU0l4YkR3XC9WMnlYIn0=
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiQ1wvWVwvXC9aZU1jOWxweFhvTVNRcmhhTGtOeDk4akJabEs2RXBGXC96TWNjUzRTNENYQXdmMlpVNEJBK0xtQmpCT29YNzh4eEwwczZWN1VVendpUEtxbGFZNUxncTZVOU1jWU1hVVlVVmtETzg3NUdIYTdFeGl0bXh6ZWgrRmZcL1dnWlM3WXR4T3ZSaGZOQm5veEVuQWp5QnN1Mmh0bDlrVVNCXC9FejEzZDZlOThcL2Z4bDlPN3VaUiszN0RwWWxzcDZ5YVllXC91ZEFKRFlrZ2UyU09oRVdKMERPZVwvdkFNRnZIM0txS29PWGpLN0FYTjNzODlBT2w0aUt1S2VhUVFMMklkSCJ9
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cxxlXFDw/poster.jpg?width=720" group-title="LIVE EVENT NOW | VOLI",Hughes/Batenhorst (USA) vs Dumbauskaite/Grudzinskaite G. (LTU), Women Pool A on C3 | Saquarema (BRA)
-https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiUDJ1OGlLMEZUV0ZRYVdQbXRCWnRCcWxWVG1TU0pDa2lYQW42YzRQbExxVGV2a3VnZXJEVG9IVHBkeUpZXC9JcVkzUVdGOXRLRHY1enRZcHB0T2lXMnBaODZtc1dOK2hNU2xMM3hzMXRsSkZCRFAyMU1uNUkwZWRPa2J2bXJHS2FKNjhrXC9PTE5zcHY3S0tSVXB3bXNyTE5LaHMxWnk2MzRzc0w4SkNjY0xwQlkybDllUncyYm1Ma2l0VmdUNUxGc3NCOFh3ZnJLR05LZXNTNmVTVUxKMWtGYkx0aTlGK3o3am5wUVE3UVl3N3BMR21vQkpHSXlzVFhmMVI4bWJHbFY2In0=
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoibGNQSmo3Nmt5SEdBWnpFWDhYUE9jWlBSVkRsbGhFXC9RWm9BUDhTRm44UVBFcUZZdDA2QXBFNXJhMHpYaVkyREFBZXQzQUliNHNIYnYwVHZxeGRRRjBmNmhiTXRDWXlGSVk5MjUrM29NV3pMczljUkU3Zm9OWjVYblRMSklBcGhLK2R5NEhneUpCeWpQQ0FnRklZZjZjXC9FWDdNXC9LQytBNG8xdk1HK3VzZDBNazQ1NTVjaFlncG53WEp5SE0xSUsxQVRHbTcyRVN5dlhjYW9oZGZZbkRwUVhDRG9CK09pOXVCcFhUNWl2akVZVlR4V1BSWmdqN3RJRGZXZXV6cFh6NCJ9
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/DCl1b8WL/poster.jpg?width=720" group-title="LIVE EVENT NOW | VOLI",Brunner/Huberli (SUI) vs Paulikiene/Raupelyte (LTU), Women Pool E on C2 | Saquarema (BRA)
-https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiZUlaSTJVS011ZjAybE81YUFTUjdQOTRrTUtZUTJVVVY4czlmRTRaemZxNHdUaGt2SHM5TE9CQlBmQnA1ZUhkZVhyVitlQVR0R3BSR0p5eWhrWmpBQlFMditrajNXNU01djF4a1JWWkpkVXBcLzNXOEZiVmljMnl0aG9rQkpvbVcyUWNsWDBBVzZtZVVsSFB0aGd5ZjRqTFgxRTNZeDV3MVc1TXlNYnAza29vckgzNEJyTE9MWlFMNWF6TW5FQmhHVWoyUXNkSVNYdkIzZ3VUdTA2cThnRVJSdUVtOXI2RUd1NU1JdHRtbXpETDJaZWpJWk9kUG4xQ1hzVDBmNXNNangifQ==
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiN1oxcUxRWkVLeVdTRU5Pc2JGanpWR2tkcjA0V2ZoNUlkS1JmVVFWRmtJK0lqcWtZMHZqY3U5NU1vT0R0KzFjd1IzM0xYMk5TdDhkR1E1NTRpTTROSG1CWHJIeGxVeCtLbm42Qjk4dWZjRE5iNitVV2VJcDdVSjJKRnJNdzRtYnpjd3JWNThkd1pZUlhZXC9qN1p3TGhmTUIyTjdiZWRDRFRSd1BIUFhxOGlxSE9zdllGSDRnalJoMHFXcWRNSkxOTWdLSkxpVkRjYVJzM21LOTJGUjR6eFJ5RGZcL2tWbkFyZlJ0THluaVpHcjdvNDZCNUxlSXdFVmhhOHBJd3FRRHFCIn0=
 #EXTINF:-1 tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/10340208/live/18170108/record/52557820/thumbnail/image_480.jpg" group-title="LIVE EVENT NOW | VOLI",Hana Bank VS Samsung Life InsuranceLIVE VOLI
-https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoieGd0TTNwUytnN2hNM1VydWtKelVtN1VEOFcrXC82alNkaFJGbyt5TlZ2U0Q1OWhseGVtcmFYUk1Wa1llZ044MVNJRkRMaUFEVmppR3N0dFNTMWxpSk95MGN2TWp6amZkcWJybzNZZ1NZZ2tDWU8walVQZWI1S0xQNTZPZW51Wm4wWXBTN3RjcE5LTVBoWkZlbEtEWEh5aUlwRktjS1dUR0kxXC9XRitQMGgzSVIxSkpPNmZIbFBnaWt0d25hZ1c4UHFaSlRYN0FkSXBiUkYyQXY2Q1NYM2RFZU1LZ1BmcE9vT0FwMThvZStndFJPM21uN0laSWV0MTlHMTFCZnlFbVRjbVpqWnBqOW1TQWNWdUN6RmNsZlNkc1pIRGpEM2FYXC8xZXVsRVpFTHBvUjA9In0=
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiU3RvZytTYjZ0dllpc2N5SGoybTBEUTdUaVNRcXVmdVRWXC9ITktYZDZuR2hqQllhME5RZWVGeFpYMVp1RDFpR3VQdmJaMVREeFAxVnU2TldZSW5pblRpdWJlSlwveUtHMUc3N3R6a2J2bXJGdlN6YjFYXC9WQUY2RTM1dUUwM1ZkWjJScElITHF0aGRTT1lUYXRLQjNGVHN4c0MyWnBUM1ptdFF2OEtPSmg3YVwvazBEK2JnTm9CUkthRndQcFNITVZPYkd2SmdqV3lFNDROSFN5NVJJViswN3k1VFFzUTQwSHZ5ZUJIS2p4RkpWT09ybDVTRXdSQllSSFRyZGx4MG9PemxaMU1kOVBERGFrQVBHZnlLY3RDeFduRndMUWFoOEZRRTlkXC9CQ0NUOXVsRT0ifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",15:25 WIB 09/04/26 Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga (INTI HLS/M3U8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoibWhaUHk5THZrMHBDcDBcL2JHN0loSnJGVG1ud1NkWEgxaUVNODdtV2NqMDVBazRJZDdcL0FkeVljdmxLUmt1WHY5WTd5ekwzWVJmdVJLZkgzNlU0MmtjckNsbHF1K3BpR004UVJPRXExOUREcWdsV2tXZGoreEM3c2c5VzNqV3lnWXJSbHFoeG9aanJcLzB5Vm9ubEw5WkNjQVNlemVSNHBCeHZndXdONWt0WnlobldKSDY5eFwvaXExYWEwb2E1SFk1Y0ZPM2ZUOVRGS2NxK3NiMEJmUUZFOHR2cHg1QVZHd3pTbHpYa2FSNWx2XC82U2J6bXExY2RvaU92NFRjcVwvK2xzZmFDd2laakY0dTdPelBhTk54Z2VleGMwY0REZnNJNGNMTll1bGNudkNcL1hMeWlZZll6cFFJZFd5bDZybXhnQU1NWEl5dGJWMDlHM1UrM3N4TVl5c09XYithOTRNRjFvS3NwWGRQK1BrdGlFUDRlbCt0SjFYNlI3WURacnVtMnpvWG9nKzZ5dm5USVdIVE9BWm9SUzZiYU91NFlMbVh0MFUzTEVJdjhFYXNKOWVwUFNpVEVYalBWY1VsZEhMMFp2bHEifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",15:25 WIB 09/04/26 Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga (INTI MPD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJubENkc2ZFNWJ5dVVSdVk3aFBaODFSekQ3Q1c3aHkyXC9wQzQ3NUg4WFZpZmZGNlVlelhnWUNuVzFGWVBHbzJnZ2FWQUo5ODNucUxVaFZFM0VjeFg0U2VjWjE3ZnQ1TUVSR1BRUVBwV3ZCRFdtQUlEeUZlT1VjeWZnWmd4eTdON2tidjZhTGVTUzdQSUVra0NoY0hLZFpIQllNR0lyaU5DYlI3V3RYZG5zMTlkS250TnJBeFZ3NHdZRUdJM3dMUHVpcFptQ2QwU1lUTWs1WjYyK0NlNVp0VkxCallNU0VuVHF6dGN4VnQzVDZcL2x4R01WYU50aElcL0toTFwvOVJYZGJHWVlleGU4cU5td01kNlE4K3NiZ0d5VmtNVmFJMnZCUko0ZVlvc21hUTJ1UnJQNzlZVUdwTTlsaW5acEI5TmZxd2d0dFhTTXFqaTQ3bmpHdFkweFwvdjV4eWNjWnZrT2JzeXlrXC9PQzFRdEg3RDA9In0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiS0VBZmRINWI2UEZLTkl1djV4R0FXdUg3UW05RHdQRzVuQ0tKXC9cL05DUDZjbUxYSmJWNXFhXC9YMnBDbUZ2V2JDWHJ3dlBZZUp0RDJ6ZTBDY3FndVR3T1ZicjZBSE9KWVwvcmVJNXBkZmc2blVDQWRNNWFzYkJUdldPQ3RLQklzcmJyRTN0RWowRlwvcW1FXC9IOENKcnlVWnM3bzZyOHc2YkpzUU1IZDZua0ZOZnhNeElKdlJpS3dmeFRiN0dTbGJvR1FZT2NtMzhRMm1XT0VCbnF5KzMwNkxOc05qRENCRnhIVGlIbzB5SHJLRDZINUZcL0ZRNnZhdmJaK0hIWnJ0MnRteUVqV1JuZ25YbE1YWDZua1BEYW5KeGJXM0dSZUxNQkFpNG9OWDlwRFVJR3FWS0FRRXJ0OHR4R0xiQnlpZzJNTUFwZzRYUGJORlNxdzc0bzdWK2UzZjBidXgrTzJGMVAwcSt4OFdLK0lTU3BERW9qQzlxQ1E0cERtTmZ2NXpyK0NPNmx4c09EeHhzTGxXRllCOE5Jd3BhMDVZbzNwZ0EwS2JXWVl2bklYakxXcmM9In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",15:25 WIB 09/04/26 Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga (ALT HLS/M3U8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiemNwUyt0cFB6SUdcL1wvT1NaRDczbE5mOGg5bzBMbXRRbCtnOVlFVUxwb0FLNHRQVDdXditNRjQ4Wit4VUw0ZVpmRkJ0TWx1UXBIaUZnTk9sWjJJOUNPK2FwUTNFN3RIbWEwUVR1Tk82TXFiRzdsMkNBRUdkTDR0eEpjMktlc0o3QkN5ZEpuWmI1aFVIQ3hYZm5hM1laY2pHV2ZkUFQ1RXNMUWdhemNOTEhCeUdISGVQd2gzczcxdG1pM3JieG1lZU5COEtUWXBHYkFoa29oY2ZtOHFZNXFEV2VtRGlaZDZJV3FFc2JWOWZsazlmdm1HeWhzNzl4UEdhOWVjemFieE5wOExZeDJzSHVKMEtVZGs5OStoWjhkd2FYdTRjRUwrWGs1MnlPazRJbDNTQ1Fsc0hQTjdxcFg3VmtuVkRxNHNLMnZiclVQdVROT25KcGZUdHBraThCWEVLcGlaTTFqZzFlSTlVeDRzZXhNS1ZRaGl2TzBZVFd5cGtrenJqVDJBTmlrUllsUlN0UVA1cUxsbDliQlhnUFNnczY4VzVOZVZnMmFIcHJCMVhPVVprPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",15:25 WIB 09/04/26 Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga (ALT MPD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJGbElRNTZJaHY1VEMwVG1QbGdFSUlDc05pWmt6YzdyRVdVcXdvbTlWZU1kRXVaVlcyRHhHN1JJZ2g4YnhUS3dJbHRpZ3pNXC9WR0JmS05odmFid212YmJLODJDbVZIcUpcL3hza1pcL21TdnJrWDFhNE1ERW1IbkRmdzl2VkdSaFhKUWkyajlpYzlaUTFvQjVYUWxOWmRqc0RoNHdmVk4xWTVqN0tubzlyY2pcL1hSdklJRDhKcEVNQm9yaVo1SmlxaVJ1MUxLcElSNGcwaHp3OFJmZ2k0b0V2bWdMNVBsTzVXUXdWZ3drSERUVDlCeE1Kc0wrclZsa2xzdXpUVGxKUFR6Y1V5T2I0V2VTbmxzTm1qN2ltXC9nNkhjcUUyUHEzKytMd3FHSG5DYk5mZGVVdGFXNENFb1JncHpxZTZNamxWWUMxblFxeWNTMHdHOVFNK041WEtvbkZDUT09In0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiSUxzNjRSMHljSVF5aUlZWnRLMTdPQzczQUdtRUpXUGF5UUd5SFVnUjJuWjZ4VDZ2U2NDdVwvTHo3MjRFY2RtNlp2NzdHbndtVzZpTFdSSWd5WjRtSkhMaUJpbCtVK09zYnlyTHhZSkpYem82c0czcmdWbndJdklGa2RadElqSnlpQ3ErN3RGNnFmSEpsdkxNMXlQd3k2eWRGV2NpRXJMbGdGN1loXC9VTjBNUWNBQnhhbzR2VndzTlBQWjFKNzNkRGVSTytya2Zwb3oweWxkSFpZMWxlRWlqT0hKcWx0R213NkxKK3JKSGIyV0Rna24wSWl4dDZyUU9MY0JZS0x5aUJWdFllbzFFc3BDeU1HWDRmYUFFTXp1UHZDelFoT0RtcTgreThrcTdHZ0hCQXhGdzQrRWJRS0oyT0xmSFVLeGhpT2ZGTEl5aDZQVzk0VkNlMkhsQ0RGUUxtcDlcL292a2d3MmQ3bUV6aWhZU3FXVjd6VUlUc2Z3RzZKY21YekpLeW9ZaTJcL3JuSTlNXC9MaVJ5YnhxVXlKVXl6R1hVZW92Z21uQlV0a0E4MHRxc3hjPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kyre6H94aHF30DghyxxiNDBv94Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008015/ab6742.jpg" group-title="BRI SUPER LEAGUE",15:00 WIB 10/04/26 PSIM Jogja vs PSM Makassar - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JCwNBGJ9rA5Zktl0eDM3FfysIqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008007/f6c6bd.jpg" group-title="BRI SUPER LEAGUE",19:00 WIB 10/04/26 PERSITA vs Arema FC - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1-vU40ABOSqFMqlUKFqxiOUfZtA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008440/d51bec.jpg" group-title="LIGA ITALIA",01:30 WIB 11/04/26 Roma vs Pisa - Serie A
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ota6be4Zmm4Xp2eP3rEhZcfELQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008092/2094b1.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 11/04/26 Garudayaksa FC vs PSMS Medan - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hxk3uHqDdQC4NpQnE0SjSz5hR1M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008220/c25e28.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 11/04/26 Madura United FC vs PERSIK Kediri - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/N367BIxU8nO_WWzAIeCXE2nyliA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008090/f584d8.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 11/04/26 Persiku Kudus vs PSIS Semarang - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VG3RsQCFCmd1_CexX2KJ40FePtc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008027/258b86.jpg" group-title="BRI SUPER LEAGUE",16:52 WIB 11/04/26 Persipura Jayapura vs Persela Lamongan - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3lcqK8vWwHix3K-ap1OfAnZbyK8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008218/1d4c24.jpg" group-title="BRI SUPER LEAGUE",18:30 WIB 11/04/26 Jelang Kick Off - PERSIJA vs PERSEBAYA Surabaya - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lI6le8DHBw_bDC5anCzdnUlbmSM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008708/336730.jpg" group-title="BRI SUPER LEAGUE",18:52 WIB 11/04/26 PS. Barito Putera vs PSS Sleman - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/94PuQ6bEXEDuy-RljpbRJ165hXA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008221/63e123.jpg" group-title="BRI SUPER LEAGUE",18:52 WIB 11/04/26 PERSIJAP vs Bhayangkara Presisi Lampung FC - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/idmg_uQSIv-6jPEmJ5-z01P5SKc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008445/040088.jpg" group-title="LIGA ITALIA",19:45 WIB 11/04/26 Torino vs Verona - Serie A
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i7nBDRrBFI2qZTxpCKKATqNnvUU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008226/8eaf73.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 12/04/26 Persipal FC vs Deltras FC - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aQHxoxBtJ5OoHuoaWFm_ur4GCB8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008228/449eaa.jpg" group-title="BRI SUPER LEAGUE",19:00 WIB 12/04/26 Sumsel United vs FC Bekasi City - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0Q47gMAhB38ejn8Ygnxc9lR-T-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008233/a325c7.jpg" group-title="BRI SUPER LEAGUE",19:00 WIB 12/04/26 Malut United FC vs Dewa United Banten FC - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="CHAMPIONS TV",20:00 WIB 28/07/22 Ep34: The Season So Far : The Catch-Up Show (INTI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiI1RG5cLzNrNzd0SkliY2hcL2dsczcwYVZpcExLRkxZeVJXazZtWjBcL1NyZWJxcHU4cWg1WEdsUzVzOWptTkNWYjRxZzNkNzNJMFdaU2x1Y2k3XC9hdFpCclJNdnVrYnZkZEhsSzNUWkhsT3NYb095M3Y3ZTdxbHhPSWhGbWhWSEQyblFzM0dta21rQ0Z0ekJLa0psWlI2WTNlMDJkbEh3cTNFbU9xT2dpRmJyRG1EVVdBMUhKc2ZPdEQ4dzV5bHhybVlHcm9lMHJjOG5nRFByMkh3SEQ3bHdrbllqWjFqRVlFelNwSUdzaXJDSnJGMUxFSWUya1wvdFZwUG5SWVwvK0Q4NkFZMmNqc29cL01VTCtuNDFCdTRoMUVPN2FLSyt4UUpKd2xDaThlSHIrNVZ6RmlPRmRsRnZsOWVGOFI1YUlVODFVYkFXelRiSXExRTdkdktnXC9BbUo5UVAraXJTbXhwSHIxM2ZBanhWaUJrUjRrUT0ifQ==
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiZk83S28xY2J1S3Q3UE1DXC96MWsrd0hhYVhldGJyVkt1VjEwQU1obXZaaHcwalBpRnZlaUwxUEtkYitHM3F0aGllN1NHcTZXVlNuYTZRNXRjT3oxdkFmeGFkNUtvTWZaSzdEQjA5WmR1OURzTlwvcVc2eHA5d3JZVzFoWWROTDBod0c2dFRtWkJxZEowMXZyWCtYdThaYWI1TWI0b2RWVlQzTjRFNEd4QkM1cHVEOGhSN2dORVRoZTBFZzk5XC9NOStzVlRxMGJOWXBUNDVZa1MrTGNSMnEwUVF5UnlScjVpaE5zK3k1NkFZSWtBRFQrZVwvbE9yalI4YzNcL09MUHd6UU94d2NXSEhUK2k1WStvand1Q3hLOGdqb1VwcisrVURTdzBUa1VnMGNMUFpNUmNjdm1MOHE3ZVprdUlrRERKRktRYUFuZGYyTXlOSlpkQUtYbEt0TytDdE9ucURQUVFreFwvRlJmVTdzR0oxd1FMUDUrZFdnSHFnTysraHNPVE5tcnpYalMxRTZIQUF5aFhubEVSbUJJRkFmT2xhMHFXdVArUkNMRG1RZVhnRDErbz0ifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" group-title="CHAMPIONS TV",15:00 WIB 16/09/25 Real Madrid City (INTI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ5ampmMUU0Vm5KNU1WTW1VXC9rMUxDOEFRa3ZrZ2lqb3FtaHBzNkFRK2k3bmJmRTZrTmYyUE9XXC9ncUN3Zm85eXVlRDRvSURYNk5QM1EycjcwQlJuUlA3UmUyUnpiRHF3RVdmaVg5NTdPQjdzazM5YWhvOWU1dVFGUmFtV0hjcDBQVmYxMXh2M2FsTzFWTndXNjBLbDAxb3M3UklRXC9xRnpicGxITUwrcGY4dE5qQis4U0pUSXFWdGFFSldsRTNlaG1rK2RUMEhTc0ZKSlZrYmJsNnN6SjZ2TmdwU2x4TzVHN0tTeXhjMnBQUERCYnB1dTFSVTlPS0g0UzhwR3JERXZ4OFpsYW04T1lMN1ZsdUtMbGloQ0JSdjU2dWFLblwvU2ZmS2hmR2xkS1B3cHdcL1pmWGk1MzdNeUZ2aGptWFltRlwvYStVMUFuOWxTOGR4aDlrQXVsYkpJT1p4QVE1bndudjA1ZEN2Q1ZzMmZsRmM9In0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiWFZLUGF0WUVwUTFxY0NZdUFqY25GUk54Vks1TURxV3JLb1laNFNEZTZKU0ZpTU1XclNIeWJsaFB1b1BZRmozajdNWVVcL3MrSHpUdmp4MmI2c0liYm1yQldJTlVPWjBcL0FQazBQb0NuS05cL2wxODZFck9DbFwvMExkV29KVWFTQVBJV2IyOCtzZlF1Zk53SkhudU0ra05DWTc4VDd0ZFRxa3JSRzdjbEFsSGVrd2F6WHZHT3pLTUpkK1RxNW5UY1BCUkI5V21OcjZ1b0x4RjU2T0o5RXZFY2pCY1JsUjdLazEzK2NkWGJlMzRhVVZQTmRwaWZ4R1FmNXZGMUtpRzVFVWZaR0NOVGwxYU1mZldkMldEMkZFc1VRNmNWdnlVdGtaTFlnQjJRc1o4SEJ1SFJvbUY1aVVWd3ZXNUFDS2Uyam0rald5VnFYVno2SmtCXC9vXC8wT0lxV1lndGJpSzFMWkFCVHVPQUhcLzNXREVraVgyWmpISThBcnRrYjUzRHJkR2N1RE5zaTNseUZIa0VDK3JCbXo0YzJSMDhyQzZZbVpRM09DNjVvbmVQWDhUMjg9In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/k-XDZv0GC0thY6AoQKHNSJewh9s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg" group-title="CHAMPIONS TV",10:00 WIB 31/12/24 Valero Texas Open (INTI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJqQlJWUkFudmVUQlFmbWJCczlRZzliY2tMWkVrQzkxdnJnb1h4ZVpjZnE5Y3BCUHdqeFdVeFJIbVd5ckNKUW1YZGpZVHgySUQ5XC9pYXQxNUswZWtmSkpcL1o1dStQYjBxK3EwZHFreXA3SzBtdG52c2hDZGUrbllVKzUyb0NURUtkQk5YMkQwSmMraWg1Q1VVYTVEMEhyYTNKSGFIZHpPMVwvbG4rTlUwWUlkUzEwV0ZsbzJhRnNUWVRaU1wvMmhqSldSUnR2K1lLTEFiREtlVGxmYkFydnJ2SlZLbitLMzdcL0RLcVI1WVIwQ3oyeHRXUXBCeFlSOEdna3ZmMFdXQnhjaGZvTVBmNjhVQW1CVGc4ZFlqNnNXbFQ2NHlNNzkyaExHN0Y3WnV1T2d5XC9BdjF6anVBWXZkbjl3RE9IY05CRjRhdE5IWFwvUXdWQmx5NmIzNGZoaWpKS3h2U2JWQUhcL0RtZ1ArcXo5QUIrZ1Q4UT0ifQ==
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiK1wvVGN0SFBSOWNBczNCb0psdlF6dmF3VzU4UTlnM1g2eG9GMTJ5bk1yNWF0VEp1Z3hMeWNNR01cL1wvMGdodWN6Z0NCdlR3eWpKZXJlZVkxK2ErUXk4d3I4elI3Q1o4enIyVktYU2g1bzRFZ1wvU3JPSWg2aW9oZGZTS0ZzdGl3MWJjYjNtQVwvTTNDSktMU3FJYk9zSlY3VG5mXC9IblFuVHJMVEx0aTVcL0VjRnRGZGVwcjZROHY0ektNVEFxelg1K0pOTERxY1wvS0x1SEFKNkx4aTE4cTM3blFzeFVZRU5OWnZDN2JqZW1MMW9xcDk3ZXFPTytaR1VkS1VsdTZndnhUbHptTVpUQ1hBMjBXNitkcE11RXV6c29QSEtYMVlsVHJKR293djlTUEFMT09lMUt0T1Y0OHBkZDBVXC9QQjBobGtCXC9NSG9mNWUyWmNwVHRuSzBxWVBvd0VvMDRhbGhORTZTNmFcL3g2MjRINUNTb0dDd2h4TzVpUTZ4bVVUdXdEMU5kT3FKUXJMdU5MNklRNm5zR2E2emltbHZ2bytETTVZMWZsTW9VWWc4aDlpUiswPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/w4WsztctnAXWF36OBxRmc5lt87E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg" group-title="CHAMPIONS TV",10:00 WIB 31/12/24 ARAMCO CHAMPIONSHIP (INTI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiIySEZUd0ZieUhhOXVHcDY2czhUd1F6RTdGcjB4YzVuREowbG82TVlDenFWYjkwdVRyQkZSSSs2a0dWbG4zenRRQit2RWhJaFlIbjAwWlVIanViZ3U4WklZMzBOeExKcHV0MXFibjVSSDQ4czA3NVwvemgwS0tkTVM4am9UVExzdTRPbUJhYWNBRVJTUFpEbk5kZW5MenJEU0U2MDRpV0xSVUh0Y1ZUaDNod2JoSDN6QXJ4VUZKRnRHRklqcWhBUGFZWlllWFwvXC80MFNVZVc1ZVQyZjh4NHJITUg4c0VuOWQwcHgrTjRRZk1QYkNKQkR1NGxWczRHWmsyU0JqekVYOGNcLzJkeGtyeXFXdTRhRDJVZUlsVVJWZGFlMEZQWG9XenpUQWs0T2tCVGdnZnQ1Y0dIMGZhTnZBbmtaSzU5MHdLaUhlM0U3Mm5GRHRiTjlWUjdlSnVPN0tIbGpRVXNSVmU2eWJNdmVwUEh2OWY0PSJ9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiQUVnaWcrNFoxS3lrWkpwR0pGQ0tQbkRWSGVPTEZXaDlMRzBCREltR21VTUhiNkZ2NTJOOGltWFVFXC84K2RzdmFUQUtFbTNQN2xBRCtJWFdaNXI1VUNcLzNidWFoczkxb2VkWjFqcWpid2VnUXBOT1Vrc1l3c25mUE80a0pGTkJCbjVTSVQ1U3EyaFJNYndneldXK05aU1wvR0VndzBNKzdONEp2WVpmTVgxWmdHT0l6SEJINytmTUR3NzhDaE1Fek9HQk16VEZZXC9qSjZNREV6UDg5MERhSTZtTkdudzBicnlCYnozRVwvbWorYmlsVGtHQU5nU04rb09hV3NwU1YwMldQQlwvWHhiMUw3U3hrbFNqQUlud0VKeUpiaEhjWDV5eDhuTDA0WmJEeDk4ZHRlS1RJSFhzZmROejJYNVg5SEJsRHRRQVVCV2lMbVVhQWhtem1mN3oyXC9kbnluYjNIbFwvNElXYkdKNTZwdUlTb0srWmVaNWw1d0VUYzVQMmlxTFIwZjZqR1ZxUDdzd0tLa3JCQlhJekxWSEhKalFjZHRcL0hiYWd3RG9VTE5EeHNNVT0ifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",15:25 WIB 09/04/26 Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga [J1]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiTnYwZndTU1B4MDExTHJiZ2hneWc2OGVoYmdFXC9KMDZhSHVYY2hqNWp5TGh6c1VWQ2N2YWRIalNYczNOb0hPME9BNk9NanIrOHFVbExwSXJMbGluMWFFSVZtXC90YlwvXC91VlZBQWh0SUk3cFZOOWtkUWRiMDg0c1wvanlJNHFuUFdlcXVyaktKbXBKMTNtVE5iTVdqdWNvMzNOckI0MEtZSm5RdzFGN0Mza0pcL0tBcURvUHo0aGdvN1c5QktMbHdOWjRsMjVtb01EU0RWK29zTmJqaHd2OVhtbEtDSW9NbmZLaFRwb1AzR3lvRTdhTzBXcENnTU90QVQwRFJTamZKWTR5WFlZZmlxR0RIN1RYdkxvakpZR3hkbXRySFhxRTc4Zno2XC9SVktta21RVGVPSXRwV1wvTDEreVlwVjh2NWNVOURNcjY4MWNLTXlKbnVmVGtacldSeUhxSkR2ajFOMG5oZFYxZU00cjY0TmNjZHdzbXhhNGJvYVI0UnZiUW5jUjRHMGRwR1hYQlYrNXUrU0JxWHdydWsrakJYZTdmS1hkaHAzZkpwbWhwalVvZUZTQWRcL3E2T2tPd3RqSktkXC9MQ0NhcDAifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="LIVE EVENT NOW | VOLI",15:25 WIB 09/04/26 Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga [J1]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiTnYwZndTU1B4MDExTHJiZ2hneWc2OGVoYmdFXC9KMDZhSHVYY2hqNWp5TGh6c1VWQ2N2YWRIalNYczNOb0hPME9BNk9NanIrOHFVbExwSXJMbGluMWFFSVZtXC90YlwvXC91VlZBQWh0SUk3cFZOOWtkUWRiMDg0c1wvanlJNHFuUFdlcXVyaktKbXBKMTNtVE5iTVdqdWNvMzNOckI0MEtZSm5RdzFGN0Mza0pcL0tBcURvUHo0aGdvN1c5QktMbHdOWjRsMjVtb01EU0RWK29zTmJqaHd2OVhtbEtDSW9NbmZLaFRwb1AzR3lvRTdhTzBXcENnTU90QVQwRFJTamZKWTR5WFlZZmlxR0RIN1RYdkxvakpZR3hkbXRySFhxRTc4Zno2XC9SVktta21RVGVPSXRwV1wvTDEreVlwVjh2NWNVOURNcjY4MWNLTXlKbnVmVGtacldSeUhxSkR2ajFOMG5oZFYxZU00cjY0TmNjZHdzbXhhNGJvYVI0UnZiUW5jUjRHMGRwR1hYQlYrNXUrU0JxWHdydWsrakJYZTdmS1hkaHAzZkpwbWhwalVvZUZTQWRcL3E2T2tPd3RqSktkXC9MQ0NhcDAifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",15:25 WIB 09/04/26 Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga [J1] (MPD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20240.drm?dev_kaki_09&t=1775745243&uip=103.30.147.120&h=b32eb4ea66856c5ee477e6dd41849b723e59a7b5c4f89d0a7a8aef80db863101
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+https://vid-zero-gelang.disini.workers.dev/20240.mpd?dev_kaki_09&t=1775745243&uip=103.30.147.120&h=b32eb4ea66856c5ee477e6dd41849b723e59a7b5c4f89d0a7a8aef80db863101
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="LIVE EVENT NOW | VOLI",15:25 WIB 09/04/26 Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga [J1] (MPD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20240.drm?dev_kaki_09&t=1775745243&uip=103.30.147.120&h=b32eb4ea66856c5ee477e6dd41849b723e59a7b5c4f89d0a7a8aef80db863101
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+https://vid-zero-gelang.disini.workers.dev/20240.mpd?dev_kaki_09&t=1775745243&uip=103.30.147.120&h=b32eb4ea66856c5ee477e6dd41849b723e59a7b5c4f89d0a7a8aef80db863101
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 15:25 WIB Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJqTVBaZmtQTWd6M1lkUDFVa2dqMWN0RUV2OUc0bEVOWmJNQ0JWc0dcL2loT3lJZWZtSG0xelRRa2lFWmlYTk11THp1aTZMQ0JBb3hnUXEyZjFLTERzemFsVXpiMGYxM2FBbk96a2lQWURuQVVGTnVtbm9sSUxGMFBFbWhPb0xtNzRlXC94YitQaU9TMUtSdCs4TkwwUk1GS0N2Rko0anVHMnhPN1JMQjUrK1N4RzdaSVJBYzVjVjZZZHZnYVpZcnRjOXRFdmk2MklGSWxFMzNyaWhSREJRcnc9PSJ9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
+#EXTVLCOPT:network-caching=1000
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRU41TVFqdkhGaEZRUUlac25aMXljVXhWMFAzZkpxczMxcmdadVFucTdoTndDNHJsZm1FR1dIS0Q4MXV3dUZ2UVM4Q201RmJkTEdDNjQwR1dkRFYwYXE1RjlZNWtCNXlKczdKOHV6WlZqMjdBUTJJK2xxMk82V2hOS2I0UXlzYjNodGpjcVV3RVAxWVMrcDdFc0hyUExMVzBkalpHVzVRTDRcL1dKZmF0TGRUZUJ0d2tpNDBNa3YwZCtKVGxzM1JmRVwvOFRsWUtQMXpxc0JtaWJ4UHZaN0FZUUt4SDRYemp6Qkk4ZjFWN2grdllxZGZTUDJFQWdiNEpadTVWSURCT1NMS3FkRXVSMXpIZW10SXVxSGlUSDByUT09In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="LIVE EVENT NOW | VOLI", 15:25 WIB Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJqTVBaZmtQTWd6M1lkUDFVa2dqMWN0RUV2OUc0bEVOWmJNQ0JWc0dcL2loT3lJZWZtSG0xelRRa2lFWmlYTk11THp1aTZMQ0JBb3hnUXEyZjFLTERzemFsVXpiMGYxM2FBbk96a2lQWURuQVVGTnVtbm9sSUxGMFBFbWhPb0xtNzRlXC94YitQaU9TMUtSdCs4TkwwUk1GS0N2Rko0anVHMnhPN1JMQjUrK1N4RzdaSVJBYzVjVjZZZHZnYVpZcnRjOXRFdmk2MklGSWxFMzNyaWhSREJRcnc9PSJ9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
+#EXTVLCOPT:network-caching=1000
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRU41TVFqdkhGaEZRUUlac25aMXljVXhWMFAzZkpxczMxcmdadVFucTdoTndDNHJsZm1FR1dIS0Q4MXV3dUZ2UVM4Q201RmJkTEdDNjQwR1dkRFYwYXE1RjlZNWtCNXlKczdKOHV6WlZqMjdBUTJJK2xxMk82V2hOS2I0UXlzYjNodGpjcVV3RVAxWVMrcDdFc0hyUExMVzBkalpHVzVRTDRcL1dKZmF0TGRUZUJ0d2tpNDBNa3YwZCtKVGxzM1JmRVwvOFRsWUtQMXpxc0JtaWJ4UHZaN0FZUUt4SDRYemp6Qkk4ZjFWN2grdllxZGZTUDJFQWdiNEpadTVWSURCT1NMS3FkRXVSMXpIZW10SXVxSGlUSDByUT09In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 15:25 WIB Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga (CADANGAN)
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ4R1liWjVVWlJweUZNcFZVWU0rZjBWMGFrQWxqN0JKMW44T0U3aEhlTWh2XC9GWGNUV3dCUWFqUmFZQUlPWlRwN25WTHNvQVhcL1BjemY1V3hBVXdnNUR6Vm5sUGNUWmcyWEVYNmlMZ0ZWM2hhOEVCZkxScGJ2Z01PbGV6SW5keWI0QjR1SDhZTmNQdlFYR2pkU1RCUUI5WVwvdDE0TTBUdlZadUNBVmhcL2xoNXV3PSJ9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
+#EXTVLCOPT:network-caching=1000
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRlk3MkpUTmUzQ1BOQjZKUFNPOTM3dFNwNkY4SCttWUlUYVE3dU9PU291WWc2Q3FMNnlvamhHNTFoTVlxcjNPSVwvU21vekNWQ0Rqc2Zvd21vVDl4V1FabnRQaUxOMzJranpIRDhJcWNvZ25sNzZKZkNrc21uM0hRVzJpS2NHT3lsMGtVeHhSakVJY1U5T1BZemZYbTZpbmx5bmFEXC84UlNEcFlOQU14dlNtWjlLcnJJWlc1bm1ZajlZUm1BdWxSU2x0a21haHh6S0EwanhNOFBENVwvUVJjOSt3dkE5cFB2QUZYYlR2NWxSelA5ZXZ5RjJiVTVjblYwMEZpaGZpNTFHdiJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="LIVE EVENT NOW | VOLI", 15:25 WIB Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga (CADANGAN)
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ4R1liWjVVWlJweUZNcFZVWU0rZjBWMGFrQWxqN0JKMW44T0U3aEhlTWh2XC9GWGNUV3dCUWFqUmFZQUlPWlRwN25WTHNvQVhcL1BjemY1V3hBVXdnNUR6Vm5sUGNUWmcyWEVYNmlMZ0ZWM2hhOEVCZkxScGJ2Z01PbGV6SW5keWI0QjR1SDhZTmNQdlFYR2pkU1RCUUI5WVwvdDE0TTBUdlZadUNBVmhcL2xoNXV3PSJ9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
+#EXTVLCOPT:network-caching=1000
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRlk3MkpUTmUzQ1BOQjZKUFNPOTM3dFNwNkY4SCttWUlUYVE3dU9PU291WWc2Q3FMNnlvamhHNTFoTVlxcjNPSVwvU21vekNWQ0Rqc2Zvd21vVDl4V1FabnRQaUxOMzJranpIRDhJcWNvZ25sNzZKZkNrc21uM0hRVzJpS2NHT3lsMGtVeHhSakVJY1U5T1BZemZYbTZpbmx5bmFEXC84UlNEcFlOQU14dlNtWjlLcnJJWlc1bm1ZajlZUm1BdWxSU2x0a21haHh6S0EwanhNOFBENVwvUVJjOSt3dkE5cFB2QUZYYlR2NWxSelA5ZXZ5RjJiVTVjblYwMEZpaGZpNTFHdiJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mX2j28qbDiMEJ-FzevbZOSBbYf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007956/4c0e15.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 19:00 WIB Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi - Proliga
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kyre6H94aHF30DghyxxiNDBv94Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008015/ab6742.jpg" group-title="BRI SUPER LEAGUE", 15:00 WIB PSIM Jogja vs PSM Makassar - BRI Super League
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiMXJcL0Z1Y2o2MmdEWHpVT3ZuMktqSkUzdFNzZzgwUHljNU9NQVN3dmhvUlRKQjJaVVZOWDB3djdhYnNkamRWWWthdzdGK3V2YWI5aUdHMUxmXC82VXNZTkJVWFhyXC9KdHBXV2VCbTVFM3NNZ2N6ODE4a21kNTRJQlFcL3VjdUlFZ3dXcEtkQjBjQ0txRTBtUU8rOExBeFhjZkJiZkZDZ0tJcDRQMlB3MjB3bko4NUhTekhJNzFTT2dkbE9saXBTU1dhRVlVV0NFdTEwdlhDcTZYQ2JwXC94b0pkYlcxdkk5SWZybUhQNEgzUXNZUUtjPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PVaWG2Pnc0QIMEAK1JBPc_sB0gw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007958/c9c3aa.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 15:25 WIB Final Four Putri: Jakarta Electric PLN Mobile vs Jakarta Popsivo Polwan - Proliga
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiaTZ3TXVGTHhKSkg4SW9oRDBzTGNFXC91ZHZHT0grK25UYkJteVJGQ3NiZ1wvUXRzT09NZmZDUkNTWWxjdFhLUEpDeUZSdkhuN0tBRzFnSkVTVFJ2T09rNVwvbW9Hd1ZORkhDVTI3ZlZXXC9yQnV5Z0VRaWM2RFlVajFCSmFiZnFsdVVzblNka05qeTJCM3Vyd0dVXC9wZVE2VEpRdlNVdEtwQ204T3pYQzNGa21rRFNDNkx3a1A5WStBY21CaUtcL0hwVkJ1dW10d0RyOGFrbzRiT1NXYitiMGprWGdCcld2VXE1UHpaMktKV3VuRitpdz0ifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eQ_3awWOARzFhuXOUKRhbSdsQL0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007959/819f9e.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 18:30 WIB Final Four Putra: Surabaya Samator vs Jakarta Garuda Jaya - Proliga
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRzJ0ZGJBUmNQOEp1cWhQbHRhSVhDQW1ZOUowd2gwamlXbUJBXC92RHZpTkp5K256N2tnUW1hdzB0eUc1OGpyZW4wc2N6azJ3NXRrVkNwMlwvS1JwU1pFTE5yRnZVdlYyS3hUNUs3b0pZXC9UblVvTythazArWUMycTRpK2NWK1JaMXVzR1FtMTkrM2ZnN3JzaktON29kMjZUNFlrVDhjSlp4VkE1OGV2T3B0bWFaUVVuR3RDUXptZVwvQkN6aExVQjd5eHJuTXVpTm5JU2RucmxQUDdtRUkwbmEyNVFJc1FPQ09LSXUzKzU2ZDE4Y009In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JCwNBGJ9rA5Zktl0eDM3FfysIqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008007/f6c6bd.jpg" group-title="BRI SUPER LEAGUE", 19:00 WIB PERSITA vs Arema FC - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1-vU40ABOSqFMqlUKFqxiOUfZtA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008440/d51bec.jpg" group-title="LIGA ITALIA", 01:30 WIB Roma vs Pisa - Serie A
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVGI3Y29TOUE5V2dVWFwvWFJPUEs0Y1FDeUl0Q2owRUQ3K3NUOUdFem05TDNDeXhHNXk0cTZVbFFYaks0NURnYm9oQ09EcHVER1FjNjJQdnpHU3cwM1h1V29TdUQxRURTY25DUDc4OFwvdjh1TGt3Ujk4a3ZYcktTOWpsVWR4cVFzSXNIRkJPVG04Vmd2eVRZS2lQaGhjSVpaT3hhdllrWkxPbTZxUmxJamVDWjlxTXJ4ZVI1TCs5RUJiSFR3XC9LMWl2MWRBMVZ6VHJ2YnpaT1hCbWpLM2YwTHltN0piNnZCcUxUMUdodTJObVNJQT0ifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ota6be4Zmm4Xp2eP3rEhZcfELQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008092/2094b1.jpg" group-title="BRI SUPER LEAGUE", 15:22 WIB Garudayaksa FC vs PSMS Medan - Pegadaian Championship
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoicUVcL2JqcGxFTE9uU0g4ZFIwem1mNHZEZUY2RXE2MXQ1MVVLOXBTem9tekVNczR3M0paTWxpSE5TUklYOU94UzJnb2xxTElxcTc2VnpqYytzUGR5a0h0WTl4bHJXVGZsWWNmbzZoVE80QTVxaUMxTDF5M1hUUUJKbWdwUytqT2Q0TGZCdDFucEVYZnhibGQ5RDZUcGV0QjJcL1hVUGZcL1E5QVNsT0c1akJiTDFVM3BYK1FMQW1ybUpVOThTcEduZTRZaWFuamhnT3RudlpWXC9RcFo2K3d6MUF0SEhiYnpObzgwS21iSTNKa3MzWVE9In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hxk3uHqDdQC4NpQnE0SjSz5hR1M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008220/c25e28.jpg" group-title="BRI SUPER LEAGUE", 15:22 WIB Madura United FC vs PERSIK Kediri - BRI Super League
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVUd3aDJOR3RHdkZWVERsSzJyTkZzSmJVNFdGeVR3YXIzRWMzZFRGWjdmWUdBMGtWME9tUmlScklCc3M3anRuWVV1SFlwUjdKRDcwb3UrdmNsMEFrdmtcL3Y3S2FpbWw2bXU1RHNNc3pHek0wQzRSam1WbkF6bFZjOW1yNzBhNjlWZFlcL1EwbnB1Z1VTSGxZaHZcL21KcVwvemZoWmQrZnozWlJFRTV6WnFQaGk3c1UrTVJNSERmcUYyOGhzUUFXVVBRaTFBK25wa29zWktwSWZ2cjhaSFdwOW9GNG44Wm8rXC9BK0NFTFN4dDA0Sm04PSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/N367BIxU8nO_WWzAIeCXE2nyliA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008090/f584d8.jpg" group-title="BRI SUPER LEAGUE", 15:22 WIB Persiku Kudus vs PSIS Semarang - Pegadaian Championship
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiQUpRWkthZk1jRmtlTGoxUVN2dm83dnFoUDFhcmJhZDV5VVVpa2UxVzR3T29rYWZpeW1SN2szaEU5OHA1K3VjRnVtZHBIK0xqQWduR1lRWnFcL3QyZFVcL2xaMDFXZVBiOUZlZmZwSmZPQ0pJeCtmSVo1MWxoTk1nbTUwWUNhZys2ZHJNNUpvRlpVRTZCbEF2NUlpTG9nM1NYMTFYR0hLa2xKcFRmRjFmT1lZNXgrck0yOU9HXC9cL0ZJQWdrOHM1QTZVTlExVm1RUGNMRjFYb1c4eUJTcFRBcmhyY05mN09valltQzhLMVY3NWViXC9jPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/k0h4UWCj5BcVdeji-02CXsuNY14=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007960/b0e433.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 15:25 WIB Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Popsivo Polwan - Proliga
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVEhaVEpSRUd5dDVoQU01VE13N29FdjBBR1dvY1E5R1pwWkVTSXBHQzRxeE1yQWVqc2VJMVVmWWY1c3VNUTI0Ynh4SGJUVDdqU21zSERmMmpqUU1RZ0hIY3I2ZFFxWlpUOUYwcmVzWWtodWRqTXNUNGFqUHZ5QzR2Yk40YUx5cHR5NkdCRlRXMlZLTUkxdnkwS1BuRGx6ekl3YnJSTERUemdYKzFcL0pQQW5ITzZ4WHFlQWNVRlwvblhYaGtzaWwycks5QVI5d2ZiYkVmZUUzdFZCYkVFTFJ6eU9Zd0hCMVQrOGFzSEp3ZkJCTlNnPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FJIL0JxEFT-hxVxtclcec1rLP6U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008236/2cbcea.jpg" group-title="BRI SUPER LEAGUE", 15:30 WIB Borneo FC Samarinda vs PSBS Biak - BRI Super League
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoib0IyM09hWHFUR0pQY3hqVTEwV3Jib3BDMitGdUtVNDBUSlpGVXpQaXV4S3VHUUU2akxDdFJsRStkc3FYb3BVQnpNNEFlbVdEMmN4akVYakFYcHZJRXlBMWllRVwvVWtZVW1MaGYyYmVJalMyT01ZMW9PZzNhbXRDeFZkUkZnN3l1RnlpSFNlc2hUNlBLZmw4WXd5bUE3S2xCVWl3bjluTFpVcmFleUttNllTbThGZHhEc3RaNDhvNXdrQUVCWXJVekE1cGlCR2dITWRqVXBjbExiMXh1enAzTGl5alRZbnRyXC9iY0VsbmZoSGdZPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VG3RsQCFCmd1_CexX2KJ40FePtc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008027/258b86.jpg" group-title="BRI SUPER LEAGUE", 16:52 WIB Persipura Jayapura vs Persela Lamongan - Pegadaian Championship
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRFF6aEFoY0haQWVHUmRkTUxMbWlJMlVHckt2UkZSemloZGEzUmdPaTYxZzZiT2NtblRNbHhDMW92NXBjTTZxMkpEbndpXC9vb3lEaFlheDZMYW5zSlZ1MEQ3V28xbFJVc2poR3Y5SEFvMU5WUndcL1cyZ0djZXpqNmliWkQ0XC9QVzZTQ0l6YUgwNndBMEJUMUpvQlRzdTlHMVwvVXk1enRBbmRoYnZFcWF4QjhrR0g5VWhGXC84a1VrcFZTeEtXUnhuM0xlVUtBMTMzclUwamU2VXpYaUVxOU43WHlQM252QTF0WUkzSzlvSFFBNkRZPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/t_Y0FxOBua0wBF4FIO1cdU2brwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007961/9fb93d.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 18:30 WIB Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Garuda Jaya - Proliga
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoid1Z3WFwvdDRHMlNOd2wwME0ycVVSMERvbmxBZnZkMWJUajlFVVVnRnZhUHZmcmpXVW9TRmpEOFwvZE5ZMVwvbXE0bTdcL1pEVERWTUM2YXlSYjFSZXFOSDdiTzJJYjFrUVVSVEtIMGtQMUxMQ2ZNQURQclEwaXk4TEVXclppeGtpcWthc2VzV3JCMVlxa0FZNlRjeWE5cTZpZ3lnS2cxSFNqU05SSmpjTmptaXJlcEk3TkdsNnRcL0ZtcXpYYTg0MmxzcFVtTTZHaGRaVnRQVDVTaGZcL0FIYUhDWnprOU9yaUNCUkNzSTJIWmhtaFlnYz0ifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3lcqK8vWwHix3K-ap1OfAnZbyK8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008218/1d4c24.jpg" group-title="BRI SUPER LEAGUE", 18:30 WIB Jelang Kick Off - PERSIJA vs PERSEBAYA Surabaya - BRI Super League
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiaTdINGYwU0IzU2pjYnVrcFUzNFJjK3JGWHFBb3FCbnZVanpZOVBVMkRmTk9RSnlaNUFFNVdQbGlESFVrU3lRMkowZ1l3VTVMeE5iTnNYZXZ5NUhiZExYS2NMUmJPeEN6YnVUd3FRc0FMS1RWSnpLNEpsOXEzeWpBWDA4bFFUa0VcL2RuZndSQm9IcXJhRnBuTk5EbWtSbGxwKzE2N3J6R3RHWmtHTUs2V0d2dk84c3BLUzRYT0pkVnl5MkFHdEFIQkNNZU5vQ0d1SlFKNmVwblJGVE1kMWtBUWswU3lWSkZQNHpWcWhtd1hWdTA9In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lI6le8DHBw_bDC5anCzdnUlbmSM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008708/336730.jpg" group-title="BRI SUPER LEAGUE", 18:52 WIB PS. Barito Putera vs PSS Sleman - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/94PuQ6bEXEDuy-RljpbRJ165hXA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008221/63e123.jpg" group-title="BRI SUPER LEAGUE", 18:52 WIB PERSIJAP vs Bhayangkara Presisi Lampung FC - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oYvbIBkl73KRa9vM_wGn16eUXNo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008033/d04caf.jpg" group-title="BRI SUPER LEAGUE", 19:00 WIB PERSIJA vs PERSEBAYA Surabaya - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/idmg_uQSIv-6jPEmJ5-z01P5SKc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008445/040088.jpg" group-title="LIGA ITALIA", 19:45 WIB Torino vs Verona - Serie A
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bBmFTCA2M1vi1T9VuqB954Loz_0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008441/6d01ee.jpg" group-title="LIGA ITALIA", 19:45 WIB Cagliari vs Cremonese - Serie A
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Czp2XVQHKSSNIghBElPqIYIVKV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008442/7a2a8c.jpg" group-title="LIGA ITALIA", 22:45 WIB Milan vs Udinese - Serie A
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9RnaaNs5OAKG2doU9BD4i823QuM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008517/251dad.jpg" group-title="LIGA ITALIA", 01:30 WIB Atalanta vs Juventus - Serie A
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiYlF5ZGQzSTc1K2x1K3NMdUZPWXhtUlZCMzUzZjVCZzZmTGFUbWhjaklNdzRUT3FySVg5U3lJNStQUVp3M0lTMGJ4MkNuSG56ejFkKytDV3UyODBMZ3l4ODEyMDdzTlFHMnRmcVd2N3BcL3AzN0hNTU9VYnQ2Ylo5WjROVXZrR3VBTG9HOHdQcHVoaTQ1UTQxNVVZY25LYnpSRXFGOTJpSDBLcXFsektMbVVPZEhLR0F1elptemVDREREVUhFQnZwMTRyTGZQbG94S3dlUWNFTmJhVjZ1cEhWanVWSm9rQVo4RktuYjVKK3pjNW89In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i7nBDRrBFI2qZTxpCKKATqNnvUU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008226/8eaf73.jpg" group-title="BRI SUPER LEAGUE", 15:22 WIB Persipal FC vs Deltras FC - Pegadaian Championship
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiODI1SHZCZU5XQjJKM1RONjQ1UUpMSGpKNXdqU25KYlJXOTEzRCs1TTBWYm92dDRxXC90S05TaVJhZ0pZazFBeW5nTUpsa3d3MDBLRnlZWTdxKzlmaUQzWDVJV0tkV1ZyT2pJRTZSVk5uRjZxZnZWMDJDcVFxcnhpWExESERIRjJ3aUd1Q3ZtVVZjc0VQYVRpN3lqQWJCaHNrMmh4bW45dHdHUlhGK3N4WHZGazJ0dnNqdEtLblpMa2dSSkN2NXBwZ3l0dmZ4Q2JNMGtzcStMdnNiZGlxUEZ5N3BoSDlPNVBrTm9oR3JZZ3FjeGs9In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NselDe6w8BNuNwJJc4yjIcGkMJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008223/1b091f.jpg" group-title="BRI SUPER LEAGUE", 15:22 WIB Persekat Tegal vs Sriwijaya FC - Pegadaian Championship
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiYjhjaXlDN2ZXQjdNd3VXdEpzSTlGWGlTM3VVVFg3Y0VFSFZYQ1Z5dldMWnBVeVNTaEpLcXpCcG5UZHVpaFRPWkNHSDQyaCtrOXFJNTFkdm5hT3hTYU1tR1FSUWlaN2dHcEIzR0hvQmNuR0NkRFlyNHpUVlM4UHZCcmVzU3R2U216TW8xRXRrOEJ2OER0Skx1QmVpTkNSeUZ2a2tCNDhxQXFadk5SWlBpaTlxYVB1R084cnFiU3hJOU9ONURTUTRhaEVTaUQ5c0JEZUwxT01iaDVsMDFacTYxTVFyemRhelFBS3FOVXpuRVh1VT0ifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/h2EbuBuPIHnTn406xsO1KLwChaM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008222/180557.jpg" group-title="BRI SUPER LEAGUE", 15:22 WIB Adhyaksa FC vs Persiraja Banda Aceh - Pegadaian Championship
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiMDRsVk5mREt4WUpVOGpQcGJMOFZSKzdScXB0Tm9iVE5iSmM5WUkwWW1YaTNrRzg1QktscE1WVnk0bklvYkczV0Q3R2NQellnMHVBK2dzVVVrV3o4K0Y3YTdzb0hXTDRvR3Q0NjJFcHdEbWtYSnN6bDVWN2lXTmxrVWVzM09ZcnlcLzI5Z0l4dnBCdjNZU3J6enQ3ME12ZXhwWm10Q2krdFZoYVwvWlFwbW1SQVJQaVo1RG5JU1V1K1cxRmM3cTNUU2piNTU5MTcrU1lNbGl4bEQwQm1ZYis0c0o3eVczRWFnbTdOZ0NuWTJSZDhRPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FhKo_l7wgcwCuNHjsp8mUft2d1M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007963/34c179.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 15:25 WIB Final Four Putri: Jakarta Pertamina Enduro vs Jakarta Electric PLN Mobile - Proliga
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVDN3R1dNNGYwalwveUVtYTFKWFdqeTltdDBCRkJJNWQ0MmMwOXZXSjBuZlJkaFo2S0ZXUGJQZ1B4ajFIaFlHOHVWQUh3dk5zbkkwWnVya09EMm9tdTZaZkEwMjNpN241cVpld2NnaWRJaFNHcnpnU0drT3NiUlhcL1EyMXFCOTFFZ2NkY3NRK0NLRmxBalpRNDkxZXdTclpFREE4KzFzQzNFWFkwdUJpekVnT2NYYThwVW5xb1IraFZlOWFrWCs3Q1ZlbzVPMVoyeTZXZFMwNlo4Y0phR2FkR0x0WmVaa0NHcVFFSGxCRXFcL2NKVT0ifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iCA6BSgrgL8TvVkQp1OpzU7CFjk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008230/6be5fc.jpg" group-title="BRI SUPER LEAGUE", 15:30 WIB PERSIS vs Semen Padang FC - BRI Super League
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiczdleEx1Yll4NFIrUVFGaEw4Uzc3N3FCeFNvYU1GXC9UZU5HZXBEZ21vcGNpRUFJTEpQT2t0Q2JiNGFISUxkanptZTNSdDN5cjBBMEJyVHVtenV1VU9qTGZsVDR3TzBIOW9vM3R0ekxpVEZrSzJXWWt0SWlqOTBmSVdpSTlqMUJtTlJVUTZncytJb3BvV3FIRmtOelJHYkFnRlczK2JCN3NvSWk1U1hxYUd6YU54alk0bEk5d1A2dE1qRk5VVlYzbEVQSUcwTkRJUUVmUUdIejNyMHZPcVhKSldieHBNYTA2OGlkNkhBT3k3M009In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KifqyySB39bf-qfiVoVloaaSXKU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008518/5d7437.jpg" group-title="LIGA ITALIA", 17:15 WIB Genoa vs Sassuolo - Serie A
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiSnMrQWRnUmdNK3BvNkJkbWZWRTEybFk5Rit4bzZWcWZZTnE1eVNCZVJoTlpNOElucW52MjNlKzJYZDZTQjNheXNSK2V1Y0VXS2dBZWxBZUI5cnFrNHBWOXArTk8xOWZxYXd5d1g5M2pzVUlpXC9sd3NrREx2czBcL1hYRmVvbUhicitmeDNEY1RTaHRodVBsMlcwXC9EVWdjUEw2cVkyV1NDbGxmR05ublN1bTZXZEFTU0FTbXdPSnZveFAya0pTTkQ4UjJSZUlLXC9Ma1VnUXkxUzdTcTlsU3BcL1dJUVFwK0U5SGRWQzdLQk83SHg4PSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/H8FK2HIXaANmJOLe7yWdp1ETzdw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007962/4dc423.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 18:30 WIB Final Four Putra: Jakarta Bhayangkara Presisi vs Surabaya Samator - Proliga
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiV2lLSUxEN3lTMEgxbzZ0ang4R3JtVjJGUnlzTlcxZEtKcGo3UE9DYWRUMWNLdjRYXC9rUE9heEVCUVMwQXJuNHFjakNhOGZNTGxpQ3lnR3FybTdOdkZ2a05GWDdKbEtWWWhKalJkUnh1Z05CS1NTOHFiczJGWG04a1hqek9cL3BcL1FHbEdtdzkwQlVST1RHZlhlMVprV1pKUmdCd1pQSDdFbHhjYkV5N2g0SGkzcTNSNjVNUFluUm5mdHF6aFJLUmJZbDI5WFpHT2NBMndIZjNiYURENmd1Mlc2QkNPNkVqNjJYRUNwU1JxZVwvUE09In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/t-e9GUwyhB1MN3tPLnsKnQUEiMs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008219/0c8066.jpg" group-title="BRI SUPER LEAGUE", 18:30 WIB Jelang Kick Off - PERSIB vs Bali United FC - BRI Super League
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVkMyXC9mdGp6b2dMWmVSTTZVbzBTZTRlUjBQTGpzZjN6dmRNek9PS0Q4V2lRWlVIcHhHczJGNVMxQzlJR1BPZWtNQkRPMDYzWTVPSnFFVnd2bys3OUpRWlFcL0F3Q3FlNkFyMG5XNEgzblhUcWVIQlN2QzFhRGZlRkZ1c25nS2tpWmNCZVpiUHVXWXpHRjh1dzBcLytoUTVKbE9VY0RndXduZ2lpTHIxc3BCRWhMWFBZeU5VOTFWNXBvdnpkM3NMQ2JzSnBRcTdJSHdCOXdjQTJlSkhWZXZudThVdzRYOVVuSlZJV0xMYnNXTlN0TT0ifQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KDHl7hTkz0Mfp81InNKj0HMTt4Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008227/bb2e83.jpg" group-title="BRI SUPER LEAGUE", 18:52 WIB PSPS Pekanbaru vs Persikad - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4DOlEINEGleBiAnbzLIQ2PuUaK8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008225/cd44b9.jpg" group-title="BRI SUPER LEAGUE", 18:52 WIB Kendal Tornado FC vs Persiba Balikpapan - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aQHxoxBtJ5OoHuoaWFm_ur4GCB8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008228/449eaa.jpg" group-title="BRI SUPER LEAGUE", 19:00 WIB Sumsel United vs FC Bekasi City - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4Kh9SNi1r1u98Q4zmqSJ_W3CwDs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008232/ca0d4d.jpg" group-title="BRI SUPER LEAGUE", 19:00 WIB PERSIB vs Bali United FC - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0Q47gMAhB38ejn8Ygnxc9lR-T-k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008233/a325c7.jpg" group-title="BRI SUPER LEAGUE", 19:00 WIB Malut United FC vs Dewa United Banten FC - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I9xaTxAilUPdwYjW2OzFHhQSxks=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008519/1dc700.jpg" group-title="LIGA ITALIA", 19:45 WIB Parma vs Napoli - Serie A
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/s79suoM8aq0mc3yneaenfYZXqF8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008520/9adaba.jpg" group-title="LIGA ITALIA", 22:45 WIB Bologna vs Lecce - Serie A
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://nng-phinf.pstatic.net/MjAyNjAzMjRfMSAg/MDAxNzc0MzEyMTAyMjMw.d90m-vQl-Gqdf0jJ5oJ-h1KAN8ZRA7xtUFVXHQax_M0g.xrL5Z7f4wnr9ZhYFTF9wWDRnR2WYLU0-GeeCThinbOYg.PNG/fVTFkJBZYtTZBCgglVkW.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] LCK | KT vs Nongshim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/9381e7d6816e6d915a44a13c0195b202
 #EXTVLCOPT:http-origin=https://chzzk.naver.com
-https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0004/tondhvvyorqxw4zngeulbk6du45qkkd0l8on/9buds1igbdtfbuu1anmmjuc45qkkd0l52a_hls_playlist.m3u8?hdnts=st=1775734114~exp=1775795324~acl=*/tondhvvyorqxw4zngeulbk6du45qkkd0l8on/*~hmac=478571733b84d436f9a4b62548895d4d1fc19ec49421a01c29b4ae0f9c1b4273
+https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0004/tondhvvyorqxw4zngeulbk6du45qkkd0l8on/9buds1igbdtfbuu1anmmjuc45qkkd0l52a_hls_playlist.m3u8?hdnts=st=1775734432~exp=1775795642~acl=*/tondhvvyorqxw4zngeulbk6du45qkkd0l8on/*~hmac=1e610a8e79d09f15b10ca31b718aca2724c4d93b5ab9235fc7af8a054bcf216a
 #EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/wkbl/default/09.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] WKBL | Hana Bank vs Samsung Life Insurance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260409046032/relay
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/ospihxhipxlgtunfbasc3clidbzes31vfs5c/playlist.m3u8?hdnts=st=1775734097~exp=1775766507~acl=*/ospihxhipxlgtunfbasc3clidbzes31vfs5c/*~hmac=138a40f57936f3b42dc86be50b2db591e60b1f20cd8854ad0abc3293d67b35a8
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0002/ospihxhipxlgtunfbasc3clidbzes31vfs5c/playlist.m3u8?hdnts=st=1775734427~exp=1775766837~acl=*/ospihxhipxlgtunfbasc3clidbzes31vfs5c/*~hmac=bb444fe426df18862be4177cdb62877e7452511d801b8b03a7dadb62c35d7cdc
 #EXTINF:-1 tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxCj4CEDBDcQfLSBS4QiRPsMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp" group-title="BRI SUPER LEAGUE",[Upcoming ] New York Knicks vs Boston Celtics
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🔴 🔴 LIVE EVENT NOW",[Live] Auto Racing | Auto Racing
@@ -1013,35 +1288,42 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=bd6914fbd13a5fc78681b02aa74157db&x-time=1775733360
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=b4bea4e4ae9539bdd126d595b783ff8a&x-time=1775734260
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png" group-title="🔴 🔴 LIVE EVENT NOW",[Live] ORIX Buffaloes VS Chiba Lotte Marines | NPB
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=a926aae295cdcef4908fc85701d3e975&x-time=1775733360
+https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=a5429a7feec83eda06efed9e13704276&x-time=1775734260
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png" group-title="🔴 🔴 LIVE EVENT NOW",[Live] Fukuoka SoftBank Hawks VS Saitama Seibu Lions | NPB
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=eecc28b76823395fc726c2bf4e3a1328&x-time=1775733360
+https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=0c971317be64e0c9babd3b8f8c56407a&x-time=1775734260
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png" group-title="🔴 🔴 LIVE EVENT NOW",[Live] Tohoku Rakuten Golden Eagles VS Hokkaido Nippon-Ham Fighters | NPB
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=a1a7c4331b03451175810bcc7cd279f3&x-time=1775733360
+https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=fc071ee388b911aa51cd48fdd43d1eb3&x-time=1775734260
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png" group-title="🔴 🔴 LIVE EVENT NOW",[Live] Hanshin Tigers VS Tokyo Yakult Swallows | NPB
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=9b09e2743159c7d9ddbc79744b12dd72&x-time=1775733360
+https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=315ca9b6173e2e7a1934c4b134f688fb&x-time=1775734260
+#EXTINF:-1 tvg-logo="" group-title="🔴 🔴 LIVE EVENT NOW",[Live] Court Rainier III | Rolex Monte-Carlo Masters
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=3250115233186a31170222a646236f57&x-time=1775734260
 #EXTINF:-1 tvg-logo="" group-title="🔴 🔴 LIVE EVENT NOW",[Live] Court Des Princes | Rolex Monte-Carlo Masters
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1055,7 +1337,7 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/147446_hd/index.m3u8?is_vip=false&
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=4735d1c4ee3b13747737eb0a915d4a77&x-time=1775733360
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=f30a7a7b9ebcbb104bbfcd94f6a66a33&x-time=1775734260
 #EXTINF:-1 tvg-logo="" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Cycling - UCI World Tour | (20.30 WIB) Tuan Rumah vs Tamu
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/jya4sd5icuohkc.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Saudi Pro League | (23.00 WIB) Damac vs Al-Qadisiyah FC (BELUM MULAI)
@@ -1542,32 +1824,32 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=99ef8d23198d6530e071a435a52e50ae&wsABSTime=1775777138
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=a8b7dab283654512b8dff216e8981517&wsABSTime=1775777440
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkh3xxoqg8n/image/small" group-title="🔴 🔴 LIVE EVENT NOW",17:00 WIB - SHAKHTER VS OKZHETPES [KAZ] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=d082afba2596a120313dd4644649c37b&wsABSTime=1775777139
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=7328e777c56f38c60ef85f8fcd43efc8&wsABSTime=1775777441
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghj9x2q82w/image/small" group-title="🔴 🔴 LIVE EVENT NOW",18:00 WIB - NU XU WALES U19 VS NU THUY SY U19 [UEFA-W U19] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=b480d4c59857bf43c9111e28a2e47f09&wsABSTime=1775777141
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=8f47d8be32ce505143838d00445ce3ed&wsABSTime=1775777442
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg80kr6od/image/small" group-title="🔴 🔴 LIVE EVENT NOW",19:00 WIB - SVAY RIENG FC VS MANILA DIGGER FC [ACGL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=ccba2002ca3b5dd0e6d6078809bc076c&wsABSTime=1775777142
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=abf288d1c2616670185034ce1bc339d5&wsABSTime=1775777444
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phk52vm2wd/image/small" group-title="🔴 🔴 LIVE EVENT NOW",19:00 WIB - NU DAN MACH U19 VS NU SERBIA U19 [UEFA-W U19] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=1f83726ebf8a3dd6f3f80c73f45b6ba1&wsABSTime=1775777142
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=49b76813cb21ad5b2ed5923e1d17305d&wsABSTime=1775777444
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/p3glrwytexoqdyj/image/small" group-title="🔴 🔴 LIVE EVENT NOW",18:35 WIB - JIANGSU DRAGONS VS ZHEJIANG CHOUZHOU [CBA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=cd4387b1e1e6b8217e03cb8ee3d2d536&wsABSTime=1775777143
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=fdc62df2ce0f88f04a737557098cfa49&wsABSTime=1775777445
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehl2jkr510/image/small" group-title="🔴 🔴 LIVE EVENT NOW",OFFLINE - LITTLE FRIENDS CLUB VS CHITTAGONG ABAHANI [BGD]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png" group-title="SPORTS FHD",KANTIPUR MAX  HD
@@ -1619,15 +1901,15 @@ http://maxotts.maxdigitaltv.com/x-media/C412/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C250-1763381313.png" group-title="SPORTS FHD",S SPORTS 2 HD
 http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",Auto Racing - Auto Racing
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=a4111809345a7b9064e1a603cd06b1dae77a7cda&x-sign=2e423b286f4b036e7517503452df253d&x-time=1775733300
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=c56f71734a5df7eedc360b12886f15af3a8a706a&x-sign=a8e9b1b9be3fb6fd739fb9888105f2f1&x-time=1775734200
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Orix Buffaloes vs Chiba Lotte Marines - NPB
-https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=a4111809345a7b9064e1a603cd06b1dae77a7cda&x-sign=fcb9f89329ec34d3e3916b7ebd2ea2ff&x-time=1775733300
+https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=c56f71734a5df7eedc360b12886f15af3a8a706a&x-sign=91a1de5da3ac58a904e1b87c5eb70d9e&x-time=1775734200
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Hanshin Tigers vs Tokyo Yakult Swallows - NPB
-https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=a4111809345a7b9064e1a603cd06b1dae77a7cda&x-sign=bf7509f1e517cfc9607cd5e60454afb1&x-time=1775733300
+https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=c56f71734a5df7eedc360b12886f15af3a8a706a&x-sign=234471273e428e21cc8b6126c9edc382&x-time=1775734200
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Saitama%20Seibu%20Lions%20%20NPB.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Fukuoka SoftBank Hawks vs Saitama Seibu Lions - NPB
-https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=a4111809345a7b9064e1a603cd06b1dae77a7cda&x-sign=60924af2fcb652847327bba2276ba774&x-time=1775733300
+https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=c56f71734a5df7eedc360b12886f15af3a8a706a&x-sign=7bdea355a417f5a99d9ae60ba85f7d51&x-time=1775734200
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Tohoku Rakuten Golden Eagles vs Hokkaido Nippon-Ham Fighters - NPB
-https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=a4111809345a7b9064e1a603cd06b1dae77a7cda&x-sign=fefa6286caf0c83cf9e0efa42b38c25b&x-time=1775733300
+https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=c56f71734a5df7eedc360b12886f15af3a8a706a&x-sign=8ed789c00384d9cca089280de1e39899&x-time=1775734200
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="LIVE EVENT | FAWA",19:00 WIB | [AFC Champions League] Svay Rieng vs Manila Digger
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1724,6 +2006,11 @@ http://195.178.110.2/hls/KKKK.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.2/hls/AVVVVQQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0ab30ccb3c3f94ad592e8c357eff7ea4.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (18:30 WIB) Simal FK vs Mingachevir [BLV DR THANH]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/79665343.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (17:00 WIB) Shakhtar Karagandy vs Okzhetpes [BLV RONG DO]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -1734,11 +2021,6 @@ https://live5.msrktz.app/live/88508431.m3u8
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0ab30ccb3c3f94ad592e8c357eff7ea4.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (18:30 WIB) Simal FK vs Mingachevir [BLV DR THANH]
-#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
-#EXTVLCOPT:http-origin=https://www.spindlersptown.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/79665343.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (19:00 WIB) Vikingur Reykjavik Nu vs Manila Digger FC [BLV REVIVE]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -4057,32 +4339,32 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=99ef8d23198d6530e071a435a52e50ae&wsABSTime=1775777138
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=a8b7dab283654512b8dff216e8981517&wsABSTime=1775777440
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkh3xxoqg8n/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - SHAKHTER VS OKZHETPES [KAZ] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=d082afba2596a120313dd4644649c37b&wsABSTime=1775777139
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=7328e777c56f38c60ef85f8fcd43efc8&wsABSTime=1775777441
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghj9x2q82w/image/small" group-title="LIVE EVENT | XOILACZ AI",18:00 WIB - NU XU WALES U19 VS NU THUY SY U19 [UEFA-W U19] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=b480d4c59857bf43c9111e28a2e47f09&wsABSTime=1775777141
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=8f47d8be32ce505143838d00445ce3ed&wsABSTime=1775777442
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghg80kr6od/image/small" group-title="LIVE EVENT | XOILACZ AI",19:00 WIB - SVAY RIENG FC VS MANILA DIGGER FC [ACGL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=ccba2002ca3b5dd0e6d6078809bc076c&wsABSTime=1775777142
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=abf288d1c2616670185034ce1bc339d5&wsABSTime=1775777444
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phk52vm2wd/image/small" group-title="LIVE EVENT | XOILACZ AI",19:00 WIB - NU DAN MACH U19 VS NU SERBIA U19 [UEFA-W U19] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=1f83726ebf8a3dd6f3f80c73f45b6ba1&wsABSTime=1775777142
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=49b76813cb21ad5b2ed5923e1d17305d&wsABSTime=1775777444
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/p3glrwytexoqdyj/image/small" group-title="LIVE EVENT | XOILACZ AI",18:35 WIB - JIANGSU DRAGONS VS ZHEJIANG CHOUZHOU [CBA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=cd4387b1e1e6b8217e03cb8ee3d2d536&wsABSTime=1775777143
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=fdc62df2ce0f88f04a737557098cfa49&wsABSTime=1775777445
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehl2jkr510/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - LITTLE FRIENDS CLUB VS CHITTAGONG ABAHANI [BGD]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="LIVE EVENT FAWANEWS",19:00 WIB | [AFC Champions League] Svay Rieng vs Manila Digger
@@ -4181,6 +4463,11 @@ http://195.178.110.2/hls/KKKK.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.2/hls/AVVVVQQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0ab30ccb3c3f94ad592e8c357eff7ea4.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (18:30 WIB) Simal FK vs Mingachevir [BLV DR THANH]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/79665343.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (17:00 WIB) Shakhtar Karagandy vs Okzhetpes [BLV RONG DO]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -4191,11 +4478,6 @@ https://live5.msrktz.app/live/88508431.m3u8
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0ab30ccb3c3f94ad592e8c357eff7ea4.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (18:30 WIB) Simal FK vs Mingachevir [BLV DR THANH]
-#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
-#EXTVLCOPT:http-origin=https://www.spindlersptown.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/79665343.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (19:00 WIB) Vikingur Reykjavik Nu vs Manila Digger FC [BLV REVIVE]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
