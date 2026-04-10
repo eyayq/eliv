@@ -1,14 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.00 WIB 11/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.09 WIB 11/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Giàng A Kê)
-https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Giàng A Kê)
-https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Giàng A Mèo)
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Giàng A Mèo)
 https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Giàng A Kê)
+https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Giàng A Kê)
+https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Lữ Bố (Giàng Phụng Tiên))
@@ -21,14 +25,6 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="4jwq2ghnv0z9m0v" tvg-name="Real Madrid vs Girona FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC",[LIVE 02:00 WIB | 11/04/26] Real Madrid vs Girona FC (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="4wyrn4h6e46wq86" tvg-name="West Ham United vs Wolverhampton Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers",[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="4wyrn4h6e46wq86" tvg-name="West Ham United vs Wolverhampton Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers",[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="4wyrn4h6e46wq86" tvg-name="West Ham United vs Wolverhampton Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers",[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="4wyrn4h6e46wq86" tvg-name="West Ham United vs Wolverhampton Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers",[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers (Giàng A Gấu)
@@ -37,6 +33,10 @@ https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa69089696
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="4wyrn4h6e46wq86" tvg-name="West Ham United vs Wolverhampton Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers",[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="4wyrn4h6e46wq86" tvg-name="West Ham United vs Wolverhampton Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers",[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers (Giàng A Voi)
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="4wyrn4h6e46wq86" tvg-name="West Ham United vs Wolverhampton Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers",[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers (Giàng A Voi)
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="4wyrn4h6e46wq86" tvg-name="West Ham United vs Wolverhampton Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers",[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers (Giàng A Khoai)
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="4wyrn4h6e46wq86" tvg-name="West Ham United vs Wolverhampton Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers",[LIVE 02:00 WIB | 11/04/26] West Ham United vs Wolverhampton Wanderers (Giàng A Khoai)
@@ -57,10 +57,6 @@ https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032a
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="dn1m1ghl901lmoe" tvg-name="Red Bull Salzburg vs LASK Linz" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 00:30 WIB | 11/04/26] Red Bull Salzburg vs LASK Linz",[LIVE 00:30 WIB | 11/04/26] Red Bull Salzburg vs LASK Linz (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="vjxm8ghe5p49r6o" tvg-name="Vaasa VPS vs Jaro" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 00:00 WIB | 11/04/26] Vaasa VPS vs Jaro",[LIVE 00:00 WIB | 11/04/26] Vaasa VPS vs Jaro (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="vjxm8ghe5p49r6o" tvg-name="Vaasa VPS vs Jaro" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 00:00 WIB | 11/04/26] Vaasa VPS vs Jaro",[LIVE 00:00 WIB | 11/04/26] Vaasa VPS vs Jaro (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="1l4rjnh9n314m7v" tvg-name="Aarhus AGF vs Nordsjaelland" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 00:00 WIB | 11/04/26] Aarhus AGF vs Nordsjaelland",[LIVE 00:00 WIB | 11/04/26] Aarhus AGF vs Nordsjaelland (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="1l4rjnh9n314m7v" tvg-name="Aarhus AGF vs Nordsjaelland" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 00:00 WIB | 11/04/26] Aarhus AGF vs Nordsjaelland",[LIVE 00:00 WIB | 11/04/26] Aarhus AGF vs Nordsjaelland (HOÀNG CÁI)
@@ -71,10 +67,14 @@ https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="l5ergph42e9vr8k" tvg-name="FC Eindhoven vs Roda JC" tvg-logo="https://img.cdnok9.com/football/competition/a808c778b477ba6dd32d5290b9d133cc.png" group-title="[LIVE 01:00 WIB | 11/04/26] FC Eindhoven vs Roda JC",[LIVE 01:00 WIB | 11/04/26] FC Eindhoven vs Roda JC (PHONG VÂN)
 https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="4wyrn4h6exxzq86" tvg-name="Marseille vs Metz" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 02:05 WIB | 4m | 11/04/26] Marseille vs Metz",[UPCO 02:05 WIB | 4m | 11/04/26] Marseille vs Metz (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="4wyrn4h6exxzq86" tvg-name="Marseille vs Metz" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 11/04/26] Marseille vs Metz",[LIVE 02:05 WIB | 11/04/26] Marseille vs Metz (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="4wyrn4h6exxzq86" tvg-name="Marseille vs Metz" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 02:05 WIB | 4m | 11/04/26] Marseille vs Metz",[UPCO 02:05 WIB | 4m | 11/04/26] Marseille vs Metz (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="4wyrn4h6exxzq86" tvg-name="Marseille vs Metz" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 11/04/26] Marseille vs Metz",[LIVE 02:05 WIB | 11/04/26] Marseille vs Metz (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="n54qllhneg2pqvy" tvg-name="West Bromwich Albion vs Millwall" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 02:00 WIB | 11/04/26] West Bromwich Albion vs Millwall",[LIVE 02:00 WIB | 11/04/26] West Bromwich Albion vs Millwall (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="n54qllhneg2pqvy" tvg-name="West Bromwich Albion vs Millwall" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 02:00 WIB | 11/04/26] West Bromwich Albion vs Millwall",[LIVE 02:00 WIB | 11/04/26] West Bromwich Albion vs Millwall (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="y39mp1h609eomoj" tvg-name="St. Patricks Athletic vs Shamrock Rovers" tvg-logo="https://img.cdnok9.com/football/competition/c3f18837ca574ec324aa59a4459e1fb5.png" group-title="[LIVE 02:00 WIB | 11/04/26] St. Patricks Athletic vs Shamrock Rovers",[LIVE 02:00 WIB | 11/04/26] St. Patricks Athletic vs Shamrock Rovers (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="y39mp1h609eomoj" tvg-name="St. Patricks Athletic vs Shamrock Rovers" tvg-logo="https://img.cdnok9.com/football/competition/c3f18837ca574ec324aa59a4459e1fb5.png" group-title="[LIVE 02:00 WIB | 11/04/26] St. Patricks Athletic vs Shamrock Rovers",[LIVE 02:00 WIB | 11/04/26] St. Patricks Athletic vs Shamrock Rovers (Giàng A Húp)
