@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:48 WIB 10/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:48 WIB 10/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:01 WIB 10/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:01 WIB 10/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[21:00 WIB 10/04/26] Carlos Alcaraz vs Alexander Bublik [FHD] [LIVE]
@@ -20,22 +20,22 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 10/04/26] Slavia Sofia vs Septemvri Sofia [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 10/04/26] Karlsruher SC vs Arminia Bielefeld [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 10/04/26] Karlsruher SC vs Arminia Bielefeld [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 10/04/26] Karlsruher SC vs Arminia Bielefeld [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 10/04/26] Karlsruher SC vs Arminia Bielefeld [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 10/04/26] Karlsruher SC vs Arminia Bielefeld [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 10/04/26] Karlsruher SC vs Arminia Bielefeld [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png" group-title="Bundesliga 2",[23:30 WIB 10/04/26] Holstein Kiel  [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png" group-title="Bundesliga 2",[23:30 WIB 10/04/26] Holstein Kiel  [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png" group-title="Bundesliga 2",[23:30 WIB 10/04/26] Holstein Kiel  [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png" group-title="Bundesliga 2",[23:30 WIB 10/04/26] Holstein Kiel  [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png" group-title="Bundesliga 2",[23:30 WIB 10/04/26] Holstein Kiel  [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/cc/2._Bundesliga_logo.png" group-title="Bundesliga 2",[23:30 WIB 10/04/26] Holstein Kiel  [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[00:00 WIB 11/04/26] Paris FC vs Monaco [FHD] [NANTIKAN]
