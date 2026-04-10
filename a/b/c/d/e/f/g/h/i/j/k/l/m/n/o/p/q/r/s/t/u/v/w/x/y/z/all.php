@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.10 WIB 11/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.19 WIB 11/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="jw2r09hkn22nrz8" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco",[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="jw2r09hkn22nrz8" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco",[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="jw2r09hkn22nrz8" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco",[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="jw2r09hkn22nrz8" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco",[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="jw2r09hkn22nrz8" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco",[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="jw2r09hkn22nrz8" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco",[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco (Giàng A Gấu)
@@ -21,10 +21,10 @@ https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df7
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="jw2r09hkn22nrz8" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco",[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="jw2r09hkn22nrz8" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco",[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="jw2r09hkn22nrz8" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco",[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="jw2r09hkn22nrz8" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco",[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="jw2r09hkn22nrz8" tvg-name="Paris FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco",[LIVE 00:00 WIB | 11/04/26] Paris FC vs AS Monaco (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="x7lm7phjv94xm2w" tvg-name="Al-Ain FC vs Shabab Al Ahli" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 23:30 WIB | 10/04/26] Al-Ain FC vs Shabab Al Ahli",[LIVE 23:30 WIB | 10/04/26] Al-Ain FC vs Shabab Al Ahli (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="x7lm7phjv94xm2w" tvg-name="Al-Ain FC vs Shabab Al Ahli" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 23:30 WIB | 10/04/26] Al-Ain FC vs Shabab Al Ahli",[LIVE 23:30 WIB | 10/04/26] Al-Ain FC vs Shabab Al Ahli (Giàng A Sếu)
@@ -33,14 +33,14 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="965mkyhkwe62r1g" tvg-name="Hobro vs Aalborg" tvg-logo="https://img.cdnok9.com/football/competition/90f0e3d0c2b3d1d11df55d7d4a012f16.png" group-title="[LIVE 23:00 WIB | 10/04/26] Hobro vs Aalborg",[LIVE 23:00 WIB | 10/04/26] Hobro vs Aalborg (Giàng A Hổ)
 https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="3glrw7hn3zwlqdy" tvg-name="SJK Seinajoen vs IFK Mariehamn" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn",[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="3glrw7hn3zwlqdy" tvg-name="SJK Seinajoen vs IFK Mariehamn" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn",[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="3glrw7hn3zwlqdy" tvg-name="SJK Seinajoen vs IFK Mariehamn" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn",[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="3glrw7hn3zwlqdy" tvg-name="SJK Seinajoen vs IFK Mariehamn" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn",[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="3glrw7hn3zwlqdy" tvg-name="SJK Seinajoen vs IFK Mariehamn" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn",[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="3glrw7hn3zwlqdy" tvg-name="SJK Seinajoen vs IFK Mariehamn" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn",[LIVE 23:00 WIB | 10/04/26] SJK Seinajoen vs IFK Mariehamn (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="ednm9whw98zvryo" tvg-name="Wisla Plock vs Lechia Gdansk" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 23:00 WIB | 10/04/26] Wisla Plock vs Lechia Gdansk",[LIVE 23:00 WIB | 10/04/26] Wisla Plock vs Lechia Gdansk (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="ednm9whw98zvryo" tvg-name="Wisla Plock vs Lechia Gdansk" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 23:00 WIB | 10/04/26] Wisla Plock vs Lechia Gdansk",[LIVE 23:00 WIB | 10/04/26] Wisla Plock vs Lechia Gdansk (Giàng A Chiến)
@@ -73,7 +73,7 @@ https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc1225
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="dn1m1ghlne38moe" tvg-name="Fortuna Dusseldorf vs Holstein Kiel" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 23:30 WIB | 10/04/26] Fortuna Dusseldorf vs Holstein Kiel",[LIVE 23:30 WIB | 10/04/26] Fortuna Dusseldorf vs Holstein Kiel (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="dn1m1ghl901lmoe" tvg-name="Red Bull Salzburg vs LASK Linz" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[UPCO 00:30 WIB | 19m | 11/04/26] Red Bull Salzburg vs LASK Linz",[UPCO 00:30 WIB | 19m | 11/04/26] Red Bull Salzburg vs LASK Linz (Giàng A Choén)
+#EXTINF:-1 tvg-id="dn1m1ghl901lmoe" tvg-name="Red Bull Salzburg vs LASK Linz" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[UPCO 00:30 WIB | 9m | 11/04/26] Red Bull Salzburg vs LASK Linz",[UPCO 00:30 WIB | 9m | 11/04/26] Red Bull Salzburg vs LASK Linz (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="dn1m1ghl901lmoe" tvg-name="Red Bull Salzburg vs LASK Linz" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[UPCO 00:30 WIB | 19m | 11/04/26] Red Bull Salzburg vs LASK Linz",[UPCO 00:30 WIB | 19m | 11/04/26] Red Bull Salzburg vs LASK Linz (Giàng A Choén)
+#EXTINF:-1 tvg-id="dn1m1ghl901lmoe" tvg-name="Red Bull Salzburg vs LASK Linz" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[UPCO 00:30 WIB | 9m | 11/04/26] Red Bull Salzburg vs LASK Linz",[UPCO 00:30 WIB | 9m | 11/04/26] Red Bull Salzburg vs LASK Linz (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
