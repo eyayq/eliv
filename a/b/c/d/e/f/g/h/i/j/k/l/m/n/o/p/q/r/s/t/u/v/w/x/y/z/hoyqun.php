@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:21 WIB 10/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:21 WIB 10/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:37 WIB 10/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:37 WIB 10/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[12:00 WIB 10/04/26] Riko GUNJI vs WANG Zhi Yi [FHD] [LIVE]
@@ -19,15 +19,6 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[12:30 WIB 10/04/26] GAO Fang Jie vs Akane YAMAGUCHI (Last dance của Gao) [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 10/04/26] PSIM Yogyakarta vs PSM Makassar [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 10/04/26] PSIM Yogyakarta vs PSM Makassar [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 10/04/26] PSIM Yogyakarta vs PSM Makassar [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[15:30 WIB 10/04/26] KIM Won Ho / SEO Seung Jae vs Alfian Fajar RAYHAN / Devin Artha WAHYUDI [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
@@ -56,15 +47,6 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[16:00 WIB 10/04/26] Joao Fonseca vs Alexander Zverev [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:35 WIB 10/04/26] Central Coast Mariners vs Brisbane Roar [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:35 WIB 10/04/26] Central Coast Mariners vs Brisbane Roar [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:35 WIB 10/04/26] Central Coast Mariners vs Brisbane Roar [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaYcxaVuzOwLhmS4hOIfZWjkcRP5VXL6G-Q&s" group-title="Fustal Đông Nam Á 2026",[17:00 WIB 10/04/26] Việt Nam vs Indonesia [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
@@ -83,13 +65,13 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[17:30 WIB 10/04/26] Felix Auger-Aliassime vs Jannik Sinner [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 10/04/26] Hải Phòng vs CA TP.HCM [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 10/04/26] Hải Phòng vs CA TP.HCM [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 10/04/26] Hải Phòng vs CA TP.HCM [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 10/04/26] Hải Phòng vs CA TP.HCM [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 10/04/26] Hải Phòng vs CA TP.HCM [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 10/04/26] Hải Phòng vs CA TP.HCM [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:30 WIB 10/04/26] Qingdao vs Liaoning [FHD] [NANTIKAN]
