@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.19 WIB 10/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.24 WIB 10/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="1l4rjnh9nov8m7v" tvg-name="Macara vs America de Cali" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 07:30 WIB | 10/04/26] Macara vs America de Cali",[LIVE 07:30 WIB | 10/04/26] Macara vs America de Cali (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="1l4rjnh9nov8m7v" tvg-name="Macara vs America de Cali" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 07:30 WIB | 10/04/26] Macara vs America de Cali",[LIVE 07:30 WIB | 10/04/26] Macara vs America de Cali (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="l7oqdehgjp42r51" tvg-name="Carabobo vs Red Bull Bragantino" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 07:30 WIB | 10/04/26] Carabobo vs Red Bull Bragantino",[LIVE 07:30 WIB | 10/04/26] Carabobo vs Red Bull Bragantino (Giàng A Mèo)
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="l7oqdehgjp42r51" tvg-name="Carabobo vs Red Bull Bragantino" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 07:30 WIB | 10/04/26] Carabobo vs Red Bull Bragantino",[LIVE 07:30 WIB | 10/04/26] Carabobo vs Red Bull Bragantino (Giàng A Mèo)
@@ -17,7 +21,3 @@ https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="318q66hx8e72qo9" tvg-name="Independiente Santa Fe vs CA Penarol" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 09:00 WIB | 10/04/26] Independiente Santa Fe vs CA Penarol",[LIVE 09:00 WIB | 10/04/26] Independiente Santa Fe vs CA Penarol (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="1l4rjnh9nov8m7v" tvg-name="Macara vs America de Cali" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 07:30 WIB | 10/04/26] Macara vs America de Cali",[LIVE 07:30 WIB | 10/04/26] Macara vs America de Cali (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="1l4rjnh9nov8m7v" tvg-name="Macara vs America de Cali" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 07:30 WIB | 10/04/26] Macara vs America de Cali",[LIVE 07:30 WIB | 10/04/26] Macara vs America de Cali (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
