@@ -1,23 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁05:03:13 11-04-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁05:18:04 11-04-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Categoría Primera A📁00:00:00📁",📁Deportivo Pereira vs Deportiva Once Caldas📁11-04-2026 05:02:45 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Categoría Primera A📁00:00:00📁",📁Deportivo Pereira vs Deportiva Once Caldas📁11-04-2026 05:17:35 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYqrGKeFF45axKye/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁CNL W📁00:00:00📁",📁Peru Women vs Uruguay Women📁11-04-2026 05:02:45 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁CNL W📁00:00:00📁",📁Peru Women vs Uruguay Women📁11-04-2026 05:17:35 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYbdsumuaTLneSFW/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Paraguayan Primera Division📁00:00:00📁",📁Club Sportivo 2 de Mayo vs Sportivo Ameliano📁11-04-2026 05:02:45 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Paraguayan Primera Division📁00:00:00📁",📁Club Sportivo 2 de Mayo vs Sportivo Ameliano📁11-04-2026 05:17:35 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvVd3XSJzazo8ntct/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Spanish La Liga📁00:00:00📁",📁Real Sociedad vs Deportivo Alavés📁11-04-2026 05:02:53 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁USL Championship📁00:00:00📁",📁Loudoun United vs Louisville City FC📁11-04-2026 05:17:35 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvYqgWp3pi9jrB5QY/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁CONMEBOL U17 Championship📁00:00:00📁",📁Argentina U17 vs Brazil U17📁11-04-2026 05:17:35 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdaQhvorPK3nUEWQ/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁CNL W📁00:00:00📁",📁Paraguay Women vs Ecuador Women📁11-04-2026 05:17:35 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvYbdsumR1D2YuXFr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁MLS Next Pro📁00:00:00📁",📁International Miami B vs Atlanta United FC II📁11-04-2026 05:17:35 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdadjAJrS2wA5MDE/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁New Zealand Northern Premier League📁00:00:00📁",📁Auckland FC Reserves vs Tauranga City United📁11-04-2026 05:17:35 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdadfUi8GNtcFMeL/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Brazilian Serie B📁00:00:00📁",📁Criciuma vs Botafogo SP📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvVNfNjzyBwvMbiFe/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Paraguayan Primera Division📁00:00:00📁",📁Sportivo San Lorenzo vs Club Guaraní📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvVd3XSK9NvH46ZEU/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LigaPro Serie A 📁00:00:00📁",📁Delfin SC vs Liga Dep Universitaria Quito📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvVNKpnN47iNEggVi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁LigaPro Serie A 📁00:00:00📁",📁Barcelona SC(ECU) vs Club Leones del Norte📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvVNKpnMiLPXvFS7e/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁New Zealand South Premier League📁00:00:00📁",📁Selwyn United vs Dunedin City Royals📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdadhhqVZ84m2nBe/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁FIFA Women's World Cup qualification(CONCACAF)📁00:00:00📁",📁Costa Rica Women vs Cayman Islands Women📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvYbdstwKpRZjXZc8/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁FIFA Women's World Cup qualification(CONCACAF)📁00:00:00📁",📁Jamaica Women vs Antigua and Barbuda Women📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvYbdsu72VSNZ2Ase/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Bolivian Primera Division📁00:00:00📁",📁Club Guabira vs Independiente Petrolero📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdakFuTRsPtaFuiC/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁MLS Next Pro📁00:00:00📁",📁Saint Louis City B vs Colorado Rapids II📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdadjvHkZy3oESRi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁CNL W📁00:00:00📁",📁Chile Women vs Argentina Women📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvYbdsuc1v3Ba2FDW/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Aruba Division Di Honor📁00:00:00📁",📁Racing Club Aruba vs SV La Fama📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdayHA7f4Zm3SnXW/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁MLS Next Pro📁00:00:00📁",📁North Texas SC vs Sporting Kansas CityReserves📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdadjvHiNVBKQXGp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁New Zealand Central Premier League📁00:00:00📁",📁Petone FC vs FC Western📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdadhhqTMeCHCs2k/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Mexico Ascenso MX📁00:00:00📁",📁Alebrijes de Oaxaca vs Club Jaiba Brava📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvYqnvu9ufPdMxERi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁FIFA Women's World Cup qualification(CONCACAF)📁00:00:00📁",📁Mexico Women vs US Virgin Islands Women📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvYbdsuwXrWQeVDDE/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁CNL W📁00:00:00📁",📁Colombia Women vs Venezuela Women📁11-04-2026 05:17:36 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvYbdsumNojA55c6x/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Categoría Primera A📁00:00:00📁",📁Deportivo Pasto vs Deportes Tolima📁11-04-2026 05:17:37 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvYqrGKUtMN75ty6C/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Panamanian Liga de Futbol📁00:00:00📁",📁Tauro FC vs CD Arabe Unido📁11-04-2026 05:17:37 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvVchzCJyF6hnzrZi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Spanish La Liga📁00:00:00📁",📁Real Sociedad vs Deportivo Alavés📁11-04-2026 05:17:43 WIB📁00:00:00📁
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 1📁00:00:00📁",📁Dingnan United vs Nanjing City📁11-04-2026 05:03:08 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 1📁00:00:00📁",📁Dingnan United vs Nanjing City📁11-04-2026 05:17:59 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6Mwd5yoiXcmSiJWgnY/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁CONMEBOL U17 Championship📁00:00:00📁",📁Venezuela U17 vs PeruU17📁11-04-2026 05:03:12 WIB📁00:00:00📁
-https://auto.cdnok9.com/live/sd-6MwdaQhvojnsSLzV3i/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁QLD D2📁00:00:00📁",📁Brisbane Knights vs Taringa Rovers📁11-04-2026 05:03:12 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁QLD D2📁00:00:00📁",📁Brisbane Knights vs Taringa Rovers📁11-04-2026 05:18:03 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6Mwd633yTEp4er5F6U/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Ireland Premier Division📁00:00:00📁",📁Waterford United vs Drogheda United📁11-04-2026 05:03:13 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Ireland Premier Division📁00:00:00📁",📁Waterford United vs Drogheda United📁11-04-2026 05:18:03 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvZ6Zv1ozu3VXW4Lc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Ireland Premier Division📁00:00:00📁",📁Galway United vs Shelbourne📁11-04-2026 05:03:13 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Ireland Premier Division📁00:00:00📁",📁Galway United vs Shelbourne📁11-04-2026 05:18:03 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvZ6Zv1pXfmgF4tVA/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Benin Ligue 1📁00:00:00📁",📁USS Krake vs Hodio📁11-04-2026 05:03:13 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Benin Ligue 1📁00:00:00📁",📁USS Krake vs Hodio📁11-04-2026 05:18:03 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6Mwdb2Y9hnCPD2etpU/playlist.m3u8
