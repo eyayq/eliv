@@ -1,179 +1,187 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁16:19:45 10-04-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁16:23:11 10-04-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Indonesian Super League📁00:00:00📁",📁PSIM Yogyakarta vs Persatuan Sepakbola Makassar📁10-04-2026 16:19:25 WIB📁00:00:00📁
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Indonesian Super League📁00:00:00📁",📁PSIM Yogyakarta vs Persatuan Sepakbola Makassar📁10-04-2026 16:19:25 WIB📁00:00:00📁
-https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Vietnam National First Class League📁00:00:00📁",📁Ho Chi Minh City vs Xuan Thien Phu Tho📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Vietnam National First Class League📁00:00:00📁",📁Ho Chi Minh City vs Xuan Thien Phu Tho📁10-04-2026 16:22:34 WIB📁00:00:00📁
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese National Women's Football Championship📁00:00:00📁",📁Changchun Dazhongzhuoyue Women vs Guangdong Women📁10-04-2026 16:19:25 WIB📁00:00:00📁
-https://auto.cdnok9.com/live/sd-6MwdayEwqDKBCGDV1e/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁IND DSD📁00:00:00📁",📁Northern United FC vs Tarun Sangha FC📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Indonesian Super League📁00:00:00📁",📁PSIM Yogyakarta vs Persatuan Sepakbola Makassar📁10-04-2026 16:22:34 WIB📁00:00:00📁
+https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Indonesian Super League📁00:00:00📁",📁PSIM Yogyakarta vs Persatuan Sepakbola Makassar📁10-04-2026 16:22:34 WIB📁00:00:00📁
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁IND DSD📁00:00:00📁",📁Northern United FC vs Tarun Sangha FC📁10-04-2026 16:22:34 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdayECgDNdC3JmgQ/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Tai'an Tiankuang vs Beijing IT📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Tai'an Tiankuang vs Beijing IT📁10-04-2026 16:22:34 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqKR1wRH4h9nKR6/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese National Women's Football Championship📁00:00:00📁",📁Shanghai RCB (W) vs Sichuan Women📁10-04-2026 16:19:25 WIB📁00:00:00📁
-https://auto.cdnok9.com/live/sd-6MwdayEwq8vDTJZehr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese National Women's Football Championship📁00:00:00📁",📁Wuhan Jianghan Women vs Jiangsu Women📁10-04-2026 16:19:25 WIB📁00:00:00📁
-https://auto.cdnok9.com/live/sd-6MwdayEwqB7hKnPZrk/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Shanghai Port B vs Dalian Kewei📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Shanghai Port B vs Dalian Kewei📁10-04-2026 16:22:34 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqKR1wP5apfxQGC/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese National Women's Football Championship📁00:00:00📁",📁Beijing Yuhong Xiushan (W) vs Zhejiang Hangzhou Bank Women📁10-04-2026 16:19:25 WIB📁00:00:00📁
-https://auto.cdnok9.com/live/sd-6MwdayEwq6ijapjjYx/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Xiamen Feilu vs Guangdong Mingtu📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Xiamen Feilu vs Guangdong Mingtu📁10-04-2026 16:22:34 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqKR1wVg2S7S9it/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Romanian Liga II📁00:00:00📁",📁ACS Dumbravita vs Selimbar📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Romanian Liga II📁00:00:00📁",📁ACS Dumbravita vs Selimbar📁10-04-2026 16:22:34 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqYMqrgKdvSkpQC/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁CFA Member Champions League📁00:00:00📁",📁Suining Team vs Hubei Super Mr📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁CFA Member Champions League📁00:00:00📁",📁Suining Team vs Hubei Super Mr📁10-04-2026 16:22:34 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqphmCaQH82r8y2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Guangzhou Dandelion Alpha vs Jiangxi Lushan📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Guangzhou Dandelion Alpha vs Jiangxi Lushan📁10-04-2026 16:22:34 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqKR1vxuJFPsKaL/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁CFA Member Champions League📁00:00:00📁",📁Guizhou Xufengtang vs Chengdu Dingyao Jincheng📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁CFA Member Champions League📁00:00:00📁",📁Guizhou Xufengtang vs Chengdu Dingyao Jincheng📁10-04-2026 16:22:34 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqphmCToqWbNPWL/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁South Australia Women's Premier League📁00:00:00📁",📁West Torrens Birkalla Women vs MetroStars (W)📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁South Australia Women's Premier League📁00:00:00📁",📁West Torrens Birkalla Women vs MetroStars (W)📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdayBz3eX5UWPqiU/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Football📁00:00:00📁",📁Barcelona vs Atlético de Madrid📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Football📁00:00:00📁",📁Barcelona vs Atlético de Madrid📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Football📁00:00:00📁",📁Crystal Palace vs Fiorentina📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Football📁00:00:00📁",📁Crystal Palace vs Fiorentina📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://hls.686868.me/live/Giangalo/index.m3u8?expire=1777012560&sign=be2f60f6416ebc1a300a944171d8b3bd
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Football📁00:00:00📁",📁Barcelona vs Atletico Madrid📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Football📁00:00:00📁",📁Barcelona vs Atletico Madrid📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia National Premier Leagues Queensland📁00:00:00📁",📁Gold Coast Knights vs Rochedale Rovers📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia National Premier Leagues Queensland📁00:00:00📁",📁Gold Coast Knights vs Rochedale Rovers📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia National Premier Leagues Queensland📁00:00:00📁",📁Gold Coast Knights vs Rochedale Rovers📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia National Premier Leagues Queensland📁00:00:00📁",📁Gold Coast Knights vs Rochedale Rovers📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁National Premier Leagues Victoria📁00:00:00📁",📁St Albans Saints vs Avondale FC📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁National Premier Leagues Victoria📁00:00:00📁",📁St Albans Saints vs Avondale FC📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Ukrainian Youth Team Championship📁00:00:00📁",📁Metalist 1925 Kharkiv(U21) vs Dinamo Kyiv U21📁10-04-2026 16:19:25 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Ukrainian Youth Team Championship📁00:00:00📁",📁Metalist 1925 Kharkiv(U21) vs Dinamo Kyiv U21📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuQ8iiRnuNb75UkXv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia Queensland State Women's League📁00:00:00📁",📁Moreton City Excelsior Women vs Peninsula Power Women📁10-04-2026 16:19:26 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia Queensland State Women's League📁00:00:00📁",📁Moreton City Excelsior Women vs Peninsula Power Women📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdayED1quY2ZFV8p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia National Premier Leagues Queensland📁00:00:00📁",📁Brisbane Wolves vs Queensland Lions SC📁10-04-2026 16:19:26 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia National Premier Leagues Queensland📁00:00:00📁",📁Brisbane Wolves vs Queensland Lions SC📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM5qcs7Kzojo5yv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia A-League📁00:00:00📁",📁Central Coast Mariners vs Brisbane Roar📁10-04-2026 16:19:26 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia A-League📁00:00:00📁",📁Central Coast Mariners vs Brisbane Roar📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia A-League📁00:00:00📁",📁Central Coast Mariners vs Brisbane Roar📁10-04-2026 16:19:26 WIB📁00:00:00📁
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia A-League📁00:00:00📁",📁Central Coast Mariners vs Brisbane Roar📁10-04-2026 16:19:26 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia A-League📁00:00:00📁",📁Central Coast Mariners vs Brisbane Roar📁10-04-2026 16:22:35 WIB📁00:00:00📁
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Ukrainian Youth Team Championship📁00:00:00📁",📁Veres Rivne U21 vs Obolon Kiev U21📁10-04-2026 16:19:26 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia A-League📁00:00:00📁",📁Central Coast Mariners vs Brisbane Roar📁10-04-2026 16:22:35 WIB📁00:00:00📁
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Ukrainian Youth Team Championship📁00:00:00📁",📁Veres Rivne U21 vs Obolon Kiev U21📁10-04-2026 16:22:36 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuQ8iiRnymYr38aqi/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia New South Wales Women's Premier League📁00:00:00📁",📁Broadmeadow Magic Women vs Charlestown Azzuri Women📁10-04-2026 16:19:26 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia New South Wales Women's Premier League📁00:00:00📁",📁Broadmeadow Magic Women vs Charlestown Azzuri Women📁10-04-2026 16:22:36 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdayED1h7cYdwpXE/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean WK League📁00:00:00📁",📁Suwon FC Women vs Hwacheon KSPO WFC📁10-04-2026 16:19:26 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean WK League📁00:00:00📁",📁Suwon FC Women vs Hwacheon KSPO WFC📁10-04-2026 16:22:36 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqevnTeX5rJcdvC/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean WK League📁00:00:00📁",📁Incheon Hyundai Steel Red Angels Women vs Seoul Amazones Women📁10-04-2026 16:19:26 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean WK League📁00:00:00📁",📁Incheon Hyundai Steel Red Angels Women vs Seoul Amazones Women📁10-04-2026 16:22:36 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqevnTgiZinSZ56/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean WK League📁00:00:00📁",📁Gyeongju Korea Hydro & Nuclear Power WFC vs Sejong Sportstoto WFC📁10-04-2026 16:19:26 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean WK League📁00:00:00📁",📁Gyeongju Korea Hydro & Nuclear Power WFC vs Sejong Sportstoto WFC📁10-04-2026 16:22:37 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqevnTa887LxocQ/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁South Australia Women's Premier League📁00:00:00📁",📁Campbelltown City (w) vs Flinders United Women📁10-04-2026 16:19:26 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁South Australia Women's Premier League📁00:00:00📁",📁Campbelltown City (w) vs Flinders United Women📁10-04-2026 16:22:37 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdayBytFRudXWZg8/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁South Australia Women's Premier League📁00:00:00📁",📁Salisbury Inter Women vs Modbury Vista (w)📁10-04-2026 16:19:26 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁South Australia Women's Premier League📁00:00:00📁",📁Salisbury Inter Women vs Modbury Vista (w)📁10-04-2026 16:22:37 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdayBytDERm3geXE/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁South Australia Women's Premier League📁00:00:00📁",📁West Adelaide Women vs Adelaide University Women📁10-04-2026 16:19:27 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁South Australia Women's Premier League📁00:00:00📁",📁West Adelaide Women vs Adelaide University Women📁10-04-2026 16:22:37 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdayBytKpsNVAPyv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Haimen Codion vs Changchun Xidu📁10-04-2026 16:19:27 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Haimen Codion vs Changchun Xidu📁10-04-2026 16:22:38 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqKR2SNWBdgxUc4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Wuyue Cup📁00:00:00📁",📁Taizhou Team vs Jinhua Team📁10-04-2026 16:19:27 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Wuyue Cup📁00:00:00📁",📁Taizhou Team vs Jinhua Team📁10-04-2026 16:22:38 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdakBTXc4gqfwNAx/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Ganzhou Ruishi vs Wenzhou Professional Football Club📁10-04-2026 16:19:27 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football League 2📁00:00:00📁",📁Ganzhou Ruishi vs Wenzhou Professional Football Club📁10-04-2026 16:22:38 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqKR2SV6dF8SE4k/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Tajikistan Higher League📁00:00:00📁",📁CSKA Pamir Dushanbe vs Barkchi Hisor📁10-04-2026 16:19:27 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Tajikistan Higher League📁00:00:00📁",📁CSKA Pamir Dushanbe vs Barkchi Hisor📁10-04-2026 16:22:38 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6Mwd5vbetGdcN73hYG/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Moldovan Liga 1📁00:00:00📁",📁Iskra Stal Ribnita vs CF Sparta Selemet📁10-04-2026 16:19:27 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Moldovan Liga 1📁00:00:00📁",📁Iskra Stal Ribnita vs CF Sparta Selemet📁10-04-2026 16:22:38 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6Mwd5vdACMxMc2M2MA/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁CA Batna vs NRB Teleghma📁10-04-2026 16:19:27 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁CA Batna vs NRB Teleghma📁10-04-2026 16:22:39 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM99ZP9xRpzaJda/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁MC Saida vs ESM Kolea📁10-04-2026 16:19:27 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁MC Saida vs ESM Kolea📁10-04-2026 16:22:39 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM9AHXc5a9z67ye/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁CRB Adrar vs NA Hussein Dey📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁CRB Adrar vs NA Hussein Dey📁10-04-2026 16:22:39 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM9AHY8rJLhex8C/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁Djijel vs JS Bordj Menaiel📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁Djijel vs JS Bordj Menaiel📁10-04-2026 16:22:39 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM99ZPJkMJusyFA/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁HB Chelghoum Laid vs AS Khroub📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁HB Chelghoum Laid vs AS Khroub📁10-04-2026 16:22:39 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM99ZPEMPZxE8wN/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁CRB Temouchent vs JS Tixeraine📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁CRB Temouchent vs JS Tixeraine📁10-04-2026 16:22:39 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM9AHY2FrjGBCfW/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁Harrach vs ASM Oran📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁Harrach vs ASM Oran📁10-04-2026 16:22:39 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM9AJ2yUyfoMMrU/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁Biskra vs NC Magra📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁Biskra vs NC Magra📁10-04-2026 16:22:40 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM99ZNta4jdntZJ/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁GC Mascara vs RC Arba📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁GC Mascara vs RC Arba📁10-04-2026 16:22:40 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM9AHY6epUDq2yJ/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁RC Kouba vs WA Tlemcen📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁RC Kouba vs WA Tlemcen📁10-04-2026 16:22:40 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM9AHXZt6HWGCpk/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁MO Constantine vs Beni Oulbane📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁MO Constantine vs Beni Oulbane📁10-04-2026 16:22:40 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM99ZPP9K3sXoYx/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁MO Bejaia vs US Chaouia📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁MO Bejaia vs US Chaouia📁10-04-2026 16:22:40 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM99ZPRLnvMMihr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁IB Khemis El Khechna vs MSP Batna📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁IB Khemis El Khechna vs MSP Batna📁10-04-2026 16:22:40 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM99ZPLwqBPhtQ4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁CR Beni Thour vs USM Annaba📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁CR Beni Thour vs USM Annaba📁10-04-2026 16:22:40 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM99ZPGYsSS446G/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁US Bechar Djedid vs JS El Biar📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Algerian Ligue Professionnelle 2📁00:00:00📁",📁US Bechar Djedid vs JS El Biar📁10-04-2026 16:22:40 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYM9AJ31gTYHBH1N/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Bahrain King's Cup📁00:00:00📁",📁Al Khaldiya vs Al-Riffa📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Bahrain King's Cup📁00:00:00📁",📁Al Khaldiya vs Al-Riffa📁10-04-2026 16:22:40 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdaTygDAz3obLpkL/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁SYC PR📁00:00:00📁",📁Real Maldive FC vs Revengers📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁SYC PR📁00:00:00📁",📁Real Maldive FC vs Revengers📁10-04-2026 16:22:40 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdayEvzrk2e647He/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Belarusian First League📁00:00:00📁",📁Dinamo-2 Minsk vs Osipovichy📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Belarusian First League📁00:00:00📁",📁Dinamo-2 Minsk vs Osipovichy📁10-04-2026 16:22:41 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdaQigdjQt2F1DDW/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Armenian Premier League📁00:00:00📁",📁Gandzasar Kapan vs FC Noah📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Armenian Premier League📁00:00:00📁",📁Gandzasar Kapan vs FC Noah📁10-04-2026 16:22:41 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdakBUsfpZjyoE9r/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Benin Ligue 1📁00:00:00📁",📁USS Krake vs Hodio📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Benin Ligue 1📁00:00:00📁",📁USS Krake vs Hodio📁10-04-2026 16:22:41 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6Mwdb2Y9hnCPD2etpU/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Togolese Premier Division📁00:00:00📁",📁AC Semassi vs Gbohloesu📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Togolese Premier Division📁00:00:00📁",📁AC Semassi vs Gbohloesu📁10-04-2026 16:22:41 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvZ61QUmTh8xjYWtC/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Slovenia 1.Liga📁00:00:00📁",📁ND Primorje vs FC Koper📁10-04-2026 16:19:28 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Slovenia 1.Liga📁00:00:00📁",📁ND Primorje vs FC Koper📁10-04-2026 16:22:41 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuSsD7K8pD2b4BsP2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Finnish Ykkosliiga📁00:00:00📁",📁KTP Kotka vs Mikkelin Palloilijat📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Finnish Ykkosliiga📁00:00:00📁",📁KTP Kotka vs Mikkelin Palloilijat📁10-04-2026 16:22:41 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYqrDP2y8riMr764/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Togolese Premier Division📁00:00:00📁",📁AC Barracuda vs Gomido FC📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Togolese Premier Division📁00:00:00📁",📁AC Barracuda vs Gomido FC📁10-04-2026 16:22:41 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvZ61QVbb5QJ2kPgp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Finnish Ykkosliiga📁00:00:00📁",📁JaPS vs Klubi 04 Helsinki📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Finnish Ykkosliiga📁00:00:00📁",📁JaPS vs Klubi 04 Helsinki📁10-04-2026 16:22:42 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYqrDP31LLaqg2Ex/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Poland Liga 2📁00:00:00📁",📁Chojniczanka Chojnice vs Swit Szczecin📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Poland Liga 2📁00:00:00📁",📁Chojniczanka Chojnice vs Swit Szczecin📁10-04-2026 16:22:42 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuSsVPYsz81k6TCNx/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Estonian Esiliiga📁00:00:00📁",📁Flora Tallinn II vs Tallinna FC Ararat TTU📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Estonian Esiliiga📁00:00:00📁",📁Flora Tallinn II vs Tallinna FC Ararat TTU📁10-04-2026 16:22:42 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvVNfRiTR54cM3cvg/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Austrian 2.Liga📁00:00:00📁",📁SK Rapid II vs FC HOGO Hertha Wels📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Austrian 2.Liga📁00:00:00📁",📁SK Rapid II vs FC HOGO Hertha Wels📁10-04-2026 16:22:42 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuSs9s4NfeYETARRE/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Finnish Ykkosliiga📁00:00:00📁",📁Käpylän Pallo vs SJK Akatemia📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Finnish Ykkosliiga📁00:00:00📁",📁Käpylän Pallo vs SJK Akatemia📁10-04-2026 16:22:42 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYqrDNscFAjrnkCc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Bosnia and Herzegovina Premier League📁00:00:00📁",📁Posusje vs NK Siroki Brijeg📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Bosnia and Herzegovina Premier League📁00:00:00📁",📁Posusje vs NK Siroki Brijeg📁10-04-2026 16:22:42 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuT7sbvH4hUBmboD6/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Burkina Faso Division 1📁00:00:00📁",📁Vitesse Delft vs AS Douanes Ouagadougou📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Burkina Faso Division 1📁00:00:00📁",📁Vitesse Delft vs AS Douanes Ouagadougou📁10-04-2026 16:22:42 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvXriK2Xo3HFKeUbW/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Romanian Super Liga📁00:00:00📁",📁Hermannstadt vs Farul Constanta📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Romanian Super Liga📁00:00:00📁",📁Hermannstadt vs Farul Constanta📁10-04-2026 16:22:43 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqKPYxmPi3u8LpU/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Austrian 2.Liga📁00:00:00📁",📁SKU Ertl Glas Amstetten vs Schwarz-Weiss Bregenz📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Austrian 2.Liga📁00:00:00📁",📁SKU Ertl Glas Amstetten vs Schwarz-Weiss Bregenz📁10-04-2026 16:22:43 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuSs9s4YbWSG9cXc8/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Croatian First Football League📁00:00:00📁",📁Karlovac vs Bijelo Brdo📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Croatian First Football League📁00:00:00📁",📁Karlovac vs Bijelo Brdo📁10-04-2026 16:22:43 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwcqszDv9Lw8aNqSc/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Burkina Faso Division 1📁00:00:00📁",📁Salitas FC vs Sporting Football des Cascades📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Burkina Faso Division 1📁00:00:00📁",📁Salitas FC vs Sporting Football des Cascades📁10-04-2026 16:22:43 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvXriK2XgSqdtAj8p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Poland Liga 1📁00:00:00📁",📁Polonia Warszawa vs Slask Wroclaw📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Poland Liga 1📁00:00:00📁",📁Polonia Warszawa vs Slask Wroclaw📁10-04-2026 16:22:43 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuSrvkeomemfyz7N4/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Austrian 2.Liga📁00:00:00📁",📁SK Austria Klagenfurt vs Kapfenberg SV 1919📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Austrian 2.Liga📁00:00:00📁",📁SK Austria Klagenfurt vs Kapfenberg SV 1919📁10-04-2026 16:22:43 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuSs9s4YX7UXBxhJL/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Saudi Arabia Division 1📁00:00:00📁",📁Al-Orobah FC vs Al-Faisaly Harmah📁10-04-2026 16:19:29 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Saudi Arabia Division 1📁00:00:00📁",📁Al-Orobah FC vs Al-Faisaly Harmah📁10-04-2026 16:22:43 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MvYrBj7tG3hYHQBDn/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Russian First League📁00:00:00📁",📁KAMAZ Naberezhnye Chelny vs Neftekhimik Nizhnekamsk📁10-04-2026 16:19:30 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Russian First League📁00:00:00📁",📁KAMAZ Naberezhnye Chelny vs Neftekhimik Nizhnekamsk📁10-04-2026 16:22:43 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdaaRETJupBLfEQU/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Lithuanian A Lyga 📁00:00:00📁",📁FK Riteriai vs FK Zalgiris Vilnius📁10-04-2026 16:19:30 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Lithuanian A Lyga 📁00:00:00📁",📁FK Riteriai vs FK Zalgiris Vilnius📁10-04-2026 16:22:43 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6Mwd5koDr4XKjbXQGL/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Spanish La Liga📁00:00:00📁",📁Elche vs Valencia CF📁10-04-2026 16:19:43 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Belarusian Premier League📁00:00:00📁",📁FC Minsk vs Neman Grodno📁10-04-2026 16:22:44 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6Mwd5haRtDp1RGck2Q/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Danish 1st Division📁00:00:00📁",📁Esbjerg vs Hvidovre IF📁10-04-2026 16:22:44 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdaQdV4LRJjNrxh2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Sweden Division 1📁00:00:00📁",📁Hassleholms IF vs FC Rosengard📁10-04-2026 16:22:44 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MvYqxhs46zde7mCDa/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Norwegian 3.Divisjon📁00:00:00📁",📁Union Carl Berner vs Ready📁10-04-2026 16:22:45 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdaXDCKRd2aRwPBS/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Spanish La Liga📁00:00:00📁",📁Elche vs Valencia CF📁10-04-2026 16:23:07 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuSsYgmFhDk3oCM9E/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Italian Serie A📁00:00:00📁",📁AC Milan vs Udinese📁10-04-2026 16:19:44 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Italian Serie A📁00:00:00📁",📁AC Milan vs Udinese📁10-04-2026 16:23:08 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuSNj3Gqhm7Vz2akk/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English Premier League📁00:00:00📁",📁Liverpool vs Fulham📁10-04-2026 16:19:45 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁English Premier League📁00:00:00📁",📁Liverpool vs Fulham📁10-04-2026 16:23:09 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuT7Jy1NJfgD5qkhi/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Bundesliga📁00:00:00📁",📁FC St. Pauli vs FC Bayern Munich📁10-04-2026 16:19:45 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Bundesliga📁00:00:00📁",📁FC St. Pauli vs FC Bayern Munich📁10-04-2026 16:23:09 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuT7Y3CK3zBdJCDUp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Spanish La Liga📁00:00:00📁",📁FC Barcelona vs RCD Espanyol de Barcelona📁10-04-2026 16:19:45 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Spanish La Liga📁00:00:00📁",📁FC Barcelona vs RCD Espanyol de Barcelona📁10-04-2026 16:23:09 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MuSsYgn6EnHxNVJdi/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Benin Ligue 1📁00:00:00📁",📁Bani Ganse vs LOTO📁10-04-2026 16:19:45 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese National Women's Football Championship📁00:00:00📁",📁Changchun Dazhongzhuoyue Women vs Guangdong Women📁10-04-2026 16:23:09 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdayEwqDKBCGDV1e/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese National Women's Football Championship📁00:00:00📁",📁Shanghai RCB (W) vs Sichuan Women📁10-04-2026 16:23:09 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdayEwq8vDTJZehr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese National Women's Football Championship📁00:00:00📁",📁Wuhan Jianghan Women vs Jiangsu Women📁10-04-2026 16:23:09 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdayEwqB7hKnPZrk/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese National Women's Football Championship📁00:00:00📁",📁Beijing Yuhong Xiushan (W) vs Zhejiang Hangzhou Bank Women📁10-04-2026 16:23:09 WIB📁00:00:00📁
+https://auto.cdnok9.com/live/sd-6MwdayEwq6ijapjjYx/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Benin Ligue 1📁00:00:00📁",📁Bani Ganse vs LOTO📁10-04-2026 16:23:09 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdayEvqA51qGZW28/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Benin Ligue 1📁00:00:00📁",📁Espoir FC Savalou vs Dragons📁10-04-2026 16:19:45 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Benin Ligue 1📁00:00:00📁",📁Espoir FC Savalou vs Dragons📁10-04-2026 16:23:09 WIB📁00:00:00📁
 https://auto.cdnok9.com/live/sd-6MwdayEvpdJHeYzfsa/playlist.m3u8
