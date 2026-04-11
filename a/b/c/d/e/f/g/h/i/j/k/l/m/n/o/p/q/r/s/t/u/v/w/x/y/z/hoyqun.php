@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [11:23 WIB 11/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [11:23 WIB 11/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [11:43 WIB 11/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [11:43 WIB 11/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[09:00 WIB 11/04/26] Sacramento Kings vs Golden State Warriors [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[09:00 WIB 11/04/26] Sacramento Kings vs Golden State Warriors [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[09:00 WIB 11/04/26] Sacramento Kings vs Golden State Warriors [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[09:00 WIB 11/04/26] Yuta WATANABE / Maya TAGUCHI vs KIM Jae Hyeon / JANG Ha Jeong [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
@@ -29,40 +20,31 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[09:30 WIB 11/04/26] Los Angeles Lakers vs Phoenix Suns [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[11:00 WIB 11/04/26] Yuki FUKUSHIMA / Mayu MATSUMOTO vs LIU Yi Jing / LUO Xu Min [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[11:00 WIB 11/04/26] Yuki FUKUSHIMA / Mayu MATSUMOTO vs LIU Yi Jing / LUO Xu Min [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[11:00 WIB 11/04/26] Yuki FUKUSHIMA / Mayu MATSUMOTO vs LIU Yi Jing / LUO Xu Min [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 11/04/26] Auckland vs Melbourne Victory [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 11/04/26] Auckland vs Melbourne Victory [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 11/04/26] Auckland vs Melbourne Victory [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 11/04/26] Auckland vs Melbourne Victory [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 11/04/26] Auckland vs Melbourne Victory [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 11/04/26] Auckland vs Melbourne Victory [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Machida Zelvia vs Kashiwa Reysol [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Machida Zelvia vs Kashiwa Reysol [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Machida Zelvia vs Kashiwa Reysol [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Machida Zelvia vs Kashiwa Reysol [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Machida Zelvia vs Kashiwa Reysol [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Machida Zelvia vs Kashiwa Reysol [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Sanfrecce Hiroshima vs Shimizu S-pulse [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Sanfrecce Hiroshima vs Shimizu S-pulse [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Sanfrecce Hiroshima vs Shimizu S-pulse [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Sanfrecce Hiroshima vs Shimizu S-pulse [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Sanfrecce Hiroshima vs Shimizu S-pulse [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 11/04/26] Sanfrecce Hiroshima vs Shimizu S-pulse [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[12:30 WIB 11/04/26] LIU Sheng Shu / TAN Ning vs Amalia Cahaya PRATIWI / Siti Fadia Silva RAMAD [FHD] [NANTIKAN]
