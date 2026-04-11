@@ -1,24 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:36 WIB 12/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:36 WIB 12/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:44 WIB 12/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:44 WIB 12/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[23:30 WIB 11/04/26] Barcelona vs Espanyol [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[23:30 WIB 11/04/26] Barcelona vs Espanyol [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[23:30 WIB 11/04/26] Barcelona vs Espanyol [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[23:30 WIB 11/04/26] Barcelona vs Espanyol [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[23:30 WIB 11/04/26] Barcelona vs Espanyol [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[23:30 WIB 11/04/26] Barcelona vs Espanyol [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[00:00 WIB 12/04/26] Auxerre vs Nantes [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
@@ -65,13 +47,13 @@ https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 12/04/26] Sevilla vs Atletico Madrid [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:05 WIB 12/04/26] Rennes vs Angers [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:05 WIB 12/04/26] Rennes vs Angers [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:05 WIB 12/04/26] Rennes vs Angers [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:05 WIB 12/04/26] Rennes vs Angers [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:05 WIB 12/04/26] Rennes vs Angers [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:05 WIB 12/04/26] Rennes vs Angers [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[03:45 WIB 12/04/26] Portland Timbers vs Los Angeles FC [FHD] [NANTIKAN]
@@ -289,6 +271,15 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaYcxaVuzOwLhmS4hOIfZWjkcRP5VXL6G-Q&s" group-title="Fustal Đông Nam Á 2026",[20:00 WIB 12/04/26] Thái Lan vs Indonesia [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[20:00 WIB 12/04/26] Alcaraz C. vs Sinner J. [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[20:00 WIB 12/04/26] Alcaraz C. vs Sinner J. [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://montecarlotennismasters.com/wp-content/uploads/2019/05/atp_masterbrand2018_masters1000_lightbg-01.jpg" group-title="ATP1000 Monte Carlo",[20:00 WIB 12/04/26] Alcaraz C. vs Sinner J. [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://phapluat.tuoitrethudo.vn/stores/news_dataimages/hoangphuongduy/102019/21/15/in_article/0102_2000px-Bundesliga-Logo.svg.jpg" group-title="Bundesliga",[20:30 WIB 12/04/26] 1. FC Köln vs Werder Bremen [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
