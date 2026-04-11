@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.36 WIB 11/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.38 WIB 11/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="pxwrxlhy1xd6ryk" tvg-name="Borussia Dortmund vs Bayer 04 Leverkusen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen",[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="pxwrxlhy1xd6ryk" tvg-name="Borussia Dortmund vs Bayer 04 Leverkusen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen",[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="pxwrxlhy1xd6ryk" tvg-name="Borussia Dortmund vs Bayer 04 Leverkusen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen",[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="pxwrxlhy1xd6ryk" tvg-name="Borussia Dortmund vs Bayer 04 Leverkusen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen",[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="pxwrxlhy1xd6ryk" tvg-name="Borussia Dortmund vs Bayer 04 Leverkusen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen",[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="pxwrxlhy1xd6ryk" tvg-name="Borussia Dortmund vs Bayer 04 Leverkusen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen",[LIVE 20:30 WIB | 11/04/26] Borussia Dortmund vs Bayer 04 Leverkusen (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="pxwrxlhy1j5dryk" tvg-name="Brentford vs Everton" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 11/04/26] Brentford vs Everton",[LIVE 21:00 WIB | 11/04/26] Brentford vs Everton (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="pxwrxlhy1j5dryk" tvg-name="Brentford vs Everton" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 11/04/26] Brentford vs Everton",[LIVE 21:00 WIB | 11/04/26] Brentford vs Everton (Giàng A Sếu)
