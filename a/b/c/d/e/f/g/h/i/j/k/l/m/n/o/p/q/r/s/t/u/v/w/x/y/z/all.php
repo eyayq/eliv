@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.21 WIB 11/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.30 WIB 11/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
@@ -25,6 +25,14 @@ https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d9
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Chiến)
 https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="pxwrxlhyy32eryk" tvg-name="Chongqing Tonglianglong vs Wuhan Three Towns" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:00 WIB | 11/04/26] Chongqing Tonglianglong vs Wuhan Three Towns",[LIVE 18:00 WIB | 11/04/26] Chongqing Tonglianglong vs Wuhan Three Towns (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="pxwrxlhyy32eryk" tvg-name="Chongqing Tonglianglong vs Wuhan Three Towns" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:00 WIB | 11/04/26] Chongqing Tonglianglong vs Wuhan Three Towns",[LIVE 18:00 WIB | 11/04/26] Chongqing Tonglianglong vs Wuhan Three Towns (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="2y8m4zh5gj8wql0" tvg-name="Preuben Munster vs SpVgg Greuther Fürth" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 18:00 WIB | 11/04/26] Preuben Munster vs SpVgg Greuther Fürth",[LIVE 18:00 WIB | 11/04/26] Preuben Munster vs SpVgg Greuther Fürth (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="2y8m4zh5gj8wql0" tvg-name="Preuben Munster vs SpVgg Greuther Fürth" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 18:00 WIB | 11/04/26] Preuben Munster vs SpVgg Greuther Fürth",[LIVE 18:00 WIB | 11/04/26] Preuben Munster vs SpVgg Greuther Fürth (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="l5ergph4v3e5r8k" tvg-name="Hertha Berlin vs 1. FC Kaiserslautern" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 18:00 WIB | 11/04/26] Hertha Berlin vs 1. FC Kaiserslautern",[LIVE 18:00 WIB | 11/04/26] Hertha Berlin vs 1. FC Kaiserslautern (Giàng A Sún)
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="l5ergph4v3e5r8k" tvg-name="Hertha Berlin vs 1. FC Kaiserslautern" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 18:00 WIB | 11/04/26] Hertha Berlin vs 1. FC Kaiserslautern",[LIVE 18:00 WIB | 11/04/26] Hertha Berlin vs 1. FC Kaiserslautern (Giàng A Sún)
@@ -37,22 +45,22 @@ https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb022234
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="dn1m1ghlldd6moe" tvg-name="XM Hai Phong FC vs Cong An Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 11/04/26] XM Hai Phong FC vs Cong An Ho Chi Minh City",[LIVE 18:00 WIB | 11/04/26] XM Hai Phong FC vs Cong An Ho Chi Minh City (PHONG VÂN)
 https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="vjxm8ghej2wnr6o" tvg-name="Real Sociedad vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés",[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="vjxm8ghej2wnr6o" tvg-name="Real Sociedad vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés",[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="vjxm8ghej2wnr6o" tvg-name="Real Sociedad vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés",[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="vjxm8ghej2wnr6o" tvg-name="Real Sociedad vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés",[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="3glrw7hnnpl9qdy" tvg-name="Shanghai Shenhua vs Shanghai Port" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port",[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="3glrw7hnnpl9qdy" tvg-name="Shanghai Shenhua vs Shanghai Port" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port",[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="vjxm8ghej2wnr6o" tvg-name="Real Sociedad vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés",[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="vjxm8ghej2wnr6o" tvg-name="Real Sociedad vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés",[LIVE 19:00 WIB | 11/04/26] Real Sociedad vs Deportivo Alavés (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="3glrw7hnnpl9qdy" tvg-name="Shanghai Shenhua vs Shanghai Port" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port",[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="3glrw7hnnpl9qdy" tvg-name="Shanghai Shenhua vs Shanghai Port" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port",[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="3glrw7hnnpl9qdy" tvg-name="Shanghai Shenhua vs Shanghai Port" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port",[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="3glrw7hnnpl9qdy" tvg-name="Shanghai Shenhua vs Shanghai Port" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port",[LIVE 18:35 WIB | 11/04/26] Shanghai Shenhua vs Shanghai Port (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="x7lm7phjj75zm2w" tvg-name="Henan FC vs Shandong Taishan" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 11/04/26] Henan FC vs Shandong Taishan",[LIVE 18:35 WIB | 11/04/26] Henan FC vs Shandong Taishan (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="x7lm7phjj75zm2w" tvg-name="Henan FC vs Shandong Taishan" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 11/04/26] Henan FC vs Shandong Taishan",[LIVE 18:35 WIB | 11/04/26] Henan FC vs Shandong Taishan (HOÀNG CÁI)
@@ -89,11 +97,3 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="3glrw7hnnplpqdy" tvg-name="Qingdao West Coast vs Liaoning Tieren" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:00 WIB | 11/04/26] Qingdao West Coast vs Liaoning Tieren",[LIVE 18:00 WIB | 11/04/26] Qingdao West Coast vs Liaoning Tieren (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="pxwrxlhyy32eryk" tvg-name="Chongqing Tonglianglong vs Wuhan Three Towns" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:00 WIB | 11/04/26] Chongqing Tonglianglong vs Wuhan Three Towns",[LIVE 18:00 WIB | 11/04/26] Chongqing Tonglianglong vs Wuhan Three Towns (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="pxwrxlhyy32eryk" tvg-name="Chongqing Tonglianglong vs Wuhan Three Towns" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:00 WIB | 11/04/26] Chongqing Tonglianglong vs Wuhan Three Towns",[LIVE 18:00 WIB | 11/04/26] Chongqing Tonglianglong vs Wuhan Three Towns (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="2y8m4zh5gj8wql0" tvg-name="Preuben Munster vs SpVgg Greuther Fürth" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 18:00 WIB | 11/04/26] Preuben Munster vs SpVgg Greuther Fürth",[LIVE 18:00 WIB | 11/04/26] Preuben Munster vs SpVgg Greuther Fürth (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="2y8m4zh5gj8wql0" tvg-name="Preuben Munster vs SpVgg Greuther Fürth" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 18:00 WIB | 11/04/26] Preuben Munster vs SpVgg Greuther Fürth",[LIVE 18:00 WIB | 11/04/26] Preuben Munster vs SpVgg Greuther Fürth (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
