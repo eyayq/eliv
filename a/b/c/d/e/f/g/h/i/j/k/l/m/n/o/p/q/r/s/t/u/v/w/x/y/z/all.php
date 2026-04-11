@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.12 WIB 11/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.21 WIB 11/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Mèo)
-https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Mèo)
-https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Kê)
 https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Mèo)
+https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Mèo)
+https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Lữ Bố (Giàng Phụng Tiên))
@@ -25,6 +21,10 @@ https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="6ypq3nhv5w32md7" tvg-name="Arsenal vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC",[LIVE 18:30 WIB | 11/04/26] Arsenal vs Bournemouth AFC (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="l5ergph4v3e5r8k" tvg-name="Hertha Berlin vs 1. FC Kaiserslautern" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 18:00 WIB | 11/04/26] Hertha Berlin vs 1. FC Kaiserslautern",[LIVE 18:00 WIB | 11/04/26] Hertha Berlin vs 1. FC Kaiserslautern (Giàng A Sún)
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="l5ergph4v3e5r8k" tvg-name="Hertha Berlin vs 1. FC Kaiserslautern" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 18:00 WIB | 11/04/26] Hertha Berlin vs 1. FC Kaiserslautern",[LIVE 18:00 WIB | 11/04/26] Hertha Berlin vs 1. FC Kaiserslautern (Giàng A Sún)
