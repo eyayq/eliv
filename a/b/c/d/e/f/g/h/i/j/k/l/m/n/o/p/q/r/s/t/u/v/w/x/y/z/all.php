@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.46 WIB 12/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.52 WIB 12/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="3glrw7hnjl31qdy" tvg-name="Sevilla FC vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 12/04/26] Sevilla FC vs Atletico Madrid",[LIVE 02:00 WIB | 12/04/26] Sevilla FC vs Atletico Madrid (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
@@ -17,6 +17,10 @@ https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="3glrw7hnjl31qdy" tvg-name="Sevilla FC vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 12/04/26] Sevilla FC vs Atletico Madrid",[LIVE 02:00 WIB | 12/04/26] Sevilla FC vs Atletico Madrid (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="3glrw7hno9k3qdy" tvg-name="Al Okhdood vs Al Nassr FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 12/04/26] Al Okhdood vs Al Nassr FC",[LIVE 01:00 WIB | 12/04/26] Al Okhdood vs Al Nassr FC (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="3glrw7hno9k3qdy" tvg-name="Al Okhdood vs Al Nassr FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 12/04/26] Al Okhdood vs Al Nassr FC",[LIVE 01:00 WIB | 12/04/26] Al Okhdood vs Al Nassr FC (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="3glrw7hnp90wqdy" tvg-name="Montreal Impact vs Philadelphia Union" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 01:40 WIB | 12/04/26] Montreal Impact vs Philadelphia Union",[LIVE 01:40 WIB | 12/04/26] Montreal Impact vs Philadelphia Union (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="3glrw7hnp90wqdy" tvg-name="Montreal Impact vs Philadelphia Union" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 01:40 WIB | 12/04/26] Montreal Impact vs Philadelphia Union",[LIVE 01:40 WIB | 12/04/26] Montreal Impact vs Philadelphia Union (GIÀNG A PHỆ )
@@ -65,10 +69,6 @@ https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc1225
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="318q66hxv044qo9" tvg-name="SV Darmstadt 98 vs Hannover 96" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 01:30 WIB | 12/04/26] SV Darmstadt 98 vs Hannover 96",[LIVE 01:30 WIB | 12/04/26] SV Darmstadt 98 vs Hannover 96 (HOÀNG CÁI)
 https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="3glrw7hno9k3qdy" tvg-name="Al Okhdood vs Al Nassr FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 12/04/26] Al Okhdood vs Al Nassr FC",[LIVE 01:00 WIB | 12/04/26] Al Okhdood vs Al Nassr FC (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="3glrw7hno9k3qdy" tvg-name="Al Okhdood vs Al Nassr FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 12/04/26] Al Okhdood vs Al Nassr FC",[LIVE 01:00 WIB | 12/04/26] Al Okhdood vs Al Nassr FC (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="jw2r09hk64vyrz8" tvg-name="Vitoria BA vs Sao Paulo" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[LIVE 02:30 WIB | 12/04/26] Vitoria BA vs Sao Paulo",[LIVE 02:30 WIB | 12/04/26] Vitoria BA vs Sao Paulo (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="jw2r09hk64vyrz8" tvg-name="Vitoria BA vs Sao Paulo" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[LIVE 02:30 WIB | 12/04/26] Vitoria BA vs Sao Paulo",[LIVE 02:30 WIB | 12/04/26] Vitoria BA vs Sao Paulo (Giàng A Choén)
