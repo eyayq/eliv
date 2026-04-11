@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:33 WIB 11/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:33 WIB 11/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:42 WIB 11/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:42 WIB 11/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[16:00 WIB 11/04/26] Japan U20 W vs Vietnam U20 W [FHD] [LIVE]
@@ -29,13 +29,13 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[17:00 WIB 11/04/26] LIU Sheng Shu / TAN Ning vs Amalia Cahaya PRATIWI / Siti Fadia Silva RAMAD [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Nam Dinh vs Hoang Anh Gia Lai [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Nam Dinh vs Hoang Anh Gia Lai [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Nam Dinh vs Hoang Anh Gia Lai [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Nam Dinh vs Hoang Anh Gia Lai [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Nam Dinh vs Hoang Anh Gia Lai [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Nam Dinh vs Hoang Anh Gia Lai [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Song Lam Nghe An vs Da Nang [FHD] [LIVE]
@@ -47,13 +47,13 @@ https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Song Lam Nghe An vs Da Nang [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Hải Phòng vs CA TP.HCM [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Hải Phòng vs CA TP.HCM [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Hải Phòng vs CA TP.HCM [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Hải Phòng vs CA TP.HCM [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Hải Phòng vs CA TP.HCM [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 11/04/26] Hải Phòng vs CA TP.HCM [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League",[18:30 WIB 11/04/26] Arsenal vs Bournemouth [FHD] [NANTIKAN]
@@ -514,3 +514,57 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[23:30 WIB 12/04/26] Celta Vigo vs Oviedo [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 13/04/26] Boston Celtics vs Orlando Magic [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 13/04/26] Boston Celtics vs Orlando Magic [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 13/04/26] Boston Celtics vs Orlando Magic [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 13/04/26] New York Knicks vs Charlotte Hornets [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 13/04/26] New York Knicks vs Charlotte Hornets [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 13/04/26] New York Knicks vs Charlotte Hornets [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 13/04/26] San Antonio Spurs vs Denver Nuggets [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 13/04/26] San Antonio Spurs vs Denver Nuggets [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 13/04/26] San Antonio Spurs vs Denver Nuggets [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 13/04/26] Los Angeles Clippers vs Golden State Warriors [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 13/04/26] Los Angeles Clippers vs Golden State Warriors [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 13/04/26] Los Angeles Clippers vs Golden State Warriors [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 13/04/26] Beijing Royal Fighters vs Shanxi Zhongyu [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 13/04/26] Beijing Royal Fighters vs Shanxi Zhongyu [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 13/04/26] Beijing Royal Fighters vs Shanxi Zhongyu [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 13/04/26] Shandong vs Liaoning [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 13/04/26] Shandong vs Liaoning [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 13/04/26] Shandong vs Liaoning [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
