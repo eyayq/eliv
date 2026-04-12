@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [11:32 WIB 12/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [11:32 WIB 12/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [11:40 WIB 12/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [11:40 WIB 12/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[10:05 WIB 12/04/26] Club America vs Cruz Azul [FHD] [LIVE]
@@ -11,22 +11,22 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[10:05 WIB 12/04/26] Club America vs Cruz Azul [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 12/04/26] Melbourne City vs Wellington Phoenix [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 12/04/26] Melbourne City vs Wellington Phoenix [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 12/04/26] Melbourne City vs Wellington Phoenix [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 12/04/26] Melbourne City vs Wellington Phoenix [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 12/04/26] Melbourne City vs Wellington Phoenix [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 12/04/26] Melbourne City vs Wellington Phoenix [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 12/04/26] Urawa vs Tokyo Verdy [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 12/04/26] Urawa vs Tokyo Verdy [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 12/04/26] Urawa vs Tokyo Verdy [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 12/04/26] Urawa vs Tokyo Verdy [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 12/04/26] Urawa vs Tokyo Verdy [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 12/04/26] Urawa vs Tokyo Verdy [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC79lBZFnaWBJbNsGciHRd5CNSrOy3quSc7Q&s" group-title="VÔ ĐỊCH CHÂU Á",[13:00 WIB 12/04/26] AN Se Young  vs WANG Zhi Yi [FHD] [NANTIKAN]
