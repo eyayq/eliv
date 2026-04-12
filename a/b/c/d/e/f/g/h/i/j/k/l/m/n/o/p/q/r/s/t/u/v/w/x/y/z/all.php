@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [20.52 WIB 12/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.00 WIB 12/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="k82rekhg9ogwrep" tvg-name="Nottingham Forest vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa",[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="k82rekhg9ogwrep" tvg-name="Nottingham Forest vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa",[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="k82rekhg9ogwrep" tvg-name="Nottingham Forest vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa",[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="k82rekhg9ogwrep" tvg-name="Nottingham Forest vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa",[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="k82rekhg9ogwrep" tvg-name="Nottingham Forest vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa",[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="k82rekhg9ogwrep" tvg-name="Nottingham Forest vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa",[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="k82rekhg9ogwrep" tvg-name="Nottingham Forest vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa",[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="k82rekhg9ogwrep" tvg-name="Nottingham Forest vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa",[LIVE 20:00 WIB | 12/04/26] Nottingham Forest vs Aston Villa (Giàng A Chiến)
@@ -45,18 +45,6 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="318q66hx04xxqo9" tvg-name="Sunderland vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 12/04/26] Sunderland vs Tottenham Hotspur",[LIVE 20:00 WIB | 12/04/26] Sunderland vs Tottenham Hotspur (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="1l4rjnh99l38m7v" tvg-name="Shenzhen Peng City vs Yunnan Yukun" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 19:00 WIB | 12/04/26] Shenzhen Peng City vs Yunnan Yukun",[LIVE 19:00 WIB | 12/04/26] Shenzhen Peng City vs Yunnan Yukun (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="1l4rjnh99l38m7v" tvg-name="Shenzhen Peng City vs Yunnan Yukun" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 19:00 WIB | 12/04/26] Shenzhen Peng City vs Yunnan Yukun",[LIVE 19:00 WIB | 12/04/26] Shenzhen Peng City vs Yunnan Yukun (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="vjxm8gheg5ydr6o" tvg-name="FC Köln vs SV Werder Bremen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen",[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="vjxm8gheg5ydr6o" tvg-name="FC Köln vs SV Werder Bremen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen",[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="vjxm8gheg5ydr6o" tvg-name="FC Köln vs SV Werder Bremen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen",[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="vjxm8gheg5ydr6o" tvg-name="FC Köln vs SV Werder Bremen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen",[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="1l4rjnh9682ym7v" tvg-name="Parma vs Napoli" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 12/04/26] Parma vs Napoli",[LIVE 20:00 WIB | 12/04/26] Parma vs Napoli (PHONG VÂN)
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="1l4rjnh9682ym7v" tvg-name="Parma vs Napoli" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 12/04/26] Parma vs Napoli",[LIVE 20:00 WIB | 12/04/26] Parma vs Napoli (PHONG VÂN)
@@ -85,7 +73,19 @@ https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="x7lm7phj053wm2w" tvg-name="CA Osasuna vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 12/04/26] CA Osasuna vs Real Betis",[LIVE 19:00 WIB | 12/04/26] CA Osasuna vs Real Betis (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="l7oqdehg4e3xr51" tvg-name="RCD Mallorca vs Rayo Vallecano" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 21:15 WIB | 22m | 12/04/26] RCD Mallorca vs Rayo Vallecano",[UPCO 21:15 WIB | 22m | 12/04/26] RCD Mallorca vs Rayo Vallecano (Giàng A Ka)
+#EXTINF:-1 tvg-id="1l4rjnh99l38m7v" tvg-name="Shenzhen Peng City vs Yunnan Yukun" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 19:00 WIB | 12/04/26] Shenzhen Peng City vs Yunnan Yukun",[LIVE 19:00 WIB | 12/04/26] Shenzhen Peng City vs Yunnan Yukun (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="1l4rjnh99l38m7v" tvg-name="Shenzhen Peng City vs Yunnan Yukun" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 19:00 WIB | 12/04/26] Shenzhen Peng City vs Yunnan Yukun",[LIVE 19:00 WIB | 12/04/26] Shenzhen Peng City vs Yunnan Yukun (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="vjxm8gheg5ydr6o" tvg-name="FC Köln vs SV Werder Bremen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen",[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="vjxm8gheg5ydr6o" tvg-name="FC Köln vs SV Werder Bremen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen",[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="vjxm8gheg5ydr6o" tvg-name="FC Köln vs SV Werder Bremen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen",[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="vjxm8gheg5ydr6o" tvg-name="FC Köln vs SV Werder Bremen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen",[LIVE 20:30 WIB | 12/04/26] FC Köln vs SV Werder Bremen (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="l7oqdehg4e3xr51" tvg-name="RCD Mallorca vs Rayo Vallecano" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 21:15 WIB | 14m | 12/04/26] RCD Mallorca vs Rayo Vallecano",[UPCO 21:15 WIB | 14m | 12/04/26] RCD Mallorca vs Rayo Vallecano (Giàng A Ka)
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="l7oqdehg4e3xr51" tvg-name="RCD Mallorca vs Rayo Vallecano" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 21:15 WIB | 22m | 12/04/26] RCD Mallorca vs Rayo Vallecano",[UPCO 21:15 WIB | 22m | 12/04/26] RCD Mallorca vs Rayo Vallecano (Giàng A Ka)
+#EXTINF:-1 tvg-id="l7oqdehg4e3xr51" tvg-name="RCD Mallorca vs Rayo Vallecano" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 21:15 WIB | 14m | 12/04/26] RCD Mallorca vs Rayo Vallecano",[UPCO 21:15 WIB | 14m | 12/04/26] RCD Mallorca vs Rayo Vallecano (Giàng A Ka)
 https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
