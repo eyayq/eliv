@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:32 WIB 12/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:32 WIB 12/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [15:41 WIB 12/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:41 WIB 12/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 12/04/26] Urawa vs Tokyo Verdy [FHD] [LIVE]
@@ -47,22 +47,22 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 12/04/26] Persis Solo vs Semen Padang [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:00 WIB 12/04/26] Perth Glory vs Macarthur [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:00 WIB 12/04/26] Perth Glory vs Macarthur [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:00 WIB 12/04/26] Perth Glory vs Macarthur [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:00 WIB 12/04/26] Perth Glory vs Macarthur [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:00 WIB 12/04/26] Perth Glory vs Macarthur [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:00 WIB 12/04/26] Perth Glory vs Macarthur [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/637.png" group-title="V.League 2",[16:00 WIB 12/04/26] Dong Thap vs Bình Phước [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/637.png" group-title="V.League 2",[16:00 WIB 12/04/26] Dong Thap vs Bình Phước [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/637.png" group-title="V.League 2",[16:00 WIB 12/04/26] Dong Thap vs Bình Phước [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/637.png" group-title="V.League 2",[16:00 WIB 12/04/26] Dong Thap vs Bình Phước [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/637.png" group-title="V.League 2",[16:00 WIB 12/04/26] Dong Thap vs Bình Phước [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/637.png" group-title="V.League 2",[16:00 WIB 12/04/26] Dong Thap vs Bình Phước [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaYcxaVuzOwLhmS4hOIfZWjkcRP5VXL6G-Q&s" group-title="Fustal Đông Nam Á 2026",[17:00 WIB 12/04/26] Việt Nam vs Australia [FHD] [NANTIKAN]
