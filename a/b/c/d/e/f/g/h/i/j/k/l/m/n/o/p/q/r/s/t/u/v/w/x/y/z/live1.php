@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁15:20:37 12-04-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁15:29:05 12-04-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean K League 1📁00:00:00📁",📁Gimcheon Sangmu Football Club vs FC Anyang📁12-04-2026 15:20:23 WIB📁00:00:00📁
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean K League 1📁00:00:00📁",📁Gimcheon Sangmu Football Club vs FC Anyang📁12-04-2026 15:20:23 WIB📁00:00:00📁
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Japanese J1 League📁00:00:00📁",📁Kawasaki Frontale vs Kashima Antlers📁12-04-2026 15:20:23 WIB📁00:00:00📁
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Japanese J1 League📁00:00:00📁",📁Kawasaki Frontale vs Kashima Antlers📁12-04-2026 15:20:23 WIB📁00:00:00📁
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Football📁00:00:00📁",📁St Pauli vs Bayern Muchen📁12-04-2026 15:20:23 WIB📁00:00:00📁
-https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Football📁00:00:00📁",📁Brentfort  vs Everton📁12-04-2026 15:20:23 WIB📁00:00:00📁
-https://hls.686868.me/live/Giangalo/index.m3u8?expire=1777012560&sign=be2f60f6416ebc1a300a944171d8b3bd
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Indonesian Super League📁00:00:00📁",📁Persis Solo FC vs Semen Padang📁12-04-2026 15:20:23 WIB📁00:00:00📁
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Indonesian Super League📁00:00:00📁",📁Persis Solo FC vs Semen Padang📁12-04-2026 15:20:23 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Indonesian Super League📁00:00:00📁",📁Persis Solo FC vs Semen Padang📁12-04-2026 15:29:00 WIB📁00:00:00📁
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Vietnam National First Class League📁00:00:00📁",📁Dong Thap vs Truong Tuoi Dong Nai📁12-04-2026 15:20:23 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Indonesian Super League📁00:00:00📁",📁Persis Solo FC vs Semen Padang📁12-04-2026 15:29:00 WIB📁00:00:00📁
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean K League 1📁00:00:00📁",📁Gimcheon Sangmu Football Club vs FC Anyang📁12-04-2026 15:29:00 WIB📁00:00:00📁
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean K League 1📁00:00:00📁",📁Gimcheon Sangmu Football Club vs FC Anyang📁12-04-2026 15:29:00 WIB📁00:00:00📁
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Japanese J1 League📁00:00:00📁",📁Kawasaki Frontale vs Kashima Antlers📁12-04-2026 15:29:00 WIB📁00:00:00📁
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Japanese J1 League📁00:00:00📁",📁Kawasaki Frontale vs Kashima Antlers📁12-04-2026 15:29:00 WIB📁00:00:00📁
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Football📁00:00:00📁",📁St Pauli vs Bayern Muchen📁12-04-2026 15:29:00 WIB📁00:00:00📁
+https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Football📁00:00:00📁",📁Brentfort  vs Everton📁12-04-2026 15:29:00 WIB📁00:00:00📁
+https://hls.686868.me/live/Giangalo/index.m3u8?expire=1777012560&sign=be2f60f6416ebc1a300a944171d8b3bd
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Australia A-League📁00:00:00📁",📁Perth Glory vs Macarthur FC📁12-04-2026 15:29:00 WIB📁00:00:00📁
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Vietnam National First Class League📁00:00:00📁",📁Dong Thap vs Truong Tuoi Dong Nai📁12-04-2026 15:29:00 WIB📁00:00:00📁
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football Super League📁00:00:00📁",📁Tianjin Jinmen Tiger vs Qingdao Hainiu📁12-04-2026 15:20:24 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Chinese Football Super League📁00:00:00📁",📁Tianjin Jinmen Tiger vs Qingdao Hainiu📁12-04-2026 15:29:01 WIB📁00:00:00📁
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
