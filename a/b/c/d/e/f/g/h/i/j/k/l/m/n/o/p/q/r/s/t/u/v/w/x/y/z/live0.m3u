@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 06:58:55 WIB 12-04-2026
-# 🔄 Total Channels: 2433
+# ⏰ Latest Updated: 07:00:42 WIB 12-04-2026
+# 🔄 Total Channels: 2426
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [06:58:55 WIB 12-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [07:00:42 WIB 12-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -49,18 +49,9 @@ http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/36806061ca70613f4c30f1211ee0b1ba.png!w80" group-title="Live Event: Colalive",12:00 12/04 Melbourne city vs Wellington Phoenix Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/24561735.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ca15e36551392e8c99b53b5b2f8531d3.png!w80" group-title="Live Event: Colalive",12:00 12/04 Urawa Reds vs Tokyo Verdy Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png!w80" group-title="Live Event: Colalive",12:00 12/04 Daejeon vs Gangwon Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80" group-title="Live Event: Colalive",12:00 12/04 Seoul Knights vs Goyang Carrot Jumpers Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/90865415.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/9b31beec1bba99785bda025ddeaeef10.png!w80" group-title="Live Event: Colalive",13:00 12/04 Nelson Giants vs Canterbury Rams Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/82054853.m3u8
@@ -765,126 +756,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [VUONG ANH] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=3480aa956720732cc496d550450e4b50&txTime=69db919d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [VUONG ANH] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=357aa228580eabea548d2407c03446ba&txTime=69db919d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [VUONG ANH] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=3480aa956720732cc496d550450e4b50&txTime=69db919d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [VUONG ANH] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=357aa228580eabea548d2407c03446ba&txTime=69db919d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [DECO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1775979341-0-0-725c71553fa5f1591100ace8ccf4688e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [DECO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1775979341-0-0-22017c081ec764c183a4c5992b47134d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [DECO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1775979341-0-0-6760fe5fbbfd871ecadb1474b5351b62
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [DECO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1775979341-0-0-34e7ad4d22a2b700d790151fd85aa337
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ 7UP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1775979341-0-0-24f3524047761fddedcee96d1fa08a98
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ 7UP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1775979341-0-0-6adf6c566dc26ed710a68dabbd28334b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ 7UP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1775979341-0-0-34dcac4bae8b6ba4cfd51ab4d6d717b2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ 7UP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1775979341-0-0-879ff3db7520d0eb285b0f29e036ce5c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [THACH TU] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.flv?txSecret=d0a803c1aabba531eb6ea927d8450a39&txTime=69db919d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [THACH TU] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.flv?txSecret=1ed2438ef54d47e03a170c281f398eb1&txTime=69db919d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [THACH TU] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=d0a803c1aabba531eb6ea927d8450a39&txTime=69db919d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [THACH TU] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=1ed2438ef54d47e03a170c281f398eb1&txTime=69db919d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [ PIRLO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1775979341-0-0-aaf411e4f269c7f48f4b52727268429b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [ PIRLO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1775979341-0-0-7399012a4dd5ffb8c2fab13872d27ea8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [ PIRLO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1775979341-0-0-2171ec255a3d5da380e52bed7f9bbf04
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [ PIRLO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1775979341-0-0-12cd61572ced2933a193156b7918249b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ ALEX] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1775979341-0-0-82672a18c65e1ef4d52703c09eb99536
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ ALEX] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1775979341-0-0-61580bcea0ee20fe90232f58ecd0fec5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ ALEX] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1775979341-0-0-62207bb907e87af770495c2ed5cc9dfc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ ALEX] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1775979341-0-0-2bdf7001835f274ebc379c3372ccb798
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [HOI GYM] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1775979341-0-0-2c22e603622959379d3e24c42006717d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [HOI GYM] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1775979341-0-0-293a45ed459e405241a6f2d15430bfa5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [HOI GYM] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1775979341-0-0-cb5584e1773fd3ec3e27ca3973957952
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [HOI GYM] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1775979341-0-0-10a27a31d96024fa83ddd9d2217a71cc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/4d30a179d6675b0f38d3a646ea6f4f87.png" group-title="Live Event: socolive",12:00 ngay 12/04 Daejeon Citizen vs Gangwon FC [ VITAMIN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1775979341-0-0-2b6b7430588ee6929a32222afaf3693b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/4d30a179d6675b0f38d3a646ea6f4f87.png" group-title="Live Event: socolive",12:00 ngay 12/04 Daejeon Citizen vs Gangwon FC [ VITAMIN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1775979341-0-0-68c4dd5b1d51e8319861bbc3d3e4e35a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/4d30a179d6675b0f38d3a646ea6f4f87.png" group-title="Live Event: socolive",12:00 ngay 12/04 Daejeon Citizen vs Gangwon FC [ VITAMIN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1775979341-0-0-379851ae3a95a51022b94a331bba2fef
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/4d30a179d6675b0f38d3a646ea6f4f87.png" group-title="Live Event: socolive",12:00 ngay 12/04 Daejeon Citizen vs Gangwon FC [ VITAMIN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1775979341-0-0-5fa73f997bd19a3d4e108e37a9031470
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [LOGAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1775979341-0-0-72188114a02c09bfe178cf1244a652a8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [LOGAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1775979341-0-0-6b8de54935817bba64bbc97071f25486
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [LOGAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1775979341-0-0-a38f98470f96479c1b68852f088f459a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [LOGAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1775979341-0-0-8658b145b43783e8f57dd141610c38fa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/bf8e41a0aaa4b2d1ac8f36323fdd5fc8.png" group-title="Live Event: socolive",12:00 ngay 12/04 Montedio Yamagata vs Yokohama FC [ VIP] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=6dbc34eca35e16b9196e8cc398cd1edc&txTime=69db919d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/bf8e41a0aaa4b2d1ac8f36323fdd5fc8.png" group-title="Live Event: socolive",12:00 ngay 12/04 Montedio Yamagata vs Yokohama FC [ VIP] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=6c5d6eb0e44a77cd837a3ef12109f3f5&txTime=69db919d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/bf8e41a0aaa4b2d1ac8f36323fdd5fc8.png" group-title="Live Event: socolive",12:00 ngay 12/04 Montedio Yamagata vs Yokohama FC [ VIP] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=6dbc34eca35e16b9196e8cc398cd1edc&txTime=69db919d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/bf8e41a0aaa4b2d1ac8f36323fdd5fc8.png" group-title="Live Event: socolive",12:00 ngay 12/04 Montedio Yamagata vs Yokohama FC [ VIP] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=6c5d6eb0e44a77cd837a3ef12109f3f5&txTime=69db919d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [ Cu Cai] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1775979701-0-0-7eed12e6e1dcbf3e08465170f774a6f5
@@ -1077,6 +948,114 @@ https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=76c7d81ccf49fd1a429
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/836a22c915b896a4b56afe5527cb6405.png" group-title="Live Event: socolive",12:00 ngay 12/04 Seoul Knights vs Goyang Sono [CHAN SENA] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=3a7a5bd773d1339ce85ed458307b01bc&txTime=69db946d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ 7UP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1775980421-0-0-e80ca9e845e86197c907d5390e641a9c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ 7UP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1775980421-0-0-e848c9f6533fac358d721d9036ffae4a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ 7UP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1775980421-0-0-acfc27adb01ea904a115f7747af59a2b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ 7UP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1775980421-0-0-69d5b06b190e25d7b2006a899bc3490b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [HOI GYM] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1775980421-0-0-9b174fb293f669a3e787f869855983b6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [HOI GYM] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1775980421-0-0-dad27edfb836d7d78f4da3a5c7958c2a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [HOI GYM] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1775980421-0-0-c3c5a365f0b7ab1e6be5d466ee2980e1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [HOI GYM] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1775980421-0-0-9d5bd6603ec9c4b61835903299d20df3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ ALEX] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lsd.flv?auth_key=1775980421-0-0-d1036b62b8d7028a37fe698ec1c828bc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ ALEX] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1775980421-0-0-049369910af8e37a0a3794fa5b455db0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ ALEX] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1775980421-0-0-1d8b4a0b43e4dc6bfab4dcf948fa7fbb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/e530a99c7ed3288409e3a250cd5f22ca.png" group-title="Live Event: socolive",12:00 ngay 12/04 Urawa Red Diamonds vs Tokyo Verdy [ ALEX] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1775980421-0-0-4da1239955b1d6bc30914ce7a9cb98ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [VUONG ANH] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=b29aad8e799795aed0a86502ca6a9aa4&txTime=69db95d5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [VUONG ANH] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=a3e9c730ebb09d35426b3f6ae4cb87db&txTime=69db95d5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [VUONG ANH] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=b29aad8e799795aed0a86502ca6a9aa4&txTime=69db95d5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [VUONG ANH] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a3e9c730ebb09d35426b3f6ae4cb87db&txTime=69db95d5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [DECO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1775980421-0-0-b3b1cea898bd645a779bbaf845772fd9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [DECO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1775980421-0-0-7eddf048fb1e4d49026de0f160f8c921
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [DECO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1775980421-0-0-f8ab9193f76093fbda9aceb74c67367c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/385b74c9da8ccdc43f55b58fbc65263b.png" group-title="Live Event: socolive",12:00 ngay 12/04 Melbourne City vs Wellington Phoenix [DECO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1775980421-0-0-88382737af74a45e3e6312852398e4ff
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [ PIRLO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lsd.flv?auth_key=1775980421-0-0-0b4d8a98b8c2ccf94c11f25b890a4844
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [ PIRLO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-351530_lhd.flv?auth_key=1775980421-0-0-c81005b3bc92bf45db6425c248dbc896
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [ PIRLO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1775980421-0-0-459904e16485bbf3845f85ac483f2b22
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [ PIRLO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1775980421-0-0-3fc14f7a0ed4491e2676af1f5ac1a587
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/4d30a179d6675b0f38d3a646ea6f4f87.png" group-title="Live Event: socolive",12:00 ngay 12/04 Daejeon Citizen vs Gangwon FC [ VITAMIN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lsd.flv?auth_key=1775980421-0-0-2d14ee961e12fcabe199a90567e0c882
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/4d30a179d6675b0f38d3a646ea6f4f87.png" group-title="Live Event: socolive",12:00 ngay 12/04 Daejeon Citizen vs Gangwon FC [ VITAMIN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1775980421-0-0-6c84ad98e37d8b268a476f902cc93e3d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/4d30a179d6675b0f38d3a646ea6f4f87.png" group-title="Live Event: socolive",12:00 ngay 12/04 Daejeon Citizen vs Gangwon FC [ VITAMIN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1775980421-0-0-f44ad3b3e61ff6cc4ce4406af9e65273
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/4d30a179d6675b0f38d3a646ea6f4f87.png" group-title="Live Event: socolive",12:00 ngay 12/04 Daejeon Citizen vs Gangwon FC [ VITAMIN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1775980421-0-0-42e52cac4540a194d3c95c9d9af8c973
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [LOGAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1775980421-0-0-ed3dbe5446acb1ff77edc92c4e56be48
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [LOGAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1775980421-0-0-93a59977ec8d5ca9d8bc127d6e931c3e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [LOGAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1775980421-0-0-3fa539cf3d3d5edef6d8d820dff621bc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/77c9b6d27a9df2d48e4f946dff6375b8.png" group-title="Live Event: socolive",14:00 ngay 12/04 Kawasaki Frontale vs Kashima Antlers [LOGAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1775980421-0-0-0d675428012cee94dc593e8eafbb30f1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/bf8e41a0aaa4b2d1ac8f36323fdd5fc8.png" group-title="Live Event: socolive",12:00 ngay 12/04 Montedio Yamagata vs Yokohama FC [ VIP] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=667154296301c8ce6f961f2bf72662ce&txTime=69db95d5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/bf8e41a0aaa4b2d1ac8f36323fdd5fc8.png" group-title="Live Event: socolive",12:00 ngay 12/04 Montedio Yamagata vs Yokohama FC [ VIP] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=7ddc94da47b1d8d18058680c5d12186f&txTime=69db95d5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/bf8e41a0aaa4b2d1ac8f36323fdd5fc8.png" group-title="Live Event: socolive",12:00 ngay 12/04 Montedio Yamagata vs Yokohama FC [ VIP] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=667154296301c8ce6f961f2bf72662ce&txTime=69db95d5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260408/bf8e41a0aaa4b2d1ac8f36323fdd5fc8.png" group-title="Live Event: socolive",12:00 ngay 12/04 Montedio Yamagata vs Yokohama FC [ VIP] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=7ddc94da47b1d8d18058680c5d12186f&txTime=69db95d5
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/945.png" group-title="Live Event: Hội quán",12:00 12/04 Melbourne City vs Wellington Phoenix FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -5018,55 +4997,43 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=e539059c3f6892b58c926a4e78817a3f&wsABSTime=1776020135
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=5d51935ede41dea9647a5b121fb04103&wsABSTime=1776020446
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnh6p61m7vx/image/small" group-title="LIVE EVENT | XOILACZ AI",12:00 WIB - CHEONAN CITY VS CHEONGJU FC [KOR D2] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=77734ab871af470fea187be960bf9c2c&wsABSTime=1776020135
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=0703e4509617d3e3d6a1f2ef2d99c011&wsABSTime=1776020447
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhdy2ql07/image/small" group-title="LIVE EVENT | XOILACZ AI",12:00 WIB - SUWON SAMSUNG VS GIMPO FC [KOR D2] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=e3d893c8388cefa5d10f0abd8c7bf028&wsABSTime=1776020135
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=d1e470defe33629478c8e0dda49d28d5&wsABSTime=1776020447
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkh310zqg8n/image/small" group-title="LIVE EVENT | XOILACZ AI",12:00 WIB - FUKUSHIMA FC VS IWAKI FC [J2/] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=18ccc1541b5f7ffed33ebabfb88dbc7f&wsABSTime=1776020136
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=265921fde9a0067a0b7e6d885153ffc2&wsABSTime=1776020448
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hv90rz84/image/small" group-title="LIVE EVENT | XOILACZ AI",12:00 WIB - MATSUMOTO FC VS RB OMIYA ARDIJA [J2/] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=dc9275691eff1fa9488af80f9ff985bb&wsABSTime=1776020137
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=f9b8ce5bb2784ba8f382503ccb02692f&wsABSTime=1776020448
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nho18md7o/image/small" group-title="LIVE EVENT | XOILACZ AI",12:00 WIB - M YAMAGATA VS YOKOHAMA FC [J2/] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=3a5d6ea89b958d99cb98731466bb45b8&wsABSTime=1776020138
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=42e03f2540efcf074dd6bc20a23d72a4&wsABSTime=1776020450
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/j1l4rjzt0vom7vx/image/small" group-title="LIVE EVENT | XOILACZ AI",16:00 WIB - YULON LUXGEN DINOS VS BANK OF TAIWAN [CHI] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=de5ab7528b38bbd06bfbbfe42e7d1d97&wsABSTime=1776020144
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=2e5eaf935bd88ceee4c1a75980f54966&wsABSTime=1776020451
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3wkxql07/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - Z KANAZAWA VS FC IMABARI [J2/]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:00 WIB | [Japan J League] Kawasaki Frontale vs Kashima Antlers [M2]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:30 WIB | [South Korea K League] Gimcheon Sangmu vs Anyang [M4]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zaradsq.shop/hls/GSSSQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:00 WIB | [Japan J League] Kawasaki Frontale vs Kashima Antlers [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zakfpozakfe.shop/hls/GSSSQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:00 WIB | [Japan J League] Kawasaki Frontale vs Kashima Antlers [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zcqvev.shop/hls/GSSSQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:00 WIB | [Japan J League] Kawasaki Frontale vs Kashima Antlers [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zatrjytj.shop/hls/GSSSQQQQ.m3u8
+https://z.zcqvev.shop/hls/GSSSQQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:30 WIB | [South Korea K League] Gimcheon Sangmu vs Anyang [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -5075,10 +5042,6 @@ https://z.zaradsq.shop/hls/GSSSQQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.zakfpozakfe.shop/hls/GSSSQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:30 WIB | [South Korea K League] Gimcheon Sangmu vs Anyang [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zcqvev.shop/hls/GSSSQQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:30 WIB | [South Korea K League] Gimcheon Sangmu vs Anyang [M3]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -5099,18 +5062,34 @@ https://z.zatrjytj.shop/hls/DACACA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.zcqvev.shop/hls/DACACA.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:00 WIB | [Japan J League] Kawasaki Frontale vs Kashima Antlers [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zcqvev.shop/hls/GSSSQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:00 WIB | [Japan J League] Kawasaki Frontale vs Kashima Antlers [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zaradsq.shop/hls/GSSSQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:00 WIB | [Japan J League] Kawasaki Frontale vs Kashima Antlers [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zatrjytj.shop/hls/GSSSQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:00 WIB | [Japan J League] Kawasaki Frontale vs Kashima Antlers [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zakfpozakfe.shop/hls/GSSSQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",13:05 WIB | [NRL] Wests Tigers vs Newcastle Knights [M4]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.zcqvev.shop/hls/GSSS.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",13:05 WIB | [NRL] Wests Tigers vs Newcastle Knights [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zaradsq.shop/hls/GSSS.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",13:05 WIB | [NRL] Wests Tigers vs Newcastle Knights [M3]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.zatrjytj.shop/hls/GSSS.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",13:05 WIB | [NRL] Wests Tigers vs Newcastle Knights [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zaradsq.shop/hls/GSSS.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",13:05 WIB | [NRL] Wests Tigers vs Newcastle Knights [M1]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -5119,6 +5098,10 @@ https://z.zakfpozakfe.shop/hls/GSSS.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.zcqvev.shop/hls/kooo.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="LIVE EVENT FAWANEWS",12:15 WIB | [AFL Aussie Rules] GWS Giants vs Richmond Tigers [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zakfpozakfe.shop/hls/kooo.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="LIVE EVENT FAWANEWS",12:15 WIB | [AFL Aussie Rules] GWS Giants vs Richmond Tigers [M3]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -5127,10 +5110,6 @@ https://z.zatrjytj.shop/hls/kooo.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.zaradsq.shop/hls/kooo.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg" group-title="LIVE EVENT FAWANEWS",12:15 WIB | [AFL Aussie Rules] GWS Giants vs Richmond Tigers [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zakfpozakfe.shop/hls/kooo.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1950704883491061760/RZiel3Mx_400x400.png" group-title="LIVE EVENT FAWANEWS",12:00 WIB | [Australia A-League] Melbourne City vs Wellington Phoenix [M1]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
