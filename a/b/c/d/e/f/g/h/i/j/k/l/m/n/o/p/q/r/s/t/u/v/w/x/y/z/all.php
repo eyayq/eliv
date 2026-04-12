@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [18.33 WIB 12/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [18.41 WIB 12/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="zp5rzghgjn28q82" tvg-name="Genoa vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo",[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="zp5rzghgjn28q82" tvg-name="Genoa vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo",[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="zp5rzghgjn28q82" tvg-name="Genoa vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo",[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo (Giàng A Mèo)
-https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="zp5rzghgjn28q82" tvg-name="Genoa vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo",[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo (Giàng A Mèo)
-https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="zp5rzghgjn28q82" tvg-name="Genoa vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo",[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="zp5rzghgjn28q82" tvg-name="Genoa vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo",[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo (Giàng A Sếu)
 https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="zp5rzghgjn28q82" tvg-name="Genoa vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo",[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo (Giàng A Mèo)
+https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="zp5rzghgjn28q82" tvg-name="Genoa vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo",[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo (Giàng A Mèo)
+https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="zp5rzghgjn28q82" tvg-name="Genoa vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo",[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="zp5rzghgjn28q82" tvg-name="Genoa vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo",[LIVE 17:30 WIB | 12/04/26] Genoa vs Sassuolo (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="ednm9whw9ejdryo" tvg-name="Fortuna Sittard vs NAC Breda" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 17:15 WIB | 12/04/26] Fortuna Sittard vs NAC Breda",[LIVE 17:15 WIB | 12/04/26] Fortuna Sittard vs NAC Breda (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="ednm9whw9ejdryo" tvg-name="Fortuna Sittard vs NAC Breda" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 17:15 WIB | 12/04/26] Fortuna Sittard vs NAC Breda",[LIVE 17:15 WIB | 12/04/26] Fortuna Sittard vs NAC Breda (GIÀNG A PHỆ )
@@ -21,9 +21,9 @@ https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="6ypq3nhvk133md7" tvg-name="Quang Ninh vs Bac Ninh" tvg-logo="https://img.cdnok9.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png" group-title="[LIVE 17:00 WIB | 12/04/26] Quang Ninh vs Bac Ninh",[LIVE 17:00 WIB | 12/04/26] Quang Ninh vs Bac Ninh (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="vjxm8gheew7gr6o" tvg-name="Beijing Guoan vs Chengdu Rongcheng" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[UPCO 18:35 WIB | 1m | 12/04/26] Beijing Guoan vs Chengdu Rongcheng",[UPCO 18:35 WIB | 1m | 12/04/26] Beijing Guoan vs Chengdu Rongcheng (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="vjxm8gheew7gr6o" tvg-name="Beijing Guoan vs Chengdu Rongcheng" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 12/04/26] Beijing Guoan vs Chengdu Rongcheng",[LIVE 18:35 WIB | 12/04/26] Beijing Guoan vs Chengdu Rongcheng (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="vjxm8gheew7gr6o" tvg-name="Beijing Guoan vs Chengdu Rongcheng" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[UPCO 18:35 WIB | 1m | 12/04/26] Beijing Guoan vs Chengdu Rongcheng",[UPCO 18:35 WIB | 1m | 12/04/26] Beijing Guoan vs Chengdu Rongcheng (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="vjxm8gheew7gr6o" tvg-name="Beijing Guoan vs Chengdu Rongcheng" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 12/04/26] Beijing Guoan vs Chengdu Rongcheng",[LIVE 18:35 WIB | 12/04/26] Beijing Guoan vs Chengdu Rongcheng (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="4wyrn4h6de49q86" tvg-name="SV Elversberg vs Schalke 04" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 18:30 WIB | 12/04/26] SV Elversberg vs Schalke 04",[LIVE 18:30 WIB | 12/04/26] SV Elversberg vs Schalke 04 (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
@@ -69,11 +69,11 @@ https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df7
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="l5ergph44j6or8k" tvg-name="PVF CAND vs Cong An Ha Noi FC" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 12/04/26] PVF CAND vs Cong An Ha Noi FC",[LIVE 18:00 WIB | 12/04/26] PVF CAND vs Cong An Ha Noi FC (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="x7lm7phj053wm2w" tvg-name="CA Osasuna vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 19:00 WIB | 26m | 12/04/26] CA Osasuna vs Real Betis",[UPCO 19:00 WIB | 26m | 12/04/26] CA Osasuna vs Real Betis (Giàng A Long)
+#EXTINF:-1 tvg-id="x7lm7phj053wm2w" tvg-name="CA Osasuna vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 19:00 WIB | 18m | 12/04/26] CA Osasuna vs Real Betis",[UPCO 19:00 WIB | 18m | 12/04/26] CA Osasuna vs Real Betis (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="x7lm7phj053wm2w" tvg-name="CA Osasuna vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 19:00 WIB | 26m | 12/04/26] CA Osasuna vs Real Betis",[UPCO 19:00 WIB | 26m | 12/04/26] CA Osasuna vs Real Betis (Giàng A Long)
+#EXTINF:-1 tvg-id="x7lm7phj053wm2w" tvg-name="CA Osasuna vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 19:00 WIB | 18m | 12/04/26] CA Osasuna vs Real Betis",[UPCO 19:00 WIB | 18m | 12/04/26] CA Osasuna vs Real Betis (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="1l4rjnh99l38m7v" tvg-name="Shenzhen Peng City vs Yunnan Yukun" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[UPCO 19:00 WIB | 26m | 12/04/26] Shenzhen Peng City vs Yunnan Yukun",[UPCO 19:00 WIB | 26m | 12/04/26] Shenzhen Peng City vs Yunnan Yukun (VĂN GÔN)
+#EXTINF:-1 tvg-id="1l4rjnh99l38m7v" tvg-name="Shenzhen Peng City vs Yunnan Yukun" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[UPCO 19:00 WIB | 18m | 12/04/26] Shenzhen Peng City vs Yunnan Yukun",[UPCO 19:00 WIB | 18m | 12/04/26] Shenzhen Peng City vs Yunnan Yukun (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="1l4rjnh99l38m7v" tvg-name="Shenzhen Peng City vs Yunnan Yukun" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[UPCO 19:00 WIB | 26m | 12/04/26] Shenzhen Peng City vs Yunnan Yukun",[UPCO 19:00 WIB | 26m | 12/04/26] Shenzhen Peng City vs Yunnan Yukun (VĂN GÔN)
+#EXTINF:-1 tvg-id="1l4rjnh99l38m7v" tvg-name="Shenzhen Peng City vs Yunnan Yukun" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[UPCO 19:00 WIB | 18m | 12/04/26] Shenzhen Peng City vs Yunnan Yukun",[UPCO 19:00 WIB | 18m | 12/04/26] Shenzhen Peng City vs Yunnan Yukun (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
