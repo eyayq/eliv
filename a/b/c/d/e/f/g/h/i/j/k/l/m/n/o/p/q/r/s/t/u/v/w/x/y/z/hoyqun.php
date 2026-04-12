@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [13:12 WIB 12/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:12 WIB 12/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [13:20 WIB 12/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:20 WIB 12/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[12:00 WIB 12/04/26] Melbourne City vs Wellington Phoenix [FHD] [LIVE]
@@ -235,6 +235,15 @@ https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://phapluat.tuoitrethudo.vn/stores/news_dataimages/hoangphuongduy/102019/21/15/in_article/0102_2000px-Bundesliga-Logo.svg.jpg" group-title="Bundesliga",[22:30 WIB 12/04/26] VfB Stuttgart vs Hamburger SV [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League",[22:30 WIB 12/04/26] Chelsea vs Manchester City [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League",[22:30 WIB 12/04/26] Chelsea vs Manchester City [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League",[22:30 WIB 12/04/26] Chelsea vs Manchester City [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 12/04/26] Bologna vs Lecce [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
