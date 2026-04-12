@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 05:05:10 WIB 13-04-2026
-# 🔄 Total Channels: 7675
+# ⏰ Latest Updated: 05:08:35 WIB 13-04-2026
+# 🔄 Total Channels: 7771
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI BRO: [05:05:10 WIB 13-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI BRO: [05:08:35 WIB 13-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -18,6 +18,433 @@ https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="😈Channel Nasional & Lokal😈",😈Trans7 Vision+😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="😈Channel Nasional & Lokal😈",😈MNCTV Vision+😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="😈Channel Nasional & Lokal😈",😈TransTV Vision+😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" group-title="😈Channel Nasional & Lokal😈",😈INDOSIAR😈
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="😈Channel Nasional & Lokal😈",😈ANTV Vision+😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWHJDcAuDDvi2iL4EzF7XBdqLDOe0xeI_4rUKp2s9XTg&s=10" group-title="😈Channel Nasional & Lokal😈",😈ANTV😈
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+http://103.66.62.83:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_rcti.png" group-title="😈Channel Nasional & Lokal😈",😈RCTI Vision+😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png" group-title="😈Channel Nasional & Lokal😈",😈SCTV😈
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" group-title="😈Channel Nasional & Lokal😈",😈METRO TV😈
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/250px-GTV_%282017%29.svg.png" group-title="😈Channel Nasional & Lokal😈",😈GTV Vision+😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqrF7FTHRf_GsJjT2yYgdczJtqnkyvmPttoA&s" group-title="😈Channel Nasional & Lokal😈",😈Vision Prime😈
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_citradangdut.png" group-title="😈Channel Nasional & Lokal😈",😈Citra Dangdut😈
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="😈Channel Nasional & Lokal😈",😈MDTV/NET TV😈
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="😈Channel Nasional & Lokal😈",😈MOJI TV😈
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_mentaritv.png" group-title="😈Channel Nasional & Lokal😈",😈Mentari TV😈
+http://103.66.62.83:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" group-title="😈Channel Nasional & Lokal😈",😈RTV😈
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="😈Channel Nasional & Lokal😈",😈KOMPAS TV😈
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_inews.png" group-title="😈Channel Nasional & Lokal😈",😈INews Vision+😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png" group-title="😈Channel Nasional & Lokal😈",😈CNN Indonesia😈
+#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10" group-title="😈Channel Nasional & Lokal😈",😈CNBC Indonesia😈
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="😈Channel Nasional & Lokal😈",😈TVONE Vision+😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg" group-title="😈Channel Nasional & Lokal😈",😈TVRI World😈
+https://cdn10jtedge.indihometv.com/atm/DASH/tvriworld/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" group-title="😈Channel Nasional & Lokal😈",😈TVRI Nasional😈
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png" group-title="😈Channel Nasional & Lokal😈",😈NUSANTARA TV😈
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" group-title="😈Channel Nasional & Lokal😈",😈BN CHANNEL😈
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT370BM9ASByQuGS3WvkQuPa-sS2lP0qA4Phl5G8zvncg&s=10" group-title="😈Channel Nasional & Lokal😈",😈SAKTI TV😈
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg" group-title="😈Channel Nasional & Lokal😈",😈Berita Satu😈
+http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Uih7rCesQQ6wlvUOWGFne2czdRFLQATmU1okbJ9aGQ&s=10" group-title="😈Channel Nasional & Lokal😈",😈MAGNA Channel😈
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="😈Channel Nasional & Lokal😈",😈GARUDA TV😈
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10" group-title="😈Channel Nasional & Lokal😈",😈STARA TV😈
+https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_btv.png" group-title="😈Channel Nasional & Lokal😈",😈BTV😈
+https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" group-title="😈Channel Nasional & Lokal😈",😈SINPO TV😈
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180-CL-AntaraTV_2025_10_24_15_50_32.jpg" group-title="😈Channel Nasional & Lokal😈",😈ANTARA TV😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqx3GNEyPvX_kdBQb-WUyofSyZt-bVu2GXk5oZxSfMJsjk7AZATCvcbsck&s=10" group-title="😈Channel Nasional & Lokal😈",😈Jogja TV😈
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_jtv.png" group-title="😈Channel Nasional & Lokal😈",😈JTV Vision+😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrN1VkPc8FAjmDXLxzaQSakXdIivHNoQ9EBHqDmePLA&s=10" group-title="😈Channel Nasional & Lokal😈",😈Jowo Channel😈
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuV6XTX-lIHaMjSaz0ml1fo_S5mqpsjwdXpsO7-mxBg&s=10" group-title="😈Channel Nasional & Lokal😈",😈Hanacaraka TV😈
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:
+https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKZTlbU5-Kiqhy9bIYVSGSLM8Brxt-fin0RjCR8RkOw&s=10" group-title="😈Channel Nasional & Lokal😈",😈Dhoho TV😈
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-PRHE7UVBD4FTMdWD1gMPVjId3egIl-EhF3i9hXlHQ&s=10" group-title="😈Channel Nasional & Lokal😈",😈TATV😈
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXLUWiBllarKsFrPVAYVA5g7PYPjBmW2XEVZ-D3WLnuFZ-ivhfR02PDVRaDNPT9KONvEatw4g8FEGEvHYEr_aQnqbXlLejgEnFljJdg&s=10" group-title="😈Channel Nasional & Lokal😈",😈BMS TV😈
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvE8WPi1WeteheEzwnkzBVYA7jJ4xpZYe_tO3ynPsVg&s" group-title="😈Channel Nasional & Lokal😈",😈Duta TV😈
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl85kPaPuXqYjZEdaQuTC2ybuWhKBDzGaKcDPjmZVZg&s=10" group-title="😈Channel Nasional & Lokal😈",😈DhammaTV😈
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmPAjalQmEpiHsQNGPEW9w4CiavBKecBx43blw3nqMuA&s=10 group-title=" group-title="😈Channel Nasional & Lokal😈",😈Bungo TV😈
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_balitv.png" group-title="😈Channel Nasional & Lokal😈",😈Bali TV😈
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="😈Channel Nasional & Lokal😈",😈YT LIVE😈
+https://cilok99.serv00.net/ythls/xxxx.py/play.m3u8?id=UCzl0OrB3-ehunyotIQvK77A
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ElshintaTV2019.png/250px-ElshintaTV2019.png" group-title="😈Channel Nasional & Lokal😈",😈ELSHINTA TV😈
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHuq8532W9fB5LakE4smhAJwE4ZF5GdUxUrSiQcgT73g&s" group-title="😈Channel Nasional & Lokal😈",😈Jambi TV😈
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsT1-TAALAyekW9BJnt26w8n_3sQKQ23O1iHaCkvX7Xg&s=10" group-title="😈Channel Nasional & Lokal😈",😈RCTV😈
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68gIlLKiKBz0I3Sm91Du3kUshLw3tlKN_daCN8p9Hkg&s" group-title="😈Channel Nasional & Lokal😈",😈Radar TV Tasikmalaya😈
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwr1bT7cGoI_8w7XuKoGNZ1J4i3wuK25di5YApZE3uvg&s=10" group-title="😈Channel Nasional & Lokal😈",😈LINGKAR TV😈
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSReels_2026_01_31_00_37_47.jpg" group-title="😈Max Group😈",😈Max Reels😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg" group-title="😈Max Group😈",😈Max Kids😈
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg" group-title="😈Max Group😈",😈Max Eats😈
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg" group-title="😈Max Group😈",😈Max Streak😈
+https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="😈Max Group😈",😈Max Sports😈
+https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="😈Channel Sports😈",😈TVRI SPORT😈
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkMEdXxkbiJ-iK1-28PU-Xrb1Dt98W5KBt5nDBmc3sLSkMFR15ssFWI6T&s=10" group-title="😈Channel Sports😈",😈BEIN Sports ID 1😈
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkMEdXxkbiJ-iK1-28PU-Xrb1Dt98W5KBt5nDBmc3sLSkMFR15ssFWI6T&s=10" group-title="😈Channel Sports😈",😈BEIN Sports ID 2😈
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqkMEdXxkbiJ-iK1-28PU-Xrb1Dt98W5KBt5nDBmc3sLSkMFR15ssFWI6T&s=10" group-title="😈Channel Sports😈",😈BEIN Sports ID 3😈
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10" group-title="😈Channel Sports😈",😈SPOTV😈
+#KODIPROP:inputstream.adaptive.livestream=false
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10" group-title="😈Channel Sports😈",😈SPOTV 2😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="😈Channel Sports😈",😈TNT Sport 1😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="😈Channel Sports😈",😈TNT Sport 2😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2mxmL_CPC110vKGsvn1MfZUo8FH_8KsmEZk983ew2Q&s=10" group-title="😈Channel Sports😈",😈TNT Sport 3😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4N77tyOzPPa2WCkG98fKgWI-RupS4HC-VpUg7LHkSw&s=10" group-title="😈Channel Sports😈",😈Euro Sport😈
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23308
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4N77tyOzPPa2WCkG98fKgWI-RupS4HC-VpUg7LHkSw&s=10" group-title="😈Channel Sports😈",😈Euro Sport 1😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4N77tyOzPPa2WCkG98fKgWI-RupS4HC-VpUg7LHkSw&s=10" group-title="😈Channel Sports😈",😈Euro Sport 2😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NKWmY3GE9u2lEfxGpR2Q7d5QAbwd50VFv8qqWhuMFg&s=10" group-title="😈Channel Sports😈",😈CBS Sports😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdF4mFT1c5HiF_lypMLf-fuNcR9RRAhsVZeo6WghCXLQ&s=10" group-title="😈Channel Sports😈",😈RedBull TV😈
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="😈Channel Sports😈",😈Max Sports😈
+https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjJMWnt2yOw0zM1C8vvDo7r3Gud7h9sHbw5ZQKbVUug&s=10" group-title="😈Channel Sports😈",😈PSJ TV😈
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Mo7Xhw8TSr-ODFa1-hVS2pHWEyijdMjaC53G5ssk4A&s" group-title="😈Channel Kids😈",😈KIDS TV😈
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_MYKIDZ_2025_03_17_14_58_58.png" group-title="😈Channel Kids😈",😈MY KIDZ😈
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd|User-Agent=referrer=https://www.indihometv.com
+#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/idFmMXJiW_/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" group-title="😈Channel Kids😈",😈Cartoon Network😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg" group-title="😈Channel Kids😈",😈Max Kids😈
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/idTOtlDBMJ/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="😈Channel Kids😈",😈Animax😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQeRj23VmYnxXV2FmARF-7IzeNFBIjfotk8kqLH_ZWw&s=10" group-title="😈Channel Kids😈",😈Matematika TV😈
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch80.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/id3HqB2coI/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="😈Channel Movies😈",😈WB TV😈
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.abr_throughput_algorithm=classic
+#KODIPROP:inputstream.adaptive.play_timeshift_buffer=0
+#KODIPROP:inputstream.adaptive.use_secure_decoder=true
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdn.brandfetch.io/idCsdZa-p4/w/320/h/320/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" group-title="😈Channel Movies😈",😈AXN😈
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="😈Channel Movies😈",😈Galaxy Premium😈
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Poster_Film_Almarhum.jpg" group-title="😈Horor😈",😈ALMARHUM😈
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Almarhum.2025.1080p.NF.WEB-DL.AAC2.0.H265-Lucasan.mkv?
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/72/2024/08/11/IMG_20240811_201204-3867138655.jpg" group-title="😈Horor😈",😈BANDARAWUHI DI DESA PENARI😈
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.kingtv (Linux;Android) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referer=www.dropbox.com
+https://www.dropbox.com/scl/fi/hco4t21ahuvljui4qqj4a/Dancing-Village-The-Curse-Begins-2024.mp4?rlkey=rkwgld4gwv7s2u6tienjkeu4y&st=1uajkzq7&dl=1
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/3x0:1279x645/720x0/webp/photo/2022/09/18/2587098442.jpg" group-title="😈Horor😈",😈HIDAYAH😈
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Hidayah%202023.mp4?
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4c/Khanzab_%282023%29.jpg/250px-Khanzab_%282023%29.jpg" group-title="😈Horor😈",😈KHANSAB😈
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Khanzab.2023.mp4?
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2025/08/07/2026747104.png" group-title="😈Horor😈",😈PABRIK GULA (UNCUT)😈
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pabrik.Gula.2025.1080p.NF.WEB-DL.DDP5.1.H.264-SEIKEL.mkv?
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2023/01/20/para-betina-pengikut-iblis_169.jpeg?w=1200" group-title="😈Horor😈",😈PARA BETINA PENGIKUT IBLIS😈
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Para_Betina_Pengikut_Iblisjepstoe.mp4?
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyUoao22Imkbli9Q83rNfE7Cu1CVOyRhisA&s" group-title="😈Horor😈",😈PEMBANTAIAN DUKUN SANTET😈
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pembantaian.Dukun.Santet.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv?
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/resized/800x400/p/headline/sinopsis-dan-konsep-cerita-film-perjanj-5fa94a.jpg" group-title="😈Horor😈",😈PERJANJIAN GHAIB😈
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Perjanjian.Gaib.2023.mkv?
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2025/02/08/213356535.jpg" group-title="😈Horor😈",😈PETAKA GUNUNG GEDE😈
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Haunting.of.Mount.Gede.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv?
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x631:1059x1292/750x500/webp/photo/p1/946/2025/06/20/ClipDownApp_473768863_17856501969357297_4843955885585974054_n-2369385852.jpg" group-title="😈Horor😈",😈RUMAH TETEH STORY OF HELENA😈
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/Rumah.Teteh.Story.of.Helena.2025.1080p.WEB-DL.DDP5.1.H.264-KQRM.mkv?
+#EXTINF:-1 tvg-logo="https://asset-2.tribunnews.com/medan/foto/bank/images/MD-Pictures-kembali-memproduksi-film-horor-terbaru-berjudul-Sewu-Dino.jpg" group-title="😈Horor😈",😈SEWU DINO😈
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Sewu.Dino.2023.1080p.AMZN.WEB-DL.DDP5.1.H.265-KQRM.mkv?
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/12/Poster_Tasbih_Kosong_%282023%29.jpg" group-title="😈Horor😈",😈TASBIH KOSONG😈
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Tasbih.Kosong.2023.1080p.WEB-DL.MalaySub.MSM_2.mp4?
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/653x366/2023/03/30/55649-poster-film-teman-tidur-instagramtemantidurthemovie.jpg" group-title="😈Horor😈",😈TEMAN TIDUR😈
+https://jepstoreiptv.atullijai.workers.dev/0:/jepstore/vodcunmelecun/VOD%20INDONESIA/Teman.Tidur.2023.mp4?
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/07/Sebelum_7_Hari_film_poster.jpg" group-title="😈Horor😈",😈THE LAST 7 DAY (SEBELUM 7 HARI)😈
+https://vod1.suwalbolong.workers.dev/0:/2025/indo/The.Last.7.Days.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv?
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-dongeng-sang-kancil-2024-lk21-d21.jpg.webp" group-title="😈Animation😈",😈Dongeng Sang Kancil (2024)😈
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=5f8390a014e045f4457638c24aa9aec0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://cloud.hownetwork.xyz/zzz/d4a543ff57f0d80ba5a65299851af8b3/31/480.m3u8
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2024/07/film-the-garfield-movie-2024-lk21-d21.jpg" group-title="😈Animation😈",😈The Garfield Movie (2024)😈
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://cloud.hownetwork.xyz/zzz/b938d038b4274e6931b22b9ee5d99daa/27/480.m3u8
+#EXTINF:-1 tvg-logo="https://rts.gdn/wp-content/uploads/2025/01/imKSymKBK7o73sajciEmndJoVkR-128x190.jpg.webp" group-title="😈Animation😈",😈Flow (2024)😈
+#EXTVLCOPT:http-origin=https://t21.press
+#EXTVLCOPT:http-referrer=https://t21.press/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36
+https://seneng.org/v/driveid-203438-bluray-720-terbit21-com-flow-2024.m3u8
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/01/film-kung-fu-panda-2008.jpg" group-title="😈Animation😈",😈Kung Fu Panda  (2008)😈
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=3d6f4520cf9f434fde0692526443d251
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://cloud.hownetwork.xyz/zzz/3d6f4520cf9f434fde0692526443d251/5/480.m3u8
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/01/film-kung-fu-panda-2-2011.jpg" group-title="😈Animation😈",😈Kung Fu Panda 2 (2011)😈
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=004f0af7ce8561d3f99503ebf5b81541
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://cloud.hownetwork.xyz/zzz/004f0af7ce8561d3f99503ebf5b81541/5/480.m3u8
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2016/02/film-kung-fu-panda-3-2016.jpg" group-title="😈Animation😈",😈Kung Fu Panda 3 (2016)😈
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=53f29a0b0f293317b0fef26fb29d97b4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36
+https://cloud.hownetwork.xyz/zzz/53f29a0b0f293317b0fef26fb29d97b4/5/480.m3u8
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2024/04/film-kung-fu-panda-4-2024-lk21-d21.jpg" group-title="😈Animation😈",😈Kung Fu Panda 4 (2024)😈
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://cloud.hownetwork.xyz/zzz/16e9b64d2427c36930ea44a6f6034089/23/480.m3u8
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2021/02/film-tom-and-jerry-2021-lk21.jpg" group-title="😈Animation😈",😈Tom and Jerry (2021)😈
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+https://cloud.hownetwork.xyz/zzz/b12d61fe3bbe54606db64592c66f5af7/11/480.m3u8
+#EXTINF:-1 tvg-logo="hb" group-title="😈Action😈",😈😈
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+>https://cloud.hownetwork.xyz/zzz/MQggKiALWiwjP1ogLEQjK29KeXx2VCAEABU7ExtvZm8kSHB3J00/34/480.m3u8
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/11/film-only-for-love-2023-lk21-d21.jpg" group-title="😈Drama China😈",😈Only for Love😈
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+>https://cloud.hownetwork.xyz/zzz/096b6c0fd88ed2c581aef498142ae134/14/480.m3u8
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2023/11/film-only-for-love-2023-lk21-d21.jpg" group-title="😈Drama China😈",😈Only for Love😈
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-origin=https://cloud.hownetwork.xyz
+#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=b938d038b4274e6931b22b9ee5d99daa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+🔸🔶  Gadis Masa VIU  🔶🔸
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-gadis-masa-2025-lk21-d21.jpg" group-title="😈Drama Malaysia😈",😈Gadis Masa😈
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166225074&quality=s240p&product_id=2534019&lang=Malay
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-gadis-masa-2025-lk21-d21.jpg" group-title="😈Drama Malaysia😈",😈Gadis Masa😈
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166223266&quality=s240p&product_id=2526332&lang=Malay
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-gadis-masa-2025-lk21-d21.jpg" group-title="😈Drama Malaysia😈",😈Gadis Masa😈
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166232184&quality=s240p&product_id=2565483&lang=Malay
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-gadis-masa-2025-lk21-d21.jpg" group-title="😈Drama Malaysia😈",😈Gadis Masa😈
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166232187&quality=s240p&product_id=2565496&lang=Malay
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-gadis-masa-2025-lk21-d21.jpg" group-title="😈Drama Malaysia😈",😈Gadis Masa😈
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166232298&quality=s240p&product_id=2565823&lang=Malay
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-gadis-masa-2025-lk21-d21.jpg" group-title="😈Drama Malaysia😈",😈Gadis Masa😈
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166232299&quality=s240p&product_id=2565841&lang=Malay
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-gadis-masa-2025-lk21-d21.jpg" group-title="😈Drama Malaysia😈",😈Gadis Masa😈
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166232301&quality=s240p&product_id=2572895&lang=Malay
+#EXTINF:-1 tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/04/film-gadis-masa-2025-lk21-d21.jpg" group-title="😈Drama Malaysia😈",😈Gadis Masa😈
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166233858&quality=s240p&product_id=2565825&lang=Malay
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="😈DONASI😈",😈SUPPORT/DONASI/ADMIN https://trakteer.id/mybhianesse0 085795119808 DANA OVO GOPAY😈
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="😈Senin, 13 April 2026 | 05:03 WIB😈",😈13 April 2026 | 05:03 WIB",Senin, 13 April 2026 | 05:03 WIB😈
@@ -13199,41 +13626,16 @@ https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="" group-title="😈Update V6: [05.05 WIB 13/04/26]😈",😈Donasi server playlist iptv v6 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808😈
+#EXTINF:-1 tvg-logo="" group-title="😈Update V6: [05.08 WIB 13/04/26]😈",😈Donasi server playlist iptv v6 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808😈
 #EXTVLCOPT:http-referrer=http://tvq.tvx.org/
 #EXTVLCOPT:http-origin=http://tvq.tvx.org/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://b.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈EMBEDHD😈",😈[MLB] Baltimore Orioles - San Francisco Giants (EMBEDHD)😈
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://n6.zohanayaan.com:1686/hls/mbaltimoreorioles.m3u8?md5=ySvwnfbpzytrVgtJoMYC3g&expires=1776033029
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈EMBEDHD😈",😈[MLB] Cincinnati Reds - Los Angeles Angels (EMBEDHD)😈
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://n8.zohanayaan.com:1686/hls/mcincinnatireds.m3u8?md5=qu9WPhUnPIHhA0FCE_Kyfw&expires=1776033028
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈EMBEDHD😈",😈[MLB] Detroit Tigers - Miami Marlins (EMBEDHD)😈
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://n8.zohanayaan.com:1686/hls/mdetroittigers.m3u8?md5=uEPrgN9HT8vAxlVV3y7lNg&expires=1776033031
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈EMBEDHD😈",😈[MLB] Los Angeles Dodgers - Texas Rangers (EMBEDHD)😈
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n7.zohanayaan.com:1686/hls/mlosangelesdodgers.m3u8?md5=-UBMLR7HZXqXK14Qk8trYw&expires=1776036617
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈EMBEDHD😈",😈[MLB] New York Mets - Athletics (EMBEDHD)😈
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://n8.zohanayaan.com:1686/hls/mnewyorkmets.m3u8?md5=Bn-2S8gKKwZv7NXu_2iqdQ&expires=1776033034
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈EMBEDHD😈",😈[MLB] Philadelphia Phillies - Arizona Diamondbacks (EMBEDHD)😈
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://n7.zohanayaan.com:1686/hls/mphiladelphiaphillies.m3u8?md5=FUvXFbiuM_JTpsMBggU-GQ&expires=1776033027
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈EMBEDHD😈",😈[MLB] San Diego Padres - Colorado Rockies (EMBEDHD)😈
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
@@ -13244,16 +13646,6 @@ https://n7.zohanayaan.com:1686/hls/msandiegopadres.m3u8?md5=5Wp8UDJHDzSEOHfi66M-
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://n8.zohanayaan.com:1686/hls/mseattlemariners.m3u8?md5=O7x6BEGmmtEqxxKGbDY4FA&expires=1776036620
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈EMBEDHD😈",😈[MLB] Tampa Bay Rays - New York Yankees (EMBEDHD)😈
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://n7.zohanayaan.com:1686/hls/mtampabayrays.m3u8?md5=sejMBUfH0KPTUEy31RN40Q&expires=1776033038
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈EMBEDHD😈",😈[MLB] Toronto Blue Jays - Minnesota Twins (EMBEDHD)😈
-#EXTVLCOPT:http-referrer=https://vividmosaica.com/
-#EXTVLCOPT:http-origin=https://vividmosaica.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://n7.zohanayaan.com:1686/hls/mtorontobluejays.m3u8?md5=0cQD-GExFxrL9jft87Eocg&expires=1776033029
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈EMBEDHD😈",😈[NBA] Boston Celtics - Orlando Magic (EMBEDHD)😈
 #EXTVLCOPT:http-referrer=https://vividmosaica.com/
 #EXTVLCOPT:http-origin=https://vividmosaica.com/
@@ -13334,11 +13726,6 @@ https://a.zeerhtrj.shop/hls/GYYY.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://z.zakfpozakfe.shop/hls/HREEE.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈FAWA😈",😈[Bolivia Division Profesional] Real Oruro vs Blooming (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a.zeerhtrj.shop/hls/IFFFQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈FAWA😈",😈[Brazil Serie A] Botafogo RJ vs Coritiba (FAWA)😈
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -13389,16 +13776,6 @@ https://a.zeerhtrj.shop/hls/IFFF.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://a.zeerhtrj.shop/hls/IFFF.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈FAWA😈",😈[Denmark Superliga] Randers FC vs FC Copenhagen 1 (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/RAFAFAQQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈FAWA😈",😈[Denmark Superliga] Randers FC vs FC Copenhagen 2 (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://z.zakfpozakfe.shop/hls/RAFAFAQQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/9f4f2e8370377b6214b4103003196de7.png" group-title="😈FAWA😈",😈[German 3 liga] Munich 1860 vs Regensburg (FAWA)😈
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -13414,11 +13791,6 @@ https://z.zakfpozakfe.shop/hls/HREEEQQQQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://195.178.110.25/hls/HREEEQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="😈FAWA😈",😈[German Bundesliga] Stuttgart vs Hamburger SV 1 (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UFFFQQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈FAWA😈",😈[Iceland League] Fram vs Akranes (FAWA)😈
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -13429,41 +13801,11 @@ https://a.zeerhtrj.shop/hls/GYYYD.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://z.zakfpozakfe.shop/hls/HREEEQQ.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="😈FAWA😈",😈[Italy Serie A] Bologna vs Lecce 1 (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/RAFAFAQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="😈FAWA😈",😈[Italy Serie A] Bologna vs Lecce 2 (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://z.zakfpozakfe.shop/hls/RAFAFAQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="😈FAWA😈",😈[Italy Serie A] Como vs Inter Milan 2 (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a.zeerhtrj.shop/hls/GPPP.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/99.png" group-title="😈FAWA😈",😈[Italy Serie B] Reggiana vs Carrarese (FAWA)😈
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://z.zakfpozakfe.shop/hls/HREEEQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="😈FAWA😈",😈[Ligue 1 France] Lyon vs Lorient 2 (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a.zeerhtrj.shop/hls/GPPPQ.m3u8
-#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="😈FAWA😈",😈[Ligue 1 France] Nice vs Le Havre 1 (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UFFFQ.m3u8
-#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="😈FAWA😈",😈[Ligue 1 France] Toulouse vs Lille 1 (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UFFFQQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈FAWA😈",😈[MLB Baseball] Baltimore Orioles vs San Francisco Giants (FAWA)😈
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -13624,6 +13966,11 @@ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/705074
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://a.zeerhtrj.shop/hls/IFFFQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="😈FAWA😈",😈[NHL Hockey] Washington Capitals vs Pittsburgh Penguins 2 (FAWA)😈
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/41d8842a-c571-474e-ba82-0e8a01c7449d/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈FAWA😈",😈[Nascar] Nascar Cup Series Food City 500 (FAWA)😈
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -13649,21 +13996,6 @@ https://a.zeerhtrj.shop/hls/GYYYDQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://z.zakfpozakfe.shop/hls/ZZQQQZQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈FAWA😈",😈[Russia Premier League] Zenit vs Krasnodar (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://z.zakfpozakfe.shop/hls/RAFAFAQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈FAWA😈",😈[Slovakia Nike liga] Dun Streda vs Michalovce (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://z.zakfpozakfe.shop/hls/RAFAFAQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈FAWA😈",😈[South Africa Betway Premiership] Marumo Gallants vs Orbit College 1 (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://195.178.110.25/hls/UFFFQQQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="😈FAWA😈",😈[Spanish La Liga] Athletic Bilbao vs Villarreal 1 (FAWA)😈
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -13679,11 +14011,6 @@ https://a.zeerhtrj.shop/hls/IFFFQQQQQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://a.zeerhtrj.shop/hls/IFFFQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/730673f84223a85c9b9ae66123907bba.png" group-title="😈FAWA😈",😈[Turkey Lig 1] Keciorengucu vs Serik Spor (FAWA)😈
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://z.zakfpozakfe.shop/hls/RAFAFA.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈FAWA😈",😈[Uruguay Liga AUF] Wanderers vs Racing Montevideo (FAWA)😈
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -13704,11 +14031,6 @@ https://a105.azplay31.me/hls/streama253802/index.m3u8?cst=439f31e67507eaf3d60d9f
 #EXTVLCOPT:http-origin=https://livetv.sx/enx/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://a111.azplay31.me/hls/streama253835/index.m3u8?cst=b18062a2789b2b88b0a462f122a9ca27
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="😈LIVETVSX😈",😈[Football - Brazil. Serie A] Botafogo-RJ - Coritiba (LIVETVSX)😈
-#EXTVLCOPT:http-referrer=https://livetv.sx/enx/
-#EXTVLCOPT:http-origin=https://livetv.sx/enx/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a112.azplay31.me/hls/streama253704/index.m3u8?cst=c42551fb5844fb9653aad2156dc3e537
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="😈LIVETVSX😈",😈[Football - Brazil. Serie A] Corinthians - Palmeiras (LIVETVSX)😈
 #EXTVLCOPT:http-referrer=https://livetv.sx/enx/
 #EXTVLCOPT:http-origin=https://livetv.sx/enx/
@@ -13729,36 +14051,16 @@ https://a108.azplay31.me/hls/streama253817/index.m3u8?cst=581bffc55fe811473911f2
 #EXTVLCOPT:http-origin=https://livetv.sx/enx/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://a109.azplay31.me/hls/streama257836/index.m3u8?cst=c93c53d5836492ce434235bbc5870ef2
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="😈LIVETVSX😈",😈[Football - Colombia. Primera A] Millonarios - Santa Fe (LIVETVSX)😈
-#EXTVLCOPT:http-referrer=https://livetv.sx/enx/
-#EXTVLCOPT:http-origin=https://livetv.sx/enx/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a109.azplay31.me/hls/streama257836/index.m3u8?cst=bf305a6bcc04d07b06d54e9281b945c2
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="😈LIVETVSX😈",😈[Football - France. Ligue 1] Lyon - Lorient (LIVETVSX)😈
-#EXTVLCOPT:http-referrer=https://livetv.sx/enx/
-#EXTVLCOPT:http-origin=https://livetv.sx/enx/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a105.azplay31.me/hls/streama241015/index.m3u8?cst=a18e59305d0bb011627c0176a15d5b3f
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="😈LIVETVSX😈",😈[Football - Italy. Serie A] Como - Inter (LIVETVSX)😈
-#EXTVLCOPT:http-referrer=https://livetv.sx/enx/
-#EXTVLCOPT:http-origin=https://livetv.sx/enx/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a109.azplay31.me/hls/streama253609/index.m3u8?cst=7ef7b97f1738dc5c09560001f080c1c7
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="😈LIVETVSX😈",😈[Football - Portugal. Primeira Liga] Estoril Praia - Porto (LIVETVSX)😈
 #EXTVLCOPT:http-referrer=https://livetv.sx/enx/
 #EXTVLCOPT:http-origin=https://livetv.sx/enx/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://a108.azplay31.me/hls/streama253717/index.m3u8?cst=6126b6b282638e39355a7cc02cc66ba9
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="😈LIVETVSX😈",😈[Football - Spain. Primera Division] Athletic Bilbao - Villarreal (LIVETVSX)😈
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="😈LIVETVSX😈",😈[Ice Hockey - NHL] NY Islanders - Montreal (LIVETVSX)😈
 #EXTVLCOPT:http-referrer=https://livetv.sx/enx/
 #EXTVLCOPT:http-origin=https://livetv.sx/enx/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a108.azplay31.me/hls/streama253618/index.m3u8?cst=fa26591e9224f7bcc0c32f5a64417215
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="😈LIVETVSX😈",😈[Football - Spain. Segunda Division] Racing - Almeria (LIVETVSX)😈
-#EXTVLCOPT:http-referrer=https://livetv.sx/enx/
-#EXTVLCOPT:http-origin=https://livetv.sx/enx/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a108.azplay31.me/hls/streama253679/index.m3u8?cst=3e942f825e4e5fcabedc0842a9482fc4
+https://a108.azplay31.me/hls/streama242749/index.m3u8?cst=f562d5776c06194a2abf1e75c38ffeac
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈PAWA😈",😈[Live Event] Athletic Club vs Villarreal (PAWA)😈
 #EXTVLCOPT:http-referrer=https://pawastreams.net/athletic-club-vs-villarreal/102419/
 #EXTVLCOPT:http-origin=https://pawastreams.net/athletic-club-vs-villarreal/102419/
@@ -13844,26 +14146,51 @@ https://netanyahu.modifiles.fans/secure/XeyAdXNSFInsoIvXensEgDtCqYumgQde/1776013
 #EXTVLCOPT:http-origin=https://pooembed.eu/embed/mlb/2026-04-12/tex-lad#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://netanyahu.modifiles.fans/secure/VBenvrDHEAvpkcZpPbHwjqGDjHjzJRcU/1776013800/1776044400/losangelesdodgers/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/944938a4800ab8fb971f16454a4eb384-thumbnail.jpg" group-title="😈PPV😈",😈[Football] Athletic Club vs. Villarreal (PPV)😈
-#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/laliga/2026-04-12/ath-vil#player=clappr#autoplay=true
-#EXTVLCOPT:http-origin=https://pooembed.eu/embed/laliga/2026-04-12/ath-vil#player=clappr#autoplay=true
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8179a7b56d061359d276da63a4c79570-thumbnail.jpg" group-title="😈PPV😈",😈[Basketball] Atlanta Hawks vs. Miami Heat (PPV)😈
+#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-12/atl-mia#player=clappr#autoplay=true
+#EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-12/atl-mia#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://netanyahu.modifiles.fans/secure/agIwOJwbgTXWlDZwyPGBXauqWzPZYwzF/1776009600/1776036600/laligatv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ff3d2501ce5644ac728ac2a862e0fae-thumbnail.jpg" group-title="😈PPV😈",😈[Football] Como vs. Inter Milan (PPV)😈
-#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/seriea/2026-04-12/como-int#player=clappr#autoplay=true
-#EXTVLCOPT:http-origin=https://pooembed.eu/embed/seriea/2026-04-12/como-int#player=clappr#autoplay=true
+https://netanyahu.modifiles.fans/secure/cNMPMgywCQSszbwYbQGTRoLCUoYjPOcJ/1776020400/1776048480/miamiheat/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ae91fdc2371f705b636a92b55549a761-thumbnail.jpg" group-title="😈PPV😈",😈[Basketball] Brooklyn Nets vs. Toronto Raptors (PPV)😈
+#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-12/bkn-tor#player=clappr#autoplay=true
+#EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-12/bkn-tor#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://netanyahu.modifiles.fans/secure/lVRGfoufhbdbVdVQGHrIVsPPyONmdMSj/1776008700/1776035700/sa_como/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00dc412814cb3b6a104b8ca14913b4af-thumbnail.jpg" group-title="😈PPV😈",😈[Football] Lyon vs. Lorient (PPV)😈
-#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/ligue1/2026-04-12/lyon-lor#player=clappr#autoplay=true
-#EXTVLCOPT:http-origin=https://pooembed.eu/embed/ligue1/2026-04-12/lyon-lor#player=clappr#autoplay=true
+https://netanyahu.modifiles.fans/secure/xkLIqXRzBmHCSbIjhZOCZKmGZKlKAtAs/1776020400/1776048480/torontoraptors/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/418fdea4ce7e56312e51294c4d8b35be-thumbnail.jpg" group-title="😈PPV😈",😈[Basketball] Charlotte Hornets vs. New York Knicks (PPV)😈
+#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-12/cha-ny#player=clappr#autoplay=true
+#EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-12/cha-ny#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://netanyahu.modifiles.fans/secure/sQEKhSMgSaEmrAyccwylICvwfIOrHbUf/1776008700/1776035700/l1_lyon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8fb962e00e40d2becbcbcc4c225a0b71-thumbnail.jpg" group-title="😈PPV😈",😈[Ice Hockey] Pittsburgh Penguins vs. Washington Capitals (PPV)😈
-#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-12/pit-wsh#player=clappr#autoplay=true
-#EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-12/pit-wsh#player=clappr#autoplay=true
+https://netanyahu.modifiles.fans/secure/PYtRtPSwXRrifJyCBkVVxjLWQKmRezqY/1776020400/1776048480/newyorkknicks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cf8770c773106fa53228bbb7e43b1076-thumbnail.jpg" group-title="😈PPV😈",😈[Basketball] Detroit Pistons vs. Indiana Pacers (PPV)😈
+#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-12/det-ind#player=clappr#autoplay=true
+#EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-12/det-ind#player=clappr#autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://netanyahu.modifiles.fans/secure/uDNvlcNTYwLMJuTtIHrsmnXffbafRRae/1776009600/1776038400/washingtoncapitals/tracks-v1a1/mono.ts.m3u8
+https://netanyahu.modifiles.fans/secure/ypaMnICCnZtEXrfhJMwQWgTEmUNdYjHK/1776020400/1776048480/indianapacers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ed13c49eee7cc0b52b7c8da18a10cedc-thumbnail.jpg" group-title="😈PPV😈",😈[Basketball] Milwaukee Bucks vs. Philadelphia 76ers (PPV)😈
+#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-12/mil-phi#player=clappr#autoplay=true
+#EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-12/mil-phi#player=clappr#autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://netanyahu.modifiles.fans/secure/dNYTXRVjlJjHxFSjBRLftcyWILBWFZwc/1776020400/1776048480/philadelphia76ers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a40acf44952585fc0dc19eb2e95358bf-thumbnail.jpg" group-title="😈PPV😈",😈[Basketball] Orlando Magic vs. Boston Celtics (PPV)😈
+#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-12/orl-bos#player=clappr#autoplay=true
+#EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-12/orl-bos#player=clappr#autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://netanyahu.modifiles.fans/secure/NpDfdOadnGypxdMzMjLChNZeOFoRCqGp/1776020400/1776048480/bostonceltics/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2dd5e26ba8a08616300d69f3e3878629-thumbnail.jpg" group-title="😈PPV😈",😈[Basketball] Washington Wizards vs. Cleveland Cavaliers (PPV)😈
+#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nba/2026-04-12/wsh-cle#player=clappr#autoplay=true
+#EXTVLCOPT:http-origin=https://pooembed.eu/embed/nba/2026-04-12/wsh-cle#player=clappr#autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://netanyahu.modifiles.fans/secure/eQXBkLEKJXpSrZLsEDDMIqxOIZsWrVck/1776020400/1776048480/clevelandcavaliers/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e830a3b250d229c6f9daab405cdbae9-thumbnail.jpg" group-title="😈PPV😈",😈[Ice Hockey] Boston Bruins vs. Columbus Blue Jackets (PPV)😈
+#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-12/bos-cbj#player=clappr#autoplay=true
+#EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-12/bos-cbj#player=clappr#autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://netanyahu.modifiles.fans/secure/NVzVjzbJUKuKkLwGrazzEUWAQsJyquay/1776020400/1776049200/columbusbluejackets/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fbb47707ceeb3edf4fbc4a6c7692bde1-thumbnail.jpg" group-title="😈PPV😈",😈[Ice Hockey] Montreal Canadiens vs. New York Islanders (PPV)😈
+#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-04-12/mtl-nyi#player=clappr#autoplay=true
+#EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-04-12/mtl-nyi#player=clappr#autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://netanyahu.modifiles.fans/secure/kZzZahAAfUczlBSopnxHtGlAurzcCUvb/1776020400/1776049200/newyorkislanders/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈ROXIE😈",😈[Fighting] AEW Dynasty (ROXIE)😈
 #EXTVLCOPT:http-referrer=https://roxiestreams.su
 #EXTVLCOPT:http-origin=https://roxiestreams.su
@@ -14224,6 +14551,41 @@ https://mb4.tofiles.cfd/live/astros/stream.m3u8?expires=1776024958&token=889c756
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mb5.tofiles.cfd/live/dodgers/stream.m3u8?expires=1776024958&token=4592dc1745bf193008db1fa2308f35c37fb32ad0ed9cce1c1b1c991b49dd8f92
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈SHARK😈",😈[NBA] Atlanta Hawks vs Miami Heat (SHARK)😈
+#EXTVLCOPT:http-referrer=https://sharkstreams.net
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://to2.tofiles.cfd/live/hawks/stream.m3u8?expires=1776031194&token=6e6f5ce47d53acf4e720ae77531639029f37d8b33def77c41ecd66297004809a
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈SHARK😈",😈[NBA] Brooklyn Nets vs Toronto Raptors (SHARK)😈
+#EXTVLCOPT:http-referrer=https://sharkstreams.net
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://to1.tofiles.cfd/live/nets/stream.m3u8?expires=1776031925&token=4a172391a09136f2f1322ad2699fafd04a68d896b8a223223ec33d4011400f25
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈SHARK😈",😈[NBA] Charlotte Hornets vs New York Knicks (SHARK)😈
+#EXTVLCOPT:http-referrer=https://sharkstreams.net
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://to1.tofiles.cfd/live/knicks/stream.m3u8?expires=1776030948&token=b2de107f882c266b8c268b85c231e41dd7f428a5a39d8336d3d584844fcab088
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈SHARK😈",😈[NBA] Detroit Pistons vs Indiana Pacers (SHARK)😈
+#EXTVLCOPT:http-referrer=https://sharkstreams.net
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://to2.tofiles.cfd/live/pistons/stream.m3u8?expires=1776031504&token=d915e846cf5c8ecf7706043ba8b1bb8585a0190fbb554d063408ca68c3962777
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈SHARK😈",😈[NBA] Milwaukee Bucks vs Philadelphia 76ers (SHARK)😈
+#EXTVLCOPT:http-referrer=https://sharkstreams.net
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://to1.tofiles.cfd/live/76ers/stream.m3u8?expires=1776031884&token=8b210eb92a7156e9279a7500626a42c3331c292ff8abc1cb4a89c23c51116dbf
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈SHARK😈",😈[NBA] Orlando Magic vs Boston Celtics (SHARK)😈
+#EXTVLCOPT:http-referrer=https://sharkstreams.net
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://to3.tofiles.cfd/live/magic/stream.m3u8?expires=1776030727&token=928e547754617cfe8c61d8f74b6dbc48931f7f47c9c344d7e18257af2fc7280d
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈SHARK😈",😈[NBA] Washington Wizards vs Cleveland Cavaliers (SHARK)😈
+#EXTVLCOPT:http-referrer=https://sharkstreams.net
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://to2.tofiles.cfd/live/wizerd/stream.m3u8?expires=1776032139&token=c1dd832ffde1d85305dff78c43403599656079e476b44875edcc649946efbc17
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈TVAPP😈",😈[MLB] Arizona Diamondbacks vs Philadelphia Phillies (TVAPP)😈
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -14509,11 +14871,6 @@ https://webcast-origin.b-cdn.net/bcdn_token=_iIqH_a79tULqHpPOPMqTXM9IIcemoW08zW6
 #EXTVLCOPT:http-origin=https://slapstreams.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://webcast-origin.b-cdn.net/bcdn_token=aU0MU1lr1d7mrNNPpR9CHYvJj1atxdNwzc9h8dJokjI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHjyqzVD3OO_O4bVu-oxuOW%2F&expires=1776029556/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHjyqzVD3OO_O4bVu-oxuOW/91.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="😈ISTRMEAST😈",😈[LaLiga] Athletic Club vs Villarreal (iSTRMEAST)😈
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48844?3newa=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48844?3newa=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/48844/load-playlist
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈ISTRMEAST😈",😈[MLB] Kansas City Royals vs Chicago White Sox (iSTRMEAST)😈
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48835?3newa=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48835?3newa=111
@@ -14534,26 +14891,56 @@ https://chatgpt.hereisman.net/playlist/48853/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48851?3newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/48851/load-playlist
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="😈ISTRMEAST😈",😈[NHL] Washington Capitals vs Pittsburgh Penguins (iSTRMEAST)😈
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48846?3newa=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48846?3newa=111
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈ISTRMEAST😈",😈[NBA] Boston Celtics vs Orlando Magic (iSTRMEAST)😈
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48860?3newa=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48860?3newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/48846/load-playlist
+https://chatgpt.hereisman.net/playlist/48860/load-playlist
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈ISTRMEAST😈",😈[NBA] Cleveland Cavaliers vs Washington Wizards (iSTRMEAST)😈
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48866?3newa=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48866?3newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/48866/load-playlist
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈ISTRMEAST😈",😈[NBA] Indiana Pacers vs Detroit Pistons (iSTRMEAST)😈
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48870?3newa=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48870?3newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/48870/load-playlist
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈ISTRMEAST😈",😈[NBA] Miami Heat vs Atlanta Hawks (iSTRMEAST)😈
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48869?3newa=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48869?3newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/48869/load-playlist
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈ISTRMEAST😈",😈[NBA] New York Knicks vs Charlotte Hornets (iSTRMEAST)😈
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48862?3newa=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48862?3newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/48862/load-playlist
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈ISTRMEAST😈",😈[NBA] Philadelphia 76ers vs Milwaukee Bucks (iSTRMEAST)😈
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48865?3newa=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48865?3newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/48865/load-playlist
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈ISTRMEAST😈",😈[NBA] Toronto Raptors vs Brooklyn Nets (iSTRMEAST)😈
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48858?3newa=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48858?3newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/48858/load-playlist
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="😈ISTRMEAST😈",😈[NHL] Columbus Blue Jackets vs Boston Bruins (iSTRMEAST)😈
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48868?3newa=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48868?3newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/48868/load-playlist
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="😈ISTRMEAST😈",😈[NHL] New York Islanders vs Montreal Canadiens (iSTRMEAST)😈
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48864?3newa=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48864?3newa=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/48864/load-playlist
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈ISTRMEAST😈",😈[Nascar] 2026 NASCAR Cup Series at Bristol (iSTRMEAST)😈
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48848?3newa=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48848?3newa=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/48848/load-playlist
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="😈ISTRMEAST😈",😈[Serie A] Como vs Inter (iSTRMEAST)😈
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48815?3newa=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48815?3newa=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/48815/load-playlist
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈ISTRMEAST😈",😈[UFL] Dallas Renegades vs Columbus Aviators (iSTRMEAST)😈
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48817?3newa=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48817?3newa=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://chatgpt.hereisman.net/playlist/48817/load-playlist
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈ISTRMEAST😈",😈[UFL] St. Louis Battlehawks vs Birmingham Stallions (iSTRMEAST)😈
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/48843?3newa=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/48843?3newa=111
@@ -14574,11 +14961,16 @@ https://node-59639d19.streamtofu.com/69dc7167.d12dc928i5c3b601d.ff2c.e6fef2da/fr
 #EXTVLCOPT:http-origin=https://mlb24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://node-59639d19.streamtofu.com/69dc7167.2aa2289ei5c3b601d.ff28.a6bec4e5/free.live.espn/master.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="😈MP66😈",😈[NHL] Pittsburgh Penguins vs Washington Capitals (MP66)😈
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="😈MP66😈",😈[NHL] Boston Bruins vs Columbus Blue Jackets (MP66)😈
 #EXTVLCOPT:http-referrer=https://nhl24all.ir
 #EXTVLCOPT:http-origin=https://nhl24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://node-582e4e77.streamtofu.com/69dc5c68.6e5f9dcci5c3b601d.fade.9542e6ba/free.live.sportsnet/master.m3u8
+https://node-5d763f4c.streamtofu.com/69dc8688.53c6db86i5c3b601d.fae1.c2fac10c/free.live.sportsnet/master.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="😈MP66😈",😈[NHL] Montreal Canadiens vs New York Islanders (MP66)😈
+#EXTVLCOPT:http-referrer=https://nhl24all.ir
+#EXTVLCOPT:http-origin=https://nhl24all.ir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://node-5d763f4c.streamtofu.com/69dc8688.857d3399i5c3b601d.fae0.c6aba58c/free.live.sportsnet/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈OVO😈",😈[Live Event] Benfica vs Nacional (OVO)😈
 #EXTVLCOPT:http-referrer=https://tiplink.fans/totalsporteks/tracker2/
 #EXTVLCOPT:http-origin=https://tiplink.fans/totalsporteks/tracker2/
@@ -14969,16 +15361,6 @@ https://mainstreams.pro/hls/sdezqfza55.m3u8
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://mainstreams.pro/hls/bnvcxwhfg54.m3u8
-#EXTINF:-1 tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="😈STRMHUB😈",😈[French Ligue 1] Lorient vs Lyon (STRMHUB)😈
-#EXTVLCOPT:http-referrer=https://hardsmart.click
-#EXTVLCOPT:http-origin=https://hardsmart.click
-#EXTVLCOPT:http-user-agent=curl/8.19.0
-https://smarthard.click/hls/ZWevymm11TKF/index.m3u8?st=5LaVQVJCOWeMUTWu6XR7Sw&e=1776029442
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="😈STRMHUB😈",😈[Italian Serie A] Internazionale vs Como (STRMHUB)😈
-#EXTVLCOPT:http-referrer=https://hardsmart.click
-#EXTVLCOPT:http-origin=https://hardsmart.click
-#EXTVLCOPT:http-user-agent=curl/8.19.0
-https://smarthard.click/hls/kNChJ1NxVGy/index.m3u8?st=Muy_5-W4Z0EreWCJ7gJmXQ&e=1776032646
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈STRMHUB😈",😈[NBA] Bucks vs 76ers (STRMHUB)😈
 #EXTVLCOPT:http-referrer=https://hardsmart.click
 #EXTVLCOPT:http-origin=https://hardsmart.click
@@ -15024,16 +15406,6 @@ https://smarthard.click/hls/ecg9Jjhszo2G/index.m3u8?st=9tg0fGVpSkLYGwhUO26D1g&e=
 #EXTVLCOPT:http-origin=https://hardsmart.click
 #EXTVLCOPT:http-user-agent=curl/8.19.0
 https://smarthard.click/hls/cr4FtIgq8sNs/index.m3u8?st=Iob3DeBBBpbr_p4gFHHJ-w&e=1776040231
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="😈STRMHUB😈",😈[NHL] Penguins vs Capitals (STRMHUB)😈
-#EXTVLCOPT:http-referrer=https://hardsmart.click
-#EXTVLCOPT:http-origin=https://hardsmart.click
-#EXTVLCOPT:http-user-agent=curl/8.19.0
-https://smarthard.click/hls/cr4FtIgq8sNs/index.m3u8?st=blM3301--mZLIS4-McD6xQ&e=1776029440
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="😈STRMHUB😈",😈[Spanish LALIGA] Villarreal vs Athletic Club (STRMHUB)😈
-#EXTVLCOPT:http-referrer=https://hardsmart.click
-#EXTVLCOPT:http-origin=https://hardsmart.click
-#EXTVLCOPT:http-user-agent=curl/8.19.0
-https://smarthard.click/hls/4eLyr2RZq7v/index.m3u8?st=yI2In5Ly5aCBh5ko1-DdbA&e=1776029446
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="😈STRMSGATE😈",😈[National Basketball Association] Atlanta Hawks vs Miami Heat (STRMSGATE)😈
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA4
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NBA4
@@ -15069,11 +15441,6 @@ https://instreams.live/US/NBA1/index.m3u8?st=-Or0fNsNDnTAnyk9_eBdPA&e=1776040217
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NBA2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://instreams.live/US/NBA2/index.m3u8?st=-DQuFaaBeNT7Up7eas9jVA&e=1776040222
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="😈TOTALSPRTK😈",😈[Bundesliga] Koln vs Werder Bremen (TOTALSPRTK)😈
-#EXTVLCOPT:http-referrer=https://live3.totalsportek.fyi/Koln-vs-Werder-Bremen/65899
-#EXTVLCOPT:http-origin=https://live3.totalsportek.fyi/Koln-vs-Werder-Bremen/65899
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch16/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNiIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NjAwNDIxNCwicmFuZCI6IjE1NjNkYzMyNWQyNmRmMDgifQ.24a8a6eaf20cc121c8831015c85a24a004ad021a7e48609586668cbd0619aca0
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="😈TOTALSPRTK😈",😈[Bundesliga] Stuttgart vs Hamburger SV (TOTALSPRTK)😈
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.fyi/Stuttgart-vs-Hamburger-SV/65900
 #EXTVLCOPT:http-origin=https://live3.totalsportek.fyi/Stuttgart-vs-Hamburger-SV/65900
@@ -15104,21 +15471,6 @@ https://fg1.fgfbg5433dd.site/simpch8/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g4Ii
 #EXTVLCOPT:http-origin=https://live3.totalsportek.fyi/Chelsea-vs-Manchester-City/65937
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzc2MDExNDUwLCJyYW5kIjoiNTc5ZDc5NjgzODAxN2MyMCJ9.c7f9af21324949266761416f2c554b386ad848ec3dd458440fd7b362a911b2c0
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈TOTALSPRTK😈",😈[Live Event] Nottingham Forest vs Aston Villa (TOTALSPRTK)😈
-#EXTVLCOPT:http-referrer=https://live3.totalsportek.fyi/Nottingham-Forest-vs-Aston-Villa/65935
-#EXTVLCOPT:http-origin=https://live3.totalsportek.fyi/Nottingham-Forest-vs-Aston-Villa/65935
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch5/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g1IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzc2MDA0MjEyLCJyYW5kIjoiZmE2OWU2YTBjMzU1Y2I4MCJ9.a8c6615bee699e03d49caa90c197655f206f40591d427638a41dbce633c04946
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈TOTALSPRTK😈",😈[Live Event] Sunderland vs Tottenham Hotspur (TOTALSPRTK)😈
-#EXTVLCOPT:http-referrer=https://live3.totalsportek.fyi/Sunderland-vs-Tottenham-Hotspur/65936
-#EXTVLCOPT:http-origin=https://live3.totalsportek.fyi/Sunderland-vs-Tottenham-Hotspur/65936
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch4/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g0IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzc2MDA0MjEyLCJyYW5kIjoiYjdiZDI1ZDg4MTdiNWY0YiJ9.43290b13cbf61cb6eed47ba2430f6a536fadc9099959adede90a41969fd0a0ea
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="😈TOTALSPRTK😈",😈[Premier League] Crystal Palace vs Newcastle United (TOTALSPRTK)😈
-#EXTVLCOPT:http-referrer=https://live3.totalsportek.fyi/Crystal-Palace-vs-Newcastle-United/65934
-#EXTVLCOPT:http-origin=https://live3.totalsportek.fyi/Crystal-Palace-vs-Newcastle-United/65934
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch6/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g2IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzc2MDA0MjEzLCJyYW5kIjoiYzc4NThlZjA2Mzg0YTQ4NCJ9.01ac740d63ca1be38a5dcb0653a28795a168366360381da2a15842cba2fb0796
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈TOTALSPRTK😈",😈[Primeiraliga] Alverca vs Casa Pia (TOTALSPRTK)😈
 #EXTVLCOPT:http-referrer=https://live3.totalsportek.fyi/Alverca-vs-Casa-Pia/66138
 #EXTVLCOPT:http-origin=https://live3.totalsportek.fyi/Alverca-vs-Casa-Pia/66138
@@ -15129,21 +15481,11 @@ https://fg1.fgfbg5433dd.site/simpch17/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxN
 #EXTVLCOPT:http-origin=https://live3.totalsportek.fyi/Goztepe-vs-Kasimpasa/65825
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://fg1.fgfbg5433dd.site/simpch15/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2gxNSIsImlwIjoiMC4wLjAuMCIsImV4cCI6MTc3NjAwNzg1NCwicmFuZCI6ImNiMzc4MzQwODdiNTFkN2UifQ.b59258785e3f66deb52a4d71696761b88e7f0d5f8a01b39f7a6ad26917323678
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="😈TOTALSPRTK😈",😈[Serie A] Parma vs Napoli (TOTALSPRTK)😈
-#EXTVLCOPT:http-referrer=https://live3.totalsportek.fyi/Parma-vs-Napoli/65954
-#EXTVLCOPT:http-origin=https://live3.totalsportek.fyi/Parma-vs-Napoli/65954
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://fg1.fgfbg5433dd.site/simpch7/index.m3u8?token=eyJzdHJlYW0iOiJzaW1wY2g3IiwiaXAiOiIwLjAuMC4wIiwiZXhwIjoxNzc2MDA0MjEzLCJyYW5kIjoiOTBkZWViYjQ2MTY2MDk3MCJ9.3a2638f92678492cb8b276e369c68fc900feca2d837c27d8f511bbb80b982a77
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈WATCHFTY😈",😈[Argentine Liga Profesional de Futbol] Atletico Tucuman vs Tigre (WATCHFTY)😈
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4631630/atletico-tucuman-tigre/regular/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/4631630/atletico-tucuman-tigre/regular/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://lb8.wfty.wtf/playlist/regular/atletico-tucuman-tigre/1/4631630/playlist.m3u8?hash=98e554fa3721473b1d2149252b761ac6&t=1776029480055
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈WATCHFTY😈",😈[Argentine Liga Profesional de Futbol] Newell's Old Boys vs San Lorenzo (WATCHFTY)😈
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/762978/newell-s-old-boys-san-lorenzo/elite/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-origin=https://sportsembed.su/embed/762978/newell-s-old-boys-san-lorenzo/elite/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb9.wfty.wtf/playlist/elite/newell-s-old-boys-san-lorenzo/1/762978/playlist.m3u8?hash=0ba709cc1e01111e1e16a9f4a66b8f0b&t=1776018694244
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈WATCHFTY😈",😈[Besta deildin] Fram Reykjavik vs IA Akranes (WATCHFTY)😈
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4653702/fram-reykjavik-ia-akranes/elite/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/4653702/fram-reykjavik-ia-akranes/elite/1?player=clappr&autoplay=true
@@ -15154,11 +15496,21 @@ https://lb1.wfty.wtf/playlist/elite/fram-reykjavik-ia-akranes/1/4653702/playlist
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/4632845/botafogo-coritiba/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://lb2.wfty.wtf/playlist/easy/botafogo-coritiba/1/4632845/playlist.m3u8?hash=e32f9bbf1d5770c22147ec91db572c53&t=1776022292417
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈WATCHFTY😈",😈[Brazilian Serie A] Corinthians vs Palmeiras (WATCHFTY)😈
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401841069/corinthians-palmeiras/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/401841069/corinthians-palmeiras/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb3.wfty.wtf/playlist/easy/corinthians-palmeiras/1/401841069/playlist.m3u8?hash=06dabb1b4e86f27e920f4bbbef5e4248&t=1776031287592
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈WATCHFTY😈",😈[Brazilian Serie A] Cruzeiro vs RB Bragantino (WATCHFTY)😈
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4632842/cruzeiro-red-bull-bragantino/elite/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/4632842/cruzeiro-red-bull-bragantino/elite/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://lb1.wfty.wtf/playlist/elite/cruzeiro-red-bull-bragantino/1/4632842/playlist.m3u8?hash=5defbbc2285c4c5d9b6a694c88cf5b80&t=1776029478375
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="😈WATCHFTY😈",😈[Brazilian Serie A] Cruzeiro vs Red Bull Bragantino (WATCHFTY)😈
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401841068/cruzeiro-red-bull-bragantino/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/401841068/cruzeiro-red-bull-bragantino/easy/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb7.wfty.wtf/playlist/easy/cruzeiro-red-bull-bragantino/1/401841068/playlist.m3u8?hash=bfbfed988cd7fcb7d2d9a86adaaa2dd7&t=1776031286008
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2391.png" group-title="😈WATCHFTY😈",😈[CAF Champions League] Esperance Sportive de Tunis vs Mamelodi Sundowns (WATCHFTY)😈
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401861768/esperance-st-mamelodi-sundowns/elite/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/401861768/esperance-st-mamelodi-sundowns/elite/1?player=clappr&autoplay=true
@@ -15204,11 +15556,6 @@ https://lb5.wfty.wtf/playlist/regular/san-diego-padres-colorado-rockies/1/401814
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/401814919/seattle-mariners-houston-astros/elite/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://lb2.wfty.wtf/playlist/elite/seattle-mariners-houston-astros/1/401814919/playlist.m3u8?hash=cbe92130d0516d0f4283fcc7b8cc3435&t=1776025873613
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="😈WATCHFTY😈",😈[MLB] St. Louis Cardinals vs Boston Red Sox (WATCHFTY)😈
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/4555558/st-louis-cardinals-boston-red-sox/easy/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-origin=https://sportsembed.su/embed/4555558/st-louis-cardinals-boston-red-sox/easy/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb7.wfty.wtf/playlist/easy/st-louis-cardinals-boston-red-sox/1/4555558/playlist.m3u8?hash=cef2fa4a3fdc8b7d673928d0c79c3778&t=1776018692689
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="😈WATCHFTY😈",😈[NHL] Washington Capitals vs Pittsburgh Penguins (WATCHFTY)😈
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401803627/washington-capitals-pittsburgh-penguins/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/401803627/washington-capitals-pittsburgh-penguins/easy/1?player=clappr&autoplay=true
@@ -15219,11 +15566,6 @@ https://lb6.wfty.wtf/playlist/easy/washington-capitals-pittsburgh-penguins/1/401
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/750499/estoril-fc-porto/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://lb4.wfty.wtf/playlist/easy/estoril-fc-porto/1/750499/playlist.m3u8?hash=ad95462d7571f8584f96e697cbfc4eb1&t=1776024129127
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/3fd4b38d5263ca391e45850eb58d11e6.png" group-title="😈WATCHFTY😈",😈[Romanian Liga 1] CFR Cluj vs Dinamo Bucuresti (WATCHFTY)😈
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5231179/cfr-cluj-dinamo-bucuresti/elite/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-origin=https://sportsembed.su/embed/5231179/cfr-cluj-dinamo-bucuresti/elite/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://lb3.wfty.wtf/playlist/elite/cfr-cluj-dinamo-bucuresti/1/5231179/playlist.m3u8?hash=1bedc9dc887e724879d75024d5ddcb3f&t=1776018698188
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="😈WATCHFTY😈",😈[Spanish LALIGA 2] Racing Santander vs Almeria (WATCHFTY)😈
 #EXTVLCOPT:http-referrer=https://sportsembed.su/embed/748904/racing-santander-almeria/easy/1?player=clappr&autoplay=true
 #EXTVLCOPT:http-origin=https://sportsembed.su/embed/748904/racing-santander-almeria/easy/1?player=clappr&autoplay=true
