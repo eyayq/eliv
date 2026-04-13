@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.42 WIB 13/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [23.07 WIB 13/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="x7lm7phjxvj5m2w" tvg-name="Pharco vs Haras El Hodood" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood",[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="x7lm7phjxvj5m2w" tvg-name="Pharco vs Haras El Hodood" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood",[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="x7lm7phjxvj5m2w" tvg-name="Pharco vs Haras El Hodood" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood",[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="x7lm7phjxvj5m2w" tvg-name="Pharco vs Haras El Hodood" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood",[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="vjxm8ghek0exr6o" tvg-name="Ghazl El Mahallah vs Wadi Degla SC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Ghazl El Mahallah vs Wadi Degla SC",[LIVE 22:00 WIB | 13/04/26] Ghazl El Mahallah vs Wadi Degla SC (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="vjxm8ghek0exr6o" tvg-name="Ghazl El Mahallah vs Wadi Degla SC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Ghazl El Mahallah vs Wadi Degla SC",[LIVE 22:00 WIB | 13/04/26] Ghazl El Mahallah vs Wadi Degla SC (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="x7lm7phjvgwzm2w" tvg-name="Al-Ahli SFC vs Al Duhail" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[LIVE 21:45 WIB | 13/04/26] Al-Ahli SFC vs Al Duhail",[LIVE 21:45 WIB | 13/04/26] Al-Ahli SFC vs Al Duhail (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="x7lm7phjvgwzm2w" tvg-name="Al-Ahli SFC vs Al Duhail" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[LIVE 21:45 WIB | 13/04/26] Al-Ahli SFC vs Al Duhail",[LIVE 21:45 WIB | 13/04/26] Al-Ahli SFC vs Al Duhail (Lữ Bố (Giàng Phụng Tiên))
@@ -33,26 +45,30 @@ https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee9005467
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="zp5rzghgog45q82" tvg-name="Naft Missan vs Mosul FC" tvg-logo="https://img.cdnok9.com/football/competition/0504b24f98f8c083439816864fcf485c.png" group-title="[LIVE 21:00 WIB | 13/04/26] Naft Missan vs Mosul FC",[LIVE 21:00 WIB | 13/04/26] Naft Missan vs Mosul FC (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="8yomo4h10l9eq0j" tvg-name="KS Bylis vs FC Dinamo City" tvg-logo="https://img.cdnok9.com/football/competition/f361f10ba0acb33c61ecfb45bdf028b1.png" group-title="[LIVE 21:00 WIB | 13/04/26] KS Bylis vs FC Dinamo City",[LIVE 21:00 WIB | 13/04/26] KS Bylis vs FC Dinamo City (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="8yomo4h10l9eq0j" tvg-name="KS Bylis vs FC Dinamo City" tvg-logo="https://img.cdnok9.com/football/competition/f361f10ba0acb33c61ecfb45bdf028b1.png" group-title="[LIVE 21:00 WIB | 13/04/26] KS Bylis vs FC Dinamo City",[LIVE 21:00 WIB | 13/04/26] KS Bylis vs FC Dinamo City (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="y39mp1h6y5l0moj" tvg-name="Erzurum BB vs Boluspor" tvg-logo="https://img.cdnok9.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png" group-title="[LIVE 21:00 WIB | 13/04/26] Erzurum BB vs Boluspor",[LIVE 21:00 WIB | 13/04/26] Erzurum BB vs Boluspor (Giàng A Ka)
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="y39mp1h6y5l0moj" tvg-name="Erzurum BB vs Boluspor" tvg-logo="https://img.cdnok9.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png" group-title="[LIVE 21:00 WIB | 13/04/26] Erzurum BB vs Boluspor",[LIVE 21:00 WIB | 13/04/26] Erzurum BB vs Boluspor (Giàng A Ka)
 https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="y39mp1h6o6w8moj" tvg-name="Al Shorta vs Al Zawraa" tvg-logo="https://img.cdnok9.com/football/competition/0504b24f98f8c083439816864fcf485c.png" group-title="[LIVE 21:00 WIB | 13/04/26] Al Shorta vs Al Zawraa",[LIVE 21:00 WIB | 13/04/26] Al Shorta vs Al Zawraa (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="y39mp1h6o6w8moj" tvg-name="Al Shorta vs Al Zawraa" tvg-logo="https://img.cdnok9.com/football/competition/0504b24f98f8c083439816864fcf485c.png" group-title="[LIVE 21:00 WIB | 13/04/26] Al Shorta vs Al Zawraa",[LIVE 21:00 WIB | 13/04/26] Al Shorta vs Al Zawraa (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="ednm9whwowxoryo" tvg-name="Newroz SC vs Al-Mina'a SC" tvg-logo="https://img.cdnok9.com/football/competition/0504b24f98f8c083439816864fcf485c.png" group-title="[LIVE 21:00 WIB | 13/04/26] Newroz SC vs Al-Mina'a SC",[LIVE 21:00 WIB | 13/04/26] Newroz SC vs Al-Mina'a SC (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="ednm9whwowxoryo" tvg-name="Newroz SC vs Al-Mina'a SC" tvg-logo="https://img.cdnok9.com/football/competition/0504b24f98f8c083439816864fcf485c.png" group-title="[LIVE 21:00 WIB | 13/04/26] Newroz SC vs Al-Mina'a SC",[LIVE 21:00 WIB | 13/04/26] Newroz SC vs Al-Mina'a SC (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="dn1m1ghloz0zmoe" tvg-name="Beroe Stara Zagora vs Lokomotiv Plovdiv" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 23:00 WIB | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv",[LIVE 23:00 WIB | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="dn1m1ghloz0zmoe" tvg-name="Beroe Stara Zagora vs Lokomotiv Plovdiv" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 23:00 WIB | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv",[LIVE 23:00 WIB | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="dn1m1ghloz0zmoe" tvg-name="Beroe Stara Zagora vs Lokomotiv Plovdiv" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 23:00 WIB | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv",[LIVE 23:00 WIB | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="dn1m1ghloz0zmoe" tvg-name="Beroe Stara Zagora vs Lokomotiv Plovdiv" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 23:00 WIB | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv",[LIVE 23:00 WIB | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="8yomo4h112dlq0j" tvg-name="Ogre United vs Grobina" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[LIVE 22:30 WIB | 13/04/26] Ogre United vs Grobina",[LIVE 22:30 WIB | 13/04/26] Ogre United vs Grobina (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="8yomo4h112dlq0j" tvg-name="Ogre United vs Grobina" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[LIVE 22:30 WIB | 13/04/26] Ogre United vs Grobina",[LIVE 22:30 WIB | 13/04/26] Ogre United vs Grobina (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="1l4rjnh9zx8em7v" tvg-name="HNK Vukovar 1991 vs Dinamo Zagreb" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[LIVE 23:00 WIB | 13/04/26] HNK Vukovar 1991 vs Dinamo Zagreb",[LIVE 23:00 WIB | 13/04/26] HNK Vukovar 1991 vs Dinamo Zagreb (Giàng A Sún)
+https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="1l4rjnh9zx8em7v" tvg-name="HNK Vukovar 1991 vs Dinamo Zagreb" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[LIVE 23:00 WIB | 13/04/26] HNK Vukovar 1991 vs Dinamo Zagreb",[LIVE 23:00 WIB | 13/04/26] HNK Vukovar 1991 vs Dinamo Zagreb (Giàng A Sún)
+https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="6ypq3nhvk7ngmd7" tvg-name="FC Rapid 1923 vs Arges" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 22:30 WIB | 13/04/26] FC Rapid 1923 vs Arges",[LIVE 22:30 WIB | 13/04/26] FC Rapid 1923 vs Arges (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="6ypq3nhvk7ngmd7" tvg-name="FC Rapid 1923 vs Arges" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 22:30 WIB | 13/04/26] FC Rapid 1923 vs Arges",[LIVE 22:30 WIB | 13/04/26] FC Rapid 1923 vs Arges (HOÀNG CÁI)
@@ -61,27 +77,3 @@ https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="x7lm7phjzvd7m2w" tvg-name="Qizilqum Zarafshon vs Sogdiana Jizak" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 22:15 WIB | 13/04/26] Qizilqum Zarafshon vs Sogdiana Jizak",[LIVE 22:15 WIB | 13/04/26] Qizilqum Zarafshon vs Sogdiana Jizak (Giàng A Hổ)
 https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="x7lm7phjxvj5m2w" tvg-name="Pharco vs Haras El Hodood" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood",[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="x7lm7phjxvj5m2w" tvg-name="Pharco vs Haras El Hodood" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood",[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="x7lm7phjxvj5m2w" tvg-name="Pharco vs Haras El Hodood" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood",[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="x7lm7phjxvj5m2w" tvg-name="Pharco vs Haras El Hodood" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood",[LIVE 22:00 WIB | 13/04/26] Pharco vs Haras El Hodood (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="vjxm8ghek0exr6o" tvg-name="Ghazl El Mahallah vs Wadi Degla SC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Ghazl El Mahallah vs Wadi Degla SC",[LIVE 22:00 WIB | 13/04/26] Ghazl El Mahallah vs Wadi Degla SC (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="vjxm8ghek0exr6o" tvg-name="Ghazl El Mahallah vs Wadi Degla SC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 13/04/26] Ghazl El Mahallah vs Wadi Degla SC",[LIVE 22:00 WIB | 13/04/26] Ghazl El Mahallah vs Wadi Degla SC (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="dn1m1ghloz0zmoe" tvg-name="Beroe Stara Zagora vs Lokomotiv Plovdiv" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 23:00 WIB | 17m | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv",[UPCO 23:00 WIB | 17m | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="dn1m1ghloz0zmoe" tvg-name="Beroe Stara Zagora vs Lokomotiv Plovdiv" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 23:00 WIB | 17m | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv",[UPCO 23:00 WIB | 17m | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="dn1m1ghloz0zmoe" tvg-name="Beroe Stara Zagora vs Lokomotiv Plovdiv" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 23:00 WIB | 17m | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv",[UPCO 23:00 WIB | 17m | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="dn1m1ghloz0zmoe" tvg-name="Beroe Stara Zagora vs Lokomotiv Plovdiv" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 23:00 WIB | 17m | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv",[UPCO 23:00 WIB | 17m | 13/04/26] Beroe Stara Zagora vs Lokomotiv Plovdiv (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="1l4rjnh9zx8em7v" tvg-name="HNK Vukovar 1991 vs Dinamo Zagreb" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[UPCO 23:00 WIB | 17m | 13/04/26] HNK Vukovar 1991 vs Dinamo Zagreb",[UPCO 23:00 WIB | 17m | 13/04/26] HNK Vukovar 1991 vs Dinamo Zagreb (Giàng A Sún)
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="1l4rjnh9zx8em7v" tvg-name="HNK Vukovar 1991 vs Dinamo Zagreb" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[UPCO 23:00 WIB | 17m | 13/04/26] HNK Vukovar 1991 vs Dinamo Zagreb",[UPCO 23:00 WIB | 17m | 13/04/26] HNK Vukovar 1991 vs Dinamo Zagreb (Giàng A Sún)
-https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
