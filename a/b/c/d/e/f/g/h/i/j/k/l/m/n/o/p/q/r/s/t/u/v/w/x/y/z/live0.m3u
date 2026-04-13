@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 10:11:15 WIB 13-04-2026
-# 🔄 Total Channels: 2173
+# ⏰ Latest Updated: 10:41:21 WIB 13-04-2026
+# 🔄 Total Channels: 2162
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:11:15 WIB 13-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:41:21 WIB 13-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -40,12 +40,12 @@ http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/80292
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/166686
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/298550
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/488df3a9b3fc86ac6c9e8f6d40733067.png!w80" group-title="Live Event: Colalive",15:30 13/04 Viet Nam U17 vs Malaysia U17 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/24561735.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/df2cb8e6df5f64eb0e208d801da11e23.png!w80" group-title="Live Event: Colalive",16:45 13/04 Etar vs Dunav Ruse Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/14707124.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80" group-title="Live Event: Colalive",17:00 13/04 Wonju Dongbu Promy vs KCC Egis Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/82054853.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJL1Rj_kafMhF-_yRQNAyBC1QxNjT7ZPjBEA&s" group-title="LIVE EVENT: MANUAL",15:30 WIB - 13 APRIL 2026 Vietnam vs Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
@@ -103,30 +103,50 @@ https://hls-ls.cdnok9.site/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F5859_1h6z1xfym6z.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:45   13/04 Etar vs FC Dunav Ruse  A TUA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3918_1jqx7yerfjk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   13/04 Vietnam U17 vs Malaysia U17  SHIN m3u Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34434_1jbdm0dezy1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 LNZ Cherkasy vs FC Shakhtar Donetsk  TRIEU TU LONG m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3918_1jqx7yerfjk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   13/04 Vietnam U17 vs Malaysia U17  SHIN flv Gvision TV
+https://hls-ls.cdnok9.site/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34434_1jbdm0dezy1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 LNZ Cherkasy vs FC Shakhtar Donetsk  TRIEU TU LONG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3918_1jqx7yerfjk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   13/04 Vietnam U17 vs Malaysia U17  DUONG QUA m3u Gvision TV
+https://flv.cdnok9.com/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34434_1jbdm0dezy1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 LNZ Cherkasy vs FC Shakhtar Donetsk  TONG GIANG m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3918_1jqx7yerfjk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   13/04 Vietnam U17 vs Malaysia U17  DUONG QUA flv Gvision TV
+https://hls-ls.cdnok9.site/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34434_1jbdm0dezy1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 LNZ Cherkasy vs FC Shakhtar Donetsk  TONG GIANG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/DUONGQUA.flv?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3918_1jqx7yerfjk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   13/04 Vietnam U17 vs Malaysia U17  LUU BI m3u Gvision TV
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F64973_1hsfewf9pv24.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 Sheger Ketema vs Negelle Arsi  URA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3918_1jqx7yerfjk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   13/04 Vietnam U17 vs Malaysia U17  LUU BI flv Gvision TV
+https://hls-ls.cdnok9.site/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F64973_1hsfewf9pv24.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 Sheger Ketema vs Negelle Arsi  URA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3918_1jqx7yerfjk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   13/04 Vietnam U17 vs Malaysia U17  KEVILL m3u Gvision TV
+https://flv.cdnok9.com/live/URA.flv?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F64973_1hsfewf9pv24.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 Sheger Ketema vs Negelle Arsi  PHONG VAN m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3918_1jqx7yerfjk.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   13/04 Vietnam U17 vs Malaysia U17  KEVILL flv Gvision TV
+https://hls-ls.cdnok9.site/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F64973_1hsfewf9pv24.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 Sheger Ketema vs Negelle Arsi  PHONG VAN flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F64973_1hsfewf9pv24.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 Sheger Ketema vs Negelle Arsi  LY QUY m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.site/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F64973_1hsfewf9pv24.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 Sheger Ketema vs Negelle Arsi  LY QUY flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1776042741.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 Wonju DB vs KCC Egis  VO TONG m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1776042741.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",17:00   13/04 Wonju DB vs KCC Egis  VO TONG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F670ac8842e703a0dad91e1dbc33ff839%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:15   13/04 Real Pharma vs Skala 1911 Stryi Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/dac33cdced3a32eac0f9c94a3b656298/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4b9ed7b8b730ae711374e6660ea22a2d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   13/04 LNZ Cherkasy vs FC Shakhtar Donetsk Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/a6d352225b4b2f9fafbe93f2ec1c83f9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9d4ad973f95c525b7347a2058062aff9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",14:30   13/04 CISF vs National United SC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -143,18 +163,6 @@ https://live.alilicloud.com/live/1df55d8833ad00ad199ee2c9d97956c9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/af35ad58fbcc45d55b80a2b0cca60ff0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F977a43a1fc285b81776f1fb087a6a917%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   13/04 Vietnam U17 vs Malaysia U17 hd_1 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/72283bf9b8444d559d3eb5e8a1807e06/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F977a43a1fc285b81776f1fb087a6a917%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   13/04 Vietnam U17 vs Malaysia U17 hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live3.fastestcdn-global.com/live/72283bf9b8444d559d3eb5e8a1807e06/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F977a43a1fc285b81776f1fb087a6a917%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   13/04 Vietnam U17 vs Malaysia U17 hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://pull-live4.fastestcdn-global.com/live/72283bf9b8444d559d3eb5e8a1807e06/index.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fd431ead73c6316c263163eeca2d69bbb%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   13/04 Shanxi Loufan Xiangyu vs Liaocheng Chuanqi Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -175,15 +183,15 @@ https://live.alilicloud.com/live/c2b7e38cde0dfbfad0ec4ab53414ec1c/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a4e246a905297a784912d75a83980dee/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fbongchuyennuthongtin.com.vn%2F%2Fwp-content%2Fuploads%2Flogo-doi-bong.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   13/04 BC Thong tin BD19 vs Geleximco Hung Yen hd_1 Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fbongchuyennuthongtin.com.vn%2F%2Fwp-content%2Fuploads%2Flogo-doi-bong.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   13/04 BC Thong tin BD19 vs Geleximco Hung Yen hd_1 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://pull-live3.fastestcdn-global.com/live/005a693ba21e4a15ad1296e118ce1a8c/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fbongchuyennuthongtin.com.vn%2F%2Fwp-content%2Fuploads%2Flogo-doi-bong.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   13/04 BC Thong tin BD19 vs Geleximco Hung Yen hd_2 Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fbongchuyennuthongtin.com.vn%2F%2Fwp-content%2Fuploads%2Flogo-doi-bong.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   13/04 BC Thong tin BD19 vs Geleximco Hung Yen hd_2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://pull-live3.fastestcdn-global.com/live/005a693ba21e4a15ad1296e118ce1a8c/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fbongchuyennuthongtin.com.vn%2F%2Fwp-content%2Fuploads%2Flogo-doi-bong.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   13/04 BC Thong tin BD19 vs Geleximco Hung Yen hd_3 Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fbongchuyennuthongtin.com.vn%2F%2Fwp-content%2Fuploads%2Flogo-doi-bong.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   13/04 BC Thong tin BD19 vs Geleximco Hung Yen hd_3 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://pull-live4.fastestcdn-global.com/live/005a693ba21e4a15ad1296e118ce1a8c/index.m3u8
@@ -195,22 +203,14 @@ https://live.alilicloud.com/live/23ddccab205ed52c3385a989c2c32438/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/c3a2c513736468016fcf4cce2b238263/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4b9ed7b8b730ae711374e6660ea22a2d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   13/04 LNZ Cherkasy vs FC Shakhtar Donetsk Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe494a960b520f3a3c1386f600655246e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:00   13/04 Sheger Ketema vs Negele Arsi Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/a6d352225b4b2f9fafbe93f2ec1c83f9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2F20251008_222230_bd3165ac.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",14:30   13/04 Ha Noi   vs Bien Phong MB HD2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_145023_6270222c.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",15:30   13/04 Vietnam U17 vs Malaysia U17 HD2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_145023_6270222c.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",15:30   13/04 Vietnam U17 vs Malaysia U17 FHD2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+https://live.alilicloud.com/live/769a0f2de8f5f59c1191fe7801fb2e54/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe544b7af41dc428ab562a4254f7f1374%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",17:30   13/04 Norway U19 Women vs Austria Women U19 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5ca8167fe9ecab9e180f283a4974fa77/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_125803_9e802d0a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",17:00   13/04 LNZ Cherkasy vs Shakhtar Donetsk HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -247,6 +247,34 @@ https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen sd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen hd_1 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen sd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen hd_2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live7.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen sd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen hd_3 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://pull-live8.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F670ac8842e703a0dad91e1dbc33ff839%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:15   13/04 Real Pharma vs Skala 1911 Stryi Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/dac33cdced3a32eac0f9c94a3b656298/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9d4ad973f95c525b7347a2058062aff9%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",14:30   13/04 CISF vs National United SC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -263,6 +291,10 @@ https://live.alilicloud.com/live/1df55d8833ad00ad199ee2c9d97956c9/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/ffa3888c73e6284a6b41e895cc7a5f5d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4b9ed7b8b730ae711374e6660ea22a2d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 LNZ Cherkasy vs FC Shakhtar Donetsk Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/a6d352225b4b2f9fafbe93f2ec1c83f9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F4b9ed7b8b730ae711374e6660ea22a2d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 LNZ Cherkasy vs FC Shakhtar Donetsk sd_1 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -331,210 +363,122 @@ https://live.alilicloud.com/live/23ddccab205ed52c3385a989c2c32438/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/c3a2c513736468016fcf4cce2b238263/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen sd_1 Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe494a960b520f3a3c1386f600655246e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 Sheger Ketema vs Negele Arsi Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen hd_1 Gvision TV
+https://live.alilicloud.com/live/769a0f2de8f5f59c1191fe7801fb2e54/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe544b7af41dc428ab562a4254f7f1374%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:30   13/04 Norway U19 Women vs Austria Women U19 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen sd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen hd_2 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live7.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen sd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa3%2Fa9%2F53%2Fa3a953be0b240ec013f252138746c143.jpg&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",17:00   13/04 BC Thong Tin vs BD19 vs Geleximco Hung Yen hd_3 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://pull-live8.fastestcdn-global.com/live/d32987b2836b4ebe90f1d5194d54b3da/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[ATP 500 Munich] 16:00 13/04 Rinderknech A. vs Michelsen A. [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[ATP 500 Munich] 16:00 13/04 Rinderknech A. vs Michelsen A. [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[ATP 500 Munich] 16:00 13/04 Rinderknech A. vs Michelsen A. [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Premier League] 16:00 13/04 LNZ Cherkasy vs Shakhtar Donetsk [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Premier League] 16:00 13/04 LNZ Cherkasy vs Shakhtar Donetsk [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Premier League] 16:00 13/04 LNZ Cherkasy vs Shakhtar Donetsk [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/85ad3e9ba2a31b51ad5e9a5c7306e52d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Basilan Steel vs Valenzuela City Darkhorse [KING] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=45ecaf0dd11099350eea92393d426c70&txTime=69dd101d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/85ad3e9ba2a31b51ad5e9a5c7306e52d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Basilan Steel vs Valenzuela City Darkhorse [KING] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=2df6345d2613ba0c523abe8311fe2792&txTime=69dd101d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/85ad3e9ba2a31b51ad5e9a5c7306e52d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Basilan Steel vs Valenzuela City Darkhorse [KING] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=45ecaf0dd11099350eea92393d426c70&txTime=69dd101d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/85ad3e9ba2a31b51ad5e9a5c7306e52d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Basilan Steel vs Valenzuela City Darkhorse [KING] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=2df6345d2613ba0c523abe8311fe2792&txTime=69dd101d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [TA BIEN GIOI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1776077261-0-0-d3a90803a4a5b8f9bc5f96e0b698ab94
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [TA BIEN GIOI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1776077261-0-0-dc1ab5d473f3f36a2586a67aa4bbc87d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [TA BIEN GIOI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1776077261-0-0-0f51dd177b99839ab9fa57ea2047c4eb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [TA BIEN GIOI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1776077261-0-0-84f6dd60c42f6308027536453e89dce6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [ Cu Cai] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1776077261-0-0-e58b7eaff9b2c03223dcccb73804dd88
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [ Cu Cai] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1776077261-0-0-43c72f1005014e3241e455fbeae6ac36
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [ Cu Cai] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1776077261-0-0-4b60b9aa0edb21c1c398046750159da7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [ Cu Cai] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1776077261-0-0-8ba3e8bd0fcaab3d1090f592a681885c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ COCA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1776077261-0-0-77ac42c86784ec3090301f40b27dd0ae
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ COCA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1776077261-0-0-87f40153bb7c5c525addea58b70af591
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ COCA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1776077261-0-0-a1b07d357cfe5bd498768481a06ea6b8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ COCA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1776077261-0-0-8899c1170af47ba25512084a6bcab721
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [VUONG ANH] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=7e64084068023a22910c903b9fd9043c&txTime=69dd101d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [VUONG ANH] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=a54dc67d4b3f19cddbc0c62f49cab80c&txTime=69dd101d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [VUONG ANH] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=7e64084068023a22910c903b9fd9043c&txTime=69dd101d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [VUONG ANH] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a54dc67d4b3f19cddbc0c62f49cab80c&txTime=69dd101d
+https://live.alilicloud.com/live/5ca8167fe9ecab9e180f283a4974fa77/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/f096f2d5044fcdffc2702683e55ee14d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Wonju DB vs KCC Egis [ HENRY] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1776077261-0-0-06a79addfa981e79f6d20a2e34747a22
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1776079421-0-0-4aa08861c2fb13706593e2d7a8507283
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/f096f2d5044fcdffc2702683e55ee14d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Wonju DB vs KCC Egis [ HENRY] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1776077261-0-0-fa59fdc18457fbd2aa5f912fe4b7561e
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1776079421-0-0-fde2495f1ac977f23354ac05e80887e3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/f096f2d5044fcdffc2702683e55ee14d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Wonju DB vs KCC Egis [ HENRY] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1776077261-0-0-770e1ef2a0c222c47ffa476087eaba2a
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1776079421-0-0-7a233521b8f5ccc1859fb2411384a6a4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/f096f2d5044fcdffc2702683e55ee14d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Wonju DB vs KCC Egis [ HENRY] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1776077261-0-0-17e4590ca178cf3c90c1d8a118ce473e
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1776079421-0-0-687c2177820d54a41b43c2067bc41dcd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [VUONG ANH] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=68507386a0947464f1956975f50225b8&txTime=69dd188d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [VUONG ANH] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=5ca1fdb9d58308bb5d63956fe625e989&txTime=69dd188d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [VUONG ANH] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=68507386a0947464f1956975f50225b8&txTime=69dd188d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [VUONG ANH] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=5ca1fdb9d58308bb5d63956fe625e989&txTime=69dd188d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [RICKHANTER] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=a58886cc7e3087d425e351fe9f9b95a4&txTime=69dd101d
+https://pull.niur.live/live/stream-9912101_lsd.flv?txSecret=85b49fd89d8349d63e7012066ebba75b&txTime=69dd188d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [RICKHANTER] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=6a0e63d02326b80e8e542e1876ce6b7c&txTime=69dd101d
+https://pull.niur.live/live/stream-9912101_lhd.flv?txSecret=9180a27ddbdcf6c95b1ff01cf71aec30&txTime=69dd188d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [RICKHANTER] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=a58886cc7e3087d425e351fe9f9b95a4&txTime=69dd101d
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=85b49fd89d8349d63e7012066ebba75b&txTime=69dd188d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [RICKHANTER] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=6a0e63d02326b80e8e542e1876ce6b7c&txTime=69dd101d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [DECO] flv Gvision TV
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=9180a27ddbdcf6c95b1ff01cf71aec30&txTime=69dd188d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ COCA] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lsd.flv?auth_key=1776077621-0-0-5968370aee81a3b0b5deaebae5793652
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [DECO] hdFlv Gvision TV
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1776079421-0-0-66761b430a374c8b84f798890f331ec3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ COCA] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1776077621-0-0-1e30e2d7a30da18cb3d016de7cd6ab34
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [DECO] m3u8 Gvision TV
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1776079421-0-0-e52d00f9c0f468624dfc5d724ac4b79e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ COCA] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1776077621-0-0-88a72ab51b3311995f33bad483aea27c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [DECO] hdM3u8 Gvision TV
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1776079421-0-0-fa52170d18ef9ae73744caec7a4e8ee7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ COCA] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1776077621-0-0-69f563326c302f8654c3ed6f715ca102
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1776079421-0-0-7b24cc88b2466d2b3f658ab30b472c69
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/85ad3e9ba2a31b51ad5e9a5c7306e52d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Basilan Steel vs Valenzuela City Darkhorse [KING] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lsd.flv?txSecret=7c71a5b798dff89bef97c6161cee8c37&txTime=69dd188d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/85ad3e9ba2a31b51ad5e9a5c7306e52d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Basilan Steel vs Valenzuela City Darkhorse [KING] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=f195d8138e7630ea67e7d1faaeef4e65&txTime=69dd188d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/85ad3e9ba2a31b51ad5e9a5c7306e52d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Basilan Steel vs Valenzuela City Darkhorse [KING] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=7c71a5b798dff89bef97c6161cee8c37&txTime=69dd188d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/85ad3e9ba2a31b51ad5e9a5c7306e52d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Basilan Steel vs Valenzuela City Darkhorse [KING] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=f195d8138e7630ea67e7d1faaeef4e65&txTime=69dd188d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/f096f2d5044fcdffc2702683e55ee14d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Wonju DB vs KCC Egis [HUNTER] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1776077621-0-0-a06c09c52929df816570a52567817aef
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1776079781-0-0-60dd7e15a9f051f62f2c91aa859180ab
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/f096f2d5044fcdffc2702683e55ee14d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Wonju DB vs KCC Egis [HUNTER] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1776077621-0-0-31d535994de7f5ecacd9b67ee412ab13
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1776079781-0-0-f3a019f2a0aa79ff11ad152ed27e2673
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/f096f2d5044fcdffc2702683e55ee14d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Wonju DB vs KCC Egis [HUNTER] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1776077621-0-0-f3234a7a1e1c396cdcfe0795368554d3
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1776079781-0-0-6c84b8822973a43672a29d36876666e7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260411/f096f2d5044fcdffc2702683e55ee14d.png" group-title="Live Event: socolive",17:00 ngay 13/04 Wonju DB vs KCC Egis [HUNTER] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1776077621-0-0-6e37506b9b8310aea6f501da1bec188c
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1776079781-0-0-c122060705a51122b4784482bce3fc02
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ MESSI] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1776077621-0-0-15445ba9a442ebe1e007f25f94a5077d
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1776079781-0-0-a262ea9f67ee0c658b2364ca1ccc8a1f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ MESSI] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1776077621-0-0-b68b722016a905c97955a6f7d34c7db6
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1776079781-0-0-5c9a2de5cc60f7754724f0948a611198
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ MESSI] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1776077621-0-0-1513d7f46b8c158af98874f8cdfe1c25
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1776079781-0-0-a935e6be210109d9f930e344271774a4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ MESSI] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1776077621-0-0-417f8b390b1f63c1ce37804af4635cd3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [TAM MAO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=07e81a3248b743d97699b9e4298c13e7&txTime=69dd1185
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [TAM MAO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=a28b99350029dd27498e9768c02ad41c&txTime=69dd1185
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [TAM MAO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=07e81a3248b743d97699b9e4298c13e7&txTime=69dd1185
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [TAM MAO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=a28b99350029dd27498e9768c02ad41c&txTime=69dd1185
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1776079781-0-0-bbd958487b1d847f5eafac7a566c2ab0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ TAP] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1776077621-0-0-77555b22fef3b635e3791e738a446cea
+https://pull06.scstream.net/live/stream-9912041_lsd.flv?auth_key=1776079781-0-0-90dbd8b18cdab8c6d3bd82f505793312
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ TAP] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1776077621-0-0-4d5ce14be4d763c308961bc4ee2cb3c6
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1776079781-0-0-0fa316bbc2aab54e1a39a200cf6a9d59
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ TAP] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1776077621-0-0-0e96f9f0c278163fc633990008026679
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1776079781-0-0-59c807c7c2ebbfba3520b8beef4ab93f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [ TAP] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1776077621-0-0-eedf79a199b3ff43ccf776e2e4589941
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [ TOMMY] flv Gvision TV
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1776079781-0-0-6a0d907e96f49ee888d51d4b77ecfa5a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [TAM MAO] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=4b1bb7ee8e21c505d5550481f35bc1c6&txTime=69dd1185
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [ TOMMY] hdFlv Gvision TV
+https://pull.niur.live/live/stream-9912100_lsd.flv?txSecret=b6bfbbe5a971d83c303ffbe838362e45&txTime=69dd19f5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [TAM MAO] hdFlv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=58d344b93138a0523993735530f9a7a2&txTime=69dd1185
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [ TOMMY] m3u8 Gvision TV
+https://pull.niur.live/live/stream-9912100_lhd.flv?txSecret=46d18a58522ff8be98d559ac2a42659a&txTime=69dd19f5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [TAM MAO] m3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=4b1bb7ee8e21c505d5550481f35bc1c6&txTime=69dd1185
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/8ad13673be3e7420466de58f88e884a6.png" group-title="Live Event: socolive",15:30 ngay 13/04 Vietnam U17 vs Malaysia U17 [ TOMMY] hdM3u8 Gvision TV
+https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=b6bfbbe5a971d83c303ffbe838362e45&txTime=69dd19f5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260410/bb53b770fc60944e698caeadec95b9ce.png" group-title="Live Event: socolive",17:00 ngay 13/04 LNZ Cherkasy vs FC Shakhtar Donetsk [TAM MAO] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=58d344b93138a0523993735530f9a7a2&txTime=69dd1185
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=46d18a58522ff8be98d559ac2a42659a&txTime=69dd19f5
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphovz1r8k0/image/small" group-title="Live Event: Hội quán",15:30 13/04  U17 Viet Nam vs U17 Malaysia FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -547,6 +491,30 @@ https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Struff_MCM23_%2837%29_%2852883307264%29.jpg" group-title="Live Event: Hội quán",17:30 13/04 Jan-Lennard Struff vs Francisco Cerundolo FHD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Struff_MCM23_%2837%29_%2852883307264%29.jpg" group-title="Live Event: Hội quán",17:30 13/04 Jan-Lennard Struff vs Francisco Cerundolo HD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Struff_MCM23_%2837%29_%2852883307264%29.jpg" group-title="Live Event: Hội quán",17:30 13/04 Jan-Lennard Struff vs Francisco Cerundolo SD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tom%C3%A1s_Martin_Etcheverry_-_2024_Olympics_%28cropped%29.jpg" group-title="Live Event: Hội quán",17:30 13/04 Tomas Martin Etcheverry vs Jack Draper FHD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tom%C3%A1s_Martin_Etcheverry_-_2024_Olympics_%28cropped%29.jpg" group-title="Live Event: Hội quán",17:30 13/04 Tomas Martin Etcheverry vs Jack Draper HD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Tom%C3%A1s_Martin_Etcheverry_-_2024_Olympics_%28cropped%29.jpg" group-title="Live Event: Hội quán",17:30 13/04 Tomas Martin Etcheverry vs Jack Draper SD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Argentina Liga Profesional] Racing Club vs River Plate Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1318,41 +1286,41 @@ https://aspaltvpasti.top/11111/20216.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=566fdcd382c768a3fe5f5a2f89023719&x-time=1776074460
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=540ad0e2a6ed82686944d2d010f3de0a&x-time=1776076260
 #EXTINF:-1 tvg-logo="" group-title="🔴 🔴 LIVE EVENT NOW",[Live] Center Court | BMW Open
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=6d71119f5663de48e63b93d092465bc3&x-time=1776074460
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=d4acba80ed9ad7bc2f2269c382e42997&x-time=1776076260
 #EXTINF:-1 tvg-logo="" group-title="🔴 🔴 LIVE EVENT NOW",[Live] Pista Rafa Nadal | Barcelona Open Banc Sabadell
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=e623795e18eb65028a48ead7141bfd42&x-time=1776074460
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=3a796e22ca03c0cb4c5b8fd059d9499a&x-time=1776076260
 #EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/wkbl/default/03.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] WKBL | Samsung Life Insurance vs Hana Bank
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260413046036/relay
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/xyzh9clq0js1sa7pms7kquy9h5fsnpjec5zd/playlist.m3u8?hdnts=st=1776075042~exp=1776107452~acl=*/xyzh9clq0js1sa7pms7kquy9h5fsnpjec5zd/*~hmac=bba8e97d5dd12ac001ead7480e8003fd10a2c8ee9af21758104f21096686e87d
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0004/xyzh9clq0js1sa7pms7kquy9h5fsnpjec5zd/playlist.m3u8?hdnts=st=1776076735~exp=1776109145~acl=*/xyzh9clq0js1sa7pms7kquy9h5fsnpjec5zd/*~hmac=4f75c8b399e9158982734ba4eeddd7e855a55ebc9bf466f02eb574d38ebe41d5
 #EXTINF:-1 tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/18287516/record/52745378/thumbnail/image_480.jpg" group-title="LIVE EVENT NOW | VOLI",[LIVE] Volleyball Other | Weekly volleyball GS Caltex special with Ahn Hye-jin, Yoo Seo-yeon, and Han Su-jin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260413SBS1/relay
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/playlist.m3u8?hdnts=st=1776075048~exp=1776107458~acl=*/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/*~hmac=f4863a3c104f83a2dba13b9c753fece5a28c9f51ea17d8b253120458068cc943
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/playlist.m3u8?hdnts=st=1776076746~exp=1776109156~acl=*/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/*~hmac=6c7f78988833c7468e3dd78aada490cdf33d61c373c4fe1086d6278a7caed62d
 #EXTINF:-1 tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/18287516/record/52745378/thumbnail/image_480.jpg" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] Volleyball Other | Weekly volleyball GS Caltex special with Ahn Hye-jin, Yoo Seo-yeon, and Han Su-jin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260413SBS1/relay
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/playlist.m3u8?hdnts=st=1776075048~exp=1776107458~acl=*/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/*~hmac=f4863a3c104f83a2dba13b9c753fece5a28c9f51ea17d8b253120458068cc943
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/playlist.m3u8?hdnts=st=1776076746~exp=1776109156~acl=*/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/*~hmac=6c7f78988833c7468e3dd78aada490cdf33d61c373c4fe1086d6278a7caed62d
 #EXTINF:-1 tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/18287516/record/52745378/thumbnail/image_480.jpg" group-title="BWF BADMINTON & VOLLEYBALL",[LIVE] Volleyball Other | Weekly volleyball GS Caltex special with Ahn Hye-jin, Yoo Seo-yeon, and Han Su-jin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.sports.naver.com/game/20260413SBS1/relay
 #EXTVLCOPT:http-origin=https://m.sports.naver.com
-https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/playlist.m3u8?hdnts=st=1776075048~exp=1776107458~acl=*/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/*~hmac=f4863a3c104f83a2dba13b9c753fece5a28c9f51ea17d8b253120458068cc943
+https://livecloud.pstatic.net/sports/lip2_kr/anmssgpu0003/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/playlist.m3u8?hdnts=st=1776076746~exp=1776109156~acl=*/tkqeanysttfhfoj3wkvmoxtkv5fsua1ca4ig/*~hmac=6c7f78988833c7468e3dd78aada490cdf33d61c373c4fe1086d6278a7caed62d
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/700/714700-SNAPSHOT-m.jpg" group-title="LIGA SPANYOL", [Upcoming] LaLiga 2 2025/26 *  Valladolid vs Eibar (01:22 WIB * 14/04)
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/719/714719-SNAPSHOT-m.jpg" group-title="LIGA SPANYOL", [Upcoming] LaLiga 2025/26 *  Levante vs Getafe (01:55 WIB * 14/04)
@@ -1362,49 +1330,39 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/719/714719-SNAPSHOT-m.jpg" group-title="LIGA SPANYOL", [Upcoming] LaLiga 2025/26 * Levante vs Getafe (01:55 WIB * 14/04/2026)
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/9159983/live/18287516/record/52745378/thumbnail/image_480.jpg" group-title="LIVE EVENT NOW | VOLI",Weekly volleyball GS Caltex special with Ahn Hye-jin, Yoo Seo-yeon, and Han Su-jinLIVE | 
-https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiS1RPeGNZVFd0clhoNVJPMDl1YUFKMXBpa1NxUWJKREc4d2cwZ2NXTkl5UjlzbEVIVllzZWFyTWR1MlBJdGNtbkV1Y0VxanRYZzYwNm9VSnlSY2Z4Vk9vcVUrRGlIU0xoY0Rxa0dtS2h6NnhGdCs4Sk9XN3FsQ0E1Yko5N2lGT2VsUkJrUzh6MUhPUDBuVTlOeHdRSWx1OThuVDV1Q00yV2dWYVJQazl4Y2hEN21hMXZlVHFGMlN3bkRDTlhZRFJnemdQN2RNdGxUTFJPcTNFXC9IUVFFa2FSQXlRT3lVbnNVK1FaQ01kZXhaVzBoYXNzTGNsdWZ3UzU2TVI3aXJBcWxvSHp1NUtLanBnM1NESnpRZG5odTdnPT0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiZjVSblZuS1FQUnY1akkwc2FUeTltVk1BWkM2WmpGemlRUmVabnhXZnNRXC9FN08xMVNtVnZUbkpKMVdocEV1TVN6QzJ6bXFYdkJKUytEQkI2aiszYXpobkltdjlHVmNhbWF5WFpocmw2QXBFaEE1dFJFaTNsaTlNbjk0U2lYODFwdm9zYndkTTh6dmwxWmJaUlg1K2xqRW1TMWhiSnRaUEZzSjcwUXlJNjBSMlZcL1RFTE4rd21LakR1Mmc4cUhSSlBOSkJ2TWRKVFBmR3dxalN6aUpsdTloOGhVSVwvWUNiVjBWeGh0NTJcL1dSZmtIdGdRUjdmY3ZGaTNFc2d6c3NrWFREcjgxdlZ1blNZelQ0Y0NuRG5jQnl3PT0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F9dxxRTKcALsqFqgQbWkF9n7VJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014296/37d070.jpg" group-title="LIVE EVENT | TENNIS 🎾",16:00 WIB 13/04/26 Arthur Rinderknech vs Alex Michelsen - Round 1 | ATP 500: BMW Open 2026 (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJUcHVQamNUWU5NSzVMWThGM2VHOGZIbVJySFhYNlBybWxNVHEyeDExYUNGQkxoNjVvQU1JWENxV2xMWENFZ0daWnFERzZqOERTSjZCTlhvczZHQU00d3Y5N1RcL0o5WU1HYTY4a0xmMjNQWHlJTXFZbVN1M3VobTdOZGtRUlIwWjVIMHNwV2l6OEZtVjFvNTIxRDR2NEhwVmFTYjNIRlFyRExrdHAyeG1HYm5JS0JnS0x6TWpLaE44OHZBQ3NIU3FVc2txOVk0WXYxRXJtN3BaM1ZaSW0xNlJSS3JaMzAzRWdiQ2laaGFVVGxySFVoTVU5N0lsaGZkZkNsV1lZWktaNGYwXC9xMWx5YzkyR3FkWVRkdG43Y0JmUjdiSlBDQVwvblpyemFHQ0gxbkJsZVRzeFFMZTdxQVBoTm9ZWDJkQzM1dlR2NnRlaDdxNW1lTVwvaXMrbmVXTGpCdUk5aE1TUWQwS3R4QlwvaFArZmNCYz0ifQ==
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJwb1FpWTlPbkZuMDJVZ1JiR0ZDWEJ6WW9Kb3RvVWJndldoUURXOTZGK2RyYWdUUWFiU1k3Y1FQXC9zeGdyMHZUNEpYdWRMNHUrTUo3OXo0czBzY3FrdnZ0ZzlsRTBzcmZZXC9hdlExa2FHZHY5cGhHNWs3MXNPN3ErSzFyejdMWU5aTjYzQ2g2cldSZUhQeVd5MTdibkVoZFU4amwwRDFBMFhFSytLSHRlUFB4Wkg1cFAySDEwXC9VSHYycGhvRnpoN1plTG1NUlJEZERKSzlYMjNQdWlOK3J6SkMweEVpaDlRM3BcLzB6dGN0bWtDaGJkUWZMQmtSNHZmaFRRUUhZQkYwV0Myb2EwRGtybmlWT2FOUmdwZU5rZlNPMzhJRFwvTWdGQ0RIV3pVZkJHU29cL1BodmxHOHJlSHVFMHl0aDVtcmhXZDl1ZUdhQ2QyUU56ZWhWQnFiSFJKSGJacXh5c293MGtrQjV4OWpWNXd6SWM9In0=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiYkJJT254Rm5jbHd1MzBsRlRldTVDTUVMN214aTlZXC93SHhVQVI3OVp5NDJjT0xCeExxVEJzSWlSM21JdkFubUJrb0UraVJ1MDZ0VElSeUJvckNoRmp0Q2ZEem5cL0RHbVdmYWd6cW9jV040bVYrdTZOcW10RjZkZjFPT2p1Umlza251T0x0YmFvQVRVU1V4Uk5pbXBVUit3TFpQcEpmMVB2MHpOZU9CbldpVWpDU3V6UWNRaEFcL2J0bmJ0aHlxTCs0a2d2NGVaRVVobVZRR2l4SGxzc201eDIzU1dcL1hmN0luVzVRME9ldFwvYnE1OGJoaWhvTTNUSHorSm00cVVyRjBtcnZYM0pFXC9sSDZXVXFBdkFBRW5KS0xabkNWZ25hUnFzeHA2QVZXa2UxQW5OaWNiZEZcL2xtb0s3NnBzTHErVmxLcUNENnVrYVFcL3lhQ1BxeFIwMUhQeklJelFrK2VldW1aZ0M1blhcL3Bqd3BLbzFicHNlMFJ3c2o5ZlFJd1wvbzBMYjdiZklaVDZIajNlVHEyYTdcLzUzbTNYTVUwSFA1aFIyelI5V09oUnJ4anE0PSJ9
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i4_65IK2KdpqKPKRrFTp9xXQ_PE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011600/21bf75.jpg" group-title="🔴 🔴 LIVE EVENT NOW",15:20 WIB 13/04/26 Vietnam vs Malaysia - ASEAN U17 Boys' Championship (INTI HLS/M3U8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoibGJKckd3RFFmRDFIcVhyOU52NTZkVldTM3p0RDBWcDAxY1NtUFJpczYwNDYyMG1RbVNqSlB5ZVpoQWFLOTFBMWJpU29ZcFM5NUhSQUc3ZUJEVTJWVmdKWDh1V3l0ZXZ2TkZ2ZUpEb01ZXC9VK1RCOTdJQkJBRU1cL3RaczZDMFBMdlIzOXo0cXhLWE9SclwvM29IUTBPbmZSekE0cnFaRzM3bUhtcFh3QnVTXC9NM0NuSDZDK29WNXlYTjNiWlJ2MEUyRFpSaFN1T3RcL3BFb0E3bktvUmw3cHZXUmZmV096UUJSTm00SmlHQ3c0SVZcL0taWmk0NndsY1pVRlRHSFJtM2cyRUJFZDYxMG95UStQMnhySjRrWmJGZm11MTFpbFVSNVJtS2c4ZlU1clpJM1ZIS2JaOEhPdGF0bDRNQzhGR1dKaHk5NUlSN1BxRFVwelhtU0dqQWUycWdza0M4NHRDY0RqZ2dvYktMMEhnbkdLZWplYnBaOHV0OTR3RXlVTzZxMkJHZDZcL0pVOGNJODlmVm5VQWNHS1ZyQjRnZ2kwSnNMbnJLY3FvZzlXdWcxajRoemtRczcya0x0dmhyalZkTnIrRzcifQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i4_65IK2KdpqKPKRrFTp9xXQ_PE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011600/21bf75.jpg" group-title="🔴 🔴 LIVE EVENT NOW",15:20 WIB 13/04/26 Vietnam vs Malaysia - ASEAN U17 Boys' Championship (INTI MPD)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJJT2pTRndDTVVDTWw5YTF0TGtaZkR1eWpTWWRVR0d4RVViVE9Jek5TTzlodG9QUEtCYTVBSjB5MlhEMzY1WE9oZVlEajdjQzBBWnBUSVpwOUliZEcwNTZqaEhRSmJhQ0FoUVljR0RUbjJRZTd6UmFpODI3WTFiYk9LNWNFTCswMVdcL1JOdEEyZFAyeTVKZCttK25xaDRkYjRtMDFXNWlPejRZVDhvSmdKNXZNM1ZnN2NpXC9peCtMZDlvUlpEVUQzQWxoTGdKNWdzQ1lEXC9qVytHdXdxcHAwZEh0XC9RY2JjNUJmR3NWS0tTZzlHbGFIb2tKbzNONEs5alg5OWhza0E4Qms0QjVZRGs0R2lPXC9mU0xLRlRjajY1RmRBMUhVTUpQOFhLOVcrTTc2TmxOR091M0JRcERRVjVhamQ1XC9TWDRXTVM2RVdvc3I4TXlmZHhzNWJVOEdVUWs1RGFhcU9YNG0weUZiUnRKZ2xaYVE9In0=
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVVFTd2FoN3VPVG1kM1ZVQ1hMak9BSllmSkpBK21uUTh3MGl4N09LRFIzWFlJeVpcLzh5TDN2N25VRHpMUDE5Y0ZpQzZab1wvVU4zSk5zQ05XZGhSQ2NhWkN5eGZzdWNFN1prMWUwS1BVQzN2MER5Ujkrb2UwMDZpbE1RZGVRTTl4ZEFoa0V5WnIzaVRMXC85ZFBTUWVKdGI1SmFWelpORmUyYmZNTENnWFZ1R2dmMkVWQzZlZTVEVVwvUjBqSGFtaGdIajhFY1VWRVRFMnBmMktUb2Qzc1JkTW5pUEZ6ZkJjc2Vwa1U0TTM4blJBYkZLU210N3BNOVU1N0FqRUlHZExuOUxGOEJXbTh1dlZwekNwY29OSTlXdnZoTGFwcVVaWlo2eUhjWUF3QnlYTkdIQjczTFZCZFBObFZnV3BHamExVzFDTnJNRWs5UUN2eEZYY3FtV01BRWt0cUIrZys0alJ0YXdNOUQ4WE9uaEJlNnN4Z1paTlwvNlc3R1o5eWRcL3kxTzFpVnhRMkdISkMrNDU5bFM4cWhzWnN2SFIyZ0lmMEEzbG9EeGRrVDNJbWRGST0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiUHFxS2pYSnUzbEIzUWZhQlwvdFdoMUdaWU5OS0xVMjVmTUpJT1VOdkNvc0U1WXpyYnAzZHB3d1FYRTJ2dEhKUVQyZ3VRYjZMeXpFdjA5NWM5TFwvSnhDeVV3SkFLekFLcCtOUmNzbTJ5elB5c0NaWUxGN3M0MWIrM3FzZEwrXC9DZjhndlk4RE9VR2VZTkhySHFORXlXMHMrVzNtMldZTWdjaERxRFdWbG1BeDgreEU3TUxwalwvV0VyWm1cL0tQeDdpdGNWU1VYR3NoUjgrSDV4SzRiQ2lYWGNLMDYwZ1I5YzNEaHBFRElCVEMrdWJvMnBWT095QVdzXC9sXC9GU0Z2dTJKekJ0b1wvRHNsSFdpcUZiZEhxc0RISGU4SFgrM2Z6VVJqTW1uM2hnbGs2aXdhWU9PUUlHSGY1OUc1U2RSU0cybXNCcEs2bTBSWjdzUlE3dFoyRUdPSUFIaXZBTytCYjF3eGt0YTNQUEZ5TnhPXC9cL2FNVDFEREpLV3l5UUprZDVEQUdNYTFMWk5ERndndDJGelwvY2VndGpwUGx0dUxKRDE1NDFuaWlEa01nZGdNZzVZPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nIBpAO0AMh2a_VUyyJ32DIrJ5zs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014305/59f3ab.jpg" group-title="LIVE EVENT | TENNIS 🎾",16:00 WIB 13/04/26 Botic van de Zandschulp vs Marc-Andre Huesler - Round 1 (Court 1) | ATP 500: BMW Open 2026 (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJESTBGTitJRU1vWFp1QVZubTY1NXk0UnRqdVg2M05WcVwvdGk0cXNXOU0rQjdhSkoyRGZ4dWEzVHlNMWR1dmgrV0c0V0pQTEFRVzJjNDJ2cnBVUFNwS3FyUUMwOUpRQVwvMTlESjhoNVEzaWJmazVoU1VCOGdoWGJcLzBXVVp0a25ZYm41QUdwU0RDdk13XC8rYUI3N3NWaytFSmJtSkhNRkxlckF2THc1SXVcL08zWUh4eHk4OWlCb1V6THN4dWVBYm1yZ0FJclc1Wjd6V2VaUnZzdzd1MFd6M21DcitoMzZoZ3pDQXQ4MytcL0lQZFlERUVHdGNcLzRWYXduYXNRWm04OVNXS1VLY0NVUzBtZEhMRllyOCtJc1wvUkNjNG02dGNPeE9GV0UzRnl5VkZ0TFJVUFFkMjBvWVYzWXpxTFVuelJxV0locVlmeTNFUFI0azBsUEdRMGs3SFQxSFAzbGNwcm9IOVpzOFJzT2hXRlREdz0ifQ==
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJCNjdmNDJOUGswY01JQXFhOVJJWkhXcjFtdXZ3RTZ1TEtQOXBOVE1rQ1NKNVgrdlI5bWRySjlRYlN0eThyaTdiczZvZzF6V2tVR2s2Mkkwd1o0Mm53c1ArUGhqWjRCYnlRRys4V3ZYek5MMGxGSGMzN21lSFo0Tzg1UXo3U0Ruck5ZR21Eb2FTaDY3REo4RHVxSWV0VTZwV21LY2FkUnRnVVIzUVltb2ZnT2t1YXZMcHZ5cCs4NHhid3A1SWRCeExQQ09QWDNlQTVlVTVnZytiY3ZaTTZjNG5nV1lyaVpacHBxZ0I3ZzhnZXRqTUN4QUwwMjkyWnB6YmRWTTE2bE5qTTBDVkxuOFZJUlpPa2NqWUlLVENIc1ExMjNrVjMyOUEzQVFzSjl0S3FBTHNnSWg5cVJIazFpWkFLWHRnK0RmVzVWSWRrUnYrQkRFaERhMFdPaEJtM1ZtYUZzY3NBZkhDNDBkR3Arb2dXQ3M9In0=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiUjlvMDdOekUrS1RVVHowbEd6cTcxUnpyaGFucjZzMlhGNUNpY2FoQm0wSVExQllUUlg0RmZVekltbUZEZzdJQ2hlQXNWRTZ6WkpjZ3poYUhnWUduajJMaGxucHk2aEtuM2ZscTZiUUJweG45dW00V3pRd3dUWFlVd09FbWNRaHZYdDZ0RjJXalV0R2lwMmJ5dWJqU0RtXC9NV3h1SzdtcWlaSDBIR1o1czFHdnNxeGpLQWlJY093c3NFXC9JaXJFR0g4U0Q0QVAxSHBMSTRjdDdsNEdIb2hidXkrTkNXd1B5b0tqeGd2eEJ3R1NoWW5KOTRzdGQxdUZYVmptdVRtMENDVDlpSmxYUDVwcWFKVDdzSm5PUUJoa0JGSlFiV3NWekNHZ0kyVitOVTFPaVJ6TE9mYVwvN0NcL1lzRGloUkRzOUdhc3g2dGdJa3I3RUxTUVkxQ1cyeWJENktRYnowYWdjVVNFMzVzR1oyTU9mYzJkMkhpbEFuZWgyeFZkQnNkS3VGVWZmVmw1WlpLUktGUFRGTUtsN0xmMWdxclRsRCs2aDd5czFLM245WlwvT1VRPSJ9
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVXZwelM4WXgwNm9pdCtYK2V3RHhONlwvOXhoZFZYVFJkXC9GV1VuS0FLMUZEc1wvcVhMSCs3Y1NXRFdYRVRzUFwvM1lvTGVpQ2dLQnNUcG1JcnBoMVhOWThPeGdRSVYyNXNqTkc2anZkK29CWUZEVHlRODdNZnJ0UVNTZ2gzQVBcL1wvbHVSZVFFcmtaWTZDNFNpUW9Bc0lOM045RnRCejFCVjdlTndKQVZVMnVVQStOVnNpUVdmQ3hBeGtIYnlXNFFqZTJBUFwvXC8wK2R4NGpRcWZuczNZVE1ZU3ZUOEtDSDhGV2hvSTBGWXR3czVqZTIxaDlmOExIb1FhYmpIQjh4SU1CdVNoUFwvTUVcLysyYlpXalZqY2xBSmQ2T3JaVmtwVzIxVWx6UWlyUFJ0NmZGNzNcL1psU3Z3NGFSKzM4T3FIbjFVWFpcL09SS1RJaXNacVhFcHpPcXVXQW5aT2FHOFd3dFo4aFJjclpUTFExSngxN2VqZG9JaWlmWW0yVVlOM21UTStmYmN2UnZFTWhFM21CaDFjeWZjakxjRjRQMGlMYWNodHRWY0pJMzNXSXpIN1RsST0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/z-GGLAsyAmW8hUKCZsxTKPhXZmo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014096/88dd86.jpg" group-title="LIVE EVENT | TENNIS 🎾",16:00 WIB 13/04/26 Ignacio Buse vs Corentin Moutet - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026 (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJRV1pacVFFRHl1MVRDM1pwVDFjcEpvNWJ4bmtcL1FtTXBiejByQWdyMWJJVWRlV3dLSkN6NkpPZGQ5eEJ4eDh2eXlUcTdzOXlJQ2Q3UFVQRXByOFJcL2gwWFhjWFJCdXpRUVQwQ0FvTW1DeDV3RzRYZG1cL254VEpweWVZS1NLTURkS0xBcGVpa2xQUXdpanUyMHlPdms0b1A0dFlXSm5PMWR1ZWRcL1pwSTVEQnJpanBvc0Z6VW9LZ0FnUTFpMHdSSE9qOXk4anFkY1NUWkc4OVwvWVU0bllnQzZhWVRJNFVod1MrVUExdnlIMFhzbEdvckdHWUgwTnBhK3JLYnFNV1dNSUQ3TlIxU2N6Qk9qcGRzR055eGFvazFGSmh6MVR4TlRzcEpUeEdUb09kTGl1bnQ1MnZcLzhXVlkwRGZwcGV3R2VqNVlqMWlXSm1GZ0YxZTBkK29yRGltYkFEUWNcL0xMNEhPbnNJeWhOWWw2RGM0PSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJqRlJsU0JhaERBOXduTEx1eWhaWUhBZWhBek81MUhMMkhEamFIb0Q5aENOY3YyaVBIdUZVenpuaURSRTJoTHFWUExDVEYyRTlWcnhSdVNjOVlSa2NiSW1yOHU4RldpcnA2Wmp3eWdIQUhwMzlSeUp5eGttMlhMU1lZRSt5czBnV0ZkVXlCQ1VCTU93VEZLbDhGQW9UQXZ6ZVwvOCtvQjk2WGdva01oQm9lXC9oMzBLdDdsUnYxSEdFek5uQXJ5b3pnVFFYTVwvUUlLNXkydXh2UzZkQkZiT2FteUZib0l1YUV6ZmlwQ25OY092NEZjWTE3UHdwUDVUTUdrcXcyOGxlV05URmhjTnNLeFwvNjRxZCs1NkthTmUrOW84dDVHMVpqNUlKWklQXC9zZnBtTTN2eURmTFp0SDM1Rng3VjM2TVJVT3BMT0MzbnZ1aFozWWtHQ2VXeHhyOVcyTDRZSjVCOVdVNkJ4dmxTcFV3ZzFvYz0ifQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiNUw2SXY0aktVUlJtcG53TUtzbWg0RFlHZzN6MzV3enFmU0thSHJpNDNFT2MydTY1eDRyRzVwV3BoTUxMVHJCMlV0RzlpYklRU1g0UzVUSlRHejNUdTNMUkV6bjVja1dZYVk3SXVsR3IzeFR0TDdJQlo0aFpvSkI5d3J0Rm9HTmliVko2VldrNHcwTE14dnR2S25GaTR2S0pJSFFjVFNZMmxVd2NNTjU2Z2VZMVVBM3cwbGE1N2JXU0NrWTBTSktDd3FWM1lvU3A4M0hWaHA5VTRJNysrWVBVQ2ZoYlc2ZEQ5dWtvcDl6ZERFM3dPQ0N5NCt4b28xUEFkVkZMS0l6ZkRoNVc2NXVUZE0zOXdjN2ErdU9ld1NPcHd2WkVWenArdGJ1OUYrM1VEanRHU0szemJQN3k0a1RZZ0ZSdUtRVzZBYXJ5cW1nVjliNEJNU0ZzVnpkaGI2bVhwQnh1eFZ0VlUwUXBDSWc2MTloVWQ2d0J3Qm8rTFJlYTBTTVpmM1o2YUhnd3NlZVVjMkdhakp6UUpBcHZaRmdldlNBWld3NFQ4TWpKRzQ0NjZHND0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiM3dcL0hXUHJMN0FUZkFrejNPcHJ2SlZYdTBmTWJXYlwvbDR3TWorUTdBN0lKWDlMZDZYcTZUSUc0MEhKa1VcL1wvdThPRzZTTUlMUVdtTEQycUlxdXU2dlM0dzlTeVRrcUp6SFc3SUJGS0trWkFWaGorREZaMUFcLzdEXC9aTG9Bb2toV2lUOWllaklnWG9YcGJrSGc1dm9xODdrSEtnUkVRNlo4QnJpZXEwbmRTOTBJTEtxdDJTU2lnVGQ2Nklmd0pMRFc5SWtVZEdESlc3S1d4Z2s1eDBEVWxxaW5nWHY4WUdHVURmVDgrRGlZSzVzS1orWVBwZ0NzMDdobjBCK1cyN2hYYUc3Qm5tbTd5Snd4QnBSOGtTbmZNbzhOeEJiSklWbWhaOWFkNjhobnJ4N1k1WUtZaHlWOTU0c2NNZkN6amFqUnV4WmYrWXZaejNuVGVYQjdFU2J4Z1VKMDM0RzMyYmhBXC93NDlkQ25YMHpwcUd3VFNVY1BEVWFPSWNlV0xISTNcL1VoS00rZmtTNytrQ0w2QVJtUllRZldOSnJkVEUzRzhWT3M5dVJPR0U3MkFBPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kK2e9X-B3i9A3Ndojy9KH6bJ2Rk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013092/77b5ca.jpg" group-title="LIVE EVENT NOW | VOLI",19:55 WIB 13/04/26 Fenerbahce Medicana vs Bursa BBSK - Turkish Men's Volleyball League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiTVg0aHR2c3p5QnJPVUJ5akppdDJjZHR3VWhtQTJNZmNGeFBkMW9mXC9lS25PdDRSN3VzMWYyS3pHeU9ucWZYbThyXC9raXRYVk9JUVJnWkhPekJLbDRoelJNM2VPQnNFRm91dGtiMG94TUE2YXk4NG1ST3JTRFZIUHVKd0hNS2lcL2lIczlQRSt1NGM3ODUrVDlZekg0SUJ2WWRheFd3KzQzY2FPQkNiS1FzTnhhKzVxVzFsMEtEb0lEXC9vbFwvOXBpNGhZSmZDZVlZV1wvM3l0MTFpQ0JVSEt3cFRXdnRNNllUVURxSHhTKzdWRitCaz0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoid2t0ODZNdzU3YVB2bExSSVwvNVVvVUNNbXB0Mm14ZTFPb0M4dXFXM2wxcG5hUDVYSTc4NFQrdWd3c3UxcjJ0cnZOR3hvNWFsbXpxcEkxeGRyUytaaTc2NG1IcTRIRVNtakh4V1U3VXlQeXdwcW5rQVwvc1crZlwvNjRoSUxhd2Z5aHBWMHJqYzdzQ3BlXC9BYTlGK0NWN1pDXC9oYXorRUpjQ3QxV3VVMVc2N2IxUU1zdkNQYzdMN1N3VWYweGRNbmlsUEtKendpbUtxVUhkMWhmOGVkQmV4ZW1TdWdUNkRXMmlUUldBUTNJQW4wV0NrPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qqJh4f7u4dECQslFsHPpI3m5wdk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013093/4c4e54.jpg" group-title="LIVE EVENT NOW | VOLI",22:55 WIB 13/04/26 Final - Game 3: Vakifbank vs Fenerbahce Medicana - Turkish Women's Volleyball League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiZWR4aE1sNzFla1ZPS1BkWE9ia0U1eVB3MGgwNkdxNjFFS1FyXC9RQ0RJMWRTclVPTmd5OTFsR1wvXC82TmU5V2NmdjYzdloyQ3Z3VFA0QWlRTno4WWtpSHNIbWtJRWpjbHFnSzM2K0crK1pwUkdObTYrMFhlVUNvcnF1QUJLSTFQOU5hZCtMNVFSZFFlXC9SRjZ1TmZWTVFVMU9IeEpqZjF5VlY2M0R5RzRqcVo3dHdyaVJcL0tVRlwvYjlwRVFhUDA2d3F3M2tzaGVuMk01dFhYWFlFZmRRNGtDSFFOeGNtaFAwWTNtSmZBK0tybjViYz0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVDRzalVpVTZyK3VZenpmakhVOHpXaGRqd3l4TEJreFlDU0lVMEE4NjNEYVlWZDhvdXRcL3dIRnlMa21Yd2NQZDFteFhEZk16NExzekJOTGZOcnA2TlNxUWY3ZEVzejZXZ2dDZ3F4cnd6cmt3MkxDS1NGMEx3cENCRXlwbWZ5dGN3UDdKUHBwcG5RZFE1VGNFMXpRWkl1R09jOW1KRTBWRnJ3Q0VjeDhLWktXeUZnV3pxSEFDWThiMFFNU3hpRmtNK2tEU1pBT3BDZG5pMmQ3SVFOQ1NTWHZ3VWhFSENqVmZNaGVCU2Z1c1RQQ0E9In0=
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KABg0Eg694eSZlbCvXUebvkhcCE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013489/069825.jpg" group-title="LIGA ITALIA",01:45 WIB 14/04/26 Fiorentina vs Lazio - Serie A
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IhwYExGY8EhfQ8qCAcyrDb2GhfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013051/e17da2.jpg" group-title="LIGA SPANYOL",02:00 WIB 14/04/26 Levante vs Getafe - LaLiga
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MohPpEFoZErMH54X33jH_aU3gF0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013052/02c381.jpg" group-title="LIGA INGGRIS",02:00 WIB 14/04/26 Man United vs Leeds United - Premier League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IhwYExGY8EhfQ8qCAcyrDb2GhfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013051/e17da2.jpg" group-title="LIGA SPANYOL",02:00 WIB 14/04/26 Levante vs Getafe - LaLiga
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZlLxHa23MCCG_G_b_5c6zPdDqqQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014087/51e2a5.jpg" group-title="LIVE EVENT | TENNIS 🎾",22:00 WIB 14/04/26 Day 1 - WTA 500: Porsche Tennis Grand Prix 2026
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
@@ -1414,179 +1372,162 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/42m0NKdp18M1mAKWQyf-WAr166w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014316/d6ae2a.jpg" group-title="BWF BADMINTON & VOLLEYBALL",16:00 WIB 16/04/26 Final Four Putra: Jakarta Lavani Livin Transmedia vs Surabaya Samator - Proliga
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/H3XxNvjGAymjg2Qyb-rvkzolS6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20216/champion-fight-c7c19e.jpg" group-title="CHAMPIONS TV",12:00 WIB 21/01/26 Prochazka vs Ulberg : UFC 327 (INTI)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/H3XxNvjGAymjg2Qyb-rvkzolS6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20216/champion-fight-c7c19e.jpg" group-title="CHAMPIONS TV",12:00 WIB 21/01/26 Champions Fight (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ4Y3NQWGhLMVJtMzQxaFZXR0xVOUw3ZUVcLzFvQXdCU1NHcER6anpNVnMzZ2VuRko3dzA5M0dvRzJuSVwvd29cL1JGZmJabUkyQjREaWJ3VWVoVXUzUnJFSUZmQjR1eTZIc2ZUbzBGXC9OUXhOc3BpSjRzTkNWZFByMlgrb0JzUWdXckxWOUpaZFwvT0dZZXZObVlVemQrd1NQQmx5cGxJRXRJWFV0dFwvV1Q2YW44MmZEZUhaSU9MMytkKytqc0J3T0NQWk9NZHpyd1JsRWdXVkFrTVg0NE5kUDdlenZuVGt0NVhZK2xaR2wzVm1hTEtiZGcycmNRblwvN3JUS2hoZmpNQ3dBZFBJZzVDTVRqbXk5QmlEcUdocVwvc2tCZnRydmhiRjlLdk5SK3ZFdWNWMHhIT1d0Z1orVTRDS0sxYlpmVnljZys4VUF6dXhnTzBaaXM2R1wvQUVydTV6dkJXcHppeTMyZzcwT3hJWHN4MGp2cDA9In0=
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJzVWltUE1SVDdzRnNmZnJoVnN3MytFWjJaZks0eVBYK2pHanUyamFVREpqanE0eWI2K1AwVXJ3R3krUUVrUlV1NXdmb1paNklQWkRXWHdtYm4yVGtxWGhZK1J4ell6RmFEYWtKSjdUYTZLZnZ1VGRQSStnMGJKU1duNFZZXC9oMDM1TE9hdFU1SHFuZkZvVFAzVkFMT3FETVNzWEJKOWs3QWZBK0xzZElIQU1pajBCTHpQNlpmS1Y0UTVDckM0Mm5tRmNta3ZNaVZLSkQ0d1VGQmNaUzZIWUZpMnlEaktIV1dwbWQ3NjZoODEwZzc3MHVNVTRIaU9sdldEVmdoZ0hLWUJiUFpQT1BwUENGSmMzVEdlK2IrYzJcL09IbTJuVkMxM3FsdndhQ0ZrdFBcL2F5cGNzQ29CbVNQVWlyVERFWWR5dzhvTWVSQ1ZRRFFRSmdJS0FZaUp4MDFpRTUwbkhJeUJ3TW9wZXdtM214T0U9In0=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiOG02UVluTGNSVmQ2TUxQa05PRmJ4eksxdUJRVXViZDdcL3J1TDlhZzMxSnZqdW0waGZSZHVYcE9IYXhzblJRUjZ2RjZWSTh6YXdTcXQ1bnVCdEhYT2F4eWlrUmp4UUY0MTU3VnJUR09ob0dlaHdqN3VOOVRlZkJwalE3a3I2aWNGWW1MbjFKR1IxQWp6NXJKc2dNMEhhNVlaUmN2NVk3c1d1MGpsbXhvcUhFZG1QY2hvcFVcLzg1UjFhRFwvMkVHOEphcjBWYVwvNGQ1RnF5K3lnTmZmTnVNU3BEU2swMkU1S1Q4aHVOaHVaXC9aOHk5bEFuc0hmMEUxVkNwOHI5RDgwK24xNWQ3Z0hTSEdHeHdCYXdjOXNwSGM0VUl3REtFVHlnamFGT0hhek52TklsQkV5VnVoUVlJMlRCTXIxSStMS2NRM0xOcUVpdktSWFE5cUZmVE1XSXdoUE9va05XYjlvZXF5eFRDeGZcL3libk5sM2RhT3loaTIwN3hWZU8rRUlUXC94VHAzT3V1VzZGRVo3R29FYzl4REhqNWZWdklYOTJ3VjFxMkRCNkE5R2tpRFU9In0=
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVjh4aWxZN014dU5ubHc0VHBXOTM0bzhmZHpteE9ZSXlSa3NuVkhwdTE0U3R4c25SSUZcL2hCUCtPdjF0MzBmRkV3bDdKRitHWlVBcU5pNG00aXJ2QW1PQVwvQk9KV2pUQ3FlaFMrUkorZ0c5K04zcmtCclVMUHdsTitGUldOR3dzZXFGZlYrSGxtTWhaNHJwU2RNSnErams5V1RrSFRXZGQzV1JTMzF1YTNORkhyXC9EcnNwbmNVVlZcL3pcL1NsZHUxYW9cL3lhbTVQTFB6ZDVBekk0OU1YZUw0Z0ZQbE5SWjNvZ1BCbWgxcTJFSFZWUGlPcmd2aUk3SHVBUVhOQURkaEU1enBZVVMxcnRjV3VjcktyRDNFdjdFdUI5a0E1bGFuWisxYzhHdW41dW1UZHBhbEl1Q1gzd0NQWEtoSFB1dkgzSkZkM1lqSExCT29wczNoQ1dYOURJU2JuN290RkdPejUybW1ua3N6MjlGZzU3ekkzR2JWRjU1OFhwOG9NVXYxYnVKaEhwb0ZjYnV4OVNCQVlMVHRkZWkyNUtsV1d3RnBpSzlZRnhleTF1RDl3ND0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YPVCaRhTAIjP2Bql56wNeWFhTDQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="CHAMPIONS TV",17:00 WIB 23/06/22 Liverpool vs Fulham : Premiere League 2025/2026 (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJwNWZCOVNuNVM2eE5QUjVwRkduSzlnMHhkc1wvSklKdzFCMkI0NkFCZnQwcTZoXC84RWtcL2lGR3d1V280Ulp6c3l0ZUozNVlPTG9ZK3Q2cm1aN3RWbWRaU050b0Zoek1paVRod216WU1MUHhlSSthMHJ1aVVzdlwvYkYzY0JVMjJqbEFIM0g2Zzh3djZnNUMrallaZnYwSENvU3QrODlWaEdldzZrVWI5bjZWTUVGK0NQVGErVlpadGlrZG5XRVwvN1VndlJjMXhxRnVGZ3RIMFNyNStKOURBenJQVFY0dVwvbU5NTmhlUFFXazZGWGdBTkZPN3FBOVYwemc4eEVOMjFCUVJrXC9SRzB5blRzWFQ2VEFsYVpHb3RaY0Zpd0MzM09hVEJLaUphZXhnTW9rdWlRV0FNVkpiQUo2UkZiV2J0Z3U2eVY3NEhsNEZZOXJ4QU1jZ05LWllCYzNpcXc0eGZGTjkrMkU0UVZCVnJJQlhzPSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiIxSktiVkVrS3M1dldcL3JVcUY1TUNuXC9pUDdWeG1RSUtuYkdGdGE5Qk5wdUFJTER4S2lEKzlpNXVXcFdKTmZ5aHkzbnZtYVJLMllCbXgra1IzbFpHcU5cL1wvRlpQcjhHTzdxS0QzXC8wcEg3U0FsOVB1U0hncFR4eGpVNXRSOEpVRUNjMXNySGlyMGdhZGVZK1d3VThiYTNMYnUwOXhiYU82UFVQQ3FocW82YWtmUFwvVVRHT3lvMU1zU1o5NVNTSERCbjIwTVBZVnRaODFMMkV0MnJwY2NDT0Y2c09qRjlmSXJhM3FUXC9ZdXJkbEhkdTRER1FpV0hZRFR6eER4TUZxQmVqaVZLNG1DbFwvU3J4aWt6UVJlMER5dHlCM0o1TDk5YlRNcERDT1wvRUluTDFzSnl2eUNkTGc2TUJ0WlREQ2Ezc1A0blVremlQcVB1dzA5U05aUjYrMkNoeHdwUGFPVGxoUHA5b0h4UEFYVkErcVk9In0=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiam9qXC9tQmN0YTZFR0RmR1pNVjk5SFBsVFJieXB4alFzRDhlZkV2MVlTcnFaRlVTZm9QWGpmSXNDYU9MK1AwdEUzZXJEcFRGMGxISkJIT0FLSmkxWnZ3c3ZXKzVXaDJBNGFLaWlFT3FcL3J5V2RcL1AxUjhDS3dUV2ZzUG5Nd0NwVEhEalFmT296eURHc08xcG04aTljZHVhRGdtRmdTcGpEUFJcL0p5c2ZEY0hBTE9rSFNRN1pha0RNR2R3b2pRNTRTbmxkTXA1NVUzMzRQa09tUmNQTHlpZ1dBazQ2R0lVQkJrXC9udmk0SmxIcjc0eUpaMHBhN09mcVRiMDM3YWNiN0pXcEFHWkxHNjZSNVBDcDRwemRHek1GMktcL2NVWGlOeUlkNDJTcUJneGIyUVNDMkY3REgrN2lKQ2xGMmhzUTdQT093MnVzNFhtcFVqTWFyVzVoa0ljWDlEanptOHQ2NTBUanNqcVlPaHh3MnVhdDllVTJSUnNVUXNCNVdGOUFybVZ0SlJsV245SHpUWG1BTGVuNytHOU5OQnNzUUdvOFwvc2RGcU9EcTdST3pjSnM9In0=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="CHAMPIONS TV",20:00 WIB 28/07/22 MW32: Sunderland v Tottenham Hotspur : Match Highlights 25/26 (INTI)
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiMWJzM3BEanFKYTQwMTA0aGd0b21TbVJVQ3oyUk03cDBPbzQySXN0eWdzZzIyTVVkZm9NckE1b0JoWTk5TnBWRzB0aldjMFdFWVhQZzdMMXdCWWtINUNWSmFQZzNnVjdQKzBWNFlaOFNUUjRQVk5sZks2TGxscFh1NHNGSERRWCtjWUdVc0xyXC9nckFMazNMaEkrZlF6ZG1mM081TVFQTDcwbTRnejdcL25MVDR1S3plMmp3QnhBTkdCd2tXbXVHenk0YWVORVFpUGZzRjhWeTRldm9OTXFrbUVZMFVQa285QTFrKzRlMFwvTUsycDhhV3BTeWFvTHJcL3MwSm0xU1luek91Nzc0eTdHMThnSVpWSGFiWElpSGdkandCVGpFUWc0OTBMdTM1VktEbDFGTzltUkZqUW12TytyUjEwMkRJcmdXbGd0ODZxbnlhMEdQYWxZWllGWXBhUEJnMVwvY2lRR2x1cDRcL3Y2K2ZvcDNWaWdZblRpOXRXeUdETWtlMFI1VG5mc2pIXC84RWtPd21oV3FGNVwvYUJua3VKcTVHcDJUMjc4bFhJck9aK1E5a1hVPSJ9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="CHAMPIONS TV",20:00 WIB 28/07/22 MW32: Nottingham Forest v Aston villa : Match Highlights 25/26 (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiIwRnV4c1Vib3dSZm9YcktGRE91UWt1NWhrYU5oZGFsVmNCXC9DeEFTWVYyWEF3aUtEQ011SmVQb3JiV1pEcEs1clcrazZmaDNXc0xodExyRzdGSXRuTk41U1MzZ2JSNGpwbnZyV0lIc0t4Q2cwNWNKUlpVcU0zVnBKbkk5Wmh4MDIrVW8zMW9TN3YyNXdXeGVoa1VLWHlNdkMwamlJdkZ4RlpDM1NScCtHNWE5bTJmaG9ZczhLa0YrQlRjNHNCb0xWTUczMXd3bzVCWU1wa3M0VkpueVNYdG9SSEFUTFpvUlB6Um13N1hjYjhCQUptdDYwaWdMZU1Pb2t5WkdoSzNmZEtqaGpsZzlOTDdkeUFGcEF1QU84Mk43RWFGeVJDT3lkOUtUK1NIM1JOenNNT1oxWWFHcTNBMFVYZndZZWVaMkFaWnlmNTd1NmRQNVd3YzNHRHFObVYzajF1bjVQem9RSVwvbHJhaDJhQmRZbz0ifQ==
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ4WUxndndjMXNSQklPaDVzcW1ucVBQaVZoakg5ZjdBbElxNkVwQzFzamZRT05WdDZDU0ExZlVkZCtEZDE3Q2FjekpXZTNyNllXOTdCVHphOVBHV2tQNHpwS3BmZjJyNlNrM3hTZ1NGWG5UV3RteEF6OU9ta1g0WkNQeGRtSjJDR2dUZVVEcU5ZcUtNc3ZXUlVaSEJRNFpJTVFhSjMrU2tDVHFEYllBZ3dnQjVMc0NDYlNkcnRaZ0JyY0JjYVc3ZXJyQTYybXlwVFlCKzNWdDNORHczTExHdHV4N2s1QW5BSkNhTFdpWkhqNFNGc0k5dk5JSCt6ZDVMeCs4aERXekJ1Q0cxMm5nZ3RFOUY2M3RaNHJjNmp6TU9uZ21VTVVySXgrSW00RFwvMFk5bWZSRXZcLzBTWmI1YUNVR2VnVU4zR2JiejRvaUFqMzExT3FQWUZvSWNiQmZmQWFMMlVEbSs4dlwvMzk5VGJPb0VaaFk9In0=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoibHh2TTRXZTRjTDUzTGphdENVMCtaYUZkTG1KNDZXNzZ4Wmw2Z0s2K0ZCemtvWkh6N2FncjlZeCtqSjBcL0tyeTNheVwvTUV6WndjYTlydmNsYlhDdThcL3UrYm04ME5Wc0JjaDVBektjYjJYZmNxNUZpc1ptemxPQWJXUm53bFNlUUFHT2tuK1Baa2dKcEFYZWdUdDNqM3JTMllQOG82dFl6aFgzVjR0b3lCcnlhWjl4XC96b29iNEtYV2RtbUZhZ0s2akVRQVRuMHNtYVJlRVR4dnAxdU5qTVl3XC9KVnlwQ2RocVpvN0NSendHZHd5R0tvTld1YUk0M3gwalZDTlAwd1NLdWJ3NUJ6VTF1S25IQ1pQaFIxN21raHNZcVpYZjZEZmhkOWM3bVFpbnd3NnU1bjMzWUtKa0RvTU5ZU05tVCtOMkZHS3FiQVJ3RGNrajZyOWR4NFFVQU9FQVBUZU5PcGhZWVwvWXV3Y0c3M1lJVTYxYytPSXcwSmtZbDkxRml4bFdhNXM3SXdRM3lFZ3VpU2p1ODRmWEJnemxzWVVYXC9TVzZ3UzdCU3o5S1dkOTg9In0=
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRUU1SDd6aWlmak9GMTErcTlWTEExZGYxYlplZkg0U1NEMnUzNGxGdDFrNlpZczVobGs2Zkp6bnZTb0NuR2VFaVd5XC8zK0xla09SSmhvQWRKcFlLeW1oc2RnT3NpMlJYcDJ0TytPSUtNUXFRUEFnN01UdXF3WERrUWFIcXZBdGltQ0ZcL2Jhbk1jeVdOeXpVVzg3NVByNFdrZ1pzUUFRbUVJUVwvdjJ3TDgrdGJvQ2FQdzdnK3R0aGV4dlBJSUt5d0VkTnRjYmZIU2NnYkp2R0dIbStxUDZNN2kxaytIaFwvcm04YVpaUFwvRlNzeDJVdUsxMGd0Y3ExN1R6K2hJK2lEd2luR05lMzZyOFVKQjVtVENmSVlvdzlqcUprMlo0UlN1bWlWTmUyb3oyV2FzaDF3UFpFaWRNck9nXC9HMWFJRWZcL3duQkp0QStRQnZaNHpvaVwvTHpCUStLTHZrSVFLd25tR0ZhQWJYdHpVTTdqNTdkM05PaUlTQkVrc085clI0M2hDYlRQRlwvT2lIU2Qyc3dhMkx4eWFDREpDV1dST1Fla0NcL2ZSYkRnbVVMRXlYdHc9In0=
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DDucwJyoKvfCLglPujyq3EPGcjc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" group-title="CHAMPIONS TV",00:00 WIB 09/03/24 Day 2 Session 1 : WTT Singapore Smash 2026 (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJCWnZkWjVhSHp1aDVySCtINUIxM1JcLzBrK0NpNW02clwvYzNOSTJPMWFQYUJvOEZnK0xSVHVKQXZ5Vzc1Q3NqVWZtXC9Rd1NiQkZ2c2owWW1tdGNxMzVVKzNNbXM0K0d6a21xcDgzd3AyXC9oYitPZVNFUzUzTEtlTHVNNGU3XC9aMm4wV0owT1A1NCsrM01VMVFwU0dqUEs2MFQ4RjBMcXJxa2lpSHBIbXk4WmNzVlJcL2FnRFB2NU44alwvb2hzTnk3ZldSQzJYQ3dCenNmdlV1UkFVckh5ZXNPR3UrMXY0QTd3UmZKYzVVYlFia1JVQzVHVkFkc0Z6cGFuWDQ1RlwvUlBrQUZ2SGVNWVptYk1vRjB1Ull3Tm9OOStEMEM5MzhMXC8rcmlzQlhXSkdPcmh0ZlpmYUJcLzRFeHpZTzJ2a25POTZHSkpDbFlHT1RBemdXYlg1NGlcL3ZaM1dwRCtCR0tDaGM0VFFkckp2aHhJKzBzdz0ifQ==
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJyaU0wRXdnbmZPcGlpYzNNdnlZYXRTMzdpYTZhaEhPNkROU21KWjBNV0NuTnJVN3lBczVDU0lnN3J3VllCaW04aEpuRUZ5UHJSRXkrdEtKeTFkbG96a2xFdmVRN2J0U3JFbzNwQmJUeVYrbkZPOXIyR013Yzg0MmVDd01DZk5RMU5pZTNmZ0xjd2tLeGN0OHZcL0VWelY5eVhYYWFlc3Ywc3NzbGFNZWJBWlwva2RiVUVQd2RvM2xtT0JaQ3NlQjN4cjIxWFVZcmo4d1RNSkdDTkVOZk1Tck1Vbnkzb0RiQWswWDZ0QncyT0lvQ29GYzlYT2VlY2RlRmxNZTV1dEJQVGE2cDd5Ylo1UE5GSGUxeVh2OHlsVkFjKzZBN1czTFFqNVlReHBMQXBhRlRhK05zYzl4ejlUaFR4Q1NXN0dTZDhJWm5HQmpYK1E3VEx3VjNEemZZU1NGbXEwdFBHTlZSZHN6Y2ZyY0xtUGFjWT0ifQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiK1Jvamg4eUZqOGZIVGNzYVFuS2dQNUhrRDJxSUtKVTBPN0pzN09MOFwvZ1JiNGdWem14R0hcL3RmRjZPWmdyemltOHMrb3ByTldKckdQWDZJenU5SmpYaURvSFN1TEZ3VFRRZXFwNDFwQnowQUdFOUVRNk1RbG9WZlZ2cWVsUUhac01SQTl4cU0zbEhWeXRQbUJ1dzM2ZG0xdGZ0amJla3h6TUVnNTB2MytUQWVqRWRrVXFrTVNTY0ptdkI4ZkxYUE5veXZ3ZkVTRmJ4eUNweEhyaUJUNnhrRlo1cURMNlRuOW43XC9CVE1Pemx2aGJZTlhMeXFpeGlROWl1bjBBT2JVbU0reDFjeUdKcUNTZ3Q4ZWhMUURQQkZnVExDNGdDVWZKdFlwVU1aQnNDVlZsVUwyaWR5UkROU0daWldCMVBQeFdCdjFCT0VIQ0pEbmNrQ0Jrd2p1bkM0TmxCTlBRQmZRTyt0U2xDYXBcL0EyOVo4aUJoSmVac2xPbzdISkZkOWRCRmZSRU5tWmpqWTdaTHl3SGpXaHU3dGNick1FSnZScTg0TkhSYndyUjQyenc9In0=
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoieVp2c1Zxb2JabldKaG52d1dBYUh2a3VWZXZcL2crdXVGVzdlNXpHRlwveVZCYW1zd0Z6QWVjMHRhczdVTXVLU0F0S3NrQlRFVlFPckdYUU1pQVhaQ2NYOGVKUERHcE1TS0pQZ3dZOEl1SENpa0tNN0ppK3NCQ2FURG9mTzJUOEJKRitlQzdUVm9TWGlGdnlzZGJHaGxDODJtOVFNSW9DT0NIMUJVN2plM1FGKyswcU42VUNKV2ZvN3pyS1B5VU5nS29FdHp2K25jZUVIZEFSOWdicnpENGRXdkpyTVwvdUJTaXR2cVNVaVg4bW1nN25SOUpBQ1Vvc2FKM3NSYzJuZFk5VFdNOCthTEhOT284YXhERHVzaVQrUE0zZ3dOUGhsSk5IZ3dmMm51TnhONFN1NDZFektsXC9aWmZkTTdneHBEeGpmXC93ODZSY0FnWGlISlwvXC83QmphRDVBU2VwczlQZmtXN2h5eGtKdnBBU01RNmI2Z0FKVldSSWNJRUd4TUtOeGpFbDRPRW1vU3dCVlp4TVFlTDErUmU5bERQNWxBQkthKzVzaStrMEMyR2pLekU9In0=
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" group-title="CHAMPIONS TV",15:00 WIB 16/09/25 Champions League 25/26: Benfica vs Real Madrid (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiIxMkVXbHpQXC9iMExvMDFmMnhWeFBMeFRvbTgzOWdtU3Z4WFNadFhUUlwveGJSclZoNFc1bXNualpUSFBEcmlVWlVDOHU3RngwNUhyZVV4cHVobHZEUlJJUmxweitcL1dxVnFYcXhSeDlHYUhKMnIwd2s4XC9JYzNNRVVEVUNFRlI5VmJUa2RHd3A5eWVuWnZDQ00xdng1d1U0SkhSWENVT1ROcEdHaTNqVUxKRGl1T01IXC9FbHA3UVdZUklnaXVGamtLNUhoeGJ3YnlEbXlRcXVhUmJINFZzdUQ1OFlqMUhqUStiNGZXa1FidUhZMFlUVlwvb3dPUlhpeUFVZGJ2Mlo3WWlPWlpIaHNIM1BReVppNjMyZVdhbk1peFwvUVwvbHRjeHgrOEZ2M21MbmErTjdQejI5MWlLa3NxQlRSYUxrXC9WczBrQUpPanZTbEh5Vmt5WTFwOTY1ZnBGQVBWVUxOeDRyUFBqOEJCeExvOUtWajg9In0=
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ0TTBDa0hTSVFUSWo2UFQ2MHFTeHFYeVgxNjB4MGhGZnZ6NnBzdVFQNFlVNitGa2E5VTlVUGZ5YmJObU9SRkRocXJ5S0QydmlPV01ZOUZ3djdPeDhtM1FDYzZyWmpIT1dZRHdlVGdWU1wvd1l5dGI1R2tFdFN3clFxWExnNUJIZmFDUGRKMUVZSHNQd05ieE9nUGxVbDBZSzdRM3hzWWhKMndGdytZcDU2QTFBUDlXM0lxQlJPeHhjb2NMY2xlZGR4MElPWml0R1IyU204MjNVRlFHR01OdUJIQ1ZXUnpHVkRNcWxFSHR1dzI4Q0FpNjhGZ3Y2bVlEelJwN3dWd2hZWHdhYzJpbmFQZmVzaUVIOWF2cktzaVdZc2gxbmMrdUlydlBYQjZYTllcLzZHOVlOd3F4NERxdFJwd2VBcWIzN0ZZOHp0RkRIVkdzZTc2SXEyYVcyOHM5MDdYR3RqZVlFcEI5K1FyTnh1aVA2az0ifQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiUUlNZDh0UzNDYnVrS0lUZ2JHWkVIdTMwbGxpTFIreG53Wk5lUUx5XC9DTnBBVUhXYUdSUnNBRnY3OHhrdHRXSHlKUVwvZ29EVUExa2gyUEIrMmUrSzVkYkp3clVrczlOdEdFWXh0UFpnSnY1UlBkcHpIODY4eWVGeXQ0TGpLNlZsMFdpOGMxclpzTDE1dVY3dkE2QVdRdVAyTHNtNnk4UHR6VDRkb1RWc0JkYjJZV1MrNDArRzdJY0V3N3A2b3hyREtreVJTZ0NtOUJKZnNIK0lFSDVsQ29QekdQQndvOEFTUnEwV2M3SDlOVjBUaUZldU5ocllZSmYwTXIyYUtPN1NPWWJkUXYxUjBjOXJ5OGdsaHhSYWpTYzY5TCtYWk9OMVNScXRDem1DZGU3ZWpWTXR2RStNXC9ORXdcL3pzOEJwYlNtVVgwYUNCaFU2Y2JhOWdVb2pWaXA1Vzl1NXg5eFwvazk1cFE1NFhSSVhaOGVzMllpdmoreXo0bzhWOThLMlJVdnR2NVNoZWpubnVicVBOTHJHXC92YlJ4Y1h1TG1nbGN0WEw1VEUrVjZZQ0wrVT0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiZlA5WWY3V3ZEblowY1VpKzQyajRSRitHTW1OXC9NTzhKVW8rVnhISkU3N0d1WjZDNVpWS2pnZ00rK1Z6N0pHYTNDU3ozcHVUNWIzM1wvdGR6SnJYc3ltVm1BOFp2c0JLdW9nUUt1NmRxUDBtZVFzT2V2NElmSkttbkZRRkliOXI4S3hGMXNNekQ5N3dsR253dUJ1QVR0MUNDTDFRbkZQaUp0TkpcL2tiU2NoTUJTRWoyZEs0XC9TQ2ZaNWxtdFVMbWpTc1k2UVhsTE1PXC92K1wvNlNCYVV6azluMjBMZ09DUkd6T0JNQ1lUenlJeGJDUmxWMFFvUTE1enlDVVRzWDlOMzJicGJvU1wvRXd1UG0rc1pRSDVUcFl6TkZTUDFXSzFPWkJpNjc0QmVieklKbHF4d1oxTjdEWERJZjNBNlBUK05Gd2U5MzNPbU1ld2tUV1JZZ2dxWDJYd2Fua1ZmaGhkaFlaOUhXVlFnazc5a0tzYStpUm9sT3RBaWNGSkdrOVFaWmZ5c05paTRJcFdyZitpeUFTK2R4XC9SN1h1TlhRampESTAwdGNFNFRvMkxTR01BPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/k-XDZv0GC0thY6AoQKHNSJewh9s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg" group-title="CHAMPIONS TV",10:00 WIB 31/12/24 Texas Children's Houston Open (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJicTAxcWJaclBEMEJFVFFUWTdpbHpjNTZobmp5ZmxEcnFOUUVNVjBqQk9ER2ZNWkdxMUxzNDdXSlwvcDFhOXUweGhMc2xSNFVReTFDOWN3amxic0FCaWpDS2VVVENnTXpQZVZWTWRkNzczSUdDclNOSGFwaXFtVHNTM3BIdXd2cmRiTFJHdjFSaG5oSnZkMUVDa1BSY1BReW9WK0t1MXpcL2ZtQXpmaFNxZ0tlWGhzdHdtMGZ2YjRPT1E1Qll2YThvVXhJWU96TkdMYlAwTXFmbFdWSGhEdHVTZXJlTldpQ2x2RTI5clBydlA4N0ZURVFGb0hCRTV5MnBBamNjS1Z5ckNVMlB2ZXgyblAzWVFzUWhEVk9OeEtwcGpWVG1rOVVpWGJnZ2VITGhKZTFcL3hCOVFnVktNcnBxME9reFFJUmwwZlBkbGhcL3o2a1hxaGYyNUZWR1JNTGQxNXBLZXVlcVQ3VHBPbVphTFg0bU5JPSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ4MkhSQ3U1UWJodFlHQXVcLzhuT1Z3VU51a0ZJUW9uQ2Z5c0J6RGo1NStwZXY4TEZkRVpBS09sKzJCNFhtSDMwNEVwcUlydTVcLytGVHBHeTBSaTBrbFg4RUVnMmlpUnZMZG9EaDJObzN2NW15cGFLVVlKeUVhdEs2SGk3ZkVRTkJIYmtFUU9ETWszUU91UnUrYmR2YkZwc2VZWWtUVjZUYUZGS2ZXbjBQQisrSnNaTmpPWDNzXC9JRXFlMlZEMmw0Z3hldTM1ZnpMajhMN3BtaE1ueUR1dEFDXC83VmJqRFZHaDM2TXlFaTk0Q3lQNmZ6UWxJb0tRNnlDWnQ2bldYanhhQnJcL0tsck9vd1BEVyttcmVmV0NmRmxoSDBhUjVXdXl0elNjdCtFV25jQVRxOVNRYTIrb1ludUpDTmluYTFoamdpdmhBKzU3dVoyZmw1VDRpeWR6eWxGZHdSbStZUndJZ01ocVRtNStLYThJST0ifQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoicnc2WmJVck9tS3U4T1ZERnNkK1RtMkpGTktValRCdGtpSU1kclVpSWxcL1wvYmlwQ2dSQVdldFwvYVAzN1RhXC95d2FRaVAxd0JDcEhjamZNbFFmS09CRjZkam1WdjVJcTQyZkhIQnJ3bVNWbVFlZURqNWpMWEhIOUdiNmFLTGEyMnhpVFBCZDJYQTMrV28rVHF0cnZrZVBSK0haNGxCSlVzSjdFTWVGTWxXUEZUbllwdmdKU3NoVG5qTXJUY2ttSmIrQ29pMnY0MHppcGVhMGJrVDBaM3NYMDZqVWU4Smt2alArbEJvZW8wRjdYMEdEQmt1RnBINEJTcmtuUlwvODlIQldxa3FqVHYzaVJiUVwvekk0SDM3MkJxbEpYbVA3XC9pUk93dXFQRmQ4K0VvMEtvMXF1dTh0RGRwREV2VzhsZTE3VVkyczRoZDFMcmxZQWxiXC83UUFQQWpkcjBvOTJsRlBaSStyRnl0VERwd0pQemJTeGYzZmZJOXF5RVpZR25UT2NHNWh6ZFhmQjJMYjY2S0VNVFFCZG5uY1dUbnhDeklBUzZMK0NoK1J6ajdHc3JzPSJ9
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiU1JKd3p5bUtEcHJHWm8wWW9IVlwvMEhcL214QnVTZFdlYjNrNXZQMHJSbjh0cFwvNHJNVGM3aVd0Tkd4bEtsd3R1RFhlOEgwXC9IK3RGY3V0UlVFYTJTeXdOdkZjOEdUTnVLQklmTkRIWjM0eDFuZ2JwNEhuZjNpdGlrdXNhXC9kVEFaMnJuVW5Fa29uSVowK2tkVENiRXVMdHhKVmY3OW5vblhoRGdNOVJHdjFuaUNuRjlPd08wT3ZVMDVXaThDK1NSVmloQW1SSTg2b0dkOUJURGJ2aE9MdUE3cmR4ZlFLZmVYUkhJd2VGNjNpNXoyQ3gxN1FkcGh5V0FQcDU1ZmJxRjFGb1cyaXRobWJreTVxYng4OVlQNVwvV3d2Y002WjY2QUNRZ2ZrQVVZRUNaZDBKU2VkOGJTV1h0V1FEa3dMRVwvOHpxWUFrYnZuUHVpclV6UW5nVFZTT3BzSGVjTUtMR0FQRklaU3AySUJ5MjhRcnBLaGRueVpaQ3BZeDc3UzVxdHF2ejZWS1FTaUhHZXBJTEg1XC9MVjhrcDRaZE9cL1J6c0FNd2RMSFJyNE1XRmdEZz0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/w4WsztctnAXWF36OBxRmc5lt87E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg" group-title="CHAMPIONS TV",10:00 WIB 31/12/24 BLUE BAY LPGA (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJLYVNYOXN0THJIc3JcL1JDbDZseVpcLzlHREpRM2hFbHpiY0NjTDRCV2taRUNXOE9FR2xqRlF6QkdDV0hWQTRDelVzQnM5UFVRa3hIcUtoZVlWd3BiaTU2SGhsTGdNQ2lGUVhOTFlocGNpVEJBR0tLKzVuZUczM2w2WjFlV3l1UjBqMmtrUXJqN2p4M21HZlpGeENXeDF4RFwvUGpzWDNERXlEZngzU1FzRGMxRkY0MWlEZ2RCdlcxblRHYlNtUW55Mjh3TzNieWdxODBpb1pUcTQ5cUpTd1VxblBLM3dGakhUT1YwZWlXQnora0JvOVdHQm83ekNTaFBSaDhBQ25ORmFzdjRqNyt1VWpVTTdVQmptUHAwUTV5VzRlTWJsdzF3aFdtM2xuU2piZjZBT0FRTHQxczRDako1OVwvODRNZ2RBc2R6OUt1OVlRYVlEMHhFM2VIMUlvSlVBekRpSWducyt1akZtMUE2Z3daTU93PSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJkUGZnMmxzN2kySEV5N1wveXlrYVR4d1BpU1wvdGJlRDNjeU5adWVPcnRqWWpSbnp1ejg0VDMzSU5cL3dVSXdoSnpvcUM2U1V0Q1dnTDlBY2NtTFFoNEZjbUF4SlVoWTJxQkRmZWZ6R3RndVdBN2xPRmxUOGRQQzhHTmFSNnpKSXVvbE16TkdIM1VUWWNPalBsRGxcL0EzMGlpS2FiQlZsUU5NMFRLbkFXdG9KSk93Tm9FSXFERWxCOVRnK1dubVFzQlhEWXRicXlhMnc5dWRuUktCN1UwZDNrOXBhcmNkMVJOZkw3QlNHOTkyUUt1eWlCWVdQZGJVRzQyejJXS1ZcLzAxTXZFVUdMdDFNb1g5R3hnRlBEQk5EbGZRb0lvM0w3T1dvZ2tVK2M0azBURE4rUWVqd0NXZytYYkdGSm42TFVrRDNraUw1VU44aXEzS3NIQ3ZJTEYwUTdJSHZFYkhhRkNTWVpoWFFsbE80RE4xbz0ifQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiNkJaUHV6cDROWHlpKzQrUENCcTBmN0h0dEpUc3BJY3NvSkNLTlhmUVdSK1A1RlZxdUh3V05YelNsbU0wTEQxSjVlQVBOcGZsR0NTRDBISFlnZTdlM0p2a0NMVzRNWGRKVFlMNXltb0Z6dVZ0cytvVU9vNjROcGpOQklPXC9GNVFDR2ZNOUxid09FUmdpRlNicWYyeWp3NmJnTUc4XC9PeWZTRW14dW1obzhNNXFoTWRuUmM1TlFBaWErVmpCenA2dmxrbzVTTGEwajJwZU5GRHNERkZySkhPMTFXc0xSc2tsekVscDNENm1ORmx1eUJNS0FQbW5sdkN4QTF6QmJZODlZT2ZBTkNJR3RcL1BpQkdPYnVGNTBORWNEbzZxcmtMTm0ra3VKcjJKaFk4XC9CenFYbmZvUVJOMVZrYThBUnkwUlVEN1hYZEdKTTl0Y1VnRnZ5RFlTTkNSa1ZRY3I5bEFtT1NxK3lTTk8xNnhPRUdPQldoaWJ4Y05OeFBsMXp2XC9GWEZFWVNiZFdEUWwwT3E0aCs1T2VPbGE3WXZFY3c5RTdXM21Kb1ZVcnM3Y1gwPSJ9
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiU3JzM3RaS2dEWTNkZGpOa0FnVWZjVXRXbXloWmM4NFZxbGM0YkFLT3JHS1BjRXI1XC8wRUlrVHZuYVl5ckpBVWFrN0tzNFwvWTJYWXpvdjhtZHNORVZlOEVCNHo5dGxRMWlpSldwZ3JRMUVyeHJFd1lGbDJYemVkTmVtbWFoQ2ZFTk02bFFVXC9vMG4wa29zUjFvbmdxRU1USjBINUFNNVRpNFJ5NWhKUDFKYkFxUjNTbFZOTVdzQ3FHVkZGOENETDVlazJyQm1VY0xnU0ZtOFJjUGU4THlLbWowcHkzQlJmYzg4dTYydGRsUlFIR3YwcnFHempMWTNwWHBNcURBT1BDdXJjMFp6Z1ZPdDRRbnR3a0pCc1pKeE1SU3BVOGxlSVZIVVh5TWM2M1pSZ3VCQ202WllsVUtaZmMrTk5odngrUnJQVjY4cUhXY1BcL0ZXb0ptdFVVbXM5Y0h6SHJ2aHkxTHJWQ3JRVFwvWTdLNlRXYXN1d1ZFc3ZTOE9qUXpsR21hZGVhREprU2FPblBrcGFoV2d4QWllbXhhSTRhXC9Nd3pzUE44Vmt4UTdiMFBoMD0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F9dxxRTKcALsqFqgQbWkF9n7VJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014296/37d070.jpg" group-title="LIVE EVENT | TENNIS 🎾",16:00 WIB 13/04/26 Arthur Rinderknech vs Alex Michelsen - Round 1 | ATP 500: BMW Open 2026 [J1]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJyMnBHVjFEZXlNN2Z2QUNHWmZcLzBqTlJrOUM3Z3o5NnQ3Q00rT2tTd2Q1dFY3d054Qk1vNHFwUnlGYmFWOGpBZCtaZ05hTEZQTDBvM1NHbHdJbmRBVlRzM2tTUFRmUU5wKzhiRGVZazJXOW1xSkVNRjhUTjJcL1hKdFloSFNpQkxYeHRpeHMwenlWYkhcL1BEdUszMWtWNUU1c212bG1SOXYzYzljZWp0VTNKSUdoOXZybitFbHhXajZjck5CRkYxOTRMekNQYmNGUmRqQmVzeEpZc08xSG1vbXVpaDhuSFFBWlAxMXZtbU9WaEJzK0paMU8zdU1sWXBzaUFveGoxbFBwcGx2ZXJja1wvdnJOd1FBMVp6aW4waldIRlwvRnI0Ums2VUlOKzRlOGk0R1FRaHQzTHJhOTlkSVJuZGVxUWZSb0xlVThcL2xNSmtaN0NHcTlmd2xMaG5QQk4wazhmeUFlaFVDSG9vSFFIV1wvdTJBPSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJhbTVXZlwvRnFQRnNWb2Nma0NieXFOcjBkckp1NXVrSXVhSERvZzk4a0hIUUxWQlVHdWRZOGZFcUxDYTQ3b0RMaHBkcWhORTlIUEFLQzhzZEs5Mk0zTzhrSFpZaUtyTTVYZG91VGg2Q2tcL2kwZXEreUhlWGVcL2wwcmJHR0EyWkR2aHZqaWFMdWlNYjdBZ1pOUGdoQlluWVZKK1dMUFcwYzBwU0hMVW80MHdxSkFPS0FmNnNMSWQxWXA1WGNUTkVNR3FZemdrNUtoRGF3V0tVQ0srV1wvd292RGRLcTlicmZGeFBJQzhZTW5hTnhrYzRjb0RNMmgrdFBneDBZZ29kQkFxZXNXeFpYdEp4ck90NnQwZmRySWhpYlQ5TDBlMVwvSkI1dVwvNHRSMHZDeUtRSmJDeTYySnFpclpUS2NEeXVWYXNVWTVvRHRwejJNQnpZXC9ka0x6TDZKWkp6RGNRMHdDUk1jditNblJnMGxRRWxvPSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiOFlvQVVWdlZiV2VLYVdlaWlGVFVrYlwvenZYZ21BWUFFMFVKcjF2XC9hR2ZjV01Mb1F1TkhRblRaU2JwQWR4cG1HK0pHc3BpSVhUOVR6XC9yXC9EY0hFMDlSM3hkdGtGc09MQW5GRk9jVzJKcWdUXC9FcE04QmFTVUpGY291Y1E4cWZ2enRETGJvWlZydW5DbXUyYVhVR0tlSHY4dlNQUTNLNzdXcFB6N1wvTEYxbHJCc1ZubDRxbVJZc0htTEY1dGRNaUdDRUROdEFOeXJ2WTJ2SDZKU29BS0NpZXVSeWlFQjBPa2JZNDB4bUhEMUlFWDlGd0RXWlFpZGtVczB6ampqNU1CZ0hSTDZlWWxHXC9JWFQ5MlJTM1ZkZm9yMng4U3ZVSjBSVzRwcmVQYXhzM3JKM1pRZmROa3RhOVJ2V0hhSnd6ZlU1SCtYaTNQdjVLemlMOU0zcDk4UXVTZUN5XC9RK1hOYWx6Z0N3a2ZISnNSK0RVSTIrUlRFS3RKSmNNUkFPWmFpdVd3Mmk0M3ZCN1FPeHNqTUlXUGVNcDgwSkZKaWg1amxjS2ozQVNTdDI2aEZ3PSJ9
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i4_65IK2KdpqKPKRrFTp9xXQ_PE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011600/21bf75.jpg" group-title="🔴 🔴 LIVE EVENT NOW",15:20 WIB 13/04/26 Vietnam vs Malaysia - ASEAN U17 Boys' Championship [J1]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-https://aspaltvpasti.top/pot/cantik./play.m3u8?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiTFpIazZ5VW5jVHJ0WVd5QlhtRzZvQnhKV1FvcmdNXC9zSkZyNmFWSjVkSm13S2RJV2NBT1wvVVVIaHg5Y2Q3TXlKK2FHRHh3cVh3eHhySUlVNEl2b1ZlbXJYdEI4QmpPTkg0d1FPYlU5T0RBeHNKcWdOYmR1dG0zdkQ2QjZ5WDFXM0NRT0xcL3UzQnlncjZtbDJ1NngrY3E1MjNXY3NHd244ZjgySmJKXC9mM0JxWTdvVUk1RDNKdWd0cUFWQVF1YlU5Ym9Pc0Z3ZTk0VnBiM2NsNEd1dDFVNGN0ellHazdoMzJTdFwvSG9BTTlOeThzRUJrNDlcL0J1bWN0eVwvTm5JQlZid0hVWTRta3ZlTnl1UnVRQksxbWNFQkxiXC8rSmFIN2NaZDhIbm5GSERiWjlWXC9LM0hYeTJZK1NoakFvOW5tOVBnQVwvNUJvZnhwQzZXNWxPMnVcL1p2NXZJeERpNHBQRWhmVEdZOGMrMVNwTlUwU1hPcWgxRGJpaVZ1SXZnMVdTbWFxMW5LQ0c2RUIzbzVzSFdPd3hWRjFcLzJLeHZKTEhvWDV0XC9wS21UN0U0Z3dxeWdtbXZGNHFmdmhaQWJuZlgyZ3ZyNnUifQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i4_65IK2KdpqKPKRrFTp9xXQ_PE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5011600/21bf75.jpg" group-title="🔴 🔴 LIVE EVENT NOW",15:20 WIB 13/04/26 Vietnam vs Malaysia - ASEAN U17 Boys' Championship [J1] (MPD)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/21157.drm?dev_kaki_09&t=1776085858&uip=103.30.147.120&h=9369be594479b858b236538cc8fbdcd176466553d5184b65c28490fe8833f476
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-https://vid-zero-gelang.disini.workers.dev/21157.mpd?dev_kaki_09&t=1776085858&uip=103.30.147.120&h=9369be594479b858b236538cc8fbdcd176466553d5184b65c28490fe8833f476
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiWVFyYjBibk9tU3habTRhaU50ajdhSHpVbjIrbklDRXdQK3FHeVZSUlQrWDVWbytHWjk1cU5HcXRvaGlRTGt6V2tjTVFsWEZLRE9yMW00T1J4N0k5RzhtMDQxajlIa010R3h0UTUxTjZjWVwvcDZwM1hYa0RLYndnK1ZpUVhSZWF0SXVCdExRU2IrT3RCZFpCZWNqUjJUYW9yUFBLZTVpNEtaVzRBcDhlenlyNE11XC9vbjBtVml3REp5TXpMOWVFdzI4M3BmK1JOeXUxODNEVitoNVwva2NWMUYzZVBaa3NNRE96Z2toS3E5RHlBeVZZR3ViNEdWWGh2MjRkMUpBaVwvUTM1NytWNmhjWktLbzVSMFNuSU1IOFAxcndqRkl2a0FNSmU4Q3RGNnRPNmFDVkp3MWR6YTFXWDFkbU9UMVZuR2FrRnU5OGNzZFBleVU0Z1IzM0xZak94bFdXWWdHSHBrUHpEKzVtY2EwZnZMclZKNlhXQ0djU0p6bXN2ZzMxYjBuMWg2bDloNkhZUStcL0tmTDdBY1lUbEYxejZnbFlHUkxrcDlDWlFuSmVXWGV3PSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nIBpAO0AMh2a_VUyyJ32DIrJ5zs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014305/59f3ab.jpg" group-title="LIVE EVENT | TENNIS 🎾",16:00 WIB 13/04/26 Botic van de Zandschulp vs Marc-Andre Huesler - Round 1 (Court 1) | ATP 500: BMW Open 2026 [J1]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJJSjZGM2kzazByUU5QRzNXeDJiRWU5VmhlNGJCd3hpU1lpVGlySnI2QjNDUmlieThPK1ljWTlwVDlsYVVldVF3VWJUVlJpOFwvQThcL0k5U2pCeFZCdlF2R0FJWUdiVFg5NEpIWTRDWElxMDBBNlQySG9VVjJuMUJJR25QcGdBZVVcL1MwNXNmY2krVEJET1BSMnkzUzBDMFZiXC9peENiNGo4RDhoR3djTWlPUmNablBBWXkwdEpobUhTM2VTQk4zVWtLVU9wU216djZlZEsxTW9ZdEY0Rkt0ZDcxTFdlUTFzSXlHS282Y0tsNTk0bVQwZE0yZm1peDh2TlE1cmxIaVY2aVRWN3lVdzJ1WjlncUQ2SGRFeEJNdVJoNzN2Rk1LTWJvSjVhSDRnOUliclhBbHpLQTFcL052VVFKZTFhT2p5ckdEeWZ0VjJoUklKM2E2Mlo5aHROaVBCMUVPUmkrRjdyM0pQS1wvTW9ScFRnSXM9In0=
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ3ZWZCbTk5ZVd6a0tCdFpaTFBodERVeUg5SmQrb1puWkd0aUZYWHM5cmJJN1V5VzE1Wnc5QlVNdHplaU42NjdRNG1aS0ZTVTVhb1wvZkk2R3BjU2JteFgyK3JtZWJ0SDZzbm84UEN0MVRnd3hhTm5pV1dOZHIyR0k3aG9nOXI4Q1BMVlhEOXZGYmhOR0FVZmFxV3NBKzFpQkkrWTdCcXZ4ZUVMWXVrRVd0MkZ1MHJjOHVLRzFrK2pFTGRWQmdFbitnbEkzV1FrOXhrelRoVExvRVJpWmhsMHF1UFBmNkFEeDFERmw5TWVKNXZKdU5rOEpxNTkzNmxGeTZVMW9MNDYwK1pNTHh2dG8wNXhOd0VFVUhKb1dWNlp4RFMxSm5yaTl3cDlaYkVsaFdRbDNWU2JUWHlvakxoVWtLU3dhZjVqNjJOY1lhUFdjTE1wdytPMzJkWGw1OU1YTHNXWUhmV09NWG1JekRNRHBjVCswPSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiczJSUXIzeUdUS0MrblwvcUJyakFhUmZXRzFvWUR4c2pZUFwvK3Z5ODFRWWU5ZFJtMVp5QzU3OHJFNkV1TWc3NjhZYklzVmpUYVwvdjhSQ0cxU1BocTBlQW9HZGxHNGlUbDJTTWR4ZEVaNW91cnlZY0U3T1ZsYTQwSjhwK2tucXhoWnZkREhPT3B1K255cVlYbzJNcU9RRU10QkFnSFV0RVdVTlNIMkpWY3RMYlhWd2YyaFJZaGR0RHFFdVlBZ2FjSWpkelFRNTkyanlPMkRucVh4R3ZaK210ZVArTkJpSDdEcHZnblJ2QUZIQWY5SFRTUnVjNzd6dEdBd01vdm85TWRpWjlRRXNQd1VDU1NkWXRSSnB5Mlwvcm44WWFwd0hVZ1UwbHdZOWEwRFpOQXllTkhvM1wvK21vN0pZMUNsTU1PRUxGMXNBaER4UE1DR1hoUnRmQ3BmTlVSYlwvN3FpVXRQcHNlTWtxbUNsTWpDNG1OMDhaVWlpMWplTkoyTUZCbnkydnNsSVN5bll2RUdkT2l0TkVjN0REUXMyVlFIaHlQU2UzQ1VlbnV6YytJYUU1ND0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiZjh2andPMnhMdlVtc0lhdkFUdVNMNmJUZ1d2YTFxVG0wUzY3VFFjZXdqXC9zTGJaRmlhQmNFaVRyNlFUNEN4TGw2bzI2NWxOTWxjZERIT29VZFRJZXdndG84TTg2a0ZnTUxWckFEdktcL09VVWlMcVRkSXk5Wk1aaUxnQkZjdkV6YlJmekZHZ2J1QlJEeUk4OThXQzdCZkJyekdCRE1jY1ZiOTh4RmM1TXZlVzdVTVZuQ29OcThYb2p5YW82Rnh1QzBvQlhQVDNaeEdXWVpwdnFMVE5VUGpYVEpiVEw5QUZ2R1NcLzg4d0Nva28ydWhaK3plaHJHZ083eGhwalR4TkhzT0k0Zm80clppdGxVc2ErNk9tUlVaUXdVb1FKRGdiVEZNdWREdkNkNFlneXB2OStcL0s0bUpnYjJ6MERcLytVNnBHMzJnYXlCWTE4Y2V4SFBhdFc3MVRUdWI4dXBTTFBQWldIWWN5Uzc1a1dTVEs0QTYxTnRhb2oxUE9CMEd1azZpaXNBT3A5aENtQlNWT3hrOHBvZVo0aFpMa3FGcjI5S2s3bjNTc0hIR01nTjBBPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/z-GGLAsyAmW8hUKCZsxTKPhXZmo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014096/88dd86.jpg" group-title="LIVE EVENT | TENNIS 🎾",16:00 WIB 13/04/26 Ignacio Buse vs Corentin Moutet - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026 [J1]
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiI4aGl3MjJ1TnZjWklYVlwvUTRqclJkR1lwV21OdDdrQWVrQ1gwQnhtZVFPTFllZXU4ZjBvcmltU0JKSzllXC9cL3VQNkRrWEtRVlpMUmNYTTBHYmJvbXhFUE9qd0Q1TE9pWXJNaWNFdFZOVzRCUWxaZjAyTmRFZVd3VFNSVFgyN3Fkc1c0NWpLSmVGN2FPZmx6ZGJ0WXcrVm5HWGhHUUhaeCtrblA5QklYSGQweHM3ZWtjREIyQ3RHK2VkR1YwTkJuTGFZNDk4VnpmK1ROUFA5VXI1THdTVEhLWGNUWlhsdllzNnhpbzdVVkhsRTg1eGVSeTlDMWpZQkZqVTJWQkdpR0F4NlhIOVZZXC81c05kZWVjdDhpUFFIeTBoVGNnSjg5dXNTWFwvQ0JncXBiV1grZzMrYitNR1FpVGlDTU5RdVM4MnVVVVg1ZFBwZFVGZ0NaZVhSYUE0aStvYnhzQWIzdDcxRVhUSTlOZkhcL2toUms9In0=
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJBN3Z4SE1aSGZcLyt2ZWtmZ1JxUHN0dWFCZ2lIelQwWE9LQzlpTE1PNVU2MVwvc01WOENwOWVkTThDTEVsYmZJb1dsYlQ4Q3VzQWk0MHE0RDRLNStJWVhnNmdIOUZQdDZQKzBzVHBRa0FJV0U1SU9WXC9iMWZRWVBHMGxnZ0FyczhQVm5tNHJNN1BWbmp3SVdlcTJDUTh1aWE2S1lMc0ptTDVkRFpHRkZoVTVEajhzZlJcL1ZCbTBxa3ZhR1ZzYW42STM0ZEc5eitPQzB5YlwvMEo5b1NjMWdBcjJtaWtHdFhMVDFYWGZuWDFJTlUyU1pubEhNWjllWGxaZnZFZHhcL0FqZFkzbktDNnlvcjVtTnI0VW9yQnprKzZlTWlnQ3ZwNEFuN3lvelpUNytVNTMxY2szUnE3UThqcld0WDVOK3daaEgydE9EMXkrSWMrK1lcLzJadlpQRWZ1VllCcDAwalwvYTJaSDVHZjFUbmpDK1NCbz0ifQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiZGp3dG9kU1R2RnB5ZjdzdXppVUhvb1Nzd3FHODBNbkdSRWprZ2tIYmF2Zk9jbUFhcDFnUFNmTE1xTUtvaUpqdzlVdHEreWFvMDAySDRsQU5mQVJDMGYyUnNSOXNJSjdtQ05IdkJYcUtGVnBpZFdFYTdvWnlVTTZ0clM1dWx1Mk9hZ3dZWWdPVHU4b0xYXC85ckhLOXJlOElKTmRZOHZ2NTliR0lvK01KWFN5Zm1kSGRpR1hCTEpZUkpRRU1BMFE5ZzJEcXcwOERjcWt4NytHSFJOeVgwYzdXY3pseGwwZ3VLVXkrOGpDOVd2YkZHbGw3SFd1djNLUjd5ZGJKTHU5Mnl1czdZSlFlc1FcL3U4djVzQ0lcL0pFdVdQQzR2ZSt6ck1XYkxhZ21kT1BTVzhXK3pDa1JYZ3ZlVGZIWFAxOWloTFFrSHR0MkhyaUZKQm9pM1pmK1RuVk1haVdkcXFra055d0RDUFZURWM4YWtkQzFlY2NYXC9vd0REa2lpSEo3XC85R0I4ZW9xWnJLQzFXQ1NPSFRQWVBBSmJ1NXl4eGxZUGxRa04rZm9HdkZHakdvPSJ9
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiNmh3SjkrRWQzZzhxOFpnKzR4bjV0MHJ4QlErdHV6TnVIenhkN3lNbVVcL0xrVEFPakFTT2pKWlJtV1FudktuSlc3Tndua1RkZmYwSk5hYVhHZUZMS3hKODk0enVrbzhRXC9mS3owU2dSS3Z2bFBicFJCZElqZG1qNnp4SHJ2OUEzb3NJZ0wwOVVISzBWZDhNN0RYSFBIRFg3Y0xGNTdrUzMwZzBXaEtpK3RiTmlnRTRQTFZCOEJTRTdaUUhUXC9OdzRSTUQ4U0dUak5sZUllQlVFQzZcL29wdVdVSlFLZ3pKQ2ZQeXZYRGkzWm1paGJiZDBrc2poQVUyclZ0SlBqYkNCUWdkUGh1XC9ndUQ0bElXNkNYSWI3YlZrdXdpZFBVZGtTTUYrOWhrRmN6aFFPdHRJeHRPUUFJd2l6XC9QdGZBbGVTbmhLRDZrQWxuSW5cL2FJdm5rbXhHVFZ4Nzk0OVI0WGhPN2RjdGc0ZXdXdzZ6Y3dneHBsbkVsVCtkRzE4clA4dTk2K0h5VkhoVUVaSndTbFpySVZmK3FHcHdJa2JDR2xDZHRhZmJHZE1YSVFxeUU9In0=
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F9dxxRTKcALsqFqgQbWkF9n7VJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014296/37d070.jpg" group-title="LIVE EVENT | TENNIS 🎾", 16:00 WIB Arthur Rinderknech vs Alex Michelsen - Round 1 | ATP 500: BMW Open 2026
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJMWUc0RkZReXh1bnQ2QVNjbzgweWg3aVwvNVVmcU1hQWdJdUZtdmdJMzVodE0xRUEyVWVpaFVhWGVJRG8yV2FNNnZFK1FUalNDaEkrQW4xaHB2d0xOczhLRkpSd3MwbkFtaHE2WGZOajdkWkZnRlZhT1VDUE1GVFpcL1JwVlEzekJod3hvMG9GcXlJXC80QzcrVzljdjlLTWZVNk1kMGZtQm5VOGprZnpPT0pYZnVXRmFrRmZ1T3VtOWVDOHR4VmlsY1hpY053Y0tXNkxGWGZaeWpRMzBFb0NBPT0ifQ==
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJaUFwvR0dcL0FzQ0pyZE12Tlk3NFpJaENBZDJvWG0rM3BoazlHWWlPajVnanJGWERBS21wNnNHYUhDbWxHZ1pqTFNXeEVLdytJZVhWSVoyODZSOHc4dEtQTUJNdUJQVHZMbVVHaVNHM2hqQUdWbHBIV1pnYUVMMUJ4SDdGelF1NnhabFRrTTFKVnJWSGxsVTFRWlZ6b2tvUWcrT0FTb2RUbnRLUTc1UmJ5eUx2OXBuMVwvNzkySHZzb3AxZTF4YlU5T0ZpTWt5dkFTdUZKSE1kRWpYV1FMVFwvZz09In0=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
 #EXTVLCOPT:network-caching=1000
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRzhrUzVLdFJCaUlhOTljRUF0Y2RMSHpOcWxnMzUrelhzNlh0RThDM0RIUW1JUHU5bDN0VEc3MlwvNnhrM25ZYUxZU0NqY080dEpZdUxGTytMbzIybVRHRmVrVUtxS2ZTb091amhFODFNNkxmSXZERHJoNzZsME5KYklMQXh2ZVY0VUxQS3BHSTIrKzdNQ2hpR0lvbHJLYlcrTG5oMVp5K3Vyb28wNEYraTJoM1hoSkxhZHFlb1FEM001dU5vbUZ5MG1sM2xHNk90bjNmYTVpcEdDNlBUanliOENuU0JEcXpjM09XcHFpbnM1WjZ4MnB3b3lpd0g1VmpYNEdYYmtuQmw0enRGdXVZcTY1ck1FMjA5eEljV0xRPT0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoic1JmMFhEbmJjaUUrREdYdldzd0dUM2tWZDFzc0ViNVB2SVdtNTlwN09GMWtcL1hZd1ZSa1lvTjdnRXlrMzlBZE1DSndCZ3JUR2FxVlZhaHJWYVwvb0ZJZnJXQ2FkVm11S2ZPNml3enJFaDBkKzZuVWRRZUxYQ1lCQjUwdTJ4VjNVQ2pyR0Z0OUFBWmVUeFNrdHV4am5PdHVxR2RLVzNHYlB1aEFcLzI0bXdcL3VzUlRwM3BxMXVNN3AwajlcL3RoSmlDS3FOZ2lNXC94R1h5QXB3dHdwTFJJeDdVS1J2VCs2TG5CUVNkK1NxN0pCRGc4ZytHdHdjOVpFTGNaYmdXV2NHVkxJTm5RenVCM3VrSTR1Z0ZkZWIzbzh3VUE9PSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F9dxxRTKcALsqFqgQbWkF9n7VJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014296/37d070.jpg" group-title="LIVE EVENT | TENNIS 🎾", 16:00 WIB Arthur Rinderknech vs Alex Michelsen - Round 1 | ATP 500: BMW Open 2026 (CADANGAN)
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiIzMW5jZjY4ZGR2VjVTSnpzcUozak82WWxQY3Z3SE1iOGxSK1QxOEk4eWx0OCt0M2IyS1BPdGFTV1pFNG8xQTh5SzlROVZOanhXK3dhS3B3aFlLNTJLOW5nanpuZ1ZCVTNvamRZamwrM2dIOGgrSnZ4aUlVYTNWaUMwN1daWlQzNDYwaU1rUFoxMVJmeEJ0SkQ2K2dnTlhRRnNVakRHYVlmUGJpUXlXMTZPK0k9In0=
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJKcHZ6bzNGS3JwZ3JHWFFVVXZNWnpaNFU5eTF0M0FLMUg4UHVLejNrc25wYWFjb0dYM0R3XC9GNTJtOW1JZ2VCZWd5bnhXZ01ueWJpdUZMb1VWcnNybmFsWU4wNUliVURPWlVnbWFnNDdjbTN2cFByeVhSUWJqZWFZaG45SWtuT3lmcGJYeU5kR1k3XC9xbUl2S1liY3JFRjNBVmh3VENSVWR5YURuQWx3aU1XYz0ifQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
 #EXTVLCOPT:network-caching=1000
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiSUZXeEhBR05SNXk4eVFvdDNFZ1dsYWcwQzNUVUVvREJZa21KTVwveE1aVEdaZnhybW0yWmx2VE1xbWpQNlhSbEloeWdCaUtTNDk3MlpaVlwvU2ExY0o0WDBuU3dudGxvNWZHVHdhdG9LVjU1b1RsSURSZW9yeWowd3hFY2ZPM2U2ejRHZ1VIZHB0TUl1WFlSMzNUT0dGdjRYN3gwbVpKQktNV1ZRM0VKT1hHMzc0WTkxaXZsNkJMNk9sSVwvUlo1NTFiUERlOEF5MXlMQ044bjdqV3JtRllmdDFOS28yRmlacTRnY3hQQ2NEQmQ3Zz0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiWU9ObTVHWGlnY2xDT3hFMENtQVdQWUVPdVg2ZzY2RzdXejVGUVZQQ2VOYWp1NzJ4a3VLNEFGbWk5MTVVZ3V5d1Q1NlQ1WTBEMVZEdUdHYmZLeHhRUHNuXC9DXC9maGpDQ1MrSnRYTkx2THdaNDJ3cE1SblpiT2lJdm94Y0xCNncrdU1MU3FrNHlpTklXMGZMT041Tm11SmhCamZLQnpEaXBpWm1pV0J5ZzNnM1ZZM1g2ZkZDTHFCRXVlalJtbTgxTnVKdTV3TXRXTjVtYnNzUW15bUUxWEt3blBQZmcrSzBWNWpVUjJXK3h5MlM4PSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nIBpAO0AMh2a_VUyyJ32DIrJ5zs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014305/59f3ab.jpg" group-title="LIVE EVENT | TENNIS 🎾", 16:00 WIB Botic van de Zandschulp vs Marc-Andre Huesler - Round 1 (Court 1) | ATP 500: BMW Open 2026
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJZQzVGMGd5UHpsd24rbWtQMHc5V3pKK1V6MmZEa21BQTlIUjVBalkxZGhRcWswdGhZSUxuenlmVnBYZ1krTlpRZE5UZWJDV0VyT3ZKazB5ZmsxZnV0eUxKeEpmMU9iUWJ2OURCcGRTa0x2OW5BN1I5dThUSDRrZXkxXC9lanhQY2tzTFwvRmdFalQrMWtxOHhQa0NkR2RsK216SDFWb0xhakwybnhLT2NrMnp6SFlROU91dDJYd2pRV2dcL29LYXJWNitiSXV3Z1wvWUZEK0NRT2FTblhYTXBOdz09In0=
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJncUNzQmkrUlRHcHpucUcyRExTaTFWUXV1XC9PMU1KUGQ0K01IREFYRjIrNFZxNVFLWUtSbzlDd0g1cEo2ZlkxUmpIQjZwRlo2TTVCV21tcEd4NFR4YjJXQ1BMWEZhSTZkb29PK0JZUUhqTUpRMjFiU0tDK1NNT2Y4a1pIOG1HYUFGeEFEaTlKSzdSYmdpV1VpbjIxVUw4eHI1RzlZK1hxajY4clBXK2FWVkdHSUR3dWFwT08yOURTcTBrb3g1NXhSMXdsaTFYeDlqd0hCcHJDbkhGbERwUT09In0=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
 #EXTVLCOPT:network-caching=1000
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoidmg1ZGRyaWkzZWZPOUZrOFJRUHRodmFQb1wvWDdDQUlqZFFCYzdIckpGaDhlSmhpNVpTY2V2eEZ6SVFOUjZjZlwvN3k2eit0NDZxVU5CajFhU1lhQzc4T2xWSktHQ1JJUjVqZTE5czhybDdQQjU3ODVxMUZ1cXNlRE1ic25ITTVBWEVXcWtKTUs0ODdSc0RYNG95NzF2TWNQR1YwbmR6TTdQWDhiR1FMQ3JFaFFibUxxUmFvVDRDdURJQ01EVmFRMk1SRldUOFQzUEd4MHJXWVQ1THR1cmZOUnZlNncraGZDemFMek9EYzNoOWVsZTNmK3pOVjBXVU1rdGYzWUJwWGhsTVVMenpLMk9mUGV0M01RXC9IQ2pEeHc9PSJ9
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiXC9KbGYzWmJEK2F4Q1ZNcjdtREljSUIyRWJUVEFqSVQxWDhRN3R5TnAyS0hCRFwvbXlJQXFSc054OUhxQ1wvMkFjeHNZZlJndlcxN09PRXQ3WWVCWEFMQm1BcjlWRk9reExDc1VYRFBMTER5dUd3ODZyUHR0NGNacGp0MUNhWDA1ejBoQ2k2eUcyY2Y4ZjdseVlUdVZuUHdPZkxwdXBhOThXRGp1dmZzNzcrXC9mZUZvU041QkZMdTA2Y1wvejRla0hRRXJOa3YyTWowcUFYcHBtUXE1M0hZQXBQWlNtOHNJMkV3Mk1VUmJwZ3hvdXNaU2Q5TjE0TTBocVVDSDZUazhuOVFSRzJFTkNZNzlsdWxTQ2pKZmNnbFpUQT09In0=
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nIBpAO0AMh2a_VUyyJ32DIrJ5zs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014305/59f3ab.jpg" group-title="LIVE EVENT | TENNIS 🎾", 16:00 WIB Botic van de Zandschulp vs Marc-Andre Huesler - Round 1 (Court 1) | ATP 500: BMW Open 2026 (CADANGAN)
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ6bUR3bFpNXC9KenR1ZlNPcFwveTh4SGlcL3kzR0MxZjFHMHhvRkxVWmZHQmgyYWZ0RUVhRUEwcmE5bUx4ZEF3YkJmeWhERW42aWFGVlk0bktFSE5yaDJHSVBadThDR1BuVHhCQmZlMmR5ZU5qVFBKb2l5eE1FS1RYRzFNZm1OWnF1eDUzMmxFSE11bDFDM0F4ZlN2MGFGT3M4RnlBNGhxeVdPVDJDSVhKN0huSGc9In0=
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJNOUcwYVJ0czZxVHpIbTBSZ2lTeHdPRnVWTHdiZ2pieXJjVHJHZUJSK2VmOTRvWTFPY0JKNzZ6ODgzRSt0cUZWYVo2UGV5WGVVVVVHTERTWWdPY0ZLY2FtWXU4SmZ3dWlTckF6UkkxK3RHb2Ztdmp1Y2VkaVV3aVNJOVcwT3pIZ05sdFwvYlZLYVYzR0FKalYyeDlRQk1aR1M3bzB0dFBna1htYVhpXC9INnduND0ifQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
 #EXTVLCOPT:network-caching=1000
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoib1VyMEdSZnM1UDA2WVc1NjJiVEMzVHRCQkhyY21XM2wyYUxkYW13a1wvSVBuM3luXC9OM0xkU24raFN2ZHg4dDRGajF6OERsS1N6Vjl2R3poYkVVSzRcL1JwRHVsOFN5bnUxaENXU2lZMndcL2pEMENGaVNiWW8wUW81ODl0QmQ0WDRJNFptYnRVZFlHWWhUdzc3U0kwXC82M3dpZ1NkXC9tUDRlVlhtOU5aQ0J6WTBPV3BWNnpRcW1jQWtBS003VUJ4ODBrNTA2RlV6cDhib0tRS3hTWEl2MHFrNVEwOFNJUTZcL3JCRnZ0bDZkNVhMWUk9In0=
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVVRhUlF2WWdzb0dIYWVaK21MdisxK2VcL2RSbXBLc1lOZ0lIcU56dFVCb2dvY2tyTGNpc2E2dUsrVVB3ZXZyK2VCVnZnZFNmemxKcWJycEZjRkg5bGZDTXFJeExtc3NHaTQrdURjRFFYa2FpUmxtbjc2Qzk0ck1HTTJlN3o5bk1LbEdZSERZeFZJV21hRzUrbUxMZmo1dkVxaUhHZGZtVVwvbm93R1cydmlrakRxd3ltSWNkd2tDN3VlMXRsNTJMRWhGMHBDRFRcL2FaSHFjdEpLSXFnR0l3NUtOWGVjem1uSFh1VzRLUmlHc0xhcz0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/z-GGLAsyAmW8hUKCZsxTKPhXZmo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014096/88dd86.jpg" group-title="LIVE EVENT | TENNIS 🎾", 16:00 WIB Ignacio Buse vs Corentin Moutet - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJHcXF0YklQYUtXbXpIa2RabFlPcmhxUytrQ1poMTljTGE3UGpoUXQ3T0tJWkkxVHcwa0k3anhJZGJBcmJMT0xnemRocGJvSHRReWhBWEJuSEQwdXB5Tzdna3M0bW9mVURLUmJIY0o2cXdnRjR2b1wvelNsM2xZZm9NRXNcL1VqdUR3VWtzbFwvSTdQS2d0UTFVVmJINDZFWXhmWllVaktUOXBwTVwvSXdVODFDdGlQVHNBM0RndmNjNDZLbGxPTzZcLzljcGF3aHRjcWY2U1wvSW1JQ0NtNm9Xa1lBPT0ifQ==
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ0bG9KZFM0cTZqTEdyMFNZaXBKM3ZIVXVDWm1mVVBhbnR2VnVVQytCQnQ1d1JuNnFaRmN2M1l3TW9Kd3loSWhQamQrTjFPOXR6N3lBbW9HMGxlSlk1cENEclBsY0V4d0E3cm5ETVVIV25WRTBFbkNmb3dtU1lCY1FcLzlVZlliNll4c2hhMERQZEdNOTZHOXhEalpFOEVmb0sxcFZHR05mT2pPa09CSW5aUzBKXC9hMWNZKzMwZ0Zlajd3VVBZcEpDd0l1M2tpWlJzSGl6OHdcL3A5ZTljXC9cL3c9PSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
 #EXTVLCOPT:network-caching=1000
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiUWdBRnpRNFBtWmxaOFltalNxNk5MdElyRjBHRWx1dmJnQ2gwK1J1dEpuRloydU1aMm84K2NYOThYVSthSTI3M1lZMXROcGZwam51ZEwxK0VtYSt2UVN1aUxVajhQUHlHbmlJNzh3cWtzVmxERjdkd2tjNGdRMURpRVRXbnJaVjJ6eE1Jc0haeHgwYXJ6Znl3QmZYR3dSS1wvVkpKMjVheFwvUlYzcVpRNFlHRVBabUgrTXAzZTZ6SVArNWxCSkljWGVjYXdZQnVWWEE3b0VKVENJcEVhNEpacHZoRG0yTTRlME1KSE9RQmhZSldsYldmTGJQdGkrTHZEdUd5VDNvXC9zUUw1MWcyREJZaUo1MFwvN0Q2aUhpb1FnPT0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiYUMwM3VzaTNhSmZialwvelwvd3FPenRZOEp3dGFJNlZhcjRZRU9ncFdpbncwRG9tTm1VKzhQd1NUYkVYRDlFckZ4Snh1enVZVk5WZ0NUelMyTmJsVVF0cGRvdzBsVHNlNkJZRFA3Q2dGa25cL0NtMGg3ZDNTRnU0b2ZobmxhUllhdEZmelNKOTFJcCtJbVpJNHB5MzBROHQxTFMrbW8wRUJXaXJXMlpNUUlTTzFwUnpvUVVYd25HZEFkQ3FoVVk5akJiR1hSOHFSR2YrR1dhaUhXZkxnUlBBdGxwOFo4S1F5MDU1Zk1vWHpyVVMrWnlqVCsxWmpkR1BRZ0FlcThpMGp3WFh0ZjlaMHFwUFUwWGhhenI4OXd6VHc9PSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/z-GGLAsyAmW8hUKCZsxTKPhXZmo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014096/88dd86.jpg" group-title="LIVE EVENT | TENNIS 🎾", 16:00 WIB Ignacio Buse vs Corentin Moutet - Round 1 | ATP 500: Barcelona Open Banc Sabadell 2026 (CADANGAN)
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJjZVUxdko3V2hZU24rODExcVpISjl3Ymw1SmdRTHRFQ2dmVUVUUUIxY2xvUE93YmswUWFkXC85a3B6MFU2OEh2OTZXV0djcVRvcThxY1JLRzBcL25zTmw1UjQxYklUTndKMjNVMWFXd2dYN25FVTZ2YlwvdVF3S2JoMFVheDNybjB4YVlMWXJrdEN4dW5vWkV0aEYxNWFCTDE3SU16RUtmd251S2NIM2hEMWtMYTg9In0=
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJnSDB1S1VhZlFPZEVXcXlvU1wvTXgwZXRhbHBqYkJvV080alB6VFZLdUFHanREUHJWcFJYZWRNcmlHclVlUW1ZejRHaWw1Y2dTRFRxQnl5SnBtWjVYK1B0NlU5enU1cjBEZ0RjdE5CUTRyOVRpWGkwTGY1OW55QW1QaDZheUJMVjFIK1cycDJUZ29xSWdmMUoxakxsQUlDcjlcL2x4aEtpSldPTFRnV0xUZnlKQT0ifQ==
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
 #EXTVLCOPT:network-caching=1000
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiZjdGeHdES1dwYm0xTDkrcGVrV2tHMDZhcFZUYVNLbDJmWkdDVTNteUozazV0SGQzR0JXS2U4N2JITTBuVUdzUXczRFVnK1BSUjZveUlDdkd0SHRIOXR1R3VhK1FkS0E5akFLMmphcGhITFE5MGNHTnFrZ2lWSWdrT1R4N05TZmZmRnRBRTJGa3o5Zzc2SURtdjdBenBaMklWRFZBODl6XC8rQ0xUYUxvRU9cL2tOYTlPNHE4K2FWS2JRb2xsaDVhWU1wbHlqYUFVOENxYldjRnFoRUVwMUQzcVlxNHNodWNHeUVWT2lcL1hzS2dWbz0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoidmI4THBrMldhY0FIdjhlaFMyWW0yQ0s4bUJ3d3FjUTJyTFk4NVh3eHpPXC9tMzhpanVnYnhZcjJoTjh4TkdQSU9lS0NqdEtJYTBiakZGVjV4eXZ2dnhUV2duN2ttZTdtN093clwveUJYN0twRERmVDJuSmVpaUFuaWpzN0lMV3ZocmEzSEd1a3VOVzFnbHpPS1JVMklpd0VtbUxtajM2aVRJVWVSMGo1MWtUUldsM0VjdWdhMEJcL0JhNGhLWnhpZGRvdEJBYlNtSEFOVVdPMmFUUXhCejRlY1NHTXhlaUJuYnVLSjhJSXdlcUdZND0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kK2e9X-B3i9A3Ndojy9KH6bJ2Rk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013092/77b5ca.jpg" group-title="LIVE EVENT NOW | VOLI", 19:55 WIB Fenerbahce Medicana vs Bursa BBSK - Turkish Men's Volleyball League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiOFBFSjBkcFM5KzBqajBOc0NyXC8reWtEdDRtdTN5UFFqQ0NjYkRyb3Z2NUN1eUk4dktTOU0zeXI2NDdNQVpJYlE4MWNSemZDemZTaXB0VTBhRVVCUFk4dHpKeEpESFhaT3lDNnJYQm9hakp6YWxWVGR4aVgxQ1pUYTdhaFYwUGVoYzBVQjNTQ1pSZzVRZU5zVjNnenNpTmhodlB2Ym9TXC9NajlvU3VCVml1dUk4UzFUXC9jQ290Z2Z3N2p1cFVXR1E1a1ZIa2l2bjRRS0s4aU1NK0Zya1JKXC9EM2dZdnNFYjJ3dENlRTZSRHpsbEU9In0=
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiOXNBR055VHd5THJqT1YzaGFVNDF5d1JNUUxYcU5SY3RUMkk2U0JuQTRENlBpQW53SWJpYTdEYVNNRE4rQWVYelVkdjgyc2VIWUJ3S3NJaTl3VENtUElPNUZhQUp2ejhGc2tBSURsMXQ3VDVodkEwaXpGcFhqNkxqeTloNUJ1c1k5ZTlOVXFsNGZcL3gxQ1pKODVUanVmWW5oY0V3TXpRNlQrR0JnVkl1c1JjZjVZTTVFTnFrbmR0SGxnT0czMTc5OVFsUGlQXC81YmhGS0RYbDMrRFJrdUkwS2hnemZ4N1wvTFNiMlpaQ3VJQVBoST0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qqJh4f7u4dECQslFsHPpI3m5wdk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013093/4c4e54.jpg" group-title="LIVE EVENT NOW | VOLI", 22:55 WIB Final - Game 3: Vakifbank vs Fenerbahce Medicana - Turkish Women's Volleyball League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiS2U2MVVGNWtxTmhzQ2tWRWtWaERFWjdmSWN2Q2MraVJyZXUrZHBcL3pGREt3U3h1YUdTVFhuOUtmY3Z4Q3FFdCtLSHhlVGpvejd6TEdjZktWMVhROTZnU2FqMTBZRko2T1hCQjB3Z2FQeFlIMUtZcHFVMkdyRWQ4YXlPTnU2Z1I5VzY0OUxNN1wvSjk2Wmw5aHdkaVdHUVwvbm5vMFNDaktTYXFMN3hQMmtyaEd5aXdIWmdpbGtHTGtXS2R2Smw2SlM5VWJIeXVUd3VKaFdINVpOYW1wT1IwcUdVeUc4TThrMXl6eTlpWlU4dUViRT0ifQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nLwMNk96vRC6pR5Cumci9GMBcH8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013094/afae66.jpg" group-title="LIVE EVENT NOW | VOLI", 23:00 WIB Istanbul Genclik Spor vs Altekma - Turkish Men's Volleyball League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiakEzZGkzRDVHM3g2ZkFBK2dSMzZYYUt4eXd4MlVJaktIREwxZ3hLZ1JncXcxZW0yXC91cll0XC9XdmdJNnBORzE2XC94XC9zSEhJUmtKbjJQWDltNXoyQTIyY1pcLytCZWxSMlBNYVJcLzc0WVJWZmVJenlWYjFcL0IzOEgyTkdHNWpKbUR5UWtVY0g5K0lrSHNmU0xzaStuRFhzXC9JOFFWMktuOW9tVTFPWFJpMFoyTXV1NWR0QllYQWVaTVBzakU1Q0hhd3Jac0xsWmVSK1c3ZCtYejJVV01BNFduYVZ5MmlCQ1QrUXRxamhacUtSTjFFPSJ9
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiTzllN0Nub244anZCblBTT21mRHNsQmFXVDFtZDFBejAyVWUyTGw4NU1EVUVFRzZ0a0QrZm1KNURhaHJTdXhISThKMnBySldmUDhmUkdpMVlkXC9Zc1JFUHpOWFpKZUhsMks1K1wveFNvT0JycGF2QzQ4dkk1aUFwdTlRTFwvXC9MUUV4UTQ4V1M0czZEV0xDRDhxTlVmYm8rU1M1TG9XcG1YaUZSanRkZ3FQNkR4VTdsdXJhQk5jK3E3TVwvdjh6WHRPa1FTODNoNGE1SDVKTUdNYU9RcEpYYUdEZjBhc1VqUGxOazAzME9rOFZkdG9nPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KABg0Eg694eSZlbCvXUebvkhcCE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013489/069825.jpg" group-title="LIGA ITALIA", 01:45 WIB Fiorentina vs Lazio - Serie A
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVm00eWRuMlwva2RnRlR0Q3pYQWVsdEFJcEM4ZUNmTCtBeGFSQ1dzOE1iZGVnR0F3aHlDSlwvXC9HU3krMFZLb3ZGa1dCa254djhERFVUSHdIRXZGc3REenhKQ3Q2UEwrU1ZTZzl4V2p1b0V5bDB0b1ZKMzZNY0ZYeUhERWVRN2ljQ01KNldKTEhsY2Q2T3pmXC9wcjRaQ0R0RndNNzVteWkxWmlwMzRnWUFJZ0tqMXhVZld1YWJZSXEzWG53Z1E5SW0zUWtUeld5KyszOXpTUloyM1YzY0JsdlYrMzVNV3U5ejM3andKQlFkZGduQjA9In0=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IhwYExGY8EhfQ8qCAcyrDb2GhfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013051/e17da2.jpg" group-title="LIGA SPANYOL", 02:00 WIB Levante vs Getafe - LaLiga
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiVUk2RzI1dlFQbmVFa3JxR043NnVkM29lMzJXZVEzWnBZVjZobzYwdmRwRktjSWc5cUMrXC9tRG43UTBheHJ5dFwvbExiUWdIMWF3QnJ6S1F3WDFvb0RveXpiUkh2Y2tiZFdERWpOMjdraWdFXC9OYTRyMzRyWG5MQkdJcmVGdjFDUGRLSUNcL2VGM1wvdTVQRXJta1dFS29WUEw1eHlqZCs0S2U2Q3RDQUVjVTVtMFJaQW9QakFRaUo0MnM3Y2I5V1NEdVRnVmNFaWM0UFV2RmtGcStiYVNRWlJpQWFxblwvOWw3eGtTVVwvUERKYUNaNGs9In0=
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiaGd6dnRcL3dVZlAzcllyN2pEemJHSXJqVjVreUhsNEs1RUV0dDFDWGlDbjNKTENoR1BHQ1hcL3FUU3VCc0hwT2hCZ0JZT2tGV2pJaVp1c0wzUlVUTHlSM2NOSmVuK1c0WktzdEVUMzRpdk1YcjZHNGc3YU5EMjhuU1hjMHRrSWEzdXRVb1lMWHVMTVwva2NOYkRKcGdzTWxoSHpHNUZ5RXArS3RRNTd0dVFxRCtCaFdIa3BHMUc2MytqWlIzQVBKYTBIN2w3eUNVV3NTRDNVcERGbUxXYk1XanJHcE81aER0YnFjdVpZUXNkSXRLRT0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MohPpEFoZErMH54X33jH_aU3gF0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013052/02c381.jpg" group-title="LIGA INGGRIS", 02:00 WIB Man United vs Leeds United - Premier League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiQ1Njb0JYOEp5ZXVQSTl3Y25TOWdxemN6VXJYRzlTZ3JiR1M3R1MrU1RidmxYZDJ1cUJJTGpBWVVZNUVhZjJyWHU1SzRWTTZOQ09LSVpqUjlGc2ZmNkJkMWR3S3NVWFZQQW5PdDREckdJdDBkZkVhdjJPeXo2M2dHNnJVc01EZFM2Q08yYW5JZmNmZFROTCtNQndKY2k3QWJDR21HaUxMRlwvdVowMm5ubDJYSXJVTFpKa3R2N0VWNHpWdlVuSGxxcGtLUEFxdEpEa0Q2anJWaWowcVhqZllOK0NqXC9iKzBrUzVHa1A2S28xdDk4PSJ9
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiSWRlK0FhTnlKMVR2Tys3V0w5Tjc3ZDBRVXlPUENna1EzQW5TXC80QlwvWXdYS1YrWXFQV21WZWtWbUtsRGhNNVRGam1DUWdWV0lxSGpTRjJmZ1wvYUl4czF1dWRoclZiNzBUU3ExOXlDRFFRd2JkOFwvNUpHaTVUck03S29lTzB1XC9qN3RzRDE3R0dcLzBza1M1QmNiUFZCSzh6bGZ1SmJCNU1CWTNEbzNyMFlcLzM3Q3ZNSmQ1dStoU1VsT2t1ZzFaRUxyT0JkZzRCTHgyTEdnVWdla3AwWkplNFN0V1k0dFZqSWhQY29kNDJIMVF2TkU9In0=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IhwYExGY8EhfQ8qCAcyrDb2GhfY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013051/e17da2.jpg" group-title="LIGA SPANYOL", 02:00 WIB Levante vs Getafe - LaLiga
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiaVhDWVpObVpzT2lLcXRMVDdBVFVzMEJRVHErWkdZOEVmKzg3cTBya01WbkZwRWJaVGRyMWhpVno0b3hRN2hwWWJnZGdrcjF3Z1UwTVwvUG5CZ2FBOWtyNVpJR1I5TFlwTWVmTXRjaVRGOHlKdXpcL1wvUHVxMFJHMmtBQm5VYkNOdlh2Z1wvWENYNG9TckZjRjU0ZTV3ZXFsSUZRODNmbXRxS3YrVlB2dHMyMzVnaExPS3lYRlhzWHlmc0VQZnlxUzZnTFBxcFZYTm5SV1ZFV2U0bDFxVDE2OTJiN3J3SFwvZSszYUR1WU9TK3hUMXBnPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZlLxHa23MCCG_G_b_5c6zPdDqqQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014087/51e2a5.jpg" group-title="LIVE EVENT | TENNIS 🎾", 22:00 WIB Day 1 - WTA 500: Porsche Tennis Grand Prix 2026
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/T9Zdd2228jSBvO1iq8XfJsffJDA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013491/5d2f4d.jpg" group-title="LIGA CHAMPION🏆", 01:20 WIB Liverpool vs PSG - UEFA Champions League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiYU1raFIzek9Da0FlRGtUWVh1NXE2VldWRmJCU1wvYnh1M1dCVVVSc0wySlwvbFpoV3ZZK0JFT3Q2UTQ5ZEFDUCt2VmMxSVwvZHFWTnlqT1lNTmdld3h2bzREMzlmWkMyVWNBdDNKVjRNTHh1VFJ2QzZsdGRDME9WQ2d3WmhiUkVGOFJxWW4xdndjdGI1QkVxSzBKVUdqQm1MUmdCWmx5Y2YyOTVTVlRkMjVuWjgrSU9JVWdET2VSR3ZFVkxPazVGUXZTbjlmcFZ1WXViOVc3RW1VVHlxXC9MOWwxcHBLSndWSUF0SlJ0S3hOMzZSeEk9In0=
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoic0hzYjFYUWVPMjNDWXQ5U3JGcTFVSU9FSUhCWGswT1ZvR3RoRWpkS05Lamk2QTlEOGVES3JRM09KVVBWNGNtM1JNVzRaNzhMMkQ0Zm1SMm9VUVJXaTRGQVVkbmhPb2pEVXNQbEo1Qlo1WlM4ejQ5SVFZVGZsWHJsamhmR1l2MGUxZGFpY3V6RWRPVW5FcFpzaklETk5rWnZxVW44K2cwNjNxU0dcL3VSczVPc01BUXEwNnFQcXYwVVBzV0RobitoUVRBd29qR2VIK0ZBd012SzN2QXlxMEo3bDVkd3pmem8yUUFsNFd2XC9UR0pZPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OiLY1R5ldTR4P3lQplxuS6dlPfk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014091/23f0a1.jpg" group-title="LIGA CHAMPION🏆", 02:00 WIB Atletico Madrid vs Barcelona - UEFA Champions League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiWitueXRtSjZ1SHlUbUgyYjJSXC9LMXFnOVg4K2k2NFpaUWNyOTZWMllpV0ZTZVl1eHNNOUVUMWV4b0pjQ1Rta2lmUEw4SE1KK0x3TVloOFNqZG56Q1lwd1FJN1lOT05cLzlvbm5LeTVQOTVSVExPVUErdVFpXC92NDlpZWdoVUhFZWNMMUpKVTVvaVBVdVpcL3JuWER4dmpVc2hiWkVjWkErQ3Jvek9aOGJRN0NxYkZicURaNDJ6MmEyWHc0bHBqejFqNjUyalFvU3FXY2VDdzF3RGdKZFdxNjJqaEhIc2ZXdXVmSlRUb01WVmlDQm89In0=
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoieFV5RVFmYWY5R1M2YjJseDVkUXRIMmpOWEpVR21BQU9QZUhKdisrM0ViY2lsZTdtSjloVms0eTZGWFdaSzNscExNZWxoSlJiYXBHM2pYRE9lblQ4QVNJbHA2aTU0XC84RzNhUStvc2libG1jMjRSQldUbHFUbHhLdnJ2bTAweHlXbGVUTXp4TVBIOEdQbFZjZTRCSTl3RzVJcnJucFpNNUJId2lZajJLMG8xeURKM0RVZm8zTko5aWF1XC9nUnlTQnFpVWc3U21hT1FsT1FPM05Pd3NHMGdnQXFnVDdcLzROTXhVeEZkQWNrbnRHMD0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lZbAUfxzxtQx804a85YInoghnWU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014088/205673.jpg" group-title="LIVE EVENT | TENNIS 🎾", 17:30 WIB Day 2 - WTA 500: Porsche Tennis Grand Prix 2026
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiSmIzXC9ObkJZTlB2UkkxYjlnbEdiSks0dm5rcnBWS0VwXC91QldjXC9oZmdKYW1IcE5MUlZsZ2NqWDlMNjFNekdVeW4zd04yb3NuN2srMVZ6Z21jeFVXWEVMY3lTTzkxWHlCZXErR3JqSEkrbmVoOW1OM1NKUml0bzlFZ3NmeXlGQ1FlQUZKV2ptZG9mK2M5ZzJsNTBFNFZ6SHpIOVd3QStscnRPc3B1bzBWZ2RvQlwvZFdYeTFQdkNwbmwrMkI2ZUwrYVZpbHpValQrS3MwVHE2SUs3WGtIZlFEYVZyU0ZQRFwvXC9yVFdSUWZLcHBTVT0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hPPLbZziJ7sFxFAsN0dlLz8Gw24=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014089/148b2b.jpg" group-title="LIVE EVENT | TENNIS 🎾", 22:00 WIB Day 2 - WTA 500: Porsche Tennis Grand Prix 2026
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/miIBZPwticRGOPIabSwH78IDVJw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014310/f4126d.jpg" group-title="LIVE EVENT NOW | VOLI", 23:00 WIB Galatasaray HDI Sigorta vs Halkbank - Turkish Men's Volleyball League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiUjNHXC9IMVArYXd6eW1cL2Y2OXJ6dmtjYk1QR2haenZhWnNHeFZ0OEpDanVyNjFlVitcLzJ1OGtcL2ZYQXI3dHYwdys1Z3d2YkRqVmtoNGROY3hxeDZRTGNSenpuT1lnNkIyWFFBWmFpYXRXaGMzbkRSWXZPWm5EeVNiT0ZlN3Z1ZTRTdnNCZVkxMWdZOUNYNFgzdWtpMFp3Z3hBdmt5ZnZWV1U3bk1tS1FYZzBcL2VUNm1mUmFjdmdTOW1INU16U2hRc0xUUUV6c0lYU3RvT2NkdlJ3ZXdHbzlkNFVYY1pMQW4yQksrSVlUOUtwdHU4PSJ9
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoieWgrbDFmQitLUzZCSUxCRlwvZ2pjOWVhOHl2V2Jra2NnZnM4ZU9aSTUzSnlCK1V6QWZhaXpnNjZycjJ2RU93ZHlvM2x6ejkyUHhvVWlxODRSVVB4dWhENTJ6N2I1ZkpcL2kxNzQ4eXIrTE5PTlV1ZHR3UTRqZ1J4WEpMaW5lOVJzT3o1ZnNBc1BuVDF1ZHF5RlwvSDF3TGp6a2JTVHloMWkzaEE2TEl4S3M0Z0xZVkNPWWpIWHhIYk1Nc2JoWnNxenlWSnNMNnBSOHIzMGM3NEpKSlZDRzhqVWZJV21PWGM3dTVpOHByc2FCcER2MD0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GPTR4fTEj0oVs8dRIkTrg2Ho_J8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014311/4ed817.jpg" group-title="LIGA CHAMPION🏆", 02:00 WIB Arsenal vs Sporting - UEFA Champions League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiSTVXV1lqdlRJMG1YT0h2NFQxOUZlbVFoeUhvTHI0T2xDWTZJREdQSDhsSlYxZzhwaGorUDJXXC9UYlBYUnFJQ0prOEFxQ1NUMm9OVFZlOThRQ2J1ZnJPWUpOSnYzME9WVHlYMWtJOHdkMjdtc2twT2xWSllnSzdBeG9aaXhieUpaOUVvM0RFaHRkV1JoZzlqWE1CbDRKdWFKNGNvVXgzb21iQmtaSTJFQVg0SU5vTGlxblY4R3g2QjkzQ3dMNmo5VzBvZEc3WnJpOUtES3p1SmJiMWQ4bHgxWnlFUHRGT1Q0YTBiUmRzblgzdms9In0=
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiUUNIWVJRYVBqV2pZWXZMK25Gem9HT1BSOTZLWDVnYllDN1IwV0RVd2h4OUNRcEloNnZVajVcLzhYUnlNSXEwdUhVV2NLdUxNTHhpaFVQd1g5dW96S3BYZVR0ek1jKzNrbUVnMFc0eHNvcVZ3dGhKM0M0Z2xveWllVkUwWVZOaXlXTXlJcGlJWXUrS0R4OGo5YVBqbUJZa0ZHZzhDaUlCdHZWeDh1XC9uTHRQMFJ5S0labkJCXC9BZEJTblwvTUdxdk9cL2pJQlJuc3NlMkFQdk4wblZPMEhMczdUdmh6SDhmUlZxZXFYSmlFWGlsOU0wPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Tr-0YUQGTYZEmx9U4oVN7oxcgj8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014312/e8ab2f.jpg" group-title="LIGA CHAMPION🏆", 02:00 WIB Bayern vs Real Madrid - UEFA Champions League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiQWtqWklhUVpkZEs3SnduZFhEZkpkUXp5aGZDSWFySUJ3Uzl6ZVBIZjJcL3VCNk03UTNidmdpemo3eituVHM5a29DMXBLN0FlOU9TUkcwcld1WmM4dWM4MjdFWVQ0XC81T2ZaNnVlakZUcDVBSnNVeDFwMSs5a3E1RmV6XC9Oblc0bHlUTWZ2N3lRSys0QlwvbGdkajNPVHM2a2I2cG5BVUx6SVI0MmdMUjdcL3lmUVdCVEM5WTF0Y1NXYjFrcjVaWnNWak0yOG5MeTFLdmVuNmtEVFVBQlNOTTFFcU9RTlVGYXlGd0lYcFwvRlY3RUxrdz0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoia3lYcm50WVpJUEFQVVBiRUMzanR2SmNpWWxzVUY1T3R2ZDJHd3FYVlgxSWdMV3NvVUhcL1lqWGgrOXlBME9FUldcL2JvcjdsaEU0OHhqMGswNERuS0JRTmdmMVlma0VJYWZiQU42T0JOTFI5Z1U5YzBsSDI1aGJHTEJHTlFiYis5K3I4Y0tEQ3hFMmhFdHUzQ0RUbXdXZFY0K3NOeHcydTFiNFVVSm5Dc3VncWVWdGpzT2thaUZUM0FCRjdzcEdLcXNTdmUzcXRReVBTV1RZVnlnWmh3UmxtenZldTlnZUU3Rmw0MEFSbjJLTU1BPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2hEdweVku921OvjJccM114qY-xg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014337/cb52d4.jpg" group-title="LIVE EVENT | TENNIS 🎾", 17:30 WIB Day 3 - WTA 500: Porsche Tennis Grand Prix 2026
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiN0tPalFQdTBVRmlxNEJ2YjBIZCtlUEwwdVcybEU1cU5JVHhcL2ptR2VSXC95dVZZa2hRNTM4bnNuSWhBSlRCSTRvREw3RXdxazVvXC9wb0FiMEs1cDNiYVNnWHY2V2RXZTNGcFYwNWRDenNndTMyZ2laNlhXSDI0RHdFQlFlRGZwVTB3UGthcEwrSEQ4a3lvQUE0bUFnaFJwYjU4OVl6aGVmc0pEMGx0TkE3bWh4VXFYOVZLbDQ2ZVU3ZUtpSFkyXC9SdDN1Y0NjYXVOQSs3bG02dThSbnp2b09aMlEwcm5qTU8xS0xqRWV6VFZCM0U9In0=
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AuncyTR11bqTZXB8Q1uRPKiDLnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014317/922f86.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 19:00 WIB Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Electric PLN Mobile - Proliga
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hZV3u06pvIYyuuG9OkZDHtLtPP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014322/2c967c.jpg" group-title="LIVE EVENT NOW | VOLI", 20:00 WIB Bursa BBSK vs Fenerbahce Medicana - Turkish Men's Volleyball League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoicnJoUk43b0EzS0RFMHZ0VXdOZUw1cVNmSUord0dwd1NYa3JTRkdRTkZqZExacEdGQXhTQVNxNFowSUV1ZjhWek5KQTBjYWRQNUFqVWhDQkN2RU5oeXR2a1d3Q3NWQ1NiZUUraDdGNVFCM3AzV1ZoaG02XC94S2ZqU0dVUnZNWVNBQkY3QnFIS051eVF0aEp5aEc3UkZLYWNwQkJFKys5dTZUYzU0MWVSMk5qMXlNKzV2VDJjR1RvQTc4dm16c3FydDNNUjNLWlYzSmZ1S3g4Y0YrTytkRFwvOHQ0Q0FNRWo4a05jSUhpb3BDbkpJPSJ9
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiWldzKytWWXhzeVNONzU2Y250aEFWbTdKd1FBUWs5UE11a1lcLzYyZ2lwTDNpVWRUM2NcL3VNcTVtQzdwaEhFWmc1SU5YSXFFM1wvbkU4STFUXC9Yc1YxS25BVTdsXC9OTHUrbGlnaWc2c2VhVm9wRUEyNXVUXC9LcVZGT2Jya01MNkxJT3RUSDJ3K1wvZGNodFNtK1lPQUhTa3dsTnllblpodzRRRmVqNVdvcGx2WHdkbUN1cjJodWdON2pFbnJNV0dTdUUwenFaTXFWTndCWWZYbzlaOEhRYk1ZcjNcL2tBYWFlcG9QN0xvSmZ2MFdDVzBnPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4C5xGOt_3ZzmdP_z5UOVZAfl0nY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014338/98a5a8.jpg" group-title="LIVE EVENT | TENNIS 🎾", 22:00 WIB Day 3 - WTA 500: Porsche Tennis Grand Prix 2026
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/live90sport/logona.php?home=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fkmprut7bzeaous.png&away=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fksto8uktoaztew.png" group-title="LIGA INGGRIS", [UPCOMING] Manchester United vs Leeds United * English Premier League (02:00 WIB * 14/04/2026)
@@ -1890,7 +1831,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hls.livelivelive.space/live/4362185.m3u8
+https://live2.bbs456.com/live/12608531_47c56cc001af3309fbde244facd0058c.m3u8
 #EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/bef3a45bcf56447c8acfb7b077820022.png" group-title="🔔JADWAL LIVE (UPCOMING)",[UPCOMING] UZB Super League: Nasaf Qarshi vs Buxoro FK
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1940,36 +1881,36 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphovz1r8k0/image/small" group-title="🔴 🔴 LIVE EVENT NOW",15:30 WIB - VIET NAM U17 VS MALAYSIA U17 [AFF] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=231f2e189d6d0c4fcf50990affb3345c&wsABSTime=1776118233
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllho40qvy9/image/small" group-title="🔴 🔴 LIVE EVENT NOW",17:00 WIB - NU PHAP U19 VS NU IRELAND U19 [UEFA-W U19] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=18d3ec586e483905517fd0f69ddb1e02&wsABSTime=1776118235
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkhdg62qg8n/image/small" group-title="🔴 🔴 LIVE EVENT NOW",17:00 WIB - LNZ CHERKASY VS SHAKHTAR DONETSK [UKR D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=bd6d4fceeed1fcaae06823d7df298034&wsABSTime=1776118235
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=b3dbe411586fd1368d22830551b929cc&wsABSTime=1776119734
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlvlkrz84/image/small" group-title="🔴 🔴 LIVE EVENT NOW",17:30 WIB - NU NA UY U19 VS NU AO U19 [UEFA-W U19] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=a1d57c5f1969a89961ec36ca30da509e&wsABSTime=1776118238
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=ba913e7969ae4f605350bb6710b86207&wsABSTime=1776119735
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhgpjxql07/image/small" group-title="🔴 🔴 LIVE EVENT NOW",18:00 WIB - ARARAT ARMENIA B VS BKMA II [ARM D2] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=33906125f68ed368750cc0f12987e473&wsABSTime=1776118238
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=5152fb6e7095c1fa1cdf5dfdd44531fb&wsABSTime=1776119736
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09how8rz84/image/small" group-title="🔴 🔴 LIVE EVENT NOW",18:30 WIB - BALESTIER KHALSA VS ALBIREX NIIGATA [SIN D1] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=56dfe65ce9caa4cff7da9b77a24cb6cc&wsABSTime=1776119736
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/zp5rzktzx4zr82w/image/small" group-title="🔴 🔴 LIVE EVENT NOW",16:30 WIB - NU LAO CAI VS NU CAN THO [VNL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=1152b64f2ac7a3c0c8a2bf5d666ac226&wsABSTime=1776118239
+https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=5739b95b8cf6dceb38a4a37544b07325&wsABSTime=1776119739
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/e4wyrn1t1woq86p/image/small" group-title="🔴 🔴 LIVE EVENT NOW",17:00 WIB - WONJU DONGBU PROMY VS BUSAN KCC EGIS [KOR] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=1c8778b768afaf57bbadea5f33c1494e&wsABSTime=1776119739
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh1zz5r510/image/small" group-title="BRI SUPER LEAGUE",OFFLINE - PERSISKO MERANGIN VS PERSEBRI BATANGHARI [IND]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png" group-title="SPORTS FHD",KANTIPUR MAX  HD
@@ -2021,11 +1962,31 @@ http://maxotts.maxdigitaltv.com/x-media/C412/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C250-1763381313.png" group-title="SPORTS FHD",S SPORTS 2 HD
 http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",Auto racing - Auto Racing
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=a199e8eb7f25446f63bb936ef85bb083f27809c8&x-sign=6bc1147dc51f8b12800705d14a805416&x-time=1776074400
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=ed95be87f549eb4502d768f324cb05d131ea4aca&x-sign=afadc32e821afe0e76d56dbc558f0f5e&x-time=1776076200
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",Center Court - BMW Open
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=a199e8eb7f25446f63bb936ef85bb083f27809c8&x-sign=8606893bd8dc61fdb4334561331dbad9&x-time=1776074400
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=ed95be87f549eb4502d768f324cb05d131ea4aca&x-sign=65da1283808c9391b9955a95d85e1211&x-time=1776076200
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",Pista Rafa Nadal - Barcelona Open Banc Sabadell
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=a199e8eb7f25446f63bb936ef85bb083f27809c8&x-sign=aa494526acc51e023ae40cd95fb7b08b&x-time=1776074400
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=ed95be87f549eb4502d768f324cb05d131ea4aca&x-sign=a6045604cbe5f93490dcec2039fa8ae7&x-time=1776076200
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571721582577614848/pXx4fDhx_400x400.jpg" group-title="LIVE EVENT | FAWA",18:30 WIB | [Singapore Premier League] Balestier Khalsa vs Albirex Niigata
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/AAAAq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="LIVE EVENT | FAWA",19:00 WIB | [Horse Racing] Horse Racing CH 22
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/EEEEQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="LIVE EVENT | FAWA",19:00 WIB | [Horse Racing] Horse Racing CH 11
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/EEEEQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="LIVE EVENT | FAWA",19:30 WIB | [Romania Superliga] Metaloglobus Bucharest vs Csikszereda M Ciuc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/AAAAqq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="LIVE EVENT | FAWA",17:00 WIB | [Ukraine Premier League] LNZ Cherkasy vs Shakhtar Donetsk
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/AAAA.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="LIVE EVENT | FAWA",16:00 WIB | [Snooker] Snooker World Championship     Table 4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -2058,16 +2019,6 @@ http://195.178.110.37/hls/sssss.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.37/hls/sssss.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/488df3a9b3fc86ac6c9e8f6d40733067.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (15:30 WIB) Viet Nam U17 vs Malaysia U17 [BLV COCA]
-#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
-#EXTVLCOPT:http-origin=https://www.spindlersptown.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/488df3a9b3fc86ac6c9e8f6d40733067.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (15:30 WIB) Viet Nam U17 vs Malaysia U17 [BLV SAMURAI]
-#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
-#EXTVLCOPT:http-origin=https://www.spindlersptown.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/07808742.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/df2cb8e6df5f64eb0e208d801da11e23.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (16:45 WIB) Etar vs Dunav Ruse [BLV STING]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -2493,12 +2444,12 @@ https://live5.msrktz.app/live/75915087.m3u8
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/348fa7d49029584354427690fe88f874.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (22:00 WIB) CLB AC Oulu vs Jaro [BLV DR THANH]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/348fa7d49029584354427690fe88f874.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (22:00 WIB) AC Oulu vs Jaro [BLV DR THANH]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/79665343.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6356dcedfefdbc98de34cce75214de28.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (22:00 WIB) CLB Cherno More Varna vs CSKA 1948 Sofia [BLV ROCKSTAR]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6356dcedfefdbc98de34cce75214de28.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (22:00 WIB) Cherno More Varna vs CSKA 1948 Sofia [BLV ROCKSTAR]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -4189,43 +4140,58 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=2&url=https:%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Farts%2Fkidsflix.jpg" group-title="KIDS",KIDSFLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphovz1r8k0/image/small" group-title="LIVE EVENT | XOILACZ AI",15:30 WIB - VIET NAM U17 VS MALAYSIA U17 [AFF] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=231f2e189d6d0c4fcf50990affb3345c&wsABSTime=1776118233
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllho40qvy9/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - NU PHAP U19 VS NU IRELAND U19 [UEFA-W U19] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=18d3ec586e483905517fd0f69ddb1e02&wsABSTime=1776118235
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkhdg62qg8n/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - LNZ CHERKASY VS SHAKHTAR DONETSK [UKR D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=bd6d4fceeed1fcaae06823d7df298034&wsABSTime=1776118235
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=0b5795f5a77e83e48d0f83ff14cc5c75&wsABSTime=1776120036
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlvlkrz84/image/small" group-title="LIVE EVENT | XOILACZ AI",17:30 WIB - NU NA UY U19 VS NU AO U19 [UEFA-W U19] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=a1d57c5f1969a89961ec36ca30da509e&wsABSTime=1776118238
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=9f2b85cf178b9d78ebe0e9411a475edb&wsABSTime=1776120037
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhgpjxql07/image/small" group-title="LIVE EVENT | XOILACZ AI",18:00 WIB - ARARAT ARMENIA B VS BKMA II [ARM D2] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=33906125f68ed368750cc0f12987e473&wsABSTime=1776118238
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=ec4667e3b822fa07599aba9893ee046f&wsABSTime=1776120037
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09how8rz84/image/small" group-title="LIVE EVENT | XOILACZ AI",18:30 WIB - BALESTIER KHALSA VS ALBIREX NIIGATA [SIN D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=8d877ecbb7e23f4303164b573e5bfb3d&wsABSTime=1776118239
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=cff202d60fcab4c93e178f474d71eae2&wsABSTime=1776120038
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phowe6m2wd/image/small" group-title="LIVE EVENT | XOILACZ AI",19:00 WIB - ARARAT YEREVAN II VS SADARAKPAT [ARM D2] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=291c2af81a65a4321235f67d6eb2398b&wsABSTime=1776120038
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/zp5rzktzx4zr82w/image/small" group-title="LIVE EVENT | XOILACZ AI",16:30 WIB - NU LAO CAI VS NU CAN THO [VNL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=1152b64f2ac7a3c0c8a2bf5d666ac226&wsABSTime=1776118239
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh1zz5r510/image/small" group-title="BRI SUPER LEAGUE",OFFLINE - PERSISKO MERANGIN VS PERSEBRI BATANGHARI [IND]
+https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=a94bf5ab1788609d5060a31a0ac16009&wsABSTime=1776120039
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehnjjxr510/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - PERAK FC VS ARMED FORCES FC [MAS L3]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571721582577614848/pXx4fDhx_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Singapore Premier League] Balestier Khalsa vs Albirex Niigata
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/AAAAq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="LIVE EVENT FAWANEWS",19:00 WIB | [Horse Racing] Horse Racing CH 22
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/EEEEQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="LIVE EVENT FAWANEWS",19:00 WIB | [Horse Racing] Horse Racing CH 11
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/EEEEQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",19:30 WIB | [Romania Superliga] Metaloglobus Bucharest vs Csikszereda M Ciuc
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/AAAAqq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2510182485/zmi86gctecx242v92tii_400x400.jpeg" group-title="LIVE EVENT FAWANEWS",17:00 WIB | [Ukraine Premier League] LNZ Cherkasy vs Shakhtar Donetsk
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.2/hls/AAAA.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="LIVE EVENT FAWANEWS",16:00 WIB | [Snooker] Snooker World Championship     Table 4
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -4250,16 +4216,6 @@ http://195.178.110.37/hls/ssss.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.37/hls/sssss.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/488df3a9b3fc86ac6c9e8f6d40733067.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (15:30 WIB) Viet Nam U17 vs Malaysia U17 [BLV COCA]
-#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
-#EXTVLCOPT:http-origin=https://www.spindlersptown.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/488df3a9b3fc86ac6c9e8f6d40733067.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (15:30 WIB) Viet Nam U17 vs Malaysia U17 [BLV SAMURAI]
-#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
-#EXTVLCOPT:http-origin=https://www.spindlersptown.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live5.msrktz.app/live/07808742.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/df2cb8e6df5f64eb0e208d801da11e23.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (16:45 WIB) Etar vs Dunav Ruse [BLV STING]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -4685,12 +4641,12 @@ https://live5.msrktz.app/live/75915087.m3u8
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/348fa7d49029584354427690fe88f874.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (22:00 WIB) CLB AC Oulu vs Jaro [BLV DR THANH]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/348fa7d49029584354427690fe88f874.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (22:00 WIB) AC Oulu vs Jaro [BLV DR THANH]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/79665343.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6356dcedfefdbc98de34cce75214de28.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (22:00 WIB) CLB Cherno More Varna vs CSKA 1948 Sofia [BLV ROCKSTAR]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6356dcedfefdbc98de34cce75214de28.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (22:00 WIB) Cherno More Varna vs CSKA 1948 Sofia [BLV ROCKSTAR]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
