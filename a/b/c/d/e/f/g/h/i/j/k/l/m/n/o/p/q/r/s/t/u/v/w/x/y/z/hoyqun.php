@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [03:24 WIB 14/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [03:24 WIB 14/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [03:54 WIB 14/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [03:54 WIB 14/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d7/AFC_Champions_League_Elite_logo.svg/250px-AFC_Champions_League_Elite_logo.svg.png" group-title="AFC Champions League Elite",[01:00 WIB 14/04/26] Al-Hilal Saudi FC vs Al Sadd [FHD] [LIVE]
@@ -10,15 +10,6 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d7/AFC_Champions_League_Elite_logo.svg/250px-AFC_Champions_League_Elite_logo.svg.png" group-title="AFC Champions League Elite",[01:00 WIB 14/04/26] Al-Hilal Saudi FC vs Al Sadd [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 14/04/26] Fiorentina vs Lazio [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 14/04/26] Fiorentina vs Lazio [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 14/04/26] Fiorentina vs Lazio [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League",[02:00 WIB 14/04/26] Manchester United vs Leeds [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
@@ -299,22 +290,22 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/308.png" group-title="Division 1",[23:00 WIB 15/04/26] Al-Faisaly FC vs Al Taee [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NAM",[14:30 WIB 16/04/26] Thể Công Tân Cảng - TP Hồ Chí Minh [FHD] [NANTIKAN]
