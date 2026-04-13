@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [02:50 WIB 14/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:50 WIB 14/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [02:57 WIB 14/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:57 WIB 14/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d7/AFC_Champions_League_Elite_logo.svg/250px-AFC_Champions_League_Elite_logo.svg.png" group-title="AFC Champions League Elite",[01:00 WIB 14/04/26] Al-Hilal Saudi FC vs Al Sadd [FHD] [LIVE]
@@ -209,6 +209,15 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[16:00 WIB 15/04/26] Korea DPR U20 vs Korea Republic U20 W [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:00 WIB 15/04/26] HCĐG Lào Cai - BC Thông Tin BĐ19 [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:00 WIB 15/04/26] HCĐG Lào Cai - BC Thông Tin BĐ19 [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:00 WIB 15/04/26] HCĐG Lào Cai - BC Thông Tin BĐ19 [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtyP0MT.jpeg" group-title="K League 1",[17:30 WIB 15/04/26] Ulsan Hyundai FC vs FC Seoul [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
@@ -290,6 +299,24 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/308.png" group-title="Division 1",[23:00 WIB 15/04/26] Al-Faisaly FC vs Al Taee [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/596px-Serie_A_logo_2022.svg.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NAM",[14:30 WIB 16/04/26] Thể Công Tân Cảng - TP Hồ Chí Minh [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
@@ -297,4 +324,22 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NAM",[14:30 WIB 16/04/26] Thể Công Tân Cảng - TP Hồ Chí Minh [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:30 WIB 16/04/26] Fenerbahce W - Vakifbank W [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:30 WIB 16/04/26] Fenerbahce W - Vakifbank W [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:30 WIB 16/04/26] Fenerbahce W - Vakifbank W [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:00 WIB 17/04/26] HCĐG Lào Cai - Vietinbank [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:00 WIB 17/04/26] HCĐG Lào Cai - Vietinbank [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:00 WIB 17/04/26] HCĐG Lào Cai - Vietinbank [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
