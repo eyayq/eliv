@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.05 WIB 14/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.13 WIB 14/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="965mkyhk2l70r1g" tvg-name="Velez Sarsfield vs Central Cordoba SDE" tvg-logo="https://img.cdnok9.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" group-title="[LIVE 07:30 WIB | 14/04/26] Velez Sarsfield vs Central Cordoba SDE",[LIVE 07:30 WIB | 14/04/26] Velez Sarsfield vs Central Cordoba SDE (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
