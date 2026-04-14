@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:07 WIB 14/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:07 WIB 14/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:19 WIB 14/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:19 WIB 14/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[14:00 WIB 14/04/26] BIT vs Shanghai Port II [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[14:00 WIB 14/04/26] BIT vs Shanghai Port II [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[14:00 WIB 14/04/26] BIT vs Shanghai Port II [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[16:00 WIB 14/04/26] Alex de Minaur vs Sebastian Ofner [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
@@ -164,6 +155,33 @@ https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 15/04/26] Al-Qadisiyah FC vs Al Shabab [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 15/04/26] Atletico Madrid vs Barcelona [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 15/04/26] Atletico Madrid vs Barcelona [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 15/04/26] Atletico Madrid vs Barcelona [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 15/04/26] Atletico Madrid vs Barcelona [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 15/04/26] Atletico Madrid vs Barcelona [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 15/04/26] Atletico Madrid vs Barcelona [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 15/04/26] Liverpool vs Paris Saint Germain [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 15/04/26] Liverpool vs Paris Saint Germain [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 15/04/26] Liverpool vs Paris Saint Germain [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:30 WIB 15/04/26] Charlotte Hornets vs Miami Heat [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 
@@ -181,6 +199,24 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="Conmebol Libertadores",[07:00 WIB 15/04/26]  Boca Juniors vs Barcelona SC  [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[07:30 WIB 15/04/26] Santos vs Deportivo Recoleta [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[07:30 WIB 15/04/26] Santos vs Deportivo Recoleta [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[07:30 WIB 15/04/26] Santos vs Deportivo Recoleta [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:00 WIB 15/04/26] Cruz Azul vs Los Angeles FC [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:00 WIB 15/04/26] Cruz Azul vs Los Angeles FC [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:00 WIB 15/04/26] Cruz Azul vs Los Angeles FC [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[09:00 WIB 15/04/26] Phoenix Suns vs Portland Trail Blazers [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
