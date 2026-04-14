@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.27 WIB 14/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.36 WIB 14/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="pxwrxlhyxd4yryk" tvg-name="South Island United FC vs Tahiti United FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 10:00 WIB | 14/04/26] South Island United FC vs Tahiti United FC",[LIVE 10:00 WIB | 14/04/26] South Island United FC vs Tahiti United FC (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="pxwrxlhyxd4yryk" tvg-name="South Island United FC vs Tahiti United FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 10:00 WIB | 14/04/26] South Island United FC vs Tahiti United FC",[LIVE 10:00 WIB | 14/04/26] South Island United FC vs Tahiti United FC (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-id="69ddc2b3179e2268436bdc9d" tvg-name="Manchester United vs Leeds United" tvg-logo="" group-title="[UPCO 23:59 WIB | 12j 22m | 14/04/26] Manchester United vs Leeds United",[UPCO 23:59 WIB | 12j 22m | 14/04/26] Manchester United vs Leeds United (Giàng A Mèo)
+https://hls.686868.me/live/Giangalo/index.m3u8?expire=1777012560&sign=be2f60f6416ebc1a300a944171d8b3bd
+#EXTINF:-1 tvg-id="69ddc2b3179e2268436bdc9d" tvg-name="Manchester United vs Leeds United" tvg-logo="" group-title="[UPCO 23:59 WIB | 12j 22m | 14/04/26] Manchester United vs Leeds United",[UPCO 23:59 WIB | 12j 22m | 14/04/26] Manchester United vs Leeds United (Giàng A Mèo)
+https://flv.686868.me/live/Giangalo.flv?expire=1777012560&sign=be2f60f6416ebc1a300a944171d8b3bd
