@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.57 WIB 15/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.39 WIB 15/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Giàng A Gấu)
@@ -13,6 +13,10 @@ https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa69089696
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Giàng A Sếu)
@@ -21,10 +25,6 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="23xmvkh6y1vyqg8" tvg-name="Atletico Madrid vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona",[LIVE 02:00 WIB | 15/04/26] Atletico Madrid vs FC Barcelona (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="zp5rzghg3vyoq82" tvg-name="Liverpool vs Paris Saint Germain" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Liverpool vs Paris Saint Germain",[LIVE 02:00 WIB | 15/04/26] Liverpool vs Paris Saint Germain (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="zp5rzghg3vyoq82" tvg-name="Liverpool vs Paris Saint Germain" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 15/04/26] Liverpool vs Paris Saint Germain",[LIVE 02:00 WIB | 15/04/26] Liverpool vs Paris Saint Germain (VĂN VỞ)
@@ -53,18 +53,6 @@ https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="pxwrxlhynpjlryk" tvg-name="Al Ittihad Club vs Al Wahda(UAE)" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[LIVE 01:00 WIB | 15/04/26] Al Ittihad Club vs Al Wahda(UAE)",[LIVE 01:00 WIB | 15/04/26] Al Ittihad Club vs Al Wahda(UAE) (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="zp5rzghg3og6q82" tvg-name="Ittihad Alexandria SC vs ZED FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 01:00 WIB | 15/04/26] Ittihad Alexandria SC vs ZED FC",[LIVE 01:00 WIB | 15/04/26] Ittihad Alexandria SC vs ZED FC (Giàng A Ka)
-https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="zp5rzghg3og6q82" tvg-name="Ittihad Alexandria SC vs ZED FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 01:00 WIB | 15/04/26] Ittihad Alexandria SC vs ZED FC",[LIVE 01:00 WIB | 15/04/26] Ittihad Alexandria SC vs ZED FC (Giàng A Ka)
-https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="ednm9whw0ekxryo" tvg-name="Scotland Women vs Belgium Women" tvg-logo="https://img.cdnok9.com/football/competition/45c47fad4b3de71014c5173e34430fcc.png" group-title="[LIVE 01:30 WIB | 15/04/26] Scotland Women vs Belgium Women",[LIVE 01:30 WIB | 15/04/26] Scotland Women vs Belgium Women (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="ednm9whw0ekxryo" tvg-name="Scotland Women vs Belgium Women" tvg-logo="https://img.cdnok9.com/football/competition/45c47fad4b3de71014c5173e34430fcc.png" group-title="[LIVE 01:30 WIB | 15/04/26] Scotland Women vs Belgium Women",[LIVE 01:30 WIB | 15/04/26] Scotland Women vs Belgium Women (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="k82rekhg12llrep" tvg-name="Al Qadsiah vs Al Shabab FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 15/04/26] Al Qadsiah vs Al Shabab FC",[LIVE 01:00 WIB | 15/04/26] Al Qadsiah vs Al Shabab FC (Giàng A Sún)
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="k82rekhg12llrep" tvg-name="Al Qadsiah vs Al Shabab FC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 15/04/26] Al Qadsiah vs Al Shabab FC",[LIVE 01:00 WIB | 15/04/26] Al Qadsiah vs Al Shabab FC (Giàng A Sún)
-https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="y39mp1h65n4xmoj" tvg-name="Portsmouth vs Ipswich Town" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 02:00 WIB | 15/04/26] Portsmouth vs Ipswich Town",[LIVE 02:00 WIB | 15/04/26] Portsmouth vs Ipswich Town (Giàng A Hổ)
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="y39mp1h65n4xmoj" tvg-name="Portsmouth vs Ipswich Town" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 02:00 WIB | 15/04/26] Portsmouth vs Ipswich Town",[LIVE 02:00 WIB | 15/04/26] Portsmouth vs Ipswich Town (Giàng A Hổ)
@@ -73,3 +61,7 @@ https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="x7lm7phjoyw8m2w" tvg-name="Southampton vs Blackburn Rovers" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 02:00 WIB | 15/04/26] Southampton vs Blackburn Rovers",[LIVE 02:00 WIB | 15/04/26] Southampton vs Blackburn Rovers (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="8yomo4h1ypk3q0j" tvg-name="Grêmio - RS vs Deportivo Riestra" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[UPCO 05:00 WIB | 1j 20m | 15/04/26] Grêmio - RS vs Deportivo Riestra",[UPCO 05:00 WIB | 1j 20m | 15/04/26] Grêmio - RS vs Deportivo Riestra (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="8yomo4h1ypk3q0j" tvg-name="Grêmio - RS vs Deportivo Riestra" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[UPCO 05:00 WIB | 1j 20m | 15/04/26] Grêmio - RS vs Deportivo Riestra",[UPCO 05:00 WIB | 1j 20m | 15/04/26] Grêmio - RS vs Deportivo Riestra (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
