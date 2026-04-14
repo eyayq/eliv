@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.01 WIB 15/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.04 WIB 15/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="y0or5jh89p07qwz" tvg-name="Cerro Porteno vs Atletico Junior Barranquilla" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 05:00 WIB | 15/04/26] Cerro Porteno vs Atletico Junior Barranquilla",[LIVE 05:00 WIB | 15/04/26] Cerro Porteno vs Atletico Junior Barranquilla (Giàng A Mèo)
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
