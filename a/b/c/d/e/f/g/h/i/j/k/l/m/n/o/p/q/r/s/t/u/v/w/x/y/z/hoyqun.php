@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:09 WIB 15/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:09 WIB 15/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [18:42 WIB 15/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:42 WIB 15/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[17:00 WIB 15/04/26] KT vs DK [FHD] [LIVE]
@@ -29,15 +29,6 @@ https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:30 WIB 15/04/26] HCĐG Lào Cai - BC Thông Tin BĐ19 [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[17:30 WIB 15/04/26] Alex de Minaur vs Hamad Medjedovic [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[17:30 WIB 15/04/26] Alex de Minaur vs Hamad Medjedovic [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[17:30 WIB 15/04/26] Alex de Minaur vs Hamad Medjedovic [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[18:30 WIB 15/04/26] Alexander Blockx vs Ben Shelton [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
 
@@ -47,13 +38,22 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[18:30 WIB 15/04/26] Alexander Blockx vs Ben Shelton [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 15/04/26]  Guangzhou vs Shanghai [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[18:30 WIB 15/04/26] Alex de Minaur vs Hamad Medjedovic [FHD] [LIVE]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[18:30 WIB 15/04/26] Alex de Minaur vs Hamad Medjedovic [HD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[18:30 WIB 15/04/26] Alex de Minaur vs Hamad Medjedovic [SD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 15/04/26]  Guangzhou vs Shanghai [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 15/04/26]  Guangzhou vs Shanghai [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 15/04/26]  Guangzhou vs Shanghai [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 15/04/26]  Guangzhou vs Shanghai [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 15/04/26]  Guangzhou vs Shanghai [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 15/04/26] Shanxi Zhongyu vs Zhejiang Guangsha [FHD] [LIVE]
@@ -75,22 +75,31 @@ https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 15/04/26] China PR U20 W vs Japan U20 W [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 15/04/26] China PR U20 W vs Japan U20 W [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 15/04/26] China PR U20 W vs Japan U20 W [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 15/04/26] Kerala Blasters vs NorthEast United [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[20:00 WIB 15/04/26] Flavio Coboli vs Zizou Bergs [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 15/04/26] Kerala Blasters vs NorthEast United [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[20:00 WIB 15/04/26] Flavio Coboli vs Zizou Bergs [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 15/04/26] Kerala Blasters vs NorthEast United [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[20:00 WIB 15/04/26] Flavio Coboli vs Zizou Bergs [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[21:00 WIB 15/04/26] Rafael Jodar vs Camilo Ugo Carabelli [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[21:00 WIB 15/04/26] Rafael Jodar vs Camilo Ugo Carabelli [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[21:00 WIB 15/04/26] Rafael Jodar vs Camilo Ugo Carabelli [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 15/04/26] Cherno More Varna vs CSKA 1948 [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
