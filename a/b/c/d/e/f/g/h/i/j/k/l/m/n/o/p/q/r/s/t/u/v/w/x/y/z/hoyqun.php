@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [23:25 WIB 15/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:25 WIB 15/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:34 WIB 15/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:34 WIB 15/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 15/04/26] Cherno More Varna vs CSKA 1948 [FHD] [LIVE]
