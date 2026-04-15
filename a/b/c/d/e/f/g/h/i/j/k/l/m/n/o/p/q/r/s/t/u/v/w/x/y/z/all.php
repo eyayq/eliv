@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.16 WIB 16/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.24 WIB 16/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Giàng A Gấu)
@@ -17,10 +17,10 @@ https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f3
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Lữ Bố (Giàng Phụng Tiên))
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="n54qllhn4g5nqvy" tvg-name="FC Bayern Munich vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid",[LIVE 02:00 WIB | 16/04/26] FC Bayern Munich vs Real Madrid (Giàng A Chiến)
