@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 00:40:35 WIB 15-04-2026
-# 🔄 Total Channels: 2311
+# ⏰ Latest Updated: 00:49:51 WIB 15-04-2026
+# 🔄 Total Channels: 2319
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [00:40:35 WIB 15-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [00:49:51 WIB 15-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -49,6 +49,9 @@ https://live5.msrktz.app/live/68848594.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png!w80" group-title="Live Event: Colalive",07:00 15/04 Boca Juniors vs Barcelona SC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80" group-title="Live Event: Colalive",07:30 15/04 Santos vs Deportivo Recoleta Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJL1Rj_kafMhF-_yRQNAyBC1QxNjT7ZPjBEA&s" group-title="LIVE EVENT: MANUAL",19:30 WIB - 14 APRIL 2026 Singapura vs Australia
 https://live5.msrktz.app/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/FNR-a" group-title="LIVE EVENT: MANUAL",21:45 WIB - 14 APRIL 2026 Tractor vs Shabab Al-Ahli Dubai
@@ -89,7 +92,23 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1776191641.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:30   15/04 Charlotte Hornets vs Miami Heat  YEN THANH m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.site/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1776191641.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:30   15/04 Charlotte Hornets vs Miami Heat  YEN THANH flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68702_1jqtyj4xq91e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:30   15/04 Westchester SC vs New York City FC NHA DAI m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MwdayCjNcX1NuaaPW/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68702_1jqtyj4xq91e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:30   15/04 Westchester SC vs New York City FC NHA DAI flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21817_1j0ytp3n992t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:00   15/04 Colorado Springs Switchbacks FC vs Sporting Kansas City NHA DAI m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MwdayCisS71DVSvHA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F10947_165819298639.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:00   15/04 Venezuela vs Argentina  KHONG MINH m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.site/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F10947_165819298639.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:00   15/04 Venezuela vs Argentina  KHONG MINH flv Gvision TV
@@ -108,44 +127,78 @@ https://auto.cdnok9.com/live/sd-6MwdL8w8VXh8dPaq8g/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MvVdDLe1Mu3DKMi28/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F415_1j9d3cawpjh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:00   15/04 Vasco da Gama vs Audax Italiano  LY QUY m3u Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F953_1gv1yk239f2n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   15/04 Palestino vs Montevideo City Torque NHA DAI m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F415_1j9d3cawpjh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:00   15/04 Vasco da Gama vs Audax Italiano  LY QUY flv Gvision TV
+https://auto.cdnok9.com/live/sd-6MwcqsupW9DH9o4k9J/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F303_1gv1yhgq3n2e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   15/04 Santos vs Deportivo Recoleta NHA DAI m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6Mwcqsu4LyS8B92JMr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1755_1grmn77tvad.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   15/04 Ceara vs EC Jacuipense NHA DAI m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MwcqKPXo84yVXTW28/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21816_1gz593hw9g1c.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:00   15/04 Louisville City FC vs Austin FC  TONG GIANG m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.site/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21816_1gz593hw9g1c.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:00   15/04 Louisville City FC vs Austin FC  TONG GIANG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1776191572.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   15/04 La Union vs Penarol  VO TONG m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.site/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1776191572.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:30   15/04 La Union vs Penarol  VO TONG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F415_1j9d3cawpjh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:00   15/04 Vasco da Gama vs Audax Italiano  LY QUY m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.site/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F415_1j9d3cawpjh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:00   15/04 Vasco da Gama vs Audax Italiano  LY QUY flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F282_1gt31ntq8c11.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:00   15/04 New England Revolution vs Rhode Island NHA DAI m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MwdayCjNY83dwvk5i/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:00   15/04 RKSV Centro Dominguito vs CRKSV Jong Colombia NHA DAI m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MwdL8yMHJeSqWFTNU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F237_164940907780.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:00   15/04 Boca Juniors vs Barcelona SC NHA DAI m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MwcqsvZ9zwJs5fiX6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1776191641.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:30   15/04 Charlotte Hornets vs Miami Heat  YEN THANH m3u Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe6990ebe89abe2d617d9f4d15515c6cd%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",03:15   15/04 AD Tarma vs Alianza Lima Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.site/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1776191641.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:30   15/04 Charlotte Hornets vs Miami Heat  YEN THANH flv Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/e4243ba9cb6304985a38c536cf71c571/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb5cc2e23d0a597b6d12f5c3d3db0d657%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   15/04 Wotton FC vs Kickstart Barbados FC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68702_1jqtyj4xq91e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:30   15/04 Westchester SC vs New York City FC NHA DAI m3u Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f92b6fe9ef63753a429fe782a1c0667e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa5b4b79be70fd8fe74995309aaa0f2ae%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:30   15/04 Santos vs Deportivo Recoleta Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MwdayCjNcX1NuaaPW/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68702_1jqtyj4xq91e.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",06:30   15/04 Westchester SC vs New York City FC NHA DAI flv Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/39afbf780bd696a25ef6d7cecaa2d18d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F070772bc933d3f0c85b3b29ab60d0f67%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   15/04 Detroit City vs Chicago Fire Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21817_1j0ytp3n992t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:00   15/04 Colorado Springs Switchbacks FC vs Sporting Kansas City NHA DAI m3u Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/444c9881d1606548f9ba67f8d559d404/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F30f991bbc7206fda1b5d7961531c04a6%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:30   15/04 SV River Plate vs SV Jong Aruba Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MwdayCisS71DVSvHA/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/f440a8bb223e508eddf67a6df304c8ca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faf02a38e69b73222fb635e9a3822595c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   15/04 Venezuela Women vs Argentina Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/c6c4036094724ea00e4b22a6e1661f89/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F99ee02ccc1a5091fe79db03df653715c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:30   15/04 Palestino vs Montevideo City Torque Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/5c1ace142018401e8196dc3c6d3bc076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F5563d50c9e966971a2ddf272b754214f%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:45   15/04 Aldershot Town vs Southend United Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/15ca0447cf8b5e86fb2f4d5a53649544/playlist.m3u8
@@ -185,6 +238,10 @@ https://live.alilicloud.com/live/00bd1dacdac003b953cde31ade7275a1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/a160cf65e6f5cb946d80f980b7f71123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8528d25672c9a84cb695dceb179ccb98%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:30   15/04 Ceara vs EC Jacuipense Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/40704151df72305cfb30336c6ca4f08f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Ffaabe2337d506a5c2a916b46b728f74e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",02:00   15/04 Canada Women vs South Korea Women Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -205,6 +262,10 @@ https://live.alilicloud.com/live/8bcb5d809c49e6e05556e5a207f7f639/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/64f1015f6ee6a878b2aa4615a64b16c3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1ff4e28dfb3389e675b59682d1cb4d4d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:00   15/04 RKSV Centro Dominguito vs CRKSV Jong Colombia Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia2.me/
+https://live.alilicloud.com/live/b1e2e58d9ecae069b6d9b030ce49d7d6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a3c77d5e7700ec44c0a74b205e22c54%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:00   15/04 Clube de Regatas Vasco da Gama vs Audax Italiano Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -237,30 +298,6 @@ https://live.alilicloud.com/live/b0a6637c52419c6cc39ad26c298528f6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
 https://live.alilicloud.com/live/9a07ee8d58b43657ab8508a138849c38/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe6990ebe89abe2d617d9f4d15515c6cd%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",03:15   15/04 AD Tarma vs Alianza Lima Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/e4243ba9cb6304985a38c536cf71c571/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb5cc2e23d0a597b6d12f5c3d3db0d657%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   15/04 Wotton FC vs Kickstart Barbados FC Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f92b6fe9ef63753a429fe782a1c0667e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa5b4b79be70fd8fe74995309aaa0f2ae%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:30   15/04 Santos vs Deportivo Recoleta Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/39afbf780bd696a25ef6d7cecaa2d18d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F070772bc933d3f0c85b3b29ab60d0f67%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:30   15/04 Detroit City vs Chicago Fire Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/444c9881d1606548f9ba67f8d559d404/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F30f991bbc7206fda1b5d7961531c04a6%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",07:30   15/04 SV River Plate vs SV Jong Aruba Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/f440a8bb223e508eddf67a6df304c8ca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faf02a38e69b73222fb635e9a3822595c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",06:00   15/04 Venezuela Women vs Argentina Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://live.alilicloud.com/live/c6c4036094724ea00e4b22a6e1661f89/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_143131_b7393fa7.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",06:00   15/04 Venezuela W vs Argentina W HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -309,6 +346,30 @@ https://gckc0525.edgemaxcdn.org/live/chuoito.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb5cc2e23d0a597b6d12f5c3d3db0d657%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:00   15/04 Wotton FC vs Kickstart Barbados FC Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f92b6fe9ef63753a429fe782a1c0667e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa5b4b79be70fd8fe74995309aaa0f2ae%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:30   15/04 Santos vs Deportivo Recoleta Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/39afbf780bd696a25ef6d7cecaa2d18d/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F070772bc933d3f0c85b3b29ab60d0f67%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:30   15/04 Detroit City vs Chicago Fire Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/444c9881d1606548f9ba67f8d559d404/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F30f991bbc7206fda1b5d7961531c04a6%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:30   15/04 SV River Plate vs SV Jong Aruba Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/f440a8bb223e508eddf67a6df304c8ca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faf02a38e69b73222fb635e9a3822595c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:00   15/04 Venezuela Women vs Argentina Women Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/c6c4036094724ea00e4b22a6e1661f89/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F99ee02ccc1a5091fe79db03df653715c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:30   15/04 Palestino vs Montevideo City Torque Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/5c1ace142018401e8196dc3c6d3bc076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F7fabe011d07e68bdf8de413f9502805e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:00   15/04 Deportivo Laferrere vs UAI Urquiza Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -325,6 +386,10 @@ https://live.alilicloud.com/live/864c6a1541ed0ce337d8a1c9bb9dedf4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/a2bae486f7b8d19bc767cfb496573580/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F8528d25672c9a84cb695dceb179ccb98%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:30   15/04 Ceara vs EC Jacuipense Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/40704151df72305cfb30336c6ca4f08f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F23a7f0ba9d166eb4f79d647cfc07e29c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",04:00   15/04 Peru Women vs Paraguay Women Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -337,6 +402,10 @@ https://live.alilicloud.com/live/71a57738f30197f405b403292afcd2e1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/8bcb5d809c49e6e05556e5a207f7f639/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F1ff4e28dfb3389e675b59682d1cb4d4d%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:00   15/04 RKSV Centro Dominguito vs CRKSV Jong Colombia Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
+https://live.alilicloud.com/live/b1e2e58d9ecae069b6d9b030ce49d7d6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F6a3c77d5e7700ec44c0a74b205e22c54%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:00   15/04 Clube de Regatas Vasco da Gama vs Audax Italiano Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
@@ -365,26 +434,6 @@ https://live.alilicloud.com/live/b71a552fff69ed0f7d30adb4596a83a3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/b0a6637c52419c6cc39ad26c298528f6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fb5cc2e23d0a597b6d12f5c3d3db0d657%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:00   15/04 Wotton FC vs Kickstart Barbados FC Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f92b6fe9ef63753a429fe782a1c0667e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa5b4b79be70fd8fe74995309aaa0f2ae%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:30   15/04 Santos vs Deportivo Recoleta Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/39afbf780bd696a25ef6d7cecaa2d18d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F070772bc933d3f0c85b3b29ab60d0f67%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:30   15/04 Detroit City vs Chicago Fire Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/444c9881d1606548f9ba67f8d559d404/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F30f991bbc7206fda1b5d7961531c04a6%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",07:30   15/04 SV River Plate vs SV Jong Aruba Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/f440a8bb223e508eddf67a6df304c8ca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Faf02a38e69b73222fb635e9a3822595c%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",06:00   15/04 Venezuela Women vs Argentina Women Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem1.gv03.live/
-https://live.alilicloud.com/live/c6c4036094724ea00e4b22a6e1661f89/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 06:30 15/04 Charlotte Hornets vs Miami Heat [FHD] Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
@@ -397,174 +446,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://quechoa5.live/
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [TRA DA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1776215861-0-0-1aec944761cc64c769fe45b8ef9420dc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [TRA DA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1776215861-0-0-7f626eceee827827bd1ce47be6bc7936
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [TRA DA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1776215861-0-0-0ccd417ae63e3549f2cb6d722ced2a4b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [TRA DA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1776215861-0-0-f7553e7f5c06e021495aa11061cb91a9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ GON] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=a638256ce768cd03ff2cbdfcabcb7e8e&txTime=69df2d85
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ GON] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=cc4fa2fb5f1c97d0b41ae9426bb69411&txTime=69df2d85
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ GON] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=a638256ce768cd03ff2cbdfcabcb7e8e&txTime=69df2d85
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ GON] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=cc4fa2fb5f1c97d0b41ae9426bb69411&txTime=69df2d85
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [KING] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1776215861-0-0-9e349843329e823e5ed80efdeadb683c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [KING] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1776215861-0-0-966c39960c5095f9a48a307e06439766
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [KING] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1776215861-0-0-32fc5d55b55ec356266a05c5b99ce479
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [KING] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1776215861-0-0-31555a13ab12b520c7b65e80ee1ab3ac
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ SATIVA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1776215861-0-0-67631b05526c012e2c467955fc70a617
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ SATIVA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1776215861-0-0-becec09cb90fce3ce1c778a50f2ff7f3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ SATIVA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1776215861-0-0-e1801cb6e84c5c33294fa51f473077c6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ SATIVA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1776215861-0-0-7b2b28776b9604ac0ead80cb5f86e88e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ NIBO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1776215861-0-0-f186bb18799dae94e4244167e818763b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ NIBO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1776215861-0-0-e7239da54c048aa3856d5dbbead6a7ee
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ NIBO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1776215861-0-0-74b7ae1a59b8776c295a264c1b6660b6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ NIBO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1776215861-0-0-e54b0e342ba9b23e49197e208e8ddc38
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ MIXI] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1776215861-0-0-5e8465d47de6f6f42f3ae3ff7aad915b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ MIXI] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1776215861-0-0-bb8a6fb86c34db8c3f35c09d6efa0464
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ MIXI] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1776215861-0-0-46164c75bee39a80886c61ac4fa441c0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ MIXI] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1776215861-0-0-6219633723cb52f039908f505189e5ef
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ CAO] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lsd.flv?txSecret=44d8b90d233b8f6de062b498133544b3&txTime=69df2d85
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ CAO] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lhd.flv?txSecret=82b9dec5db40670efa1956e2bed913f4&txTime=69df2d85
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ CAO] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=44d8b90d233b8f6de062b498133544b3&txTime=69df2d85
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ CAO] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=82b9dec5db40670efa1956e2bed913f4&txTime=69df2d85
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [BRIAN] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1776215861-0-0-d58162f1cd00c6e0a8de3150e5d945a3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [BRIAN] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1776215861-0-0-dff92ade2f2cb6f4307fb64edfc143c5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [BRIAN] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1776215861-0-0-bdf80696528562047d5c4da96cd73914
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [BRIAN] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1776215861-0-0-fd8e4a2b52e570c9ed92f3a8492aacd6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [HUNTER] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1776215861-0-0-c4f2abb2946dd0ecdb574fb5a5ad713d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [HUNTER] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1776215861-0-0-69d95cfc2654ff97c0a6b57a9fab08bc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [HUNTER] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1776215861-0-0-f2126b63ed72ecd8b56635f708407afa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [HUNTER] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1776215861-0-0-e51864ccdcc140676966b3768c52571a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [ HENRY] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1776216221-0-0-60b87deb0715bf7eb5814748a32d199a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [ HENRY] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1776216221-0-0-de6c6f3ae8627c761bab3deadb7e4659
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [ HENRY] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1776216221-0-0-b8fc7af585d27fc55a625f4a5e2a0596
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [ HENRY] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1776216221-0-0-db0d9ff81833ff1ef04b2dd2f65523cf
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [VENDETTA] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=b677eb0513a463e0d1a7e04df4d61466&txTime=69df2eed
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [VENDETTA] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=73c37078af57ca69dbf9313f6a60cd6d&txTime=69df2eed
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [VENDETTA] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=b677eb0513a463e0d1a7e04df4d61466&txTime=69df2eed
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [VENDETTA] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=73c37078af57ca69dbf9313f6a60cd6d&txTime=69df2eed
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ LUCAS] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1776216221-0-0-6ade572330f0b72f7cc1afa39fb1a00e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ LUCAS] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1776216221-0-0-846f65e06b4f91813aeaa1fbde2338e5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ LUCAS] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1776216221-0-0-c565aa56a74d2cdde106b8924c19cf00
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ LUCAS] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1776216221-0-0-f3b44bb62770df0f7a996bcf488d748c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [A CHE] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1776216221-0-0-119ffe00a61f778c7277cfeaf73326f6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [A CHE] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1776216221-0-0-7f0db84a2d2f2fdc94790758a764f6f1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [A CHE] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1776216221-0-0-f740ba6f333cb75513b6395d9374e278
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [A CHE] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1776216221-0-0-13085109ce43361ff6c07190aa363bb2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/2385823c22a60b6f2a0085ed07c7322c.png" group-title="Live Event: socolive",07:30 ngay 15/04 Palestino vs Montevideo City Torque [VIT BAC] flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1776216221-0-0-676956a740935122008b59f3a3fd2592
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/2385823c22a60b6f2a0085ed07c7322c.png" group-title="Live Event: socolive",07:30 ngay 15/04 Palestino vs Montevideo City Torque [VIT BAC] hdFlv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1776216221-0-0-155358e85519cb8193ad4a7e5b1c7548
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/2385823c22a60b6f2a0085ed07c7322c.png" group-title="Live Event: socolive",07:30 ngay 15/04 Palestino vs Montevideo City Torque [VIT BAC] m3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1776216221-0-0-8f8aa2ef82e6407c343d842c7d24b4fa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/2385823c22a60b6f2a0085ed07c7322c.png" group-title="Live Event: socolive",07:30 ngay 15/04 Palestino vs Montevideo City Torque [VIT BAC] hdM3u8 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1776216221-0-0-35011c3b9c39677c81216f27f3d8d53d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/2385823c22a60b6f2a0085ed07c7322c.png" group-title="Live Event: socolive",07:30 ngay 15/04 Palestino vs Montevideo City Torque [ KAN] flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-283501_lsd.flv?txSecret=1547e184806540d0a24a38913c77e100&txTime=69df3055
@@ -589,6 +470,174 @@ https://pull.niur.live/live/stream-9912115_lsd.m3u8?txSecret=9c94b0994299267af47
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [CHAN SENA] hdM3u8 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=e32ed84390d2d4036bc0b258149aa35f&txTime=69df3055
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ GON] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.flv?txSecret=603c81ac1c2042822db2cb5e452e1611&txTime=69df31bd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ GON] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=ca3f7f6c2a078649d97354ec0ecbbc7c&txTime=69df31bd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ GON] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=603c81ac1c2042822db2cb5e452e1611&txTime=69df31bd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ GON] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=ca3f7f6c2a078649d97354ec0ecbbc7c&txTime=69df31bd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [KING] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lsd.flv?auth_key=1776216941-0-0-831f744253101e0202ba0b682fa6836c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [KING] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1776216941-0-0-38847213cf90522bb25d8df9642827d4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [KING] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1776216941-0-0-e0402ac6e05eda93586f6def6c5bde79
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [KING] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1776216941-0-0-739718e4d0933e7f368e0eb0a7fa4a20
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ CAO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-597929_lsd.flv?txSecret=7dff5fa0fe2e0204aa597badcb050b8c&txTime=69df31bd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ CAO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-597929_lhd.flv?txSecret=6a484605c4955558f30b21519f031ca8&txTime=69df31bd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ CAO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=7dff5fa0fe2e0204aa597badcb050b8c&txTime=69df31bd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ CAO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=6a484605c4955558f30b21519f031ca8&txTime=69df31bd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [TRA DA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lsd.flv?auth_key=1776216941-0-0-ed0dd53814c07989efbae5131c577352
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [TRA DA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1776216941-0-0-4442f33f012e780656870952b043f211
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [TRA DA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1776216941-0-0-24c4848b8f71f2a034ce01afa7ef5803
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [TRA DA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1776216941-0-0-501a257d524559a0fe45ec485323cb54
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ SATIVA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lsd.flv?auth_key=1776216941-0-0-7972c063616dc68a07d4d0c9a0da6e5d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ SATIVA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1776216941-0-0-9ba3dc4a287bc29d61d9f7da839ab2ed
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ SATIVA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1776216941-0-0-39175db153f2ffea632a2dbaf479f69d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/446e6d084972087019f3734397300635.png" group-title="Live Event: socolive",07:00 ngay 15/04 Clube de Regatas Vasco da Gama vs Audax Italiano [ SATIVA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1776216941-0-0-3d0c28f9991607b3ec0624a41de1e6f2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ MIXI] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lsd.flv?auth_key=1776216941-0-0-cd59f5d0574eb98f3e66743687329afc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ MIXI] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1776216941-0-0-60aac3c939c2e5352761d8751210a76d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ MIXI] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1776216941-0-0-3bd97fa568f058936ddaf2fcfa46b50b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/4d250a3f73e513ce3bfa557545f5b493.png" group-title="Live Event: socolive",07:00 ngay 15/04 Bolivar vs Deportivo La Guaira [ MIXI] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1776216941-0-0-1d5feb6772cbd1680b48b91417e9b06e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ NIBO] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1776216941-0-0-818c2e3532f4410cc8e76a31a4a60722
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ NIBO] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1776216941-0-0-2e9bd8dcc735987fa7ce0168b21430e0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ NIBO] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1776216941-0-0-b657298586fd97195d0e5f93841e5219
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ NIBO] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1776216941-0-0-af21079196399c4f9b4c2b5b9e0448b2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [BRIAN] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lsd.flv?auth_key=1776216941-0-0-40f970ef6395564c3d069e3fda3c9c30
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [BRIAN] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1776216941-0-0-3d54ae540d7e93520bc0a0aa940ec9c9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [BRIAN] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lsd.m3u8?auth_key=1776216941-0-0-606aa7d8a48a2aa721ddd39cc6325b3d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [BRIAN] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1776216941-0-0-b89a1d5db8def9e54d36d1563b7904f1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [HUNTER] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1776216941-0-0-acc9a4de9a10a30d84792ccc4b8a91e1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [HUNTER] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1776216941-0-0-b3e6646b67e939db1839e848c2ec0e35
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [HUNTER] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1776216941-0-0-21b7cfc644eaa000a6daeede506fb05c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [HUNTER] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1776216941-0-0-2176144fbc50192546d5d554810b246b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [VENDETTA] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lsd.flv?txSecret=bc73177e375ed3b739904d181876eba6&txTime=69df3325
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [VENDETTA] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=eea28e915e25cb80da069f8b9173cf8b&txTime=69df3325
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [VENDETTA] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=bc73177e375ed3b739904d181876eba6&txTime=69df3325
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/0473c2b9d93797daff8eb5ce5ebbf8db.png" group-title="Live Event: socolive",07:00 ngay 15/04 Boca Juniors vs Barcelona SC [VENDETTA] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=eea28e915e25cb80da069f8b9173cf8b&txTime=69df3325
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ LUCAS] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1776217301-0-0-ec3bb0c1f647e26bd7f22589530c4b87
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ LUCAS] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1776217301-0-0-cf217cfd0be9b154087fc204c0d06d4d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ LUCAS] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1776217301-0-0-676898e3d3e78bfb88dd49ce4e60d150
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/62c38806deaa2a724fbc6dca14ab9212.png" group-title="Live Event: socolive",07:30 ngay 15/04 Santos vs Deportivo Recoleta [ LUCAS] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1776217301-0-0-64e2c76af9cfb411607e5661d6bc997b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [ HENRY] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lsd.flv?auth_key=1776217301-0-0-6125c9089df19d62aa8ea2d912b645cc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [ HENRY] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1776217301-0-0-fefd7762c534e1d27d3e538b82c90712
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [ HENRY] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1776217301-0-0-76d2e81cedbb4494819157b425d73520
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [ HENRY] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1776217301-0-0-48d2b1a87a2f9d23ee2e4366839e73af
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [A CHE] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lsd.flv?auth_key=1776217301-0-0-f2c0f97f34e4892db599767dce736d60
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [A CHE] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1776217301-0-0-23a87c7cea4fb3d0bbab9a79b3eb3ef2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [A CHE] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1776217301-0-0-777a581e040e571725c4f037a406a432
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260413/3565a657e5db3455c7da766b23187395.png" group-title="Live Event: socolive",06:30 ngay 15/04 Charlotte Hornets vs Miami Heat [A CHE] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1776217301-0-0-ce1386c10c9ff8d65c704e6641fe227a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/2385823c22a60b6f2a0085ed07c7322c.png" group-title="Live Event: socolive",07:30 ngay 15/04 Palestino vs Montevideo City Torque [VIT BAC] flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-474421_lsd.flv?auth_key=1776217301-0-0-6dab8cd9615ccc9f1741fc5fcf02a736
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/2385823c22a60b6f2a0085ed07c7322c.png" group-title="Live Event: socolive",07:30 ngay 15/04 Palestino vs Montevideo City Torque [VIT BAC] hdFlv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-474421_lhd.flv?auth_key=1776217301-0-0-7815121e6e673dbcc0ada27ff1fb66c6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/2385823c22a60b6f2a0085ed07c7322c.png" group-title="Live Event: socolive",07:30 ngay 15/04 Palestino vs Montevideo City Torque [VIT BAC] m3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1776217301-0-0-5d491577d53a9cb72c2cdb639a21796f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260412/2385823c22a60b6f2a0085ed07c7322c.png" group-title="Live Event: socolive",07:30 ngay 15/04 Palestino vs Montevideo City Torque [VIT BAC] hdM3u8 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1776217301-0-0-80f95bbf8defc867b1fca9530f7d608e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Charlotte_Hornets_%282014%29.svg/1200px-Charlotte_Hornets_%282014%29.svg.png" group-title="Live Event: Hội quán",06:30 15/04 Charlotte Hornets vs Miami Heat FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1251,43 +1300,43 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/274842_hd/index.m3u8?is_vip=false&
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/wyxqvu0o87ri6p.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] CONMEBOL Libertadores | (05.00 WIB) Estudiantes vs Cusco
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://iframe.ifnewgen.xyz/partner-stream.m3u8?url=https%3A%2F%2Fdara.fzstream.com%2Fstream%2F24%2Findex.m3u8&client_id=dara&uid=ohu6lvee&is_vip=true&verify=1776211200-K7MyKvFa1n1KCFl4MA3EfMZWWy%2BxdW7AgL8Few6GJZQ%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
+https://iframe.ifnewgen.xyz/partner-stream.m3u8?url=https%3A%2F%2Fdara.fzstream.com%2Fstream%2F24%2Findex.m3u8&client_id=dara&uid=yxwhzu8c&is_vip=true&verify=1776211200-zJbqoiYxMpxZO2twxNyCpNOmu0BxtsRZx84JB4YBExM%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/66t3bt4j6q9ooo.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] CONMEBOL Libertadores | (05.00 WIB) Cerro Porteno vs Atletico Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/398_hd/index.m3u8?is_vip=true&token=dara-whii4l34&x-sign=7af694bcccd665eece21a473a789dd6b&x-time=1776213240|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/398_hd/index.m3u8?is_vip=true&token=dara-ianr9814&x-sign=a4bd8d87220b9d419736fb5de00dc5f4&x-time=1776213900|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/nnej3dtupyy8qa.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] CONMEBOL Libertadores | (05.00 WIB) Nacional vs Deportes Tolima
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274842_hd/index.m3u8?is_vip=true&token=dara-71k6ydi4&x-sign=8de492cd005a6447feef9e94de81f7f0&x-time=1776213240|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274842_hd/index.m3u8?is_vip=true&token=dara-bbe5s8j5&x-sign=159e548557aaf80747805f1961479500&x-time=1776213900|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/1fml1o172umm37.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] CONMEBOL Sudamericana | (05.00 WIB) Gremio vs Deportivo Riestra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274849_hd/index.m3u8?is_vip=true&token=dara-zt75oh90&x-sign=07f9d213b2f040ab9d81ee09056caf8c&x-time=1776213240|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274849_hd/index.m3u8?is_vip=true&token=dara-u294mrsh&x-sign=76f625975c357b153c5b716ff8057929&x-time=1776213900|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/j62stk2vjjajwr.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] CONMEBOL Sudamericana | (05.00 WIB) Sao Paulo vs O'Higgins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274843_hd/index.m3u8?is_vip=true&token=dara-9gfk2j8x&x-sign=e94840e30d78a98cc92a8aa322251476&x-time=1776213240|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274843_hd/index.m3u8?is_vip=true&token=dara-8s8mv3u0&x-sign=988fd4b19d3163300871c07c89a749ae&x-time=1776213900|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/jyn75tpc2ot92y.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] CONMEBOL Libertadores | (07.00 WIB) Bolivar vs Deportivo La Guaira
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274846_hd/index.m3u8?is_vip=true&token=dara-cxuarmxh&x-sign=e3b3e2caa0a9795bb7796695381081e3&x-time=1776213240|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274846_hd/index.m3u8?is_vip=true&token=dara-v46gs9mb&x-sign=5bda2b8c91b443b83fa627f54fb94486&x-time=1776213900|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/jtwgi0tojjfueb.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] CONMEBOL Libertadores | (07.00 WIB) Boca Juniors vs Barcelona S.C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/398_hd/index.m3u8?is_vip=true&token=dara-94m7c8hv&x-sign=d159137665567a6cdc44904fa4e0507f&x-time=1776213240|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/398_hd/index.m3u8?is_vip=true&token=dara-3ygkmrqh&x-sign=5b50119d584d7d5ab9262ae2450a0e7a&x-time=1776213900|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/15sesh7283ejvw.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] CONMEBOL Sudamericana | (07.00 WIB) Vasco da Gama vs Audax Italiano
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/161358_hd/index.m3u8?is_vip=true&token=dara-eft6euwe&x-sign=0856acfe60803fd303fa79076c385b31&x-time=1776213240|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/161358_hd/index.m3u8?is_vip=true&token=dara-ox5fcfgb&x-sign=4e0fccb37c79e99726b48f11150832f8&x-time=1776213900|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/ceq8othhst4i8f.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] CONMEBOL Sudamericana | (07.30 WIB) Palestino vs Torque
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274849_hd/index.m3u8?is_vip=true&token=dara-gidlmh7b&x-sign=28a4124522db4fcb9638d0ad947172d8&x-time=1776213240|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274849_hd/index.m3u8?is_vip=true&token=dara-j0u2t7ht&x-sign=14d338be1855bb39ac7345f1165ef440&x-time=1776213900|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/74qv4kqabkz4ft.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] CONMEBOL Sudamericana | (07.30 WIB) Santos FC vs Recoleta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/161359_hd/index.m3u8?is_vip=true&token=dara-bel2nt2d&x-sign=dc3ef82897396d4d62c4703dcf191e1d&x-time=1776213240|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/161359_hd/index.m3u8?is_vip=true&token=dara-6d59mjo8&x-sign=a1eaf7c9fe1acfd9cca363cb04e4a42e&x-time=1776213900|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/yzhvz93o8eab97.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Friendlies Women | (09.00 WIB) USA vs Japan
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/ia1w2aisylwffh.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] CONMEBOL Libertadores | (09.00 WIB) LDU de Quito vs Mirassol
@@ -1320,7 +1369,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/miIBZPwticRGOPIabSwH78IDVJw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014310/f4126d.jpg" group-title="LIVE EVENT NOW | VOLI",23:00 WIB 15/04/26 Galatasaray HDI Sigorta vs Halkbank - Turkish Men's Volleyball League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRGV2QjJNMmtsdTdmZUZ0aTB0aTJ5XC9KYzBLeEsyOTMzY1I0Rjh0QUVRMlFwV0pnZDRjWHJEV2xCS29leGVPTmxldlEwa2N6d2xsaGVMVktSbFFZUDg4NGtBSkNXRjNZT2NXNEgrQ0tVNVVXaE9FV1wvZDlScmtSOWFUQnBYaDVlSVJrZ2Y1ZENRODB0M1gwOXUxcHgyb29aK1VUd2NsTWZ4RFphTUdtaDdEQlhabWVzUEp4K3YxeitsamhBd3ZZaVdNUEtHSklQRVhxVTlcL21HUFdZeVAyK0xoUUVxQm56aHJyS1h5WVppUmpCaz0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiTGlXTHNLdUVGWkZmMlk5M3U5dnlmK1gxVHhBbERuaEMyYXMwaVhmK0lQODZZQ0tObTFsWE5qTlpKa1Q3MGd0Znk1VUd1YlBDMEpGWVIxRjJHM2pwNGVwNmJDbmpWQ0FuQ1pORHQxK3ZFXC95TjBaU2JvdzJlb1pZVms0NTRsRnFVZFZrWEJ2bnBNWllHUEl3bkNEcUpNbVpqQkcxTlwvS3BuM25sVUJiazNoTUJBcitUeWlpeFBlaGNMWFlLeWFLZnBYcVhTWlBxRTN0WDNwK1JIVXBXSVJ3b2ZXcGZ5UUJhK2ZqZmpuVWh5c3Z3PSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GPTR4fTEj0oVs8dRIkTrg2Ho_J8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014311/4ed817.jpg" group-title="LIGA CHAMPION🏆",02:00 WIB 16/04/26 Arsenal vs Sporting - UEFA Champions League
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Tr-0YUQGTYZEmx9U4oVN7oxcgj8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014312/e8ab2f.jpg" group-title="LIGA CHAMPION🏆",02:00 WIB 16/04/26 Bayern vs Real Madrid - UEFA Champions League
@@ -1347,30 +1396,30 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJqUndLWW5WckY5Ulp5UXd0U0hBVndsZDBWaTFjbmFcL2Z2VGZnTHVDV1J6OE1cL3VIcEQ4WTh0a3Vzd3BUYjNTNG1rQzBTSWI2SnREM2JhVUU3aWdRZ25tZ0ZQcHZpaXRDVWFwRVQ3K291THBic3lEM1JMc3VZN0t4dmlCbUlYQ2ZBdVFpYU1FUGthMUJvdlwvXC9UVjZHU0ZCdjFnOUJvYlwvRGZCZ1VGajJjMFZsb0hFUUtFTGFVcnBaOVdcLzN2S3BzbGRONjZld1lXZFpQSDNvUmR3Z0xNS3NWNEVtam11UVZmUmxsUDJ4bm83MHk3TzlmVDNIdVpUd01qTWZYdFhNYm1vZXVLd3RodWxEMmhybmNjSFpiTExwdVBKTzZ5eG9vWXdtMFFmeGNCMVQ4cG8yb2QyYm1rc01WaHlobG9xRnFQVTlCdHAyaE5iRE44OEc4RWlrRU8zUHp6NHptTnV6NXF6M3hhdDZ5bHRNQWs9In0=
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ4MTNPV09oekZCSWwrTUJSY01XSGRzTGg4NHRpc25cL2ZIMTRpeXNpcUQwdUsrWFlEY2pRcng0MlQ3WmNGSXRIcUNkMGpCMVdycFZKTzhwRlVcL0cwcVc3Z0J0bWtCU05kWWlcL2p4ODJIWUxYTHd3ZGtZM2hkY2doQzRjRndwd2Q4QjNVdlh5TnRieXdVbUkrUFJ6SEt6V0xGSjE4TFB4VHZPR0Y0Y3llTzAxXC81ZURrMmN3Mlo1NXRwcUI3SlwvVzc0dzMwODMzbFJaeWpuOU9tREJiNVlJUVN0STN0Zml5UkdGTXR2VktvNGpUTWM5TmRaWGNcLzhIZFZKUXM2b3pqWFJpVVdaaUNwODlIRW5Oalk0dWY4OVQ2eCtGckdHYWkwTVdzaUlvRE5jMVJXb0o5VEI4cTF6RG9LUHhkVUxqXC8xSVFUN0ZQOFFxOGNIZzU2WExUOTRONWRkdWp4YUZQa3FZdHhGcGxEeXR0aFZvPSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRDdkaURndEVMSHJwZGFPWEI0M2VRdFhNanRzbGhvVXc0emRnVWxHMHFzUkVSRkNmOGpSbTZcL3EyN3ZvOWJtcjd6R0d5dVVLb0JDM1hJOE9GUGZRV2s0VDA0eE1WbkdRMldwdjhuNm9jeWhyUURYVUJYXC9heHpHSnN3SG1MOUZtbFQrMmFuODZQbUVWZmdlaUZVeGJ5Y2tCbkxZaWdMSFphNndSQkRzSjlzVjNoR29RVzRCRU02ZXZ0MVkxRGVJQ29wblR2XC84S05LaUw0Q2RNOXdJRmRkMUJKZ0xmaTVLcHJodG1URktLTVh3a1hQYktTMVhDVWllQTRvNm1WempKVmhIM1pJaVR2YkY1VENweDdlYXUySkIyQjJ6dTU2cGUyMExiSlNCTUlRZDNaakpDSjFGdGFISWgyQmVvbFBHMk5xYkoxdGEycmpvZGJUUkFHNkRRRlMwWkpmc3ZWYkdWQldxcVlzK0J1MmRIcUZRbjFKUkpwM0t5NzNWUnA5YUpzc0Z1WmRPQUFQMzN3TUFBT2JlQ3haZHVNenloY1hsaWRudjdpbVhVck1WVT0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoibFpuQmFhQXM0bXRZRG03NHNoSDl1c3NxZVBXODJ3Q01UWG1NUW9rTnF3NFRZdTIxUk5hZnVcL08zOGdcL0Zrd25qc2hDZEFWdU1uSWtmbHpXQXFvVGVjYUtBUzM1enZlYUFaSk5LQmNOem9FdE5tRWVXR1p0ZUk0cDdCSDNCYUpBVHN2ODhWUk92WUNTSk9lazhON2RHa0I2MEhOU0piVmdsK1BRUmxVWllUR0I2SVo5RjdPSVNtNTRWeFNjYjh0UGFrZzFRd0daUGFWaGU4SXVsdHlBTlp2akxHTlQzRjQ2RlZSeWxvQ1dFVUlMZVpIWTRGcFJydURHMjZCcHpFWDBHNGNhYWgwYkNyaFY2bkRTbFgyZGFuRzRkR0Jaa3MzcGJaUHhBXC9lNktRUkJqeGhEdEFHK1wva3hlNnBtWTVNOVBOMGZNZWs0QnRJYzhYXC8wOHFISGpEcTYyTXlhdlJtRnlobTlYRnJmK01lR00zUkV6XC9SNjNRZkhuSUpCMVFFOFJUSTdsUjVSTGN2cGwxXC9sQTErbFwvSjRJTWtGVWhCU1dPTEVncnRiUlBVSk40PSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="CHAMPIONS TV",20:00 WIB 28/07/22 Mon 13 Apr : Generation xG (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJ3Y2lYaVV1NHM1cHFKT2FxTUNFbjU1cnk3TkxsSGdXQk8xY1ZTVUxPXC9LdTA4bE9McXZNREZIN3FxYkdTcUNLb25sOStwYndHYUUwOFBvUlNHVzFiZk1BQUVzVUk3V2FYWlpqb25jbjl4eDA3QVVvUXlJbW5WTTN0Z0FQV0RJdnRpSXlSQnV2NzdnVWhkZ0xORCtUT2VQWmN1WkU0dTJxQWlGT0U0blZNSWJWQmdWZ0hBV055M29YYmdZTDR4TnhqcFhLdjZlc1MxWDNnK09mZjlRdDZBNUFKTlwvd2E3QUJcL0ZmMUw3MWUwNEx3TWl6ZlpkWlZMK3Z0RVwvZGRKRGR2bmtGTTlkc3hMbG1ndmNFR2JcL3NoZXdoMk1tYm42NThZelwvK2xXM1l3N0xEZlpJXC9TdTUya05ZTmNzc3lVMXY0c1wvbk55WUlNT2RlYVUzeHo2a2xlclg1VGRuME5WU1dOWjBYYkJVSTh4K0VCaz0ifQ==
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJaN3R1V1V4QUtwSHJ5NHZUUVlDQ3Noak15VGlmMjlHVmIzcEJsV1hZZVdYUlROQkdUSDRwc1kzYTdtK0x2RVg5QkJQTG5JeHZwQ0xzZkNmXC9vdndPbmJ5dWZxZWFVR0ttdktsWngyQzB6UzBld0NpeFZTeUF4NE9Nc3owTjJ6VmdXMHJucXk4N1kyYkxcL2xEOFN0Q2c4MjhSUzZpYWh5TUpIVFhvQnNLZEVlc2VPV3o2UXd1bWQ1WFFhdnBaeFBlbG9BazdncWZpbjdJdTBJUzR5cDhnU2p6dG1USEszQTBhanBDdDYzZlhRM2UyQnVGcjFJckxcL2FybmFMZTV4UkdmQlwvT055bHNrclVCKzBIcENQVE44T3FaVEFIT2VNUlwvVnBBeVB4ZUZ2cWRVVHdyeUZkNnEzeElUeE95VEdpSDBESnJiZkhRN2NSYXQwb3dDNmhHclJhWXM0a1ZJRmxFMEFOdEZjOGVFY1wvSDA9In0=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiMHVFYXJ3eTdyVGVjN2lDa1VtU1wvVE05T2JDclwvWTdkbmpHTUkwM2JpcDBTNHErZkpXMmdVcis5QmVIa2pnbzF4ZklnejJtUXNKU3ptVHYyWkNHOUgyMkk2RzI5WE1MMGhLa0VZZlUxZ0VjdTducFZ0SjJuTU5UT3Q4Y0JsRFd0RkVLVHA2ZlJnd293a3ByS1pPOXd1R3pQOW80YmRySCtJN0drcHhOU0lBd0U3YTF4KytBK1RiMzFiYW94RVpKWGRFTitRMFZmNXNNTWc0RG5iSCt6YU1NOCtMMjhkb0wyVU0rdG9nYWxsdW9vckszT0lZdjFiZ1c3Nnh3b1wvTU9FS1ducUFFY05uQ1llemRzS2VBS05mc09ZRXh4VXNhWCsyRm8wRllGd1ljeFg0cEtvd3JYOVNjdjhLZlpqZ2ROenBXTEVKT1liczlPXC9WeVAxMHlVRDJcLzcxdStGek9lRHF2R0tIaWJPZjFlUlZRb2kybjhUelwvQ0ZTb0tkOFlqb2dyV3FxVHZUY3ZrSHNwVk1KQVg5MTJoMFI0Zk9VcFRLTXltSVI5WG9ERmptQT0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiTlp4YUZ3MmNWam1oWm9BMkphMEEwTWwzdGdhaDVZdFFGUklabHBrNzlEODJwb0NNNXMrSEp4UWRBVW1BZXdmaUdCVVRINExCU3BcL2FcL1d5aFwvdEF4dndONWgrQllGMllHTkdteTBSRmU1REVHRDJ2WDBmMDBcLzdBNXU0eElURjZ2S3lxeHdFYThzV3R6UGF2dURkOWFjckpEcG91cW5ET0FqcXQzZ1FLNWs2ZUp3Q3pOcHllQ3lrTDNHdW1qYTk2bURuTm5tZllHUCttNWxGYXRHMVdjMDNNR0luaWVyM2F3STBDUXlKbFlHdlc3OTVScmc4Q2VDYTNPY21LYmt4K1BSQUJONHB1MUkxanRUV3I1NDJBR1VhS05tRURUejF6TjZ0dHo3d2RmUUxDbzJuc1BRQ2VscDR3aUR4aVhjbWVaTWNQazNNclNuVE9cLzJ5bkozQkpKQXZ4MVhGc3BNT3Nhak1hTW9RUGNzUitKT0xLYXN1T2tBTVFUZWlsSnNIMjE4aFM4a3ZDZEZ1VzczakptNW1KZ0dUaHVLaGRqMzlKVzFUR1JxSk04VzBvPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DDucwJyoKvfCLglPujyq3EPGcjc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" group-title="CHAMPIONS TV",00:00 WIB 09/03/24 Western Sydney Wanderers FC vs Sydney FC : 25/26 A-League Men Round 24 (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJGK01rcFlBWFc3R3R1RDdZaVU1YVNZOWpxZ2dMQlJLK21FU0xWM2dlUTJXa1FNM0tiWVFqVVU2RUphZGIzcVN5dEJzc3NUYStoNnVid3N1TG53M1wvMW0wQ0NcL2ErV1lYR2F6cUxBcGhUbE1wa2dpNEltT2hLN2lOOENhTTRmOWl6d2c3S05RMUhGTEliVldyXC9Nck0yQzlmY3FOV2d2WHQ3XC9CZUROVWFGeHl3K0tQb1RtNHh0RHZIZXdkQ041VmhSU3M0T1N3Mmd0UGwxclp1b3dOUzBCYW9jR1YzMEJGU0U4Yzc5NytvUDUxQUNjVDJKZzg5eXJ2NUdvYWFOMnd5S29XejRcL1ZjZ2RcL0JXSjVOdXluNnVWWDNkUHR4dFVcL1JHU2FGRVYzcFB0TWw2OERYQUVBeGV6clh6dXpRNGhlamtDcWNoQVh1VjlkUmtwNkNwcFdOK09yaVpMMFJEaWp5aTJuNzVmZXNzaFwvRT0ifQ==
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJOY3BHYk8rZURteU1qTkgrd05rVlJ0Z3ViVTFwK3JqUXpnRjJzVGtLclF3THU3YlM5bHFPQ0g2R1g1MmRTbkw2eGZteGJZNzlieVJVbHA5NXN1UUNENmJnbjZKOGt6VmNGS1JsODRKQmdhTVNSbURwTkU1UU1ldXpxREUwb3VoSUhjQ2Q5ajB4Tk9LNnIyMCs0MVlkWlU5UjVHaTBiaDV2cTNcL0FHbDVxYlUwdFJMM2llWU9vYjc3d1FYbjlUbXBnT2ZONjVHazVMTWJCYTJRaGVSTVhcL0oxRmlUdEl5bW9vT1kxQlRoUzJzZGtYMWROMXhNSTNlNlR3Y1ZDWitFVG5wbG83WjlFRnVzUlFQekRKclwvQnpBTlNTMWY2ZElrYjlTMGE5T1RISWJOZ3had3BvaW1jaXUzd1NpeStmOUJiMzZiNVVHOUpSRDRVc20zRWtTR1wvYXB0clAxNTI0Wm15amEzeEtqTVVUN3pNPSJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiNmZ1Y2JObkxzWDdIamhnXC9hblpKd2hBWmFLMGtyaW1WdXdNdDFIcVwvUXhMK1wvNDd4ejYyRUNzRE5lWnMrTlNKVkNsWm54SkpGU0x2RnNjcmptYUlSdkdvQTlsZW1MUmhoTkFpM2lPdUtFeVp6YTVCNlgxWXNYRlo1SzZIM3dHN0JZQXJIcU9sYkppa0M0Q1ZYenhUYkJVSlpNSzI4aU5rUE1ZUG9hbXNXcjFTMkJBMldYSElsbGhZcWNXOTdNNndHKzd4TkRGdUp3XC81dzVxdEZCSmk4MDBtaE95dWdIemJhRGh2N3ZLcDliR1dsbElYUVVHTWI2SDdMVlVKOGpXK2xiK0VSWkVPZ0hsNVVOUEdZUXF1NGgreVQwazY4U0NcL3BnczF5XC9ocU1DODRCRkRLWXF1MkxXK1BXOVJQT0JSRHJhdmFIVGJjZEsxQnp4RjlcL2JPYXdoSHNtY1IyNWZJRDBBVHAwbEw4SlgzbUVHT0pCcmxIZ1wvbkJEWUdEZjE1WFwvSEFDaDlpYUNQQ3E0UjYzTzFvdThpVFdSbUhnZ0xmbkNlRFZrbzlYd2F3MD0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiMTFkNFN3Mll6dW1sMlZBSFc3VERES3R6K3pHdDZXUlFmKzBuWDNcLzdHMjlobEhya2tUM1N5V3pHN1pmOWlXOHlpaW1DQUY4S0hOcHB3YVlTYVwvZ3BlYUl3YmdpaFpcL0FnRko4VTVOamxvczN6QW5ZZkJYdWI4dkJNYkd3Q29ZRkRHaEp6TW16S2NZWnVJZjI3WlNhUW9YaERZSkZ2SEFtMnpVUk52eEwxNEh6czVHR09GNkpoM3NzS2FDTjZBaEpjVmVrNE82YXdpbUh4dE9rbFhXUDVpdSt5clRBMHd3VEd5S25xRWpuMFVpQVpnZXVzWjdjZ3RUUkMwVTEzK3oyZWQ3dEt2bTgrUFwvWkk5Q0NoNTFKb3NibmRYdzJJTlpWRG9SaVVOK2phT2dxWEhcL3lMdmVqQVo0VjJnKzdrMyt2Y0I1QnNBT292WCtlZGt1d1hmMTBHekVrRHFlWmpFMURjc1Ntb2FVa3BIN2JobzZqS01zSWRGaEZpMHVrT0d4K3RvYkh5SGRWb2g3UjRlOFNWRVV5djJcL2xVR1AzbGM2ZnFabWpTODVDUE9mMD0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" group-title="CHAMPIONS TV",15:00 WIB 16/09/25 Champions League 25/26: Manchester City vs Real Madrid (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJFcUxEV2hMXC9abVZ4UXNhM3dJY2hOQUVFOGlNUjdBUzl1Mlwvcm9Qdkx5XC9RWU5kTjU0cG0zcjZXTWtNZTZXclRFdDI5aDVMaWs4akdIUnYwSW1VY2M1ZXQwcVhcL2JmdE9VdUxaZDU0WHdUNTBhcmhCZ2JLaWtxVG4rQ0MyaUV4cFgrNFhnU1JpTnkzeWFWSDFFSFJHT0x4ZFk0VHY2aTJUSCtWelZqRVR4VDhxazhGR2ZMTkhQdVlDTlVDd0F2ME1TR0E4dlwvWFVsb2FMUXdGM2Qya3BKbTFiK3JGc0dRekRweVlWakhsTzR4OTFVV0FJRjEwZFNUK1wvR0kyR0ZWcnErVU5wbVlXamtHdXJJaVRENUxQc2ppZHVjYTd5R2Y3ekoxbjFOMkFxTVo1K0taT08wa2xUOWFlYzAxeFIrWG9oRW5iWk5jblpzWkxoMmx6VmhIcGhIZDNPNFcyRGhXUGt1V1VyWE1sVk42XC9VPSJ9
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/pot/cantik./license?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJrZXkiOiJYUDJjMGs3VTBTa0ZabUJsTFc1c2VRcmdQRURsdFh3MDJCQnQ5R2x6VDU3RGJWVWVZXC9JK1dCalZvQ09vR2sxUzk5ZUhTU1FxNTFiTjNYOG9NQUgzM2d2K3RSSnBiUlNBWU5MRFJRSkxYZXJhaGNnTkk5bUN5T040eHFENU1HZmtzbVZsWks4YXZRT1wvaUY4RVwvYW9tNTh6SzFFRTRuWUM0MitDQ1VBNmZLT1VBM1pvSEpaNEU3RkpGeEZLREU3OXNvc1psY1R4MzYyXC91K1R1bkQxZ01Fa0NTS1VSVXdHMlcwY0V0MHpMR1gzY0g2VVF3ZlRxWWd2WG12cDc3YzM0XC9pbzNHRzZDYzRWUmkxS2lWRzVPVTh4ZTNxTllcL0o0c3FSRDNKR3g3VVJwbUx2c3lGNHJZbnFzak9rNVwvRkwrNVBSTEV3YnVYRjZWZitzSVZtQUJOR092NzQySndcL1k2XC9yeXdmQlVaaFdhelU9In0=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiamQzdk1IUU00VXhMaklEWFlHNjNVME1cL1ZlS0wzdmZuTmRCNnRLWnFMYkU4U0hLc3FVUmRwY3lLQ3VsZ1Y3ZCs5UkRoS2NkOURCKytnYk1ib3RtbzU1RmVUSGpEYVpjMmhhMnp6ek9VVXlNTlpvYXB1VjVNYVdsZjViVGNib1ZBXC9QUG5JMDBwTkVQOHhzXC9qTFNMUzJYNzFkdGhNRGZ1aWlkbGdtdEZUbU9vUExuazZlQjhSa3pUaEZocW8rRW1QdGRsQnQyNDJhaTFZV05UYjBmZVFWUVpwSGhDZkV3OExvVkNxaFNmYk9BQUQ3K2JMTXRmdXhiM2hYRmtFXC9CMFd6U2lKU1dwbWhWTjMzYkthNjFickJ5RkJNTE1LSzZabWlcLzdrb0RIZGRHYUkzT2FZNGFIeUh1bUpKdGo4VWt0RG8rdDZzYzA5dU9Ibzg5Q3lJSnZrZGhXa0FnV2FpK3gwSDJkQ0NOeTBTd25tYk5VNk45c3ZiRVQ0YkFjTGVkeDRpRk96dXFsY0pxNndWSDdMTlpLVzlWVlpJUVRmbHRTM3FHNnE5TlYyZ3o4PSJ9
+https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiczhcL29EeE1vU2NTdlwvVlB1NkRiSHNIQmM5T011MXdFWWdOYmpGMnlyS0ZMYUVERlkwNVIxNW5ROTE5cFFua0paT2VURGYwaEVIb25SXC8yM1VOelFLOFE2V2lPWWRGemlpbVRWd24zdm8wV2NGbkszeXNVWXA3dFBSWDM4dlpvYUFhOElLXC90cXJnK2NDMHJXWkVaODJ3RktcL1F5UnlMNEY4NjhneEVwdmRBdzY0XC8xajZ5c3ZxRkpuSWJQWUE5K2FqY1BNY1puZE81c2RiZEwxM1ZcL3ZRelwvbzhRXC9QSW1JNVVCSWdqVDFZM1NNWFg0V2k3aVBCTk5UOXM4WGRDMnlnMisrWmhCckkybkEwc0lXNkZtSXUxRmhWREVCMW5ZOWpkRTc0YWhFZ0FEM2Qza2dxZTNOdWg4VTRDNnBxb1pFTmhlT2VON1hmaE43UlI1ZG1QbGYzVlFlcHc4a3QyY3RjOWlFNEVITlVtdUpDNWllQmRrb1FyQVp3VWcwNzhYKzhxZGJuTkN5QTUzY3FxKzA4c1FCbE5UdVY1MnkrYTA3M0xja0s5dHVVQzN3ND0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wVyfmRreHmcz_oeXUcsyGfI1syg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014309/cd2c48.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 14:00 WIB Newgiza P2 Premier Padel 2026 - Day 3
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iD_2SwIqeTnjHePRHnRGSd23wYc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5013055/948242.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 15:30 WIB Philippines vs Laos - ASEAN U17 Boys' Championship
@@ -1428,7 +1477,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VC5KkON-VY92J3Ev9IBbuJaC5DE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015533/8d914e.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 23:00 WIB Christian Harrison/Neal Skupski vs Adam Pavlasek/Patrik Rikl - Round of 16 | ATP 500: Barcelona Open Banc Sabadell 2026
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/miIBZPwticRGOPIabSwH78IDVJw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014310/f4126d.jpg" group-title="LIVE EVENT NOW | VOLI", 23:00 WIB Galatasaray HDI Sigorta vs Halkbank - Turkish Men's Volleyball League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiQklaWGNxY2pENWp0ZFRncHRweWVreXdISDhMRzE2aXJuNGdpQnZNaTR4Z1dNUlMwUng0ZFwva3A3WXl0Ykw4OU5ldVdYWXVcL1p5NmttQWorMWxtV01UckVVSU5VRnArWnZQdlh6U3lWdlNjOXl6S3l3SEwrVWVlTkNTd0pGYVRvR2hSWEZUbHJteDJFZWtuOVBmWU5JTVBmM0ZwVm5hNURIdjlCSFwvODlSYk5iSWlGXC9od2NaNldHRjBGanBxaTlqUHdpdjEwUGp2RXI5QTJ0bU1nbk9WVzd1bDdDWnNmbkI0Um1DMnFlYVE2SVk9In0=
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoic2NIdUs4bGhkY1Z1MkhoU25CeEE2Y09VMXpwXC9RSGE0N21GQkhFbWhjOSt4OGxlMFRicVhOODNZdzhtSlR3bmJRUVJ2VGZiQ0s1WGVGbGhOeHJcLzJqUWlVMU92Uko0R1VSQ0l0NzJxc3V1cjJ0bFc4SG4ra3BmcFEzdTZUNHN6bzFmR2NHd1F4a3lzdU9ycWJuNjNSYnphZEFxWUYrelp5T3Q0eG43RlZHdjE4TTZicUJoQ2hUR1lTK3FyczR6N01hcEkyT1M3M0RxZ2JMZXFIeFVyalBHK09WaURMTGRrOVloTk0yeUd1WjJnPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/miIBZPwticRGOPIabSwH78IDVJw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014310/f4126d.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 23:00 WIB Galatasaray HDI Sigorta vs Halkbank - Turkish Men's Volleyball League
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GPTR4fTEj0oVs8dRIkTrg2Ho_J8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014311/4ed817.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 02:00 WIB Arsenal vs Sporting - UEFA Champions League
@@ -1460,7 +1509,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AuncyTR11bqTZXB8Q1uRPKiDLnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014317/922f86.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 19:00 WIB Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Electric PLN Mobile - Proliga
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hZV3u06pvIYyuuG9OkZDHtLtPP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014322/2c967c.jpg" group-title="LIVE EVENT NOW | VOLI", 20:00 WIB Bursa BBSK vs Fenerbahce Medicana - Turkish Men's Volleyball League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoibVNkaFhiXC9RdUR4NnlXdVwvbkMyb29XRmZhb0I0djM4bzZOWVwvVnpnbTlsRVZGcWoydXQyQzZJYkNhYWx5YzJWZEw5OVhiZnRURTB3QUNWZkVteWlGK0IxeG5FcHpDWTB4V2JoanVPYndTS2hxQkgxRkR2V0RYMmd2ekdlTWtHNSt2VHduQVNudXNqOFwvblNxY1wvQ3ZXbmZlTTlQV0dJbjJRVVNzU0NPVVZvZ1Y0UVBLdysyaGdMVzlaTWZxc0RIYytxdmY4aWZzVHZoQmtoUUllQTVJcEJSRFRIXC9YYUhobVFrRnBUSG0rYlhnWT0ifQ==
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRDRcL1ZYVU1kNURuaUF2YnQ4QmUwUlJYQlRUaWtVeUV6UlBoUmd1NVdobkJicmV6OFdNc250bHY3VHNQRmw0QlJxYjB0V3NtVHgzUTUreUlQR0lmSnFtUlRyVENSWkpcL0lESlJOY05oRDZJT3l4WlAwMVIyWnN1YXZrRnM2U3drK3FlMGdrbFdidmp3STRya2dhTm5yUlhpeDhQUU1keWtcL3FWbWQxYVdlcnV5VVdiTjZVZUliRlwvY2tRVDJYdVBVNnQ2QWZJUTNORG9abTFnUnN4VXMrRm1tWHYwdEpVRUxTelpTa2RNT3JTdnM9In0=
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hZV3u06pvIYyuuG9OkZDHtLtPP8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014322/2c967c.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 20:00 WIB Bursa BBSK vs Fenerbahce Medicana - Turkish Men's Volleyball League
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/X9ybSQqIpGroDYXLUwJdEKuX31M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5014335/f10fc2.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 21:00 WIB Newgiza P2 Premier Padel 2026 - Quarterfinals
@@ -1488,7 +1537,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yfMm4tGznLlmoqEg-k9XKKP7Zv4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015445/2a6f9c.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 01:55 WIB Fiorentina vs Crystal Palace - UEFA Conference League
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5kZD1AWxQZSouUVHkmEUO4MIdvY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015421/ce7adc.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 05:00 WIB Round 1 - JM Eagle LA Championship presented by Plastpro 2026
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiZUhodDJLeUVxNDFUdE5VWHlJQ1lFR1RaNnM2UEhWbmlJVGZcL2h5dVNvRFdqak12ajFRNUs2aFwvY1ErSUI2QXBxU2doKzNBRXVqQ2Jkdm1lenZyVkVHUDc3U0VvaFF1cVFVU2I3b0wwUFFRTTd3djRRdTlscW5GYTBLWlBYd01OZGtEUUxMQ1wvWW1RRGROU0cyTEU0bTQ1bVZkN1dqNzVqYnZKY3FxOVNXeFFqZ1hcL2xUUFpucCtROERPdGFzZ3daUUcwOW90a0YrcGZwTkIwRzB3ZWdFRkRSNWNmdFNlbWMwaFk0b21LRXFhY2c9In0=
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiTDRJd2VZZ0hnUW5NN2JZTUhMXC9OR25SbFlWcDFzdVF2ckJaT2s2ckNEa2xRWUl6Z01TSVQwTExpeFdhbG14YlhtXC9DcFFxek82QjhsS29qdXBjS2VUYzE4MGhMeGlPdFwvOTdBR2VUYkh6VFlvVmR5Y1wvZ0FwNnVYTGR5RmFBanhGVWF5QzFlUVByNk5ueWYyMmw3WGlEUGxkTGxudGpmZ1JISDVKaldPWUd1aUwzNG4xUWpkd3FNS2IyalhrOG0rZmdIeFV6bVByTkZVZFZlXC9CZGh3d0RjdFozaFRpVGxaMnE3SExwb1dQaXE4PSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6Hhgcn2rEGOJJV2lKwUxgYEeMhE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015450/e29a66.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 15:15 WIB WorldSBK Free Practice 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MvqeKEfTjxE6dKna9ydmiFeIjUQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015504/ced385.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 15:20 WIB Final Four Putra: Jakarta Garuda Jaya vs Jakarta Bhayangkara Presisi - Proliga
@@ -1550,7 +1599,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/P3GvkZrQpIS6MPM7ayN8IGGF9oM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015483/e12ba7.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 02:00 WIB Blackburn Rovers vs Coventry City - EFL Championship
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Q7a55KWeRlyRuVtyJb7GsyYlluw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015422/d5e7fc.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 05:00 WIB Round 2 - JM Eagle LA Championship presented by Plastpro 2026
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoibUpEcFpaQTFPRjZTdFJZNWppM1cza2lLWTc3UDRPbHRcL09SSkM0bTRNalEzamhpdmNmQ0g2RVYzRmo5QlI3YXB4V2NZcnhOS2ZyUnNkY0o5U1JZK1VIb2hJTlBjQkw4WlkyQVVEYkdtcGFKK1B5U21uK0pWb0Ixb0NRaHZ4M2YzUEZ5OUkzamRzcGZ4U0FnTmZXcjdDQzc1NlhtSUJWMm9kY3pjMHc3bEJDMkQ5MENqdzRaRUZZdEZIbFNybDc0RVVYUG9CYzRHSWZyelBZNVlwSHUySXNhYWQrcHBsYTkwMlFDcVBGT3htYWs9In0=
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoieU5hMjRObTZJXC9SNTZZVmpXZ3FWTlBjNEorUG5Ta0Zrb1JTcXN1Y01ndVJrdHpcL0wzSXBKNml0cnozSkZRZ1EwUkJqMlozY0FIQlB6aDRkM2phYjBVQ0trTVJzYzFvd1owXC9EM0ZMTm12RDNNcmI1WTVTcmpqeFNDVFwvR1BIeit0WHR0bWZsNmVuSGtmMmhsakViTW9sMnlxUytQa2Nyc2s1ZU1wc3BjZ25paTZHS21weXdKTTN5Sml0bHRrZWJDNEdGajNMVjhtNytFeFN3MjNzVjk3cjRvXC9ENFpydjNqSkFOSmhneE9kUkkwPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6pgA0s2AZlI5HvBD4XrHHefvxi0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015489/05b23b.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 14:35 WIB WorldSBK Free Practice 3 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/k8QPxLqYMsJ257EGuAMoR3rS4NU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015520/078654.jpg" group-title="BRI SUPER LEAGUE", 15:30 WIB Arema FC vs PERSIS - BRI Super League
@@ -1586,7 +1635,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/s9O_dhkfTrkhkzQ8HLyPli9I3Xw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015523/285b54.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 19:00 WIB PSM Makassar vs Borneo FC Samarinda - BRI Super League
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VIPvR5G9sBeEJqt8jM3fdixmuDo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015508/1100c1.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 19:10 WIB Rajadamnern April Inferno Super Welterweight, Super Lightweight, and Vacant Super Bantamweight Title Superfights
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiNEQyRDhvcGFnWDQzNGthOUd6OXRnRjk4UkNHc1BMeXN3XC9XZnNYdjk4U3E0SHhBWHpRU28xZTNjZEo5SEJJTDN4eEVrKzRGN1pwSU1Wbm5ReXpDUmorcnZcL21mYzBhc0xwZlpwQzVkYkxZQmJrdFZCOER0djRnRW5GaUpoRUtWRGZzaDA0cjVSc29WanBvaVNZZjFKYjRRNitEUzJrSWRhV2Y3YTJwOWJLQmVDeFpISXVYempBekU0c3RZQ01oUnY1bUJtUjIzOEEwajlHR0IrK2l5Z0lRMTJtZ2V4dWV1TmF6S1pJQzl1bUgwPSJ9
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiTDFtNVBIdWVCeFV4SDZ5VTV6M0lZMTNtZ2pTOFdiV2RsRENBSjVBNmVEUDFwY3V6YnlNdUQ3SzNLUERpMW1Wa3NLSEpOZFBCUEhSQ3pyaUx0VWwxdVZkMDd6SE1iTFRGeWNMRHppNG41VHpVcEg2ZkRiZmpIRE1hRHk0ZTFMeHN0XC9sUHMxZmhKcFVCVG1VZWIrRFRBR3F1T1ZZR04rR1F1MkVjMXNmdzcrem5McDhOSWNEXC9xMjR2T3NBVkNaMU41KzF6RUErdm80bUJ0RE5SbThHYjYzQlQ4a2NaVlB6UFwvQ1pxSDgwRDNxVT0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sDGMy-i5CosiY8BhNXA0Hi0f4TM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015518/fb284e.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 19:45 WIB Udinese vs Parma - Serie A
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sDGMy-i5CosiY8BhNXA0Hi0f4TM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015518/fb284e.jpg" group-title="LIGA ITALIA", 19:45 WIB Udinese vs Parma - Serie A
@@ -1620,7 +1669,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pJg2K7aeKvb5Tr3gWBtNuddtyNI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015502/b06a99.jpg" group-title="LIGA INGGRIS", 01:30 WIB Chelsea vs Man United - Premier League
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kYcmQtqgNGG9OqVZ_yEI6tFqXjY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015423/087b83.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 05:00 WIB Round 3 - JM Eagle LA Championship presented by Plastpro 2026
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiR1NwUHN4Q2J5NjdXZUVUMTNvNE9PSVBGanJmbXNUQXhiQm5EaWpVZThPUU9Mbm01ZmQySHl4NDhBSUZpd1wvQlhHVTRYUGhqM1FzemJQY2RJbHdKdFZ5YXdKSVlsN3o4eWtQc1FhMlB3Mk93QktYbHZuTlZPUFV4M0lLUUFHMzRsM3dGeDRkRXFzWWorMDEyQzQ2M2NhXC9wMm15aVRTc0tINlcyanFocHFlWjdPM1dqWDdzWHcyRzc2eENWM3IrMWh1OEprK3BEaWVrME5QcmZReXBoV2M1TmpiVjkzK3RSbkV5cjZaZGt6QjZrPSJ9
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiM2pDREMxXC9NUTg2dnhYVVUycXc1T1FVcTBYRUcydGZQSkV2Y29sZitnQW5QaEhKU3JmRGVVQnZyb0VlQlNBbVU4NWFJeXF4SWgxQkt6cUZINEhmT3FFekR2N3dKQXBkdVFaWXVLQ2JYRWRWbnVJNFk0RmR0Slk5dEg2d09lM0JDdmUwMmwzXC8ycGRZSUlxbFRcL3NlMnpUbWV4d1BZSVhGZVUzYUlPZ09pajY3M2ZJbzZYSFk4VVwvK2hQb2V0XC8zNjMzRXpWUHg0bjRKT1NEWGplTGlnK29TNUk0blJ6Z2JRS1JlQzhSOGdweVV3PSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/o0Fpz9YCIbYJh00fg776zCcZ1N0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015512/40ae41.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 15:55 WIB WorldSBK Tissot Superpole Race - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SwSVK6UPT0ToYnvu-yjfPib3Txs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015513/70d3d2.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 16:50 WIB WorldWCR Race 2 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
@@ -1751,35 +1800,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/9ed2c4f6adc51975cdbd2a93093e6a43.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] Copa Libertadores: Boca Juniors vs Barcelona SC(ECU)
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live3.bbs456.com/live/13713951_d69e93161cd9b5cf835d1abeda445543.m3u8
-#EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/415e4ed317b0b0a4aea7c8ddc5cdd658.png" group-title="🔔JADWAL LIVE (UPCOMING)",[UPCOMING] Copa Libertadores: Universitario De Deportes vs Coquimbo Unido
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/8b048da33a06a2257101bb110b81e290.png" group-title="🔔JADWAL LIVE (UPCOMING)",[UPCOMING] Copa Libertadores: Liga Dep Universitaria Quito vs Mirassol - SP
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/0840bace9b911b3f0dbadb710ea20316.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] Copa Sudamericana: Santos Fc - SP vs Deportivo Recoleta
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hls.livelivelive.space/live/4518180.m3u8
-#EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/c87008655aa2f4f011a11c27cc518255.png" group-title="🔔JADWAL LIVE (UPCOMING)",[UPCOMING] ENG EFL League One: AFC Wimbledon vs Stockport County
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1863,20 +1884,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/f1b7c49790e05778f194ed436515b240.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] USA Cup: New England Revolution vs Rhode Island
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live1.bbs456.com/live/13766368_de531e18b32680d7c577654d4ada66fb.m3u8
-#EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/2b49326ff81f7fb77b009d6f6027254c.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] USA Cup: Detroit City vs Chicago Fire
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live1.bbs456.com/live/13766364_0c2cc099338a805bfed039b93d7d3e6b.m3u8
 #EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/c540f8f279c09a2a3df1cbbfe82d7184.png" group-title="🔔JADWAL LIVE (UPCOMING)",[UPCOMING] AUS A-League: Melbourne Victory vs Newcastle Jets
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2095,52 +2102,52 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=a7229907d4d0c6910868c09b8632a8b8&wsABSTime=1776256263
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=397bfef280c3fbee2949b695e7a159c2&wsABSTime=1776257201
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh4z3ryox/image/small" group-title="🔴 🔴 LIVE EVENT NOW",06:00 WIB - NEW ENGLAND VS RHODE ISLAND [USA CUP] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=d3fd7d7a21bf3032b369e4f4c80ca65e&wsABSTime=1776256264
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=6e1e5174794c2d3174240cea3017ea35&wsABSTime=1776257201
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hj31q0j6/image/small" group-title="🔴 🔴 LIVE EVENT NOW",07:00 WIB - BOCA JUNIORS VS BARCELONA SC [CON CLA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=1351049d5821edce747bb2609771f694&wsABSTime=1776256265
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=c2c35d7e395c1481c020cc135b2e9427&wsABSTime=1776257202
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhoo0md7o/image/small" group-title="🔴 🔴 LIVE EVENT NOW",07:00 WIB - BOLIVAR VS DEP LA GUAIRA [CON CLA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=9d616d5ab54503ee4572f244fdb41a5d&wsABSTime=1776256265
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=be54130e5d50041b85c6ba8da4f1aa94&wsABSTime=1776257203
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9whll2ryox/image/small" group-title="🔴 🔴 LIVE EVENT NOW",07:00 WIB - VASCO DA GAMA VS AUDAX ITALIANO [CON CSA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=bc6d4445438991b0107fb65d352f7655&wsABSTime=1776256266
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=c16138e0a80b5e286bd7faa6945048e5&wsABSTime=1776257203
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh00exmd7o/image/small" group-title="🔴 🔴 LIVE EVENT NOW",07:30 WIB - PALESTINO VS MONTEVIDEO CITY [CON CSA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=8abfa437ad6151d2de13c45fd4a30390&wsABSTime=1776256266
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=279eed10ab81a7eb8eeb1aaa45762606&wsABSTime=1776257204
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyhvd7r1ge/image/small" group-title="🔴 🔴 LIVE EVENT NOW",07:30 WIB - SANTOS FC SP VS DEPORTIVO RECOLETA [CON CSA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=3fe640a124922d8843df0d93c4fc49cc&wsABSTime=1776256267
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=d1b5a81bccad6179a9572879f03dc4c5&wsABSTime=1776257204
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hojvrz84/image/small" group-title="🔴 🔴 LIVE EVENT NOW",08:00 WIB - CRUZ AZUL VS LOS ANGELES FC [CNCF CHL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=6176ddeffac8304b2b0c887c8e9f48ff&wsABSTime=1776256267
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=ff31827ebf9b2bd7798097902f51c942&wsABSTime=1776257205
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2ee2qvy9/image/small" group-title="🔴 🔴 LIVE EVENT NOW",08:00 WIB - NU COLOMBIA VS NU CHILE [CNL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=a72585aa828dbf398631fefbed918611&wsABSTime=1776256268
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=14a854bbec238f5e344b388a51438027&wsABSTime=1776257205
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh01e6md7o/image/small" group-title="🔴 🔴 LIVE EVENT NOW",08:30 WIB - NU BRAZIL VS NU ZAMBIA [FIF] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=2a3d76319e695d984e2137d0f095890f&wsABSTime=1776256268
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=730a3898a1460f64ac59e33a888d1fb9&wsABSTime=1776257206
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png" group-title="SPORTS FHD",KANTIPUR MAX  HD
 http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C190-1763958788.png" group-title="SPORTS FHD",KANTIPUR MAX 2 HD
@@ -2189,24 +2196,26 @@ http://maxotts.maxdigitaltv.com/x-media/C490/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C412/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C250-1763381313.png" group-title="SPORTS FHD",S SPORTS 2 HD
 http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",Cerro Porteno vs Junior - CONMEBOL Libertadores
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=28bb930f04a343c4ee3a036adee6dab13ff45756&x-sign=f3f064d87a74bf50005b93d302377fa4&x-time=1776213000
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",Club Nacional vs Deportes Tolima - CONMEBOL Libertadores
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274842_hd/index.m3u8?is_vip=false&token=28bb930f04a343c4ee3a036adee6dab13ff45756&x-sign=ce7de6aa287200190c944f09d34a5ffe&x-time=1776213000
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",Gremio vs Deportivo Riestra - CONMEBOL Sudamericana
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=28bb930f04a343c4ee3a036adee6dab13ff45756&x-sign=c381e423f5376f97483313ee031a1f4a&x-time=1776213000
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&x-sign=5204f846868ca6e063f1952796bde729&x-time=1776213900
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",Club Nacional vs Deportes Tolima - CONMEBOL Libertadores
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/274842_hd/index.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&x-sign=07c3cf027a6a2dd390f84ded60184b9c&x-time=1776213900
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",Cerro Porteno vs Junior - CONMEBOL Libertadores
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&x-sign=5deba1bbf3f4d6af20923013efcf16e9&x-time=1776213900
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",Sao Paulo vs O'Higgins - CONMEBOL Sudamericana
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274843_hd/index.m3u8?is_vip=false&token=28bb930f04a343c4ee3a036adee6dab13ff45756&x-sign=ffd93f071b444bad31725b4311c84b61&x-time=1776213000
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/274843_hd/index.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&x-sign=0a172dc23690ed6480d20f26a35e7c31&x-time=1776213900
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boca%20Juniors%20VS%20Barcelona%20SC%20%20CONMEBOL%20Libertadores.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Boca Juniors vs Barcelona SC - CONMEBOL Libertadores
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=28bb930f04a343c4ee3a036adee6dab13ff45756&x-sign=f3f064d87a74bf50005b93d302377fa4&x-time=1776213000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bol%C3%ADvar%20VS%20Deportivo%20La%20Guaira%20%20CONMEBOL%20Libertadores.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Bolivar vs Deportivo La Guaira - CONMEBOL Libertadores
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274846_hd/index.m3u8?is_vip=false&token=28bb930f04a343c4ee3a036adee6dab13ff45756&x-sign=ab52461c79b0ff3cc598f8220d919623&x-time=1776213000
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&x-sign=5deba1bbf3f4d6af20923013efcf16e9&x-time=1776213900
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vasco%20DA%20Gama%20VS%20A.%20Italiano%20%20CONMEBOL%20Sudamericana.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Vasco DA Gama vs A. Italiano - CONMEBOL Sudamericana
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274844_hd/index.m3u8?is_vip=false&token=28bb930f04a343c4ee3a036adee6dab13ff45756&x-sign=e7053a19a5a6b9eb3237b2b910f7a090&x-time=1776213000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20VS%20Deportivo%20Recoleta%20%20CONMEBOL%20Sudamericana.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Santos vs Deportivo Recoleta - CONMEBOL Sudamericana
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274842_hd/index.m3u8?is_vip=false&token=28bb930f04a343c4ee3a036adee6dab13ff45756&x-sign=ce7de6aa287200190c944f09d34a5ffe&x-time=1776213000
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/274844_hd/index.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&x-sign=7c09e73654d883959a03cd9b536ba4ad&x-time=1776213900
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bol%C3%ADvar%20VS%20Deportivo%20La%20Guaira%20%20CONMEBOL%20Libertadores.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Bolivar vs Deportivo La Guaira - CONMEBOL Libertadores
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/274846_hd/index.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&x-sign=090c28a18a337ba1b2213534d67eead3&x-time=1776213960
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palestino%20VS%20Atletico%20Torque%20%20CONMEBOL%20Sudamericana.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Palestino vs Atletico Torque - CONMEBOL Sudamericana
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=28bb930f04a343c4ee3a036adee6dab13ff45756&x-sign=c381e423f5376f97483313ee031a1f4a&x-time=1776213000
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&x-sign=02f8ce59337773d75fbe3bbca07af86d&x-time=1776213960
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20VS%20Deportivo%20Recoleta%20%20CONMEBOL%20Sudamericana.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Santos vs Deportivo Recoleta - CONMEBOL Sudamericana
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/274842_hd/index.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&x-sign=7ae9b4a72e033826d94b8b42cff45acc&x-time=1776213960
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cruz%20Azul%20VS%20Los%20Angeles%20FC%20%20CONCACAF%20Champions%20League.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Cruz Azul vs Los Angeles FC - CONCACAF Champions League
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/451_hd/index.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&x-sign=cd3228d005f2e588b5acc43711a801b6&x-time=1776213960
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1611126003237011458/6LAfWG6L_400x400.jpg" group-title="LIVE EVENT | FAWA",07:30 WIB | [Copa Sudamericana] Santos vs Recoleta
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -4424,57 +4433,57 @@ http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=e320285cb22ec14217038da1fb61ffbe&wsABSTime=1776256561
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=397bfef280c3fbee2949b695e7a159c2&wsABSTime=1776257201
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9wh4z3ryox/image/small" group-title="LIVE EVENT | XOILACZ AI",06:00 WIB - NEW ENGLAND VS RHODE ISLAND [USA CUP] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=0ebe6cbad0916853852a91c1f2dca824&wsABSTime=1776256561
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=6e1e5174794c2d3174240cea3017ea35&wsABSTime=1776257201
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hj31q0j6/image/small" group-title="LIVE EVENT | XOILACZ AI",07:00 WIB - BOCA JUNIORS VS BARCELONA SC [CON CLA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=07ef4c4c83bc622d15574a480e66d06c&wsABSTime=1776256562
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=c2c35d7e395c1481c020cc135b2e9427&wsABSTime=1776257202
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhoo0md7o/image/small" group-title="LIVE EVENT | XOILACZ AI",07:00 WIB - BOLIVAR VS DEP LA GUAIRA [CON CLA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=5bc58733c03066b25e7c970453e9d310&wsABSTime=1776256563
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=be54130e5d50041b85c6ba8da4f1aa94&wsABSTime=1776257203
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jednm9whll2ryox/image/small" group-title="LIVE EVENT | XOILACZ AI",07:00 WIB - VASCO DA GAMA VS AUDAX ITALIANO [CON CSA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=896d68c251db8ffab0fcf6595b6f271e&wsABSTime=1776256563
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=c16138e0a80b5e286bd7faa6945048e5&wsABSTime=1776257203
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh00exmd7o/image/small" group-title="LIVE EVENT | XOILACZ AI",07:30 WIB - PALESTINO VS MONTEVIDEO CITY [CON CSA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=aa4eb01c09c7370daccd18eb36ef62d9&wsABSTime=1776256564
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=279eed10ab81a7eb8eeb1aaa45762606&wsABSTime=1776257204
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyhvd7r1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",07:30 WIB - SANTOS FC SP VS DEPORTIVO RECOLETA [CON CSA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=418d63fdc5908e16a391a59990097a29&wsABSTime=1776256564
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=d1b5a81bccad6179a9572879f03dc4c5&wsABSTime=1776257204
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hojvrz84/image/small" group-title="LIVE EVENT | XOILACZ AI",08:00 WIB - CRUZ AZUL VS LOS ANGELES FC [CNCF CHL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=5386bff698dabad945f4433df96ab882&wsABSTime=1776256565
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=ff31827ebf9b2bd7798097902f51c942&wsABSTime=1776257205
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2ee2qvy9/image/small" group-title="LIVE EVENT | XOILACZ AI",08:00 WIB - NU COLOMBIA VS NU CHILE [CNL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=7f3633dca9dc4369fb921616d22ab52b&wsABSTime=1776256565
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=14a854bbec238f5e344b388a51438027&wsABSTime=1776257205
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh01e6md7o/image/small" group-title="LIVE EVENT | XOILACZ AI",08:30 WIB - NU BRAZIL VS NU ZAMBIA [FIF] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=e029f81effb8700b31bb87e24bcebeb5&wsABSTime=1776256566
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=730a3898a1460f64ac59e33a888d1fb9&wsABSTime=1776257206
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4hd49q0j6/image/small" group-title="LIVE EVENT | XOILACZ AI",09:00 WIB - LDU QUITO VS MIRASSOL [CON CLA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=d92e84f20ecfc6fe272540dc75ae4474&wsABSTime=1776256567
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=dfc555a69e660c535163e69b4518ae65&wsABSTime=1776257207
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh76kor1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - LOUISVILLE CITY VS AUSTIN FC [USA CUP]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1611126003237011458/6LAfWG6L_400x400.jpg" group-title="LIVE EVENT FAWANEWS",07:30 WIB | [Copa Sudamericana] Santos vs Recoleta
