@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.17 WIB 15/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.25 WIB 15/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="ednm9whwo40pryo" tvg-name="Thailand Women vs DR Congo Women" tvg-logo="https://img.cdnok9.com/football/competition/6582545d51b6d6ab360d63ed0ec75aaf.png" group-title="[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women",[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="ednm9whwo40pryo" tvg-name="Thailand Women vs DR Congo Women" tvg-logo="https://img.cdnok9.com/football/competition/6582545d51b6d6ab360d63ed0ec75aaf.png" group-title="[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women",[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="ednm9whwo40pryo" tvg-name="Thailand Women vs DR Congo Women" tvg-logo="https://img.cdnok9.com/football/competition/6582545d51b6d6ab360d63ed0ec75aaf.png" group-title="[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women",[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="ednm9whwo40pryo" tvg-name="Thailand Women vs DR Congo Women" tvg-logo="https://img.cdnok9.com/football/competition/6582545d51b6d6ab360d63ed0ec75aaf.png" group-title="[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women",[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="y39mp1h6kn4omoj" tvg-name="Cherno More Varna vs CSKA 1948 Sofia" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 22:00 WIB | 15/04/26] Cherno More Varna vs CSKA 1948 Sofia",[LIVE 22:00 WIB | 15/04/26] Cherno More Varna vs CSKA 1948 Sofia (GIÀNG A BẨY )
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="y39mp1h6kn4omoj" tvg-name="Cherno More Varna vs CSKA 1948 Sofia" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 22:00 WIB | 15/04/26] Cherno More Varna vs CSKA 1948 Sofia",[LIVE 22:00 WIB | 15/04/26] Cherno More Varna vs CSKA 1948 Sofia (GIÀNG A BẨY )
@@ -25,14 +17,14 @@ https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="y0or5jh8nzxlqwz" tvg-name="Kosovo U19 Women vs Lithuania U19 Women" tvg-logo="https://img.cdnok9.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png" group-title="[LIVE 22:00 WIB | 15/04/26] Kosovo U19 Women vs Lithuania U19 Women",[LIVE 22:00 WIB | 15/04/26] Kosovo U19 Women vs Lithuania U19 Women (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="y39mp1h6jjd7moj" tvg-name="NK Bravo vs ND Primorje" tvg-logo="https://img.cdnok9.com/football/competition/8e757755505af3813ffeeb2056e8e17e.png" group-title="[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje",[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="y39mp1h6jjd7moj" tvg-name="NK Bravo vs ND Primorje" tvg-logo="https://img.cdnok9.com/football/competition/8e757755505af3813ffeeb2056e8e17e.png" group-title="[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje",[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="y39mp1h6jjd7moj" tvg-name="NK Bravo vs ND Primorje" tvg-logo="https://img.cdnok9.com/football/competition/8e757755505af3813ffeeb2056e8e17e.png" group-title="[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje",[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="y39mp1h6jjd7moj" tvg-name="NK Bravo vs ND Primorje" tvg-logo="https://img.cdnok9.com/football/competition/8e757755505af3813ffeeb2056e8e17e.png" group-title="[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje",[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="y39mp1h6jjd7moj" tvg-name="NK Bravo vs ND Primorje" tvg-logo="https://img.cdnok9.com/football/competition/8e757755505af3813ffeeb2056e8e17e.png" group-title="[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje",[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="y39mp1h6jjd7moj" tvg-name="NK Bravo vs ND Primorje" tvg-logo="https://img.cdnok9.com/football/competition/8e757755505af3813ffeeb2056e8e17e.png" group-title="[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje",[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="y39mp1h6jjd7moj" tvg-name="NK Bravo vs ND Primorje" tvg-logo="https://img.cdnok9.com/football/competition/8e757755505af3813ffeeb2056e8e17e.png" group-title="[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje",[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="y39mp1h6jjd7moj" tvg-name="NK Bravo vs ND Primorje" tvg-logo="https://img.cdnok9.com/football/competition/8e757755505af3813ffeeb2056e8e17e.png" group-title="[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje",[LIVE 21:30 WIB | 15/04/26] NK Bravo vs ND Primorje (GIÀNG A TÁO)
@@ -45,3 +37,19 @@ https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0b
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="k82rekhgg13yrep" tvg-name="Kerala Blasters FC vs Northeast United" tvg-logo="https://img.cdnok9.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LIVE 21:00 WIB | 15/04/26] Kerala Blasters FC vs Northeast United",[LIVE 21:00 WIB | 15/04/26] Kerala Blasters FC vs Northeast United (Giàng A Sếu)
 https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="ednm9whwo40pryo" tvg-name="Thailand Women vs DR Congo Women" tvg-logo="https://img.cdnok9.com/football/competition/6582545d51b6d6ab360d63ed0ec75aaf.png" group-title="[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women",[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="ednm9whwo40pryo" tvg-name="Thailand Women vs DR Congo Women" tvg-logo="https://img.cdnok9.com/football/competition/6582545d51b6d6ab360d63ed0ec75aaf.png" group-title="[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women",[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="ednm9whwo40pryo" tvg-name="Thailand Women vs DR Congo Women" tvg-logo="https://img.cdnok9.com/football/competition/6582545d51b6d6ab360d63ed0ec75aaf.png" group-title="[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women",[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="ednm9whwo40pryo" tvg-name="Thailand Women vs DR Congo Women" tvg-logo="https://img.cdnok9.com/football/competition/6582545d51b6d6ab360d63ed0ec75aaf.png" group-title="[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women",[LIVE 20:30 WIB | 15/04/26] Thailand Women vs DR Congo Women (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="dj2ryohl1x81q1z" tvg-name="Portugal U19 Women vs Hungary Women U19" tvg-logo="https://img.cdnok9.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png" group-title="[UPCO 23:00 WIB | 34m | 15/04/26] Portugal U19 Women vs Hungary Women U19",[UPCO 23:00 WIB | 34m | 15/04/26] Portugal U19 Women vs Hungary Women U19 (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="dj2ryohl1x81q1z" tvg-name="Portugal U19 Women vs Hungary Women U19" tvg-logo="https://img.cdnok9.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png" group-title="[UPCO 23:00 WIB | 34m | 15/04/26] Portugal U19 Women vs Hungary Women U19",[UPCO 23:00 WIB | 34m | 15/04/26] Portugal U19 Women vs Hungary Women U19 (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="dj2ryohl1x81q1z" tvg-name="Portugal U19 Women vs Hungary Women U19" tvg-logo="https://img.cdnok9.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png" group-title="[UPCO 23:00 WIB | 34m | 15/04/26] Portugal U19 Women vs Hungary Women U19",[UPCO 23:00 WIB | 34m | 15/04/26] Portugal U19 Women vs Hungary Women U19 (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="dj2ryohl1x81q1z" tvg-name="Portugal U19 Women vs Hungary Women U19" tvg-logo="https://img.cdnok9.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png" group-title="[UPCO 23:00 WIB | 34m | 15/04/26] Portugal U19 Women vs Hungary Women U19",[UPCO 23:00 WIB | 34m | 15/04/26] Portugal U19 Women vs Hungary Women U19 (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
