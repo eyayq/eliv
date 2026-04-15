@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.09 WIB 16/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.19 WIB 16/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="y39mp1h60yvzmoj" tvg-name="Tromso IL vs Lillestrom" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom",[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="y39mp1h60yvzmoj" tvg-name="Tromso IL vs Lillestrom" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom",[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="y39mp1h60yvzmoj" tvg-name="Tromso IL vs Lillestrom" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom",[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="y39mp1h60yvzmoj" tvg-name="Tromso IL vs Lillestrom" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom",[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="318q66hxvv1oqo9" tvg-name="NK Publikum Celje vs NK Olimpija Ljubljana" tvg-logo="https://img.cdnok9.com/football/competition/8e757755505af3813ffeeb2056e8e17e.png" group-title="[LIVE 23:30 WIB | 15/04/26] NK Publikum Celje vs NK Olimpija Ljubljana",[LIVE 23:30 WIB | 15/04/26] NK Publikum Celje vs NK Olimpija Ljubljana (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="318q66hxvv1oqo9" tvg-name="NK Publikum Celje vs NK Olimpija Ljubljana" tvg-logo="https://img.cdnok9.com/football/competition/8e757755505af3813ffeeb2056e8e17e.png" group-title="[LIVE 23:30 WIB | 15/04/26] NK Publikum Celje vs NK Olimpija Ljubljana",[LIVE 23:30 WIB | 15/04/26] NK Publikum Celje vs NK Olimpija Ljubljana (Giàng A Rùa)
@@ -49,11 +29,31 @@ https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="l5ergph4dnxgr8k" tvg-name="Al-Hussein SC (Irbid) vs Al-Ramtha SC" tvg-logo="https://img.cdnok9.com/football/competition/0491b771979f645f30154b7ab2125f69.png" group-title="[LIVE 23:00 WIB | 15/04/26] Al-Hussein SC (Irbid) vs Al-Ramtha SC",[LIVE 23:00 WIB | 15/04/26] Al-Hussein SC (Irbid) vs Al-Ramtha SC (Giàng A Kê)
 https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="l5ergph45681r8k" tvg-name="Arda vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 00:30 WIB | 20m | 16/04/26] Arda vs Ludogorets Razgrad",[UPCO 00:30 WIB | 20m | 16/04/26] Arda vs Ludogorets Razgrad (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="l5ergph45681r8k" tvg-name="Arda vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 00:30 WIB | 20m | 16/04/26] Arda vs Ludogorets Razgrad",[UPCO 00:30 WIB | 20m | 16/04/26] Arda vs Ludogorets Razgrad (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="l5ergph45681r8k" tvg-name="Arda vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 00:30 WIB | 20m | 16/04/26] Arda vs Ludogorets Razgrad",[UPCO 00:30 WIB | 20m | 16/04/26] Arda vs Ludogorets Razgrad (BLV GÀ PHÁP)
+#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (Giàng A Voi)
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (Giàng A Voi)
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="dj2ryohlegkoq1z" tvg-name="Sarpsborg 08 vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt",[LIVE 00:00 WIB | 16/04/26] Sarpsborg 08 vs Bodo Glimt (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="y39mp1h60yvzmoj" tvg-name="Tromso IL vs Lillestrom" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom",[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="y39mp1h60yvzmoj" tvg-name="Tromso IL vs Lillestrom" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom",[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="y39mp1h60yvzmoj" tvg-name="Tromso IL vs Lillestrom" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom",[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="y39mp1h60yvzmoj" tvg-name="Tromso IL vs Lillestrom" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom",[LIVE 00:00 WIB | 16/04/26] Tromso IL vs Lillestrom (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="l5ergph45681r8k" tvg-name="Arda vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 00:30 WIB | 10m | 16/04/26] Arda vs Ludogorets Razgrad",[UPCO 00:30 WIB | 10m | 16/04/26] Arda vs Ludogorets Razgrad (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="l5ergph45681r8k" tvg-name="Arda vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 00:30 WIB | 20m | 16/04/26] Arda vs Ludogorets Razgrad",[UPCO 00:30 WIB | 20m | 16/04/26] Arda vs Ludogorets Razgrad (BLV GÀ PHÁP)
+#EXTINF:-1 tvg-id="l5ergph45681r8k" tvg-name="Arda vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 00:30 WIB | 10m | 16/04/26] Arda vs Ludogorets Razgrad",[UPCO 00:30 WIB | 10m | 16/04/26] Arda vs Ludogorets Razgrad (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="l5ergph45681r8k" tvg-name="Arda vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 00:30 WIB | 10m | 16/04/26] Arda vs Ludogorets Razgrad",[UPCO 00:30 WIB | 10m | 16/04/26] Arda vs Ludogorets Razgrad (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="l5ergph45681r8k" tvg-name="Arda vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[UPCO 00:30 WIB | 10m | 16/04/26] Arda vs Ludogorets Razgrad",[UPCO 00:30 WIB | 10m | 16/04/26] Arda vs Ludogorets Razgrad (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
