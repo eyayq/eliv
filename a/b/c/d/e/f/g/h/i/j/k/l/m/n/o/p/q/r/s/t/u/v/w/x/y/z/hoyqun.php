@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:49 WIB 15/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:49 WIB 15/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:25 WIB 15/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:25 WIB 15/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[17:00 WIB 15/04/26] KT vs DK [FHD] [LIVE]
@@ -155,23 +155,23 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Italian Serie A1 ",[01:30 WIB 16/04/26] Vero Volley W - Conegliano W [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Arsenal vs Sporting CP [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( ANTI REAL )",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Arsenal vs Sporting CP [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( ANTI REAL )",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Arsenal vs Sporting CP [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( ANTI REAL )",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Arsenal vs Sporting CP [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Arsenal vs Sporting CP [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Arsenal vs Sporting CP [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Arsenal vs Sporting CP [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
@@ -182,13 +182,13 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Arsenal vs Sporting CP [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( FAN REAL  )",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( FAN REAL  )",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( FAN REAL  )",[02:00 WIB 16/04/26] Bayern München vs Real Madrid [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:00 WIB 16/04/26] Los Angeles Galaxy vs Toluca [FHD] [NANTIKAN]
