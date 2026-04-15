@@ -1,24 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:16 WIB 15/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:16 WIB 15/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:09 WIB 15/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:09 WIB 15/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[19:15 WIB 15/04/26] Bangkok United vs Gamba Osaka [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[19:15 WIB 15/04/26] Bangkok United vs Gamba Osaka [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[19:15 WIB 15/04/26] Bangkok United vs Gamba Osaka [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 15/04/26] China PR U20 W vs Japan U20 W [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 15/04/26] China PR U20 W vs Japan U20 W [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1070.png" group-title="AFC U20 Asian Cup - Women",[20:00 WIB 15/04/26] China PR U20 W vs Japan U20 W [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[20:00 WIB 15/04/26] Flavio Coboli vs Zizou Bergs [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
@@ -38,23 +20,23 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[21:00 WIB 15/04/26] Rafael Jodar vs Camilo Ugo Carabelli [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 15/04/26] Cherno More Varna vs CSKA 1948 [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 15/04/26] Cherno More Varna vs CSKA 1948 [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 15/04/26] Cherno More Varna vs CSKA 1948 [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 15/04/26] Cherno More Varna vs CSKA 1948 [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 15/04/26] Cherno More Varna vs CSKA 1948 [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 15/04/26] Cherno More Varna vs CSKA 1948 [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/308.png" group-title="Division 1",[23:00 WIB 15/04/26] Al-Faisaly FC vs Al Taee [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[22:00 WIB 15/04/26] Jelena Ostapenko vs Mirra Andreeva 22h [FHD] [LIVE]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/308.png" group-title="Division 1",[23:00 WIB 15/04/26] Al-Faisaly FC vs Al Taee [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[22:00 WIB 15/04/26] Jelena Ostapenko vs Mirra Andreeva 22h [HD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/308.png" group-title="Division 1",[23:00 WIB 15/04/26] Al-Faisaly FC vs Al Taee [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[22:00 WIB 15/04/26] Jelena Ostapenko vs Mirra Andreeva 22h [SD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[00:30 WIB 16/04/26] Arda Kardzhali vs Ludogorets [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
