@@ -1,227 +1,227 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80" group-title="📁Europa League📁",📁Aston Villa😈VS😈Bologna F.C. 1909📁|LIVE|Friday 17 April 2026 02:00:00 WIB(Main)
-https://live1.bbs456.com/live/13646389_49cccc2428ddb6cbbe3b75ad0dadedce_autoChange.m3u8?auth_key=1776383166-0-0-66061bf8310592075bba6f47ca03b290
+https://live1.bbs456.com/live/13646389_49cccc2428ddb6cbbe3b75ad0dadedce_autoChange.m3u8?auth_key=1776383283-0-0-1009b5bf6c7f764774c58c6007494f2a
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80" group-title="📁Europa League📁",📁Aston Villa😈VS😈Bologna F.C. 1909📁|LIVE|Friday 17 April 2026 02:00:00 WIB(BLV COCA)
 https://live5.msrktz.app/live/24561735.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80" group-title="📁Europa League📁",📁Aston Villa😈VS😈Bologna F.C. 1909📁|LIVE|Friday 17 April 2026 02:00:00 WIB(BLV DR THANH)
 https://live5.msrktz.app/live/79665343.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/62572999d107f777efa4aeb907443527.png!w80" group-title="📁Europa League📁",📁Nottingham Forest😈VS😈Porto📁|LIVE|Friday 17 April 2026 02:00:00 WIB(Main)
-https://live.bbs456.com/live/13646387_d57453f995ca55d21493471dadf61ebb_autoChange.m3u8?auth_key=1776383166-0-0-6345ac96901a541e252f76680c6ad9ad
+https://live.bbs456.com/live/13646387_d57453f995ca55d21493471dadf61ebb_autoChange.m3u8?auth_key=1776383283-0-0-e8fdf498a1c6e7fee35510988696db13
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/62572999d107f777efa4aeb907443527.png!w80" group-title="📁Europa League📁",📁Nottingham Forest😈VS😈Porto📁|LIVE|Friday 17 April 2026 02:00:00 WIB(BLV GIÀ LÀNG)
 https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/62572999d107f777efa4aeb907443527.png!w80" group-title="📁Europa League📁",📁Nottingham Forest😈VS😈Porto📁|LIVE|Friday 17 April 2026 02:00:00 WIB(BLV 7UP)
 https://live5.msrktz.app/live/78905744.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80" group-title="📁UEFA Europa Conference League📁",📁ACF Fiorentina😈VS😈Crystal Palace📁|LIVE|Friday 17 April 2026 02:00:00 WIB(Main)
-https://live3.bbs456.com/live/13645591_722f60bec2897412f408ebdb2c34b160_autoChange.m3u8?auth_key=1776383166-0-0-9ca46e466b1d9fb842f917e7302eae51
+https://live3.bbs456.com/live/13645591_722f60bec2897412f408ebdb2c34b160_autoChange.m3u8?auth_key=1776383283-0-0-f327a257120da4b47519897cf72b22a5
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80" group-title="📁UEFA Europa Conference League📁",📁ACF Fiorentina😈VS😈Crystal Palace📁|LIVE|Friday 17 April 2026 02:00:00 WIB(BLV PEPSI)
 https://live5.msrktz.app/live/43612277.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80" group-title="📁UEFA Europa Conference League📁",📁ACF Fiorentina😈VS😈Crystal Palace📁|LIVE|Friday 17 April 2026 02:00:00 WIB(BLV REVIVE)
 https://live5.msrktz.app/live/33982309.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/018e260ad68bdad741c61e3171c4c608.png!w80" group-title="📁Europa League📁",📁Real Betis Balompié😈VS😈Braga📁|LIVE|Friday 17 April 2026 02:00:00 WIB(Main)
-https://live.bbs456.com/live/13646372_34a72249c9a0a63f65d5c929ddbd9b78_autoChange.m3u8?auth_key=1776383166-0-0-85eeaf9dcd9e15e2d2ed334d32964e43
+https://live.bbs456.com/live/13646372_34a72249c9a0a63f65d5c929ddbd9b78_autoChange.m3u8?auth_key=1776383283-0-0-e472419728bd6b5679c8dbe846ab9db8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/018e260ad68bdad741c61e3171c4c608.png!w80" group-title="📁Europa League📁",📁Real Betis Balompié😈VS😈Braga📁|LIVE|Friday 17 April 2026 02:00:00 WIB(BLV HỔ VẰN)
 https://live5.msrktz.app/live/07428422.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/018e260ad68bdad741c61e3171c4c608.png!w80" group-title="📁Europa League📁",📁Real Betis Balompié😈VS😈Braga📁|LIVE|Friday 17 April 2026 02:00:00 WIB(BLV AQUA)
 https://live5.msrktz.app/live/18812304.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12dcc69bef67aa2a93107e940ee89144.png!w80" group-title="📁UEFA Europa Conference League📁",📁AEK Athens FC😈VS😈Rayo Vallecano📁|LIVE|Friday 17 April 2026 02:00:00 WIB(Main)
-https://live5.bbs456.com/live/13645589_afd21895ae62d253b0ef8fd5322bda1d_autoChange.m3u8?auth_key=1776383167-0-0-bbf377c253aa799d847bcb670d5b7693
+https://live5.bbs456.com/live/13645589_afd21895ae62d253b0ef8fd5322bda1d_autoChange.m3u8?auth_key=1776383283-0-0-9d833040db15d346a406c34963a7831e
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12dcc69bef67aa2a93107e940ee89144.png!w80" group-title="📁UEFA Europa Conference League📁",📁AEK Athens FC😈VS😈Rayo Vallecano📁|LIVE|Friday 17 April 2026 02:00:00 WIB(BLV STING)
 https://live5.msrktz.app/live/14707124.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/998db478bf7c06d5817bf846987a0d0a.png!w80" group-title="📁UEFA Europa Conference League📁",📁RC Strasbourg😈VS😈Mainz 05📁|LIVE|Friday 17 April 2026 02:00:00 WIB(Main)
-https://live4.bbs456.com/live/13645590_fe2faf2eec0437e2bfba883697106727_autoChange.m3u8?auth_key=1776383167-0-0-ecb571683097fb6a85ebfdb4d07d1976
+https://live4.bbs456.com/live/13645590_fe2faf2eec0437e2bfba883697106727_autoChange.m3u8?auth_key=1776383283-0-0-e353dd852edbe7d927286a52e01b2124
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/998db478bf7c06d5817bf846987a0d0a.png!w80" group-title="📁UEFA Europa Conference League📁",📁RC Strasbourg😈VS😈Mainz 05📁|LIVE|Friday 17 April 2026 02:00:00 WIB(BLV  KHÔNG ĐỘ)
 https://live5.msrktz.app/live/41943555.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" group-title="📁Giải Vô địch các Câu lạc bộ Nam Mỹ📁",📁Palmeiras😈VS😈Sporting Cristal📁|0d 2h 13m 21s|Friday 17 April 2026 05:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" group-title="📁Giải Vô địch các Câu lạc bộ Nam Mỹ📁",📁Palmeiras😈VS😈Sporting Cristal📁|0d 2h 11m 28s|Friday 17 April 2026 05:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" group-title="📁Giải Vô địch các Câu lạc bộ Nam Mỹ📁",📁Palmeiras😈VS😈Sporting Cristal📁|0d 2h 13m 21s|Friday 17 April 2026 05:00:00 WIB(BLV RỒNG ĐỎ)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" group-title="📁Giải Vô địch các Câu lạc bộ Nam Mỹ📁",📁Palmeiras😈VS😈Sporting Cristal📁|0d 2h 11m 28s|Friday 17 April 2026 05:00:00 WIB(BLV RỒNG ĐỎ)
 https://live5.msrktz.app/live/88508431.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/95c9ef810563d777a5330b142f9ba38b.png!w80" group-title="📁Siêu Cúp Nam Mỹ📁",📁Club Atletico Tigre😈VS😈Macara📁|0d 2h 13m 21s|Friday 17 April 2026 05:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/95c9ef810563d777a5330b142f9ba38b.png!w80" group-title="📁Siêu Cúp Nam Mỹ📁",📁Club Atletico Tigre😈VS😈Macara📁|0d 2h 11m 28s|Friday 17 April 2026 05:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/95c9ef810563d777a5330b142f9ba38b.png!w80" group-title="📁Siêu Cúp Nam Mỹ📁",📁Club Atletico Tigre😈VS😈Macara📁|0d 2h 13m 21s|Friday 17 April 2026 05:00:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/95c9ef810563d777a5330b142f9ba38b.png!w80" group-title="📁Siêu Cúp Nam Mỹ📁",📁Club Atletico Tigre😈VS😈Macara📁|0d 2h 11m 28s|Friday 17 April 2026 05:00:00 WIB(BLV BÍ ĐAO)
 https://live5.msrktz.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80" group-title="📁Giải Vô địch các Câu lạc bộ Nam Mỹ📁",📁Flamengo😈VS😈Medellin Independiente📁|0d 4h 43m 21s|Friday 17 April 2026 07:30:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80" group-title="📁Giải Vô địch các Câu lạc bộ Nam Mỹ📁",📁Flamengo😈VS😈Medellin Independiente📁|0d 4h 41m 28s|Friday 17 April 2026 07:30:00 WIB(BLV Cozy)
 https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="📁Siêu Cúp Nam Mỹ📁",📁San Lorenzo😈VS😈Dep. Cuenca📁|0d 4h 43m 21s|Friday 17 April 2026 07:30:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="📁Siêu Cúp Nam Mỹ📁",📁San Lorenzo😈VS😈Dep. Cuenca📁|0d 4h 41m 28s|Friday 17 April 2026 07:30:00 WIB(BLV 247)
 https://live5.msrktz.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e868bb2eac1923c5aecaddd492860b32.png!w80" group-title="📁Siêu Cúp Nam Mỹ📁",📁Cienciano😈VS😈Academia Puerto Cabello📁|0d 6h 13m 21s|Friday 17 April 2026 09:00:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e868bb2eac1923c5aecaddd492860b32.png!w80" group-title="📁Siêu Cúp Nam Mỹ📁",📁Cienciano😈VS😈Academia Puerto Cabello📁|0d 6h 11m 28s|Friday 17 April 2026 09:00:00 WIB(BLV ROCKSTAR)
 https://live5.msrktz.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b0ec985cd57cba37048de614c46660e5.png!w80" group-title="📁Giải Vô địch Quốc gia Guatemala📁",📁Xelaju😈VS😈CD Achuapa📁|0d 7h 13m 21s|Friday 17 April 2026 10:00:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b0ec985cd57cba37048de614c46660e5.png!w80" group-title="📁Giải Vô địch Quốc gia Guatemala📁",📁Xelaju😈VS😈CD Achuapa📁|0d 7h 11m 28s|Friday 17 April 2026 10:00:00 WIB(BLV SPRITE)
 https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1f64b50649c4ac1dfd8338ba79d21b88.png!w80" group-title="📁OFC P L📁",📁Tahiti United FC😈VS😈Vanuatu United FC📁|0d 11h 13m 21s|Friday 17 April 2026 14:00:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1f64b50649c4ac1dfd8338ba79d21b88.png!w80" group-title="📁OFC P L📁",📁Tahiti United FC😈VS😈Vanuatu United FC📁|0d 11h 11m 28s|Friday 17 April 2026 14:00:00 WIB(BLV BÍ ĐAO)
 https://live5.msrktz.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/dc1ae89261a19f838b5f2fa0e21d37fa.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Bay Hawks😈VS😈Manawatu Jets📁|0d 11h 43m 21s|Friday 17 April 2026 14:30:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/dc1ae89261a19f838b5f2fa0e21d37fa.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Bay Hawks😈VS😈Manawatu Jets📁|0d 11h 41m 28s|Friday 17 April 2026 14:30:00 WIB(BLV Cozy)
 https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/837cf9a178940067578b7343018e003a.png!w80" group-title="📁Giải bóng đá Liga 1 Indonesia📁",📁Bhayangkara Solo😈VS😈PSIM Yogyakarta📁|0d 12h 43m 21s|Friday 17 April 2026 15:30:00 WIB(BLV RỒNG ĐỎ)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/837cf9a178940067578b7343018e003a.png!w80" group-title="📁Giải bóng đá Liga 1 Indonesia📁",📁Bhayangkara Solo😈VS😈PSIM Yogyakarta📁|0d 12h 41m 28s|Friday 17 April 2026 15:30:00 WIB(BLV RỒNG ĐỎ)
 https://live5.msrktz.app/live/88508431.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png!w80" group-title="📁Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam📁",📁Đại học Văn Hiến😈VS😈Bà Rịa Vũng Tàu📁|0d 13h 13m 21s|Friday 17 April 2026 16:00:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png!w80" group-title="📁Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam📁",📁Đại học Văn Hiến😈VS😈Bà Rịa Vũng Tàu📁|0d 13h 11m 28s|Friday 17 April 2026 16:00:00 WIB(BLV SAMURAI)
 https://live5.msrktz.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Melbourne Victory😈VS😈Newcastle Jets📁|0d 13h 48m 21s|Friday 17 April 2026 16:35:00 WIB(BLV COCA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Melbourne Victory😈VS😈Newcastle Jets📁|0d 13h 46m 28s|Friday 17 April 2026 16:35:00 WIB(BLV COCA)
 https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Melbourne Victory😈VS😈Newcastle Jets📁|0d 13h 48m 21s|Friday 17 April 2026 16:35:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/04230721124ae33d7fb527413b54106f.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Melbourne Victory😈VS😈Newcastle Jets📁|0d 13h 46m 28s|Friday 17 April 2026 16:35:00 WIB(BLV 7UP)
 https://live5.msrktz.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁KCC Egis😈VS😈Wonju Dongbu Promy📁|0d 14h 13m 21s|Friday 17 April 2026 17:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="📁Giải bóng rổ nam Hàn Quốc📁",📁KCC Egis😈VS😈Wonju Dongbu Promy📁|0d 14h 11m 28s|Friday 17 April 2026 17:00:00 WIB(BLV 247)
 https://live5.msrktz.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/df5c70d45e8e013f82e098da8d134134.png!w80" group-title="📁J2/J3 100 Year Vision League📁",📁Osaka FC😈VS😈Ehime FC📁|0d 14h 13m 21s|Friday 17 April 2026 17:00:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/df5c70d45e8e013f82e098da8d134134.png!w80" group-title="📁J2/J3 100 Year Vision League📁",📁Osaka FC😈VS😈Ehime FC📁|0d 14h 11m 28s|Friday 17 April 2026 17:00:00 WIB(BLV REDBULL)
 https://live5.msrktz.app/live/68848594.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Qingdao Hainiu FC😈VS😈Qingdao West Coast📁|0d 15h 13m 21s|Friday 17 April 2026 18:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Qingdao Hainiu FC😈VS😈Qingdao West Coast📁|0d 15h 11m 28s|Friday 17 April 2026 18:00:00 WIB(BLV C2)
 https://live5.msrktz.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/85c080cf02a7161687ddd5b5800dc303.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Shandong Taishan😈VS😈Shanghai Port📁|0d 15h 48m 21s|Friday 17 April 2026 18:35:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/85c080cf02a7161687ddd5b5800dc303.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Shandong Taishan😈VS😈Shanghai Port📁|0d 15h 46m 28s|Friday 17 April 2026 18:35:00 WIB(BLV SODA)
 https://live5.msrktz.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/fd94971d5354c254a48249ad402cfb92.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Shandong Hi-Speed😈VS😈Beijing Shougang📁|0d 15h 48m 21s|Friday 17 April 2026 18:35:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/fd94971d5354c254a48249ad402cfb92.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Shandong Hi-Speed😈VS😈Beijing Shougang📁|0d 15h 46m 28s|Friday 17 April 2026 18:35:00 WIB(BLV ROCKSTAR)
 https://live5.msrktz.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5be93c1a6628d27de6d39fde9ea94b7a.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Chongqing Tonglianglong😈VS😈Shenzhen Peng City📁|0d 15h 48m 21s|Friday 17 April 2026 18:35:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5be93c1a6628d27de6d39fde9ea94b7a.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Chongqing Tonglianglong😈VS😈Shenzhen Peng City📁|0d 15h 46m 28s|Friday 17 April 2026 18:35:00 WIB(BLV SPRITE)
 https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Yunnan Yukun😈VS😈Tianjin Jinmen Tiger📁|0d 16h 13m 21s|Friday 17 April 2026 19:00:00 WIB(BLV STING)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Yunnan Yukun😈VS😈Tianjin Jinmen Tiger📁|0d 16h 11m 28s|Friday 17 April 2026 19:00:00 WIB(BLV STING)
 https://live5.msrktz.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cc1aef5e69e8d01ba3d3712f24040347.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Zhejiang Professional😈VS😈Beijing Guoan📁|0d 16h 13m 21s|Friday 17 April 2026 19:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cc1aef5e69e8d01ba3d3712f24040347.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Zhejiang Professional😈VS😈Beijing Guoan📁|0d 16h 11m 28s|Friday 17 April 2026 19:00:00 WIB(BLV 7UP)
 https://live5.msrktz.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9d520898f49a46e0a00feef82240cb80.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Wuhan Three Towns😈VS😈Chengdu Rongcheng📁|0d 16h 13m 21s|Friday 17 April 2026 19:00:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9d520898f49a46e0a00feef82240cb80.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Wuhan Three Towns😈VS😈Chengdu Rongcheng📁|0d 16h 11m 28s|Friday 17 April 2026 19:00:00 WIB(BLV MOUNTAIN DEW)
 https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/66307444901ddb38c881129b7ea0105e.png!w80" group-title="📁Giải bóng đá Liga 1 Indonesia📁",📁Persebaya😈VS😈Madura United📁|0d 16h 13m 21s|Friday 17 April 2026 19:00:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/66307444901ddb38c881129b7ea0105e.png!w80" group-title="📁Giải bóng đá Liga 1 Indonesia📁",📁Persebaya😈VS😈Madura United📁|0d 16h 11m 28s|Friday 17 April 2026 19:00:00 WIB(BLV MONSTER)
 https://live5.msrktz.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/725ee1f8f113e71c752a62503960623c.png!w80" group-title="📁Giải đấu Liên minh Trẻ Câu lạc bộ Châu Âu📁",📁Benfica U19😈VS😈Club Brugge U19📁|0d 16h 13m 21s|Friday 17 April 2026 19:00:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/725ee1f8f113e71c752a62503960623c.png!w80" group-title="📁Giải đấu Liên minh Trẻ Câu lạc bộ Châu Âu📁",📁Benfica U19😈VS😈Club Brugge U19📁|0d 16h 11m 28s|Friday 17 April 2026 19:00:00 WIB(BLV REVIVE)
 https://live5.msrktz.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Hà Nội😈VS😈Becamex Bình Dương📁|0d 16h 28m 21s|Friday 17 April 2026 19:15:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Hà Nội😈VS😈Becamex Bình Dương📁|0d 16h 26m 28s|Friday 17 April 2026 19:15:00 WIB(BLV GIÀ LÀNG)
 https://live5.msrktz.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0a4ee95c786c21ca8d55cc3e01bae44f.png!w80" group-title="📁Vô địch bóng đá Ấn Độ📁",📁Odisha😈VS😈Mohammedan📁|0d 18h 13m 21s|Friday 17 April 2026 21:00:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0a4ee95c786c21ca8d55cc3e01bae44f.png!w80" group-title="📁Vô địch bóng đá Ấn Độ📁",📁Odisha😈VS😈Mohammedan📁|0d 18h 11m 28s|Friday 17 April 2026 21:00:00 WIB(BLV SPRITE)
 https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/92157b3833b66ce1be772afeb73fc0e1.png!w80" group-title="📁Giải Vô địch quốc gia Romania📁",📁Otelul😈VS😈FC UT Arad📁|0d 18h 43m 21s|Friday 17 April 2026 21:30:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/92157b3833b66ce1be772afeb73fc0e1.png!w80" group-title="📁Giải Vô địch quốc gia Romania📁",📁Otelul😈VS😈FC UT Arad📁|0d 18h 41m 28s|Friday 17 April 2026 21:30:00 WIB(BLV REDBULL)
 https://live5.msrktz.app/live/68848594.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/81b70b4f4179ca979f173ceae24222c4.png!w80" group-title="📁Giải bóng đá Cao cấp Latvia📁",📁Tukums-2000😈VS😈Liepaja📁|0d 18h 43m 21s|Friday 17 April 2026 21:30:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/81b70b4f4179ca979f173ceae24222c4.png!w80" group-title="📁Giải bóng đá Cao cấp Latvia📁",📁Tukums-2000😈VS😈Liepaja📁|0d 18h 41m 28s|Friday 17 April 2026 21:30:00 WIB(BLV MONSTER)
 https://live5.msrktz.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/eb9b870a25645ded21a7d5e41c207b0a.png!w80" group-title="📁Giải vô địch quốc gia Ba Lan📁",📁GKS Katowice😈VS😈Lublin📁|0d 20h 13m 21s|Friday 17 April 2026 23:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/eb9b870a25645ded21a7d5e41c207b0a.png!w80" group-title="📁Giải vô địch quốc gia Ba Lan📁",📁GKS Katowice😈VS😈Lublin📁|0d 20h 11m 28s|Friday 17 April 2026 23:00:00 WIB(BLV C2)
 https://live5.msrktz.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁U.S. Sassuolo Calcio😈VS😈Calcio Como📁|0d 20h 43m 21s|Friday 17 April 2026 23:30:00 WIB(BLV DR THANH)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁U.S. Sassuolo Calcio😈VS😈Calcio Como📁|0d 20h 41m 28s|Friday 17 April 2026 23:30:00 WIB(BLV DR THANH)
 https://live5.msrktz.app/live/79665343.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁U.S. Sassuolo Calcio😈VS😈Calcio Como📁|0d 20h 43m 21s|Friday 17 April 2026 23:30:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁U.S. Sassuolo Calcio😈VS😈Calcio Como📁|0d 20h 41m 28s|Friday 17 April 2026 23:30:00 WIB(BLV PEPSI)
 https://live5.msrktz.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/20f905fb0975e88482cf157ad9da4874.png!w80" group-title="📁Giải bóng đá Hạng hai Đức📁",📁Elversberg😈VS😈KSC📁|0d 20h 43m 21s|Friday 17 April 2026 23:30:00 WIB(BLV AQUA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/20f905fb0975e88482cf157ad9da4874.png!w80" group-title="📁Giải bóng đá Hạng hai Đức📁",📁Elversberg😈VS😈KSC📁|0d 20h 41m 28s|Friday 17 April 2026 23:30:00 WIB(BLV AQUA)
 https://live5.msrktz.app/live/18812304.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80" group-title="📁Giải bóng đá Hạng hai Đức📁",📁Holstein Kiel😈VS😈Kaiserslautern📁|0d 20h 43m 21s|Friday 17 April 2026 23:30:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a285cb29d36e8d0e6fb35def1fbf442c.png!w80" group-title="📁Giải bóng đá Hạng hai Đức📁",📁Holstein Kiel😈VS😈Kaiserslautern📁|0d 20h 41m 28s|Friday 17 April 2026 23:30:00 WIB(BLV REVIVE)
 https://live5.msrktz.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Nga📁",📁FK Rostov😈VS😈FK Sochi📁|0d 20h 43m 21s|Friday 17 April 2026 23:30:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1279b7ad21c72f2ab7bda8b972c2858e.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Nga📁",📁FK Rostov😈VS😈FK Sochi📁|0d 20h 41m 28s|Friday 17 April 2026 23:30:00 WIB(BLV SAMURAI)
 https://live5.msrktz.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="📁Giải đấu Liên minh Trẻ Câu lạc bộ Châu Âu📁",📁Real Madrid U19😈VS😈Paris Saint Germain U19📁|0d 20h 58m 21s|Friday 17 April 2026 23:45:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="📁Giải đấu Liên minh Trẻ Câu lạc bộ Châu Âu📁",📁Real Madrid U19😈VS😈Paris Saint Germain U19📁|0d 20h 56m 28s|Friday 17 April 2026 23:45:00 WIB(BLV MOUNTAIN DEW)
 https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="📁Giải Ngoại hạng Thổ Nhĩ Kỳ📁",📁Fenerbahce😈VS😈Rizespor📁|0d 21h 13m 21s|Saturday 18 April 2026 00:00:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="📁Giải Ngoại hạng Thổ Nhĩ Kỳ📁",📁Fenerbahce😈VS😈Rizespor📁|0d 21h 11m 28s|Saturday 18 April 2026 00:00:00 WIB(BLV REDBULL)
 https://live5.msrktz.app/live/68848594.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5f8b2ea5af09dc3f9de834892bb20ce9.png!w80" group-title="📁Giải Ngoại hạng Thổ Nhĩ Kỳ📁",📁Antalyaspor😈VS😈Konyaspor📁|0d 21h 13m 21s|Saturday 18 April 2026 00:00:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5f8b2ea5af09dc3f9de834892bb20ce9.png!w80" group-title="📁Giải Ngoại hạng Thổ Nhĩ Kỳ📁",📁Antalyaspor😈VS😈Konyaspor📁|0d 21h 11m 28s|Saturday 18 April 2026 00:00:00 WIB(BLV MONSTER)
 https://live5.msrktz.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65503b155488a643de688e8dfa849b1f.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁St. Pauli😈VS😈Köln📁|0d 22h 43m 21s|Saturday 18 April 2026 01:30:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65503b155488a643de688e8dfa849b1f.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁St. Pauli😈VS😈Köln📁|0d 22h 41m 28s|Saturday 18 April 2026 01:30:00 WIB(BLV C2)
 https://live5.msrktz.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁Inter Milan😈VS😈Cagliari📁|0d 22h 58m 21s|Saturday 18 April 2026 01:45:00 WIB(BLV HỔ VẰN)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁Inter Milan😈VS😈Cagliari📁|0d 22h 56m 28s|Saturday 18 April 2026 01:45:00 WIB(BLV HỔ VẰN)
 https://live5.msrktz.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁Inter Milan😈VS😈Cagliari📁|0d 22h 58m 21s|Saturday 18 April 2026 01:45:00 WIB(BLV  KHÔNG ĐỘ)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aa2245702c40f77799a5ad4b119581a8.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁Inter Milan😈VS😈Cagliari📁|0d 22h 56m 28s|Saturday 18 April 2026 01:45:00 WIB(BLV  KHÔNG ĐỘ)
 https://live5.msrktz.app/live/41943555.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png!w80" group-title="📁Ligue 1📁",📁RC Lens😈VS😈Toulouse FC📁|0d 22h 58m 21s|Saturday 18 April 2026 01:45:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png!w80" group-title="📁Ligue 1📁",📁RC Lens😈VS😈Toulouse FC📁|0d 22h 56m 28s|Saturday 18 April 2026 01:45:00 WIB(BLV REVIVE)
 https://live5.msrktz.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d8ae192476c8c5883682978c994ebe5b.png!w80" group-title="📁Championship📁",📁Blackburn Rovers😈VS😈Coventry City📁|0d 23h 13m 21s|Saturday 18 April 2026 02:00:00 WIB(BLV AQUA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d8ae192476c8c5883682978c994ebe5b.png!w80" group-title="📁Championship📁",📁Blackburn Rovers😈VS😈Coventry City📁|0d 23h 11m 28s|Saturday 18 April 2026 02:00:00 WIB(BLV AQUA)
 https://live5.msrktz.app/live/18812304.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e83b163c8501f897012bcc29adfae2b9.png!w80" group-title="📁Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha📁",📁Rio Ave😈VS😈AVS Futebol SAD📁|0d 23h 58m 21s|Saturday 18 April 2026 02:45:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e83b163c8501f897012bcc29adfae2b9.png!w80" group-title="📁Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha📁",📁Rio Ave😈VS😈AVS Futebol SAD📁|0d 23h 56m 28s|Saturday 18 April 2026 02:45:00 WIB(BLV SAMURAI)
 https://live5.msrktz.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2bdca3e16a51a2de37b73978915d433a.png!w80" group-title="📁Giải vô địch quốc gia Uruguay📁",📁Albion😈VS😈Central Espanol📁|1d 3h 13m 21s|Saturday 18 April 2026 06:00:00 WIB(BLV RỒNG ĐỎ)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2bdca3e16a51a2de37b73978915d433a.png!w80" group-title="📁Giải vô địch quốc gia Uruguay📁",📁Albion😈VS😈Central Espanol📁|1d 3h 11m 28s|Saturday 18 April 2026 06:00:00 WIB(BLV RỒNG ĐỎ)
 https://live5.msrktz.app/live/88508431.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2bdca3e16a51a2de37b73978915d433a.png!w80" group-title="📁Giải vô địch quốc gia Uruguay📁",📁Albion😈VS😈Central Espanol📁|1d 3h 13m 21s|Saturday 18 April 2026 06:00:00 WIB(BLV STING)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2bdca3e16a51a2de37b73978915d433a.png!w80" group-title="📁Giải vô địch quốc gia Uruguay📁",📁Albion😈VS😈Central Espanol📁|1d 3h 11m 28s|Saturday 18 April 2026 06:00:00 WIB(BLV STING)
 https://live5.msrktz.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80" group-title="📁Giải Bóng đá Vô địch Quốc gia Argentina📁",📁Union de Santa Fe😈VS😈Newells Old Boys📁|1d 3h 43m 21s|Saturday 18 April 2026 06:30:00 WIB(BLV RỒNG ĐỎ)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80" group-title="📁Giải Bóng đá Vô địch Quốc gia Argentina📁",📁Union de Santa Fe😈VS😈Newells Old Boys📁|1d 3h 41m 28s|Saturday 18 April 2026 06:30:00 WIB(BLV RỒNG ĐỎ)
 https://live5.msrktz.app/live/88508431.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Orlando Magic😈VS😈Charlotte Hornets📁|1d 3h 43m 21s|Saturday 18 April 2026 06:30:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Orlando Magic😈VS😈Charlotte Hornets📁|1d 3h 41m 28s|Saturday 18 April 2026 06:30:00 WIB(BLV 247)
 https://live5.msrktz.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80" group-title="📁Giải Vô địch Bóng đá Quốc gia Mexico📁",📁Atletico San Luis😈VS😈U.N.A.M.- Pumas📁|1d 5h 13m 21s|Saturday 18 April 2026 08:00:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80" group-title="📁Giải Vô địch Bóng đá Quốc gia Mexico📁",📁Atletico San Luis😈VS😈U.N.A.M.- Pumas📁|1d 5h 11m 28s|Saturday 18 April 2026 08:00:00 WIB(BLV SPRITE)
 https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b03a9a46930e9deaf4ed7ba3d7f0271b.png!w80" group-title="📁Giải Vô địch Bóng đá Quốc gia Mexico📁",📁Mazatlan FC😈VS😈Queretaro📁|1d 5h 13m 21s|Saturday 18 April 2026 08:00:00 WIB(BLV RỒNG ĐỎ)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b03a9a46930e9deaf4ed7ba3d7f0271b.png!w80" group-title="📁Giải Vô địch Bóng đá Quốc gia Mexico📁",📁Mazatlan FC😈VS😈Queretaro📁|1d 5h 11m 28s|Saturday 18 April 2026 08:00:00 WIB(BLV RỒNG ĐỎ)
 https://live5.msrktz.app/live/88508431.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Phoenix suns😈VS😈Golden State Warriors📁|1d 6h 13m 21s|Saturday 18 April 2026 09:00:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80" group-title="📁Hiệp hội Bóng rổ Quốc gia📁",📁Phoenix suns😈VS😈Golden State Warriors📁|1d 6h 11m 28s|Saturday 18 April 2026 09:00:00 WIB(BLV Cozy)
 https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/527dcdb6260004a2c8f61fae9345f133.png!w80" group-title="📁Major League Soccer📁",📁Vancouver Whitecaps😈VS😈Kansas City📁|1d 6h 43m 21s|Saturday 18 April 2026 09:30:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/527dcdb6260004a2c8f61fae9345f133.png!w80" group-title="📁Major League Soccer📁",📁Vancouver Whitecaps😈VS😈Kansas City📁|1d 6h 41m 28s|Saturday 18 April 2026 09:30:00 WIB(BLV ROCKSTAR)
 https://live5.msrktz.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png!w80" group-title="📁Giải vô địch quốc gia Nhật Bản📁",📁Yokohama F. Marinos😈VS😈Kawasaki Frontale📁|1d 8h 13m 21s|Saturday 18 April 2026 11:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png!w80" group-title="📁Giải vô địch quốc gia Nhật Bản📁",📁Yokohama F. Marinos😈VS😈Kawasaki Frontale📁|1d 8h 11m 28s|Saturday 18 April 2026 11:00:00 WIB(BLV 7UP)
 https://live5.msrktz.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Tauranga Whai😈VS😈Taranaki Mountainairs📁|1d 8h 13m 21s|Saturday 18 April 2026 11:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Tauranga Whai😈VS😈Taranaki Mountainairs📁|1d 8h 11m 28s|Saturday 18 April 2026 11:00:00 WIB(BLV 247)
 https://live5.msrktz.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80" group-title="📁Giải vô địch quốc gia Nhật Bản📁",📁Kashima Antlers😈VS😈Urawa Reds📁|1d 9h 13m 21s|Saturday 18 April 2026 12:00:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80" group-title="📁Giải vô địch quốc gia Nhật Bản📁",📁Kashima Antlers😈VS😈Urawa Reds📁|1d 9h 11m 28s|Saturday 18 April 2026 12:00:00 WIB(BLV REDBULL)
 https://live5.msrktz.app/live/68848594.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" group-title="📁Giải K1 Hàn Quốc📁",📁Gangwon😈VS😈Jeonbuk Hyundai Motors📁|1d 9h 13m 21s|Saturday 18 April 2026 12:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" group-title="📁Giải K1 Hàn Quốc📁",📁Gangwon😈VS😈Jeonbuk Hyundai Motors📁|1d 9h 11m 28s|Saturday 18 April 2026 12:00:00 WIB(BLV C2)
 https://live5.msrktz.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80" group-title="📁Giải K1 Hàn Quốc📁",📁Seoul😈VS😈Daejeon📁|1d 9h 13m 21s|Saturday 18 April 2026 12:00:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80" group-title="📁Giải K1 Hàn Quốc📁",📁Seoul😈VS😈Daejeon📁|1d 9h 11m 28s|Saturday 18 April 2026 12:00:00 WIB(BLV Cozy)
 https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c81d5ff7a33a4f6a9312a8703f619352.png!w80" group-title="📁Giải vô địch quốc gia Nhật Bản📁",📁Sanfrecce Hiroshima😈VS😈V Varen Nagasaki📁|1d 9h 13m 21s|Saturday 18 April 2026 12:00:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c81d5ff7a33a4f6a9312a8703f619352.png!w80" group-title="📁Giải vô địch quốc gia Nhật Bản📁",📁Sanfrecce Hiroshima😈VS😈V Varen Nagasaki📁|1d 9h 11m 28s|Saturday 18 April 2026 12:00:00 WIB(BLV MOUNTAIN DEW)
 https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1162efa593827d2a7566b5862dee72e4.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Wellington Phoenix😈VS😈Western Sydney📁|1d 9h 13m 21s|Saturday 18 April 2026 12:00:00 WIB(BLV DR THANH)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1162efa593827d2a7566b5862dee72e4.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Wellington Phoenix😈VS😈Western Sydney📁|1d 9h 11m 28s|Saturday 18 April 2026 12:00:00 WIB(BLV DR THANH)
 https://live5.msrktz.app/live/79665343.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1162efa593827d2a7566b5862dee72e4.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Wellington Phoenix😈VS😈Western Sydney📁|1d 9h 13m 21s|Saturday 18 April 2026 12:00:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1162efa593827d2a7566b5862dee72e4.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Wellington Phoenix😈VS😈Western Sydney📁|1d 9h 11m 28s|Saturday 18 April 2026 12:00:00 WIB(BLV PEPSI)
 https://live5.msrktz.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2a8adb34e764602183a7bee8f51726e4.png!w80" group-title="📁Giải vô địch quốc gia Nhật Bản📁",📁Tokyo Verdy😈VS😈Chiba📁|1d 10h 13m 21s|Saturday 18 April 2026 13:00:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2a8adb34e764602183a7bee8f51726e4.png!w80" group-title="📁Giải vô địch quốc gia Nhật Bản📁",📁Tokyo Verdy😈VS😈Chiba📁|1d 10h 11m 28s|Saturday 18 April 2026 13:00:00 WIB(BLV REVIVE)
 https://live5.msrktz.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="📁Giải vô địch quốc gia Nhật Bản📁",📁Cerezo Osaka😈VS😈Kyoto Sanga📁|1d 11h 13m 21s|Saturday 18 April 2026 14:00:00 WIB(BLV AQUA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="📁Giải vô địch quốc gia Nhật Bản📁",📁Cerezo Osaka😈VS😈Kyoto Sanga📁|1d 11h 11m 28s|Saturday 18 April 2026 14:00:00 WIB(BLV AQUA)
 https://live5.msrktz.app/live/18812304.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Brisbane Roar😈VS😈Melbourne city📁|1d 11h 13m 21s|Saturday 18 April 2026 14:00:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Brisbane Roar😈VS😈Melbourne city📁|1d 11h 11m 28s|Saturday 18 April 2026 14:00:00 WIB(BLV GIÀ LÀNG)
 https://live5.msrktz.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Brisbane Roar😈VS😈Melbourne city📁|1d 11h 13m 21s|Saturday 18 April 2026 14:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a6bdb997f37f85a411b14348fb35c2ee.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Brisbane Roar😈VS😈Melbourne city📁|1d 11h 11m 28s|Saturday 18 April 2026 14:00:00 WIB(BLV 7UP)
 https://live5.msrktz.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2d2abe914435bb9b7140cf2154c50de9.png!w80" group-title="📁Giải K1 Hàn Quốc📁",📁Jeju Utd😈VS😈Gimcheon Sangmu FC📁|1d 11h 43m 21s|Saturday 18 April 2026 14:30:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2d2abe914435bb9b7140cf2154c50de9.png!w80" group-title="📁Giải K1 Hàn Quốc📁",📁Jeju Utd😈VS😈Gimcheon Sangmu FC📁|1d 11h 41m 28s|Saturday 18 April 2026 14:30:00 WIB(BLV SAMURAI)
 https://live5.msrktz.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="📁Giải K1 Hàn Quốc📁",📁Bucheon FC 1995😈VS😈Incheon United📁|1d 11h 43m 21s|Saturday 18 April 2026 14:30:00 WIB(BLV STING)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="📁Giải K1 Hàn Quốc📁",📁Bucheon FC 1995😈VS😈Incheon United📁|1d 11h 41m 28s|Saturday 18 April 2026 14:30:00 WIB(BLV STING)
 https://live5.msrktz.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/12e9ecb23853b22284862b0002431e14.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Auckland Huskies😈VS😈Southland Sharks📁|1d 11h 43m 21s|Saturday 18 April 2026 14:30:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/12e9ecb23853b22284862b0002431e14.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Auckland Huskies😈VS😈Southland Sharks📁|1d 11h 41m 28s|Saturday 18 April 2026 14:30:00 WIB(BLV ROCKSTAR)
 https://live5.msrktz.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80" group-title="📁Giải bóng đá Liga 1 Indonesia📁",📁Arema Malang😈VS😈Persis Solo📁|1d 12h 43m 21s|Saturday 18 April 2026 15:30:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80" group-title="📁Giải bóng đá Liga 1 Indonesia📁",📁Arema Malang😈VS😈Persis Solo📁|1d 12h 41m 28s|Saturday 18 April 2026 15:30:00 WIB(BLV REDBULL)
 https://live5.msrktz.app/live/68848594.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Sydney FC😈VS😈Perth Glory📁|1d 13h 48m 21s|Saturday 18 April 2026 16:35:00 WIB(BLV DR THANH)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Sydney FC😈VS😈Perth Glory📁|1d 13h 46m 28s|Saturday 18 April 2026 16:35:00 WIB(BLV DR THANH)
 https://live5.msrktz.app/live/79665343.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Sydney FC😈VS😈Perth Glory📁|1d 13h 48m 21s|Saturday 18 April 2026 16:35:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="📁Giải vô địch quốc gia Úc📁",📁Sydney FC😈VS😈Perth Glory📁|1d 13h 46m 28s|Saturday 18 April 2026 16:35:00 WIB(BLV SPRITE)
 https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/83dd94c5ca68e8f9a3980f036afcb511.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Hồng Lĩnh Hà Tĩnh😈VS😈XM Hai Phong📁|1d 15h 13m 21s|Saturday 18 April 2026 18:00:00 WIB(BLV  KHÔNG ĐỘ)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/83dd94c5ca68e8f9a3980f036afcb511.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Hồng Lĩnh Hà Tĩnh😈VS😈XM Hai Phong📁|1d 15h 11m 28s|Saturday 18 April 2026 18:00:00 WIB(BLV  KHÔNG ĐỘ)
 https://live5.msrktz.app/live/41943555.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Phu Dong Ninh Binh😈VS😈PVF CAND📁|1d 15h 13m 21s|Saturday 18 April 2026 18:00:00 WIB(BLV HỔ VẰN)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5452226660be0829fdb40967dd4b0b77.png!w80" group-title="📁Giải vô địch quốc gia Việt Nam📁",📁Phu Dong Ninh Binh😈VS😈PVF CAND📁|1d 15h 11m 28s|Saturday 18 April 2026 18:00:00 WIB(BLV HỔ VẰN)
 https://live5.msrktz.app/live/07428422.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png!w80" group-title="📁Giải bóng đá Hạng hai Đức📁",📁Bielefeld😈VS😈Nurnberg📁|1d 15h 13m 21s|Saturday 18 April 2026 18:00:00 WIB(BLV RỒNG ĐỎ)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png!w80" group-title="📁Giải bóng đá Hạng hai Đức📁",📁Bielefeld😈VS😈Nurnberg📁|1d 15h 11m 28s|Saturday 18 April 2026 18:00:00 WIB(BLV RỒNG ĐỎ)
 https://live5.msrktz.app/live/88508431.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0e5467034917e26c6e60a7162711c150.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Dalian Yingbo😈VS😈Henan Songshan Longmen📁|1d 15h 13m 21s|Saturday 18 April 2026 18:00:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0e5467034917e26c6e60a7162711c150.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Dalian Yingbo😈VS😈Henan Songshan Longmen📁|1d 15h 11m 28s|Saturday 18 April 2026 18:00:00 WIB(BLV Cozy)
 https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Brentford😈VS😈Fulham📁|1d 15h 43m 21s|Saturday 18 April 2026 18:30:00 WIB(BLV ÔLONG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Brentford😈VS😈Fulham📁|1d 15h 41m 28s|Saturday 18 April 2026 18:30:00 WIB(BLV ÔLONG)
 https://live5.msrktz.app/live/97312754.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Brentford😈VS😈Fulham📁|1d 15h 43m 21s|Saturday 18 April 2026 18:30:00 WIB(BLV COCA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Brentford😈VS😈Fulham📁|1d 15h 41m 28s|Saturday 18 April 2026 18:30:00 WIB(BLV COCA)
 https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Brentford😈VS😈Fulham📁|1d 15h 43m 21s|Saturday 18 April 2026 18:30:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Brentford😈VS😈Fulham📁|1d 15h 41m 28s|Saturday 18 April 2026 18:30:00 WIB(BLV PEPSI)
 https://live5.msrktz.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Shanghai Shenhua😈VS😈Shenyang Urban FC📁|1d 16h 13m 21s|Saturday 18 April 2026 19:00:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80" group-title="📁Giải bóng đá ngoại hạng Trung Quốc📁",📁Shanghai Shenhua😈VS😈Shenyang Urban FC📁|1d 16h 11m 28s|Saturday 18 April 2026 19:00:00 WIB(BLV MONSTER)
 https://live5.msrktz.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c7140efe06d93642fcc9805077c49aa5.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁Udinese Calcio😈VS😈Parma📁|1d 17h 13m 21s|Saturday 18 April 2026 20:00:00 WIB(BLV STING)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c7140efe06d93642fcc9805077c49aa5.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁Udinese Calcio😈VS😈Parma📁|1d 17h 11m 28s|Saturday 18 April 2026 20:00:00 WIB(BLV STING)
 https://live5.msrktz.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁Union Berlin😈VS😈VfL Wolfsburg📁|1d 17h 43m 21s|Saturday 18 April 2026 20:30:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁Union Berlin😈VS😈VfL Wolfsburg📁|1d 17h 41m 28s|Saturday 18 April 2026 20:30:00 WIB(BLV C2)
 https://live5.msrktz.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁Bayer 04 Leverkusen😈VS😈FC Augsburg📁|1d 17h 43m 21s|Saturday 18 April 2026 20:30:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁Bayer 04 Leverkusen😈VS😈FC Augsburg📁|1d 17h 41m 28s|Saturday 18 April 2026 20:30:00 WIB(BLV 7UP)
 https://live5.msrktz.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁SV Werder Bremen😈VS😈Hamburger SV📁|1d 17h 43m 21s|Saturday 18 April 2026 20:30:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁SV Werder Bremen😈VS😈Hamburger SV📁|1d 17h 41m 28s|Saturday 18 April 2026 20:30:00 WIB(BLV MOUNTAIN DEW)
 https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/72ab7862a610b350aef7650ec0e06e06.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁TSG 1899 Hoffenheim😈VS😈Borussia Dortmund📁|1d 17h 43m 21s|Saturday 18 April 2026 20:30:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/72ab7862a610b350aef7650ec0e06e06.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁TSG 1899 Hoffenheim😈VS😈Borussia Dortmund📁|1d 17h 41m 28s|Saturday 18 April 2026 20:30:00 WIB(BLV SODA)
 https://live5.msrktz.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Newcastle😈VS😈Bournemouth📁|1d 18h 13m 21s|Saturday 18 April 2026 21:00:00 WIB(BLV ÔLONG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Newcastle😈VS😈Bournemouth📁|1d 18h 11m 28s|Saturday 18 April 2026 21:00:00 WIB(BLV ÔLONG)
 https://live5.msrktz.app/live/97312754.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Newcastle😈VS😈Bournemouth📁|1d 18h 13m 21s|Saturday 18 April 2026 21:00:00 WIB(BLV COCA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Newcastle😈VS😈Bournemouth📁|1d 18h 11m 28s|Saturday 18 April 2026 21:00:00 WIB(BLV COCA)
 https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Newcastle😈VS😈Bournemouth📁|1d 18h 13m 21s|Saturday 18 April 2026 21:00:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Newcastle😈VS😈Bournemouth📁|1d 18h 11m 28s|Saturday 18 April 2026 21:00:00 WIB(BLV REVIVE)
 https://live5.msrktz.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Leeds😈VS😈Wolves📁|1d 18h 13m 21s|Saturday 18 April 2026 21:00:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Leeds😈VS😈Wolves📁|1d 18h 11m 28s|Saturday 18 April 2026 21:00:00 WIB(BLV GIÀ LÀNG)
 https://live5.msrktz.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Leeds😈VS😈Wolves📁|1d 18h 13m 21s|Saturday 18 April 2026 21:00:00 WIB(BLV DR THANH)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Leeds😈VS😈Wolves📁|1d 18h 11m 28s|Saturday 18 April 2026 21:00:00 WIB(BLV DR THANH)
 https://live5.msrktz.app/live/79665343.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Leeds😈VS😈Wolves📁|1d 18h 13m 21s|Saturday 18 April 2026 21:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Leeds😈VS😈Wolves📁|1d 18h 11m 28s|Saturday 18 April 2026 21:00:00 WIB(BLV 247)
 https://live5.msrktz.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b593727321793084b1f7804aebedc31a.png!w80" group-title="📁Ligue 1📁",📁FC Lorient😈VS😈Olympique de Marseille📁|1d 19h 13m 21s|Saturday 18 April 2026 22:00:00 WIB(BLV AQUA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b593727321793084b1f7804aebedc31a.png!w80" group-title="📁Ligue 1📁",📁FC Lorient😈VS😈Olympique de Marseille📁|1d 19h 11m 28s|Saturday 18 April 2026 22:00:00 WIB(BLV AQUA)
 https://live5.msrktz.app/live/18812304.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/37ed13d27edccd30e053167962c02b3a.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁S.S.C. Napoli😈VS😈S.S. Lazio📁|1d 20h 13m 21s|Saturday 18 April 2026 23:00:00 WIB(BLV SAMURAI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/37ed13d27edccd30e053167962c02b3a.png!w80" group-title="📁Giải bóng đá Serie A Italia📁",📁S.S.C. Napoli😈VS😈S.S. Lazio📁|1d 20h 11m 28s|Saturday 18 April 2026 23:00:00 WIB(BLV SAMURAI)
 https://live5.msrktz.app/live/07808742.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/77772713a7d7e02b10ca9bd90e4f6a31.png!w80" group-title="📁Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu📁",📁Iceland Nữ😈VS😈Anh Nữ📁|1d 20h 43m 21s|Saturday 18 April 2026 23:30:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/77772713a7d7e02b10ca9bd90e4f6a31.png!w80" group-title="📁Vòng loại Giải vô địch thế giới Nữ, khu vực Châu Âu📁",📁Iceland Nữ😈VS😈Anh Nữ📁|1d 20h 41m 28s|Saturday 18 April 2026 23:30:00 WIB(BLV MOUNTAIN DEW)
 https://live5.msrktz.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fe636189a2f3db78d0554c34f0bdaae6.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁Eintracht Frankfurt😈VS😈RB Leipzig📁|1d 20h 43m 21s|Saturday 18 April 2026 23:30:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fe636189a2f3db78d0554c34f0bdaae6.png!w80" group-title="📁Giải bóng đá vô địch quốc gia Đức📁",📁Eintracht Frankfurt😈VS😈RB Leipzig📁|1d 20h 41m 28s|Saturday 18 April 2026 23:30:00 WIB(BLV PEPSI)
 https://live5.msrktz.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Tottenham Hotspur😈VS😈Brighton📁|1d 20h 43m 21s|Saturday 18 April 2026 23:30:00 WIB(BLV ÔLONG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Tottenham Hotspur😈VS😈Brighton📁|1d 20h 41m 28s|Saturday 18 April 2026 23:30:00 WIB(BLV ÔLONG)
 https://live5.msrktz.app/live/97312754.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Tottenham Hotspur😈VS😈Brighton📁|1d 20h 43m 21s|Saturday 18 April 2026 23:30:00 WIB(BLV COCA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Tottenham Hotspur😈VS😈Brighton📁|1d 20h 41m 28s|Saturday 18 April 2026 23:30:00 WIB(BLV COCA)
 https://live5.msrktz.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Tottenham Hotspur😈VS😈Brighton📁|1d 20h 43m 21s|Saturday 18 April 2026 23:30:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80" group-title="📁Giải bóng đá Ngoại hạng Anh📁",📁Tottenham Hotspur😈VS😈Brighton📁|1d 20h 41m 28s|Saturday 18 April 2026 23:30:00 WIB(BLV GIÀ LÀNG)
 https://live5.msrktz.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80" group-title="📁Giải Vô địch Bóng đá Quốc gia Mexico📁",📁Necaxa😈VS😈Tigres📁|2d 3h 13m 21s|Sunday 19 April 2026 06:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80" group-title="📁Giải Vô địch Bóng đá Quốc gia Mexico📁",📁Necaxa😈VS😈Tigres📁|2d 3h 11m 28s|Sunday 19 April 2026 06:00:00 WIB(BLV 247)
 https://live5.msrktz.app/live/90865415.m3u8
