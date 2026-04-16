@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:51 WIB 16/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:51 WIB 16/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:36 WIB 16/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:36 WIB 16/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[18:30 WIB 16/04/26] Lorenzo Sonego vs Andrey Rublev [FHD] [LIVE]
@@ -91,15 +91,6 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d7/AFC_Champions_League_Elite_logo.svg/250px-AFC_Champions_League_Elite_logo.svg.png" group-title="AFC Champions League Elite",[23:15 WIB 16/04/26] Al Sadd vs Vissel Kobe [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:30 WIB 16/04/26] Fenerbahce W - Vakifbank W [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:30 WIB 16/04/26] Fenerbahce W - Vakifbank W [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:30 WIB 16/04/26] Fenerbahce W - Vakifbank W [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[23:45 WIB 16/04/26] Celta Vigo vs SC Freiburg [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
@@ -370,3 +361,30 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/UEFA_Youth_League.png" group-title="UEFA Youth League",[23:45 WIB 17/04/26] Real Madrid U19 vs PSG U19 [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[12:00 WIB 18/04/26] Hà Nội Tasco Auto - Geleximco Hưng Yên [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[12:00 WIB 18/04/26] Hà Nội Tasco Auto - Geleximco Hưng Yên [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[12:00 WIB 18/04/26] Hà Nội Tasco Auto - Geleximco Hưng Yên [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MANih1FjM_KTqGKNi9wBLb6Y-qT38zbYTQ&s" group-title="Japan League Women",[14:30 WIB 18/04/26] NEC Red Rockets W - Osaka Marvelous W [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MANih1FjM_KTqGKNi9wBLb6Y-qT38zbYTQ&s" group-title="Japan League Women",[14:30 WIB 18/04/26] NEC Red Rockets W - Osaka Marvelous W [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MANih1FjM_KTqGKNi9wBLb6Y-qT38zbYTQ&s" group-title="Japan League Women",[14:30 WIB 18/04/26] NEC Red Rockets W - Osaka Marvelous W [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:00 WIB 18/04/26] VTV BĐ Long An - BC Thông Tin BĐ19 [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:00 WIB 18/04/26] VTV BĐ Long An - BC Thông Tin BĐ19 [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:00 WIB 18/04/26] VTV BĐ Long An - BC Thông Tin BĐ19 [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
