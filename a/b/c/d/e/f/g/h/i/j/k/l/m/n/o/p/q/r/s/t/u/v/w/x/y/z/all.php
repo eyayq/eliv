@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.10 WIB 16/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.12 WIB 16/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="965mkyhk8dkor1g" tvg-name="Los Angeles Galaxy vs Toluca" tvg-logo="https://img.cdnok9.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png" group-title="[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca",[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="965mkyhk8dkor1g" tvg-name="Los Angeles Galaxy vs Toluca" tvg-logo="https://img.cdnok9.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png" group-title="[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca",[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="965mkyhk8dkor1g" tvg-name="Los Angeles Galaxy vs Toluca" tvg-logo="https://img.cdnok9.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png" group-title="[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca",[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="965mkyhk8dkor1g" tvg-name="Los Angeles Galaxy vs Toluca" tvg-logo="https://img.cdnok9.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png" group-title="[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca",[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-id="965mkyhk8dkor1g" tvg-name="Los Angeles Galaxy vs Toluca" tvg-logo="https://img.cdnok9.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png" group-title="[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca",[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="965mkyhk8dkor1g" tvg-name="Los Angeles Galaxy vs Toluca" tvg-logo="https://img.cdnok9.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png" group-title="[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca",[LIVE 08:00 WIB | 16/04/26] Los Angeles Galaxy vs Toluca (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="4wyrn4h6y37oq86" tvg-name="Corinthians - SP vs Independiente Santa Fe" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 07:30 WIB | 16/04/26] Corinthians - SP vs Independiente Santa Fe",[LIVE 07:30 WIB | 16/04/26] Corinthians - SP vs Independiente Santa Fe (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="4wyrn4h6y37oq86" tvg-name="Corinthians - SP vs Independiente Santa Fe" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 07:30 WIB | 16/04/26] Corinthians - SP vs Independiente Santa Fe",[LIVE 07:30 WIB | 16/04/26] Corinthians - SP vs Independiente Santa Fe (Giàng A Voi)
