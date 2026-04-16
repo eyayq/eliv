@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.14 WIB 17/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.17 WIB 17/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="y0or5jh89yneqwz" tvg-name="RC Celta vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 23:45 WIB | 16/04/26] RC Celta vs SC Freiburg",[LIVE 23:45 WIB | 16/04/26] RC Celta vs SC Freiburg (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
@@ -49,10 +49,6 @@ https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="dn1m1ghl2788moe" tvg-name="CS Constantine vs MC Alger" tvg-logo="https://img.cdnok9.com/football/competition/44928d98d868f3becebc46845ee9e49f.png" group-title="[LIVE 00:00 WIB | 17/04/26] CS Constantine vs MC Alger",[LIVE 00:00 WIB | 17/04/26] CS Constantine vs MC Alger (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="l7oqdehgjwokr51" tvg-name="AZ Alkmaar vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk",[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="l7oqdehgjwokr51" tvg-name="AZ Alkmaar vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk",[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="l7oqdehgjwokr51" tvg-name="AZ Alkmaar vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk",[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="l7oqdehgjwokr51" tvg-name="AZ Alkmaar vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk",[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk (HOÀNG CÁI)
@@ -61,6 +57,10 @@ https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="l7oqdehgjwokr51" tvg-name="AZ Alkmaar vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk",[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk (Giàng A Kê)
 https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="l7oqdehgjwokr51" tvg-name="AZ Alkmaar vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk",[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk (Giàng A Voi)
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="l7oqdehgjwokr51" tvg-name="AZ Alkmaar vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk",[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk (Giàng A Voi)
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="l7oqdehgjwokr51" tvg-name="AZ Alkmaar vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk",[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="l7oqdehgjwokr51" tvg-name="AZ Alkmaar vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk",[LIVE 23:45 WIB | 16/04/26] AZ Alkmaar vs FC Shakhtar Donetsk (GIÀNG A PHỆ )
