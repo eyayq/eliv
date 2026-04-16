@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [13:26 WIB 16/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:26 WIB 16/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [13:31 WIB 16/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:31 WIB 16/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[10:30 WIB 16/04/26] Seattle Sounders vs Tigres UANL [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[10:30 WIB 16/04/26] Seattle Sounders vs Tigres UANL [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[10:30 WIB 16/04/26] Seattle Sounders vs Tigres UANL [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NAM",[14:30 WIB 16/04/26] Thể Công Tân Cảng - TP Hồ Chí Minh [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
