@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [23:00 WIB 16/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:00 WIB 16/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:07 WIB 16/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:07 WIB 16/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[21:00 WIB 16/04/26] Septemvri Sofia vs Spartak Varna [FHD] [LIVE]
@@ -10,15 +10,6 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[21:00 WIB 16/04/26] Septemvri Sofia vs Spartak Varna [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 16/04/26] East Bengal II vs Bengaluru [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 16/04/26] East Bengal II vs Bengaluru [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 16/04/26] East Bengal II vs Bengaluru [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r254x143n/b2bcf799-e5c5-417c-ac0b-57b8fc00c6f9" group-title="WTA500 Stuttgart",[22:00 WIB 16/04/26] Elena Rybakina vs Diana Shnaider [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
