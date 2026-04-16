@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:50 WIB 16/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:50 WIB 16/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:57 WIB 16/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:57 WIB 16/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[17:00 WIB 16/04/26] DNS vs HLE [FHD] [LIVE]
@@ -29,13 +29,13 @@ https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 16/04/26] Jilin vs Zhejiang Chouzhou [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 16/04/26] Jiangsu Dragons vs Fujian [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 16/04/26] Jiangsu Dragons vs Fujian [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 16/04/26] Jiangsu Dragons vs Fujian [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 16/04/26] Jiangsu Dragons vs Fujian [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 16/04/26] Jiangsu Dragons vs Fujian [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 16/04/26] Jiangsu Dragons vs Fujian [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/AFC_Challenge_League_logo.svg" group-title="AFC Challenge League",[19:00 WIB 16/04/26] Manila Digger vs Svay Rieng [FHD] [NANTIKAN]
