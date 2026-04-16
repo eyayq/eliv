@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.15 WIB 17/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.26 WIB 17/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="pxwrxlhyl47pryk" tvg-name="Palmeiras - SP vs Sporting Cristal" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 05:00 WIB | 17/04/26] Palmeiras - SP vs Sporting Cristal",[LIVE 05:00 WIB | 17/04/26] Palmeiras - SP vs Sporting Cristal (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
