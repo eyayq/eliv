@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.03 WIB 17/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.12 WIB 17/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="dj2ryohl7616q1z" tvg-name="AEK Athens vs Rayo Vallecano" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 17/04/26] AEK Athens vs Rayo Vallecano",[LIVE 02:00 WIB | 17/04/26] AEK Athens vs Rayo Vallecano (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
@@ -33,6 +33,10 @@ https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="dn1m1ghl9y29moe" tvg-name="Real Betis vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Real Betis vs Sporting Braga",[LIVE 02:00 WIB | 17/04/26] Real Betis vs Sporting Braga (Giàng A Hổ)
 https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="k82rekhg2pwwrep" tvg-name="Fiorentina vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace",[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="k82rekhg2pwwrep" tvg-name="Fiorentina vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace",[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="k82rekhg2pwwrep" tvg-name="Fiorentina vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace",[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="k82rekhg2pwwrep" tvg-name="Fiorentina vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace",[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace (Giàng A Húp)
@@ -41,10 +45,6 @@ https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="k82rekhg2pwwrep" tvg-name="Fiorentina vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace",[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="k82rekhg2pwwrep" tvg-name="Fiorentina vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace",[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="k82rekhg2pwwrep" tvg-name="Fiorentina vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace",[LIVE 02:00 WIB | 17/04/26] Fiorentina vs Crystal Palace (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="6ypq3nhvky32md7" tvg-name="RC Strasbourg Alsace vs 1. FSV Mainz 05" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 17/04/26] RC Strasbourg Alsace vs 1. FSV Mainz 05",[LIVE 02:00 WIB | 17/04/26] RC Strasbourg Alsace vs 1. FSV Mainz 05 (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="6ypq3nhvky32md7" tvg-name="RC Strasbourg Alsace vs 1. FSV Mainz 05" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 17/04/26] RC Strasbourg Alsace vs 1. FSV Mainz 05",[LIVE 02:00 WIB | 17/04/26] RC Strasbourg Alsace vs 1. FSV Mainz 05 (BLV GÀ PHÁP)
@@ -53,10 +53,10 @@ https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="6ypq3nhvky32md7" tvg-name="RC Strasbourg Alsace vs 1. FSV Mainz 05" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 17/04/26] RC Strasbourg Alsace vs 1. FSV Mainz 05",[LIVE 02:00 WIB | 17/04/26] RC Strasbourg Alsace vs 1. FSV Mainz 05 (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="y0or5jh89y8eqwz" tvg-name="Aston Villa vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna",[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="y0or5jh89y8eqwz" tvg-name="Aston Villa vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna",[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="y0or5jh89y8eqwz" tvg-name="Aston Villa vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna",[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="y0or5jh89y8eqwz" tvg-name="Aston Villa vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna",[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="y0or5jh89y8eqwz" tvg-name="Aston Villa vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna",[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="y0or5jh89y8eqwz" tvg-name="Aston Villa vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna",[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna (Giàng A Gấu)
@@ -65,11 +65,7 @@ https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa69089696
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="y0or5jh89y8eqwz" tvg-name="Aston Villa vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna",[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="y0or5jh89y8eqwz" tvg-name="Aston Villa vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna",[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="y0or5jh89y8eqwz" tvg-name="Aston Villa vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna",[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="1l4rjnh9g055m7v" tvg-name="Al-Sadd vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[LIVE 23:15 WIB | 16/04/26] Al-Sadd vs Vissel Kobe",[LIVE 23:15 WIB | 16/04/26] Al-Sadd vs Vissel Kobe (Giàng A Sún)
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="1l4rjnh9g055m7v" tvg-name="Al-Sadd vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[LIVE 23:15 WIB | 16/04/26] Al-Sadd vs Vissel Kobe",[LIVE 23:15 WIB | 16/04/26] Al-Sadd vs Vissel Kobe (Giàng A Sún)
-https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="y0or5jh89y8eqwz" tvg-name="Aston Villa vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna",[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="y0or5jh89y8eqwz" tvg-name="Aston Villa vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna",[LIVE 02:00 WIB | 17/04/26] Aston Villa vs Bologna (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
