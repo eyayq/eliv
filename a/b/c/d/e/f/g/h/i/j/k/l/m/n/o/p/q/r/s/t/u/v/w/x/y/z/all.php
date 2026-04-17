@@ -1,42 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.53 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.56 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="jw2r09hk6xwdrz8" tvg-name="Degerfors IF vs Elfsborg" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 18/04/26] Degerfors IF vs Elfsborg",[LIVE 00:00 WIB | 18/04/26] Degerfors IF vs Elfsborg (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="jw2r09hk6xwdrz8" tvg-name="Degerfors IF vs Elfsborg" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 18/04/26] Degerfors IF vs Elfsborg",[LIVE 00:00 WIB | 18/04/26] Degerfors IF vs Elfsborg (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Kê)
-https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Kê)
-https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="pxwrxlhy91jlryk" tvg-name="SV Elversberg vs Karlsruher SC" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 23:30 WIB | 17/04/26] SV Elversberg vs Karlsruher SC",[LIVE 23:30 WIB | 17/04/26] SV Elversberg vs Karlsruher SC (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="pxwrxlhy91jlryk" tvg-name="SV Elversberg vs Karlsruher SC" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 23:30 WIB | 17/04/26] SV Elversberg vs Karlsruher SC",[LIVE 23:30 WIB | 17/04/26] SV Elversberg vs Karlsruher SC (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="x7lm7phj0owdm2w" tvg-name="Holstein Kiel vs 1. FC Kaiserslautern" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 23:30 WIB | 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern",[LIVE 23:30 WIB | 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="x7lm7phj0owdm2w" tvg-name="Holstein Kiel vs 1. FC Kaiserslautern" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 23:30 WIB | 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern",[LIVE 23:30 WIB | 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="965mkyhk3e1xr1g" tvg-name="FK Rostov vs FC Sochi" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 23:30 WIB | 17/04/26] FK Rostov vs FC Sochi",[LIVE 23:30 WIB | 17/04/26] FK Rostov vs FC Sochi (Giàng A Khoai)
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="965mkyhk3e1xr1g" tvg-name="FK Rostov vs FC Sochi" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 23:30 WIB | 17/04/26] FK Rostov vs FC Sochi",[LIVE 23:30 WIB | 17/04/26] FK Rostov vs FC Sochi (Giàng A Khoai)
@@ -69,7 +33,43 @@ https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="l7oqdehg84lkr51" tvg-name="Djurgardens vs Malmo FF" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 18/04/26] Djurgardens vs Malmo FF",[LIVE 00:00 WIB | 18/04/26] Djurgardens vs Malmo FF (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[UPCO 01:30 WIB | 36m | 18/04/26] FC St. Pauli vs FC Köln",[UPCO 01:30 WIB | 36m | 18/04/26] FC St. Pauli vs FC Köln (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="jw2r09hk6xwdrz8" tvg-name="Degerfors IF vs Elfsborg" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 18/04/26] Degerfors IF vs Elfsborg",[LIVE 00:00 WIB | 18/04/26] Degerfors IF vs Elfsborg (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="jw2r09hk6xwdrz8" tvg-name="Degerfors IF vs Elfsborg" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 18/04/26] Degerfors IF vs Elfsborg",[LIVE 00:00 WIB | 18/04/26] Degerfors IF vs Elfsborg (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Kê)
+https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Kê)
+https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="4wyrn4h68j7dq86" tvg-name="Sassuolo vs Como" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como",[LIVE 23:30 WIB | 17/04/26] Sassuolo vs Como (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="pxwrxlhy91jlryk" tvg-name="SV Elversberg vs Karlsruher SC" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 23:30 WIB | 17/04/26] SV Elversberg vs Karlsruher SC",[LIVE 23:30 WIB | 17/04/26] SV Elversberg vs Karlsruher SC (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="pxwrxlhy91jlryk" tvg-name="SV Elversberg vs Karlsruher SC" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 23:30 WIB | 17/04/26] SV Elversberg vs Karlsruher SC",[LIVE 23:30 WIB | 17/04/26] SV Elversberg vs Karlsruher SC (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="x7lm7phj0owdm2w" tvg-name="Holstein Kiel vs 1. FC Kaiserslautern" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 23:30 WIB | 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern",[LIVE 23:30 WIB | 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="x7lm7phj0owdm2w" tvg-name="Holstein Kiel vs 1. FC Kaiserslautern" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[LIVE 23:30 WIB | 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern",[LIVE 23:30 WIB | 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[UPCO 01:30 WIB | 33m | 18/04/26] FC St. Pauli vs FC Köln",[UPCO 01:30 WIB | 33m | 18/04/26] FC St. Pauli vs FC Köln (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[UPCO 01:30 WIB | 36m | 18/04/26] FC St. Pauli vs FC Köln",[UPCO 01:30 WIB | 36m | 18/04/26] FC St. Pauli vs FC Köln (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[UPCO 01:30 WIB | 33m | 18/04/26] FC St. Pauli vs FC Köln",[UPCO 01:30 WIB | 33m | 18/04/26] FC St. Pauli vs FC Köln (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
