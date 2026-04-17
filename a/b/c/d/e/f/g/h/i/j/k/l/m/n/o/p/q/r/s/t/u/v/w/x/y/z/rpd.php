@@ -1,135 +1,117 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [23.18 WIB 17/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [23.28 WIB 17/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bahrain-sc-ad919a.png" group-title="[LIVE 21:25 WIB 17/04/26] Bahrain SC vs Al-Ahli(Manama) | Server 1",[LIVE 21:25 WIB 17/04/26] Bahrain SC vs Al-Ahli(Manama) | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=03c35992fa71b6c80996a1affde85862&txTime=69e2b0d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bahrain-sc-ad919a.png" group-title="[LIVE 21:25 WIB 17/04/26] Bahrain SC vs Al-Ahli(Manama) | Server 2",[LIVE 21:25 WIB 17/04/26] Bahrain SC vs Al-Ahli(Manama) | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=46f3b55e883f3a25f3f911c367a8a90f&txTime=69e2b0d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bahrain-sc-ad919a.png" group-title="[LIVE 21:25 WIB 17/04/26] Bahrain SC vs Al-Ahli(Manama) | Server 3",[LIVE 21:25 WIB 17/04/26] Bahrain SC vs Al-Ahli(Manama) | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1776446082-0-0-5dde8843abf292564f59dcea722b6907
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bahrain-sc-ad919a.png" group-title="[LIVE 21:25 WIB 17/04/26] Bahrain SC vs Al-Ahli(Manama) | Server 4",[LIVE 21:25 WIB 17/04/26] Bahrain SC vs Al-Ahli(Manama) | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1776446082-0-0-fe04b4b6ee904fae465d1578a1e0e68b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bahrain-sc-ad919a.png" group-title="[LIVE 21:25 WIB 17/04/26] Bahrain SC vs Al-Ahli(BHR) | Server 1",[LIVE 21:25 WIB 17/04/26] Bahrain SC vs Al-Ahli(BHR) | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tukums-2000-d42a4c.png" group-title="[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 1",[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1776446802-0-0-bf0ac2759fdb943b9029ac9baf950b82
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tukums-2000-d42a4c.png" group-title="[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 2",[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1776446802-0-0-550155538673cd7af0be361697d9d226
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tukums-2000-d42a4c.png" group-title="[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 3",[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1776446789-0-0-9001eb3a771dedb278538af77b153787
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tukums-2000-d42a4c.png" group-title="[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 4",[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1776446789-0-0-e342c7615d2956bc456f986d3e5149d9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 1",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1776446082-0-0-0c2fb74e028a5f4443e1896fb3db6374
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 2",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1776446082-0-0-8f591ed6e8c8f5868f321cbb3f7ed32a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 3",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=45b6c457d2bc0d798091232fb2d490a4&txTime=69e2b0d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 4",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=5e125bf8f3d6197298b3e4149796ace7&txTime=69e2b0d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 5",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=e7dc95e142c6177bd733818ebf333bb2&txTime=69e2b0d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 6",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=d24448777544d9c9b591a684638f996e&txTime=69e2b0d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 7",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=f8fd00ed3ec10db95d7a50b635c12f04&txTime=69e2b0d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 8",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=12b6680d7098b2177f6b610c2240098d&txTime=69e2b0d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 9",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1776446082-0-0-a382c262ea2fac684f030e3763fc39d5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 10",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1776446082-0-0-cbf4dd61921a314f41feaf8e9fb90c34
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 11",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1776446082-0-0-afaac8c4e0da9a4bceebe6934b583ea2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 12",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1776446082-0-0-fdb828e7e2e2daeb9163f3cd2f2fc056
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 13",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 14",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 14 (SVR-BHNS 14)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 2",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tukums-2000-d42a4c.png" group-title="[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 1",[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1776446082-0-0-f0fc18904b20f98945e4c07ade0bdad9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tukums-2000-d42a4c.png" group-title="[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 2",[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1776446082-0-0-8678181565d6f86e02ce9a643f4d1f54
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tukums-2000-d42a4c.png" group-title="[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 3",[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1776446082-0-0-0c87a10bc9105025e91be93a6c5fef87
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tukums-2000-d42a4c.png" group-title="[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 4",[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1776446082-0-0-051541f0530ab10605cd02da49822ce7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tukums-2000-d42a4c.png" group-title="[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 5",[LIVE 21:30 WIB 17/04/26] Tukums-2000 vs FK Liepaja | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 3",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1776446802-0-0-4fab5a12305cd15b77d078b8fab99f2c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 4",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1776446802-0-0-f59f1c59f153517e74b700b829a6c4ac
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 5",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=c1bc9679b15247339b1a2574a2dcd7c8&txTime=69e2b3a2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 6",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=b8b4048515490ce965af81b4d7fff648&txTime=69e2b3a2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 7",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=8b0bfc831004721ef9695d1d5248d8d3&txTime=69e2b3a2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 8",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=fdda0484cb6df8e5a26322f6803c23fa&txTime=69e2b3a2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 9",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=3da5d895a95b8eba3dab53c4b9227ed6&txTime=69e2b3a2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 10",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=35ab4d01445d7bc3ef7187e23a749fe8&txTime=69e2b3a2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 11",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1776446802-0-0-fdd95f4810a55a6a1a9e859c56afebba
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 12",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1776446802-0-0-c19e4f5a040c88f2cfb382c2b514f8ca
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 13",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1776446802-0-0-d1b3e46e4bfc4e37c19d7056fb1db03c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-otelul-galati-4d9fda.png" group-title="[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 14",[LIVE 21:30 WIB 17/04/26] FC Otelul Galati vs UTA Arad | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1776446802-0-0-8402e6a89e37f8c920636bf2ae4bae54
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 1",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1776446082-0-0-36c3d1934e735bdba5932ef5df4d33f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=4712271cb747be1c028107eb9929a762&txTime=69e2b3a2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 2",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1776446082-0-0-a10680e0cc2041df42a9cd56196e527d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a82e9d75045498bb421e20e26fc8e058&txTime=69e2b3a2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 3",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=3e91d0fcb9881c044e3fa1f4a6ac54b7&txTime=69e2b0d2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=c3986d1dda98f64d32ba6e4e01e055d7&txTime=69e2b3a2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 4",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=7f33f27d8e66d79e95d793cd3cf10c36&txTime=69e2b0d2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=4a17e894772a1a2b717e4c862d520ccf&txTime=69e2b3a2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 5",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=38596dbab0f38f88581f2dae3c0c86b0&txTime=69e2b0d2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1776446802-0-0-d7627bf37c22b1cc2825d6d03babc976
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 6",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=bef3f21aa049324a5302f6392e8b0a8f&txTime=69e2b0d2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1776446802-0-0-fce1ac299cbfd7601f185c0dd7f8bc53
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 7",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1776446082-0-0-2a2dab1adc5f861adafd6e9c8f55c5e5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1776446802-0-0-282c9bd70909264bcb1f39416ba3a4ed
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 8",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1776446082-0-0-1ae7c75f8c75a9f51ae7d513697f2b8f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1776446802-0-0-18df32ee23ddeb3708bdaeac0b4a6636
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 9",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1776446082-0-0-6352e129a7a27803333871ac217f8a9a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1776446802-0-0-8edea7e43090513cc3b94ea5a236ecdd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 10",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1776446082-0-0-27e5248533d552df11f45b1f18cf2c85
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1776446802-0-0-376c043ff06b583fe2f2a8b7a9d5233b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 11",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1776446082-0-0-f4a5cd44d65dbaf2e875c80b8334c50f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1776446802-0-0-192beb6b3cb932bc6afb37b68cf213d4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 12",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Ta'zim FC | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1776446082-0-0-7906b491a26e0d98f0ecbbf5a2084bf5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1776446802-0-0-4f3add4bccb2b6b48e9157ae4e62075d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Takzim | Server 1",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Takzim | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Takzim | Server 2",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Takzim | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Takzim | Server 3",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Takzim | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/URA/index.m3u8?expire=1788427256&sign=b321b6b8b5cd73e24aae2a3a16b7b5d2
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahli-sfc-6a91ce.webp" group-title="[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Takzim | Server 4",[LIVE 21:45 WIB 17/04/26] Al-Ahli SFC vs Johor Darul Takzim | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/torpedo-moscow-8dcab1.webp" group-title="[LIVE 22:00 WIB 17/04/26] Torpedo Moscow vs KAMAZ Naberezhnye Chelny | Server 1",[LIVE 22:00 WIB 17/04/26] Torpedo Moscow vs KAMAZ Naberezhnye Chelny | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-597924_lsd.m3u8?auth_key=1776446082-0-0-5bd1b80d1a1655498af764892746794e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/torpedo-moscow-8dcab1.webp" group-title="[LIVE 22:00 WIB 17/04/26] Torpedo Moscow vs KAMAZ Naberezhnye Chelny | Server 2",[LIVE 22:00 WIB 17/04/26] Torpedo Moscow vs KAMAZ Naberezhnye Chelny | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-597924_lhd.m3u8?auth_key=1776446082-0-0-51228b3364462dc1705515fe1622b5d4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/torpedo-moscow-8dcab1.webp" group-title="[LIVE 22:00 WIB 17/04/26] Torpedo Moscow vs KAMAZ Naberezhnye Chelny | Server 3",[LIVE 22:00 WIB 17/04/26] Torpedo Moscow vs KAMAZ Naberezhnye Chelny | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/torpedo-moscow-8dcab1.webp" group-title="[LIVE 22:00 WIB 17/04/26] Torpedo Moscow vs KAMAZ Naberezhnye Chelny | Server 2",[LIVE 22:00 WIB 17/04/26] Torpedo Moscow vs KAMAZ Naberezhnye Chelny | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597924_lsd.m3u8?auth_key=1776446802-0-0-e4325eb36e9ba454aaefccbbc6551312
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/torpedo-moscow-8dcab1.webp" group-title="[LIVE 22:00 WIB 17/04/26] Torpedo Moscow vs KAMAZ Naberezhnye Chelny | Server 3",[LIVE 22:00 WIB 17/04/26] Torpedo Moscow vs KAMAZ Naberezhnye Chelny | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597924_lhd.m3u8?auth_key=1776446802-0-0-64e59ab8fddbd6d72c3e61017228b340
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zira-fk-796dd4.png" group-title="[LIVE 22:30 WIB 17/04/26] Zira FK vs FC Neftci Baku | Server 1",[LIVE 22:30 WIB 17/04/26] Zira FK vs FC Neftci Baku | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -139,108 +121,129 @@ https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogre-united-9f8a03.webp" group-title="[LIVE 23:00 WIB 17/04/26] Ogre United vs FK Auda Riga | Server 1",[LIVE 23:00 WIB 17/04/26] Ogre United vs FK Auda Riga | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 1",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1776446082-0-0-e9349da4c54bb6f142d5c3b355f87aa5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 2",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1776446082-0-0-fc66b66649fcfbe1bba29784311bc243
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 3",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1776446082-0-0-e4604e49947afa42b6bde5b5a82068cb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 4",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1776446082-0-0-bb4e2b8b5a5e718a77ab16c6fe114a34
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 5",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=e7dc95e142c6177bd733818ebf333bb2&txTime=69e2b0d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 6",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=d24448777544d9c9b591a684638f996e&txTime=69e2b0d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 7",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1776446082-0-0-c4676124f2a4ebb04812e593c74aa041
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 8",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1776446082-0-0-debc85bf68cdd4dcdfa7367a3d630aa0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sv-elversberg-bbf490.webp" group-title="[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 1",[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1776446082-0-0-863af1cff653f1b2933a56439f8da959
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sv-elversberg-bbf490.webp" group-title="[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 2",[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1776446082-0-0-ac6d1f494fc2ec1cc90178a75d07f72d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1776446802-0-0-b68b2523b04e6c5a6665b92b011be463
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sv-elversberg-bbf490.webp" group-title="[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 3",[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1776446082-0-0-c604683e3fdd88b252524bd9772d6589
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1776446802-0-0-a07d8bea1d0fa794c98202d03f37d2b4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sv-elversberg-bbf490.webp" group-title="[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 4",[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1776446082-0-0-dbfbc20433a0c4f34f6b8f9ba9bf20d7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1776446802-0-0-8f7d313a77ffd865bc724d7061a735df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sv-elversberg-bbf490.webp" group-title="[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 5",[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1776446082-0-0-3659b51fe25ec48cfde158d1687fb5af
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1776446802-0-0-d10d95f0d9dbfacb5691ca51be89fbb0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sv-elversberg-bbf490.webp" group-title="[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 6",[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1776446082-0-0-a9440feebf330800685572e56f86e977
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1776446802-0-0-743374273977588d7eac6959963796c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sv-elversberg-bbf490.webp" group-title="[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 7",[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1776446082-0-0-140990baa98a3c36658c03f8492ec074
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1776446802-0-0-b87e6f57bce44cc8469d2d75e661ec7c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sv-elversberg-bbf490.webp" group-title="[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 8",[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1776446082-0-0-350cfd2e55d9d2afde1dc0087d84b619
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1776446802-0-0-5c2554ad80bd1465cf8263940f798566
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sv-elversberg-bbf490.webp" group-title="[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 9",[LIVE 23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1776446802-0-0-88ae3d15ba87da4935058aa9f6d0f221
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rostov-fk-0f2d2f.png" group-title="[LIVE 23:30 WIB 17/04/26] Rostov FK vs FK Sochi | Server 1",[LIVE 23:30 WIB 17/04/26] Rostov FK vs FK Sochi | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 1",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://pullsgp.yyzb456.top/live/stream-956896_lhd.flv?auth_key=1776435475-0-0-c3368984a945df804cd8817add21a05e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 2",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-956896_lsd.flv?auth_key=1776435475-0-0-c3368984a945df804cd8817add21a05e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 3",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 4",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1776446082-0-0-799711818c333e9942d15436b076aec5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 5",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1776446082-0-0-22843a24e58172fa84177b162e12fd67
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 6",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1776446082-0-0-17b84148c6882e4d840677ce0a598349
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 7",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1776446082-0-0-150b8fcdb8c8379165ef6d26342a58a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 8",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1776446082-0-0-45805f914611d90fffc19a9b0c7950c7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1776446802-0-0-07a2626a9749e9cee3247738dfdde534
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 9",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1776446082-0-0-f675a93b41a7ddf0d2d6dcdfccfdfd8c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1776446802-0-0-4a4ef5f65db2e5a0f8f8c29fa7d8083b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 10",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=74b3ced24d14f220b584e7c6c127b704&txTime=69e2b0d2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1776446802-0-0-845fb09cdf96c01af7dd5c916fe75d01
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 11",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=a315eedc992f690e9e3880be5fd7fa07&txTime=69e2b0d2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1776446802-0-0-68dd05752cc9b971ff8a7610b3aba9b9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 12",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1776446082-0-0-6369850fa445749b683f91cabf84c3da
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=157f2621df3efa71f84cec28e6ae5b53&txTime=69e2b3a2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 13",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1776446082-0-0-3ab94b76bb0c19afa4eaee23a8e1ee55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b84bed35aa269ae85613e9f125608009&txTime=69e2b3a2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 14",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1776446082-0-0-634cac94754ac5b552976ef34c595b5d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1776446802-0-0-3c7ba6d5e2972d4bf4d013339b739ffa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 15",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1776446082-0-0-1900956e69f57f0e9a85684f69e2e1e2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1776446802-0-0-f8d0d8ec1e5db084ebf07e913c6b0924
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 16",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 16 (SVR-BHNS 16)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1776446802-0-0-b54d1e46c6b5fe41e328e093be1ca4d3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 17",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 17 (SVR-BHNS 17)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1776446802-0-0-27c9bfe6d63a7a939115dfe8b2bb1e7a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 18",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 18 (SVR-BHNS 18)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1776446802-0-0-8df49b9ed6a02a766df9d947712fa2e5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sassuolo-eacf81.png" group-title="[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 19",[LIVE 23:30 WIB 17/04/26] Sassuolo vs Como | Server 19 (SVR-BHNS 19)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1776446802-0-0-eca2d8612ea58745aa366de99a97e057
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 1",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1776446802-0-0-947371d4535100cc9454fc07cf06bcb6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 2",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1776446802-0-0-87b6ce5599eca7ad1ff0869d06cdd16b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 3",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1776446802-0-0-e4764011f1516ec229863b30fe78a70e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 4",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1776446802-0-0-287d4cf526742de4f4ca72eb72b5b069
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 5",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=c1bc9679b15247339b1a2574a2dcd7c8&txTime=69e2b3a2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 6",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=b8b4048515490ce965af81b4d7fff648&txTime=69e2b3a2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 7",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1776446802-0-0-37e26f679739da45a96b4f1df80d5a68
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 8",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1776446802-0-0-b363b64ae194a846e6430fa849f21059
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-rostov-9eeeb7.webp" group-title="[LIVE 23:30 WIB 17/04/26] FK Rostov vs FC Sochi | Server 1",[LIVE 23:30 WIB 17/04/26] FK Rostov vs FC Sochi | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1776446082-0-0-f9d09ef8f520e289cec6df8a6902d332
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1776446802-0-0-c4bfde8b00fd7f20db51a6fb17acfb3e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-rostov-9eeeb7.webp" group-title="[LIVE 23:30 WIB 17/04/26] FK Rostov vs FC Sochi | Server 2",[LIVE 23:30 WIB 17/04/26] FK Rostov vs FC Sochi | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1776446082-0-0-af4c28ce5878bd298195e55fe0af7e50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1776446802-0-0-b2a93109b1c14e6ee8373cde56813d8a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-rostov-9eeeb7.webp" group-title="[LIVE 23:30 WIB 17/04/26] FK Rostov vs FC Sochi | Server 3",[LIVE 23:30 WIB 17/04/26] FK Rostov vs FC Sochi | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1776446082-0-0-f47be555bb8e842f37013e91a7142e0c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1776446802-0-0-e904898b8cb4ac76668db22cf5de3ffb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-rostov-9eeeb7.webp" group-title="[LIVE 23:30 WIB 17/04/26] FK Rostov vs FC Sochi | Server 4",[LIVE 23:30 WIB 17/04/26] FK Rostov vs FC Sochi | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1776446082-0-0-5076121057ad2f0690d14a5462e859b0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1776446802-0-0-cf2ac01353b20558349711d707d42a04
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/holstein-kiel-89b93e.webp" group-title="[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs Kaiserslautern | Server 1",[LIVE 23:30 WIB 17/04/26] Holstein Kiel vs Kaiserslautern | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
