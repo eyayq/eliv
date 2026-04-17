@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [23:48 WIB 17/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:48 WIB 17/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:57 WIB 17/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:57 WIB 17/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d7/AFC_Champions_League_Elite_logo.svg/250px-AFC_Champions_League_Elite_logo.svg.png" group-title="AFC Champions League Elite",[21:45 WIB 17/04/26] Al-Ahli Jeddah vs Johor Darul Takzim FC [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d7/AFC_Champions_League_Elite_logo.svg/250px-AFC_Champions_League_Elite_logo.svg.png" group-title="AFC Champions League Elite",[21:45 WIB 17/04/26] Al-Ahli Jeddah vs Johor Darul Takzim FC [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d7/AFC_Champions_League_Elite_logo.svg/250px-AFC_Champions_League_Elite_logo.svg.png" group-title="AFC Champions League Elite",[21:45 WIB 17/04/26] Al-Ahli Jeddah vs Johor Darul Takzim FC [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[22:00 WIB 17/04/26] Torpedo Moskva vs KAMAZ [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
