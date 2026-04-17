@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [17.21 WIB 17/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [17.29 WIB 17/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="vjxm8ghe51w5r6o" tvg-name="FC Osaka vs Ehime FC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC",[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="vjxm8ghe51w5r6o" tvg-name="FC Osaka vs Ehime FC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC",[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="vjxm8ghe51w5r6o" tvg-name="FC Osaka vs Ehime FC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC",[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="vjxm8ghe51w5r6o" tvg-name="FC Osaka vs Ehime FC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC",[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="3glrw7hn35x5qdy" tvg-name="Dandenong City SC vs Green Gully Cavaliers" tvg-logo="https://img.cdnok9.com/football/competition/c1c958040a24d72e754fa04677b39f99.png" group-title="[LIVE 16:45 WIB | 17/04/26] Dandenong City SC vs Green Gully Cavaliers",[LIVE 16:45 WIB | 17/04/26] Dandenong City SC vs Green Gully Cavaliers (Giàng A Hổ)
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="3glrw7hn35x5qdy" tvg-name="Dandenong City SC vs Green Gully Cavaliers" tvg-logo="https://img.cdnok9.com/football/competition/c1c958040a24d72e754fa04677b39f99.png" group-title="[LIVE 16:45 WIB | 17/04/26] Dandenong City SC vs Green Gully Cavaliers",[LIVE 16:45 WIB | 17/04/26] Dandenong City SC vs Green Gully Cavaliers (Giàng A Hổ)
@@ -65,11 +57,23 @@ https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc1225
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="23xmvkh6pd3vqg8" tvg-name="Croydon Kings vs West Torrens Birkalla" tvg-logo="https://img.cdnok9.com/football/competition/077498aa221410ff314434a011e8d65f.png" group-title="[LIVE 17:00 WIB | 17/04/26] Croydon Kings vs West Torrens Birkalla",[LIVE 17:00 WIB | 17/04/26] Croydon Kings vs West Torrens Birkalla (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="69e1c066cc7a4306f1374e52" tvg-name="AstonVilla vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 37m | 17/04/26] AstonVilla vs Bologna",[UPCO 23:59 WIB | 6j 37m | 17/04/26] AstonVilla vs Bologna (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="vjxm8ghe51w5r6o" tvg-name="FC Osaka vs Ehime FC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC",[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="vjxm8ghe51w5r6o" tvg-name="FC Osaka vs Ehime FC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC",[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="vjxm8ghe51w5r6o" tvg-name="FC Osaka vs Ehime FC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC",[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC (Giàng A Voi)
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="vjxm8ghe51w5r6o" tvg-name="FC Osaka vs Ehime FC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC",[LIVE 17:00 WIB | 17/04/26] FC Osaka vs Ehime FC (Giàng A Voi)
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="69e1c066cc7a4306f1374e52" tvg-name="AstonVilla vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 29m | 17/04/26] AstonVilla vs Bologna",[UPCO 23:59 WIB | 6j 29m | 17/04/26] AstonVilla vs Bologna (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69e1c066cc7a4306f1374e52" tvg-name="AstonVilla vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 37m | 17/04/26] AstonVilla vs Bologna",[UPCO 23:59 WIB | 6j 37m | 17/04/26] AstonVilla vs Bologna (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69e1c066cc7a4306f1374e52" tvg-name="AstonVilla vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 29m | 17/04/26] AstonVilla vs Bologna",[UPCO 23:59 WIB | 6j 29m | 17/04/26] AstonVilla vs Bologna (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="l5ergph44jp8r8k" tvg-name="Namdhari FC vs Chanmari FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[UPCO 17:30 WIB | 8m | 17/04/26] Namdhari FC vs Chanmari FC",[UPCO 17:30 WIB | 8m | 17/04/26] Namdhari FC vs Chanmari FC (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="l5ergph44jp8r8k" tvg-name="Namdhari FC vs Chanmari FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 17/04/26] Namdhari FC vs Chanmari FC",[LIVE 17:30 WIB | 17/04/26] Namdhari FC vs Chanmari FC (GIÀNG A TỨ )
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="l5ergph44jp8r8k" tvg-name="Namdhari FC vs Chanmari FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[UPCO 17:30 WIB | 8m | 17/04/26] Namdhari FC vs Chanmari FC",[UPCO 17:30 WIB | 8m | 17/04/26] Namdhari FC vs Chanmari FC (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="l5ergph44jp8r8k" tvg-name="Namdhari FC vs Chanmari FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 17/04/26] Namdhari FC vs Chanmari FC",[LIVE 17:30 WIB | 17/04/26] Namdhari FC vs Chanmari FC (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="zp5rzghg6zjjq82" tvg-name="Adelaide Comets FC vs Playford City" tvg-logo="https://img.cdnok9.com/football/competition/077498aa221410ff314434a011e8d65f.png" group-title="[UPCO 18:00 WIB | 29m | 17/04/26] Adelaide Comets FC vs Playford City",[UPCO 18:00 WIB | 29m | 17/04/26] Adelaide Comets FC vs Playford City (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="zp5rzghg6zjjq82" tvg-name="Adelaide Comets FC vs Playford City" tvg-logo="https://img.cdnok9.com/football/competition/077498aa221410ff314434a011e8d65f.png" group-title="[UPCO 18:00 WIB | 29m | 17/04/26] Adelaide Comets FC vs Playford City",[UPCO 18:00 WIB | 29m | 17/04/26] Adelaide Comets FC vs Playford City (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
