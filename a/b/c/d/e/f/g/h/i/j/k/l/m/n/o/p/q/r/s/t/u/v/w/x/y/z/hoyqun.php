@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [23:02 WIB 17/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:02 WIB 17/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:11 WIB 17/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:11 WIB 17/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d7/AFC_Champions_League_Elite_logo.svg/250px-AFC_Champions_League_Elite_logo.svg.png" group-title="AFC Champions League Elite",[21:45 WIB 17/04/26] Al-Ahli Jeddah vs Johor Darul Takzim FC [FHD] [LIVE]
@@ -29,31 +29,31 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r254x143n/b2bcf799-e5c5-417c-ac0b-57b8fc00c6f9" group-title="WTA500 Stuttgart",[22:00 WIB 17/04/26] Iga Swiatek vs Mirra Andreeva  [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:30 WIB 17/04/26] Sassuolo vs Como [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:30 WIB 17/04/26] Sassuolo vs Como [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:30 WIB 17/04/26] Sassuolo vs Como [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:30 WIB 17/04/26] Sassuolo vs Como [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:30 WIB 17/04/26] Sassuolo vs Como [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:30 WIB 17/04/26] Sassuolo vs Como [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] SV Elversberg vs Karlsruher SC [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/79.png" group-title="2. Bundesliga",[23:30 WIB 17/04/26] Holstein Kiel vs 1. FC Kaiserslautern [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/UEFA_Youth_League.png" group-title="UEFA Youth League",[23:45 WIB 17/04/26] Real Madrid U19 vs PSG U19 [FHD] [LIVE]
