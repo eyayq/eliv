@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 19:21:04 WIB 17-04-2026
+# ⏰ Latest Updated: 19:22:46 WIB 17-04-2026
 # 🔄 Total Channels: 2240
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:21:04 WIB 17-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:22:46 WIB 17-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -3590,26 +3590,74 @@ https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=a925baad812621309c9821
 https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=80f5a5cebabd95f6fe317a79d809eb86&wsABSTime=1776496861
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh48jwr6od/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - KR REYKJAVIK VS THOR AKUREYRI [ICE PR]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:30 WIB | [Basketball Euroleague] Barcelona vs Bayern Munchen
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="LIVE EVENT FAWANEWS",02:00 WIB | [Ireland Premier Division] Shamrock Rovers vs Bohemians
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.40/hls/FAFAFAQ.m3u8
+http://195.178.110.55/hls/ssss.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2041422174259421184/nf7SEbla_400x400.jpg" group-title="LIVE EVENT FAWANEWS",02:00 WIB | [Spanish Segunda Liga] Las Palmas vs Leganes
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.55/hls/ssssq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg" group-title="LIVE EVENT FAWANEWS",02:00 WIB | [English Rugby Super League] York RLFC vs Leigh
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.55/hls/ssssQqq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2038972517776531456/qwqDiPOu_400x400.jpg" group-title="LIVE EVENT FAWANEWS",02:00 WIB | [English Rugby Super League] Huddersfield vs Leeds
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.55/hls/ssssqq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",02:00 WIB | [English Championship] Blackburn Rovers vs Coventry
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://93.123.109.82/hls/UUUU.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1947922197328134144/2PBgulm5_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:45 WIB | [English Premiership Rugby] Bristol vs Gloucester
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.55/hls/HHHHQQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:45 WIB | [Ireland Premier Division] Drogheda vs St Patricks
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.69/hls/HHHH.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:45 WIB | [Ireland Premier Division] Shelbourne vs Derry City
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.69/hls/HHHHQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1675168981139767296/nbWYt3fC_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:45 WIB | [Ireland Premier Division] Dundalk vs Galway
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.69/hls/HHHHQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1861375185980379136/UPqGyGOt_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:45 WIB | [Italy Serie A] Inter Milan vs Cagliari
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.69/hls/HHHHQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1531920610514853890/FgxuEE_k_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:45 WIB | [Ligue 1 France] Lens vs Toulouse
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.69/hls/HHHHQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png" group-title="LIVE EVENT FAWANEWS",01:45 WIB | [United Rugby Championship] Dragons vs Bulls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.55/hls/HHHHQQQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png" group-title="LIVE EVENT FAWANEWS",01:45 WIB | [United Rugby Championship] Edinburgh vs Zebre
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.55/hls/UUFFF.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png" group-title="LIVE EVENT FAWANEWS",01:45 WIB | [United Rugby Championship] Ulster vs Leinster
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.55/hls/UUFFFQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1852296144723869696/2Ad94oXN_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:30 WIB | [Poland Division 1] S Rzeszow vs Polonia Warszawa
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.40/hls/FAFAFAQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg" group-title="LIVE EVENT FAWANEWS",01:30 WIB | [Bosnia and Herzegovina Premier League] Zeljeznicar vs Posusje
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.40/hls/LLLLQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1950613105140015104/iGB8xP_L_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:30 WIB | [Italy Serie B] Sampdoria vs Monza
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.40/hls/FAFAFAQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2009097869559779328/lbIxVN_w_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:30 WIB | [Poland Ekstraklasa] Legia Warsaw vs Zaglebie
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.40/hls/FAFAFAQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1950613105140015104/iGB8xP_L_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:30 WIB | [Italy Serie B] Sampdoria vs Monza
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.40/hls/FAFAFAQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2041422174259421184/nf7SEbla_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:30 WIB | [Spanish Segunda Liga] Real Sociedad B vs Racing Santander
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -3618,62 +3666,66 @@ http://195.178.110.40/hls/FAFAFAQQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.40/hls/FAFAFAQQQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg" group-title="LIVE EVENT FAWANEWS",01:30 WIB | [Bosnia and Herzegovina Premier League] Zeljeznicar vs Posusje
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.40/hls/LLLLQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:30 WIB | [Basketball Euroleague] Barcelona vs Bayern Munchen
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.40/hls/FAFAFAQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:20 WIB | [MLB Baseball] Mlb_baseball_Chicago Cubs vs New York Mets
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.40/hls/FAFAFA.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/Championnat_de_Croatie_de_football_-_Logo.png" group-title="LIVE EVENT FAWANEWS",01:15 WIB | [Croatia 1 HNL] Osijek vs Varazdin
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.40/hls/QQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:15 WIB | [Basketball Euroleague] Panathinaikos vs Anadolu Efes
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://93.123.109.82/hls/AFFFQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Iceland League] Breidablik vs Akranes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c2/Championnat_de_Croatie_de_football_-_Logo.png" group-title="LIVE EVENT FAWANEWS",01:15 WIB | [Croatia 1 HNL] Osijek vs Varazdin
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/KFFF.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Willem II vs Jong AZ
+http://195.178.110.40/hls/QQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Roda vs FC Emmen
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://93.123.109.40/hls/hzzzqqqqqq.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Belgium Challenge Pro League] Beerschot VA vs Lommel SK
+http://93.123.109.40/hls/hzzzqqqqq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2001309157903732736/CPkmq-J4_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [France Ligue 2] Le Mans vs Clermont
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/KFFFQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Basketball Euroleague] Dubai vs Valencia
+http://195.178.110.55/hls/PGGG.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Almere City vs Dordrecht
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://93.123.109.82/hls/AFFF.m3u8
+http://93.123.109.40/hls/hzzz.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1619022597298995203/iCFS2Ka1_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Hungary NB 1 Liga] Ujpest vs Nyiregyhaza
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.55/hls/KPPP.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Belgium Challenge Pro League] Kortrijk vs RWDM Brussels
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Helmond vs Venlo
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/IGGG.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Belgium Challenge Pro League] Genk U23 vs Gent U23
+http://93.123.109.40/hls/hzzzqq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] ADO Den Haag vs Waalwijk
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/KFFFQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1988543709760131072/oYy4Yk3k_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [English FA Youth Cup] Manchester Utd U18 vs Crystal Palace U18
+http://93.123.109.40/hls/hzzzq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Jong Utrecht vs Eindhoven FC
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/IGGGQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Belgium Challenge Pro League] RFC Liege vs Eupen
+http://93.123.109.40/hls/hzzzqqqq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2018282038109810688/wNoYio2o_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Basketball Euroleague] Dubai vs Valencia
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/IGGGQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Belgium Challenge Pro League] Anderlecht U23 vs OC Charleroi
+http://93.123.109.82/hls/AFFF.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Willem II vs Jong AZ
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/KFFFQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2001309157903732736/CPkmq-J4_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [France Ligue 2] Montpellier vs Grenoble
+http://93.123.109.40/hls/hzzzqqqqqq.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2001309157903732736/CPkmq-J4_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [France Ligue 2] Nancy vs Annecy
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/PGGGQ.m3u8
+http://195.178.110.55/hls/PGGGQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Top Oss vs FC Den Bosch
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -3698,50 +3750,14 @@ http://195.178.110.55/hls/KPPPQQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.55/hls/PGGGQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Roda vs FC Emmen
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2001309157903732736/CPkmq-J4_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [France Ligue 2] Montpellier vs Grenoble
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://93.123.109.40/hls/hzzzqqqqq.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2001309157903732736/CPkmq-J4_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [France Ligue 2] Nancy vs Annecy
+http://195.178.110.55/hls/PGGGQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2001309157903732736/CPkmq-J4_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [France Ligue 2] Pau FC vs Guingamp
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/PGGGQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Jong Utrecht vs Eindhoven FC
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://93.123.109.40/hls/hzzzqqqq.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2001309157903732736/CPkmq-J4_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [France Ligue 2] Le Mans vs Clermont
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/PGGG.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Iceland League] Fram vs Keflavik
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/KFFFQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Belgium Challenge Pro League] Seraing vs Beveren
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/IGGGQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Helmond vs Venlo
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://93.123.109.40/hls/hzzzqq.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Belgium Challenge Pro League] Patro Eisden vs Francs Borains
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/IGGGQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] ADO Den Haag vs Waalwijk
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://93.123.109.40/hls/hzzzq.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1994499644521398272/E2_Sn5AM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Belgium Challenge Pro League] Lierse vs Sporting Lokeren
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/KFFFQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Almere City vs Dordrecht
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://93.123.109.40/hls/hzzz.m3u8
+http://195.178.110.55/hls/PGGGQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1818212439587954688/cfENWUEg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",01:00 WIB | [Dutch Eerste Divisie] Jong PSV vs Jong Ajax
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -3750,26 +3766,10 @@ http://93.123.109.40/hls/hzzzqqq.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.55/hls/HBBBQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="LIVE EVENT FAWANEWS",00:30 WIB | [Iceland League] KA Akureyri vs Vikingur Reykjavik
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/HBBBQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1694345453926535168/3YJhSCAj_400x400.jpg" group-title="LIVE EVENT FAWANEWS",00:30 WIB | [Iceland League] KR Reykjavik vs Thor Akureyri
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/HBBBQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FUumFx6XwAANi53.jpg" group-title="LIVE EVENT FAWANEWS",00:30 WIB | [Austria Bundesliga] Grazer AK vs Ried
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.55/hls/HBBBQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="LIVE EVENT FAWANEWS",00:00 WIB | [Sweden Allsvenskan] Djurgarden vs Malmo FF
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.69/hls/BGGGQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="LIVE EVENT FAWANEWS",00:00 WIB | [Sweden Allsvenskan] Degerfors vs Elfsborg
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.40/hls/BGGGQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/WBO_logo.jpg" group-title="LIVE EVENT FAWANEWS",Boxing_Collins vs Lorente
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
