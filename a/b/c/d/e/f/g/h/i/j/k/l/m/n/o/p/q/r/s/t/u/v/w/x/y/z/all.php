@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.25 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.30 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="vjxm8ghe84jyr6o" tvg-name="Rio Ave vs AVS Futebol SAD" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:45 WIB | 18/04/26] Rio Ave vs AVS Futebol SAD",[LIVE 02:45 WIB | 18/04/26] Rio Ave vs AVS Futebol SAD (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="vjxm8ghe84jyr6o" tvg-name="Rio Ave vs AVS Futebol SAD" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:45 WIB | 18/04/26] Rio Ave vs AVS Futebol SAD",[LIVE 02:45 WIB | 18/04/26] Rio Ave vs AVS Futebol SAD (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="zp5rzghgjn19q82" tvg-name="Inter Milan vs Cagliari" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 18/04/26] Inter Milan vs Cagliari",[LIVE 01:45 WIB | 18/04/26] Inter Milan vs Cagliari (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="zp5rzghgjn19q82" tvg-name="Inter Milan vs Cagliari" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 18/04/26] Inter Milan vs Cagliari",[LIVE 01:45 WIB | 18/04/26] Inter Milan vs Cagliari (Giàng A Kê)
@@ -25,19 +29,15 @@ https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="pxwrxlhy1557ryk" tvg-name="RC Lens vs Toulouse FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 01:45 WIB | 18/04/26] RC Lens vs Toulouse FC",[LIVE 01:45 WIB | 18/04/26] RC Lens vs Toulouse FC (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln",[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln",[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln",[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln",[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln",[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln",[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln",[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="y39mp1h65071moj" tvg-name="FC St. Pauli vs FC Köln" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln",[LIVE 01:30 WIB | 18/04/26] FC St. Pauli vs FC Köln (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="vjxm8ghe84jyr6o" tvg-name="Rio Ave vs AVS Futebol SAD" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:45 WIB | 18/04/26] Rio Ave vs AVS Futebol SAD",[LIVE 02:45 WIB | 18/04/26] Rio Ave vs AVS Futebol SAD (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="vjxm8ghe84jyr6o" tvg-name="Rio Ave vs AVS Futebol SAD" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:45 WIB | 18/04/26] Rio Ave vs AVS Futebol SAD",[LIVE 02:45 WIB | 18/04/26] Rio Ave vs AVS Futebol SAD (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
