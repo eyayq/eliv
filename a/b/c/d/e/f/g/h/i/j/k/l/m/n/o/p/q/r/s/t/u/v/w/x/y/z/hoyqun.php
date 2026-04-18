@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [04:33 WIB 19/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [04:33 WIB 19/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [04:41 WIB 19/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [04:41 WIB 19/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/143.png" group-title="Copa del Rey",[02:00 WIB 19/04/26] Atletico Madrid vs Real Sociedad [FHD] [LIVE]
@@ -29,13 +29,13 @@ https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[03:30 WIB 19/04/26] Colorado Rapids vs Inter Miami [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 19/04/26] New York Knicks vs Atlanta Hawks [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 19/04/26] New York Knicks vs Atlanta Hawks [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 19/04/26] New York Knicks vs Atlanta Hawks [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 19/04/26] New York Knicks vs Atlanta Hawks [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 19/04/26] New York Knicks vs Atlanta Hawks [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[05:00 WIB 19/04/26] New York Knicks vs Atlanta Hawks [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 19/04/26] Los Angeles Lakers vs Houston Rockets [FHD] [NANTIKAN]
