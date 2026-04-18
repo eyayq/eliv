@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.26 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.35 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="y39mp1h65yd0moj" tvg-name="Leeds United vs Wolverhampton Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Leeds United vs Wolverhampton Wanderers",[LIVE 21:00 WIB | 18/04/26] Leeds United vs Wolverhampton Wanderers (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
@@ -17,10 +17,10 @@ https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="y39mp1h65yd0moj" tvg-name="Leeds United vs Wolverhampton Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Leeds United vs Wolverhampton Wanderers",[LIVE 21:00 WIB | 18/04/26] Leeds United vs Wolverhampton Wanderers (Giàng A Chiến)
 https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="jw2r09hknj5drz8" tvg-name="Newcastle United vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC",[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="jw2r09hknj5drz8" tvg-name="Newcastle United vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC",[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="jw2r09hknj5drz8" tvg-name="Newcastle United vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC",[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="jw2r09hknj5drz8" tvg-name="Newcastle United vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC",[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="jw2r09hknj5drz8" tvg-name="Newcastle United vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC",[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="jw2r09hknj5drz8" tvg-name="Newcastle United vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC",[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC (Giàng A Gấu)
@@ -33,22 +33,10 @@ https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f3
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="jw2r09hknj5drz8" tvg-name="Newcastle United vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC",[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC (Lữ Bố (Giàng Phụng Tiên))
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="jw2r09hknj5drz8" tvg-name="Newcastle United vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC",[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="jw2r09hknj5drz8" tvg-name="Newcastle United vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC",[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="vjxm8ghegllwr6o" tvg-name="Lorient vs Marseille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille",[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille (Giàng A Sún)
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="vjxm8ghegllwr6o" tvg-name="Lorient vs Marseille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille",[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille (Giàng A Sún)
-https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="vjxm8ghegllwr6o" tvg-name="Lorient vs Marseille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille",[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="vjxm8ghegllwr6o" tvg-name="Lorient vs Marseille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille",[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="4jwq2ghnz74wm0v" tvg-name="Lahti vs Inter Turku" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 21:00 WIB | 18/04/26] Lahti vs Inter Turku",[LIVE 21:00 WIB | 18/04/26] Lahti vs Inter Turku (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="4jwq2ghnz74wm0v" tvg-name="Lahti vs Inter Turku" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 21:00 WIB | 18/04/26] Lahti vs Inter Turku",[LIVE 21:00 WIB | 18/04/26] Lahti vs Inter Turku (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="jw2r09hknj5drz8" tvg-name="Newcastle United vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC",[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="jw2r09hknj5drz8" tvg-name="Newcastle United vs Bournemouth AFC" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC",[LIVE 21:00 WIB | 18/04/26] Newcastle United vs Bournemouth AFC (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="318q66hx0yoeqo9" tvg-name="Bristol City vs Norwich City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 18/04/26] Bristol City vs Norwich City",[LIVE 21:00 WIB | 18/04/26] Bristol City vs Norwich City (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="318q66hx0yoeqo9" tvg-name="Bristol City vs Norwich City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 18/04/26] Bristol City vs Norwich City",[LIVE 21:00 WIB | 18/04/26] Bristol City vs Norwich City (GIÀNG A MIKE)
@@ -69,35 +57,43 @@ https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="23xmvkh6o1o8qg8" tvg-name="Watford vs Sheffield United" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 21:00 WIB | 18/04/26] Watford vs Sheffield United",[LIVE 21:00 WIB | 18/04/26] Watford vs Sheffield United (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="k82rekhg90l1rep" tvg-name="1. FC Union Berlin vs VfL Wolfsburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] 1. FC Union Berlin vs VfL Wolfsburg",[LIVE 20:30 WIB | 18/04/26] 1. FC Union Berlin vs VfL Wolfsburg (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="k82rekhg90l1rep" tvg-name="1. FC Union Berlin vs VfL Wolfsburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] 1. FC Union Berlin vs VfL Wolfsburg",[LIVE 20:30 WIB | 18/04/26] 1. FC Union Berlin vs VfL Wolfsburg (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="k82rekhg90l1rep" tvg-name="1. FC Union Berlin vs VfL Wolfsburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] 1. FC Union Berlin vs VfL Wolfsburg",[LIVE 20:30 WIB | 18/04/26] 1. FC Union Berlin vs VfL Wolfsburg (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="k82rekhg90l1rep" tvg-name="1. FC Union Berlin vs VfL Wolfsburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] 1. FC Union Berlin vs VfL Wolfsburg",[LIVE 20:30 WIB | 18/04/26] 1. FC Union Berlin vs VfL Wolfsburg (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="l5ergph43lg8r8k" tvg-name="TSG Hoffenheim vs Borussia Dortmund" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund",[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="l5ergph43lg8r8k" tvg-name="TSG Hoffenheim vs Borussia Dortmund" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund",[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="l5ergph43lg8r8k" tvg-name="TSG Hoffenheim vs Borussia Dortmund" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund",[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="l5ergph43lg8r8k" tvg-name="TSG Hoffenheim vs Borussia Dortmund" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund",[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="23xmvkh6ope7qg8" tvg-name="Bayer 04 Leverkusen vs FC Augsburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] Bayer 04 Leverkusen vs FC Augsburg",[LIVE 20:30 WIB | 18/04/26] Bayer 04 Leverkusen vs FC Augsburg (Giàng A Páo)
-https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="23xmvkh6ope7qg8" tvg-name="Bayer 04 Leverkusen vs FC Augsburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] Bayer 04 Leverkusen vs FC Augsburg",[LIVE 20:30 WIB | 18/04/26] Bayer 04 Leverkusen vs FC Augsburg (Giàng A Páo)
-https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="23xmvkh6ope7qg8" tvg-name="Bayer 04 Leverkusen vs FC Augsburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] Bayer 04 Leverkusen vs FC Augsburg",[LIVE 20:30 WIB | 18/04/26] Bayer 04 Leverkusen vs FC Augsburg (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="23xmvkh6ope7qg8" tvg-name="Bayer 04 Leverkusen vs FC Augsburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] Bayer 04 Leverkusen vs FC Augsburg",[LIVE 20:30 WIB | 18/04/26] Bayer 04 Leverkusen vs FC Augsburg (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="l5ergph43lg8r8k" tvg-name="TSG Hoffenheim vs Borussia Dortmund" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund",[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="l5ergph43lg8r8k" tvg-name="TSG Hoffenheim vs Borussia Dortmund" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund",[LIVE 20:30 WIB | 18/04/26] TSG Hoffenheim vs Borussia Dortmund (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="dn1m1ghlep5kmoe" tvg-name="SV Werder Bremen vs Hamburger SV" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] SV Werder Bremen vs Hamburger SV",[LIVE 20:30 WIB | 18/04/26] SV Werder Bremen vs Hamburger SV (DERICE)
 https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="dn1m1ghlep5kmoe" tvg-name="SV Werder Bremen vs Hamburger SV" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 18/04/26] SV Werder Bremen vs Hamburger SV",[LIVE 20:30 WIB | 18/04/26] SV Werder Bremen vs Hamburger SV (DERICE)
 https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="jw2r09hk6jnvrz8" tvg-name="Viking vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[UPCO 23:00 WIB | 33m | 18/04/26] Viking vs Brann",[UPCO 23:00 WIB | 33m | 18/04/26] Viking vs Brann (PHONG VÂN)
+#EXTINF:-1 tvg-id="vjxm8ghegllwr6o" tvg-name="Lorient vs Marseille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille",[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille (Giàng A Sún)
+https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="vjxm8ghegllwr6o" tvg-name="Lorient vs Marseille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille",[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille (Giàng A Sún)
+https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="vjxm8ghegllwr6o" tvg-name="Lorient vs Marseille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille",[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="vjxm8ghegllwr6o" tvg-name="Lorient vs Marseille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille",[LIVE 22:00 WIB | 18/04/26] Lorient vs Marseille (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="4jwq2ghnz74wm0v" tvg-name="Lahti vs Inter Turku" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 21:00 WIB | 18/04/26] Lahti vs Inter Turku",[LIVE 21:00 WIB | 18/04/26] Lahti vs Inter Turku (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="4jwq2ghnz74wm0v" tvg-name="Lahti vs Inter Turku" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 21:00 WIB | 18/04/26] Lahti vs Inter Turku",[LIVE 21:00 WIB | 18/04/26] Lahti vs Inter Turku (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="k82rekhgv58zrep" tvg-name="Napoli vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 24m | 18/04/26] Napoli vs Lazio",[UPCO 23:00 WIB | 24m | 18/04/26] Napoli vs Lazio (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="k82rekhgv58zrep" tvg-name="Napoli vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 24m | 18/04/26] Napoli vs Lazio",[UPCO 23:00 WIB | 24m | 18/04/26] Napoli vs Lazio (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="jw2r09hk6jnvrz8" tvg-name="Viking vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[UPCO 23:00 WIB | 24m | 18/04/26] Viking vs Brann",[UPCO 23:00 WIB | 24m | 18/04/26] Viking vs Brann (PHONG VÂN)
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="jw2r09hk6jnvrz8" tvg-name="Viking vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[UPCO 23:00 WIB | 33m | 18/04/26] Viking vs Brann",[UPCO 23:00 WIB | 33m | 18/04/26] Viking vs Brann (PHONG VÂN)
+#EXTINF:-1 tvg-id="jw2r09hk6jnvrz8" tvg-name="Viking vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[UPCO 23:00 WIB | 24m | 18/04/26] Viking vs Brann",[UPCO 23:00 WIB | 24m | 18/04/26] Viking vs Brann (PHONG VÂN)
 https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="jw2r09hk6jnvrz8" tvg-name="Viking vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[UPCO 23:00 WIB | 24m | 18/04/26] Viking vs Brann",[UPCO 23:00 WIB | 24m | 18/04/26] Viking vs Brann (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="jw2r09hk6jnvrz8" tvg-name="Viking vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[UPCO 23:00 WIB | 24m | 18/04/26] Viking vs Brann",[UPCO 23:00 WIB | 24m | 18/04/26] Viking vs Brann (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="23xmvkh6047vqg8" tvg-name="Iceland Women vs England Women" tvg-logo="https://img.cdnok9.com/football/competition/45c47fad4b3de71014c5173e34430fcc.png" group-title="[UPCO 23:30 WIB | 54m | 18/04/26] Iceland Women vs England Women",[UPCO 23:30 WIB | 54m | 18/04/26] Iceland Women vs England Women (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="23xmvkh6047vqg8" tvg-name="Iceland Women vs England Women" tvg-logo="https://img.cdnok9.com/football/competition/45c47fad4b3de71014c5173e34430fcc.png" group-title="[UPCO 23:30 WIB | 54m | 18/04/26] Iceland Women vs England Women",[UPCO 23:30 WIB | 54m | 18/04/26] Iceland Women vs England Women (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
