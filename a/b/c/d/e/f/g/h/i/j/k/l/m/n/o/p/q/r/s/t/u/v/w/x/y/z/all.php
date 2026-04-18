@@ -1,9 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.08 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.17 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="69e3103bec8a03ebbcd26b81" tvg-name="Aston Villa vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 50m | 18/04/26] Aston Villa vs Bologna",[UPCO 23:59 WIB | 11j 50m | 18/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="23xmvkh6p751qg8" tvg-name="South Melbourne vs Hekari Souths United FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 10:00 WIB | 18/04/26] South Melbourne vs Hekari Souths United FC",[LIVE 10:00 WIB | 18/04/26] South Melbourne vs Hekari Souths United FC (Giàng A Mèo)
+https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="23xmvkh6p751qg8" tvg-name="South Melbourne vs Hekari Souths United FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 10:00 WIB | 18/04/26] South Melbourne vs Hekari Souths United FC",[LIVE 10:00 WIB | 18/04/26] South Melbourne vs Hekari Souths United FC (Giàng A Mèo)
+https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="69e31242c9f5caa2e6787e90" tvg-name="Bayern Muchen vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 41m | 18/04/26] Bayern Muchen vs Real Madrid",[UPCO 23:59 WIB | 11j 41m | 18/04/26] Bayern Muchen vs Real Madrid (Giàng A Sếu)
+https://hls.686868.me/live/GIANGABANH/index.m3u8?expire=1785606120&sign=28eac740a181e62241f3c9ee4b1a4e46
+#EXTINF:-1 tvg-id="69e31242c9f5caa2e6787e90" tvg-name="Bayern Muchen vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 41m | 18/04/26] Bayern Muchen vs Real Madrid",[UPCO 23:59 WIB | 11j 41m | 18/04/26] Bayern Muchen vs Real Madrid (Giàng A Sếu)
+https://flv.686868.me/live/GIANGABANH.flv?expire=1785606120&sign=28eac740a181e62241f3c9ee4b1a4e46
+#EXTINF:-1 tvg-id="69e3103bec8a03ebbcd26b81" tvg-name="Aston Villa vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 41m | 18/04/26] Aston Villa vs Bologna",[UPCO 23:59 WIB | 11j 41m | 18/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69e3103bec8a03ebbcd26b81" tvg-name="Aston Villa vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 50m | 18/04/26] Aston Villa vs Bologna",[UPCO 23:59 WIB | 11j 50m | 18/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69e3103bec8a03ebbcd26b81" tvg-name="Aston Villa vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 41m | 18/04/26] Aston Villa vs Bologna",[UPCO 23:59 WIB | 11j 41m | 18/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
 #EXTINF:-1 tvg-id="4jwq2ghn6709m0v" tvg-name="Wellington Phoenix vs Western Sydney" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 12:00 WIB | 18/04/26] Wellington Phoenix vs Western Sydney",[LIVE 12:00 WIB | 18/04/26] Wellington Phoenix vs Western Sydney (PHONG VÂN)
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
@@ -33,7 +41,3 @@ https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="zp5rzghg6438q82" tvg-name="Yokohama F. Marinos vs Kawasaki Frontale" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 18/04/26] Yokohama F. Marinos vs Kawasaki Frontale",[LIVE 11:00 WIB | 18/04/26] Yokohama F. Marinos vs Kawasaki Frontale (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="23xmvkh6p751qg8" tvg-name="South Melbourne vs Hekari Souths United FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 10:00 WIB | 18/04/26] South Melbourne vs Hekari Souths United FC",[LIVE 10:00 WIB | 18/04/26] South Melbourne vs Hekari Souths United FC (Giàng A Mèo)
-https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="23xmvkh6p751qg8" tvg-name="South Melbourne vs Hekari Souths United FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 10:00 WIB | 18/04/26] South Melbourne vs Hekari Souths United FC",[LIVE 10:00 WIB | 18/04/26] South Melbourne vs Hekari Souths United FC (Giàng A Mèo)
-https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
