@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [13.42 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [13.51 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="4wyrn4h6o2n6q86" tvg-name="Sanfrecce Hiroshima vs V-Varen Nagasaki" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 18/04/26] Sanfrecce Hiroshima vs V-Varen Nagasaki",[LIVE 12:00 WIB | 18/04/26] Sanfrecce Hiroshima vs V-Varen Nagasaki (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="4wyrn4h6o2n6q86" tvg-name="Sanfrecce Hiroshima vs V-Varen Nagasaki" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 18/04/26] Sanfrecce Hiroshima vs V-Varen Nagasaki",[LIVE 12:00 WIB | 18/04/26] Sanfrecce Hiroshima vs V-Varen Nagasaki (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="69e31242c9f5caa2e6787e90" tvg-name="Bayern Muchen vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 10j 16m | 18/04/26] Bayern Muchen vs Real Madrid",[UPCO 23:59 WIB | 10j 16m | 18/04/26] Bayern Muchen vs Real Madrid (Giàng A Sếu)
-https://hls.686868.me/live/GIANGABANH/index.m3u8?expire=1785606120&sign=28eac740a181e62241f3c9ee4b1a4e46
-#EXTINF:-1 tvg-id="69e31242c9f5caa2e6787e90" tvg-name="Bayern Muchen vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 10j 16m | 18/04/26] Bayern Muchen vs Real Madrid",[UPCO 23:59 WIB | 10j 16m | 18/04/26] Bayern Muchen vs Real Madrid (Giàng A Sếu)
-https://flv.686868.me/live/GIANGABANH.flv?expire=1785606120&sign=28eac740a181e62241f3c9ee4b1a4e46
-#EXTINF:-1 tvg-id="69e3103bec8a03ebbcd26b81" tvg-name="Aston Villa vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 10j 16m | 18/04/26] Aston Villa vs Bologna",[UPCO 23:59 WIB | 10j 16m | 18/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69e3103bec8a03ebbcd26b81" tvg-name="Aston Villa vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 10j 7m | 18/04/26] Aston Villa vs Bologna",[UPCO 23:59 WIB | 10j 7m | 18/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69e3103bec8a03ebbcd26b81" tvg-name="Aston Villa vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 10j 16m | 18/04/26] Aston Villa vs Bologna",[UPCO 23:59 WIB | 10j 16m | 18/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69e3103bec8a03ebbcd26b81" tvg-name="Aston Villa vs Bologna" tvg-logo="" group-title="[UPCO 23:59 WIB | 10j 7m | 18/04/26] Aston Villa vs Bologna",[UPCO 23:59 WIB | 10j 7m | 18/04/26] Aston Villa vs Bologna (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
+#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 14:00 WIB | 8m | 18/04/26] Brisbane Roar vs Melbourne City",[UPCO 14:00 WIB | 8m | 18/04/26] Brisbane Roar vs Melbourne City (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 14:00 WIB | 8m | 18/04/26] Brisbane Roar vs Melbourne City",[UPCO 14:00 WIB | 8m | 18/04/26] Brisbane Roar vs Melbourne City (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 14:00 WIB | 8m | 18/04/26] Brisbane Roar vs Melbourne City",[UPCO 14:00 WIB | 8m | 18/04/26] Brisbane Roar vs Melbourne City (Giàng A Páo)
+https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 14:00 WIB | 8m | 18/04/26] Brisbane Roar vs Melbourne City",[UPCO 14:00 WIB | 8m | 18/04/26] Brisbane Roar vs Melbourne City (Giàng A Páo)
+https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="23xmvkh6p9yeqg8" tvg-name="Tokyo Verdy vs JEF United Ichihara Chiba" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba",[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="23xmvkh6p9yeqg8" tvg-name="Tokyo Verdy vs JEF United Ichihara Chiba" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba",[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba (GIÀNG A TÁO)
@@ -37,11 +37,11 @@ https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="l7oqdehgo688r51" tvg-name="Gangwon Football Club vs Jeonbuk Hyundai Motors" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 18/04/26] Gangwon Football Club vs Jeonbuk Hyundai Motors",[LIVE 12:00 WIB | 18/04/26] Gangwon Football Club vs Jeonbuk Hyundai Motors (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 14:00 WIB | 17m | 18/04/26] Brisbane Roar vs Melbourne City",[UPCO 14:00 WIB | 17m | 18/04/26] Brisbane Roar vs Melbourne City (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 14:00 WIB | 17m | 18/04/26] Brisbane Roar vs Melbourne City",[UPCO 14:00 WIB | 17m | 18/04/26] Brisbane Roar vs Melbourne City (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 14:00 WIB | 17m | 18/04/26] Brisbane Roar vs Melbourne City",[UPCO 14:00 WIB | 17m | 18/04/26] Brisbane Roar vs Melbourne City (Giàng A Páo)
-https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 14:00 WIB | 17m | 18/04/26] Brisbane Roar vs Melbourne City",[UPCO 14:00 WIB | 17m | 18/04/26] Brisbane Roar vs Melbourne City (Giàng A Páo)
-https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-id="4wyrn4h6o2n6q86" tvg-name="Sanfrecce Hiroshima vs V-Varen Nagasaki" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 18/04/26] Sanfrecce Hiroshima vs V-Varen Nagasaki",[LIVE 12:00 WIB | 18/04/26] Sanfrecce Hiroshima vs V-Varen Nagasaki (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="4wyrn4h6o2n6q86" tvg-name="Sanfrecce Hiroshima vs V-Varen Nagasaki" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 18/04/26] Sanfrecce Hiroshima vs V-Varen Nagasaki",[LIVE 12:00 WIB | 18/04/26] Sanfrecce Hiroshima vs V-Varen Nagasaki (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="69e31242c9f5caa2e6787e90" tvg-name="Bayern Muchen vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 10j 7m | 18/04/26] Bayern Muchen vs Real Madrid",[UPCO 23:59 WIB | 10j 7m | 18/04/26] Bayern Muchen vs Real Madrid (Giàng A Sếu)
+https://hls.686868.me/live/GIANGABANH/index.m3u8?expire=1785606120&sign=28eac740a181e62241f3c9ee4b1a4e46
+#EXTINF:-1 tvg-id="69e31242c9f5caa2e6787e90" tvg-name="Bayern Muchen vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 10j 7m | 18/04/26] Bayern Muchen vs Real Madrid",[UPCO 23:59 WIB | 10j 7m | 18/04/26] Bayern Muchen vs Real Madrid (Giàng A Sếu)
+https://flv.686868.me/live/GIANGABANH.flv?expire=1785606120&sign=28eac740a181e62241f3c9ee4b1a4e46
