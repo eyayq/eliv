@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [10:26 WIB 18/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [10:26 WIB 18/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [10:36 WIB 18/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [10:36 WIB 18/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[09:00 WIB 18/04/26] Phoenix Suns vs Golden State Warriors [FHD] [LIVE]
@@ -11,13 +11,13 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[09:00 WIB 18/04/26] Phoenix Suns vs Golden State Warriors [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[11:00 WIB 18/04/26] Yokohama F. Marinos vs Kawasaki Frontale [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[11:00 WIB 18/04/26] Yokohama F. Marinos vs Kawasaki Frontale [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[11:00 WIB 18/04/26] Yokohama F. Marinos vs Kawasaki Frontale [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[11:00 WIB 18/04/26] Yokohama F. Marinos vs Kawasaki Frontale [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[11:00 WIB 18/04/26] Yokohama F. Marinos vs Kawasaki Frontale [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[11:00 WIB 18/04/26] Yokohama F. Marinos vs Kawasaki Frontale [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[12:00 WIB 18/04/26] Hà Nội Tasco Auto - Geleximco Hưng Yên [FHD] [NANTIKAN]
