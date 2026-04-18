@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.44 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.47 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="23xmvkh6p9yeqg8" tvg-name="Tokyo Verdy vs JEF United Ichihara Chiba" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba",[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="23xmvkh6p9yeqg8" tvg-name="Tokyo Verdy vs JEF United Ichihara Chiba" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba",[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="n54qllhn7e1oqvy" tvg-name="Jeju SK FC vs Gimcheon Sangmu Football Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 18/04/26] Jeju SK FC vs Gimcheon Sangmu Football Club",[LIVE 14:30 WIB | 18/04/26] Jeju SK FC vs Gimcheon Sangmu Football Club (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="n54qllhn7e1oqvy" tvg-name="Jeju SK FC vs Gimcheon Sangmu Football Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 18/04/26] Jeju SK FC vs Gimcheon Sangmu Football Club",[LIVE 14:30 WIB | 18/04/26] Jeju SK FC vs Gimcheon Sangmu Football Club (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="y0or5jh8n4j5qwz" tvg-name="Bucheon FC 1995 vs Incheon United Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 18/04/26] Bucheon FC 1995 vs Incheon United Club",[LIVE 14:30 WIB | 18/04/26] Bucheon FC 1995 vs Incheon United Club (DERICE)
 https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="y0or5jh8n4j5qwz" tvg-name="Bucheon FC 1995 vs Incheon United Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 18/04/26] Bucheon FC 1995 vs Incheon United Club",[LIVE 14:30 WIB | 18/04/26] Bucheon FC 1995 vs Incheon United Club (DERICE)
@@ -21,11 +29,3 @@ https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d7
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="jw2r09hk69v3rz8" tvg-name="Cerezo Osaka vs Kyoto Sanga" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 14:00 WIB | 18/04/26] Cerezo Osaka vs Kyoto Sanga",[LIVE 14:00 WIB | 18/04/26] Cerezo Osaka vs Kyoto Sanga (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="23xmvkh6p9yeqg8" tvg-name="Tokyo Verdy vs JEF United Ichihara Chiba" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba",[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="23xmvkh6p9yeqg8" tvg-name="Tokyo Verdy vs JEF United Ichihara Chiba" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba",[LIVE 13:00 WIB | 18/04/26] Tokyo Verdy vs JEF United Ichihara Chiba (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="n54qllhn7e1oqvy" tvg-name="Jeju SK FC vs Gimcheon Sangmu Football Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 18/04/26] Jeju SK FC vs Gimcheon Sangmu Football Club",[LIVE 14:30 WIB | 18/04/26] Jeju SK FC vs Gimcheon Sangmu Football Club (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="n54qllhn7e1oqvy" tvg-name="Jeju SK FC vs Gimcheon Sangmu Football Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 18/04/26] Jeju SK FC vs Gimcheon Sangmu Football Club",[LIVE 14:30 WIB | 18/04/26] Jeju SK FC vs Gimcheon Sangmu Football Club (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
