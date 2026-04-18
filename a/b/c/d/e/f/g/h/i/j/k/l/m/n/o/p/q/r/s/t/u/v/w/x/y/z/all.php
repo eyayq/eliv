@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.39 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.44 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="y0or5jh8n4j5qwz" tvg-name="Bucheon FC 1995 vs Incheon United Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 18/04/26] Bucheon FC 1995 vs Incheon United Club",[LIVE 14:30 WIB | 18/04/26] Bucheon FC 1995 vs Incheon United Club (DERICE)
 https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
@@ -9,14 +9,14 @@ https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="y0or5jh8n4j5qwz" tvg-name="Bucheon FC 1995 vs Incheon United Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 18/04/26] Bucheon FC 1995 vs Incheon United Club",[LIVE 14:30 WIB | 18/04/26] Bucheon FC 1995 vs Incheon United Club (Giàng A Hổ)
 https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City",[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City",[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City",[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City",[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City",[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="965mkyhk1ngyr1g" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City",[LIVE 14:00 WIB | 18/04/26] Brisbane Roar vs Melbourne City (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="jw2r09hk69v3rz8" tvg-name="Cerezo Osaka vs Kyoto Sanga" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 14:00 WIB | 18/04/26] Cerezo Osaka vs Kyoto Sanga",[LIVE 14:00 WIB | 18/04/26] Cerezo Osaka vs Kyoto Sanga (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="jw2r09hk69v3rz8" tvg-name="Cerezo Osaka vs Kyoto Sanga" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 14:00 WIB | 18/04/26] Cerezo Osaka vs Kyoto Sanga",[LIVE 14:00 WIB | 18/04/26] Cerezo Osaka vs Kyoto Sanga (BLV GÀ PHÁP)
