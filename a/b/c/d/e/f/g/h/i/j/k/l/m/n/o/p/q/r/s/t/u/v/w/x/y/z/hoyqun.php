@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:36 WIB 18/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:36 WIB 18/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [18:44 WIB 18/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:44 WIB 18/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:35 WIB 18/04/26] Sydney vs Perth Glory [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:35 WIB 18/04/26] Sydney vs Perth Glory [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:35 WIB 18/04/26] Sydney vs Perth Glory [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:00 WIB 18/04/26] VTV BĐ Long An - BC Thông Tin BĐ19 [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
@@ -19,15 +10,6 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/icon-sports/icon_sport_volleyball.png" group-title="Việt Nam VĐQG - NỮ",[17:00 WIB 18/04/26] VTV BĐ Long An - BC Thông Tin BĐ19 [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[17:00 WIB 18/04/26] DNS vs KT [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[17:00 WIB 18/04/26] DNS vs KT [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[17:00 WIB 18/04/26] DNS vs KT [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 18/04/26] Hồng Lĩnh Hà Tĩnh vs Hai Phong [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
@@ -48,22 +30,22 @@ https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[18:30 WIB 18/04/26] Alexander Zverev vs Flavio Cobolli [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[18:30 WIB 18/04/26] Alexander Zverev vs Flavio Cobolli [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[18:30 WIB 18/04/26] Alexander Zverev vs Flavio Cobolli [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[18:30 WIB 18/04/26] Andrey Rublev vs Hamad Medjedovic [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[18:30 WIB 18/04/26] Andrey Rublev vs Hamad Medjedovic [HD] [LIVE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[18:30 WIB 18/04/26] Alexander Zverev vs Flavio Cobolli [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[18:30 WIB 18/04/26] Andrey Rublev vs Hamad Medjedovic [SD] [LIVE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[18:30 WIB 18/04/26] Alexander Zverev vs Flavio Cobolli [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[18:30 WIB 18/04/26] Andrey Rublev vs Hamad Medjedovic [FHD] [LIVE]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[18:30 WIB 18/04/26] Andrey Rublev vs Hamad Medjedovic [HD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[18:30 WIB 18/04/26] Andrey Rublev vs Hamad Medjedovic [SD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySfvtvJ3YC5sPd5_V9cxgY8I79hDeTZKHtQ&s" group-title="Premier League",[18:30 WIB 18/04/26] Brentford vs Fulham [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
@@ -102,22 +84,22 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[20:00 WIB 18/04/26] Alex Molcan vs Ben Shelton [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[20:00 WIB 18/04/26] Alex Molcan vs Ben Shelton [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[20:00 WIB 18/04/26] Alex Molcan vs Ben Shelton [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[20:00 WIB 18/04/26] Rafael Jodar vs Arthur Fils [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[20:00 WIB 18/04/26] Rafael Jodar vs Arthur Fils [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[20:00 WIB 18/04/26] Alex Molcan vs Ben Shelton [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[20:00 WIB 18/04/26] Rafael Jodar vs Arthur Fils [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[20:00 WIB 18/04/26] Alex Molcan vs Ben Shelton [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[20:00 WIB 18/04/26] Rafael Jodar vs Arthur Fils [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[20:00 WIB 18/04/26] Rafael Jodar vs Arthur Fils [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-3840,q:75/https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/KWSRK.jpg" group-title="ATP500 Barcelona",[20:00 WIB 18/04/26] Rafael Jodar vs Arthur Fils [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://phapluat.tuoitrethudo.vn/stores/news_dataimages/hoangphuongduy/102019/21/15/in_article/0102_2000px-Bundesliga-Logo.svg.jpg" group-title="Bundesliga",[20:30 WIB 18/04/26] Bayer Leverkusen vs FC Augsburg [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
