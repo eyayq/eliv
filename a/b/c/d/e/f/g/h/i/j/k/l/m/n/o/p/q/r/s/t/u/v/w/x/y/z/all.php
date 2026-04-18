@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.17 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.25 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="zp5rzghg6438q82" tvg-name="Yokohama F. Marinos vs Kawasaki Frontale" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 18/04/26] Yokohama F. Marinos vs Kawasaki Frontale",[LIVE 11:00 WIB | 18/04/26] Yokohama F. Marinos vs Kawasaki Frontale (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
@@ -13,7 +13,11 @@ https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4db
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="965mkyhkow12r1g" tvg-name="Vancouver Whitecaps vs Sporting Kansas City" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 09:40 WIB | 18/04/26] Vancouver Whitecaps vs Sporting Kansas City",[LIVE 09:40 WIB | 18/04/26] Vancouver Whitecaps vs Sporting Kansas City (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="y0or5jh8z69pqwz" tvg-name="Kashima Antlers vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 12:00 WIB | 42m | 18/04/26] Kashima Antlers vs Urawa Red Diamonds",[UPCO 12:00 WIB | 42m | 18/04/26] Kashima Antlers vs Urawa Red Diamonds (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="y0or5jh8z69pqwz" tvg-name="Kashima Antlers vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 12:00 WIB | 34m | 18/04/26] Kashima Antlers vs Urawa Red Diamonds",[UPCO 12:00 WIB | 34m | 18/04/26] Kashima Antlers vs Urawa Red Diamonds (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="y0or5jh8z69pqwz" tvg-name="Kashima Antlers vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 12:00 WIB | 42m | 18/04/26] Kashima Antlers vs Urawa Red Diamonds",[UPCO 12:00 WIB | 42m | 18/04/26] Kashima Antlers vs Urawa Red Diamonds (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="y0or5jh8z69pqwz" tvg-name="Kashima Antlers vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 12:00 WIB | 34m | 18/04/26] Kashima Antlers vs Urawa Red Diamonds",[UPCO 12:00 WIB | 34m | 18/04/26] Kashima Antlers vs Urawa Red Diamonds (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="l7oqdehgo688r51" tvg-name="Gangwon Football Club vs Jeonbuk Hyundai Motors" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 34m | 18/04/26] Gangwon Football Club vs Jeonbuk Hyundai Motors",[UPCO 12:00 WIB | 34m | 18/04/26] Gangwon Football Club vs Jeonbuk Hyundai Motors (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="l7oqdehgo688r51" tvg-name="Gangwon Football Club vs Jeonbuk Hyundai Motors" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 34m | 18/04/26] Gangwon Football Club vs Jeonbuk Hyundai Motors",[UPCO 12:00 WIB | 34m | 18/04/26] Gangwon Football Club vs Jeonbuk Hyundai Motors (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
