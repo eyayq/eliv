@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 11:30:25 WIB 18-04-2026
-# 🔄 Total Channels: 2509
+# ⏰ Latest Updated: 11:33:27 WIB 18-04-2026
+# 🔄 Total Channels: 2506
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:30:25 WIB 18-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:33:27 WIB 18-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -100,7 +100,7 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/9381e7d6816e6d915a44a13c0195b202
 #EXTVLCOPT:http-origin=https://chzzk.naver.com
-https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0005/fvgwvlz61gwupcpogcs1mli25ccvupzzmgdr/j8cakjx1osy6ekbblhj9nyvccvupzzmb6e_hls_playlist.m3u8?hdnts=st=1776511769~exp=1776572979~acl=*/fvgwvlz61gwupcpogcs1mli25ccvupzzmgdr/*~hmac=fe6d767ee70971420ed7192fa71d059179638392d25bf7cbbb7d596505b9bb8c
+https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0005/fvgwvlz61gwupcpogcs1mli25ccvupzzmgdr/j8cakjx1osy6ekbblhj9nyvccvupzzmb6e_hls_playlist.m3u8?hdnts=st=1776511848~exp=1776573058~acl=*/fvgwvlz61gwupcpogcs1mli25ccvupzzmgdr/*~hmac=a638c64f42a35dfe1d4251fa9bdd850b3303f720d2c28bb6f464f99a89c5903e
 #EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/a0c772584c00e1b6efd1c421344cd005.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] AUS A-League: Sydney FC vs Perth Glory
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -122,6 +122,13 @@ https://hls.livelivelive.space/live/4514104.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hls.livelivelive.space/live/4505281.m3u8
+#EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/4453da947baa45c05d9f5b80c79c8aac.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] CHN League 1: Nanjing City vs Shenzhen Juniors
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://hls.livelivelive.space/live/4505285.m3u8
 #EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/0e5467034917e26c6e60a7162711c150.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] CSL: Dalian Yingbo vs Henan FC
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -164,6 +171,13 @@ https://live1.bbs456.com/live/12598168_2311b232f514efbb31907eed32e4911f.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hls.livelivelive.space/live/4530407.m3u8
+#EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/0d3eabc5ecaf407ef8dc5cae3840930d.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] TUR Super League: Karagumruk vs Eyupspor
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://hls.livelivelive.space/live/4366120.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Kilda%20Saints%20VS%20Adelaide%20Crows%20%20AFL%20Premiership.jpg" group-title="🔴 🔴 LIVE EVENT NOW",St. Kilda Saints vs Adelaide Crows - Unknown League
 https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=6a8e8929e5a2e413532f299c5a51da3914d8edfa&x-sign=a442ab7b1d134ca96d38c0fbe0d89910&x-time=1776510900
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20VS%20Perth%20Glory%20%20A-League.jpg" group-title="🔴 🔴 LIVE EVENT NOW",Sydney vs Perth Glory - A-League
@@ -191,16 +205,16 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/144253_hd/index.m3u8?is_vip=false&
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/9joz8r89pyceyg.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] AFL Australian Football League | (16.00 WIB) St Kilda vs Adelaide Crows
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/450_hd/index.m3u8?is_vip=true&token=dara-3ym35fp3&x-sign=309fed2ae8830ebc455abd38402f37ac&x-time=1776511680|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/450_hd/index.m3u8?is_vip=true&token=dara-hib5qzsq&x-sign=781972d79bb9c6f4bbcd9c18c699fc5f&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/g1h6bv5kbymurk.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] Australian A-League Men | (16.35 WIB) Sydney FC vs Perth Glory
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/366_hd/index.m3u8?is_vip=true&token=dara-eicakwmz&x-sign=c057bacfa2677edf7acdf9f67214d2e2&x-time=1776511680|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/366_hd/index.m3u8?is_vip=true&token=dara-jkigj9sy&x-sign=94184d8146f7098b33f82cdad584a23f&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlh650ryk0/image/small" group-title="🔴 🔴 LIVE EVENT NOW",16:35 WIB - SYDNEY FC VS PERTH GLORY [AUS D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=aeee8cb8cf0c4d97bd3d83cdf7955289&wsABSTime=1776554436
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=d971557576b2d7bc6240db5da930d9b2&wsABSTime=1776555035
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gt-VgvdCbY-MO1lMENhS4AWww6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015563/e70c72.jpg" group-title="🔴 🔴 LIVE EVENT NOW",16:52 WIB 18/04/26 Persipura Jayapura vs PSIS Semarang - Pegadaian Championship (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -220,12 +234,12 @@ https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/4jn1ji8d2ablrc.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] Liga Portugal 2 | (17.00 WIB) Pacos Ferreira vs Chaves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/161357_hd/index.m3u8?is_vip=true&token=dara-q4blyv8v&x-sign=3912166f0f657c09e097900b69788139&x-time=1776511680|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/161357_hd/index.m3u8?is_vip=true&token=dara-e5mgeafl&x-sign=970760a739f4fa3bb8d763c7de6b941f&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nh2nnmd7o/image/small" group-title="🔴 🔴 LIVE EVENT NOW",17:00 WIB - KOLOS KOVALIVKA VS LNZ CHERKASY [UKR D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=1adde7d1fe530097fc8945d40db7eb50&wsABSTime=1776554436
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=3bc6776cfea3a9bd593675357ff07a73&wsABSTime=1776555036
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/t3W8jaXLOlBE9RTOKry_wDsPUUc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015493/7180be.jpg" group-title="🔴 🔴 LIVE EVENT NOW",17:50 WIB 18/04/26 WorldSPB Race 1 - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -245,19 +259,19 @@ https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/dfzlhapj5k3fgb.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] 2. Bundesliga | (18.00 WIB) 1. FC Magdeburg vs Fortuna Dusseldorf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136437_hd/index.m3u8?is_vip=true&token=dara-218e3lhe&x-sign=5d5d3e0ac7022bf96ce1e5a7e2159012&x-time=1776511680|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136437_hd/index.m3u8?is_vip=true&token=dara-0nkod28u&x-sign=5e29ea46650bfa95a14801f24029b721&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/ypbakhtt6sre01.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] 2. Bundesliga | (18.00 WIB) Arminia Bielefeld vs  1. FC Nurnberg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136436_hd/index.m3u8?is_vip=true&token=dara-ovekoxgt&x-sign=a624245b4d3f4b601dcb17c037ea10cb&x-time=1776511680|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136436_hd/index.m3u8?is_vip=true&token=dara-g3ydy1ce&x-sign=8dc15801ad114b4255677f6ee327c7c1&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/19tu4ood5o5jxx.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] 2. Bundesliga | (18.00 WIB) Dynamo Dresden vs VfL Bochum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136438_hd/index.m3u8?is_vip=true&token=dara-j435gz75&x-sign=7ddd20b4c00aedcebaaed3aec4f7f438&x-time=1776511740|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136438_hd/index.m3u8?is_vip=true&token=dara-3zs4fui1&x-sign=3b4206c8041cb06a3f496abdab625413&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/y0j4bw6wes86la.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] Darts - European Darts Grand Prix | (18.00 WIB) Day 2 - Afternoon Session
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://iframe.ifnewgen.xyz/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-bp-dara-iptv.maypn.stream%2Flive_abr%2F114414%2Fabr.m3u8&client_id=dara&uid=cc5usvj5&is_vip=true&verify=1776510000-82Zki1oWkbYjUAGv%2B0EQYyRaiC81NW9PhBB%2ByM9wEBQ%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/114414_hd/index.m3u8?is_vip=true&token=dara-4jtm1xx7&x-sign=b23a83e1bf3ddadc21350260ecc80b6b&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I_qYltgT8vzn7AulTpRRX-GVkwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015499/79edb6.jpg" group-title="🔴 🔴 LIVE EVENT NOW",18:00 WIB 18/04/26 Brentford vs Fulham - Premier League (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -293,25 +307,25 @@ https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/jkeoc5gstl7i5c.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] English League Championship | (18.30 WIB) Millwall vs Queens Park Rangers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274860_hd/index.m3u8?is_vip=true&token=dara-xze7dxo1&x-sign=ccc6141ee0c68a2fab643ad7109ed87e&x-time=1776511740|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/274860_hd/index.m3u8?is_vip=true&token=dara-gvkdoi32&x-sign=3a56c6cd6a6901f0635a2b1d06b611cc&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/lespugyl7334mv.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] English League Championship | (18.30 WIB) Portsmouth vs Leicester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/372_hd/index.m3u8?is_vip=true&token=dara-vcnccoc6&x-sign=46fcbc95d17c182b91ee614586d6bd70&x-time=1776511740|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/372_hd/index.m3u8?is_vip=true&token=dara-jj48t2bz&x-sign=88350a7daaaa6cf4469e9bbd02c5ffb5&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/q19d9qhkzqb408.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] English Premier League | (18.30 WIB)  Brentford vs Fulham
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/144253_hd/index.m3u8?is_vip=true&token=dara-o9jxu44o&x-sign=eff183402ace22b80524adf10b58058f&x-time=1776511740|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/144253_hd/index.m3u8?is_vip=true&token=dara-je1lpoh8&x-sign=abe55aae60c1747fa0b4c4ca994fdfd5&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small" group-title="🔴 🔴 LIVE EVENT NOW",18:30 WIB - BRENTFORD VS FULHAM [ENG PR] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=5422dde002acf9b36dd892c24d49a0d3&wsABSTime=1776554431
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=bb693dd2d122ebe9a8e36e223598d245&wsABSTime=1776555031
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small" group-title="🔴 🔴 LIVE EVENT NOW",18:30 WIB - BRENTFORD VS FULHAM [ENG PR] (v2)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=0dca5443894f61333047262d2b0fb014&wsABSTime=1776554432
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=c2be9f8a918965a2a53b23d0bd8b81b4&wsABSTime=1776555032
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/188.png" group-title="LIGA JERMAN",[Live] Arminia Bielefeld VS 1. FC Nurnberg | 2. Bundesliga
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -371,15 +385,15 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/136437_hd/index.m3u8?is_vip=false&
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/dfzlhapj5k3fgb.png" group-title="LIGA JERMAN",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] 2. Bundesliga | (18.00 WIB) 1. FC Magdeburg vs Fortuna Dusseldorf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136437_hd/index.m3u8?is_vip=true&token=dara-218e3lhe&x-sign=5d5d3e0ac7022bf96ce1e5a7e2159012&x-time=1776511680|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136437_hd/index.m3u8?is_vip=true&token=dara-0nkod28u&x-sign=5e29ea46650bfa95a14801f24029b721&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/ypbakhtt6sre01.png" group-title="LIGA JERMAN",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] 2. Bundesliga | (18.00 WIB) Arminia Bielefeld vs  1. FC Nurnberg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136436_hd/index.m3u8?is_vip=true&token=dara-ovekoxgt&x-sign=a624245b4d3f4b601dcb17c037ea10cb&x-time=1776511680|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136436_hd/index.m3u8?is_vip=true&token=dara-g3ydy1ce&x-sign=8dc15801ad114b4255677f6ee327c7c1&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/19tu4ood5o5jxx.png" group-title="LIGA JERMAN",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] 2. Bundesliga | (18.00 WIB) Dynamo Dresden vs VfL Bochum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136438_hd/index.m3u8?is_vip=true&token=dara-j435gz75&x-sign=7ddd20b4c00aedcebaaed3aec4f7f438&x-time=1776511740|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/136438_hd/index.m3u8?is_vip=true&token=dara-3zs4fui1&x-sign=3b4206c8041cb06a3f496abdab625413&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/live90sport/logona.php?home=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2F19tu4ood5o5jxx.png&away=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Ft4b12jm0gahbor.png" group-title="LIGA JERMAN", [LIVE] Dynamo Dresden vs VfL Bochum * 2. Bundesliga (18:00 WIB * 18/04/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
@@ -671,11 +685,11 @@ https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/9182.drm?dev_kaki_09&t=1776522587&uip=103.30.147.120&h=05eca1e3597aa109310c7a484e3fd33f59264d677dd3b469c97a5deab64fe6fd
+#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/9182.drm?dev_kaki_09&t=1776522659&uip=103.30.147.120&h=fefd845409179436057e32e2242c369de8a0f15b500a8e5347c5707c3b25b233
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
-https://vid-zero-gelang.disini.workers.dev/9182.mpd?dev_kaki_09&t=1776522587&uip=103.30.147.120&h=05eca1e3597aa109310c7a484e3fd33f59264d677dd3b469c97a5deab64fe6fd
+https://vid-zero-gelang.disini.workers.dev/9182.mpd?dev_kaki_09&t=1776522659&uip=103.30.147.120&h=fefd845409179436057e32e2242c369de8a0f15b500a8e5347c5707c3b25b233
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I_qYltgT8vzn7AulTpRRX-GVkwU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015499/79edb6.jpg" group-title="LIGA INGGRIS", 18:00 WIB Brentford vs Fulham - Premier League
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -693,25 +707,41 @@ https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA
 #EXTVLCOPT:network-caching=1000
 https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoibG1mRm5mZFRaNW1TdEJ2Nm9JOE1pRm51OGE4bE9zZjhNNEY1d3NkT20zT0cyTlJlOEMxYVdta2JhenNJQWZaN3dybzNUZzZ2UmdjVWVTb0QxSm1uTEJtWlNJMkV2aFFxaXRFbWZPSEw5dmNHaGFkXC9Xd29lVnFEK0g1S1doQjJMMHY0YVVVQk1iMWlzWUlIeUVoS2RHckNQV09QWnNvNDEzcXdhazhHb2NZaHJveUhjQnpTVVY5ZmxuRWFYS2NKbTQrSE02V21jZjNmdjRsWEZQTHNCZXBUeDJ3QmJreDV5SVZvOGd1QUtUQWM9In0=
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/q19d9qhkzqb408.png" group-title="LIGA INGGRIS",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] English Premier League | (18.30 WIB)  Brentford vs Fulham
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/144253_hd/index.m3u8?is_vip=true&token=dara-je1lpoh8&x-sign=abe55aae60c1747fa0b4c4ca994fdfd5&x-time=1776511800|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/live90sport/logona.php?home=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fq19d9qhkzqb408.png&away=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2F5ycvejmmmqvr48.png" group-title="LIGA INGGRIS", [UPCOMING] Brentford vs Fulham * English Premier League (18:30 WIB * 18/04/2026)
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small" group-title="LIGA INGGRIS",18:30 WIB - BRENTFORD VS FULHAM [ENG PR] (v1)
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=bb693dd2d122ebe9a8e36e223598d245&wsABSTime=1776555031
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kjw2r09hdk5rz84/image/small" group-title="LIGA INGGRIS",18:30 WIB - BRENTFORD VS FULHAM [ENG PR] (v2)
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=c2be9f8a918965a2a53b23d0bd8b81b4&wsABSTime=1776555032
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIGA INGGRIS",18:30 WIB | [English Premier League] Brentford vs Fulham [M4]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://a.yilfdvfdsv.shop/hls/FRFRFRQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIGA INGGRIS",18:30 WIB | [English Premier League] Brentford vs Fulham     ENG HD
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://ml-pull-hwc.myco.io/EPLBONGO1/hls/EPLBONGO1_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIGA INGGRIS",18:30 WIB | [English Premier League] Brentford vs Fulham [M3]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://a.xazdarer.shop/hls/FRFRFRQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIGA INGGRIS",18:30 WIB | [English Premier League] Brentford vs Fulham [M1]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://a.uliyyrer.shop/hls/FRFRFRQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIGA INGGRIS",18:30 WIB | [English Premier League] Brentford vs Fulham [M2]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/c387e355b89e7909ea112e18ce22f2d2/image/small?v=1768601124" group-title="LIGA INGGRIS",[18.30 WIB] [LIVE] [English Premier League] Brentford vs Fulham
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://a.vzcecza.shop/hls/FRFRFRQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/X2UeGvfeBBOjw87FSNETZpfdqew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5017180/86e292.jpg" group-title="LIGA INGGRIS", 19:30 WIB Everton vs Liverpool - Premier League
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Kn81XJq1k909GuJIE734BJrT6hY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015686/3da1aa.jpg" group-title="LIGA INGGRIS", 19:50 WIB Nottingham Forest vs Burnley - Premier League
@@ -730,13 +760,13 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://tvku.family/dante/live90sport/logona.php?home=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2F1fc0rujb1km63p.png&away=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2F0i7x7g3vku3fah.png" group-title="LIGA INGGRIS", [UPCOMING] Newcastle United vs AFC Bournemouth * English Premier League (21:00 WIB * 18/04/2026)
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small" group-title="LIGA INGGRIS",21:00 WIB - NEWCASTLE UNITED VS AFC BOURNEMOUTH [ENG PR] (v1)
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small" group-title="LIGA INGGRIS",21:00 WIB - NEWCASTLE UNITED VS AFC BOURNEMOUTH [ENG PR] (v2)
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="LIGA INGGRIS",21:00 WIB - LEEDS UNITED VS WOLVERHAMPTON [ENG PR] (v1)
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gx7lm7phdv4m2wd/image/small" group-title="LIGA INGGRIS",21:00 WIB - LEEDS UNITED VS WOLVERHAMPTON [ENG PR] (v2)
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small" group-title="LIGA INGGRIS",21:00 WIB - NEWCASTLE UNITED VS AFC BOURNEMOUTH [ENG PR] (v1)
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h8dpmojx/image/small" group-title="LIGA INGGRIS",21:00 WIB - NEWCASTLE UNITED VS AFC BOURNEMOUTH [ENG PR] (v2)
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/P6e-wD25mEnZRxo4ZsGD-IxQQvg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015503/ae907b.jpg" group-title="LIGA INGGRIS", 22:00 WIB Man City vs Arsenal - Premier League
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
@@ -784,13 +814,6 @@ https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/e0570fd15643b2d77e0e446a4b51ebf3.png" group-title="🔔JADWAL LIVE (UPCOMING)",[UPCOMING] CHN FA Cup: Guangzhou Huadu Red Treasure vs Lanzhou Longyuan Athletic
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/4453da947baa45c05d9f5b80c79c8aac.png" group-title="🔔JADWAL LIVE (UPCOMING)",[UPCOMING] CHN League 1: Nanjing City vs Shenzhen Juniors
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1091,13 +1114,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/0d3eabc5ecaf407ef8dc5cae3840930d.png" group-title="🔔JADWAL LIVE (UPCOMING)",[UPCOMING] TUR Super League: Karagumruk vs Eyupspor
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="https://wtsymycyh.99kq.top/logo/football_team/cc07308e2f4326c6929fd8cece5668d1.png" group-title="🔔JADWAL LIVE (UPCOMING)",[UPCOMING] TUR Super League: Kocaelispor vs Goztepe
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1105,8 +1121,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MZw7i7krSJyTXcfURQwnbtOAT_U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015580/c54fc8.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 15:30 WIB PERSIK Kediri vs PERSITA - BRI Super League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiM3lQeEcxS2tnS0I5b0xlOGh4MlRvYTZkbnFpMU14U2pvdzZVZlwvTUpFbUV5SUUzdCtES3RTR2RnckFKeFJ4OGRYNEJsY1FsZitwMytMc3VWdXJuQUtySWlTcVVYcTdBRm1RazVDWGI2VU52REtVNnh5YkVKVERtT3pBd0V0R3VyK0dkOU52azRpeHUwNmN5b3hWM25ob3JCNGZsemxLU1JPMFJzSUI1bWFmR3FjdHl1bjZjU25GZEJnem1YZEs4eDliNTBoSXB6UExoRjFiMFg5dmZkVFwvRUFDK0hXUSt0bWZHcGM3a0s3Kzh3PSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/o0Fpz9YCIbYJh00fg776zCcZ1N0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015512/40ae41.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 15:55 WIB WorldSBK Tissot Superpole Race - WorldSBK Championship 2026 Round 3 Pirelli Dutch Round
 https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiNHZ5RllXQ0w1SlllUXE4WUoxT0I5RGdyaFBhQ0dWM1wvZVk3SHVtem00Umtla1wvZ2czOFpRalwvV2x1WEViMGlqRExmV3NmUk8zTjJNS1FKNWdCU1N0R0V2bjBnSWc5Qmh0T0k3b1JGNTFtTllHeDhhQ1YyajVqZ2hCYWV4MUZqVEdFREtzQVlHd1A4Z3ZKbE94ZTZhK1ZiQUxQcXBId040NVFPdnZ1NVhmRDR1YmpKWkc0XC9zUHBodHRiRmlBbU5UbFlWWVhtbStIbGFqNDJpNFdSYkpQYkJ4djFsWXpFQUZwM09DNFBBVGIzaDg9In0=
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/czckqzq7p3n53h.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Tennis - Mutua Madrid Open | (16.00 WIB) First Round (BELUM MULAI)
@@ -1130,9 +1144,9 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KLADAsvtwMzRBcjeSt1JlmKBmzA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015486/386360.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 18:00 WIB Final - WTA 500: Porsche Tennis Grand Prix 2026
 https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiMW1mN1RMXC9kYnphVVVxeUljY05lUWgxeURCVjlJbkgxYzF6Q3pjQmZFTFdDbzVBTEJ0eVZ6VjFnU3E2cEw0TWw5dWErUUdpaHhscGdhSXlKTTB4bjZCQmd0aGRWOW5OOWZDTUdMVldkRU9rTVRcL29kenBzdnlGT2d5QUZvS1RES1lucEtiQkhRMFwvZ1YxcDF1aWhpUHd4cFFsUVM5Yjl3T3owMnVTZFB0V3ErbXhZWStXbVRpdkl5MHhGTFYycklLaURybTJENUFxXC9ycTF6bGphRDh3RU1HNXNUZGZQWEVxd01cL2xiYnp0VEJZPSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5ZjZmQlNJvnRdZtjHFMGKspFw5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015522/acc6e1.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 18:30 WIB Jelang Kick Off - PSBS Biak vs PERSIJA - BRI Super League
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoidXpTaE9GSnpPN2RJUTdEWHBCYmJPN29xVUp4SXE4MThtYkIydkIybm0rbExrbDY3UDZ0VDZnUXd3dUxXOUlrcTlvRzVjb2YrdmZOdDByY0M4U05VaitcL0ZoNTU0YVpqUTNQVVMzc1hQOTExS0tTZ3NaTWQxeU8ydTZmT0psM2JRMGlDb056SzVkM2hVTFV5NmgzbEpOXC9ienBDY1pSXC9ZQzg0emowZ3I3QjJRN1lMS0NQdkN6TGhxVkZ6MnZMb1JmejZGU2pSV1BVUlZqQVZtNnM0R1lTZjBpUHlQNUZpdXVHOSs0a0dzNWhHOD0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UIK2QiqTYg0Tt9s5TCvr4piYlvM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019457/4cad89.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 18:30 WIB Andrey Rublev vs Hamad Medjedovic - Semifinal | ATP 500: Barcelona Open Banc Sabadell 2026
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRUZlZGE3UjNzSEROZ0FTaTFiQitxb01MdkZJTVpzemFGT0xoSXgydnNQNWNxVmpLbmdHTVRLcllKS1hweXVJMFJwQWtjZlhIZHdHSmhSS3BDTlA3VXJ6M1ZwR0VRaXdSeGVqaVRzMkhZZ0k4TXVyV2JUT3A1UHhDMG9SUVVDeUc3dkVSbGMwbEZYb2hrK3hwUFErMmdvZE5SaEtLNlRxY1BUeFFxUXZDNk5mQXpCR1oyMnlQUXBUZm11blUxcU5XVDMxWXU3UWVMN1NFRk1wQzdpOXdPdlwvXC9cL2dCU3ZaeEVzYVhaWTZXUzZpND0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LESeL8lxadBBBNXqMwSEEEgCE18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015521/2784b8.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 18:34 WIB PSBS Biak vs PERSIJA - BRI Super League
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HK7wtciteMHpQLfrPeX9_y9n0Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015560/4ca874.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 18:52 WIB Sumsel United vs Persikad - Pegadaian Championship
@@ -1267,14 +1281,16 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/vdkgwl3mq22o74.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Baseball - NPB Farm Leagues | (11.00 WIB) Fukuoka SoftBank Hawks vs Orix Buffaloes (BELUM MULAI)
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/d7Kgb7nnIs38dtEve6RE7rzp7S8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20921/byon-combat-showbiz-vol-7-1c8741.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 14:30 WIB Jai JMT vs Fatkur Rozi - UCC Kickstriking Bout - BYON Combat Showbiz Vol.7
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/J_Xr4UnBVcAdcfrXNpTN0BmLEVI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20922/byon-combat-showbiz-vol-7-92dd89.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 14:30 WIB Jai JMT vs Fatkur Rozi - UCC Kickstriking Bout - BYON Combat Showbiz Vol.7
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MZw7i7krSJyTXcfURQwnbtOAT_U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015580/c54fc8.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 15:30 WIB PERSIK Kediri vs PERSITA - BRI Super League
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiM3lQeEcxS2tnS0I5b0xlOGh4MlRvYTZkbnFpMU14U2pvdzZVZlwvTUpFbUV5SUUzdCtES3RTR2RnckFKeFJ4OGRYNEJsY1FsZitwMytMc3VWdXJuQUtySWlTcVVYcTdBRm1RazVDWGI2VU52REtVNnh5YkVKVERtT3pBd0V0R3VyK0dkOU52azRpeHUwNmN5b3hWM25ob3JCNGZsemxLU1JPMFJzSUI1bWFmR3FjdHl1bjZjU25GZEJnem1YZEs4eDliNTBoSXB6UExoRjFiMFg5dmZkVFwvRUFDK0hXUSt0bWZHcGM3a0s3Kzh3PSJ9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tKlDS5i4LL4ToJeoR3mafmucXI8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015576/613260.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 15:22 WIB Deltras FC vs Kendal Tornado FC - Pegadaian Championship
 https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiekErTFZTeU94YjIxY01WbytvMzF5dUF3SXNJTDdMenNoc0tQVUtlTFJkOGpmbkVuRVRrUEFwTlFNZXZhNnBnd0p0OGd2OWhFZUFBMWxKU0RrZWF2cHhNQ1k1eTVmMzhDM2E0SlB0aUQrSU9xYTZRRjk2MHBidHBvbk1seXdSNkNEeEU0dElVMm9ab1QzdTRLXC9MbzZWVTZMRG9wSUhIOWJ3NWhFbW91cEpFa1pubEZJWE5GMkhzZmVGMXlnV1U0QkRwNVlWcWppUEg3MGhSYzhYaWE5RVFvRHhIdWh1STlcL0NcLzE3QjNBb1ZRST0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xXBv8lhxIZIlYczi6fk30E2tuYw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21188/nex-road-to-champion-c69eb3.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 15:00 WIB NEX Road To Champion
 https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRmZvQVA2Z3pxZFdja1VzTFRCMXh1eWpra3Q3RnpPb0xBT2RPWjFOXC9SS2pLOTBFaG1XcFRzYUNZemdkb3hTUllWTGZIdnVUS2dZdWJnU0RxQW1HYVZ4T1psNHFzcE1lZUJ6VEFsSHBnd2lsbXBBYUd0ZFl4OWhiT3RudndWaUxWb0N6eWx2K2psdXBjcmtkS0Ftb1hYbWE3Qm1Vd3Z2MDUzUVVjRExiV1RHV1wvUndaTm9oNTNvejhyRjRSb1U2c3UrczlhQzA3VHk2cU5rNlU1N1ZVZEFpSVF3Q0ZMajRwRUtBTUc2QnRYa2o4PSJ9
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/d7Kgb7nnIs38dtEve6RE7rzp7S8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20921/byon-combat-showbiz-vol-7-1c8741.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 14:30 WIB Jai JMT vs Fatkur Rozi - UCC Kickstriking Bout - BYON Combat Showbiz Vol.7
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiTm81bXgzN3pYS0J5U0RJdUdqdVJcLzZ5VnJoc3QwdGszQnQ2TUVUZzdnbDBTU3ZscVh6clZVZ21WOWJxWUcxZHI1QUFQQkZzR1FqUWo1T1pVcDJ4SWpJOW1UZWZ4K21WQzVTVGs2V1FGVFRaZVNiSmJBN0NqU2E2YmcyR0NTb0VvXC8yNmRZeFM5YjhwUWpVYk83SEUwQTdoNWZneXlIamtqTnY0bTZlWUZRV1VTRjNLVUlDb2JMVEd2UXB5QWJZK2RcL2xIanVaZmR4eTFYbjl0T0FMNVlmdjNOY01VN3Y3RXZoZ2lGMjVTNU91cz0ifQ==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/J_Xr4UnBVcAdcfrXNpTN0BmLEVI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20922/byon-combat-showbiz-vol-7-92dd89.jpg" group-title="🔔JADWAL LIVE (UPCOMING)", 14:30 WIB Jai JMT vs Fatkur Rozi - UCC Kickstriking Bout - BYON Combat Showbiz Vol.7
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiUmlKU1N0MzcrVzd0eDYwa1Urbnd3NVwvMlwvV1pKcm0zWlFoXC9EdW9NVDkyRzdzNUduMGFtOXJJNlVKbHhwN1JmNzB2a1FNRVZYRjRoV1ltZGFvRytWZlpxQXJLejJkZU95blhLYVY4dEk1Y1d4clM5R1I1aFRoSDVUQTRlK3orbStqaDdyVmpXXC92VHVUVUg0dXlpOE01WGRUXC9pTndwTFpFeUZDSWllZjVWYlFTMktacWtSN1FXM3BPTTZuQkxRRVUxSGZiaFFhUnhLS2oxODA3bUNsdnlDd3ZsMjJDSURtREw4ZGdqdTBWN0JBPSJ9
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",Center Court - BMW Open
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 https://livecdn.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=6a8e8929e5a2e413532f299c5a51da3914d8edfa&verify=1776510960-ewXhNO5fYNz9N9BayfgeZnp7viPTtPhL2kHIYQ8JQM8%3D|Referer=https://iframe.lucifershop.info/
@@ -1356,11 +1372,11 @@ https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20240.drm?dev_kaki_09&t=1776522587&uip=103.30.147.120&h=806284ea0a93b175114fbcb01912668662f193ded492de5171b8dfe33e9a90fa
+#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20240.drm?dev_kaki_09&t=1776522659&uip=103.30.147.120&h=c3aab2ce00933a64a8bbd9903b69caaeca89c6f580aad69b049c930124f08d5e
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
-https://vid-zero-gelang.disini.workers.dev/20240.mpd?dev_kaki_09&t=1776522587&uip=103.30.147.120&h=806284ea0a93b175114fbcb01912668662f193ded492de5171b8dfe33e9a90fa
+https://vid-zero-gelang.disini.workers.dev/20240.mpd?dev_kaki_09&t=1776522659&uip=103.30.147.120&h=c3aab2ce00933a64a8bbd9903b69caaeca89c6f580aad69b049c930124f08d5e
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WKn-RhvbzZJf-AO8Vgp_l8qb-t4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015566/2ecbcb.jpg" group-title="LIVE EVENT NOW | VOLI", 15:20 WIB Final Four Putra: Surabaya Samator vs Jakarta Garuda Jaya - Proliga
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1464,11 +1480,11 @@ https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20240.drm?dev_kaki_09&t=1776522587&uip=103.30.147.120&h=806284ea0a93b175114fbcb01912668662f193ded492de5171b8dfe33e9a90fa
+#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/20240.drm?dev_kaki_09&t=1776522659&uip=103.30.147.120&h=c3aab2ce00933a64a8bbd9903b69caaeca89c6f580aad69b049c930124f08d5e
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
-https://vid-zero-gelang.disini.workers.dev/20240.mpd?dev_kaki_09&t=1776522587&uip=103.30.147.120&h=806284ea0a93b175114fbcb01912668662f193ded492de5171b8dfe33e9a90fa
+https://vid-zero-gelang.disini.workers.dev/20240.mpd?dev_kaki_09&t=1776522659&uip=103.30.147.120&h=c3aab2ce00933a64a8bbd9903b69caaeca89c6f580aad69b049c930124f08d5e
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WKn-RhvbzZJf-AO8Vgp_l8qb-t4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015566/2ecbcb.jpg" group-title="BWF BADMINTON & VOLLEYBALL", 15:20 WIB Final Four Putra: Surabaya Samator vs Jakarta Garuda Jaya - Proliga
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1485,16 +1501,6 @@ https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; tv-android Build/Vidio) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 tv-android/2.55.8
 #EXTVLCOPT:network-caching=1000
 https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiMnlEc3ZXWkRrNkdQUjNSZ29RQmtOZXpiZUszd3JyTjZNWEFQT3VYdmVMOG5ZWXMxbEl5QjRqWnNSXC9kYXVLd1FSM0FSS1VvTnlwbTZEN1JvK3FXVTFCNHdOMDJxMEZyNVdhU3pPbVp3cFk0OTIzMk9mQjFFMlpRZ05tNCt5ek5zVDA4SE00bE5JVXBZS2tNRFFqcUd1ckpQeThcL3NsaWdlZHdvSHJFc1lSaDM5OWJFQ2dWODJHcTNoczdZcGdVR2FSUnpcL0VVSlVCOXI4V3BiNUhzbEgxYmdNOVEwMzkrQU5qUlwvTW82cXhQMFk9In0=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MZw7i7krSJyTXcfURQwnbtOAT_U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015580/c54fc8.jpg" group-title="BRI SUPER LEAGUE", 15:30 WIB PERSIK Kediri vs PERSITA - BRI Super League
-https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiM3lQeEcxS2tnS0I5b0xlOGh4MlRvYTZkbnFpMU14U2pvdzZVZlwvTUpFbUV5SUUzdCtES3RTR2RnckFKeFJ4OGRYNEJsY1FsZitwMytMc3VWdXJuQUtySWlTcVVYcTdBRm1RazVDWGI2VU52REtVNnh5YkVKVERtT3pBd0V0R3VyK0dkOU52azRpeHUwNmN5b3hWM25ob3JCNGZsemxLU1JPMFJzSUI1bWFmR3FjdHl1bjZjU25GZEJnem1YZEs4eDliNTBoSXB6UExoRjFiMFg5dmZkVFwvRUFDK0hXUSt0bWZHcGM3a0s3Kzh3PSJ9
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Persik Kediri vs Persita [BLV MOUNTAIN DEW]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Persik Kediri vs Persita [BLV MOUNTAIN DEW]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Semen Padang vs Persijap Jepara [BLV Cozy]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Semen Padang vs Persijap Jepara [BLV Cozy]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gt-VgvdCbY-MO1lMENhS4AWww6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015563/e70c72.jpg" group-title="BRI SUPER LEAGUE",16:52 WIB 18/04/26 Persipura Jayapura vs PSIS Semarang - Pegadaian Championship (INTI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1522,11 +1528,11 @@ https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/19584.drm?dev_kaki_09&t=1776522587&uip=103.30.147.120&h=478fe4cd6bfbdfe1a220db3bedd28fa172225a5471b54624b33c3c1426a89650
+#KODIPROP:inputstream.adaptive.license_key=https://vid-zero-gelang.disini.workers.dev/19584.drm?dev_kaki_09&t=1776522659&uip=103.30.147.120&h=637bf6eb4501b513f9f0d165ebc98523f7c63f43ed2066723edad3aedca3ba13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
-https://vid-zero-gelang.disini.workers.dev/19584.mpd?dev_kaki_09&t=1776522587&uip=103.30.147.120&h=478fe4cd6bfbdfe1a220db3bedd28fa172225a5471b54624b33c3c1426a89650
+https://vid-zero-gelang.disini.workers.dev/19584.mpd?dev_kaki_09&t=1776522659&uip=103.30.147.120&h=637bf6eb4501b513f9f0d165ebc98523f7c63f43ed2066723edad3aedca3ba13
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Gt-VgvdCbY-MO1lMENhS4AWww6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015563/e70c72.jpg" group-title="BRI SUPER LEAGUE", 16:52 WIB Persipura Jayapura vs PSIS Semarang - Pegadaian Championship
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1544,9 +1550,10 @@ https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA
 #EXTVLCOPT:network-caching=1000
 https://aspaltvpasti.top/pot/cantik./play.mpd?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiemx2NFZrTEpTR1I2eW9SNzErRFpudmQwMU1XVWwrekxVb0ZSaXNpXC8zeGRiM1wvTFZSZmN3QmtxWWEwXC9mVzQrOXB2TEZ2UmhhUU5PMGRNK3JsaEVTVnh3dE1EVVwvQUdiY2VYMlFLeTc1UUFyQndMNGlsUFRJMVZWUFU0ZGZ4czBJXC8ybGNQaFd3U01ZSlwvS2pHbm9UbXVEVGY3aFRHWnN2Wjg0dnRuc1lwNHkrRUllS1BzOWk4ZHJYTjFHeE8zSnZYTkZ5aUwrSUNCNTNReElweldBcjBiM2paMGdzMm1sNXlCZWhQdG9taXBOOD0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5ZjZmQlNJvnRdZtjHFMGKspFw5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015522/acc6e1.jpg" group-title="BRI SUPER LEAGUE",18:30 WIB 18/04/26 Jelang Kick Off - PSBS Biak vs PERSIJA - BRI Super League
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiRWRVaE5SWWp5cVptQUZDY2VzNmJZUStXalVJMkdQVWl0V3V3TVQ0Q1V4WXFHZW8xeWdaS0NWRFVkRmV1ZXJQdXVNVWtCNFFYNkZIaFlvTEtXbFNEMTZqWStiU3k1ZG5xS2xnRGI1dWo4UURrT2FDckY0cEo2VkF4TExvVUJUOTZkVTQ0VFh1aVwvTVV0anRBbHpxb2ZxeFhIRTgrM3hUdnBcLzJcL2d6V1Byb2g4bFBCY2lOekFrb21SVEx6SFwvVHlkR2pyMFV2dGVpU1ArN3pnT0RhUGhEMWdkZHFDTnFCWlduV21XVDlrdmJZZTA9In0=
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5ZjZmQlNJvnRdZtjHFMGKspFw5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015522/acc6e1.jpg" group-title="BRI SUPER LEAGUE", 18:30 WIB Jelang Kick Off - PSBS Biak vs PERSIJA - BRI Super League
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoidXpTaE9GSnpPN2RJUTdEWHBCYmJPN29xVUp4SXE4MThtYkIydkIybm0rbExrbDY3UDZ0VDZnUXd3dUxXOUlrcTlvRzVjb2YrdmZOdDByY0M4U05VaitcL0ZoNTU0YVpqUTNQVVMzc1hQOTExS0tTZ3NaTWQxeU8ydTZmT0psM2JRMGlDb056SzVkM2hVTFV5NmgzbEpOXC9ienBDY1pSXC9ZQzg0emowZ3I3QjJRN1lMS0NQdkN6TGhxVkZ6MnZMb1JmejZGU2pSV1BVUlZqQVZtNnM0R1lTZjBpUHlQNUZpdXVHOSs0a0dzNWhHOD0ifQ==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LESeL8lxadBBBNXqMwSEEEgCE18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015521/2784b8.jpg" group-title="BRI SUPER LEAGUE",18:34 WIB 18/04/26 PSBS Biak vs PERSIJA - BRI Super League
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LESeL8lxadBBBNXqMwSEEEgCE18=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015521/2784b8.jpg" group-title="BRI SUPER LEAGUE", 18:34 WIB PSBS Biak vs PERSIJA - BRI Super League
@@ -1566,6 +1573,16 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wGGvrooN4gXE8xjpdBNwCrPXzG4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015679/32dcf0.jpg" group-title="BRI SUPER LEAGUE", 18:52 WIB Bali United FC vs Malut United FC - BRI Super League
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0E6G2X2FXMoqdGIAJWov2MnaedY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015579/0d9312.jpg" group-title="BRI SUPER LEAGUE", 20:22 WIB Persiraja Banda Aceh vs Garudayaksa FC - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MZw7i7krSJyTXcfURQwnbtOAT_U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015580/c54fc8.jpg" group-title="BRI SUPER LEAGUE", 15:30 WIB PERSIK Kediri vs PERSITA - BRI Super League
+https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiM3lQeEcxS2tnS0I5b0xlOGh4MlRvYTZkbnFpMU14U2pvdzZVZlwvTUpFbUV5SUUzdCtES3RTR2RnckFKeFJ4OGRYNEJsY1FsZitwMytMc3VWdXJuQUtySWlTcVVYcTdBRm1RazVDWGI2VU52REtVNnh5YkVKVERtT3pBd0V0R3VyK0dkOU52azRpeHUwNmN5b3hWM25ob3JCNGZsemxLU1JPMFJzSUI1bWFmR3FjdHl1bjZjU25GZEJnem1YZEs4eDliNTBoSXB6UExoRjFiMFg5dmZkVFwvRUFDK0hXUSt0bWZHcGM3a0s3Kzh3PSJ9
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Persik Kediri vs Persita [BLV MOUNTAIN DEW]
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Persik Kediri vs Persita [BLV MOUNTAIN DEW]
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Semen Padang vs Persijap Jepara [BLV Cozy]
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Semen Padang vs Persijap Jepara [BLV Cozy]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tKlDS5i4LL4ToJeoR3mafmucXI8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5015576/613260.jpg" group-title="BRI SUPER LEAGUE", 15:22 WIB Deltras FC vs Kendal Tornado FC - Pegadaian Championship
 https://aspaltvpasti.top/pot/cantik./play.ts?BACA_INI=KAMU_MAU_NGAPAIN_HA_HA_HA_MALINGYA_KASIHAN&ch=eyJwYXlsb2FkIjoiekErTFZTeU94YjIxY01WbytvMzF5dUF3SXNJTDdMenNoc0tQVUtlTFJkOGpmbkVuRVRrUEFwTlFNZXZhNnBnd0p0OGd2OWhFZUFBMWxKU0RrZWF2cHhNQ1k1eTVmMzhDM2E0SlB0aUQrSU9xYTZRRjk2MHBidHBvbk1seXdSNkNEeEU0dElVMm9ab1QzdTRLXC9MbzZWVTZMRG9wSUhIOWJ3NWhFbW91cEpFa1pubEZJWE5GMkhzZmVGMXlnV1U0QkRwNVlWcWppUEg3MGhSYzhYaWE5RVFvRHhIdWh1STlcL0NcLzE3QjNBb1ZRST0ifQ==
@@ -2174,10 +2191,6 @@ https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.25/hls/UUUU.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (15:30 WIB) Persik Kediri vs Persita [BLV MOUNTAIN DEW]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (15:30 WIB) Semen Padang vs Persijap Jepara [BLV Cozy]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7238b4b0d6c0b9514b00455e7a021221.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (16:00 WIB) Al-Shabab vs Al Kuwait [BLV C2]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (16:40 WIB) Sydney FC vs Perth Glory [BLV DR THANH]
@@ -2218,11 +2231,20 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/99dd3ac7267c0e3870d9ad785e6f9661.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:00 WIB) Thanh pho Ho Chi Minh vs Cong An Ha Noi FC [BLV ROCKSTAR]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (18:30 WIB) Brentford vs Fulham [BLV OLONG]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/97312754.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (18:30 WIB) Brentford vs Fulham [BLV COCA]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/24561735.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (18:30 WIB) Brentford vs Fulham [BLV PEPSI]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/43612277.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4533ab7ef9ad5e53c981f7ea7bea7033.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:30 WIB) FC Schalke 04 vs Preuben Munster [BLV MONSTER]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a17724405028a3e21a2a2372736aa757.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:30 WIB) Lion City vs Young Lions [BLV COCA]
@@ -2448,6 +2470,10 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cbdc592f8869a8b84ef211918d2360d3.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (14:00 WIB) Xiamen Chengyi vs Shenzhen 2028 [BLV GIA LANG]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6f05c460789939ac83282bd0686446f1.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (14:30 WIB) Pohang Steelers vs FC Anyang [BLV STING]
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c80d70c62b8f67dd121a1be0d574bfd5.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (15:30 WIB) Persik Kediri vs Persita [BLV MOUNTAIN DEW]
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (15:30 WIB) Semen Padang vs Persijap Jepara [BLV Cozy]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="BRI SUPER LEAGUE",Arema FC vs Persis Solo (1)
 #EXTVLCOPT:http-origin=https://may01bp.2f17ubowlsjn46easier.cfd
@@ -4326,234 +4352,6 @@ https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=d971557576b2d7bc6240db
 https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=3bc6776cfea3a9bd593675357ff07a73&wsABSTime=1776555036
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/z8yomo4ho9yq0j6/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - FC VORSKLA POLTAVA VS PRYKARPATTYA IVANO [UKR D2]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Premier League] Brentford vs Fulham [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://a.yilfdvfdsv.shop/hls/FRFRFRQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Premier League] Brentford vs Fulham     ENG HD
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://ml-pull-hwc.myco.io/EPLBONGO1/hls/EPLBONGO1_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Premier League] Brentford vs Fulham [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://a.xazdarer.shop/hls/FRFRFRQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Thailand Thai league 1] Muang Thong Utd vs Nakhon Ratchasima FC [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukurvf.shop/hls/ZYYY.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Premier League] Brentford vs Fulham [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://a.uliyyrer.shop/hls/FRFRFRQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Swindon vs Accrington [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfvsere.shop/hls/GYYYQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Thailand Thai league 1] Muang Thong Utd vs Nakhon Ratchasima FC [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgetjykyt.shop/hls/ZYYY.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Derby County vs Oxford Utd [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfvsere.shop/hls/FRFRFR.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Bolton vs Huddersfield [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zekll.shop/hls/GYYYQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Swindon vs Accrington [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zetiyuiyu.shop/hls/GYYYQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Thailand Thai league 1] Muang Thong Utd vs Nakhon Ratchasima FC [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukluktrv.shop/hls/ZYYY.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Barnsley vs Bradford City [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zetiyuiyu.shop/hls/GYYYQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Barnsley vs Bradford City [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfvsere.shop/hls/GYYYQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Millwall vs QPR [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zetiyuiyu.shop/hls/FRFRFRQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Bolton vs Huddersfield [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfvsere.shop/hls/GYYYQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Portsmouth vs Leicester City [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfvsere.shop/hls/FRFRFRQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Millwall vs QPR [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zekll.shop/hls/FRFRFRQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Portsmouth vs Leicester City [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfuiuiu.shop/hls/FRFRFRQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Portsmouth vs Leicester City [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zetiyuiyu.shop/hls/FRFRFRQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Portsmouth vs Leicester City [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zekll.shop/hls/FRFRFRQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Bolton vs Huddersfield [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zetiyuiyu.shop/hls/GYYYQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Millwall vs QPR [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfuiuiu.shop/hls/FRFRFRQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Bolton vs Huddersfield [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfuiuiu.shop/hls/GYYYQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Millwall vs QPR [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfvsere.shop/hls/FRFRFRQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Barnsley vs Bradford City [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zekll.shop/hls/GYYYQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Derby County vs Oxford Utd [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zekll.shop/hls/FRFRFR.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Barnsley vs Bradford City [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfuiuiu.shop/hls/GYYYQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Derby County vs Oxford Utd [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zetiyuiyu.shop/hls/FRFRFR.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Swindon vs Accrington [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zekll.shop/hls/GYYYQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Derby County vs Oxford Utd [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfuiuiu.shop/hls/FRFRFR.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Swindon vs Accrington [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfuiuiu.shop/hls/GYYYQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Barrow vs Walsall [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zekll.shop/hls/GYYYQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2017073422669639680/yxbaVndB_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [India ISL] Kerala Blasters vs Jamshedpur [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukurvf.shop/hls/ZYYYQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Russia Premier League] Krylya Sovetov vs CSKA Moscow [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukurvf.shop/hls/ZYYYQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Barrow vs Walsall [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zetiyuiyu.shop/hls/GYYYQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Russia Premier League] Krylya Sovetov vs CSKA Moscow [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukluktrv.shop/hls/ZYYYQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2017073422669639680/yxbaVndB_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [India ISL] Kerala Blasters vs Jamshedpur [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukluktrv.shop/hls/ZYYYQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Thailand Thai league 1] Muang Thong Utd vs Nakhon Ratchasima FC [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgdyoqa.shop/hls/ZYYY.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Romania Superliga] Csikszereda M Ciuc vs Unirea Slobozia [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukluktrv.shop/hls/ZYYYQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2017073422669639680/yxbaVndB_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [India ISL] Kerala Blasters vs Jamshedpur [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgdyoqa.shop/hls/ZYYYQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Scottish Cup] Dunfermline vs Falkirk [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfvsere.shop/hls/GYYY.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Turkey Super Lig] Karagumruk vs Eyupspor [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgdyoqa.shop/hls/ZYYYQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Scottish Cup] Dunfermline vs Falkirk [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zetiyuiyu.shop/hls/GYYY.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Scottish Cup] Dunfermline vs Falkirk [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfuiuiu.shop/hls/GYYY.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Scottish Cup] Dunfermline vs Falkirk [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zekll.shop/hls/GYYY.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Barrow vs Walsall [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfvsere.shop/hls/GYYYQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Barrow vs Walsall [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://s.zfuiuiu.shop/hls/GYYYQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Romania Superliga] Csikszereda M Ciuc vs Unirea Slobozia [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgdyoqa.shop/hls/ZYYYQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Turkey Super Lig] Karagumruk vs Eyupspor [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgetjykyt.shop/hls/ZYYYQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Romania Superliga] Csikszereda M Ciuc vs Unirea Slobozia [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgetjykyt.shop/hls/ZYYYQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Turkey Super Lig] Karagumruk vs Eyupspor [M3]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukluktrv.shop/hls/ZYYYQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Romania Superliga] Csikszereda M Ciuc vs Unirea Slobozia [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukurvf.shop/hls/ZYYYQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Turkey Super Lig] Karagumruk vs Eyupspor [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukurvf.shop/hls/ZYYYQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2017073422669639680/yxbaVndB_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [India ISL] Kerala Blasters vs Jamshedpur [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgetjykyt.shop/hls/ZYYYQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Russia Premier League] Krylya Sovetov vs CSKA Moscow [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgdyoqa.shop/hls/ZYYYQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Premier League] Brentford vs Fulham [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://a.vzcecza.shop/hls/FRFRFRQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Russia Premier League] Krylya Sovetov vs CSKA Moscow [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgetjykyt.shop/hls/ZYYYQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1845772290597834760/5IXMkq0j_400x400.png" group-title="LIVE EVENT FAWANEWS",18:45 WIB | [United Rugby Championship] Stormers vs Connacht [M3]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -4570,46 +4368,274 @@ https://s.zekll.shop/hls/FRFRFRQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://s.zetiyuiyu.shop/hls/FRFRFRQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [China Super League] Dalian Yingbo vs Henan Songshan Longmen [M2]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Thailand Thai league 1] Muang Thong Utd vs Nakhon Ratchasima FC [M4]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgetjykyt.shop/hls/OOOOQQQQ.m3u8
+https://z.ukurvf.shop/hls/ZYYY.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2017073422669639680/yxbaVndB_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [India ISL] Kerala Blasters vs Jamshedpur [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.ukurvf.shop/hls/ZYYYQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Romania Superliga] Csikszereda M Ciuc vs Unirea Slobozia [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.ukurvf.shop/hls/ZYYYQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Russia Premier League] Krylya Sovetov vs CSKA Moscow [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.ukurvf.shop/hls/ZYYYQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Turkey Super Lig] Karagumruk vs Eyupspor [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.ukurvf.shop/hls/ZYYYQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Scottish Cup] Dunfermline vs Falkirk [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfvsere.shop/hls/GYYY.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Barrow vs Walsall [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfvsere.shop/hls/GYYYQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Premier League] Brentford vs Fulham     ENG HD
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://ml-pull-hwc.myco.io/EPLBONGO1/hls/EPLBONGO1_H264-720p.m3u8?pkg_media=video&pkg_hm=index.m3u8&pkg_svc=1&pkg_vcodec=avc1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Premier League] Brentford vs Fulham [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://a.yilfdvfdsv.shop/hls/FRFRFRQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Premier League] Brentford vs Fulham [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://a.xazdarer.shop/hls/FRFRFRQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Swindon vs Accrington [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfvsere.shop/hls/GYYYQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Portsmouth vs Leicester City [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zekll.shop/hls/FRFRFRQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Barrow vs Walsall [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zetiyuiyu.shop/hls/GYYYQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Portsmouth vs Leicester City [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zetiyuiyu.shop/hls/FRFRFRQQ.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Scottish Cup] Dunfermline vs Falkirk [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zetiyuiyu.shop/hls/GYYY.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Portsmouth vs Leicester City [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfuiuiu.shop/hls/FRFRFRQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Turkey Super Lig] Karagumruk vs Eyupspor [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zgetjykyt.shop/hls/ZYYYQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Portsmouth vs Leicester City [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfvsere.shop/hls/FRFRFRQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Russia Premier League] Krylya Sovetov vs CSKA Moscow [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zgetjykyt.shop/hls/ZYYYQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Millwall vs QPR [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zekll.shop/hls/FRFRFRQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Romania Superliga] Csikszereda M Ciuc vs Unirea Slobozia [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zgetjykyt.shop/hls/ZYYYQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Millwall vs QPR [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zetiyuiyu.shop/hls/FRFRFRQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2017073422669639680/yxbaVndB_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [India ISL] Kerala Blasters vs Jamshedpur [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zgetjykyt.shop/hls/ZYYYQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Millwall vs QPR [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfuiuiu.shop/hls/FRFRFRQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Thailand Thai league 1] Muang Thong Utd vs Nakhon Ratchasima FC [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zgetjykyt.shop/hls/ZYYY.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Millwall vs QPR [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfvsere.shop/hls/FRFRFRQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Swindon vs Accrington [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfuiuiu.shop/hls/GYYYQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Derby County vs Oxford Utd [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zekll.shop/hls/FRFRFR.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Barrow vs Walsall [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zekll.shop/hls/GYYYQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Derby County vs Oxford Utd [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zetiyuiyu.shop/hls/FRFRFR.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Barrow vs Walsall [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfuiuiu.shop/hls/GYYYQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Derby County vs Oxford Utd [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfuiuiu.shop/hls/FRFRFR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Scottish Cup] Dunfermline vs Falkirk [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zekll.shop/hls/GYYY.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/761654540122882048/NpZeuzeX_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Championship] Derby County vs Oxford Utd [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfvsere.shop/hls/FRFRFR.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/Scottish_Premiership.png" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Scottish Cup] Dunfermline vs Falkirk [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfuiuiu.shop/hls/GYYY.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Bolton vs Huddersfield [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zekll.shop/hls/GYYYQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Turkey Super Lig] Karagumruk vs Eyupspor [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zgdyoqa.shop/hls/ZYYYQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Bolton vs Huddersfield [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zetiyuiyu.shop/hls/GYYYQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1838828164295864320/wNv3wpY7_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Turkey Super Lig] Karagumruk vs Eyupspor [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.ukluktrv.shop/hls/ZYYYQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Bolton vs Huddersfield [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfuiuiu.shop/hls/GYYYQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Russia Premier League] Krylya Sovetov vs CSKA Moscow [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zgdyoqa.shop/hls/ZYYYQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Bolton vs Huddersfield [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfvsere.shop/hls/GYYYQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Russia Premier League] Krylya Sovetov vs CSKA Moscow [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.ukluktrv.shop/hls/ZYYYQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Barnsley vs Bradford City [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zekll.shop/hls/GYYYQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Romania Superliga] Csikszereda M Ciuc vs Unirea Slobozia [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zgdyoqa.shop/hls/ZYYYQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Barnsley vs Bradford City [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zetiyuiyu.shop/hls/GYYYQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445121142465998848/ghGZsBoQ_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Romania Superliga] Csikszereda M Ciuc vs Unirea Slobozia [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.ukluktrv.shop/hls/ZYYYQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Barnsley vs Bradford City [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfuiuiu.shop/hls/GYYYQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2017073422669639680/yxbaVndB_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [India ISL] Kerala Blasters vs Jamshedpur [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zgdyoqa.shop/hls/ZYYYQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295273879250898944/_MoXV6vg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League One] Barnsley vs Bradford City [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zfvsere.shop/hls/GYYYQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2017073422669639680/yxbaVndB_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [India ISL] Kerala Blasters vs Jamshedpur [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.ukluktrv.shop/hls/ZYYYQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Swindon vs Accrington [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zekll.shop/hls/GYYYQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Thailand Thai league 1] Muang Thong Utd vs Nakhon Ratchasima FC [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zgdyoqa.shop/hls/ZYYY.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1295274034565914626/ywpyq8r6_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English League Two] Swindon vs Accrington [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://s.zetiyuiyu.shop/hls/GYYYQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Premier League] Brentford vs Fulham [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://a.vzcecza.shop/hls/FRFRFRQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [Thailand Thai league 1] Muang Thong Utd vs Nakhon Ratchasima FC [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.ukluktrv.shop/hls/ZYYY.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:30 WIB | [English Premier League] Brentford vs Fulham [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://a.uliyyrer.shop/hls/FRFRFRQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Finland Veikkausliiga] Gnistan vs HJK [M4]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.ukurvf.shop/hls/OOOOQQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [China Super League] Dalian Yingbo vs Henan Songshan Longmen [M2]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.zgetjykyt.shop/hls/OOOOQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Denmark Division 1] Lyngby vs Hvidovre IF [M4]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.ukurvf.shop/hls/OOOO.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1899023717914583041/rxluldzO_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Finland Veikkausliiga] Gnistan vs HJK [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.zgetjykyt.shop/hls/OOOOQQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Darts] Darts European Tour 5 [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgdyoqa.shop/hls/RKKKQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Thailand Thai league 1] Bangkok Utd vs Ratchaburi [M4]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukurvf.shop/hls/OOOOQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Thailand Thai league 1] Prachuap vs Chonburi [M4]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.ukurvf.shop/hls/OOOOQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Asian Cup Women U20] Japan U20 W vs North Korea U20 W [M4]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689831056286076928/-JjHD3yu_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Thailand Thai league 1] Bangkok Utd vs Ratchaburi [M4]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukurvf.shop/hls/OOOOQQQ.m3u8
+https://z.ukurvf.shop/hls/OOOOQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Sweden Superettan] Varberg vs Nordic United [M4]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.ukurvf.shop/hls/RKKKQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Sweden Superettan] Varberg vs Nordic United [M3]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Asian Cup Women U20] Japan U20 W vs North Korea U20 W [M4]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukluktrv.shop/hls/RKKKQQQ.m3u8
+https://z.ukurvf.shop/hls/OOOOQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Sweden Superettan] Varberg vs Nordic United [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.zgetjykyt.shop/hls/RKKKQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Sweden Superettan] Varberg vs Nordic United [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://z.ukluktrv.shop/hls/RKKKQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1266348101394202624/dWVpwG1u_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Sweden Superettan] Varberg vs Nordic United [M1]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -4678,10 +4704,10 @@ https://z.ukluktrv.shop/hls/OOOOQQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.ukluktrv.shop/hls/UTTTQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [China Super League] Dalian Yingbo vs Henan Songshan Longmen [M1]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Darts] Darts European Tour 5 [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgdyoqa.shop/hls/OOOOQQQQ.m3u8
+https://z.zgetjykyt.shop/hls/RKKKQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/880436063424131074/ECth5ahp_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [German 2 Bundesliga] SG Dynamo Dresden vs Bochum [M4]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -4754,14 +4780,14 @@ https://z.ukurvf.shop/hls/UTTT.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 https://z.ukluktrv.shop/hls/OOOO.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1808057601546244096/kHzIvk1f_200x200.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Denmark Division 1] Lyngby vs Hvidovre IF [M4]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [China Super League] Dalian Yingbo vs Henan Songshan Longmen [M1]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.ukurvf.shop/hls/OOOO.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Darts] Darts European Tour 5 [M2]
+https://z.zgdyoqa.shop/hls/OOOOQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1945520203653165057/BRp76d7W_400x400.jpg" group-title="LIVE EVENT FAWANEWS",18:00 WIB | [Darts] Darts European Tour 5 [M1]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://z.zgetjykyt.shop/hls/RKKKQQQQ.m3u8
+https://z.zgdyoqa.shop/hls/RKKKQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1577968897441120257/Bywq3Bso_400x400.jpg" group-title="LIVE EVENT FAWANEWS",17:30 WIB | [Turkey Lig 1] Hatayspor vs Sakaryaspor
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -4798,14 +4824,6 @@ http://195.178.110.50/hls/BNNNNX.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.50/hls/BNNNN.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:30 WIB | [World Rally] World Rally Championship Sierra Morena     HD
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483055679443251202/_C4WKaR8_400x400.jpg" group-title="LIVE EVENT FAWANEWS",14:30 WIB | [World Rally] World Rally Championship Sierra Morena     CH 1
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.25/hls/UUUU.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (18:30 WIB) Brentford vs Fulham [BLV OLONG]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
