@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.16 WIB 19/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.24 WIB 19/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="pxwrxlhyl99eryk" tvg-name="Atletico Madrid vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad",[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad (Giàng A Kê)
-https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="pxwrxlhyl99eryk" tvg-name="Atletico Madrid vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad",[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad (Giàng A Kê)
-https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="pxwrxlhyl99eryk" tvg-name="Atletico Madrid vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad",[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="pxwrxlhyl99eryk" tvg-name="Atletico Madrid vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad",[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad (HOÀNG CÁI)
 https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="pxwrxlhyl99eryk" tvg-name="Atletico Madrid vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad",[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad (Giàng A Kê)
+https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="pxwrxlhyl99eryk" tvg-name="Atletico Madrid vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad",[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad (Giàng A Kê)
+https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="pxwrxlhyl99eryk" tvg-name="Atletico Madrid vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad",[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="pxwrxlhyl99eryk" tvg-name="Atletico Madrid vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/7067abeb61660895f3ca0227675ef16f.png" group-title="[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad",[LIVE 02:00 WIB | 19/04/26] Atletico Madrid vs Real Sociedad (Giàng A Voi)
