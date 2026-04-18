@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.51 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [10.00 WIB 18/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="965mkyhkow12r1g" tvg-name="Vancouver Whitecaps vs Sporting Kansas City" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 09:40 WIB | 18/04/26] Vancouver Whitecaps vs Sporting Kansas City",[LIVE 09:40 WIB | 18/04/26] Vancouver Whitecaps vs Sporting Kansas City (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
