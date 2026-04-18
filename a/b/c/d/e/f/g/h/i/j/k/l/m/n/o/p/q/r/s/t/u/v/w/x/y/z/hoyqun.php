@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:16 WIB 18/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:16 WIB 18/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:25 WIB 18/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:25 WIB 18/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySfvtvJ3YC5sPd5_V9cxgY8I79hDeTZKHtQ&s" group-title="Premier League",[18:30 WIB 18/04/26] Brentford vs Fulham [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySfvtvJ3YC5sPd5_V9cxgY8I79hDeTZKHtQ&s" group-title="Premier League",[18:30 WIB 18/04/26] Brentford vs Fulham [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySfvtvJ3YC5sPd5_V9cxgY8I79hDeTZKHtQ&s" group-title="Premier League",[18:30 WIB 18/04/26] Brentford vs Fulham [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 18/04/26] Guangdong vs Fujian [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
@@ -101,13 +92,13 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySfvtvJ3YC5sPd5_V9cxgY8I79hDeTZKHtQ&s" group-title="Premier League",[21:00 WIB 18/04/26] Leeds vs Wolves [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySfvtvJ3YC5sPd5_V9cxgY8I79hDeTZKHtQ&s" group-title="Premier League",[21:00 WIB 18/04/26] Newcastle vs Bournemouth [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySfvtvJ3YC5sPd5_V9cxgY8I79hDeTZKHtQ&s" group-title="Premier League",[21:00 WIB 18/04/26] Newcastle vs Bournemouth [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySfvtvJ3YC5sPd5_V9cxgY8I79hDeTZKHtQ&s" group-title="Premier League",[21:00 WIB 18/04/26] Newcastle vs Bournemouth [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySfvtvJ3YC5sPd5_V9cxgY8I79hDeTZKHtQ&s" group-title="Premier League",[21:00 WIB 18/04/26] Newcastle vs Bournemouth [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySfvtvJ3YC5sPd5_V9cxgY8I79hDeTZKHtQ&s" group-title="Premier League",[21:00 WIB 18/04/26] Newcastle vs Bournemouth [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSySfvtvJ3YC5sPd5_V9cxgY8I79hDeTZKHtQ&s" group-title="Premier League",[21:00 WIB 18/04/26] Newcastle vs Bournemouth [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[22:00 WIB 18/04/26] Lorient vs Marseille [FHD] [NANTIKAN]
