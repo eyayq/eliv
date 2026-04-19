@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.12 WIB 19/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.20 WIB 19/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="6ypq3nhv76p6md7" tvg-name="Monterrey vs Pachuca" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LIVE 08:05 WIB | 19/04/26] Monterrey vs Pachuca",[LIVE 08:05 WIB | 19/04/26] Monterrey vs Pachuca (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
@@ -13,3 +13,7 @@ https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="23xmvkh6pvzgqg8" tvg-name="Club Deportivo Guadalajara vs Puebla" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LIVE 08:07 WIB | 19/04/26] Club Deportivo Guadalajara vs Puebla",[LIVE 08:07 WIB | 19/04/26] Club Deportivo Guadalajara vs Puebla (Giàng A Mèo)
 https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="k82rekhgn382rep" tvg-name="Auckland FC vs Central Coast Mariners" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 10:00 WIB | 39m | 19/04/26] Auckland FC vs Central Coast Mariners",[UPCO 10:00 WIB | 39m | 19/04/26] Auckland FC vs Central Coast Mariners (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="k82rekhgn382rep" tvg-name="Auckland FC vs Central Coast Mariners" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 10:00 WIB | 39m | 19/04/26] Auckland FC vs Central Coast Mariners",[UPCO 10:00 WIB | 39m | 19/04/26] Auckland FC vs Central Coast Mariners (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
