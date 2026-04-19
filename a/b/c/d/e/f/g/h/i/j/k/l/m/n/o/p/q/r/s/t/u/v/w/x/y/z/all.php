@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [18.30 WIB 19/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [18.38 WIB 19/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="6ypq3nhvvdo4md7" tvg-name="CLB Thanh Hoa vs Song Lam Nghe An" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 19/04/26] CLB Thanh Hoa vs Song Lam Nghe An",[LIVE 18:00 WIB | 19/04/26] CLB Thanh Hoa vs Song Lam Nghe An (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
@@ -17,6 +17,14 @@ https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="vjxm8gheeo6wr6o" tvg-name="Cong An Ho Chi Minh City vs Cong An Ha Noi FC" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 19/04/26] Cong An Ho Chi Minh City vs Cong An Ha Noi FC",[LIVE 18:00 WIB | 19/04/26] Cong An Ho Chi Minh City vs Cong An Ha Noi FC (Giàng A Hổ)
 https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="dj2ryohll32lq1z" tvg-name="Dempo vs Rajasthan United FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC",[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="dj2ryohll32lq1z" tvg-name="Dempo vs Rajasthan United FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC",[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="dj2ryohll32lq1z" tvg-name="Dempo vs Rajasthan United FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC",[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="dj2ryohll32lq1z" tvg-name="Dempo vs Rajasthan United FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC",[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="n54qllhn2ldwqvy" tvg-name="Cremonese vs Torino" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 19/04/26] Cremonese vs Torino",[LIVE 17:30 WIB | 19/04/26] Cremonese vs Torino (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="n54qllhn2ldwqvy" tvg-name="Cremonese vs Torino" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 19/04/26] Cremonese vs Torino",[LIVE 17:30 WIB | 19/04/26] Cremonese vs Torino (Giàng A Voi)
@@ -45,11 +53,3 @@ https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="dj2ryohly6yyq1z" tvg-name="Ipswich Town vs Middlesbrough" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 18:00 WIB | 19/04/26] Ipswich Town vs Middlesbrough",[LIVE 18:00 WIB | 19/04/26] Ipswich Town vs Middlesbrough (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="dj2ryohll32lq1z" tvg-name="Dempo vs Rajasthan United FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC",[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="dj2ryohll32lq1z" tvg-name="Dempo vs Rajasthan United FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC",[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="dj2ryohll32lq1z" tvg-name="Dempo vs Rajasthan United FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC",[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="dj2ryohll32lq1z" tvg-name="Dempo vs Rajasthan United FC" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC",[LIVE 17:30 WIB | 19/04/26] Dempo vs Rajasthan United FC (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
