@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.39 WIB 19/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.44 WIB 19/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="n54qllhn7epoqvy" tvg-name="Pohang Steelers vs FC Anyang" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang",[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="n54qllhn7epoqvy" tvg-name="Pohang Steelers vs FC Anyang" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang",[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="n54qllhn7epoqvy" tvg-name="Pohang Steelers vs FC Anyang" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang",[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="n54qllhn7epoqvy" tvg-name="Pohang Steelers vs FC Anyang" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang",[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="dj2ryohle403q1z" tvg-name="Nagoya Grampus vs Avispa Fukuoka" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 14:00 WIB | 19/04/26] Nagoya Grampus vs Avispa Fukuoka",[LIVE 14:00 WIB | 19/04/26] Nagoya Grampus vs Avispa Fukuoka (GIÀNG A BẨY )
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="dj2ryohle403q1z" tvg-name="Nagoya Grampus vs Avispa Fukuoka" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 14:00 WIB | 19/04/26] Nagoya Grampus vs Avispa Fukuoka",[LIVE 14:00 WIB | 19/04/26] Nagoya Grampus vs Avispa Fukuoka (GIÀNG A BẨY )
@@ -25,3 +17,15 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="l7oqdehg82k9r51" tvg-name="Gamba Osaka vs Fagiano Okayama" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 19/04/26] Gamba Osaka vs Fagiano Okayama",[LIVE 13:00 WIB | 19/04/26] Gamba Osaka vs Fagiano Okayama (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="n54qllhn7epoqvy" tvg-name="Pohang Steelers vs FC Anyang" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang",[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="n54qllhn7epoqvy" tvg-name="Pohang Steelers vs FC Anyang" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang",[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="n54qllhn7epoqvy" tvg-name="Pohang Steelers vs FC Anyang" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang",[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="n54qllhn7epoqvy" tvg-name="Pohang Steelers vs FC Anyang" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang",[LIVE 14:30 WIB | 19/04/26] Pohang Steelers vs FC Anyang (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="6ypq3nhvvdo4md7" tvg-name="CLB Thanh Hoa vs Song Lam Nghe An" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[UPCO 18:00 WIB | 3j 15m | 19/04/26] CLB Thanh Hoa vs Song Lam Nghe An",[UPCO 18:00 WIB | 3j 15m | 19/04/26] CLB Thanh Hoa vs Song Lam Nghe An (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="6ypq3nhvvdo4md7" tvg-name="CLB Thanh Hoa vs Song Lam Nghe An" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[UPCO 18:00 WIB | 3j 15m | 19/04/26] CLB Thanh Hoa vs Song Lam Nghe An",[UPCO 18:00 WIB | 3j 15m | 19/04/26] CLB Thanh Hoa vs Song Lam Nghe An (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
