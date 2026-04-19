@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [02:41 WIB 20/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:41 WIB 20/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [02:47 WIB 20/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:47 WIB 20/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 20/04/26] Juventus vs Bologna [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[01:45 WIB 20/04/26] Paris Saint Germain vs Lyon [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[02:00 WIB 20/04/26] Santos vs Fluminense [FHD] [LIVE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[02:00 WIB 20/04/26] Santos vs Fluminense [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[02:00 WIB 20/04/26] Santos vs Fluminense [HD] [LIVE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[02:00 WIB 20/04/26] Santos vs Fluminense [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[02:00 WIB 20/04/26] Santos vs Fluminense [SD] [LIVE]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[02:00 WIB 20/04/26] Santos vs Fluminense [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[02:00 WIB 20/04/26] Al Ahli Doha vs Al Hussein [FHD] [LIVE]
@@ -93,13 +93,13 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 20/04/26] Semen Padang vs Persijap [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 20/04/26] Semen Padang vs Persijap [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 20/04/26] Semen Padang vs Persijap [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/volleyball/competition/f1614c58f7f87caf9ef186e329be93de.png" group-title="Turkey Super Cup Women",[18:00 WIB 20/04/26] Galatasaray W - Aras Kargo W [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
