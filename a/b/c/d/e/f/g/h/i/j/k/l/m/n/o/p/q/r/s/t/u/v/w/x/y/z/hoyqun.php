@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [23:58 WIB 19/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:58 WIB 19/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [00:07 WIB 20/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:07 WIB 20/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[22:15 WIB 19/04/26] Metz vs Paris FC [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[22:15 WIB 19/04/26] Metz vs Paris FC [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[22:15 WIB 19/04/26] Metz vs Paris FC [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Trung Lập )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
@@ -83,13 +74,13 @@ https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[00:00 WIB 20/04/26] Boston Celtics vs Philadelphia 76ers [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[00:30 WIB 20/04/26] Borussia Mönchengladbach vs FSV Mainz 05 [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[00:30 WIB 20/04/26] Borussia Mönchengladbach vs FSV Mainz 05 [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[00:30 WIB 20/04/26] Borussia Mönchengladbach vs FSV Mainz 05 [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[00:30 WIB 20/04/26] Borussia Mönchengladbach vs FSV Mainz 05 [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[00:30 WIB 20/04/26] Borussia Mönchengladbach vs FSV Mainz 05 [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[00:30 WIB 20/04/26] Borussia Mönchengladbach vs FSV Mainz 05 [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 20/04/26] Juventus vs Bologna [FHD] [NANTIKAN]
