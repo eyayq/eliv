@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.28 WIB 19/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.36 WIB 19/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="ednm9whw0ox0ryo" tvg-name="Real Salt Lake vs San Diego FC" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 08:40 WIB | 19/04/26] Real Salt Lake vs San Diego FC",[LIVE 08:40 WIB | 19/04/26] Real Salt Lake vs San Diego FC (DERICE)
 https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
@@ -13,7 +13,15 @@ https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4db
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="6ypq3nhv76p6md7" tvg-name="Monterrey vs Pachuca" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LIVE 08:05 WIB | 19/04/26] Monterrey vs Pachuca",[LIVE 08:05 WIB | 19/04/26] Monterrey vs Pachuca (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="k82rekhgn382rep" tvg-name="Auckland FC vs Central Coast Mariners" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 10:00 WIB | 31m | 19/04/26] Auckland FC vs Central Coast Mariners",[UPCO 10:00 WIB | 31m | 19/04/26] Auckland FC vs Central Coast Mariners (GIÀNG A BẨY )
+#EXTINF:-1 tvg-id="k82rekhgn382rep" tvg-name="Auckland FC vs Central Coast Mariners" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 10:00 WIB | 23m | 19/04/26] Auckland FC vs Central Coast Mariners",[UPCO 10:00 WIB | 23m | 19/04/26] Auckland FC vs Central Coast Mariners (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="k82rekhgn382rep" tvg-name="Auckland FC vs Central Coast Mariners" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 10:00 WIB | 23m | 19/04/26] Auckland FC vs Central Coast Mariners",[UPCO 10:00 WIB | 23m | 19/04/26] Auckland FC vs Central Coast Mariners (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="k82rekhgn382rep" tvg-name="Auckland FC vs Central Coast Mariners" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 10:00 WIB | 23m | 19/04/26] Auckland FC vs Central Coast Mariners",[UPCO 10:00 WIB | 23m | 19/04/26] Auckland FC vs Central Coast Mariners (GIÀNG A BẨY )
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="k82rekhgn382rep" tvg-name="Auckland FC vs Central Coast Mariners" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 10:00 WIB | 31m | 19/04/26] Auckland FC vs Central Coast Mariners",[UPCO 10:00 WIB | 31m | 19/04/26] Auckland FC vs Central Coast Mariners (GIÀNG A BẨY )
+#EXTINF:-1 tvg-id="k82rekhgn382rep" tvg-name="Auckland FC vs Central Coast Mariners" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 10:00 WIB | 23m | 19/04/26] Auckland FC vs Central Coast Mariners",[UPCO 10:00 WIB | 23m | 19/04/26] Auckland FC vs Central Coast Mariners (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="vjxm8ghe5v7jr6o" tvg-name="Club Leon vs FC Juarez" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[UPCO 10:06 WIB | 29m | 19/04/26] Club Leon vs FC Juarez",[UPCO 10:06 WIB | 29m | 19/04/26] Club Leon vs FC Juarez (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="vjxm8ghe5v7jr6o" tvg-name="Club Leon vs FC Juarez" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[UPCO 10:06 WIB | 29m | 19/04/26] Club Leon vs FC Juarez",[UPCO 10:06 WIB | 29m | 19/04/26] Club Leon vs FC Juarez (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
