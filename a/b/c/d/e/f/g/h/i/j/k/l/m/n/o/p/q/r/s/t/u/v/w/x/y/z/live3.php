@@ -1,16 +1,16 @@
 #EXTM3U
-# Generated Sun Apr 19 09:07:08 2026
+# Generated Sun Apr 19 09:07:41 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Sunday 19-04-2026 16:06:55 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Sunday 19-04-2026 16:07:29 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Nagoya Grampus😈 [🆚] 😈Avispa Fukuoka [LIVE]😈📁
 https://bf.jalaplay.net/live/5005081.m3u8?txSecret=240b73d170bdeb796e92422c27e5618b&txTime=69e4949c
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Nagoya Grampus😈 [🆚] 😈Avispa Fukuoka [LIVE]😈📁
 https://bf.jalaplay.net/live/5005008.m3u8?txSecret=c43161c61dddfca18111417f2a10734b&txTime=69e48e32
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Nagoya Grampus😈 [🆚] 😈Avispa Fukuoka [LIVE]😈📁
-https://bf.jalaplay.net/live/322723.m3u8?txSecret=6df0aca285b81fc4d9cfe75acc34ce36&txTime=69e49567
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Nagoya Grampus😈 [🆚] 😈Avispa Fukuoka [LIVE]😈📁
 https://bf.jalaplay.net/live/5005017.m3u8?txSecret=c20b464061a880c144108d78a6dcfbb4&txTime=69e494e0
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Nagoya Grampus😈 [🆚] 😈Avispa Fukuoka [LIVE]😈📁
+https://bf.jalaplay.net/live/322723.m3u8?txSecret=6df0aca285b81fc4d9cfe75acc34ce36&txTime=69e49567
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Pohang Steelers😈 [🆚] 😈FC Anyang [LIVE]😈📁
 https://bf.jalaplay.net/live/5004995.m3u8?txSecret=820f3b0555fad913b34d3d80ff877743&txTime=69e49116
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Pohang Steelers😈 [🆚] 😈FC Anyang [LIVE]😈📁
@@ -20,7 +20,7 @@ https://bf.jalaplay.net/live/322707.m3u8?txSecret=240b51bf13186732a5a8cb385018a0
 #EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Persatuan sepak bola Indonesia Kediri😈 [🆚] 😈Persita Tangerang [LIVE]😈📁
 https://bf.jalaplay.net/live/5005095.m3u8?txSecret=5fed7c6c96f144310532f614e79503f3&txTime=69e499f5
 #EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Persatuan sepak bola Indonesia Kediri😈 [🆚] 😈Persita Tangerang [LIVE]😈📁
-https://bf.jalaplay.net/live/5005016.m3u8?txSecret=92c76507c9c2097f31d4ab98e3c12c73&txTime=69e48d21
+https://bf.jalaplay.net/live/5005016.m3u8?txSecret=bde4887cee6be84871d46c9e7d3359d4&txTime=69e49b31
 #EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈Persatuan sepak bola Indonesia Kediri😈 [🆚] 😈Persita Tangerang [LIVE]😈📁
 https://bf.jalaplay.net/live/5004438.m3u8?txSecret=e2fdcb81b9ba4f52ad55e63fef32973d&txTime=69e48f27
 #EXTINF:-1 group-title="📁😈 Indonesian Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/06565a2672fc1f85be8c44da526c3820.png",📁😈Deltras Sidoarjo😈 [🆚] 😈Kendal Tornado FC [LIVE]😈📁
@@ -29,15 +29,15 @@ https://bf.jalaplay.net/live/5005035.m3u8?txSecret=fa0264090d689b9d905c5fa701c8c
 https://bf.jalaplay.net/live/5005011.m3u8?txSecret=170c6bf02220d9a6226ca08e6456221b&txTime=69e49aa2
 #EXTINF:-1 group-title="📁😈 Italian Campionato Primavera 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png",📁😈Inter Milan U20😈 [🆚] 😈Lecce U20 [LIVE]😈📁
 https://bf.jalaplay.net/live/5004975.m3u8?txSecret=aae20c3c2e310a668c7f1d434f854425&txTime=69e4949b
-#EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈Kryvbas😈 [🆚] 😈Rukh Vynnyky [53m]😈📁
+#EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈Kryvbas😈 [🆚] 😈Rukh Vynnyky [52m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4362194
-#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Cremonese😈 [🆚] 😈Torino [83m]😈📁
+#EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Cremonese😈 [🆚] 😈Torino [82m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4339744
-#EXTINF:-1 group-title="📁😈 English Football League Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/349caefc8ea220e4e840776502a67d90.png",📁😈Ipswich Town😈 [🆚] 😈Middlesbrough [113m]😈📁
+#EXTINF:-1 group-title="📁😈 English Football League Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/349caefc8ea220e4e840776502a67d90.png",📁😈Ipswich Town😈 [🆚] 😈Middlesbrough [112m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4351730
-#EXTINF:-1 group-title="📁😈 Thai League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/568f4b544f3d286be88ecffebb132726.png",📁😈Port FC😈 [🆚] 😈BG Pathum United [173m]😈📁
+#EXTINF:-1 group-title="📁😈 Thai League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/568f4b544f3d286be88ecffebb132726.png",📁😈Port FC😈 [🆚] 😈BG Pathum United [172m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4463881
-#EXTINF:-1 group-title="📁😈 AFF U17 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f3f27a324736617f20abbf2ffd806f6d.jpg",📁😈Indonesia U17😈 [🆚] 😈Vietnam U17 [203m]😈📁
+#EXTINF:-1 group-title="📁😈 AFF U17 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f3f27a324736617f20abbf2ffd806f6d.jpg",📁😈Indonesia U17😈 [🆚] 😈Vietnam U17 [202m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4528968
 #EXTINF:-1 group-title="📁😈 Italian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png",📁😈Hellas Verona😈 [🆚] 😈AC Milan [232m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4339759
