@@ -1,30 +1,30 @@
 #EXTM3U
-# Generated Sun Apr 19 07:02:26 2026
+# Generated Sun Apr 19 07:02:58 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Sunday 19-04-2026 14:02:12 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Sunday 19-04-2026 14:02:41 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Adelaide United😈 [🆚] 😈Macarthur FC [LIVE]😈📁
 https://bf.jalaplay.net/live/322647.m3u8?txSecret=44a0505863dda377329c2649bb1cac8d&txTime=69e471c9
 #EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Adelaide United😈 [🆚] 😈Macarthur FC [LIVE]😈📁
-https://bf.jalaplay.net/live/5005093.m3u8?txSecret=ea2311ef706aca225758fd9c803ba968&txTime=69e47240
+https://bf.jalaplay.net/live/5005016.m3u8?txSecret=da0573ebb3515cb0ea0af86c494b797f&txTime=69e470e0
 #EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Adelaide United😈 [🆚] 😈Macarthur FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5004423.m3u8?txSecret=7a57c7d81594415f5c485329808f3a6c&txTime=69e47871
 #EXTINF:-1 group-title="📁😈 Australia A-League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76722a157176d354a952c671bb46cc7e.png",📁😈Adelaide United😈 [🆚] 😈Macarthur FC [LIVE]😈📁
-https://bf.jalaplay.net/live/5005016.m3u8?txSecret=da0573ebb3515cb0ea0af86c494b797f&txTime=69e470e0
+https://bf.jalaplay.net/live/5005093.m3u8?txSecret=ea2311ef706aca225758fd9c803ba968&txTime=69e47240
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Gamba Osaka😈 [🆚] 😈Fagiano Okayama [LIVE]😈📁
+https://bf.jalaplay.net/live/5005095.m3u8?txSecret=9d6951eea584c06b44666988a1b9458a&txTime=69e47dd5
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Gamba Osaka😈 [🆚] 😈Fagiano Okayama [LIVE]😈📁
 https://bf.jalaplay.net/live/322666.m3u8?txSecret=937bb411cfb76a049c012200870da3a6&txTime=69e47118
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Gamba Osaka😈 [🆚] 😈Fagiano Okayama [LIVE]😈📁
 https://bf.jalaplay.net/live/322707.m3u8?txSecret=2ab65f9a951c1b02962998c19f156b79&txTime=69e472ab
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Gamba Osaka😈 [🆚] 😈Fagiano Okayama [LIVE]😈📁
-https://bf.jalaplay.net/live/5005095.m3u8?txSecret=9d6951eea584c06b44666988a1b9458a&txTime=69e47dd5
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Gamba Osaka😈 [🆚] 😈Fagiano Okayama [LIVE]😈📁
 https://bf.jalaplay.net/live/5004438.m3u8?txSecret=41eb038e8509ddce0a281bb77dc26a5f&txTime=69e471bf
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Nagoya Grampus😈 [🆚] 😈Avispa Fukuoka [LIVE]😈📁
-https://bf.jalaplay.net/live/5005081.m3u8?txSecret=cbc868dfbc04bb2ff5c0fceeb96b6baa&txTime=69e47879
+https://bf.jalaplay.net/live/5005017.m3u8?txSecret=92c4d180469f0b081401900f215e3089&txTime=69e478bd
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Nagoya Grampus😈 [🆚] 😈Avispa Fukuoka [LIVE]😈📁
 https://bf.jalaplay.net/live/322723.m3u8?txSecret=1d97abf68ead9690a500e386294a1ada&txTime=69e47946
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Nagoya Grampus😈 [🆚] 😈Avispa Fukuoka [LIVE]😈📁
-https://bf.jalaplay.net/live/5005017.m3u8?txSecret=92c4d180469f0b081401900f215e3089&txTime=69e478bd
+https://bf.jalaplay.net/live/5005081.m3u8?txSecret=cbc868dfbc04bb2ff5c0fceeb96b6baa&txTime=69e47879
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Nagoya Grampus😈 [🆚] 😈Avispa Fukuoka [LIVE]😈📁
 https://bf.jalaplay.net/live/5005008.m3u8?txSecret=667aa7d6b4120f0abebbd35952505ba8&txTime=69e47210
 #EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Pohang Steelers😈 [🆚] 😈FC Anyang [27m]😈📁
