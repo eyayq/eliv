@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.26 WIB 20/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.30 WIB 20/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="4jwq2ghn4812m0v" tvg-name="Juventus vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna",[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="4jwq2ghn4812m0v" tvg-name="Juventus vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna",[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="4jwq2ghn4812m0v" tvg-name="Juventus vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna",[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="4jwq2ghn4812m0v" tvg-name="Juventus vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna",[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna (Giàng A Voi)
@@ -9,10 +13,6 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="4jwq2ghn4812m0v" tvg-name="Juventus vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna",[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna (GIÀNG A PHỆ )
 https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="4jwq2ghn4812m0v" tvg-name="Juventus vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna",[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="4jwq2ghn4812m0v" tvg-name="Juventus vs Bologna" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna",[LIVE 01:45 WIB | 20/04/26] Juventus vs Bologna (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="3glrw7hn1774qdy" tvg-name="Paris Saint Germain vs Lyon" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 01:45 WIB | 20/04/26] Paris Saint Germain vs Lyon",[LIVE 01:45 WIB | 20/04/26] Paris Saint Germain vs Lyon (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="3glrw7hn1774qdy" tvg-name="Paris Saint Germain vs Lyon" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 01:45 WIB | 20/04/26] Paris Saint Germain vs Lyon",[LIVE 01:45 WIB | 20/04/26] Paris Saint Germain vs Lyon (Giàng A Rùa)
