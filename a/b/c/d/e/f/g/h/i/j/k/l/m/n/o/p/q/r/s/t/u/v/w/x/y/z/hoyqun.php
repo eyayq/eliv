@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:34 WIB 19/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:34 WIB 19/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:41 WIB 19/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:41 WIB 19/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[15:00 WIB 19/04/26] BRO vs NS [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[15:00 WIB 19/04/26] BRO vs NS [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[15:00 WIB 19/04/26] BRO vs NS [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[17:00 WIB 19/04/26] DRX vs T1 [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
@@ -47,22 +38,22 @@ https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 19/04/26] Thanh Hóa vs Song Lam Nghe An [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 19/04/26] CA TP.HCM vs CAHN [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 19/04/26] CA TP.HCM vs CAHN [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 19/04/26] CA TP.HCM vs CAHN [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 19/04/26] CA TP.HCM vs CAHN [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 19/04/26] CA TP.HCM vs CAHN [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 19/04/26] CA TP.HCM vs CAHN [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r254x143n/b2bcf799-e5c5-417c-ac0b-57b8fc00c6f9" group-title="WTA500 Stuttgart",[18:00 WIB 19/04/26] Elena Rybakina vs Karolina Muchova [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r254x143n/b2bcf799-e5c5-417c-ac0b-57b8fc00c6f9" group-title="WTA500 Stuttgart",[18:00 WIB 19/04/26] Elena Rybakina vs Karolina Muchova [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r254x143n/b2bcf799-e5c5-417c-ac0b-57b8fc00c6f9" group-title="WTA500 Stuttgart",[18:00 WIB 19/04/26] Elena Rybakina vs Karolina Muchova [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r254x143n/b2bcf799-e5c5-417c-ac0b-57b8fc00c6f9" group-title="WTA500 Stuttgart",[18:00 WIB 19/04/26] Elena Rybakina vs Karolina Muchova [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r254x143n/b2bcf799-e5c5-417c-ac0b-57b8fc00c6f9" group-title="WTA500 Stuttgart",[18:00 WIB 19/04/26] Elena Rybakina vs Karolina Muchova [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cmesk-ott-images-svod.ssl.cdn.cra.cz/r254x143n/b2bcf799-e5c5-417c-ac0b-57b8fc00c6f9" group-title="WTA500 Stuttgart",[18:00 WIB 19/04/26] Elena Rybakina vs Karolina Muchova [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 Munich",[18:30 WIB 19/04/26] Flavio Cobolli vs Ben Shelton [FHD] [NANTIKAN]
