@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:01 WIB 19/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:01 WIB 19/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:09 WIB 19/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:09 WIB 19/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[20:00 WIB 19/04/26] Everton vs Liverpool [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[20:00 WIB 19/04/26] Everton vs Liverpool [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[20:00 WIB 19/04/26] Everton vs Liverpool [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://phapluat.tuoitrethudo.vn/stores/news_dataimages/hoangphuongduy/102019/21/15/in_article/0102_2000px-Bundesliga-Logo.svg.jpg" group-title="Bundesliga",[20:30 WIB 19/04/26] SC Freiburg vs 1. FC Heidenheim [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
@@ -56,13 +47,13 @@ https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Trung Lập )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan Ars )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan Ars )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan Ars )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan Ars )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan Ars )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan Ars )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://phapluat.tuoitrethudo.vn/stores/news_dataimages/hoangphuongduy/102019/21/15/in_article/0102_2000px-Bundesliga-Logo.svg.jpg" group-title="Bundesliga",[22:30 WIB 19/04/26] Bayern München vs VfB Stuttgart [FHD] [LIVE]
@@ -74,13 +65,13 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://phapluat.tuoitrethudo.vn/stores/news_dataimages/hoangphuongduy/102019/21/15/in_article/0102_2000px-Bundesliga-Logo.svg.jpg" group-title="Bundesliga",[22:30 WIB 19/04/26] Bayern München vs VfB Stuttgart [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan MC )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan MC )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan MC )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan MC )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan MC )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Đầu Cầu Fan MC )",[22:30 WIB 19/04/26] Manchester City vs Arsenal [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 19/04/26] Pisa vs Genoa [FHD] [NANTIKAN]
