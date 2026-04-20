@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁11:58:48 20-04-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁12:08:24 20-04-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Indonesian Super League📁00:00:00📁",📁Semen Padang vs Persatuan Sepakbola Indonesia Jepara📁20-04-2026 11:58:43 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Football📁00:00:00📁",📁Manchester City -  Arsenal📁20-04-2026 12:08:19 WIB📁00:00:00📁
+https://hls.686868.me/live/Giangalo/index.m3u8?expire=1777012560&sign=be2f60f6416ebc1a300a944171d8b3bd
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Indonesian Super League📁00:00:00📁",📁Semen Padang vs Persatuan Sepakbola Indonesia Jepara📁20-04-2026 12:08:19 WIB📁00:00:00📁
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
