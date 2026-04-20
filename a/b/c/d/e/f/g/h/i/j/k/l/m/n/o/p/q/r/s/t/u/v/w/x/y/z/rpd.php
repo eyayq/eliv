@@ -1,54 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [04.04 WIB 21/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [04.05 WIB 21/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 1",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1776722544-0-0-43d7b3ff90fe34cd064784cfb9f7c3f7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 2",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1776722544-0-0-e6a0f377ff9a3464a2d93969af9d5106
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 3",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1776722544-0-0-26b2e40080e3dc2de831ef9a345af16a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 4",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1776722544-0-0-b310d62c3eff2c17952d91c47301df4f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 5",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 2",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 3",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 3 (SVR-BHNS 3)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 6",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 4",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1776722184-0-0-dca6afdbd7958a972e912ff12c4aec7f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 5",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1776722184-0-0-f9a3919f114322e620cdc3486f32b0c5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 6",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1776722184-0-0-12d1d771cdacbda37bf09bb2a890ec4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moreirense-692a01.png" group-title="[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 7",[LIVE 02:15 WIB 21/04/26] Moreirense vs Estoril | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1776722184-0-0-55846d9736a9b4eec97516a8b6c4d1d2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 1",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 2",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1776722184-0-0-db0bbc792dfa9481317ae624f30d262e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 3",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1776722184-0-0-d210a2ea0eb11332c2178598295ed97b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 4",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1776722184-0-0-57c3eadb1624fe17d78532a5199080da
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 5",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1776722184-0-0-7221aae9468bcc21af9675468680972d
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 1",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1776722544-0-0-414bea0292c9e8f3c046c61e05f32568
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 2",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1776722544-0-0-21807a49e3d7fda712b04142e1822827
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 3",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1776722544-0-0-b1682caa9b61a5a12f65ee33cd713cb8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 4",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1776722544-0-0-436db5e448a0add572dd8f9f8bfbeab8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 5",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 2",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1776722184-0-0-7ecce728e742c1fa91de9cd1d870b7aa
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 3",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1776722184-0-0-aa75f25705664e1310d9bbc79e9db892
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 4",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1776722184-0-0-d25e2556940a600e9fa3968c09dab249
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 5",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1776722184-0-0-a20821626e6daf04305d9a5dd65d6d0f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 1",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1776722544-0-0-8a0e223ca5b71298aafaa6afd3353f52
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 2",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1776722544-0-0-94675b98777eec3aea21a516f3018af7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 3",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1776722544-0-0-099e2cec731458a6d43b71e806fc0dca
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 4",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1776722544-0-0-4af9f1c54257880e95cf8f2f2b85f7a1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 5",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rubio-nu-39d68c.jpg" group-title="[LIVE 04:15 WIB 21/04/26] Rubio nu vs Club Libertad Asunción | Server 1",[LIVE 04:15 WIB 21/04/26] Rubio nu vs Club Libertad Asunción | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-445260_lsd.m3u8?auth_key=1776722544-0-0-7f4547e89d58e3a2dfc5168db46772ba
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rubio-nu-39d68c.jpg" group-title="[LIVE 04:15 WIB 21/04/26] Rubio nu vs Club Libertad Asunción | Server 2",[LIVE 04:15 WIB 21/04/26] Rubio nu vs Club Libertad Asunción | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1776722544-0-0-cbfc0885f04ee74e3fdee34981b7c3cc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rubio-nu-39d68c.jpg" group-title="[LIVE 04:15 WIB 21/04/26] Rubio nu vs Club Libertad Asunción | Server 3",[LIVE 04:15 WIB 21/04/26] Rubio nu vs Club Libertad Asunción | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1776722544-0-0-f656710c2b7affec9abe7c5313c9618e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rubio-nu-39d68c.jpg" group-title="[LIVE 04:15 WIB 21/04/26] Rubio nu vs Club Libertad Asunción | Server 4",[LIVE 04:15 WIB 21/04/26] Rubio nu vs Club Libertad Asunción | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1776722544-0-0-a438bc957bb99be8e6fca0591e464098
