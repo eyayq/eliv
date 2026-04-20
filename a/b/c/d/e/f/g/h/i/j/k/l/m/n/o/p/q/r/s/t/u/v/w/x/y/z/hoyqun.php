@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [23:37 WIB 20/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:37 WIB 20/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:45 WIB 20/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:45 WIB 20/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQinu3K9Wvvnjlp76dPPXgrrKJmJXkeM6vFXw&s" group-title="Poland PlusLiga",[22:00 WIB 20/04/26] Olsztyn - Belchatow [FHD] [LIVE]
@@ -325,3 +325,30 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[17:00 WIB 23/04/26] GEN vs DNS [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[20:00 WIB 23/04/26] Bursa - Altekma [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[20:00 WIB 23/04/26] Bursa - Altekma [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[20:00 WIB 23/04/26] Bursa - Altekma [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:00 WIB 23/04/26] Istanbul GSK - Fenerbahce [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:00 WIB 23/04/26] Istanbul GSK - Fenerbahce [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:00 WIB 23/04/26] Istanbul GSK - Fenerbahce [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:00 WIB 24/04/26] Galatasaray - Ziraat Bankasi [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:00 WIB 24/04/26] Galatasaray - Ziraat Bankasi [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/S%C3%BCper_Lig_logo.svg/1200px-S%C3%BCper_Lig_logo.svg.png" group-title="Turkish League",[23:00 WIB 24/04/26] Galatasaray - Ziraat Bankasi [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
