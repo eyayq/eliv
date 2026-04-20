@@ -1,22 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.47 WIB 20/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.56 WIB 20/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="dj2ryohll2nxq1z" tvg-name="Minerva Punjab vs Inter Kashi" tvg-logo="https://img.cdnok9.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LIVE 21:00 WIB | 20/04/26] Minerva Punjab vs Inter Kashi",[LIVE 21:00 WIB | 20/04/26] Minerva Punjab vs Inter Kashi (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="dj2ryohll2nxq1z" tvg-name="Minerva Punjab vs Inter Kashi" tvg-logo="https://img.cdnok9.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LIVE 21:00 WIB | 20/04/26] Minerva Punjab vs Inter Kashi",[LIVE 21:00 WIB | 20/04/26] Minerva Punjab vs Inter Kashi (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="dj2ryohlyon5q1z" tvg-name="Atalanta U20 vs Parma U20" tvg-logo="https://img.cdnok9.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png" group-title="[LIVE 21:00 WIB | 20/04/26] Atalanta U20 vs Parma U20",[LIVE 21:00 WIB | 20/04/26] Atalanta U20 vs Parma U20 (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="dj2ryohlyon5q1z" tvg-name="Atalanta U20 vs Parma U20" tvg-logo="https://img.cdnok9.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png" group-title="[LIVE 21:00 WIB | 20/04/26] Atalanta U20 vs Parma U20",[LIVE 21:00 WIB | 20/04/26] Atalanta U20 vs Parma U20 (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="3glrw7hn7kykqdy" tvg-name="Jubail vs Al Wehda Mecca" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca",[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="3glrw7hn7kykqdy" tvg-name="Jubail vs Al Wehda Mecca" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca",[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="3glrw7hn7kykqdy" tvg-name="Jubail vs Al Wehda Mecca" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca",[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="3glrw7hn7kykqdy" tvg-name="Jubail vs Al Wehda Mecca" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca",[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="pxwrxlhy5p9dryk" tvg-name="Al-Adalah vs Al-Jandal" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 22:45 WIB | 20/04/26] Al-Adalah vs Al-Jandal",[LIVE 22:45 WIB | 20/04/26] Al-Adalah vs Al-Jandal (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="pxwrxlhy5p9dryk" tvg-name="Al-Adalah vs Al-Jandal" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 22:45 WIB | 20/04/26] Al-Adalah vs Al-Jandal",[LIVE 22:45 WIB | 20/04/26] Al-Adalah vs Al-Jandal (Giàng A Chiến)
@@ -41,7 +25,23 @@ https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb022234
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="8yomo4h18z7xq0j" tvg-name="FK Minsk B vs Dinamo-2 Minsk" tvg-logo="https://img.cdnok9.com/football/competition/9e7ae98de79a878ad70d2cb8297aee68.png" group-title="[LIVE 21:00 WIB | 20/04/26] FK Minsk B vs Dinamo-2 Minsk",[LIVE 21:00 WIB | 20/04/26] FK Minsk B vs Dinamo-2 Minsk (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="dn1m1ghlxj97moe" tvg-name="Vissel Kobe vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[UPCO 23:15 WIB | 27m | 20/04/26] Vissel Kobe vs Al-Ahli SFC",[UPCO 23:15 WIB | 27m | 20/04/26] Vissel Kobe vs Al-Ahli SFC (Giàng A Rùa)
+#EXTINF:-1 tvg-id="dj2ryohll2nxq1z" tvg-name="Minerva Punjab vs Inter Kashi" tvg-logo="https://img.cdnok9.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LIVE 21:00 WIB | 20/04/26] Minerva Punjab vs Inter Kashi",[LIVE 21:00 WIB | 20/04/26] Minerva Punjab vs Inter Kashi (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="dj2ryohll2nxq1z" tvg-name="Minerva Punjab vs Inter Kashi" tvg-logo="https://img.cdnok9.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LIVE 21:00 WIB | 20/04/26] Minerva Punjab vs Inter Kashi",[LIVE 21:00 WIB | 20/04/26] Minerva Punjab vs Inter Kashi (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="dj2ryohlyon5q1z" tvg-name="Atalanta U20 vs Parma U20" tvg-logo="https://img.cdnok9.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png" group-title="[LIVE 21:00 WIB | 20/04/26] Atalanta U20 vs Parma U20",[LIVE 21:00 WIB | 20/04/26] Atalanta U20 vs Parma U20 (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="dj2ryohlyon5q1z" tvg-name="Atalanta U20 vs Parma U20" tvg-logo="https://img.cdnok9.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png" group-title="[LIVE 21:00 WIB | 20/04/26] Atalanta U20 vs Parma U20",[LIVE 21:00 WIB | 20/04/26] Atalanta U20 vs Parma U20 (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="3glrw7hn7kykqdy" tvg-name="Jubail vs Al Wehda Mecca" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca",[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="3glrw7hn7kykqdy" tvg-name="Jubail vs Al Wehda Mecca" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca",[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="3glrw7hn7kykqdy" tvg-name="Jubail vs Al Wehda Mecca" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca",[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="3glrw7hn7kykqdy" tvg-name="Jubail vs Al Wehda Mecca" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca",[LIVE 22:45 WIB | 20/04/26] Jubail vs Al Wehda Mecca (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="dn1m1ghlxj97moe" tvg-name="Vissel Kobe vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[UPCO 23:15 WIB | 18m | 20/04/26] Vissel Kobe vs Al-Ahli SFC",[UPCO 23:15 WIB | 18m | 20/04/26] Vissel Kobe vs Al-Ahli SFC (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="dn1m1ghlxj97moe" tvg-name="Vissel Kobe vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[UPCO 23:15 WIB | 27m | 20/04/26] Vissel Kobe vs Al-Ahli SFC",[UPCO 23:15 WIB | 27m | 20/04/26] Vissel Kobe vs Al-Ahli SFC (Giàng A Rùa)
+#EXTINF:-1 tvg-id="dn1m1ghlxj97moe" tvg-name="Vissel Kobe vs Al-Ahli SFC" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[UPCO 23:15 WIB | 18m | 20/04/26] Vissel Kobe vs Al-Ahli SFC",[UPCO 23:15 WIB | 18m | 20/04/26] Vissel Kobe vs Al-Ahli SFC (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
