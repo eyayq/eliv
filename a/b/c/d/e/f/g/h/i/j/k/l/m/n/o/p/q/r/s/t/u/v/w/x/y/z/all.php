@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.09 WIB 21/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.21 WIB 21/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (Giàng A Gấu)
@@ -13,10 +13,10 @@ https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa69089696
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="23xmvkh6oky4qg8" tvg-name="Crystal Palace vs West Ham United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United",[LIVE 02:00 WIB | 21/04/26] Crystal Palace vs West Ham United (Thích Đủ Thứ)
