@@ -1,27 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [05.15 WIB 21/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [05.25 WIB 21/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 1",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1776726533-0-0-7e54605b774105430fc49b65ae361df2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 2",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1776726533-0-0-daa9ec3953f28887cdca55ed66666182
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 3",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1776726506-0-0-cae9c02903a8a2b0704395d0b5b002c8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banfield-77d9de.webp" group-title="[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 4",[LIVE 03:15 WIB 21/04/26] Banfield vs Independiente Rivadavia | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1776726506-0-0-7b781dc4b0059203a877263b959ddbca
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 1",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1776726684-0-0-3130bb682566daec2a159d2cf824a992
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 2",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1776726684-0-0-e51d646aa8a730d259493f11d0f6425e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 3",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1776726684-0-0-828730defdbc2b1e46e9ac985d69a931
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-cordoba-sde-935566.webp" group-title="[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 4",[LIVE 03:15 WIB 21/04/26] Central Cordoba SDE vs CA Platense | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1776726684-0-0-d618e062cd4896187e9f8144c07be07b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-lorenzo-c73a2f.png" group-title="[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 1",[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1776727404-0-0-8fd2b5601218f32c362e1fd2cefa7619
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-lorenzo-c73a2f.png" group-title="[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 2",[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1776727404-0-0-6f678807af760b0b9342da7a93c71c6f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-lorenzo-c73a2f.png" group-title="[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 3",[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1776727404-0-0-7af652394b73de580768e387669331fe
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-lorenzo-c73a2f.png" group-title="[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 4",[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1776727404-0-0-2f3f5ba5bd25d9415005e243bdb30610
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-lorenzo-c73a2f.png" group-title="[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 5",[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=f875d4488c48a2b26889f65c8dd25ef8&txTime=69e6fbbc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-lorenzo-c73a2f.png" group-title="[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 6",[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2f1f0b9345f76ff439fe88f49d5b57e3&txTime=69e6fbbc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-lorenzo-c73a2f.png" group-title="[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 7",[LIVE 05:30 WIB 21/04/26] San Lorenzo vs Velez Sarsfield | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
