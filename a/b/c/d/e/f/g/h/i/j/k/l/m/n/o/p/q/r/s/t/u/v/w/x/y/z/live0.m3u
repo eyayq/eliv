@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 08:31:22 WIB 20-04-2026
-# 🔄 Total Channels: 1959
+# ⏰ Latest Updated: 08:40:56 WIB 20-04-2026
+# 🔄 Total Channels: 1966
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [08:31:22 WIB 20-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [08:40:56 WIB 20-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -41,6 +41,11 @@ http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/166686
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/298550
 #EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Semen Padang vs Persijap
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://stream.titanlivescore.com/live/LXSCORE-4879995.m3u8
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Semen Padang vs Persijap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel6.m3u8?wsSecret=032bfb6da9975ab4d3cc777e56263649&wsABSTime=1766943321
@@ -50,6 +55,30 @@ https://live1.pro2cdnlive.com/live/channel6.m3u8?wsSecret=032bfb6da9975ab4d3cc77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   20/04 Semen Padang vs Persijap Jepara  LUU BI m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   20/04 Semen Padang vs Persijap Jepara  LUU BI flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   20/04 Semen Padang vs Persijap Jepara  LEO m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   20/04 Semen Padang vs Persijap Jepara  LEO flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   20/04 Semen Padang vs Persijap Jepara  KEVILL m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   20/04 Semen Padang vs Persijap Jepara  KEVILL flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   20/04 Semen Padang vs Persijap Jepara  TON LAP m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14313_1jpyaca2342n.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   20/04 Semen Padang vs Persijap Jepara  TON LAP flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fced802f236fccb8a959a0f8cabdf7fc4%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   20/04 Semen Padang vs Persatuan Sepakbola Indonesia Jepara hd_1 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -102,6 +131,18 @@ https://stm02bc67063175.stream.hdplaylink.com/live/66a88895bb29435bb4ca9e84210a4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://stm02bc67063175.stream.hdplaylink.com/live/66a88895bb29435bb4ca9e84210a485c/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga 1] 15:30 20/04 Semen Padang vs Persijap [FHD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga 1] 15:30 20/04 Semen Padang vs Persijap [HD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga 1] 15:30 20/04 Semen Padang vs Persijap [SD] Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://quechoa5.live/
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F9de329d108fd394dd6b40e18dfdfcb56%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",13:15   20/04 Persipegaf vs Ransiki Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -110,30 +151,30 @@ https://live.alilicloud.com/live/9111a35c19ddb046dc2222aabfb7c4fd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/9111a35c19ddb046dc2222aabfb7c4fd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  KENCHU m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  KENCHU flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  TONG GIANG m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  TONG GIANG flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  MOT CHAN m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  MOT CHAN flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnok9.com/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1776617841.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   20/04 Bacolod Masskara vs Sarangani Marlins  VO TONG m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1776617841.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   20/04 Bacolod Masskara vs Sarangani Marlins  VO TONG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnok9.com/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  TONG GIANG m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  TONG GIANG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TONGGIANG.flv?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  KENCHU m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  KENCHU flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/KENCHU.flv?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  MOT CHAN m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F68805_1jpf6csygk29.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028  MOT CHAN flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fa4552965dcd50b0dcf2435230e0392d2%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",14:00   20/04 Xiamen Chengyi vs Shenzhen 2028 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia2.me/
@@ -262,18 +303,6 @@ https://live.alilicloud.com/live/31e081ec3b7885b9c3a5c647ad081336/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem1.gv03.live/
 https://live.alilicloud.com/live/fd6900987b8978f8b32091872496f518/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 08:00 20/04 San Antonio Spurs vs Portland Trail Blazers [FHD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 08:00 20/04 San Antonio Spurs vs Portland Trail Blazers [HD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[NBA] 08:00 20/04 San Antonio Spurs vs Portland Trail Blazers [SD] Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://quechoa5.live/
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/min/1/1e/Semen_Padang_FC.png" group-title="Live Event: Hội quán",15:30 20/04 Semen Padang vs Persijap FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -382,23 +411,103 @@ http://195.178.110.69/hls/PIPIPI.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://re9.loreofeldenring.site/dailymotion/live/playlist/10.m3u8
+#EXTINF:-1 tvg-logo="https://api.titanlivescore.com/v1/match/images/8963" group-title="BRI SUPER LEAGUE",[LIVE] Semen Padang vs Persijap Jepara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com
+https://stream.titanlivescore.com/live/LXSCORE-4879995.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nOKXE5TkUHCHTYkUdLbywD_XA0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020783/19a9ce.jpg" group-title="BRI SUPER LEAGUE",14:55 WIB 20/04/26 Semen Padang FC vs PERSIJAP - BRI Super League (INTI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/205.drm?dev_kaki_09&t=1776685102&uip=2a06%3A98c0%3A3600%3A%3A103&h=a8a8a531044c0826a94cf6a6004dd57779637e7fb5743461b160d7ef53191452
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ayo.maling.pl/video/id/205.mpd?dev_kaki_09&t=1776685102&uip=2a06%3A98c0%3A3600%3A%3A103&h=a8a8a531044c0826a94cf6a6004dd57779637e7fb5743461b160d7ef53191452
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nOKXE5TkUHCHTYkUdLbywD_XA0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020783/19a9ce.jpg" group-title="BRI SUPER LEAGUE",14:55 WIB 20/04/26 Semen Padang FC vs PERSIJAP - BRI Super League (ALT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/205.drm?exp=1776685102&uip=2a06%3A98c0%3A3600%3A%3A103&sign=bfb84129bf452e2c0de25894b2762905085f5363be2c76d1fe97563e04ecd22a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ayo.maling.pl/video/id/205.mpd?exp=1776685102&uip=2a06%3A98c0%3A3600%3A%3A103&sign=966e6376820cf1f5f98f0a5fd6af4d6814e89edea04d4b3126671775df0cb0b1
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nOKXE5TkUHCHTYkUdLbywD_XA0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020783/19a9ce.jpg" group-title="BRI SUPER LEAGUE",14:55 WIB 20/04/26 Semen Padang FC vs PERSIJAP - BRI Super League [J1]
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/205.drm?dev_kaki_09&t=1776685102&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=d727107ec47a07f58f6c59426c29f9634051336bff712f072b5209ecf67c7a67
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+https://ayo.maling.pl/video/id/205.mpd?dev_kaki_09&t=1776685102&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=d727107ec47a07f58f6c59426c29f9634051336bff712f072b5209ecf67c7a67
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nOKXE5TkUHCHTYkUdLbywD_XA0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020783/19a9ce.jpg" group-title="BRI SUPER LEAGUE",14:55 WIB 20/04/26 Semen Padang FC vs PERSIJAP - BRI Super League [J1] (ALT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/205.drm?dev_kaki_09&t=1776685102&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=d727107ec47a07f58f6c59426c29f9634051336bff712f072b5209ecf67c7a67
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=150
+#EXTVLCOPT:live-caching=150
+https://ayo.maling.pl/video/id/205.mpd?dev_kaki_09&t=1776685102&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=d727107ec47a07f58f6c59426c29f9634051336bff712f072b5209ecf67c7a67
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhjzloql07/image/small" group-title="BRI SUPER LEAGUE",15:30 WIB - SEMEN PADANG VS PERSIJAP JEPARA [IDN ISL] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=e5ac2ceba669855614402ace3c0c4552&wsABSTime=1776717331
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80" group-title="BRI SUPER LEAGUE",[LIVE] (15:30 WIB) Semen Padang vs Persijap Jepara [BLV Cozy]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/87379114.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80" group-title="BRI SUPER LEAGUE",[LIVE] (15:30 WIB) Semen Padang vs Persijap Jepara [BLV Cozy]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/87379114.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46e87ccb8a5cacc290719d822b9f8fe1.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Persis Solo vs Bhayangkara Solo [BLV C2]
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46e87ccb8a5cacc290719d822b9f8fe1.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Persis Solo vs Bhayangkara Solo [BLV C2]
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) PSIM Yogyakarta vs Persija Jakarta [BLV STING]
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) PSIM Yogyakarta vs Persija Jakarta [BLV STING]
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3ZYIz4FsOBMSDzIbJP72_GmOf80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019484/29eff9.jpg" group-title="BRI SUPER LEAGUE",18:30 WIB 20/04/26 Dewa United Banten FC vs PERSIB - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zptbvOUxlz3w53DV47EX2LClWHQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019483/3ad2ff.jpg" group-title="BRI SUPER LEAGUE",18:30 WIB 20/04/26 Jelang Kick Off - Dewa United Banten FC vs PERSIB - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jt9Rnt-2QXp082IKtvkAnupH6Pc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019485/27d1cb.jpg" group-title="BRI SUPER LEAGUE",18:52 WIB 20/04/26 PSS Sleman vs Persiku Kudus - Pegadaian Championship
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh8z1pqvy9/image/small" group-title="BRI SUPER LEAGUE",19:00 WIB - DEWA UNITED FC VS PERSIB BANDUNG [IDN ISL] (v1)
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (19:00 WIB) Dewa United FC vs Persib Bandung [BLV PEPSI]
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (19:00 WIB) Dewa United FC vs Persib Bandung [BLV PEPSI]
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1k2xdqpwxv2x.png" group-title="BRI SUPER LEAGUE", [UPCOMING] Dewa United vs Persib Bandung * Indonesia: Liga 1 (19:00 WIB * 20/04/2026)
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1kazqdb9h92n.png" group-title="BRI SUPER LEAGUE", [UPCOMING] PSS Sleman vs Persiku Kudus * Indonesia: Liga 2 (19:00 WIB * 20/04/2026)
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2qqx3j57namW9l57MAlxH1OTnRI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020472/b0a5e9.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 22/04/26 PERSIS vs Bhayangkara Presisi Lampung FC - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eg44xXwlDjaBztxOwxdB77-TkBs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021919/0d10cf.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 23/04/26 PSM Makassar vs PERSIK Kediri - BRI Super League
+https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Auto%20racing%0AAuto%20Racing&font=Oswald" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [Auto Racing] Auto racing
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=59f3817185b79f8de51c86457ab20038&x-time=1776672960
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=f6cd7658616c7e8f7f0caf7c97ca9584948d6adf&x-sign=d93726fc7bddb30ca2d9b4999431ee48&x-time=1776673860
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghx245r6od/image/small" group-title="🔴 🔴 LIVE EVENT NOW",14:00 WIB - XIAMEN CHENGYI VS SHENZHEN 2028 [CFC] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=1123bb35cd5dc3cc80082b5b180544a0&wsABSTime=1776716730
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=94079ad0d7b6dfeaf14cb0183453c3a4&wsABSTime=1776717330
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/vjxm8xt44o5q6od/image/small" group-title="🔴 🔴 LIVE EVENT NOW",14:00 WIB - NADEZHDA ORENBURG 2 WOMEN VS NU ENISEY KRASNOYARSK II [RHL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=19062a0e1940824b6cbe9c1ac3b0ebb8&wsABSTime=1776716736
+https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=4681feeea65a78cd811ad603ca81460a&wsABSTime=1776717336
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[22:10 WIB] [Baseball] Detroit Tigers at Boston Red Sox (STRMCNTR)
 https://mainstreams.pro/hls/dazhfiach15.m3u8?st=O2XhfNc4mWZ018KVmOphlLdftWXQe-4Uwjo4q4MC-uM&e=1776684283|referer=https://streamcenter.xyz/|origin=https://streamcenter.xyz|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [11:00 WIB] [Auto Racing] Auto racing
@@ -407,7 +516,7 @@ https://mainstreams.pro/hls/dazhfiach15.m3u8?st=O2XhfNc4mWZ018KVmOphlLdftWXQe-4U
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=0666b1ad226237ef63457ab765e81de5ad555980&x-sign=ed6acc61a3a79a1ea2ff70d68113c67f&x-time=1776672900
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=66e389e6df74053a059edbaf94cb42a35768a610&x-sign=e225861ba377c0d7d612888645d525fa&x-time=1776673800
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/52.png" group-title="LIGA INGGRIS",[UPCOMING ] [01:00 WIB] [Premier League] Crystal Palace VS West Ham
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/rjlu8ieqllldod.png" group-title="LIGA INGGRIS",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Darts - Premier League Darts | (01.00 WIB) Night 12 (BELUM MULAI)
@@ -470,7 +579,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=19062a0e1940824b6cbe9c1ac3b0ebb8&wsABSTime=1776716736
+https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=4681feeea65a78cd811ad603ca81460a&wsABSTime=1776717336
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[UPCOMING] (18:35 WIB) Shanghai vs Liaoning Bengang [BLV 247]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[UPCOMING] (18:35 WIB) Shanxi Fenjiu vs Guangdong Southern Tigers [BLV ROCKSTAR]
@@ -613,76 +722,6 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/71zrnqmlists6s.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] MMA - MMA | (09.00 WIB) TUFF-N-UFF 153 (BELUM MULAI)
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nOKXE5TkUHCHTYkUdLbywD_XA0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020783/19a9ce.jpg" group-title="BRI SUPER LEAGUE",14:55 WIB 20/04/26 Semen Padang FC vs PERSIJAP - BRI Super League (INTI)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/205.drm?dev_kaki_09&t=1776684562&uip=2a06%3A98c0%3A3600%3A%3A103&h=7213aef59cd7eecf6e53bf242f722a1ce04ae0b1eba4f6c191f81fecc0baa668
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ayo.maling.pl/video/id/205.mpd?dev_kaki_09&t=1776684562&uip=2a06%3A98c0%3A3600%3A%3A103&h=7213aef59cd7eecf6e53bf242f722a1ce04ae0b1eba4f6c191f81fecc0baa668
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nOKXE5TkUHCHTYkUdLbywD_XA0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020783/19a9ce.jpg" group-title="BRI SUPER LEAGUE",14:55 WIB 20/04/26 Semen Padang FC vs PERSIJAP - BRI Super League (ALT)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/205.drm?exp=1776684562&uip=2a06%3A98c0%3A3600%3A%3A103&sign=15032fb5176e01859d00c2ad6275c39dd8a0e163afc63942c48587ea18931024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ayo.maling.pl/video/id/205.mpd?exp=1776684562&uip=2a06%3A98c0%3A3600%3A%3A103&sign=c5d6a066f59c4624eec64f2723e2d36136e67ec8d68040787bff01ea0e04460f
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nOKXE5TkUHCHTYkUdLbywD_XA0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020783/19a9ce.jpg" group-title="BRI SUPER LEAGUE",14:55 WIB 20/04/26 Semen Padang FC vs PERSIJAP - BRI Super League [J1]
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/205.drm?dev_kaki_09&t=1776684562&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=c12394acd6b85987670c956dfa2fbd36bb9458167483703e54f38145e1e852da
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-https://ayo.maling.pl/video/id/205.mpd?dev_kaki_09&t=1776684562&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=c12394acd6b85987670c956dfa2fbd36bb9458167483703e54f38145e1e852da
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nOKXE5TkUHCHTYkUdLbywD_XA0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020783/19a9ce.jpg" group-title="BRI SUPER LEAGUE",14:55 WIB 20/04/26 Semen Padang FC vs PERSIJAP - BRI Super League [J1] (ALT)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/205.drm?dev_kaki_09&t=1776684562&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=c12394acd6b85987670c956dfa2fbd36bb9458167483703e54f38145e1e852da
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-https://ayo.maling.pl/video/id/205.mpd?dev_kaki_09&t=1776684562&uip=2a02%3A4780%3A6%3A1732%3A0%3A25a4%3A12c8%3A1&h=c12394acd6b85987670c956dfa2fbd36bb9458167483703e54f38145e1e852da
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhjzloql07/image/small" group-title="BRI SUPER LEAGUE",15:30 WIB - SEMEN PADANG VS PERSIJAP JEPARA [IDN ISL] (v1)
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80" group-title="BRI SUPER LEAGUE",[LIVE] (15:30 WIB) Semen Padang vs Persijap Jepara [BLV Cozy]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80" group-title="BRI SUPER LEAGUE",[LIVE] (15:30 WIB) Semen Padang vs Persijap Jepara [BLV Cozy]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46e87ccb8a5cacc290719d822b9f8fe1.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Persis Solo vs Bhayangkara Solo [BLV C2]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46e87ccb8a5cacc290719d822b9f8fe1.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Persis Solo vs Bhayangkara Solo [BLV C2]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) PSIM Yogyakarta vs Persija Jakarta [BLV STING]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) PSIM Yogyakarta vs Persija Jakarta [BLV STING]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/ced802f236fccb8a959a0f8cabdf7fc4/image/small?v=1768601124" group-title="BRI SUPER LEAGUE",[15.30 WIB] [LIVE] [Indonesian Super League] Semen Padang vs Persatuan Sepakbola Indonesia Jepara
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1k2xdqpwxv2x.png" group-title="BRI SUPER LEAGUE", [UPCOMING] Semen Padang vs Persijap Jepara * Indonesia: Liga 1 (15:30 WIB * 20/04/2026)
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zptbvOUxlz3w53DV47EX2LClWHQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019483/3ad2ff.jpg" group-title="BRI SUPER LEAGUE",18:30 WIB 20/04/26 Jelang Kick Off - Dewa United Banten FC vs PERSIB - BRI Super League
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3ZYIz4FsOBMSDzIbJP72_GmOf80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019484/29eff9.jpg" group-title="BRI SUPER LEAGUE",18:30 WIB 20/04/26 Dewa United Banten FC vs PERSIB - BRI Super League
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jt9Rnt-2QXp082IKtvkAnupH6Pc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5019485/27d1cb.jpg" group-title="BRI SUPER LEAGUE",18:52 WIB 20/04/26 PSS Sleman vs Persiku Kudus - Pegadaian Championship
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh8z1pqvy9/image/small" group-title="BRI SUPER LEAGUE",19:00 WIB - DEWA UNITED FC VS PERSIB BANDUNG [IDN ISL] (v1)
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (19:00 WIB) Dewa United FC vs Persib Bandung [BLV PEPSI]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (19:00 WIB) Dewa United FC vs Persib Bandung [BLV PEPSI]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1k2xdqpwxv2x.png" group-title="BRI SUPER LEAGUE", [UPCOMING] Dewa United vs Persib Bandung * Indonesia: Liga 1 (19:00 WIB * 20/04/2026)
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://tvku.family/dante/tigoals/logona.php?league=http%3A%2F%2Fzq.titan007.com%2FImage%2Fleague_match%2Fimages%2F1kazqdb9h92n.png" group-title="BRI SUPER LEAGUE", [UPCOMING] PSS Sleman vs Persiku Kudus * Indonesia: Liga 2 (19:00 WIB * 20/04/2026)
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2qqx3j57namW9l57MAlxH1OTnRI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020472/b0a5e9.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 22/04/26 PERSIS vs Bhayangkara Presisi Lampung FC - BRI Super League
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eg44xXwlDjaBztxOwxdB77-TkBs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021919/0d10cf.jpg" group-title="BRI SUPER LEAGUE",15:22 WIB 23/04/26 PSM Makassar vs PERSIK Kediri - BRI Super League
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png" group-title="SPORTS FHD",KANTIPUR MAX  HD
 http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C190-1763958788.png" group-title="SPORTS FHD",KANTIPUR MAX 2 HD
@@ -741,7 +780,10 @@ http://195.178.110.40/hls/hyhyhyhhhh.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/84cbbc8bc40a15d27aafc116d775cd27.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (15:30 WIB) Semen Padang vs Persijap Jepara [BLV Cozy]
-https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/87379114.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46e87ccb8a5cacc290719d822b9f8fe1.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (15:30 WIB) Persis Solo vs Bhayangkara Solo [BLV C2]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/video/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (15:30 WIB) PSIM Yogyakarta vs Persija Jakarta [BLV STING]
@@ -928,16 +970,16 @@ https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/21178.drm?dev_kaki_09&t=1776684562&uip=2a06%3A98c0%3A3600%3A%3A103&h=483735386c7c4bf4281052ea6797d815b2dbebfa5370ba218ea34ab4c8de5bcf
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/21178.drm?dev_kaki_09&t=1776685102&uip=2a06%3A98c0%3A3600%3A%3A103&h=c8d0d9cde755e82c7ad83c30101745d3910a9ba36d14c021365f70607852e57f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ayo.maling.pl/video/id/21178.mpd?dev_kaki_09&t=1776684562&uip=2a06%3A98c0%3A3600%3A%3A103&h=483735386c7c4bf4281052ea6797d815b2dbebfa5370ba218ea34ab4c8de5bcf
+https://ayo.maling.pl/video/id/21178.mpd?dev_kaki_09&t=1776685102&uip=2a06%3A98c0%3A3600%3A%3A103&h=c8d0d9cde755e82c7ad83c30101745d3910a9ba36d14c021365f70607852e57f
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bqIhhEZ_mt13sjJKdGaThwSkCBA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21178/voli-tv-2-ecf90b.jpg" group-title="LIVE EVENT NOW | VOLI",17:00 WIB 14/04/26 HALKBANK vs GALATASARAY HDI SIGORTA : TURKISH VOLLEYBALL 25/26 MEN'S LEAGUE (ALT)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/21178.drm?exp=1776684562&uip=2a06%3A98c0%3A3600%3A%3A103&sign=d62ea7e1a2b53a94670c9faddf12ad7e0d753085113fff73d1366eaf37c58e83
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/video/id/21178.drm?exp=1776685102&uip=2a06%3A98c0%3A3600%3A%3A103&sign=d1ae5fe2342348d5c1fc8fa8e0ebeec403df6bd9434897941c19d7405b13edcf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://ayo.maling.pl/video/id/21178.mpd?exp=1776684562&uip=2a06%3A98c0%3A3600%3A%3A103&sign=64fb8ed635ae9a78c16de9feead6079a642576fccfce55d5868018208fb56b42
+https://ayo.maling.pl/video/id/21178.mpd?exp=1776685102&uip=2a06%3A98c0%3A3600%3A%3A103&sign=f16991acff90381371dd30347c38b82afe7779786271fb6312669da1306a490b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="BRI SUPER LEAGUE",PSM Makassar vs Borneo FC
 #EXTVLCOPT:http-origin=https://may01bp.2f17ubowlsjn46easier.cfd
 #EXTVLCOPT:http-referrer=https://may01bp.2f17ubowlsjn46easier.cfd/
@@ -2686,43 +2728,39 @@ http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=b0a87e07c9e13c2048dc89080e039b40&wsABSTime=1776717029
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=ad2efcba824896cc5e0d3ef6d6b3d825&wsABSTime=1776717631
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhjzloql07/image/small" group-title="BRI SUPER LEAGUE",15:30 WIB - SEMEN PADANG VS PERSIJAP JEPARA [IDN ISL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=008dc8d1ce0b70c9116c16651155edad&wsABSTime=1776717030
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=e3f1bcbf43931ee7266b73b0f552845e&wsABSTime=1776717632
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whkw0yryox/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - FK OLEKSANDRIA VS VERES [UKR D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=5d4b956089845e41aeee0468713d4635&wsABSTime=1776717031
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=c9ecee7add4f1f4effda37f076427b8e&wsABSTime=1776717633
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnh66kzm7vx/image/small" group-title="LIVE EVENT | XOILACZ AI",18:00 WIB - DNEPR MOGILEV VS TORPEDO ZHODINO [BLR D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=73d180fd2b8c77cf9e6bf0b11a9d24b9&wsABSTime=1776717032
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=82c5a8ae3525312aa3e5e47c63312ce6&wsABSTime=1776717635
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/yl5ergph9nzr8k0/image/small" group-title="LIVE EVENT | XOILACZ AI",18:30 WIB - LION CITY VS YOUNG LIONS [SIN D1] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=26aac974b22d83a1e8b4af43219e75c0&wsABSTime=1776717033
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=65bb3e4978183139e241587cc5ef1d96&wsABSTime=1776717635
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh8z1pqvy9/image/small" group-title="BRI SUPER LEAGUE",19:00 WIB - DEWA UNITED FC VS PERSIB BANDUNG [IDN ISL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=db0d9c5b0173191fc9ade5fb7dd1eeba&wsABSTime=1776717034
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/vjxm8xt44o5q6od/image/small" group-title="LIVE EVENT | XOILACZ AI",14:00 WIB - NADEZHDA ORENBURG 2 WOMEN VS NU ENISEY KRASNOYARSK II [RHL] (v1)
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=2ebf3503eff845b8f5b3f398b35b13b6&wsABSTime=1776717636
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/jw2r02txn2lqz84/image/small" group-title="LIVE EVENT | XOILACZ AI",15:00 WIB - BACOLOD TUBO SLASHERS VS SARANGANI [PHI] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=f494ff965e6aaa844bd6d70ef7c061e9&wsABSTime=1776717034
+https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=d2fd4d25aa3f8de81b3bfd0b13afd56f&wsABSTime=1776717636
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnhe5yym7vx/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - NOIDA CITY FC VS ROYAL RANGERS FC [IND DSD]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="LIVE EVENT FAWANEWS",16:00 WIB | [Cricket] Bangladesh vs New Zealand
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-http://195.178.110.40/hls/hyhyhyhhhh.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cbdc592f8869a8b84ef211918d2360d3.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (14:00 WIB) Xiamen Chengyi vs Shenzhen 2028 [BLV GIA LANG]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
