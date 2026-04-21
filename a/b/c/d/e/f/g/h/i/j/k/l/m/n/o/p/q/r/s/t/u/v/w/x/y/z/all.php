@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.34 WIB 22/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.39 WIB 22/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="k82rekhge7gnrep" tvg-name="Machida Zelvia vs Shabab Al Ahli" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[LIVE 23:15 WIB | 21/04/26] Machida Zelvia vs Shabab Al Ahli",[LIVE 23:15 WIB | 21/04/26] Machida Zelvia vs Shabab Al Ahli (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="k82rekhge7gnrep" tvg-name="Machida Zelvia vs Shabab Al Ahli" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[LIVE 23:15 WIB | 21/04/26] Machida Zelvia vs Shabab Al Ahli",[LIVE 23:15 WIB | 21/04/26] Machida Zelvia vs Shabab Al Ahli (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="23xmvkh68vk4qg8" tvg-name="Al-Tai vs Abha" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:15 WIB | 21/04/26] Al-Tai vs Abha",[LIVE 23:15 WIB | 21/04/26] Al-Tai vs Abha (Giàng A Ka)
-https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="23xmvkh68vk4qg8" tvg-name="Al-Tai vs Abha" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:15 WIB | 21/04/26] Al-Tai vs Abha",[LIVE 23:15 WIB | 21/04/26] Al-Tai vs Abha (Giàng A Ka)
-https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="jw2r09hk3je8rz8" tvg-name="AC Horsens vs Esbjerg" tvg-logo="https://img.cdnok9.com/football/competition/90f0e3d0c2b3d1d11df55d7d4a012f16.png" group-title="[LIVE 23:00 WIB | 21/04/26] AC Horsens vs Esbjerg",[LIVE 23:00 WIB | 21/04/26] AC Horsens vs Esbjerg (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="jw2r09hk3je8rz8" tvg-name="AC Horsens vs Esbjerg" tvg-logo="https://img.cdnok9.com/football/competition/90f0e3d0c2b3d1d11df55d7d4a012f16.png" group-title="[LIVE 23:00 WIB | 21/04/26] AC Horsens vs Esbjerg",[LIVE 23:00 WIB | 21/04/26] AC Horsens vs Esbjerg (GIÀNG A TÁO)
@@ -25,18 +17,18 @@ https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb022234
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="dj2ryohl7z9dq1z" tvg-name="Konyaspor vs Fenerbahce" tvg-logo="https://img.cdnok9.com/football/competition/df788219029240c7d067b3e9c69cc56e.png" group-title="[LIVE 00:30 WIB | 22/04/26] Konyaspor vs Fenerbahce",[LIVE 00:30 WIB | 22/04/26] Konyaspor vs Fenerbahce (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="6ypq3nhvz1pxmd7" tvg-name="Athletic Club vs CA Osasuna" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna",[LIVE 00:00 WIB | 22/04/26] Athletic Club vs CA Osasuna (Giàng A Sếu)
@@ -53,14 +45,14 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="l7oqdehgx07yr51" tvg-name="Hvidovre IF vs Kolding FC" tvg-logo="https://img.cdnok9.com/football/competition/90f0e3d0c2b3d1d11df55d7d4a012f16.png" group-title="[LIVE 00:00 WIB | 22/04/26] Hvidovre IF vs Kolding FC",[LIVE 00:00 WIB | 22/04/26] Hvidovre IF vs Kolding FC (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="1l4rjnh9zep2m7v" tvg-name="RCD Mallorca vs Valencia CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF",[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="1l4rjnh9zep2m7v" tvg-name="RCD Mallorca vs Valencia CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF",[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="1l4rjnh9zep2m7v" tvg-name="RCD Mallorca vs Valencia CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF",[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="1l4rjnh9zep2m7v" tvg-name="RCD Mallorca vs Valencia CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF",[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF (HOÀNG CÁI)
 https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="1l4rjnh9zep2m7v" tvg-name="RCD Mallorca vs Valencia CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF",[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF (Giàng A Voi)
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="1l4rjnh9zep2m7v" tvg-name="RCD Mallorca vs Valencia CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF",[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF (Giàng A Voi)
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="1l4rjnh9zep2m7v" tvg-name="RCD Mallorca vs Valencia CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF",[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="1l4rjnh9zep2m7v" tvg-name="RCD Mallorca vs Valencia CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF",[LIVE 00:00 WIB | 22/04/26] RCD Mallorca vs Valencia CF (GIÀNG A PHỆ )
@@ -81,3 +73,11 @@ https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067a
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="pxwrxlhyl326ryk" tvg-name="Rheindorf Altach vs WSG Tirol" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 23:30 WIB | 21/04/26] Rheindorf Altach vs WSG Tirol",[LIVE 23:30 WIB | 21/04/26] Rheindorf Altach vs WSG Tirol (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="k82rekhge7gnrep" tvg-name="Machida Zelvia vs Shabab Al Ahli" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[LIVE 23:15 WIB | 21/04/26] Machida Zelvia vs Shabab Al Ahli",[LIVE 23:15 WIB | 21/04/26] Machida Zelvia vs Shabab Al Ahli (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="k82rekhge7gnrep" tvg-name="Machida Zelvia vs Shabab Al Ahli" tvg-logo="https://img.cdnok9.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="[LIVE 23:15 WIB | 21/04/26] Machida Zelvia vs Shabab Al Ahli",[LIVE 23:15 WIB | 21/04/26] Machida Zelvia vs Shabab Al Ahli (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="23xmvkh68vk4qg8" tvg-name="Al-Tai vs Abha" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:15 WIB | 21/04/26] Al-Tai vs Abha",[LIVE 23:15 WIB | 21/04/26] Al-Tai vs Abha (Giàng A Ka)
+https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="23xmvkh68vk4qg8" tvg-name="Al-Tai vs Abha" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:15 WIB | 21/04/26] Al-Tai vs Abha",[LIVE 23:15 WIB | 21/04/26] Al-Tai vs Abha (Giàng A Ka)
+https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
