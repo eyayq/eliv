@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.05 WIB 21/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [09.14 WIB 21/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="y0or5jh8z2voqwz" tvg-name="Atletico Nacional Medellin vs Atletico Bucaramanga" tvg-logo="https://img.cdnok9.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="[LIVE 08:30 WIB | 21/04/26] Atletico Nacional Medellin vs Atletico Bucaramanga",[LIVE 08:30 WIB | 21/04/26] Atletico Nacional Medellin vs Atletico Bucaramanga (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
