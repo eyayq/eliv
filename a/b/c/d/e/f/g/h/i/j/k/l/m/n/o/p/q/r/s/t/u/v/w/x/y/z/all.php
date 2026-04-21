@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.48 WIB 21/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.56 WIB 21/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="k82rekhg0px7rep" tvg-name="Univ Catolica vs Union La Calera" tvg-logo="https://img.cdnok9.com/football/competition/fee37a97f3d0e08209e4846fcff45cba.png" group-title="[LIVE 07:30 WIB | 21/04/26] Univ Catolica vs Union La Calera",[LIVE 07:30 WIB | 21/04/26] Univ Catolica vs Union La Calera (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
