@@ -1,29 +1,29 @@
 #EXTM3U
-# Generated Tue Apr 21 04:53:06 2026
+# Generated Tue Apr 21 04:53:59 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 21-04-2026 11:52:54 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 21-04-2026 11:53:50 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 OFC Pro League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png",📁😈South Island United FC😈 [🆚] 😈Auckland FC Reserves [LIVE]😈📁
-https://bf.jalaplay.net/live/5005017.m3u8?txSecret=027bcbccebd116abe4380887c0af9190&txTime=69e70035
-#EXTINF:-1 group-title="📁😈 OFC Pro League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png",📁😈South Island United FC😈 [🆚] 😈Auckland FC Reserves [LIVE]😈📁
 https://bf.jalaplay.net/live/322723.m3u8?txSecret=706e4d9494040766f55fd59b33f3ac23&txTime=69e70018
-#EXTINF:-1 group-title="📁😈 Portuguese U23 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png",📁😈Leixoes U23😈 [🆚] 😈Santa Clara U23 [307m]😈📁
+#EXTINF:-1 group-title="📁😈 OFC Pro League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png",📁😈South Island United FC😈 [🆚] 😈Auckland FC Reserves [LIVE]😈📁
+https://bf.jalaplay.net/live/5005017.m3u8?txSecret=027bcbccebd116abe4380887c0af9190&txTime=69e70035
+#EXTINF:-1 group-title="📁😈 Portuguese U23 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png",📁😈Leixoes U23😈 [🆚] 😈Santa Clara U23 [306m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4472537
-#EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Jeonbuk Hyundai Motors😈 [🆚] 😈Incheon United Club [337m]😈📁
+#EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Jeonbuk Hyundai Motors😈 [🆚] 😈Incheon United Club [336m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4480384
-#EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Gimcheon Sangmu Football Club😈 [🆚] 😈Gangwon Football Club [337m]😈📁
+#EXTINF:-1 group-title="📁😈 Korean K League 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",📁😈Gimcheon Sangmu Football Club😈 [🆚] 😈Gangwon Football Club [336m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4480388
-#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Shenzhen Peng City😈 [🆚] 😈Beijing Guoan [367m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Shenzhen Peng City😈 [🆚] 😈Beijing Guoan [366m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4498779
-#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Chengdu Rongcheng😈 [🆚] 😈Yunnan Yukun [402m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Chengdu Rongcheng😈 [🆚] 😈Yunnan Yukun [401m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4498781
-#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Wuhan Three Towns😈 [🆚] 😈Zhejiang Professional FC [402m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Wuhan Three Towns😈 [🆚] 😈Zhejiang Professional FC [401m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4498783
-#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Shanghai Port😈 [🆚] 😈Chongqing Tonglianglong [427m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Shanghai Port😈 [🆚] 😈Chongqing Tonglianglong [426m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4498786
-#EXTINF:-1 group-title="📁😈 Portuguese U23 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png",📁😈Famalicao U23😈 [🆚] 😈Torreense U23 [487m]😈📁
+#EXTINF:-1 group-title="📁😈 Portuguese U23 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png",📁😈Famalicao U23😈 [🆚] 😈Torreense U23 [486m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4472536
-#EXTINF:-1 group-title="📁😈 Portuguese U23 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png",📁😈Rio Ave U23😈 [🆚] 😈Portimonense U23 [547m]😈📁
+#EXTINF:-1 group-title="📁😈 Portuguese U23 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png",📁😈Rio Ave U23😈 [🆚] 😈Portimonense U23 [546m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4472481
 #EXTINF:-1 group-title="📁😈 Russian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d4d461679eedfed50374d47d84431ef3.png",📁😈FC Sochi😈 [🆚] 😈Krylya Sovetov [576m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4357086
