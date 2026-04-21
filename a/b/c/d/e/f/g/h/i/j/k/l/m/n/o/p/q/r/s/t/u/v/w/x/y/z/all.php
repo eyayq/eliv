@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.16 WIB 22/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.24 WIB 22/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="dj2ryohlj23oq1z" tvg-name="Real Madrid vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés",[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="dj2ryohlj23oq1z" tvg-name="Real Madrid vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés",[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="dj2ryohlj23oq1z" tvg-name="Real Madrid vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés",[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="dj2ryohlj23oq1z" tvg-name="Real Madrid vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés",[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés (Lữ Bố (Giàng Phụng Tiên))
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="dj2ryohlj23oq1z" tvg-name="Real Madrid vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés",[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés (Giàng A Rùa)
+https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="dj2ryohlj23oq1z" tvg-name="Real Madrid vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés",[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés (Giàng A Rùa)
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="dj2ryohlj23oq1z" tvg-name="Real Madrid vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés",[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="dj2ryohlj23oq1z" tvg-name="Real Madrid vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés",[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés (Giàng A Sếu)
