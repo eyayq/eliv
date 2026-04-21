@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [16.31 WIB 21/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [16.39 WIB 21/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="x7lm7phj381gm2w" tvg-name="Bangladesh Police Club vs Bashundhara Kings" tvg-logo="https://img.cdnok9.com/football/competition/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings",[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="x7lm7phj381gm2w" tvg-name="Bangladesh Police Club vs Bashundhara Kings" tvg-logo="https://img.cdnok9.com/football/competition/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings",[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="x7lm7phj381gm2w" tvg-name="Bangladesh Police Club vs Bashundhara Kings" tvg-logo="https://img.cdnok9.com/football/competition/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings",[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings (Giàng A Mèo)
-https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="x7lm7phj381gm2w" tvg-name="Bangladesh Police Club vs Bashundhara Kings" tvg-logo="https://img.cdnok9.com/football/competition/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings",[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings (Giàng A Mèo)
-https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="vjxm8ghe531yr6o" tvg-name="Arambagh KS vs Mohammedan Dhaka" tvg-logo="https://img.cdnok9.com/football/competition/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="[LIVE 15:45 WIB | 21/04/26] Arambagh KS vs Mohammedan Dhaka",[LIVE 15:45 WIB | 21/04/26] Arambagh KS vs Mohammedan Dhaka (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="vjxm8ghe531yr6o" tvg-name="Arambagh KS vs Mohammedan Dhaka" tvg-logo="https://img.cdnok9.com/football/competition/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="[LIVE 15:45 WIB | 21/04/26] Arambagh KS vs Mohammedan Dhaka",[LIVE 15:45 WIB | 21/04/26] Arambagh KS vs Mohammedan Dhaka (GIÀNG A TÁO)
@@ -33,15 +25,19 @@ https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="n54qllhn43evqvy" tvg-name="Criacao Shinjuku vs Iwate Grulla Morioka" tvg-logo="https://img.cdnok9.com/football/competition/6c3c84e1c02d4b5226e5d09361aca6ab.png" group-title="[LIVE 16:00 WIB | 21/04/26] Criacao Shinjuku vs Iwate Grulla Morioka",[LIVE 16:00 WIB | 21/04/26] Criacao Shinjuku vs Iwate Grulla Morioka (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="69e70a05b308c6f8e5a9a005" tvg-name="Bayern Munich - Real Madrid" tvg-logo="" group-title="[UPCO 23:58 WIB | 7j 26m | 21/04/26] Bayern Munich - Real Madrid",[UPCO 23:58 WIB | 7j 26m | 21/04/26] Bayern Munich - Real Madrid (VĂN VỞ)
-https://hls.686868.me/live/ALUNG/index.m3u8?expire=1878046140&sign=f6f7d2969c5cf33732ab93012975e1c9
-#EXTINF:-1 tvg-id="69e70a05b308c6f8e5a9a005" tvg-name="Bayern Munich - Real Madrid" tvg-logo="" group-title="[UPCO 23:58 WIB | 7j 26m | 21/04/26] Bayern Munich - Real Madrid",[UPCO 23:58 WIB | 7j 26m | 21/04/26] Bayern Munich - Real Madrid (VĂN VỞ)
-https://flv.686868.me/live/ALUNG.flv?expire=1878046140&sign=f6f7d2969c5cf33732ab93012975e1c9
-#EXTINF:-1 tvg-id="69e71fd8f23e0bf61876dc47" tvg-name="Manchester City vs Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 7j 27m | 21/04/26] Manchester City vs Arsenal",[UPCO 23:59 WIB | 7j 27m | 21/04/26] Manchester City vs Arsenal (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="x7lm7phj381gm2w" tvg-name="Bangladesh Police Club vs Bashundhara Kings" tvg-logo="https://img.cdnok9.com/football/competition/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings",[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="x7lm7phj381gm2w" tvg-name="Bangladesh Police Club vs Bashundhara Kings" tvg-logo="https://img.cdnok9.com/football/competition/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings",[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="x7lm7phj381gm2w" tvg-name="Bangladesh Police Club vs Bashundhara Kings" tvg-logo="https://img.cdnok9.com/football/competition/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings",[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings (Giàng A Mèo)
+https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="x7lm7phj381gm2w" tvg-name="Bangladesh Police Club vs Bashundhara Kings" tvg-logo="https://img.cdnok9.com/football/competition/078ad2b90290e8f0da9d50cf63142ad8.png" group-title="[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings",[LIVE 15:45 WIB | 21/04/26] Bangladesh Police Club vs Bashundhara Kings (Giàng A Mèo)
+https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="69e71fd8f23e0bf61876dc47" tvg-name="Manchester City vs Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 7j 19m | 21/04/26] Manchester City vs Arsenal",[UPCO 23:59 WIB | 7j 19m | 21/04/26] Manchester City vs Arsenal (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69e71fd8f23e0bf61876dc47" tvg-name="Manchester City vs Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 7j 27m | 21/04/26] Manchester City vs Arsenal",[UPCO 23:59 WIB | 7j 27m | 21/04/26] Manchester City vs Arsenal (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69e71fd8f23e0bf61876dc47" tvg-name="Manchester City vs Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 7j 19m | 21/04/26] Manchester City vs Arsenal",[UPCO 23:59 WIB | 7j 19m | 21/04/26] Manchester City vs Arsenal (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69e7090662195fef9b2d2cde" tvg-name="Man City - Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 7j 27m | 21/04/26] Man City - Arsenal",[UPCO 23:59 WIB | 7j 27m | 21/04/26] Man City - Arsenal (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69e7090662195fef9b2d2cde" tvg-name="Man City - Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 7j 19m | 21/04/26] Man City - Arsenal",[UPCO 23:59 WIB | 7j 19m | 21/04/26] Man City - Arsenal (Giàng A Gấu)
 https://hls.686868.me/live/Giangalo/index.m3u8?expire=1777012560&sign=be2f60f6416ebc1a300a944171d8b3bd
-#EXTINF:-1 tvg-id="69e7090662195fef9b2d2cde" tvg-name="Man City - Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 7j 27m | 21/04/26] Man City - Arsenal",[UPCO 23:59 WIB | 7j 27m | 21/04/26] Man City - Arsenal (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69e7090662195fef9b2d2cde" tvg-name="Man City - Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 7j 19m | 21/04/26] Man City - Arsenal",[UPCO 23:59 WIB | 7j 19m | 21/04/26] Man City - Arsenal (Giàng A Gấu)
 https://flv.686868.me/live/Giangalo.flv?expire=1777012560&sign=be2f60f6416ebc1a300a944171d8b3bd
