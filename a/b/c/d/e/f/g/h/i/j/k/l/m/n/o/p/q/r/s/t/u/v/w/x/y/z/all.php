@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.34 WIB 22/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.38 WIB 22/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="ednm9whwwdveryo" tvg-name="Inter Milan vs Como" tvg-logo="https://img.cdnok9.com/football/competition/e7d8a305f30ef391501720bf30326072.png" group-title="[LIVE 02:00 WIB | 22/04/26] Inter Milan vs Como",[LIVE 02:00 WIB | 22/04/26] Inter Milan vs Como (Giàng A Hổ)
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
@@ -45,30 +45,6 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="dj2ryohlj23oq1z" tvg-name="Real Madrid vs Deportivo Alavés" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés",[LIVE 02:30 WIB | 22/04/26] Real Madrid vs Deportivo Alavés (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="pxwrxlhy189vryk" tvg-name="Oxford United vs Wrexham" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Oxford United vs Wrexham",[LIVE 01:45 WIB | 22/04/26] Oxford United vs Wrexham (Giàng A Ka)
-https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="pxwrxlhy189vryk" tvg-name="Oxford United vs Wrexham" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Oxford United vs Wrexham",[LIVE 01:45 WIB | 22/04/26] Oxford United vs Wrexham (Giàng A Ka)
-https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="23xmvkh6dxzxqg8" tvg-name="Girona FC vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis",[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="23xmvkh6dxzxqg8" tvg-name="Girona FC vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis",[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="23xmvkh6dxzxqg8" tvg-name="Girona FC vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis",[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="23xmvkh6dxzxqg8" tvg-name="Girona FC vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis",[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="1l4rjnh91oznm7v" tvg-name="Leicester City vs Hull City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Leicester City vs Hull City",[LIVE 01:45 WIB | 22/04/26] Leicester City vs Hull City (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="1l4rjnh91oznm7v" tvg-name="Leicester City vs Hull City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Leicester City vs Hull City",[LIVE 01:45 WIB | 22/04/26] Leicester City vs Hull City (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="8yomo4h1kl2vq0j" tvg-name="West Bromwich Albion vs Watford" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] West Bromwich Albion vs Watford",[LIVE 01:45 WIB | 22/04/26] West Bromwich Albion vs Watford (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="8yomo4h1kl2vq0j" tvg-name="West Bromwich Albion vs Watford" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] West Bromwich Albion vs Watford",[LIVE 01:45 WIB | 22/04/26] West Bromwich Albion vs Watford (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="dj2ryohly6jyq1z" tvg-name="Stoke City vs Millwall" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Stoke City vs Millwall",[LIVE 01:45 WIB | 22/04/26] Stoke City vs Millwall (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="dj2ryohly6jyq1z" tvg-name="Stoke City vs Millwall" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Stoke City vs Millwall",[LIVE 01:45 WIB | 22/04/26] Stoke City vs Millwall (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="jw2r09hknyx4rz8" tvg-name="Southampton vs Bristol City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Southampton vs Bristol City",[LIVE 01:45 WIB | 22/04/26] Southampton vs Bristol City (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="jw2r09hknyx4rz8" tvg-name="Southampton vs Bristol City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Southampton vs Bristol City",[LIVE 01:45 WIB | 22/04/26] Southampton vs Bristol City (GIÀNG A MÂY)
@@ -85,3 +61,27 @@ https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad4
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="y39mp1h65g5nmoj" tvg-name="Coventry City vs Portsmouth" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Coventry City vs Portsmouth",[LIVE 01:45 WIB | 22/04/26] Coventry City vs Portsmouth (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="pxwrxlhy189vryk" tvg-name="Oxford United vs Wrexham" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Oxford United vs Wrexham",[LIVE 01:45 WIB | 22/04/26] Oxford United vs Wrexham (Giàng A Ka)
+https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="pxwrxlhy189vryk" tvg-name="Oxford United vs Wrexham" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Oxford United vs Wrexham",[LIVE 01:45 WIB | 22/04/26] Oxford United vs Wrexham (Giàng A Ka)
+https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="23xmvkh6dxzxqg8" tvg-name="Girona FC vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis",[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="23xmvkh6dxzxqg8" tvg-name="Girona FC vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis",[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="23xmvkh6dxzxqg8" tvg-name="Girona FC vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis",[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="23xmvkh6dxzxqg8" tvg-name="Girona FC vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis",[LIVE 02:30 WIB | 22/04/26] Girona FC vs Real Betis (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="1l4rjnh91oznm7v" tvg-name="Leicester City vs Hull City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Leicester City vs Hull City",[LIVE 01:45 WIB | 22/04/26] Leicester City vs Hull City (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="1l4rjnh91oznm7v" tvg-name="Leicester City vs Hull City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Leicester City vs Hull City",[LIVE 01:45 WIB | 22/04/26] Leicester City vs Hull City (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="8yomo4h1kl2vq0j" tvg-name="West Bromwich Albion vs Watford" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] West Bromwich Albion vs Watford",[LIVE 01:45 WIB | 22/04/26] West Bromwich Albion vs Watford (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="8yomo4h1kl2vq0j" tvg-name="West Bromwich Albion vs Watford" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] West Bromwich Albion vs Watford",[LIVE 01:45 WIB | 22/04/26] West Bromwich Albion vs Watford (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="dj2ryohly6jyq1z" tvg-name="Stoke City vs Millwall" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Stoke City vs Millwall",[LIVE 01:45 WIB | 22/04/26] Stoke City vs Millwall (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="dj2ryohly6jyq1z" tvg-name="Stoke City vs Millwall" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 22/04/26] Stoke City vs Millwall",[LIVE 01:45 WIB | 22/04/26] Stoke City vs Millwall (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
