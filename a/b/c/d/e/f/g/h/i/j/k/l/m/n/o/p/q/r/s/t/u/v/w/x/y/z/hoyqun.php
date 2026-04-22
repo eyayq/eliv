@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:38 WIB 23/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:38 WIB 23/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:45 WIB 23/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:45 WIB 23/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[23:45 WIB 22/04/26] Dynamo vs Rubin [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[23:45 WIB 22/04/26] Dynamo vs Rubin [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[23:45 WIB 22/04/26] Dynamo vs Rubin [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[00:00 WIB 23/04/26] Paris Saint Germain vs Nantes [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
@@ -110,24 +101,6 @@ https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 23/04/26] Detroit Pistons vs Orlando Magic [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 23/04/26] Atlanta Hawks vs New York Knicks [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 23/04/26] Atlanta Hawks vs New York Knicks [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 23/04/26] Atlanta Hawks vs New York Knicks [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 23/04/26] Toronto Raptors vs Cleveland Cavaliers [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 23/04/26] Toronto Raptors vs Cleveland Cavaliers [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 23/04/26] Toronto Raptors vs Cleveland Cavaliers [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[08:00 WIB 23/04/26] Mazatlán vs Toluca [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 
@@ -154,15 +127,6 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:30 WIB 23/04/26] Real Salt Lake vs Inter Miami [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 23/04/26] Minnesota Timberwolves vs Denver Nuggets [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 23/04/26] Minnesota Timberwolves vs Denver Nuggets [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 23/04/26] Minnesota Timberwolves vs Denver Nuggets [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[09:30 WIB 23/04/26] Los Angeles FC vs Colorado Rapids [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
@@ -216,33 +180,6 @@ https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[18:00 WIB 23/04/26] Iga Swiatek vs Daria Snigur [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 23/04/26] Ningbo Rockets vs Beijing Royal Fighters [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 23/04/26] Ningbo Rockets vs Beijing Royal Fighters [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 23/04/26] Ningbo Rockets vs Beijing Royal Fighters [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 23/04/26] Guangzhou vs Shenzhen [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 23/04/26] Guangzhou vs Shenzhen [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 23/04/26] Guangzhou vs Shenzhen [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 23/04/26] Beijing Duck vs Jilin  [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 23/04/26] Beijing Duck vs Jilin  [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 23/04/26] Beijing Duck vs Jilin  [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 23/04/26] Malut United vs Persebaya Surabaya [FHD] [NANTIKAN]
@@ -443,6 +380,24 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XFSnVNb.jpeg" group-title="Copa do Brasil",[05:30 WIB 24/04/26] Palmeiras vs EC Jacuipense [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 24/04/26] Atlanta Hawks vs New York Knicks [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 24/04/26] Atlanta Hawks vs New York Knicks [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 24/04/26] Atlanta Hawks vs New York Knicks [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 24/04/26] Toronto Raptors vs Cleveland Cavaliers [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 24/04/26] Toronto Raptors vs Cleveland Cavaliers [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 24/04/26] Toronto Raptors vs Cleveland Cavaliers [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XFSnVNb.jpeg" group-title="Copa do Brasil",[07:30 WIB 24/04/26] Operario Ferroviario vs Fluminense [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 
@@ -451,6 +406,15 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XFSnVNb.jpeg" group-title="Copa do Brasil",[07:30 WIB 24/04/26] Operario Ferroviario vs Fluminense [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 24/04/26] Minnesota Timberwolves vs Denver Nuggets [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 24/04/26] Minnesota Timberwolves vs Denver Nuggets [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 24/04/26] Minnesota Timberwolves vs Denver Nuggets [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[13:30 WIB 24/04/26] Trung Quốc vs Australia (Thomas) [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
@@ -523,6 +487,33 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/04/26] Phu Dong vs Ha Noi [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 24/04/26] Ningbo Rockets vs Beijing Royal Fighters [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 24/04/26] Ningbo Rockets vs Beijing Royal Fighters [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 24/04/26] Ningbo Rockets vs Beijing Royal Fighters [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 24/04/26] Guangzhou vs Shenzhen [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 24/04/26] Guangzhou vs Shenzhen [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 24/04/26] Guangzhou vs Shenzhen [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 24/04/26] Beijing Duck vs Jilin  [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 24/04/26] Beijing Duck vs Jilin  [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 24/04/26] Beijing Duck vs Jilin  [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 24/04/26] Persib Bandung vs Arema FC [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
