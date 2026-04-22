@@ -1,23 +1,14 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [05:01 WIB 23/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [05:01 WIB 23/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [05:10 WIB 23/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [05:10 WIB 23/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[05:30 WIB 23/04/26] Santos FC vs Coritiba [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[05:30 WIB 23/04/26] Santos FC vs Coritiba [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[05:30 WIB 23/04/26] Santos FC vs Coritiba [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 23/04/26] Detroit Pistons vs Orlando Magic [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[05:30 WIB 23/04/26] Santos FC vs Coritiba [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 23/04/26] Detroit Pistons vs Orlando Magic [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[05:30 WIB 23/04/26] Santos FC vs Coritiba [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 23/04/26] Detroit Pistons vs Orlando Magic [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[05:30 WIB 23/04/26] Santos FC vs Coritiba [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[08:00 WIB 23/04/26] Mazatlán vs Toluca [FHD] [NANTIKAN]
