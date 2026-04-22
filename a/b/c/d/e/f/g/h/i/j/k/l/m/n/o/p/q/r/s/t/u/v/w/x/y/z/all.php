@@ -1,6 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.49 WIB 23/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.04 WIB 23/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="n54qllhn3292qvy" tvg-name="Club Brugge vs KV Mechelen" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 01:30 WIB | 23/04/26] Club Brugge vs KV Mechelen",[LIVE 01:30 WIB | 23/04/26] Club Brugge vs KV Mechelen (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="n54qllhn3292qvy" tvg-name="Club Brugge vs KV Mechelen" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 01:30 WIB | 23/04/26] Club Brugge vs KV Mechelen",[LIVE 01:30 WIB | 23/04/26] Club Brugge vs KV Mechelen (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="6ypq3nhvkn1jmd7" tvg-name="Sturm Graz vs LASK Linz" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 01:30 WIB | 23/04/26] Sturm Graz vs LASK Linz",[LIVE 01:30 WIB | 23/04/26] Sturm Graz vs LASK Linz (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="6ypq3nhvkn1jmd7" tvg-name="Sturm Graz vs LASK Linz" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 01:30 WIB | 23/04/26] Sturm Graz vs LASK Linz",[LIVE 01:30 WIB | 23/04/26] Sturm Graz vs LASK Linz (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="vjxm8gheevxkr6o" tvg-name="FC Porto vs Sporting CP" tvg-logo="https://img.cdnok9.com/football/competition/8a441eec56ff81f47f8e927fe2708587.png" group-title="[LIVE 02:45 WIB | 23/04/26] FC Porto vs Sporting CP",[LIVE 02:45 WIB | 23/04/26] FC Porto vs Sporting CP (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="vjxm8gheevxkr6o" tvg-name="FC Porto vs Sporting CP" tvg-logo="https://img.cdnok9.com/football/competition/8a441eec56ff81f47f8e927fe2708587.png" group-title="[LIVE 02:45 WIB | 23/04/26] FC Porto vs Sporting CP",[LIVE 02:45 WIB | 23/04/26] FC Porto vs Sporting CP (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (Giàng A Rùa)
+https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (Giàng A Rùa)
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="3glrw7hn4zjxqdy" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/5598719801fa02e53b44827f791be316.png" group-title="[LIVE 02:00 WIB | 23/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 02:00 WIB | 23/04/26] RC Strasbourg Alsace vs OGC Nice (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="3glrw7hn4zjxqdy" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/5598719801fa02e53b44827f791be316.png" group-title="[LIVE 02:00 WIB | 23/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 02:00 WIB | 23/04/26] RC Strasbourg Alsace vs OGC Nice (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="1l4rjnh91xn3m7v" tvg-name="Burnley vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City",[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="1l4rjnh91xn3m7v" tvg-name="Burnley vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City",[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="1l4rjnh91xn3m7v" tvg-name="Burnley vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City",[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="1l4rjnh91xn3m7v" tvg-name="Burnley vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City",[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City (Giàng A Gấu)
@@ -17,10 +53,10 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="1l4rjnh91xn3m7v" tvg-name="Burnley vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City",[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="1l4rjnh91xn3m7v" tvg-name="Burnley vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City",[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="1l4rjnh91xn3m7v" tvg-name="Burnley vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City",[LIVE 02:00 WIB | 23/04/26] Burnley vs Manchester City (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="8yomo4h1kv1dq0j" tvg-name="Bournemouth AFC vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United",[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="8yomo4h1kv1dq0j" tvg-name="Bournemouth AFC vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United",[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="8yomo4h1kv1dq0j" tvg-name="Bournemouth AFC vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United",[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="8yomo4h1kv1dq0j" tvg-name="Bournemouth AFC vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United",[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United (Giàng A Húp)
@@ -29,10 +65,6 @@ https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="8yomo4h1kv1dq0j" tvg-name="Bournemouth AFC vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United",[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United (GIÀNG A PHỆ )
 https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="8yomo4h1kv1dq0j" tvg-name="Bournemouth AFC vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United",[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="8yomo4h1kv1dq0j" tvg-name="Bournemouth AFC vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United",[LIVE 02:00 WIB | 23/04/26] Bournemouth AFC vs Leeds United (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="y39mp1h66kypmoj" tvg-name="Atalanta vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/e7d8a305f30ef391501720bf30326072.png" group-title="[LIVE 02:00 WIB | 23/04/26] Atalanta vs Lazio",[LIVE 02:00 WIB | 23/04/26] Atalanta vs Lazio (GIÀNG A BẨY )
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="y39mp1h66kypmoj" tvg-name="Atalanta vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/e7d8a305f30ef391501720bf30326072.png" group-title="[LIVE 02:00 WIB | 23/04/26] Atalanta vs Lazio",[LIVE 02:00 WIB | 23/04/26] Atalanta vs Lazio (GIÀNG A BẨY )
@@ -49,39 +81,3 @@ https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc1225
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="ednm9whw9yzpryo" tvg-name="Sheffield United vs Blackburn Rovers" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 01:45 WIB | 23/04/26] Sheffield United vs Blackburn Rovers",[LIVE 01:45 WIB | 23/04/26] Sheffield United vs Blackburn Rovers (Giàng A Ka)
 https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="n54qllhn3292qvy" tvg-name="Club Brugge vs KV Mechelen" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 01:30 WIB | 23/04/26] Club Brugge vs KV Mechelen",[LIVE 01:30 WIB | 23/04/26] Club Brugge vs KV Mechelen (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="n54qllhn3292qvy" tvg-name="Club Brugge vs KV Mechelen" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 01:30 WIB | 23/04/26] Club Brugge vs KV Mechelen",[LIVE 01:30 WIB | 23/04/26] Club Brugge vs KV Mechelen (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="6ypq3nhvkn1jmd7" tvg-name="Sturm Graz vs LASK Linz" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 01:30 WIB | 23/04/26] Sturm Graz vs LASK Linz",[LIVE 01:30 WIB | 23/04/26] Sturm Graz vs LASK Linz (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="6ypq3nhvkn1jmd7" tvg-name="Sturm Graz vs LASK Linz" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 01:30 WIB | 23/04/26] Sturm Graz vs LASK Linz",[LIVE 01:30 WIB | 23/04/26] Sturm Graz vs LASK Linz (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="318q66hx870pqo9" tvg-name="Viborg vs Brondby IF" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 01:00 WIB | 23/04/26] Viborg vs Brondby IF",[LIVE 01:00 WIB | 23/04/26] Viborg vs Brondby IF (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="318q66hx870pqo9" tvg-name="Viborg vs Brondby IF" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 01:00 WIB | 23/04/26] Viborg vs Brondby IF",[LIVE 01:00 WIB | 23/04/26] Viborg vs Brondby IF (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="vjxm8gheevxkr6o" tvg-name="FC Porto vs Sporting CP" tvg-logo="https://img.cdnok9.com/football/competition/8a441eec56ff81f47f8e927fe2708587.png" group-title="[LIVE 02:45 WIB | 23/04/26] FC Porto vs Sporting CP",[LIVE 02:45 WIB | 23/04/26] FC Porto vs Sporting CP (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="vjxm8gheevxkr6o" tvg-name="FC Porto vs Sporting CP" tvg-logo="https://img.cdnok9.com/football/competition/8a441eec56ff81f47f8e927fe2708587.png" group-title="[LIVE 02:45 WIB | 23/04/26] FC Porto vs Sporting CP",[LIVE 02:45 WIB | 23/04/26] FC Porto vs Sporting CP (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="8yomo4h12zjwq0j" tvg-name="FC Barcelona vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta",[LIVE 02:30 WIB | 23/04/26] FC Barcelona vs RC Celta (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="3glrw7hn4zjxqdy" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/5598719801fa02e53b44827f791be316.png" group-title="[LIVE 02:00 WIB | 23/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 02:00 WIB | 23/04/26] RC Strasbourg Alsace vs OGC Nice (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="3glrw7hn4zjxqdy" tvg-name="RC Strasbourg Alsace vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/5598719801fa02e53b44827f791be316.png" group-title="[LIVE 02:00 WIB | 23/04/26] RC Strasbourg Alsace vs OGC Nice",[LIVE 02:00 WIB | 23/04/26] RC Strasbourg Alsace vs OGC Nice (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
