@@ -1,26 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.38 WIB 23/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.29 WIB 23/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="2y8m4zh5vp1yql0" tvg-name="Red Bull Salzburg vs Austria Vienna" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 23:30 WIB | 22/04/26] Red Bull Salzburg vs Austria Vienna",[LIVE 23:30 WIB | 22/04/26] Red Bull Salzburg vs Austria Vienna (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="2y8m4zh5vp1yql0" tvg-name="Red Bull Salzburg vs Austria Vienna" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 23:30 WIB | 22/04/26] Red Bull Salzburg vs Austria Vienna",[LIVE 23:30 WIB | 22/04/26] Red Bull Salzburg vs Austria Vienna (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="8yomo4h1y4zpq0j" tvg-name="Rapid Wien vs TSV Hartberg" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 23:30 WIB | 22/04/26] Rapid Wien vs TSV Hartberg",[LIVE 23:30 WIB | 22/04/26] Rapid Wien vs TSV Hartberg (Giàng A Ka)
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="8yomo4h1y4zpq0j" tvg-name="Rapid Wien vs TSV Hartberg" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 23:30 WIB | 22/04/26] Rapid Wien vs TSV Hartberg",[LIVE 23:30 WIB | 22/04/26] Rapid Wien vs TSV Hartberg (Giàng A Ka)
 https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="vjxm8ghe0n3nr6o" tvg-name="Al Nassr FC vs Al-Ahli Doha" tvg-logo="https://img.cdnok9.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="[LIVE 23:00 WIB | 22/04/26] Al Nassr FC vs Al-Ahli Doha",[LIVE 23:00 WIB | 22/04/26] Al Nassr FC vs Al-Ahli Doha (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="vjxm8ghe0n3nr6o" tvg-name="Al Nassr FC vs Al-Ahli Doha" tvg-logo="https://img.cdnok9.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="[LIVE 23:00 WIB | 22/04/26] Al Nassr FC vs Al-Ahli Doha",[LIVE 23:00 WIB | 22/04/26] Al Nassr FC vs Al-Ahli Doha (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="vjxm8ghe0n3nr6o" tvg-name="Al Nassr FC vs Al-Ahli Doha" tvg-logo="https://img.cdnok9.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="[LIVE 23:00 WIB | 22/04/26] Al Nassr FC vs Al-Ahli Doha",[LIVE 23:00 WIB | 22/04/26] Al Nassr FC vs Al-Ahli Doha (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="vjxm8ghe0n3nr6o" tvg-name="Al Nassr FC vs Al-Ahli Doha" tvg-logo="https://img.cdnok9.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="[LIVE 23:00 WIB | 22/04/26] Al Nassr FC vs Al-Ahli Doha",[LIVE 23:00 WIB | 22/04/26] Al Nassr FC vs Al-Ahli Doha (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="l5ergph4vezdr8k" tvg-name="NK Varteks Varazdin vs Rijeka" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[LIVE 22:45 WIB | 22/04/26] NK Varteks Varazdin vs Rijeka",[LIVE 22:45 WIB | 22/04/26] NK Varteks Varazdin vs Rijeka (Giàng A Hổ)
+#EXTINF:-1 tvg-id="n54qllhn3292qvy" tvg-name="Club Brugge vs KV Mechelen" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 01:30 WIB | 0m | 23/04/26] Club Brugge vs KV Mechelen",[UPCO 01:30 WIB | 0m | 23/04/26] Club Brugge vs KV Mechelen (Giàng A Hổ)
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="l5ergph4vezdr8k" tvg-name="NK Varteks Varazdin vs Rijeka" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[LIVE 22:45 WIB | 22/04/26] NK Varteks Varazdin vs Rijeka",[LIVE 22:45 WIB | 22/04/26] NK Varteks Varazdin vs Rijeka (Giàng A Hổ)
+#EXTINF:-1 tvg-id="n54qllhn3292qvy" tvg-name="Club Brugge vs KV Mechelen" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 01:30 WIB | 0m | 23/04/26] Club Brugge vs KV Mechelen",[UPCO 01:30 WIB | 0m | 23/04/26] Club Brugge vs KV Mechelen (Giàng A Hổ)
 https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="6ypq3nhvkn1jmd7" tvg-name="Sturm Graz vs LASK Linz" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[UPCO 01:30 WIB | 0m | 23/04/26] Sturm Graz vs LASK Linz",[UPCO 01:30 WIB | 0m | 23/04/26] Sturm Graz vs LASK Linz (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="6ypq3nhvkn1jmd7" tvg-name="Sturm Graz vs LASK Linz" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[UPCO 01:30 WIB | 0m | 23/04/26] Sturm Graz vs LASK Linz",[UPCO 01:30 WIB | 0m | 23/04/26] Sturm Graz vs LASK Linz (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="2y8m4zh5g1dkql0" tvg-name="Real Sociedad vs Getafe" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 01:00 WIB | 23/04/26] Real Sociedad vs Getafe",[LIVE 01:00 WIB | 23/04/26] Real Sociedad vs Getafe (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="2y8m4zh5g1dkql0" tvg-name="Real Sociedad vs Getafe" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 01:00 WIB | 23/04/26] Real Sociedad vs Getafe",[LIVE 01:00 WIB | 23/04/26] Real Sociedad vs Getafe (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="318q66hx870pqo9" tvg-name="Viborg vs Brondby IF" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 01:00 WIB | 23/04/26] Viborg vs Brondby IF",[LIVE 01:00 WIB | 23/04/26] Viborg vs Brondby IF (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="318q66hx870pqo9" tvg-name="Viborg vs Brondby IF" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 01:00 WIB | 23/04/26] Viborg vs Brondby IF",[LIVE 01:00 WIB | 23/04/26] Viborg vs Brondby IF (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="n54qllhnxdyjqvy" tvg-name="Elche vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid",[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="n54qllhnxdyjqvy" tvg-name="Elche vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid",[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="n54qllhnxdyjqvy" tvg-name="Elche vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid",[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="n54qllhnxdyjqvy" tvg-name="Elche vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid",[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid (HOÀNG CÁI)
@@ -33,10 +37,6 @@ https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="n54qllhnxdyjqvy" tvg-name="Elche vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid",[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="n54qllhnxdyjqvy" tvg-name="Elche vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid",[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="n54qllhnxdyjqvy" tvg-name="Elche vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid",[LIVE 00:00 WIB | 23/04/26] Elche vs Atletico Madrid (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="vjxm8ghe5jx4r6o" tvg-name="Elfsborg vs Djurgardens" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 23/04/26] Elfsborg vs Djurgardens",[LIVE 00:00 WIB | 23/04/26] Elfsborg vs Djurgardens (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="vjxm8ghe5jx4r6o" tvg-name="Elfsborg vs Djurgardens" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 23/04/26] Elfsborg vs Djurgardens",[LIVE 00:00 WIB | 23/04/26] Elfsborg vs Djurgardens (GIÀNG A MÂY)
@@ -81,7 +81,11 @@ https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c9559855
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="8yomo4h12vx0q0j" tvg-name="Lokomotiv Moscow vs Zenit St. Petersburg" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 23:45 WIB | 22/04/26] Lokomotiv Moscow vs Zenit St. Petersburg",[LIVE 23:45 WIB | 22/04/26] Lokomotiv Moscow vs Zenit St. Petersburg (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="318q66hx870pqo9" tvg-name="Viborg vs Brondby IF" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[UPCO 01:00 WIB | 20m | 23/04/26] Viborg vs Brondby IF",[UPCO 01:00 WIB | 20m | 23/04/26] Viborg vs Brondby IF (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="318q66hx870pqo9" tvg-name="Viborg vs Brondby IF" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[UPCO 01:00 WIB | 20m | 23/04/26] Viborg vs Brondby IF",[UPCO 01:00 WIB | 20m | 23/04/26] Viborg vs Brondby IF (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="2y8m4zh5vp1yql0" tvg-name="Red Bull Salzburg vs Austria Vienna" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 23:30 WIB | 22/04/26] Red Bull Salzburg vs Austria Vienna",[LIVE 23:30 WIB | 22/04/26] Red Bull Salzburg vs Austria Vienna (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="2y8m4zh5vp1yql0" tvg-name="Red Bull Salzburg vs Austria Vienna" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[LIVE 23:30 WIB | 22/04/26] Red Bull Salzburg vs Austria Vienna",[LIVE 23:30 WIB | 22/04/26] Red Bull Salzburg vs Austria Vienna (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="318q66hxx3y5qo9" tvg-name="Bayer 04 Leverkusen vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/1cded13e781ed1f7c2514a3413506960.png" group-title="[UPCO 01:45 WIB | 15m | 23/04/26] Bayer 04 Leverkusen vs FC Bayern Munich",[UPCO 01:45 WIB | 15m | 23/04/26] Bayer 04 Leverkusen vs FC Bayern Munich (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="318q66hxx3y5qo9" tvg-name="Bayer 04 Leverkusen vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/1cded13e781ed1f7c2514a3413506960.png" group-title="[UPCO 01:45 WIB | 15m | 23/04/26] Bayer 04 Leverkusen vs FC Bayern Munich",[UPCO 01:45 WIB | 15m | 23/04/26] Bayer 04 Leverkusen vs FC Bayern Munich (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
