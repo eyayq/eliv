@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:37 WIB 22/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:37 WIB 22/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:48 WIB 22/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:48 WIB 22/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[15:00 WIB 22/04/26] KT vs DRX [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[15:00 WIB 22/04/26] KT vs DRX [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[15:00 WIB 22/04/26] KT vs DRX [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPvXeizpggwmPuds4MbTsdB_Vu8euOBXPoYA&s" group-title="U17 Đông Nam Á",[15:30 WIB 22/04/26] U17 Lào vs U17 Malaysia [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
