@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [09:00 WIB 22/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:00 WIB 22/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [09:14 WIB 22/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:14 WIB 22/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 22/04/26] San Antonio Spurs vs Portland Trail Blazers [FHD] [LIVE]
@@ -308,6 +308,15 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:30 WIB 23/04/26] Barcelona vs Celta Vigo [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[05:30 WIB 23/04/26] Santos FC vs Coritiba [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[05:30 WIB 23/04/26] Santos FC vs Coritiba [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[05:30 WIB 23/04/26] Santos FC vs Coritiba [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 23/04/26] Detroit Pistons vs Orlando Magic [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
@@ -316,6 +325,15 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 23/04/26] Detroit Pistons vs Orlando Magic [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[08:00 WIB 23/04/26] Mazatlán vs Toluca [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[08:00 WIB 23/04/26] Mazatlán vs Toluca [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[08:00 WIB 23/04/26] Mazatlán vs Toluca [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 23/04/26] Oklahoma City Thunder vs Phoenix Suns [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
@@ -326,6 +344,33 @@ https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 23/04/26] Oklahoma City Thunder vs Phoenix Suns [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:30 WIB 23/04/26] Real Salt Lake vs Inter Miami [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:30 WIB 23/04/26] Real Salt Lake vs Inter Miami [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:30 WIB 23/04/26] Real Salt Lake vs Inter Miami [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[09:30 WIB 23/04/26] Los Angeles FC vs Colorado Rapids [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[09:30 WIB 23/04/26] Los Angeles FC vs Colorado Rapids [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[09:30 WIB 23/04/26] Los Angeles FC vs Colorado Rapids [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[10:06 WIB 23/04/26] Club Tijuana vs Pachuca [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[10:06 WIB 23/04/26] Club Tijuana vs Pachuca [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[10:06 WIB 23/04/26] Club Tijuana vs Pachuca [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[15:00 WIB 23/04/26] DK vs BRO [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 
@@ -334,6 +379,15 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[15:00 WIB 23/04/26] DK vs BRO [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 23/04/26] Persita vs Bali United [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 23/04/26] Persita vs Bali United [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 23/04/26] Persita vs Bali United [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[17:00 WIB 23/04/26] GEN vs DNS [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
@@ -344,6 +398,33 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[17:00 WIB 23/04/26] GEN vs DNS [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 23/04/26] Malut United vs Persebaya Surabaya [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 23/04/26] Malut United vs Persebaya Surabaya [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 23/04/26] Malut United vs Persebaya Surabaya [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:30 WIB 23/04/26] Zorya Luhansk vs Shakhtar Donetsk [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:30 WIB 23/04/26] Zorya Luhansk vs Shakhtar Donetsk [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:30 WIB 23/04/26] Zorya Luhansk vs Shakhtar Donetsk [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 23/04/26] Kerala Blasters vs Odisha [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 23/04/26] Kerala Blasters vs Odisha [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/323.png" group-title="Indian Super League",[21:00 WIB 23/04/26] Kerala Blasters vs Odisha [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.thesports.com/volleyball/competition/f1614c58f7f87caf9ef186e329be93de.png" group-title="Turkish League",[23:00 WIB 23/04/26] Istanbul GSK - Fenerbahce [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 
@@ -352,6 +433,24 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/volleyball/competition/f1614c58f7f87caf9ef186e329be93de.png" group-title="Turkish League",[23:00 WIB 23/04/26] Istanbul GSK - Fenerbahce [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/119.png" group-title="Superliga",[23:00 WIB 23/04/26] Randers FC vs FC Fredericia [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/119.png" group-title="Superliga",[23:00 WIB 23/04/26] Randers FC vs FC Fredericia [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/119.png" group-title="Superliga",[23:00 WIB 23/04/26] Randers FC vs FC Fredericia [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 23/04/26] Al Najma vs Al Taawon [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 23/04/26] Al Najma vs Al Taawon [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 23/04/26] Al Najma vs Al Taawon [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/volleyball/competition/f1614c58f7f87caf9ef186e329be93de.png" group-title="Turkish League",[23:00 WIB 24/04/26] Galatasaray - Ziraat Bankasi [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
