@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.50 WIB 23/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.54 WIB 23/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="23xmvkh62x5jqg8" tvg-name="Santos Fc - SP vs Coritiba SAF - PR" tvg-logo="https://img.cdnok9.com/football/competition/983ffc6a4f71ff232bf96cf9475c7e5e.png" group-title="[LIVE 05:30 WIB | 23/04/26] Santos Fc - SP vs Coritiba SAF - PR",[LIVE 05:30 WIB | 23/04/26] Santos Fc - SP vs Coritiba SAF - PR (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
