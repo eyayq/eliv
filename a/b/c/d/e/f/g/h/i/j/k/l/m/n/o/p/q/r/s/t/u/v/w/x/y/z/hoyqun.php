@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [00:01 WIB 24/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:01 WIB 24/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [00:10 WIB 24/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:10 WIB 24/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[22:30 WIB 23/04/26] Nicolai Budkov Kjaer vs Reilly Opelka [FHD] [LIVE]
@@ -191,6 +191,15 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[17:00 WIB 24/04/26] Pháp vs Thái Lan (Thomas) [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[17:30 WIB 24/04/26] Ben Shelton vs Dino Prizmic [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[17:30 WIB 24/04/26] Ben Shelton vs Dino Prizmic [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[17:30 WIB 24/04/26] Ben Shelton vs Dino Prizmic [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/04/26] Phu Dong vs Ha Noi [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
@@ -254,6 +263,24 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[20:00 WIB 24/04/26] Kelantan United vs Selangor [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[20:00 WIB 24/04/26] Leolia Jeanjean vs Coco Gauff [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[20:00 WIB 24/04/26] Leolia Jeanjean vs Coco Gauff [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[20:00 WIB 24/04/26] Leolia Jeanjean vs Coco Gauff [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[21:00 WIB 24/04/26] Jannik Sinner vs Benjamin Bonzi [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[21:00 WIB 24/04/26] Jannik Sinner vs Benjamin Bonzi [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[21:00 WIB 24/04/26] Jannik Sinner vs Benjamin Bonzi [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[22:00 WIB 24/04/26] VPS vs Ilves [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
 
@@ -298,6 +325,15 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[23:30 WIB 24/04/26] Đan Mạch vs Hàn Quốc (Thomas) [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[01:00 WIB 25/04/26] R. Jodar - A. de Minaur [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[01:00 WIB 25/04/26] R. Jodar - A. de Minaur [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[01:00 WIB 25/04/26] R. Jodar - A. de Minaur [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[01:30 WIB 25/04/26] RB Leipzig vs Union Berlin [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
@@ -352,6 +388,15 @@ https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9wsLS4z.png" group-title="Championship",[02:00 WIB 25/04/26] Leicester vs Millwall [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[02:00 WIB 25/04/26] J. Pegula - K. Boulter [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[02:00 WIB 25/04/26] J. Pegula - K. Boulter [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[02:00 WIB 25/04/26] J. Pegula - K. Boulter [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 25/04/26] Philadelphia 76ers vs Boston Celtics [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
