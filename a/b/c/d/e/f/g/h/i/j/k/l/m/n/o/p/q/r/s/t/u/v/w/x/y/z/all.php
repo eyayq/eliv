@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.10 WIB 24/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.18 WIB 24/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Sếu)
@@ -45,14 +45,14 @@ https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb022234
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="pxwrxlhy9je2ryk" tvg-name="Spartak Moscow vs FK Krasnodar" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 23:45 WIB | 23/04/26] Spartak Moscow vs FK Krasnodar",[LIVE 23:45 WIB | 23/04/26] Spartak Moscow vs FK Krasnodar (Giàng A Ka)
 https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="965mkyhk4gl1r1g" tvg-name="Go Ahead Eagles vs AZ Alkmaar" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar",[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="965mkyhk4gl1r1g" tvg-name="Go Ahead Eagles vs AZ Alkmaar" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar",[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="965mkyhk4gl1r1g" tvg-name="Go Ahead Eagles vs AZ Alkmaar" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar",[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="965mkyhk4gl1r1g" tvg-name="Go Ahead Eagles vs AZ Alkmaar" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar",[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="965mkyhk4gl1r1g" tvg-name="Go Ahead Eagles vs AZ Alkmaar" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar",[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="965mkyhk4gl1r1g" tvg-name="Go Ahead Eagles vs AZ Alkmaar" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar",[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="pxwrxlhyl504ryk" tvg-name="NK Bravo vs NK Aluminij" tvg-logo="https://img.cdnok9.com/football/competition/54fcddd0d78da261e1225810a3a4831b.png" group-title="[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij",[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij (Giàng A Hổ)
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="pxwrxlhyl504ryk" tvg-name="NK Bravo vs NK Aluminij" tvg-logo="https://img.cdnok9.com/football/competition/54fcddd0d78da261e1225810a3a4831b.png" group-title="[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij",[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij (Giàng A Hổ)
@@ -61,14 +61,6 @@ https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="n54qllhn3nzzqvy" tvg-name="Al Quwa Al Jawiya vs Erbil SC" tvg-logo="https://img.cdnok9.com/football/competition/0504b24f98f8c083439816864fcf485c.png" group-title="[LIVE 23:30 WIB | 23/04/26] Al Quwa Al Jawiya vs Erbil SC",[LIVE 23:30 WIB | 23/04/26] Al Quwa Al Jawiya vs Erbil SC (PHONG VÂN)
 https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="jw2r09hk15ejrz8" tvg-name="Al Najma(KSA) vs Al Taawoun" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun",[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="jw2r09hk15ejrz8" tvg-name="Al Najma(KSA) vs Al Taawoun" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun",[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="jw2r09hk15ejrz8" tvg-name="Al Najma(KSA) vs Al Taawoun" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun",[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="jw2r09hk15ejrz8" tvg-name="Al Najma(KSA) vs Al Taawoun" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun",[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="4jwq2ghnx4k1m0v" tvg-name="Casa Pia AC vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 01:00 WIB | 24/04/26] Casa Pia AC vs Sporting Braga",[LIVE 01:00 WIB | 24/04/26] Casa Pia AC vs Sporting Braga (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="4jwq2ghnx4k1m0v" tvg-name="Casa Pia AC vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 01:00 WIB | 24/04/26] Casa Pia AC vs Sporting Braga",[LIVE 01:00 WIB | 24/04/26] Casa Pia AC vs Sporting Braga (VĂN GÔN)
@@ -93,3 +85,11 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="jw2r09hk5ogwrz8" tvg-name="Besiktas JK vs Alanyaspor" tvg-logo="https://img.cdnok9.com/football/competition/df788219029240c7d067b3e9c69cc56e.png" group-title="[LIVE 00:45 WIB | 24/04/26] Besiktas JK vs Alanyaspor",[LIVE 00:45 WIB | 24/04/26] Besiktas JK vs Alanyaspor (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="23xmvkh623goqg8" tvg-name="Sint-Truidense vs Anderlecht" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 01:30 WIB | 10m | 24/04/26] Sint-Truidense vs Anderlecht",[UPCO 01:30 WIB | 10m | 24/04/26] Sint-Truidense vs Anderlecht (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="23xmvkh623goqg8" tvg-name="Sint-Truidense vs Anderlecht" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 01:30 WIB | 10m | 24/04/26] Sint-Truidense vs Anderlecht",[UPCO 01:30 WIB | 10m | 24/04/26] Sint-Truidense vs Anderlecht (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="k82rekhggjpkrep" tvg-name="VfB Stuttgart vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/1cded13e781ed1f7c2514a3413506960.png" group-title="[UPCO 01:45 WIB | 25m | 24/04/26] VfB Stuttgart vs SC Freiburg",[UPCO 01:45 WIB | 25m | 24/04/26] VfB Stuttgart vs SC Freiburg (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="k82rekhggjpkrep" tvg-name="VfB Stuttgart vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/1cded13e781ed1f7c2514a3413506960.png" group-title="[UPCO 01:45 WIB | 25m | 24/04/26] VfB Stuttgart vs SC Freiburg",[UPCO 01:45 WIB | 25m | 24/04/26] VfB Stuttgart vs SC Freiburg (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
