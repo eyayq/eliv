@@ -1,24 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:22 WIB 23/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:22 WIB 23/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:43 WIB 23/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:43 WIB 23/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/%D0%9E%D1%84%D1%96%D1%86%D1%96%D0%B9%D0%BD%D0%B0_%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%9F%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%9B%D1%96%D0%B3%D0%B8.png" group-title="VĐQG Ukraine",[19:30 WIB 23/04/26] Zorya Luhansk vs Shakhtar Donetsk [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/%D0%9E%D1%84%D1%96%D1%86%D1%96%D0%B9%D0%BD%D0%B0_%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%9F%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%9B%D1%96%D0%B3%D0%B8.png" group-title="VĐQG Ukraine",[19:30 WIB 23/04/26] Zorya Luhansk vs Shakhtar Donetsk [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/%D0%9E%D1%84%D1%96%D1%86%D1%96%D0%B9%D0%BD%D0%B0_%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%9F%D1%80%D0%B5%D0%BC%27%D1%94%D1%80-%D0%9B%D1%96%D0%B3%D0%B8.png" group-title="VĐQG Ukraine",[19:30 WIB 23/04/26] Zorya Luhansk vs Shakhtar Donetsk [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="Cúp Hùng Vương 2026",[19:30 WIB 23/04/26] Hà Nội Tasco Auto W vs Binh chủng Thông tin W [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="Cúp Hùng Vương 2026",[19:30 WIB 23/04/26] Hà Nội Tasco Auto W vs Binh chủng Thông tin W [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="Cúp Hùng Vương 2026",[19:30 WIB 23/04/26] Hà Nội Tasco Auto W vs Binh chủng Thông tin W [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[19:30 WIB 23/04/26] Aryna Sabalenka vs Peyton Stearns [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
@@ -92,13 +74,13 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/volleyball/competition/f1614c58f7f87caf9ef186e329be93de.png" group-title="Turkish League",[23:00 WIB 23/04/26] Istanbul GSK - Fenerbahce [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 23/04/26] Al Najma vs Al Taawon [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 23/04/26] Al Najma vs Al Taawon [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 23/04/26] Al Najma vs Al Taawon [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 23/04/26] Al Najma vs Al Taawon [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 23/04/26] Al Najma vs Al Taawon [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 23/04/26] Al Najma vs Al Taawon [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 24/04/26] Levante vs Sevilla [FHD] [NANTIKAN]
