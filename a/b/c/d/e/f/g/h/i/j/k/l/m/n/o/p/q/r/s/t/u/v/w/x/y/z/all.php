@@ -1,6 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.18 WIB 24/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.27 WIB 24/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="x7lm7phj30pom2w" tvg-name="GAIS vs Mjallby AIF" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 24/04/26] GAIS vs Mjallby AIF",[LIVE 00:00 WIB | 24/04/26] GAIS vs Mjallby AIF (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="x7lm7phj30pom2w" tvg-name="GAIS vs Mjallby AIF" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 24/04/26] GAIS vs Mjallby AIF",[LIVE 00:00 WIB | 24/04/26] GAIS vs Mjallby AIF (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="3glrw7hn3jozqdy" tvg-name="Malmo FF vs IK Sirius FK" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 24/04/26] Malmo FF vs IK Sirius FK",[LIVE 00:00 WIB | 24/04/26] Malmo FF vs IK Sirius FK (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="3glrw7hn3jozqdy" tvg-name="Malmo FF vs IK Sirius FK" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 24/04/26] Malmo FF vs IK Sirius FK",[LIVE 00:00 WIB | 24/04/26] Malmo FF vs IK Sirius FK (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="pxwrxlhyl504ryk" tvg-name="NK Bravo vs NK Aluminij" tvg-logo="https://img.cdnok9.com/football/competition/54fcddd0d78da261e1225810a3a4831b.png" group-title="[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij",[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="pxwrxlhyl504ryk" tvg-name="NK Bravo vs NK Aluminij" tvg-logo="https://img.cdnok9.com/football/competition/54fcddd0d78da261e1225810a3a4831b.png" group-title="[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij",[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="n54qllhn3nzzqvy" tvg-name="Al Quwa Al Jawiya vs Erbil SC" tvg-logo="https://img.cdnok9.com/football/competition/0504b24f98f8c083439816864fcf485c.png" group-title="[LIVE 23:30 WIB | 23/04/26] Al Quwa Al Jawiya vs Erbil SC",[LIVE 23:30 WIB | 23/04/26] Al Quwa Al Jawiya vs Erbil SC (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="n54qllhn3nzzqvy" tvg-name="Al Quwa Al Jawiya vs Erbil SC" tvg-logo="https://img.cdnok9.com/football/competition/0504b24f98f8c083439816864fcf485c.png" group-title="[LIVE 23:30 WIB | 23/04/26] Al Quwa Al Jawiya vs Erbil SC",[LIVE 23:30 WIB | 23/04/26] Al Quwa Al Jawiya vs Erbil SC (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="jw2r09hk15ejrz8" tvg-name="Al Najma(KSA) vs Al Taawoun" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun",[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="jw2r09hk15ejrz8" tvg-name="Al Najma(KSA) vs Al Taawoun" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun",[LIVE 23:10 WIB | 23/04/26] Al Najma(KSA) vs Al Taawoun (GIÀNG A TÁO)
@@ -25,10 +41,6 @@ https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="y0or5jh85vp5qwz" tvg-name="Al Shabab FC vs Al Rayyan" tvg-logo="https://img.cdnok9.com/football/competition/2a207dc75e6d4da43885870f6cd152d7.png" group-title="[LIVE 22:45 WIB | 23/04/26] Al Shabab FC vs Al Rayyan",[LIVE 22:45 WIB | 23/04/26] Al Shabab FC vs Al Rayyan (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="4wyrn4h6yw63q86" tvg-name="El Mokawloon El Arab vs Ittihad Alexandria SC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 23/04/26] El Mokawloon El Arab vs Ittihad Alexandria SC",[LIVE 22:00 WIB | 23/04/26] El Mokawloon El Arab vs Ittihad Alexandria SC (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="4wyrn4h6yw63q86" tvg-name="El Mokawloon El Arab vs Ittihad Alexandria SC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 23/04/26] El Mokawloon El Arab vs Ittihad Alexandria SC",[LIVE 22:00 WIB | 23/04/26] El Mokawloon El Arab vs Ittihad Alexandria SC (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="4wyrn4h6yw63q86" tvg-name="El Mokawloon El Arab vs Ittihad Alexandria SC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 23/04/26] El Mokawloon El Arab vs Ittihad Alexandria SC",[LIVE 22:00 WIB | 23/04/26] El Mokawloon El Arab vs Ittihad Alexandria SC (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="4wyrn4h6yw63q86" tvg-name="El Mokawloon El Arab vs Ittihad Alexandria SC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 22:00 WIB | 23/04/26] El Mokawloon El Arab vs Ittihad Alexandria SC",[LIVE 22:00 WIB | 23/04/26] El Mokawloon El Arab vs Ittihad Alexandria SC (Giàng A Páo)
@@ -37,18 +49,18 @@ https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee9005467
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="2y8m4zh5vkenql0" tvg-name="Samsunspor vs Trabzonspor" tvg-logo="https://img.cdnok9.com/football/competition/df788219029240c7d067b3e9c69cc56e.png" group-title="[LIVE 22:45 WIB | 23/04/26] Samsunspor vs Trabzonspor",[LIVE 22:45 WIB | 23/04/26] Samsunspor vs Trabzonspor (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="zp5rzghgz1e2q82" tvg-name="Levante vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC",[LIVE 00:00 WIB | 24/04/26] Levante vs Sevilla FC (Giàng A Sếu)
@@ -65,18 +77,6 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="3glrw7hn3jokqdy" tvg-name="Degerfors IF vs AIK" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 24/04/26] Degerfors IF vs AIK",[LIVE 00:00 WIB | 24/04/26] Degerfors IF vs AIK (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="x7lm7phj30pom2w" tvg-name="GAIS vs Mjallby AIF" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 24/04/26] GAIS vs Mjallby AIF",[LIVE 00:00 WIB | 24/04/26] GAIS vs Mjallby AIF (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="x7lm7phj30pom2w" tvg-name="GAIS vs Mjallby AIF" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 24/04/26] GAIS vs Mjallby AIF",[LIVE 00:00 WIB | 24/04/26] GAIS vs Mjallby AIF (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="pxwrxlhyl504ryk" tvg-name="NK Bravo vs NK Aluminij" tvg-logo="https://img.cdnok9.com/football/competition/54fcddd0d78da261e1225810a3a4831b.png" group-title="[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij",[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="pxwrxlhyl504ryk" tvg-name="NK Bravo vs NK Aluminij" tvg-logo="https://img.cdnok9.com/football/competition/54fcddd0d78da261e1225810a3a4831b.png" group-title="[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij",[LIVE 23:30 WIB | 23/04/26] NK Bravo vs NK Aluminij (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="n54qllhn3nzzqvy" tvg-name="Al Quwa Al Jawiya vs Erbil SC" tvg-logo="https://img.cdnok9.com/football/competition/0504b24f98f8c083439816864fcf485c.png" group-title="[LIVE 23:30 WIB | 23/04/26] Al Quwa Al Jawiya vs Erbil SC",[LIVE 23:30 WIB | 23/04/26] Al Quwa Al Jawiya vs Erbil SC (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="n54qllhn3nzzqvy" tvg-name="Al Quwa Al Jawiya vs Erbil SC" tvg-logo="https://img.cdnok9.com/football/competition/0504b24f98f8c083439816864fcf485c.png" group-title="[LIVE 23:30 WIB | 23/04/26] Al Quwa Al Jawiya vs Erbil SC",[LIVE 23:30 WIB | 23/04/26] Al Quwa Al Jawiya vs Erbil SC (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="4jwq2ghnw7l2m0v" tvg-name="Al Bataeh vs Al-Ain FC" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 23:45 WIB | 23/04/26] Al Bataeh vs Al-Ain FC",[LIVE 23:45 WIB | 23/04/26] Al Bataeh vs Al-Ain FC (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="4jwq2ghnw7l2m0v" tvg-name="Al Bataeh vs Al-Ain FC" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 23:45 WIB | 23/04/26] Al Bataeh vs Al-Ain FC",[LIVE 23:45 WIB | 23/04/26] Al Bataeh vs Al-Ain FC (Giàng A Long)
@@ -93,7 +93,7 @@ https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="965mkyhk4gl1r1g" tvg-name="Go Ahead Eagles vs AZ Alkmaar" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar",[LIVE 23:45 WIB | 23/04/26] Go Ahead Eagles vs AZ Alkmaar (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="jw2r09hk5ogwrz8" tvg-name="Besiktas JK vs Alanyaspor" tvg-logo="https://img.cdnok9.com/football/competition/df788219029240c7d067b3e9c69cc56e.png" group-title="[UPCO 00:45 WIB | 26m | 24/04/26] Besiktas JK vs Alanyaspor",[UPCO 00:45 WIB | 26m | 24/04/26] Besiktas JK vs Alanyaspor (BLV GÀ PHÁP)
+#EXTINF:-1 tvg-id="jw2r09hk5ogwrz8" tvg-name="Besiktas JK vs Alanyaspor" tvg-logo="https://img.cdnok9.com/football/competition/df788219029240c7d067b3e9c69cc56e.png" group-title="[UPCO 00:45 WIB | 17m | 24/04/26] Besiktas JK vs Alanyaspor",[UPCO 00:45 WIB | 17m | 24/04/26] Besiktas JK vs Alanyaspor (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="jw2r09hk5ogwrz8" tvg-name="Besiktas JK vs Alanyaspor" tvg-logo="https://img.cdnok9.com/football/competition/df788219029240c7d067b3e9c69cc56e.png" group-title="[UPCO 00:45 WIB | 26m | 24/04/26] Besiktas JK vs Alanyaspor",[UPCO 00:45 WIB | 26m | 24/04/26] Besiktas JK vs Alanyaspor (BLV GÀ PHÁP)
+#EXTINF:-1 tvg-id="jw2r09hk5ogwrz8" tvg-name="Besiktas JK vs Alanyaspor" tvg-logo="https://img.cdnok9.com/football/competition/df788219029240c7d067b3e9c69cc56e.png" group-title="[UPCO 00:45 WIB | 17m | 24/04/26] Besiktas JK vs Alanyaspor",[UPCO 00:45 WIB | 17m | 24/04/26] Besiktas JK vs Alanyaspor (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
