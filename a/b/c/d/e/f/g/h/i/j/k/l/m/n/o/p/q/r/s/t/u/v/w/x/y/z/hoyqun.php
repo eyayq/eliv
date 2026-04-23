@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [23:23 WIB 23/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:23 WIB 23/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:27 WIB 23/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:27 WIB 23/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[21:30 WIB 23/04/26] Camilo Ugo Carabelli vs Gael Monfils [FHD] [LIVE]
@@ -28,15 +28,6 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[22:30 WIB 23/04/26] Nicolai Budkov Kjaer vs Reilly Opelka [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/volleyball/competition/f1614c58f7f87caf9ef186e329be93de.png" group-title="Turkish League",[23:00 WIB 23/04/26] Istanbul GSK - Fenerbahce [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/volleyball/competition/f1614c58f7f87caf9ef186e329be93de.png" group-title="Turkish League",[23:00 WIB 23/04/26] Istanbul GSK - Fenerbahce [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/volleyball/competition/f1614c58f7f87caf9ef186e329be93de.png" group-title="Turkish League",[23:00 WIB 23/04/26] Istanbul GSK - Fenerbahce [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 23/04/26] Al Najma vs Al Taawon [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
@@ -111,13 +102,13 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XFSnVNb.jpeg" group-title="Copa do Brasil",[05:30 WIB 24/04/26] Palmeiras vs EC Jacuipense [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XFSnVNb.jpeg" group-title="Copa do Brasil",[05:30 WIB 24/04/26] Palmeiras vs EC Jacuipense [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XFSnVNb.jpeg" group-title="Copa do Brasil",[05:30 WIB 24/04/26] Palmeiras vs EC Jacuipense [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:00 WIB 24/04/26] Atlanta Hawks vs New York Knicks [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
