@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [08:00 WIB 23/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [08:00 WIB 23/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [08:14 WIB 23/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [08:14 WIB 23/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[08:00 WIB 23/04/26] Mazatlán vs Toluca [FHD] [LIVE]
@@ -11,22 +11,22 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[08:00 WIB 23/04/26] Mazatlán vs Toluca [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 23/04/26] Oklahoma City Thunder vs Phoenix Suns [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 23/04/26] Oklahoma City Thunder vs Phoenix Suns [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 23/04/26] Oklahoma City Thunder vs Phoenix Suns [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 23/04/26] Oklahoma City Thunder vs Phoenix Suns [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 23/04/26] Oklahoma City Thunder vs Phoenix Suns [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 23/04/26] Oklahoma City Thunder vs Phoenix Suns [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:30 WIB 23/04/26] Real Salt Lake vs Inter Miami [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:30 WIB 23/04/26] Real Salt Lake vs Inter Miami [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:30 WIB 23/04/26] Real Salt Lake vs Inter Miami [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:30 WIB 23/04/26] Real Salt Lake vs Inter Miami [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:30 WIB 23/04/26] Real Salt Lake vs Inter Miami [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:30 WIB 23/04/26] Real Salt Lake vs Inter Miami [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[09:30 WIB 23/04/26] Los Angeles FC vs Colorado Rapids [FHD] [NANTIKAN]
