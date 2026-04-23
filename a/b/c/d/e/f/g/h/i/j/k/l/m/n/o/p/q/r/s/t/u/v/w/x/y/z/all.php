@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.06 WIB 24/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.09 WIB 24/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="69ea86b74f93d51a315b8510" tvg-name="Stuttgart vs Freiburg" tvg-logo="" group-title="[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg",[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="69ea86b74f93d51a315b8510" tvg-name="Stuttgart vs Freiburg" tvg-logo="" group-title="[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg",[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="69ea86b74f93d51a315b8510" tvg-name="Stuttgart vs Freiburg" tvg-logo="" group-title="[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg",[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="69ea86b74f93d51a315b8510" tvg-name="Stuttgart vs Freiburg" tvg-logo="" group-title="[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg",[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="69ea86b74f93d51a315b8510" tvg-name="Stuttgart vs Freiburg" tvg-logo="" group-title="[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg",[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="69ea86b74f93d51a315b8510" tvg-name="Stuttgart vs Freiburg" tvg-logo="" group-title="[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg",[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="69ea86b74f93d51a315b8510" tvg-name="Stuttgart vs Freiburg" tvg-logo="" group-title="[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg",[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg (PHONG VÂN)
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="69ea86b74f93d51a315b8510" tvg-name="Stuttgart vs Freiburg" tvg-logo="" group-title="[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg",[LIVE 01:45 WIB | 24/04/26] Stuttgart vs Freiburg (PHONG VÂN)
