@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 06:48:07 WIB 24-04-2026
-# 🔄 Total Channels: 1136
+# ⏰ Latest Updated: 06:59:04 WIB 24-04-2026
+# 🔄 Total Channels: 1140
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [06:48:07 WIB 24-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [06:59:04 WIB 24-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -69,6 +69,27 @@ https://hls.iill.top/api/Hub-Sports-1/index.m3u8
 https://hls.iill.top/api/Hub-Sports-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/Hub-Sports-7.png" group-title="Badminton Uber Cup 2026  🏸",Hub Sports 7 (Berat)
 https://hls.iill.top/api/Hub-Sports-7/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/3cSp4Lu.md.png" group-title="LIVE EVENT",13:55 WIB 2026 MotoGP Rd5 Spain FP1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s" group-title="LIVE EVENT",13:30 WIB Thomas & Uber Cup Finals 2026
+#EXTVLCOPT:http-referrer=https://emb.tailasoo.lol/
+#EXTVLCOPT:http-origin=https://emb.tailasoo.lol/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://ikohls.combbilebba.lol/live/qnrNO0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s" group-title="LIVE EVENT",13:30 WIB Thomas & Uber Cup Finals 2026
+#EXTVLCOPT:http-referrer=https://emb.tailasoo.lol/
+#EXTVLCOPT:http-origin=https://emb.tailasoo.lol/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://ikohls.combbilebba.lol/live/x8P3eH.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGsdPvWoq0uKcEubcEnOJ6j3U1XA3GxAKW4Q&s" group-title="LIVE EVENT",13:30 WIB Thomas & Uber Cup Finals 2026
+#EXTVLCOPT:http-referrer=https://emb.tailasoo.lol/
+#EXTVLCOPT:http-origin=https://emb.tailasoo.lol/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://ikohls.combbilebba.lol/live/SsgUbz.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_134451_f0892f53.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",19:00   24/04 Persib Bandung vs Arema FC HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -77,13 +98,13 @@ https://gckc0525.edgemaxcdn.org/live/chanh.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://gckc0525.edgemaxcdn.org/live/chanhhd.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:00   24/04 Hefei City vs Yangzhou Sanwan Ledao NHA DAI m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://auto.cdnok9.com/live/sd-6MwcqpiWr5CBd321eU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:00   24/04 Kunshan Zhangpu vs Shanghai Zetian NHA DAI m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnok9.com/live/sd-6MwcqpiWrZmRwGkve8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:00   24/04 Hefei City vs Yangzhou Sanwan Ledao NHA DAI m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://auto.cdnok9.com/live/sd-6MwcqpiWr5CBd321eU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1777009640.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:50   24/04 Manchester City vs Arsenal  KEVILL REPLAY m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
