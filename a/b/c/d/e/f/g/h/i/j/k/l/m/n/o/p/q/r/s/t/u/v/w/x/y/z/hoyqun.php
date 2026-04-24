@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:16 WIB 24/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:16 WIB 24/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:25 WIB 24/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:25 WIB 24/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[17:00 WIB 24/04/26] Pháp vs Thái Lan (Thomas) [FHD] [LIVE]
@@ -21,13 +21,13 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/04/26] Phu Dong vs Ha Noi [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/04/26] Phu Dong vs Ha Noi [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/04/26] Phu Dong vs Ha Noi [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 24/04/26] Ningbo Rockets vs Beijing Royal Fighters [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
@@ -38,23 +38,14 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 24/04/26] Ningbo Rockets vs Beijing Royal Fighters [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 24/04/26] Persib Bandung vs Arema FC [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 24/04/26] Persib Bandung vs Arema FC [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 24/04/26] Persib Bandung vs Arema FC [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPvXeizpggwmPuds4MbTsdB_Vu8euOBXPoYA&s" group-title="U17 Đông Nam Á",[19:30 WIB 24/04/26] U17 Việt Nam vs U17 Malaysia [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPvXeizpggwmPuds4MbTsdB_Vu8euOBXPoYA&s" group-title="U17 Đông Nam Á",[19:30 WIB 24/04/26] U17 Việt Nam vs U17 Malaysia [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPvXeizpggwmPuds4MbTsdB_Vu8euOBXPoYA&s" group-title="U17 Đông Nam Á",[19:30 WIB 24/04/26] U17 Việt Nam vs U17 Malaysia [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[20:00 WIB 24/04/26] Kelantan United vs Selangor [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
