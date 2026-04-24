@@ -1,210 +1,210 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.25 WIB 25/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.34 WIB 25/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fateh-d642f1.png" group-title="[LIVE 22:45 WIB 24/04/26] Al-Fateh vs Al-Khaleej | Server 1",[LIVE 22:45 WIB 24/04/26] Al-Fateh vs Al-Khaleej | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fateh-d642f1.png" group-title="[LIVE 22:45 WIB 24/04/26] Al-Fateh vs Al-Khaleej | Server 2",[LIVE 22:45 WIB 24/04/26] Al-Fateh vs Al-Khaleej | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fateh-d642f1.png" group-title="[LIVE 22:45 WIB 24/04/26] Al-Fateh vs Al-Khaleej | Server 3",[LIVE 22:45 WIB 24/04/26] Al-Fateh vs Al-Khaleej | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fateh-sc-809d99.webp" group-title="[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 1",[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1777054824-0-0-68bf53fa88c03b6f88bc74a7fc10ac73
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1777055364-0-0-7c7869e6d8d2db35c40d6b712f4c240b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fateh-sc-809d99.webp" group-title="[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 2",[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1777054824-0-0-7160ed6025c7d43230498c84d21782bc
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1777055364-0-0-d3b889585a35dff87536d3f390f0faba
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fateh-sc-809d99.webp" group-title="[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 3",[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1777054824-0-0-51b86c7b0681f71703d6cec3b537f68e
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1777055364-0-0-bff6e3d72a05cb7de164a88b97b582a8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fateh-sc-809d99.webp" group-title="[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 4",[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1777054824-0-0-13117325bec610328d556ddc6a813bb0
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1777055364-0-0-b0226ac38ee7e49287ddf85f96c2e8ce
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fateh-sc-809d99.webp" group-title="[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 5",[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1777054824-0-0-2d4bc7c90c4c374c28d49642122f1fdd
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1777055364-0-0-60daef08eed315e5e5e47fb6ee067cba
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fateh-sc-809d99.webp" group-title="[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 6",[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1777054824-0-0-ce4fa68e1753a691a4ce709c75abbe10
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1777055364-0-0-3e390ba67820b649e44f1bad092a558c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fateh-sc-809d99.webp" group-title="[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 7",[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1777054824-0-0-2eb03add9a07fa254c08260aaaa7ffe3
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1777055364-0-0-f4219a777f3f24dc9371481baa1ecb8e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fateh-sc-809d99.webp" group-title="[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 8",[LIVE 22:45 WIB 24/04/26] Al Fateh SC vs Al Khaleej Club | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1777054824-0-0-1e686f0f4fb8610fe3f68c8d62eb4e43
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 1",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 2",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 3",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1777054824-0-0-2da422271959d7539f100ebe13d9bab8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 4",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1777054824-0-0-676ee90a88168727f0cff3c102183006
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 5",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1777054824-0-0-708e4833a8f644f1706eadce1de65e94
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 6",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1777054824-0-0-947448109309f3e7754b726e9d325d70
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1777055364-0-0-22ca8ff45ad36fb24a0ea2b52220bce8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sjk-seinajoen-a95e93.png" group-title="[LIVE 23:00 WIB 24/04/26] SJK Seinajoen vs Jaro | Server 1",[LIVE 23:00 WIB 24/04/26] SJK Seinajoen vs Jaro | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sjk-seinajoen-a95e93.png" group-title="[LIVE 23:00 WIB 24/04/26] SJK Seinajoen vs Jaro | Server 2",[LIVE 23:00 WIB 24/04/26] SJK Seinajoen vs Jaro | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1777054824-0-0-ffe73ae1cad2ae881ba65ddcd95976a4
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1777055364-0-0-6114fadfe8564f58e1e53c42e5d88293
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sjk-seinajoen-a95e93.png" group-title="[LIVE 23:00 WIB 24/04/26] SJK Seinajoen vs Jaro | Server 3",[LIVE 23:00 WIB 24/04/26] SJK Seinajoen vs Jaro | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1777054824-0-0-7309e60ec127a88c29963fe83c7561ae
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1777055364-0-0-aceade093557bfee465fb86f688b2dc6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sjk-seinajoen-a95e93.png" group-title="[LIVE 23:00 WIB 24/04/26] SJK Seinajoen vs Jaro | Server 4",[LIVE 23:00 WIB 24/04/26] SJK Seinajoen vs Jaro | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1777054824-0-0-18f201c0e72fb2f495705d0b1b663234
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1777055364-0-0-fcd2c0ae9a0b036638fdd5457e34573a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sjk-seinajoen-a95e93.png" group-title="[LIVE 23:00 WIB 24/04/26] SJK Seinajoen vs Jaro | Server 5",[LIVE 23:00 WIB 24/04/26] SJK Seinajoen vs Jaro | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1777054824-0-0-e34a7f4431614b7b7dcb1b386ac4599e
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1777055364-0-0-383ca43d543bdae0d1fb24fc78856bbc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 1",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 2",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 3",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1777055364-0-0-9fda1acc78692a87e12a1e9677dcca26
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 4",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1777055364-0-0-e411e1c166d0ed1f1c1e18723c6c30a0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 5",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1777055364-0-0-682d2e9c0cd82a6bfc34887b3627b853
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/zaglebie-lubin-b9789b.png" group-title="[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 6",[LIVE 23:00 WIB 24/04/26] Zaglebie Lubin vs LKS Nieciecza | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1777055364-0-0-3776e2674b6fa474220366444fd323e7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/olomoucko-296b62.webp" group-title="[LIVE 23:00 WIB 24/04/26] Olomoucko vs NH Ostrava | Server 1",[LIVE 23:00 WIB 24/04/26] Olomoucko vs NH Ostrava | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777054824-0-0-b7e571a3fbbc4b173fb501730aa74f1f
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777055364-0-0-9af80e06fea99d34a13756c42f52a1cc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/olomoucko-296b62.webp" group-title="[LIVE 23:00 WIB 24/04/26] Olomoucko vs NH Ostrava | Server 2",[LIVE 23:00 WIB 24/04/26] Olomoucko vs NH Ostrava | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777054824-0-0-1ac2f59355d455f57480125d3729047f
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777055364-0-0-c446cb2aad9c6640e2d04dd104f1d155
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hazm-2dd794.png" group-title="[LIVE 23:10 WIB 24/04/26] Al-Hazm vs Al-Riyadh | Server 1",[LIVE 23:10 WIB 24/04/26] Al-Hazm vs Al-Riyadh | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hazm-2dd794.png" group-title="[LIVE 23:10 WIB 24/04/26] Al-Hazm vs Al-Riyadh | Server 2",[LIVE 23:10 WIB 24/04/26] Al-Hazm vs Al-Riyadh | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hazem-a5d0af.webp" group-title="[LIVE 23:10 WIB 24/04/26] Al Hazem vs Al Riyadh | Server 1",[LIVE 23:10 WIB 24/04/26] Al Hazem vs Al Riyadh | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1777054824-0-0-e8fa904f31116c8cb9b88154801862a3
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1777055364-0-0-bd658cfe6fc58c248841c39bc229c838
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hazem-a5d0af.webp" group-title="[LIVE 23:10 WIB 24/04/26] Al Hazem vs Al Riyadh | Server 2",[LIVE 23:10 WIB 24/04/26] Al Hazem vs Al Riyadh | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1777054824-0-0-e4aae1b3acbc9c6ee4d0a17ff7e2d28d
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1777055364-0-0-2e812c13056aac9945592f089fe6ce99
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hazem-a5d0af.webp" group-title="[LIVE 23:10 WIB 24/04/26] Al Hazem vs Al Riyadh | Server 3",[LIVE 23:10 WIB 24/04/26] Al Hazem vs Al Riyadh | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=355417d5018dfff775de5ad3a9ece977&txTime=69ebfab8
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=08b2c69789d14c579f3fcf47aeb954f3&txTime=69ebfcd4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-hazem-a5d0af.webp" group-title="[LIVE 23:10 WIB 24/04/26] Al Hazem vs Al Riyadh | Server 4",[LIVE 23:10 WIB 24/04/26] Al Hazem vs Al Riyadh | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=10ff538dcd3a80fcc27fd1ddca537cad&txTime=69ebfab8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nurnberg-w-6365fa.png" group-title="[LIVE 23:30 WIB 24/04/26] Nurnberg (W) vs Hamburger SV (W) | Server 1",[LIVE 23:30 WIB 24/04/26] Nurnberg (W) vs Hamburger SV (W) | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nurnberg-w-6365fa.png" group-title="[LIVE 23:30 WIB 24/04/26] Nurnberg (W) vs Hamburger SV (W) | Server 2",[LIVE 23:30 WIB 24/04/26] Nurnberg (W) vs Hamburger SV (W) | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahly-b29649.png" group-title="[LIVE 23:30 WIB 24/04/26] Al-Ahly vs Al Faisaly Amman | Server 1",[LIVE 23:30 WIB 24/04/26] Al-Ahly vs Al Faisaly Amman | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=360769af95025791c64e52ccc47c885e&txTime=69ebfcd4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/kaiserslautern-df2315.png" group-title="[LIVE 23:30 WIB 24/04/26] Kaiserslautern vs Eintracht Braunschweig | Server 1",[LIVE 23:30 WIB 24/04/26] Kaiserslautern vs Eintracht Braunschweig | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahly-b29649.png" group-title="[LIVE 23:30 WIB 24/04/26] Al-Ahly vs Al Faisaly Amman | Server 1",[LIVE 23:30 WIB 24/04/26] Al-Ahly vs Al Faisaly Amman | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nurnberg-w-6365fa.png" group-title="[LIVE 23:30 WIB 24/04/26] Nurnberg (W) vs Hamburger SV (W) | Server 1",[LIVE 23:30 WIB 24/04/26] Nurnberg (W) vs Hamburger SV (W) | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nurnberg-w-6365fa.png" group-title="[LIVE 23:30 WIB 24/04/26] Nurnberg (W) vs Hamburger SV (W) | Server 2",[LIVE 23:30 WIB 24/04/26] Nurnberg (W) vs Hamburger SV (W) | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-dusseldorf-450b69.webp" group-title="[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 1",[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=74311900032ac27ca3fb1d8543ef4b63&txTime=69ebfab8
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=559b9beb28cdeeb1651675caff6da4f7&txTime=69ebfcd4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-dusseldorf-450b69.webp" group-title="[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 2",[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=82e3c89a484036b6c531c8d01b1f6de8&txTime=69ebfab8
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=2501c82dca9a6f31d6ca469dc40abfc6&txTime=69ebfcd4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-dusseldorf-450b69.webp" group-title="[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 3",[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1777054824-0-0-5934c626a28d772a4ff6643d268a8907
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=12fc83b9b3d53a9858d73c52ed389e20&txTime=69ebfcd4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-dusseldorf-450b69.webp" group-title="[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 4",[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1777054824-0-0-b082eca6eb56e3c12b4977adfe575a29
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=319752a81bc73b4926c850609b520bd0&txTime=69ebfcd4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-dusseldorf-450b69.webp" group-title="[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 5",[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=7a7d2440cbf5cccf3f54ec0b54badb74&txTime=69ebfab8
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1777055364-0-0-a4ac8cb283c579aca2ff79b77d6f84a9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-dusseldorf-450b69.webp" group-title="[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 6",[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=c69a737015534faf5eea6b85a1f5f3fb&txTime=69ebfab8
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1777055364-0-0-cafefbc1e620bebcf46de8e5d14d8934
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-dusseldorf-450b69.webp" group-title="[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 7",[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=cc1fa4599d0dae0ff43cf502f3b6b3e7&txTime=69ebfab8
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=e0872e536ba93de75967f153e19734d0&txTime=69ebfcd4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fortuna-dusseldorf-450b69.webp" group-title="[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 8",[LIVE 23:30 WIB 24/04/26] Fortuna Dusseldorf vs Dynamo Dresden | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=c82d74d22c1cecb1824d425c6504db10&txTime=69ebfab8
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=55e74c307a74828bf6e09f42452ecfeb&txTime=69ebfcd4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-kaiserslautern-1bc0af.webp" group-title="[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 1",[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1777054824-0-0-670c18b4346f432177e27c5ec2380732
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1777055364-0-0-d24273d61cd4b2105c041d1228075c77
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-kaiserslautern-1bc0af.webp" group-title="[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 2",[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1777054824-0-0-355bdf5b5f110fafb670080616c75907
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1777055364-0-0-d1a2ec175b3cead8757939dfa3c58d7b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-kaiserslautern-1bc0af.webp" group-title="[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 3",[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=c4951206f8f0d73d2cd0b1c4cd6530c6&txTime=69ebfab8
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1777055364-0-0-46a9080e98732added77094199efbdcd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-kaiserslautern-1bc0af.webp" group-title="[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 4",[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=bf5ca116b12951da711d1362e61c55ab&txTime=69ebfab8
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1777055364-0-0-ee1d07da4033abd5e842597bf7e82344
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-kaiserslautern-1bc0af.webp" group-title="[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 5",[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1777054824-0-0-628c47a2d35a98a8eb31779626a204ba
+https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=ede30c1b3265380b08b3e3b4a0f29260&txTime=69ebfcd4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-kaiserslautern-1bc0af.webp" group-title="[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 6",[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1777054824-0-0-8e4ff739afebecc42cd76cca3183d9fb
+https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=6ff2009e0480feac24383fefe1bed24d&txTime=69ebfcd4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-kaiserslautern-1bc0af.webp" group-title="[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 7",[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1777054824-0-0-a739dc642e6946d160f4c8c992694a0c
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1777055364-0-0-9f06c9ff1747c4ded1aa9c6fa9d8e843
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-kaiserslautern-1bc0af.webp" group-title="[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 8",[LIVE 23:30 WIB 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1777054824-0-0-3aa8fd50f608c95d208edf3511060903
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 1",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 2",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 3",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597924_lsd.m3u8?auth_key=1777054824-0-0-f16d2ce4db0007f733b65e96df67e520
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 4",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597924_lhd.m3u8?auth_key=1777054824-0-0-1b96b6d7f2748fb108d474923f603c3b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 5",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1777054824-0-0-4ea001ab388e5a8c5f09c1032fd4b13b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 6",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1777054824-0-0-79c8c9ca9162d982989ed03bfb5a556e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 7",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1777054824-0-0-df14f9ffc6c495efb35e300565ce5b69
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 8",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1777054824-0-0-b899625386532f1cead61ac65a3eda5d
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1777055364-0-0-beba04fee20ef4036b587dcc5c7b2e0d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/istanbul-basaksehir-7ef756.png" group-title="[LIVE 00:00 WIB 25/04/26] Istanbul Basaksehir vs Kasimpasa | Server 1",[LIVE 00:00 WIB 25/04/26] Istanbul Basaksehir vs Kasimpasa | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/istanbul-basaksehir-7ef756.png" group-title="[LIVE 00:00 WIB 25/04/26] Istanbul Basaksehir vs Kasimpasa | Server 2",[LIVE 00:00 WIB 25/04/26] Istanbul Basaksehir vs Kasimpasa | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/istanbul-basaksehir-7ef756.png" group-title="[LIVE 00:00 WIB 25/04/26] Istanbul Basaksehir vs Kasimpasa | Server 3",[LIVE 00:00 WIB 25/04/26] Istanbul Basaksehir vs Kasimpasa | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 1",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 2",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 3",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1777055364-0-0-6e99b8ffb44571f92e500f6c5dc3ecdb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 4",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1777055364-0-0-49992fd3fedb6cc4d92829e564eba8be
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 5",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597924_lsd.m3u8?auth_key=1777055364-0-0-58f1d5f54228c53536409f8aceda4f07
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 6",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597924_lhd.m3u8?auth_key=1777055364-0-0-2e11fa13cea1a78d8fedb846caec42c2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 7",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1777055364-0-0-9d4688d52fa5f594b98cf425c4f44186
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 8",[LIVE 00:00 WIB 25/04/26] Monza vs Modena | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1777055364-0-0-afde0a9af03ac31a2b2a4457ee9e405d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/başakşehir-futbol-kulübü-b54a03.webp" group-title="[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 1",[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1777054824-0-0-24e408c954a5b1a113827184997d5b85
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1777055364-0-0-d750f33ae70b8b839d8cca8286c75ec6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/başakşehir-futbol-kulübü-b54a03.webp" group-title="[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 2",[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1777054824-0-0-6e5a48a0cd9a05f87f452f3cbe2bd701
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1777055364-0-0-99c6b7c58d01aa3c92b6d4847d821816
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/başakşehir-futbol-kulübü-b54a03.webp" group-title="[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 3",[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1777054824-0-0-a96806b05b2e0fb95033ea6aa76014e5
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1777055364-0-0-2c659dae508d1fd8d216fcb2351d3d0c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/başakşehir-futbol-kulübü-b54a03.webp" group-title="[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 4",[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1777054824-0-0-e2193978a0aa4b7d773bc77487150c32
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1777055364-0-0-e04a097a0fdbb06b6436554b903fbe11
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/başakşehir-futbol-kulübü-b54a03.webp" group-title="[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 5",[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1777054824-0-0-411aceefd4a5b1fc477072c1d290fdf2
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1777055364-0-0-68aa53368db6bc4768f0588562fdda94
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/başakşehir-futbol-kulübü-b54a03.webp" group-title="[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 6",[LIVE 00:00 WIB 25/04/26] Başakşehir Futbol Kulübü vs Kasimpasa | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1777054824-0-0-16d528704b8419d83d3001b1fe1870fa
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1777055364-0-0-fbe823211000ddf9c4ff4cf4339dd640
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monaco-77f09e.png" group-title="[LIVE 00:30 WIB 25/04/26] Monaco vs Barcelona | Server 1",[LIVE 00:30 WIB 25/04/26] Monaco vs Barcelona | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1777054824-0-0-01db712acab9f93fdf1f760428b25554
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1777055364-0-0-4072ebe96358e2cfdbb5b623c143b6b3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monaco-77f09e.png" group-title="[LIVE 00:30 WIB 25/04/26] Monaco vs Barcelona | Server 2",[LIVE 00:30 WIB 25/04/26] Monaco vs Barcelona | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1777054824-0-0-1da48af0f55b14ef148441dbfaca52a1
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1777055364-0-0-092e11f2ce412c1f9d9e7f0ce9fd4374
