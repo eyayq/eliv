@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.05 WIB 24/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.14 WIB 24/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="965mkyhkwnpjr1g" tvg-name="Al-Dhafra vs Ajman" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman",[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="965mkyhkwnpjr1g" tvg-name="Al-Dhafra vs Ajman" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman",[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="965mkyhkwnpjr1g" tvg-name="Al-Dhafra vs Ajman" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman",[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="965mkyhkwnpjr1g" tvg-name="Al-Dhafra vs Ajman" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman",[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="l7oqdehgjxg7r51" tvg-name="Pharco vs El Gounah" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 24/04/26] Pharco vs El Gounah",[LIVE 21:00 WIB | 24/04/26] Pharco vs El Gounah (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 tvg-id="l7oqdehgjxg7r51" tvg-name="Pharco vs El Gounah" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 24/04/26] Pharco vs El Gounah",[LIVE 21:00 WIB | 24/04/26] Pharco vs El Gounah (Giàng A Lỏ)
@@ -9,18 +17,6 @@ https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="l7oqdehgjxg7r51" tvg-name="Pharco vs El Gounah" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 24/04/26] Pharco vs El Gounah",[LIVE 21:00 WIB | 24/04/26] Pharco vs El Gounah (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="pxwrxlhynd90ryk" tvg-name="Rajasthan United FC vs Sreenidi Deccan" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 20:00 WIB | 24/04/26] Rajasthan United FC vs Sreenidi Deccan",[LIVE 20:00 WIB | 24/04/26] Rajasthan United FC vs Sreenidi Deccan (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="pxwrxlhynd90ryk" tvg-name="Rajasthan United FC vs Sreenidi Deccan" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 20:00 WIB | 24/04/26] Rajasthan United FC vs Sreenidi Deccan",[LIVE 20:00 WIB | 24/04/26] Rajasthan United FC vs Sreenidi Deccan (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="pxwrxlhynd90ryk" tvg-name="Rajasthan United FC vs Sreenidi Deccan" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 20:00 WIB | 24/04/26] Rajasthan United FC vs Sreenidi Deccan",[LIVE 20:00 WIB | 24/04/26] Rajasthan United FC vs Sreenidi Deccan (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="pxwrxlhynd90ryk" tvg-name="Rajasthan United FC vs Sreenidi Deccan" tvg-logo="https://img.cdnok9.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png" group-title="[LIVE 20:00 WIB | 24/04/26] Rajasthan United FC vs Sreenidi Deccan",[LIVE 20:00 WIB | 24/04/26] Rajasthan United FC vs Sreenidi Deccan (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="pxwrxlhynj3lryk" tvg-name="Khan Tengri FC vs Jaiyq" tvg-logo="https://img.cdnok9.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png" group-title="[LIVE 20:00 WIB | 24/04/26] Khan Tengri FC vs Jaiyq",[LIVE 20:00 WIB | 24/04/26] Khan Tengri FC vs Jaiyq (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="pxwrxlhynj3lryk" tvg-name="Khan Tengri FC vs Jaiyq" tvg-logo="https://img.cdnok9.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png" group-title="[LIVE 20:00 WIB | 24/04/26] Khan Tengri FC vs Jaiyq",[LIVE 20:00 WIB | 24/04/26] Khan Tengri FC vs Jaiyq (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="y39mp1h6o177moj" tvg-name="Al-Wasl SC vs Dabba Al-Fujairah" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 21:00 WIB | 24/04/26] Al-Wasl SC vs Dabba Al-Fujairah",[LIVE 21:00 WIB | 24/04/26] Al-Wasl SC vs Dabba Al-Fujairah (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="y39mp1h6o177moj" tvg-name="Al-Wasl SC vs Dabba Al-Fujairah" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 21:00 WIB | 24/04/26] Al-Wasl SC vs Dabba Al-Fujairah",[LIVE 21:00 WIB | 24/04/26] Al-Wasl SC vs Dabba Al-Fujairah (GIÀNG A TÁO)
@@ -45,15 +41,7 @@ https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="jw2r09hk53kerz8" tvg-name="Bank El Ahly vs ZED FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 24/04/26] Bank El Ahly vs ZED FC",[LIVE 21:00 WIB | 24/04/26] Bank El Ahly vs ZED FC (Giàng A Ka)
 https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="965mkyhkwnpjr1g" tvg-name="Al-Dhafra vs Ajman" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman",[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="965mkyhkwnpjr1g" tvg-name="Al-Dhafra vs Ajman" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman",[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="965mkyhkwnpjr1g" tvg-name="Al-Dhafra vs Ajman" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman",[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="965mkyhkwnpjr1g" tvg-name="Al-Dhafra vs Ajman" tvg-logo="https://img.cdnok9.com/football/competition/e1e3b1cf7d699effd7e411de04d89189.png" group-title="[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman",[LIVE 21:00 WIB | 24/04/26] Al-Dhafra vs Ajman (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="23xmvkh6do43qg8" tvg-name="1. FC Kaiserslautern vs Eintracht Braunschweig" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[UPCO 23:30 WIB | 1j 23m | 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig",[UPCO 23:30 WIB | 1j 23m | 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig (Giàng A Sếu)
+#EXTINF:-1 tvg-id="23xmvkh6do43qg8" tvg-name="1. FC Kaiserslautern vs Eintracht Braunschweig" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[UPCO 23:30 WIB | 1j 15m | 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig",[UPCO 23:30 WIB | 1j 15m | 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="23xmvkh6do43qg8" tvg-name="1. FC Kaiserslautern vs Eintracht Braunschweig" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[UPCO 23:30 WIB | 1j 23m | 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig",[UPCO 23:30 WIB | 1j 23m | 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig (Giàng A Sếu)
+#EXTINF:-1 tvg-id="23xmvkh6do43qg8" tvg-name="1. FC Kaiserslautern vs Eintracht Braunschweig" tvg-logo="https://img.cdnok9.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="[UPCO 23:30 WIB | 1j 15m | 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig",[UPCO 23:30 WIB | 1j 15m | 24/04/26] 1. FC Kaiserslautern vs Eintracht Braunschweig (Giàng A Sếu)
 https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
