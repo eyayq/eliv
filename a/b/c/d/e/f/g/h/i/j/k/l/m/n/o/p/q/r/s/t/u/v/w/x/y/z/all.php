@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.41 WIB 24/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.55 WIB 24/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="ednm9whwox0nryo" tvg-name="Real Tomayapo vs The Strongest" tvg-logo="https://img.cdnok9.com/football/competition/5d75feb43ea08222def38c8aa43db089.png" group-title="[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest",[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="ednm9whwox0nryo" tvg-name="Real Tomayapo vs The Strongest" tvg-logo="https://img.cdnok9.com/football/competition/5d75feb43ea08222def38c8aa43db089.png" group-title="[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest",[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="ednm9whwox0nryo" tvg-name="Real Tomayapo vs The Strongest" tvg-logo="https://img.cdnok9.com/football/competition/5d75feb43ea08222def38c8aa43db089.png" group-title="[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest",[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest (DERICE)
 https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="ednm9whwox0nryo" tvg-name="Real Tomayapo vs The Strongest" tvg-logo="https://img.cdnok9.com/football/competition/5d75feb43ea08222def38c8aa43db089.png" group-title="[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest",[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest (DERICE)
 https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="ednm9whwox0nryo" tvg-name="Real Tomayapo vs The Strongest" tvg-logo="https://img.cdnok9.com/football/competition/5d75feb43ea08222def38c8aa43db089.png" group-title="[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest",[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="ednm9whwox0nryo" tvg-name="Real Tomayapo vs The Strongest" tvg-logo="https://img.cdnok9.com/football/competition/5d75feb43ea08222def38c8aa43db089.png" group-title="[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest",[LIVE 07:00 WIB | 24/04/26] Real Tomayapo vs The Strongest (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="jw2r09hk6y6nrz8" tvg-name="Palestino vs D. Concepcion" tvg-logo="https://img.cdnok9.com/football/competition/fee37a97f3d0e08209e4846fcff45cba.png" group-title="[LIVE 07:00 WIB | 24/04/26] Palestino vs D. Concepcion",[LIVE 07:00 WIB | 24/04/26] Palestino vs D. Concepcion (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="jw2r09hk6y6nrz8" tvg-name="Palestino vs D. Concepcion" tvg-logo="https://img.cdnok9.com/football/competition/fee37a97f3d0e08209e4846fcff45cba.png" group-title="[LIVE 07:00 WIB | 24/04/26] Palestino vs D. Concepcion",[LIVE 07:00 WIB | 24/04/26] Palestino vs D. Concepcion (Giàng A Voi)
