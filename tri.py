@@ -12,7 +12,7 @@ HEADERS = {
     "Accept": "application/vnd.github+json"
 }
 
-SLEEP_AFTER_ALL = 60  # 5 menit
+SLEEP_AFTER_ALL = 30  # 5 menit
 
 # 👉
 BATCH_SIZE = 4
@@ -28,7 +28,7 @@ WORKFLOW_LIST = [
     "cucen.yml", "rpd.yml",
     "all.yml", "kecoa.yml",
     "gvng.yml", "hoyqun.yml",
-    "z.yml", "lve1.yml",
+    "z.yml", "pl.yml", "lve1.yml",
 ]
 
 # 👉
