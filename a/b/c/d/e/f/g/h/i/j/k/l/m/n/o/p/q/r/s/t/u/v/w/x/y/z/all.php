@@ -1,19 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [05.34 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [05.43 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="2y8m4zh56p42ql0" tvg-name="Comerciantes Unidos vs Sporting Cristal" tvg-logo="https://img.cdnok9.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal",[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="2y8m4zh56p42ql0" tvg-name="Comerciantes Unidos vs Sporting Cristal" tvg-logo="https://img.cdnok9.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal",[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="2y8m4zh56p42ql0" tvg-name="Comerciantes Unidos vs Sporting Cristal" tvg-logo="https://img.cdnok9.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal",[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="2y8m4zh56p42ql0" tvg-name="Comerciantes Unidos vs Sporting Cristal" tvg-logo="https://img.cdnok9.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal",[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="l7oqdehg8w84r51" tvg-name="Universidad de Chile vs Univ Catolica" tvg-logo="https://img.cdnok9.com/football/competition/fee37a97f3d0e08209e4846fcff45cba.png" group-title="[LIVE 05:00 WIB | 26/04/26] Universidad de Chile vs Univ Catolica",[LIVE 05:00 WIB | 26/04/26] Universidad de Chile vs Univ Catolica (Giàng A Mèo)
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="l7oqdehg8w84r51" tvg-name="Universidad de Chile vs Univ Catolica" tvg-logo="https://img.cdnok9.com/football/competition/fee37a97f3d0e08209e4846fcff45cba.png" group-title="[LIVE 05:00 WIB | 26/04/26] Universidad de Chile vs Univ Catolica",[LIVE 05:00 WIB | 26/04/26] Universidad de Chile vs Univ Catolica (Giàng A Mèo)
 https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="pxwrxlhyxp0gryk" tvg-name="Tigres UANL vs Mazatlan FC" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[UPCO 06:00 WIB | 25m | 26/04/26] Tigres UANL vs Mazatlan FC",[UPCO 06:00 WIB | 25m | 26/04/26] Tigres UANL vs Mazatlan FC (DERICE)
+#EXTINF:-1 tvg-id="pxwrxlhyxp0gryk" tvg-name="Tigres UANL vs Mazatlan FC" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[UPCO 06:00 WIB | 16m | 26/04/26] Tigres UANL vs Mazatlan FC",[UPCO 06:00 WIB | 16m | 26/04/26] Tigres UANL vs Mazatlan FC (DERICE)
 https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="pxwrxlhyxp0gryk" tvg-name="Tigres UANL vs Mazatlan FC" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[UPCO 06:00 WIB | 25m | 26/04/26] Tigres UANL vs Mazatlan FC",[UPCO 06:00 WIB | 25m | 26/04/26] Tigres UANL vs Mazatlan FC (DERICE)
+#EXTINF:-1 tvg-id="pxwrxlhyxp0gryk" tvg-name="Tigres UANL vs Mazatlan FC" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[UPCO 06:00 WIB | 16m | 26/04/26] Tigres UANL vs Mazatlan FC",[UPCO 06:00 WIB | 16m | 26/04/26] Tigres UANL vs Mazatlan FC (DERICE)
 https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
