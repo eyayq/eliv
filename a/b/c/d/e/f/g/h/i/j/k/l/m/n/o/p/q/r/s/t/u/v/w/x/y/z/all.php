@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.45 WIB 25/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.54 WIB 25/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="6ypq3nhv76zemd7" tvg-name="CA Platense vs San Lorenzo" tvg-logo="https://img.cdnok9.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" group-title="[LIVE 07:30 WIB | 25/04/26] CA Platense vs San Lorenzo",[LIVE 07:30 WIB | 25/04/26] CA Platense vs San Lorenzo (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
