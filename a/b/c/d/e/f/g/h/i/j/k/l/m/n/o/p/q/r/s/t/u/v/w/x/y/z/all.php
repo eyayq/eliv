@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.35 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.43 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (Giàng A Long)
@@ -13,10 +13,10 @@ https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb022234
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (Giàng A Kê)
 https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (GIÀNG A TÁO)
@@ -25,14 +25,14 @@ https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="6ypq3nhv838zmd7" tvg-name="Manchester City vs Southampton" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton",[LIVE 23:15 WIB | 25/04/26] Manchester City vs Southampton (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="3glrw7hn1y4kqdy" tvg-name="Arsenal vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United",[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="3glrw7hn1y4kqdy" tvg-name="Arsenal vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United",[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="3glrw7hn1y4kqdy" tvg-name="Arsenal vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United",[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="3glrw7hn1y4kqdy" tvg-name="Arsenal vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United",[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="3glrw7hn1y4kqdy" tvg-name="Arsenal vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United",[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United (Giàng A Rùa)
+https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="3glrw7hn1y4kqdy" tvg-name="Arsenal vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United",[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United (Giàng A Rùa)
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="3glrw7hn1y4kqdy" tvg-name="Arsenal vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United",[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="3glrw7hn1y4kqdy" tvg-name="Arsenal vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United",[LIVE 23:30 WIB | 25/04/26] Arsenal vs Newcastle United (Lữ Bố (Giàng Phụng Tiên))
