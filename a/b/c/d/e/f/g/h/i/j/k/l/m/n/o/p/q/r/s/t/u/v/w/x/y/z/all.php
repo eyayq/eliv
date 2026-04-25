@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.32 WIB 25/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.40 WIB 25/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="965mkyhk25w3r1g" tvg-name="Kawasaki Frontale vs JEF United Ichihara Chiba" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 25/04/26] Kawasaki Frontale vs JEF United Ichihara Chiba",[LIVE 13:00 WIB | 25/04/26] Kawasaki Frontale vs JEF United Ichihara Chiba (Giàng A Mèo)
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
@@ -21,15 +21,15 @@ https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="3glrw7hn7107qdy" tvg-name="Bucheon FC 1995 vs Gimcheon Sangmu Football Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 25/04/26] Bucheon FC 1995 vs Gimcheon Sangmu Football Club",[LIVE 14:30 WIB | 25/04/26] Bucheon FC 1995 vs Gimcheon Sangmu Football Club (HOÀNG CÁI)
 https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 26m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 9j 26m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
+#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 18m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 9j 18m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
 https://hls.686868.me/live/GIANGASOI/index.m3u8?expire=1781426880&sign=4da540a732a1c2a16df4c7934cd6a157
-#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 26m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 9j 26m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
+#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 18m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 9j 18m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
 https://flv.686868.me/live/GIANGASOI.flv?expire=1781426880&sign=4da540a732a1c2a16df4c7934cd6a157
-#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 26m | 25/04/26] REAL BETIS - REAL MADRID",[UPCO 23:59 WIB | 9j 26m | 25/04/26] REAL BETIS - REAL MADRID (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 18m | 25/04/26] REAL BETIS - REAL MADRID",[UPCO 23:59 WIB | 9j 18m | 25/04/26] REAL BETIS - REAL MADRID (Giàng A Gấu)
 https://hls.686868.me/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 26m | 25/04/26] REAL BETIS - REAL MADRID",[UPCO 23:59 WIB | 9j 26m | 25/04/26] REAL BETIS - REAL MADRID (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 18m | 25/04/26] REAL BETIS - REAL MADRID",[UPCO 23:59 WIB | 9j 18m | 25/04/26] REAL BETIS - REAL MADRID (Giàng A Gấu)
 https://flv.686868.me/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="k82rekhg04l1rep" tvg-name="Caroline Springs George Cross vs Altona Magic" tvg-logo="https://img.cdnok9.com/football/competition/c1c958040a24d72e754fa04677b39f99.png" group-title="[UPCO 15:00 WIB | 27m | 25/04/26] Caroline Springs George Cross vs Altona Magic",[UPCO 15:00 WIB | 27m | 25/04/26] Caroline Springs George Cross vs Altona Magic (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="k82rekhg04l1rep" tvg-name="Caroline Springs George Cross vs Altona Magic" tvg-logo="https://img.cdnok9.com/football/competition/c1c958040a24d72e754fa04677b39f99.png" group-title="[UPCO 15:00 WIB | 19m | 25/04/26] Caroline Springs George Cross vs Altona Magic",[UPCO 15:00 WIB | 19m | 25/04/26] Caroline Springs George Cross vs Altona Magic (GIÀNG A TỨ )
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="k82rekhg04l1rep" tvg-name="Caroline Springs George Cross vs Altona Magic" tvg-logo="https://img.cdnok9.com/football/competition/c1c958040a24d72e754fa04677b39f99.png" group-title="[UPCO 15:00 WIB | 27m | 25/04/26] Caroline Springs George Cross vs Altona Magic",[UPCO 15:00 WIB | 27m | 25/04/26] Caroline Springs George Cross vs Altona Magic (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="k82rekhg04l1rep" tvg-name="Caroline Springs George Cross vs Altona Magic" tvg-logo="https://img.cdnok9.com/football/competition/c1c958040a24d72e754fa04677b39f99.png" group-title="[UPCO 15:00 WIB | 19m | 25/04/26] Caroline Springs George Cross vs Altona Magic",[UPCO 15:00 WIB | 19m | 25/04/26] Caroline Springs George Cross vs Altona Magic (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
