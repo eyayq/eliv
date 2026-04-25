@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [15.04 WIB 25/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [15.16 WIB 25/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="k82rekhg04l1rep" tvg-name="Caroline Springs George Cross vs Altona Magic" tvg-logo="https://img.cdnok9.com/football/competition/c1c958040a24d72e754fa04677b39f99.png" group-title="[LIVE 15:00 WIB | 25/04/26] Caroline Springs George Cross vs Altona Magic",[LIVE 15:00 WIB | 25/04/26] Caroline Springs George Cross vs Altona Magic (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
@@ -25,15 +25,15 @@ https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee9005467
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="4wyrn4h60v71q86" tvg-name="Newcastle Jets vs Central Coast Mariners" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 14:00 WIB | 25/04/26] Newcastle Jets vs Central Coast Mariners",[LIVE 14:00 WIB | 25/04/26] Newcastle Jets vs Central Coast Mariners (Giàng A Chiến)
 https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 8j 54m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 8j 54m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
+#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 8j 42m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 8j 42m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
 https://hls.686868.me/live/GIANGASOI/index.m3u8?expire=1781426880&sign=4da540a732a1c2a16df4c7934cd6a157
-#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 8j 54m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 8j 54m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
+#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 8j 42m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 8j 42m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
 https://flv.686868.me/live/GIANGASOI.flv?expire=1781426880&sign=4da540a732a1c2a16df4c7934cd6a157
-#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 8j 54m | 25/04/26] REAL BETIS - REAL MADRID",[UPCO 23:59 WIB | 8j 54m | 25/04/26] REAL BETIS - REAL MADRID (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 8j 42m | 25/04/26] REAL BETIS - REAL MADRID",[UPCO 23:59 WIB | 8j 42m | 25/04/26] REAL BETIS - REAL MADRID (Giàng A Gấu)
 https://hls.686868.me/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 8j 54m | 25/04/26] REAL BETIS - REAL MADRID",[UPCO 23:59 WIB | 8j 54m | 25/04/26] REAL BETIS - REAL MADRID (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 8j 42m | 25/04/26] REAL BETIS - REAL MADRID",[UPCO 23:59 WIB | 8j 42m | 25/04/26] REAL BETIS - REAL MADRID (Giàng A Gấu)
 https://flv.686868.me/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="1l4rjnh9xoewm7v" tvg-name="Madura United vs Dewa United FC" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[UPCO 15:30 WIB | 25m | 25/04/26] Madura United vs Dewa United FC",[UPCO 15:30 WIB | 25m | 25/04/26] Madura United vs Dewa United FC (Giàng A Long)
+#EXTINF:-1 tvg-id="1l4rjnh9xoewm7v" tvg-name="Madura United vs Dewa United FC" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[UPCO 15:30 WIB | 13m | 25/04/26] Madura United vs Dewa United FC",[UPCO 15:30 WIB | 13m | 25/04/26] Madura United vs Dewa United FC (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="1l4rjnh9xoewm7v" tvg-name="Madura United vs Dewa United FC" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[UPCO 15:30 WIB | 25m | 25/04/26] Madura United vs Dewa United FC",[UPCO 15:30 WIB | 25m | 25/04/26] Madura United vs Dewa United FC (Giàng A Long)
+#EXTINF:-1 tvg-id="1l4rjnh9xoewm7v" tvg-name="Madura United vs Dewa United FC" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[UPCO 15:30 WIB | 13m | 25/04/26] Madura United vs Dewa United FC",[UPCO 15:30 WIB | 13m | 25/04/26] Madura United vs Dewa United FC (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
