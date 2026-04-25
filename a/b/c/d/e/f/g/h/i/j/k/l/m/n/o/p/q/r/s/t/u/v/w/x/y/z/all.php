@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.18 WIB 25/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.27 WIB 25/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="23xmvkh6ok20qg8" tvg-name="Wolverhampton Wanderers vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 25/04/26] Wolverhampton Wanderers vs Tottenham Hotspur",[LIVE 21:00 WIB | 25/04/26] Wolverhampton Wanderers vs Tottenham Hotspur (GIÀNG A TỨ )
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
@@ -21,14 +21,14 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="vjxm8gheg804r6o" tvg-name="West Ham United vs Everton" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 25/04/26] West Ham United vs Everton",[LIVE 21:00 WIB | 25/04/26] West Ham United vs Everton (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="318q66hx048xqo9" tvg-name="Liverpool vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace",[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="318q66hx048xqo9" tvg-name="Liverpool vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace",[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="318q66hx048xqo9" tvg-name="Liverpool vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace",[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="318q66hx048xqo9" tvg-name="Liverpool vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace",[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="318q66hx048xqo9" tvg-name="Liverpool vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace",[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="318q66hx048xqo9" tvg-name="Liverpool vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace",[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="318q66hx048xqo9" tvg-name="Liverpool vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace",[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="318q66hx048xqo9" tvg-name="Liverpool vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace",[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace (Lữ Bố (Giàng Phụng Tiên))
@@ -45,14 +45,30 @@ https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="318q66hx048xqo9" tvg-name="Liverpool vs Crystal Palace" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace",[LIVE 21:00 WIB | 25/04/26] Liverpool vs Crystal Palace (Giàng A Chiến)
 https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="pxwrxlhy9vozryk" tvg-name="Getafe vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona",[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="pxwrxlhy9vozryk" tvg-name="Getafe vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona",[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="pxwrxlhy9vozryk" tvg-name="Getafe vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona",[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="pxwrxlhy9vozryk" tvg-name="Getafe vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona",[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="pxwrxlhy9vozryk" tvg-name="Getafe vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona",[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="pxwrxlhy9vozryk" tvg-name="Getafe vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona",[LIVE 21:15 WIB | 25/04/26] Getafe vs FC Barcelona (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="8yomo4h1kgw8q0j" tvg-name="FC Augsburg vs Eintracht Frankfurt" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt",[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt (Giàng A Lỏ)
+https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+#EXTINF:-1 tvg-id="8yomo4h1kgw8q0j" tvg-name="FC Augsburg vs Eintracht Frankfurt" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt",[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt (Giàng A Lỏ)
+https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+#EXTINF:-1 tvg-id="8yomo4h1kgw8q0j" tvg-name="FC Augsburg vs Eintracht Frankfurt" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt",[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="8yomo4h1kgw8q0j" tvg-name="FC Augsburg vs Eintracht Frankfurt" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt",[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="ednm9whw9786ryo" tvg-name="FC Köln vs Bayer 04 Leverkusen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Köln vs Bayer 04 Leverkusen",[LIVE 20:30 WIB | 25/04/26] FC Köln vs Bayer 04 Leverkusen (Giàng A Ka)
+https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="ednm9whw9786ryo" tvg-name="FC Köln vs Bayer 04 Leverkusen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Köln vs Bayer 04 Leverkusen",[LIVE 20:30 WIB | 25/04/26] FC Köln vs Bayer 04 Leverkusen (Giàng A Ka)
+https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="k82rekhg9051rep" tvg-name="VfL Wolfsburg vs Borussia Monchengladbach" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] VfL Wolfsburg vs Borussia Monchengladbach",[LIVE 20:30 WIB | 25/04/26] VfL Wolfsburg vs Borussia Monchengladbach (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="k82rekhg9051rep" tvg-name="VfL Wolfsburg vs Borussia Monchengladbach" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] VfL Wolfsburg vs Borussia Monchengladbach",[LIVE 20:30 WIB | 25/04/26] VfL Wolfsburg vs Borussia Monchengladbach (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="3glrw7hn13x5qdy" tvg-name="1. FSV Mainz 05 vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] 1. FSV Mainz 05 vs FC Bayern Munich",[LIVE 20:30 WIB | 25/04/26] 1. FSV Mainz 05 vs FC Bayern Munich (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="3glrw7hn13x5qdy" tvg-name="1. FSV Mainz 05 vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] 1. FSV Mainz 05 vs FC Bayern Munich",[LIVE 20:30 WIB | 25/04/26] 1. FSV Mainz 05 vs FC Bayern Munich (VĂN VỞ)
@@ -81,19 +97,3 @@ https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="vjxm8gheexp7r6o" tvg-name="Jamshedpur FC vs Chennaiyin FC" tvg-logo="https://img.cdnok9.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LIVE 21:00 WIB | 25/04/26] Jamshedpur FC vs Chennaiyin FC",[LIVE 21:00 WIB | 25/04/26] Jamshedpur FC vs Chennaiyin FC (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="8yomo4h1kgw8q0j" tvg-name="FC Augsburg vs Eintracht Frankfurt" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt",[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="8yomo4h1kgw8q0j" tvg-name="FC Augsburg vs Eintracht Frankfurt" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt",[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="8yomo4h1kgw8q0j" tvg-name="FC Augsburg vs Eintracht Frankfurt" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt",[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt (Giàng A Lỏ)
-https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="8yomo4h1kgw8q0j" tvg-name="FC Augsburg vs Eintracht Frankfurt" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt",[LIVE 20:30 WIB | 25/04/26] FC Augsburg vs Eintracht Frankfurt (Giàng A Lỏ)
-https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="ednm9whw9786ryo" tvg-name="FC Köln vs Bayer 04 Leverkusen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Köln vs Bayer 04 Leverkusen",[LIVE 20:30 WIB | 25/04/26] FC Köln vs Bayer 04 Leverkusen (Giàng A Ka)
-https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="ednm9whw9786ryo" tvg-name="FC Köln vs Bayer 04 Leverkusen" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] FC Köln vs Bayer 04 Leverkusen",[LIVE 20:30 WIB | 25/04/26] FC Köln vs Bayer 04 Leverkusen (Giàng A Ka)
-https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="k82rekhg9051rep" tvg-name="VfL Wolfsburg vs Borussia Monchengladbach" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] VfL Wolfsburg vs Borussia Monchengladbach",[LIVE 20:30 WIB | 25/04/26] VfL Wolfsburg vs Borussia Monchengladbach (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="k82rekhg9051rep" tvg-name="VfL Wolfsburg vs Borussia Monchengladbach" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 25/04/26] VfL Wolfsburg vs Borussia Monchengladbach",[LIVE 20:30 WIB | 25/04/26] VfL Wolfsburg vs Borussia Monchengladbach (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
