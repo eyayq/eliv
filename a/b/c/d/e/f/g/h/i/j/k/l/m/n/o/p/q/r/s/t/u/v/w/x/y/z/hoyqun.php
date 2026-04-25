@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:53 WIB 25/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:53 WIB 25/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:59 WIB 25/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:59 WIB 25/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[20:00 WIB 25/04/26] Parma vs Pisa [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[20:00 WIB 25/04/26] Parma vs Pisa [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[20:00 WIB 25/04/26] Parma vs Pisa [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[20:00 WIB 25/04/26] Lyon vs Auxerre [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
