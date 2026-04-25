@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [18.48 WIB 25/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [18.57 WIB 25/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="965mkyhk4e8or1g" tvg-name="Fulham vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa",[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="965mkyhk4e8or1g" tvg-name="Fulham vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa",[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="965mkyhk4e8or1g" tvg-name="Fulham vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa",[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="965mkyhk4e8or1g" tvg-name="Fulham vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa",[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="965mkyhk4e8or1g" tvg-name="Fulham vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa",[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 tvg-id="965mkyhk4e8or1g" tvg-name="Fulham vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa",[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa (Giàng A Lỏ)
@@ -13,10 +13,10 @@ https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="965mkyhk4e8or1g" tvg-name="Fulham vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa",[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa (Giàng A Sếu)
 https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="965mkyhk4e8or1g" tvg-name="Fulham vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa",[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="965mkyhk4e8or1g" tvg-name="Fulham vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa",[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="965mkyhk4e8or1g" tvg-name="Fulham vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa",[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="965mkyhk4e8or1g" tvg-name="Fulham vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa",[LIVE 18:30 WIB | 25/04/26] Fulham vs Aston Villa (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="23xmvkh66zjyqg8" tvg-name="CLB Thanh Hoa vs PVF CAND" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 25/04/26] CLB Thanh Hoa vs PVF CAND",[LIVE 18:00 WIB | 25/04/26] CLB Thanh Hoa vs PVF CAND (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="23xmvkh66zjyqg8" tvg-name="CLB Thanh Hoa vs PVF CAND" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 25/04/26] CLB Thanh Hoa vs PVF CAND",[LIVE 18:00 WIB | 25/04/26] CLB Thanh Hoa vs PVF CAND (GIÀNG A PHỆ )
@@ -47,18 +47,14 @@ https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032a
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="1l4rjnh9ne4wm7v" tvg-name="Quang Ninh vs Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png" group-title="[LIVE 17:00 WIB | 25/04/26] Quang Ninh vs Ho Chi Minh City",[LIVE 17:00 WIB | 25/04/26] Quang Ninh vs Ho Chi Minh City (HOÀNG CÁI)
 https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="l5ergph42n56r8k" tvg-name="Western Sydney vs Melbourne Victory" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 16:50 WIB | 25/04/26] Western Sydney vs Melbourne Victory",[LIVE 16:50 WIB | 25/04/26] Western Sydney vs Melbourne Victory (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="l5ergph42n56r8k" tvg-name="Western Sydney vs Melbourne Victory" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 16:50 WIB | 25/04/26] Western Sydney vs Melbourne Victory",[LIVE 16:50 WIB | 25/04/26] Western Sydney vs Melbourne Victory (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="y39mp1h66445moj" tvg-name="Beijing Guoan vs Tianjin Jinmen Tiger" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger",[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="y39mp1h66445moj" tvg-name="Beijing Guoan vs Tianjin Jinmen Tiger" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger",[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="y39mp1h66445moj" tvg-name="Beijing Guoan vs Tianjin Jinmen Tiger" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger",[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="y39mp1h66445moj" tvg-name="Beijing Guoan vs Tianjin Jinmen Tiger" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger",[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger (Lữ Bố (Giàng Phụng Tiên))
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="y39mp1h66445moj" tvg-name="Beijing Guoan vs Tianjin Jinmen Tiger" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger",[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger (Giàng A Rùa)
+https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="y39mp1h66445moj" tvg-name="Beijing Guoan vs Tianjin Jinmen Tiger" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger",[LIVE 18:35 WIB | 25/04/26] Beijing Guoan vs Tianjin Jinmen Tiger (Giàng A Rùa)
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="dn1m1ghleynwmoe" tvg-name="Charlton Athletic vs Hull City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 18:30 WIB | 25/04/26] Charlton Athletic vs Hull City",[LIVE 18:30 WIB | 25/04/26] Charlton Athletic vs Hull City (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="dn1m1ghleynwmoe" tvg-name="Charlton Athletic vs Hull City" tvg-logo="https://img.cdnok9.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="[LIVE 18:30 WIB | 25/04/26] Charlton Athletic vs Hull City",[LIVE 18:30 WIB | 25/04/26] Charlton Athletic vs Hull City (VĂN GÔN)
@@ -95,23 +91,19 @@ https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="x7lm7phj7116m2w" tvg-name="Chiangrai United vs Bangkok United FC" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 18:00 WIB | 25/04/26] Chiangrai United vs Bangkok United FC",[LIVE 18:00 WIB | 25/04/26] Chiangrai United vs Bangkok United FC (Giàng A Mèo)
 https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 10m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 5j 10m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
+#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 1m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 5j 1m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
 https://hls.686868.me/live/GIANGASOI/index.m3u8?expire=1781426880&sign=4da540a732a1c2a16df4c7934cd6a157
-#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 10m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 5j 10m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
+#EXTINF:-1 tvg-id="69ec543b0d9b3a3a146402c9" tvg-name="Real Betis vs Real Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 1m | 25/04/26] Real Betis vs Real Madrid",[UPCO 23:59 WIB | 5j 1m | 25/04/26] Real Betis vs Real Madrid (Giàng A Rùa)
 https://flv.686868.me/live/GIANGASOI.flv?expire=1781426880&sign=4da540a732a1c2a16df4c7934cd6a157
-#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 10m | 25/04/26] REAL BETIS - REAL MADRID",[UPCO 23:59 WIB | 5j 10m | 25/04/26] REAL BETIS - REAL MADRID (Giàng A Gấu)
-https://hls.686868.me/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 10m | 25/04/26] REAL BETIS - REAL MADRID",[UPCO 23:59 WIB | 5j 10m | 25/04/26] REAL BETIS - REAL MADRID (Giàng A Gấu)
-https://flv.686868.me/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[LIVE 16:59 WIB | 25/04/26] FC Botosani vs FC Otelul Galati",[LIVE 16:59 WIB | 25/04/26] FC Botosani vs FC Otelul Galati (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="69ec44198a94d498a5980dc4" tvg-name="REAL BETIS - REAL MADRID" tvg-logo="" group-title="[LIVE 16:59 WIB | 25/04/26] FC Botosani vs FC Otelul Galati",[LIVE 16:59 WIB | 25/04/26] FC Botosani vs FC Otelul Galati (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="3glrw7hnjo5wqdy" tvg-name="Deportivo Alavés vs RCD Mallorca" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 19:00 WIB | 11m | 25/04/26] Deportivo Alavés vs RCD Mallorca",[UPCO 19:00 WIB | 11m | 25/04/26] Deportivo Alavés vs RCD Mallorca (GIÀNG A BẨY )
+#EXTINF:-1 tvg-id="3glrw7hnjo5wqdy" tvg-name="Deportivo Alavés vs RCD Mallorca" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 19:00 WIB | 2m | 25/04/26] Deportivo Alavés vs RCD Mallorca",[UPCO 19:00 WIB | 2m | 25/04/26] Deportivo Alavés vs RCD Mallorca (GIÀNG A BẨY )
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="3glrw7hnjo5wqdy" tvg-name="Deportivo Alavés vs RCD Mallorca" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 19:00 WIB | 11m | 25/04/26] Deportivo Alavés vs RCD Mallorca",[UPCO 19:00 WIB | 11m | 25/04/26] Deportivo Alavés vs RCD Mallorca (GIÀNG A BẨY )
+#EXTINF:-1 tvg-id="3glrw7hnjo5wqdy" tvg-name="Deportivo Alavés vs RCD Mallorca" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 19:00 WIB | 2m | 25/04/26] Deportivo Alavés vs RCD Mallorca",[UPCO 19:00 WIB | 2m | 25/04/26] Deportivo Alavés vs RCD Mallorca (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="n54qllhnzoolqvy" tvg-name="Uthai Thani Forest vs Port FC" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[UPCO 19:00 WIB | 11m | 25/04/26] Uthai Thani Forest vs Port FC",[UPCO 19:00 WIB | 11m | 25/04/26] Uthai Thani Forest vs Port FC (GIÀNG A MÂY)
+#EXTINF:-1 tvg-id="n54qllhnzoolqvy" tvg-name="Uthai Thani Forest vs Port FC" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[UPCO 19:00 WIB | 2m | 25/04/26] Uthai Thani Forest vs Port FC",[UPCO 19:00 WIB | 2m | 25/04/26] Uthai Thani Forest vs Port FC (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="n54qllhnzoolqvy" tvg-name="Uthai Thani Forest vs Port FC" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[UPCO 19:00 WIB | 11m | 25/04/26] Uthai Thani Forest vs Port FC",[UPCO 19:00 WIB | 11m | 25/04/26] Uthai Thani Forest vs Port FC (GIÀNG A MÂY)
+#EXTINF:-1 tvg-id="n54qllhnzoolqvy" tvg-name="Uthai Thani Forest vs Port FC" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[UPCO 19:00 WIB | 2m | 25/04/26] Uthai Thani Forest vs Port FC",[UPCO 19:00 WIB | 2m | 25/04/26] Uthai Thani Forest vs Port FC (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="pxwrxlhyl3l7ryk" tvg-name="FC Botosani vs FC Otelul Galati" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[UPCO 19:00 WIB | 2m | 25/04/26] FC Botosani vs FC Otelul Galati",[UPCO 19:00 WIB | 2m | 25/04/26] FC Botosani vs FC Otelul Galati (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="pxwrxlhyl3l7ryk" tvg-name="FC Botosani vs FC Otelul Galati" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[UPCO 19:00 WIB | 2m | 25/04/26] FC Botosani vs FC Otelul Galati",[UPCO 19:00 WIB | 2m | 25/04/26] FC Botosani vs FC Otelul Galati (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
