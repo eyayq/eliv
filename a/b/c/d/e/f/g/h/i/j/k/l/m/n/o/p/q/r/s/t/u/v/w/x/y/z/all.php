@@ -1,18 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.30 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.33 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="dj2ryohlkw2dq1z" tvg-name="Hellas Verona vs Lecce" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 26/04/26] Hellas Verona vs Lecce",[LIVE 01:45 WIB | 26/04/26] Hellas Verona vs Lecce (Giàng A Ka)
+https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="dj2ryohlkw2dq1z" tvg-name="Hellas Verona vs Lecce" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 26/04/26] Hellas Verona vs Lecce",[LIVE 01:45 WIB | 26/04/26] Hellas Verona vs Lecce (Giàng A Ka)
+https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="zp5rzghgpjp4q82" tvg-name="Vitoria Guimaraes vs Rio Ave" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave",[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="zp5rzghgpjp4q82" tvg-name="Vitoria Guimaraes vs Rio Ave" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave",[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="zp5rzghgpjp4q82" tvg-name="Vitoria Guimaraes vs Rio Ave" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave",[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="zp5rzghgpjp4q82" tvg-name="Vitoria Guimaraes vs Rio Ave" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave",[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="2y8m4zh56p42ql0" tvg-name="Comerciantes Unidos vs Sporting Cristal" tvg-logo="https://img.cdnok9.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal",[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="2y8m4zh56p42ql0" tvg-name="Comerciantes Unidos vs Sporting Cristal" tvg-logo="https://img.cdnok9.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal",[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="2y8m4zh56p42ql0" tvg-name="Comerciantes Unidos vs Sporting Cristal" tvg-logo="https://img.cdnok9.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal",[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="2y8m4zh56p42ql0" tvg-name="Comerciantes Unidos vs Sporting Cristal" tvg-logo="https://img.cdnok9.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal",[LIVE 03:30 WIB | 26/04/26] Comerciantes Unidos vs Sporting Cristal (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (Giàng A Rùa)
+https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (Giàng A Rùa)
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="965mkyhk4yklr1g" tvg-name="Toulouse FC vs AS Monaco" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco",[LIVE 02:05 WIB | 26/04/26] Toulouse FC vs AS Monaco (VĂN VỞ)
@@ -41,27 +61,3 @@ https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="k82rekhgev16rep" tvg-name="KVC Westerlo vs Royal Antwerp" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 01:45 WIB | 26/04/26] KVC Westerlo vs Royal Antwerp",[LIVE 01:45 WIB | 26/04/26] KVC Westerlo vs Royal Antwerp (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="dj2ryohlkw2dq1z" tvg-name="Hellas Verona vs Lecce" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 26/04/26] Hellas Verona vs Lecce",[LIVE 01:45 WIB | 26/04/26] Hellas Verona vs Lecce (Giàng A Ka)
-https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="dj2ryohlkw2dq1z" tvg-name="Hellas Verona vs Lecce" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 26/04/26] Hellas Verona vs Lecce",[LIVE 01:45 WIB | 26/04/26] Hellas Verona vs Lecce (Giàng A Ka)
-https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="dn1m1ghlxwwjmoe" tvg-name="Deportivo Maldonado vs Albion FC" tvg-logo="https://img.cdnok9.com/football/competition/57bb4f7957510c2da5fd076e75618f5f.png" group-title="[LIVE 01:30 WIB | 26/04/26] Deportivo Maldonado vs Albion FC",[LIVE 01:30 WIB | 26/04/26] Deportivo Maldonado vs Albion FC (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="dn1m1ghlxwwjmoe" tvg-name="Deportivo Maldonado vs Albion FC" tvg-logo="https://img.cdnok9.com/football/competition/57bb4f7957510c2da5fd076e75618f5f.png" group-title="[LIVE 01:30 WIB | 26/04/26] Deportivo Maldonado vs Albion FC",[LIVE 01:30 WIB | 26/04/26] Deportivo Maldonado vs Albion FC (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="2y8m4zh5j0g7ql0" tvg-name="Cracovia Krakow vs Pogon Szczecin" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 01:15 WIB | 26/04/26] Cracovia Krakow vs Pogon Szczecin",[LIVE 01:15 WIB | 26/04/26] Cracovia Krakow vs Pogon Szczecin (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="2y8m4zh5j0g7ql0" tvg-name="Cracovia Krakow vs Pogon Szczecin" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 01:15 WIB | 26/04/26] Cracovia Krakow vs Pogon Szczecin",[LIVE 01:15 WIB | 26/04/26] Cracovia Krakow vs Pogon Szczecin (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="3glrw7hngwkkqdy" tvg-name="PAOK Saloniki vs OFI Crete" tvg-logo="https://img.cdnok9.com/football/competition/1bf163c9c97591667d1da9330b17140d.png" group-title="[LIVE 00:30 WIB | 26/04/26] PAOK Saloniki vs OFI Crete",[LIVE 00:30 WIB | 26/04/26] PAOK Saloniki vs OFI Crete (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="3glrw7hngwkkqdy" tvg-name="PAOK Saloniki vs OFI Crete" tvg-logo="https://img.cdnok9.com/football/competition/1bf163c9c97591667d1da9330b17140d.png" group-title="[LIVE 00:30 WIB | 26/04/26] PAOK Saloniki vs OFI Crete",[LIVE 00:30 WIB | 26/04/26] PAOK Saloniki vs OFI Crete (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="zp5rzghgpjp4q82" tvg-name="Vitoria Guimaraes vs Rio Ave" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave",[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="zp5rzghgpjp4q82" tvg-name="Vitoria Guimaraes vs Rio Ave" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave",[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="zp5rzghgpjp4q82" tvg-name="Vitoria Guimaraes vs Rio Ave" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave",[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="zp5rzghgpjp4q82" tvg-name="Vitoria Guimaraes vs Rio Ave" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave",[LIVE 02:30 WIB | 26/04/26] Vitoria Guimaraes vs Rio Ave (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
