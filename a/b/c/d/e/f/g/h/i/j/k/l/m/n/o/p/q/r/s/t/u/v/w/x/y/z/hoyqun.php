@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [02:33 WIB 26/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:33 WIB 26/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [02:42 WIB 26/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:42 WIB 26/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[23:30 WIB 25/04/26] Trung Quốc vs  Đan Mạch (Uber) [FHD] [LIVE]
@@ -10,15 +10,6 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[23:30 WIB 25/04/26] Trung Quốc vs  Đan Mạch (Uber) [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[01:00 WIB 26/04/26] Aryna Sabalenka vs Jaqueline Cristian [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[01:00 WIB 26/04/26] Aryna Sabalenka vs Jaqueline Cristian [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[01:00 WIB 26/04/26] Aryna Sabalenka vs Jaqueline Cristian [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 26/04/26] Hellas Verona vs Lecce [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
@@ -56,13 +47,13 @@ https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[02:30 WIB 26/04/26] Phoenix Suns vs Oklahoma City Thunder [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[03:00 WIB 26/04/26]  Alexander Bublik vs Stefanos Tsitsipas [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[03:00 WIB 26/04/26]  Alexander Bublik vs Stefanos Tsitsipas [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[03:00 WIB 26/04/26]  Alexander Bublik vs Stefanos Tsitsipas [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[03:00 WIB 26/04/26]  Alexander Bublik vs Stefanos Tsitsipas [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[03:00 WIB 26/04/26]  Alexander Bublik vs Stefanos Tsitsipas [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[03:00 WIB 26/04/26]  Alexander Bublik vs Stefanos Tsitsipas [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[03:45 WIB 26/04/26] Minnesota United FC vs Los Angeles FC [FHD] [NANTIKAN]
