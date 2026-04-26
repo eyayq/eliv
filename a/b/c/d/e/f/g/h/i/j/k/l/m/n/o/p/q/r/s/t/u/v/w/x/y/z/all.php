@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.31 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.39 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="8yomo4h1838kq0j" tvg-name="Chelsea vs Leeds United" tvg-logo="https://img.cdnok9.com/football/competition/184d1f93aac0dd0326583286c208c8cc.png" group-title="[LIVE 21:00 WIB | 26/04/26] Chelsea vs Leeds United",[LIVE 21:00 WIB | 26/04/26] Chelsea vs Leeds United (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
@@ -37,26 +37,6 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="965mkyhk23zwr1g" tvg-name="IFK Goteborg vs GAIS" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 21:30 WIB | 26/04/26] IFK Goteborg vs GAIS",[LIVE 21:30 WIB | 26/04/26] IFK Goteborg vs GAIS (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="965mkyhk23zwr1g" tvg-name="IFK Goteborg vs GAIS" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 21:30 WIB | 26/04/26] IFK Goteborg vs GAIS",[LIVE 21:30 WIB | 26/04/26] IFK Goteborg vs GAIS (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="vjxm8ghe8488r6o" tvg-name="Estoril vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 21:30 WIB | 26/04/26] Estoril vs FC Famalicao",[LIVE 21:30 WIB | 26/04/26] Estoril vs FC Famalicao (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="vjxm8ghe8488r6o" tvg-name="Estoril vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 21:30 WIB | 26/04/26] Estoril vs FC Famalicao",[LIVE 21:30 WIB | 26/04/26] Estoril vs FC Famalicao (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="y39mp1h6o0p1moj" tvg-name="Arsenal Women vs OL Lyonnes Women" tvg-logo="https://img.cdnok9.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women",[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="y39mp1h6o0p1moj" tvg-name="Arsenal Women vs OL Lyonnes Women" tvg-logo="https://img.cdnok9.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women",[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="y39mp1h6o0p1moj" tvg-name="Arsenal Women vs OL Lyonnes Women" tvg-logo="https://img.cdnok9.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women",[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="y39mp1h6o0p1moj" tvg-name="Arsenal Women vs OL Lyonnes Women" tvg-logo="https://img.cdnok9.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women",[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="vjxm8ghejx62r6o" tvg-name="Real Oviedo vs Elche" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 26/04/26] Real Oviedo vs Elche",[LIVE 21:15 WIB | 26/04/26] Real Oviedo vs Elche (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="vjxm8ghejx62r6o" tvg-name="Real Oviedo vs Elche" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 26/04/26] Real Oviedo vs Elche",[LIVE 21:15 WIB | 26/04/26] Real Oviedo vs Elche (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="x7lm7phj0w87m2w" tvg-name="Dynamo Moscow vs FC Sochi" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 21:00 WIB | 26/04/26] Dynamo Moscow vs FC Sochi",[LIVE 21:00 WIB | 26/04/26] Dynamo Moscow vs FC Sochi (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 tvg-id="x7lm7phj0w87m2w" tvg-name="Dynamo Moscow vs FC Sochi" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 21:00 WIB | 26/04/26] Dynamo Moscow vs FC Sochi",[LIVE 21:00 WIB | 26/04/26] Dynamo Moscow vs FC Sochi (Giàng A Lỏ)
@@ -77,3 +57,27 @@ https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e9
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="4jwq2ghnkee8m0v" tvg-name="Paris FC vs LOSC Lille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 26/04/26] Paris FC vs LOSC Lille",[LIVE 22:15 WIB | 26/04/26] Paris FC vs LOSC Lille (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="965mkyhk23zwr1g" tvg-name="IFK Goteborg vs GAIS" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 21:30 WIB | 26/04/26] IFK Goteborg vs GAIS",[LIVE 21:30 WIB | 26/04/26] IFK Goteborg vs GAIS (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="965mkyhk23zwr1g" tvg-name="IFK Goteborg vs GAIS" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 21:30 WIB | 26/04/26] IFK Goteborg vs GAIS",[LIVE 21:30 WIB | 26/04/26] IFK Goteborg vs GAIS (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="vjxm8ghe8488r6o" tvg-name="Estoril vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 21:30 WIB | 26/04/26] Estoril vs FC Famalicao",[LIVE 21:30 WIB | 26/04/26] Estoril vs FC Famalicao (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="vjxm8ghe8488r6o" tvg-name="Estoril vs FC Famalicao" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 21:30 WIB | 26/04/26] Estoril vs FC Famalicao",[LIVE 21:30 WIB | 26/04/26] Estoril vs FC Famalicao (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="y39mp1h6o0p1moj" tvg-name="Arsenal Women vs OL Lyonnes Women" tvg-logo="https://img.cdnok9.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women",[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="y39mp1h6o0p1moj" tvg-name="Arsenal Women vs OL Lyonnes Women" tvg-logo="https://img.cdnok9.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women",[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="y39mp1h6o0p1moj" tvg-name="Arsenal Women vs OL Lyonnes Women" tvg-logo="https://img.cdnok9.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women",[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="y39mp1h6o0p1moj" tvg-name="Arsenal Women vs OL Lyonnes Women" tvg-logo="https://img.cdnok9.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women",[LIVE 21:30 WIB | 26/04/26] Arsenal Women vs OL Lyonnes Women (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="vjxm8ghejx62r6o" tvg-name="Real Oviedo vs Elche" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 26/04/26] Real Oviedo vs Elche",[LIVE 21:15 WIB | 26/04/26] Real Oviedo vs Elche (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="vjxm8ghejx62r6o" tvg-name="Real Oviedo vs Elche" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 26/04/26] Real Oviedo vs Elche",[LIVE 21:15 WIB | 26/04/26] Real Oviedo vs Elche (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 19m | 26/04/26] Torino vs Inter Milan",[UPCO 23:00 WIB | 19m | 26/04/26] Torino vs Inter Milan (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:00 WIB | 19m | 26/04/26] Torino vs Inter Milan",[UPCO 23:00 WIB | 19m | 26/04/26] Torino vs Inter Milan (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
