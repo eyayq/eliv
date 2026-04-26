@@ -1,22 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.38 WIB 27/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.48 WIB 27/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (Giàng A Kê)
-https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (Giàng A Kê)
-https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="x7lm7phj3w0nm2w" tvg-name="Lillestrom vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:15 WIB | 27/04/26] Lillestrom vs Bodo Glimt",[LIVE 00:15 WIB | 27/04/26] Lillestrom vs Bodo Glimt (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="x7lm7phj3w0nm2w" tvg-name="Lillestrom vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:15 WIB | 27/04/26] Lillestrom vs Bodo Glimt",[LIVE 00:15 WIB | 27/04/26] Lillestrom vs Bodo Glimt (GIÀNG A MÂY)
@@ -49,15 +33,31 @@ https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="3glrw7hnjo5oqdy" tvg-name="CA Osasuna vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC",[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="l7oqdehgje67r51" tvg-name="Aarhus AGF vs Midtjylland" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[UPCO 01:00 WIB | 20m | 27/04/26] Aarhus AGF vs Midtjylland",[UPCO 01:00 WIB | 20m | 27/04/26] Aarhus AGF vs Midtjylland (GIÀNG A PHỆ )
+#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (Giàng A Kê)
+https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (Giàng A Kê)
+https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="l7oqdehgje67r51" tvg-name="Aarhus AGF vs Midtjylland" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[UPCO 01:00 WIB | 11m | 27/04/26] Aarhus AGF vs Midtjylland",[UPCO 01:00 WIB | 11m | 27/04/26] Aarhus AGF vs Midtjylland (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="l7oqdehgje67r51" tvg-name="Aarhus AGF vs Midtjylland" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[UPCO 01:00 WIB | 20m | 27/04/26] Aarhus AGF vs Midtjylland",[UPCO 01:00 WIB | 20m | 27/04/26] Aarhus AGF vs Midtjylland (GIÀNG A PHỆ )
+#EXTINF:-1 tvg-id="l7oqdehgje67r51" tvg-name="Aarhus AGF vs Midtjylland" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[UPCO 01:00 WIB | 11m | 27/04/26] Aarhus AGF vs Midtjylland",[UPCO 01:00 WIB | 11m | 27/04/26] Aarhus AGF vs Midtjylland (GIÀNG A PHỆ )
 https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="y0or5jh8lvg5qwz" tvg-name="AC Milan vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 1j 5m | 27/04/26] AC Milan vs Juventus",[UPCO 01:45 WIB | 1j 5m | 27/04/26] AC Milan vs Juventus (Giàng A Gấu)
+#EXTINF:-1 tvg-id="y0or5jh8lvg5qwz" tvg-name="AC Milan vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 56m | 27/04/26] AC Milan vs Juventus",[UPCO 01:45 WIB | 56m | 27/04/26] AC Milan vs Juventus (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="y0or5jh8lvg5qwz" tvg-name="AC Milan vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 1j 5m | 27/04/26] AC Milan vs Juventus",[UPCO 01:45 WIB | 1j 5m | 27/04/26] AC Milan vs Juventus (Giàng A Gấu)
+#EXTINF:-1 tvg-id="y0or5jh8lvg5qwz" tvg-name="AC Milan vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 56m | 27/04/26] AC Milan vs Juventus",[UPCO 01:45 WIB | 56m | 27/04/26] AC Milan vs Juventus (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="1l4rjnh9144wm7v" tvg-name="Marseille vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 01:45 WIB | 1j 5m | 27/04/26] Marseille vs OGC Nice",[UPCO 01:45 WIB | 1j 5m | 27/04/26] Marseille vs OGC Nice (Giàng A Long)
+#EXTINF:-1 tvg-id="1l4rjnh9144wm7v" tvg-name="Marseille vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 01:45 WIB | 56m | 27/04/26] Marseille vs OGC Nice",[UPCO 01:45 WIB | 56m | 27/04/26] Marseille vs OGC Nice (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="1l4rjnh9144wm7v" tvg-name="Marseille vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 01:45 WIB | 1j 5m | 27/04/26] Marseille vs OGC Nice",[UPCO 01:45 WIB | 1j 5m | 27/04/26] Marseille vs OGC Nice (Giàng A Long)
+#EXTINF:-1 tvg-id="1l4rjnh9144wm7v" tvg-name="Marseille vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 01:45 WIB | 56m | 27/04/26] Marseille vs OGC Nice",[UPCO 01:45 WIB | 56m | 27/04/26] Marseille vs OGC Nice (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
