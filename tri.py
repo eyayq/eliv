@@ -28,7 +28,8 @@ WORKFLOW_LIST = [
     "cucen.yml", "rpd.yml",
     "all.yml", "kecoa.yml",
     "gvng.yml", "hoyqun.yml",
-    "z.yml", "pl.yml", "lve1.yml",
+    "z.yml", "pl.yml",
+    "lve1.yml",
 ]
 
 # 👉
