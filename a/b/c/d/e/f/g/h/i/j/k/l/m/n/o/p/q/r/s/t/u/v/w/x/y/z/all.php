@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [10.58 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.08 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="l5ergph4l076r8k" tvg-name="Club America vs Atlas" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LIVE 10:20 WIB | 26/04/26] Club America vs Atlas",[LIVE 10:20 WIB | 26/04/26] Club America vs Atlas (Giàng A Mèo)
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
