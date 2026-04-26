@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [17.12 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [17.21 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="ednm9whw5e71ryo" tvg-name="Thanh Niên TP. Hồ Chí Minh vs Dong Tam Long An" tvg-logo="https://img.cdnok9.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png" group-title="[LIVE 17:00 WIB | 26/04/26] Thanh Niên TP. Hồ Chí Minh vs Dong Tam Long An",[LIVE 17:00 WIB | 26/04/26] Thanh Niên TP. Hồ Chí Minh vs Dong Tam Long An (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
@@ -25,39 +25,39 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="ednm9whwz1g8ryo" tvg-name="Lusitania FC vs Pacos de Ferreira" tvg-logo="https://img.cdnok9.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="[LIVE 17:00 WIB | 26/04/26] Lusitania FC vs Pacos de Ferreira",[LIVE 17:00 WIB | 26/04/26] Lusitania FC vs Pacos de Ferreira (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="y39mp1h6j694moj" tvg-name="Kryvbas vs Dynamo Kyiv" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 17:00 WIB | 26/04/26] Kryvbas vs Dynamo Kyiv",[LIVE 17:00 WIB | 26/04/26] Kryvbas vs Dynamo Kyiv (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="y39mp1h6j694moj" tvg-name="Kryvbas vs Dynamo Kyiv" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 17:00 WIB | 26/04/26] Kryvbas vs Dynamo Kyiv",[LIVE 17:00 WIB | 26/04/26] Kryvbas vs Dynamo Kyiv (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="69eda17415a657d36d770fa9" tvg-name="Real bestis vs Real madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 46m | 26/04/26] Real bestis vs Real madrid",[UPCO 23:59 WIB | 6j 46m | 26/04/26] Real bestis vs Real madrid (Giàng A Rùa)
+#EXTINF:-1 tvg-id="y0or5jh84xevqwz" tvg-name="Wisla Plock vs Radomiak Radom" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 17:15 WIB | 26/04/26] Wisla Plock vs Radomiak Radom",[LIVE 17:15 WIB | 26/04/26] Wisla Plock vs Radomiak Radom (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="y0or5jh84xevqwz" tvg-name="Wisla Plock vs Radomiak Radom" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 17:15 WIB | 26/04/26] Wisla Plock vs Radomiak Radom",[LIVE 17:15 WIB | 26/04/26] Wisla Plock vs Radomiak Radom (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="y0or5jh840llqwz" tvg-name="Excelsior SBV vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 17:15 WIB | 26/04/26] Excelsior SBV vs FC Utrecht",[LIVE 17:15 WIB | 26/04/26] Excelsior SBV vs FC Utrecht (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="y0or5jh840llqwz" tvg-name="Excelsior SBV vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 17:15 WIB | 26/04/26] Excelsior SBV vs FC Utrecht",[LIVE 17:15 WIB | 26/04/26] Excelsior SBV vs FC Utrecht (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="69eda17415a657d36d770fa9" tvg-name="Real bestis vs Real madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 37m | 26/04/26] Real bestis vs Real madrid",[UPCO 23:59 WIB | 6j 37m | 26/04/26] Real bestis vs Real madrid (Giàng A Rùa)
 https://hls.686868.me/live/GIANGASOI/index.m3u8?expire=1781426880&sign=4da540a732a1c2a16df4c7934cd6a157
-#EXTINF:-1 tvg-id="69eda17415a657d36d770fa9" tvg-name="Real bestis vs Real madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 46m | 26/04/26] Real bestis vs Real madrid",[UPCO 23:59 WIB | 6j 46m | 26/04/26] Real bestis vs Real madrid (Giàng A Rùa)
+#EXTINF:-1 tvg-id="69eda17415a657d36d770fa9" tvg-name="Real bestis vs Real madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 37m | 26/04/26] Real bestis vs Real madrid",[UPCO 23:59 WIB | 6j 37m | 26/04/26] Real bestis vs Real madrid (Giàng A Rùa)
 https://flv.686868.me/live/GIANGASOI.flv?expire=1781426880&sign=4da540a732a1c2a16df4c7934cd6a157
-#EXTINF:-1 tvg-id="69ed9d82b4fba839472ca1fd" tvg-name="Arsenal - Newcastle " tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 46m | 26/04/26] Arsenal - Newcastle ",[UPCO 23:59 WIB | 6j 46m | 26/04/26] Arsenal - Newcastle  (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69eda17415a657d36d770fa9" tvg-name="Real bestis vs Real madrid" tvg-logo="" group-title="[LIVE 17:20 WIB | 26/04/26] Hong Linh Ha Tinh vs Cong An Ho Chi Minh City",[LIVE 17:20 WIB | 26/04/26] Hong Linh Ha Tinh vs Cong An Ho Chi Minh City (Giàng A Rùa)
+https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="69eda17415a657d36d770fa9" tvg-name="Real bestis vs Real madrid" tvg-logo="" group-title="[LIVE 17:20 WIB | 26/04/26] Hong Linh Ha Tinh vs Cong An Ho Chi Minh City",[LIVE 17:20 WIB | 26/04/26] Hong Linh Ha Tinh vs Cong An Ho Chi Minh City (Giàng A Rùa)
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="69ed9d82b4fba839472ca1fd" tvg-name="Arsenal - Newcastle " tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 37m | 26/04/26] Arsenal - Newcastle ",[UPCO 23:59 WIB | 6j 37m | 26/04/26] Arsenal - Newcastle  (Giàng A Gấu)
 https://hls.686868.me/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="69ed9d82b4fba839472ca1fd" tvg-name="Arsenal - Newcastle " tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 46m | 26/04/26] Arsenal - Newcastle ",[UPCO 23:59 WIB | 6j 46m | 26/04/26] Arsenal - Newcastle  (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69ed9d82b4fba839472ca1fd" tvg-name="Arsenal - Newcastle " tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 37m | 26/04/26] Arsenal - Newcastle ",[UPCO 23:59 WIB | 6j 37m | 26/04/26] Arsenal - Newcastle  (Giàng A Gấu)
 https://flv.686868.me/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
 #EXTINF:-1 tvg-id="69ed9d82b4fba839472ca1fd" tvg-name="Arsenal - Newcastle " tvg-logo="" group-title="[LIVE 16:13 WIB | 26/04/26] Hong Linh Ha Tinh vs Cong An Ho Chi Minh City",[LIVE 16:13 WIB | 26/04/26] Hong Linh Ha Tinh vs Cong An Ho Chi Minh City (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="69ed9d82b4fba839472ca1fd" tvg-name="Arsenal - Newcastle " tvg-logo="" group-title="[LIVE 16:13 WIB | 26/04/26] Hong Linh Ha Tinh vs Cong An Ho Chi Minh City",[LIVE 16:13 WIB | 26/04/26] Hong Linh Ha Tinh vs Cong An Ho Chi Minh City (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="69ed97b9b439c83cb93a87be" tvg-name="Toulouse VS Monaco" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 46m | 26/04/26] Toulouse VS Monaco",[UPCO 23:59 WIB | 6j 46m | 26/04/26] Toulouse VS Monaco (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69ed97b9b439c83cb93a87be" tvg-name="Toulouse VS Monaco" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 37m | 26/04/26] Toulouse VS Monaco",[UPCO 23:59 WIB | 6j 37m | 26/04/26] Toulouse VS Monaco (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69ed97b9b439c83cb93a87be" tvg-name="Toulouse VS Monaco" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 46m | 26/04/26] Toulouse VS Monaco",[UPCO 23:59 WIB | 6j 46m | 26/04/26] Toulouse VS Monaco (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69ed97b9b439c83cb93a87be" tvg-name="Toulouse VS Monaco" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 37m | 26/04/26] Toulouse VS Monaco",[UPCO 23:59 WIB | 6j 37m | 26/04/26] Toulouse VS Monaco (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="y0or5jh84xevqwz" tvg-name="Wisla Plock vs Radomiak Radom" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[UPCO 17:15 WIB | 2m | 26/04/26] Wisla Plock vs Radomiak Radom",[UPCO 17:15 WIB | 2m | 26/04/26] Wisla Plock vs Radomiak Radom (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="y0or5jh84xevqwz" tvg-name="Wisla Plock vs Radomiak Radom" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[UPCO 17:15 WIB | 2m | 26/04/26] Wisla Plock vs Radomiak Radom",[UPCO 17:15 WIB | 2m | 26/04/26] Wisla Plock vs Radomiak Radom (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="y0or5jh840llqwz" tvg-name="Excelsior SBV vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[UPCO 17:15 WIB | 2m | 26/04/26] Excelsior SBV vs FC Utrecht",[UPCO 17:15 WIB | 2m | 26/04/26] Excelsior SBV vs FC Utrecht (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="y0or5jh840llqwz" tvg-name="Excelsior SBV vs FC Utrecht" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[UPCO 17:15 WIB | 2m | 26/04/26] Excelsior SBV vs FC Utrecht",[UPCO 17:15 WIB | 2m | 26/04/26] Excelsior SBV vs FC Utrecht (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 17:30 WIB | 17m | 26/04/26] Fiorentina vs Sassuolo",[UPCO 17:30 WIB | 17m | 26/04/26] Fiorentina vs Sassuolo (GIÀNG A MÂY)
+#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 17:30 WIB | 8m | 26/04/26] Fiorentina vs Sassuolo",[UPCO 17:30 WIB | 8m | 26/04/26] Fiorentina vs Sassuolo (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 17:30 WIB | 17m | 26/04/26] Fiorentina vs Sassuolo",[UPCO 17:30 WIB | 17m | 26/04/26] Fiorentina vs Sassuolo (GIÀNG A MÂY)
+#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 17:30 WIB | 8m | 26/04/26] Fiorentina vs Sassuolo",[UPCO 17:30 WIB | 8m | 26/04/26] Fiorentina vs Sassuolo (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="x7lm7phj0w87m2w" tvg-name="Dynamo Moscow vs FC Sochi" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[UPCO 17:18 WIB | 6m | 26/04/26] Fiorentina vs Sassuolo",[UPCO 17:18 WIB | 6m | 26/04/26] Fiorentina vs Sassuolo (Giàng A Lỏ)
+#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 17:30 WIB | 8m | 26/04/26] Fiorentina vs Sassuolo",[UPCO 17:30 WIB | 8m | 26/04/26] Fiorentina vs Sassuolo (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="x7lm7phj0w87m2w" tvg-name="Dynamo Moscow vs FC Sochi" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[UPCO 17:18 WIB | 6m | 26/04/26] Fiorentina vs Sassuolo",[UPCO 17:18 WIB | 6m | 26/04/26] Fiorentina vs Sassuolo (Giàng A Lỏ)
+#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 17:30 WIB | 8m | 26/04/26] Fiorentina vs Sassuolo",[UPCO 17:30 WIB | 8m | 26/04/26] Fiorentina vs Sassuolo (Giàng A Lỏ)
 https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
