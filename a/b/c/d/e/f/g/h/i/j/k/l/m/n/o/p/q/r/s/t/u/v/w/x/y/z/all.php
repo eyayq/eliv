@@ -1,30 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.30 WIB 27/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.38 WIB 27/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="1l4rjnh914yem7v" tvg-name="Borussia Dortmund vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg",[LIVE 22:30 WIB | 26/04/26] Borussia Dortmund vs SC Freiburg (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (VĂN VỞ)
@@ -41,22 +17,10 @@ https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="l7oqdehgnv11r51" tvg-name="Torino vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan",[LIVE 23:00 WIB | 26/04/26] Torino vs Inter Milan (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="n54qllhne776qvy" tvg-name="Havre Athletic Club vs Metz" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 26/04/26] Havre Athletic Club vs Metz",[LIVE 22:15 WIB | 26/04/26] Havre Athletic Club vs Metz (Giàng A Ka)
-https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="n54qllhne776qvy" tvg-name="Havre Athletic Club vs Metz" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 26/04/26] Havre Athletic Club vs Metz",[LIVE 22:15 WIB | 26/04/26] Havre Athletic Club vs Metz (Giàng A Ka)
-https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="4jwq2ghnkee8m0v" tvg-name="Paris FC vs LOSC Lille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 26/04/26] Paris FC vs LOSC Lille",[LIVE 22:15 WIB | 26/04/26] Paris FC vs LOSC Lille (GIÀNG A MÂY)
+#EXTINF:-1 tvg-id="x7lm7phj3w0nm2w" tvg-name="Lillestrom vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:15 WIB | 27/04/26] Lillestrom vs Bodo Glimt",[LIVE 00:15 WIB | 27/04/26] Lillestrom vs Bodo Glimt (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="4jwq2ghnkee8m0v" tvg-name="Paris FC vs LOSC Lille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 26/04/26] Paris FC vs LOSC Lille",[LIVE 22:15 WIB | 26/04/26] Paris FC vs LOSC Lille (GIÀNG A MÂY)
+#EXTINF:-1 tvg-id="x7lm7phj3w0nm2w" tvg-name="Lillestrom vs Bodo Glimt" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:15 WIB | 27/04/26] Lillestrom vs Bodo Glimt",[LIVE 00:15 WIB | 27/04/26] Lillestrom vs Bodo Glimt (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="4jwq2ghnkee8m0v" tvg-name="Paris FC vs LOSC Lille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 26/04/26] Paris FC vs LOSC Lille",[LIVE 22:15 WIB | 26/04/26] Paris FC vs LOSC Lille (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="4jwq2ghnkee8m0v" tvg-name="Paris FC vs LOSC Lille" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 26/04/26] Paris FC vs LOSC Lille",[LIVE 22:15 WIB | 26/04/26] Paris FC vs LOSC Lille (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="ednm9whw9771ryo" tvg-name="Stade Rennais FC vs FC Nantes" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 26/04/26] Stade Rennais FC vs FC Nantes",[LIVE 22:15 WIB | 26/04/26] Stade Rennais FC vs FC Nantes (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="ednm9whw9771ryo" tvg-name="Stade Rennais FC vs FC Nantes" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 22:15 WIB | 26/04/26] Stade Rennais FC vs FC Nantes",[LIVE 22:15 WIB | 26/04/26] Stade Rennais FC vs FC Nantes (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="x7lm7phjwkw9m2w" tvg-name="CF Estrela Amadora SAD vs FC Porto" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 00:00 WIB | 27/04/26] CF Estrela Amadora SAD vs FC Porto",[LIVE 00:00 WIB | 27/04/26] CF Estrela Amadora SAD vs FC Porto (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="x7lm7phjwkw9m2w" tvg-name="CF Estrela Amadora SAD vs FC Porto" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 00:00 WIB | 27/04/26] CF Estrela Amadora SAD vs FC Porto",[LIVE 00:00 WIB | 27/04/26] CF Estrela Amadora SAD vs FC Porto (HOÀNG CÁI)
@@ -77,11 +41,23 @@ https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="6ypq3nhv80lkmd7" tvg-name="Anderlecht vs Union Saint-Gilloise" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 23:30 WIB | 26/04/26] Anderlecht vs Union Saint-Gilloise",[LIVE 23:30 WIB | 26/04/26] Anderlecht vs Union Saint-Gilloise (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="3glrw7hnjo5oqdy" tvg-name="CA Osasuna vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC",[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="3glrw7hnjo5oqdy" tvg-name="CA Osasuna vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC",[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="3glrw7hnjo5oqdy" tvg-name="CA Osasuna vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC",[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="3glrw7hnjo5oqdy" tvg-name="CA Osasuna vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC",[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="3glrw7hnjo5oqdy" tvg-name="CA Osasuna vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC",[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="3glrw7hnjo5oqdy" tvg-name="CA Osasuna vs Sevilla FC" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC",[LIVE 23:30 WIB | 26/04/26] CA Osasuna vs Sevilla FC (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="l7oqdehgje67r51" tvg-name="Aarhus AGF vs Midtjylland" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[UPCO 01:00 WIB | 20m | 27/04/26] Aarhus AGF vs Midtjylland",[UPCO 01:00 WIB | 20m | 27/04/26] Aarhus AGF vs Midtjylland (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="l7oqdehgje67r51" tvg-name="Aarhus AGF vs Midtjylland" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[UPCO 01:00 WIB | 20m | 27/04/26] Aarhus AGF vs Midtjylland",[UPCO 01:00 WIB | 20m | 27/04/26] Aarhus AGF vs Midtjylland (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="y0or5jh8lvg5qwz" tvg-name="AC Milan vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 1j 5m | 27/04/26] AC Milan vs Juventus",[UPCO 01:45 WIB | 1j 5m | 27/04/26] AC Milan vs Juventus (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="y0or5jh8lvg5qwz" tvg-name="AC Milan vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 1j 5m | 27/04/26] AC Milan vs Juventus",[UPCO 01:45 WIB | 1j 5m | 27/04/26] AC Milan vs Juventus (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="1l4rjnh9144wm7v" tvg-name="Marseille vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 01:45 WIB | 1j 5m | 27/04/26] Marseille vs OGC Nice",[UPCO 01:45 WIB | 1j 5m | 27/04/26] Marseille vs OGC Nice (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="1l4rjnh9144wm7v" tvg-name="Marseille vs OGC Nice" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 01:45 WIB | 1j 5m | 27/04/26] Marseille vs OGC Nice",[UPCO 01:45 WIB | 1j 5m | 27/04/26] Marseille vs OGC Nice (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
