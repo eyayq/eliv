@@ -1,18 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.15 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.24 WIB 26/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo",[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo",[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo",[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo (Giàng A Lỏ)
+https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo",[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo (Giàng A Lỏ)
+https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 tvg-id="8yomo4h1y5vkq0j" tvg-name="Fredericia vs Odense BK" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 19:00 WIB | 26/04/26] Fredericia vs Odense BK",[LIVE 19:00 WIB | 26/04/26] Fredericia vs Odense BK (Giàng A Khoai)
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="8yomo4h1y5vkq0j" tvg-name="Fredericia vs Odense BK" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 19:00 WIB | 26/04/26] Fredericia vs Odense BK",[LIVE 19:00 WIB | 26/04/26] Fredericia vs Odense BK (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="4jwq2ghnndjdm0v" tvg-name="Cong An Ha Noi FC vs Song Lam Nghe An" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An",[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="4jwq2ghnndjdm0v" tvg-name="Cong An Ha Noi FC vs Song Lam Nghe An" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An",[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="l5ergph43pzkr8k" tvg-name="Heracles Almelo vs Volendam" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[UPCO 19:30 WIB | 4m | 26/04/26] Heracles Almelo vs Volendam",[UPCO 19:30 WIB | 4m | 26/04/26] Heracles Almelo vs Volendam (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="l5ergph43pzkr8k" tvg-name="Heracles Almelo vs Volendam" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[UPCO 19:30 WIB | 4m | 26/04/26] Heracles Almelo vs Volendam",[UPCO 19:30 WIB | 4m | 26/04/26] Heracles Almelo vs Volendam (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="4jwq2ghnndjdm0v" tvg-name="Cong An Ha Noi FC vs Song Lam Nghe An" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An",[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="4jwq2ghnndjdm0v" tvg-name="Cong An Ha Noi FC vs Song Lam Nghe An" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An",[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="4jwq2ghnndjdm0v" tvg-name="Cong An Ha Noi FC vs Song Lam Nghe An" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An",[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="4jwq2ghnndjdm0v" tvg-name="Cong An Ha Noi FC vs Song Lam Nghe An" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An",[LIVE 19:15 WIB | 26/04/26] Cong An Ha Noi FC vs Song Lam Nghe An (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="6ypq3nhvk4wzmd7" tvg-name="Silkeborg vs Randers FC" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 19:00 WIB | 26/04/26] Silkeborg vs Randers FC",[LIVE 19:00 WIB | 26/04/26] Silkeborg vs Randers FC (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="6ypq3nhvk4wzmd7" tvg-name="Silkeborg vs Randers FC" tvg-logo="https://img.cdnok9.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="[LIVE 19:00 WIB | 26/04/26] Silkeborg vs Randers FC",[LIVE 19:00 WIB | 26/04/26] Silkeborg vs Randers FC (Giàng A Long)
@@ -69,15 +81,3 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="l5ergph44885r8k" tvg-name="Chongqing Tonglianglong vs Qingdao West Coast" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 18:00 WIB | 26/04/26] Chongqing Tonglianglong vs Qingdao West Coast",[LIVE 18:00 WIB | 26/04/26] Chongqing Tonglianglong vs Qingdao West Coast (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo",[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo",[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo",[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo (Giàng A Lỏ)
-https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="ednm9whwkjg3ryo" tvg-name="Fiorentina vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo",[LIVE 17:30 WIB | 26/04/26] Fiorentina vs Sassuolo (Giàng A Lỏ)
-https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="y0or5jh84xevqwz" tvg-name="Wisla Plock vs Radomiak Radom" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 17:15 WIB | 26/04/26] Wisla Plock vs Radomiak Radom",[LIVE 17:15 WIB | 26/04/26] Wisla Plock vs Radomiak Radom (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="y0or5jh84xevqwz" tvg-name="Wisla Plock vs Radomiak Radom" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 17:15 WIB | 26/04/26] Wisla Plock vs Radomiak Radom",[LIVE 17:15 WIB | 26/04/26] Wisla Plock vs Radomiak Radom (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
