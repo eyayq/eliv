@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:13 WIB 26/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:13 WIB 26/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:22 WIB 26/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:22 WIB 26/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MANih1FjM_KTqGKNi9wBLb6Y-qT38zbYTQ&s" group-title="Japan League Women",[14:05 WIB 26/04/26] Hisamitsu Springs W - Osaka Marvelous W [FHD] [LIVE]
