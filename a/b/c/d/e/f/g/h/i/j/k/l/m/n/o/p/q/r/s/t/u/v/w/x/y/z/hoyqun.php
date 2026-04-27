@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:03 WIB 27/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:03 WIB 27/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [15:11 WIB 27/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:11 WIB 27/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[13:30 WIB 27/04/26] Trung Quốc vs Canada (Thomas) [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.thairath.co.th/media/dFQROr7oWzulq5Fa7HHDK0wx0EJf9QrsvcGcPEfUKfwX72Q47RAcEzN7x4MAxivRZsZ.jpg" group-title="AVC Champions League Women",[15:00 WIB 27/04/26] NEC Red Rockets W (Jpn) - Harudot Chonburi W (Tha) [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 27/04/26] Bali United vs PSM Makassar [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 27/04/26] Bali United vs PSM Makassar [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 27/04/26] Bali United vs PSM Makassar [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 27/04/26] Bali United vs PSM Makassar [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 27/04/26] Bali United vs PSM Makassar [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 27/04/26] Bali United vs PSM Makassar [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gX8CjJoKFvEF6Kk0q9JTjQjnRtoe0fCrKS_hMcHcPAJUWT9uQ5tmL4hDwWNuCkDbJPo" group-title="KBL",[17:00 WIB 27/04/26] Goyang Sono vs LG Sakers [FHD] [NANTIKAN]
