@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [20.08 WIB 27/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [20.16 WIB 27/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (Giàng A Voi)
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (Giàng A Voi)
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="pxwrxlhyj8z7ryk" tvg-name="Persatuan Sepakbola Indonesia Jakarta vs Persis Solo FC" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:00 WIB | 27/04/26] Persatuan Sepakbola Indonesia Jakarta vs Persis Solo FC",[LIVE 19:00 WIB | 27/04/26] Persatuan Sepakbola Indonesia Jakarta vs Persis Solo FC (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="pxwrxlhyj8z7ryk" tvg-name="Persatuan Sepakbola Indonesia Jakarta vs Persis Solo FC" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:00 WIB | 27/04/26] Persatuan Sepakbola Indonesia Jakarta vs Persis Solo FC",[LIVE 19:00 WIB | 27/04/26] Persatuan Sepakbola Indonesia Jakarta vs Persis Solo FC (Giàng A Chiến)
@@ -21,31 +29,27 @@ https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa69089696
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="vjxm8ghex6gxr6o" tvg-name="Balestier Khalsa FC vs Hougang United FC" tvg-logo="https://img.cdnok9.com/football/competition/f673935d115d19fd412bcedf9ac3f936.png" group-title="[LIVE 18:30 WIB | 27/04/26] Balestier Khalsa FC vs Hougang United FC",[LIVE 18:30 WIB | 27/04/26] Balestier Khalsa FC vs Hougang United FC (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="69eef44cf7427f11a384d055" tvg-name="REAL BETIS VS REALMADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 50m | 27/04/26] REAL BETIS VS REALMADRID",[UPCO 23:59 WIB | 3j 50m | 27/04/26] REAL BETIS VS REALMADRID (Giàng A Rùa)
+#EXTINF:-1 tvg-id="69eef44cf7427f11a384d055" tvg-name="REAL BETIS VS REALMADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 42m | 27/04/26] REAL BETIS VS REALMADRID",[UPCO 23:59 WIB | 3j 42m | 27/04/26] REAL BETIS VS REALMADRID (Giàng A Rùa)
 https://hls.686868.me/live/GIANGASOI/index.m3u8?expire=1781426880&sign=4da540a732a1c2a16df4c7934cd6a157
-#EXTINF:-1 tvg-id="69eef44cf7427f11a384d055" tvg-name="REAL BETIS VS REALMADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 50m | 27/04/26] REAL BETIS VS REALMADRID",[UPCO 23:59 WIB | 3j 50m | 27/04/26] REAL BETIS VS REALMADRID (Giàng A Rùa)
+#EXTINF:-1 tvg-id="69eef44cf7427f11a384d055" tvg-name="REAL BETIS VS REALMADRID" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 42m | 27/04/26] REAL BETIS VS REALMADRID",[UPCO 23:59 WIB | 3j 42m | 27/04/26] REAL BETIS VS REALMADRID (Giàng A Rùa)
 https://flv.686868.me/live/GIANGASOI.flv?expire=1781426880&sign=4da540a732a1c2a16df4c7934cd6a157
-#EXTINF:-1 tvg-id="69eeebb6fbf5af43c86188f0" tvg-name="AC Milan -  Juventus" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 50m | 27/04/26] AC Milan -  Juventus",[UPCO 23:59 WIB | 3j 50m | 27/04/26] AC Milan -  Juventus (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69eeebb6fbf5af43c86188f0" tvg-name="AC Milan -  Juventus" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 42m | 27/04/26] AC Milan -  Juventus",[UPCO 23:59 WIB | 3j 42m | 27/04/26] AC Milan -  Juventus (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69eeebb6fbf5af43c86188f0" tvg-name="AC Milan -  Juventus" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 50m | 27/04/26] AC Milan -  Juventus",[UPCO 23:59 WIB | 3j 50m | 27/04/26] AC Milan -  Juventus (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69eeebb6fbf5af43c86188f0" tvg-name="AC Milan -  Juventus" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 42m | 27/04/26] AC Milan -  Juventus",[UPCO 23:59 WIB | 3j 42m | 27/04/26] AC Milan -  Juventus (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
 #EXTINF:-1 tvg-id="69eeebb6fbf5af43c86188f0" tvg-name="AC Milan -  Juventus" tvg-logo="" group-title="[LIVE 20:04 WIB | 27/04/26] Turan Tovuz vs Zira FK",[LIVE 20:04 WIB | 27/04/26] Turan Tovuz vs Zira FK (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="69eeebb6fbf5af43c86188f0" tvg-name="AC Milan -  Juventus" tvg-logo="" group-title="[LIVE 20:04 WIB | 27/04/26] Turan Tovuz vs Zira FK",[LIVE 20:04 WIB | 27/04/26] Turan Tovuz vs Zira FK (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="2y8m4zh5v763ql0" tvg-name="Smouha SC vs Al Masry" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[UPCO 21:00 WIB | 51m | 27/04/26] Smouha SC vs Al Masry",[UPCO 21:00 WIB | 51m | 27/04/26] Smouha SC vs Al Masry (Giàng A Choén)
+#EXTINF:-1 tvg-id="k82rekhge8g7rep" tvg-name="Bahla SC vs Oman Club" tvg-logo="https://img.cdnok9.com/football/competition/3f173748c6130443ceb3c19524947811.png" group-title="[UPCO 20:50 WIB | 33m | 27/04/26] Bahla SC vs Oman Club",[UPCO 20:50 WIB | 33m | 27/04/26] Bahla SC vs Oman Club (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="k82rekhge8g7rep" tvg-name="Bahla SC vs Oman Club" tvg-logo="https://img.cdnok9.com/football/competition/3f173748c6130443ceb3c19524947811.png" group-title="[UPCO 20:50 WIB | 33m | 27/04/26] Bahla SC vs Oman Club",[UPCO 20:50 WIB | 33m | 27/04/26] Bahla SC vs Oman Club (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="2y8m4zh5v763ql0" tvg-name="Smouha SC vs Al Masry" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[UPCO 21:00 WIB | 43m | 27/04/26] Smouha SC vs Al Masry",[UPCO 21:00 WIB | 43m | 27/04/26] Smouha SC vs Al Masry (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="2y8m4zh5v763ql0" tvg-name="Smouha SC vs Al Masry" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[UPCO 21:00 WIB | 51m | 27/04/26] Smouha SC vs Al Masry",[UPCO 21:00 WIB | 51m | 27/04/26] Smouha SC vs Al Masry (Giàng A Choén)
+#EXTINF:-1 tvg-id="2y8m4zh5v763ql0" tvg-name="Smouha SC vs Al Masry" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[UPCO 21:00 WIB | 43m | 27/04/26] Smouha SC vs Al Masry",[UPCO 21:00 WIB | 43m | 27/04/26] Smouha SC vs Al Masry (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="6ypq3nhvk83zmd7" tvg-name="Zamalek SC vs Enppi" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[UPCO 21:00 WIB | 51m | 27/04/26] Zamalek SC vs Enppi",[UPCO 21:00 WIB | 51m | 27/04/26] Zamalek SC vs Enppi (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="6ypq3nhvk83zmd7" tvg-name="Zamalek SC vs Enppi" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[UPCO 21:00 WIB | 43m | 27/04/26] Zamalek SC vs Enppi",[UPCO 21:00 WIB | 43m | 27/04/26] Zamalek SC vs Enppi (GIÀNG A TỨ )
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="6ypq3nhvk83zmd7" tvg-name="Zamalek SC vs Enppi" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[UPCO 21:00 WIB | 51m | 27/04/26] Zamalek SC vs Enppi",[UPCO 21:00 WIB | 51m | 27/04/26] Zamalek SC vs Enppi (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="6ypq3nhvk83zmd7" tvg-name="Zamalek SC vs Enppi" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[UPCO 21:00 WIB | 43m | 27/04/26] Zamalek SC vs Enppi",[UPCO 21:00 WIB | 43m | 27/04/26] Zamalek SC vs Enppi (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
