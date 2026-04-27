@@ -1,6 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.23 WIB 28/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.32 WIB 28/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="dn1m1ghl2v39moe" tvg-name="Al-Jandal vs Al-Orobah FC" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 00:50 WIB | 28/04/26] Al-Jandal vs Al-Orobah FC",[LIVE 00:50 WIB | 28/04/26] Al-Jandal vs Al-Orobah FC (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="dn1m1ghl2v39moe" tvg-name="Al-Jandal vs Al-Orobah FC" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 00:50 WIB | 28/04/26] Al-Jandal vs Al-Orobah FC",[LIVE 00:50 WIB | 28/04/26] Al-Jandal vs Al-Orobah FC (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="1l4rjnh9z4ogm7v" tvg-name="Cadiz vs UD Las Palmas" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 01:30 WIB | 28/04/26] Cadiz vs UD Las Palmas",[LIVE 01:30 WIB | 28/04/26] Cadiz vs UD Las Palmas (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="1l4rjnh9z4ogm7v" tvg-name="Cadiz vs UD Las Palmas" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 01:30 WIB | 28/04/26] Cadiz vs UD Las Palmas",[LIVE 01:30 WIB | 28/04/26] Cadiz vs UD Las Palmas (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="1l4rjnh9z4ogm7v" tvg-name="Cadiz vs UD Las Palmas" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 01:30 WIB | 28/04/26] Cadiz vs UD Las Palmas",[LIVE 01:30 WIB | 28/04/26] Cadiz vs UD Las Palmas (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="1l4rjnh9z4ogm7v" tvg-name="Cadiz vs UD Las Palmas" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 01:30 WIB | 28/04/26] Cadiz vs UD Las Palmas",[LIVE 01:30 WIB | 28/04/26] Cadiz vs UD Las Palmas (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="1l4rjnh94y8zm7v" tvg-name="Dinamo Batumi vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 00:00 WIB | 28/04/26] Dinamo Batumi vs Torpedo Kutaisi",[LIVE 00:00 WIB | 28/04/26] Dinamo Batumi vs Torpedo Kutaisi (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="1l4rjnh94y8zm7v" tvg-name="Dinamo Batumi vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 00:00 WIB | 28/04/26] Dinamo Batumi vs Torpedo Kutaisi",[LIVE 00:00 WIB | 28/04/26] Dinamo Batumi vs Torpedo Kutaisi (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="8yomo4h1y83kq0j" tvg-name="Pyramids FC vs Al Ahly FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 00:00 WIB | 28/04/26] Pyramids FC vs Al Ahly FC",[LIVE 00:00 WIB | 28/04/26] Pyramids FC vs Al Ahly FC (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="8yomo4h1y83kq0j" tvg-name="Pyramids FC vs Al Ahly FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 00:00 WIB | 28/04/26] Pyramids FC vs Al Ahly FC",[LIVE 00:00 WIB | 28/04/26] Pyramids FC vs Al Ahly FC (GIÀNG A PHỆ )
@@ -29,10 +45,6 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="4jwq2ghnzv1nm0v" tvg-name="Mjallby AIF vs Halmstads" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 00:00 WIB | 28/04/26] Mjallby AIF vs Halmstads",[LIVE 00:00 WIB | 28/04/26] Mjallby AIF vs Halmstads (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="1l4rjnh968kom7v" tvg-name="Cagliari vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta",[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="1l4rjnh968kom7v" tvg-name="Cagliari vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta",[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="1l4rjnh968kom7v" tvg-name="Cagliari vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta",[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="1l4rjnh968kom7v" tvg-name="Cagliari vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta",[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta (Giàng A Gấu)
@@ -41,6 +53,10 @@ https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa69089696
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="1l4rjnh968kom7v" tvg-name="Cagliari vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta",[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="1l4rjnh968kom7v" tvg-name="Cagliari vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta",[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="1l4rjnh968kom7v" tvg-name="Cagliari vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta",[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="1l4rjnh968kom7v" tvg-name="Cagliari vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta",[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="1l4rjnh968kom7v" tvg-name="Cagliari vs Atalanta" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta",[LIVE 23:30 WIB | 27/04/26] Cagliari vs Atalanta (Giàng A Sếu)
@@ -61,31 +77,15 @@ https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="3glrw7hn33l2qdy" tvg-name="Al-Sadd vs Al Shamal" tvg-logo="https://img.cdnok9.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png" group-title="[LIVE 23:30 WIB | 27/04/26] Al-Sadd vs Al Shamal",[LIVE 23:30 WIB | 27/04/26] Al-Sadd vs Al Shamal (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="1l4rjnh9z4ogm7v" tvg-name="Cadiz vs UD Las Palmas" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[UPCO 01:30 WIB | 6m | 28/04/26] Cadiz vs UD Las Palmas",[UPCO 01:30 WIB | 6m | 28/04/26] Cadiz vs UD Las Palmas (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="1l4rjnh9z4ogm7v" tvg-name="Cadiz vs UD Las Palmas" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[UPCO 01:30 WIB | 6m | 28/04/26] Cadiz vs UD Las Palmas",[UPCO 01:30 WIB | 6m | 28/04/26] Cadiz vs UD Las Palmas (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="1l4rjnh9z4ogm7v" tvg-name="Cadiz vs UD Las Palmas" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[UPCO 01:30 WIB | 6m | 28/04/26] Cadiz vs UD Las Palmas",[UPCO 01:30 WIB | 6m | 28/04/26] Cadiz vs UD Las Palmas (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="1l4rjnh9z4ogm7v" tvg-name="Cadiz vs UD Las Palmas" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[UPCO 01:30 WIB | 6m | 28/04/26] Cadiz vs UD Las Palmas",[UPCO 01:30 WIB | 6m | 28/04/26] Cadiz vs UD Las Palmas (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="dn1m1ghl2v39moe" tvg-name="Al-Jandal vs Al-Orobah FC" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 00:50 WIB | 28/04/26] Al-Jandal vs Al-Orobah FC",[LIVE 00:50 WIB | 28/04/26] Al-Jandal vs Al-Orobah FC (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="dn1m1ghl2v39moe" tvg-name="Al-Jandal vs Al-Orobah FC" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 00:50 WIB | 28/04/26] Al-Jandal vs Al-Orobah FC",[LIVE 00:50 WIB | 28/04/26] Al-Jandal vs Al-Orobah FC (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="1l4rjnh94y8zm7v" tvg-name="Dinamo Batumi vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 00:00 WIB | 28/04/26] Dinamo Batumi vs Torpedo Kutaisi",[LIVE 00:00 WIB | 28/04/26] Dinamo Batumi vs Torpedo Kutaisi (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="1l4rjnh94y8zm7v" tvg-name="Dinamo Batumi vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 00:00 WIB | 28/04/26] Dinamo Batumi vs Torpedo Kutaisi",[LIVE 00:00 WIB | 28/04/26] Dinamo Batumi vs Torpedo Kutaisi (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="y0or5jh81jv0qwz" tvg-name="Boulogne vs USL Dunkerque" tvg-logo="https://img.cdnok9.com/football/competition/79b7bbc74fab92edf125a270bfe07c19.png" group-title="[UPCO 01:45 WIB | 21m | 28/04/26] Boulogne vs USL Dunkerque",[UPCO 01:45 WIB | 21m | 28/04/26] Boulogne vs USL Dunkerque (GIÀNG A MÂY)
+#EXTINF:-1 tvg-id="y0or5jh81jv0qwz" tvg-name="Boulogne vs USL Dunkerque" tvg-logo="https://img.cdnok9.com/football/competition/79b7bbc74fab92edf125a270bfe07c19.png" group-title="[UPCO 01:45 WIB | 12m | 28/04/26] Boulogne vs USL Dunkerque",[UPCO 01:45 WIB | 12m | 28/04/26] Boulogne vs USL Dunkerque (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="y0or5jh81jv0qwz" tvg-name="Boulogne vs USL Dunkerque" tvg-logo="https://img.cdnok9.com/football/competition/79b7bbc74fab92edf125a270bfe07c19.png" group-title="[UPCO 01:45 WIB | 21m | 28/04/26] Boulogne vs USL Dunkerque",[UPCO 01:45 WIB | 21m | 28/04/26] Boulogne vs USL Dunkerque (GIÀNG A MÂY)
+#EXTINF:-1 tvg-id="y0or5jh81jv0qwz" tvg-name="Boulogne vs USL Dunkerque" tvg-logo="https://img.cdnok9.com/football/competition/79b7bbc74fab92edf125a270bfe07c19.png" group-title="[UPCO 01:45 WIB | 12m | 28/04/26] Boulogne vs USL Dunkerque",[UPCO 01:45 WIB | 12m | 28/04/26] Boulogne vs USL Dunkerque (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="318q66hxo9koqo9" tvg-name="Lazio vs Udinese" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 21m | 28/04/26] Lazio vs Udinese",[UPCO 01:45 WIB | 21m | 28/04/26] Lazio vs Udinese (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="318q66hxo9koqo9" tvg-name="Lazio vs Udinese" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 21m | 28/04/26] Lazio vs Udinese",[UPCO 01:45 WIB | 21m | 28/04/26] Lazio vs Udinese (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="318q66hxo9koqo9" tvg-name="Lazio vs Udinese" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 21m | 28/04/26] Lazio vs Udinese",[UPCO 01:45 WIB | 21m | 28/04/26] Lazio vs Udinese (Giàng A Húp)
+#EXTINF:-1 tvg-id="318q66hxo9koqo9" tvg-name="Lazio vs Udinese" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 12m | 28/04/26] Lazio vs Udinese",[UPCO 01:45 WIB | 12m | 28/04/26] Lazio vs Udinese (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="318q66hxo9koqo9" tvg-name="Lazio vs Udinese" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 21m | 28/04/26] Lazio vs Udinese",[UPCO 01:45 WIB | 21m | 28/04/26] Lazio vs Udinese (Giàng A Húp)
+#EXTINF:-1 tvg-id="318q66hxo9koqo9" tvg-name="Lazio vs Udinese" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 12m | 28/04/26] Lazio vs Udinese",[UPCO 01:45 WIB | 12m | 28/04/26] Lazio vs Udinese (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="318q66hxo9koqo9" tvg-name="Lazio vs Udinese" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 12m | 28/04/26] Lazio vs Udinese",[UPCO 01:45 WIB | 12m | 28/04/26] Lazio vs Udinese (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="318q66hxo9koqo9" tvg-name="Lazio vs Udinese" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 12m | 28/04/26] Lazio vs Udinese",[UPCO 01:45 WIB | 12m | 28/04/26] Lazio vs Udinese (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
