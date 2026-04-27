@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:52 WIB 27/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:52 WIB 27/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:01 WIB 27/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:01 WIB 27/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[17:00 WIB 27/04/26] Nhật Bản vs Anh (Thomas) [FHD] [LIVE]
@@ -55,15 +55,6 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/283.png" group-title="Liga I",[21:30 WIB 27/04/26] Metaloglobus vs Unirea Slobozia [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/volleyball/competition/f1614c58f7f87caf9ef186e329be93de.png" group-title="Turkish League",[23:00 WIB 27/04/26] Ziraat Bankasi - Galatasaray [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/volleyball/competition/f1614c58f7f87caf9ef186e329be93de.png" group-title="Turkish League",[23:00 WIB 27/04/26] Ziraat Bankasi - Galatasaray [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/volleyball/competition/f1614c58f7f87caf9ef186e329be93de.png" group-title="Turkish League",[23:00 WIB 27/04/26] Ziraat Bankasi - Galatasaray [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[23:30 WIB 27/04/26] Trung Quốc vs Ấn Độ (Uber) [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
@@ -362,6 +353,15 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:00 WIB 28/04/26] Al Shabab vs Al-Fateh [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 29/04/26] Al-Hilal Saudi FC vs Damac [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 29/04/26] Al-Hilal Saudi FC vs Damac [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 29/04/26] Al-Hilal Saudi FC vs Damac [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[01:30 WIB 29/04/26] Brazil vs Puerto Rico (Nam) [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
@@ -370,6 +370,78 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[01:30 WIB 29/04/26] Brazil vs Puerto Rico (Nam) [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 29/04/26] Paris Saint Germain vs Bayern München [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 29/04/26] Paris Saint Germain vs Bayern München [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 29/04/26] Paris Saint Germain vs Bayern München [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 29/04/26] Paris Saint Germain vs Bayern München [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 29/04/26] Paris Saint Germain vs Bayern München [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 29/04/26] Paris Saint Germain vs Bayern München [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 29/04/26] Paris Saint Germain vs Bayern München [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 29/04/26] Paris Saint Germain vs Bayern München [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 29/04/26] Paris Saint Germain vs Bayern München [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[05:00 WIB 29/04/26] San Lorenzo vs Santos [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[05:00 WIB 29/04/26] San Lorenzo vs Santos [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[05:00 WIB 29/04/26] San Lorenzo vs Santos [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[07:30 WIB 29/04/26] Nashville SC vs Tigres UANL [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[07:30 WIB 29/04/26] Nashville SC vs Tigres UANL [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[07:30 WIB 29/04/26] Nashville SC vs Tigres UANL [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 29/04/26] JEF United Chiba vs Yokohama F. Marinos [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 29/04/26] JEF United Chiba vs Yokohama F. Marinos [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 29/04/26] JEF United Chiba vs Yokohama F. Marinos [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 29/04/26] Vissel Kobe vs Cerezo Osaka [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 29/04/26] Vissel Kobe vs Cerezo Osaka [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 29/04/26] Vissel Kobe vs Cerezo Osaka [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 29/04/26] Kashiwa Reysol vs FC Tokyo [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanlam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 29/04/26] Kashiwa Reysol vs FC Tokyo [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 29/04/26] Kashiwa Reysol vs FC Tokyo [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanlam/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[15:00 WIB 29/04/26] Trung Quốc vs Ấn Độ (Thomas) [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
@@ -397,6 +469,15 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[15:00 WIB 29/04/26] NS vs T1 [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 29/04/26] Persik Kediri vs Pusamania Borneo [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 29/04/26] Persik Kediri vs Pusamania Borneo [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 29/04/26] Persik Kediri vs Pusamania Borneo [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[16:00 WIB 29/04/26] Hồng Kông vs Mexico (Nữ) [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
@@ -434,6 +515,24 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[18:30 WIB 29/04/26] Đan Mạch vs Madagascar (Nam) [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 29/04/26] Dewa United vs Persijap [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 29/04/26] Dewa United vs Persijap [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 29/04/26] Dewa United vs Persijap [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[22:20 WIB 29/04/26] Shabab Al Ahli Dubai vs Khorfakkan [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[22:20 WIB 29/04/26] Shabab Al Ahli Dubai vs Khorfakkan [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[22:20 WIB 29/04/26] Shabab Al Ahli Dubai vs Khorfakkan [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQinu3K9Wvvnjlp76dPPXgrrKJmJXkeM6vFXw&s" group-title="Poland PlusLiga",[22:30 WIB 29/04/26] Lublin - Zawiercie [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
@@ -469,6 +568,24 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[23:00 WIB 29/04/26] Đài Loan vs Đan Mạch (Thomas) [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:00 WIB 29/04/26] Al Riyadh vs Al-Qadisiyah FC [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:00 WIB 29/04/26] Al Riyadh vs Al-Qadisiyah FC [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:00 WIB 29/04/26] Al Riyadh vs Al-Qadisiyah FC [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 29/04/26] Al Taawon vs Al-Ittihad FC [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 29/04/26] Al Taawon vs Al-Ittihad FC [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 29/04/26] Al Taawon vs Al-Ittihad FC [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQinu3K9Wvvnjlp76dPPXgrrKJmJXkeM6vFXw&s" group-title="Poland PlusLiga",[22:30 WIB 30/04/26] Rzeszow - Projekt Warszawa [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
