@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Mon Apr 27 22:32:20 2026
+# Generated Mon Apr 27 22:33:01 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 28-04-2026 05:32:07 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 28-04-2026 05:32:48 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Argentine Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png",📁😈Velez Sarsfield😈 [🆚] 😈Club Atlético Unión [LIVE]😈📁
 https://bf.jalaplay.net/live/322711.m3u8?txSecret=99cf4c06cfa839a9fbbaa6cf99044bdd&txTime=69efdf81
