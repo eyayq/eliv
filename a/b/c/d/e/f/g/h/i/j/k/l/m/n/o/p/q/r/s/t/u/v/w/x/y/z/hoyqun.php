@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [04:02 WIB 28/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [04:02 WIB 28/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [04:10 WIB 28/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [04:10 WIB 28/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghx2r6odg/image/small" group-title="VĐQG Bồ Đào Nha",[02:15 WIB 28/04/26] Gil Vicente vs Casa Pia AC [FHD] [LIVE]
