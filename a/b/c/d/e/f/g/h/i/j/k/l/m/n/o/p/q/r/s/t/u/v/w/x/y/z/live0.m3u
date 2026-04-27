@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 08:41:26 WIB 27-04-2026
-# 🔄 Total Channels: 1956
+# ⏰ Latest Updated: 08:49:36 WIB 27-04-2026
+# 🔄 Total Channels: 1978
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [08:41:26 WIB 27-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [08:49:36 WIB 27-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -66,6 +66,8 @@ https://liveh12byt.vtvprime.vn/hls/THETHAO_TINTUC_HD/03.m3u8
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live2.pro2cdnlive.com/live/channel50.m3u8
 #EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Bali United vs PSM
+https://jn271.sportvideodata.com/4131290064_4U3Mt5CdzlGb5FGbw9SN3ETbhVmc0N3Lx82Lt92YuUWbhdGN0Z2bz5ibkNmY/o9-v1.m3u8?sign=R0cHM6Ly9kMzAyLnNvZnQ0Z2FtZS5jb20vbzEvc3RyZWFtMTc1L28vc3RyZWFtMTc1L2NodW5rcy5tM3U4P25pbWJsZXNlc3Npb25pZD03MTEwNTI4MCR8JDE2aH
+#EXTINF:-1 tvg-logo="https://shorter.me/_bDcr" group-title="LIVE EVENT",15:30 WIB Bali United vs PSM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livecdnem.com/
 https://live1.pro2cdnlive.com/live/channel6.m3u8?wsSecret=032bfb6da9975ab4d3cc777e56263649&wsABSTime=1766943321
@@ -89,6 +91,18 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho.flv
 https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21872_164941039640.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/04 Bali United vs PSM Makassar  SHIN flv Gvision TV
 https://flv.cdnok9.com/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21872_164941039640.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/04 Bali United vs PSM Makassar  PHONG VAN m3u Gvision TV
+https://hls-ls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21872_164941039640.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/04 Bali United vs PSM Makassar  PHONG VAN flv Gvision TV
+https://flv.cdnok9.com/live/PHONGVAN.flv?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21872_164941039640.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/04 Bali United vs PSM Makassar  KHONG MINH m3u Gvision TV
+https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21872_164941039640.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/04 Bali United vs PSM Makassar  KHONG MINH flv Gvision TV
+https://flv.cdnok9.com/live/KHONGMINH.flv?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21872_164941039640.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/04 Bali United vs PSM Makassar  TAN CA m3u Gvision TV
+https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21872_164941039640.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   27/04 Bali United vs PSM Makassar  TAN CA flv Gvision TV
+https://flv.cdnok9.com/live/TANCA.flv?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee330ce964bcbf337d987a6f5b03d302%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/04 Bali United vs Persatuan Sepakbola Makassar hd_1 Gvision TV
 https://pull-kda.fastestcdn-global.com/live/99c31bac318d4fa382aa5c8a6921ae29/index.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee330ce964bcbf337d987a6f5b03d302%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:30   27/04 Bali United vs Persatuan Sepakbola Makassar hd_2 Gvision TV
@@ -111,6 +125,12 @@ https://stm02bc67063175.stream.hdplaylink.com/live/c388897effb441328a07a34ea1a0e
 https://stm02bc67063175.stream.hdplaylink.com/live/c388897effb441328a07a34ea1a0e855/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fee330ce964bcbf337d987a6f5b03d302%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",15:30   27/04 Bali United vs Persatuan Sepakbola Makassar hd_3 Gvision TV
 https://stm02bc67063175.stream.hdplaylink.com/live/c388897effb441328a07a34ea1a0e855/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga 1] 15:30 27/04 Bali United vs PSM Makassar [FHD] Gvision TV
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga 1] 15:30 27/04 Bali United vs PSM Makassar [HD] Gvision TV
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Event: Quê Choa",[Liga 1] 15:30 27/04 Bali United vs PSM Makassar [SD] Gvision TV
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2Fe41ed1dada746de6cfd510c7a90b315e%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   27/04 Shanghai Zetian vs Anhui Wanmei Gvision TV
 https://live.alilicloud.com/live/400da86d89cd0f8b72e56afc48754a42/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.rapid-api.icu%2Ffootball%2Fteam%2F0610c9b42e4332c83a85f0c855866a03%2Fimage%2Fsmall%3Fv%3D1768601124&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",15:00   27/04 Jiangsu Changjin vs Kunshan Zhangpu Gvision TV
@@ -338,7 +358,7 @@ https://bostv.maling.pl/19542.mpd
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=d616cb3be535c45a46477a1d991c348c&wsABSTime=1777322134
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=28b952ad2202f4da6358599f0dd95b70&wsABSTime=1777322435
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1686592534162923520/tLjYTNbc_400x400.jpg" group-title="BRI SUPER LEAGUE",15:30 WIB | [Indonesia Liga 1] Bali United vs PSM Makassar
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -490,7 +510,39 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/214049d4df11756a2eb21bbd8266e2a1.png!w80" group-title="LIGA SPANYOL",[UPCOMING] (02:00 WIB) Espanyol vs Levante [BLV PEPSI]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mutua%20Madrid%20Open%3A%20Day%207%0AMutua%20Madrid%20Open&font=Oswald" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [16:00 WIB] [Mutua Madrid Open] Mutua Madrid Open: Day 7
+#EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/ubasketball/default/YS.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] College Basketball | Yonsei University vs Korea University
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/8ec9c61f5a46916624a433c036342cf1
+#EXTVLCOPT:http-origin=https://chzzk.naver.com
+https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0007/qxgiigpg3xlqktqs6ykrhteqh6iq9re6hyvl/hr2i103ihucqzi7xzajcio16iq9re6hu1i_hls_playlist.m3u8?hdnts=st=1777279658~exp=1777340868~acl=*/qxgiigpg3xlqktqs6ykrhteqh6iq9re6hyvl/*~hmac=61b826c44c5036d9cf5830a10e36eca3b38be7dceb094f7259163678237c2d83
+#EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/ubasketball/default/SM.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] College Basketball | Sangmyung University vs Dankook University
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/de6a400d191c13b9523717896a7e4e2f
+#EXTVLCOPT:http-origin=https://chzzk.naver.com
+https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0028/yzxbowtt8v5r5ohtd3g9samu2cem4sgiq6pb/ixtywgboywqgooikakgeoeqcem4sgiq30d_hls_playlist.m3u8?hdnts=st=1777279660~exp=1777340870~acl=*/yzxbowtt8v5r5ohtd3g9samu2cem4sgiq6pb/*~hmac=dd5e37803c58d6c68834b80f88113e27cc4bed5c294c798a0f0f3885fe9605ef
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/23xmv1to4z7mg8n/image/small" group-title="🔴 🔴 LIVE EVENT NOW",13:45 WIB - CHELGU CHELYABINSK VS KAZYGURT SHYMKENT [KHL] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=7116fd0df82aaf3e25857d56bd9f2347&wsABSTime=1777322438
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh01dnmd7o/image/small" group-title="🔴 🔴 LIVE EVENT NOW",14:00 WIB - FLOREAT ATHENA VS CURTIN UNIV SC [WAUS D2] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=8c4d5edf623c078f6498e2ff914cdcc0&wsABSTime=1777322434
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/y0or5gt4891qwzv/image/small" group-title="🔴 🔴 LIVE EVENT NOW",14:00 WIB - SANGMYUNG UNIVERSITY VS DANKOOK R [KOR] (v1)
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=c40576ad47dfb6a3f02933aa9dffa3b5&wsABSTime=1777322438
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mutua%20Madrid%20Open%3A%20Day%207%0AMutua%20Madrid%20Open&font=Oswald" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [16:00 WIB] [Mutua Madrid Open] Mutua Madrid Open: Day 7 [Server 1]
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=56b12076e9299a383964cc937e06d33004a90dc7&x-sign=c731484d6953b4cd50de66669bbaab4b&x-time=1777279560
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mutua%20Madrid%20Open%3A%20Day%207%0AMutua%20Madrid%20Open&font=Oswald" group-title="LIVE EVENT | TENNIS 🎾",[LIVE ] [16:00 WIB] [Mutua Madrid Open] Mutua Madrid Open: Day 7 [Server 1]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/vb1iitidxqz42m.png" group-title="LIVE EVENT | TENNIS 🎾",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Tennis - WTA 1000 | (16.00 WIB) Mutua Madrid Open: Day 7
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -498,7 +550,13 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/oozimublg43zhh.png" group-title="LIVE EVENT | TENNIS 🎾",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Tennis - Aix en Provence Open | (16.00 WIB) Day 3 (BELUM MULAI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [16:00 WIB] [Unknown League] Mutua Madrid Open: Day 7
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[LIVE ] [16:00 WIB] [Unknown League] Mutua Madrid Open: Day 7
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="LIVE EVENT | TENNIS 🎾",16:00 WIB | [Tennis WTA] Tennis WTA Madrid 2
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="LIVE EVENT | TENNIS 🎾",16:00 WIB | [Tennis WTA] Tennis WTA Madrid 1
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="LIVE EVENT | TENNIS 🎾",16:00 WIB | [Tennis ATP] Tennis ATP Madrid 1
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/zv6abpd4i0wqjx.png" group-title="LIVE EVENT | TENNIS 🎾",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Tennis - Sardegna Open | (17.00 WIB) Cagliari Open | Day 3 (BELUM MULAI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -510,51 +568,26 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/ffffff/000000.png?text=Mutua%20Madrid%20Open%3A%20Day%208%0AWTA%201000&font=Oswald" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [18:00 WIB] [WTA 1000] Mutua Madrid Open: Day 8
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/ubasketball/default/YS.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] College Basketball | Yonsei University vs Korea University
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/8ec9c61f5a46916624a433c036342cf1
-#EXTVLCOPT:http-origin=https://chzzk.naver.com
-https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0007/qxgiigpg3xlqktqs6ykrhteqh6iq9re6hyvl/hr2i103ihucqzi7xzajcio16iq9re6hu1i_hls_playlist.m3u8?hdnts=st=1777279010~exp=1777340220~acl=*/qxgiigpg3xlqktqs6ykrhteqh6iq9re6hyvl/*~hmac=637789faac4c62135d4247d4585415e3ecdb7b8ca60db69915a4016eabf2588e
-#EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/ubasketball/default/SM.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] College Basketball | Sangmyung University vs Dankook University
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/de6a400d191c13b9523717896a7e4e2f
-#EXTVLCOPT:http-origin=https://chzzk.naver.com
-https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0028/yzxbowtt8v5r5ohtd3g9samu2cem4sgiq6pb/ixtywgboywqgooikakgeoeqcem4sgiq30d_hls_playlist.m3u8?hdnts=st=1777279001~exp=1777340211~acl=*/yzxbowtt8v5r5ohtd3g9samu2cem4sgiq6pb/*~hmac=858e627c3a032617a7a2fdeaf408f64882f611d3ebaa32e57273db09fb02e00e
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/23xmv1to4z7mg8n/image/small" group-title="🔴 🔴 LIVE EVENT NOW",13:45 WIB - CHELGU CHELYABINSK VS KAZYGURT SHYMKENT [KHL] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=e343cd2f2b593145849ce2f0ced3a5b4&wsABSTime=1777322137
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh01dnmd7o/image/small" group-title="🔴 🔴 LIVE EVENT NOW",14:00 WIB - FLOREAT ATHENA VS CURTIN UNIV SC [WAUS D2] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=0736478a040cf633d551610ec2cbdb27&wsABSTime=1777322133
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/y0or5gt4891qwzv/image/small" group-title="🔴 🔴 LIVE EVENT NOW",14:00 WIB - SANGMYUNG UNIVERSITY VS DANKOOK R [KOR] (v1)
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=bcd4325586e9b90809e95e19bbc3ff58&wsABSTime=1777322138
 #EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/ubasketball/default/YS.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE] College Basketball | Yonsei University vs Korea University
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/8ec9c61f5a46916624a433c036342cf1
 #EXTVLCOPT:http-origin=https://chzzk.naver.com
-https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0007/qxgiigpg3xlqktqs6ykrhteqh6iq9re6hyvl/hr2i103ihucqzi7xzajcio16iq9re6hu1i_hls_playlist.m3u8?hdnts=st=1777279010~exp=1777340220~acl=*/qxgiigpg3xlqktqs6ykrhteqh6iq9re6hyvl/*~hmac=637789faac4c62135d4247d4585415e3ecdb7b8ca60db69915a4016eabf2588e
+https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0007/qxgiigpg3xlqktqs6ykrhteqh6iq9re6hyvl/hr2i103ihucqzi7xzajcio16iq9re6hu1i_hls_playlist.m3u8?hdnts=st=1777279658~exp=1777340868~acl=*/qxgiigpg3xlqktqs6ykrhteqh6iq9re6hyvl/*~hmac=61b826c44c5036d9cf5830a10e36eca3b38be7dceb094f7259163678237c2d83
 #EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/ubasketball/default/SM.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE] College Basketball | Sangmyung University vs Dankook University
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/de6a400d191c13b9523717896a7e4e2f
 #EXTVLCOPT:http-origin=https://chzzk.naver.com
-https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0028/yzxbowtt8v5r5ohtd3g9samu2cem4sgiq6pb/ixtywgboywqgooikakgeoeqcem4sgiq30d_hls_playlist.m3u8?hdnts=st=1777279001~exp=1777340211~acl=*/yzxbowtt8v5r5ohtd3g9samu2cem4sgiq6pb/*~hmac=858e627c3a032617a7a2fdeaf408f64882f611d3ebaa32e57273db09fb02e00e
+https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0028/yzxbowtt8v5r5ohtd3g9samu2cem4sgiq6pb/ixtywgboywqgooikakgeoeqcem4sgiq30d_hls_playlist.m3u8?hdnts=st=1777279660~exp=1777340870~acl=*/yzxbowtt8v5r5ohtd3g9samu2cem4sgiq6pb/*~hmac=dd5e37803c58d6c68834b80f88113e27cc4bed5c294c798a0f0f3885fe9605ef
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/23xmv1to4z7mg8n/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",13:45 WIB - CHELGU CHELYABINSK VS KAZYGURT SHYMKENT [KHL] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=e343cd2f2b593145849ce2f0ced3a5b4&wsABSTime=1777322137
+https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=7116fd0df82aaf3e25857d56bd9f2347&wsABSTime=1777322438
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/y0or5gt4891qwzv/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",14:00 WIB - SANGMYUNG UNIVERSITY VS DANKOOK R [KOR] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=bcd4325586e9b90809e95e19bbc3ff58&wsABSTime=1777322138
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=c40576ad47dfb6a3f02933aa9dffa3b5&wsABSTime=1777322438
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/4a5ba2f4b39c4cb6db259ed9fb916da1.png!w80" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[UPCOMING] (17:00 WIB) Goyang Carrot Jumpers vs LG Sakers [BLV Cozy]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[UPCOMING] (17:00 WIB) KCC Egis vs Anyang KGC [BLV Cozy]
@@ -637,6 +670,64 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/zf1ildtlldw3nl.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Baseball - NPB Farm Leagues | (11.00 WIB) Tohoku Rakuten Golden Eagles vs Yomiuri Giants (BELUM MULAI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://corporate.bwfbadminton.com/wp-content/uploads/2017/09/BWF-Logo-Text-Sized.jpg" group-title="BWF BADMINTON & VOLLEYBALL",LIVE BADMINTON - Bone TV (COURT 1)
+#EXTVLCOPT:http-referrer=https://styleanecdotes.blogspot.com/
+#EXTVLCOPT:http-origin=https://styleanecdotes.blogspot.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
+#EXTINF:-1 tvg-logo="https://corporate.bwfbadminton.com/wp-content/uploads/2017/09/BWF-Logo-Text-Sized.jpg" group-title="BWF BADMINTON & VOLLEYBALL",LIVE BADMINTON - Bone TV (COURT 2)
+#EXTVLCOPT:http-referrer=https://styleanecdotes.blogspot.com/
+#EXTVLCOPT:http-origin=https://styleanecdotes.blogspot.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qgw3zIZaH3HNbK_s62BI1-4RM28=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029938/070bec.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 He Ji Ting/Ren Xiang Yu (CHN) vs Kartikay Deraj/Duncan Leung (CAN) - Men's Doubles (Match 4) | Thomas Cup 2026 (INTI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18249.drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://maling.pl/18249.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qgw3zIZaH3HNbK_s62BI1-4RM28=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029938/070bec.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 He Ji Ting/Ren Xiang Yu (CHN) vs Kartikay Deraj/Duncan Leung (CAN) - Men's Doubles (Match 4) | Thomas Cup 2026 (ALT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/18249.drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bostv.maling.pl/18249.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WkoZEbxj_wSLK146TLXzrbZyEz4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029942/05f613.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 Chi Yu Jen (TPE) vs Choi Ji Hoon (KOR) - Men's Singles (Match 3) | Thomas Cup 2026 (INTI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18250.drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://maling.pl/18250.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WkoZEbxj_wSLK146TLXzrbZyEz4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029942/05f613.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 Chi Yu Jen (TPE) vs Choi Ji Hoon (KOR) - Men's Singles (Match 3) | Thomas Cup 2026 (ALT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/18250.drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bostv.maling.pl/18250.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/V75XTBYZYjbfoCyr9h_UXJkXoLQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029950/d0e401.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 Prannoy H. S. (IND) vs Ryan Boopathy (AUS) - Men's Singles (Match 4) | Thomas Cup 2026 (INTI)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18252.drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://maling.pl/18252.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/V75XTBYZYjbfoCyr9h_UXJkXoLQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029950/d0e401.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 Prannoy H. S. (IND) vs Ryan Boopathy (AUS) - Men's Singles (Match 4) | Thomas Cup 2026 (ALT)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/18252.drm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bostv.maling.pl/18252.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AiKh73sZYPUdPVmLHAljlAnc398=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029917/ea0a9b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",16:00 WIB 27/04/26 Sander Arends/David Pel vs Andre Goransson/Evan King - Round of 32 (Court 5) | ATP 1000: Mutua Madrid Open 2026
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GyLhBR4JwEjHWiMpfuOwEUp_W3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029921/eec00d.jpg" group-title="BWF BADMINTON & VOLLEYBALL",16:00 WIB 27/04/26 Hugo Nys/Edouard Roger-Vasselin vs Maximo Gonzalez/Andres Molteni - Round of 32 (Court 6) | ATP 1000: Mutua Madrid Open 2026
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cQ22708KSvjth7_xA9zukH_nnOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029914/0ffa4c.jpg" group-title="BWF BADMINTON & VOLLEYBALL",18:00 WIB 27/04/26 Pablo Llamas Ruiz/Benjamin Winter Lopez vs Austin Krajicek/Nikola Mektic - Round of 32 (Court 4) | ATP 1000: Mutua Madrid Open 2026
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_212_1742546009_thumb.png" group-title="SPORTS FHD",KANTIPUR MAX  HD
 http://maxotts.maxdigitaltv.com/x-media/C413/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C190-1763958788.png" group-title="SPORTS FHD",KANTIPUR MAX 2 HD
@@ -693,6 +784,18 @@ http://195.178.110.42/hls/CIII.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 http://195.178.110.42/hls/FUUU.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="LIVE EVENT | FAWA",16:00 WIB | [Tennis WTA] Tennis WTA Madrid 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.42/hls/FUUUB.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="LIVE EVENT | FAWA",16:00 WIB | [Tennis WTA] Tennis WTA Madrid 1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.42/hls/FUUUBQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="LIVE EVENT | FAWA",16:00 WIB | [Tennis ATP] Tennis ATP Madrid 1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.42/hls/FUUUBQQ.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (13:00 WIB) Kyoto Sanga vs Gamba Osaka [BLV Cozy]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (13:00 WIB) Nagoya Grampus vs Fagiano Okayama [BLV REDBULL]
@@ -900,54 +1003,6 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/EEPXxGng/poster.jpg?width=720" group-title="LIVE EVENT NOW | VOLI",Pool B: NEC Red Rockets Kawasaki (JPN) - Harudotchonburi RMUTT VC (THA)
 https://ini.maling.pl/vbtv/EEPXxGng.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qgw3zIZaH3HNbK_s62BI1-4RM28=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029938/070bec.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 He Ji Ting/Ren Xiang Yu (CHN) vs Kartikay Deraj/Duncan Leung (CAN) - Men's Doubles (Match 4) | Thomas Cup 2026 (INTI)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18249.drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://maling.pl/18249.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qgw3zIZaH3HNbK_s62BI1-4RM28=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029938/070bec.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 He Ji Ting/Ren Xiang Yu (CHN) vs Kartikay Deraj/Duncan Leung (CAN) - Men's Doubles (Match 4) | Thomas Cup 2026 (ALT)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/18249.drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bostv.maling.pl/18249.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FXVQ3wiixlRqSCnZc8y5W4ApX6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029941/26a5ee.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 Chiu Hsiang Chieh/Wang Chi-Lin (TPE) vs Jin Yong/Seo Seung Jae (KOR) - Men's Doubles (Match 2) | Thomas Cup 2026 (INTI)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18250.drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://maling.pl/18250.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FXVQ3wiixlRqSCnZc8y5W4ApX6s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029941/26a5ee.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 Chiu Hsiang Chieh/Wang Chi-Lin (TPE) vs Jin Yong/Seo Seung Jae (KOR) - Men's Doubles (Match 2) | Thomas Cup 2026 (ALT)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/18250.drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bostv.maling.pl/18250.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vI2ONTCuPkBHpBB-SzmWuwb96HQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029949/3dc319.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 Satwiksairaj Rankireddy/Chirag Shetty (IND) vs Rayne Hidayat/Jack Yu (AUS) - Men's Doubles (Match 3) | Thomas Cup 2026 (INTI)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maling.pl/18252.drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://maling.pl/18252.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vI2ONTCuPkBHpBB-SzmWuwb96HQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029949/3dc319.jpg" group-title="BWF BADMINTON & VOLLEYBALL",13:30 WIB 27/04/26 Satwiksairaj Rankireddy/Chirag Shetty (IND) vs Rayne Hidayat/Jack Yu (AUS) - Men's Doubles (Match 3) | Thomas Cup 2026 (ALT)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bostv.maling.pl/18252.drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bostv.maling.pl/18252.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AiKh73sZYPUdPVmLHAljlAnc398=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029917/ea0a9b.jpg" group-title="BWF BADMINTON & VOLLEYBALL",16:00 WIB 27/04/26 Sander Arends/David Pel vs Andre Goransson/Evan King - Round of 32 (Court 5) | ATP 1000: Mutua Madrid Open 2026
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GyLhBR4JwEjHWiMpfuOwEUp_W3U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029921/eec00d.jpg" group-title="BWF BADMINTON & VOLLEYBALL",16:00 WIB 27/04/26 Hugo Nys/Edouard Roger-Vasselin vs Maximo Gonzalez/Andres Molteni - Round of 32 (Court 6) | ATP 1000: Mutua Madrid Open 2026
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cQ22708KSvjth7_xA9zukH_nnOE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5029914/0ffa4c.jpg" group-title="BWF BADMINTON & VOLLEYBALL",18:00 WIB 27/04/26 Pablo Llamas Ruiz/Benjamin Winter Lopez vs Austin Krajicek/Nikola Mektic - Round of 32 (Court 4) | ATP 1000: Mutua Madrid Open 2026
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wUu04hSYdbzcyj2O1HK9JQlFsMM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5026356/d33b83.jpg" group-title="LIGA ITALIA",23:30 WIB 27/04/26 Cagliari vs Atalanta - Serie A
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/fNScJ6J.md.png" group-title="EVENT 026/APRIL/2026",22:30 WIB PGE Budowlani Lodz - KS DevelopRes Rzeszow | Play Off - Finals Round 4 (2)
@@ -2743,6 +2798,18 @@ https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=7116fd0df82aaf3e25857d
 https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=c40576ad47dfb6a3f02933aa9dffa3b5&wsABSTime=1777322438
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh1431ql07/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - SHANGHAI ZETIAN VS ANHUI WANMEI [CHN CH]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",16:00 WIB | [Tennis WTA] Tennis WTA Madrid 2
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.42/hls/FUUUB.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg" group-title="LIVE EVENT FAWANEWS",16:00 WIB | [Tennis WTA] Tennis WTA Madrid 1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.42/hls/FUUUBQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg" group-title="LIVE EVENT FAWANEWS",16:00 WIB | [Tennis ATP] Tennis ATP Madrid 1
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+http://195.178.110.42/hls/FUUUBQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1686592534162923520/tLjYTNbc_400x400.jpg" group-title="BRI SUPER LEAGUE",15:30 WIB | [Indonesia Liga 1] Bali United vs PSM Makassar
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
