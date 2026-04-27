@@ -1,30 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.24 WIB 27/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.33 WIB 27/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="6ypq3nhvk83zmd7" tvg-name="Zamalek SC vs Enppi" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 27/04/26] Zamalek SC vs Enppi",[LIVE 21:00 WIB | 27/04/26] Zamalek SC vs Enppi (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="6ypq3nhvk83zmd7" tvg-name="Zamalek SC vs Enppi" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 27/04/26] Zamalek SC vs Enppi",[LIVE 21:00 WIB | 27/04/26] Zamalek SC vs Enppi (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="vjxm8ghekjo2r6o" tvg-name="Turan Tovuz vs Zira FK" tvg-logo="https://img.cdnok9.com/football/competition/fef1f81febbe012e11f987726f8fef15.png" group-title="[LIVE 21:00 WIB | 27/04/26] Turan Tovuz vs Zira FK",[LIVE 21:00 WIB | 27/04/26] Turan Tovuz vs Zira FK (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="vjxm8ghekjo2r6o" tvg-name="Turan Tovuz vs Zira FK" tvg-logo="https://img.cdnok9.com/football/competition/fef1f81febbe012e11f987726f8fef15.png" group-title="[LIVE 21:00 WIB | 27/04/26] Turan Tovuz vs Zira FK",[LIVE 21:00 WIB | 27/04/26] Turan Tovuz vs Zira FK (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="ednm9whwzwe6ryo" tvg-name="Zorya vs Veres" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres",[LIVE 19:30 WIB | 27/04/26] Zorya vs Veres (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="jw2r09hkxzl5rz8" tvg-name="Alanyaspor vs Samsunspor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor",[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="jw2r09hkxzl5rz8" tvg-name="Alanyaspor vs Samsunspor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor",[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="jw2r09hkxzl5rz8" tvg-name="Alanyaspor vs Samsunspor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor",[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="jw2r09hkxzl5rz8" tvg-name="Alanyaspor vs Samsunspor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor",[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="69ef3c355fb2de0ef2325999" tvg-name="Zhetysu W vs Kairat Almaty (W)" tvg-logo="" group-title="[LIVE 17:00 WIB | 27/04/26] Zhetysu W vs Kairat Almaty (W)",[LIVE 17:00 WIB | 27/04/26] Zhetysu W vs Kairat Almaty (W) (Giàng A Ka)
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="69ef3c355fb2de0ef2325999" tvg-name="Zhetysu W vs Kairat Almaty (W)" tvg-logo="" group-title="[LIVE 17:00 WIB | 27/04/26] Zhetysu W vs Kairat Almaty (W)",[LIVE 17:00 WIB | 27/04/26] Zhetysu W vs Kairat Almaty (W) (Giàng A Ka)
@@ -33,6 +9,14 @@ https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032a
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="dn1m1ghlej1kmoe" tvg-name="Bologna U20 vs Genoa U20" tvg-logo="https://img.cdnok9.com/football/competition/b0ee786578f1e9c7c648c9536197b452.png" group-title="[LIVE 20:00 WIB | 27/04/26] Bologna U20 vs Genoa U20",[LIVE 20:00 WIB | 27/04/26] Bologna U20 vs Genoa U20 (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="x7lm7phjx7x3m2w" tvg-name="Metaloglobus vs FC Unirea 2004 Slobozia" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 21:30 WIB | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia",[LIVE 21:30 WIB | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="x7lm7phjx7x3m2w" tvg-name="Metaloglobus vs FC Unirea 2004 Slobozia" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 21:30 WIB | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia",[LIVE 21:30 WIB | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="x7lm7phjx7x3m2w" tvg-name="Metaloglobus vs FC Unirea 2004 Slobozia" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 21:30 WIB | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia",[LIVE 21:30 WIB | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="x7lm7phjx7x3m2w" tvg-name="Metaloglobus vs FC Unirea 2004 Slobozia" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 21:30 WIB | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia",[LIVE 21:30 WIB | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="vjxm8ghe5521r6o" tvg-name="Al-Wakrah SC vs Al-Sailiya" tvg-logo="https://img.cdnok9.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png" group-title="[LIVE 21:15 WIB | 27/04/26] Al-Wakrah SC vs Al-Sailiya",[LIVE 21:15 WIB | 27/04/26] Al-Wakrah SC vs Al-Sailiya (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="vjxm8ghe5521r6o" tvg-name="Al-Wakrah SC vs Al-Sailiya" tvg-logo="https://img.cdnok9.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png" group-title="[LIVE 21:15 WIB | 27/04/26] Al-Wakrah SC vs Al-Sailiya",[LIVE 21:15 WIB | 27/04/26] Al-Wakrah SC vs Al-Sailiya (GIÀNG A TÁO)
@@ -49,19 +33,31 @@ https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="x7lm7phj3351m2w" tvg-name="Qatar SC vs Al Duhail" tvg-logo="https://img.cdnok9.com/football/competition/fe929bee72edbc21461f6b2f2cfa4ae2.png" group-title="[LIVE 21:15 WIB | 27/04/26] Qatar SC vs Al Duhail",[LIVE 21:15 WIB | 27/04/26] Qatar SC vs Al Duhail (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="jw2r09hkxzl5rz8" tvg-name="Alanyaspor vs Samsunspor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor",[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="jw2r09hkxzl5rz8" tvg-name="Alanyaspor vs Samsunspor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor",[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="jw2r09hkxzl5rz8" tvg-name="Alanyaspor vs Samsunspor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor",[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="jw2r09hkxzl5rz8" tvg-name="Alanyaspor vs Samsunspor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor",[LIVE 21:00 WIB | 27/04/26] Alanyaspor vs Samsunspor (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="2y8m4zh5v763ql0" tvg-name="Smouha SC vs Al Masry" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 27/04/26] Smouha SC vs Al Masry",[LIVE 21:00 WIB | 27/04/26] Smouha SC vs Al Masry (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="2y8m4zh5v763ql0" tvg-name="Smouha SC vs Al Masry" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 27/04/26] Smouha SC vs Al Masry",[LIVE 21:00 WIB | 27/04/26] Smouha SC vs Al Masry (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="69eeebb6fbf5af43c86188f0" tvg-name="AC Milan -  Juventus" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 34m | 27/04/26] AC Milan -  Juventus",[UPCO 23:59 WIB | 2j 34m | 27/04/26] AC Milan -  Juventus (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="6ypq3nhvk83zmd7" tvg-name="Zamalek SC vs Enppi" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 27/04/26] Zamalek SC vs Enppi",[LIVE 21:00 WIB | 27/04/26] Zamalek SC vs Enppi (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="6ypq3nhvk83zmd7" tvg-name="Zamalek SC vs Enppi" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 27/04/26] Zamalek SC vs Enppi",[LIVE 21:00 WIB | 27/04/26] Zamalek SC vs Enppi (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="vjxm8ghekjo2r6o" tvg-name="Turan Tovuz vs Zira FK" tvg-logo="https://img.cdnok9.com/football/competition/fef1f81febbe012e11f987726f8fef15.png" group-title="[LIVE 21:00 WIB | 27/04/26] Turan Tovuz vs Zira FK",[LIVE 21:00 WIB | 27/04/26] Turan Tovuz vs Zira FK (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="vjxm8ghekjo2r6o" tvg-name="Turan Tovuz vs Zira FK" tvg-logo="https://img.cdnok9.com/football/competition/fef1f81febbe012e11f987726f8fef15.png" group-title="[LIVE 21:00 WIB | 27/04/26] Turan Tovuz vs Zira FK",[LIVE 21:00 WIB | 27/04/26] Turan Tovuz vs Zira FK (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="69eeebb6fbf5af43c86188f0" tvg-name="AC Milan -  Juventus" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 25m | 27/04/26] AC Milan -  Juventus",[UPCO 23:59 WIB | 2j 25m | 27/04/26] AC Milan -  Juventus (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69eeebb6fbf5af43c86188f0" tvg-name="AC Milan -  Juventus" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 34m | 27/04/26] AC Milan -  Juventus",[UPCO 23:59 WIB | 2j 34m | 27/04/26] AC Milan -  Juventus (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69eeebb6fbf5af43c86188f0" tvg-name="AC Milan -  Juventus" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 25m | 27/04/26] AC Milan -  Juventus",[UPCO 23:59 WIB | 2j 25m | 27/04/26] AC Milan -  Juventus (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="x7lm7phjx7x3m2w" tvg-name="Metaloglobus vs FC Unirea 2004 Slobozia" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[UPCO 21:30 WIB | 5m | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia",[UPCO 21:30 WIB | 5m | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="x7lm7phjx7x3m2w" tvg-name="Metaloglobus vs FC Unirea 2004 Slobozia" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[UPCO 21:30 WIB | 5m | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia",[UPCO 21:30 WIB | 5m | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="x7lm7phjx7x3m2w" tvg-name="Metaloglobus vs FC Unirea 2004 Slobozia" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[UPCO 21:30 WIB | 5m | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia",[UPCO 21:30 WIB | 5m | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="x7lm7phjx7x3m2w" tvg-name="Metaloglobus vs FC Unirea 2004 Slobozia" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[UPCO 21:30 WIB | 5m | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia",[UPCO 21:30 WIB | 5m | 27/04/26] Metaloglobus vs FC Unirea 2004 Slobozia (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="4wyrn4h6w10oq86" tvg-name="FK IMT Belgrad vs Radnicki Nis" tvg-logo="https://img.cdnok9.com/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" group-title="[UPCO 22:00 WIB | 26m | 27/04/26] FK IMT Belgrad vs Radnicki Nis",[UPCO 22:00 WIB | 26m | 27/04/26] FK IMT Belgrad vs Radnicki Nis (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="4wyrn4h6w10oq86" tvg-name="FK IMT Belgrad vs Radnicki Nis" tvg-logo="https://img.cdnok9.com/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" group-title="[UPCO 22:00 WIB | 26m | 27/04/26] FK IMT Belgrad vs Radnicki Nis",[UPCO 22:00 WIB | 26m | 27/04/26] FK IMT Belgrad vs Radnicki Nis (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
