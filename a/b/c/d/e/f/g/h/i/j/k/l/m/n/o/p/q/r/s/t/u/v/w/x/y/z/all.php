@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [07.14 WIB 28/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [07.28 WIB 28/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="x7lm7phjvlgjm2w" tvg-name="Defensor Sporting Montevideo vs Club Atletico Progreso" tvg-logo="https://img.cdnok9.com/football/competition/57bb4f7957510c2da5fd076e75618f5f.png" group-title="[LIVE 05:30 WIB | 28/04/26] Defensor Sporting Montevideo vs Club Atletico Progreso",[LIVE 05:30 WIB | 28/04/26] Defensor Sporting Montevideo vs Club Atletico Progreso (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
@@ -25,7 +25,7 @@ https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="318q66hx6zvzqo9" tvg-name="CA Huracan vs Argentinos Juniors" tvg-logo="https://img.cdnok9.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" group-title="[LIVE 07:00 WIB | 28/04/26] CA Huracan vs Argentinos Juniors",[LIVE 07:00 WIB | 28/04/26] CA Huracan vs Argentinos Juniors (Giàng A Mèo)
 https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="8yomo4h1670kq0j" tvg-name="Mount Pleasant FA vs Waterhouse FC" tvg-logo="https://img.cdnok9.com/football/competition/d606c7e2cd106ab4a57b64d48a323f67.png" group-title="[UPCO 07:30 WIB | 14m | 28/04/26] Mount Pleasant FA vs Waterhouse FC",[UPCO 07:30 WIB | 14m | 28/04/26] Mount Pleasant FA vs Waterhouse FC (Giàng A Voi)
+#EXTINF:-1 tvg-id="8yomo4h1670kq0j" tvg-name="Mount Pleasant FA vs Waterhouse FC" tvg-logo="https://img.cdnok9.com/football/competition/d606c7e2cd106ab4a57b64d48a323f67.png" group-title="[UPCO 07:30 WIB | 1m | 28/04/26] Mount Pleasant FA vs Waterhouse FC",[UPCO 07:30 WIB | 1m | 28/04/26] Mount Pleasant FA vs Waterhouse FC (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="8yomo4h1670kq0j" tvg-name="Mount Pleasant FA vs Waterhouse FC" tvg-logo="https://img.cdnok9.com/football/competition/d606c7e2cd106ab4a57b64d48a323f67.png" group-title="[UPCO 07:30 WIB | 14m | 28/04/26] Mount Pleasant FA vs Waterhouse FC",[UPCO 07:30 WIB | 14m | 28/04/26] Mount Pleasant FA vs Waterhouse FC (Giàng A Voi)
+#EXTINF:-1 tvg-id="8yomo4h1670kq0j" tvg-name="Mount Pleasant FA vs Waterhouse FC" tvg-logo="https://img.cdnok9.com/football/competition/d606c7e2cd106ab4a57b64d48a323f67.png" group-title="[UPCO 07:30 WIB | 1m | 28/04/26] Mount Pleasant FA vs Waterhouse FC",[UPCO 07:30 WIB | 1m | 28/04/26] Mount Pleasant FA vs Waterhouse FC (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
