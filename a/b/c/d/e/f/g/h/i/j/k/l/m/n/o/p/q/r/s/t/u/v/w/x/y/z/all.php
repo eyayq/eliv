@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.26 WIB 28/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.35 WIB 28/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="6ypq3nhv38o7md7" tvg-name="Sogdiana Jizak vs Termez Surkhon" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 21:00 WIB | 28/04/26] Sogdiana Jizak vs Termez Surkhon",[LIVE 21:00 WIB | 28/04/26] Sogdiana Jizak vs Termez Surkhon (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="6ypq3nhv38o7md7" tvg-name="Sogdiana Jizak vs Termez Surkhon" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 21:00 WIB | 28/04/26] Sogdiana Jizak vs Termez Surkhon",[LIVE 21:00 WIB | 28/04/26] Sogdiana Jizak vs Termez Surkhon (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="4wyrn4h6xwn4q86" tvg-name="FK Andijon vs Dinamo Samarqand" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 21:00 WIB | 28/04/26] FK Andijon vs Dinamo Samarqand",[LIVE 21:00 WIB | 28/04/26] FK Andijon vs Dinamo Samarqand (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="4wyrn4h6xwn4q86" tvg-name="FK Andijon vs Dinamo Samarqand" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 21:00 WIB | 28/04/26] FK Andijon vs Dinamo Samarqand",[LIVE 21:00 WIB | 28/04/26] FK Andijon vs Dinamo Samarqand (Lữ Bố (Giàng Phụng Tiên))
@@ -45,14 +41,14 @@ https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="x7lm7phj3zdjm2w" tvg-name="Uniao Leiria U23 vs Rio Ave U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 21:00 WIB | 28/04/26] Uniao Leiria U23 vs Rio Ave U23",[LIVE 21:00 WIB | 28/04/26] Uniao Leiria U23 vs Rio Ave U23 (Giàng A Hổ)
 https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="vjxm8ghe5lolr6o" tvg-name="Estoril U23 vs Gil Vicente U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23",[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23 (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="vjxm8ghe5lolr6o" tvg-name="Estoril U23 vs Gil Vicente U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23",[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23 (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f03
 #EXTINF:-1 tvg-id="vjxm8ghe5lolr6o" tvg-name="Estoril U23 vs Gil Vicente U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23",[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23 (GIÀNG A BẨY )
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="vjxm8ghe5lolr6o" tvg-name="Estoril U23 vs Gil Vicente U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23",[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23 (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="vjxm8ghe5lolr6o" tvg-name="Estoril U23 vs Gil Vicente U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23",[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23 (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="vjxm8ghe5lolr6o" tvg-name="Estoril U23 vs Gil Vicente U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23",[LIVE 21:00 WIB | 28/04/26] Estoril U23 vs Gil Vicente U23 (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f03
 #EXTINF:-1 tvg-id="zp5rzghgp4l3q82" tvg-name="Melaka FC vs Johor Darul Ta'zim FC" tvg-logo="https://img.cdnok9.com/football/competition/70dd3b1e69708842440893f5a8b46632.png" group-title="[LIVE 20:00 WIB | 28/04/26] Melaka FC vs Johor Darul Ta'zim FC",[LIVE 20:00 WIB | 28/04/26] Melaka FC vs Johor Darul Ta'zim FC (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="zp5rzghgp4l3q82" tvg-name="Melaka FC vs Johor Darul Ta'zim FC" tvg-logo="https://img.cdnok9.com/football/competition/70dd3b1e69708842440893f5a8b46632.png" group-title="[LIVE 20:00 WIB | 28/04/26] Melaka FC vs Johor Darul Ta'zim FC",[LIVE 20:00 WIB | 28/04/26] Melaka FC vs Johor Darul Ta'zim FC (VĂN VỞ)
@@ -61,14 +57,14 @@ https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="zp5rzghgp4l3q82" tvg-name="Melaka FC vs Johor Darul Ta'zim FC" tvg-logo="https://img.cdnok9.com/football/competition/70dd3b1e69708842440893f5a8b46632.png" group-title="[LIVE 20:00 WIB | 28/04/26] Melaka FC vs Johor Darul Ta'zim FC",[LIVE 20:00 WIB | 28/04/26] Melaka FC vs Johor Darul Ta'zim FC (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="4jwq2ghnxy18m0v" tvg-name="PSBS Biak Numfor vs Malut United" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United",[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="4jwq2ghnxy18m0v" tvg-name="PSBS Biak Numfor vs Malut United" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United",[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="4jwq2ghnxy18m0v" tvg-name="PSBS Biak Numfor vs Malut United" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United",[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="4jwq2ghnxy18m0v" tvg-name="PSBS Biak Numfor vs Malut United" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United",[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-id="4jwq2ghnxy18m0v" tvg-name="PSBS Biak Numfor vs Malut United" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United",[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="4jwq2ghnxy18m0v" tvg-name="PSBS Biak Numfor vs Malut United" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United",[LIVE 19:50 WIB | 28/04/26] PSBS Biak Numfor vs Malut United (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="y0or5jh8wexoqwz" tvg-name="Al Wathbah vs Al-Taliya" tvg-logo="https://img.cdnok9.com/football/competition/400eddc7af6eb63ca9bbaa609ab6b2cc.png" group-title="[LIVE 20:00 WIB | 28/04/26] Al Wathbah vs Al-Taliya",[LIVE 20:00 WIB | 28/04/26] Al Wathbah vs Al-Taliya (GIÀNG A TỨ )
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="y0or5jh8wexoqwz" tvg-name="Al Wathbah vs Al-Taliya" tvg-logo="https://img.cdnok9.com/football/competition/400eddc7af6eb63ca9bbaa609ab6b2cc.png" group-title="[LIVE 20:00 WIB | 28/04/26] Al Wathbah vs Al-Taliya",[LIVE 20:00 WIB | 28/04/26] Al Wathbah vs Al-Taliya (GIÀNG A TỨ )
@@ -77,11 +73,23 @@ https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c9559855
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="ednm9whwow0oryo" tvg-name="Al Gharraf vs Al-Mina'a SC" tvg-logo="https://img.cdnok9.com/football/competition/0504b24f98f8c083439816864fcf485c.png" group-title="[LIVE 21:00 WIB | 28/04/26] Al Gharraf vs Al-Mina'a SC",[LIVE 21:00 WIB | 28/04/26] Al Gharraf vs Al-Mina'a SC (Giàng A Chiến)
 https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="69f03ce72049c2c2d724fa5b" tvg-name="Manchester United vs Brentford" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 32m | 28/04/26] Manchester United vs Brentford",[UPCO 23:59 WIB | 2j 32m | 28/04/26] Manchester United vs Brentford (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="6ypq3nhv38o7md7" tvg-name="Sogdiana Jizak vs Termez Surkhon" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 21:00 WIB | 28/04/26] Sogdiana Jizak vs Termez Surkhon",[LIVE 21:00 WIB | 28/04/26] Sogdiana Jizak vs Termez Surkhon (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="6ypq3nhv38o7md7" tvg-name="Sogdiana Jizak vs Termez Surkhon" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 21:00 WIB | 28/04/26] Sogdiana Jizak vs Termez Surkhon",[LIVE 21:00 WIB | 28/04/26] Sogdiana Jizak vs Termez Surkhon (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="69f03ce72049c2c2d724fa5b" tvg-name="Manchester United vs Brentford" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 23m | 28/04/26] Manchester United vs Brentford",[UPCO 23:59 WIB | 2j 23m | 28/04/26] Manchester United vs Brentford (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69f03ce72049c2c2d724fa5b" tvg-name="Manchester United vs Brentford" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 32m | 28/04/26] Manchester United vs Brentford",[UPCO 23:59 WIB | 2j 32m | 28/04/26] Manchester United vs Brentford (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69f03ce72049c2c2d724fa5b" tvg-name="Manchester United vs Brentford" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 23m | 28/04/26] Manchester United vs Brentford",[UPCO 23:59 WIB | 2j 23m | 28/04/26] Manchester United vs Brentford (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
 #EXTINF:-1 tvg-id="69f03ce72049c2c2d724fa5b" tvg-name="Manchester United vs Brentford" tvg-logo="" group-title="[LIVE 21:23 WIB | 28/04/26] Pakhtakor vs Nasaf Qarshi",[LIVE 21:23 WIB | 28/04/26] Pakhtakor vs Nasaf Qarshi (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="69f03ce72049c2c2d724fa5b" tvg-name="Manchester United vs Brentford" tvg-logo="" group-title="[LIVE 21:23 WIB | 28/04/26] Pakhtakor vs Nasaf Qarshi",[LIVE 21:23 WIB | 28/04/26] Pakhtakor vs Nasaf Qarshi (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="k82rekhggy5xrep" tvg-name="FK Liepaja vs Grobina" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[UPCO 22:00 WIB | 23m | 28/04/26] FK Liepaja vs Grobina",[UPCO 22:00 WIB | 23m | 28/04/26] FK Liepaja vs Grobina (Giàng A Ka)
+https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="k82rekhggy5xrep" tvg-name="FK Liepaja vs Grobina" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[UPCO 22:00 WIB | 23m | 28/04/26] FK Liepaja vs Grobina",[UPCO 22:00 WIB | 23m | 28/04/26] FK Liepaja vs Grobina (Giàng A Ka)
+https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="y39mp1h6o7lvmoj" tvg-name="Sveikata vs Kauno Zalgiris" tvg-logo="https://img.cdnok9.com/football/competition/8ef356643795845570e77cca1269ade4.png" group-title="[UPCO 22:00 WIB | 23m | 28/04/26] Sveikata vs Kauno Zalgiris",[UPCO 22:00 WIB | 23m | 28/04/26] Sveikata vs Kauno Zalgiris (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="y39mp1h6o7lvmoj" tvg-name="Sveikata vs Kauno Zalgiris" tvg-logo="https://img.cdnok9.com/football/competition/8ef356643795845570e77cca1269ade4.png" group-title="[UPCO 22:00 WIB | 23m | 28/04/26] Sveikata vs Kauno Zalgiris",[UPCO 22:00 WIB | 23m | 28/04/26] Sveikata vs Kauno Zalgiris (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
