@@ -1,32 +1,32 @@
 #EXTM3U
-# Generated Tue Apr 28 13:08:20 2026
+# Generated Tue Apr 28 13:08:53 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 28-04-2026 20:08:11 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 28-04-2026 20:08:41 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Malut United [LIVE]😈📁
-https://bf.jalaplay.net/live/322720.m3u8?txSecret=9b8e598ecfa15c9fb0c4a0a71ce78916&txTime=69f0ac62
+https://bf.jalaplay.net/live/5005043.m3u8?txSecret=583b1fe4fc1051a4c755c4b6de121208&txTime=69f0ac68
 #EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Malut United [LIVE]😈📁
 https://bf.jalaplay.net/live/5004470.m3u8?txSecret=6007fda094ab6dc54a574e2894c8d5a7&txTime=69f0ac7a
 #EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Malut United [LIVE]😈📁
+https://bf.jalaplay.net/live/5005018.m3u8?txSecret=9e64eafe3a8480c31466af2b6972e636&txTime=69f0ac70
+#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Malut United [LIVE]😈📁
 https://bf.jalaplay.net/live/322693.m3u8?txSecret=814a889419b3297b9cf6a6c68bd3c304&txTime=69f0acc7
 #EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Malut United [LIVE]😈📁
-https://bf.jalaplay.net/live/5005018.m3u8?txSecret=9e64eafe3a8480c31466af2b6972e636&txTime=69f0ac70
+https://bf.jalaplay.net/live/5005098.m3u8?txSecret=1d8a7b8458cf47e52456c403813e5d9c&txTime=69f0ac62
+#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Malut United [LIVE]😈📁
+https://bf.jalaplay.net/live/322720.m3u8?txSecret=9b8e598ecfa15c9fb0c4a0a71ce78916&txTime=69f0ac62
 #EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Malut United [LIVE]😈📁
 https://bf.jalaplay.net/live/5004447.m3u8?txSecret=5ed69431153907336e750fb211148a69&txTime=69f0a6b6
 #EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Malut United [LIVE]😈📁
 https://bf.jalaplay.net/live/5004980.m3u8?txSecret=21636811187e40c5a6ec82204d0aac3d&txTime=69f0acae
-#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Malut United [LIVE]😈📁
-https://bf.jalaplay.net/live/5005098.m3u8?txSecret=1d8a7b8458cf47e52456c403813e5d9c&txTime=69f0ac62
-#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Malut United [LIVE]😈📁
-https://bf.jalaplay.net/live/5005043.m3u8?txSecret=583b1fe4fc1051a4c755c4b6de121208&txTime=69f0ac68
-#EXTINF:-1 group-title="📁😈 Malaysian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/70dd3b1e69708842440893f5a8b46632.png",📁😈Melaka FC😈 [🆚] 😈Johor Darul Ta'zim FC [LIVE]😈📁
-https://bf.jalaplay.net/live/5004991.m3u8?txSecret=10fde685e781a6ff8c45f59d255f2c1a&txTime=69f0a8de
 #EXTINF:-1 group-title="📁😈 Malaysian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/70dd3b1e69708842440893f5a8b46632.png",📁😈Melaka FC😈 [🆚] 😈Johor Darul Ta'zim FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5005009.m3u8?txSecret=e8f23a3e785d3a77bb4a0a8f9bb9f6d7&txTime=69f0a81b
 #EXTINF:-1 group-title="📁😈 Malaysian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/70dd3b1e69708842440893f5a8b46632.png",📁😈Melaka FC😈 [🆚] 😈Johor Darul Ta'zim FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5004449.m3u8?txSecret=53786e7fb4aaa7c3d211da34ca39fa3d&txTime=69f0ab82
 #EXTINF:-1 group-title="📁😈 Malaysian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/70dd3b1e69708842440893f5a8b46632.png",📁😈Melaka FC😈 [🆚] 😈Johor Darul Ta'zim FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5005010.m3u8?txSecret=7f63e22e514310b052a9a42bebe74c34&txTime=69f0aacd
+#EXTINF:-1 group-title="📁😈 Malaysian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/70dd3b1e69708842440893f5a8b46632.png",📁😈Melaka FC😈 [🆚] 😈Johor Darul Ta'zim FC [LIVE]😈📁
+https://bf.jalaplay.net/live/5004991.m3u8?txSecret=10fde685e781a6ff8c45f59d255f2c1a&txTime=69f0a8de
 #EXTINF:-1 group-title="📁😈 Portuguese U23 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png",📁😈Uniao Leiria U23😈 [🆚] 😈Rio Ave U23 [51m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4472485
 #EXTINF:-1 group-title="📁😈 Portuguese U23 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png",📁😈Maritimo U23😈 [🆚] 😈Estrela FC U23 [51m]😈📁
