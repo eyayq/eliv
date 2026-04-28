@@ -32,25 +32,8 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install --upgrade pip
-          pip install requests beautifulsoup4 playwright
-
-      # =========================
-      # CACHE PLAYWRIGHT BROWSERS
-      # =========================
-      - name: Cache Playwright Browsers
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache/ms-playwright
-          key: ${{ runner.os }}-playwright-${{ hashFiles('**/gvng.py') }}
-          restore-keys: |
-            ${{ runner.os }}-playwright-
-
-      # 
-      # 
-      # 
-      - name: Install Playwright Browsers
-        run: playwright install --with-deps
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
 
       - name: Decode Python Script
         run: |
