@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.15 WIB 28/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.24 WIB 28/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="l7oqdehgolnjr51" tvg-name="Municipal Iquique vs Santiago Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/aceec74834933ff6528e7c792119261d.png" group-title="[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers",[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="l7oqdehgolnjr51" tvg-name="Municipal Iquique vs Santiago Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/aceec74834933ff6528e7c792119261d.png" group-title="[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers",[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="jw2r09hk396jrz8" tvg-name="Aurora vs San Antonio Bulo Bulo" tvg-logo="https://img.cdnok9.com/football/competition/5d75feb43ea08222def38c8aa43db089.png" group-title="[LIVE 07:00 WIB | 28/04/26] Aurora vs San Antonio Bulo Bulo",[LIVE 07:00 WIB | 28/04/26] Aurora vs San Antonio Bulo Bulo (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="jw2r09hk396jrz8" tvg-name="Aurora vs San Antonio Bulo Bulo" tvg-logo="https://img.cdnok9.com/football/competition/5d75feb43ea08222def38c8aa43db089.png" group-title="[LIVE 07:00 WIB | 28/04/26] Aurora vs San Antonio Bulo Bulo",[LIVE 07:00 WIB | 28/04/26] Aurora vs San Antonio Bulo Bulo (GIÀNG A TÁO)
@@ -21,7 +25,3 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="dj2ryohl18xdq1z" tvg-name="Sociedad Deportiva Aucas vs Delfin SC" tvg-logo="https://img.cdnok9.com/football/competition/0e046e806bd54b6ea05db95101f07401.png" group-title="[LIVE 07:00 WIB | 28/04/26] Sociedad Deportiva Aucas vs Delfin SC",[LIVE 07:00 WIB | 28/04/26] Sociedad Deportiva Aucas vs Delfin SC (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="l7oqdehgolnjr51" tvg-name="Municipal Iquique vs Santiago Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/aceec74834933ff6528e7c792119261d.png" group-title="[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers",[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="l7oqdehgolnjr51" tvg-name="Municipal Iquique vs Santiago Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/aceec74834933ff6528e7c792119261d.png" group-title="[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers",[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
