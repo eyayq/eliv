@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 05:16:03 WIB 28-04-2026
-# 🔄 Total Channels: 2096
+# ⏰ Latest Updated: 05:25:06 WIB 28-04-2026
+# 🔄 Total Channels: 2097
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [05:16:03 WIB 28-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [05:25:06 WIB 28-04-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -60,8 +60,14 @@ https://liveh12byt.vtvprime.vn/hls/THETHAO_HD/03.m3u8
 https://liveh12byt.vtvprime.vn/hls/HAY_TV/03.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/VTVCab/OnSportsNew.png" group-title="Badminton Uber Cup 2026  🏸",ON Sports News HD
 https://liveh12byt.vtvprime.vn/hls/THETHAO_TINTUC_HD/03.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1777311292.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",09:30   28/04 Denver Nuggets vs Minnesota Timberwolves  YEN THANH m3u Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1777353218.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:16   28/04 Arsenal vs Newcastle United  KEVILL REPLAY m3u Gvision TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls-ls.cdnok9.site/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1777353218.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",12:16   28/04 Arsenal vs Newcastle United  KEVILL REPLAY flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnok9.com/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1777311292.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",09:30   28/04 Denver Nuggets vs Minnesota Timberwolves  YEN THANH m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1777311292.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",09:30   28/04 Denver Nuggets vs Minnesota Timberwolves  YEN THANH flv Gvision TV
@@ -229,107 +235,107 @@ http://filex.me:8080/live/ch78978977/77899787ch/302264.ts
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=c7dd6a5b73a48186a499fee02007f14d6f5bc767&x-sign=f6bc93a76ae34653a3492e86689dcc56&x-time=1777352460
+https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=c34e9c646639b850f659fc298c53f4905cc81f65&x-sign=e83dc45afec23a20a3da9f295f7e4cc1&x-time=1777353360
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [NPB] Saitama Seibu Lions VS Hokkaido Nippon-Ham Fighters [Server 1]
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=c7dd6a5b73a48186a499fee02007f14d6f5bc767&x-sign=788dab10979842d4f1027f8c59f60be5&x-time=1777352460
+https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=c34e9c646639b850f659fc298c53f4905cc81f65&x-sign=9344038d37ebd5ab691a1ff610292411&x-time=1777353360
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [NPB] Saitama Seibu Lions VS Hiroshima Toyo Carp [Server 1]
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=c7dd6a5b73a48186a499fee02007f14d6f5bc767&x-sign=06a7d35d866bd60069031c9a11a0f393&x-time=1777352460
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=c34e9c646639b850f659fc298c53f4905cc81f65&x-sign=f424e35f3fa8e1fbef7c4e76d8523ba9&x-time=1777353360
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [NPB Farm Leagues] Fukuoka SoftBank Hawks VS Chiba Lotte Marines [Server 1]
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=c7dd6a5b73a48186a499fee02007f14d6f5bc767&x-sign=880857fb2220933e920ab9c1347faab9&x-time=1777352460
+https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=c34e9c646639b850f659fc298c53f4905cc81f65&x-sign=e2004ffff051663ee193f3cde80977e5&x-time=1777353360
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [NPB Farm Leagues] Tohoku Rakuten Golden Eagles VS Yomiuri Giants [Server 1]
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=c7dd6a5b73a48186a499fee02007f14d6f5bc767&x-sign=615b655a2a751d5236bf97934ea5eee0&x-time=1777352460
-#EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/ubasketball/default/US.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] College Basketball | Ulsan University vs Gwangju Women's University
+https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=c34e9c646639b850f659fc298c53f4905cc81f65&x-sign=766134d5afb339e078ac337df877558a&x-time=1777353360
+#EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/ubasketball/default/US.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE] daehagnonggu | ulsandae vs gwangjuyeodae
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/de6a400d191c13b9523717896a7e4e2f
 #EXTVLCOPT:http-origin=https://chzzk.naver.com
-https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0043/3egavusp6gyo2pzg2xhn3bs8r79a5vf6ro2o/up8qyjhmrfdzwws3z0wu6tm79a5vf6rj4d_hls_playlist.m3u8?hdnts=st=1777353018~exp=1777414228~acl=*/3egavusp6gyo2pzg2xhn3bs8r79a5vf6ro2o/*~hmac=056538d766ed4bccfd898933bfb2cce02a7f5b2b158eebfebc34bde1976c4d67
+https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0043/3egavusp6gyo2pzg2xhn3bs8r79a5vf6ro2o/up8qyjhmrfdzwws3z0wu6tm79a5vf6rj4d_hls_playlist.m3u8?hdnts=st=1777353684~exp=1777414894~acl=*/3egavusp6gyo2pzg2xhn3bs8r79a5vf6ro2o/*~hmac=cf49064f40c274c8a13d8da49d5aed59dc65853d9f74ba2d5d7fbae4ffe31ef8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/p3glrwyte48qdyj/image/small" group-title="🔴 🔴 LIVE EVENT NOW",09:30 WIB - DENVER NUGGETS VS MINNESOTA TIMBERWOLVES [NBA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=b84d6e97916531024bf3f085dd4faff0&wsABSTime=1777396222
+https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=ae1af94b5214f45a319aa0ff9c1e458a&wsABSTime=1777396822
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/ll7c0gcweyx5qx.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] Baseball - NPB Farm Leagues | (10.30 WIB) Tokyo Yakult Swallows vs Chunichi Dragons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara.maypn.stream/stream/23/chunks.m3u8?is_vip=true&token=dara-kxtupkxl&x-sign=1275b2e08f2ccd2ec752a20b2e3b7b1c&x-time=1777352940|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara.maypn.stream/stream/23/chunks.m3u8?is_vip=true&token=dara-mpa11fgr&x-sign=bc559b0a60a720be67e09dfbddd84c6f&x-time=1777353540|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Chunichi%20Dragons%20%20NPB%20Farm%20Leagues.jpg" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [10:30 WIB] [NPB Farm Leagues] Tokyo Yakult Swallows vs Chunichi Dragons
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=e13ba20b99347fd4439d5c7bede03c35965bcf04&x-sign=4550de3e724c12927693f1bbcb9a656c&x-time=1777352400
+https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=7485c0f406fdf8dd64aa3e400ac429f631c8b9ac&x-sign=77952ac0fb5fa74f6156c8b4e14814ea&x-time=1777353300
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/vdkgwl3mq22o74.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] Baseball - NPB Farm Leagues | (11.00 WIB) Fukuoka SoftBank Hawks vs Chiba Lotte Marines
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara.maypn.stream/stream/27/chunks.m3u8?is_vip=true&token=dara-0snyup9l&x-sign=8fd6803f3bc3795c5a48fefdbe2de26a&x-time=1777352940|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara.maypn.stream/stream/27/chunks.m3u8?is_vip=true&token=dara-ofs8ixff&x-sign=d6ef31d61c2dfa6873847d5da5f9012a&x-time=1777353540|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/zf1ildtlldw3nl.png" group-title="🔴 🔴 LIVE EVENT NOW",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] Baseball - NPB Farm Leagues | (11.00 WIB) Tohoku Rakuten Golden Eagles vs Yomiuri Giants
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara.maypn.stream/stream/3/chunks.m3u8?is_vip=true&token=dara-tl4c2g5s&x-sign=29a3302d0d4c385796d5c9c38dd69e19&x-time=1777352940|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara.maypn.stream/stream/3/chunks.m3u8?is_vip=true&token=dara-8n9ulonr&x-sign=18352c845d256c6430bb8a2ade5316a0&x-time=1777353540|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [11:00 WIB] [NPB] Saitama Seibu Lions vs Hiroshima Toyo Carp
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=e13ba20b99347fd4439d5c7bede03c35965bcf04&x-sign=758e4b1b78aecd920aafd5daaae018a0&x-time=1777352400
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=7485c0f406fdf8dd64aa3e400ac429f631c8b9ac&x-sign=ab4187b70f9f3e7faffbe18121bf7781&x-time=1777353300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Yomiuri%20Giants%20%20NPB%20Farm%20Leagues.jpg" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [11:00 WIB] [NPB Farm Leagues] Tohoku Rakuten Golden Eagles vs Yomiuri Giants
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=e13ba20b99347fd4439d5c7bede03c35965bcf04&x-sign=cb3b5110d82597e3156e05ceefcc2046&x-time=1777352400
+https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=7485c0f406fdf8dd64aa3e400ac429f631c8b9ac&x-sign=11ddfcfee4767f141011d21133ae630c&x-time=1777353300
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [11:00 WIB] [NPB Farm Leagues] Fukuoka SoftBank Hawks vs Chiba Lotte Marines
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=e13ba20b99347fd4439d5c7bede03c35965bcf04&x-sign=c6c6c4fc80b5eca9e8a0d795eba58d6a&x-time=1777352400
+https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=7485c0f406fdf8dd64aa3e400ac429f631c8b9ac&x-sign=2d023d34228e6271061571cf0c4ac2cc&x-time=1777353300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [11:00 WIB] [NPB] Saitama Seibu Lions vs Hokkaido Nippon-Ham Fighters
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=e13ba20b99347fd4439d5c7bede03c35965bcf04&x-sign=a6f1bcbd686f331d405158803c59e020&x-time=1777352400
+https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=7485c0f406fdf8dd64aa3e400ac429f631c8b9ac&x-sign=b3db1c608b69440c16bd75973e6a066a&x-time=1777353300
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[09:10 WIB] [MLB] Miami Marlins vs Los Angeles Dodgers (SPORTir)
 #EXTVLCOPT:http-referrer=https://mlb24all.ir
 #EXTVLCOPT:http-origin=https://mlb24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-6a57c764.streamtofu.com/69f0afc4.1c1a6afbi1de7ba41.123c7.3a0aa0ea/free.live.espn/master.m3u8
+https://node-6a57c764.streamtofu.com/69f0b1ff.cc3b5bb9i99eaab43.123c7.3e348cfb/free.live.espn/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[08:40 WIB] [MLB] Chicago Cubs vs San Diego Padres (SPORTir)
 #EXTVLCOPT:http-referrer=https://mlb24all.ir
 #EXTVLCOPT:http-origin=https://mlb24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-6a57c764.streamtofu.com/69f0afc4.e5c3975di1de7ba41.123cd.3b145807/free.live.espn/master.m3u8
+https://node-6a57c764.streamtofu.com/69f0b1ff.d80e09f2i99eaab43.123cd.f705155d/free.live.espn/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="🔴 🔴 LIVE EVENT NOW",[08:30 WIB] [NHL] Vegas Golden Knights vs Utah Mammoth (SPORTir)
 #EXTVLCOPT:http-referrer=https://nhl24all.ir
 #EXTVLCOPT:http-origin=https://nhl24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-31fbddbb.streamtofu.com/69f0afc5.ed478a02i1de7ba41.126a1.a7916774/free.live.sportsnet/master.m3u8
+https://node-31fbddbb.streamtofu.com/69f0b1ff.76e035f9i99eaab43.126a1.d7d6a96d/free.live.sportsnet/master.m3u8
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/85.png" group-title="LIGA CHAMPION🏆",[UPCOMING ] [02:00 WIB] [UEFA Champions League] Paris Saint Germain VS Bayern Munchen
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20VS%20Bayern%20M%C3%BCnchen%20%20UEFA%20Champions%20League.jpg" group-title="LIGA CHAMPION🏆",[UPCOMING ] [02:00 WIB] [UEFA Champions League] Paris Saint Germain vs Bayern Munchen
@@ -392,11 +398,11 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [18:00 WIB] [Unknown League] Mutua Madrid Open: Day 8
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/ubasketball/default/US.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE] College Basketball | Ulsan University vs Gwangju Women's University
+#EXTINF:-1 tvg-logo="https://sports-phinf.pstatic.net/team/ubasketball/default/US.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE] daehagnonggu | ulsandae vs gwangjuyeodae
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/de6a400d191c13b9523717896a7e4e2f
 #EXTVLCOPT:http-origin=https://chzzk.naver.com
-https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0043/3egavusp6gyo2pzg2xhn3bs8r79a5vf6ro2o/up8qyjhmrfdzwws3z0wu6tm79a5vf6rj4d_hls_playlist.m3u8?hdnts=st=1777353018~exp=1777414228~acl=*/3egavusp6gyo2pzg2xhn3bs8r79a5vf6ro2o/*~hmac=056538d766ed4bccfd898933bfb2cce02a7f5b2b158eebfebc34bde1976c4d67
+https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0043/3egavusp6gyo2pzg2xhn3bs8r79a5vf6ro2o/up8qyjhmrfdzwws3z0wu6tm79a5vf6rj4d_hls_playlist.m3u8?hdnts=st=1777353684~exp=1777414894~acl=*/3egavusp6gyo2pzg2xhn3bs8r79a5vf6ro2o/*~hmac=cf49064f40c274c8a13d8da49d5aed59dc65853d9f74ba2d5d7fbae4ffe31ef8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",MLB Network
 http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2342.ts
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",NBA TV
@@ -407,7 +413,7 @@ http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2348.ts
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=b84d6e97916531024bf3f085dd4faff0&wsABSTime=1777396222
+https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=ae1af94b5214f45a319aa0ff9c1e458a&wsABSTime=1777396822
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [09:30 WIB] [NBA] Denver Nuggets vs Minnesota Timberwolves (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA3
 #EXTVLCOPT:http-origin=https://instream.click
@@ -422,7 +428,7 @@ https://live5.msrktz.app/live/87379114.m3u8
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mp3.mpfiles.cfd/live/minnesots/stream.m3u8?expires=1777328506&token=d7715041174b4a190ae688210fa37f0a43728938dad4287e48cc335895b3ddfa
+https://mp3.mpfiles.cfd/live/minnesots/stream.m3u8?expires=1777333568&token=3d30483f44fe90978b74a27564cd23269b84b32640dcb6362f2e223893455826
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oNJdtlkiFEbkTpir9LJUg8MV30I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032200/3955dd.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",09:55 WIB 28/04/26 Universitas Cenderawasih Jayapura vs Universitas Negeri Malang (Semifinal | Putra) - CL Basketball 2026 - Regional Surabaya (INTI HLS/M3U8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://maling.pl/21210.m3u8
@@ -442,7 +448,7 @@ https://bostv.maling.pl/21210.mpd
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/ll7c0gcweyx5qx.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] Baseball - NPB Farm Leagues | (10.30 WIB) Tokyo Yakult Swallows vs Chunichi Dragons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara.maypn.stream/stream/23/chunks.m3u8?is_vip=true&token=dara-kxtupkxl&x-sign=1275b2e08f2ccd2ec752a20b2e3b7b1c&x-time=1777352940|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara.maypn.stream/stream/23/chunks.m3u8?is_vip=true&token=dara-mpa11fgr&x-sign=bc559b0a60a720be67e09dfbddd84c6f&x-time=1777353540|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/zf1ildtlldw3nl.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Baseball - NPB Farm Leagues | (10.30 WIB) Tohoku Rakuten Golden Eagles vs Yomiuri Giants (BELUM MULAI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Chunichi%20Dragons%20%20NPB%20Farm%20Leagues.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE ] [10:30 WIB] [NPB Farm Leagues] Tokyo Yakult Swallows vs Chunichi Dragons
@@ -451,43 +457,43 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=e13ba20b99347fd4439d5c7bede03c35965bcf04&x-sign=4550de3e724c12927693f1bbcb9a656c&x-time=1777352400
+https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=7485c0f406fdf8dd64aa3e400ac429f631c8b9ac&x-sign=77952ac0fb5fa74f6156c8b4e14814ea&x-time=1777353300
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/vdkgwl3mq22o74.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] Baseball - NPB Farm Leagues | (11.00 WIB) Fukuoka SoftBank Hawks vs Chiba Lotte Marines
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara.maypn.stream/stream/27/chunks.m3u8?is_vip=true&token=dara-0snyup9l&x-sign=8fd6803f3bc3795c5a48fefdbe2de26a&x-time=1777352940|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara.maypn.stream/stream/27/chunks.m3u8?is_vip=true&token=dara-ofs8ixff&x-sign=d6ef31d61c2dfa6873847d5da5f9012a&x-time=1777353540|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/zf1ildtlldw3nl.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] Baseball - NPB Farm Leagues | (11.00 WIB) Tohoku Rakuten Golden Eagles vs Yomiuri Giants
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara.maypn.stream/stream/3/chunks.m3u8?is_vip=true&token=dara-tl4c2g5s&x-sign=29a3302d0d4c385796d5c9c38dd69e19&x-time=1777352940|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara.maypn.stream/stream/3/chunks.m3u8?is_vip=true&token=dara-8n9ulonr&x-sign=18352c845d256c6430bb8a2ade5316a0&x-time=1777353540|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE ] [11:00 WIB] [NPB] Saitama Seibu Lions vs Hiroshima Toyo Carp
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=e13ba20b99347fd4439d5c7bede03c35965bcf04&x-sign=758e4b1b78aecd920aafd5daaae018a0&x-time=1777352400
+https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=7485c0f406fdf8dd64aa3e400ac429f631c8b9ac&x-sign=ab4187b70f9f3e7faffbe18121bf7781&x-time=1777353300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Yomiuri%20Giants%20%20NPB%20Farm%20Leagues.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE ] [11:00 WIB] [NPB Farm Leagues] Tohoku Rakuten Golden Eagles vs Yomiuri Giants
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=e13ba20b99347fd4439d5c7bede03c35965bcf04&x-sign=cb3b5110d82597e3156e05ceefcc2046&x-time=1777352400
+https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=7485c0f406fdf8dd64aa3e400ac429f631c8b9ac&x-sign=11ddfcfee4767f141011d21133ae630c&x-time=1777353300
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE ] [11:00 WIB] [NPB Farm Leagues] Fukuoka SoftBank Hawks vs Chiba Lotte Marines
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=e13ba20b99347fd4439d5c7bede03c35965bcf04&x-sign=c6c6c4fc80b5eca9e8a0d795eba58d6a&x-time=1777352400
+https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=7485c0f406fdf8dd64aa3e400ac429f631c8b9ac&x-sign=2d023d34228e6271061571cf0c4ac2cc&x-time=1777353300
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE ] [11:00 WIB] [NPB] Saitama Seibu Lions vs Hokkaido Nippon-Ham Fighters
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=e13ba20b99347fd4439d5c7bede03c35965bcf04&x-sign=a6f1bcbd686f331d405158803c59e020&x-time=1777352400
+https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=7485c0f406fdf8dd64aa3e400ac429f631c8b9ac&x-sign=b3db1c608b69440c16bd75973e6a066a&x-time=1777353300
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/3glrwyt1d16qdyj/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",15:00 WIB - QUEZON TODA AKSYON VS MARIKINA SHOEMASTERS [PHI] (v1)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[UPCOMING ] [16:00 WIB] [NPB] ORIX Buffaloes VS Fukuoka SoftBank Hawks
@@ -512,50 +518,45 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-referrer=https://mlb24all.ir
 #EXTVLCOPT:http-origin=https://mlb24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-6a57c764.streamtofu.com/69f0afc4.1c1a6afbi1de7ba41.123c7.3a0aa0ea/free.live.espn/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [09:10 WIB] [MLB] Los Angeles Dodgers vs Miami Marlins (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD10
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/NFLHD10/index.m3u8
+https://node-6a57c764.streamtofu.com/69f0b1ff.cc3b5bb9i99eaab43.123c7.3e348cfb/free.live.espn/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [09:10 WIB] [MLB] Miami Marlins vs Los Angeles Dodgers - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mll3.mpfiles.cfd/live/88/stream.m3u8?expires=1777328428&token=65d85e225edbabe4b193c5c49f3e10ce6f2f23422b3830c01dc37c2f6d48bee1
+https://mll3.mpfiles.cfd/live/88/stream.m3u8?expires=1777334964&token=321a7a4f5d6688e01a8d8cdd261b77daf15d1cb8810f63f20049090dc7636182
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/71zrnqmlists6s.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] MMA - MMA | (09.00 WIB) INKA MMA 56 (BELUM MULAI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [08:42 WIB] [NBA] Oklahoma City Thunder vs Phoenix Suns - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mp2.mpfiles.cfd/live/suns/stream.m3u8?expires=1777328413&token=fe4378e3dfd2ac842e5ac3e306ca30079cae805cefad05cf86b083541b16dd6e
+https://mp2.mpfiles.cfd/live/suns/stream.m3u8?expires=1777334960&token=88ad44598ab8688081e7a405d6dd65d9d2f77a5c5f2622596aebb2b8c1c578b4
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[08:40 WIB] [MLB] Chicago Cubs vs San Diego Padres (SPORTir)
 #EXTVLCOPT:http-referrer=https://mlb24all.ir
 #EXTVLCOPT:http-origin=https://mlb24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-6a57c764.streamtofu.com/69f0afc4.e5c3975di1de7ba41.123cd.3b145807/free.live.espn/master.m3u8
+https://node-6a57c764.streamtofu.com/69f0b1ff.d80e09f2i99eaab43.123cd.f705155d/free.live.espn/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [08:40 WIB] [MLB] Chicago Cubs vs San Diego Padres - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mll3.mpfiles.cfd/live/77/stream.m3u8?expires=1777328398&token=62175da782c85fdadf5d602c182e27494d8b9f6b43aecaf62d1308494cc2f95a
+https://mll3.mpfiles.cfd/live/77/stream.m3u8?expires=1777334959&token=e455d040ec4123cbc282c7704604e6f8c05b4219bd0aef7516fb27b45bd4ada2
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[08:30 WIB] [NHL] Vegas Golden Knights vs Utah Mammoth (SPORTir)
 #EXTVLCOPT:http-referrer=https://nhl24all.ir
 #EXTVLCOPT:http-origin=https://nhl24all.ir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
-https://node-31fbddbb.streamtofu.com/69f0afc5.ed478a02i1de7ba41.126a1.a7916774/free.live.sportsnet/master.m3u8
+https://node-31fbddbb.streamtofu.com/69f0b1ff.76e035f9i99eaab43.126a1.d7d6a96d/free.live.sportsnet/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5305d1a7b721b5bef418041eff53ba82.png!w80" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[UPCOMING] (08:30 WIB) San Antonio Spurs vs Portland Trail Blazers [BLV Cozy]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mgMRQ7FR/nhl-logo-png-seeklogo-534236.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [08:30 WIB] [NHL] Vegas Golden Knights vs Utah Mammoth - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mll4.mpfiles.cfd/live/101/stream.m3u8?expires=1777328383&token=ca152533725cf45a189bcc23a9fe231f70b385fe11fdd1f8620f230e7f90bd99
+https://mll4.mpfiles.cfd/live/101/stream.m3u8?expires=1777334957&token=ad6d2ffae354898d887c9c51de2a061b151f000b0846ef209c0e51ae0206aa61
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/ulhzduljgicrxy.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Cycling - UCI Pro Series | (18.30 WIB) Tour of Turkey, Stage 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://livecdn-bp-dara-iptv.maypn.stream/live_abr/1419_hd/index.m3u8?is_vip=true&token=dara-47qvj8em&x-sign=28d252d0ff093e7efeaab025b643bd57&x-time=1777352940|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
+https://livecdn-bp-dara-iptv.maypn.stream/live_abr/1419_hd/index.m3u8?is_vip=true&token=dara-38ac49ab&x-sign=8dbc3941c5d6cd149d48249afef11f75&x-time=1777353540|User-Agent=Mozilla/5.0&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/dxw49bymzvkwmy.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Cycling - UCI World Tour | (20.30 WIB) Tour of Romandie, prologue (BELUM MULAI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/ulhzduljgicrxy.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Cycling - UCI Pro Series | (18.30 WIB) Tour of Turkey, Stage 4 (BELUM MULAI)
@@ -647,7 +648,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=51660ae2f7a09ccd8934413fd3c45db4&wsABSTime=1777396219
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=48b71664d6932411861f9dedf0265722&wsABSTime=1777396818
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80" group-title="BRI SUPER LEAGUE",[UPCOMING] (15:30 WIB) Arema Malang vs Persebaya [BLV GIA LANG]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -3049,27 +3050,27 @@ http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=866e008bf860c66d8d782a58766432d2&wsABSTime=1777396519
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=48b71664d6932411861f9dedf0265722&wsABSTime=1777396818
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehl270r510/image/small" group-title="LIVE EVENT | XOILACZ AI",16:00 WIB - SHELLHARBOUR JFC VS SD RAIDERS FC [A FFA CUP] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=f3611ec2d1c2cf03cb06aef5f6a659cf&wsABSTime=1777396520
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=f76c4de55a22159785c4942987bb00b6&wsABSTime=1777396820
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh40z5m0ve/image/small" group-title="LIVE EVENT | XOILACZ AI",16:30 WIB - SOUTH MELBOURNE VS FC BULLEEN LIONS [A FFA CUP] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=8473a083401997261c1122703277c353&wsABSTime=1777396522
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=b72badc6d9a0f710158126074ecbdb08&wsABSTime=1777396821
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/p3glrwyte48qdyj/image/small" group-title="LIVE EVENT | XOILACZ AI",09:30 WIB - DENVER NUGGETS VS MINNESOTA TIMBERWOLVES [NBA] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=1c5df47e0af64a26869eaee25de016e5&wsABSTime=1777396523
+https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=ae1af94b5214f45a319aa0ff9c1e458a&wsABSTime=1777396822
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/3glrwyt1d16qdyj/image/small" group-title="LIVE EVENT | XOILACZ AI",15:00 WIB - QUEZON TODA AKSYON VS MARIKINA SHOEMASTERS [PHI] (v1)
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=f627d40e6485a1fd7c480acef3bfee62&wsABSTime=1777396523
+https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=d71f85be554790ff1118398065ff25f9&wsABSTime=1777396823
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh415dr510/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - TRAU FC VS MUMBAY FC [IND]
 https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/offline.m3u8
 #EXTINF:-1 tvg-logo="" group-title="👍🏻DONASI 085795119808👍🏻", ERROR: WORKER DIBLOKIR OLEH FAWANEWS (Kena Rate Limit/Cloudflare) (Fawa)
