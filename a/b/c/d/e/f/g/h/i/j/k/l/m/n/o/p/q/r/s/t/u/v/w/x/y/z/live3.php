@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Tue Apr 28 22:15:08 2026
+# Generated Tue Apr 28 22:15:50 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 29-04-2026 05:14:56 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 29-04-2026 05:15:38 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 CONMEBOL Copa Sudamericana 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png",📁😈San Lorenzo😈 [🆚] 😈Santos Fc - SP [LIVE]😈📁
 https://bf.jalaplay.net/live/322717.m3u8?txSecret=89069e0251350a8cb9630650f4f881a6&txTime=69f1278f
@@ -11,11 +11,11 @@ https://bf.jalaplay.net/live/322711.m3u8?txSecret=ccd981f0ddc30d82b0494fb968aa0e
 https://bf.jalaplay.net/live/322708.m3u8?txSecret=bfa542a91306ea774828fa2266f84959&txTime=69f129e6
 #EXTINF:-1 group-title="📁😈 CONMEBOL Copa Libertadores 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",📁😈Club Libertad Asunción😈 [🆚] 😈Independiente del Valle [LIVE]😈📁
 https://bf.jalaplay.net/live/5004475.m3u8?txSecret=fc7c079cbc4c78c584f35e546327cba5&txTime=69f12ef3
-#EXTINF:-1 group-title="📁😈 United States Open Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f19f3bb4b5331e66ba4c724f902c9ecb.png",📁😈San Jose Earthquakes😈 [🆚] 😈Minnesota United FC [225m]😈📁
+#EXTINF:-1 group-title="📁😈 United States Open Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f19f3bb4b5331e66ba4c724f902c9ecb.png",📁😈San Jose Earthquakes😈 [🆚] 😈Minnesota United FC [224m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4534186
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Vissel Kobe😈 [🆚] 😈Cerezo Osaka [405m]😈📁
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Vissel Kobe😈 [🆚] 😈Cerezo Osaka [404m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4470795
-#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kyoto Sanga😈 [🆚] 😈Gamba Osaka [465m]😈📁
+#EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Kyoto Sanga😈 [🆚] 😈Gamba Osaka [464m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4470792
 #EXTINF:-1 group-title="📁😈 Japanese J1 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png",📁😈Nagoya Grampus😈 [🆚] 😈Fagiano Okayama [464m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4470793
