@@ -1,18 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.03 WIB 29/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.13 WIB 29/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="4jwq2ghnzeyym0v" tvg-name="Academico Viseu U23 vs Leixoes U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 23:30 WIB | 28/04/26] Academico Viseu U23 vs Leixoes U23",[LIVE 23:30 WIB | 28/04/26] Academico Viseu U23 vs Leixoes U23 (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="4jwq2ghnzeyym0v" tvg-name="Academico Viseu U23 vs Leixoes U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 23:30 WIB | 28/04/26] Academico Viseu U23 vs Leixoes U23",[LIVE 23:30 WIB | 28/04/26] Academico Viseu U23 vs Leixoes U23 (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="6ypq3nhv8xjpmd7" tvg-name="VJS Vantaa B vs Käpylän Pallo" tvg-logo="https://img.cdnok9.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png" group-title="[LIVE 00:00 WIB | 29/04/26] VJS Vantaa B vs Käpylän Pallo",[LIVE 00:00 WIB | 29/04/26] VJS Vantaa B vs Käpylän Pallo (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="6ypq3nhv8xjpmd7" tvg-name="VJS Vantaa B vs Käpylän Pallo" tvg-logo="https://img.cdnok9.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png" group-title="[LIVE 00:00 WIB | 29/04/26] VJS Vantaa B vs Käpylän Pallo",[LIVE 00:00 WIB | 29/04/26] VJS Vantaa B vs Käpylän Pallo (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="23xmvkh6x2vlqg8" tvg-name="NEOM Sports Club vs Al Hazem" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem",[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="23xmvkh6x2vlqg8" tvg-name="NEOM Sports Club vs Al Hazem" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem",[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="23xmvkh6x2vlqg8" tvg-name="NEOM Sports Club vs Al Hazem" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem",[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="23xmvkh6x2vlqg8" tvg-name="NEOM Sports Club vs Al Hazem" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem",[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="23xmvkh6x2vlqg8" tvg-name="NEOM Sports Club vs Al Hazem" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem",[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="23xmvkh6x2vlqg8" tvg-name="NEOM Sports Club vs Al Hazem" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem",[LIVE 23:45 WIB | 28/04/26] NEOM Sports Club vs Al Hazem (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="1l4rjnh9egy0m7v" tvg-name="Al Hilal vs Damac" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac",[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="1l4rjnh9egy0m7v" tvg-name="Al Hilal vs Damac" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac",[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac (GIÀNG A MÂY)
@@ -21,10 +25,6 @@ https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e9
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="1l4rjnh9egy0m7v" tvg-name="Al Hilal vs Damac" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac",[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac (Giàng A Kê)
 https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="pxwrxlhyvlk3ryk" tvg-name="Al Shabab FC vs Al Fateh SC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:00 WIB | 28/04/26] Al Shabab FC vs Al Fateh SC",[LIVE 23:00 WIB | 28/04/26] Al Shabab FC vs Al Fateh SC (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="pxwrxlhyvlk3ryk" tvg-name="Al Shabab FC vs Al Fateh SC" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:00 WIB | 28/04/26] Al Shabab FC vs Al Fateh SC",[LIVE 23:00 WIB | 28/04/26] Al Shabab FC vs Al Fateh SC (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="n54qllhn3v0lqvy" tvg-name="JFC Helsinki vs HIFK" tvg-logo="https://img.cdnok9.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png" group-title="[LIVE 01:00 WIB | 29/04/26] JFC Helsinki vs HIFK",[LIVE 01:00 WIB | 29/04/26] JFC Helsinki vs HIFK (Giàng A Sún)
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="n54qllhn3v0lqvy" tvg-name="JFC Helsinki vs HIFK" tvg-logo="https://img.cdnok9.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png" group-title="[LIVE 01:00 WIB | 29/04/26] JFC Helsinki vs HIFK",[LIVE 01:00 WIB | 29/04/26] JFC Helsinki vs HIFK (Giàng A Sún)
@@ -53,11 +53,3 @@ https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc1225
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="y39mp1h60zgxmoj" tvg-name="Santa Clara U23 vs Sporting CP U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 23:30 WIB | 28/04/26] Santa Clara U23 vs Sporting CP U23",[LIVE 23:30 WIB | 28/04/26] Santa Clara U23 vs Sporting CP U23 (Lữ Bố (Giàng Phụng Tiên))
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="4jwq2ghnzeyym0v" tvg-name="Academico Viseu U23 vs Leixoes U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 23:30 WIB | 28/04/26] Academico Viseu U23 vs Leixoes U23",[LIVE 23:30 WIB | 28/04/26] Academico Viseu U23 vs Leixoes U23 (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="4jwq2ghnzeyym0v" tvg-name="Academico Viseu U23 vs Leixoes U23" tvg-logo="https://img.cdnok9.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png" group-title="[LIVE 23:30 WIB | 28/04/26] Academico Viseu U23 vs Leixoes U23",[LIVE 23:30 WIB | 28/04/26] Academico Viseu U23 vs Leixoes U23 (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="4wyrn4h6xz4wq86" tvg-name="Al Zulfi vs Al-Tai" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:10 WIB | 28/04/26] Al Zulfi vs Al-Tai",[LIVE 23:10 WIB | 28/04/26] Al Zulfi vs Al-Tai (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="4wyrn4h6xz4wq86" tvg-name="Al Zulfi vs Al-Tai" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:10 WIB | 28/04/26] Al Zulfi vs Al-Tai",[LIVE 23:10 WIB | 28/04/26] Al Zulfi vs Al-Tai (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
