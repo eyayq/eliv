@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.24 WIB 28/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.37 WIB 28/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="dj2ryohl18xdq1z" tvg-name="Sociedad Deportiva Aucas vs Delfin SC" tvg-logo="https://img.cdnok9.com/football/competition/0e046e806bd54b6ea05db95101f07401.png" group-title="[LIVE 07:00 WIB | 28/04/26] Sociedad Deportiva Aucas vs Delfin SC",[LIVE 07:00 WIB | 28/04/26] Sociedad Deportiva Aucas vs Delfin SC (Giàng A Páo)
+https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-id="dj2ryohl18xdq1z" tvg-name="Sociedad Deportiva Aucas vs Delfin SC" tvg-logo="https://img.cdnok9.com/football/competition/0e046e806bd54b6ea05db95101f07401.png" group-title="[LIVE 07:00 WIB | 28/04/26] Sociedad Deportiva Aucas vs Delfin SC",[LIVE 07:00 WIB | 28/04/26] Sociedad Deportiva Aucas vs Delfin SC (Giàng A Páo)
+https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="l7oqdehgolnjr51" tvg-name="Municipal Iquique vs Santiago Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/aceec74834933ff6528e7c792119261d.png" group-title="[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers",[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="l7oqdehgolnjr51" tvg-name="Municipal Iquique vs Santiago Wanderers" tvg-logo="https://img.cdnok9.com/football/competition/aceec74834933ff6528e7c792119261d.png" group-title="[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers",[LIVE 07:00 WIB | 28/04/26] Municipal Iquique vs Santiago Wanderers (GIÀNG A PHỆ )
@@ -21,7 +25,3 @@ https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4db
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="8yomo4h1670kq0j" tvg-name="Mount Pleasant FA vs Waterhouse FC" tvg-logo="https://img.cdnok9.com/football/competition/d606c7e2cd106ab4a57b64d48a323f67.png" group-title="[LIVE 07:30 WIB | 28/04/26] Mount Pleasant FA vs Waterhouse FC",[LIVE 07:30 WIB | 28/04/26] Mount Pleasant FA vs Waterhouse FC (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="dj2ryohl18xdq1z" tvg-name="Sociedad Deportiva Aucas vs Delfin SC" tvg-logo="https://img.cdnok9.com/football/competition/0e046e806bd54b6ea05db95101f07401.png" group-title="[LIVE 07:00 WIB | 28/04/26] Sociedad Deportiva Aucas vs Delfin SC",[LIVE 07:00 WIB | 28/04/26] Sociedad Deportiva Aucas vs Delfin SC (Giàng A Páo)
-https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="dj2ryohl18xdq1z" tvg-name="Sociedad Deportiva Aucas vs Delfin SC" tvg-logo="https://img.cdnok9.com/football/competition/0e046e806bd54b6ea05db95101f07401.png" group-title="[LIVE 07:00 WIB | 28/04/26] Sociedad Deportiva Aucas vs Delfin SC",[LIVE 07:00 WIB | 28/04/26] Sociedad Deportiva Aucas vs Delfin SC (Giàng A Páo)
-https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
