@@ -1,54 +1,54 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [23.14 WIB 28/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [23.23 WIB 28/04/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toolon-taisto-716aee.png" group-title="[LIVE 22:00 WIB 28/04/26] Toolon Taisto vs JaPS | Server 1",[LIVE 22:00 WIB 28/04/26] Toolon Taisto vs JaPS | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pakhtakor-d8e68e.webp" group-title="[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 1",[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1777396645-0-0-20b5dfebcee43595d9faaa13c5bdc37f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pakhtakor-d8e68e.webp" group-title="[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 2",[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1777396645-0-0-d32b9e3408833109d0e533574dc76333
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pakhtakor-d8e68e.webp" group-title="[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 3",[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1777396645-0-0-2931412a5ed8b2af74709cac427e82bc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pakhtakor-d8e68e.webp" group-title="[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 4",[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1777396645-0-0-d41e76d87140e666f9e9e09da821a5a6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 1",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1777396645-0-0-c88183c457ddca56a1538fb6da98c8f7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 2",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1777396645-0-0-dd40022740e9b98af6fbfd18e85de95e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 3",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1777396645-0-0-bb08249edcd3a19fab24bb463d595b2a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 4",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1777396645-0-0-e3be5080f0bd873919a72038ae2202a4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 5",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1777396645-0-0-f6d8a6f2df8a621cd7435cca5ee65a03
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 6",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1777396645-0-0-8bf434dc60f3836cd25ac19f7ee23f52
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 7",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-598119_lsd.m3u8?auth_key=1777396645-0-0-6cd87a1275bff4e32179c04ebb9b9fb7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 8",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1777396645-0-0-645c7a93629f77d500613d9c28663cad
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vps-vaasa-j-61a4bb.png" group-title="[LIVE 22:00 WIB 28/04/26] VPS Vaasa-J vs SJK Seinajoen | Server 1",[LIVE 22:00 WIB 28/04/26] VPS Vaasa-J vs SJK Seinajoen | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pakhtakor-d8e68e.webp" group-title="[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 1",[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1777396105-0-0-cbbcabbc673a1a706878eef7da93840e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pakhtakor-d8e68e.webp" group-title="[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 2",[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1777396105-0-0-2a4cc7a808229eb136c0bdb7cfc89954
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pakhtakor-d8e68e.webp" group-title="[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 3",[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1777396105-0-0-0cb3afa888025649f409bd65a2eb9d36
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/pakhtakor-d8e68e.webp" group-title="[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 4",[LIVE 22:00 WIB 28/04/26] Pakhtakor vs Nasaf Qarshi | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1777396105-0-0-62ba68d02836a4bdaa501838b5d31790
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 1",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1777396105-0-0-3732cd96e93110f0793cca4f897b631f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 2",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1777396105-0-0-ec7ccee113c42f0313d24db207cfe83c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 3",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1777396105-0-0-27d3e2a393523f36e623d228a23c3551
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 4",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1777396105-0-0-27bcfcda801d02af348b5a1234330c1c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 5",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-568233_lsd.m3u8?auth_key=1777396105-0-0-d213d645595603206748de2917356aa0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 6",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-568233_lhd.m3u8?auth_key=1777396105-0-0-925fbecc792571c69bb888af2aa1d442
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 7",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-598119_lsd.m3u8?auth_key=1777396105-0-0-505306faec55f51dc0db6eec35d16855
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-liepaja-1b401d.png" group-title="[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 8",[LIVE 22:00 WIB 28/04/26] FK Liepaja vs Grobina | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-598119_lhd.m3u8?auth_key=1777396105-0-0-ae1005f244083241f129870d82e439ed
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/salpa-42b018.png" group-title="[LIVE 22:00 WIB 28/04/26] SalPa vs TPS Turku | Server 1",[LIVE 22:00 WIB 28/04/26] SalPa vs TPS Turku | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/salpa-42b018.png" group-title="[LIVE 22:00 WIB 28/04/26] SalPa vs TPS Turku | Server 2",[LIVE 22:00 WIB 28/04/26] SalPa vs TPS Turku | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toolon-taisto-716aee.png" group-title="[LIVE 22:00 WIB 28/04/26] Toolon Taisto vs JaPS | Server 1",[LIVE 22:00 WIB 28/04/26] Toolon Taisto vs JaPS | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/union-plaani-31cfbe.png" group-title="[LIVE 22:30 WIB 28/04/26] Union Plaani vs Lahti | Server 1",[LIVE 22:30 WIB 28/04/26] Union Plaani vs Lahti | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
@@ -58,6 +58,66 @@ https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gbk-kokkola-dd2ce6.png" group-title="[LIVE 22:30 WIB 28/04/26] GBK Kokkola vs Jaro | Server 1",[LIVE 22:30 WIB 28/04/26] GBK Kokkola vs Jaro | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-bnei-sakhnin-fc-0fb2be.png" group-title="[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 1",[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1777396645-0-0-73f1dccd00b5b59741d96b65ef01f0b6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-bnei-sakhnin-fc-0fb2be.png" group-title="[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 2",[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1777396645-0-0-c5b6aaaa29ddad89c8a89b359da75a2f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-bnei-sakhnin-fc-0fb2be.png" group-title="[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 3",[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1777396645-0-0-19197cc91f7358eb347e47277ccbf007
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-bnei-sakhnin-fc-0fb2be.png" group-title="[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 4",[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1777396645-0-0-2500e17972dac4d8fd084fbcc1f196be
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 1",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1777396645-0-0-3ed7bd0ea88ec4d818df6223597f173d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 2",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1777396645-0-0-065bf8544d8bcca6172dcd918bbe7c17
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 3",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1777396645-0-0-91af8561ed979abd453647da1e28e664
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 4",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1777396645-0-0-dde42574815c171c9ffbdd1f6c648bfc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 5",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=b6530a5fa5abcca5102bd06a8348b89a&txTime=69f131f5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 6",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=ed840bf22a84390cee120f27bd5464c9&txTime=69f131f5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 7",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=61e5050f58d9d5efab60411eff6eddd4&txTime=69f131f5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 8",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=c24eee5cce95b96483c9b113b4e4bff3&txTime=69f131f5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 9",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1777396645-0-0-33587ac0451f4ab2e9068d92cc085910
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 10",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1777396645-0-0-b8634c97acfd6c2d7fdf0afbdc50bcf6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 11",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1777396645-0-0-24bacf3847194e58f1c1d0d756eabfc1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 12",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1777396645-0-0-b890a3a8adf1849ea073863fc0855da6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unics-kazan-1f78f6.webp" group-title="[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 1",[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777396645-0-0-07023d5edd89b35de22289914c19b681
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unics-kazan-1f78f6.webp" group-title="[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 2",[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777396645-0-0-789085c8aa9053183edf143d9b7258ea
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unics-kazan-1f78f6.webp" group-title="[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 3",[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1777396645-0-0-b938d9e7c5c48dff0d1076845c21468b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unics-kazan-1f78f6.webp" group-title="[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 4",[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1777396645-0-0-731e8d365a18e0345868af313b982fcc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-67fb86.png" group-title="[LIVE 23:00 WIB 28/04/26] Al-Shabab vs Al-Fateh | Server 1",[LIVE 23:00 WIB 28/04/26] Al-Shabab vs Al-Fateh | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
@@ -70,84 +130,30 @@ https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-67fb86.png" group-title="[LIVE 23:00 WIB 28/04/26] Al-Shabab vs Al-Fateh | Server 4",[LIVE 23:00 WIB 28/04/26] Al-Shabab vs Al-Fateh | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fm-klaipedos-4c6e0d.png" group-title="[LIVE 23:00 WIB 28/04/26] FM Klaipedos vs NFA Kaunas | Server 1",[LIVE 23:00 WIB 28/04/26] FM Klaipedos vs NFA Kaunas | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fm-klaipedos-4c6e0d.png" group-title="[LIVE 23:00 WIB 28/04/26] FM Klaipedos vs NFA Kaunas | Server 2",[LIVE 23:00 WIB 28/04/26] FM Klaipedos vs NFA Kaunas | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unics-kazan-1f78f6.webp" group-title="[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 1",[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1777396105-0-0-7451fd9285959e6881e036effd632e17
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unics-kazan-1f78f6.webp" group-title="[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 2",[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1777396105-0-0-6ad9beba9b2a257b3f49fac957d4eba3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unics-kazan-1f78f6.webp" group-title="[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 3",[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1777396105-0-0-18cde0b21bb34e689a2bf7d75b3f0d63
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/unics-kazan-1f78f6.webp" group-title="[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 4",[LIVE 23:00 WIB 28/04/26] Unics Kazan vs MBA Moscow | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1777396105-0-0-51841b4ad9f7552a54fcce942f734937
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 1",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1777396105-0-0-9f8124c079e70369f292c019e1a3cda5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 2",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1777396105-0-0-e519a8954d41127c69603652024ec60c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 3",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=80bc7df5cfebe661cb5deb8d7bdc1b19&txTime=69f12fd9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 4",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=6acdee725147df786f3b181a93e14ae9&txTime=69f12fd9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 5",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1777396105-0-0-5e7d3d58760c0ca5502fbf751ffb3662
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 6",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1777396105-0-0-1c4f12923fa07447f65ac4579c8b273a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 7",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=1095ce93d498c71dc7b173cb28976b07&txTime=69f12fd9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 8",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=4ee9f66e143d727b3c0c2d0490199f94&txTime=69f12fd9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 9",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1777396105-0-0-ad1bebdca53a2a0fe6e24771bfd65173
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 10",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1777396105-0-0-98c60926a6ea7451ff5ef7afa3c4c0b5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 11",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1777396105-0-0-d455b3bf28f05ba7970cbdf7b00890f0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-shabab-fc-bfa757.webp" group-title="[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 12",[LIVE 23:00 WIB 28/04/26] Al Shabab FC vs Al Fateh SC | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1777396105-0-0-5e2c3f1c619203bb298ae83057a0b76f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-bnei-sakhnin-fc-0fb2be.png" group-title="[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 1",[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1777396105-0-0-fb560c3aa6bba204886bf7643d77ddd8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-bnei-sakhnin-fc-0fb2be.png" group-title="[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 2",[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1777396105-0-0-750b088e2533cf278e0a52234381dfbe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-bnei-sakhnin-fc-0fb2be.png" group-title="[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 3",[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1777396105-0-0-d227d56ed9ff5b5577ba70cdfe18371a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-bnei-sakhnin-fc-0fb2be.png" group-title="[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 4",[LIVE 23:00 WIB 28/04/26] Hapoel Bnei Sakhnin FC vs Ashdod MS | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1777396105-0-0-eb5f5e2851e9616252cefbd5c370c71c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-zulfi-997cfc.png" group-title="[LIVE 23:10 WIB 28/04/26] Al Zulfi vs Al-Tai | Server 1",[LIVE 23:10 WIB 28/04/26] Al Zulfi vs Al-Tai | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1777396105-0-0-c7b082d0df4b4bcf4b9a5d97f9b231cf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1777396645-0-0-738b7f36ca61d7d6039c5a6717f3cf17
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-zulfi-997cfc.png" group-title="[LIVE 23:10 WIB 28/04/26] Al Zulfi vs Al-Tai | Server 2",[LIVE 23:10 WIB 28/04/26] Al Zulfi vs Al-Tai | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1777396105-0-0-7f3a2ab5f951b08efdb232c0baf012e4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1777396645-0-0-951df7806577cd968894bda19dbf6277
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-zulfi-997cfc.png" group-title="[LIVE 23:10 WIB 28/04/26] Al Zulfi vs Al-Tai | Server 3",[LIVE 23:10 WIB 28/04/26] Al Zulfi vs Al-Tai | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1777396105-0-0-73b60009a8732e5a1c5d61f5a41e72fc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1777396645-0-0-a3e48e4e84bc48dbccbdf4a9f7ab8a43
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-zulfi-997cfc.png" group-title="[LIVE 23:10 WIB 28/04/26] Al Zulfi vs Al-Tai | Server 4",[LIVE 23:10 WIB 28/04/26] Al Zulfi vs Al-Tai | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1777396105-0-0-08e8f11514254bdf636c770f937fcdf3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1777396645-0-0-a1383bd56b8132d044503cf13faeef48
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-zlfe-762e50.png" group-title="[LIVE 23:10 WIB 28/04/26] Al-Zlfe vs Al Tai | Server 1",[LIVE 23:10 WIB 28/04/26] Al-Zlfe vs Al Tai | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maccabi-tel-aviv-c4b2e2.png" group-title="[LIVE 23:30 WIB 28/04/26] Maccabi Tel Aviv vs Hapoel Beer Sheva | Server 1",[LIVE 23:30 WIB 28/04/26] Maccabi Tel Aviv vs Hapoel Beer Sheva | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1777396645-0-0-b654c550aab0de8a0726a6cfde5c3a04
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maccabi-tel-aviv-c4b2e2.png" group-title="[LIVE 23:30 WIB 28/04/26] Maccabi Tel Aviv vs Hapoel Beer Sheva | Server 2",[LIVE 23:30 WIB 28/04/26] Maccabi Tel Aviv vs Hapoel Beer Sheva | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1777396645-0-0-fd0838584e7bfd133ec3b84adb86a7da
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maccabi-tel-aviv-c4b2e2.png" group-title="[LIVE 23:30 WIB 28/04/26] Maccabi Tel Aviv vs Hapoel Beer Sheva | Server 3",[LIVE 23:30 WIB 28/04/26] Maccabi Tel Aviv vs Hapoel Beer Sheva | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1777396645-0-0-f99b6d37f24a687c2f151abef0a95b2f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/maccabi-tel-aviv-c4b2e2.png" group-title="[LIVE 23:30 WIB 28/04/26] Maccabi Tel Aviv vs Hapoel Beer Sheva | Server 4",[LIVE 23:30 WIB 28/04/26] Maccabi Tel Aviv vs Hapoel Beer Sheva | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1777396645-0-0-3678c9fcf9ae390ff03b80c285d8a1b9
