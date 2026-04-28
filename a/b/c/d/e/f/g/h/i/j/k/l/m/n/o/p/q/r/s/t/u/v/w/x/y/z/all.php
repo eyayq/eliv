@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.40 WIB 29/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.48 WIB 29/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Giàng A Sếu)
@@ -25,18 +25,6 @@ https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d9
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="k82rekhgepd1rep" tvg-name="Paris Saint Germain vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich",[LIVE 02:00 WIB | 29/04/26] Paris Saint Germain vs FC Bayern Munich (Giàng A Chiến)
 https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="1l4rjnh9egy0m7v" tvg-name="Al Hilal vs Damac" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac",[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac (Giàng A Kê)
-https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="1l4rjnh9egy0m7v" tvg-name="Al Hilal vs Damac" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac",[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac (Giàng A Kê)
-https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="1l4rjnh9egy0m7v" tvg-name="Al Hilal vs Damac" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac",[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="1l4rjnh9egy0m7v" tvg-name="Al Hilal vs Damac" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac",[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="x7lm7phjz8odm2w" tvg-name="MC Alger vs Olympique Akbou" tvg-logo="https://img.cdnok9.com/football/competition/44928d98d868f3becebc46845ee9e49f.png" group-title="[LIVE 02:00 WIB | 29/04/26] MC Alger vs Olympique Akbou",[LIVE 02:00 WIB | 29/04/26] MC Alger vs Olympique Akbou (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="x7lm7phjz8odm2w" tvg-name="MC Alger vs Olympique Akbou" tvg-logo="https://img.cdnok9.com/football/competition/44928d98d868f3becebc46845ee9e49f.png" group-title="[LIVE 02:00 WIB | 29/04/26] MC Alger vs Olympique Akbou",[LIVE 02:00 WIB | 29/04/26] MC Alger vs Olympique Akbou (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="y39mp1h6587zmoj" tvg-name="Stockport County vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="[LIVE 01:45 WIB | 29/04/26] Stockport County vs Port Vale",[LIVE 01:45 WIB | 29/04/26] Stockport County vs Port Vale (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="y39mp1h6587zmoj" tvg-name="Stockport County vs Port Vale" tvg-logo="https://img.cdnok9.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="[LIVE 01:45 WIB | 29/04/26] Stockport County vs Port Vale",[LIVE 01:45 WIB | 29/04/26] Stockport County vs Port Vale (Giàng A Long)
@@ -57,6 +45,14 @@ https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="n54qllhn3v0lqvy" tvg-name="JFC Helsinki vs HIFK" tvg-logo="https://img.cdnok9.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png" group-title="[LIVE 01:00 WIB | 29/04/26] JFC Helsinki vs HIFK",[LIVE 01:00 WIB | 29/04/26] JFC Helsinki vs HIFK (Giàng A Sún)
 https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="1l4rjnh9egy0m7v" tvg-name="Al Hilal vs Damac" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac",[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac (Giàng A Kê)
+https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="1l4rjnh9egy0m7v" tvg-name="Al Hilal vs Damac" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac",[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac (Giàng A Kê)
+https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="1l4rjnh9egy0m7v" tvg-name="Al Hilal vs Damac" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac",[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="1l4rjnh9egy0m7v" tvg-name="Al Hilal vs Damac" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac",[LIVE 01:00 WIB | 29/04/26] Al Hilal vs Damac (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="l5ergph4w0e7r8k" tvg-name="Al Bukayriyah vs Jeddah Sports Club" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 00:50 WIB | 29/04/26] Al Bukayriyah vs Jeddah Sports Club",[LIVE 00:50 WIB | 29/04/26] Al Bukayriyah vs Jeddah Sports Club (PHONG VÂN)
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="l5ergph4w0e7r8k" tvg-name="Al Bukayriyah vs Jeddah Sports Club" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 00:50 WIB | 29/04/26] Al Bukayriyah vs Jeddah Sports Club",[LIVE 00:50 WIB | 29/04/26] Al Bukayriyah vs Jeddah Sports Club (PHONG VÂN)
@@ -65,3 +61,7 @@ https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad4
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="vjxm8ghe7g0nr6o" tvg-name="AD Fafe vs SC São João de Ver" tvg-logo="https://img.cdnok9.com/football/competition/1eeed5cc6cb5d265da8998024bedcb13.png" group-title="[LIVE 02:00 WIB | 29/04/26] AD Fafe vs SC São João de Ver",[LIVE 02:00 WIB | 29/04/26] AD Fafe vs SC São João de Ver (GIÀNG A PHỆ )
 https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="x7lm7phjz8odm2w" tvg-name="MC Alger vs Olympique Akbou" tvg-logo="https://img.cdnok9.com/football/competition/44928d98d868f3becebc46845ee9e49f.png" group-title="[LIVE 02:00 WIB | 29/04/26] MC Alger vs Olympique Akbou",[LIVE 02:00 WIB | 29/04/26] MC Alger vs Olympique Akbou (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="x7lm7phjz8odm2w" tvg-name="MC Alger vs Olympique Akbou" tvg-logo="https://img.cdnok9.com/football/competition/44928d98d868f3becebc46845ee9e49f.png" group-title="[LIVE 02:00 WIB | 29/04/26] MC Alger vs Olympique Akbou",[LIVE 02:00 WIB | 29/04/26] MC Alger vs Olympique Akbou (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
