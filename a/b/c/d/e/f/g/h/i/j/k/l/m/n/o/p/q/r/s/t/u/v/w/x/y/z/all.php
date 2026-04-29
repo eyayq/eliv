@@ -1,26 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.08 WIB 30/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.18 WIB 30/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="jw2r09hk3d9vrz8" tvg-name="Al-Ahli(Manama) vs Al-Riffa" tvg-logo="https://img.cdnok9.com/football/competition/7cc4e152c3bd41bc7f6658cc6ef88eae.png" group-title="[LIVE 23:00 WIB | 29/04/26] Al-Ahli(Manama) vs Al-Riffa",[LIVE 23:00 WIB | 29/04/26] Al-Ahli(Manama) vs Al-Riffa (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="jw2r09hk3d9vrz8" tvg-name="Al-Ahli(Manama) vs Al-Riffa" tvg-logo="https://img.cdnok9.com/football/competition/7cc4e152c3bd41bc7f6658cc6ef88eae.png" group-title="[LIVE 23:00 WIB | 29/04/26] Al-Ahli(Manama) vs Al-Riffa",[LIVE 23:00 WIB | 29/04/26] Al-Ahli(Manama) vs Al-Riffa (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="y0or5jh835ldqwz" tvg-name="Werder Bremen Women vs Bayern Munchen Women" tvg-logo="https://img.cdnok9.com/football/competition/c56fab654754907a2937799af0d26d87.png" group-title="[LIVE 23:00 WIB | 29/04/26] Werder Bremen Women vs Bayern Munchen Women",[LIVE 23:00 WIB | 29/04/26] Werder Bremen Women vs Bayern Munchen Women (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="y0or5jh835ldqwz" tvg-name="Werder Bremen Women vs Bayern Munchen Women" tvg-logo="https://img.cdnok9.com/football/competition/c56fab654754907a2937799af0d26d87.png" group-title="[LIVE 23:00 WIB | 29/04/26] Werder Bremen Women vs Bayern Munchen Women",[LIVE 23:00 WIB | 29/04/26] Werder Bremen Women vs Bayern Munchen Women (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="vjxm8ghe0yzdr6o" tvg-name="EIF Academy vs FC Haka" tvg-logo="https://img.cdnok9.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png" group-title="[LIVE 23:00 WIB | 29/04/26] EIF Academy vs FC Haka",[LIVE 23:00 WIB | 29/04/26] EIF Academy vs FC Haka (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="vjxm8ghe0yzdr6o" tvg-name="EIF Academy vs FC Haka" tvg-logo="https://img.cdnok9.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png" group-title="[LIVE 23:00 WIB | 29/04/26] EIF Academy vs FC Haka",[LIVE 23:00 WIB | 29/04/26] EIF Academy vs FC Haka (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (Giàng A Hổ)
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (Giàng A Hổ)
 https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="3glrw7hn9260qdy" tvg-name="Hapoel Kiryat Shmona vs Maccabi Netanya" tvg-logo="https://img.cdnok9.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png" group-title="[LIVE 23:00 WIB | 29/04/26] Hapoel Kiryat Shmona vs Maccabi Netanya",[LIVE 23:00 WIB | 29/04/26] Hapoel Kiryat Shmona vs Maccabi Netanya (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="3glrw7hn9260qdy" tvg-name="Hapoel Kiryat Shmona vs Maccabi Netanya" tvg-logo="https://img.cdnok9.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png" group-title="[LIVE 23:00 WIB | 29/04/26] Hapoel Kiryat Shmona vs Maccabi Netanya",[LIVE 23:00 WIB | 29/04/26] Hapoel Kiryat Shmona vs Maccabi Netanya (GIÀNG A MIKE)
@@ -53,10 +41,6 @@ https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="1l4rjnh9e903m7v" tvg-name="Nantes Women vs OL Lyonnes Women" tvg-logo="https://img.cdnok9.com/football/competition/4969033db890a0372563bfec7a06f4f7.png" group-title="[LIVE 00:00 WIB | 30/04/26] Nantes Women vs OL Lyonnes Women",[LIVE 00:00 WIB | 30/04/26] Nantes Women vs OL Lyonnes Women (GIÀNG A MÂY)
 https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="4wyrn4h658e3q86" tvg-name="Alternatyvus FK vs FK Garliava" tvg-logo="https://img.cdnok9.com/football/competition/8ef356643795845570e77cca1269ade4.png" group-title="[LIVE 00:00 WIB | 30/04/26] Alternatyvus FK vs FK Garliava",[LIVE 00:00 WIB | 30/04/26] Alternatyvus FK vs FK Garliava (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="4wyrn4h658e3q86" tvg-name="Alternatyvus FK vs FK Garliava" tvg-logo="https://img.cdnok9.com/football/competition/8ef356643795845570e77cca1269ade4.png" group-title="[LIVE 00:00 WIB | 30/04/26] Alternatyvus FK vs FK Garliava",[LIVE 00:00 WIB | 30/04/26] Alternatyvus FK vs FK Garliava (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="y39mp1h60y5zmoj" tvg-name="Tromso IL vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 30/04/26] Tromso IL vs Brann",[LIVE 00:00 WIB | 30/04/26] Tromso IL vs Brann (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="y39mp1h60y5zmoj" tvg-name="Tromso IL vs Brann" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 00:00 WIB | 30/04/26] Tromso IL vs Brann",[LIVE 00:00 WIB | 30/04/26] Tromso IL vs Brann (Giàng A Kê)
@@ -73,15 +57,27 @@ https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="2y8m4zh57yn8ql0" tvg-name="Hapoel Tel Aviv vs Maccabi Haifa" tvg-logo="https://img.cdnok9.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png" group-title="[LIVE 23:30 WIB | 29/04/26] Hapoel Tel Aviv vs Maccabi Haifa",[LIVE 23:30 WIB | 29/04/26] Hapoel Tel Aviv vs Maccabi Haifa (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="vjxm8ghe5p89r6o" tvg-name="Inter Turku vs HJK Helsinki" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 29/04/26] Inter Turku vs HJK Helsinki",[LIVE 23:00 WIB | 29/04/26] Inter Turku vs HJK Helsinki (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="vjxm8ghe5p89r6o" tvg-name="Inter Turku vs HJK Helsinki" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 29/04/26] Inter Turku vs HJK Helsinki",[LIVE 23:00 WIB | 29/04/26] Inter Turku vs HJK Helsinki (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="jw2r09hk3d9vrz8" tvg-name="Al-Ahli(Manama) vs Al-Riffa" tvg-logo="https://img.cdnok9.com/football/competition/7cc4e152c3bd41bc7f6658cc6ef88eae.png" group-title="[LIVE 23:00 WIB | 29/04/26] Al-Ahli(Manama) vs Al-Riffa",[LIVE 23:00 WIB | 29/04/26] Al-Ahli(Manama) vs Al-Riffa (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="jw2r09hk3d9vrz8" tvg-name="Al-Ahli(Manama) vs Al-Riffa" tvg-logo="https://img.cdnok9.com/football/competition/7cc4e152c3bd41bc7f6658cc6ef88eae.png" group-title="[LIVE 23:00 WIB | 29/04/26] Al-Ahli(Manama) vs Al-Riffa",[LIVE 23:00 WIB | 29/04/26] Al-Ahli(Manama) vs Al-Riffa (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="y0or5jh835ldqwz" tvg-name="Werder Bremen Women vs Bayern Munchen Women" tvg-logo="https://img.cdnok9.com/football/competition/c56fab654754907a2937799af0d26d87.png" group-title="[LIVE 23:00 WIB | 29/04/26] Werder Bremen Women vs Bayern Munchen Women",[LIVE 23:00 WIB | 29/04/26] Werder Bremen Women vs Bayern Munchen Women (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="y0or5jh835ldqwz" tvg-name="Werder Bremen Women vs Bayern Munchen Women" tvg-logo="https://img.cdnok9.com/football/competition/c56fab654754907a2937799af0d26d87.png" group-title="[LIVE 23:00 WIB | 29/04/26] Werder Bremen Women vs Bayern Munchen Women",[LIVE 23:00 WIB | 29/04/26] Werder Bremen Women vs Bayern Munchen Women (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="vjxm8ghe0yzdr6o" tvg-name="EIF Academy vs FC Haka" tvg-logo="https://img.cdnok9.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png" group-title="[LIVE 23:00 WIB | 29/04/26] EIF Academy vs FC Haka",[LIVE 23:00 WIB | 29/04/26] EIF Academy vs FC Haka (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="vjxm8ghe0yzdr6o" tvg-name="EIF Academy vs FC Haka" tvg-logo="https://img.cdnok9.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png" group-title="[LIVE 23:00 WIB | 29/04/26] EIF Academy vs FC Haka",[LIVE 23:00 WIB | 29/04/26] EIF Academy vs FC Haka (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
