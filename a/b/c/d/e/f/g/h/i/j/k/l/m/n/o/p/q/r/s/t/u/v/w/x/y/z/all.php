@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.41 WIB 29/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.50 WIB 29/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="x7lm7phj368zm2w" tvg-name="RB Omiya Ardija vs Ventforet Kofu" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 12:00 WIB | 29/04/26] RB Omiya Ardija vs Ventforet Kofu",[LIVE 12:00 WIB | 29/04/26] RB Omiya Ardija vs Ventforet Kofu (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="x7lm7phj368zm2w" tvg-name="RB Omiya Ardija vs Ventforet Kofu" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 12:00 WIB | 29/04/26] RB Omiya Ardija vs Ventforet Kofu",[LIVE 12:00 WIB | 29/04/26] RB Omiya Ardija vs Ventforet Kofu (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="4wyrn4h6o2w0q86" tvg-name="Tokyo Verdy vs Kashima Antlers" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 29/04/26] Tokyo Verdy vs Kashima Antlers",[LIVE 11:00 WIB | 29/04/26] Tokyo Verdy vs Kashima Antlers (Giàng A Mèo)
-https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="4wyrn4h6o2w0q86" tvg-name="Tokyo Verdy vs Kashima Antlers" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 29/04/26] Tokyo Verdy vs Kashima Antlers",[LIVE 11:00 WIB | 29/04/26] Tokyo Verdy vs Kashima Antlers (Giàng A Mèo)
-https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="n54qllhnp1geqvy" tvg-name="Shimizu S-Pulse vs V-Varen Nagasaki" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 29/04/26] Shimizu S-Pulse vs V-Varen Nagasaki",[LIVE 11:00 WIB | 29/04/26] Shimizu S-Pulse vs V-Varen Nagasaki (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="n54qllhnp1geqvy" tvg-name="Shimizu S-Pulse vs V-Varen Nagasaki" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 29/04/26] Shimizu S-Pulse vs V-Varen Nagasaki",[LIVE 11:00 WIB | 29/04/26] Shimizu S-Pulse vs V-Varen Nagasaki (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="69f18e68cf33c5372506aaba" tvg-name="Paris Saint-Germain vs Bayern Munich  " tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 17m | 29/04/26] Paris Saint-Germain vs Bayern Munich  ",[UPCO 23:59 WIB | 11j 17m | 29/04/26] Paris Saint-Germain vs Bayern Munich   (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69f18e68cf33c5372506aaba" tvg-name="Paris Saint-Germain vs Bayern Munich  " tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 8m | 29/04/26] Paris Saint-Germain vs Bayern Munich  ",[UPCO 23:59 WIB | 11j 8m | 29/04/26] Paris Saint-Germain vs Bayern Munich   (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69f18e68cf33c5372506aaba" tvg-name="Paris Saint-Germain vs Bayern Munich  " tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 17m | 29/04/26] Paris Saint-Germain vs Bayern Munich  ",[UPCO 23:59 WIB | 11j 17m | 29/04/26] Paris Saint-Germain vs Bayern Munich   (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69f18e68cf33c5372506aaba" tvg-name="Paris Saint-Germain vs Bayern Munich  " tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 8m | 29/04/26] Paris Saint-Germain vs Bayern Munich  ",[UPCO 23:59 WIB | 11j 8m | 29/04/26] Paris Saint-Germain vs Bayern Munich   (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
 #EXTINF:-1 tvg-id="dj2ryohleo1xq1z" tvg-name="Kataller Toyama vs Albirex Niigata" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 12:00 WIB | 29/04/26] Kataller Toyama vs Albirex Niigata",[LIVE 12:00 WIB | 29/04/26] Kataller Toyama vs Albirex Niigata (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
@@ -41,7 +29,19 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="k82rekhg06e3rep" tvg-name="JEF United Ichihara Chiba vs Yokohama F. Marinos" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 29/04/26] JEF United Ichihara Chiba vs Yokohama F. Marinos",[LIVE 12:00 WIB | 29/04/26] JEF United Ichihara Chiba vs Yokohama F. Marinos (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="69f193774b00bd9963c280b8" tvg-name="Paris Saint-Germain - Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 17m | 29/04/26] Paris Saint-Germain - Bayern Munich",[UPCO 23:59 WIB | 11j 17m | 29/04/26] Paris Saint-Germain - Bayern Munich (Giàng A Gấu)
+#EXTINF:-1 tvg-id="x7lm7phj368zm2w" tvg-name="RB Omiya Ardija vs Ventforet Kofu" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 12:00 WIB | 29/04/26] RB Omiya Ardija vs Ventforet Kofu",[LIVE 12:00 WIB | 29/04/26] RB Omiya Ardija vs Ventforet Kofu (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="x7lm7phj368zm2w" tvg-name="RB Omiya Ardija vs Ventforet Kofu" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 12:00 WIB | 29/04/26] RB Omiya Ardija vs Ventforet Kofu",[LIVE 12:00 WIB | 29/04/26] RB Omiya Ardija vs Ventforet Kofu (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="4wyrn4h6o2w0q86" tvg-name="Tokyo Verdy vs Kashima Antlers" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 29/04/26] Tokyo Verdy vs Kashima Antlers",[LIVE 11:00 WIB | 29/04/26] Tokyo Verdy vs Kashima Antlers (Giàng A Mèo)
+https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="4wyrn4h6o2w0q86" tvg-name="Tokyo Verdy vs Kashima Antlers" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 29/04/26] Tokyo Verdy vs Kashima Antlers",[LIVE 11:00 WIB | 29/04/26] Tokyo Verdy vs Kashima Antlers (Giàng A Mèo)
+https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="n54qllhnp1geqvy" tvg-name="Shimizu S-Pulse vs V-Varen Nagasaki" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 29/04/26] Shimizu S-Pulse vs V-Varen Nagasaki",[LIVE 11:00 WIB | 29/04/26] Shimizu S-Pulse vs V-Varen Nagasaki (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="n54qllhnp1geqvy" tvg-name="Shimizu S-Pulse vs V-Varen Nagasaki" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 11:00 WIB | 29/04/26] Shimizu S-Pulse vs V-Varen Nagasaki",[LIVE 11:00 WIB | 29/04/26] Shimizu S-Pulse vs V-Varen Nagasaki (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="69f193774b00bd9963c280b8" tvg-name="Paris Saint-Germain - Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 8m | 29/04/26] Paris Saint-Germain - Bayern Munich",[UPCO 23:59 WIB | 11j 8m | 29/04/26] Paris Saint-Germain - Bayern Munich (Giàng A Gấu)
 https://hls.686868.me/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="69f193774b00bd9963c280b8" tvg-name="Paris Saint-Germain - Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 17m | 29/04/26] Paris Saint-Germain - Bayern Munich",[UPCO 23:59 WIB | 11j 17m | 29/04/26] Paris Saint-Germain - Bayern Munich (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69f193774b00bd9963c280b8" tvg-name="Paris Saint-Germain - Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 8m | 29/04/26] Paris Saint-Germain - Bayern Munich",[UPCO 23:59 WIB | 11j 8m | 29/04/26] Paris Saint-Germain - Bayern Munich (Giàng A Gấu)
 https://flv.686868.me/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
