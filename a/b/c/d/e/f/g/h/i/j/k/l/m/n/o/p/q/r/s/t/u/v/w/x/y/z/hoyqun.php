@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [07:30 WIB 29/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [07:30 WIB 29/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [07:38 WIB 29/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [07:38 WIB 29/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[03:00 WIB 29/04/26] Alexander Zverev vs Jakub Mensik [FHD] [LIVE]
