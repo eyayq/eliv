@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [07.53 WIB 29/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [08.01 WIB 29/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="y39mp1h6ogl4moj" tvg-name="Nashville vs Tigres UANL" tvg-logo="https://img.cdnok9.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png" group-title="[UPCO 08:30 WIB | 36m | 29/04/26] Nashville vs Tigres UANL",[UPCO 08:30 WIB | 36m | 29/04/26] Nashville vs Tigres UANL (Giàng A Mèo)
-https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="y39mp1h6ogl4moj" tvg-name="Nashville vs Tigres UANL" tvg-logo="https://img.cdnok9.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png" group-title="[UPCO 08:30 WIB | 36m | 29/04/26] Nashville vs Tigres UANL",[UPCO 08:30 WIB | 36m | 29/04/26] Nashville vs Tigres UANL (Giàng A Mèo)
-https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="y39mp1h6dlj5moj" tvg-name="Barracas Central vs Audax Italiano" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 07:00 WIB | 29/04/26] Barracas Central vs Audax Italiano",[LIVE 07:00 WIB | 29/04/26] Barracas Central vs Audax Italiano (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="y39mp1h6dlj5moj" tvg-name="Barracas Central vs Audax Italiano" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 07:00 WIB | 29/04/26] Barracas Central vs Audax Italiano",[LIVE 07:00 WIB | 29/04/26] Barracas Central vs Audax Italiano (Giàng A Voi)
@@ -13,11 +9,11 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="vjxm8ghek13gr6o" tvg-name="Universidad Central de Venezuela vs Rosario Central" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 07:00 WIB | 29/04/26] Universidad Central de Venezuela vs Rosario Central",[LIVE 07:00 WIB | 29/04/26] Universidad Central de Venezuela vs Rosario Central (Giàng A Ka)
 https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="ednm9whwo1yjryo" tvg-name="Charlotte FC vs Atlanta United" tvg-logo="https://img.cdnok9.com/football/competition/f19f3bb4b5331e66ba4c724f902c9ecb.png" group-title="[LIVE 06:00 WIB | 29/04/26] Charlotte FC vs Atlanta United",[LIVE 06:00 WIB | 29/04/26] Charlotte FC vs Atlanta United (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="ednm9whwo1yjryo" tvg-name="Charlotte FC vs Atlanta United" tvg-logo="https://img.cdnok9.com/football/competition/f19f3bb4b5331e66ba4c724f902c9ecb.png" group-title="[LIVE 06:00 WIB | 29/04/26] Charlotte FC vs Atlanta United",[LIVE 06:00 WIB | 29/04/26] Charlotte FC vs Atlanta United (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="965mkyhk8v77r1g" tvg-name="Millonarios vs São Paulo - SP" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 07:30 WIB | 29/04/26] Millonarios vs São Paulo - SP",[LIVE 07:30 WIB | 29/04/26] Millonarios vs São Paulo - SP (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="965mkyhk8v77r1g" tvg-name="Millonarios vs São Paulo - SP" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 07:30 WIB | 29/04/26] Millonarios vs São Paulo - SP",[LIVE 07:30 WIB | 29/04/26] Millonarios vs São Paulo - SP (Lữ Bố (Giàng Phụng Tiên))
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="y39mp1h6ogl4moj" tvg-name="Nashville vs Tigres UANL" tvg-logo="https://img.cdnok9.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png" group-title="[UPCO 08:30 WIB | 28m | 29/04/26] Nashville vs Tigres UANL",[UPCO 08:30 WIB | 28m | 29/04/26] Nashville vs Tigres UANL (Giàng A Mèo)
+https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="y39mp1h6ogl4moj" tvg-name="Nashville vs Tigres UANL" tvg-logo="https://img.cdnok9.com/football/competition/8ac65db4e291e627ff63c21397d8b577.png" group-title="[UPCO 08:30 WIB | 28m | 29/04/26] Nashville vs Tigres UANL",[UPCO 08:30 WIB | 28m | 29/04/26] Nashville vs Tigres UANL (Giàng A Mèo)
+https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
