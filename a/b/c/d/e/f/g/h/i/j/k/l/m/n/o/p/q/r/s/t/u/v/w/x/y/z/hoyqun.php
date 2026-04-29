@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:44 WIB 29/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:44 WIB 29/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:55 WIB 29/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:55 WIB 29/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[21:00 WIB 29/04/26] Jannik Sinner vs Rafael Jodar [FHD] [LIVE]
@@ -56,13 +56,13 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 29/04/26] Al Taawon vs Al-Ittihad FC [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[00:00 WIB 30/04/26] Tromso vs Brann [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[00:00 WIB 30/04/26] Tromso vs Brann [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[00:00 WIB 30/04/26] Tromso vs Brann [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[00:00 WIB 30/04/26] Tromso vs Brann [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[00:00 WIB 30/04/26] Tromso vs Brann [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[00:00 WIB 30/04/26] Tromso vs Brann [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 30/04/26] Al-Nassr vs Al-Ahli Jeddah [FHD] [NANTIKAN]
