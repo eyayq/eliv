@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [20.26 WIB 29/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [20.28 WIB 29/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="n54qllhnzoglqvy" tvg-name="Rayong FC vs Buriram United" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United",[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="n54qllhnzoglqvy" tvg-name="Rayong FC vs Buriram United" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United",[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="n54qllhnzoglqvy" tvg-name="Rayong FC vs Buriram United" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United",[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="n54qllhnzoglqvy" tvg-name="Rayong FC vs Buriram United" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United",[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="n54qllhnzoglqvy" tvg-name="Rayong FC vs Buriram United" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United",[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="n54qllhnzoglqvy" tvg-name="Rayong FC vs Buriram United" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United",[LIVE 19:00 WIB | 29/04/26] Rayong FC vs Buriram United (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="zp5rzghgpv1kq82" tvg-name="Dewa United FC vs Persatuan Sepakbola Indonesia Jepara" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:00 WIB | 29/04/26] Dewa United FC vs Persatuan Sepakbola Indonesia Jepara",[LIVE 19:00 WIB | 29/04/26] Dewa United FC vs Persatuan Sepakbola Indonesia Jepara (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="zp5rzghgpv1kq82" tvg-name="Dewa United FC vs Persatuan Sepakbola Indonesia Jepara" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:00 WIB | 29/04/26] Dewa United FC vs Persatuan Sepakbola Indonesia Jepara",[LIVE 19:00 WIB | 29/04/26] Dewa United FC vs Persatuan Sepakbola Indonesia Jepara (VĂN VỞ)
@@ -37,15 +37,15 @@ https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="23xmvkh6lv9yqg8" tvg-name="FC Astana vs Tobol Kostanai" tvg-logo="https://img.cdnok9.com/football/competition/3da730dd9fcdd1805a5e384bb84e21bf.png" group-title="[LIVE 20:00 WIB | 29/04/26] FC Astana vs Tobol Kostanai",[LIVE 20:00 WIB | 29/04/26] FC Astana vs Tobol Kostanai (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="69f193774b00bd9963c280b8" tvg-name="Paris Saint-Germain - Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 32m | 29/04/26] Paris Saint-Germain - Bayern Munich",[UPCO 23:59 WIB | 3j 32m | 29/04/26] Paris Saint-Germain - Bayern Munich (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69f193774b00bd9963c280b8" tvg-name="Paris Saint-Germain - Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 29m | 29/04/26] Paris Saint-Germain - Bayern Munich",[UPCO 23:59 WIB | 3j 29m | 29/04/26] Paris Saint-Germain - Bayern Munich (Giàng A Gấu)
 https://hls.686868.me/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="69f193774b00bd9963c280b8" tvg-name="Paris Saint-Germain - Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 32m | 29/04/26] Paris Saint-Germain - Bayern Munich",[UPCO 23:59 WIB | 3j 32m | 29/04/26] Paris Saint-Germain - Bayern Munich (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69f193774b00bd9963c280b8" tvg-name="Paris Saint-Germain - Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 3j 29m | 29/04/26] Paris Saint-Germain - Bayern Munich",[UPCO 23:59 WIB | 3j 29m | 29/04/26] Paris Saint-Germain - Bayern Munich (Giàng A Gấu)
 https://flv.686868.me/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
 #EXTINF:-1 tvg-id="69f193774b00bd9963c280b8" tvg-name="Paris Saint-Germain - Bayern Munich" tvg-logo="" group-title="[LIVE 18:53 WIB | 29/04/26] El Gounah vs Haras El Hodood",[LIVE 18:53 WIB | 29/04/26] El Gounah vs Haras El Hodood (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="69f193774b00bd9963c280b8" tvg-name="Paris Saint-Germain - Bayern Munich" tvg-logo="" group-title="[LIVE 18:53 WIB | 29/04/26] El Gounah vs Haras El Hodood",[LIVE 18:53 WIB | 29/04/26] El Gounah vs Haras El Hodood (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="8yomo4h138o4q0j" tvg-name="Qizilqum Zarafshon vs Xorazm Urganch" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[UPCO 21:00 WIB | 33m | 29/04/26] Qizilqum Zarafshon vs Xorazm Urganch",[UPCO 21:00 WIB | 33m | 29/04/26] Qizilqum Zarafshon vs Xorazm Urganch (Giàng A Rùa)
+#EXTINF:-1 tvg-id="8yomo4h138o4q0j" tvg-name="Qizilqum Zarafshon vs Xorazm Urganch" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[UPCO 21:00 WIB | 30m | 29/04/26] Qizilqum Zarafshon vs Xorazm Urganch",[UPCO 21:00 WIB | 30m | 29/04/26] Qizilqum Zarafshon vs Xorazm Urganch (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="8yomo4h138o4q0j" tvg-name="Qizilqum Zarafshon vs Xorazm Urganch" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[UPCO 21:00 WIB | 33m | 29/04/26] Qizilqum Zarafshon vs Xorazm Urganch",[UPCO 21:00 WIB | 33m | 29/04/26] Qizilqum Zarafshon vs Xorazm Urganch (Giàng A Rùa)
+#EXTINF:-1 tvg-id="8yomo4h138o4q0j" tvg-name="Qizilqum Zarafshon vs Xorazm Urganch" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[UPCO 21:00 WIB | 30m | 29/04/26] Qizilqum Zarafshon vs Xorazm Urganch",[UPCO 21:00 WIB | 30m | 29/04/26] Qizilqum Zarafshon vs Xorazm Urganch (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
