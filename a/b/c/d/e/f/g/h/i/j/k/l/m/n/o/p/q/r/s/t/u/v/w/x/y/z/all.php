@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.18 WIB 30/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.29 WIB 30/04/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="3glrw7hn9260qdy" tvg-name="Hapoel Kiryat Shmona vs Maccabi Netanya" tvg-logo="https://img.cdnok9.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png" group-title="[LIVE 23:00 WIB | 29/04/26] Hapoel Kiryat Shmona vs Maccabi Netanya",[LIVE 23:00 WIB | 29/04/26] Hapoel Kiryat Shmona vs Maccabi Netanya (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="3glrw7hn9260qdy" tvg-name="Hapoel Kiryat Shmona vs Maccabi Netanya" tvg-logo="https://img.cdnok9.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png" group-title="[LIVE 23:00 WIB | 29/04/26] Hapoel Kiryat Shmona vs Maccabi Netanya",[LIVE 23:00 WIB | 29/04/26] Hapoel Kiryat Shmona vs Maccabi Netanya (GIÀNG A MIKE)
@@ -37,6 +29,14 @@ https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="pxwrxlhylnleryk" tvg-name="Wadi Degla SC vs Ittihad Alexandria SC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 00:00 WIB | 30/04/26] Wadi Degla SC vs Ittihad Alexandria SC",[LIVE 00:00 WIB | 30/04/26] Wadi Degla SC vs Ittihad Alexandria SC (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="ednm9whww777ryo" tvg-name="CSKA Sofia vs Ludogorets Razgrad" tvg-logo="https://img.cdnok9.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad",[LIVE 23:00 WIB | 29/04/26] CSKA Sofia vs Ludogorets Razgrad (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="1l4rjnh9e903m7v" tvg-name="Nantes Women vs OL Lyonnes Women" tvg-logo="https://img.cdnok9.com/football/competition/4969033db890a0372563bfec7a06f4f7.png" group-title="[LIVE 00:00 WIB | 30/04/26] Nantes Women vs OL Lyonnes Women",[LIVE 00:00 WIB | 30/04/26] Nantes Women vs OL Lyonnes Women (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="1l4rjnh9e903m7v" tvg-name="Nantes Women vs OL Lyonnes Women" tvg-logo="https://img.cdnok9.com/football/competition/4969033db890a0372563bfec7a06f4f7.png" group-title="[LIVE 00:00 WIB | 30/04/26] Nantes Women vs OL Lyonnes Women",[LIVE 00:00 WIB | 30/04/26] Nantes Women vs OL Lyonnes Women (GIÀNG A MÂY)
@@ -57,14 +57,14 @@ https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="2y8m4zh57yn8ql0" tvg-name="Hapoel Tel Aviv vs Maccabi Haifa" tvg-logo="https://img.cdnok9.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png" group-title="[LIVE 23:30 WIB | 29/04/26] Hapoel Tel Aviv vs Maccabi Haifa",[LIVE 23:30 WIB | 29/04/26] Hapoel Tel Aviv vs Maccabi Haifa (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Lữ Bố (Giàng Phụng Tiên))
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="1l4rjnh9env0m7v" tvg-name="Al Taawoun vs Al Ittihad Club" tvg-logo="https://img.cdnok9.com/football/competition/9115e93d22380b87e231573b0a796f27.png" group-title="[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club",[LIVE 23:10 WIB | 29/04/26] Al Taawoun vs Al Ittihad Club (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="vjxm8ghe5p89r6o" tvg-name="Inter Turku vs HJK Helsinki" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 29/04/26] Inter Turku vs HJK Helsinki",[LIVE 23:00 WIB | 29/04/26] Inter Turku vs HJK Helsinki (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="vjxm8ghe5p89r6o" tvg-name="Inter Turku vs HJK Helsinki" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 29/04/26] Inter Turku vs HJK Helsinki",[LIVE 23:00 WIB | 29/04/26] Inter Turku vs HJK Helsinki (Thích Đủ Thứ)
