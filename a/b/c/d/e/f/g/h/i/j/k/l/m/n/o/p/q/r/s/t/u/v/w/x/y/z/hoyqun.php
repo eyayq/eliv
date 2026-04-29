@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:30 WIB 29/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:30 WIB 29/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:40 WIB 29/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:40 WIB 29/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[15:00 WIB 29/04/26] Trung Quốc vs Ấn Độ (Thomas) [FHD] [LIVE]
@@ -20,23 +20,14 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 29/04/26] Qingdao vs Shanxi Zhongyu [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[21:00 WIB 29/04/26] Jannik Sinner vs Rafael Jodar [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[21:00 WIB 29/04/26] Jannik Sinner vs Rafael Jodar [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[21:00 WIB 29/04/26] Jannik Sinner vs Rafael Jodar [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[21:00 WIB 29/04/26] Jannik Sinner vs Rafael Jodar [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[21:00 WIB 29/04/26] Jannik Sinner vs Rafael Jodar [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[21:00 WIB 29/04/26] Jannik Sinner vs Rafael Jodar [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[22:20 WIB 29/04/26] Shabab Al Ahli Dubai vs Khorfakkan [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[22:20 WIB 29/04/26] Shabab Al Ahli Dubai vs Khorfakkan [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[22:20 WIB 29/04/26] Shabab Al Ahli Dubai vs Khorfakkan [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQinu3K9Wvvnjlp76dPPXgrrKJmJXkeM6vFXw&s" group-title="Poland PlusLiga",[22:30 WIB 29/04/26] Lublin - Zawiercie [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
