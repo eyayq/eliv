@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:01 WIB 30/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:01 WIB 30/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:05 WIB 30/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:05 WIB 30/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 29/04/26] Brazil vs Cộng hòa Séc (Nữ) [FHD] [LIVE]
@@ -243,6 +243,42 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[23:00 WIB 30/04/26] Đài Loan vs Hàn Quốc (Uber) [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 01/05/26] SC Braga vs SC Freiburg [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 01/05/26] SC Braga vs SC Freiburg [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 01/05/26] SC Braga vs SC Freiburg [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 01/05/26] Nottingham Forest vs Aston Villa [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 01/05/26] Nottingham Forest vs Aston Villa [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 01/05/26] Nottingham Forest vs Aston Villa [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 01/05/26] Shakhtar Donetsk vs Crystal Palace [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 01/05/26] Shakhtar Donetsk vs Crystal Palace [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 01/05/26] Shakhtar Donetsk vs Crystal Palace [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 01/05/26] Rayo Vallecano vs Strasbourg [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 01/05/26] Rayo Vallecano vs Strasbourg [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 01/05/26] Rayo Vallecano vs Strasbourg [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZZc3u8VR20VoZlxDXC4jq02cU-1_gJASfQ&s" group-title="Japan League Men",[16:05 WIB 01/05/26] Nagoya - JT Thunders [FHD] [NANTIKAN]
