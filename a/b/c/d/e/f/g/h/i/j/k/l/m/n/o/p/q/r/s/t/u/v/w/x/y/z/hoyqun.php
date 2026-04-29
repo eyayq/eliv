@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:43 WIB 29/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:43 WIB 29/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:52 WIB 29/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:52 WIB 29/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[15:00 WIB 29/04/26] Trung Quốc vs Ấn Độ (Thomas) [FHD] [LIVE]
