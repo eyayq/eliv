@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [03:38 WIB 30/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [03:38 WIB 30/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [03:45 WIB 30/04/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [03:45 WIB 30/04/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 30/04/26] Atletico Madrid vs Arsenal [FHD] [LIVE]
@@ -181,6 +181,15 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxXy367NJGd6QzEFRRO67QWXKvfvwStWpL9g&s" group-title="Thomas & Uber Cup ",[23:00 WIB 30/04/26] Đài Loan vs Hàn Quốc (Uber) [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[00:45 WIB 01/05/26] Fenerbahce vs Zalgiris Kaunas [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[00:45 WIB 01/05/26] Fenerbahce vs Zalgiris Kaunas [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[00:45 WIB 01/05/26] Fenerbahce vs Zalgiris Kaunas [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/84/Europa_League_2024.png" group-title="UEFA Europa League",[02:00 WIB 01/05/26] SC Braga vs SC Freiburg [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
