@@ -15,7 +15,7 @@ HEADERS = {
 SLEEP_AFTER_ALL = 30  # 5 menit
 
 # 👉
-BATCH_SIZE = 4
+BATCH_SIZE = 6
 
 # 👉
 WORKFLOW_LIST = [
