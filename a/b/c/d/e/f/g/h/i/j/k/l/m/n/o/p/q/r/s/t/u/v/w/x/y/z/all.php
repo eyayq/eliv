@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.12 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.19 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Giàng A Long)
@@ -17,14 +17,18 @@ https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f3
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Lữ Bố (Giàng Phụng Tiên))
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="4wyrn4h6e4xwq86" tvg-name="Leeds United vs Burnley" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley",[LIVE 02:00 WIB | 02/05/26] Leeds United vs Burnley (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="y0or5jh8z1d0qwz" tvg-name="Shamrock Rovers vs Waterford United" tvg-logo="https://img.cdnok9.com/football/competition/c3f18837ca574ec324aa59a4459e1fb5.png" group-title="[LIVE 02:00 WIB | 02/05/26] Shamrock Rovers vs Waterford United",[LIVE 02:00 WIB | 02/05/26] Shamrock Rovers vs Waterford United (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="y0or5jh8z1d0qwz" tvg-name="Shamrock Rovers vs Waterford United" tvg-logo="https://img.cdnok9.com/football/competition/c3f18837ca574ec324aa59a4459e1fb5.png" group-title="[LIVE 02:00 WIB | 02/05/26] Shamrock Rovers vs Waterford United",[LIVE 02:00 WIB | 02/05/26] Shamrock Rovers vs Waterford United (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="x7lm7phj0z67m2w" tvg-name="Real Zaragoza vs Granada CF" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 02/05/26] Real Zaragoza vs Granada CF",[LIVE 02:00 WIB | 02/05/26] Real Zaragoza vs Granada CF (PHONG VÂN)
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="x7lm7phj0z67m2w" tvg-name="Real Zaragoza vs Granada CF" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 02/05/26] Real Zaragoza vs Granada CF",[LIVE 02:00 WIB | 02/05/26] Real Zaragoza vs Granada CF (PHONG VÂN)
@@ -61,15 +65,11 @@ https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0b
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="l7oqdehgx28lr51" tvg-name="San Antonio Bulo Bulo vs Independiente Petrolero" tvg-logo="https://img.cdnok9.com/football/competition/5d75feb43ea08222def38c8aa43db089.png" group-title="[LIVE 02:00 WIB | 02/05/26] San Antonio Bulo Bulo vs Independiente Petrolero",[LIVE 02:00 WIB | 02/05/26] San Antonio Bulo Bulo vs Independiente Petrolero (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="y0or5jh8z1d0qwz" tvg-name="Shamrock Rovers vs Waterford United" tvg-logo="https://img.cdnok9.com/football/competition/c3f18837ca574ec324aa59a4459e1fb5.png" group-title="[LIVE 02:00 WIB | 02/05/26] Shamrock Rovers vs Waterford United",[LIVE 02:00 WIB | 02/05/26] Shamrock Rovers vs Waterford United (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="y0or5jh8z1d0qwz" tvg-name="Shamrock Rovers vs Waterford United" tvg-logo="https://img.cdnok9.com/football/competition/c3f18837ca574ec324aa59a4459e1fb5.png" group-title="[LIVE 02:00 WIB | 02/05/26] Shamrock Rovers vs Waterford United",[LIVE 02:00 WIB | 02/05/26] Shamrock Rovers vs Waterford United (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="pxwrxlhyxvw9ryk" tvg-name="Bohemians vs Derry City" tvg-logo="https://img.cdnok9.com/football/competition/c3f18837ca574ec324aa59a4459e1fb5.png" group-title="[LIVE 02:00 WIB | 02/05/26] Bohemians vs Derry City",[LIVE 02:00 WIB | 02/05/26] Bohemians vs Derry City (GIÀNG A BẨY )
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="pxwrxlhyxvw9ryk" tvg-name="Bohemians vs Derry City" tvg-logo="https://img.cdnok9.com/football/competition/c3f18837ca574ec324aa59a4459e1fb5.png" group-title="[LIVE 02:00 WIB | 02/05/26] Bohemians vs Derry City",[LIVE 02:00 WIB | 02/05/26] Bohemians vs Derry City (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="2y8m4zh5glzwql0" tvg-name="Sporting CP B vs SL Benfica B" tvg-logo="https://img.cdnok9.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="[UPCO 02:30 WIB | 17m | 02/05/26] Sporting CP B vs SL Benfica B",[UPCO 02:30 WIB | 17m | 02/05/26] Sporting CP B vs SL Benfica B (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="2y8m4zh5glzwql0" tvg-name="Sporting CP B vs SL Benfica B" tvg-logo="https://img.cdnok9.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="[UPCO 02:30 WIB | 10m | 02/05/26] Sporting CP B vs SL Benfica B",[UPCO 02:30 WIB | 10m | 02/05/26] Sporting CP B vs SL Benfica B (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="2y8m4zh5glzwql0" tvg-name="Sporting CP B vs SL Benfica B" tvg-logo="https://img.cdnok9.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="[UPCO 02:30 WIB | 17m | 02/05/26] Sporting CP B vs SL Benfica B",[UPCO 02:30 WIB | 17m | 02/05/26] Sporting CP B vs SL Benfica B (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="2y8m4zh5glzwql0" tvg-name="Sporting CP B vs SL Benfica B" tvg-logo="https://img.cdnok9.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="[UPCO 02:30 WIB | 10m | 02/05/26] Sporting CP B vs SL Benfica B",[UPCO 02:30 WIB | 10m | 02/05/26] Sporting CP B vs SL Benfica B (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
