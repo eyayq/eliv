@@ -1,6 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.35 WIB 01/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.42 WIB 01/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="k82rekhg370yrep" tvg-name="Mantova vs Monza" tvg-logo="https://img.cdnok9.com/football/competition/aed17489efef04d8cbfc7ffaae36cef7.png" group-title="[LIVE 20:00 WIB | 01/05/26] Mantova vs Monza",[LIVE 20:00 WIB | 01/05/26] Mantova vs Monza (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="k82rekhg370yrep" tvg-name="Mantova vs Monza" tvg-logo="https://img.cdnok9.com/football/competition/aed17489efef04d8cbfc7ffaae36cef7.png" group-title="[LIVE 20:00 WIB | 01/05/26] Mantova vs Monza",[LIVE 20:00 WIB | 01/05/26] Mantova vs Monza (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="pxwrxlhyzk5lryk" tvg-name="Spezia vs Venezia" tvg-logo="https://img.cdnok9.com/football/competition/aed17489efef04d8cbfc7ffaae36cef7.png" group-title="[LIVE 20:00 WIB | 01/05/26] Spezia vs Venezia",[LIVE 20:00 WIB | 01/05/26] Spezia vs Venezia (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="pxwrxlhyzk5lryk" tvg-name="Spezia vs Venezia" tvg-logo="https://img.cdnok9.com/football/competition/aed17489efef04d8cbfc7ffaae36cef7.png" group-title="[LIVE 20:00 WIB | 01/05/26] Spezia vs Venezia",[LIVE 20:00 WIB | 01/05/26] Spezia vs Venezia (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="69f4b7670b9bc35138043c5c" tvg-name="Jamshedpur vs Goa" tvg-logo="" group-title="[LIVE 21:00 WIB | 01/05/26] Jamshedpur vs Goa",[LIVE 21:00 WIB | 01/05/26] Jamshedpur vs Goa (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="69f4b7670b9bc35138043c5c" tvg-name="Jamshedpur vs Goa" tvg-logo="" group-title="[LIVE 21:00 WIB | 01/05/26] Jamshedpur vs Goa",[LIVE 21:00 WIB | 01/05/26] Jamshedpur vs Goa (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="318q66hxxdnwqo9" tvg-name="FC Minsk vs Naftan Novopolotsk" tvg-logo="https://img.cdnok9.com/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png" group-title="[LIVE 21:30 WIB | 01/05/26] FC Minsk vs Naftan Novopolotsk",[LIVE 21:30 WIB | 01/05/26] FC Minsk vs Naftan Novopolotsk (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="318q66hxxdnwqo9" tvg-name="FC Minsk vs Naftan Novopolotsk" tvg-logo="https://img.cdnok9.com/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png" group-title="[LIVE 21:30 WIB | 01/05/26] FC Minsk vs Naftan Novopolotsk",[LIVE 21:30 WIB | 01/05/26] FC Minsk vs Naftan Novopolotsk (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="jw2r09hkx2zlrz8" tvg-name="Andorra CF vs Albacete Balompié SAD" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 21:15 WIB | 01/05/26] Andorra CF vs Albacete Balompié SAD",[LIVE 21:15 WIB | 01/05/26] Andorra CF vs Albacete Balompié SAD (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="jw2r09hkx2zlrz8" tvg-name="Andorra CF vs Albacete Balompié SAD" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 21:15 WIB | 01/05/26] Andorra CF vs Albacete Balompié SAD",[LIVE 21:15 WIB | 01/05/26] Andorra CF vs Albacete Balompié SAD (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="4jwq2ghnzxgom0v" tvg-name="Kongsvinger vs Egersunds IK" tvg-logo="https://img.cdnok9.com/football/competition/76cf7670d30a48ad1437315a8c50acdb.png" group-title="[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK",[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK (GIÀNG A BẨY )
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="4jwq2ghnzxgom0v" tvg-name="Kongsvinger vs Egersunds IK" tvg-logo="https://img.cdnok9.com/football/competition/76cf7670d30a48ad1437315a8c50acdb.png" group-title="[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK",[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK (GIÀNG A BẨY )
@@ -49,27 +69,7 @@ https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="8yomo4h10d33q0j" tvg-name="Juve Stabia vs Frosinone" tvg-logo="https://img.cdnok9.com/football/competition/aed17489efef04d8cbfc7ffaae36cef7.png" group-title="[LIVE 20:00 WIB | 01/05/26] Juve Stabia vs Frosinone",[LIVE 20:00 WIB | 01/05/26] Juve Stabia vs Frosinone (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="k82rekhg370yrep" tvg-name="Mantova vs Monza" tvg-logo="https://img.cdnok9.com/football/competition/aed17489efef04d8cbfc7ffaae36cef7.png" group-title="[LIVE 20:00 WIB | 01/05/26] Mantova vs Monza",[LIVE 20:00 WIB | 01/05/26] Mantova vs Monza (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="k82rekhg370yrep" tvg-name="Mantova vs Monza" tvg-logo="https://img.cdnok9.com/football/competition/aed17489efef04d8cbfc7ffaae36cef7.png" group-title="[LIVE 20:00 WIB | 01/05/26] Mantova vs Monza",[LIVE 20:00 WIB | 01/05/26] Mantova vs Monza (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="pxwrxlhyzk5lryk" tvg-name="Spezia vs Venezia" tvg-logo="https://img.cdnok9.com/football/competition/aed17489efef04d8cbfc7ffaae36cef7.png" group-title="[LIVE 20:00 WIB | 01/05/26] Spezia vs Venezia",[LIVE 20:00 WIB | 01/05/26] Spezia vs Venezia (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="pxwrxlhyzk5lryk" tvg-name="Spezia vs Venezia" tvg-logo="https://img.cdnok9.com/football/competition/aed17489efef04d8cbfc7ffaae36cef7.png" group-title="[LIVE 20:00 WIB | 01/05/26] Spezia vs Venezia",[LIVE 20:00 WIB | 01/05/26] Spezia vs Venezia (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="69f4b7670b9bc35138043c5c" tvg-name="Jamshedpur vs Goa" tvg-logo="" group-title="[LIVE 21:00 WIB | 01/05/26] Jamshedpur vs Goa",[LIVE 21:00 WIB | 01/05/26] Jamshedpur vs Goa (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="69f4b7670b9bc35138043c5c" tvg-name="Jamshedpur vs Goa" tvg-logo="" group-title="[LIVE 21:00 WIB | 01/05/26] Jamshedpur vs Goa",[LIVE 21:00 WIB | 01/05/26] Jamshedpur vs Goa (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="318q66hxxdnwqo9" tvg-name="FC Minsk vs Naftan Novopolotsk" tvg-logo="https://img.cdnok9.com/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png" group-title="[LIVE 21:30 WIB | 01/05/26] FC Minsk vs Naftan Novopolotsk",[LIVE 21:30 WIB | 01/05/26] FC Minsk vs Naftan Novopolotsk (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="318q66hxxdnwqo9" tvg-name="FC Minsk vs Naftan Novopolotsk" tvg-logo="https://img.cdnok9.com/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png" group-title="[LIVE 21:30 WIB | 01/05/26] FC Minsk vs Naftan Novopolotsk",[LIVE 21:30 WIB | 01/05/26] FC Minsk vs Naftan Novopolotsk (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="jw2r09hkx2zlrz8" tvg-name="Andorra CF vs Albacete Balompié SAD" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 21:15 WIB | 01/05/26] Andorra CF vs Albacete Balompié SAD",[LIVE 21:15 WIB | 01/05/26] Andorra CF vs Albacete Balompié SAD (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="jw2r09hkx2zlrz8" tvg-name="Andorra CF vs Albacete Balompié SAD" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 21:15 WIB | 01/05/26] Andorra CF vs Albacete Balompié SAD",[LIVE 21:15 WIB | 01/05/26] Andorra CF vs Albacete Balompié SAD (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[UPCO 22:00 WIB | 24m | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[UPCO 22:00 WIB | 24m | 01/05/26] Spaeri FC vs Torpedo Kutaisi (BLV GÀ PHÁP)
+#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[UPCO 22:00 WIB | 17m | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[UPCO 22:00 WIB | 17m | 01/05/26] Spaeri FC vs Torpedo Kutaisi (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[UPCO 22:00 WIB | 24m | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[UPCO 22:00 WIB | 24m | 01/05/26] Spaeri FC vs Torpedo Kutaisi (BLV GÀ PHÁP)
+#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[UPCO 22:00 WIB | 17m | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[UPCO 22:00 WIB | 17m | 01/05/26] Spaeri FC vs Torpedo Kutaisi (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
