@@ -58,7 +58,7 @@ if temp:
 
 def trigger_workflow(workflow):
     url = f"https://api.github.com/repos/{OWNER}/{REPO}/actions/workflows/{workflow}/dispatches"
-    data = {"ref": "main"}
+    data = {"ref": "bhns0"}
     r = requests.post(url, headers=HEADERS, json=data)
 
     if r.status_code == 204:
