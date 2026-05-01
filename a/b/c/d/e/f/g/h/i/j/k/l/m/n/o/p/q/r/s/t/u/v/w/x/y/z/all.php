@@ -1,6 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.03 WIB 01/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.09 WIB 01/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="4jwq2ghnzxgom0v" tvg-name="Kongsvinger vs Egersunds IK" tvg-logo="https://img.cdnok9.com/football/competition/76cf7670d30a48ad1437315a8c50acdb.png" group-title="[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK",[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="4jwq2ghnzxgom0v" tvg-name="Kongsvinger vs Egersunds IK" tvg-logo="https://img.cdnok9.com/football/competition/76cf7670d30a48ad1437315a8c50acdb.png" group-title="[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK",[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi (Giàng A Lỏ)
+https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi (Giàng A Lỏ)
+https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="zp5rzghgonjeq82" tvg-name="Septemvri Sofia vs PFK Montana" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 21:30 WIB | 01/05/26] Septemvri Sofia vs PFK Montana",[LIVE 21:30 WIB | 01/05/26] Septemvri Sofia vs PFK Montana (Giàng A Sún)
+https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="zp5rzghgonjeq82" tvg-name="Septemvri Sofia vs PFK Montana" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 21:30 WIB | 01/05/26] Septemvri Sofia vs PFK Montana",[LIVE 21:30 WIB | 01/05/26] Septemvri Sofia vs PFK Montana (Giàng A Sún)
+https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="l5ergph4vgn5r8k" tvg-name="Maritimo vs Leixoes" tvg-logo="https://img.cdnok9.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="[LIVE 21:30 WIB | 01/05/26] Maritimo vs Leixoes",[LIVE 21:30 WIB | 01/05/26] Maritimo vs Leixoes (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="l5ergph4vgn5r8k" tvg-name="Maritimo vs Leixoes" tvg-logo="https://img.cdnok9.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="[LIVE 21:30 WIB | 01/05/26] Maritimo vs Leixoes",[LIVE 21:30 WIB | 01/05/26] Maritimo vs Leixoes (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="4jwq2ghnv247m0v" tvg-name="Caykur Rizespor vs Konyaspor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 21:00 WIB | 01/05/26] Caykur Rizespor vs Konyaspor",[LIVE 21:00 WIB | 01/05/26] Caykur Rizespor vs Konyaspor (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="4jwq2ghnv247m0v" tvg-name="Caykur Rizespor vs Konyaspor" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 21:00 WIB | 01/05/26] Caykur Rizespor vs Konyaspor",[LIVE 21:00 WIB | 01/05/26] Caykur Rizespor vs Konyaspor (Giàng A Choén)
@@ -37,23 +57,3 @@ https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc1225
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="jw2r09hkx2zlrz8" tvg-name="Andorra CF vs Albacete Balompié SAD" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 21:15 WIB | 01/05/26] Andorra CF vs Albacete Balompié SAD",[LIVE 21:15 WIB | 01/05/26] Andorra CF vs Albacete Balompié SAD (HOÀNG CÁI)
 https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="4jwq2ghnzxgom0v" tvg-name="Kongsvinger vs Egersunds IK" tvg-logo="https://img.cdnok9.com/football/competition/76cf7670d30a48ad1437315a8c50acdb.png" group-title="[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK",[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="4jwq2ghnzxgom0v" tvg-name="Kongsvinger vs Egersunds IK" tvg-logo="https://img.cdnok9.com/football/competition/76cf7670d30a48ad1437315a8c50acdb.png" group-title="[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK",[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi (Giàng A Lỏ)
-https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="l5ergph4w0zwr8k" tvg-name="Spaeri FC vs Torpedo Kutaisi" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi",[LIVE 22:00 WIB | 01/05/26] Spaeri FC vs Torpedo Kutaisi (Giàng A Lỏ)
-https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="zp5rzghgonjeq82" tvg-name="Septemvri Sofia vs PFK Montana" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 21:30 WIB | 01/05/26] Septemvri Sofia vs PFK Montana",[LIVE 21:30 WIB | 01/05/26] Septemvri Sofia vs PFK Montana (Giàng A Sún)
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="zp5rzghgonjeq82" tvg-name="Septemvri Sofia vs PFK Montana" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 21:30 WIB | 01/05/26] Septemvri Sofia vs PFK Montana",[LIVE 21:30 WIB | 01/05/26] Septemvri Sofia vs PFK Montana (Giàng A Sún)
-https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="l5ergph4vgn5r8k" tvg-name="Maritimo vs Leixoes" tvg-logo="https://img.cdnok9.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="[LIVE 21:30 WIB | 01/05/26] Maritimo vs Leixoes",[LIVE 21:30 WIB | 01/05/26] Maritimo vs Leixoes (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="l5ergph4vgn5r8k" tvg-name="Maritimo vs Leixoes" tvg-logo="https://img.cdnok9.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="[LIVE 21:30 WIB | 01/05/26] Maritimo vs Leixoes",[LIVE 21:30 WIB | 01/05/26] Maritimo vs Leixoes (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
