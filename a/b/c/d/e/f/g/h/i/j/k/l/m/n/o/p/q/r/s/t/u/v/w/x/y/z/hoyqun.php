@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [00:40 WIB 02/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:40 WIB 02/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [00:47 WIB 02/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:47 WIB 02/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[23:00 WIB 01/05/26] Viking vs Rosenborg [FHD] [LIVE]
@@ -523,6 +523,15 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 03/05/26] Juventus vs Hellas Verona [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQinu3K9Wvvnjlp76dPPXgrrKJmJXkeM6vFXw&s" group-title="Poland PlusLiga",[23:00 WIB 03/05/26] Lube Civitanova - Perugia [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQinu3K9Wvvnjlp76dPPXgrrKJmJXkeM6vFXw&s" group-title="Poland PlusLiga",[23:00 WIB 03/05/26] Lube Civitanova - Perugia [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQinu3K9Wvvnjlp76dPPXgrrKJmJXkeM6vFXw&s" group-title="Poland PlusLiga",[23:00 WIB 03/05/26] Lube Civitanova - Perugia [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[23:30 WIB 03/05/26] Real Betis vs Oviedo [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
