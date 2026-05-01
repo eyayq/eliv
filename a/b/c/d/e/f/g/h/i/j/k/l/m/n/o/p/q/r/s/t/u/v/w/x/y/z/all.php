@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.04 WIB 01/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.06 WIB 01/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="jw2r09hkx2zlrz8" tvg-name="Andorra CF vs Albacete Balompié SAD" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[UPCO 21:15 WIB | 8m | 01/05/26] Andorra CF vs Albacete Balompié SAD",[UPCO 21:15 WIB | 8m | 01/05/26] Andorra CF vs Albacete Balompié SAD (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="jw2r09hkx2zlrz8" tvg-name="Andorra CF vs Albacete Balompié SAD" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[UPCO 21:15 WIB | 8m | 01/05/26] Andorra CF vs Albacete Balompié SAD",[UPCO 21:15 WIB | 8m | 01/05/26] Andorra CF vs Albacete Balompié SAD (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="1l4rjnh9x5wgm7v" tvg-name="Kuching City FC vs Terengganu FC" tvg-logo="https://img.cdnok9.com/football/competition/70dd3b1e69708842440893f5a8b46632.png" group-title="[LIVE 19:15 WIB | 01/05/26] Kuching City FC vs Terengganu FC",[LIVE 19:15 WIB | 01/05/26] Kuching City FC vs Terengganu FC (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="1l4rjnh9x5wgm7v" tvg-name="Kuching City FC vs Terengganu FC" tvg-logo="https://img.cdnok9.com/football/competition/70dd3b1e69708842440893f5a8b46632.png" group-title="[LIVE 19:15 WIB | 01/05/26] Kuching City FC vs Terengganu FC",[LIVE 19:15 WIB | 01/05/26] Kuching City FC vs Terengganu FC (GIÀNG A MIKE)
@@ -9,14 +13,14 @@ https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="4jwq2ghnzxgom0v" tvg-name="Kongsvinger vs Egersunds IK" tvg-logo="https://img.cdnok9.com/football/competition/76cf7670d30a48ad1437315a8c50acdb.png" group-title="[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK",[LIVE 21:00 WIB | 01/05/26] Kongsvinger vs Egersunds IK (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="dn1m1ghlln52moe" tvg-name="Tukums-2000 vs Jelgava" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava",[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava (Giàng A Kê)
-https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="dn1m1ghlln52moe" tvg-name="Tukums-2000 vs Jelgava" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava",[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava (Giàng A Kê)
-https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="dn1m1ghlln52moe" tvg-name="Tukums-2000 vs Jelgava" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava",[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava (GIÀNG A TỨ )
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="dn1m1ghlln52moe" tvg-name="Tukums-2000 vs Jelgava" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava",[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="dn1m1ghlln52moe" tvg-name="Tukums-2000 vs Jelgava" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava",[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava (Giàng A Kê)
+https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="dn1m1ghlln52moe" tvg-name="Tukums-2000 vs Jelgava" tvg-logo="https://img.cdnok9.com/football/competition/71ec56470b1f954a153d98413368256e.png" group-title="[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava",[LIVE 20:00 WIB | 01/05/26] Tukums-2000 vs Jelgava (Giàng A Kê)
+https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="965mkyhkw8lgr1g" tvg-name="Hamburger SV Women vs Union Berlin Women" tvg-logo="https://img.cdnok9.com/football/competition/c56fab654754907a2937799af0d26d87.png" group-title="[LIVE 20:00 WIB | 01/05/26] Hamburger SV Women vs Union Berlin Women",[LIVE 20:00 WIB | 01/05/26] Hamburger SV Women vs Union Berlin Women (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="965mkyhkw8lgr1g" tvg-name="Hamburger SV Women vs Union Berlin Women" tvg-logo="https://img.cdnok9.com/football/competition/c56fab654754907a2937799af0d26d87.png" group-title="[LIVE 20:00 WIB | 01/05/26] Hamburger SV Women vs Union Berlin Women",[LIVE 20:00 WIB | 01/05/26] Hamburger SV Women vs Union Berlin Women (VĂN VỞ)
@@ -69,11 +73,11 @@ https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="4wyrn4h66lo9q86" tvg-name="Shanghai Shenhua vs Chengdu Rongcheng" tvg-logo="https://img.cdnok9.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png" group-title="[LIVE 19:00 WIB | 01/05/26] Shanghai Shenhua vs Chengdu Rongcheng",[LIVE 19:00 WIB | 01/05/26] Shanghai Shenhua vs Chengdu Rongcheng (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="69f430cd0145ace6f00b35f4" tvg-name="Atlético Madrid - Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 54m | 01/05/26] Atlético Madrid - Arsenal",[UPCO 23:59 WIB | 2j 54m | 01/05/26] Atlético Madrid - Arsenal (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69f430cd0145ace6f00b35f4" tvg-name="Atlético Madrid - Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 52m | 01/05/26] Atlético Madrid - Arsenal",[UPCO 23:59 WIB | 2j 52m | 01/05/26] Atlético Madrid - Arsenal (Giàng A Gấu)
 https://hls.686868.me/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="69f430cd0145ace6f00b35f4" tvg-name="Atlético Madrid - Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 54m | 01/05/26] Atlético Madrid - Arsenal",[UPCO 23:59 WIB | 2j 54m | 01/05/26] Atlético Madrid - Arsenal (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69f430cd0145ace6f00b35f4" tvg-name="Atlético Madrid - Arsenal" tvg-logo="" group-title="[UPCO 23:59 WIB | 2j 52m | 01/05/26] Atlético Madrid - Arsenal",[UPCO 23:59 WIB | 2j 52m | 01/05/26] Atlético Madrid - Arsenal (Giàng A Gấu)
 https://flv.686868.me/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="jw2r09hkx2zlrz8" tvg-name="Andorra CF vs Albacete Balompié SAD" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[UPCO 21:15 WIB | 10m | 01/05/26] Andorra CF vs Albacete Balompié SAD",[UPCO 21:15 WIB | 10m | 01/05/26] Andorra CF vs Albacete Balompié SAD (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="jw2r09hkx2zlrz8" tvg-name="Andorra CF vs Albacete Balompié SAD" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[UPCO 21:15 WIB | 10m | 01/05/26] Andorra CF vs Albacete Balompié SAD",[UPCO 21:15 WIB | 10m | 01/05/26] Andorra CF vs Albacete Balompié SAD (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="l5ergph4vgn5r8k" tvg-name="Maritimo vs Leixoes" tvg-logo="https://img.cdnok9.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="[UPCO 21:30 WIB | 23m | 01/05/26] Maritimo vs Leixoes",[UPCO 21:30 WIB | 23m | 01/05/26] Maritimo vs Leixoes (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="l5ergph4vgn5r8k" tvg-name="Maritimo vs Leixoes" tvg-logo="https://img.cdnok9.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png" group-title="[UPCO 21:30 WIB | 23m | 01/05/26] Maritimo vs Leixoes",[UPCO 21:30 WIB | 23m | 01/05/26] Maritimo vs Leixoes (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
