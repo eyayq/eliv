@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.26 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.33 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="vjxm8ghek0lxr6o" tvg-name="Zamalek SC vs Al Ahly FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 00:00 WIB | 02/05/26] Zamalek SC vs Al Ahly FC",[LIVE 00:00 WIB | 02/05/26] Zamalek SC vs Al Ahly FC (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="vjxm8ghek0lxr6o" tvg-name="Zamalek SC vs Al Ahly FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 00:00 WIB | 02/05/26] Zamalek SC vs Al Ahly FC",[LIVE 00:00 WIB | 02/05/26] Zamalek SC vs Al Ahly FC (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="dn1m1ghl2v50moe" tvg-name="FC Metalurgi Rustavi vs Dila Gori" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 00:00 WIB | 02/05/26] FC Metalurgi Rustavi vs Dila Gori",[LIVE 00:00 WIB | 02/05/26] FC Metalurgi Rustavi vs Dila Gori (Giàng A Sún)
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="dn1m1ghl2v50moe" tvg-name="FC Metalurgi Rustavi vs Dila Gori" tvg-logo="https://img.cdnok9.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" group-title="[LIVE 00:00 WIB | 02/05/26] FC Metalurgi Rustavi vs Dila Gori",[LIVE 00:00 WIB | 02/05/26] FC Metalurgi Rustavi vs Dila Gori (Giàng A Sún)
@@ -17,30 +21,30 @@ https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="8yomo4h12p7oq0j" tvg-name="Gazisehir Gaziantep vs Besiktas JK" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 02/05/26] Gazisehir Gaziantep vs Besiktas JK",[LIVE 00:00 WIB | 02/05/26] Gazisehir Gaziantep vs Besiktas JK (Giàng A Chiến)
 https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="4wyrn4h6d42gq86" tvg-name="Lokomotiv Moscow vs Dynamo Moscow" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow",[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="4wyrn4h6d42gq86" tvg-name="Lokomotiv Moscow vs Dynamo Moscow" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow",[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="4wyrn4h6d42gq86" tvg-name="Lokomotiv Moscow vs Dynamo Moscow" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow",[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="4wyrn4h6d42gq86" tvg-name="Lokomotiv Moscow vs Dynamo Moscow" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow",[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="jw2r09hk24jdrz8" tvg-name="Al-Arabi SC(KSA) vs Jubail" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail",[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="jw2r09hk24jdrz8" tvg-name="Al-Arabi SC(KSA) vs Jubail" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail",[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="4wyrn4h6d42gq86" tvg-name="Lokomotiv Moscow vs Dynamo Moscow" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow",[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="4wyrn4h6d42gq86" tvg-name="Lokomotiv Moscow vs Dynamo Moscow" tvg-logo="https://img.cdnok9.com/football/competition/d4d461679eedfed50374d47d84431ef3.png" group-title="[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow",[LIVE 23:30 WIB | 01/05/26] Lokomotiv Moscow vs Dynamo Moscow (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="jw2r09hk24jdrz8" tvg-name="Al-Arabi SC(KSA) vs Jubail" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail",[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="jw2r09hk24jdrz8" tvg-name="Al-Arabi SC(KSA) vs Jubail" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail",[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail (Giàng A Long)
 https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="l5ergph47o9jr8k" tvg-name="Olympiakos Nicosia FC vs Omonia Aradippou" tvg-logo="https://img.cdnok9.com/football/competition/b26998c04db8eaebfba34484aa08b10b.png" group-title="[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou",[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="l5ergph47o9jr8k" tvg-name="Olympiakos Nicosia FC vs Omonia Aradippou" tvg-logo="https://img.cdnok9.com/football/competition/b26998c04db8eaebfba34484aa08b10b.png" group-title="[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou",[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="jw2r09hk24jdrz8" tvg-name="Al-Arabi SC(KSA) vs Jubail" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail",[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="jw2r09hk24jdrz8" tvg-name="Al-Arabi SC(KSA) vs Jubail" tvg-logo="https://img.cdnok9.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png" group-title="[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail",[LIVE 23:10 WIB | 01/05/26] Al-Arabi SC(KSA) vs Jubail (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="l5ergph47o9jr8k" tvg-name="Olympiakos Nicosia FC vs Omonia Aradippou" tvg-logo="https://img.cdnok9.com/football/competition/b26998c04db8eaebfba34484aa08b10b.png" group-title="[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou",[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="l5ergph47o9jr8k" tvg-name="Olympiakos Nicosia FC vs Omonia Aradippou" tvg-logo="https://img.cdnok9.com/football/competition/b26998c04db8eaebfba34484aa08b10b.png" group-title="[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou",[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="l5ergph47o9jr8k" tvg-name="Olympiakos Nicosia FC vs Omonia Aradippou" tvg-logo="https://img.cdnok9.com/football/competition/b26998c04db8eaebfba34484aa08b10b.png" group-title="[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou",[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="l5ergph47o9jr8k" tvg-name="Olympiakos Nicosia FC vs Omonia Aradippou" tvg-logo="https://img.cdnok9.com/football/competition/b26998c04db8eaebfba34484aa08b10b.png" group-title="[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou",[LIVE 23:00 WIB | 01/05/26] Olympiakos Nicosia FC vs Omonia Aradippou (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="y0or5jh8z336qwz" tvg-name="Viking vs Rosenborg" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 23:00 WIB | 01/05/26] Viking vs Rosenborg",[LIVE 23:00 WIB | 01/05/26] Viking vs Rosenborg (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="y0or5jh8z336qwz" tvg-name="Viking vs Rosenborg" tvg-logo="https://img.cdnok9.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="[LIVE 23:00 WIB | 01/05/26] Viking vs Rosenborg",[LIVE 23:00 WIB | 01/05/26] Viking vs Rosenborg (Thích Đủ Thứ)
@@ -57,10 +61,6 @@ https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0b
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="4wyrn4h658k5q86" tvg-name="Akritas Chloraka vs Ethnikos Achnas FC" tvg-logo="https://img.cdnok9.com/football/competition/b26998c04db8eaebfba34484aa08b10b.png" group-title="[LIVE 23:00 WIB | 01/05/26] Akritas Chloraka vs Ethnikos Achnas FC",[LIVE 23:00 WIB | 01/05/26] Akritas Chloraka vs Ethnikos Achnas FC (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="1l4rjnh91yx1m7v" tvg-name="Korona Kielce vs Piast Gliwice" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 22:30 WIB | 01/05/26] Korona Kielce vs Piast Gliwice",[LIVE 22:30 WIB | 01/05/26] Korona Kielce vs Piast Gliwice (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="1l4rjnh91yx1m7v" tvg-name="Korona Kielce vs Piast Gliwice" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 22:30 WIB | 01/05/26] Korona Kielce vs Piast Gliwice",[LIVE 22:30 WIB | 01/05/26] Korona Kielce vs Piast Gliwice (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="3glrw7hn9ky9qdy" tvg-name="Al-Gharafa vs Umm Salal" tvg-logo="https://img.cdnok9.com/football/competition/09444e4eb2bee58fa8773c8f47267fcb.png" group-title="[LIVE 00:00 WIB | 02/05/26] Al-Gharafa vs Umm Salal",[LIVE 00:00 WIB | 02/05/26] Al-Gharafa vs Umm Salal (GIÀNG A BẨY )
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="3glrw7hn9ky9qdy" tvg-name="Al-Gharafa vs Umm Salal" tvg-logo="https://img.cdnok9.com/football/competition/09444e4eb2bee58fa8773c8f47267fcb.png" group-title="[LIVE 00:00 WIB | 02/05/26] Al-Gharafa vs Umm Salal",[LIVE 00:00 WIB | 02/05/26] Al-Gharafa vs Umm Salal (GIÀNG A BẨY )
@@ -77,7 +77,7 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="23xmvkh62e3lqg8" tvg-name="FC Dobrudzha Dobrich vs Lokomotiv Sofia" tvg-logo="https://img.cdnok9.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" group-title="[LIVE 00:00 WIB | 02/05/26] FC Dobrudzha Dobrich vs Lokomotiv Sofia",[LIVE 00:00 WIB | 02/05/26] FC Dobrudzha Dobrich vs Lokomotiv Sofia (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="vjxm8ghek0lxr6o" tvg-name="Zamalek SC vs Al Ahly FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 00:00 WIB | 02/05/26] Zamalek SC vs Al Ahly FC",[LIVE 00:00 WIB | 02/05/26] Zamalek SC vs Al Ahly FC (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="vjxm8ghek0lxr6o" tvg-name="Zamalek SC vs Al Ahly FC" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 00:00 WIB | 02/05/26] Zamalek SC vs Al Ahly FC",[LIVE 00:00 WIB | 02/05/26] Zamalek SC vs Al Ahly FC (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="2y8m4zh5734dql0" tvg-name="Cercle Brugge vs Zulte-Waregem" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 01:45 WIB | 1j 11m | 02/05/26] Cercle Brugge vs Zulte-Waregem",[UPCO 01:45 WIB | 1j 11m | 02/05/26] Cercle Brugge vs Zulte-Waregem (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="2y8m4zh5734dql0" tvg-name="Cercle Brugge vs Zulte-Waregem" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 01:45 WIB | 1j 11m | 02/05/26] Cercle Brugge vs Zulte-Waregem",[UPCO 01:45 WIB | 1j 11m | 02/05/26] Cercle Brugge vs Zulte-Waregem (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
