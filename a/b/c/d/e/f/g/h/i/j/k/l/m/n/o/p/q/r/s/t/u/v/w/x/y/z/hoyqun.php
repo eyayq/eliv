@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [03:06 WIB 03/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [03:06 WIB 03/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [03:13 WIB 03/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [03:13 WIB 03/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 02/05/26] Trung Quốc vs Đài Loan (Nữ) [FHD] [LIVE]
@@ -199,6 +199,15 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:30 WIB 03/05/26] Manchester United vs Liverpool [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[22:00 WIB 03/05/26] Jannik Sinner vs Alexander Zverev [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[22:00 WIB 03/05/26] Jannik Sinner vs Alexander Zverev [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://eboxcz-ott-images.ssl.cdn.cra.cz/r1320x742n/88982ccd-1c9f-5654-a34c-40f4dd6ea52d" group-title="WTA1000 Madrid",[22:00 WIB 03/05/26] Jannik Sinner vs Alexander Zverev [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[22:30 WIB 03/05/26] Borussia Mönchengladbach vs Borussia Dortmund [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
