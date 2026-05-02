@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:48 WIB 02/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:48 WIB 02/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:37 WIB 02/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:37 WIB 02/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrZZc3u8VR20VoZlxDXC4jq02cU-1_gJASfQ&s" group-title="Japan League Men",[13:05 WIB 02/05/26] Nagoya - JT Thunders [FHD] [LIVE]
@@ -47,31 +47,31 @@ https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:40 WIB 02/05/26] Melbourne Victory vs Sydney [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Binh Duong vs Thanh Hóa [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Binh Duong vs Thanh Hóa [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Binh Duong vs Thanh Hóa [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Binh Duong vs Thanh Hóa [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Binh Duong vs Thanh Hóa [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Binh Duong vs Thanh Hóa [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Hai Phong vs Công An Nhân Dân [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Hai Phong vs Công An Nhân Dân [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Hai Phong vs Công An Nhân Dân [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Hai Phong vs Công An Nhân Dân [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Hai Phong vs Công An Nhân Dân [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Hai Phong vs Công An Nhân Dân [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Pho Hien vs Hồng Lĩnh Hà Tĩnh [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Pho Hien vs Hồng Lĩnh Hà Tĩnh [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Pho Hien vs Hồng Lĩnh Hà Tĩnh [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Pho Hien vs Hồng Lĩnh Hà Tĩnh [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Pho Hien vs Hồng Lĩnh Hà Tĩnh [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 02/05/26] Pho Hien vs Hồng Lĩnh Hà Tĩnh [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[18:30 WIB 02/05/26] Trung Quốc vs Anh (Nam) [FHD] [NANTIKAN]
@@ -174,13 +174,13 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 02/05/26] Como vs Napoli [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 02/05/26] Como vs Napoli [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 02/05/26] Como vs Napoli [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 02/05/26] Trung Quốc vs Đài Loan (Nữ) [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
@@ -190,15 +190,6 @@ https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 02/05/26] Trung Quốc vs Đài Loan (Nữ) [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[23:30 WIB 02/05/26] Arsenal vs Fulham [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[23:30 WIB 02/05/26] Arsenal vs Fulham [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[23:30 WIB 02/05/26] Arsenal vs Fulham [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[23:30 WIB 02/05/26] Arsenal vs Fulham [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
