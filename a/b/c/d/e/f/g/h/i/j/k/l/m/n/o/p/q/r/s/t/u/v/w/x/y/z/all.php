@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [16.13 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [17.09 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="4wyrn4h64p9vq86" tvg-name="Persebaya Surabaya vs PSBS Biak Numfor" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 15:30 WIB | 02/05/26] Persebaya Surabaya vs PSBS Biak Numfor",[LIVE 15:30 WIB | 02/05/26] Persebaya Surabaya vs PSBS Biak Numfor (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
@@ -9,10 +9,22 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="4wyrn4h64p9vq86" tvg-name="Persebaya Surabaya vs PSBS Biak Numfor" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 15:30 WIB | 02/05/26] Persebaya Surabaya vs PSBS Biak Numfor",[LIVE 15:30 WIB | 02/05/26] Persebaya Surabaya vs PSBS Biak Numfor (PHONG VÂN)
 https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="69f58983b8dcfa63f8ad582f" tvg-name="Paris Saint-Germain vs Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 7j 45m | 02/05/26] Paris Saint-Germain vs Bayern Munich",[UPCO 23:59 WIB | 7j 45m | 02/05/26] Paris Saint-Germain vs Bayern Munich (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69f58983b8dcfa63f8ad582f" tvg-name="Paris Saint-Germain vs Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 49m | 02/05/26] Paris Saint-Germain vs Bayern Munich",[UPCO 23:59 WIB | 6j 49m | 02/05/26] Paris Saint-Germain vs Bayern Munich (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69f58983b8dcfa63f8ad582f" tvg-name="Paris Saint-Germain vs Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 7j 45m | 02/05/26] Paris Saint-Germain vs Bayern Munich",[UPCO 23:59 WIB | 7j 45m | 02/05/26] Paris Saint-Germain vs Bayern Munich (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69f58983b8dcfa63f8ad582f" tvg-name="Paris Saint-Germain vs Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 6j 49m | 02/05/26] Paris Saint-Germain vs Bayern Munich",[UPCO 23:59 WIB | 6j 49m | 02/05/26] Paris Saint-Germain vs Bayern Munich (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
+#EXTINF:-1 tvg-id="2y8m4zh56jnnql0" tvg-name="Gwangju Football Club vs Daejeon Citizen" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 17:00 WIB | 02/05/26] Gwangju Football Club vs Daejeon Citizen",[LIVE 17:00 WIB | 02/05/26] Gwangju Football Club vs Daejeon Citizen (HOÀNG CÁI)
+https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="2y8m4zh56jnnql0" tvg-name="Gwangju Football Club vs Daejeon Citizen" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 17:00 WIB | 02/05/26] Gwangju Football Club vs Daejeon Citizen",[LIVE 17:00 WIB | 02/05/26] Gwangju Football Club vs Daejeon Citizen (HOÀNG CÁI)
+https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="318q66hxw0gkqo9" tvg-name="FC Anyang vs Bucheon FC 1995" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 17:00 WIB | 02/05/26] FC Anyang vs Bucheon FC 1995",[LIVE 17:00 WIB | 02/05/26] FC Anyang vs Bucheon FC 1995 (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="318q66hxw0gkqo9" tvg-name="FC Anyang vs Bucheon FC 1995" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 17:00 WIB | 02/05/26] FC Anyang vs Bucheon FC 1995",[LIVE 17:00 WIB | 02/05/26] FC Anyang vs Bucheon FC 1995 (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="y0or5jh8w42oqwz" tvg-name="Melbourne Victory vs Sydney FC" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 16:40 WIB | 02/05/26] Melbourne Victory vs Sydney FC",[LIVE 16:40 WIB | 02/05/26] Melbourne Victory vs Sydney FC (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="y0or5jh8w42oqwz" tvg-name="Melbourne Victory vs Sydney FC" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 16:40 WIB | 02/05/26] Melbourne Victory vs Sydney FC",[LIVE 16:40 WIB | 02/05/26] Melbourne Victory vs Sydney FC (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="x7lm7phj36nzm2w" tvg-name="AC Nagano Parceiro vs Fujieda MYFC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 16:00 WIB | 02/05/26] AC Nagano Parceiro vs Fujieda MYFC",[LIVE 16:00 WIB | 02/05/26] AC Nagano Parceiro vs Fujieda MYFC (Giàng A Sún)
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="x7lm7phj36nzm2w" tvg-name="AC Nagano Parceiro vs Fujieda MYFC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 16:00 WIB | 02/05/26] AC Nagano Parceiro vs Fujieda MYFC",[LIVE 16:00 WIB | 02/05/26] AC Nagano Parceiro vs Fujieda MYFC (Giàng A Sún)
