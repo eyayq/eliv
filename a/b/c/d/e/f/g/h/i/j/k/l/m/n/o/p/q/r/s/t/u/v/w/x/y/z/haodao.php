@@ -137,12 +137,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-fanta.flv
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [23:00 02/05] Xem Trực Tiếp Como vs Napoli - Văn Chuẩn 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan.flv
-
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [23:00 02/05] Xem Trực Tiếp Trung Quốc vs Đan Mạch - Người Cát 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
