@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.01 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.08 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="jw2r09hk6930rz8" tvg-name="FC Tokyo vs Kawasaki Frontale" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 02/05/26] FC Tokyo vs Kawasaki Frontale",[LIVE 12:00 WIB | 02/05/26] FC Tokyo vs Kawasaki Frontale (Giàng A Khoai)
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
@@ -9,14 +9,14 @@ https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="8yomo4h1gx8yq0j" tvg-name="Yokohama F. Marinos vs Mito Hollyhock" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 02/05/26] Yokohama F. Marinos vs Mito Hollyhock",[LIVE 12:00 WIB | 02/05/26] Yokohama F. Marinos vs Mito Hollyhock (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="vjxm8ghelg3er6o" tvg-name="Ulsan HD FC vs Pohang Steelers" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers",[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="vjxm8ghelg3er6o" tvg-name="Ulsan HD FC vs Pohang Steelers" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers",[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="vjxm8ghelg3er6o" tvg-name="Ulsan HD FC vs Pohang Steelers" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers",[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="vjxm8ghelg3er6o" tvg-name="Ulsan HD FC vs Pohang Steelers" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers",[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers (HOÀNG CÁI)
 https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="vjxm8ghelg3er6o" tvg-name="Ulsan HD FC vs Pohang Steelers" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers",[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="vjxm8ghelg3er6o" tvg-name="Ulsan HD FC vs Pohang Steelers" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers",[LIVE 12:00 WIB | 02/05/26] Ulsan HD FC vs Pohang Steelers (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="8yomo4h13k4yq0j" tvg-name="Football Club Seoul vs Gimcheon Sangmu Football Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 02/05/26] Football Club Seoul vs Gimcheon Sangmu Football Club",[LIVE 12:00 WIB | 02/05/26] Football Club Seoul vs Gimcheon Sangmu Football Club (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="8yomo4h13k4yq0j" tvg-name="Football Club Seoul vs Gimcheon Sangmu Football Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 02/05/26] Football Club Seoul vs Gimcheon Sangmu Football Club",[LIVE 12:00 WIB | 02/05/26] Football Club Seoul vs Gimcheon Sangmu Football Club (BLV GÀ PHÁP)
@@ -29,7 +29,7 @@ https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1
 https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="1l4rjnh9j5okm7v" tvg-name="Fagiano Okayama vs Sanfrecce Hiroshima" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 10:55 WIB | 02/05/26] Fagiano Okayama vs Sanfrecce Hiroshima",[LIVE 10:55 WIB | 02/05/26] Fagiano Okayama vs Sanfrecce Hiroshima (DERICE)
 https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="4jwq2ghnzpy1m0v" tvg-name="Gamba Osaka vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 58m | 02/05/26] Gamba Osaka vs Vissel Kobe",[UPCO 13:00 WIB | 58m | 02/05/26] Gamba Osaka vs Vissel Kobe (Giàng A Lỏ)
+#EXTINF:-1 tvg-id="4jwq2ghnzpy1m0v" tvg-name="Gamba Osaka vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 51m | 02/05/26] Gamba Osaka vs Vissel Kobe",[UPCO 13:00 WIB | 51m | 02/05/26] Gamba Osaka vs Vissel Kobe (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="4jwq2ghnzpy1m0v" tvg-name="Gamba Osaka vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 58m | 02/05/26] Gamba Osaka vs Vissel Kobe",[UPCO 13:00 WIB | 58m | 02/05/26] Gamba Osaka vs Vissel Kobe (Giàng A Lỏ)
+#EXTINF:-1 tvg-id="4jwq2ghnzpy1m0v" tvg-name="Gamba Osaka vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 51m | 02/05/26] Gamba Osaka vs Vissel Kobe",[UPCO 13:00 WIB | 51m | 02/05/26] Gamba Osaka vs Vissel Kobe (Giàng A Lỏ)
 https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
