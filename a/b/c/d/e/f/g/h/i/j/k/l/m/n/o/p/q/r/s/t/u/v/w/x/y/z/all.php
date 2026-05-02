@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.15 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.22 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="69f58983b8dcfa63f8ad582f" tvg-name="Paris Saint-Germain vs Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 36m | 02/05/26] Paris Saint-Germain vs Bayern Munich",[UPCO 23:59 WIB | 11j 36m | 02/05/26] Paris Saint-Germain vs Bayern Munich (Thích Đủ Thứ)
+https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
+#EXTINF:-1 tvg-id="69f58983b8dcfa63f8ad582f" tvg-name="Paris Saint-Germain vs Bayern Munich" tvg-logo="" group-title="[UPCO 23:59 WIB | 11j 36m | 02/05/26] Paris Saint-Germain vs Bayern Munich",[UPCO 23:59 WIB | 11j 36m | 02/05/26] Paris Saint-Germain vs Bayern Munich (Thích Đủ Thứ)
+https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
 #EXTINF:-1 tvg-id="jw2r09hk6930rz8" tvg-name="FC Tokyo vs Kawasaki Frontale" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 02/05/26] FC Tokyo vs Kawasaki Frontale",[LIVE 12:00 WIB | 02/05/26] FC Tokyo vs Kawasaki Frontale (Giàng A Khoai)
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="jw2r09hk6930rz8" tvg-name="FC Tokyo vs Kawasaki Frontale" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 02/05/26] FC Tokyo vs Kawasaki Frontale",[LIVE 12:00 WIB | 02/05/26] FC Tokyo vs Kawasaki Frontale (Giàng A Khoai)
@@ -29,7 +33,7 @@ https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1
 https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="1l4rjnh9j5okm7v" tvg-name="Fagiano Okayama vs Sanfrecce Hiroshima" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 10:55 WIB | 02/05/26] Fagiano Okayama vs Sanfrecce Hiroshima",[LIVE 10:55 WIB | 02/05/26] Fagiano Okayama vs Sanfrecce Hiroshima (DERICE)
 https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="4jwq2ghnzpy1m0v" tvg-name="Gamba Osaka vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 44m | 02/05/26] Gamba Osaka vs Vissel Kobe",[UPCO 13:00 WIB | 44m | 02/05/26] Gamba Osaka vs Vissel Kobe (Giàng A Lỏ)
+#EXTINF:-1 tvg-id="4jwq2ghnzpy1m0v" tvg-name="Gamba Osaka vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 37m | 02/05/26] Gamba Osaka vs Vissel Kobe",[UPCO 13:00 WIB | 37m | 02/05/26] Gamba Osaka vs Vissel Kobe (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="4jwq2ghnzpy1m0v" tvg-name="Gamba Osaka vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 44m | 02/05/26] Gamba Osaka vs Vissel Kobe",[UPCO 13:00 WIB | 44m | 02/05/26] Gamba Osaka vs Vissel Kobe (Giàng A Lỏ)
+#EXTINF:-1 tvg-id="4jwq2ghnzpy1m0v" tvg-name="Gamba Osaka vs Vissel Kobe" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 13:00 WIB | 37m | 02/05/26] Gamba Osaka vs Vissel Kobe",[UPCO 13:00 WIB | 37m | 02/05/26] Gamba Osaka vs Vissel Kobe (Giàng A Lỏ)
 https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
