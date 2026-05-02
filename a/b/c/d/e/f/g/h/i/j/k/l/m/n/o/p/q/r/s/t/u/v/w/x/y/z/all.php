@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.01 WIB 03/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.08 WIB 03/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="8yomo4h12z8wq0j" tvg-name="CA Osasuna vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona",[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="8yomo4h12z8wq0j" tvg-name="CA Osasuna vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona",[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="8yomo4h12z8wq0j" tvg-name="CA Osasuna vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona",[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona (Giàng A Long)
 https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="8yomo4h12z8wq0j" tvg-name="CA Osasuna vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona",[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona (Giàng A Long)
@@ -9,10 +13,6 @@ https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb022234
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="8yomo4h12z8wq0j" tvg-name="CA Osasuna vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona",[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona (Giàng A Kê)
 https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="8yomo4h12z8wq0j" tvg-name="CA Osasuna vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona",[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="8yomo4h12z8wq0j" tvg-name="CA Osasuna vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona",[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="8yomo4h12z8wq0j" tvg-name="CA Osasuna vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona",[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="8yomo4h12z8wq0j" tvg-name="CA Osasuna vs FC Barcelona" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona",[LIVE 02:00 WIB | 03/05/26] CA Osasuna vs FC Barcelona (GIÀNG A TÁO)
@@ -49,11 +49,11 @@ https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c9559855
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="965mkyhke7ekr1g" tvg-name="FC Famalicao vs Benfica" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 00:00 WIB | 03/05/26] FC Famalicao vs Benfica",[LIVE 00:00 WIB | 03/05/26] FC Famalicao vs Benfica (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="l5ergph43w4pr8k" tvg-name="OGC Nice vs RC Lens" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 02:05 WIB | 2m | 03/05/26] OGC Nice vs RC Lens",[UPCO 02:05 WIB | 2m | 03/05/26] OGC Nice vs RC Lens (GIÀNG A PHỆ )
+#EXTINF:-1 tvg-id="l5ergph43w4pr8k" tvg-name="OGC Nice vs RC Lens" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 03/05/26] OGC Nice vs RC Lens",[LIVE 02:05 WIB | 03/05/26] OGC Nice vs RC Lens (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="l5ergph43w4pr8k" tvg-name="OGC Nice vs RC Lens" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 02:05 WIB | 2m | 03/05/26] OGC Nice vs RC Lens",[UPCO 02:05 WIB | 2m | 03/05/26] OGC Nice vs RC Lens (GIÀNG A PHỆ )
+#EXTINF:-1 tvg-id="l5ergph43w4pr8k" tvg-name="OGC Nice vs RC Lens" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 02:05 WIB | 03/05/26] OGC Nice vs RC Lens",[LIVE 02:05 WIB | 03/05/26] OGC Nice vs RC Lens (GIÀNG A PHỆ )
 https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="y39mp1h6y3ydmoj" tvg-name="FC Porto vs Alverca" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 27m | 03/05/26] FC Porto vs Alverca",[UPCO 02:30 WIB | 27m | 03/05/26] FC Porto vs Alverca (VĂN GÔN)
+#EXTINF:-1 tvg-id="y39mp1h6y3ydmoj" tvg-name="FC Porto vs Alverca" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 21m | 03/05/26] FC Porto vs Alverca",[UPCO 02:30 WIB | 21m | 03/05/26] FC Porto vs Alverca (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="y39mp1h6y3ydmoj" tvg-name="FC Porto vs Alverca" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 27m | 03/05/26] FC Porto vs Alverca",[UPCO 02:30 WIB | 27m | 03/05/26] FC Porto vs Alverca (VĂN GÔN)
+#EXTINF:-1 tvg-id="y39mp1h6y3ydmoj" tvg-name="FC Porto vs Alverca" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 21m | 03/05/26] FC Porto vs Alverca",[UPCO 02:30 WIB | 21m | 03/05/26] FC Porto vs Alverca (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
