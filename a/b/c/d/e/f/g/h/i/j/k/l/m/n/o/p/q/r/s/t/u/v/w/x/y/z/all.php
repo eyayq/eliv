@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [10.08 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [10.14 WIB 02/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="x7lm7phj2o5jm2w" tvg-name="Upper Hutt City vs Wellington Olympic" tvg-logo="https://img.cdnok9.com/football/competition/b334e98bd31355e2781528746357247f.png" group-title="[LIVE 10:00 WIB | 02/05/26] Upper Hutt City vs Wellington Olympic",[LIVE 10:00 WIB | 02/05/26] Upper Hutt City vs Wellington Olympic (Giàng A Mèo)
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
