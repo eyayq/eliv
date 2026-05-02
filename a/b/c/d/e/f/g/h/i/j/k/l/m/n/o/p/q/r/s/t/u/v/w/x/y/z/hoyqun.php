@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:10 WIB 02/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:10 WIB 02/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:17 WIB 02/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:17 WIB 02/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[20:30 WIB 02/05/26] Bayern München vs 1. FC Heidenheim [FHD] [LIVE]
@@ -181,6 +181,15 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 03/05/26] Kashima vs Machida Zelvia [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[15:00 WIB 03/05/26] V-varen Nagasaki vs Nagoya Grampus [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[15:00 WIB 03/05/26] V-varen Nagasaki vs Nagoya Grampus [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[15:00 WIB 03/05/26] V-varen Nagasaki vs Nagoya Grampus [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 03/05/26] Song Lam Nghe An vs Hoang Anh Gia Lai [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
