@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.16 WIB 03/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.22 WIB 03/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Giàng A Gấu)
@@ -13,6 +13,10 @@ https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa69089696
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Giàng A Kê)
 https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Giàng A Sếu)
@@ -21,10 +25,10 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="x7lm7phjowzom2w" tvg-name="Arsenal vs Fulham" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham",[LIVE 23:30 WIB | 02/05/26] Arsenal vs Fulham (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="23xmvkh6dx2xqg8" tvg-name="Deportivo Alavés vs Athletic Club" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 02/05/26] Deportivo Alavés vs Athletic Club",[LIVE 23:30 WIB | 02/05/26] Deportivo Alavés vs Athletic Club (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="23xmvkh6dx2xqg8" tvg-name="Deportivo Alavés vs Athletic Club" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 02/05/26] Deportivo Alavés vs Athletic Club",[LIVE 23:30 WIB | 02/05/26] Deportivo Alavés vs Athletic Club (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="1l4rjnh91e8km7v" tvg-name="AFC Ajax vs PSV Eindhoven" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 01:00 WIB | 03/05/26] AFC Ajax vs PSV Eindhoven",[LIVE 01:00 WIB | 03/05/26] AFC Ajax vs PSV Eindhoven (GIÀNG A TỨ )
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="1l4rjnh91e8km7v" tvg-name="AFC Ajax vs PSV Eindhoven" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 01:00 WIB | 03/05/26] AFC Ajax vs PSV Eindhoven",[LIVE 01:00 WIB | 03/05/26] AFC Ajax vs PSV Eindhoven (GIÀNG A TỨ )
@@ -57,11 +61,11 @@ https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="965mkyhk3v4yr1g" tvg-name="Fenerbahce vs Başakşehir Futbol Kulübü" tvg-logo="https://img.cdnok9.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" group-title="[LIVE 00:00 WIB | 03/05/26] Fenerbahce vs Başakşehir Futbol Kulübü",[LIVE 00:00 WIB | 03/05/26] Fenerbahce vs Başakşehir Futbol Kulübü (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="23xmvkh6dx2xqg8" tvg-name="Deportivo Alavés vs Athletic Club" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 02/05/26] Deportivo Alavés vs Athletic Club",[LIVE 23:30 WIB | 02/05/26] Deportivo Alavés vs Athletic Club (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="23xmvkh6dx2xqg8" tvg-name="Deportivo Alavés vs Athletic Club" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 02/05/26] Deportivo Alavés vs Athletic Club",[LIVE 23:30 WIB | 02/05/26] Deportivo Alavés vs Athletic Club (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="x7lm7phjvk94m2w" tvg-name="Sint-Truidense vs Union Saint-Gilloise" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 01:45 WIB | 28m | 03/05/26] Sint-Truidense vs Union Saint-Gilloise",[UPCO 01:45 WIB | 28m | 03/05/26] Sint-Truidense vs Union Saint-Gilloise (PHONG VÂN)
+#EXTINF:-1 tvg-id="x7lm7phjvk94m2w" tvg-name="Sint-Truidense vs Union Saint-Gilloise" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 01:45 WIB | 22m | 03/05/26] Sint-Truidense vs Union Saint-Gilloise",[UPCO 01:45 WIB | 22m | 03/05/26] Sint-Truidense vs Union Saint-Gilloise (PHONG VÂN)
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="x7lm7phjvk94m2w" tvg-name="Sint-Truidense vs Union Saint-Gilloise" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 01:45 WIB | 28m | 03/05/26] Sint-Truidense vs Union Saint-Gilloise",[UPCO 01:45 WIB | 28m | 03/05/26] Sint-Truidense vs Union Saint-Gilloise (PHONG VÂN)
+#EXTINF:-1 tvg-id="x7lm7phjvk94m2w" tvg-name="Sint-Truidense vs Union Saint-Gilloise" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 01:45 WIB | 22m | 03/05/26] Sint-Truidense vs Union Saint-Gilloise",[UPCO 01:45 WIB | 22m | 03/05/26] Sint-Truidense vs Union Saint-Gilloise (PHONG VÂN)
 https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="l5ergph4ozner8k" tvg-name="Atalanta vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 22m | 03/05/26] Atalanta vs Genoa",[UPCO 01:45 WIB | 22m | 03/05/26] Atalanta vs Genoa (Giàng A Lỏ)
+https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+#EXTINF:-1 tvg-id="l5ergph4ozner8k" tvg-name="Atalanta vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 22m | 03/05/26] Atalanta vs Genoa",[UPCO 01:45 WIB | 22m | 03/05/26] Atalanta vs Genoa (Giàng A Lỏ)
+https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
