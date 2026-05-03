@@ -1,18 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.11 WIB 04/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [02.15 WIB 04/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Húp)
@@ -21,6 +17,10 @@ https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Thích Đủ Thứ)
 https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (VĂN VỞ)
@@ -45,14 +45,6 @@ https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009ce
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="8yomo4h17w0xq0j" tvg-name="Inter Milan vs Parma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 04/05/26] Inter Milan vs Parma",[LIVE 01:45 WIB | 04/05/26] Inter Milan vs Parma (Giàng A Lỏ)
-https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="8yomo4h17w0xq0j" tvg-name="Inter Milan vs Parma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 04/05/26] Inter Milan vs Parma",[LIVE 01:45 WIB | 04/05/26] Inter Milan vs Parma (Giàng A Lỏ)
-https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="318q66hx0wxvqo9" tvg-name="Lyon vs Stade Rennais FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 01:45 WIB | 04/05/26] Lyon vs Stade Rennais FC",[LIVE 01:45 WIB | 04/05/26] Lyon vs Stade Rennais FC (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="318q66hx0wxvqo9" tvg-name="Lyon vs Stade Rennais FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 01:45 WIB | 04/05/26] Lyon vs Stade Rennais FC",[LIVE 01:45 WIB | 04/05/26] Lyon vs Stade Rennais FC (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="4wyrn4h6w6n7q86" tvg-name="Panathinaikos vs AEK Athens" tvg-logo="https://img.cdnok9.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png" group-title="[LIVE 01:00 WIB | 04/05/26] Panathinaikos vs AEK Athens",[LIVE 01:00 WIB | 04/05/26] Panathinaikos vs AEK Athens (GIÀNG A BẨY )
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="4wyrn4h6w6n7q86" tvg-name="Panathinaikos vs AEK Athens" tvg-logo="https://img.cdnok9.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png" group-title="[LIVE 01:00 WIB | 04/05/26] Panathinaikos vs AEK Athens",[LIVE 01:00 WIB | 04/05/26] Panathinaikos vs AEK Athens (GIÀNG A BẨY )
@@ -65,7 +57,15 @@ https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="jw2r09hk036vrz8" tvg-name="New York City FC vs DC United" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 02:00 WIB | 04/05/26] New York City FC vs DC United",[LIVE 02:00 WIB | 04/05/26] New York City FC vs DC United (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="dn1m1ghl343dmoe" tvg-name="Rio Ave vs Gil Vicente" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 18m | 04/05/26] Rio Ave vs Gil Vicente",[UPCO 02:30 WIB | 18m | 04/05/26] Rio Ave vs Gil Vicente (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="8yomo4h17w0xq0j" tvg-name="Inter Milan vs Parma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 04/05/26] Inter Milan vs Parma",[LIVE 01:45 WIB | 04/05/26] Inter Milan vs Parma (Giàng A Lỏ)
+https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+#EXTINF:-1 tvg-id="8yomo4h17w0xq0j" tvg-name="Inter Milan vs Parma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 04/05/26] Inter Milan vs Parma",[LIVE 01:45 WIB | 04/05/26] Inter Milan vs Parma (Giàng A Lỏ)
+https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+#EXTINF:-1 tvg-id="318q66hx0wxvqo9" tvg-name="Lyon vs Stade Rennais FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 01:45 WIB | 04/05/26] Lyon vs Stade Rennais FC",[LIVE 01:45 WIB | 04/05/26] Lyon vs Stade Rennais FC (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="318q66hx0wxvqo9" tvg-name="Lyon vs Stade Rennais FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 01:45 WIB | 04/05/26] Lyon vs Stade Rennais FC",[LIVE 01:45 WIB | 04/05/26] Lyon vs Stade Rennais FC (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="dn1m1ghl343dmoe" tvg-name="Rio Ave vs Gil Vicente" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 14m | 04/05/26] Rio Ave vs Gil Vicente",[UPCO 02:30 WIB | 14m | 04/05/26] Rio Ave vs Gil Vicente (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="dn1m1ghl343dmoe" tvg-name="Rio Ave vs Gil Vicente" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 18m | 04/05/26] Rio Ave vs Gil Vicente",[UPCO 02:30 WIB | 18m | 04/05/26] Rio Ave vs Gil Vicente (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="dn1m1ghl343dmoe" tvg-name="Rio Ave vs Gil Vicente" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[UPCO 02:30 WIB | 14m | 04/05/26] Rio Ave vs Gil Vicente",[UPCO 02:30 WIB | 14m | 04/05/26] Rio Ave vs Gil Vicente (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
