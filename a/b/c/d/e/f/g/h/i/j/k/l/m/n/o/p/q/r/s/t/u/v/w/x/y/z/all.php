@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.42 WIB 04/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.45 WIB 04/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (Giàng A Gấu)
@@ -21,14 +21,10 @@ https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df7
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (Giàng A Sếu)
 https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="dn1m1ghl343dmoe" tvg-name="Rio Ave vs Gil Vicente" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 04/05/26] Rio Ave vs Gil Vicente",[LIVE 02:30 WIB | 04/05/26] Rio Ave vs Gil Vicente (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="dn1m1ghl343dmoe" tvg-name="Rio Ave vs Gil Vicente" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 04/05/26] Rio Ave vs Gil Vicente",[LIVE 02:30 WIB | 04/05/26] Rio Ave vs Gil Vicente (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="l5ergph4vpdjr8k" tvg-name="RCD Espanyol de Barcelona vs Real Madrid" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid",[LIVE 02:00 WIB | 04/05/26] RCD Espanyol de Barcelona vs Real Madrid (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="jw2r09hk036vrz8" tvg-name="New York City FC vs DC United" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 02:10 WIB | 04/05/26] New York City FC vs DC United",[LIVE 02:10 WIB | 04/05/26] New York City FC vs DC United (Giàng A Khoai)
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="jw2r09hk036vrz8" tvg-name="New York City FC vs DC United" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 02:10 WIB | 04/05/26] New York City FC vs DC United",[LIVE 02:10 WIB | 04/05/26] New York City FC vs DC United (Giàng A Khoai)
@@ -41,3 +37,7 @@ https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="318q66hx0wxvqo9" tvg-name="Lyon vs Stade Rennais FC" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 01:45 WIB | 04/05/26] Lyon vs Stade Rennais FC",[LIVE 01:45 WIB | 04/05/26] Lyon vs Stade Rennais FC (GIÀNG A PHỆ )
 https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="dn1m1ghl343dmoe" tvg-name="Rio Ave vs Gil Vicente" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 04/05/26] Rio Ave vs Gil Vicente",[LIVE 02:30 WIB | 04/05/26] Rio Ave vs Gil Vicente (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="dn1m1ghl343dmoe" tvg-name="Rio Ave vs Gil Vicente" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:30 WIB | 04/05/26] Rio Ave vs Gil Vicente",[LIVE 02:30 WIB | 04/05/26] Rio Ave vs Gil Vicente (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
