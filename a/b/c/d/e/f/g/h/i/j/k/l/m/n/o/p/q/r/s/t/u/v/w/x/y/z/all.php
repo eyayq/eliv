@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.19 WIB 03/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [19.26 WIB 03/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="jw2r09hklewwrz8" tvg-name="Bologna vs Cagliari" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 17:30 WIB | 03/05/26] Bologna vs Cagliari",[LIVE 17:30 WIB | 03/05/26] Bologna vs Cagliari (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
@@ -17,6 +17,14 @@ https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df7
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="y39mp1h6j9ozmoj" tvg-name="RC Celta vs Elche" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 03/05/26] RC Celta vs Elche",[LIVE 19:00 WIB | 03/05/26] RC Celta vs Elche (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="l5ergph4lvp9r8k" tvg-name="Hammarby vs Vasteras SK FK" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 19:00 WIB | 03/05/26] Hammarby vs Vasteras SK FK",[LIVE 19:00 WIB | 03/05/26] Hammarby vs Vasteras SK FK (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="l5ergph4lvp9r8k" tvg-name="Hammarby vs Vasteras SK FK" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 19:00 WIB | 03/05/26] Hammarby vs Vasteras SK FK",[LIVE 19:00 WIB | 03/05/26] Hammarby vs Vasteras SK FK (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="jw2r09hk0oe6rz8" tvg-name="Lamphun Warriors vs Chiangrai United" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 19:00 WIB | 03/05/26] Lamphun Warriors vs Chiangrai United",[LIVE 19:00 WIB | 03/05/26] Lamphun Warriors vs Chiangrai United (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="jw2r09hk0oe6rz8" tvg-name="Lamphun Warriors vs Chiangrai United" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 19:00 WIB | 03/05/26] Lamphun Warriors vs Chiangrai United",[LIVE 19:00 WIB | 03/05/26] Lamphun Warriors vs Chiangrai United (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="dn1m1ghlx4opmoe" tvg-name="KV Mechelen vs KAA Gent" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 18:30 WIB | 03/05/26] KV Mechelen vs KAA Gent",[LIVE 18:30 WIB | 03/05/26] KV Mechelen vs KAA Gent (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="dn1m1ghlx4opmoe" tvg-name="KV Mechelen vs KAA Gent" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 18:30 WIB | 03/05/26] KV Mechelen vs KAA Gent",[LIVE 18:30 WIB | 03/05/26] KV Mechelen vs KAA Gent (VĂN GÔN)
@@ -45,14 +53,6 @@ https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484f
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="k82rekhg135yrep" tvg-name="Taichung Futuro vs Ming Chuan University" tvg-logo="https://img.cdnok9.com/football/competition/cdfdbf3496e387c1d4166da2ad4fbd1a.png" group-title="[LIVE 18:00 WIB | 03/05/26] Taichung Futuro vs Ming Chuan University",[LIVE 18:00 WIB | 03/05/26] Taichung Futuro vs Ming Chuan University (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="6ypq3nhv51x9md7" tvg-name="Volendam vs SC Heerenveen" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 17:15 WIB | 03/05/26] Volendam vs SC Heerenveen",[LIVE 17:15 WIB | 03/05/26] Volendam vs SC Heerenveen (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="6ypq3nhv51x9md7" tvg-name="Volendam vs SC Heerenveen" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 17:15 WIB | 03/05/26] Volendam vs SC Heerenveen",[LIVE 17:15 WIB | 03/05/26] Volendam vs SC Heerenveen (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="6ypq3nhv51x9md7" tvg-name="Volendam vs SC Heerenveen" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 17:15 WIB | 03/05/26] Volendam vs SC Heerenveen",[LIVE 17:15 WIB | 03/05/26] Volendam vs SC Heerenveen (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="6ypq3nhv51x9md7" tvg-name="Volendam vs SC Heerenveen" tvg-logo="https://img.cdnok9.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LIVE 17:15 WIB | 03/05/26] Volendam vs SC Heerenveen",[LIVE 17:15 WIB | 03/05/26] Volendam vs SC Heerenveen (BLV GÀ PHÁP)
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="3glrw7hny2l4qdy" tvg-name="Dewa United FC vs Semen Padang" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:00 WIB | 03/05/26] Dewa United FC vs Semen Padang",[LIVE 19:00 WIB | 03/05/26] Dewa United FC vs Semen Padang (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="3glrw7hny2l4qdy" tvg-name="Dewa United FC vs Semen Padang" tvg-logo="https://img.cdnok9.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LIVE 19:00 WIB | 03/05/26] Dewa United FC vs Semen Padang",[LIVE 19:00 WIB | 03/05/26] Dewa United FC vs Semen Padang (Giàng A Voi)
@@ -61,15 +61,23 @@ https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 tvg-id="jw2r09hk6x1erz8" tvg-name="Malmo FF vs Mjallby AIF" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 19:00 WIB | 03/05/26] Malmo FF vs Mjallby AIF",[LIVE 19:00 WIB | 03/05/26] Malmo FF vs Mjallby AIF (Giàng A Lỏ)
 https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="l5ergph4lvp9r8k" tvg-name="Hammarby vs Vasteras SK FK" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 19:00 WIB | 03/05/26] Hammarby vs Vasteras SK FK",[LIVE 19:00 WIB | 03/05/26] Hammarby vs Vasteras SK FK (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="l5ergph4lvp9r8k" tvg-name="Hammarby vs Vasteras SK FK" tvg-logo="https://img.cdnok9.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png" group-title="[LIVE 19:00 WIB | 03/05/26] Hammarby vs Vasteras SK FK",[LIVE 19:00 WIB | 03/05/26] Hammarby vs Vasteras SK FK (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="jw2r09hk0oe6rz8" tvg-name="Lamphun Warriors vs Chiangrai United" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 19:00 WIB | 03/05/26] Lamphun Warriors vs Chiangrai United",[LIVE 19:00 WIB | 03/05/26] Lamphun Warriors vs Chiangrai United (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="jw2r09hk0oe6rz8" tvg-name="Lamphun Warriors vs Chiangrai United" tvg-logo="https://img.cdnok9.com/football/competition/568f4b544f3d286be88ecffebb132726.png" group-title="[LIVE 19:00 WIB | 03/05/26] Lamphun Warriors vs Chiangrai United",[LIVE 19:00 WIB | 03/05/26] Lamphun Warriors vs Chiangrai United (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="3glrw7hnwxz7qdy" tvg-name="Sassuolo vs AC Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 40m | 03/05/26] Sassuolo vs AC Milan",[UPCO 20:00 WIB | 40m | 03/05/26] Sassuolo vs AC Milan (Giàng A Kê)
+#EXTINF:-1 tvg-id="318q66hx0z4nqo9" tvg-name="Zaglebie Lubin vs Cracovia Krakow" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[UPCO 19:45 WIB | 18m | 03/05/26] Zaglebie Lubin vs Cracovia Krakow",[UPCO 19:45 WIB | 18m | 03/05/26] Zaglebie Lubin vs Cracovia Krakow (Giàng A Páo)
+https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-id="318q66hx0z4nqo9" tvg-name="Zaglebie Lubin vs Cracovia Krakow" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[UPCO 19:45 WIB | 18m | 03/05/26] Zaglebie Lubin vs Cracovia Krakow",[UPCO 19:45 WIB | 18m | 03/05/26] Zaglebie Lubin vs Cracovia Krakow (Giàng A Páo)
+https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+#EXTINF:-1 tvg-id="318q66hx0z4nqo9" tvg-name="Zaglebie Lubin vs Cracovia Krakow" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[UPCO 19:45 WIB | 18m | 03/05/26] Zaglebie Lubin vs Cracovia Krakow",[UPCO 19:45 WIB | 18m | 03/05/26] Zaglebie Lubin vs Cracovia Krakow (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="318q66hx0z4nqo9" tvg-name="Zaglebie Lubin vs Cracovia Krakow" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[UPCO 19:45 WIB | 18m | 03/05/26] Zaglebie Lubin vs Cracovia Krakow",[UPCO 19:45 WIB | 18m | 03/05/26] Zaglebie Lubin vs Cracovia Krakow (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="k82rekhg9wg9rep" tvg-name="LOSC Lille vs Havre Athletic Club" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 20:00 WIB | 33m | 03/05/26] LOSC Lille vs Havre Athletic Club",[UPCO 20:00 WIB | 33m | 03/05/26] LOSC Lille vs Havre Athletic Club (Giàng A Khoai)
+https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="k82rekhg9wg9rep" tvg-name="LOSC Lille vs Havre Athletic Club" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[UPCO 20:00 WIB | 33m | 03/05/26] LOSC Lille vs Havre Athletic Club",[UPCO 20:00 WIB | 33m | 03/05/26] LOSC Lille vs Havre Athletic Club (Giàng A Khoai)
+https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+#EXTINF:-1 tvg-id="3glrw7hnwxz7qdy" tvg-name="Sassuolo vs AC Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 33m | 03/05/26] Sassuolo vs AC Milan",[UPCO 20:00 WIB | 33m | 03/05/26] Sassuolo vs AC Milan (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="3glrw7hnwxz7qdy" tvg-name="Sassuolo vs AC Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 33m | 03/05/26] Sassuolo vs AC Milan",[UPCO 20:00 WIB | 33m | 03/05/26] Sassuolo vs AC Milan (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="3glrw7hnwxz7qdy" tvg-name="Sassuolo vs AC Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 33m | 03/05/26] Sassuolo vs AC Milan",[UPCO 20:00 WIB | 33m | 03/05/26] Sassuolo vs AC Milan (Giàng A Kê)
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="3glrw7hnwxz7qdy" tvg-name="Sassuolo vs AC Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 40m | 03/05/26] Sassuolo vs AC Milan",[UPCO 20:00 WIB | 40m | 03/05/26] Sassuolo vs AC Milan (Giàng A Kê)
+#EXTINF:-1 tvg-id="3glrw7hnwxz7qdy" tvg-name="Sassuolo vs AC Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 20:00 WIB | 33m | 03/05/26] Sassuolo vs AC Milan",[UPCO 20:00 WIB | 33m | 03/05/26] Sassuolo vs AC Milan (Giàng A Kê)
 https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
