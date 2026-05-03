@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:05 WIB 03/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:05 WIB 03/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:12 WIB 03/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:12 WIB 03/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[18:30 WIB 03/05/26] Trung Quốc vs Hàn Quốc (Nữ) [FHD] [LIVE]
@@ -47,13 +47,13 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( Fan Trung Lập )",[21:30 WIB 03/05/26] Manchester United vs Liverpool [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League ( OFF Fan MU )",[21:30 WIB 03/05/26] Manchester United vs Liverpool [FHD] [LIVE]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( OFF Fan MU )",[21:30 WIB 03/05/26] Manchester United vs Liverpool [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League ( OFF Fan MU )",[21:30 WIB 03/05/26] Manchester United vs Liverpool [HD] [LIVE]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( OFF Fan MU )",[21:30 WIB 03/05/26] Manchester United vs Liverpool [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Premier League ( OFF Fan MU )",[21:30 WIB 03/05/26] Manchester United vs Liverpool [SD] [LIVE]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League ( OFF Fan MU )",[21:30 WIB 03/05/26] Manchester United vs Liverpool [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/88.png" group-title="Eredivisie",[21:45 WIB 03/05/26] AZ Alkmaar vs Twente [FHD] [NANTIKAN]
