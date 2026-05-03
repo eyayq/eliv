@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [00.05 WIB 04/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [00.18 WIB 04/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456138829-football-icon.svg" group-title="[LIVE 22:15 WIB 03/05/26] Paris FC vs Stade Brestois 29",[LIVE 22:15 WIB 03/05/26] Paris FC vs Stade Brestois 29 (FHD)
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767890792303-football-icon.png" group-title="[LIVE 22:30 WIB 03/05/26] Borussia Mönchengladbach vs Borussia Dortmund",[LIVE 22:30 WIB 03/05/26] Borussia Mönchengladbach vs Borussia Dortmund (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456240229-football-icon.svg" group-title="[LIVE 23:00 WIB 03/05/26] Juventus vs Verona",[LIVE 23:00 WIB 03/05/26] Juventus vs Verona (FHD)
@@ -11,9 +9,11 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[LIVE 23:30 WIB 03/05/26] Real Betis vs Oviedo",[LIVE 23:30 WIB 03/05/26] Real Betis vs Oviedo (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[UPCOMING 0j 54m 01:00 WIB 04/05/26] Aston Villa vs Tottenham",[UPCOMING 0j 54m 01:00 WIB 04/05/26] Aston Villa vs Tottenham (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767890792303-football-icon.png" group-title="[LIVE 00:30 WIB 04/05/26] SC Freiburg vs VfL Wolfsburg",[LIVE 00:30 WIB 04/05/26] SC Freiburg vs VfL Wolfsburg (FHD)
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[UPCOMING 0j 41m 01:00 WIB 04/05/26] Aston Villa vs Tottenham",[UPCOMING 0j 41m 01:00 WIB 04/05/26] Aston Villa vs Tottenham (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456156134-football-icon.svg" group-title="[UPCOMING 0j 54m 01:00 WIB 04/05/26] Al-Qadisiyah FC vs Al-Nassr",[UPCOMING 0j 54m 01:00 WIB 04/05/26] Al-Qadisiyah FC vs Al-Nassr (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456156134-football-icon.svg" group-title="[UPCOMING 0j 41m 01:00 WIB 04/05/26] Al-Qadisiyah FC vs Al-Nassr",[UPCOMING 0j 41m 01:00 WIB 04/05/26] Al-Qadisiyah FC vs Al-Nassr (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456240229-football-icon.svg" group-title="[UPCOMING 1j 39m 01:45 WIB 04/05/26] Inter vs Parma",[UPCOMING 1j 39m 01:45 WIB 04/05/26] Inter vs Parma (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456240229-football-icon.svg" group-title="[UPCOMING 1j 26m 01:45 WIB 04/05/26] Inter vs Parma",[UPCOMING 1j 26m 01:45 WIB 04/05/26] Inter vs Parma (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
