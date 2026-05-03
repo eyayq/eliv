@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.49 WIB 03/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.59 WIB 03/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="pxwrxlhy59n9ryk" tvg-name="Hwaseong FC vs Ansan Greeners FC" tvg-logo="https://img.cdnok9.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png" group-title="[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC",[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC (Giàng A Voi)
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="pxwrxlhy59n9ryk" tvg-name="Hwaseong FC vs Ansan Greeners FC" tvg-logo="https://img.cdnok9.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png" group-title="[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC",[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC (Giàng A Voi)
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="pxwrxlhy59n9ryk" tvg-name="Hwaseong FC vs Ansan Greeners FC" tvg-logo="https://img.cdnok9.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png" group-title="[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC",[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC (Giàng A Mèo)
+https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+#EXTINF:-1 tvg-id="pxwrxlhy59n9ryk" tvg-name="Hwaseong FC vs Ansan Greeners FC" tvg-logo="https://img.cdnok9.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png" group-title="[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC",[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC (Giàng A Mèo)
+https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="zp5rzghg6k4dq82" tvg-name="Montedio Yamagata vs Tochigi SC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 12:00 WIB | 03/05/26] Montedio Yamagata vs Tochigi SC",[LIVE 12:00 WIB | 03/05/26] Montedio Yamagata vs Tochigi SC (Giàng A Sún)
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="zp5rzghg6k4dq82" tvg-name="Montedio Yamagata vs Tochigi SC" tvg-logo="https://img.cdnok9.com/football/competition/0fb580bce0dd25298f777277ab60bcf1.png" group-title="[LIVE 12:00 WIB | 03/05/26] Montedio Yamagata vs Tochigi SC",[LIVE 12:00 WIB | 03/05/26] Montedio Yamagata vs Tochigi SC (Giàng A Sún)
@@ -17,11 +25,3 @@ https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad4
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="3glrw7hn7j9yqdy" tvg-name="Seoul E-Land FC vs Gimpo FC" tvg-logo="https://img.cdnok9.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png" group-title="[LIVE 12:00 WIB | 03/05/26] Seoul E-Land FC vs Gimpo FC",[LIVE 12:00 WIB | 03/05/26] Seoul E-Land FC vs Gimpo FC (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="pxwrxlhy59n9ryk" tvg-name="Hwaseong FC vs Ansan Greeners FC" tvg-logo="https://img.cdnok9.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png" group-title="[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC",[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="pxwrxlhy59n9ryk" tvg-name="Hwaseong FC vs Ansan Greeners FC" tvg-logo="https://img.cdnok9.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png" group-title="[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC",[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="pxwrxlhy59n9ryk" tvg-name="Hwaseong FC vs Ansan Greeners FC" tvg-logo="https://img.cdnok9.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png" group-title="[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC",[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC (Giàng A Mèo)
-https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="pxwrxlhy59n9ryk" tvg-name="Hwaseong FC vs Ansan Greeners FC" tvg-logo="https://img.cdnok9.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png" group-title="[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC",[LIVE 12:00 WIB | 03/05/26] Hwaseong FC vs Ansan Greeners FC (Giàng A Mèo)
-https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
