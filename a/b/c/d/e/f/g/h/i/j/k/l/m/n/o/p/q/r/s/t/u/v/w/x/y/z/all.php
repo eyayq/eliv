@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.12 WIB 04/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.18 WIB 04/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="ednm9whwzeo0ryo" tvg-name="Real Betis vs Real Oviedo" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo",[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="ednm9whwzeo0ryo" tvg-name="Real Betis vs Real Oviedo" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo",[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="ednm9whwzeo0ryo" tvg-name="Real Betis vs Real Oviedo" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo",[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="ednm9whwzeo0ryo" tvg-name="Real Betis vs Real Oviedo" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo",[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="ednm9whwzeo0ryo" tvg-name="Real Betis vs Real Oviedo" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo",[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="ednm9whwzeo0ryo" tvg-name="Real Betis vs Real Oviedo" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo",[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo (Giàng A Gấu)
@@ -17,10 +17,10 @@ https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df7
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="ednm9whwzeo0ryo" tvg-name="Real Betis vs Real Oviedo" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo",[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo (Giàng A Sếu)
 https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="ednm9whwzeo0ryo" tvg-name="Real Betis vs Real Oviedo" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo",[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="ednm9whwzeo0ryo" tvg-name="Real Betis vs Real Oviedo" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo",[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="ednm9whwzeo0ryo" tvg-name="Real Betis vs Real Oviedo" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo",[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="ednm9whwzeo0ryo" tvg-name="Real Betis vs Real Oviedo" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo",[LIVE 23:30 WIB | 03/05/26] Real Betis vs Real Oviedo (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="zp5rzghg7p51q82" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur",[LIVE 01:00 WIB | 04/05/26] Aston Villa vs Tottenham Hotspur (Giàng A Chiến)
@@ -61,7 +61,7 @@ https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="4jwq2ghnx4xzm0v" tvg-name="Sporting Braga vs Estoril" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 00:00 WIB | 04/05/26] Sporting Braga vs Estoril",[LIVE 00:00 WIB | 04/05/26] Sporting Braga vs Estoril (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="8yomo4h17w0xq0j" tvg-name="Inter Milan vs Parma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 32m | 04/05/26] Inter Milan vs Parma",[UPCO 01:45 WIB | 32m | 04/05/26] Inter Milan vs Parma (Giàng A Lỏ)
+#EXTINF:-1 tvg-id="8yomo4h17w0xq0j" tvg-name="Inter Milan vs Parma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 26m | 04/05/26] Inter Milan vs Parma",[UPCO 01:45 WIB | 26m | 04/05/26] Inter Milan vs Parma (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="8yomo4h17w0xq0j" tvg-name="Inter Milan vs Parma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 32m | 04/05/26] Inter Milan vs Parma",[UPCO 01:45 WIB | 32m | 04/05/26] Inter Milan vs Parma (Giàng A Lỏ)
+#EXTINF:-1 tvg-id="8yomo4h17w0xq0j" tvg-name="Inter Milan vs Parma" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 26m | 04/05/26] Inter Milan vs Parma",[UPCO 01:45 WIB | 26m | 04/05/26] Inter Milan vs Parma (Giàng A Lỏ)
 https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
