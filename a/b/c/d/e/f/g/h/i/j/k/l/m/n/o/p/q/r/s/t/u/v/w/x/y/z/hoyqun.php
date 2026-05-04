@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [00:38 WIB 05/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:38 WIB 05/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [00:46 WIB 05/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:46 WIB 05/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 04/05/26] Áo vs Triều Tiên (Nữ) [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 04/05/26] Áo vs Triều Tiên (Nữ) [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 04/05/26] Áo vs Triều Tiên (Nữ) [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 04/05/26] Al-Fayha vs Al Riyadh [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
@@ -236,6 +227,60 @@ https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 06/05/26] Arsenal vs Atletico Madrid [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:30 WIB 06/05/26] Tigres UANL vs Nashville SC [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:30 WIB 06/05/26] Tigres UANL vs Nashville SC [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:30 WIB 06/05/26] Tigres UANL vs Nashville SC [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[13:00 WIB 06/05/26] Sanfrecce Hiroshima vs Vissel Kobe [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[13:00 WIB 06/05/26] Sanfrecce Hiroshima vs Vissel Kobe [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[13:00 WIB 06/05/26] Sanfrecce Hiroshima vs Vissel Kobe [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 06/05/26] Machida Zelvia vs Yokohama F. Marinos [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 06/05/26] Machida Zelvia vs Yokohama F. Marinos [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 06/05/26] Machida Zelvia vs Yokohama F. Marinos [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 06/05/26] Kashiwa Reysol vs Urawa [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 06/05/26] Kashiwa Reysol vs Urawa [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 06/05/26] Kashiwa Reysol vs Urawa [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 06/05/26] SHANGHAI SIPG vs Sichuan Jiuniu [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 06/05/26] SHANGHAI SIPG vs Sichuan Jiuniu [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 06/05/26] SHANGHAI SIPG vs Sichuan Jiuniu [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/50/Logo_ASEAN_Club_Championship.svg/1502px-Logo_ASEAN_Club_Championship.svg.png" group-title="ASEAN Club Championship",[19:00 WIB 06/05/26] Johor Darul Takzim FC vs Buriram United [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/50/Logo_ASEAN_Club_Championship.svg/1502px-Logo_ASEAN_Club_Championship.svg.png" group-title="ASEAN Club Championship",[19:00 WIB 06/05/26] Johor Darul Takzim FC vs Buriram United [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/50/Logo_ASEAN_Club_Championship.svg/1502px-Logo_ASEAN_Club_Championship.svg.png" group-title="ASEAN Club Championship",[19:00 WIB 06/05/26] Johor Darul Takzim FC vs Buriram United [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/50/Logo_ASEAN_Club_Championship.svg/1502px-Logo_ASEAN_Club_Championship.svg.png" group-title="ASEAN Club Championship",[20:00 WIB 06/05/26] Selangor vs Nam Dinh [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
@@ -271,3 +316,48 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 07/05/26] Al-Ahli Jeddah vs Al-Fateh [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 07/05/26] Bayern München vs Paris Saint Germain [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 07/05/26] Bayern München vs Paris Saint Germain [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 07/05/26] Bayern München vs Paris Saint Germain [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 07/05/26] Bayern München vs Paris Saint Germain [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 07/05/26] Bayern München vs Paris Saint Germain [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 07/05/26] Bayern München vs Paris Saint Germain [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 07/05/26] Bayern München vs Paris Saint Germain [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 07/05/26] Bayern München vs Paris Saint Germain [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League",[02:00 WIB 07/05/26] Bayern München vs Paris Saint Germain [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:30 WIB 07/05/26] Toluca vs Los Angeles FC [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:30 WIB 07/05/26] Toluca vs Los Angeles FC [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:30 WIB 07/05/26] Toluca vs Los Angeles FC [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1101.png" group-title="AFC U17 Asian Cup - Women",[18:30 WIB 07/05/26] Vietnam U17 W vs Myanmar U17 W [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1101.png" group-title="AFC U17 Asian Cup - Women",[18:30 WIB 07/05/26] Vietnam U17 W vs Myanmar U17 W [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1101.png" group-title="AFC U17 Asian Cup - Women",[18:30 WIB 07/05/26] Vietnam U17 W vs Myanmar U17 W [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
