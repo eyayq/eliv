@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [23.59 WIB 04/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [00.03 WIB 05/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="dj2ryohlkwndq1z" tvg-name="Cremonese vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 04/05/26] Cremonese vs Lazio",[LIVE 23:30 WIB | 04/05/26] Cremonese vs Lazio (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
@@ -13,26 +13,22 @@ https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067a
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="dj2ryohlkwndq1z" tvg-name="Cremonese vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 23:30 WIB | 04/05/26] Cremonese vs Lazio",[LIVE 23:30 WIB | 04/05/26] Cremonese vs Lazio (Giàng A Sếu)
 https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="y0or5jh8n5kwqwz" tvg-name="Nasaf Qarshi vs Navbahor Namangan" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 22:00 WIB | 04/05/26] Nasaf Qarshi vs Navbahor Namangan",[LIVE 22:00 WIB | 04/05/26] Nasaf Qarshi vs Navbahor Namangan (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="y0or5jh8n5kwqwz" tvg-name="Nasaf Qarshi vs Navbahor Namangan" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 22:00 WIB | 04/05/26] Nasaf Qarshi vs Navbahor Namangan",[LIVE 22:00 WIB | 04/05/26] Nasaf Qarshi vs Navbahor Namangan (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="8yomo4h1g0kvq0j" tvg-name="HJK Helsinki vs Lahti" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti",[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="8yomo4h1g0kvq0j" tvg-name="HJK Helsinki vs Lahti" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti",[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="8yomo4h1g0kvq0j" tvg-name="HJK Helsinki vs Lahti" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti",[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="8yomo4h1g0kvq0j" tvg-name="HJK Helsinki vs Lahti" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti",[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti (BLV GÀ PHÁP)
 https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="jw2r09hk33yorz8" tvg-name="Heart of Midlothian vs Rangers" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers",[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="jw2r09hk33yorz8" tvg-name="Heart of Midlothian vs Rangers" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers",[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="8yomo4h1g0kvq0j" tvg-name="HJK Helsinki vs Lahti" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti",[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="8yomo4h1g0kvq0j" tvg-name="HJK Helsinki vs Lahti" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti",[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="jw2r09hk33yorz8" tvg-name="Heart of Midlothian vs Rangers" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers",[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="jw2r09hk33yorz8" tvg-name="Heart of Midlothian vs Rangers" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers",[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="jw2r09hk33yorz8" tvg-name="Heart of Midlothian vs Rangers" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers",[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="jw2r09hk33yorz8" tvg-name="Heart of Midlothian vs Rangers" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers",[LIVE 23:30 WIB | 04/05/26] Heart of Midlothian vs Rangers (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="23xmvkh6ydzpqg8" tvg-name="Qarabag vs Turan Tovuz" tvg-logo="https://img.cdnok9.com/football/competition/fef1f81febbe012e11f987726f8fef15.png" group-title="[LIVE 22:30 WIB | 04/05/26] Qarabag vs Turan Tovuz",[LIVE 22:30 WIB | 04/05/26] Qarabag vs Turan Tovuz (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="23xmvkh6ydzpqg8" tvg-name="Qarabag vs Turan Tovuz" tvg-logo="https://img.cdnok9.com/football/competition/fef1f81febbe012e11f987726f8fef15.png" group-title="[LIVE 22:30 WIB | 04/05/26] Qarabag vs Turan Tovuz",[LIVE 22:30 WIB | 04/05/26] Qarabag vs Turan Tovuz (Giàng A Húp)
@@ -61,15 +57,11 @@ https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb022234
 https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="vjxm8ghej8yvr6o" tvg-name="NK Istra 1961 vs Slaven Belupo" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[LIVE 23:00 WIB | 04/05/26] NK Istra 1961 vs Slaven Belupo",[LIVE 23:00 WIB | 04/05/26] NK Istra 1961 vs Slaven Belupo (Giàng A Kê)
 https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="8yomo4h121zpq0j" tvg-name="Rukh Vynnyky vs Zorya" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 22:00 WIB | 04/05/26] Rukh Vynnyky vs Zorya",[LIVE 22:00 WIB | 04/05/26] Rukh Vynnyky vs Zorya (Giàng A Lỏ)
+#EXTINF:-1 tvg-id="4wyrn4h68jvdq86" tvg-name="AS Roma vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 1j 41m | 05/05/26] AS Roma vs Fiorentina",[UPCO 01:45 WIB | 1j 41m | 05/05/26] AS Roma vs Fiorentina (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="8yomo4h121zpq0j" tvg-name="Rukh Vynnyky vs Zorya" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 22:00 WIB | 04/05/26] Rukh Vynnyky vs Zorya",[LIVE 22:00 WIB | 04/05/26] Rukh Vynnyky vs Zorya (Giàng A Lỏ)
+#EXTINF:-1 tvg-id="4wyrn4h68jvdq86" tvg-name="AS Roma vs Fiorentina" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 1j 41m | 05/05/26] AS Roma vs Fiorentina",[UPCO 01:45 WIB | 1j 41m | 05/05/26] AS Roma vs Fiorentina (Giàng A Lỏ)
 https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="8yomo4h18j5jq0j" tvg-name="Radnik Surdulica vs Vojvodina Novi Sad" tvg-logo="https://img.cdnok9.com/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" group-title="[LIVE 22:00 WIB | 04/05/26] Radnik Surdulica vs Vojvodina Novi Sad",[LIVE 22:00 WIB | 04/05/26] Radnik Surdulica vs Vojvodina Novi Sad (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="8yomo4h18j5jq0j" tvg-name="Radnik Surdulica vs Vojvodina Novi Sad" tvg-logo="https://img.cdnok9.com/football/competition/f44ac8f0aaac57bc25888ee6916c1741.png" group-title="[LIVE 22:00 WIB | 04/05/26] Radnik Surdulica vs Vojvodina Novi Sad",[LIVE 22:00 WIB | 04/05/26] Radnik Surdulica vs Vojvodina Novi Sad (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 02:00 WIB | 1j 59m | 05/05/26] Sevilla FC vs Real Sociedad",[UPCO 02:00 WIB | 1j 59m | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Choén)
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 02:00 WIB | 1j 56m | 05/05/26] Sevilla FC vs Real Sociedad",[UPCO 02:00 WIB | 1j 56m | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Choén)
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 02:00 WIB | 1j 59m | 05/05/26] Sevilla FC vs Real Sociedad",[UPCO 02:00 WIB | 1j 59m | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Choén)
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[UPCO 02:00 WIB | 1j 56m | 05/05/26] Sevilla FC vs Real Sociedad",[UPCO 02:00 WIB | 1j 56m | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
