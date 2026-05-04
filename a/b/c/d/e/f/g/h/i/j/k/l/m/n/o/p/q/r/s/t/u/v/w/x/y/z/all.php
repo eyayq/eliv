@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.39 WIB 04/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.45 WIB 04/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="n54qllhn4pd1qvy" tvg-name="Tai'an Tiankuang vs Shanghai Port B" tvg-logo="https://img.cdnok9.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png" group-title="[LIVE 14:30 WIB | 04/05/26] Tai'an Tiankuang vs Shanghai Port B",[LIVE 14:30 WIB | 04/05/26] Tai'an Tiankuang vs Shanghai Port B (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="n54qllhn4pd1qvy" tvg-name="Tai'an Tiankuang vs Shanghai Port B" tvg-logo="https://img.cdnok9.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png" group-title="[LIVE 14:30 WIB | 04/05/26] Tai'an Tiankuang vs Shanghai Port B",[LIVE 14:30 WIB | 04/05/26] Tai'an Tiankuang vs Shanghai Port B (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="69f82f21830ca95b2e5e11a9" tvg-name="Manchester United - Liverpool" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 19m | 04/05/26] Manchester United - Liverpool",[UPCO 23:59 WIB | 9j 19m | 04/05/26] Manchester United - Liverpool (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69f82f21830ca95b2e5e11a9" tvg-name="Manchester United - Liverpool" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 13m | 04/05/26] Manchester United - Liverpool",[UPCO 23:59 WIB | 9j 13m | 04/05/26] Manchester United - Liverpool (Giàng A Gấu)
 https://hls.686868.me/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="69f82f21830ca95b2e5e11a9" tvg-name="Manchester United - Liverpool" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 19m | 04/05/26] Manchester United - Liverpool",[UPCO 23:59 WIB | 9j 19m | 04/05/26] Manchester United - Liverpool (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69f82f21830ca95b2e5e11a9" tvg-name="Manchester United - Liverpool" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 13m | 04/05/26] Manchester United - Liverpool",[UPCO 23:59 WIB | 9j 13m | 04/05/26] Manchester United - Liverpool (Giàng A Gấu)
 https://flv.686868.me/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="69f8265069f72685467ce48a" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 19m | 04/05/26] Aston Villa vs Tottenham Hotspur",[UPCO 23:59 WIB | 9j 19m | 04/05/26] Aston Villa vs Tottenham Hotspur (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69f8265069f72685467ce48a" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 13m | 04/05/26] Aston Villa vs Tottenham Hotspur",[UPCO 23:59 WIB | 9j 13m | 04/05/26] Aston Villa vs Tottenham Hotspur (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69f8265069f72685467ce48a" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 19m | 04/05/26] Aston Villa vs Tottenham Hotspur",[UPCO 23:59 WIB | 9j 19m | 04/05/26] Aston Villa vs Tottenham Hotspur (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69f8265069f72685467ce48a" tvg-name="Aston Villa vs Tottenham Hotspur" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 13m | 04/05/26] Aston Villa vs Tottenham Hotspur",[UPCO 23:59 WIB | 9j 13m | 04/05/26] Aston Villa vs Tottenham Hotspur (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
