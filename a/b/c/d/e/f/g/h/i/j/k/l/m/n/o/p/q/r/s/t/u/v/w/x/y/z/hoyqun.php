@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:00 WIB 05/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:00 WIB 05/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:08 WIB 05/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:08 WIB 05/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:10 WIB 04/05/26] Al-Fayha vs Al Riyadh [FHD] [LIVE]
@@ -272,22 +272,22 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 06/05/26] SHANGHAI SIPG vs Sichuan Jiuniu [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/50/Logo_ASEAN_Club_Championship.svg/1502px-Logo_ASEAN_Club_Championship.svg.png" group-title="ASEAN Club Championship",[19:00 WIB 06/05/26] Johor Darul Takzim FC vs Buriram United [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 06/05/26] Johor Darul Takzim FC vs Buriram United [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/50/Logo_ASEAN_Club_Championship.svg/1502px-Logo_ASEAN_Club_Championship.svg.png" group-title="ASEAN Club Championship",[19:00 WIB 06/05/26] Johor Darul Takzim FC vs Buriram United [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 06/05/26] Johor Darul Takzim FC vs Buriram United [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/50/Logo_ASEAN_Club_Championship.svg/1502px-Logo_ASEAN_Club_Championship.svg.png" group-title="ASEAN Club Championship",[19:00 WIB 06/05/26] Johor Darul Takzim FC vs Buriram United [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 06/05/26] Johor Darul Takzim FC vs Buriram United [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/50/Logo_ASEAN_Club_Championship.svg/1502px-Logo_ASEAN_Club_Championship.svg.png" group-title="ASEAN Club Championship",[20:00 WIB 06/05/26] Selangor vs Nam Dinh [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[20:00 WIB 06/05/26] Selangor vs Nam Dinh [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/50/Logo_ASEAN_Club_Championship.svg/1502px-Logo_ASEAN_Club_Championship.svg.png" group-title="ASEAN Club Championship",[20:00 WIB 06/05/26] Selangor vs Nam Dinh [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[20:00 WIB 06/05/26] Selangor vs Nam Dinh [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/50/Logo_ASEAN_Club_Championship.svg/1502px-Logo_ASEAN_Club_Championship.svg.png" group-title="ASEAN Club Championship",[20:00 WIB 06/05/26] Selangor vs Nam Dinh [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[20:00 WIB 06/05/26] Selangor vs Nam Dinh [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 [FHD] [NANTIKAN]
