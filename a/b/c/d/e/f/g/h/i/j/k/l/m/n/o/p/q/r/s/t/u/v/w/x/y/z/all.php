@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.19 WIB 04/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [23.16 WIB 04/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="y39mp1h65yz0moj" tvg-name="Chelsea vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 04/05/26] Chelsea vs Nottingham Forest",[LIVE 21:00 WIB | 04/05/26] Chelsea vs Nottingham Forest (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
@@ -25,22 +25,10 @@ https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="y39mp1h65yz0moj" tvg-name="Chelsea vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 21:00 WIB | 04/05/26] Chelsea vs Nottingham Forest",[LIVE 21:00 WIB | 04/05/26] Chelsea vs Nottingham Forest (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="965mkyhkkzz7r1g" tvg-name="Odisha FC vs Bengaluru" tvg-logo="https://img.cdnok9.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LIVE 21:00 WIB | 04/05/26] Odisha FC vs Bengaluru",[LIVE 21:00 WIB | 04/05/26] Odisha FC vs Bengaluru (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="965mkyhkkzz7r1g" tvg-name="Odisha FC vs Bengaluru" tvg-logo="https://img.cdnok9.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LIVE 21:00 WIB | 04/05/26] Odisha FC vs Bengaluru",[LIVE 21:00 WIB | 04/05/26] Odisha FC vs Bengaluru (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="n54qllhn4344qvy" tvg-name="Pharco vs El Mokawloon El Arab" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 04/05/26] Pharco vs El Mokawloon El Arab",[LIVE 21:00 WIB | 04/05/26] Pharco vs El Mokawloon El Arab (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="n54qllhn4344qvy" tvg-name="Pharco vs El Mokawloon El Arab" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 04/05/26] Pharco vs El Mokawloon El Arab",[LIVE 21:00 WIB | 04/05/26] Pharco vs El Mokawloon El Arab (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="n54qllhn4344qvy" tvg-name="Pharco vs El Mokawloon El Arab" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 04/05/26] Pharco vs El Mokawloon El Arab",[LIVE 21:00 WIB | 04/05/26] Pharco vs El Mokawloon El Arab (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="n54qllhn4344qvy" tvg-name="Pharco vs El Mokawloon El Arab" tvg-logo="https://img.cdnok9.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" group-title="[LIVE 21:00 WIB | 04/05/26] Pharco vs El Mokawloon El Arab",[LIVE 21:00 WIB | 04/05/26] Pharco vs El Mokawloon El Arab (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="4jwq2ghng9gdm0v" tvg-name="FC Unirea 2004 Slobozia vs Hermannstadt" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 21:30 WIB | 04/05/26] FC Unirea 2004 Slobozia vs Hermannstadt",[LIVE 21:30 WIB | 04/05/26] FC Unirea 2004 Slobozia vs Hermannstadt (Giàng A Ka)
-https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
-#EXTINF:-1 tvg-id="4jwq2ghng9gdm0v" tvg-name="FC Unirea 2004 Slobozia vs Hermannstadt" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 21:30 WIB | 04/05/26] FC Unirea 2004 Slobozia vs Hermannstadt",[LIVE 21:30 WIB | 04/05/26] FC Unirea 2004 Slobozia vs Hermannstadt (Giàng A Ka)
-https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="vjxm8ghej8yvr6o" tvg-name="NK Istra 1961 vs Slaven Belupo" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[LIVE 23:00 WIB | 04/05/26] NK Istra 1961 vs Slaven Belupo",[LIVE 23:00 WIB | 04/05/26] NK Istra 1961 vs Slaven Belupo (Giàng A Kê)
+https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="vjxm8ghej8yvr6o" tvg-name="NK Istra 1961 vs Slaven Belupo" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[LIVE 23:00 WIB | 04/05/26] NK Istra 1961 vs Slaven Belupo",[LIVE 23:00 WIB | 04/05/26] NK Istra 1961 vs Slaven Belupo (Giàng A Kê)
+https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
 #EXTINF:-1 tvg-id="8yomo4h121zpq0j" tvg-name="Rukh Vynnyky vs Zorya" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 22:00 WIB | 04/05/26] Rukh Vynnyky vs Zorya",[LIVE 22:00 WIB | 04/05/26] Rukh Vynnyky vs Zorya (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 tvg-id="8yomo4h121zpq0j" tvg-name="Rukh Vynnyky vs Zorya" tvg-logo="https://img.cdnok9.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png" group-title="[LIVE 22:00 WIB | 04/05/26] Rukh Vynnyky vs Zorya",[LIVE 22:00 WIB | 04/05/26] Rukh Vynnyky vs Zorya (Giàng A Lỏ)
@@ -53,7 +41,43 @@ https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad4
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 tvg-id="y0or5jh8n5kwqwz" tvg-name="Nasaf Qarshi vs Navbahor Namangan" tvg-logo="https://img.cdnok9.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png" group-title="[LIVE 22:00 WIB | 04/05/26] Nasaf Qarshi vs Navbahor Namangan",[LIVE 22:00 WIB | 04/05/26] Nasaf Qarshi vs Navbahor Namangan (HOÀNG CÁI)
 https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="23xmvkh6ydzpqg8" tvg-name="Qarabag vs Turan Tovuz" tvg-logo="https://img.cdnok9.com/football/competition/fef1f81febbe012e11f987726f8fef15.png" group-title="[UPCO 22:30 WIB | 10m | 04/05/26] Qarabag vs Turan Tovuz",[UPCO 22:30 WIB | 10m | 04/05/26] Qarabag vs Turan Tovuz (Giàng A Húp)
+#EXTINF:-1 tvg-id="4jwq2ghng9gdm0v" tvg-name="FC Unirea 2004 Slobozia vs Hermannstadt" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 21:30 WIB | 04/05/26] FC Unirea 2004 Slobozia vs Hermannstadt",[LIVE 21:30 WIB | 04/05/26] FC Unirea 2004 Slobozia vs Hermannstadt (Giàng A Ka)
+https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="4jwq2ghng9gdm0v" tvg-name="FC Unirea 2004 Slobozia vs Hermannstadt" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 21:30 WIB | 04/05/26] FC Unirea 2004 Slobozia vs Hermannstadt",[LIVE 21:30 WIB | 04/05/26] FC Unirea 2004 Slobozia vs Hermannstadt (Giàng A Ka)
+https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
+#EXTINF:-1 tvg-id="8yomo4h1g0kvq0j" tvg-name="HJK Helsinki vs Lahti" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti",[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="8yomo4h1g0kvq0j" tvg-name="HJK Helsinki vs Lahti" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti",[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti (BLV GÀ PHÁP)
+https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="8yomo4h1g0kvq0j" tvg-name="HJK Helsinki vs Lahti" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti",[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="8yomo4h1g0kvq0j" tvg-name="HJK Helsinki vs Lahti" tvg-logo="https://img.cdnok9.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png" group-title="[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti",[LIVE 23:00 WIB | 04/05/26] HJK Helsinki vs Lahti (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="23xmvkh6ydzpqg8" tvg-name="Qarabag vs Turan Tovuz" tvg-logo="https://img.cdnok9.com/football/competition/fef1f81febbe012e11f987726f8fef15.png" group-title="[LIVE 22:30 WIB | 04/05/26] Qarabag vs Turan Tovuz",[LIVE 22:30 WIB | 04/05/26] Qarabag vs Turan Tovuz (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="23xmvkh6ydzpqg8" tvg-name="Qarabag vs Turan Tovuz" tvg-logo="https://img.cdnok9.com/football/competition/fef1f81febbe012e11f987726f8fef15.png" group-title="[UPCO 22:30 WIB | 10m | 04/05/26] Qarabag vs Turan Tovuz",[UPCO 22:30 WIB | 10m | 04/05/26] Qarabag vs Turan Tovuz (Giàng A Húp)
+#EXTINF:-1 tvg-id="23xmvkh6ydzpqg8" tvg-name="Qarabag vs Turan Tovuz" tvg-logo="https://img.cdnok9.com/football/competition/fef1f81febbe012e11f987726f8fef15.png" group-title="[LIVE 22:30 WIB | 04/05/26] Qarabag vs Turan Tovuz",[LIVE 22:30 WIB | 04/05/26] Qarabag vs Turan Tovuz (Giàng A Húp)
 https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="4wyrn4h6wyzxq86" tvg-name="Eintracht Frankfurt Women vs Nurnberg Women" tvg-logo="https://img.cdnok9.com/football/competition/c56fab654754907a2937799af0d26d87.png" group-title="[LIVE 23:00 WIB | 04/05/26] Eintracht Frankfurt Women vs Nurnberg Women",[LIVE 23:00 WIB | 04/05/26] Eintracht Frankfurt Women vs Nurnberg Women (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="4wyrn4h6wyzxq86" tvg-name="Eintracht Frankfurt Women vs Nurnberg Women" tvg-logo="https://img.cdnok9.com/football/competition/c56fab654754907a2937799af0d26d87.png" group-title="[LIVE 23:00 WIB | 04/05/26] Eintracht Frankfurt Women vs Nurnberg Women",[LIVE 23:00 WIB | 04/05/26] Eintracht Frankfurt Women vs Nurnberg Women (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="dj2ryohlkwndq1z" tvg-name="Cremonese vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio",[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="dj2ryohlkwndq1z" tvg-name="Cremonese vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio",[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="dj2ryohlkwndq1z" tvg-name="Cremonese vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio",[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="dj2ryohlkwndq1z" tvg-name="Cremonese vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio",[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="dj2ryohlkwndq1z" tvg-name="Cremonese vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio",[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="dj2ryohlkwndq1z" tvg-name="Cremonese vs Lazio" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio",[UPCO 23:30 WIB | 13m | 04/05/26] Cremonese vs Lazio (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="x7lm7phjx7npm2w" tvg-name="Rheindorf Altach vs Wolfsberger AC" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[UPCO 23:30 WIB | 13m | 04/05/26] Rheindorf Altach vs Wolfsberger AC",[UPCO 23:30 WIB | 13m | 04/05/26] Rheindorf Altach vs Wolfsberger AC (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="x7lm7phjx7npm2w" tvg-name="Rheindorf Altach vs Wolfsberger AC" tvg-logo="https://img.cdnok9.com/football/competition/cd60f6bffb5b8c99fbccb5e5a73db0bd.png" group-title="[UPCO 23:30 WIB | 13m | 04/05/26] Rheindorf Altach vs Wolfsberger AC",[UPCO 23:30 WIB | 13m | 04/05/26] Rheindorf Altach vs Wolfsberger AC (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="l7oqdehgo262r51" tvg-name="CR Belouizdad vs USM Khenchela" tvg-logo="https://img.cdnok9.com/football/competition/44928d98d868f3becebc46845ee9e49f.png" group-title="[UPCO 23:45 WIB | 28m | 04/05/26] CR Belouizdad vs USM Khenchela",[UPCO 23:45 WIB | 28m | 04/05/26] CR Belouizdad vs USM Khenchela (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="l7oqdehgo262r51" tvg-name="CR Belouizdad vs USM Khenchela" tvg-logo="https://img.cdnok9.com/football/competition/44928d98d868f3becebc46845ee9e49f.png" group-title="[UPCO 23:45 WIB | 28m | 04/05/26] CR Belouizdad vs USM Khenchela",[UPCO 23:45 WIB | 28m | 04/05/26] CR Belouizdad vs USM Khenchela (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
