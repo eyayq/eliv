@@ -1,58 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.58 WIB 05/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.04 WIB 05/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (Giàng A Khoai)
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (Giàng A Khoai)
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="n54qllhne8n8qvy" tvg-name="Everton vs Manchester City" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City",[LIVE 02:00 WIB | 05/05/26] Everton vs Manchester City (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="4wyrn4h6484nq86" tvg-name="Sporting CP vs Vitoria Guimaraes" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes",[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="4wyrn4h6484nq86" tvg-name="Sporting CP vs Vitoria Guimaraes" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes",[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="4wyrn4h6484nq86" tvg-name="Sporting CP vs Vitoria Guimaraes" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes",[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="4wyrn4h6484nq86" tvg-name="Sporting CP vs Vitoria Guimaraes" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes",[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Sếu)
-https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Sếu)
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Chiến)
-https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Chiến)
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="2y8m4zh5e860ql0" tvg-name="KACM Marrakech vs Olympique Dcheira" tvg-logo="https://img.cdnok9.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png" group-title="[LIVE 03:00 WIB | 05/05/26] KACM Marrakech vs Olympique Dcheira",[LIVE 03:00 WIB | 05/05/26] KACM Marrakech vs Olympique Dcheira (Giàng A Ka)
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="2y8m4zh5e860ql0" tvg-name="KACM Marrakech vs Olympique Dcheira" tvg-logo="https://img.cdnok9.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png" group-title="[LIVE 03:00 WIB | 05/05/26] KACM Marrakech vs Olympique Dcheira",[LIVE 03:00 WIB | 05/05/26] KACM Marrakech vs Olympique Dcheira (Giàng A Ka)
@@ -61,3 +9,31 @@ https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032a
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="23xmvkh6077pqg8" tvg-name="Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia" tvg-logo="https://img.cdnok9.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png" group-title="[LIVE 03:00 WIB | 05/05/26] Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia",[LIVE 03:00 WIB | 05/05/26] Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia (GIÀNG A PHỆ )
 https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="4wyrn4h6484nq86" tvg-name="Sporting CP vs Vitoria Guimaraes" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes",[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes (Giàng A Voi)
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="4wyrn4h6484nq86" tvg-name="Sporting CP vs Vitoria Guimaraes" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes",[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes (Giàng A Voi)
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="4wyrn4h6484nq86" tvg-name="Sporting CP vs Vitoria Guimaraes" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes",[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes (GIÀNG A BẨY )
+https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="4wyrn4h6484nq86" tvg-name="Sporting CP vs Vitoria Guimaraes" tvg-logo="https://img.cdnok9.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes",[LIVE 02:15 WIB | 05/05/26] Sporting CP vs Vitoria Guimaraes (GIÀNG A BẨY )
+https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Sếu)
+https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Sếu)
+https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="3glrw7hnjogwqdy" tvg-name="Sevilla FC vs Real Sociedad" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad",[LIVE 02:00 WIB | 05/05/26] Sevilla FC vs Real Sociedad (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
