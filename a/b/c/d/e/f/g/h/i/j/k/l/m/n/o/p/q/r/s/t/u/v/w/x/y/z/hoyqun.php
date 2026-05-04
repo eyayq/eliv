@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:45 WIB 05/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:45 WIB 05/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:52 WIB 05/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:52 WIB 05/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 05/05/26] AS Roma vs Fiorentina [FHD] [LIVE]
@@ -38,13 +38,13 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 05/05/26] Sevilla vs Real Sociedad [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/94.png" group-title="Primeira Liga",[02:15 WIB 05/05/26] Sporting CP vs Guimaraes [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/94.png" group-title="Primeira Liga",[02:15 WIB 05/05/26] Sporting CP vs Guimaraes [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/94.png" group-title="Primeira Liga",[02:15 WIB 05/05/26] Sporting CP vs Guimaraes [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/94.png" group-title="Primeira Liga",[02:15 WIB 05/05/26] Sporting CP vs Guimaraes [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/94.png" group-title="Primeira Liga",[02:15 WIB 05/05/26] Sporting CP vs Guimaraes [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/94.png" group-title="Primeira Liga",[02:15 WIB 05/05/26] Sporting CP vs Guimaraes [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 05/05/26] New York Knicks vs Philadelphia 76ers [FHD] [NANTIKAN]
