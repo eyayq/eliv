@@ -1,120 +1,174 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.39 WIB 05/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.45 WIB 05/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 1",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-374391_lhd.flv?auth_key=1777845531-0-0-6322db2a7b9f5560262bf5cec2f906c4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 2",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-374391_lsd.flv?auth_key=1777845531-0-0-6322db2a7b9f5560262bf5cec2f906c4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 3",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://a166aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 4",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 5",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 6",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=073fc831f68ca3983ab1a0f2218585fb&txTime=69f956b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=485ab346f3f3e6c0064b08fcfbfe3b23&txTime=69f95875
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 7",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=ca31bd90276d4694545ca742d5cdf97d&txTime=69f956b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=ddf5618c3dc5a33d9345dc554964889b&txTime=69f95875
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 8",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=d77a9bb70e31e9cf314526dfbe2f4a03&txTime=69f956b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=3121928ef54d4b3543958344bccd70f5&txTime=69f95885
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 9",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=539bb617b6b167ca9553dcdba4622cf9&txTime=69f956b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=3720e1e244a1ebf847275c46bb0c3aa4&txTime=69f95885
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 10",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1777930345-0-0-33875ab0c4a0100bcbb46dbba1a9bcfb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1777930885-0-0-9d0de80734ddd84ba275f8652a8ed08d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 11",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1777930345-0-0-9fac9034bf24773b906bba22f4c2953c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1777930885-0-0-a396c5152ffc181596ba37ceddbfa7f0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 12",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1777930345-0-0-f182c4c6e16b58dcdf3e4980b422077e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1777930869-0-0-45a95c55de0f311ee218e063d823f8bd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 13",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1777930345-0-0-fefadfaf9b9638a1e9359fb0a916c78f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1777930869-0-0-39effc90c8e4c7f977cfc95a956633e1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 14",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1777930345-0-0-e9ff0d4cce260dc22a4e5f1f15ad3f14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1777930885-0-0-cf671fd2bc3fa57cca7fd42af12b0b6c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 15",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1777930345-0-0-afbcad6440ce70fff5ad67a482d1a674
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1777930885-0-0-da867272aab75e6e4e5a6c1402340bb2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 16",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1777930345-0-0-3016d138a833b6333104110c029f6685
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1777930885-0-0-a82dd2bfd023ddc27daf26b7cf31befd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 17",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1777930345-0-0-b29dda8bd654b8efbc9139b6346dc706
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 18",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 18 (SVR-BHNS 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 19",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 19 (SVR-BHNS 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 20",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 20 (SVR-BHNS 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-97a706.webp" group-title="[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 21",[LIVE 01:45 WIB 05/05/26] AS Roma vs Fiorentina | Server 21 (SVR-BHNS 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 1",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1777930885-0-0-8877c7f2c8489e5fa488d0bfa218f55f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 1",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1777905836-0-0-6b66fa67e15782dd6c0a5c8795701bcd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 2",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1777905836-0-0-6b66fa67e15782dd6c0a5c8795701bcd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 3",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd|drmScheme=clearkey&drmLicense=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 4",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 5",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1777930885-0-0-25afeb6da3d1568b1b8deaeec0f454aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 6",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1777930885-0-0-83f3d5f6875d66ba56f1df640f54fe54
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 7",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=4857f8549372bbc66572f5fd467ee952&txTime=69f958d5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 8",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=30949824dd3732799ae816703cdb0bd6&txTime=69f958d5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 9",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=14052bd2a3dc955e81d8b57912ba65e8&txTime=69f958d5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 10",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=0ddde5cf57f70f93d46ce383ece5ca9c&txTime=69f958d5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 11",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1777930885-0-0-dcf2d624793561183abba42e1509db8b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 12",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1777930885-0-0-fd134ccda0a076ba45ddc5d94ae3c316
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 13",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1777930885-0-0-0366597e915c7326d47db3da17a36fcb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 14",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1777930885-0-0-63bfa2fe85d8543f03e7c8144626dc11
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 15",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1777930885-0-0-235d888c7975c9f6b3997a6f0052ee07
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 16",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 16 (SVR-BHNS 16)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1777930885-0-0-075a1a59845d585f2bc0ea5c8e2786bb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 17",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 17 (SVR-BHNS 17)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 18",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 18 (SVR-BHNS 18)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 19",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 19 (SVR-BHNS 19)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 20",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 20 (SVR-BHNS 20)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 21",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 21 (SVR-BHNS 21)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 22",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 22 (SVR-BHNS 22)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 1",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://pullsgp.yyzb456.top/live/stream-705956_lhd.flv?auth_key=1777845385-0-0-e776815cdb12ec9de2210e4a55b9def4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 2",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-705956_lsd.flv?auth_key=1777845385-0-0-e776815cdb12ec9de2210e4a55b9def4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 3",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://a122aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd|drmScheme=clearkey&drmLicense=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 4",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 5",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://a166aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/dash/enc/vwq77hfgzw/out/v1/b858e0b845c64cec953887bd4269e4ea/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 6",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=aa23c6fa86160c54d0d282ef30b15b04&txTime=69f956b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=86feb407de2c6eb477ef8fdeae2a7053&txTime=69f958d5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 7",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=97993a8252a3446c386a329b193e5dbb&txTime=69f956b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=ca006795ae19e21409443b58ac4cfa00&txTime=69f958d5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 8",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=a01c19aff8551a80d72483c715e14988&txTime=69f956b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1777930885-0-0-7d938b113bd5bfb8411dc4b97c05da42
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 9",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=f0a5b8c00fe91163ab1f340c35527d48&txTime=69f956b9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1777930885-0-0-abdebc9bc269b3da5eb66fb06406477e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 10",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1777930345-0-0-47505682ea1b102611505909fe29f9b5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1777930885-0-0-f8ce1d1064fae778117e4d7067c36a3b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 11",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1777930345-0-0-df56c82de518150c151047dcadf34187
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1777930885-0-0-72ae245502618e29085db8d6b3b57732
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 12",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1777930345-0-0-ba2535bbf6f07e9abc5dce33445ff6e1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=62a01790d89e84deb24eee5ccbc7d105&txTime=69f958d5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 13",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1777930345-0-0-2042dae2a3aa404d96a194da351abe43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=0b88f35b75258a34a673b913b22d711e&txTime=69f958d5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 14",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1777930345-0-0-ae44d3cffc4d310503890ae79e825b06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1777930885-0-0-ceb7d41940a37d7784b61b6b5159e948
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 15",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1777930345-0-0-c6cc9e904ad56811ea0fbabb881a4ffd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1777930885-0-0-a8a70c1d4e34be4b51ae8b80746c62dc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 16",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1777930345-0-0-6de0bd961664930c410b89c425b08e80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1777930885-0-0-b88fe4da340bb884092842ec1143a10f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 17",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1777930345-0-0-6836edf89bfd7be34a88fd82bc33beb5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1777930885-0-0-1d3080891ac9b70943fdb2c2aa3da536
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 18",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 18 (SVR-BHNS 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
@@ -124,84 +178,18 @@ https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a10
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sevilla-fc-06db06.webp" group-title="[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 20",[LIVE 02:00 WIB 05/05/26] Sevilla FC vs Real Sociedad | Server 20 (SVR-BHNS 20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 1",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1777905836-0-0-6b66fa67e15782dd6c0a5c8795701bcd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 2",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1777905836-0-0-6b66fa67e15782dd6c0a5c8795701bcd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 3",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd|drmScheme=clearkey&drmLicense=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 4",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 5",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1777930345-0-0-dfdf04d282474ee0478bf24317604407
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 6",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1777930345-0-0-1d6c0a60952186c4e702512c50d5ebec
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 7",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=c83b987d0021d874b9d5545857edf169&txTime=69f956b9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 8",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=2edcf561e7eeeff48043bb826ba276a6&txTime=69f956b9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 9",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1777930345-0-0-236f8c17f8e5b740bb3c18e8c85051a6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 10",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1777930345-0-0-8f1c51ffac893b05d8a076bd5c73e8bb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 11",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=24feefeefee95bece268b936863dcf49&txTime=69f956b9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 12",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=5d79e13e431cd6b587caea093e51703e&txTime=69f956b9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 13",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1777930345-0-0-ccb941649330fd794b33e01647b31bb0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 14",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1777930345-0-0-8ffe79fe7e5134ceb9aa82c234204f01
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 15",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1777930345-0-0-df767b883b23be9aed1c9b1f9c107725
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 16",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1777930345-0-0-9eb57808cb568de882d989039f599fe4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 17",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 18",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 18 (SVR-BHNS 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 19",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 19 (SVR-BHNS 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 20",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 20 (SVR-BHNS 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 21",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 21 (SVR-BHNS 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/everton-c99868.png" group-title="[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 22",[LIVE 02:00 WIB 05/05/26] Everton vs Manchester City | Server 22 (SVR-BHNS 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sporting-cp-f41954.png" group-title="[LIVE 02:15 WIB 05/05/26] Sporting CP vs Vitoria Guimaraes | Server 1",[LIVE 02:15 WIB 05/05/26] Sporting CP vs Vitoria Guimaraes | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1777930345-0-0-324d780ef00dd9a57b5b64e96bc5a27f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1777930885-0-0-8b6cdd02b1cf9f0c5cc2b381908ff61d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sporting-cp-f41954.png" group-title="[LIVE 02:15 WIB 05/05/26] Sporting CP vs Vitoria Guimaraes | Server 2",[LIVE 02:15 WIB 05/05/26] Sporting CP vs Vitoria Guimaraes | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1777930345-0-0-9617bcb467abe64fea03fadd707709e0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1777930885-0-0-532909f391904ebe538507a06032ffb7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sporting-cp-f41954.png" group-title="[LIVE 02:15 WIB 05/05/26] Sporting CP vs Vitoria Guimaraes | Server 3",[LIVE 02:15 WIB 05/05/26] Sporting CP vs Vitoria Guimaraes | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1777930345-0-0-3cb6d6579f5bb458d0dfd4868aa7ba9b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1777930885-0-0-02692c31af0f50f842f547968d740e9a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sporting-cp-f41954.png" group-title="[LIVE 02:15 WIB 05/05/26] Sporting CP vs Vitoria Guimaraes | Server 4",[LIVE 02:15 WIB 05/05/26] Sporting CP vs Vitoria Guimaraes | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1777930345-0-0-a9395ad6bb476375d02fe912847ba4c2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1777930885-0-0-e07883d4f4be4363fd497f94ab8f4a2a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sporting-cp-f41954.png" group-title="[LIVE 02:15 WIB 05/05/26] Sporting CP vs Vitoria Guimaraes | Server 5",[LIVE 02:15 WIB 05/05/26] Sporting CP vs Vitoria Guimaraes | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
@@ -209,17 +197,17 @@ https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gimnasia-y-esgrima-de-mendoza-03c15c.png" group-title="[LIVE 03:00 WIB 05/05/26] Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | Server 1",[LIVE 03:00 WIB 05/05/26] Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1777930345-0-0-bc468f039f3862fc87fa0f9b3e8ba214
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1777930885-0-0-ff426c4d766df5c7ca09296cd0f17dc3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gimnasia-y-esgrima-de-mendoza-03c15c.png" group-title="[LIVE 03:00 WIB 05/05/26] Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | Server 2",[LIVE 03:00 WIB 05/05/26] Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1777930345-0-0-4a14004cb54ce39768a84cb148841e36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1777930885-0-0-6b785e2557691c9c3da333a20f710d6d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gimnasia-y-esgrima-de-mendoza-03c15c.png" group-title="[LIVE 03:00 WIB 05/05/26] Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | Server 3",[LIVE 03:00 WIB 05/05/26] Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1777930345-0-0-ca1cdaad6b703d69b17cff30f2236136
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1777930885-0-0-9a4d96ab0ff76137c9f61c2068f763b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gimnasia-y-esgrima-de-mendoza-03c15c.png" group-title="[LIVE 03:00 WIB 05/05/26] Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | Server 4",[LIVE 03:00 WIB 05/05/26] Gimnasia y Esgrima de Mendoza vs Defensa Y Justicia | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1777930345-0-0-91036c560a6209a5875c0cb879bc5781
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1777930885-0-0-84516452ade330305bf8ff41aa364aad
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gimnasia-mendoza-55f2d8.png" group-title="[LIVE 03:00 WIB 05/05/26] Gimnasia Mendoza vs Defensa Y Justicia | Server 1",[LIVE 03:00 WIB 05/05/26] Gimnasia Mendoza vs Defensa Y Justicia | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
