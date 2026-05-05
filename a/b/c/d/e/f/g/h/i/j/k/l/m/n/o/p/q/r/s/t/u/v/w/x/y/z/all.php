@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.17 WIB 06/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.25 WIB 06/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="y39mp1h6og81moj" tvg-name="Arsenal vs Atletico Madrid" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 06/05/26] Arsenal vs Atletico Madrid",[LIVE 02:00 WIB | 06/05/26] Arsenal vs Atletico Madrid (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
