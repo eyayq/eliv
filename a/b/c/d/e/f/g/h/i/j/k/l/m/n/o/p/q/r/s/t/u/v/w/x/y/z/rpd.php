@@ -1,168 +1,171 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.31 WIB 06/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.59 WIB 06/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 1",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1778009185-0-0-b91d439241e7a4692fe825c6f59c3c6c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 2",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1778009185-0-0-1cae762bfa87fc6fc49e0692de8d45ae
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 3",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1778009185-0-0-7f820f832c1ef1a953f16cd5168bbbce
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 4",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1778009185-0-0-054c279be1c0d57648ff95659753ef2a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 5",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778009185-0-0-088fe8b3d4a92766aca8427661fa2694
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 6",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778009185-0-0-98839102b31492c1126a076b0eaa0916
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 7",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1778009185-0-0-dbaa3b1bd0b7591f1b207eeb9b319035
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 8",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1778009185-0-0-7473fc82169fe6cade0b48243b48d797
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 9",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1778009208-0-0-802995b9b6ecfb38aba6f35d9e7d99ba
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 10",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1778009208-0-0-ad4ed484690b2a2bc71971791cf1841b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 11",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1778009185-0-0-6940e91e2c2f09d422cb5f4b3a49bd9f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 12",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1778009185-0-0-2cff5dc0bd1883c0bde8fcf8457de9fb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/indonesia-u17-5a2c77.png" group-title="[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 13",[LIVE 23:30 WIB 05/05/26] Indonesia U17 vs China U17 | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 23:45 WIB 05/05/26] Baniyas Club vs Al-Dhafra | Server 1",[LIVE 23:45 WIB 05/05/26] Baniyas Club vs Al-Dhafra | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=973a944121b68bbf9f2471333d34b4ec&txTime=69fa8ab1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 23:45 WIB 05/05/26] Baniyas Club vs Al-Dhafra | Server 2",[LIVE 23:45 WIB 05/05/26] Baniyas Club vs Al-Dhafra | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=138a6f9f58ffc586a9218249e7e1e019&txTime=69fa8ab1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 23:45 WIB 05/05/26] Baniyas Club vs Al-Dhafra | Server 3",[LIVE 23:45 WIB 05/05/26] Baniyas Club vs Al-Dhafra | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=9fe7d6b61b994feff9ba4e3dc5657332&txTime=69fa8ab1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/baniyas-club-b7fa30.webp" group-title="[LIVE 23:45 WIB 05/05/26] Baniyas Club vs Al-Dhafra | Server 4",[LIVE 23:45 WIB 05/05/26] Baniyas Club vs Al-Dhafra | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=3546e3b8f0e06eebdafbfa984775c3a7&txTime=69fa8ab1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.png" group-title="[LIVE 23:45 WIB 05/05/26] Ittihad Kalba FC vs Khor Fakkan SSC | Server 1",[LIVE 23:45 WIB 05/05/26] Ittihad Kalba FC vs Khor Fakkan SSC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1778009185-0-0-85eb275e5c79f870cbd55f0d2b5311b4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.png" group-title="[LIVE 23:45 WIB 05/05/26] Ittihad Kalba FC vs Khor Fakkan SSC | Server 2",[LIVE 23:45 WIB 05/05/26] Ittihad Kalba FC vs Khor Fakkan SSC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1778009185-0-0-5d8fde0e478dd33e4b4ae50d3aab1251
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.png" group-title="[LIVE 23:45 WIB 05/05/26] Ittihad Kalba FC vs Khor Fakkan SSC | Server 3",[LIVE 23:45 WIB 05/05/26] Ittihad Kalba FC vs Khor Fakkan SSC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1778009185-0-0-c305cf24b11194e744c8b81a958429c6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-fc-19ed8a.png" group-title="[LIVE 23:45 WIB 05/05/26] Ittihad Kalba FC vs Khor Fakkan SSC | Server 4",[LIVE 23:45 WIB 05/05/26] Ittihad Kalba FC vs Khor Fakkan SSC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1778009185-0-0-f172def3378c2cd6d0a9fecb9c074d83
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dabba-al-fujairah-cccfba.webp" group-title="[LIVE 23:45 WIB 05/05/26] Dabba Al-Fujairah vs Al Bataeh | Server 1",[LIVE 23:45 WIB 05/05/26] Dabba Al-Fujairah vs Al Bataeh | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1778009185-0-0-8f434d0c606b35867a40522635573b77
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dabba-al-fujairah-cccfba.webp" group-title="[LIVE 23:45 WIB 05/05/26] Dabba Al-Fujairah vs Al Bataeh | Server 2",[LIVE 23:45 WIB 05/05/26] Dabba Al-Fujairah vs Al Bataeh | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1778009185-0-0-e9a7c9202f0d93e7eaea486f26ebef66
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dabba-al-fujairah-cccfba.webp" group-title="[LIVE 23:45 WIB 05/05/26] Dabba Al-Fujairah vs Al Bataeh | Server 3",[LIVE 23:45 WIB 05/05/26] Dabba Al-Fujairah vs Al Bataeh | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1778009185-0-0-7285384d925a6676e5bd4989e96a0315
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dabba-al-fujairah-cccfba.webp" group-title="[LIVE 23:45 WIB 05/05/26] Dabba Al-Fujairah vs Al Bataeh | Server 4",[LIVE 23:45 WIB 05/05/26] Dabba Al-Fujairah vs Al Bataeh | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1778009185-0-0-fd4e981aa27c1935f510e73290ae75b9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-9b55dc.png" group-title="[LIVE 23:45 WIB 05/05/26] Ittihad Kalba vs Khor Fakkan | Server 1",[LIVE 23:45 WIB 05/05/26] Ittihad Kalba vs Khor Fakkan | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ittihad-kalba-9b55dc.png" group-title="[LIVE 23:45 WIB 05/05/26] Ittihad Kalba vs Khor Fakkan | Server 2",[LIVE 23:45 WIB 05/05/26] Ittihad Kalba vs Khor Fakkan | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dibba-al-fujairah-498e6a.png" group-title="[LIVE 23:45 WIB 05/05/26] Dibba Al-Fujairah vs Al Bataeh | Server 1",[LIVE 23:45 WIB 05/05/26] Dibba Al-Fujairah vs Al Bataeh | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banni-yas-2596f7.png" group-title="[LIVE 23:45 WIB 05/05/26] Banni Yas vs Al-Dhafra | Server 1",[LIVE 23:45 WIB 05/05/26] Banni Yas vs Al-Dhafra | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahly-fc-658f66.png" group-title="[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 1",[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=01d721329a3c964ac06c008b9afad135&txTime=69fa8ab1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahly-fc-658f66.png" group-title="[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 2",[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=5e9ad46b1cc713a4faf7b1d58b7433fe&txTime=69fa8ab1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahly-fc-658f66.png" group-title="[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 3",[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-duhail-aa9d27.png" group-title="[LIVE 00:00 WIB 06/05/26] Al Duhail vs Al-Sadd | Server 1",[LIVE 00:00 WIB 06/05/26] Al Duhail vs Al-Sadd | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u17-e8ad7c.png" group-title="[LIVE 00:00 WIB 06/05/26] Saudi Arabia U17 vs Myanmar U17 | Server 1",[LIVE 00:00 WIB 06/05/26] Saudi Arabia U17 vs Myanmar U17 | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahly-fc-658f66.png" group-title="[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 1",[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=cf6fa88aa0837b47efec2096cdb0b12a&txTime=69fa9105
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahly-fc-658f66.png" group-title="[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 2",[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=85e8c4c78020bb032878668ff90f4f39&txTime=69fa9105
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-ahly-fc-658f66.png" group-title="[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 3",[LIVE 00:00 WIB 06/05/26] Al Ahly FC vs Enppi | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u17-e8ad7c.png" group-title="[LIVE 00:00 WIB 06/05/26] Saudi Arabia U17 vs Myanmar U17 | Server 2",[LIVE 00:00 WIB 06/05/26] Saudi Arabia U17 vs Myanmar U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:30 WIB 06/05/26] Besiktas JK vs Konyaspor | Server 1",[LIVE 00:30 WIB 06/05/26] Besiktas JK vs Konyaspor | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1778009185-0-0-34ce185c91cb64eead03d90ca68db760
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1778010805-0-0-7980bfe35a1cdcd8ddcb049d3a327b45
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:30 WIB 06/05/26] Besiktas JK vs Konyaspor | Server 2",[LIVE 00:30 WIB 06/05/26] Besiktas JK vs Konyaspor | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1778009185-0-0-9d4d23e06725e31e4222d4b4020bbeac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1778010805-0-0-be7dabb25c1d5c0f8ff829c9086696b4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:30 WIB 06/05/26] Besiktas JK vs Konyaspor | Server 3",[LIVE 00:30 WIB 06/05/26] Besiktas JK vs Konyaspor | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1778009185-0-0-f9b83a23e43a43fd1c38c1bfa5d80a20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1778010805-0-0-fa6b9233e9471710c70197a04b1e1916
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:30 WIB 06/05/26] Besiktas JK vs Konyaspor | Server 4",[LIVE 00:30 WIB 06/05/26] Besiktas JK vs Konyaspor | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1778009185-0-0-5960ec911692cc2a0a74ebe0a7383bb4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1778010805-0-0-d49c7162477b81d31b730439e4c5357d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/besiktas-jk-8f8cc3.png" group-title="[LIVE 00:30 WIB 06/05/26] Besiktas JK vs Konyaspor | Server 5",[LIVE 00:30 WIB 06/05/26] Besiktas JK vs Konyaspor | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tajikistan-u17-e23c6f.png" group-title="[LIVE 00:30 WIB 06/05/26] Tajikistan U17 vs Thailand U17 | Server 1",[LIVE 00:30 WIB 06/05/26] Tajikistan U17 vs Thailand U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=8a8e5c756099759c89ebdde471e345c2&txTime=69fa8ab1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tajikistan-u17-e23c6f.png" group-title="[LIVE 00:30 WIB 06/05/26] Tajikistan U17 vs Thailand U17 | Server 2",[LIVE 00:30 WIB 06/05/26] Tajikistan U17 vs Thailand U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=45fd47b6f3a9d85415e81fea3f7f50da&txTime=69fa8ab1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tajikistan-u17-e23c6f.png" group-title="[LIVE 00:30 WIB 06/05/26] Tajikistan U17 vs Thailand U17 | Server 3",[LIVE 00:30 WIB 06/05/26] Tajikistan U17 vs Thailand U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tajikistan-u17-e23c6f.png" group-title="[LIVE 00:30 WIB 06/05/26] Tajikistan U17 vs Thailand U17 | Server 4",[LIVE 00:30 WIB 06/05/26] Tajikistan U17 vs Thailand U17 | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 1",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1778009185-0-0-69c29576ac9a5a64dc33aee23589b402
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 2",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1778009185-0-0-ce86e13c546eca3d70ddee849c6911ed
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 3",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1778009185-0-0-cf1559e3e11b915399de7cc885c15f23
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 4",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1778009185-0-0-da418aa5c2b0b69d1cf2e4c8a4963241
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 5",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1778009185-0-0-bdd13dca12aabeaf5176aa0694091a54
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 6",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1778009185-0-0-7c0bf28930dfa3cf90e9bcad4ab9dfbe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 7",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1778009185-0-0-9708a97669e450c6384dca5d02585117
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 8",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1778009185-0-0-22572f8fc600bd12cfdf24d14faca68b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/tajikistan-u17-e23c6f.png" group-title="[LIVE 00:30 WIB 06/05/26] Tajikistan U17 vs Thailand U17 | Server 2",[LIVE 00:30 WIB 06/05/26] Tajikistan U17 vs Thailand U17 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-bbbed6.png" group-title="[LIVE 01:00 WIB 06/05/26] Al-Khaleej vs Al Hilal | Server 1",[LIVE 01:00 WIB 06/05/26] Al-Khaleej vs Al Hilal | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-bbbed6.png" group-title="[LIVE 01:00 WIB 06/05/26] Al-Khaleej vs Al Hilal | Server 2",[LIVE 01:00 WIB 06/05/26] Al-Khaleej vs Al Hilal | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-bbbed6.png" group-title="[LIVE 01:00 WIB 06/05/26] Al-Khaleej vs Al Hilal | Server 3",[LIVE 01:00 WIB 06/05/26] Al-Khaleej vs Al Hilal | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 1",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1778010805-0-0-ee8616812d23e1001df1c1a4a23bcebd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 2",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1778010805-0-0-b6dc5629a6f3481136f4d2d7b5bf224c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 3",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1778010805-0-0-687432b9a0713c92c805e7374b422f7e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 4",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1778010805-0-0-2e3b263595ff15e801224d74c7ad1679
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 5",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1778010805-0-0-73a3b80c21d7bb18e6ab43534f097ed4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 6",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1778010805-0-0-06b2406a3441f553045797215dbe6b23
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 7",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1778010805-0-0-b7ceaaef5467f16c8a11612b05f87db8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-khaleej-club-f18d45.webp" group-title="[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 8",[LIVE 01:00 WIB 06/05/26] Al Khaleej Club vs Al Hilal | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1778010805-0-0-5ac69dcc0bc754976d2d565a665c90fc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 1",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1777991527-0-0-2f98263ca2e3a55493fcfbd9f4c67595
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 2",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1777991527-0-0-2f98263ca2e3a55493fcfbd9f4c67595
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 3",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://a192live-pv-ta-amazon.akamaized.net/fra-nitro/live/clients/dash/enc/6sdrohc6nu/out/v1/f2e4108696b347a1b2440b948a3a6abf/cenc.mpd|drmScheme=clearkey&drmLicense=680a24e3d3785ea8b3a33a56928ea128:3f07a7f94f0ac7ee96057224b6a4163d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 4",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ut7mlye5xp/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd|drmScheme=clearkey&drmLicense=833c25ef8498d93b2ce35443b10f892c:bc703292aefed912c02976273e5e3c63
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 5",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1778010805-0-0-ffcfd036c52418631b107416dbe06739
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 6",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1778010805-0-0-c3d4f94b19972d3a3fb8b9a98b06a5f1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 7",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1778010805-0-0-74d23c798fe969392e7db4b7ad21ef86
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 8",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1778010805-0-0-a3e2caf34847b3d1b9d0f0c940a9af3a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 9",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1778010805-0-0-c6a37d012fdfebc2e4195fe8b7a9ef35
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 10",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1778010805-0-0-e6e3fa59d8016b913ddac886c6e6dda7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 11",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1778010805-0-0-8ece90e5b55d7e078f4ef8b801519637
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 12",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1778010805-0-0-852ba1779a5d63130b84015ac84ae65d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 13",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1778010805-0-0-a7e2a85233e81ca1648531ff360396ff
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 14",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1778010805-0-0-9cea292891535a2ba890b01a7257403c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 15",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1778010805-0-0-402ae02a1fe9ae01fb2f758ccb0ea0b1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 16",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 16 (SVR-BHNS 16)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1778010805-0-0-7db9d9f329461502372df64ada8fce52
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 17",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 17 (SVR-BHNS 17)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1778010805-0-0-2c4f1e15fdf4b008b9969fe69db040f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 18",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 18 (SVR-BHNS 18)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1778010805-0-0-b5660f1e7c4c8efca7a29f020a6bcc39
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 19",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 19 (SVR-BHNS 19)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1778010805-0-0-51271df5ed87936da9f5e6bed6230ead
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 20",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 20 (SVR-BHNS 20)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1778010805-0-0-cdd00ca7ae0f4800c56768f79bb3876e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 21",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 21 (SVR-BHNS 21)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=816b91892a168d92da021b8ee05fd5e7&txTime=69fa9105
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 22",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 22 (SVR-BHNS 22)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=019956f6a6475a94a8e728c388050da5&txTime=69fa9105
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 23",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 23 (SVR-BHNS 23)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1778010805-0-0-ac6e55654645f96ea5e6e91fc9550dd8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 24",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 24 (SVR-BHNS 24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1778010805-0-0-de4f038593ca698c0b8970ac75b4cb77
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 25",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 25 (SVR-BHNS 25)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1778010805-0-0-e4509e02f724a83eb6acfa94db059032
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 26",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 26 (SVR-BHNS 26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1778010805-0-0-4d635f94cb38879fe34bddcd5c1d1855
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 27",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 27 (SVR-BHNS 27)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=3ac94439b10214dd66bf264dc00017d7&txTime=69fa46b0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 28",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 28 (SVR-BHNS 28)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=812f0291762d43da53082a447642344a&txTime=69fa46b0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 29",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 29 (SVR-BHNS 29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 30",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 30 (SVR-BHNS 30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 31",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 31 (SVR-BHNS 31)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 32",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 32 (SVR-BHNS 32)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 33",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 33 (SVR-BHNS 33)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/arsenal-1c5442.webp" group-title="[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 34",[LIVE 02:00 WIB 06/05/26] Arsenal vs Atletico Madrid | Server 34 (SVR-BHNS 34)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
