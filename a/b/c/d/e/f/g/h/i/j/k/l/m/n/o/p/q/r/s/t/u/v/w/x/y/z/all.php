@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.09 WIB 06/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.13 WIB 06/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="x7lm7phjx680m2w" tvg-name="Rosario Central vs Club Libertad Asunción" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 05:00 WIB | 06/05/26] Rosario Central vs Club Libertad Asunción",[LIVE 05:00 WIB | 06/05/26] Rosario Central vs Club Libertad Asunción (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
