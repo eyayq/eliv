@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [05.33 WIB 06/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [05.49 WIB 06/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="vjxm8ghek1v7r6o" tvg-name="CA Juventud vs Atlético Mineiro - MG" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 05:00 WIB | 06/05/26] CA Juventud vs Atlético Mineiro - MG",[LIVE 05:00 WIB | 06/05/26] CA Juventud vs Atlético Mineiro - MG (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="vjxm8ghek1v7r6o" tvg-name="CA Juventud vs Atlético Mineiro - MG" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 05:00 WIB | 06/05/26] CA Juventud vs Atlético Mineiro - MG",[LIVE 05:00 WIB | 06/05/26] CA Juventud vs Atlético Mineiro - MG (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="x7lm7phjx680m2w" tvg-name="Rosario Central vs Club Libertad Asunción" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 05:00 WIB | 06/05/26] Rosario Central vs Club Libertad Asunción",[LIVE 05:00 WIB | 06/05/26] Rosario Central vs Club Libertad Asunción (Giàng A Voi)
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="x7lm7phjx680m2w" tvg-name="Rosario Central vs Club Libertad Asunción" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 05:00 WIB | 06/05/26] Rosario Central vs Club Libertad Asunción",[LIVE 05:00 WIB | 06/05/26] Rosario Central vs Club Libertad Asunción (Giàng A Voi)
@@ -13,7 +17,3 @@ https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee9005467
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="k82rekhg2k9yrep" tvg-name="Independiente Petrolero vs Caracas FC" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 05:00 WIB | 06/05/26] Independiente Petrolero vs Caracas FC",[LIVE 05:00 WIB | 06/05/26] Independiente Petrolero vs Caracas FC (Giàng A Mèo)
 https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="vjxm8ghek1v7r6o" tvg-name="CA Juventud vs Atlético Mineiro - MG" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 05:00 WIB | 06/05/26] CA Juventud vs Atlético Mineiro - MG",[LIVE 05:00 WIB | 06/05/26] CA Juventud vs Atlético Mineiro - MG (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="vjxm8ghek1v7r6o" tvg-name="CA Juventud vs Atlético Mineiro - MG" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 05:00 WIB | 06/05/26] CA Juventud vs Atlético Mineiro - MG",[LIVE 05:00 WIB | 06/05/26] CA Juventud vs Atlético Mineiro - MG (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
