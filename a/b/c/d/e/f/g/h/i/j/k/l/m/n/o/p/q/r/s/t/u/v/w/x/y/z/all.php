@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.40 WIB 06/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [06.48 WIB 06/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="k82rekhg2k9yrep" tvg-name="Independiente Petrolero vs Caracas FC" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[LIVE 05:00 WIB | 06/05/26] Independiente Petrolero vs Caracas FC",[LIVE 05:00 WIB | 06/05/26] Independiente Petrolero vs Caracas FC (Giàng A Mèo)
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
