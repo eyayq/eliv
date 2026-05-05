@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [07.46 WIB 05/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [07.52 WIB 05/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="vjxm8ghe035lr6o" tvg-name="Universitario De Vinto vs Blooming" tvg-logo="https://img.cdnok9.com/football/competition/5d75feb43ea08222def38c8aa43db089.png" group-title="[LIVE 07:00 WIB | 05/05/26] Universitario De Vinto vs Blooming",[LIVE 07:00 WIB | 05/05/26] Universitario De Vinto vs Blooming (DERICE)
 https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
