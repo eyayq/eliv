@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.45 WIB 07/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.51 WIB 07/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="318q66hx1yd7qo9" tvg-name="FC Bayern Munich vs Paris Saint Germain" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 07/05/26] FC Bayern Munich vs Paris Saint Germain",[LIVE 02:00 WIB | 07/05/26] FC Bayern Munich vs Paris Saint Germain (Giàng A Khoai)
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
@@ -25,11 +25,7 @@ https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d9
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="318q66hx1yd7qo9" tvg-name="FC Bayern Munich vs Paris Saint Germain" tvg-logo="https://img.cdnok9.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LIVE 02:00 WIB | 07/05/26] FC Bayern Munich vs Paris Saint Germain",[LIVE 02:00 WIB | 07/05/26] FC Bayern Munich vs Paris Saint Germain (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="1l4rjnh9n73zm7v" tvg-name="Univ Catolica vs Cruzeiro - MG" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[UPCO 09:00 WIB | 5j 14m | 07/05/26] Univ Catolica vs Cruzeiro - MG",[UPCO 09:00 WIB | 5j 14m | 07/05/26] Univ Catolica vs Cruzeiro - MG (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="1l4rjnh9n73zm7v" tvg-name="Univ Catolica vs Cruzeiro - MG" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[UPCO 09:00 WIB | 5j 8m | 07/05/26] Univ Catolica vs Cruzeiro - MG",[UPCO 09:00 WIB | 5j 8m | 07/05/26] Univ Catolica vs Cruzeiro - MG (GIÀNG A MIKE)
 https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="1l4rjnh9n73zm7v" tvg-name="Univ Catolica vs Cruzeiro - MG" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[UPCO 09:00 WIB | 5j 14m | 07/05/26] Univ Catolica vs Cruzeiro - MG",[UPCO 09:00 WIB | 5j 14m | 07/05/26] Univ Catolica vs Cruzeiro - MG (GIÀNG A MIKE)
+#EXTINF:-1 tvg-id="1l4rjnh9n73zm7v" tvg-name="Univ Catolica vs Cruzeiro - MG" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[UPCO 09:00 WIB | 5j 8m | 07/05/26] Univ Catolica vs Cruzeiro - MG",[UPCO 09:00 WIB | 5j 8m | 07/05/26] Univ Catolica vs Cruzeiro - MG (GIÀNG A MIKE)
 https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="23xmvkh6407wqg8" tvg-name="Brighton & Hove Albion Women vs Arsenal Women" tvg-logo="https://img.cdnok9.com/football/competition/d62b0f397bfc18b2bb5b20de0812433c.png" group-title="[LIVE 01:45 WIB | 07/05/26] Brighton & Hove Albion Women vs Arsenal Women",[LIVE 01:45 WIB | 07/05/26] Brighton & Hove Albion Women vs Arsenal Women (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="23xmvkh6407wqg8" tvg-name="Brighton & Hove Albion Women vs Arsenal Women" tvg-logo="https://img.cdnok9.com/football/competition/d62b0f397bfc18b2bb5b20de0812433c.png" group-title="[LIVE 01:45 WIB | 07/05/26] Brighton & Hove Albion Women vs Arsenal Women",[LIVE 01:45 WIB | 07/05/26] Brighton & Hove Albion Women vs Arsenal Women (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
