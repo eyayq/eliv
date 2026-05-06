@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:32 WIB 06/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:32 WIB 06/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:43 WIB 06/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:43 WIB 06/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[20:30 WIB 06/05/26] Mateo Arnaldi - Jaume Munar [FHD] [LIVE]
@@ -11,13 +11,13 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[20:30 WIB 06/05/26] Mateo Arnaldi - Jaume Munar [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 06/05/26] Đức vs Hongkong (Nam) [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 06/05/26] Đức vs Hongkong (Nam) [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 06/05/26] Đức vs Hongkong (Nam) [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 06/05/26] Đức vs Hongkong (Nam) [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 06/05/26] Đức vs Hongkong (Nam) [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 06/05/26] Đức vs Hongkong (Nam) [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 [FHD] [NANTIKAN]
@@ -155,13 +155,13 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[19:00 WIB 07/05/26] Shenzhen vs Zhejiang Chouzhou [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/Medias/original/2023/03/20/haras-el-hodood-2003084615.jpg" group-title="VĐQG Ai Cập",[21:00 WIB 07/05/26] El Geish vs Ghazl Al Mehalla [FHD] [LIVE]
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/Medias/original/2023/03/20/haras-el-hodood-2003084615.jpg" group-title="VĐQG Ai Cập",[21:00 WIB 07/05/26] El Geish vs Ghazl Al Mehalla [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/Medias/original/2023/03/20/haras-el-hodood-2003084615.jpg" group-title="VĐQG Ai Cập",[21:00 WIB 07/05/26] El Geish vs Ghazl Al Mehalla [HD] [LIVE]
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/Medias/original/2023/03/20/haras-el-hodood-2003084615.jpg" group-title="VĐQG Ai Cập",[21:00 WIB 07/05/26] El Geish vs Ghazl Al Mehalla [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/Medias/original/2023/03/20/haras-el-hodood-2003084615.jpg" group-title="VĐQG Ai Cập",[21:00 WIB 07/05/26] El Geish vs Ghazl Al Mehalla [SD] [LIVE]
+#EXTINF:-1 tvg-logo="https://static.bongda24h.vn/Medias/original/2023/03/20/haras-el-hodood-2003084615.jpg" group-title="VĐQG Ai Cập",[21:00 WIB 07/05/26] El Geish vs Ghazl Al Mehalla [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/542.png" group-title="Iraqi League",[22:00 WIB 07/05/26] Al Najaf vs Baghdad [FHD] [NANTIKAN]
