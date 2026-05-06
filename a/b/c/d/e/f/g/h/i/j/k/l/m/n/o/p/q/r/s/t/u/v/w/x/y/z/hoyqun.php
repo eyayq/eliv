@@ -1,15 +1,24 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:57 WIB 06/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:57 WIB 06/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:05 WIB 06/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:05 WIB 06/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 06/05/26] Machida Zelvia vs Yokohama F. Marinos [FHD] [LIVE]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2K78Ye-krAPWLIYURkSNPIfgb3iMwfHJMg&s" group-title="ITTF Men’s & Women’s World Cup Macao 2026 ( Sân 1 )",[16:00 WIB 06/05/26] Trung Quốc vs Romani  [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 06/05/26] Machida Zelvia vs Yokohama F. Marinos [HD] [LIVE]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2K78Ye-krAPWLIYURkSNPIfgb3iMwfHJMg&s" group-title="ITTF Men’s & Women’s World Cup Macao 2026 ( Sân 1 )",[16:00 WIB 06/05/26] Trung Quốc vs Romani  [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 06/05/26] Machida Zelvia vs Yokohama F. Marinos [SD] [LIVE]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2K78Ye-krAPWLIYURkSNPIfgb3iMwfHJMg&s" group-title="ITTF Men’s & Women’s World Cup Macao 2026 ( Sân 1 )",[16:00 WIB 06/05/26] Trung Quốc vs Romani  [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2K78Ye-krAPWLIYURkSNPIfgb3iMwfHJMg&s" group-title="ITTF Men’s & Women’s World Cup Macao 2026 ( Sân 2 )",[16:00 WIB 06/05/26] Luxembourg vs Nhật Bản  [FHD] [LIVE]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2K78Ye-krAPWLIYURkSNPIfgb3iMwfHJMg&s" group-title="ITTF Men’s & Women’s World Cup Macao 2026 ( Sân 2 )",[16:00 WIB 06/05/26] Luxembourg vs Nhật Bản  [HD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt2K78Ye-krAPWLIYURkSNPIfgb3iMwfHJMg&s" group-title="ITTF Men’s & Women’s World Cup Macao 2026 ( Sân 2 )",[16:00 WIB 06/05/26] Luxembourg vs Nhật Bản  [SD] [LIVE]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 06/05/26] Kashiwa Reysol vs Urawa [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
