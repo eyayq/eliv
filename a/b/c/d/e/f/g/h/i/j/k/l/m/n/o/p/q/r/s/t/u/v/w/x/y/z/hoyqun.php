@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [10:35 WIB 06/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [10:35 WIB 06/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [10:42 WIB 06/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [10:42 WIB 06/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:30 WIB 06/05/26] Tigres UANL vs Nashville SC [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:30 WIB 06/05/26] Tigres UANL vs Nashville SC [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/16.png" group-title="CONCACAF Champions League",[08:30 WIB 06/05/26] Tigres UANL vs Nashville SC [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[13:00 WIB 06/05/26] Sanfrecce Hiroshima vs Vissel Kobe [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
