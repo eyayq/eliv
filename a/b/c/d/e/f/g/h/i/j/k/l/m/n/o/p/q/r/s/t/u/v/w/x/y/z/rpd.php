@@ -1,42 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.23 WIB 07/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.31 WIB 07/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 1",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1778091474-0-0-ac782038fc3d5fb8719a02b2c2d214ac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1778092014-0-0-28b522cbb4155f566d40a42255ce9862
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 2",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1778091474-0-0-2c4c48e35f4c65fbb6cb4108e92b1467
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1778092014-0-0-9a7a420457da61d25bfec6ab6fd9b3ac
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 3",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1778091474-0-0-f6ef6d722fd23ceed5b082ef68039f69
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1778092013-0-0-9a3399169fa536a1a38ddd1887a28372
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 4",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1778091474-0-0-966964f8abc6dda5128a9fdbd04cafa9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1778092013-0-0-eb03301f5a3b954be06768efe011b346
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 5",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1778091473-0-0-8ea4d921e0754b3b695233be0bd4579d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1778092014-0-0-fc9aae9d0cfb598dfcdd1f9a82eb10d9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 6",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1778091473-0-0-ccd176f5d9a3fdcc0484056810b13b49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1778092014-0-0-57c77a85436cf325202aadd445b45fe9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 7",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=ae8fc1e4844c30794a41547ef14e824e&txTime=69fbcc21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=dce9419195e6da037511fb78334a9308&txTime=69fbce3d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 8",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=27506f714d179ae0b54954ea9d6ffb91&txTime=69fbcc21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=6cdcdfad436e4136c61ab747583e2254&txTime=69fbce3d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 9",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1778091474-0-0-f51204896c44786a57659094be518f12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1778092014-0-0-743ce54668df928ff142a2da10d4a45d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 10",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1778091474-0-0-26030d9cf9eab71a71a0cc60724bda4a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1778092014-0-0-813985bca976b654fb528bca02f8c415
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 11",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1778091474-0-0-6dec12a9718feb943bb14e0e71aa04a4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1778092014-0-0-e7cc534c896b339f6ea262cae5f6088f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 12",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1778091474-0-0-c697d3e17e7d96ab604ed1887cc42a72
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1778092014-0-0-b339ccd7342e35e92835728108b264b1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/australia-u17-ef096f.png" group-title="[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 13",[LIVE 23:00 WIB 06/05/26] Australia U17 vs India U17 | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
@@ -53,44 +53,41 @@ https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almere-city-fc-8d50ae.png" group-title="[LIVE 23:45 WIB 06/05/26] Almere City FC vs De Graafschap | Server 1",[LIVE 23:45 WIB 06/05/26] Almere City FC vs De Graafschap | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1778091474-0-0-cdd301e2a80bc7465cf1e7a811fa836b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1778092014-0-0-0471a374ff7c4b33589c77f643c88dc4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almere-city-fc-8d50ae.png" group-title="[LIVE 23:45 WIB 06/05/26] Almere City FC vs De Graafschap | Server 2",[LIVE 23:45 WIB 06/05/26] Almere City FC vs De Graafschap | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1778091474-0-0-3dcb4205b2ab282cab31cd662a4a992c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1778092014-0-0-87e57d15e71503ee4eb4bce7c053dde3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almere-city-fc-8d50ae.png" group-title="[LIVE 23:45 WIB 06/05/26] Almere City FC vs De Graafschap | Server 3",[LIVE 23:45 WIB 06/05/26] Almere City FC vs De Graafschap | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=e8fd263e8ee1d7cc0af5048412f976db&txTime=69fbcc22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-597929_lsd.m3u8?txSecret=ae9d88ad2628d4366c6b8ba45f8a58a8&txTime=69fbce3e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almere-city-fc-8d50ae.png" group-title="[LIVE 23:45 WIB 06/05/26] Almere City FC vs De Graafschap | Server 4",[LIVE 23:45 WIB 06/05/26] Almere City FC vs De Graafschap | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=019946b218f0bbfcd769eb0c02c3ee08&txTime=69fbcc22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-597929_lhd.m3u8?txSecret=7a41862dfc4b77fad64529a58da6b289&txTime=69fbce3e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shabab-al-ahli-f887f6.webp" group-title="[LIVE 23:45 WIB 06/05/26] Shabab Al Ahli vs Al-Nasr Dubai | Server 1",[LIVE 23:45 WIB 06/05/26] Shabab Al Ahli vs Al-Nasr Dubai | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1778091474-0-0-3aeb88f73e86b8655c2fe00c9a21963f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1778092014-0-0-cdb0199f83affef26310f45ad919cb90
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shabab-al-ahli-f887f6.webp" group-title="[LIVE 23:45 WIB 06/05/26] Shabab Al Ahli vs Al-Nasr Dubai | Server 2",[LIVE 23:45 WIB 06/05/26] Shabab Al Ahli vs Al-Nasr Dubai | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1778091474-0-0-786251a01fc0f5e89276f20faba52474
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1778092014-0-0-1eec51f07d3f7eae76323500b7a595d4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shabab-al-ahli-f887f6.webp" group-title="[LIVE 23:45 WIB 06/05/26] Shabab Al Ahli vs Al-Nasr Dubai | Server 3",[LIVE 23:45 WIB 06/05/26] Shabab Al Ahli vs Al-Nasr Dubai | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1778091474-0-0-a9bd9a96e89a470ee0ceedd0d979f721
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1778092014-0-0-3d96628a163a60276d1ab3be2ade08ef
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shabab-al-ahli-f887f6.webp" group-title="[LIVE 23:45 WIB 06/05/26] Shabab Al Ahli vs Al-Nasr Dubai | Server 4",[LIVE 23:45 WIB 06/05/26] Shabab Al Ahli vs Al-Nasr Dubai | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1778091474-0-0-3603fc53dbabad74154b3f0774a1cb46
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1778092014-0-0-dc8c7dbf970907b2cef9ba4906b68d63
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sharjah-fb09eb.webp" group-title="[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al-Ain FC | Server 1",[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al-Ain FC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1778091474-0-0-c3764c75061bccdccdaa2b80b17354d0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1778092014-0-0-70fd7f4576f7c685fc0de34fe8abad26
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sharjah-fb09eb.webp" group-title="[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al-Ain FC | Server 2",[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al-Ain FC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1778091474-0-0-0da217ec4644a8c825476daf4212da8f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1778092014-0-0-172805f507487232191a729525611232
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sharjah-fb09eb.webp" group-title="[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al-Ain FC | Server 3",[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al-Ain FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1778091473-0-0-6057b1a86785be31a8b9bcb806804cd0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1778092013-0-0-9bcabe4ca710e1cceaa619808823a443
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sharjah-fb09eb.webp" group-title="[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al-Ain FC | Server 4",[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al-Ain FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1778091473-0-0-c0bc8cd782458d0ffbf50fb429944612
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/barcelona-w-25a5ee.png" group-title="[LIVE 23:45 WIB 06/05/26] Barcelona (W) vs Levante UD (W) | Server 1",[LIVE 23:45 WIB 06/05/26] Barcelona (W) vs Levante UD (W) | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1778092013-0-0-9d38dcb5b6e55401d0e131b63b57a753
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/shabab-al-ahli-f887f6.webp" group-title="[LIVE 23:45 WIB 06/05/26] Shabab Al Ahli vs Al Nasr Dubai | Server 1",[LIVE 23:45 WIB 06/05/26] Shabab Al Ahli vs Al Nasr Dubai | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
@@ -99,61 +96,64 @@ https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79
 https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sharjah-fb09eb.webp" group-title="[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al Ain | Server 1",[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al Ain | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
+https://hls-ls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sharjah-fb09eb.webp" group-title="[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al Ain | Server 2",[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al Ain | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981
+https://hls-ls.cdnok9.com/live/falcon/index.m3u8?expire=3976189140&sign=96837373a6193800a79554011d4ba366
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-sharjah-fb09eb.webp" group-title="[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al Ain | Server 3",[LIVE 23:45 WIB 06/05/26] Al-Sharjah vs Al Ain | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/barcelona-w-25a5ee.png" group-title="[LIVE 23:45 WIB 06/05/26] Barcelona (W) vs Levante UD (W) | Server 1",[LIVE 23:45 WIB 06/05/26] Barcelona (W) vs Levante UD (W) | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-varna-0259fe.webp" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Varna vs FC Dobrudzha Dobrich | Server 1",[LIVE 00:00 WIB 07/05/26] Spartak Varna vs FC Dobrudzha Dobrich | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1778091473-0-0-1aefed5b49083c702f7064677f0a5ef5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1778092013-0-0-7f5a70e3b66f53fdb7726b40c330fa21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-varna-0259fe.webp" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Varna vs FC Dobrudzha Dobrich | Server 2",[LIVE 00:00 WIB 07/05/26] Spartak Varna vs FC Dobrudzha Dobrich | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1778091473-0-0-a76eb1ba75014045c0d70030386356f3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1778092013-0-0-02dcf8ffb1fd8133512d21edf090504a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-varna-0259fe.webp" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Varna vs FC Dobrudzha Dobrich | Server 3",[LIVE 00:00 WIB 07/05/26] Spartak Varna vs FC Dobrudzha Dobrich | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1778091473-0-0-eac5798d8f2ea20068e5ecf840ec5078
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1778092013-0-0-a1eef9ca52eeff8f3043cf606ac15695
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-varna-0259fe.webp" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Varna vs FC Dobrudzha Dobrich | Server 4",[LIVE 00:00 WIB 07/05/26] Spartak Varna vs FC Dobrudzha Dobrich | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1778091473-0-0-6b3e4f3c4f5d5cd5dae8105e8f7ef3bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1778092013-0-0-09504b6d579c493c58e4a61462768eb4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 1",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1778091474-0-0-780e4efd20bf6560048b3ed5bab4fd07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1778092014-0-0-b86daf265b1d4ad43b3272b9e05ad3cb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 2",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1778091474-0-0-f45f886851630e10ca71f127bcad5190
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1778092014-0-0-ecbc02895da44f12b4f45b6a2435268b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 3",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1778091473-0-0-75904bde39d29a1f750a35b40158394b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1778092014-0-0-b132c8adc3060b7f25388b4315106e8e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 4",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1778091473-0-0-837892d786b49658dde55a32a8724c8b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1778092014-0-0-1fb37b5d71a88cd1910a9eec7bd90f5c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 5",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1778091474-0-0-5fe221b47656304dc59c16160e9a1e77
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1778092013-0-0-f5837c2ecf596a22949b95249305df95
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 6",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1778091474-0-0-26410abfd5a0f02a613360d5ce89bc6c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1778092013-0-0-69804826e8347b61f8c9c5c52a26ae1a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 7",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1778091474-0-0-c3ca3d83c75f49989b431316ed51dee1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1778092014-0-0-f54a3b4e09f3372e6623dcac987f3d63
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 8",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1778091474-0-0-1361ec96918b07b5e7e72a777dcf8038
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1778092014-0-0-2417285bf92af18ae6557a6f04a7e94a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 9",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=bc4650a51b8a150ef2f58348e11675c5&txTime=69fbcc21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=0c811261c49fc369cdbae51b67b9d5e9&txTime=69fbce3d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 10",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=f0152e9db336be4090330b43f41169e1&txTime=69fbcc21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b99d84b039b4050d8901dcf6ce7e4b52&txTime=69fbce3d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 11",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=eb68c576630e60e44577d9b40d99ee51&txTime=69fbcc22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=a86c1213caa45f85a3ed93c4cdf1d86a&txTime=69fbce3e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 12",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=85c62fd7ac099caf23deb8429308b1ba&txTime=69fbcc22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=e30ca21decd75a6acb161ff2edce69c4&txTime=69fbce3e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/yemen-u17-138376.png" group-title="[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 13",[LIVE 00:00 WIB 07/05/26] Yemen U17 vs Vietnam U17 | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -161,29 +161,29 @@ https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-moscow-45c739.png" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 1",[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1778091474-0-0-5740edf3654f88a4513958c9344331ac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=ad7f4c730bbdebcbac46fb01df47d989&txTime=69fbce3e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-moscow-45c739.png" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 2",[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1778091474-0-0-150159f8c7a6e9efe9ff8ffb5b1955b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=5b931b194944f90824bdc7004d35f203&txTime=69fbce3e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-moscow-45c739.png" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 3",[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=24196f417254b8e2271ab8bf70a5b48f&txTime=69fbcc22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1778092013-0-0-0440f39fb20e8567a3d0f0b62fcb8652
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-moscow-45c739.png" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 4",[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=adbf0187a6b62acde552b5b3ef38e3a0&txTime=69fbcc22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1778092013-0-0-17a006a8174ae41ff2fe1dcebf4afa60
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-moscow-45c739.png" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 5",[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1778091473-0-0-e6b72fdd9cfa5d1d118deff9d6dce406
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1778092014-0-0-70293dc984c10dd15f33427da45a887b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-moscow-45c739.png" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 6",[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1778091473-0-0-e1d8f6fe5011fbf2bbc6eb0c961b03e5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1778092014-0-0-8d188c2a33672b5fb0366265c000bdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-moscow-45c739.png" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 7",[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1778091474-0-0-30bd914504cac93649c2825782859291
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1778092014-0-0-8ce06401025dc2fed698514a8aa1accc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-moscow-45c739.png" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 8",[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1778091474-0-0-6f3a61572f02b0762305d5d339ff57d9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1778092014-0-0-313fb2ac5b21a02a133d14999b55b3f8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spartak-moscow-45c739.png" group-title="[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 9",[LIVE 00:00 WIB 07/05/26] Spartak Moscow vs CSKA Moscow | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
@@ -197,14 +197,17 @@ https://hls-ls.cdnok9.com/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-korea-u17-190ae2.webp" group-title="[LIVE 00:30 WIB 07/05/26] South Korea U17 vs United Arab Emirates U17 | Server 1",[LIVE 00:30 WIB 07/05/26] South Korea U17 vs United Arab Emirates U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1778091474-0-0-fddafdf95db6208098b5bfa79eb4f16f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1778092014-0-0-b2ec5aee4d5f1db44eecdfefa3836c52
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-korea-u17-190ae2.webp" group-title="[LIVE 00:30 WIB 07/05/26] South Korea U17 vs United Arab Emirates U17 | Server 2",[LIVE 00:30 WIB 07/05/26] South Korea U17 vs United Arab Emirates U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1778091474-0-0-a6b2c3fbb09405dbe346c2079cdf6b36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1778092014-0-0-15958bd66cb1fcdb16ee7fc2e12121ce
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-korea-u17-190ae2.webp" group-title="[LIVE 00:30 WIB 07/05/26] South Korea U17 vs United Arab Emirates U17 | Server 3",[LIVE 00:30 WIB 07/05/26] South Korea U17 vs United Arab Emirates U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1778091474-0-0-e4a64622e0c22401cda0b96b6431bc37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1778092014-0-0-6c9722a1fcb082e53297dfdb489a0774
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-korea-u17-190ae2.webp" group-title="[LIVE 00:30 WIB 07/05/26] South Korea U17 vs United Arab Emirates U17 | Server 4",[LIVE 00:30 WIB 07/05/26] South Korea U17 vs United Arab Emirates U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1778091474-0-0-d0a440408dc2d6b4421572bb3f51abe9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1778092014-0-0-466aba7146833fbc98cc05874e289306
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/south-korea-u17-190ae2.webp" group-title="[LIVE 00:30 WIB 07/05/26] South Korea U17 vs UAE U17 | Server 1",[LIVE 00:30 WIB 07/05/26] South Korea U17 vs UAE U17 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
