@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.07 WIB 07/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.14 WIB 07/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="l7oqdehgjeo2r51" tvg-name="Utah Royals Women vs Houston Dash Women" tvg-logo="https://img.cdnok9.com/football/competition/b0557c0535e2990c0e6c9a7b17bd9465.png" group-title="[LIVE 09:00 WIB | 07/05/26] Utah Royals Women vs Houston Dash Women",[LIVE 09:00 WIB | 07/05/26] Utah Royals Women vs Houston Dash Women (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="l7oqdehgjeo2r51" tvg-name="Utah Royals Women vs Houston Dash Women" tvg-logo="https://img.cdnok9.com/football/competition/b0557c0535e2990c0e6c9a7b17bd9465.png" group-title="[LIVE 09:00 WIB | 07/05/26] Utah Royals Women vs Houston Dash Women",[LIVE 09:00 WIB | 07/05/26] Utah Royals Women vs Houston Dash Women (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="4jwq2ghng21xm0v" tvg-name="Deportes Tolima vs Nacional Montevideo" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 09:00 WIB | 07/05/26] Deportes Tolima vs Nacional Montevideo",[LIVE 09:00 WIB | 07/05/26] Deportes Tolima vs Nacional Montevideo (Giàng A Páo)
-https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="4jwq2ghng21xm0v" tvg-name="Deportes Tolima vs Nacional Montevideo" tvg-logo="https://img.cdnok9.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="[LIVE 09:00 WIB | 07/05/26] Deportes Tolima vs Nacional Montevideo",[LIVE 09:00 WIB | 07/05/26] Deportes Tolima vs Nacional Montevideo (Giàng A Páo)
-https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="k82rekhgjn77rep" tvg-name="Solomon Kings FC vs Tahiti United FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 10:00 WIB | 07/05/26] Solomon Kings FC vs Tahiti United FC",[LIVE 10:00 WIB | 07/05/26] Solomon Kings FC vs Tahiti United FC (BLV GÀ PHÁP)
 https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 tvg-id="k82rekhgjn77rep" tvg-name="Solomon Kings FC vs Tahiti United FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 10:00 WIB | 07/05/26] Solomon Kings FC vs Tahiti United FC",[LIVE 10:00 WIB | 07/05/26] Solomon Kings FC vs Tahiti United FC (BLV GÀ PHÁP)
