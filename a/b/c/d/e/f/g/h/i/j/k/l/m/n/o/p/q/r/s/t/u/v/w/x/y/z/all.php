@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.11 WIB 08/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.13 WIB 08/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="23xmvkh625d9qg8" tvg-name="Crystal Palace vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk",[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk (Giàng A Long)
-https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 tvg-id="23xmvkh625d9qg8" tvg-name="Crystal Palace vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk",[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk (Giàng A Long)
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="23xmvkh625d9qg8" tvg-name="Crystal Palace vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk",[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 tvg-id="23xmvkh625d9qg8" tvg-name="Crystal Palace vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk",[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk (Giàng A Lỏ)
 https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+#EXTINF:-1 tvg-id="23xmvkh625d9qg8" tvg-name="Crystal Palace vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk",[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk (Giàng A Long)
+https://hls.686868.me/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+#EXTINF:-1 tvg-id="23xmvkh625d9qg8" tvg-name="Crystal Palace vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk",[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk (Giàng A Long)
+https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 tvg-id="23xmvkh625d9qg8" tvg-name="Crystal Palace vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk",[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk (Giàng A Húp)
 https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="23xmvkh625d9qg8" tvg-name="Crystal Palace vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk",[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk (Giàng A Húp)
@@ -17,10 +17,10 @@ https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="23xmvkh625d9qg8" tvg-name="Crystal Palace vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk",[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (VĂN GÔN)
@@ -29,10 +29,10 @@ https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067a
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Chiến)
