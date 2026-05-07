@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:12 WIB 07/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:12 WIB 07/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:22 WIB 07/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:22 WIB 07/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[16:00 WIB 07/05/26] Trung Quốc vs Hàn Quốc (Nữ) [FHD] [LIVE]
@@ -154,6 +154,24 @@ https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[01:30 WIB 09/05/26] Borussia Dortmund vs Eintracht Frankfurt [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[01:45 WIB 09/05/26] Lens vs Nantes [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[01:45 WIB 09/05/26] Lens vs Nantes [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[01:45 WIB 09/05/26] Lens vs Nantes [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 09/05/26] Torino vs Sassuolo [FHD] [NANTIKAN]
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 09/05/26] Torino vs Sassuolo [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 09/05/26] Torino vs Sassuolo [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 09/05/26] Thanh Hóa vs Ha Noi [FHD] [NANTIKAN]
 https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
