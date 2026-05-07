@@ -5,12 +5,6 @@
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-a-map.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [01:30 07/05] Xem Trực Tiếp Pháp vs Hungary - Pháo 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-phao.flv
-
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [01:30 07/05] Xem Trực Tiếp Borussia Dortmund vs Eintracht Frankfurt - A Tai 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
@@ -28,30 +22,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho.flv
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-dylan.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [02:00 07/05] Xem Trực Tiếp Aston Villa vs Nottingham Forest - Cháo Quẩy 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [02:00 07/05] Xem Trực Tiếp Crystal Palace vs FC Shakhtar Donetsk - Dylan 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-dylan.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [02:00 07/05] Xem Trực Tiếp RC Strasbourg Alsace vs Rayo Vallecano - A Tai 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-gio-tai.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [02:00 07/05] Xem Trực Tiếp SC Freiburg vs Sporting Braga - A Mập 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-a-map.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [02:00 07/05] Xem Trực Tiếp Levante vs CA Osasuna - Cháo Quẩy 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
