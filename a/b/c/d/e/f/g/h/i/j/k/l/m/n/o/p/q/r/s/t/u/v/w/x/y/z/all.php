@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.13 WIB 08/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.18 WIB 08/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="23xmvkh625d9qg8" tvg-name="Crystal Palace vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk",[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
@@ -17,10 +17,10 @@ https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="23xmvkh625d9qg8" tvg-name="Crystal Palace vs FC Shakhtar Donetsk" tvg-logo="https://img.cdnok9.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk",[LIVE 02:00 WIB | 08/05/26] Crystal Palace vs FC Shakhtar Donetsk (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (VĂN GÔN)
@@ -29,22 +29,26 @@ https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067a
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Chiến)
 https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 tvg-id="zp5rzghgokzwq82" tvg-name="SC Freiburg vs Sporting Braga" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga",[LIVE 02:00 WIB | 08/05/26] SC Freiburg vs Sporting Braga (Giàng A Chiến)
 https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Thích Đủ Thứ)
+https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
+#EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Thích Đủ Thứ)
+https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Giàng A Rùa)
+https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Giàng A Rùa)
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Lữ Bố (Giàng Phụng Tiên))
@@ -53,10 +57,6 @@ https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df7
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Giàng A Khoai)
 https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Thích Đủ Thứ)
-https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
-#EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (Thích Đủ Thứ)
-https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
 #EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (VĂN VỞ)
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="1l4rjnh9g7zjm7v" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://img.cdnok9.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest",[LIVE 02:00 WIB | 08/05/26] Aston Villa vs Nottingham Forest (VĂN VỞ)
