@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.14 WIB 08/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.22 WIB 08/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="318q66hx8eo4qo9" tvg-name="O.Higgins vs São Paulo - SP" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[UPCO 05:00 WIB | 45m | 08/05/26] O.Higgins vs São Paulo - SP",[UPCO 05:00 WIB | 45m | 08/05/26] O.Higgins vs São Paulo - SP (Giàng A Rùa)
+#EXTINF:-1 tvg-id="318q66hx8eo4qo9" tvg-name="O.Higgins vs São Paulo - SP" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[UPCO 05:00 WIB | 37m | 08/05/26] O.Higgins vs São Paulo - SP",[UPCO 05:00 WIB | 37m | 08/05/26] O.Higgins vs São Paulo - SP (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="318q66hx8eo4qo9" tvg-name="O.Higgins vs São Paulo - SP" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[UPCO 05:00 WIB | 45m | 08/05/26] O.Higgins vs São Paulo - SP",[UPCO 05:00 WIB | 45m | 08/05/26] O.Higgins vs São Paulo - SP (Giàng A Rùa)
+#EXTINF:-1 tvg-id="318q66hx8eo4qo9" tvg-name="O.Higgins vs São Paulo - SP" tvg-logo="https://img.cdnok9.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="[UPCO 05:00 WIB | 37m | 08/05/26] O.Higgins vs São Paulo - SP",[UPCO 05:00 WIB | 37m | 08/05/26] O.Higgins vs São Paulo - SP (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
