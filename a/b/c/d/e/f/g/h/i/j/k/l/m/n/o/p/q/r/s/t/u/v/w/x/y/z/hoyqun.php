@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:20 WIB 07/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:20 WIB 07/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:35 WIB 07/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:35 WIB 07/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/Medias/original/2023/03/20/haras-el-hodood-2003084615.jpg" group-title="VĐQG Ai Cập",[21:00 WIB 07/05/26] El Geish vs Ghazl Al Mehalla [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[21:00 WIB 07/05/26] Coco Gauff - Tereza Valentová [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/542.png" group-title="Iraqi League",[22:00 WIB 07/05/26] Al Najaf vs Baghdad [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/542.png" group-title="Iraqi League",[22:00 WIB 07/05/26] Al Najaf vs Baghdad [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/542.png" group-title="Iraqi League",[22:00 WIB 07/05/26] Al Najaf vs Baghdad [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/542.png" group-title="Iraqi League",[22:00 WIB 07/05/26] Al Najaf vs Baghdad [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/542.png" group-title="Iraqi League",[22:00 WIB 07/05/26] Al Najaf vs Baghdad [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/542.png" group-title="Iraqi League",[22:00 WIB 07/05/26] Al Najaf vs Baghdad [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 07/05/26] Đức vs Hồng Kông (Nữ) [FHD] [NANTIKAN]
