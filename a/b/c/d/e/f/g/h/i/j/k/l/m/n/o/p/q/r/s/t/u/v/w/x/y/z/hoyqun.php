@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [12:13 WIB 08/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [12:13 WIB 08/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [12:23 WIB 08/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [12:23 WIB 08/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4CIW6yfvFxWmX_OBDuT2VtnVpWYRwc81Lg&s" group-title="99 ALLIN C2 ROAD TO WORLD",[12:00 WIB 08/05/26] 99 ALLIN C2 ROAD TO WORLD [FHD] [LIVE]
