@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [18.03 WIB 08/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [18.11 WIB 08/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="l5ergph44jxor8k" tvg-name="SHB Da Nang vs Becamex Ho Chi Minh City" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 18:00 WIB | 08/05/26] SHB Da Nang vs Becamex Ho Chi Minh City",[LIVE 18:00 WIB | 08/05/26] SHB Da Nang vs Becamex Ho Chi Minh City (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
@@ -45,13 +45,13 @@ https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc1225
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="ednm9whwpk30ryo" tvg-name="FK Van Charentsavan vs Shirak" tvg-logo="https://img.cdnok9.com/football/competition/dc8217bf1c8219d1265fe704f1dd460b.png" group-title="[LIVE 18:00 WIB | 08/05/26] FK Van Charentsavan vs Shirak",[LIVE 18:00 WIB | 08/05/26] FK Van Charentsavan vs Shirak (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="69fd75eede8178ee9c1be455" tvg-name="Paris Saint Germain vs Bayern Muchen" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 55m | 08/05/26] Paris Saint Germain vs Bayern Muchen",[UPCO 23:59 WIB | 5j 55m | 08/05/26] Paris Saint Germain vs Bayern Muchen (Giàng A Sếu)
+#EXTINF:-1 tvg-id="69fd75eede8178ee9c1be455" tvg-name="Paris Saint Germain vs Bayern Muchen" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 47m | 08/05/26] Paris Saint Germain vs Bayern Muchen",[UPCO 23:59 WIB | 5j 47m | 08/05/26] Paris Saint Germain vs Bayern Muchen (Giàng A Sếu)
 https://hls.686868.me/live/GIANGABANH/index.m3u8?expire=1785606120&sign=28eac740a181e62241f3c9ee4b1a4e46
-#EXTINF:-1 tvg-id="69fd75eede8178ee9c1be455" tvg-name="Paris Saint Germain vs Bayern Muchen" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 55m | 08/05/26] Paris Saint Germain vs Bayern Muchen",[UPCO 23:59 WIB | 5j 55m | 08/05/26] Paris Saint Germain vs Bayern Muchen (Giàng A Sếu)
+#EXTINF:-1 tvg-id="69fd75eede8178ee9c1be455" tvg-name="Paris Saint Germain vs Bayern Muchen" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 47m | 08/05/26] Paris Saint Germain vs Bayern Muchen",[UPCO 23:59 WIB | 5j 47m | 08/05/26] Paris Saint Germain vs Bayern Muchen (Giàng A Sếu)
 https://flv.686868.me/live/GIANGABANH.flv?expire=1785606120&sign=28eac740a181e62241f3c9ee4b1a4e46
-#EXTINF:-1 tvg-id="69fd71f3d80c92eb31494692" tvg-name="Aston Villa - Nottingham Forest" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 55m | 08/05/26] Aston Villa - Nottingham Forest",[UPCO 23:59 WIB | 5j 55m | 08/05/26] Aston Villa - Nottingham Forest (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69fd71f3d80c92eb31494692" tvg-name="Aston Villa - Nottingham Forest" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 47m | 08/05/26] Aston Villa - Nottingham Forest",[UPCO 23:59 WIB | 5j 47m | 08/05/26] Aston Villa - Nottingham Forest (Giàng A Gấu)
 https://hls.686868.me/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 tvg-id="69fd71f3d80c92eb31494692" tvg-name="Aston Villa - Nottingham Forest" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 55m | 08/05/26] Aston Villa - Nottingham Forest",[UPCO 23:59 WIB | 5j 55m | 08/05/26] Aston Villa - Nottingham Forest (Giàng A Gấu)
+#EXTINF:-1 tvg-id="69fd71f3d80c92eb31494692" tvg-name="Aston Villa - Nottingham Forest" tvg-logo="" group-title="[UPCO 23:59 WIB | 5j 47m | 08/05/26] Aston Villa - Nottingham Forest",[UPCO 23:59 WIB | 5j 47m | 08/05/26] Aston Villa - Nottingham Forest (Giàng A Gấu)
 https://flv.686868.me/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
 #EXTINF:-1 tvg-id="69fd71f3d80c92eb31494692" tvg-name="Aston Villa - Nottingham Forest" tvg-logo="" group-title="[LIVE 16:11 WIB | 08/05/26] Diamond Harbour FC vs Rajasthan United FC",[LIVE 16:11 WIB | 08/05/26] Diamond Harbour FC vs Rajasthan United FC (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
