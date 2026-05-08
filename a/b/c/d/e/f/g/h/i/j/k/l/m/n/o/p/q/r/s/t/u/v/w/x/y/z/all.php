@@ -1,22 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.00 WIB 09/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.06 WIB 09/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="jw2r09hkn4j2rz8" tvg-name="Lech Poznan vs Arka Gdynia" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 01:30 WIB | 09/05/26] Lech Poznan vs Arka Gdynia",[LIVE 01:30 WIB | 09/05/26] Lech Poznan vs Arka Gdynia (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="jw2r09hkn4j2rz8" tvg-name="Lech Poznan vs Arka Gdynia" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 01:30 WIB | 09/05/26] Lech Poznan vs Arka Gdynia",[LIVE 01:30 WIB | 09/05/26] Lech Poznan vs Arka Gdynia (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="4jwq2ghnkzlkm0v" tvg-name="Borussia Dortmund vs Eintracht Frankfurt" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 01:30 WIB | 09/05/26] Borussia Dortmund vs Eintracht Frankfurt",[LIVE 01:30 WIB | 09/05/26] Borussia Dortmund vs Eintracht Frankfurt (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 tvg-id="4jwq2ghnkzlkm0v" tvg-name="Borussia Dortmund vs Eintracht Frankfurt" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 01:30 WIB | 09/05/26] Borussia Dortmund vs Eintracht Frankfurt",[LIVE 01:30 WIB | 09/05/26] Borussia Dortmund vs Eintracht Frankfurt (Giàng A Lỏ)
@@ -37,14 +21,6 @@ https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="4jwq2ghnkzlkm0v" tvg-name="Borussia Dortmund vs Eintracht Frankfurt" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 01:30 WIB | 09/05/26] Borussia Dortmund vs Eintracht Frankfurt",[LIVE 01:30 WIB | 09/05/26] Borussia Dortmund vs Eintracht Frankfurt (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="ednm9whw520yryo" tvg-name="CFR Cluj vs CS Universitatea Craiova" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 01:00 WIB | 09/05/26] CFR Cluj vs CS Universitatea Craiova",[LIVE 01:00 WIB | 09/05/26] CFR Cluj vs CS Universitatea Craiova (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="ednm9whw520yryo" tvg-name="CFR Cluj vs CS Universitatea Craiova" tvg-logo="https://img.cdnok9.com/football/competition/3888349404e5d5d09f977b30df0ee151.png" group-title="[LIVE 01:00 WIB | 09/05/26] CFR Cluj vs CS Universitatea Craiova",[LIVE 01:00 WIB | 09/05/26] CFR Cluj vs CS Universitatea Craiova (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="zp5rzghgzp8xq82" tvg-name="Rijeka vs HNK Vukovar 1991" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[LIVE 01:00 WIB | 09/05/26] Rijeka vs HNK Vukovar 1991",[LIVE 01:00 WIB | 09/05/26] Rijeka vs HNK Vukovar 1991 (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="zp5rzghgzp8xq82" tvg-name="Rijeka vs HNK Vukovar 1991" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[LIVE 01:00 WIB | 09/05/26] Rijeka vs HNK Vukovar 1991",[LIVE 01:00 WIB | 09/05/26] Rijeka vs HNK Vukovar 1991 (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="vjxm8ghe0zp7r6o" tvg-name="Al Hilal vs Al Kholood" tvg-logo="https://img.cdnok9.com/football/competition/512ad70c903d879dd601de229029cd00.png" group-title="[LIVE 01:00 WIB | 09/05/26] Al Hilal vs Al Kholood",[LIVE 01:00 WIB | 09/05/26] Al Hilal vs Al Kholood (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="vjxm8ghe0zp7r6o" tvg-name="Al Hilal vs Al Kholood" tvg-logo="https://img.cdnok9.com/football/competition/512ad70c903d879dd601de229029cd00.png" group-title="[LIVE 01:00 WIB | 09/05/26] Al Hilal vs Al Kholood",[LIVE 01:00 WIB | 09/05/26] Al Hilal vs Al Kholood (GIÀNG A TÁO)
@@ -77,3 +53,19 @@ https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb022234
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 tvg-id="pxwrxlhy15yyryk" tvg-name="RC Lens vs FC Nantes" tvg-logo="https://img.cdnok9.com/football/competition/6e13222836235b121c1af3bc3055e76b.png" group-title="[LIVE 01:45 WIB | 09/05/26] RC Lens vs FC Nantes",[LIVE 01:45 WIB | 09/05/26] RC Lens vs FC Nantes (Giàng A Sếu)
 https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="k82rekhgv53zrep" tvg-name="Torino vs Sassuolo" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo",[LIVE 01:45 WIB | 09/05/26] Torino vs Sassuolo (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="jw2r09hkn4j2rz8" tvg-name="Lech Poznan vs Arka Gdynia" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 01:30 WIB | 09/05/26] Lech Poznan vs Arka Gdynia",[LIVE 01:30 WIB | 09/05/26] Lech Poznan vs Arka Gdynia (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="jw2r09hkn4j2rz8" tvg-name="Lech Poznan vs Arka Gdynia" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 01:30 WIB | 09/05/26] Lech Poznan vs Arka Gdynia",[LIVE 01:30 WIB | 09/05/26] Lech Poznan vs Arka Gdynia (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
