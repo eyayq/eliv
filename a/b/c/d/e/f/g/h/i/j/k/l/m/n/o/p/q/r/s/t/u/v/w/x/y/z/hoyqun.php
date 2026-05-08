@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [10:46 WIB 08/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [10:46 WIB 08/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [10:53 WIB 08/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [10:53 WIB 08/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[07:30 WIB 08/05/26] Carabobo FC vs River Plate [FHD] [LIVE]
-https://hqlive.zlylive.com/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[07:30 WIB 08/05/26] Carabobo FC vs River Plate [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[07:30 WIB 08/05/26] Carabobo FC vs River Plate [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 08/05/26] Oklahoma City Thunder vs Los Angeles Lakers [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
@@ -20,13 +11,13 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 08/05/26] Oklahoma City Thunder vs Los Angeles Lakers [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4CIW6yfvFxWmX_OBDuT2VtnVpWYRwc81Lg&s" group-title="99 ALLIN C2 ROAD TO WORLD",[12:00 WIB 08/05/26] 99 ALLIN C2 ROAD TO WORLD [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4CIW6yfvFxWmX_OBDuT2VtnVpWYRwc81Lg&s" group-title="99 ALLIN C2 ROAD TO WORLD",[12:00 WIB 08/05/26] 99 ALLIN C2 ROAD TO WORLD [FHD] [LIVE]
 https://hqlive.zlylive.com/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4CIW6yfvFxWmX_OBDuT2VtnVpWYRwc81Lg&s" group-title="99 ALLIN C2 ROAD TO WORLD",[12:00 WIB 08/05/26] 99 ALLIN C2 ROAD TO WORLD [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4CIW6yfvFxWmX_OBDuT2VtnVpWYRwc81Lg&s" group-title="99 ALLIN C2 ROAD TO WORLD",[12:00 WIB 08/05/26] 99 ALLIN C2 ROAD TO WORLD [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4CIW6yfvFxWmX_OBDuT2VtnVpWYRwc81Lg&s" group-title="99 ALLIN C2 ROAD TO WORLD",[12:00 WIB 08/05/26] 99 ALLIN C2 ROAD TO WORLD [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4CIW6yfvFxWmX_OBDuT2VtnVpWYRwc81Lg&s" group-title="99 ALLIN C2 ROAD TO WORLD",[12:00 WIB 08/05/26] 99 ALLIN C2 ROAD TO WORLD [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[15:30 WIB 08/05/26] Semen Padang vs Persik Kediri [FHD] [NANTIKAN]
