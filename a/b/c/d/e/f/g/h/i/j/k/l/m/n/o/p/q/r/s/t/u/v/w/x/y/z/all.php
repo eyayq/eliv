@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [10.15 WIB 08/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [10.22 WIB 08/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="318q66hx3n27qo9" tvg-name="C.S.D. Comunicaciones vs Xelaju MC" tvg-logo="https://img.cdnok9.com/football/competition/96864a3b1415d6bbe948849ff7a7a758.png" group-title="[LIVE 09:00 WIB | 08/05/26] C.S.D. Comunicaciones vs Xelaju MC",[LIVE 09:00 WIB | 08/05/26] C.S.D. Comunicaciones vs Xelaju MC (PHONG VÂN)
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
