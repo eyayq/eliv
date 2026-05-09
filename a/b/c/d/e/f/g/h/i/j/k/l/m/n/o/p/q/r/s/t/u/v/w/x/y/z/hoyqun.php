@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:10 WIB 09/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:10 WIB 09/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:17 WIB 09/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:17 WIB 09/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[20:30 WIB 09/05/26] VfB Stuttgart vs Bayer Leverkusen [] [LIVE]
@@ -20,7 +20,7 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 09/05/26] Sunderland vs Manchester United [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[21:30 WIB 09/05/26] Nikoloz Basilashvili vs Ben Shelton [FHD] [LIVE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[22:30 WIB 09/05/26] Nikoloz Basilashvili vs Ben Shelton [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 09/05/26] Lazio vs Inter [FHD] [NANTIKAN]
