@@ -1,31 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.05 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [04.15 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="dj2ryohlpp68q1z" tvg-name="Motherwell vs Heart of Midlothian" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian",[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="dj2ryohlpp68q1z" tvg-name="Motherwell vs Heart of Midlothian" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian",[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="dj2ryohlpp68q1z" tvg-name="Motherwell vs Heart of Midlothian" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian",[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="dj2ryohlpp68q1z" tvg-name="Motherwell vs Heart of Midlothian" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian",[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="pxwrxlhy3n5pryk" tvg-name="Montreal Impact vs Orlando City" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 03:40 WIB | 10/05/26] Montreal Impact vs Orlando City",[LIVE 03:40 WIB | 10/05/26] Montreal Impact vs Orlando City (PHONG VÂN)
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="pxwrxlhy3n5pryk" tvg-name="Montreal Impact vs Orlando City" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 03:40 WIB | 10/05/26] Montreal Impact vs Orlando City",[LIVE 03:40 WIB | 10/05/26] Montreal Impact vs Orlando City (PHONG VÂN)
 https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="zp5rzghg6jy9q82" tvg-name="Coritiba SAF - PR vs Internacional - RS" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Coritiba SAF - PR vs Internacional - RS",[LIVE 02:00 WIB | 10/05/26] Coritiba SAF - PR vs Internacional - RS (HOÀNG CÁI)
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="zp5rzghg6jy9q82" tvg-name="Coritiba SAF - PR vs Internacional - RS" tvg-logo="https://img.cdnok9.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Coritiba SAF - PR vs Internacional - RS",[LIVE 02:00 WIB | 10/05/26] Coritiba SAF - PR vs Internacional - RS (HOÀNG CÁI)
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="pxwrxlhylj74ryk" tvg-name="Chattanooga Red Wolves vs Sarasota Paradise" tvg-logo="https://img.cdnok9.com/football/competition/991ee00f30f83b0431f800a63e81f9c4.png" group-title="[LIVE 02:00 WIB | 10/05/26] Chattanooga Red Wolves vs Sarasota Paradise",[LIVE 02:00 WIB | 10/05/26] Chattanooga Red Wolves vs Sarasota Paradise (GIÀNG A BẨY )
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="pxwrxlhylj74ryk" tvg-name="Chattanooga Red Wolves vs Sarasota Paradise" tvg-logo="https://img.cdnok9.com/football/competition/991ee00f30f83b0431f800a63e81f9c4.png" group-title="[LIVE 02:00 WIB | 10/05/26] Chattanooga Red Wolves vs Sarasota Paradise",[LIVE 02:00 WIB | 10/05/26] Chattanooga Red Wolves vs Sarasota Paradise (GIÀNG A BẨY )
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-id="vjxm8ghelg56r6o" tvg-name="Ulsan HD FC vs Bucheon FC 1995" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 7j 43m | 10/05/26] Ulsan HD FC vs Bucheon FC 1995",[UPCO 12:00 WIB | 7j 43m | 10/05/26] Ulsan HD FC vs Bucheon FC 1995 (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="vjxm8ghelg56r6o" tvg-name="Ulsan HD FC vs Bucheon FC 1995" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 7j 43m | 10/05/26] Ulsan HD FC vs Bucheon FC 1995",[UPCO 12:00 WIB | 7j 43m | 10/05/26] Ulsan HD FC vs Bucheon FC 1995 (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
