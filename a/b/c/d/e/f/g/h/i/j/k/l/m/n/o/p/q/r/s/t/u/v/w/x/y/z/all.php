@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.32 WIB 09/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [14.38 WIB 09/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="1l4rjnh941lym7v" tvg-name="Gimcheon Sangmu Football Club vs Incheon United Club" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 14:30 WIB | 09/05/26] Gimcheon Sangmu Football Club vs Incheon United Club",[LIVE 14:30 WIB | 09/05/26] Gimcheon Sangmu Football Club vs Incheon United Club (Thích Đủ Thứ)
 https://hls.686868.me/live/THICHDUTHU/index.m3u8?expire=1781940780&sign=9ebc36e9bec73d92d534bd219d740ca2
@@ -33,11 +33,11 @@ https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="x7lm7phj2p24m2w" tvg-name="Auckland FC vs Adelaide United" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[LIVE 13:00 WIB | 09/05/26] Auckland FC vs Adelaide United",[LIVE 13:00 WIB | 09/05/26] Auckland FC vs Adelaide United (Giàng A Mèo)
 https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="69febf1edc9c7b6b57ae7da8" tvg-name="Arsenal vs  Atletico de Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 26m | 09/05/26] Arsenal vs  Atletico de Madrid",[UPCO 23:59 WIB | 9j 26m | 09/05/26] Arsenal vs  Atletico de Madrid (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69febf1edc9c7b6b57ae7da8" tvg-name="Arsenal vs  Atletico de Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 20m | 09/05/26] Arsenal vs  Atletico de Madrid",[UPCO 23:59 WIB | 9j 20m | 09/05/26] Arsenal vs  Atletico de Madrid (Thích Đủ Thứ)
 https://hls.686868.me/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="69febf1edc9c7b6b57ae7da8" tvg-name="Arsenal vs  Atletico de Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 26m | 09/05/26] Arsenal vs  Atletico de Madrid",[UPCO 23:59 WIB | 9j 26m | 09/05/26] Arsenal vs  Atletico de Madrid (Thích Đủ Thứ)
+#EXTINF:-1 tvg-id="69febf1edc9c7b6b57ae7da8" tvg-name="Arsenal vs  Atletico de Madrid" tvg-logo="" group-title="[UPCO 23:59 WIB | 9j 20m | 09/05/26] Arsenal vs  Atletico de Madrid",[UPCO 23:59 WIB | 9j 20m | 09/05/26] Arsenal vs  Atletico de Madrid (Thích Đủ Thứ)
 https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 2j 7m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 2j 7m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 2j 1m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 2j 1m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 2j 7m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 2j 7m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 2j 1m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 2j 1m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
