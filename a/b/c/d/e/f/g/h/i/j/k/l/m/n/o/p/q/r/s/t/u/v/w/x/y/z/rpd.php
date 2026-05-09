@@ -1,51 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.05 WIB 10/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.12 WIB 10/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 1",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=327660bc3d2f827b211097000a2a1fb5&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=fa451360a2b134c049183cc2d8322455&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 2",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=5e51e781f8b9ce9c991855500d550c7f&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=4bb719063ad5afbbec60b4c7f6b13b31&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 3",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1778349774-0-0-d57bf4a8ab5291fcb298f31c67697418
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1778349954-0-0-3942f4bfd2f6cd6f6bb43773211594e3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 4",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1778349774-0-0-111674fc5c5ce45fec44132b9e0005cd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1778349954-0-0-5b806dcb1c0192d4a92ecc12a79483fc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 5",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1778349774-0-0-d465eeb3fa3243a66afbb531fe69808a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1778349954-0-0-8de196bb4f68521a4da304901d761837
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 6",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1778349774-0-0-e535e2cc2cb7ccb15520dc3cddd6ef4a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1778349954-0-0-9a493cbd36011ae49162c876b8d5e676
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 7",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1778349774-0-0-0ddaf47c76907b432f42adbd55669a96
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1778349954-0-0-0ec5d1cb2df3bac1f3d5e1af52e7ba5b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 8",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1778349774-0-0-ddc7844ee2f932c6c5b7be53969382fd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1778349954-0-0-aabea7b149ebc2e43521b1dafb8f1c0e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 9",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1778349774-0-0-d9065fce3fb97251e88607fba18bb772
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1778349954-0-0-c5b0da3e25a5d8aa78035a25b8164ba6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 10",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1778349774-0-0-7d3a3e3480277de45dc4547bb59e5645
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1778349954-0-0-1b6a30038da48445a78c3a70214a3984
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 11",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1778349774-0-0-c5c435fa920de8d786e986990bd5e15f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1778349954-0-0-240d2ac2d9ac82383434b652229c54de
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 12",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1778349774-0-0-9e39cf2baaf912d2ed95cbac7e7b0a83
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1778349954-0-0-1ce6ef5cf98983ddb990eb1bac0394af
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lazio-860269.png" group-title="[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 13",[LIVE 23:00 WIB 09/05/26] Lazio vs Inter Milan | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/murcia-51788e.webp" group-title="[LIVE 23:00 WIB 09/05/26] Murcia vs Basquet Girona | Server 1",[LIVE 23:00 WIB 09/05/26] Murcia vs Basquet Girona | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1778349774-0-0-0f2bdcf1d4d4e493e8d974b9339c29f7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912099_lsd.m3u8?auth_key=1778349954-0-0-83120379595d5caf6988c7264b061785
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/murcia-51788e.webp" group-title="[LIVE 23:00 WIB 09/05/26] Murcia vs Basquet Girona | Server 2",[LIVE 23:00 WIB 09/05/26] Murcia vs Basquet Girona | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1778349774-0-0-b762c236ca60829dacdd22968058ae7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1778349954-0-0-76f86232c24120e3524d8e9064742a77
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/china-u17-2ed918.png" group-title="[LIVE 23:00 WIB 09/05/26] China U17 vs Japan U17 | Server 1",[LIVE 23:00 WIB 09/05/26] China U17 vs Japan U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
@@ -56,146 +56,134 @@ https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 1",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1778349774-0-0-3a18be1d4da951a8f282b11852b64880
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1778349954-0-0-81dff0c2c5aa6e579ce1c665356c81b0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 2",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1778349774-0-0-b730e3aa143303a796b258b5fc0f1180
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1778349954-0-0-691b12af5e4d95b4ab06d391eba481a3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 3",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1778349774-0-0-8c27e2fc48aa8da0faabf9b0f247ecde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1778349954-0-0-ec6dbd932d2abb0b4613eec034b8582c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 4",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1778349774-0-0-41444c2dbcef9aaec8e0fffb497456a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1778349954-0-0-6c3164c97da912db41db70c16c9eeea3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 5",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1778349774-0-0-08ee2ec38dc6c7f761d98ceba675c8e2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1778349954-0-0-b51ecf69876e06758e3ee65200aeeb34
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 6",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1778349774-0-0-04c8ed6105a57916a7ed4b39cea9778f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1778349954-0-0-21e7aa6055a1c7af1c671a33c868f747
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 7",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1778349774-0-0-9f46aceddf2fdf3dc0a776761d298f73
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1778349954-0-0-6da83a9c3de262adfe3deaa4b765f531
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 8",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1778349774-0-0-d50d2a704baf0dd7feaab1fb07e923f9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1778349954-0-0-728cd03364ef5a1053e3fc20a246504a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 9",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1778349774-0-0-ecbce0f9b294f114274c1c8a9e02e999
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1778349954-0-0-9667e20a2b85a8ac7de7b65ad2e9f216
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 10",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1778349774-0-0-159aedb4a8ee8e5a42ae6d9057998016
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1778349954-0-0-d838b7e270cb58dfcdd864af352eb153
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 11",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1778349774-0-0-1b7b7f0974dc66e9b1499b75c493ffd7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1778349954-0-0-14208c478554584f7c8cf26c3b9edd6f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 12",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1778349774-0-0-74b8c7d2a960fd271a6c1d369444a54f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1778349954-0-0-5c0066a299053a33709df3144481e4a7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 13",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 14",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
+https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 15",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+https://hls-ls.cdnok9.com/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 16",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 16 (SVR-BHNS 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 17",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 17 (SVR-BHNS 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/manchester-city-13d462.png" group-title="[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 18",[LIVE 23:30 WIB 09/05/26] Manchester City vs Brentford | Server 18 (SVR-BHNS 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+https://hls-ls.cdnok9.com/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 1",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1778349774-0-0-6f111389490f9e8db24b05f39fc5491a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778349954-0-0-b2718316ee1e7e5a5cc6902870ddb50b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 2",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1778349774-0-0-50822e143557036706a55dbe2938e1e0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778349954-0-0-0292510a349961fd824993e684ebeebb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 3",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778349774-0-0-4e413cdc80baaa7fc39b6ebeeb0ea936
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1778349954-0-0-59dcf583e823941b31ce2455e7063828
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 4",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778349774-0-0-258dc8535c7209b74add43a0af65840c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1778349954-0-0-40d9eb8eb661cf1ca976ba59c8b978c9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 5",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1778349774-0-0-4ea67e475ee7a1f366ef4baefb3d7e04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-581585_lsd.m3u8?auth_key=1778349954-0-0-581e6c5eaf848f4f29464ba1baf176a7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 6",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1778349774-0-0-6c07d3354ed260a81e9852dfc82f920f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-581585_lhd.m3u8?auth_key=1778349954-0-0-99b8a850e939dd5784840238be0699f4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 7",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1778349774-0-0-e5cbd862f77a269e902db9324d017c4a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1778349954-0-0-44da3c98a50dd375e8786cd241bddd3d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 8",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1778349774-0-0-6954ec62bdd5236fd6777b5e4254f4a9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1778349954-0-0-7ce415c62502e9bf1ebb0c8bc02a6b86
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 9",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1778349774-0-0-dd28c0ff1f3be56a657dc273460ffed6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1778349954-0-0-b1e06a97de4000d4820917826832a45b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 10",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1778349774-0-0-cbf550eefe3ff966889e5c8d2e209e93
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1778349954-0-0-dd924d9cf071fd2e80291c0dbb480358
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 11",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1778349774-0-0-4620b4d2d100a86bc46f70cfe300f100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1778349954-0-0-e355e4d163ad5d77112144f64dd68a8f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 12",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs RC Celta | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1778349774-0-0-f36dec9cd0e01094d8545fadeae187a0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1778349954-0-0-10b83eda493ce1d7fad6fd11584f4a96
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 1",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=678b41e8e2f2e154049a390240501021&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=730163f501363feb716a505b217891ba&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 2",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=a11c0d5a5017ebe8ad645535bf5e07ac&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=31a26c0d1b8b1622639f65a8cc4e8875&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 3",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=42c79d09d6a0440b0b33a5bd1f512e1d&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=81f8437c92973cfb0ff93d3e7d1e7ac4&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 4",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=6dad7efacb3a8e95819c6890e79c9752&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=fa6a75d092e1e7f34420e40cf366d8e4&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 5",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=be4e7161e3c7bcfadff5ec560bb9ed6b&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1778349954-0-0-a49dab193cdd4ded57e76efad31f1915
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 6",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=205760abed0a215f04f3a90597d6cad9&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1778349954-0-0-f5387c75de84efa6a041b874d769f91a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 7",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1778349774-0-0-4b1ddcc5ee0508f9a735446f8a0744d9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=d238c3ced32e9d6ce838370731580a35&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 8",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1778349774-0-0-8fea51bf8f59fee8ae9df489dfb8f34b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=0ef019fead35e74576f3a3eea66a9867&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 9",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=025b8bd5d1b6017b375116f000f1a787&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1778349954-0-0-525ba78b4c77035d108c82000555fd5a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 10",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=6a34b64fb7fd1edbbc20e79786efe7e6&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1778349954-0-0-7d8989a4d10eebf78a80a8740a1a1f67
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 11",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1778349774-0-0-ca56268b7be39477a1c1a38891543a71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=3e1155086bbe263c00f1f87f20c68f0b&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 12",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs FC Bayern Munich | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1778349774-0-0-d6fc87f02bd49a586a06be203386d063
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=5a348b9e58c7edaaa6a00f4094749e5d&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/qatar-u17-38db84.webp" group-title="[LIVE 23:30 WIB 09/05/26] Qatar U17 vs Indonesia U17 | Server 1",[LIVE 23:30 WIB 09/05/26] Qatar U17 vs Indonesia U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 1",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 2",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 3",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 4",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs Bayern Munchen | Server 1",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs Bayern Munchen | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
@@ -208,69 +196,81 @@ https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vfl-wolfsburg-w-e37dfd.png" group-title="[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs Bayern Munchen | Server 4",[LIVE 23:30 WIB 09/05/26] VfL Wolfsburg vs Bayern Munchen | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 1",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 2",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 3",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-madrid-7c96c6.png" group-title="[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 4",[LIVE 23:30 WIB 09/05/26] Atletico Madrid vs Celta Vigo | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/konyaspor-33a561.png" group-title="[LIVE 00:00 WIB 10/05/26] Konyaspor vs Fenerbahce | Server 1",[LIVE 00:00 WIB 10/05/26] Konyaspor vs Fenerbahce | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1778349774-0-0-3cc920068e9cdbcbd1eefd93fa014ac2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1778349954-0-0-6ebb67f5dba1b390425ef81ac5fedd0a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/konyaspor-33a561.png" group-title="[LIVE 00:00 WIB 10/05/26] Konyaspor vs Fenerbahce | Server 2",[LIVE 00:00 WIB 10/05/26] Konyaspor vs Fenerbahce | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1778349774-0-0-775d279f2d3ae5e70e5d9f25e3738ab0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1778349954-0-0-93faa627819e0d034d67ecbfa17d5cd9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/konyaspor-33a561.png" group-title="[LIVE 00:00 WIB 10/05/26] Konyaspor vs Fenerbahce | Server 3",[LIVE 00:00 WIB 10/05/26] Konyaspor vs Fenerbahce | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1778349774-0-0-f106f1ec082e2528e0e63d1245c709f0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1778349954-0-0-5dd668b5ffbe92032cce825ab28cea9f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/konyaspor-33a561.png" group-title="[LIVE 00:00 WIB 10/05/26] Konyaspor vs Fenerbahce | Server 4",[LIVE 00:00 WIB 10/05/26] Konyaspor vs Fenerbahce | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1778349774-0-0-c1be3f94f4b69c20223e1b0ad7d3572d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1778349954-0-0-1378f4ac23a1953781131c8535361e9b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/galatasaray-c67281.webp" group-title="[LIVE 00:00 WIB 10/05/26] Galatasaray vs Antalyaspor | Server 1",[LIVE 00:00 WIB 10/05/26] Galatasaray vs Antalyaspor | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1778349774-0-0-341784b2cef2f3dc9d4789d3113a9bf1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1778349954-0-0-1cc5ada0f8a27fa92d6ec9b9a8399112
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/galatasaray-c67281.webp" group-title="[LIVE 00:00 WIB 10/05/26] Galatasaray vs Antalyaspor | Server 2",[LIVE 00:00 WIB 10/05/26] Galatasaray vs Antalyaspor | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1778349774-0-0-1460cfcd663d72787c376741b910f42a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1778349954-0-0-743408493404654dd3e9705f254d4e2b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/galatasaray-c67281.webp" group-title="[LIVE 00:00 WIB 10/05/26] Galatasaray vs Antalyaspor | Server 3",[LIVE 00:00 WIB 10/05/26] Galatasaray vs Antalyaspor | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=a76a0b427584ebcdc6ff2539877a0bea&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=9e50c3116a877b665ed17f31b7c9a399&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/galatasaray-c67281.webp" group-title="[LIVE 00:00 WIB 10/05/26] Galatasaray vs Antalyaspor | Server 4",[LIVE 00:00 WIB 10/05/26] Galatasaray vs Antalyaspor | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=afbba2a2278a06228337f2443c390f49&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e41ae25ac7a909157d83cfc4d3ed9094&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/galatasaray-c67281.webp" group-title="[LIVE 00:00 WIB 10/05/26] Galatasaray vs Antalyaspor | Server 5",[LIVE 00:00 WIB 10/05/26] Galatasaray vs Antalyaspor | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 1",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1778349774-0-0-6fd736e9b0c09324a8c4802156e28eaf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1778349954-0-0-8ceb268834ac8858c66a39746969f58a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 2",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1778349774-0-0-76214f19e9664f3fdaaf838f0c5f76f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1778349954-0-0-4e630dc42e23a938d3384fb1adeced87
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 3",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1778349774-0-0-a55ccc6d56ffc2f497e048d7e46a7c4b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1778349954-0-0-59ff935839b4ea1164d1a560464fdce0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 4",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1778349774-0-0-ce040a6a0ed4288e7ac4ad4c9a638de4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1778349954-0-0-71df46e2572cf323e4b8f259a0a516ac
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 5",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=62359c3b054467b09b51d4a6eafabc45&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-344370_lsd.m3u8?txSecret=5cdbb5a9a0d067ab03616f6514756d48&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 6",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b4507db29a83d2e13786b8d6247e0d66&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=2c712ccc348ea663c3d8ae910bb039a2&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 7",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=3d4d747e828afe7c4de7d50ff5acf1ab&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=500994c2d06879c46726cdd3ba1fa567&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 8",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=70e30702152d259dd4a3d488c8d3bc25&txTime=69ffbd1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=3568f26fe0339d1e96081edd3ac096e7&txTime=69ffbdd2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 9",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1778349774-0-0-e5ddf03303bfed6e4dd70fa6368a542a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1778349954-0-0-f7ec88c4ac1e9f25284d91fac68abd18
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 10",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1778349774-0-0-b72d269b634a3490171a9f3281e9e336
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1778349954-0-0-6b6822971f392539ede6c38d4014aa74
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 11",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1778349774-0-0-2f77c7d09a4d864df3e75f1c51c530f9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1778349954-0-0-3634b9342b5fd37ed882ebb00c63f794
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 12",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1778349774-0-0-ea4981cf4c416db15518c75e8b5bf879
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1778349954-0-0-fdcd2de314d89fa2f32e5bb85c136496
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/toronto-fc-bf1a36.png" group-title="[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 13",[LIVE 00:00 WIB 10/05/26] Toronto FC vs Inter Miami CF | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
