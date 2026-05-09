@@ -1,17 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁04:03:27 10-05-2026📁",📁SERVER PLAYLIST UPDATED📁
+#EXTINF:-1 tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" group-title="📁04:14:19 10-05-2026📁",📁SERVER PLAYLIST UPDATED📁
 http://phate.io/listen
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Scottish Premiership📁00:00:00📁",📁Motherwell vs Heart of Midlothian📁10-05-2026 04:03:21 WIB📁00:00:00📁
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Scottish Premiership📁00:00:00📁",📁Motherwell vs Heart of Midlothian📁10-05-2026 04:03:21 WIB📁00:00:00📁
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Spanish Segunda Division📁00:00:00📁",📁Malaga vs Sporting Gijon📁10-05-2026 04:03:21 WIB📁00:00:00📁
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Spanish Segunda Division📁00:00:00📁",📁Malaga vs Sporting Gijon📁10-05-2026 04:03:21 WIB📁00:00:00📁
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁United States Major League Soccer📁00:00:00📁",📁Montreal Impact vs Orlando City📁10-05-2026 04:03:21 WIB📁00:00:00📁
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁United States Major League Soccer📁00:00:00📁",📁Montreal Impact vs Orlando City📁10-05-2026 04:14:12 WIB📁00:00:00📁
 https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Brazilian Serie A📁00:00:00📁",📁Coritiba SAF - PR vs Internacional - RS📁10-05-2026 04:03:21 WIB📁00:00:00📁
-https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁USL League One📁00:00:00📁",📁Chattanooga Red Wolves vs Sarasota Paradise📁10-05-2026 04:03:21 WIB📁00:00:00📁
-https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com:80/0.php" group-title="📁Korean K League 1📁00:00:00📁",📁Ulsan HD FC vs Bucheon FC 1995📁10-05-2026 04:14:12 WIB📁00:00:00📁
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
