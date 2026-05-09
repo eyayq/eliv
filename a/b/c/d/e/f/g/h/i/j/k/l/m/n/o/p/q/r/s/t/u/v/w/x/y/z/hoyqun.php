@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:11 WIB 10/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:11 WIB 10/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:18 WIB 10/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:18 WIB 10/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[23:00 WIB 09/05/26] Đài Loan vs Nhật Bản (Nam)  [FHD] [LIVE]
@@ -68,6 +68,9 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 10/05/26] Hồng Lĩnh Hà Tĩnh vs Viettel [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[18:00 WIB 10/05/26] Alexander Blockx vs Alexander Zverev [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:30 WIB 10/05/26] Shanxi Zhongyu vs Zhejiang Guangsha [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
 
@@ -85,6 +88,9 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[20:00 WIB 10/05/26] Nottingham Forest vs Newcastle [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[20:00 WIB 10/05/26] Lorenzo Musetti vs Francisco Cerundolo [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[21:15 WIB 10/05/26] Athletic Club vs Valencia [] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
