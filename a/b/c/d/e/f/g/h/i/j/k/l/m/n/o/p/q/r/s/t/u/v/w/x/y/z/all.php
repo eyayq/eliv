@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.22 WIB 09/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.29 WIB 09/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-id="4wyrn4h650jzq86" tvg-name="Auckland FC Reserves vs Bula FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 09:30 WIB | 09/05/26] Auckland FC Reserves vs Bula FC",[LIVE 09:30 WIB | 09/05/26] Auckland FC Reserves vs Bula FC (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="4wyrn4h650jzq86" tvg-name="Auckland FC Reserves vs Bula FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 09:30 WIB | 09/05/26] Auckland FC Reserves vs Bula FC",[LIVE 09:30 WIB | 09/05/26] Auckland FC Reserves vs Bula FC (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="l5ergph47p96r8k" tvg-name="Birkenhead United vs Tauranga City United" tvg-logo="https://img.cdnok9.com/football/competition/ae97d06c1f9dca645aa9c3679d62ef38.png" group-title="[LIVE 10:00 WIB | 09/05/26] Birkenhead United vs Tauranga City United",[LIVE 10:00 WIB | 09/05/26] Birkenhead United vs Tauranga City United (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="l5ergph47p96r8k" tvg-name="Birkenhead United vs Tauranga City United" tvg-logo="https://img.cdnok9.com/football/competition/ae97d06c1f9dca645aa9c3679d62ef38.png" group-title="[LIVE 10:00 WIB | 09/05/26] Birkenhead United vs Tauranga City United",[LIVE 10:00 WIB | 09/05/26] Birkenhead United vs Tauranga City United (GIÀNG A MÂY)
@@ -17,15 +21,13 @@ https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="dn1m1ghlg1wgmoe" tvg-name="Auckland City vs East Coast Bays" tvg-logo="https://img.cdnok9.com/football/competition/ae97d06c1f9dca645aa9c3679d62ef38.png" group-title="[LIVE 10:00 WIB | 09/05/26] Auckland City vs East Coast Bays",[LIVE 10:00 WIB | 09/05/26] Auckland City vs East Coast Bays (Giàng A Mèo)
 https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 tvg-id="4wyrn4h650jzq86" tvg-name="Auckland FC Reserves vs Bula FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 09:30 WIB | 09/05/26] Auckland FC Reserves vs Bula FC",[LIVE 09:30 WIB | 09/05/26] Auckland FC Reserves vs Bula FC (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="4wyrn4h650jzq86" tvg-name="Auckland FC Reserves vs Bula FC" tvg-logo="https://img.cdnok9.com/football/competition/aaa996228ab43fea04c8f52d8eb6feaf.png" group-title="[LIVE 09:30 WIB | 09/05/26] Auckland FC Reserves vs Bula FC",[LIVE 09:30 WIB | 09/05/26] Auckland FC Reserves vs Bula FC (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 tvg-id="318q66hx3k51qo9" tvg-name="Upper Hutt City vs Island Bay United" tvg-logo="https://img.cdnok9.com/football/competition/b334e98bd31355e2781528746357247f.png" group-title="[LIVE 10:00 WIB | 09/05/26] Upper Hutt City vs Island Bay United",[LIVE 10:00 WIB | 09/05/26] Upper Hutt City vs Island Bay United (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="318q66hx3k51qo9" tvg-name="Upper Hutt City vs Island Bay United" tvg-logo="https://img.cdnok9.com/football/competition/b334e98bd31355e2781528746357247f.png" group-title="[LIVE 10:00 WIB | 09/05/26] Upper Hutt City vs Island Bay United",[LIVE 10:00 WIB | 09/05/26] Upper Hutt City vs Island Bay United (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 5j 17m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 5j 17m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 5j 9m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 5j 9m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 5j 17m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 5j 17m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 5j 9m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 5j 9m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="23xmvkh63ekzqg8" tvg-name="Lazio vs Inter Milan" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 11:31 WIB | 09/05/26] Jeju SK FC vs Football Club Seoul",[LIVE 11:31 WIB | 09/05/26] Jeju SK FC vs Football Club Seoul (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
