@@ -1,38 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.39 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [03.45 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Choén)
-https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Choén)
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (VĂN VỞ)
-https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (VĂN VỞ)
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Lữ Bố (Giàng Phụng Tiên))
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Lữ Bố (Giàng Phụng Tiên))
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Giàng A Rùa)
-https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Giàng A Rùa)
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 tvg-id="pxwrxlhy3n5pryk" tvg-name="Montreal Impact vs Orlando City" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 03:30 WIB | 10/05/26] Montreal Impact vs Orlando City",[LIVE 03:30 WIB | 10/05/26] Montreal Impact vs Orlando City (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="pxwrxlhy3n5pryk" tvg-name="Montreal Impact vs Orlando City" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 03:30 WIB | 10/05/26] Montreal Impact vs Orlando City",[LIVE 03:30 WIB | 10/05/26] Montreal Impact vs Orlando City (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="8yomo4h187zoq0j" tvg-name="Club Brugge vs Sint-Truidense" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 01:45 WIB | 10/05/26] Club Brugge vs Sint-Truidense",[LIVE 01:45 WIB | 10/05/26] Club Brugge vs Sint-Truidense (Giàng A Sún)
 https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 tvg-id="8yomo4h187zoq0j" tvg-name="Club Brugge vs Sint-Truidense" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 01:45 WIB | 10/05/26] Club Brugge vs Sint-Truidense",[LIVE 01:45 WIB | 10/05/26] Club Brugge vs Sint-Truidense (Giàng A Sún)
@@ -61,14 +29,14 @@ https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77
 https://hls.686868.me/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 tvg-id="pxwrxlhylj74ryk" tvg-name="Chattanooga Red Wolves vs Sarasota Paradise" tvg-logo="https://img.cdnok9.com/football/competition/991ee00f30f83b0431f800a63e81f9c4.png" group-title="[LIVE 02:00 WIB | 10/05/26] Chattanooga Red Wolves vs Sarasota Paradise",[LIVE 02:00 WIB | 10/05/26] Chattanooga Red Wolves vs Sarasota Paradise (GIÀNG A BẨY )
 https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 tvg-id="y39mp1h6ekzymoj" tvg-name="Bolton Wanderers vs Bradford City" tvg-logo="https://img.cdnok9.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City",[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City (GIÀNG A TÁO)
-https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="y39mp1h6ekzymoj" tvg-name="Bolton Wanderers vs Bradford City" tvg-logo="https://img.cdnok9.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City",[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City (GIÀNG A TÁO)
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="y39mp1h6ekzymoj" tvg-name="Bolton Wanderers vs Bradford City" tvg-logo="https://img.cdnok9.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City",[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City (Giàng A Gấu)
 https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="y39mp1h6ekzymoj" tvg-name="Bolton Wanderers vs Bradford City" tvg-logo="https://img.cdnok9.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City",[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City (Giàng A Gấu)
 https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="y39mp1h6ekzymoj" tvg-name="Bolton Wanderers vs Bradford City" tvg-logo="https://img.cdnok9.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City",[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City (GIÀNG A TÁO)
+https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+#EXTINF:-1 tvg-id="y39mp1h6ekzymoj" tvg-name="Bolton Wanderers vs Bradford City" tvg-logo="https://img.cdnok9.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City",[LIVE 02:00 WIB | 10/05/26] Bolton Wanderers vs Bradford City (GIÀNG A TÁO)
+https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="dj2ryohlpp68q1z" tvg-name="Motherwell vs Heart of Midlothian" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian",[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="dj2ryohlpp68q1z" tvg-name="Motherwell vs Heart of Midlothian" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian",[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian (GIÀNG A PHỆ )
@@ -77,3 +45,35 @@ https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="dj2ryohlpp68q1z" tvg-name="Motherwell vs Heart of Midlothian" tvg-logo="https://img.cdnok9.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian",[LIVE 02:00 WIB | 10/05/26] Motherwell vs Heart of Midlothian (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Choén)
+https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Choén)
+https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (VĂN VỞ)
+https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="dn1m1ghln1l0moe" tvg-name="Real Sociedad vs Real Betis" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis",[LIVE 02:00 WIB | 10/05/26] Real Sociedad vs Real Betis (VĂN VỞ)
+https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Lữ Bố (Giàng Phụng Tiên))
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Lữ Bố (Giàng Phụng Tiên))
+https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Giàng A Rùa)
+https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="y39mp1h6jzlgmoj" tvg-name="Malaga vs Sporting Gijon" tvg-logo="https://img.cdnok9.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png" group-title="[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon",[LIVE 02:00 WIB | 10/05/26] Malaga vs Sporting Gijon (Giàng A Rùa)
+https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="pxwrxlhy3n5pryk" tvg-name="Montreal Impact vs Orlando City" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 03:30 WIB | 10/05/26] Montreal Impact vs Orlando City",[LIVE 03:30 WIB | 10/05/26] Montreal Impact vs Orlando City (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="pxwrxlhy3n5pryk" tvg-name="Montreal Impact vs Orlando City" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 03:30 WIB | 10/05/26] Montreal Impact vs Orlando City",[LIVE 03:30 WIB | 10/05/26] Montreal Impact vs Orlando City (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
