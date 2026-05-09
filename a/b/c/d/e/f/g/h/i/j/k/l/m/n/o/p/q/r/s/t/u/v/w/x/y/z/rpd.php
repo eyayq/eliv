@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.41 WIB 10/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.47 WIB 10/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fayha-182264.png" group-title="[LIVE 01:00 WIB 10/05/26] Al Fayha vs Al Qadsiah | Server 1",[LIVE 01:00 WIB 10/05/26] Al Fayha vs Al Qadsiah | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1778359134-0-0-4c663cac3b120eb735dff322dba6b2c0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1778359314-0-0-2123a5f110808504610c914584dbd898
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fayha-182264.png" group-title="[LIVE 01:00 WIB 10/05/26] Al Fayha vs Al Qadsiah | Server 2",[LIVE 01:00 WIB 10/05/26] Al Fayha vs Al Qadsiah | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1778359134-0-0-65bef0a712aaf6686d9ae613bbc0d1c4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1778359314-0-0-0bce86f80946a43770a58f49f8152764
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fayha-182264.png" group-title="[LIVE 01:00 WIB 10/05/26] Al Fayha vs Al Qadsiah | Server 3",[LIVE 01:00 WIB 10/05/26] Al Fayha vs Al Qadsiah | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1778359134-0-0-4ead2ff93ce7141729ca5e06783674dc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1778359314-0-0-5ff1459593f4cbd32815ec13f64a46a5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-fayha-182264.png" group-title="[LIVE 01:00 WIB 10/05/26] Al Fayha vs Al Qadsiah | Server 4",[LIVE 01:00 WIB 10/05/26] Al Fayha vs Al Qadsiah | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1778359134-0-0-d3a727cbe9eed30a7fad1108c2630e42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1778359314-0-0-47520856ebc0d7ad01d20080b274d94c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-feiha-1774db.png" group-title="[LIVE 01:00 WIB 10/05/26] Al-Feiha vs Al Qadsiah | Server 1",[LIVE 01:00 WIB 10/05/26] Al-Feiha vs Al Qadsiah | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
@@ -20,137 +20,137 @@ https://hls-ls.cdnok9.com/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-nürnberg-dcdea8.webp" group-title="[LIVE 01:30 WIB 10/05/26] 1. FC Nürnberg vs Schalke 04 | Server 1",[LIVE 01:30 WIB 10/05/26] 1. FC Nürnberg vs Schalke 04 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1778359134-0-0-2dbdf8c0138904f73c1c9cfdf2d3259e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1778359314-0-0-569313d64a0eefc73b8a79c3c39c9ac7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-nürnberg-dcdea8.webp" group-title="[LIVE 01:30 WIB 10/05/26] 1. FC Nürnberg vs Schalke 04 | Server 2",[LIVE 01:30 WIB 10/05/26] 1. FC Nürnberg vs Schalke 04 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1778359134-0-0-b57445ce3f77660a7a288eee8ef36b69
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1778359314-0-0-a8c7e713fb992d9f17ec7c5e6ab757e0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-nürnberg-dcdea8.webp" group-title="[LIVE 01:30 WIB 10/05/26] 1. FC Nürnberg vs Schalke 04 | Server 3",[LIVE 01:30 WIB 10/05/26] 1. FC Nürnberg vs Schalke 04 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1778359134-0-0-45d142017ba97b025041f4cf08f85785
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1778359314-0-0-60ec77d25842e7efebd78a412a2ee519
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/1-fc-nürnberg-dcdea8.webp" group-title="[LIVE 01:30 WIB 10/05/26] 1. FC Nürnberg vs Schalke 04 | Server 4",[LIVE 01:30 WIB 10/05/26] 1. FC Nürnberg vs Schalke 04 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1778359134-0-0-cc7b2c0bb63efd7424f58e1ae9bf2eb0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1778359314-0-0-21819a27a0462b038f765806035159a6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chicago-fire-12b7af.png" group-title="[LIVE 01:30 WIB 10/05/26] Chicago Fire vs New York Red Bulls | Server 1",[LIVE 01:30 WIB 10/05/26] Chicago Fire vs New York Red Bulls | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1778359134-0-0-bc44891dce462f4ebaa23e30430735ab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1778359314-0-0-7915c1157a7d62876885bd2f97d48e8d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/chicago-fire-12b7af.png" group-title="[LIVE 01:30 WIB 10/05/26] Chicago Fire vs New York Red Bulls | Server 2",[LIVE 01:30 WIB 10/05/26] Chicago Fire vs New York Red Bulls | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1778359134-0-0-7e1e4749f9a4ccc82a52195641f3f995
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1778359314-0-0-0a2c59e7b7f9808ec901680a22971a5f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-brugge-51f4e7.png" group-title="[LIVE 01:45 WIB 10/05/26] Club Brugge vs Sint-Truidense | Server 1",[LIVE 01:45 WIB 10/05/26] Club Brugge vs Sint-Truidense | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=1e4bc9d340476b7e6c548e6e56355e0c&txTime=69ffe1ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1778359314-0-0-343092bd317b77167f02aeea75317a44
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-brugge-51f4e7.png" group-title="[LIVE 01:45 WIB 10/05/26] Club Brugge vs Sint-Truidense | Server 2",[LIVE 01:45 WIB 10/05/26] Club Brugge vs Sint-Truidense | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=ab757949349c17ebe9fcd561b3c758ba&txTime=69ffe1ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1778359314-0-0-63330c8000c5906ec69f7c607e707984
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-brugge-51f4e7.png" group-title="[LIVE 01:45 WIB 10/05/26] Club Brugge vs Sint-Truidense | Server 3",[LIVE 01:45 WIB 10/05/26] Club Brugge vs Sint-Truidense | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-579144_lsd.m3u8?auth_key=1778359134-0-0-6995477083418f716a5272de0dd75641
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=e87cbb418f231720079ce2cb66559d31&txTime=69ffe262
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/club-brugge-51f4e7.png" group-title="[LIVE 01:45 WIB 10/05/26] Club Brugge vs Sint-Truidense | Server 4",[LIVE 01:45 WIB 10/05/26] Club Brugge vs Sint-Truidense | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-579144_lhd.m3u8?auth_key=1778359134-0-0-2858e06545d91bab77558b762a0ffb8f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=3ee327f04846113e7825f407c5972555&txTime=69ffe262
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 1",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1778359134-0-0-501cba4c496fd1d6d27d8e7e2db472b3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1778359314-0-0-772f13097eadfd2466991d0dabd1db29
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 2",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1778359134-0-0-2b0b97f076dd0b5c9bfb9be40c1577af
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1778359314-0-0-b37543ca6f3e471e0fc40658cd63f9f1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 3",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1778359134-0-0-ef180b03f82af32face9213ad0c417d5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1778359314-0-0-53cbd50c86a65d2f756c6e9cbd04478e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 4",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1778359134-0-0-63b2526e6d3395a51e7a1569dfb1994d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1778359314-0-0-c3ef56333391d2f5321f41e82194b337
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 5",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1778359134-0-0-972f038e9629ebef940a79adb150af7a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1778359314-0-0-0ea4e87d4ce9d54e70911caf794af711
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 6",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1778359134-0-0-11b40b6990aad44a6a446a595a3bba0f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1778359314-0-0-165681081ea104fa57b42a1ea67452d7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 7",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1778359134-0-0-14965140068fdfe97dc0f232d988c4f4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1778359314-0-0-7490e7707fa9d2c9856c19dff2003585
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 8",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1778359134-0-0-317626fabb4e9146c43591b611f015d1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1778359314-0-0-b69e1524ea64057b63296e34d37c7aa5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 9",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1778359134-0-0-00f0260b9249b2681f40726c77b9a01f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1778359314-0-0-b488d43e1e34a1d5e501afc387e646e9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 10",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1778359134-0-0-d0f1b5c72cf9910d0a82aa877d5c2646
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1778359314-0-0-2eb9839629bfe31bb83bc38787be8e80
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 11",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1778359134-0-0-bd81b9fc40dc00698f3bbf0d8e37b0cd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1778359314-0-0-905f502aa37b3d4206dec1ed3a8c15de
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 12",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1778359134-0-0-3885dd1e02b0789a63c648c0a6045921
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1778359314-0-0-b67ba3a24ce8e94168758f9aa5c39e4e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 13",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 14",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
+https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 15",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://hls-ls.cdnok9.com/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lecce-72fa0f.png" group-title="[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 16",[LIVE 01:45 WIB 10/05/26] Lecce vs Juventus | Server 16 (SVR-BHNS 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+https://hls-ls.cdnok9.com/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 1",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1778359134-0-0-b881dd0c7e29bdbac02935af0c06d175
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=f708ba5ab8c1320eb7302c3bb63bca0f&txTime=69ffe262
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 2",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1778359134-0-0-f4ae4f0f9640e2b50a3519f9f0f672a4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=6af4728c58fa8414a90f5394c53bdd5f&txTime=69ffe262
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 3",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=83c3b0fc95735dd9368fd030fd6ca7cd&txTime=69ffe1ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1778359314-0-0-36e2464127fc2ad625644e279a662b13
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 4",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=1d84f58288c3e7e245b037c299e9ea57&txTime=69ffe1ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1778359314-0-0-3f3e1a4798c9ead395aec3be8cedec26
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 5",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1778359134-0-0-86873934b80b13cad7ff1272e239d208
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1778359314-0-0-b365fddd5024e9da2c36e9e6ec584b2e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 6",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1778359134-0-0-1f0cfa19804135b77cfdc7604e6f5f8c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1778359314-0-0-1fe1d62a310a8ace57b856d099e70367
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 7",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778359134-0-0-1bb4274b85bbff37f10f48548f66c338
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778359314-0-0-9edebfaef777a9ce2cf9e24002b40ffe
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 8",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778359134-0-0-3548eacd0ba7d7cdc852aaad898e789c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778359314-0-0-0b2331c9b9e44cf043e5922aae4bdceb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 9",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1778359134-0-0-a1887a8376a2127406b4eb7f77c116d4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-564362_lsd.m3u8?auth_key=1778359314-0-0-ae451984686d4817c50a741921941d47
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 10",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1778359134-0-0-5edf58cfc1b6263d15e9bfcd1b82789a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niues.live/live/stream-564362_lhd.m3u8?auth_key=1778359314-0-0-5c2811a5b670694e122d2aee3774d739
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 11",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=732def3fdd60932595d44ab0479b052b&txTime=69ffe1ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=5aee41535bd40ee4cfea7660d0e88510&txTime=69ffe262
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 12",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=af40b45b06629d85ae52051846f63523&txTime=69ffe1ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=a03bc9253b2de030e71d94daf7272285&txTime=69ffe262
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 13",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 14",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+https://hls-ls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 15",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-sociedad-b0ac75.png" group-title="[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 16",[LIVE 02:00 WIB 10/05/26] Real Sociedad vs Real Betis | Server 16 (SVR-BHNS 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+https://hls-ls.cdnok9.com/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/malaga-329224.png" group-title="[LIVE 02:00 WIB 10/05/26] Malaga vs Sporting Gijon | Server 1",[LIVE 02:00 WIB 10/05/26] Malaga vs Sporting Gijon | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/malaga-329224.png" group-title="[LIVE 02:00 WIB 10/05/26] Malaga vs Sporting Gijon | Server 2",[LIVE 02:00 WIB 10/05/26] Malaga vs Sporting Gijon | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls-ls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68
+https://hls-ls.cdnok9.com/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/talleres-cordoba-5b64e7.png" group-title="[LIVE 02:30 WIB 10/05/26] Talleres Cordoba vs Belgrano | Server 1",[LIVE 02:30 WIB 10/05/26] Talleres Cordoba vs Belgrano | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls-ls.cdnok9.com/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
