@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.50 WIB 09/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [11.57 WIB 09/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="4wyrn4h659k1q86" tvg-name="Eastern Suburbs AFC vs Bay Olympic" tvg-logo="https://img.cdnok9.com/football/competition/ae97d06c1f9dca645aa9c3679d62ef38.png" group-title="[LIVE 10:00 WIB | 09/05/26] Eastern Suburbs AFC vs Bay Olympic",[LIVE 10:00 WIB | 09/05/26] Eastern Suburbs AFC vs Bay Olympic (GIÀNG A TÁO)
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
@@ -17,21 +17,21 @@ https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e9
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="l7oqdehg915pr51" tvg-name="Auckland United vs Fencibles United" tvg-logo="https://img.cdnok9.com/football/competition/ae97d06c1f9dca645aa9c3679d62ef38.png" group-title="[LIVE 10:00 WIB | 09/05/26] Auckland United vs Fencibles United",[LIVE 10:00 WIB | 09/05/26] Auckland United vs Fencibles United (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="vjxm8ghelgw6r6o" tvg-name="Jeju SK FC vs Football Club Seoul" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 2m | 09/05/26] Jeju SK FC vs Football Club Seoul",[UPCO 12:00 WIB | 2m | 09/05/26] Jeju SK FC vs Football Club Seoul (BLV GÀ PHÁP)
+https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+#EXTINF:-1 tvg-id="vjxm8ghelgw6r6o" tvg-name="Jeju SK FC vs Football Club Seoul" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 2m | 09/05/26] Jeju SK FC vs Football Club Seoul",[UPCO 12:00 WIB | 2m | 09/05/26] Jeju SK FC vs Football Club Seoul (Giàng A Hổ)
+https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="vjxm8ghelgw6r6o" tvg-name="Jeju SK FC vs Football Club Seoul" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 2m | 09/05/26] Jeju SK FC vs Football Club Seoul",[UPCO 12:00 WIB | 2m | 09/05/26] Jeju SK FC vs Football Club Seoul (Giàng A Hổ)
+https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+#EXTINF:-1 tvg-id="zp5rzghg64o8q82" tvg-name="Mito Hollyhock vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 12:00 WIB | 2m | 09/05/26] Mito Hollyhock vs Urawa Red Diamonds",[UPCO 12:00 WIB | 2m | 09/05/26] Mito Hollyhock vs Urawa Red Diamonds (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="zp5rzghg64o8q82" tvg-name="Mito Hollyhock vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 12:00 WIB | 2m | 09/05/26] Mito Hollyhock vs Urawa Red Diamonds",[UPCO 12:00 WIB | 2m | 09/05/26] Mito Hollyhock vs Urawa Red Diamonds (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 4j 42m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 4j 42m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 4j 42m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 4j 42m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="318q66hx3k51qo9" tvg-name="Upper Hutt City vs Island Bay United" tvg-logo="https://img.cdnok9.com/football/competition/b334e98bd31355e2781528746357247f.png" group-title="[LIVE 10:00 WIB | 09/05/26] Upper Hutt City vs Island Bay United",[LIVE 10:00 WIB | 09/05/26] Upper Hutt City vs Island Bay United (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="318q66hx3k51qo9" tvg-name="Upper Hutt City vs Island Bay United" tvg-logo="https://img.cdnok9.com/football/competition/b334e98bd31355e2781528746357247f.png" group-title="[LIVE 10:00 WIB | 09/05/26] Upper Hutt City vs Island Bay United",[LIVE 10:00 WIB | 09/05/26] Upper Hutt City vs Island Bay United (Giàng A Páo)
 https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 tvg-id="vjxm8ghelgw6r6o" tvg-name="Jeju SK FC vs Football Club Seoul" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 9m | 09/05/26] Jeju SK FC vs Football Club Seoul",[UPCO 12:00 WIB | 9m | 09/05/26] Jeju SK FC vs Football Club Seoul (BLV GÀ PHÁP)
-https://hls.686868.me/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 tvg-id="vjxm8ghelgw6r6o" tvg-name="Jeju SK FC vs Football Club Seoul" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 9m | 09/05/26] Jeju SK FC vs Football Club Seoul",[UPCO 12:00 WIB | 9m | 09/05/26] Jeju SK FC vs Football Club Seoul (Giàng A Hổ)
-https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="vjxm8ghelgw6r6o" tvg-name="Jeju SK FC vs Football Club Seoul" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[UPCO 12:00 WIB | 9m | 09/05/26] Jeju SK FC vs Football Club Seoul",[UPCO 12:00 WIB | 9m | 09/05/26] Jeju SK FC vs Football Club Seoul (Giàng A Hổ)
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="zp5rzghg64o8q82" tvg-name="Mito Hollyhock vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 12:00 WIB | 9m | 09/05/26] Mito Hollyhock vs Urawa Red Diamonds",[UPCO 12:00 WIB | 9m | 09/05/26] Mito Hollyhock vs Urawa Red Diamonds (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="zp5rzghg64o8q82" tvg-name="Mito Hollyhock vs Urawa Red Diamonds" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[UPCO 12:00 WIB | 9m | 09/05/26] Mito Hollyhock vs Urawa Red Diamonds",[UPCO 12:00 WIB | 9m | 09/05/26] Mito Hollyhock vs Urawa Red Diamonds (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 4j 49m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 4j 49m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="318q66hx3kygqo9" tvg-name="Sydney FC vs Newcastle Jets" tvg-logo="https://img.cdnok9.com/football/competition/76722a157176d354a952c671bb46cc7e.png" group-title="[UPCO 16:40 WIB | 4j 49m | 09/05/26] Sydney FC vs Newcastle Jets",[UPCO 16:40 WIB | 4j 49m | 09/05/26] Sydney FC vs Newcastle Jets (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
