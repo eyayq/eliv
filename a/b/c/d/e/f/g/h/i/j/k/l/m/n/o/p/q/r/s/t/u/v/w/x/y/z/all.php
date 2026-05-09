@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.04 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [01.10 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="4jwq2ghnkxpvm0v" tvg-name="Manchester City vs Brentford" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford",[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="4jwq2ghnkxpvm0v" tvg-name="Manchester City vs Brentford" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford",[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="4jwq2ghnkxpvm0v" tvg-name="Manchester City vs Brentford" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford",[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="4jwq2ghnkxpvm0v" tvg-name="Manchester City vs Brentford" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford",[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="4jwq2ghnkxpvm0v" tvg-name="Manchester City vs Brentford" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford",[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="4jwq2ghnkxpvm0v" tvg-name="Manchester City vs Brentford" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford",[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="4jwq2ghnkxpvm0v" tvg-name="Manchester City vs Brentford" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford",[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford (Lữ Bố (Giàng Phụng Tiên))
 https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 tvg-id="4jwq2ghnkxpvm0v" tvg-name="Manchester City vs Brentford" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford",[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford (Lữ Bố (Giàng Phụng Tiên))
@@ -25,6 +25,18 @@ https://flv.686868.me/live/THICHDUTHU.flv?expire=1781940780&sign=9ebc36e9bec73d9
 https://hls.686868.me/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 tvg-id="4jwq2ghnkxpvm0v" tvg-name="Manchester City vs Brentford" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford",[LIVE 23:30 WIB | 09/05/26] Manchester City vs Brentford (VĂN VỞ)
 https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (GIÀNG A PHỆ )
+https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (GIÀNG A PHỆ )
+https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (VĂN GÔN)
+https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (VĂN GÔN)
+https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
+#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="vjxm8ghew0lgr6o" tvg-name="Toronto FC vs Inter Miami CF" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 00:10 WIB | 10/05/26] Toronto FC vs Inter Miami CF",[LIVE 00:10 WIB | 10/05/26] Toronto FC vs Inter Miami CF (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="vjxm8ghew0lgr6o" tvg-name="Toronto FC vs Inter Miami CF" tvg-logo="https://img.cdnok9.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="[LIVE 00:10 WIB | 10/05/26] Toronto FC vs Inter Miami CF",[LIVE 00:10 WIB | 10/05/26] Toronto FC vs Inter Miami CF (GIÀNG A MÂY)
@@ -49,19 +61,11 @@ https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee9005467
 https://hls.686868.me/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 tvg-id="ednm9whw92jzryo" tvg-name="VfL Wolfsburg vs FC Bayern Munich" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 23:30 WIB | 09/05/26] VfL Wolfsburg vs FC Bayern Munich",[LIVE 23:30 WIB | 09/05/26] VfL Wolfsburg vs FC Bayern Munich (Giàng A Choén)
 https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (GIÀNG A PHỆ )
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (GIÀNG A PHỆ )
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (VĂN GÔN)
-https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (VĂN GÔN)
-https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="y0or5jh8e1n7qwz" tvg-name="Atletico Madrid vs RC Celta" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta",[LIVE 23:30 WIB | 09/05/26] Atletico Madrid vs RC Celta (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="1l4rjnh968xom7v" tvg-name="Lecce vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 40m | 10/05/26] Lecce vs Juventus",[UPCO 01:45 WIB | 40m | 10/05/26] Lecce vs Juventus (Giàng A Sếu)
+#EXTINF:-1 tvg-id="1l4rjnh968xom7v" tvg-name="Lecce vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 33m | 10/05/26] Lecce vs Juventus",[UPCO 01:45 WIB | 33m | 10/05/26] Lecce vs Juventus (Giàng A Sếu)
 https://hls.686868.me/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 tvg-id="1l4rjnh968xom7v" tvg-name="Lecce vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 40m | 10/05/26] Lecce vs Juventus",[UPCO 01:45 WIB | 40m | 10/05/26] Lecce vs Juventus (Giàng A Sếu)
+#EXTINF:-1 tvg-id="1l4rjnh968xom7v" tvg-name="Lecce vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 33m | 10/05/26] Lecce vs Juventus",[UPCO 01:45 WIB | 33m | 10/05/26] Lecce vs Juventus (Giàng A Sếu)
 https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+#EXTINF:-1 tvg-id="1l4rjnh968xom7v" tvg-name="Lecce vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 33m | 10/05/26] Lecce vs Juventus",[UPCO 01:45 WIB | 33m | 10/05/26] Lecce vs Juventus (Giàng A Chiến)
+https://hls.686868.me/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+#EXTINF:-1 tvg-id="1l4rjnh968xom7v" tvg-name="Lecce vs Juventus" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[UPCO 01:45 WIB | 33m | 10/05/26] Lecce vs Juventus",[UPCO 01:45 WIB | 33m | 10/05/26] Lecce vs Juventus (Giàng A Chiến)
+https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
