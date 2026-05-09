@@ -47,12 +47,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo.flv
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-tao.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [13:00 09/05] Xem Trực Tiếp Auckland FC vs Adelaide United - Văn Chuẩn 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan.flv
-
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [14:00 09/05] Xem Trực Tiếp Kashiwa Reysol vs Kawasaki Frontale - Văn Chuẩn 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
@@ -70,18 +64,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [16:00 09/05] Xem Trực Tiếp Andrey Rublev vs Miomir Kecmanovic - Người Cát 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [16:00 09/05] Xem Trực Tiếp Auger-Aliassime F. vs Navone M. - Người Kiến 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [16:05 09/05] Xem Trực Tiếp Osaka Bluteon vs JTEKT - Cháo Quẩy 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
@@ -118,6 +100,12 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-gio-tai.flv
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [17:30 09/05] Xem Trực Tiếp Auger-Aliassime F. vs Navone M. - Người Kiến 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [17:30 09/05] Xem Trực Tiếp Hellas Verona vs Como - Táo 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
