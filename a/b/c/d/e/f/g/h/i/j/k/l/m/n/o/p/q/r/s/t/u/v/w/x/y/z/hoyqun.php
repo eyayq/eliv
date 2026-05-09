@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:50 WIB 09/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:50 WIB 09/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:56 WIB 09/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:56 WIB 09/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[20:30 WIB 09/05/26] VfB Stuttgart vs Bayer Leverkusen [] [LIVE]
@@ -48,13 +48,7 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0s--SmcBQ9-eHwOHh96TA7KIuKDc02P5XAA&s" group-title=" Bốc Thăm VCK Asian Cup 2027",[01:00 WIB 10/05/26] Bốc Thăm [FHD] [NANTIKAN]
-https://hqlive.zlylive.com/live/hqtv_blv_nhadai/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0s--SmcBQ9-eHwOHh96TA7KIuKDc02P5XAA&s" group-title=" Bốc Thăm VCK Asian Cup 2027",[01:00 WIB 10/05/26] Bốc Thăm [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_nhadai/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0s--SmcBQ9-eHwOHh96TA7KIuKDc02P5XAA&s" group-title=" Bốc Thăm VCK Asian Cup 2027",[01:00 WIB 10/05/26] Bốc Thăm [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_nhadai/tracks-v1a1/mono.m3u8
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_nhadai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[01:30 WIB 10/05/26] Trung Quốc vs Pháp (Nam)  [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchuot/playlist.m3u8
@@ -136,6 +130,36 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 11/05/26] AC Milan vs Atalanta [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 11/05/26] Barcelona vs Real Madrid [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 11/05/26] Barcelona vs Real Madrid [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 11/05/26] Barcelona vs Real Madrid [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:00 WIB 11/05/26] Paris Saint Germain vs Stade Brestois 29 [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[04:30 WIB 11/05/26] Santos vs RB Bragantino [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[06:30 WIB 11/05/26] Vasco da Gama vs Athletico Paranaense [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:00 WIB 11/05/26] Los Angeles FC vs Houston Dynamo [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1101.png" group-title="AFC U17 Asian Cup - Women",[14:00 WIB 11/05/26] Vietnam U17 W vs Australia U17 W [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/274.png" group-title="Liga 1",[19:00 WIB 11/05/26] Bali United vs Pusamania Borneo [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[23:50 WIB 11/05/26] NEOM vs Al Shabab [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 13/05/26] Machida Zelvia vs Tokyo Verdy [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
