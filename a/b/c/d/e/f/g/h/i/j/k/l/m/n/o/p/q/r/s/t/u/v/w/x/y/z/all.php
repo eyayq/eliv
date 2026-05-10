@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [21.53 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [22.00 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1l4rjnh91xl1m7v" tvg-name="Nottingham Forest vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United",[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United (Giàng A Gấu)
-https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 tvg-id="1l4rjnh91xl1m7v" tvg-name="Nottingham Forest vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United",[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United (Giàng A Gấu)
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="1l4rjnh91xl1m7v" tvg-name="Nottingham Forest vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United",[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United (Giàng A Rùa)
 https://hls.686868.me/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 tvg-id="1l4rjnh91xl1m7v" tvg-name="Nottingham Forest vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United",[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United (Giàng A Rùa)
 https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+#EXTINF:-1 tvg-id="1l4rjnh91xl1m7v" tvg-name="Nottingham Forest vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United",[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United (Giàng A Gấu)
+https://hls.686868.me/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+#EXTINF:-1 tvg-id="1l4rjnh91xl1m7v" tvg-name="Nottingham Forest vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United",[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United (Giàng A Gấu)
+https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 tvg-id="1l4rjnh91xl1m7v" tvg-name="Nottingham Forest vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United",[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="1l4rjnh91xl1m7v" tvg-name="Nottingham Forest vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United",[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United (Giàng A Páo)
@@ -41,14 +41,6 @@ https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0b
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="dj2ryohlyg57q1z" tvg-name="Burnley vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 10/05/26] Burnley vs Aston Villa",[LIVE 20:00 WIB | 10/05/26] Burnley vs Aston Villa (Giàng A Hổ)
 https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (Giàng A Lỏ)
-https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (Giàng A Lỏ)
-https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 tvg-id="pxwrxlhy9v58ryk" tvg-name="Athletic Club vs Valencia CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 10/05/26] Athletic Club vs Valencia CF",[LIVE 21:15 WIB | 10/05/26] Athletic Club vs Valencia CF (GIÀNG A MÂY)
 https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="pxwrxlhy9v58ryk" tvg-name="Athletic Club vs Valencia CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 21:15 WIB | 10/05/26] Athletic Club vs Valencia CF",[LIVE 21:15 WIB | 10/05/26] Athletic Club vs Valencia CF (GIÀNG A MÂY)
@@ -65,7 +57,19 @@ https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="y39mp1h650x1moj" tvg-name="Hamburger SV vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 10/05/26] Hamburger SV vs SC Freiburg",[LIVE 20:30 WIB | 10/05/26] Hamburger SV vs SC Freiburg (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="2y8m4zh5j087ql0" tvg-name="LKS Nieciecza vs Legia Warszawa" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[UPCO 22:30 WIB | 36m | 10/05/26] LKS Nieciecza vs Legia Warszawa",[UPCO 22:30 WIB | 36m | 10/05/26] LKS Nieciecza vs Legia Warszawa (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (Giàng A Lỏ)
+https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (Giàng A Lỏ)
+https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="2y8m4zh5j087ql0" tvg-name="LKS Nieciecza vs Legia Warszawa" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[UPCO 22:30 WIB | 29m | 10/05/26] LKS Nieciecza vs Legia Warszawa",[UPCO 22:30 WIB | 29m | 10/05/26] LKS Nieciecza vs Legia Warszawa (GIÀNG A TỨ )
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="2y8m4zh5j087ql0" tvg-name="LKS Nieciecza vs Legia Warszawa" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[UPCO 22:30 WIB | 36m | 10/05/26] LKS Nieciecza vs Legia Warszawa",[UPCO 22:30 WIB | 36m | 10/05/26] LKS Nieciecza vs Legia Warszawa (GIÀNG A TỨ )
+#EXTINF:-1 tvg-id="2y8m4zh5j087ql0" tvg-name="LKS Nieciecza vs Legia Warszawa" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[UPCO 22:30 WIB | 29m | 10/05/26] LKS Nieciecza vs Legia Warszawa",[UPCO 22:30 WIB | 29m | 10/05/26] LKS Nieciecza vs Legia Warszawa (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="1l4rjnh9zxvem7v" tvg-name="Slaven Belupo vs HNK Gorica" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[UPCO 23:15 WIB | 1j 14m | 10/05/26] Slaven Belupo vs HNK Gorica",[UPCO 23:15 WIB | 1j 14m | 10/05/26] Slaven Belupo vs HNK Gorica (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="1l4rjnh9zxvem7v" tvg-name="Slaven Belupo vs HNK Gorica" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[UPCO 23:15 WIB | 1j 14m | 10/05/26] Slaven Belupo vs HNK Gorica",[UPCO 23:15 WIB | 1j 14m | 10/05/26] Slaven Belupo vs HNK Gorica (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
