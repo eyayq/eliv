@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:07 WIB 10/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:07 WIB 10/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:09 WIB 10/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:09 WIB 10/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gX8CjJoKFvEF6Kk0q9JTjQjnRtoe0fCrKS_hMcHcPAJUWT9uQ5tmL4hDwWNuCkDbJPo" group-title="KBL",[14:30 WIB 10/05/26] KCC Egis vs Goyang Sono [] [LIVE]
@@ -109,6 +109,3 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 12/05/26] Beijing Duck v Quangdong [] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 13/05/26] Machida Zelvia vs Tokyo Verdy [FHD] [NANTIKAN]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
