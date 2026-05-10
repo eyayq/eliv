@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [01.21 WIB 11/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [01.27 WIB 11/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[LIVE 23:30 WIB 10/05/26] Oviedo vs Getafe",[LIVE 23:30 WIB 10/05/26] Oviedo vs Getafe (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767890792303-football-icon.png" group-title="[LIVE 00:30 WIB 11/05/26] FSV Mainz 05 vs Union Berlin",[LIVE 00:30 WIB 11/05/26] FSV Mainz 05 vs Union Berlin (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456240229-football-icon.svg" group-title="[UPCOMING 0j 23m 01:45 WIB 11/05/26] AC Milan vs Atalanta",[UPCOMING 0j 23m 01:45 WIB 11/05/26] AC Milan vs Atalanta (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456240229-football-icon.svg" group-title="[UPCOMING 0j 17m 01:45 WIB 11/05/26] AC Milan vs Atalanta",[UPCOMING 0j 17m 01:45 WIB 11/05/26] AC Milan vs Atalanta (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 0j 38m 02:00 WIB 11/05/26] Barcelona vs Real Madrid",[UPCOMING 0j 38m 02:00 WIB 11/05/26] Barcelona vs Real Madrid (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 0j 32m 02:00 WIB 11/05/26] Barcelona vs Real Madrid",[UPCOMING 0j 32m 02:00 WIB 11/05/26] Barcelona vs Real Madrid (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 0j 38m 02:00 WIB 11/05/26] Barcelona vs Real Madrid",[UPCOMING 0j 38m 02:00 WIB 11/05/26] Barcelona vs Real Madrid (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 0j 32m 02:00 WIB 11/05/26] Barcelona vs Real Madrid",[UPCOMING 0j 32m 02:00 WIB 11/05/26] Barcelona vs Real Madrid (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 0j 38m 02:00 WIB 11/05/26] Barcelona vs Real Madrid",[UPCOMING 0j 38m 02:00 WIB 11/05/26] Barcelona vs Real Madrid (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 0j 32m 02:00 WIB 11/05/26] Barcelona vs Real Madrid",[UPCOMING 0j 32m 02:00 WIB 11/05/26] Barcelona vs Real Madrid (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456138829-football-icon.svg" group-title="[UPCOMING 0j 38m 02:00 WIB 11/05/26] Paris Saint Germain vs Stade Brestois 29",[UPCOMING 0j 38m 02:00 WIB 11/05/26] Paris Saint Germain vs Stade Brestois 29 (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456138829-football-icon.svg" group-title="[UPCOMING 0j 32m 02:00 WIB 11/05/26] Paris Saint Germain vs Stade Brestois 29",[UPCOMING 0j 32m 02:00 WIB 11/05/26] Paris Saint Germain vs Stade Brestois 29 (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456138829-football-icon.svg" group-title="[UPCOMING 0j 38m 02:00 WIB 11/05/26] Le Havre vs Marseille",[UPCOMING 0j 38m 02:00 WIB 11/05/26] Le Havre vs Marseille (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456138829-football-icon.svg" group-title="[UPCOMING 0j 32m 02:00 WIB 11/05/26] Le Havre vs Marseille",[UPCOMING 0j 32m 02:00 WIB 11/05/26] Le Havre vs Marseille (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1101.png" group-title="[UPCOMING 12j 38m 14:00 WIB 11/05/26] Vietnam U17 W vs Australia U17 W",[UPCOMING 12j 38m 14:00 WIB 11/05/26] Vietnam U17 W vs Australia U17 W (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1101.png" group-title="[UPCOMING 12j 32m 14:00 WIB 11/05/26] Vietnam U17 W vs Australia U17 W",[UPCOMING 12j 32m 14:00 WIB 11/05/26] Vietnam U17 W vs Australia U17 W (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
