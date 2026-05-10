@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [13.03 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [13.10 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="y0or5jh8z65pqwz" tvg-name="FC Tokyo vs Tokyo Verdy" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 10/05/26] FC Tokyo vs Tokyo Verdy",[LIVE 13:00 WIB | 10/05/26] FC Tokyo vs Tokyo Verdy (DERICE)
-https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="y0or5jh8z65pqwz" tvg-name="FC Tokyo vs Tokyo Verdy" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 10/05/26] FC Tokyo vs Tokyo Verdy",[LIVE 13:00 WIB | 10/05/26] FC Tokyo vs Tokyo Verdy (DERICE)
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 tvg-id="1l4rjnh9j5dym7v" tvg-name="Yokohama F. Marinos vs Kashima Antlers" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 10/05/26] Yokohama F. Marinos vs Kashima Antlers",[LIVE 12:00 WIB | 10/05/26] Yokohama F. Marinos vs Kashima Antlers (GIÀNG A MÂY)
-https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 tvg-id="1l4rjnh9j5dym7v" tvg-name="Yokohama F. Marinos vs Kashima Antlers" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 10/05/26] Yokohama F. Marinos vs Kashima Antlers",[LIVE 12:00 WIB | 10/05/26] Yokohama F. Marinos vs Kashima Antlers (GIÀNG A MÂY)
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 tvg-id="dj2ryohle463q1z" tvg-name="Shimizu S-Pulse vs Avispa Fukuoka" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 10/05/26] Shimizu S-Pulse vs Avispa Fukuoka",[LIVE 12:00 WIB | 10/05/26] Shimizu S-Pulse vs Avispa Fukuoka (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="dj2ryohle463q1z" tvg-name="Shimizu S-Pulse vs Avispa Fukuoka" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 10/05/26] Shimizu S-Pulse vs Avispa Fukuoka",[LIVE 12:00 WIB | 10/05/26] Shimizu S-Pulse vs Avispa Fukuoka (GIÀNG A PHỆ )
@@ -21,3 +13,11 @@ https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c9559855
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="2y8m4zh5wxy9ql0" tvg-name="Vissel Kobe vs Fagiano Okayama" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 10/05/26] Vissel Kobe vs Fagiano Okayama",[LIVE 12:00 WIB | 10/05/26] Vissel Kobe vs Fagiano Okayama (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="y0or5jh8z65pqwz" tvg-name="FC Tokyo vs Tokyo Verdy" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 10/05/26] FC Tokyo vs Tokyo Verdy",[LIVE 13:00 WIB | 10/05/26] FC Tokyo vs Tokyo Verdy (DERICE)
+https://hls.686868.me/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="y0or5jh8z65pqwz" tvg-name="FC Tokyo vs Tokyo Verdy" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 13:00 WIB | 10/05/26] FC Tokyo vs Tokyo Verdy",[LIVE 13:00 WIB | 10/05/26] FC Tokyo vs Tokyo Verdy (DERICE)
+https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+#EXTINF:-1 tvg-id="1l4rjnh9j5dym7v" tvg-name="Yokohama F. Marinos vs Kashima Antlers" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 10/05/26] Yokohama F. Marinos vs Kashima Antlers",[LIVE 12:00 WIB | 10/05/26] Yokohama F. Marinos vs Kashima Antlers (GIÀNG A MÂY)
+https://hls.686868.me/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+#EXTINF:-1 tvg-id="1l4rjnh9j5dym7v" tvg-name="Yokohama F. Marinos vs Kashima Antlers" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 10/05/26] Yokohama F. Marinos vs Kashima Antlers",[LIVE 12:00 WIB | 10/05/26] Yokohama F. Marinos vs Kashima Antlers (GIÀNG A MÂY)
+https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
