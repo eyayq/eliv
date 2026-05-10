@@ -1,17 +1,11 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:00 WIB 11/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:00 WIB 11/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:07 WIB 11/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:07 WIB 11/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlc3P0hE118uowO1ZB49qkGVfoxLKXVrPEQ&s" group-title="ITTF World Team Championships Finals London 2026",[22:00 WIB 10/05/26] Trung Quốc vs Nhật Bản (Nam) [FHD] [LIVE]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 10/05/26] Parma vs AS Roma [FHD] [LIVE]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[00:00 WIB 11/05/26] Elisabetta Cocciaretto vs Iga Swiatek [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 11/05/26] AC Milan vs Atalanta [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 11/05/26] AC Milan vs Atalanta [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sporter.vn/wp-content/uploads/2023/04/Tiet-lo-logo-la-liga-moi-nhat-2023-3.jpg" group-title="Laliga ( Đầu Cầu Trung Lập )",[02:00 WIB 11/05/26] Barcelona vs Real Madrid [FHD] [NANTIKAN]
