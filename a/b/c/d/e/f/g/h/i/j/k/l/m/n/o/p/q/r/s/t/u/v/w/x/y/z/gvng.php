@@ -1,589 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V1: [00.00 WIB 11/05/26]",Donasi server playlist iptv v1 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V1: [00.06 WIB 11/05/26]",Donasi server playlist iptv v1 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="1l4rjnh91726m7v" tvg-name="Bologna U20 vs Cagliari U20" tvg-logo="https://img.rapid-api.icu/football/team/c1677fcb14527c44818d00bd77f88d54/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Bologna U20 vs Cagliari U20
-https://dlqcalr.alilicloud.com/live/6ca8c83272b649f29e3b10eed4c01e48/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1l4rjnh91xl1m7v" tvg-name="Nottingham Forest vs Newcastle United" tvg-logo="https://img.rapid-api.icu/football/team/329289bca8bd5d05f72deb7685c4ea62/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Nottingham Forest vs Newcastle United
-https://dlqcalr.alilicloud.com/live/69ec50be7077b091ea6f3c5400015452/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1l4rjnh93yynm7v" tvg-name="Air Bel U19 vs Toulouse U19" tvg-logo="https://img.rapid-api.icu/football/team/490cd7dce42b3f414f1254c51e9677a0/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Air Bel U19 vs Toulouse U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="1l4rjnh94wz1m7v" tvg-name="Sassuolo Women vs AS Roma Women" tvg-logo="https://img.rapid-api.icu/football/team/d036037765237495ae35fb9fe51ac4c5/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Sassuolo Women vs AS Roma Women
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="1l4rjnh9d226m7v" tvg-name="Chieti vs Recanatese" tvg-logo="https://img.rapid-api.icu/football/team/d87dae1cdcdfa53b5e2931d605c7bd3a/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Chieti vs Recanatese
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="1l4rjnh9d3wlm7v" tvg-name="FC Monheim vs DJK Adler Union Frintrop" tvg-logo="https://img.rapid-api.icu/football/team/cd179f171b86bd11e0d71c0a3c884036/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Monheim vs DJK Adler Union Frintrop
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="1l4rjnh9d457m7v" tvg-name="Uniao Mogi U23 vs Mauaense SP U23" tvg-logo="https://img.rapid-api.icu/football/team/3c6d8bc89d4f61bf8fc20710537f9897/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Uniao Mogi U23 vs Mauaense SP U23
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="1l4rjnh9djwkm7v" tvg-name="Aris Petroupolis vs Ethnikos Pireaus" tvg-logo="https://img.rapid-api.icu/football/team/2705bb221b890208dcca14abb2fc6af6/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Aris Petroupolis vs Ethnikos Pireaus
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="1l4rjnh9evpxm7v" tvg-name="Laval U19 vs Rennes U19" tvg-logo="https://img.rapid-api.icu/football/team/51f584106f566d39f6117efad86d4a12/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Laval U19 vs Rennes U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="1l4rjnh9n6ykm7v" tvg-name="FC Astana vs Kyzylzhar Petropavlovsk" tvg-logo="https://img.rapid-api.icu/football/team/e1d47932aaf0f8f51641f869ca42345f/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Astana vs Kyzylzhar Petropavlovsk
-https://live.rapidlive.shop/live/89b4c98bc562d9245674b5ae7bb1089d/playlist.m3u8
-
-#EXTINF:-1 tvg-id="23xmvkh68ndvqg8" tvg-name="Juventus Women vs Inter Milan Women" tvg-logo="https://img.rapid-api.icu/football/team/0f1f774574b2f860912f3b7d9c8350a8/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Juventus Women vs Inter Milan Women
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="23xmvkh6gvv8qg8" tvg-name="Montpellier U19 vs Nice Cavigal (U19)" tvg-logo="https://img.rapid-api.icu/football/team/606ab1094bc5c39a2fdddafd4b3896d2/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Montpellier U19 vs Nice Cavigal (U19)
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="23xmvkh6l3exqg8" tvg-name="Sreenidi Deccan vs Shillong Lajong FC" tvg-logo="https://img.rapid-api.icu/football/team/c56300732660e3b242ce900c778da043/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Sreenidi Deccan vs Shillong Lajong FC
-https://dlqcalr.alilicloud.com/live/8dbfeb43c55d455106d0d023257cfd73/playlist.m3u8
-
-#EXTINF:-1 tvg-id="23xmvkh6l89jqg8" tvg-name="Santacruzense SP U23 vs Mogi Mirim U23" tvg-logo="https://img.rapid-api.icu/football/team/740272af2f1e20c9b629f6b6cbae5ff9/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Santacruzense SP U23 vs Mogi Mirim U23
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="23xmvkh6lgnwqg8" tvg-name="Hanauer SC 1960 vs KSV Baunatal" tvg-logo="https://img.rapid-api.icu/football/team/7d693145783c1bfeeef8bbc64e36e5ca/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Hanauer SC 1960 vs KSV Baunatal
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="23xmvkh6lo1gqg8" tvg-name="Sigma Olomouc vs Bohemians 1905" tvg-logo="https://img.rapid-api.icu/football/team/dac028e7512c0b95e8bf76996889f7be/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Sigma Olomouc vs Bohemians 1905
-https://dlqcalr.alilicloud.com/live/40997b4c35ff8c2dcf335e0cd8755859/playlist.m3u8
-
-#EXTINF:-1 tvg-id="23xmvkh6lwg7qg8" tvg-name="ASD Tau Calcio Altopascio vs ASD Seravezza Calcio" tvg-logo="https://img.rapid-api.icu/football/team/5a6522f5c61c1aae8c3810d84579f2d4/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] ASD Tau Calcio Altopascio vs ASD Seravezza Calcio
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="23xmvkh6x7zoqg8" tvg-name="Lorient U19 vs Angers SCO U19" tvg-logo="https://img.rapid-api.icu/football/team/074c2c65e97fb0b3213c582dd13491ce/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Lorient U19 vs Angers SCO U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="2y8m4zh541l1ql0" tvg-name="Upington City vs Casric Stars" tvg-logo="https://img.rapid-api.icu/football/team/9b1ed36b2a610fec04f83714afc081d9/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Upington City vs Casric Stars
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="2y8m4zh5e4klql0" tvg-name="Lupo-Martini Wolfsburg vs Heeslinger SC" tvg-logo="https://img.rapid-api.icu/football/team/57f4ade5bc5494f66f722a32e7f8f98c/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Lupo-Martini Wolfsburg vs Heeslinger SC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="2y8m4zh5en4vql0" tvg-name="Clodiense vs ASD Brian Lignano" tvg-logo="https://img.rapid-api.icu/football/team/10402c65ff7314998c940c0cabff67a6/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Clodiense vs ASD Brian Lignano
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="2y8m4zh5ennvql0" tvg-name="ASD Ragusa Calcio vs Messina" tvg-logo="https://img.rapid-api.icu/football/team/00257c9252fd571443405a9882e1e7c6/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] ASD Ragusa Calcio vs Messina
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="2y8m4zh5eny0ql0" tvg-name="Manonyane FC vs Machokha" tvg-logo="https://img.rapid-api.icu/football/team/113734f101d88af1db4c8cb48dc39bac/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Manonyane FC vs Machokha
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="318q66hx3753qo9" tvg-name="SpVgg Erkenschwick vs TSV Victoria Clarholz" tvg-logo="https://img.rapid-api.icu/football/team/83b61be43c125e39648e292ca592cd86/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] SpVgg Erkenschwick vs TSV Victoria Clarholz
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="318q66hx3n77qo9" tvg-name="Biellese vs Varese FC" tvg-logo="https://img.rapid-api.icu/football/team/df7bafc8dd37c75a3ef751d5cc864b67/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Biellese vs Varese FC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="318q66hx3nn7qo9" tvg-name="Trastevere Calcio vs Albalonga" tvg-logo="https://img.rapid-api.icu/football/team/68f0e77d88e8f4a567606ae2551bb7ac/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Trastevere Calcio vs Albalonga
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="318q66hx7k9lqo9" tvg-name="Black Leopards vs Venda" tvg-logo="https://img.rapid-api.icu/football/team/dae3c8ca88806692749880ccac39b11f/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Black Leopards vs Venda
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="318q66hx8vdyqo9" tvg-name="Turan Tovuz vs Karvan Evlakh" tvg-logo="https://img.rapid-api.icu/football/team/e125981a4616495847a163785cd4714c/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Turan Tovuz vs Karvan Evlakh
-https://dlqcalr.alilicloud.com/live/2f46a256bc7918adcaff5b17cde69464/playlist.m3u8
-
-#EXTINF:-1 tvg-id="318q66hxkl08qo9" tvg-name="Paris FC U19 vs Amiens U19" tvg-logo="https://img.rapid-api.icu/football/team/2c36c20ff43f756d55abedbd23801f9e/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Paris FC U19 vs Amiens U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="318q66hxklgzqo9" tvg-name="Troyes U19 vs AC Bobigny U19" tvg-logo="https://img.rapid-api.icu/football/team/6f05752586be873aeb94fbe7a1e298d6/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Troyes U19 vs AC Bobigny U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="318q66hxvel3qo9" tvg-name="BSC Old Boys vs Langenthal" tvg-logo="https://img.rapid-api.icu/football/team/175f9f92d7d39647389718c8e3270c02/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] BSC Old Boys vs Langenthal
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="318q66hxxy2yqo9" tvg-name="Union Royale Namur vs Charleroi B" tvg-logo="https://img.rapid-api.icu/football/team/c374486c7789a19a9b7796404924a6e9/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Union Royale Namur vs Charleroi B
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="3glrw7hn4kjvqdy" tvg-name="FK Parvoz Bobojon Ghafurov vs FC Khatlon" tvg-logo="https://img.rapid-api.icu/football/team/c624f1896c2d9a21f7006a5039909fe6/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FK Parvoz Bobojon Ghafurov vs FC Khatlon
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="3glrw7hng0l5qdy" tvg-name="Lentigione vs AC Palazzolo" tvg-logo="https://img.rapid-api.icu/football/team/d951505ea1e2c64765c8b26a11b6e28d/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Lentigione vs AC Palazzolo
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="3glrw7hnglxjqdy" tvg-name="SSV Merten vs Bergisch Gladbach 09" tvg-logo="https://img.rapid-api.icu/football/team/969d8d521ebb97e0c8484f54e3caa9f8/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] SSV Merten vs Bergisch Gladbach 09
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="3glrw7hngy6dqdy" tvg-name="Deportivo Capiata vs General Caballero JLM" tvg-logo="https://img.rapid-api.icu/football/team/79a22bf4d7dcdac6f94203687d228751/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Deportivo Capiata vs General Caballero JLM
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="3glrw7hnwxy7qdy" tvg-name="Cremonese vs Pisa" tvg-logo="https://img.rapid-api.icu/football/team/d19434f3730fd04c41e2a1fc8fe0058d/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Cremonese vs Pisa
-https://dlqcalr.alilicloud.com/live/f6a45db39d633815f14188ed59a304bb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="3glrw7hnzkjzqdy" tvg-name="St Pauli II vs Hamburger SV II" tvg-logo="https://img.rapid-api.icu/football/team/3c0a76628e9e4aef2090c29d474b1041/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] St Pauli II vs Hamburger SV II
-https://dlqcalr.alilicloud.com/live/d3cfbe21d95b3cea4815a4f596912fb7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghn0oowm0v" tvg-name="Colomiers U19 vs Olympique Rovenain U19" tvg-logo="https://img.rapid-api.icu/football/team/b97e9d6bfaa503a3477ae414e01431e4/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Colomiers U19 vs Olympique Rovenain U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4jwq2ghn1ld7m0v" tvg-name="Saint-Renan U19 vs Brest Stade U19" tvg-logo="https://img.rapid-api.icu/football/team/a3c3ea3cfd6a0dd0eba72394282a8bcb/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Saint-Renan U19 vs Brest Stade U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4jwq2ghn1lpym0v" tvg-name="Strasbourg U19 vs Stade Reims U19" tvg-logo="https://img.rapid-api.icu/football/team/dddf083c073ef0efd92239d6e9b503c5/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Strasbourg U19 vs Stade Reims U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4jwq2ghn503zm0v" tvg-name="FC Kleve vs FC Buderich 02" tvg-logo="https://img.rapid-api.icu/football/team/605f28a4c0baaf677389df959a786833/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Kleve vs FC Buderich 02
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4jwq2ghn566km0v" tvg-name="Sora vs ASD Victor San Marino" tvg-logo="https://img.rapid-api.icu/football/team/6ad3b3d2b17426c7003f3433f58a3222/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Sora vs ASD Victor San Marino
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4jwq2ghn56dem0v" tvg-name="PWD de Bamenda vs Fauve Azur Elite" tvg-logo="https://img.rapid-api.icu/football/team/f82e7f19ed003c02def07dc2f9971184/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] PWD de Bamenda vs Fauve Azur Elite
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4jwq2ghn5z31m0v" tvg-name="Pyrgos AFC vs Zakynthos" tvg-logo="https://img.rapid-api.icu/football/team/51258d92cace5bb2cf6ae27fa3f37914/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Pyrgos AFC vs Zakynthos
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4jwq2ghn9353m0v" tvg-name="Mbale Heroes vs Onduparaka FC" tvg-logo="https://img.rapid-api.icu/football/team/592222ba266935e77c34cbb3b7b9eb37/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Mbale Heroes vs Onduparaka FC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4jwq2ghnvv52m0v" tvg-name="ND Primorje vs NS Mura" tvg-logo="https://img.rapid-api.icu/football/team/8d3a410fa8ecbf1ff42c37750c642e35/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] ND Primorje vs NS Mura
-https://dlqcalr.alilicloud.com/live/9aebff57dbec56422470b777518894e5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="4jwq2ghnwv7em0v" tvg-name="Brodd vs Vag" tvg-logo="https://img.rapid-api.icu/football/team/be0aaac0dd5ba60b076171ac6989d08c/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Brodd vs Vag
-https://dlqcalr.alilicloud.com/live/b7797e8cc2e8bc9d99abcdf7291f2043/playlist.m3u8
-
-#EXTINF:-1 tvg-id="4wyrn4h65002q86" tvg-name="ASD Martina Franca vs Nardo" tvg-logo="https://img.rapid-api.icu/football/team/d1b35bb6ea036bc8ff87b4194aa40b54/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] ASD Martina Franca vs Nardo
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4wyrn4h65072q86" tvg-name="US Breno vs Pavia" tvg-logo="https://img.rapid-api.icu/football/team/34b120b8bf3f525fd5dcd1b94bb96e18/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] US Breno vs Pavia
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4wyrn4h65094q86" tvg-name="CD Maxaquene vs Black Bulls" tvg-logo="https://img.rapid-api.icu/football/team/73ff0158e378bf02329e2975b85bd1da/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] CD Maxaquene vs Black Bulls
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4wyrn4h657knq86" tvg-name="Adams Sam Beek vs Wattenscheid 09" tvg-logo="https://img.rapid-api.icu/football/team/5ddbf433cf25fab49f9dcb9827376ed2/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Adams Sam Beek vs Wattenscheid 09
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4wyrn4h65ok6q86" tvg-name="Power Dynamos vs Red Arrows" tvg-logo="https://img.rapid-api.icu/football/team/4d6d8cd2506bf381ddf102be38031e39/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Power Dynamos vs Red Arrows
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4wyrn4h66p2kq86" tvg-name="Standard Liege II vs Schaerbeek Evere" tvg-logo="https://img.rapid-api.icu/football/team/90f475dc691a395d07b75b38ae35fe1c/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Standard Liege II vs Schaerbeek Evere
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4wyrn4h679g8q86" tvg-name="Gomora United FC vs Kruger United" tvg-logo="https://img.rapid-api.icu/football/team/19ddebb88db07a7c28608524adc3408f/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Gomora United FC vs Kruger United
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4wyrn4h69ge5q86" tvg-name="Creil(U19) vs Valenciennes US U19" tvg-logo="https://img.rapid-api.icu/football/team/82ba6219b6cfc93a5c669be4685215c6/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Creil(U19) vs Valenciennes US U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="4wyrn4h6w6gxq86" tvg-name="Dinamo Samarqand vs FK Gazalkent" tvg-logo="https://img.rapid-api.icu/football/team/f163953f64e9b71295fd535a2a54314e/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Dinamo Samarqand vs FK Gazalkent
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="6ypq3nhv7wx6md7" tvg-name="Dynamos FC vs CAPS United" tvg-logo="https://img.rapid-api.icu/football/team/c8b73465df1a955fbc6163f0874daccb/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Dynamos FC vs CAPS United
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="6ypq3nhve06gmd7" tvg-name="Pamba Jiji vs Dodoma Jiji FC" tvg-logo="https://img.rapid-api.icu/football/team/b0bbc607cb9bf93558e4bd92d975d4a7/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Pamba Jiji vs Dodoma Jiji FC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="6ypq3nhvnjp7md7" tvg-name="Iganga United vs Bright Stars" tvg-logo="https://img.rapid-api.icu/football/team/748a9b04720fe93101628e33f4e9be24/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Iganga United vs Bright Stars
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="6ypq3nhvp3n7md7" tvg-name="Kopetdag Asgabat vs Arkadag FK" tvg-logo="https://img.rapid-api.icu/football/team/83c60ed2ecd63890f7a327ac6424b5f5/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Kopetdag Asgabat vs Arkadag FK
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="6ypq3nhvp420md7" tvg-name="Duren vs Siegburger SV 04" tvg-logo="https://img.rapid-api.icu/football/team/1106686c5ebf54a13debfdf505cc53b7/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Duren vs Siegburger SV 04
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="6ypq3nhvpg4pmd7" tvg-name="A.C. Crema 1908 vs Tropical Coriano" tvg-logo="https://img.rapid-api.icu/football/team/333ca9a1c0f3f0de836c9017554ee62b/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] A.C. Crema 1908 vs Tropical Coriano
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="8yomo4h11j9pq0j" tvg-name="Naftan Novopolotsk vs BATE Borisov" tvg-logo="https://img.rapid-api.icu/football/team/7a6a1c34fa767be51cb06f4a39ba6b4e/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Naftan Novopolotsk vs BATE Borisov
-https://dlqcalr.alilicloud.com/live/37705e508c4fe74342ebee12d1c0ffaa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h16394q0j" tvg-name="Cliftonville LFC Women vs Athlone Town AFC Women" tvg-logo="https://img.rapid-api.icu/football/team/9511ff6d052f91a3eb1210de53b713fa/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Cliftonville LFC Women vs Athlone Town AFC Women
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="8yomo4h165weq0j" tvg-name="FC Verden 04 vs SV Meppen II" tvg-logo="https://img.rapid-api.icu/football/team/967e26ccb09e54a5b316fd7ef3aae526/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Verden 04 vs SV Meppen II
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="8yomo4h16958q0j" tvg-name="AC Vigasio vs ASD San Luigi Calcio" tvg-logo="https://img.rapid-api.icu/football/team/f5f4cf86861bf614d3ba1d944ce69c78/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] AC Vigasio vs ASD San Luigi Calcio
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="8yomo4h16998q0j" tvg-name="Vibonese vs Acireale" tvg-logo="https://img.rapid-api.icu/football/team/3c2e28e484d4adb8711b1626ef21fe00/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Vibonese vs Acireale
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="8yomo4h182p6q0j" tvg-name="Fram Larvik vs Orn-Horten" tvg-logo="https://img.rapid-api.icu/football/team/d59513b180b6c783b05a60274b25315e/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Fram Larvik vs Orn-Horten
-https://dlqcalr.alilicloud.com/live/7cd5549a9eb4d92fd4f1f52fc49a2125/playlist.m3u8
-
-#EXTINF:-1 tvg-id="8yomo4h18e53q0j" tvg-name="Baltika-2 Kaliningrad vs FC Iskra Smolensk" tvg-logo="https://img.rapid-api.icu/football/team/ae31ae280e700597b64a33eb56da2b9c/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Baltika-2 Kaliningrad vs FC Iskra Smolensk
-https://dlqcalr.alilicloud.com/live/a0e184347d532a9596377c3d7a461e69/playlist.m3u8
-
-#EXTINF:-1 tvg-id="965mkyhk011er1g" tvg-name="Anzio Calcio 1924 vs Real Monterotondo" tvg-logo="https://img.rapid-api.icu/football/team/b8f44e101016a392756c39ea476e6706/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Anzio Calcio 1924 vs Real Monterotondo
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="965mkyhk0261r1g" tvg-name="FC Flenu vs Stade Vervietois" tvg-logo="https://img.rapid-api.icu/football/team/bf4dc802f0c479f1fd9e2fce268e03be/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Flenu vs Stade Vervietois
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="965mkyhk0g6kr1g" tvg-name="SpVg Schonnebeck vs Uerdingen KFC 05" tvg-logo="https://img.rapid-api.icu/football/team/f37ddc89d237246ff81763a2e7c8583a/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] SpVg Schonnebeck vs Uerdingen KFC 05
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="965mkyhk8ovlr1g" tvg-name="Partick Thistle Women vs Glasgow Rangers Women" tvg-logo="https://img.rapid-api.icu/football/team/180f34372f0da6829e92dc5b43dc5020/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Partick Thistle Women vs Glasgow Rangers Women
-https://dlqcalr.alilicloud.com/live/29cce837a92848f4b7a772f6e6caa837/playlist.m3u8
-
-#EXTINF:-1 tvg-id="965mkyhkkd10r1g" tvg-name="RAEC Mons vs RFC Meux" tvg-logo="https://img.rapid-api.icu/football/team/986dacd9a0e8ecbcbd08bdb8e140d140/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] RAEC Mons vs RFC Meux
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="965mkyhko60pr1g" tvg-name="Kataka FC vs Young Elephant FC" tvg-logo="https://img.rapid-api.icu/football/team/26d8c155012cf3ea3cbc11abdf180a54/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Kataka FC vs Young Elephant FC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="965mkyhkwl02r1g" tvg-name="FC Saturn Ramenskoe vs Strogino Moscow" tvg-logo="https://img.rapid-api.icu/football/team/a6829c354ec49afd971eb1e90c0635fd/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Saturn Ramenskoe vs Strogino Moscow
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="965mkyhkzp56r1g" tvg-name="Saint Priest U19 vs SC Schiltigheim(U19)" tvg-logo="https://img.rapid-api.icu/football/team/45465a213e66cf3086d49383400bca6d/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Saint Priest U19 vs SC Schiltigheim(U19)
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="965mkyhkzp9gr1g" tvg-name="Beaucouze U19 vs Nantes U19" tvg-logo="https://img.rapid-api.icu/football/team/20484ca3704b22bf98119bc7cf3434a7/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Beaucouze U19 vs Nantes U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dj2ryohl955lq1z" tvg-name="Reggina vs Athletic Palermo" tvg-logo="https://img.rapid-api.icu/football/team/40768a174b7d7c26a8ec60646ac6f55d/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Reggina vs Athletic Palermo
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dj2ryohl95dlq1z" tvg-name="Legnago Salus vs AC Este" tvg-logo="https://img.rapid-api.icu/football/team/d9cf9cd668da80e438526298b43c211d/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Legnago Salus vs AC Este
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dj2ryohl9dzwq1z" tvg-name="FC Hansa Luneburg vs SV Wilhelmshaven" tvg-logo="https://img.rapid-api.icu/football/team/c53cb880798dc25f2a2331243643ef1c/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Hansa Luneburg vs SV Wilhelmshaven
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dj2ryohld28nq1z" tvg-name="The Bees FC vs JDR Stars" tvg-logo="https://img.rapid-api.icu/football/team/a10627e4037fdbb619c212f1bc8bd851/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] The Bees FC vs JDR Stars
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dj2ryohlpz82q1z" tvg-name="Gor Mahia vs Kenya Police FC" tvg-logo="https://img.rapid-api.icu/football/team/f707ac4739f25ebc238db57814f3b51e/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Gor Mahia vs Kenya Police FC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dj2ryohlxz95q1z" tvg-name="Blacks Power FC vs Nebbi Central FC" tvg-logo="https://img.rapid-api.icu/football/team/975229703063485069ed30db0ba4473b/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Blacks Power FC vs Nebbi Central FC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dj2ryohlyg57q1z" tvg-name="Burnley vs Aston Villa" tvg-logo="https://img.rapid-api.icu/football/team/af1909e1b4e839d8980981cf2cdedc02/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Burnley vs Aston Villa
-https://dlqcalr.alilicloud.com/live/285c827b0f66bd7b665cd2f64f5e127c/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dn1m1ghl1604moe" tvg-name="Dijon U19 vs Auxerre U19" tvg-logo="https://img.rapid-api.icu/football/team/f43f2bc323130c811a4d5b9d0a9899f4/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Dijon U19 vs Auxerre U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dn1m1ghl16exmoe" tvg-name="Lille U19 vs FC Chartres U19" tvg-logo="https://img.rapid-api.icu/football/team/78c2657ad68d8c1167b2384767601173/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Lille U19 vs FC Chartres U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dn1m1ghlgk1nmoe" tvg-name="Ferroviario de Nampula vs Baia de Pemba F.C" tvg-logo="https://img.rapid-api.icu/football/team/0c03c21b018b7ccb6cd3844546f10769/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Ferroviario de Nampula vs Baia de Pemba F.C
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dn1m1ghlgkkkmoe" tvg-name="Citta di Fasano vs Paganese" tvg-logo="https://img.rapid-api.icu/football/team/4dd7828fa3685296de50dace191083ce/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Citta di Fasano vs Paganese
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dn1m1ghlgkokmoe" tvg-name="Ligorna vs Chisola" tvg-logo="https://img.rapid-api.icu/football/team/ce766681fc3a1519400cf942bddcd7df/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Ligorna vs Chisola
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dn1m1ghlgowdmoe" tvg-name="TuS Hiltrup vs Rot Weiss Ahlen" tvg-logo="https://img.rapid-api.icu/football/team/c5674d647be05c8048391b626f125bdd/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] TuS Hiltrup vs Rot Weiss Ahlen
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dn1m1ghlly7jmoe" tvg-name="Union Saint-Gilloise II vs Stockay-Warfusee" tvg-logo="https://img.rapid-api.icu/football/team/29709280b8a4fe1bc6357dbad9b731ae/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Union Saint-Gilloise II vs Stockay-Warfusee
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dn1m1ghlnjkwmoe" tvg-name="FC Coffrane vs Echallens" tvg-logo="https://img.rapid-api.icu/football/team/b98fe24ad04c0a03919120a2e32c646a/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Coffrane vs Echallens
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="dn1m1ghlo16vmoe" tvg-name="Cape Town City FC vs Baroka FC" tvg-logo="https://img.rapid-api.icu/football/team/75bb22435d7043e18b03296a8de321ac/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Cape Town City FC vs Baroka FC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="ednm9vho5zx5qyo" tvg-name="Sada Cruzeiro vs Volei Renata" tvg-logo="https://img.rapid-api.icu/volleyball/team/40809c8396834a3bfb23223b874cfe39/image/small" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Sada Cruzeiro vs Volei Renata
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="ednm9whw29vzryo" tvg-name="IK Uppsala Women vs Vittsjo GIK Women" tvg-logo="https://img.rapid-api.icu/football/team/f955da850c6890db0af068ec189171a3/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] IK Uppsala Women vs Vittsjo GIK Women
-https://dlqcalr.alilicloud.com/live/ab942fd491f80ad0de2db26c07d7e104/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whw5054ryo" tvg-name="FC Botosani vs Petrolul Ploiesti" tvg-logo="https://img.rapid-api.icu/football/team/0e22e598d5f4a5ee04fec88c905b897b/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Botosani vs Petrolul Ploiesti
-https://dlqcalr.alilicloud.com/live/ec872aaa2ac15c5e5e06f6383ff8091f/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whw51n5ryo" tvg-name="Kyzyltash Bakhchysarai vs PSK Dinskoy Rayon" tvg-logo="https://img.rapid-api.icu/football/team/2114cb4fa95c52c669ba9c15b2653eef/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Kyzyltash Bakhchysarai vs PSK Dinskoy Rayon
-https://dlqcalr.alilicloud.com/live/d0e8e7177aa4566ac69058523102f472/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwe1leryo" tvg-name="USSA Vertou U19 vs Guingamp U19" tvg-logo="https://img.rapid-api.icu/football/team/3bb70be47b746000569fa23e2d05aaa7/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] USSA Vertou U19 vs Guingamp U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="ednm9whwe1xnryo" tvg-name="Clermont U19 vs Metz U19" tvg-logo="https://img.rapid-api.icu/football/team/56b2eaa49a6cb30db7d6ff7298996473/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Clermont U19 vs Metz U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="ednm9whwonyxryo" tvg-name="Arba Minch vs Wolaita Dicha" tvg-logo="https://img.rapid-api.icu/football/team/faad10bc7eb7d4a8a7728308d62bc5cd/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Arba Minch vs Wolaita Dicha
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="ednm9whwozgwryo" tvg-name="Varhaug vs Mandalskameratene" tvg-logo="https://img.rapid-api.icu/football/team/e34f2d0f8fddf1cac04f85c2c8518a76/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Varhaug vs Mandalskameratene
-https://dlqcalr.alilicloud.com/live/e47855caf0bc2e384d347f575bbe2155/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ednm9whwp23dryo" tvg-name="Rupel Boom vs Londerzeel SK" tvg-logo="https://img.rapid-api.icu/football/team/d2cbc64d23490498a0b578cba32966cc/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Rupel Boom vs Londerzeel SK
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="ednm9whwp66zryo" tvg-name="Teramo vs ASD Atletico Ascoli" tvg-logo="https://img.rapid-api.icu/football/team/24bbe5396d616b59c31f9182f1133f1e/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Teramo vs ASD Atletico Ascoli
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="ednm9whwpd37ryo" tvg-name="TSV Meerbusch vs SV Biemenhorst" tvg-logo="https://img.rapid-api.icu/football/team/fd4c84f2d8a64bbc01ca04839d4f5fb0/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] TSV Meerbusch vs SV Biemenhorst
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="jw2r09hk18nvrz8" tvg-name="Quevilly US U19 vs Sarcelles(U19)" tvg-logo="https://img.rapid-api.icu/football/team/2766edd822272efa6fe80c350ddd021e/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Quevilly US U19 vs Sarcelles(U19)
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="jw2r09hkg711rz8" tvg-name="Costa do Sol Maputo vs Ferroviario Maputo" tvg-logo="https://img.rapid-api.icu/football/team/4d49f82c228c164f18c7ee81c12dfe40/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Costa do Sol Maputo vs Ferroviario Maputo
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="jw2r09hkg776rz8" tvg-name="SS Nola 1925 vs Heraclea" tvg-logo="https://img.rapid-api.icu/football/team/e7010b7b90aed88f442a9419c7af84f1/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] SS Nola 1925 vs Heraclea
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="jw2r09hkg7p6rz8" tvg-name="Chievo vs Milan Futuro" tvg-logo="https://img.rapid-api.icu/football/team/eaf77d7caf6deaf2bc76ad3ef9a135c8/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Chievo vs Milan Futuro
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="jw2r09hkgpozrz8" tvg-name="SV Westfalia Rhynern vs SpVgg Vreden 1921" tvg-logo="https://img.rapid-api.icu/football/team/7d8a08fb10ab750d6cb78f482a9da0db/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] SV Westfalia Rhynern vs SpVgg Vreden 1921
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="jw2r09hkp18xrz8" tvg-name="Midlands Wanderers FC vs Lerumo Lions" tvg-logo="https://img.rapid-api.icu/football/team/ed8b922bec37d83477923441fa44f59f/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Midlands Wanderers FC vs Lerumo Lions
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="jw2r09hkw4nerz8" tvg-name="Bremer SV vs VfB Oldenburg" tvg-logo="https://img.rapid-api.icu/football/team/3cbd1227b495cad85ecfd62088924204/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Bremer SV vs VfB Oldenburg
-https://dlqcalr.alilicloud.com/live/43787911f881b31fe0089e0a80985571/playlist.m3u8
-
-#EXTINF:-1 tvg-id="k82redh2x5v0qep" tvg-name="Dinskaya-RCSP vs Akademiya Kazan" tvg-logo="https://img.rapid-api.icu/volleyball/team/d48e3bc64dcf3708f6e2bf03e540f50d/image/small" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Dinskaya-RCSP vs Akademiya Kazan
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="k82rekhg1l6lrep" tvg-name="Montfermeil U19 vs Sochaux U19" tvg-logo="https://img.rapid-api.icu/football/team/014746d930b72d6161af972e934dab8a/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Montfermeil U19 vs Sochaux U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="k82rekhg1l9grep" tvg-name="Orleans US 45 U19 vs Dunkerque U19" tvg-logo="https://img.rapid-api.icu/football/team/502a8bc1b8862f5038a97ea324056c35/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Orleans US 45 U19 vs Dunkerque U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="k82rekhgegl6rep" tvg-name="FC OKMK Olmaliq vs Metallurg Bekobod" tvg-logo="https://img.rapid-api.icu/football/team/2f5b16829aeb08c7b22c241cafb0ad74/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC OKMK Olmaliq vs Metallurg Bekobod
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="k82rekhggpn4rep" tvg-name="Excelsior Virton vs Habay la Neuve" tvg-logo="https://img.rapid-api.icu/football/team/368813a09e028810ac47f9b4e6e4b827/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Excelsior Virton vs Habay la Neuve
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="k82rekhgj87erep" tvg-name="FC Eintracht Rheine vs TuS Ennepetal" tvg-logo="https://img.rapid-api.icu/football/team/9e3f5ad5c6415a75344f0ede22fd0e22/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Eintracht Rheine vs TuS Ennepetal
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="k82rekhgj8g3rep" tvg-name="Slavija Sarajevo vs Leotar" tvg-logo="https://img.rapid-api.icu/football/team/b64cf32c973d642666f750d60df53f48/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Slavija Sarajevo vs Leotar
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="k82rekhgjndjrep" tvg-name="Aigle Royal Menoua vs Dynamo de Douala" tvg-logo="https://img.rapid-api.icu/football/team/56000e01ccd38c8fddeb4109acc4732f/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Aigle Royal Menoua vs Dynamo de Douala
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="k82rekhgjnn1rep" tvg-name="ASD Monastir vs ASD Flaminia Civita Castellana" tvg-logo="https://img.rapid-api.icu/football/team/c9f6660c4e3adf249a8e637fad455512/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] ASD Monastir vs ASD Flaminia Civita Castellana
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="k82rekhgjww1rep" tvg-name="Muhanga vs Al-Hilal Omdurman" tvg-logo="https://img.rapid-api.icu/football/team/f5ba8723d7d173c4d73f8ddfe0ad9e77/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Muhanga vs Al-Hilal Omdurman
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l5ergph45pg3r8k" tvg-name="Highbury vs Hungry Lions" tvg-logo="https://img.rapid-api.icu/football/team/9060da03f9ace3edd249dc07ad74691d/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Highbury vs Hungry Lions
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l5ergph47228r8k" tvg-name="FC Sarnese 1926 vs Pompei" tvg-logo="https://img.rapid-api.icu/football/team/66dfb5a5088638cf3c58d890e790ff9a/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Sarnese 1926 vs Pompei
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l5ergph47258r8k" tvg-name="USD Castellanzese vs Varesina Calcio" tvg-logo="https://img.rapid-api.icu/football/team/f52c66bd0331f2689f825ff38d0da854/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] USD Castellanzese vs Varesina Calcio
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l5ergph472pnr8k" tvg-name="Ferroviario Beira vs UD Songo" tvg-logo="https://img.rapid-api.icu/football/team/aadae27841091aea2893f62a19c75c78/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Ferroviario Beira vs UD Songo
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l5ergph4759xr8k" tvg-name="TSG Sprockhovel vs 1. FC Gievenbeck" tvg-logo="https://img.rapid-api.icu/football/team/e332d133028eac2a62fc5919260ba984/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] TSG Sprockhovel vs 1. FC Gievenbeck
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l5ergph47892r8k" tvg-name="Betim U20 vs EC Villa Real U20" tvg-logo="https://img.rapid-api.icu/football/team/533acc3f9193dd06e673a398886b0b99/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Betim U20 vs EC Villa Real U20
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l5ergph47l1kr8k" tvg-name="Atletico Mineiro Youth vs America MG Youth" tvg-logo="https://img.rapid-api.icu/football/team/d79f8c7fa6eaf96a5be226309b2d86e7/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Atletico Mineiro Youth vs America MG Youth
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l5ergph47l4er8k" tvg-name="Hradek nad Nisou vs Brandys Nad Labem" tvg-logo="https://img.rapid-api.icu/football/team/cfa6f3f78484a00ec0d1cc07018c5ca5/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Hradek nad Nisou vs Brandys Nad Labem
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l5ergph4ln2er8k" tvg-name="Mjondalen IF vs Vidar" tvg-logo="https://img.rapid-api.icu/football/team/437e5db740d9c4355bd025d4b33b2c74/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Mjondalen IF vs Vidar
-https://dlqcalr.alilicloud.com/live/6ecf5700f2e4c9ce677a596e0a2939cf/playlist.m3u8
-
-#EXTINF:-1 tvg-id="l5ergph4pg3jr8k" tvg-name="Le Havre U19 vs Caen U19" tvg-logo="https://img.rapid-api.icu/football/team/50830e969abd4928789374dd4d0ecf59/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Le Havre U19 vs Caen U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l7oqdehg02v6r51" tvg-name="Kelantan The Real Warriors vs Johor Darul Ta'zim FC" tvg-logo="https://img.rapid-api.icu/football/team/35749ad1a84927444ebc2bf325d1c1c9/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Kelantan The Real Warriors vs Johor Darul Ta'zim FC
-https://dlqcalr.alilicloud.com/live/94e42cb74d4c17316deb4793aa86c3ce/playlist.m3u8
-
-#EXTINF:-1 tvg-id="l7oqdehg8lx9r51" tvg-name="Grorud vs Levanger FK" tvg-logo="https://img.rapid-api.icu/football/team/ecd00caf224f4d4d6e354ff14c1a369f/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Grorud vs Levanger FK
-https://dlqcalr.alilicloud.com/live/420b851d5ff59cfa95bc4a9ea73c8227/playlist.m3u8
-
-#EXTINF:-1 tvg-id="l7oqdehg9ddor51" tvg-name="Nissa FC vs Gelbison" tvg-logo="https://img.rapid-api.icu/football/team/1d550b63a8e8e015594ba53f08ca9f99/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Nissa FC vs Gelbison
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l7oqdehg9deor51" tvg-name="USD Casatese vs AC Leon Monza Brianza" tvg-logo="https://img.rapid-api.icu/football/team/9857688cc0471fdb537e4a031694e6f6/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] USD Casatese vs AC Leon Monza Brianza
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l7oqdehg9e55r51" tvg-name="TuS Bersenbruck vs Germania Egestorf" tvg-logo="https://img.rapid-api.icu/football/team/9b318cf6ca2a6c20ebb8fe5ab9b292cb/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] TuS Bersenbruck vs Germania Egestorf
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="l7oqdehge170r51" tvg-name="Milford vs Pretoria Univ" tvg-logo="https://img.rapid-api.icu/football/team/cf84fbde66548a88c09b57e2888837c6/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Milford vs Pretoria Univ
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="n54qllhnw9klqvy" tvg-name="Prato vs Siena FC" tvg-logo="https://img.rapid-api.icu/football/team/b54bd6fd671493e80de3a57625733b39/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Prato vs Siena FC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="n54qllhnw9y9qvy" tvg-name="Fauve Azur Elite vs Coton Sport" tvg-logo="https://img.rapid-api.icu/football/team/fb2739f56b3d6715082a24ffaf1a4673/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Fauve Azur Elite vs Coton Sport
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="n54qllhnwkokqvy" tvg-name="CSC 03 Kassel vs SV Weidenhausen" tvg-logo="https://img.rapid-api.icu/football/team/5810bf448122125c633d2f4ddcc1dad3/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] CSC 03 Kassel vs SV Weidenhausen
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="pxwrxlhy0261ryk" tvg-name="Hennef 05 vs Wegberg-Beeck" tvg-logo="https://img.rapid-api.icu/football/team/d488bbb805922f1a9b7ee1fd9bf0d5ea/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Hennef 05 vs Wegberg-Beeck
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="pxwrxlhy072wryk" tvg-name="Imolese vs ASD Sasso Marconi" tvg-logo="https://img.rapid-api.icu/football/team/89f60da7bdc284c784529b77e35bd488/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Imolese vs ASD Sasso Marconi
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="pxwrxlhy07w9ryk" tvg-name="Canon Yaounde vs Aigle Royal du Moungo" tvg-logo="https://img.rapid-api.icu/football/team/918a1847221f995a8cd0b56cc5a475b4/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Canon Yaounde vs Aigle Royal du Moungo
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="pxwrxlhy0je6ryk" tvg-name="Benjamin Aceval vs Encarnacion FC" tvg-logo="https://img.rapid-api.icu/football/team/32cdba3dc2f60bdd932e6c88a08714d2/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Benjamin Aceval vs Encarnacion FC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="pxwrxlhy1j7oryk" tvg-name="Crystal Palace vs Everton" tvg-logo="https://img.rapid-api.icu/football/team/a44301e93956616070928be8d6d2a30e/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Crystal Palace vs Everton
-https://dlqcalr.alilicloud.com/live/a24f40e82451080f1b61257c45a231aa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhyn94oryk" tvg-name="Rade vs Sandefjord B" tvg-logo="https://img.rapid-api.icu/football/team/017b4a8e3d5d43d8b7bda43dae24e100/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Rade vs Sandefjord B
-https://dlqcalr.alilicloud.com/live/f291d1c0ca554fabe6ef09ef495dd5fb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pxwrxlhyxjdgryk" tvg-name="Highlanders vs Triangle FC" tvg-logo="https://img.rapid-api.icu/football/team/782dc6593291c267d81a275a21293d4c/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Highlanders vs Triangle FC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="vjxm8ghe0v27r6o" tvg-name="FK Kosmos Dolgoprudny vs Sheksna Cherepovets" tvg-logo="https://img.rapid-api.icu/football/team/967013ad6f3fd2c8a68de5389f71360e/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FK Kosmos Dolgoprudny vs Sheksna Cherepovets
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="vjxm8ghe72n8r6o" tvg-name="OFI FC Women vs Panathinaikos Women" tvg-logo="https://img.rapid-api.icu/football/team/eefd4a578bfeb8299f90d9ad967ec421/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] OFI FC Women vs Panathinaikos Women
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="vjxm8ghe72z8r6o" tvg-name="TSV Sasel vs HT 16" tvg-logo="https://img.rapid-api.icu/football/team/c6e44f476ba386eeb294a24d05fc1b04/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] TSV Sasel vs HT 16
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="vjxm8ghe792dr6o" tvg-name="Pistoiese vs Piacenza" tvg-logo="https://img.rapid-api.icu/football/team/cd35d5e4dff63c70531ca5294df3ad59/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Pistoiese vs Piacenza
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="vjxm8ghe79opr6o" tvg-name="Victoria Utd Limbe vs Unisport Bafang" tvg-logo="https://img.rapid-api.icu/football/team/00c1f0150134ae6c8963741dd3c24f82/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Victoria Utd Limbe vs Unisport Bafang
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="vjxm8ghek9z9r6o" tvg-name="Sundby BK Women vs Aalborg Women" tvg-logo="https://img.rapid-api.icu/football/team/98e36d1caa4c1ee54f1cab8a670d4536/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Sundby BK Women vs Aalborg Women
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="x7lm7phj2519m2w" tvg-name="TSV 1881 Gau-Odernheim vs SV Auersmacher" tvg-logo="https://img.rapid-api.icu/football/team/d527163aab4ea70218c449242c71b998/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] TSV 1881 Gau-Odernheim vs SV Auersmacher
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="x7lm7phj2n56m2w" tvg-name="Follonica Gavorrano vs Camaiore Calcio" tvg-logo="https://img.rapid-api.icu/football/team/1d826f962454bf4037c2a56c34555bb6/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Follonica Gavorrano vs Camaiore Calcio
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="x7lm7phj2ndpm2w" tvg-name="AS Fortuna Mfou vs Colombe du Dja et Lobo" tvg-logo="https://img.rapid-api.icu/football/team/ee1314cd865d4a916e50adbafba72ffa/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] AS Fortuna Mfou vs Colombe du Dja et Lobo
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="x7lm7phj2z3vm2w" tvg-name="TPV U21 vs FC Inter U21" tvg-logo="https://img.rapid-api.icu/football/team/d71d70f37716587c9e8278edb4e00500/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] TPV U21 vs FC Inter U21
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="x7lm7phj5gg8m2w" tvg-name="Balma(U19) vs Monaco U19" tvg-logo="https://img.rapid-api.icu/football/team/03fc3228cc052b19a7d028e2422cd8fb/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Balma(U19) vs Monaco U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="x7lm7phjvg5dm2w" tvg-name="Torpedo Vladimir vs Zvezda Sint Petersburg" tvg-logo="https://img.rapid-api.icu/football/team/e2518593ae51e6f8109b54b45172e6d4/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Torpedo Vladimir vs Zvezda Sint Petersburg
-https://dlqcalr.alilicloud.com/live/badd120ed545a5cf7fd2a203e2a5ceee/playlist.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phjvpoxm2w" tvg-name="Niva Dolbizno vs FK Minsk B" tvg-logo="https://img.rapid-api.icu/football/team/fd27546de13b830ac6c6f3ee7a9a29fc/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Niva Dolbizno vs FK Minsk B
-https://dlqcalr.alilicloud.com/live/2e89a3e8f09c55c01bd2a81b98442e16/playlist.m3u8
-
-#EXTINF:-1 tvg-id="x7lm7phjxg04m2w" tvg-name="FC Istiklol Dushanbe vs Barkchi Hisor" tvg-logo="https://img.rapid-api.icu/football/team/5b4415593bb48edabbd39739ae33f195/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Istiklol Dushanbe vs Barkchi Hisor
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y0or5jh80xxoqwz" tvg-name="Bastia U19 vs Marseille U19" tvg-logo="https://img.rapid-api.icu/football/team/cb7d01434efb8c97bd8d63fb0ef3ebb2/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Bastia U19 vs Marseille U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y0or5jh85llyqwz" tvg-name="Rubin Kazan-2 vs FK Orenburg-2" tvg-logo="https://img.rapid-api.icu/football/team/91801cc5ad5f6de2b7114a8fe97d1aef/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Rubin Kazan-2 vs FK Orenburg-2
-https://dlqcalr.alilicloud.com/live/42b87e02c98b017ecf8e6f716cf06e2c/playlist.m3u8
-
-#EXTINF:-1 tvg-id="y0or5jh89x3xqwz" tvg-name="Sardor Tursunzoda vs CSKA Pamir Dushanbe" tvg-logo="https://img.rapid-api.icu/football/team/1729edecd6924067f8714b442e31eea6/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Sardor Tursunzoda vs CSKA Pamir Dushanbe
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.rapid-api.icu/football/team/fe835ae83ef47dad92b3a40f5579510b/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Fiorentina vs Genoa
-https://dlqcalr.alilicloud.com/live/40322c5c593654c94facc9a1d6f84d09/playlist.m3u8
-
-#EXTINF:-1 tvg-id="y0or5jh8o2dwqwz" tvg-name="Ntugasaze FC vs Kaaro Karungi FC" tvg-logo="https://img.rapid-api.icu/football/team/879cea72bde6b4b11010e5e2b4c07ba8/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Ntugasaze FC vs Kaaro Karungi FC
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y0or5jh8w021qwz" tvg-name="FC Giessen vs VfB Marburg" tvg-logo="https://img.rapid-api.icu/football/team/10b03bfdb6dae3181cab9298bfdf90ac/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Giessen vs VfB Marburg
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y0or5jh8wj02qwz" tvg-name="Orvietana vs Poggibonsi" tvg-logo="https://img.rapid-api.icu/football/team/9be37d9e30fd73bef8fa4eaf33973233/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Orvietana vs Poggibonsi
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y0or5jh8wjd0qwz" tvg-name="FC Gazelle vs Panthere Sportive du Nde" tvg-logo="https://img.rapid-api.icu/football/team/87923fb27ae3cdc9c4c014d22870793f/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] FC Gazelle vs Panthere Sportive du Nde
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y0or5jh8wn0zqwz" tvg-name="Sao Joao del Rei U20 vs Uberabinha U20" tvg-logo="https://img.rapid-api.icu/football/team/0da7913522fe96eaeb3b3f3238233266/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Sao Joao del Rei U20 vs Uberabinha U20
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y0or5jh8wo2yqwz" tvg-name="Inter Club dEscaldes vs La Massana" tvg-logo="https://img.rapid-api.icu/football/team/0b62b5af631514633df12df037ee32bd/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Inter Club dEscaldes vs La Massana
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y0or5jh8woyyqwz" tvg-name="Rutsiro FC vs Amagaju" tvg-logo="https://img.rapid-api.icu/football/team/83b68e13a5ee39cc080472e413db0dbf/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Rutsiro FC vs Amagaju
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y0or5jh8wzwpqwz" tvg-name="Dinamo Maksimir Women vs ŽNK Međimurje-Čakovec" tvg-logo="https://img.rapid-api.icu/football/team/3758288c3aba73cd0e89cd7cff83e08f/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Dinamo Maksimir Women vs ŽNK Međimurje-Čakovec
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y39mp1h66gp8moj" tvg-name="Royal Union Tubize-Braine vs Union Rochefortoise" tvg-logo="https://img.rapid-api.icu/football/team/b0f7fdd06e21e47fd4ec2e8fe5470ece/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Royal Union Tubize-Braine vs Union Rochefortoise
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y39mp1h66l47moj" tvg-name="Mashuk-KMV vs Torpedo Miass" tvg-logo="https://img.rapid-api.icu/football/team/d744e6ff683a20265215c760f8ed22a1/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Mashuk-KMV vs Torpedo Miass
-https://dlqcalr.alilicloud.com/live/25afabc3340ce3499d7fe0cc30e1a726/playlist.m3u8
-
-#EXTINF:-1 tvg-id="y39mp1h6975zmoj" tvg-name="Paris Saint Germain U19 vs Racing Levallois U19" tvg-logo="https://img.rapid-api.icu/football/team/30d732e90f79f027741fb21d5c777434/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Paris Saint Germain U19 vs Racing Levallois U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y39mp1h6978pmoj" tvg-name="Stade Poitevin(U19) vs Saint Lo Manche FC U19" tvg-logo="https://img.rapid-api.icu/football/team/5ee2fc67df1c8412100d4f599057b268/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Stade Poitevin(U19) vs Saint Lo Manche FC U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y39mp1h697wxmoj" tvg-name="Lyon U19 vs ASPTT Dijon U19" tvg-logo="https://img.rapid-api.icu/football/team/696a4513f108e9dbd7a28dd67580aa49/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Lyon U19 vs ASPTT Dijon U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y39mp1h6d4g3moj" tvg-name="Montrose LFC Women vs Motherwell Women" tvg-logo="https://img.rapid-api.icu/football/team/42184dd5724f5b50b702f9376a24dc2a/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Montrose LFC Women vs Motherwell Women
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y39mp1h6dj4kmoj" tvg-name="Tartu Kalev vs Parnu JK Vaprus II" tvg-logo="https://img.rapid-api.icu/football/team/138930a01bbce4fe28f5571564d1c2e2/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Tartu Kalev vs Parnu JK Vaprus II
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y39mp1h6e02wmoj" tvg-name="Sporting West Harelbeke vs Zulte-Waregem II" tvg-logo="https://img.rapid-api.icu/football/team/19a8cd076b05af3c35b3314ea969535b/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Sporting West Harelbeke vs Zulte-Waregem II
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y39mp1h6ek2dmoj" tvg-name="Arminia Bielefeld B vs SG Finnentrop/Bamenohl" tvg-logo="https://img.rapid-api.icu/football/team/990bc03d024da4f2ce804a1395c02c08/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Arminia Bielefeld B vs SG Finnentrop/Bamenohl
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y39mp1h6epp1moj" tvg-name="Ischia Isolaverde vs Olbia" tvg-logo="https://img.rapid-api.icu/football/team/9a6c6c61fe353da88700b0777edfdc29/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Ischia Isolaverde vs Olbia
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y39mp1h6ezz1moj" tvg-name="Gasogi Utd vs Etincelles" tvg-logo="https://img.rapid-api.icu/football/team/2259d6cd23ebcdbd2d8e17bd36d720cc/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Gasogi Utd vs Etincelles
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="y39mp1h6oj63moj" tvg-name="Finnsnes vs Tromso B" tvg-logo="https://img.rapid-api.icu/football/team/15d66fd8355734889990dbced26e2865/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Finnsnes vs Tromso B
-https://dlqcalr.alilicloud.com/live/acb9ddfaa5f1aa8f1eaef0a130110585/playlist.m3u8
-
-#EXTINF:-1 tvg-id="zp5rzghg18ezq82" tvg-name="Stade Briochin(U19) vs Avranches U19" tvg-logo="https://img.rapid-api.icu/football/team/a2176122ebc5e491b2c45d5495d5e796/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Stade Briochin(U19) vs Avranches U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="zp5rzghg2yygq82" tvg-name="Nice U19 vs Saint Etienne U19" tvg-logo="https://img.rapid-api.icu/football/team/9dc9aa0e051a4a69a92b4ad7a8361869/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Nice U19 vs Saint Etienne U19
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="zp5rzghgd00yq82" tvg-name="Ancona vs San Nicolo" tvg-logo="https://img.rapid-api.icu/football/team/1961270b49a0323d456348cb289524eb/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Ancona vs San Nicolo
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="zp5rzghgd0ewq82" tvg-name="Coton Sport vs Stade Renard de Melong" tvg-logo="https://img.rapid-api.icu/football/team/7422cc7fdd3f319b8f6ab2aa7ca3ba11/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Coton Sport vs Stade Renard de Melong
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="zp5rzghgd2l4q82" tvg-name="SV BW Dingden vs Schwarz-Weiss Essen" tvg-logo="https://img.rapid-api.icu/football/team/de889d84bdd6f9a7799f93b4d621e64f/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] SV BW Dingden vs Schwarz-Weiss Essen
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="zp5rzghgd54vq82" tvg-name="Independent SP U23 vs Sao Carlos U23" tvg-logo="https://img.rapid-api.icu/football/team/20a28c0b73b25657e6aad05102fb05be/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Independent SP U23 vs Sao Carlos U23
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-id="zp5rzghgd7v0q82" tvg-name="Pardubice vs MFK Karvina" tvg-logo="https://img.rapid-api.icu/football/team/b3c64d7b8fb24b1c3e5fad34fd20a7e0/image/small?v=1768601124" group-title="finished",[FINISHED 20:00 WIB 10/05/26] Pardubice vs MFK Karvina
-https://dlqcalr.alilicloud.com/live/6af3281b8501bb6e80137e72fb85e10d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="23xmvkh6w2lyqg8" tvg-name="Al Shabab Youth vs Al-Fayha Youth" tvg-logo="https://img.rapid-api.icu/football/team/8d3d662d317f9efdd7fa9eca352b86db/image/small?v=1768601124" group-title="finished",[FINISHED 20:30 WIB 10/05/26] Al Shabab Youth vs Al-Fayha Youth
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
@@ -1056,31 +474,31 @@ https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="zp5rzghgd0zvq82" tvg-name="FC 105 Libreville vs Vautour" tvg-logo="https://img.rapid-api.icu/football/team/697fa128ff1452b210ba380684c118d6/image/small?v=1768601124" group-title="finished",[FINISHED 21:30 WIB 10/05/26] FC 105 Libreville vs Vautour
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh913ykm7v" tvg-name="SC Telstar vs Heracles Almelo" tvg-logo="https://img.rapid-api.icu/football/team/27fc158ba952cb3940200e333e87cf60/image/small?v=1768601124" group-title="live",[LIVE 21:45 WIB 10/05/26] SC Telstar vs Heracles Almelo
+#EXTINF:-1 tvg-id="1l4rjnh913ykm7v" tvg-name="SC Telstar vs Heracles Almelo" tvg-logo="https://img.rapid-api.icu/football/team/27fc158ba952cb3940200e333e87cf60/image/small?v=1768601124" group-title="finished",[FINISHED 21:45 WIB 10/05/26] SC Telstar vs Heracles Almelo
 https://dlqcalr.alilicloud.com/live/310e8a3d4107744b7f65bcf98f468173/playlist.m3u8
 
-#EXTINF:-1 tvg-id="23xmvkh6og3dqg8" tvg-name="Groningen vs NEC Nijmegen" tvg-logo="https://img.rapid-api.icu/football/team/8fd8ca31b118c1317ae6c596c40ceb79/image/small?v=1768601124" group-title="live",[LIVE 21:45 WIB 10/05/26] Groningen vs NEC Nijmegen
+#EXTINF:-1 tvg-id="23xmvkh6og3dqg8" tvg-name="Groningen vs NEC Nijmegen" tvg-logo="https://img.rapid-api.icu/football/team/8fd8ca31b118c1317ae6c596c40ceb79/image/small?v=1768601124" group-title="finished",[FINISHED 21:45 WIB 10/05/26] Groningen vs NEC Nijmegen
 https://dlqcalr.alilicloud.com/live/57ee4b12e6ccf1edc02eeca5046d5daa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2y8m4zh5j1k5ql0" tvg-name="FC Twente Enschede vs Sparta Rotterdam" tvg-logo="https://img.rapid-api.icu/football/team/067f1cb5551b55f5355cf72a0e3a0cf9/image/small?v=1768601124" group-title="live",[LIVE 21:45 WIB 10/05/26] FC Twente Enschede vs Sparta Rotterdam
+#EXTINF:-1 tvg-id="2y8m4zh5j1k5ql0" tvg-name="FC Twente Enschede vs Sparta Rotterdam" tvg-logo="https://img.rapid-api.icu/football/team/067f1cb5551b55f5355cf72a0e3a0cf9/image/small?v=1768601124" group-title="finished",[FINISHED 21:45 WIB 10/05/26] FC Twente Enschede vs Sparta Rotterdam
 https://dlqcalr.alilicloud.com/live/50747c6e37bbe5e56927922f5041539f/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h6e9g6q86" tvg-name="NAC Breda vs SC Heerenveen" tvg-logo="https://img.rapid-api.icu/football/team/f506e4d41c22dd4c1270bf3c3be8cd29/image/small?v=1768601124" group-title="live",[LIVE 21:45 WIB 10/05/26] NAC Breda vs SC Heerenveen
+#EXTINF:-1 tvg-id="4wyrn4h6e9g6q86" tvg-name="NAC Breda vs SC Heerenveen" tvg-logo="https://img.rapid-api.icu/football/team/f506e4d41c22dd4c1270bf3c3be8cd29/image/small?v=1768601124" group-title="finished",[FINISHED 21:45 WIB 10/05/26] NAC Breda vs SC Heerenveen
 https://dlqcalr.alilicloud.com/live/5f8be17b0e92dc2d58c4203b0b9f51fd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8gheg2vyr6o" tvg-name="Fortuna Sittard vs PEC Zwolle" tvg-logo="https://img.rapid-api.icu/football/team/5b5d5d9d8116b94bc38c0d2800c7746f/image/small?v=1768601124" group-title="live",[LIVE 21:45 WIB 10/05/26] Fortuna Sittard vs PEC Zwolle
+#EXTINF:-1 tvg-id="vjxm8gheg2vyr6o" tvg-name="Fortuna Sittard vs PEC Zwolle" tvg-logo="https://img.rapid-api.icu/football/team/5b5d5d9d8116b94bc38c0d2800c7746f/image/small?v=1768601124" group-title="finished",[FINISHED 21:45 WIB 10/05/26] Fortuna Sittard vs PEC Zwolle
 https://dlqcalr.alilicloud.com/live/b7e788fcadc1dfae59d4da891bc678f7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghegxyyr6o" tvg-name="Feyenoord vs AZ Alkmaar" tvg-logo="https://img.rapid-api.icu/football/team/ca66597a76a89811682e1b620f8afaf7/image/small?v=1768601124" group-title="live",[LIVE 21:45 WIB 10/05/26] Feyenoord vs AZ Alkmaar
+#EXTINF:-1 tvg-id="vjxm8ghegxyyr6o" tvg-name="Feyenoord vs AZ Alkmaar" tvg-logo="https://img.rapid-api.icu/football/team/ca66597a76a89811682e1b620f8afaf7/image/small?v=1768601124" group-title="finished",[FINISHED 21:45 WIB 10/05/26] Feyenoord vs AZ Alkmaar
 https://dlqcalr.alilicloud.com/live/6eef6f4717734910b24e3c1c91a439a7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="y39mp1h6592ymoj" tvg-name="Go Ahead Eagles vs PSV Eindhoven" tvg-logo="https://img.rapid-api.icu/football/team/50230edc46920e07009e6dfac68b1bbf/image/small?v=1768601124" group-title="live",[LIVE 21:45 WIB 10/05/26] Go Ahead Eagles vs PSV Eindhoven
+#EXTINF:-1 tvg-id="y39mp1h6592ymoj" tvg-name="Go Ahead Eagles vs PSV Eindhoven" tvg-logo="https://img.rapid-api.icu/football/team/50230edc46920e07009e6dfac68b1bbf/image/small?v=1768601124" group-title="finished",[FINISHED 21:45 WIB 10/05/26] Go Ahead Eagles vs PSV Eindhoven
 https://dlqcalr.alilicloud.com/live/b7efeff26fb020c7639fe0f7affe22f8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="zp5rzghg718pq82" tvg-name="Excelsior SBV vs Volendam" tvg-logo="https://img.rapid-api.icu/football/team/cd9d0b089e6b16ffefacd185f7022a18/image/small?v=1768601124" group-title="live",[LIVE 21:45 WIB 10/05/26] Excelsior SBV vs Volendam
+#EXTINF:-1 tvg-id="zp5rzghg718pq82" tvg-name="Excelsior SBV vs Volendam" tvg-logo="https://img.rapid-api.icu/football/team/cd9d0b089e6b16ffefacd185f7022a18/image/small?v=1768601124" group-title="finished",[FINISHED 21:45 WIB 10/05/26] Excelsior SBV vs Volendam
 https://dlqcalr.alilicloud.com/live/0bbc25c1f8595b2281cd4b9cdefa5171/playlist.m3u8
 
-#EXTINF:-1 tvg-id="zp5rzghg72jpq82" tvg-name="AFC Ajax vs FC Utrecht" tvg-logo="https://img.rapid-api.icu/football/team/716a0a77fab7174e4aff9d46552a36e5/image/small?v=1768601124" group-title="live",[LIVE 21:45 WIB 10/05/26] AFC Ajax vs FC Utrecht
+#EXTINF:-1 tvg-id="zp5rzghg72jpq82" tvg-name="AFC Ajax vs FC Utrecht" tvg-logo="https://img.rapid-api.icu/football/team/716a0a77fab7174e4aff9d46552a36e5/image/small?v=1768601124" group-title="finished",[FINISHED 21:45 WIB 10/05/26] AFC Ajax vs FC Utrecht
 https://dlqcalr.alilicloud.com/live/163d336c8fcc27dfa6ae312230053c15/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1l4rjnh92dp8m7v" tvg-name="Real Balompedica Linense vs Conil CF" tvg-logo="https://img.rapid-api.icu/football/team/07ce8bbac4e6f09c09dd19bc6c7eef92/image/small?v=1768601124" group-title="live",[LIVE 22:00 WIB 10/05/26] Real Balompedica Linense vs Conil CF
@@ -2223,6 +1641,9 @@ https://dlqcalr.alilicloud.com/live/914195adef0be33cb2797b37eac7ae27/playlist.m3
 #EXTINF:-1 tvg-id="23xmvkh6lw1yqg8" tvg-name="Pikine vs AS Dakar Sacre Coeur" tvg-logo="https://img.rapid-api.icu/football/team/3fa89c5cc51ec5728f6c0272b6462048/image/small?v=1768601124" group-title="live",[LIVE 00:00 WIB 11/05/26] Pikine vs AS Dakar Sacre Coeur
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
+#EXTINF:-1 tvg-id="2y8m4zh5en4vql0" tvg-name="Clodiense vs ASD Brian Lignano" tvg-logo="https://img.rapid-api.icu/football/team/10402c65ff7314998c940c0cabff67a6/image/small?v=1768601124" group-title="live",[LIVE 00:00 WIB 11/05/26] Clodiense vs ASD Brian Lignano
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+
 #EXTINF:-1 tvg-id="4jwq2ghngv6xm0v" tvg-name="Sheriff Tiraspol vs Zimbru Chisinau" tvg-logo="https://img.rapid-api.icu/football/team/493f809b0b661cf753c60285721e64b3/image/small?v=1768601124" group-title="live",[LIVE 00:00 WIB 11/05/26] Sheriff Tiraspol vs Zimbru Chisinau
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
@@ -2274,6 +1695,9 @@ https://dlqcalr.alilicloud.com/live/5e724ca6d5fe1c59e8324d49c82138c1/playlist.m3
 #EXTINF:-1 tvg-id="jw2r09hk3yegrz8" tvg-name="India U17 vs Uzbekistan U17" tvg-logo="https://img.rapid-api.icu/football/team/0ac160160889e9587e33e38733d731e3/image/small?v=1768601124" group-title="live",[LIVE 00:00 WIB 11/05/26] India U17 vs Uzbekistan U17
 https://dlqcalr.alilicloud.com/live/c7053bdad5fc41b7482cf69736799f09/playlist.m3u8
 
+#EXTINF:-1 tvg-id="jw2r09hkg7p6rz8" tvg-name="Chievo vs Milan Futuro" tvg-logo="https://img.rapid-api.icu/football/team/eaf77d7caf6deaf2bc76ad3ef9a135c8/image/small?v=1768601124" group-title="live",[LIVE 00:00 WIB 11/05/26] Chievo vs Milan Futuro
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+
 #EXTINF:-1 tvg-id="k82rekhgwv52rep" tvg-name="KA Akureyri vs IBV Vestmannaeyjar" tvg-logo="https://img.rapid-api.icu/football/team/f8f4ca579c6a84dadaec6f111bfc331c/image/small?v=1768601124" group-title="live",[LIVE 00:00 WIB 11/05/26] KA Akureyri vs IBV Vestmannaeyjar
 https://dlqcalr.alilicloud.com/live/baf136bf1a7bbf6e01971278aa00303b/playlist.m3u8
 
@@ -2307,1118 +1731,1124 @@ https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="zp5rzghgd0voq82" tvg-name="Guediawaye vs US Ouakam Dakar" tvg-logo="https://img.rapid-api.icu/football/team/f5b5d089697f4b3d78560c06a1ac5e36/image/small?v=1768601124" group-title="live",[LIVE 00:00 WIB 11/05/26] Guediawaye vs US Ouakam Dakar
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="6ypq3nhv801ymd7" tvg-name="Racing Genk vs KVC Westerlo" tvg-logo="https://img.rapid-api.icu/football/team/467612285635f82e174fb2deb15a4b51/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 14m 00:15 WIB 11/05/26] Racing Genk vs KVC Westerlo
+#EXTINF:-1 tvg-id="6ypq3nhv801ymd7" tvg-name="Racing Genk vs KVC Westerlo" tvg-logo="https://img.rapid-api.icu/football/team/467612285635f82e174fb2deb15a4b51/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 8m 00:15 WIB 11/05/26] Racing Genk vs KVC Westerlo
 https://dlqcalr.alilicloud.com/live/1a506fcc23ee14f85ed4ac3a5db5a3d1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="23xmvkh6lw36qg8" tvg-name="ZED FC vs Pyramids FC" tvg-logo="https://img.rapid-api.icu/football/team/64eed976edc93d9cab5807d0ee4bb1cf/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 29m 00:30 WIB 11/05/26] ZED FC vs Pyramids FC
+#EXTINF:-1 tvg-id="23xmvkh6lw36qg8" tvg-name="ZED FC vs Pyramids FC" tvg-logo="https://img.rapid-api.icu/football/team/64eed976edc93d9cab5807d0ee4bb1cf/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 23m 00:30 WIB 11/05/26] ZED FC vs Pyramids FC
 https://dlqcalr.alilicloud.com/live/1012551d0f18b00c3f4d29af42b5923c/playlist.m3u8
 
-#EXTINF:-1 tvg-id="jw2r09hkxv12rz8" tvg-name="TSG Hoffenheim Youth vs 1. FC Saarbrücken" tvg-logo="https://img.rapid-api.icu/football/team/8d9a62cd2e4901a404481241c59a1a9b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 29m 00:30 WIB 11/05/26] TSG Hoffenheim Youth vs 1. FC Saarbrücken
+#EXTINF:-1 tvg-id="4wyrn4h65002q86" tvg-name="ASD Martina Franca vs Nardo" tvg-logo="https://img.rapid-api.icu/football/team/d1b35bb6ea036bc8ff87b4194aa40b54/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 23m 00:30 WIB 11/05/26] ASD Martina Franca vs Nardo
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+
+#EXTINF:-1 tvg-id="jw2r09hkxv12rz8" tvg-name="TSG Hoffenheim Youth vs 1. FC Saarbrücken" tvg-logo="https://img.rapid-api.icu/football/team/8d9a62cd2e4901a404481241c59a1a9b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 23m 00:30 WIB 11/05/26] TSG Hoffenheim Youth vs 1. FC Saarbrücken
 https://dlqcalr.alilicloud.com/live/4998d1eae1f32bb69ad374cca7149e9c/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pxwrxlhyegperyk" tvg-name="Kinondoni MC vs Singida Fountain Gate" tvg-logo="https://img.rapid-api.icu/football/team/9eee6ba26efd3e9b1c120cdef070f18a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 29m 00:30 WIB 11/05/26] Kinondoni MC vs Singida Fountain Gate
+#EXTINF:-1 tvg-id="pxwrxlhyegperyk" tvg-name="Kinondoni MC vs Singida Fountain Gate" tvg-logo="https://img.rapid-api.icu/football/team/9eee6ba26efd3e9b1c120cdef070f18a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 23m 00:30 WIB 11/05/26] Kinondoni MC vs Singida Fountain Gate
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghej9okr6o" tvg-name="Unia Skierniewice vs Resovia Rzeszow" tvg-logo="https://img.rapid-api.icu/football/team/2e72943772a3d6e7382ad2bd6e7155f9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 29m 00:30 WIB 11/05/26] Unia Skierniewice vs Resovia Rzeszow
+#EXTINF:-1 tvg-id="vjxm8ghej9okr6o" tvg-name="Unia Skierniewice vs Resovia Rzeszow" tvg-logo="https://img.rapid-api.icu/football/team/2e72943772a3d6e7382ad2bd6e7155f9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 23m 00:30 WIB 11/05/26] Unia Skierniewice vs Resovia Rzeszow
 https://dlqcalr.alilicloud.com/live/99e834ee5516485faa74ae36f76a67e3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="x7lm7phjov27m2w" tvg-name="NK Siroki Brijeg vs Borac Banja Luka" tvg-logo="https://img.rapid-api.icu/football/team/5ef3f938273ff1fe101ec773667ddc08/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 29m 00:30 WIB 11/05/26] NK Siroki Brijeg vs Borac Banja Luka
+#EXTINF:-1 tvg-id="x7lm7phjov27m2w" tvg-name="NK Siroki Brijeg vs Borac Banja Luka" tvg-logo="https://img.rapid-api.icu/football/team/5ef3f938273ff1fe101ec773667ddc08/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 23m 00:30 WIB 11/05/26] NK Siroki Brijeg vs Borac Banja Luka
 https://dlqcalr.alilicloud.com/live/56cbcee0d99ab33b616104f0f2a595bc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="y39mp1h65zv4moj" tvg-name="1. FSV Mainz 05 vs 1. FC Union Berlin" tvg-logo="https://img.rapid-api.icu/football/team/dd189dcf0054420b45cfd63865c62561/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 29m 00:30 WIB 11/05/26] 1. FSV Mainz 05 vs 1. FC Union Berlin
+#EXTINF:-1 tvg-id="y39mp1h65zv4moj" tvg-name="1. FSV Mainz 05 vs 1. FC Union Berlin" tvg-logo="https://img.rapid-api.icu/football/team/dd189dcf0054420b45cfd63865c62561/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 23m 00:30 WIB 11/05/26] 1. FSV Mainz 05 vs 1. FC Union Berlin
 https://dlqcalr.alilicloud.com/live/b51ed3e6da0d83915170416a8c06c573/playlist.m3u8
 
-#EXTINF:-1 tvg-id="318q66hx3795qo9" tvg-name="Union Minas vs Comerciantes FC" tvg-logo="https://img.rapid-api.icu/football/team/14673976d652636766f1c1a02ea6ebfb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 44m 00:45 WIB 11/05/26] Union Minas vs Comerciantes FC
+#EXTINF:-1 tvg-id="318q66hx3795qo9" tvg-name="Union Minas vs Comerciantes FC" tvg-logo="https://img.rapid-api.icu/football/team/14673976d652636766f1c1a02ea6ebfb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 38m 00:45 WIB 11/05/26] Union Minas vs Comerciantes FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh9d588m7v" tvg-name="Academie de FAD vs Societe Omnisports De L'Armee" tvg-logo="https://img.rapid-api.icu/football/team/2c323d69a8e27a774e365c3909a10c61/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Academie de FAD vs Societe Omnisports De L'Armee
+#EXTINF:-1 tvg-id="1l4rjnh9d588m7v" tvg-name="Academie de FAD vs Societe Omnisports De L'Armee" tvg-logo="https://img.rapid-api.icu/football/team/2c323d69a8e27a774e365c3909a10c61/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Academie de FAD vs Societe Omnisports De L'Armee
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="23xmvkh6l8p7qg8" tvg-name="Boca Juniors Women vs River Plate Women" tvg-logo="https://img.rapid-api.icu/football/team/f3b4cf6eaeea82c0ab4274198f93b04a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Boca Juniors Women vs River Plate Women
+#EXTINF:-1 tvg-id="23xmvkh6l8p7qg8" tvg-name="Boca Juniors Women vs River Plate Women" tvg-logo="https://img.rapid-api.icu/football/team/f3b4cf6eaeea82c0ab4274198f93b04a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Boca Juniors Women vs River Plate Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="23xmvkh6lpndqg8" tvg-name="Hercilio Luz SC vs Guarani de Palhoca" tvg-logo="https://img.rapid-api.icu/football/team/aff8bd68444e68cd826045ea4840a84a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Hercilio Luz SC vs Guarani de Palhoca
+#EXTINF:-1 tvg-id="23xmvkh6lpndqg8" tvg-name="Hercilio Luz SC vs Guarani de Palhoca" tvg-logo="https://img.rapid-api.icu/football/team/aff8bd68444e68cd826045ea4840a84a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Hercilio Luz SC vs Guarani de Palhoca
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5e6nxql0" tvg-name="America-RJ U20 vs Vasco da Gama Youth" tvg-logo="https://img.rapid-api.icu/football/team/bc76b43dfc96e74265916377c626c31c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] America-RJ U20 vs Vasco da Gama Youth
+#EXTINF:-1 tvg-id="2y8m4zh5e6nxql0" tvg-name="America-RJ U20 vs Vasco da Gama Youth" tvg-logo="https://img.rapid-api.icu/football/team/bc76b43dfc96e74265916377c626c31c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] America-RJ U20 vs Vasco da Gama Youth
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="318q66hx29x8qo9" tvg-name="Lexington SC Women vs Brooklyn City Women" tvg-logo="https://img.rapid-api.icu/football/team/e29869b213009c542cecafc57e84d84f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Lexington SC Women vs Brooklyn City Women
+#EXTINF:-1 tvg-id="318q66hx29x8qo9" tvg-name="Lexington SC Women vs Brooklyn City Women" tvg-logo="https://img.rapid-api.icu/football/team/e29869b213009c542cecafc57e84d84f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Lexington SC Women vs Brooklyn City Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="318q66hx34wdqo9" tvg-name="UTS Union Touarga Sport Rabat vs Maghreb Fez" tvg-logo="https://img.rapid-api.icu/football/team/569961f66563657440e775ab3428b913/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] UTS Union Touarga Sport Rabat vs Maghreb Fez
+#EXTINF:-1 tvg-id="318q66hx34wdqo9" tvg-name="UTS Union Touarga Sport Rabat vs Maghreb Fez" tvg-logo="https://img.rapid-api.icu/football/team/569961f66563657440e775ab3428b913/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] UTS Union Touarga Sport Rabat vs Maghreb Fez
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="318q66hx3wg0qo9" tvg-name="Guarulhos U23 vs Votoraty U23" tvg-logo="https://img.rapid-api.icu/football/team/2c5610177b2358c6f8baec48bd218ce0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Guarulhos U23 vs Votoraty U23
+#EXTINF:-1 tvg-id="318q66hx3wg0qo9" tvg-name="Guarulhos U23 vs Votoraty U23" tvg-logo="https://img.rapid-api.icu/football/team/2c5610177b2358c6f8baec48bd218ce0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Guarulhos U23 vs Votoraty U23
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="318q66hx3ww7qo9" tvg-name="Desportiva Alianca Youth vs Zumbi EC U23" tvg-logo="https://img.rapid-api.icu/football/team/ffd8b07a494fb2c608920159698f9c38/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Desportiva Alianca Youth vs Zumbi EC U23
+#EXTINF:-1 tvg-id="318q66hx3ww7qo9" tvg-name="Desportiva Alianca Youth vs Zumbi EC U23" tvg-logo="https://img.rapid-api.icu/football/team/ffd8b07a494fb2c608920159698f9c38/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Desportiva Alianca Youth vs Zumbi EC U23
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hng005qdy" tvg-name="Buzios vs Brescia Barra Clube" tvg-logo="https://img.rapid-api.icu/football/team/3f07f67de4050068f18175c163a45817/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Buzios vs Brescia Barra Clube
+#EXTINF:-1 tvg-id="3glrw7hng005qdy" tvg-name="Buzios vs Brescia Barra Clube" tvg-logo="https://img.rapid-api.icu/football/team/3f07f67de4050068f18175c163a45817/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Buzios vs Brescia Barra Clube
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hng7kjqdy" tvg-name="Juventude Youth vs Real SC U20" tvg-logo="https://img.rapid-api.icu/football/team/82d13527f7aa4302ce18bb71dce91e8d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Juventude Youth vs Real SC U20
+#EXTINF:-1 tvg-id="3glrw7hng7kjqdy" tvg-name="Juventude Youth vs Real SC U20" tvg-logo="https://img.rapid-api.icu/football/team/82d13527f7aa4302ce18bb71dce91e8d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Juventude Youth vs Real SC U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghn1glym0v" tvg-name="Al Ittihad Club vs Damac" tvg-logo="https://img.rapid-api.icu/football/team/c8130080c813ef1acc5189c0da0552f9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Al Ittihad Club vs Damac
+#EXTINF:-1 tvg-id="4jwq2ghn1glym0v" tvg-name="Al Ittihad Club vs Damac" tvg-logo="https://img.rapid-api.icu/football/team/c8130080c813ef1acc5189c0da0552f9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Al Ittihad Club vs Damac
 https://dlqcalr.alilicloud.com/live/c32b7e196be5c5b67aa1937b5041aa13/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h65x04q86" tvg-name="CD Soto-Ibarbaso - " tvg-logo="https://img.rapid-api.icu/football/team/6f05165023b9bdbc2724c9cef41d4296/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] CD Soto-Ibarbaso - 
+#EXTINF:-1 tvg-id="4wyrn4h65x04q86" tvg-name="CD Soto-Ibarbaso - " tvg-logo="https://img.rapid-api.icu/football/team/6f05165023b9bdbc2724c9cef41d4296/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] CD Soto-Ibarbaso - 
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="6ypq3nhvpgnpmd7" tvg-name="AE Independente vs Campos AA" tvg-logo="https://img.rapid-api.icu/football/team/72b40ba2ae13d15b9081d8204ea8fd40/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] AE Independente vs Campos AA
+#EXTINF:-1 tvg-id="6ypq3nhvpgnpmd7" tvg-name="AE Independente vs Campos AA" tvg-logo="https://img.rapid-api.icu/football/team/72b40ba2ae13d15b9081d8204ea8fd40/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] AE Independente vs Campos AA
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="8yomo4h16948q0j" tvg-name="Barra Da Tijuca RJ vs Barcelona Esportivo Capela SP" tvg-logo="https://img.rapid-api.icu/football/team/61c581906617604a89a6622b05198860/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Barra Da Tijuca RJ vs Barcelona Esportivo Capela SP
+#EXTINF:-1 tvg-id="8yomo4h16948q0j" tvg-name="Barra Da Tijuca RJ vs Barcelona Esportivo Capela SP" tvg-logo="https://img.rapid-api.icu/football/team/61c581906617604a89a6622b05198860/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Barra Da Tijuca RJ vs Barcelona Esportivo Capela SP
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohl9155q1z" tvg-name="Galicia BA (Youth) vs Jacobina U20" tvg-logo="https://img.rapid-api.icu/football/team/bdaa0e87356d0abc704a238306ae37df/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Galicia BA (Youth) vs Jacobina U20
+#EXTINF:-1 tvg-id="dj2ryohl9155q1z" tvg-name="Galicia BA (Youth) vs Jacobina U20" tvg-logo="https://img.rapid-api.icu/football/team/bdaa0e87356d0abc704a238306ae37df/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Galicia BA (Youth) vs Jacobina U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohl9gz4q1z" tvg-name="Perolas Negras Women vs Uniao Desportiva Alagoana/AL Women" tvg-logo="https://img.rapid-api.icu/football/team/b823b53c160d711ebdd5083ed72d25cb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Perolas Negras Women vs Uniao Desportiva Alagoana/AL Women
+#EXTINF:-1 tvg-id="dj2ryohl9gz4q1z" tvg-name="Perolas Negras Women vs Uniao Desportiva Alagoana/AL Women" tvg-logo="https://img.rapid-api.icu/football/team/b823b53c160d711ebdd5083ed72d25cb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Perolas Negras Women vs Uniao Desportiva Alagoana/AL Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dn1m1ghlgo55moe" tvg-name="New England Revolution B vs New York City Team B" tvg-logo="https://img.rapid-api.icu/football/team/9b028d8ca1c1876d6e0061830999e440/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] New England Revolution B vs New York City Team B
+#EXTINF:-1 tvg-id="dn1m1ghlgo55moe" tvg-name="New England Revolution B vs New York City Team B" tvg-logo="https://img.rapid-api.icu/football/team/9b028d8ca1c1876d6e0061830999e440/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] New England Revolution B vs New York City Team B
 https://dlqcalr.alilicloud.com/live/39bab6aae914276164635bddb72c9280/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dn1m1ghlgppemoe" tvg-name="Nuovo Campobasso vs Potenza" tvg-logo="https://img.rapid-api.icu/football/team/0b27a37f195f540cf5c9fe6843e26bab/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Nuovo Campobasso vs Potenza
+#EXTINF:-1 tvg-id="dn1m1ghlgppemoe" tvg-name="Nuovo Campobasso vs Potenza" tvg-logo="https://img.rapid-api.icu/football/team/0b27a37f195f540cf5c9fe6843e26bab/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Nuovo Campobasso vs Potenza
 https://dlqcalr.alilicloud.com/live/82a5d7a5a4683c6bb46d4392520e8275/playlist.m3u8
 
-#EXTINF:-1 tvg-id="jw2r09hk386zrz8" tvg-name="Itabirito Women vs Doce Mel EC Women" tvg-logo="https://img.rapid-api.icu/football/team/7028277f640144342473c0852749e123/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Itabirito Women vs Doce Mel EC Women
+#EXTINF:-1 tvg-id="jw2r09hk386zrz8" tvg-name="Itabirito Women vs Doce Mel EC Women" tvg-logo="https://img.rapid-api.icu/football/team/7028277f640144342473c0852749e123/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Itabirito Women vs Doce Mel EC Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="jw2r09hkg226rz8" tvg-name="Tamoio U20 - " tvg-logo="https://img.rapid-api.icu/football/team/b4af9fd1409c12cf3fd06bdfcda8e379/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Tamoio U20 - 
+#EXTINF:-1 tvg-id="jw2r09hkg226rz8" tvg-name="Tamoio U20 - " tvg-logo="https://img.rapid-api.icu/football/team/b4af9fd1409c12cf3fd06bdfcda8e379/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Tamoio U20 - 
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="jw2r09hkg706rz8" tvg-name="CAAC Brasil FC vs Mageense FC" tvg-logo="https://img.rapid-api.icu/football/team/21cfa6fa41c94ce64936656dae329d30/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] CAAC Brasil FC vs Mageense FC
+#EXTINF:-1 tvg-id="jw2r09hkg706rz8" tvg-name="CAAC Brasil FC vs Mageense FC" tvg-logo="https://img.rapid-api.icu/football/team/21cfa6fa41c94ce64936656dae329d30/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] CAAC Brasil FC vs Mageense FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="k82rekhgjowjrep" tvg-name="CODM Meknes vs Renaissance de Berkane" tvg-logo="https://img.rapid-api.icu/football/team/76cebb02328dc5eca7daa9b859c1c2e7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] CODM Meknes vs Renaissance de Berkane
+#EXTINF:-1 tvg-id="k82rekhgjowjrep" tvg-name="CODM Meknes vs Renaissance de Berkane" tvg-logo="https://img.rapid-api.icu/football/team/76cebb02328dc5eca7daa9b859c1c2e7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] CODM Meknes vs Renaissance de Berkane
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="k82rekhgjwxvrep" tvg-name="Atletico Morelia UMSNH vs Zitacuaro CF II" tvg-logo="https://img.rapid-api.icu/football/team/785fd30267a5c03dbad895bd356814d6/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Atletico Morelia UMSNH vs Zitacuaro CF II
+#EXTINF:-1 tvg-id="k82rekhgjwxvrep" tvg-name="Atletico Morelia UMSNH vs Zitacuaro CF II" tvg-logo="https://img.rapid-api.icu/football/team/785fd30267a5c03dbad895bd356814d6/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Atletico Morelia UMSNH vs Zitacuaro CF II
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="k82rekhgwxwprep" tvg-name="Sport Huancayo vs Juan Pablo II" tvg-logo="https://img.rapid-api.icu/football/team/0929da1ddf8e832252117abae79addeb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Sport Huancayo vs Juan Pablo II
+#EXTINF:-1 tvg-id="k82rekhgwxwprep" tvg-name="Sport Huancayo vs Juan Pablo II" tvg-logo="https://img.rapid-api.icu/football/team/0929da1ddf8e832252117abae79addeb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Sport Huancayo vs Juan Pablo II
 https://dlqcalr.alilicloud.com/live/7e7477692b0247121b37e1536951e00d/playlist.m3u8
 
-#EXTINF:-1 tvg-id="l5ergph47ller8k" tvg-name="Casarano vs Renate AC" tvg-logo="https://img.rapid-api.icu/football/team/4e7f10290f98b0c87849bcdf817b4f23/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Casarano vs Renate AC
+#EXTINF:-1 tvg-id="l5ergph47ller8k" tvg-name="Casarano vs Renate AC" tvg-logo="https://img.rapid-api.icu/football/team/4e7f10290f98b0c87849bcdf817b4f23/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Casarano vs Renate AC
 https://dlqcalr.alilicloud.com/live/dfd21b2b847c83af0e2320176879eb6a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="l5ergph4d6gkr8k" tvg-name="Itapipoca CE vs Caucaia CE" tvg-logo="https://img.rapid-api.icu/football/team/1db1d144801570926a81235628ec3de0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Itapipoca CE vs Caucaia CE
+#EXTINF:-1 tvg-id="l5ergph4d6gkr8k" tvg-name="Itapipoca CE vs Caucaia CE" tvg-logo="https://img.rapid-api.icu/football/team/1db1d144801570926a81235628ec3de0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Itapipoca CE vs Caucaia CE
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehg9881r51" tvg-name="US Pianese vs Lecco" tvg-logo="https://img.rapid-api.icu/football/team/57fd28a03c62c6f073d632f566deaab6/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] US Pianese vs Lecco
+#EXTINF:-1 tvg-id="l7oqdehg9881r51" tvg-name="US Pianese vs Lecco" tvg-logo="https://img.rapid-api.icu/football/team/57fd28a03c62c6f073d632f566deaab6/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] US Pianese vs Lecco
 https://dlqcalr.alilicloud.com/live/10dbc7e1a6447bff884d709e075ea57f/playlist.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehg9o8er51" tvg-name=" - Flamengo SP U23" tvg-logo="https://img.rapid-api.icu/football/team/64783ad2f846de9efbd1af59cd23af37/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26]  - Flamengo SP U23
+#EXTINF:-1 tvg-id="l7oqdehg9o8er51" tvg-name=" - Flamengo SP U23" tvg-logo="https://img.rapid-api.icu/football/team/64783ad2f846de9efbd1af59cd23af37/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26]  - Flamengo SP U23
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehg9oder51" tvg-name="Pague Menos U20 vs Alianca Atletica U20" tvg-logo="https://img.rapid-api.icu/football/team/d41ee9c87c5393ccbb39d1f3bebaf35d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Pague Menos U20 vs Alianca Atletica U20
+#EXTINF:-1 tvg-id="l7oqdehg9oder51" tvg-name="Pague Menos U20 vs Alianca Atletica U20" tvg-logo="https://img.rapid-api.icu/football/team/d41ee9c87c5393ccbb39d1f3bebaf35d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Pague Menos U20 vs Alianca Atletica U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhy0525ryk" tvg-name="Blumenau EC vs Fluminense SC" tvg-logo="https://img.rapid-api.icu/football/team/931c331e2467ee733eb62627acaa5b1a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Blumenau EC vs Fluminense SC
+#EXTINF:-1 tvg-id="pxwrxlhy0525ryk" tvg-name="Blumenau EC vs Fluminense SC" tvg-logo="https://img.rapid-api.icu/football/team/931c331e2467ee733eb62627acaa5b1a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Blumenau EC vs Fluminense SC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe799dr6o" tvg-name="Uniao Central vs Itaborai Profute" tvg-logo="https://img.rapid-api.icu/football/team/c61758b836a8e5a422653c7e1666a50a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Uniao Central vs Itaborai Profute
+#EXTINF:-1 tvg-id="vjxm8ghe799dr6o" tvg-name="Uniao Central vs Itaborai Profute" tvg-logo="https://img.rapid-api.icu/football/team/c61758b836a8e5a422653c7e1666a50a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Uniao Central vs Itaborai Profute
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh8w61vqwz" tvg-name="Rosario Central vs CA Independiente" tvg-logo="https://img.rapid-api.icu/football/team/702493595e0a5b17ed9b14a7158ea5c2/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Rosario Central vs CA Independiente
+#EXTINF:-1 tvg-id="y0or5jh8w61vqwz" tvg-name="Rosario Central vs CA Independiente" tvg-logo="https://img.rapid-api.icu/football/team/702493595e0a5b17ed9b14a7158ea5c2/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Rosario Central vs CA Independiente
 https://dlqcalr.alilicloud.com/live/d0300e76d7d7dbf1af45586e2ee23e60/playlist.m3u8
 
-#EXTINF:-1 tvg-id="y39mp1h6dzvzmoj" tvg-name="AD Nueve de Octubre vs CD Vargas Torres" tvg-logo="https://img.rapid-api.icu/football/team/560f5aeb9c034dd8a22ccd7804906c02/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] AD Nueve de Octubre vs CD Vargas Torres
+#EXTINF:-1 tvg-id="y39mp1h6dzvzmoj" tvg-name="AD Nueve de Octubre vs CD Vargas Torres" tvg-logo="https://img.rapid-api.icu/football/team/560f5aeb9c034dd8a22ccd7804906c02/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] AD Nueve de Octubre vs CD Vargas Torres
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h6ez4vmoj" tvg-name="Miguelense FC vs Sporting FC Teotonio" tvg-logo="https://img.rapid-api.icu/football/team/ee7479e46eaec92f2365b43c26d92243/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Miguelense FC vs Sporting FC Teotonio
+#EXTINF:-1 tvg-id="y39mp1h6ez4vmoj" tvg-name="Miguelense FC vs Sporting FC Teotonio" tvg-logo="https://img.rapid-api.icu/football/team/ee7479e46eaec92f2365b43c26d92243/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Miguelense FC vs Sporting FC Teotonio
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h6o4ndmoj" tvg-name="Maguary vs America FC Natal RN" tvg-logo="https://img.rapid-api.icu/football/team/7aa8c711475e98b84805156cc10dc7c4/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 59m 01:00 WIB 11/05/26] Maguary vs America FC Natal RN
+#EXTINF:-1 tvg-id="y39mp1h6o4ndmoj" tvg-name="Maguary vs America FC Natal RN" tvg-logo="https://img.rapid-api.icu/football/team/7aa8c711475e98b84805156cc10dc7c4/image/small?v=1768601124" group-title="upcoming",[UPCOMING 0h 53m 01:00 WIB 11/05/26] Maguary vs America FC Natal RN
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4wyrn4h6xnveq86" tvg-name="Argentino de Quilmes vs Sportivo Dock Sud" tvg-logo="https://img.rapid-api.icu/football/team/1cba4c8834b5f2452b23d26f4c9f83e0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] Argentino de Quilmes vs Sportivo Dock Sud
+#EXTINF:-1 tvg-id="4wyrn4h6xnveq86" tvg-name="Argentino de Quilmes vs Sportivo Dock Sud" tvg-logo="https://img.rapid-api.icu/football/team/1cba4c8834b5f2452b23d26f4c9f83e0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] Argentino de Quilmes vs Sportivo Dock Sud
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="8yomo4h1g494q0j" tvg-name="Club Atletico Acassuso vs Almirante Brown" tvg-logo="https://img.rapid-api.icu/football/team/1e7bb6ced9fd81287e2e9ff9207b83fa/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] Club Atletico Acassuso vs Almirante Brown
+#EXTINF:-1 tvg-id="8yomo4h1g494q0j" tvg-name="Club Atletico Acassuso vs Almirante Brown" tvg-logo="https://img.rapid-api.icu/football/team/1e7bb6ced9fd81287e2e9ff9207b83fa/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] Club Atletico Acassuso vs Almirante Brown
 https://dlqcalr.alilicloud.com/live/53c4aafe346af27d7194f425ff12e8b4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="965mkyhk0ygpr1g" tvg-name="FC San Jacinto (w) vs Defensor Sporting Women" tvg-logo="https://img.rapid-api.icu/football/team/4f4c835526f34d15c94b9b24ff05b30c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] FC San Jacinto (w) vs Defensor Sporting Women
+#EXTINF:-1 tvg-id="965mkyhk0ygpr1g" tvg-name="FC San Jacinto (w) vs Defensor Sporting Women" tvg-logo="https://img.rapid-api.icu/football/team/4f4c835526f34d15c94b9b24ff05b30c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] FC San Jacinto (w) vs Defensor Sporting Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dn1m1ghl2z9pmoe" tvg-name="Sportivo Barracas vs Deportivo Muniz" tvg-logo="https://img.rapid-api.icu/football/team/7cf24fce3c986ed95916698654a740b5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] Sportivo Barracas vs Deportivo Muniz
+#EXTINF:-1 tvg-id="dn1m1ghl2z9pmoe" tvg-name="Sportivo Barracas vs Deportivo Muniz" tvg-logo="https://img.rapid-api.icu/football/team/7cf24fce3c986ed95916698654a740b5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] Sportivo Barracas vs Deportivo Muniz
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="k82rekhgj0z6rep" tvg-name="Varzim vs CF Os Belenenses" tvg-logo="https://img.rapid-api.icu/football/team/3bdb8e023708c8316eb7298c2b2fba6f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] Varzim vs CF Os Belenenses
+#EXTINF:-1 tvg-id="k82rekhgj0z6rep" tvg-name="Varzim vs CF Os Belenenses" tvg-logo="https://img.rapid-api.icu/football/team/3bdb8e023708c8316eb7298c2b2fba6f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] Varzim vs CF Os Belenenses
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="k82rekhgw426rep" tvg-name="CA Lugano vs Puerto Nuevo" tvg-logo="https://img.rapid-api.icu/football/team/6a49a144d9e9d7af79209d790107ac3a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] CA Lugano vs Puerto Nuevo
+#EXTINF:-1 tvg-id="k82rekhgw426rep" tvg-name="CA Lugano vs Puerto Nuevo" tvg-logo="https://img.rapid-api.icu/football/team/6a49a144d9e9d7af79209d790107ac3a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] CA Lugano vs Puerto Nuevo
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph4w6nvr8k" tvg-name="Arsenal de Sarandi vs Real Pilar" tvg-logo="https://img.rapid-api.icu/football/team/6c3ca77d8c4c624e32cdaedc128c4127/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] Arsenal de Sarandi vs Real Pilar
+#EXTINF:-1 tvg-id="l5ergph4w6nvr8k" tvg-name="Arsenal de Sarandi vs Real Pilar" tvg-logo="https://img.rapid-api.icu/football/team/6c3ca77d8c4c624e32cdaedc128c4127/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] Arsenal de Sarandi vs Real Pilar
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehg98k8r51" tvg-name="FC Diarra vs Derby Académie" tvg-logo="https://img.rapid-api.icu/football/team/aec3670619d9593328c6b832be8eacc4/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] FC Diarra vs Derby Académie
+#EXTINF:-1 tvg-id="l7oqdehg98k8r51" tvg-name="FC Diarra vs Derby Académie" tvg-logo="https://img.rapid-api.icu/football/team/aec3670619d9593328c6b832be8eacc4/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] FC Diarra vs Derby Académie
 https://dlqcalr.alilicloud.com/live/5dc155bcc4d9c89e4f1f38867ffe58b5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="n54qllhn7642qvy" tvg-name="Club Lujan vs Canuelas FC" tvg-logo="https://img.rapid-api.icu/football/team/52ec2b5c75b92221ec442ed5e43200df/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] Club Lujan vs Canuelas FC
+#EXTINF:-1 tvg-id="n54qllhn7642qvy" tvg-name="Club Lujan vs Canuelas FC" tvg-logo="https://img.rapid-api.icu/football/team/52ec2b5c75b92221ec442ed5e43200df/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] Club Lujan vs Canuelas FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe5w9kr6o" tvg-name="Chacarita juniors vs Colegiales" tvg-logo="https://img.rapid-api.icu/football/team/80b77fe137bd9a10f73c816a2d9a5a97/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] Chacarita juniors vs Colegiales
+#EXTINF:-1 tvg-id="vjxm8ghe5w9kr6o" tvg-name="Chacarita juniors vs Colegiales" tvg-logo="https://img.rapid-api.icu/football/team/80b77fe137bd9a10f73c816a2d9a5a97/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] Chacarita juniors vs Colegiales
 https://dlqcalr.alilicloud.com/live/14c485380be94c739b00cb144223730a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="y0or5jh85ok1qwz" tvg-name="Juazeirense vs Centro Sportivo Alagoano" tvg-logo="https://img.rapid-api.icu/football/team/1eff490d637708d4bde944b6052dab25/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] Juazeirense vs Centro Sportivo Alagoano
+#EXTINF:-1 tvg-id="y0or5jh85ok1qwz" tvg-name="Juazeirense vs Centro Sportivo Alagoano" tvg-logo="https://img.rapid-api.icu/football/team/1eff490d637708d4bde944b6052dab25/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] Juazeirense vs Centro Sportivo Alagoano
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h6zndpmoj" tvg-name="Leandro N Alem vs Deportivo Paraguayo" tvg-logo="https://img.rapid-api.icu/football/team/2335470a197fb6ac96d54f032904f07c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] Leandro N Alem vs Deportivo Paraguayo
+#EXTINF:-1 tvg-id="y39mp1h6zndpmoj" tvg-name="Leandro N Alem vs Deportivo Paraguayo" tvg-logo="https://img.rapid-api.icu/football/team/2335470a197fb6ac96d54f032904f07c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] Leandro N Alem vs Deportivo Paraguayo
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="zp5rzghg593zq82" tvg-name="El Porvenir vs Central Cordoba De Rosario" tvg-logo="https://img.rapid-api.icu/football/team/7b5dc46a6c7a64880efc6a2b0baeba32/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 29m 01:30 WIB 11/05/26] El Porvenir vs Central Cordoba De Rosario
+#EXTINF:-1 tvg-id="zp5rzghg593zq82" tvg-name="El Porvenir vs Central Cordoba De Rosario" tvg-logo="https://img.rapid-api.icu/football/team/7b5dc46a6c7a64880efc6a2b0baeba32/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 23m 01:30 WIB 11/05/26] El Porvenir vs Central Cordoba De Rosario
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5ewwnql0" tvg-name="Cittadella vs Ravenna" tvg-logo="https://img.rapid-api.icu/football/team/1169d4648128ddc8ddd23450ae62bb17/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 44m 01:45 WIB 11/05/26] Cittadella vs Ravenna
+#EXTINF:-1 tvg-id="2y8m4zh5ewwnql0" tvg-name="Cittadella vs Ravenna" tvg-logo="https://img.rapid-api.icu/football/team/1169d4648128ddc8ddd23450ae62bb17/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 38m 01:45 WIB 11/05/26] Cittadella vs Ravenna
 https://dlqcalr.alilicloud.com/live/723c0b3cb0ee52e17a918af8c09f8361/playlist.m3u8
 
-#EXTINF:-1 tvg-id="x7lm7phjkl0xm2w" tvg-name="AC Milan vs Atalanta" tvg-logo="https://img.rapid-api.icu/football/team/3966d3256ecd330b5ab8ffd366b08039/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 44m 01:45 WIB 11/05/26] AC Milan vs Atalanta
+#EXTINF:-1 tvg-id="x7lm7phjkl0xm2w" tvg-name="AC Milan vs Atalanta" tvg-logo="https://img.rapid-api.icu/football/team/3966d3256ecd330b5ab8ffd366b08039/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 38m 01:45 WIB 11/05/26] AC Milan vs Atalanta
 https://dlqcalr.alilicloud.com/live/f9acb26173c5dca63bdd8d951fd6ab63/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh9glnkm7v" tvg-name="Portuguesa Carioca vs Ah so Santa SP" tvg-logo="https://img.rapid-api.icu/football/team/6e863d2bdab576d792877b9405ac8754/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Portuguesa Carioca vs Ah so Santa SP
+#EXTINF:-1 tvg-id="1l4rjnh9glnkm7v" tvg-name="Portuguesa Carioca vs Ah so Santa SP" tvg-logo="https://img.rapid-api.icu/football/team/6e863d2bdab576d792877b9405ac8754/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Portuguesa Carioca vs Ah so Santa SP
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh9ze9zm7v" tvg-name="FC Barcelona vs Real Madrid" tvg-logo="https://img.rapid-api.icu/football/team/683ba5a81b069af0a3fa8303cbf67de7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] FC Barcelona vs Real Madrid
+#EXTINF:-1 tvg-id="1l4rjnh9ze9zm7v" tvg-name="FC Barcelona vs Real Madrid" tvg-logo="https://img.rapid-api.icu/football/team/683ba5a81b069af0a3fa8303cbf67de7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] FC Barcelona vs Real Madrid
 https://dlqcalr.alilicloud.com/live/c9b07dc29becc27e82574076a04c8367/playlist.m3u8
 
-#EXTINF:-1 tvg-id="23xmvkh6p3vzqg8" tvg-name="Remo - PA vs Palmeiras - SP" tvg-logo="https://img.rapid-api.icu/football/team/438db304f6e062b448af0b797d335c7b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Remo - PA vs Palmeiras - SP
+#EXTINF:-1 tvg-id="23xmvkh6p3vzqg8" tvg-name="Remo - PA vs Palmeiras - SP" tvg-logo="https://img.rapid-api.icu/football/team/438db304f6e062b448af0b797d335c7b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Remo - PA vs Palmeiras - SP
 https://dlqcalr.alilicloud.com/live/c6a991404e8ee325fbb33f8a3b856026/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2y8m4zh57pe9ql0" tvg-name="Fluminense PI vs Uniclinic Atletico Cearense CE" tvg-logo="https://img.rapid-api.icu/football/team/5f84963df1bc30d389558db77532506a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Fluminense PI vs Uniclinic Atletico Cearense CE
+#EXTINF:-1 tvg-id="2y8m4zh57pe9ql0" tvg-name="Fluminense PI vs Uniclinic Atletico Cearense CE" tvg-logo="https://img.rapid-api.icu/football/team/5f84963df1bc30d389558db77532506a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Fluminense PI vs Uniclinic Atletico Cearense CE
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5j65pql0" tvg-name="Angers SCO vs RC Strasbourg Alsace" tvg-logo="https://img.rapid-api.icu/football/team/94c57ecffeb69086fa13f9ef5d8dfa95/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Angers SCO vs RC Strasbourg Alsace
+#EXTINF:-1 tvg-id="2y8m4zh5j65pql0" tvg-name="Angers SCO vs RC Strasbourg Alsace" tvg-logo="https://img.rapid-api.icu/football/team/94c57ecffeb69086fa13f9ef5d8dfa95/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Angers SCO vs RC Strasbourg Alsace
 https://dlqcalr.alilicloud.com/live/795dc4f63a1ac7f8674c8f1e5a38650b/playlist.m3u8
 
-#EXTINF:-1 tvg-id="318q66hx1g16qo9" tvg-name="EC Jacuipense vs CS Esportivo AL" tvg-logo="https://img.rapid-api.icu/football/team/953a8a31a0679559ef3bd9ef3ded5870/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] EC Jacuipense vs CS Esportivo AL
+#EXTINF:-1 tvg-id="318q66hx1g16qo9" tvg-name="EC Jacuipense vs CS Esportivo AL" tvg-logo="https://img.rapid-api.icu/football/team/953a8a31a0679559ef3bd9ef3ded5870/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] EC Jacuipense vs CS Esportivo AL
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="318q66hx1gd3qo9" tvg-name="Cianorte PR vs São Luiz" tvg-logo="https://img.rapid-api.icu/football/team/c24b472a464558b69526986bf33bae8e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Cianorte PR vs São Luiz
+#EXTINF:-1 tvg-id="318q66hx1gd3qo9" tvg-name="Cianorte PR vs São Luiz" tvg-logo="https://img.rapid-api.icu/football/team/c24b472a464558b69526986bf33bae8e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Cianorte PR vs São Luiz
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hn17n4qdy" tvg-name="Metz vs Lorient" tvg-logo="https://img.rapid-api.icu/football/team/33208325b1f18379fda6d617c78e78f1/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Metz vs Lorient
+#EXTINF:-1 tvg-id="3glrw7hn17n4qdy" tvg-name="Metz vs Lorient" tvg-logo="https://img.rapid-api.icu/football/team/33208325b1f18379fda6d617c78e78f1/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Metz vs Lorient
 https://dlqcalr.alilicloud.com/live/d18702ded10594f957ed06357878a46f/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3glrw7hn9p5jqdy" tvg-name="Tuna Luso vs Tocantinopolis" tvg-logo="https://img.rapid-api.icu/football/team/c923e76a1505abd1f85be719a556bf7b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Tuna Luso vs Tocantinopolis
+#EXTINF:-1 tvg-id="3glrw7hn9p5jqdy" tvg-name="Tuna Luso vs Tocantinopolis" tvg-logo="https://img.rapid-api.icu/football/team/c923e76a1505abd1f85be719a556bf7b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Tuna Luso vs Tocantinopolis
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hnnzwyqdy" tvg-name="Nautico (PE) vs America MG" tvg-logo="https://img.rapid-api.icu/football/team/94a12ba18e275e878ec171ea5e761bd7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Nautico (PE) vs America MG
+#EXTINF:-1 tvg-id="3glrw7hnnzwyqdy" tvg-name="Nautico (PE) vs America MG" tvg-logo="https://img.rapid-api.icu/football/team/94a12ba18e275e878ec171ea5e761bd7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Nautico (PE) vs America MG
 https://dlqcalr.alilicloud.com/live/69a11ea6ced65f514f686bd17f08d1cf/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6c0a132d7471429a8e257f9b185cf5c0" tvg-name="FC Barcelona vs Real Madrid" tvg-logo="https://img.rapid-api.icu/football/team/683ba5a81b069af0a3fa8303cbf67de7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] FC Barcelona vs Real Madrid
+#EXTINF:-1 tvg-id="6c0a132d7471429a8e257f9b185cf5c0" tvg-name="FC Barcelona vs Real Madrid" tvg-logo="https://img.rapid-api.icu/football/team/683ba5a81b069af0a3fa8303cbf67de7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] FC Barcelona vs Real Madrid
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="6ypq3nhv53v3md7" tvg-name="Havre Athletic Club vs Marseille" tvg-logo="https://img.rapid-api.icu/football/team/461d2b18754c35e75deb99e1e6273ee9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Havre Athletic Club vs Marseille
+#EXTINF:-1 tvg-id="6ypq3nhv53v3md7" tvg-name="Havre Athletic Club vs Marseille" tvg-logo="https://img.rapid-api.icu/football/team/461d2b18754c35e75deb99e1e6273ee9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Havre Athletic Club vs Marseille
 https://dlqcalr.alilicloud.com/live/2e3e4d40563acec2bf24d622b8dbf424/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ypq3nhv7ng7md7" tvg-name="Agropecuario de Carlos Casares vs Atletico Atlanta" tvg-logo="https://img.rapid-api.icu/football/team/0b3b472aa536e06a000075ecc57f1014/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Agropecuario de Carlos Casares vs Atletico Atlanta
+#EXTINF:-1 tvg-id="6ypq3nhv7ng7md7" tvg-name="Agropecuario de Carlos Casares vs Atletico Atlanta" tvg-logo="https://img.rapid-api.icu/football/team/0b3b472aa536e06a000075ecc57f1014/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Agropecuario de Carlos Casares vs Atletico Atlanta
 https://dlqcalr.alilicloud.com/live/2cb5beb6c72986cff70a75b0cbc8e0e2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ypq3nhvp77nmd7" tvg-name="US Casertana 1908 vs Salernitana" tvg-logo="https://img.rapid-api.icu/football/team/48df0778cd1e18462cadf8d11832f3a0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] US Casertana 1908 vs Salernitana
+#EXTINF:-1 tvg-id="6ypq3nhvp77nmd7" tvg-name="US Casertana 1908 vs Salernitana" tvg-logo="https://img.rapid-api.icu/football/team/48df0778cd1e18462cadf8d11832f3a0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] US Casertana 1908 vs Salernitana
 https://dlqcalr.alilicloud.com/live/d3b1fb77fde1a8c0e961223ce15644b4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ypq3nhvpg17md7" tvg-name="San Luis FC Women vs Huracan Women" tvg-logo="https://img.rapid-api.icu/football/team/331e32b2d879228e7cd037fa8f87ba89/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] San Luis FC Women vs Huracan Women
+#EXTINF:-1 tvg-id="6ypq3nhvpg17md7" tvg-name="San Luis FC Women vs Huracan Women" tvg-logo="https://img.rapid-api.icu/football/team/331e32b2d879228e7cd037fa8f87ba89/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] San Luis FC Women vs Huracan Women
 https://dlqcalr.alilicloud.com/live/87820691fd1f343dd1199e4408bb2abc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8yomo4h1k31gq0j" tvg-name="AJ Auxerre vs OGC Nice" tvg-logo="https://img.rapid-api.icu/football/team/2cf08b06e0f01830d1d6eecc81840c37/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] AJ Auxerre vs OGC Nice
+#EXTINF:-1 tvg-id="8yomo4h1k31gq0j" tvg-name="AJ Auxerre vs OGC Nice" tvg-logo="https://img.rapid-api.icu/football/team/2cf08b06e0f01830d1d6eecc81840c37/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] AJ Auxerre vs OGC Nice
 https://dlqcalr.alilicloud.com/live/e26ec0f2f0245ca8868f17e6009ec309/playlist.m3u8
 
-#EXTINF:-1 tvg-id="965mkyhk0y5pr1g" tvg-name="Real Juventud San Joaquin vs AC Colina" tvg-logo="https://img.rapid-api.icu/football/team/c3a457e741f10c2af99bb1a39d203f04/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Real Juventud San Joaquin vs AC Colina
+#EXTINF:-1 tvg-id="965mkyhk0y5pr1g" tvg-name="Real Juventud San Joaquin vs AC Colina" tvg-logo="https://img.rapid-api.icu/football/team/c3a457e741f10c2af99bb1a39d203f04/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Real Juventud San Joaquin vs AC Colina
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="965mkyhkwo01r1g" tvg-name="Central SC vs ABC RN" tvg-logo="https://img.rapid-api.icu/football/team/95632f4e5245049e1da9c7797145ba7e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Central SC vs ABC RN
+#EXTINF:-1 tvg-id="965mkyhkwo01r1g" tvg-name="Central SC vs ABC RN" tvg-logo="https://img.rapid-api.icu/football/team/95632f4e5245049e1da9c7797145ba7e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Central SC vs ABC RN
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="965mkyhkwo9kr1g" tvg-name="Rio Branco-ES vs Tombense" tvg-logo="https://img.rapid-api.icu/football/team/02106640518dba724d11a53a4b58a762/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Rio Branco-ES vs Tombense
+#EXTINF:-1 tvg-id="965mkyhkwo9kr1g" tvg-name="Rio Branco-ES vs Tombense" tvg-logo="https://img.rapid-api.icu/football/team/02106640518dba724d11a53a4b58a762/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Rio Branco-ES vs Tombense
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dn1m1ghlx092moe" tvg-name="Vitoria ES vs Democrata" tvg-logo="https://img.rapid-api.icu/football/team/acd10e446b030e3b3bdd7b75c0a2c628/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Vitoria ES vs Democrata
+#EXTINF:-1 tvg-id="dn1m1ghlx092moe" tvg-name="Vitoria ES vs Democrata" tvg-logo="https://img.rapid-api.icu/football/team/acd10e446b030e3b3bdd7b75c0a2c628/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Vitoria ES vs Democrata
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dn1m1ghlx0x2moe" tvg-name="Imperatriz(MA) vs Trem-AP" tvg-logo="https://img.rapid-api.icu/football/team/325d88d24669093899ae531ad37bc7ca/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Imperatriz(MA) vs Trem-AP
+#EXTINF:-1 tvg-id="dn1m1ghlx0x2moe" tvg-name="Imperatriz(MA) vs Trem-AP" tvg-logo="https://img.rapid-api.icu/football/team/325d88d24669093899ae531ad37bc7ca/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Imperatriz(MA) vs Trem-AP
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dn1m1ghlx0zdmoe" tvg-name="Laguna RN vs Sousa PB" tvg-logo="https://img.rapid-api.icu/football/team/8719bb31fe4f3a546d26b7543d7ed5ac/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Laguna RN vs Sousa PB
+#EXTINF:-1 tvg-id="dn1m1ghlx0zdmoe" tvg-name="Laguna RN vs Sousa PB" tvg-logo="https://img.rapid-api.icu/football/team/8719bb31fe4f3a546d26b7543d7ed5ac/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Laguna RN vs Sousa PB
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="k82rekhgjy5vrep" tvg-name="Union La Calera vs Universidad de Chile" tvg-logo="https://img.rapid-api.icu/football/team/f1971f5f1c55f77255e83033ecab16bb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Union La Calera vs Universidad de Chile
+#EXTINF:-1 tvg-id="k82rekhgjy5vrep" tvg-name="Union La Calera vs Universidad de Chile" tvg-logo="https://img.rapid-api.icu/football/team/f1971f5f1c55f77255e83033ecab16bb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Union La Calera vs Universidad de Chile
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehg98p9r51" tvg-name="Deportivo San Pedro vs Nueva Santa Rosa CDF" tvg-logo="https://img.rapid-api.icu/football/team/0318d0760d2f9f814c0fc55f6c14b472/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Deportivo San Pedro vs Nueva Santa Rosa CDF
+#EXTINF:-1 tvg-id="l7oqdehg98p9r51" tvg-name="Deportivo San Pedro vs Nueva Santa Rosa CDF" tvg-logo="https://img.rapid-api.icu/football/team/0318d0760d2f9f814c0fc55f6c14b472/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Deportivo San Pedro vs Nueva Santa Rosa CDF
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhn3z4eqvy" tvg-name="Cascavel PR vs Joinville SC" tvg-logo="https://img.rapid-api.icu/football/team/2a3df7d30a17f69429363884efcccbff/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Cascavel PR vs Joinville SC
+#EXTINF:-1 tvg-id="n54qllhn3z4eqvy" tvg-name="Cascavel PR vs Joinville SC" tvg-logo="https://img.rapid-api.icu/football/team/2a3df7d30a17f69429363884efcccbff/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Cascavel PR vs Joinville SC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhne7n6qvy" tvg-name="Toulouse FC vs Lyon" tvg-logo="https://img.rapid-api.icu/football/team/82362be26385e396b7f8e34c94c5478f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Toulouse FC vs Lyon
+#EXTINF:-1 tvg-id="n54qllhne7n6qvy" tvg-name="Toulouse FC vs Lyon" tvg-logo="https://img.rapid-api.icu/football/team/82362be26385e396b7f8e34c94c5478f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Toulouse FC vs Lyon
 https://dlqcalr.alilicloud.com/live/3433d530c49a3e8e715fe597847a9322/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pxwrxlhy09k5ryk" tvg-name="Coquimbo Unido vs Huachipato" tvg-logo="https://img.rapid-api.icu/football/team/ddd4cd1bfdbb5b36a897b3654f8ef156/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Coquimbo Unido vs Huachipato
+#EXTINF:-1 tvg-id="pxwrxlhy09k5ryk" tvg-name="Coquimbo Unido vs Huachipato" tvg-logo="https://img.rapid-api.icu/football/team/ddd4cd1bfdbb5b36a897b3654f8ef156/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Coquimbo Unido vs Huachipato
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhyxggxryk" tvg-name="Atlético Mineiro - MG vs Botafogo - RJ" tvg-logo="https://img.rapid-api.icu/football/team/cff6a86a569115cac9c633ebced9655e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Atlético Mineiro - MG vs Botafogo - RJ
+#EXTINF:-1 tvg-id="pxwrxlhyxggxryk" tvg-name="Atlético Mineiro - MG vs Botafogo - RJ" tvg-logo="https://img.rapid-api.icu/football/team/cff6a86a569115cac9c633ebced9655e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Atlético Mineiro - MG vs Botafogo - RJ
 https://dlqcalr.alilicloud.com/live/ee3213f48d4078a8e8f52445d482b518/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghe035or6o" tvg-name="Independiente Petrolero vs Always Ready" tvg-logo="https://img.rapid-api.icu/football/team/ad90bbd052f4abdbf45097c405e6748a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Independiente Petrolero vs Always Ready
+#EXTINF:-1 tvg-id="vjxm8ghe035or6o" tvg-name="Independiente Petrolero vs Always Ready" tvg-logo="https://img.rapid-api.icu/football/team/ad90bbd052f4abdbf45097c405e6748a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Independiente Petrolero vs Always Ready
 https://dlqcalr.alilicloud.com/live/f8d4f5e272c72dbad45c0b6c5d8a70b7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghe0d88r6o" tvg-name="Crato CE vs Icasa CE" tvg-logo="https://img.rapid-api.icu/football/team/030625ef775183d522d83b414292981b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Crato CE vs Icasa CE
+#EXTINF:-1 tvg-id="vjxm8ghe0d88r6o" tvg-name="Crato CE vs Icasa CE" tvg-logo="https://img.rapid-api.icu/football/team/030625ef775183d522d83b414292981b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Crato CE vs Icasa CE
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghegle0r6o" tvg-name="AS Monaco vs LOSC Lille" tvg-logo="https://img.rapid-api.icu/football/team/5fbf361fbbfb131c219fdd30eea76bf7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] AS Monaco vs LOSC Lille
+#EXTINF:-1 tvg-id="vjxm8ghegle0r6o" tvg-name="AS Monaco vs LOSC Lille" tvg-logo="https://img.rapid-api.icu/football/team/5fbf361fbbfb131c219fdd30eea76bf7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] AS Monaco vs LOSC Lille
 https://dlqcalr.alilicloud.com/live/db40c84cd0929108139b33ac5cd5e61b/playlist.m3u8
 
-#EXTINF:-1 tvg-id="x7lm7phjv7dgm2w" tvg-name="Aguia De Maraba vs Oratorio RC" tvg-logo="https://img.rapid-api.icu/football/team/d15e7b78caa290ed60969b34f94430b8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Aguia De Maraba vs Oratorio RC
+#EXTINF:-1 tvg-id="x7lm7phjv7dgm2w" tvg-name="Aguia De Maraba vs Oratorio RC" tvg-logo="https://img.rapid-api.icu/football/team/d15e7b78caa290ed60969b34f94430b8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Aguia De Maraba vs Oratorio RC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phjv7xgm2w" tvg-name="Iguatu CE vs Moto Club Sao Luis MA" tvg-logo="https://img.rapid-api.icu/football/team/86ddaa7b7093258ceb975796f558a4aa/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Iguatu CE vs Moto Club Sao Luis MA
+#EXTINF:-1 tvg-id="x7lm7phjv7xgm2w" tvg-name="Iguatu CE vs Moto Club Sao Luis MA" tvg-logo="https://img.rapid-api.icu/football/team/86ddaa7b7093258ceb975796f558a4aa/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Iguatu CE vs Moto Club Sao Luis MA
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh84n8dqwz" tvg-name="Stade Rennais FC vs Paris FC" tvg-logo="https://img.rapid-api.icu/football/team/d519dd5e2ace978f66ab762da511373a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Stade Rennais FC vs Paris FC
+#EXTINF:-1 tvg-id="y0or5jh84n8dqwz" tvg-name="Stade Rennais FC vs Paris FC" tvg-logo="https://img.rapid-api.icu/football/team/d519dd5e2ace978f66ab762da511373a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Stade Rennais FC vs Paris FC
 https://dlqcalr.alilicloud.com/live/5e4d93ce06e44a4aa6993d423ce42328/playlist.m3u8
 
-#EXTINF:-1 tvg-id="y0or5jh8zojwqwz" tvg-name="Club Atletico Guemes vs Quilmes" tvg-logo="https://img.rapid-api.icu/football/team/8d0cfd7e01e2653473887dcee839783f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Club Atletico Guemes vs Quilmes
+#EXTINF:-1 tvg-id="y0or5jh8zojwqwz" tvg-name="Club Atletico Guemes vs Quilmes" tvg-logo="https://img.rapid-api.icu/football/team/8d0cfd7e01e2653473887dcee839783f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Club Atletico Guemes vs Quilmes
 https://dlqcalr.alilicloud.com/live/1ad52f9255cb9a1f0f116e299b8a15e3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="y39mp1h6e4ljmoj" tvg-name="Al Merreikh vs Kiyovu FC" tvg-logo="https://img.rapid-api.icu/football/team/9ef95222378bfabd4d29baafb75bb434/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Al Merreikh vs Kiyovu FC
+#EXTINF:-1 tvg-id="y39mp1h6e4ljmoj" tvg-name="Al Merreikh vs Kiyovu FC" tvg-logo="https://img.rapid-api.icu/football/team/9ef95222378bfabd4d29baafb75bb434/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Al Merreikh vs Kiyovu FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h6e9pxmoj" tvg-name="Inter Toronto FC vs Saint Lauren" tvg-logo="https://img.rapid-api.icu/football/team/da92575c31f5471a014e77916c3f35b6/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Inter Toronto FC vs Saint Lauren
+#EXTINF:-1 tvg-id="y39mp1h6e9pxmoj" tvg-name="Inter Toronto FC vs Saint Lauren" tvg-logo="https://img.rapid-api.icu/football/team/da92575c31f5471a014e77916c3f35b6/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Inter Toronto FC vs Saint Lauren
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h6ezpvmoj" tvg-name="Bradenton Academics - " tvg-logo="https://img.rapid-api.icu/football/team/c4bb636a314fe4634ed5a07b27d22399/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Bradenton Academics - 
+#EXTINF:-1 tvg-id="y39mp1h6ezpvmoj" tvg-name="Bradenton Academics - " tvg-logo="https://img.rapid-api.icu/football/team/c4bb636a314fe4634ed5a07b27d22399/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Bradenton Academics - 
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h6o4owmoj" tvg-name="Guarany de Bage vs Santa Catarina" tvg-logo="https://img.rapid-api.icu/football/team/c5e21f6c198b391d0e6946ec4112a021/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Guarany de Bage vs Santa Catarina
+#EXTINF:-1 tvg-id="y39mp1h6o4owmoj" tvg-name="Guarany de Bage vs Santa Catarina" tvg-logo="https://img.rapid-api.icu/football/team/c5e21f6c198b391d0e6946ec4112a021/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Guarany de Bage vs Santa Catarina
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phjozj2m2w" tvg-name="Paris Saint Germain vs Stade Brestois 29" tvg-logo="https://img.rapid-api.icu/football/team/b32b429dab8070299bd2eba7ee375919/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 59m 02:00 WIB 11/05/26] Paris Saint Germain vs Stade Brestois 29
+#EXTINF:-1 tvg-id="x7lm7phjozj2m2w" tvg-name="Paris Saint Germain vs Stade Brestois 29" tvg-logo="https://img.rapid-api.icu/football/team/b32b429dab8070299bd2eba7ee375919/image/small?v=1768601124" group-title="upcoming",[UPCOMING 1h 53m 02:00 WIB 11/05/26] Paris Saint Germain vs Stade Brestois 29
 https://dlqcalr.alilicloud.com/live/4bb9bfa847f660a035f0a036efee5a5b/playlist.m3u8
 
-#EXTINF:-1 tvg-id="jw2r09hk3k85rz8" tvg-name="Neftchi Fergana vs Gulistan" tvg-logo="https://img.rapid-api.icu/football/team/55e990a01a2112deef1ffaaadefd3bc8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 24m 02:25 WIB 11/05/26] Neftchi Fergana vs Gulistan
+#EXTINF:-1 tvg-id="jw2r09hk3k85rz8" tvg-name="Neftchi Fergana vs Gulistan" tvg-logo="https://img.rapid-api.icu/football/team/55e990a01a2112deef1ffaaadefd3bc8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 18m 02:25 WIB 11/05/26] Neftchi Fergana vs Gulistan
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehgxg7xr51" tvg-name="Bukhara State University vs Buxoro FK" tvg-logo="https://img.rapid-api.icu/football/team/f886fed553b1b0fd831eebc4ce5480da/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 24m 02:25 WIB 11/05/26] Bukhara State University vs Buxoro FK
+#EXTINF:-1 tvg-id="l7oqdehgxg7xr51" tvg-name="Bukhara State University vs Buxoro FK" tvg-logo="https://img.rapid-api.icu/football/team/f886fed553b1b0fd831eebc4ce5480da/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 18m 02:25 WIB 11/05/26] Bukhara State University vs Buxoro FK
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phjvxkwm2w" tvg-name="Bunyodkor - " tvg-logo="https://img.rapid-api.icu/football/team/e0c5c36610f7ab25b86dc5a1e3f830bd/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 24m 02:25 WIB 11/05/26] Bunyodkor - 
+#EXTINF:-1 tvg-id="x7lm7phjvxkwm2w" tvg-name="Bunyodkor - " tvg-logo="https://img.rapid-api.icu/football/team/e0c5c36610f7ab25b86dc5a1e3f830bd/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 18m 02:25 WIB 11/05/26] Bunyodkor - 
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh859lgqwz" tvg-name="QMU Jayxun vs Qizilqum Zarafshon" tvg-logo="https://img.rapid-api.icu/football/team/c69a4e851264560eddf83929812b4231/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 24m 02:25 WIB 11/05/26] QMU Jayxun vs Qizilqum Zarafshon
+#EXTINF:-1 tvg-id="y0or5jh859lgqwz" tvg-name="QMU Jayxun vs Qizilqum Zarafshon" tvg-logo="https://img.rapid-api.icu/football/team/c69a4e851264560eddf83929812b4231/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 18m 02:25 WIB 11/05/26] QMU Jayxun vs Qizilqum Zarafshon
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh9jl27m7v" tvg-name="Godoy Cruz Antonio Tomba vs Racing de Cordoba" tvg-logo="https://img.rapid-api.icu/football/team/2b0ac7163f53600b978bae54a03851ef/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 29m 02:30 WIB 11/05/26] Godoy Cruz Antonio Tomba vs Racing de Cordoba
+#EXTINF:-1 tvg-id="1l4rjnh9jl27m7v" tvg-name="Godoy Cruz Antonio Tomba vs Racing de Cordoba" tvg-logo="https://img.rapid-api.icu/football/team/2b0ac7163f53600b978bae54a03851ef/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 23m 02:30 WIB 11/05/26] Godoy Cruz Antonio Tomba vs Racing de Cordoba
 https://dlqcalr.alilicloud.com/live/24456d8f0721bea1b3505385238c3830/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ednm9whw206jryo" tvg-name="San Martin San Juan vs Patronato Parana" tvg-logo="https://img.rapid-api.icu/football/team/a74a22bdac75366f251bcccafe83ec37/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 29m 02:30 WIB 11/05/26] San Martin San Juan vs Patronato Parana
+#EXTINF:-1 tvg-id="ednm9whw206jryo" tvg-name="San Martin San Juan vs Patronato Parana" tvg-logo="https://img.rapid-api.icu/football/team/a74a22bdac75366f251bcccafe83ec37/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 23m 02:30 WIB 11/05/26] San Martin San Juan vs Patronato Parana
 https://vlsrq.alilicloud.com/live/226bd19537cbe1646d680b4ae26ab104/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghe73d5r6o" tvg-name="Academia Puerto Cabello B vs Atletico El Vigia" tvg-logo="https://img.rapid-api.icu/football/team/622785e1f26e120c836e03c636bff17c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 29m 02:30 WIB 11/05/26] Academia Puerto Cabello B vs Atletico El Vigia
+#EXTINF:-1 tvg-id="vjxm8ghe73d5r6o" tvg-name="Academia Puerto Cabello B vs Atletico El Vigia" tvg-logo="https://img.rapid-api.icu/football/team/622785e1f26e120c836e03c636bff17c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 23m 02:30 WIB 11/05/26] Academia Puerto Cabello B vs Atletico El Vigia
 https://dlqcalr.alilicloud.com/live/2e0c2d906c4939ef76c6198905258879/playlist.m3u8
 
-#EXTINF:-1 tvg-id="x7lm7phj37nvm2w" tvg-name="Chaco For Ever vs Club Ciudad de Bolivar" tvg-logo="https://img.rapid-api.icu/football/team/3850682c85908e61d304d40c6fe31835/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 29m 02:30 WIB 11/05/26] Chaco For Ever vs Club Ciudad de Bolivar
+#EXTINF:-1 tvg-id="x7lm7phj37nvm2w" tvg-name="Chaco For Ever vs Club Ciudad de Bolivar" tvg-logo="https://img.rapid-api.icu/football/team/3850682c85908e61d304d40c6fe31835/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 23m 02:30 WIB 11/05/26] Chaco For Ever vs Club Ciudad de Bolivar
 https://dlqcalr.alilicloud.com/live/73c619fabc3ed373dd2c8628388ca811/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh990dpm7v" tvg-name="Barra FC vs SER Caxias" tvg-logo="https://img.rapid-api.icu/football/team/21a24c69f91f6eeedffd7054ee48e4a4/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Barra FC vs SER Caxias
+#EXTINF:-1 tvg-id="1l4rjnh990dpm7v" tvg-name="Barra FC vs SER Caxias" tvg-logo="https://img.rapid-api.icu/football/team/21a24c69f91f6eeedffd7054ee48e4a4/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Barra FC vs SER Caxias
 https://dlqcalr.alilicloud.com/live/06f6c2ad77a58b068689bbc3bbd28c9a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh99621m7v" tvg-name="Bragantino Women vs Gremio Women" tvg-logo="https://img.rapid-api.icu/football/team/b374ced3f5d2cff65399e06eb26b1658/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Bragantino Women vs Gremio Women
+#EXTINF:-1 tvg-id="1l4rjnh99621m7v" tvg-name="Bragantino Women vs Gremio Women" tvg-logo="https://img.rapid-api.icu/football/team/b374ced3f5d2cff65399e06eb26b1658/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Bragantino Women vs Gremio Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh9d3vgm7v" tvg-name="Defensores Puerto Vilelas vs CA Bartolome Mitre" tvg-logo="https://img.rapid-api.icu/football/team/8b1cb562d9d2d47bddd51f3d2ce9524a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Defensores Puerto Vilelas vs CA Bartolome Mitre
+#EXTINF:-1 tvg-id="1l4rjnh9d3vgm7v" tvg-name="Defensores Puerto Vilelas vs CA Bartolome Mitre" tvg-logo="https://img.rapid-api.icu/football/team/8b1cb562d9d2d47bddd51f3d2ce9524a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Defensores Puerto Vilelas vs CA Bartolome Mitre
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="23xmvkh6lg76qg8" tvg-name="Club Cipolletti vs CA Juventud Unida San Luis" tvg-logo="https://img.rapid-api.icu/football/team/be4c517b3e4e8a916b76bedd41bf2524/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Club Cipolletti vs CA Juventud Unida San Luis
+#EXTINF:-1 tvg-id="23xmvkh6lg76qg8" tvg-name="Club Cipolletti vs CA Juventud Unida San Luis" tvg-logo="https://img.rapid-api.icu/football/team/be4c517b3e4e8a916b76bedd41bf2524/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Club Cipolletti vs CA Juventud Unida San Luis
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5e4l8ql0" tvg-name="Inter Palmira Women vs Atletico Nacional Medellin (W)" tvg-logo="https://img.rapid-api.icu/football/team/9db9b3b80d67021ac8e32ed40bb7ae4a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Inter Palmira Women vs Atletico Nacional Medellin (W)
+#EXTINF:-1 tvg-id="2y8m4zh5e4l8ql0" tvg-name="Inter Palmira Women vs Atletico Nacional Medellin (W)" tvg-logo="https://img.rapid-api.icu/football/team/9db9b3b80d67021ac8e32ed40bb7ae4a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Inter Palmira Women vs Atletico Nacional Medellin (W)
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5e6xxql0" tvg-name="Colchagua CD vs Linares Unido" tvg-logo="https://img.rapid-api.icu/football/team/4d2adc1932b8680bfc2f4073205b615f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Colchagua CD vs Linares Unido
+#EXTINF:-1 tvg-id="2y8m4zh5e6xxql0" tvg-name="Colchagua CD vs Linares Unido" tvg-logo="https://img.rapid-api.icu/football/team/4d2adc1932b8680bfc2f4073205b615f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Colchagua CD vs Linares Unido
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="318q66hx37l5qo9" tvg-name="Olimpo Bahia Blanca vs Germinal de Rawson" tvg-logo="https://img.rapid-api.icu/football/team/c61b2d41b45cfc26b57ca39c855875ba/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Olimpo Bahia Blanca vs Germinal de Rawson
+#EXTINF:-1 tvg-id="318q66hx37l5qo9" tvg-name="Olimpo Bahia Blanca vs Germinal de Rawson" tvg-logo="https://img.rapid-api.icu/football/team/c61b2d41b45cfc26b57ca39c855875ba/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Olimpo Bahia Blanca vs Germinal de Rawson
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hn3p0nqdy" tvg-name="Central Norte Salta vs Deportivo Madryn" tvg-logo="https://img.rapid-api.icu/football/team/ef69c48253baaa15b7d96683aadece57/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Central Norte Salta vs Deportivo Madryn
+#EXTINF:-1 tvg-id="3glrw7hn3p0nqdy" tvg-name="Central Norte Salta vs Deportivo Madryn" tvg-logo="https://img.rapid-api.icu/football/team/ef69c48253baaa15b7d96683aadece57/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Central Norte Salta vs Deportivo Madryn
 https://dlqcalr.alilicloud.com/live/6c6944f8178c0c128da26e8968f0fd1d/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3glrw7hn4l79qdy" tvg-name="Bay FC (w) vs Utah Royals Women" tvg-logo="https://img.rapid-api.icu/football/team/9feb74aa98d6c56d34f99fef9e899821/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Bay FC (w) vs Utah Royals Women
+#EXTINF:-1 tvg-id="3glrw7hn4l79qdy" tvg-name="Bay FC (w) vs Utah Royals Women" tvg-logo="https://img.rapid-api.icu/football/team/9feb74aa98d6c56d34f99fef9e899821/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Bay FC (w) vs Utah Royals Women
 https://dlqcalr.alilicloud.com/live/511c79aba7d985d6c46943893632c0e1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3glrw7hng7lnqdy" tvg-name="Caravaggio FC vs Metropolitano SC" tvg-logo="https://img.rapid-api.icu/football/team/745c162d5d58a7cbd84b502c56204336/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Caravaggio FC vs Metropolitano SC
+#EXTINF:-1 tvg-id="3glrw7hng7lnqdy" tvg-name="Caravaggio FC vs Metropolitano SC" tvg-logo="https://img.rapid-api.icu/football/team/745c162d5d58a7cbd84b502c56204336/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Caravaggio FC vs Metropolitano SC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hngld0qdy" tvg-name="Portland Timbers Reserve vs Ventura County FC" tvg-logo="https://img.rapid-api.icu/football/team/1a7b357850be6cec76bc427760660752/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Portland Timbers Reserve vs Ventura County FC
+#EXTINF:-1 tvg-id="3glrw7hngld0qdy" tvg-name="Portland Timbers Reserve vs Ventura County FC" tvg-logo="https://img.rapid-api.icu/football/team/1a7b357850be6cec76bc427760660752/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Portland Timbers Reserve vs Ventura County FC
 https://dlqcalr.alilicloud.com/live/6ea6eaabc7712ff845091032c63c9989/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4jwq2ghn50l5m0v" tvg-name="Douglas Haig vs Escobar FC" tvg-logo="https://img.rapid-api.icu/football/team/e30f44197262b3cd9083be3cb72a9def/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Douglas Haig vs Escobar FC
+#EXTINF:-1 tvg-id="4jwq2ghn50l5m0v" tvg-name="Douglas Haig vs Escobar FC" tvg-logo="https://img.rapid-api.icu/football/team/e30f44197262b3cd9083be3cb72a9def/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Douglas Haig vs Escobar FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4wyrn4h657ggq86" tvg-name="San Martin Mendoza vs FADEP Mendoza" tvg-logo="https://img.rapid-api.icu/football/team/b888aa8362710627b717159591d6bd79/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] San Martin Mendoza vs FADEP Mendoza
+#EXTINF:-1 tvg-id="4wyrn4h657ggq86" tvg-name="San Martin Mendoza vs FADEP Mendoza" tvg-logo="https://img.rapid-api.icu/football/team/b888aa8362710627b717159591d6bd79/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] San Martin Mendoza vs FADEP Mendoza
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4wyrn4h657jgq86" tvg-name="CD Estudiantil CNI vs Sport Huancayo B" tvg-logo="https://img.rapid-api.icu/football/team/46ba6fa9f29cb20d857434bc046ee543/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] CD Estudiantil CNI vs Sport Huancayo B
+#EXTINF:-1 tvg-id="4wyrn4h657jgq86" tvg-name="CD Estudiantil CNI vs Sport Huancayo B" tvg-logo="https://img.rapid-api.icu/football/team/46ba6fa9f29cb20d857434bc046ee543/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] CD Estudiantil CNI vs Sport Huancayo B
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4wyrn4h66n18q86" tvg-name="Volta Redonda vs Ferroviaria SP" tvg-logo="https://img.rapid-api.icu/football/team/d134e1a1277f56aebeb115153d0c6d79/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Volta Redonda vs Ferroviaria SP
+#EXTINF:-1 tvg-id="4wyrn4h66n18q86" tvg-name="Volta Redonda vs Ferroviaria SP" tvg-logo="https://img.rapid-api.icu/football/team/d134e1a1277f56aebeb115153d0c6d79/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Volta Redonda vs Ferroviaria SP
 https://dlqcalr.alilicloud.com/live/4e3d04b685767d0a431c5661c3342563/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ypq3nhvp4x1md7" tvg-name="Millonarios Women vs America de Cali Women" tvg-logo="https://img.rapid-api.icu/football/team/555a121cb2ab138d716f7f613d8f4df4/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Millonarios Women vs America de Cali Women
+#EXTINF:-1 tvg-id="6ypq3nhvp4x1md7" tvg-name="Millonarios Women vs America de Cali Women" tvg-logo="https://img.rapid-api.icu/football/team/555a121cb2ab138d716f7f613d8f4df4/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Millonarios Women vs America de Cali Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="8yomo4h165n0q0j" tvg-name="Junior Women vs Independiente Santa Fe (W)" tvg-logo="https://img.rapid-api.icu/football/team/d42737152322b81593f0f7bd3c414a6e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Junior Women vs Independiente Santa Fe (W)
+#EXTINF:-1 tvg-id="8yomo4h165n0q0j" tvg-name="Junior Women vs Independiente Santa Fe (W)" tvg-logo="https://img.rapid-api.icu/football/team/d42737152322b81593f0f7bd3c414a6e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Junior Women vs Independiente Santa Fe (W)
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="965mkyhk02v1r1g" tvg-name="Atletico Balboa vs Club Deportivo Inca" tvg-logo="https://img.rapid-api.icu/football/team/2a9f5ba31dfb6a137532b8a5f2d605ed/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Atletico Balboa vs Club Deportivo Inca
+#EXTINF:-1 tvg-id="965mkyhk02v1r1g" tvg-name="Atletico Balboa vs Club Deportivo Inca" tvg-logo="https://img.rapid-api.icu/football/team/2a9f5ba31dfb6a137532b8a5f2d605ed/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Atletico Balboa vs Club Deportivo Inca
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="965mkyhk0gpxr1g" tvg-name="Guillermo Brown vs Villa Mitre" tvg-logo="https://img.rapid-api.icu/football/team/6ae125123c153760fe1fe2f615d7876f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Guillermo Brown vs Villa Mitre
+#EXTINF:-1 tvg-id="965mkyhk0gpxr1g" tvg-name="Guillermo Brown vs Villa Mitre" tvg-logo="https://img.rapid-api.icu/football/team/6ae125123c153760fe1fe2f615d7876f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Guillermo Brown vs Villa Mitre
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohl9d8jq1z" tvg-name="Internacional de Bogota (W) vs Llaneros Women" tvg-logo="https://img.rapid-api.icu/football/team/dbb334e516fda14ae87ee46fe037cef0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Internacional de Bogota (W) vs Llaneros Women
+#EXTINF:-1 tvg-id="dj2ryohl9d8jq1z" tvg-name="Internacional de Bogota (W) vs Llaneros Women" tvg-logo="https://img.rapid-api.icu/football/team/dbb334e516fda14ae87ee46fe037cef0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Internacional de Bogota (W) vs Llaneros Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohl9eo3q1z" tvg-name="Chichicasteco FC vs Suchitepequez" tvg-logo="https://img.rapid-api.icu/football/team/9696e5fb7250feb5401847edc32ecd25/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Chichicasteco FC vs Suchitepequez
+#EXTINF:-1 tvg-id="dj2ryohl9eo3q1z" tvg-name="Chichicasteco FC vs Suchitepequez" tvg-logo="https://img.rapid-api.icu/football/team/9696e5fb7250feb5401847edc32ecd25/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Chichicasteco FC vs Suchitepequez
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dn1m1ghlg32zmoe" tvg-name="Hassania Agadir vs AS FAR Rabat" tvg-logo="https://img.rapid-api.icu/football/team/07e70e7ddeecc1b6da6564f00ad5a893/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Hassania Agadir vs AS FAR Rabat
+#EXTINF:-1 tvg-id="dn1m1ghlg32zmoe" tvg-name="Hassania Agadir vs AS FAR Rabat" tvg-logo="https://img.rapid-api.icu/football/team/07e70e7ddeecc1b6da6564f00ad5a893/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Hassania Agadir vs AS FAR Rabat
 https://dlqcalr.alilicloud.com/live/782f1b23f9ea0bd6bd2657b8fe271c54/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dn1m1ghlgo65moe" tvg-name="G.San Martin Formosa vs Sarmiento de La Banda" tvg-logo="https://img.rapid-api.icu/football/team/39c7414f28ceb2e059479657f8de2dd3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] G.San Martin Formosa vs Sarmiento de La Banda
+#EXTINF:-1 tvg-id="dn1m1ghlgo65moe" tvg-name="G.San Martin Formosa vs Sarmiento de La Banda" tvg-logo="https://img.rapid-api.icu/football/team/39c7414f28ceb2e059479657f8de2dd3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] G.San Martin Formosa vs Sarmiento de La Banda
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="ednm9whwpd1lryo" tvg-name="Gimnasia C.  vs Gimnasia Y Esgrima De Chivilcoy" tvg-logo="https://img.rapid-api.icu/football/team/39144afd0b216ec1a98b5701b75007eb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Gimnasia C.  vs Gimnasia Y Esgrima De Chivilcoy
+#EXTINF:-1 tvg-id="ednm9whwpd1lryo" tvg-name="Gimnasia C.  vs Gimnasia Y Esgrima De Chivilcoy" tvg-logo="https://img.rapid-api.icu/football/team/39144afd0b216ec1a98b5701b75007eb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Gimnasia C.  vs Gimnasia Y Esgrima De Chivilcoy
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="jw2r09hkg74lrz8" tvg-name="Sportivo Belgrano vs Sportivo Las Parejas" tvg-logo="https://img.rapid-api.icu/football/team/bde22d559f49ec1633653251768f4726/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Sportivo Belgrano vs Sportivo Las Parejas
+#EXTINF:-1 tvg-id="jw2r09hkg74lrz8" tvg-name="Sportivo Belgrano vs Sportivo Las Parejas" tvg-logo="https://img.rapid-api.icu/football/team/bde22d559f49ec1633653251768f4726/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Sportivo Belgrano vs Sportivo Las Parejas
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="jw2r09hkgp8lrz8" tvg-name="Deportivo Pasto Women vs Fortaleza CEIF FC Women" tvg-logo="https://img.rapid-api.icu/football/team/f6982816d1f804c8a5c1691fb5ac812c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Deportivo Pasto Women vs Fortaleza CEIF FC Women
+#EXTINF:-1 tvg-id="jw2r09hkgp8lrz8" tvg-name="Deportivo Pasto Women vs Fortaleza CEIF FC Women" tvg-logo="https://img.rapid-api.icu/football/team/f6982816d1f804c8a5c1691fb5ac812c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Deportivo Pasto Women vs Fortaleza CEIF FC Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="k82rekhgj8lkrep" tvg-name="Independiente Chivilcoy vs El Linqueno" tvg-logo="https://img.rapid-api.icu/football/team/6b55564d3fa54187a40f42cf11df84ec/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Independiente Chivilcoy vs El Linqueno
+#EXTINF:-1 tvg-id="k82rekhgj8lkrep" tvg-name="Independiente Chivilcoy vs El Linqueno" tvg-logo="https://img.rapid-api.icu/football/team/6b55564d3fa54187a40f42cf11df84ec/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Independiente Chivilcoy vs El Linqueno
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph47200r8k" tvg-name="Sol de Mayo vs Club Circulo Deportivo" tvg-logo="https://img.rapid-api.icu/football/team/ef57451df6ce2ff1db7411f591f11279/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Sol de Mayo vs Club Circulo Deportivo
+#EXTINF:-1 tvg-id="l5ergph47200r8k" tvg-name="Sol de Mayo vs Club Circulo Deportivo" tvg-logo="https://img.rapid-api.icu/football/team/ef57451df6ce2ff1db7411f591f11279/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Sol de Mayo vs Club Circulo Deportivo
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph475g0r8k" tvg-name="Deportivo Cali Women vs CD Real Santander Women" tvg-logo="https://img.rapid-api.icu/football/team/fbc042bd14c1e5b494b04f43649c525c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Deportivo Cali Women vs CD Real Santander Women
+#EXTINF:-1 tvg-id="l5ergph475g0r8k" tvg-name="Deportivo Cali Women vs CD Real Santander Women" tvg-logo="https://img.rapid-api.icu/football/team/fbc042bd14c1e5b494b04f43649c525c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Deportivo Cali Women vs CD Real Santander Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph47le6r8k" tvg-name="UWI Blackbirds vs Bagatelle SS" tvg-logo="https://img.rapid-api.icu/football/team/7fd66be6ca1fc327406102a3fbfdea12/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] UWI Blackbirds vs Bagatelle SS
+#EXTINF:-1 tvg-id="l5ergph47le6r8k" tvg-name="UWI Blackbirds vs Bagatelle SS" tvg-logo="https://img.rapid-api.icu/football/team/7fd66be6ca1fc327406102a3fbfdea12/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] UWI Blackbirds vs Bagatelle SS
 https://dlqcalr.alilicloud.com/live/eee6d5db91cf9d2cf001d8ecf8d537b3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehg9dy6r51" tvg-name="Tucuman Central vs Juventud Antoniana" tvg-logo="https://img.rapid-api.icu/football/team/34854d067455c3fbc2f29c03dcdb0dd9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Tucuman Central vs Juventud Antoniana
+#EXTINF:-1 tvg-id="l7oqdehg9dy6r51" tvg-name="Tucuman Central vs Juventud Antoniana" tvg-logo="https://img.rapid-api.icu/football/team/34854d067455c3fbc2f29c03dcdb0dd9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Tucuman Central vs Juventud Antoniana
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehg9dzvr51" tvg-name="Tacuarembo vs Rentistas" tvg-logo="https://img.rapid-api.icu/football/team/7e251f59220134ea6991242c0e813d15/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Tacuarembo vs Rentistas
+#EXTINF:-1 tvg-id="l7oqdehg9dzvr51" tvg-name="Tacuarembo vs Rentistas" tvg-logo="https://img.rapid-api.icu/football/team/7e251f59220134ea6991242c0e813d15/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Tacuarembo vs Rentistas
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehg9e76r51" tvg-name="Independiente Medellin Women vs Atletico Bucaramanga Women" tvg-logo="https://img.rapid-api.icu/football/team/b0528999e3b2e9dfcab3ef85a2273c9d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Independiente Medellin Women vs Atletico Bucaramanga Women
+#EXTINF:-1 tvg-id="l7oqdehg9e76r51" tvg-name="Independiente Medellin Women vs Atletico Bucaramanga Women" tvg-logo="https://img.rapid-api.icu/football/team/b0528999e3b2e9dfcab3ef85a2273c9d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Independiente Medellin Women vs Atletico Bucaramanga Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhnw1dvqvy" tvg-name="Estudiantes La Plata vs Racing Club de Avellaneda" tvg-logo="https://img.rapid-api.icu/football/team/a177972d3d491d03802e61e01fa5c029/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Estudiantes La Plata vs Racing Club de Avellaneda
+#EXTINF:-1 tvg-id="n54qllhnw1dvqvy" tvg-name="Estudiantes La Plata vs Racing Club de Avellaneda" tvg-logo="https://img.rapid-api.icu/football/team/a177972d3d491d03802e61e01fa5c029/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Estudiantes La Plata vs Racing Club de Avellaneda
 https://dlqcalr.alilicloud.com/live/a0822921c27ac6d238a77a79f59bb5b7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="n54qllhnwkv7qvy" tvg-name="Boca Unidos vs Sol de America de Formosa" tvg-logo="https://img.rapid-api.icu/football/team/f31245016434e53ef071b32c8a210fa8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Boca Unidos vs Sol de America de Formosa
+#EXTINF:-1 tvg-id="n54qllhnwkv7qvy" tvg-name="Boca Unidos vs Sol de America de Formosa" tvg-logo="https://img.rapid-api.icu/football/team/f31245016434e53ef071b32c8a210fa8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Boca Unidos vs Sol de America de Formosa
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhnwz9jqvy" tvg-name="Club Guarani Women vs 2 de Mayo Women" tvg-logo="https://img.rapid-api.icu/football/team/fccdd115d7d70cfb26c628fac9c37004/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Club Guarani Women vs 2 de Mayo Women
+#EXTINF:-1 tvg-id="n54qllhnwz9jqvy" tvg-name="Club Guarani Women vs 2 de Mayo Women" tvg-logo="https://img.rapid-api.icu/football/team/fccdd115d7d70cfb26c628fac9c37004/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Club Guarani Women vs 2 de Mayo Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhy02d2ryk" tvg-name="Once Caldas (w) vs Orsomarso (w)" tvg-logo="https://img.rapid-api.icu/football/team/8fd3d3a5cdb989d839cd327c1eb9ca7e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Once Caldas (w) vs Orsomarso (w)
+#EXTINF:-1 tvg-id="pxwrxlhy02d2ryk" tvg-name="Once Caldas (w) vs Orsomarso (w)" tvg-logo="https://img.rapid-api.icu/football/team/8fd3d3a5cdb989d839cd327c1eb9ca7e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Once Caldas (w) vs Orsomarso (w)
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhyn3w1ryk" tvg-name="Agremiação Sportiva Arapiraquense vs Alagoinhas Atletico BA" tvg-logo="https://img.rapid-api.icu/football/team/fb05b75c6fb181ddbc3ecfc362099323/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Agremiação Sportiva Arapiraquense vs Alagoinhas Atletico BA
+#EXTINF:-1 tvg-id="pxwrxlhyn3w1ryk" tvg-name="Agremiação Sportiva Arapiraquense vs Alagoinhas Atletico BA" tvg-logo="https://img.rapid-api.icu/football/team/fb05b75c6fb181ddbc3ecfc362099323/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Agremiação Sportiva Arapiraquense vs Alagoinhas Atletico BA
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe72y3r6o" tvg-name="Los Angeles FC II vs Real Monarchs" tvg-logo="https://img.rapid-api.icu/football/team/113aa4fb6927d0779fb4d7ffc981a89f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Los Angeles FC II vs Real Monarchs
+#EXTINF:-1 tvg-id="vjxm8ghe72y3r6o" tvg-name="Los Angeles FC II vs Real Monarchs" tvg-logo="https://img.rapid-api.icu/football/team/113aa4fb6927d0779fb4d7ffc981a89f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Los Angeles FC II vs Real Monarchs
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe7jd3r6o" tvg-name="Atletico Andahuaylas (W) vs Sporting Cristal W" tvg-logo="https://img.rapid-api.icu/football/team/3c7ea1e364243cb558a311b4f412a4aa/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Atletico Andahuaylas (W) vs Sporting Cristal W
+#EXTINF:-1 tvg-id="vjxm8ghe7jd3r6o" tvg-name="Atletico Andahuaylas (W) vs Sporting Cristal W" tvg-logo="https://img.rapid-api.icu/football/team/3c7ea1e364243cb558a311b4f412a4aa/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Atletico Andahuaylas (W) vs Sporting Cristal W
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe7l2kr6o" tvg-name="Parana PR vs Toledo Colonia Work PR" tvg-logo="https://img.rapid-api.icu/football/team/24243e0413d76944fac76c7680dc4302/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Parana PR vs Toledo Colonia Work PR
+#EXTINF:-1 tvg-id="vjxm8ghe7l2kr6o" tvg-name="Parana PR vs Toledo Colonia Work PR" tvg-logo="https://img.rapid-api.icu/football/team/24243e0413d76944fac76c7680dc4302/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Parana PR vs Toledo Colonia Work PR
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe7vpvr6o" tvg-name="Deportivo Miranda vs Maritimo de La Guaira" tvg-logo="https://img.rapid-api.icu/football/team/b44babde2f65d7da4ab68e82eaacf7f9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Deportivo Miranda vs Maritimo de La Guaira
+#EXTINF:-1 tvg-id="vjxm8ghe7vpvr6o" tvg-name="Deportivo Miranda vs Maritimo de La Guaira" tvg-logo="https://img.rapid-api.icu/football/team/b44babde2f65d7da4ab68e82eaacf7f9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Deportivo Miranda vs Maritimo de La Guaira
 https://dlqcalr.alilicloud.com/live/9502f2c5c3da10f366549be17968a461/playlist.m3u8
 
-#EXTINF:-1 tvg-id="x7lm7phj2547m2w" tvg-name="Alvarado Mar del Plata vs Santa Marina Tandil" tvg-logo="https://img.rapid-api.icu/football/team/b8b4b1222661c2ec6b06821c0049a7b7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Alvarado Mar del Plata vs Santa Marina Tandil
+#EXTINF:-1 tvg-id="x7lm7phj2547m2w" tvg-name="Alvarado Mar del Plata vs Santa Marina Tandil" tvg-logo="https://img.rapid-api.icu/football/team/b8b4b1222661c2ec6b06821c0049a7b7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Alvarado Mar del Plata vs Santa Marina Tandil
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phj2985m2w" tvg-name="SV Atlantico Deportivo vs FC San Nicolas" tvg-logo="https://img.rapid-api.icu/football/team/3180df1c2dd787d9693a8ae6b9af7d9a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] SV Atlantico Deportivo vs FC San Nicolas
+#EXTINF:-1 tvg-id="x7lm7phj2985m2w" tvg-name="SV Atlantico Deportivo vs FC San Nicolas" tvg-logo="https://img.rapid-api.icu/football/team/3180df1c2dd787d9693a8ae6b9af7d9a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] SV Atlantico Deportivo vs FC San Nicolas
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phj2g9km2w" tvg-name="Dynamo Puerto FC vs Bolívar SC VEN" tvg-logo="https://img.rapid-api.icu/football/team/7ca973f941d77166e3753c4f3027b237/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Dynamo Puerto FC vs Bolívar SC VEN
+#EXTINF:-1 tvg-id="x7lm7phj2g9km2w" tvg-name="Dynamo Puerto FC vs Bolívar SC VEN" tvg-logo="https://img.rapid-api.icu/football/team/7ca973f941d77166e3753c4f3027b237/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Dynamo Puerto FC vs Bolívar SC VEN
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phjv7d9m2w" tvg-name="Treze Campina Grande PB vs Decisao" tvg-logo="https://img.rapid-api.icu/football/team/991ec1df4b85b27bde1b45fca26531fc/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Treze Campina Grande PB vs Decisao
+#EXTINF:-1 tvg-id="x7lm7phjv7d9m2w" tvg-name="Treze Campina Grande PB vs Decisao" tvg-logo="https://img.rapid-api.icu/football/team/991ec1df4b85b27bde1b45fca26531fc/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Treze Campina Grande PB vs Decisao
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh8w07zqwz" tvg-name="Atenas vs CDA Monte Miaz" tvg-logo="https://img.rapid-api.icu/football/team/65923d61c4696fcaa929d4537823504e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Atenas vs CDA Monte Miaz
+#EXTINF:-1 tvg-id="y0or5jh8w07zqwz" tvg-name="Atenas vs CDA Monte Miaz" tvg-logo="https://img.rapid-api.icu/football/team/65923d61c4696fcaa929d4537823504e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Atenas vs CDA Monte Miaz
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h6ek7gmoj" tvg-name="Huracan Las Heras vs Deportivo Rincon" tvg-logo="https://img.rapid-api.icu/football/team/5c4c6301adeda608664abb01bcf55011/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Huracan Las Heras vs Deportivo Rincon
+#EXTINF:-1 tvg-id="y39mp1h6ek7gmoj" tvg-name="Huracan Las Heras vs Deportivo Rincon" tvg-logo="https://img.rapid-api.icu/football/team/5c4c6301adeda608664abb01bcf55011/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Huracan Las Heras vs Deportivo Rincon
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="zp5rzghgd283q82" tvg-name="Defensores Belgrano (VR) vs CA 9 de Julio Rafaela" tvg-logo="https://img.rapid-api.icu/football/team/cf6f1166aa0b28305f3ddfa1f809ea09/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Defensores Belgrano (VR) vs CA 9 de Julio Rafaela
+#EXTINF:-1 tvg-id="zp5rzghgd283q82" tvg-name="Defensores Belgrano (VR) vs CA 9 de Julio Rafaela" tvg-logo="https://img.rapid-api.icu/football/team/cf6f1166aa0b28305f3ddfa1f809ea09/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Defensores Belgrano (VR) vs CA 9 de Julio Rafaela
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="zp5rzghgg9ddq82" tvg-name="Amazonas FC vs Figueirense" tvg-logo="https://img.rapid-api.icu/football/team/3161957a851f2147810b4c2aab592c2a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 59m 03:00 WIB 11/05/26] Amazonas FC vs Figueirense
+#EXTINF:-1 tvg-id="zp5rzghgg9ddq82" tvg-name="Amazonas FC vs Figueirense" tvg-logo="https://img.rapid-api.icu/football/team/3161957a851f2147810b4c2aab592c2a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 2h 53m 03:00 WIB 11/05/26] Amazonas FC vs Figueirense
 https://dlqcalr.alilicloud.com/live/fd68ef9e0d4c7d9ead3bbd47e32b3af9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8yomo4h1341vq0j" tvg-name="Comerciantes Unidos vs FBC Melgar" tvg-logo="https://img.rapid-api.icu/football/team/83f5b028d84f018e76fee1cf992533bb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 14m 03:15 WIB 11/05/26] Comerciantes Unidos vs FBC Melgar
+#EXTINF:-1 tvg-id="8yomo4h1341vq0j" tvg-name="Comerciantes Unidos vs FBC Melgar" tvg-logo="https://img.rapid-api.icu/football/team/83f5b028d84f018e76fee1cf992533bb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 8m 03:15 WIB 11/05/26] Comerciantes Unidos vs FBC Melgar
 https://dlqcalr.alilicloud.com/live/4f9666406c73eef1fdc9da58d7dcb895/playlist.m3u8
 
-#EXTINF:-1 tvg-id="318q66hx32zvqo9" tvg-name="Aguilas Doradas vs Jaguares de Cordoba" tvg-logo="https://img.rapid-api.icu/football/team/db5d5d7109bd03d77a175174fe8ed993/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 29m 03:30 WIB 11/05/26] Aguilas Doradas vs Jaguares de Cordoba
+#EXTINF:-1 tvg-id="318q66hx32zvqo9" tvg-name="Aguilas Doradas vs Jaguares de Cordoba" tvg-logo="https://img.rapid-api.icu/football/team/db5d5d7109bd03d77a175174fe8ed993/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 23m 03:30 WIB 11/05/26] Aguilas Doradas vs Jaguares de Cordoba
 https://dlqcalr.alilicloud.com/live/dfb1a25aa5c905bca5ef83cf40a94c88/playlist.m3u8
 
-#EXTINF:-1 tvg-id="x7lm7phjz47ym2w" tvg-name="Club Sport Emelec vs Libertad FC" tvg-logo="https://img.rapid-api.icu/football/team/50e8c9a747e0a37e1bae4367d722ca84/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 29m 03:30 WIB 11/05/26] Club Sport Emelec vs Libertad FC
+#EXTINF:-1 tvg-id="x7lm7phjz47ym2w" tvg-name="Club Sport Emelec vs Libertad FC" tvg-logo="https://img.rapid-api.icu/football/team/50e8c9a747e0a37e1bae4367d722ca84/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 23m 03:30 WIB 11/05/26] Club Sport Emelec vs Libertad FC
 https://dlqcalr.alilicloud.com/live/163f3e71b3fcfa346224bb0d20c98ba1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="y0or5jh8o5n6qwz" tvg-name="New York City FC vs Columbus Crew" tvg-logo="https://img.rapid-api.icu/football/team/0e45165994c00c7e606e8428a2511ad2/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 29m 03:30 WIB 11/05/26] New York City FC vs Columbus Crew
+#EXTINF:-1 tvg-id="y0or5jh8o5n6qwz" tvg-name="New York City FC vs Columbus Crew" tvg-logo="https://img.rapid-api.icu/football/team/0e45165994c00c7e606e8428a2511ad2/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 23m 03:30 WIB 11/05/26] New York City FC vs Columbus Crew
 https://dlqcalr.alilicloud.com/live/5598adb50b8b98e3ac13b0df49472925/playlist.m3u8
 
-#EXTINF:-1 tvg-id="y39mp1h6e0lwmoj" tvg-name="Inter Moengo Tapoe vs Voorwaarts T" tvg-logo="https://img.rapid-api.icu/football/team/faf0a8a277853de1444fce2c2731ed7b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 29m 03:30 WIB 11/05/26] Inter Moengo Tapoe vs Voorwaarts T
+#EXTINF:-1 tvg-id="y39mp1h6e0lwmoj" tvg-name="Inter Moengo Tapoe vs Voorwaarts T" tvg-logo="https://img.rapid-api.icu/football/team/faf0a8a277853de1444fce2c2731ed7b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 23m 03:30 WIB 11/05/26] Inter Moengo Tapoe vs Voorwaarts T
 https://dlqcalr.alilicloud.com/live/60fb7fa11c90ff729dff25b268dce344/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dn1m1ghl27vvmoe" tvg-name="Sportivo San Lorenzo vs Olimpia Asuncion" tvg-logo="https://img.rapid-api.icu/football/team/ae960d17922fa74706c86cd96133dd98/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 44m 03:45 WIB 11/05/26] Sportivo San Lorenzo vs Olimpia Asuncion
+#EXTINF:-1 tvg-id="dn1m1ghl27vvmoe" tvg-name="Sportivo San Lorenzo vs Olimpia Asuncion" tvg-logo="https://img.rapid-api.icu/football/team/ae960d17922fa74706c86cd96133dd98/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 38m 03:45 WIB 11/05/26] Sportivo San Lorenzo vs Olimpia Asuncion
 https://dlqcalr.alilicloud.com/live/875d79852edf647d91cfec603369dd52/playlist.m3u8
 
-#EXTINF:-1 tvg-id="318q66hx3g6yqo9" tvg-name="UMECIT vs Plaza Amador" tvg-logo="https://img.rapid-api.icu/football/team/c377e3d50620d9bb375f5e0399ef4f2b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 59m 04:00 WIB 11/05/26] UMECIT vs Plaza Amador
+#EXTINF:-1 tvg-id="318q66hx3g6yqo9" tvg-name="UMECIT vs Plaza Amador" tvg-logo="https://img.rapid-api.icu/football/team/c377e3d50620d9bb375f5e0399ef4f2b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 53m 04:00 WIB 11/05/26] UMECIT vs Plaza Amador
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hn9p4xqdy" tvg-name="Sao Raimundo/RR vs Nacional(AM)" tvg-logo="https://img.rapid-api.icu/football/team/26c9bff4adda2b871df4c4243d74dc57/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 59m 04:00 WIB 11/05/26] Sao Raimundo/RR vs Nacional(AM)
+#EXTINF:-1 tvg-id="3glrw7hn9p4xqdy" tvg-name="Sao Raimundo/RR vs Nacional(AM)" tvg-logo="https://img.rapid-api.icu/football/team/26c9bff4adda2b871df4c4243d74dc57/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 53m 04:00 WIB 11/05/26] Sao Raimundo/RR vs Nacional(AM)
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghnw951m0v" tvg-name="CS Sergipe vs Retro FC Brasil" tvg-logo="https://img.rapid-api.icu/football/team/dc58415b6c5b2a5c0224ce572d6230fe/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 59m 04:00 WIB 11/05/26] CS Sergipe vs Retro FC Brasil
+#EXTINF:-1 tvg-id="4jwq2ghnw951m0v" tvg-name="CS Sergipe vs Retro FC Brasil" tvg-logo="https://img.rapid-api.icu/football/team/dc58415b6c5b2a5c0224ce572d6230fe/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 53m 04:00 WIB 11/05/26] CS Sergipe vs Retro FC Brasil
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="6ypq3nhv8no0md7" tvg-name="Humaita AC vs Araguaina" tvg-logo="https://img.rapid-api.icu/football/team/0b8d383ba6bdebf1ea892d611a42acab/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 59m 04:00 WIB 11/05/26] Humaita AC vs Araguaina
+#EXTINF:-1 tvg-id="6ypq3nhv8no0md7" tvg-name="Humaita AC vs Araguaina" tvg-logo="https://img.rapid-api.icu/football/team/0b8d383ba6bdebf1ea892d611a42acab/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 53m 04:00 WIB 11/05/26] Humaita AC vs Araguaina
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="8yomo4h1841lq0j" tvg-name="Ivinhema FC (MS) vs Abecat Ouvirdorense" tvg-logo="https://img.rapid-api.icu/football/team/a65feca9356a54ea5509ad45cd44e575/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 59m 04:00 WIB 11/05/26] Ivinhema FC (MS) vs Abecat Ouvirdorense
+#EXTINF:-1 tvg-id="8yomo4h1841lq0j" tvg-name="Ivinhema FC (MS) vs Abecat Ouvirdorense" tvg-logo="https://img.rapid-api.icu/football/team/a65feca9356a54ea5509ad45cd44e575/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 53m 04:00 WIB 11/05/26] Ivinhema FC (MS) vs Abecat Ouvirdorense
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohl9145q1z" tvg-name="Tigres Zipaquira vs Deportes Quindio" tvg-logo="https://img.rapid-api.icu/football/team/046102af35f531fcae88e2aeb46c15df/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 59m 04:00 WIB 11/05/26] Tigres Zipaquira vs Deportes Quindio
+#EXTINF:-1 tvg-id="dj2ryohl9145q1z" tvg-name="Tigres Zipaquira vs Deportes Quindio" tvg-logo="https://img.rapid-api.icu/football/team/046102af35f531fcae88e2aeb46c15df/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 53m 04:00 WIB 11/05/26] Tigres Zipaquira vs Deportes Quindio
 https://dlqcalr.alilicloud.com/live/66820c0f729382f0c670be93ec74f6e0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="k82rekhgexderep" tvg-name="Manauara vs GAS" tvg-logo="https://img.rapid-api.icu/football/team/efb414962c1b8dc9afa4b9f05b434774/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 59m 04:00 WIB 11/05/26] Manauara vs GAS
+#EXTINF:-1 tvg-id="k82rekhgexderep" tvg-name="Manauara vs GAS" tvg-logo="https://img.rapid-api.icu/football/team/efb414962c1b8dc9afa4b9f05b434774/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 53m 04:00 WIB 11/05/26] Manauara vs GAS
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehg9lngr51" tvg-name="Metropolitanos FC vs Estudiantes Merida FC" tvg-logo="https://img.rapid-api.icu/football/team/8ba27ba7171f0f2cb5529720780fcfd9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 59m 04:00 WIB 11/05/26] Metropolitanos FC vs Estudiantes Merida FC
+#EXTINF:-1 tvg-id="l7oqdehg9lngr51" tvg-name="Metropolitanos FC vs Estudiantes Merida FC" tvg-logo="https://img.rapid-api.icu/football/team/8ba27ba7171f0f2cb5529720780fcfd9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 53m 04:00 WIB 11/05/26] Metropolitanos FC vs Estudiantes Merida FC
 https://live.rapidlive.shop/live/f1f732f378abd02621dfd38ead87745b/playlist.m3u8
 
-#EXTINF:-1 tvg-id="n54qllhnpz9yqvy" tvg-name="Colon de Santa Fe vs All Boys" tvg-logo="https://img.rapid-api.icu/football/team/378f58cb1c78ce98be614c59b1f5af70/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 59m 04:00 WIB 11/05/26] Colon de Santa Fe vs All Boys
+#EXTINF:-1 tvg-id="n54qllhnpz9yqvy" tvg-name="Colon de Santa Fe vs All Boys" tvg-logo="https://img.rapid-api.icu/football/team/378f58cb1c78ce98be614c59b1f5af70/image/small?v=1768601124" group-title="upcoming",[UPCOMING 3h 53m 04:00 WIB 11/05/26] Colon de Santa Fe vs All Boys
 https://dlqcalr.alilicloud.com/live/90be1a78906b8928963359b98bbf563d/playlist.m3u8
 
-#EXTINF:-1 tvg-id="x7lm7phjv83em2w" tvg-name="The Strongest vs Real Potosi" tvg-logo="https://img.rapid-api.icu/football/team/912045f1e2ffed64ca27a039461c6868/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 14m 04:15 WIB 11/05/26] The Strongest vs Real Potosi
+#EXTINF:-1 tvg-id="x7lm7phjv83em2w" tvg-name="The Strongest vs Real Potosi" tvg-logo="https://img.rapid-api.icu/football/team/912045f1e2ffed64ca27a039461c6868/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 8m 04:15 WIB 11/05/26] The Strongest vs Real Potosi
 https://dlqcalr.alilicloud.com/live/6537394e0d3ca3067b03a690b170621f/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh99zyxm7v" tvg-name="Avaí FC vs Fortaleza" tvg-logo="https://img.rapid-api.icu/football/team/2abb4fe185195e894ac90e4bb144c778/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 29m 04:30 WIB 11/05/26] Avaí FC vs Fortaleza
+#EXTINF:-1 tvg-id="1l4rjnh99zyxm7v" tvg-name="Avaí FC vs Fortaleza" tvg-logo="https://img.rapid-api.icu/football/team/2abb4fe185195e894ac90e4bb144c778/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 23m 04:30 WIB 11/05/26] Avaí FC vs Fortaleza
 https://dlqcalr.alilicloud.com/live/d43c357e06def3a356af7c814d765834/playlist.m3u8
 
-#EXTINF:-1 tvg-id="k82rekhg0vvzrep" tvg-name="Mirassol - SP vs Chapecoense - SC" tvg-logo="https://img.rapid-api.icu/football/team/63b47e4d1ca0fb6a0af3351f3e60b94c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 29m 04:30 WIB 11/05/26] Mirassol - SP vs Chapecoense - SC
+#EXTINF:-1 tvg-id="k82rekhg0vvzrep" tvg-name="Mirassol - SP vs Chapecoense - SC" tvg-logo="https://img.rapid-api.icu/football/team/63b47e4d1ca0fb6a0af3351f3e60b94c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 23m 04:30 WIB 11/05/26] Mirassol - SP vs Chapecoense - SC
 https://dlqcalr.alilicloud.com/live/5657e25c4872429a4c8eef8c3a162166/playlist.m3u8
 
-#EXTINF:-1 tvg-id="l5ergph4l0zgr8k" tvg-name="Corinthians - SP vs São Paulo - SP" tvg-logo="https://img.rapid-api.icu/football/team/88dbc2f85f9235d546bc601d54f29490/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 29m 04:30 WIB 11/05/26] Corinthians - SP vs São Paulo - SP
+#EXTINF:-1 tvg-id="l5ergph4l0zgr8k" tvg-name="Corinthians - SP vs São Paulo - SP" tvg-logo="https://img.rapid-api.icu/football/team/88dbc2f85f9235d546bc601d54f29490/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 23m 04:30 WIB 11/05/26] Corinthians - SP vs São Paulo - SP
 https://dlqcalr.alilicloud.com/live/0b1a8c3d22f94bffd9470ba0617767bd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="l5ergph4lo3er8k" tvg-name="Santos Fc - SP vs Red Bull Bragantino" tvg-logo="https://img.rapid-api.icu/football/team/a5b4b79be70fd8fe74995309aaa0f2ae/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 29m 04:30 WIB 11/05/26] Santos Fc - SP vs Red Bull Bragantino
+#EXTINF:-1 tvg-id="l5ergph4lo3er8k" tvg-name="Santos Fc - SP vs Red Bull Bragantino" tvg-logo="https://img.rapid-api.icu/football/team/a5b4b79be70fd8fe74995309aaa0f2ae/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 23m 04:30 WIB 11/05/26] Santos Fc - SP vs Red Bull Bragantino
 https://dlqcalr.alilicloud.com/live/b05d70a4531ccc45c2423cb96ced93a8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehg9ooor51" tvg-name="Herediano U19 vs Alajuelense U19" tvg-logo="https://img.rapid-api.icu/football/team/d206baa937a4a8d4584a9d6e5da31e65/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 29m 04:30 WIB 11/05/26] Herediano U19 vs Alajuelense U19
+#EXTINF:-1 tvg-id="l7oqdehg9ooor51" tvg-name="Herediano U19 vs Alajuelense U19" tvg-logo="https://img.rapid-api.icu/football/team/d206baa937a4a8d4584a9d6e5da31e65/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 23m 04:30 WIB 11/05/26] Herediano U19 vs Alajuelense U19
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhnwxoyqvy" tvg-name="Univ Catolica vs Nublense" tvg-logo="https://img.rapid-api.icu/football/team/67215ac0f162650bc5300a4757d365d3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 29m 04:30 WIB 11/05/26] Univ Catolica vs Nublense
+#EXTINF:-1 tvg-id="n54qllhnwxoyqvy" tvg-name="Univ Catolica vs Nublense" tvg-logo="https://img.rapid-api.icu/football/team/67215ac0f162650bc5300a4757d365d3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 23m 04:30 WIB 11/05/26] Univ Catolica vs Nublense
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="23xmvkh6l9gvqg8" tvg-name="River Plate vs San Lorenzo" tvg-logo="https://img.rapid-api.icu/football/team/8a959338f7907e145915b3a4c7a5a423/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 59m 05:00 WIB 11/05/26] River Plate vs San Lorenzo
+#EXTINF:-1 tvg-id="23xmvkh6l9gvqg8" tvg-name="River Plate vs San Lorenzo" tvg-logo="https://img.rapid-api.icu/football/team/8a959338f7907e145915b3a4c7a5a423/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 53m 05:00 WIB 11/05/26] River Plate vs San Lorenzo
 https://dlqcalr.alilicloud.com/live/e009dacd034d7f904295b7e0d6e02591/playlist.m3u8
 
-#EXTINF:-1 tvg-id="965mkyhk0ojgr1g" tvg-name="Racing United vs Portmore United" tvg-logo="https://img.rapid-api.icu/football/team/9b30c9520da4b944872ff7bba7c949c8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 59m 05:00 WIB 11/05/26] Racing United vs Portmore United
+#EXTINF:-1 tvg-id="965mkyhk0ojgr1g" tvg-name="Racing United vs Portmore United" tvg-logo="https://img.rapid-api.icu/football/team/9b30c9520da4b944872ff7bba7c949c8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 53m 05:00 WIB 11/05/26] Racing United vs Portmore United
 https://dlqcalr.alilicloud.com/live/b499c3176ed2ef94a13dd7cab2e8855e/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dj2ryohl95vjq1z" tvg-name="Cincinnati II vs Columbus Crew B" tvg-logo="https://img.rapid-api.icu/football/team/a5148191b1957f00b0136f50ca1894a8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 59m 05:00 WIB 11/05/26] Cincinnati II vs Columbus Crew B
+#EXTINF:-1 tvg-id="dj2ryohl95vjq1z" tvg-name="Cincinnati II vs Columbus Crew B" tvg-logo="https://img.rapid-api.icu/football/team/a5148191b1957f00b0136f50ca1894a8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 53m 05:00 WIB 11/05/26] Cincinnati II vs Columbus Crew B
 https://dlqcalr.alilicloud.com/live/32f6bd62e5eb6094d9500e680c247751/playlist.m3u8
 
-#EXTINF:-1 tvg-id="jw2r09hkg6jyrz8" tvg-name="Paradise FC vs Brittons Hill" tvg-logo="https://img.rapid-api.icu/football/team/8a5928e11ca1e72f22f651f273ca17c1/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 59m 05:00 WIB 11/05/26] Paradise FC vs Brittons Hill
+#EXTINF:-1 tvg-id="jw2r09hkg6jyrz8" tvg-name="Paradise FC vs Brittons Hill" tvg-logo="https://img.rapid-api.icu/football/team/8a5928e11ca1e72f22f651f273ca17c1/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 53m 05:00 WIB 11/05/26] Paradise FC vs Brittons Hill
 https://dlqcalr.alilicloud.com/live/f78d734fa4e270a87579b791150f79aa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="k82rekhgj84erep" tvg-name="Vancouver FC - " tvg-logo="https://img.rapid-api.icu/football/team/81213a80cf1f7dda0e9e39984761d632/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 59m 05:00 WIB 11/05/26] Vancouver FC - 
+#EXTINF:-1 tvg-id="k82rekhgj84erep" tvg-name="Vancouver FC - " tvg-logo="https://img.rapid-api.icu/football/team/81213a80cf1f7dda0e9e39984761d632/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 53m 05:00 WIB 11/05/26] Vancouver FC - 
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhnwj11qvy" tvg-name="SV Unistars vs SV River Plate" tvg-logo="https://img.rapid-api.icu/football/team/5f752723370b29b984d1f0a94e5eb2f7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 59m 05:00 WIB 11/05/26] SV Unistars vs SV River Plate
+#EXTINF:-1 tvg-id="n54qllhnwj11qvy" tvg-name="SV Unistars vs SV River Plate" tvg-logo="https://img.rapid-api.icu/football/team/5f752723370b29b984d1f0a94e5eb2f7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 53m 05:00 WIB 11/05/26] SV Unistars vs SV River Plate
 https://dlqcalr.alilicloud.com/live/eb4b7ba9a23838cb3cbe73f23e7e2469/playlist.m3u8
 
-#EXTINF:-1 tvg-id="pxwrxlhy0901ryk" tvg-name="Deportivo Saprissa vs AD Municipal Liberia" tvg-logo="https://img.rapid-api.icu/football/team/3c2dc1e8ed45418344df4e8d565ebe79/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 59m 05:00 WIB 11/05/26] Deportivo Saprissa vs AD Municipal Liberia
+#EXTINF:-1 tvg-id="pxwrxlhy0901ryk" tvg-name="Deportivo Saprissa vs AD Municipal Liberia" tvg-logo="https://img.rapid-api.icu/football/team/3c2dc1e8ed45418344df4e8d565ebe79/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 53m 05:00 WIB 11/05/26] Deportivo Saprissa vs AD Municipal Liberia
 https://dlqcalr.alilicloud.com/live/11b185fd30ca715700ef818f82f4ed16/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghe7576r6o" tvg-name="Cibao FC vs Atletico Pantoja" tvg-logo="https://img.rapid-api.icu/football/team/24e8d6d71a5c27c624c3f078e36f5f94/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 59m 05:00 WIB 11/05/26] Cibao FC vs Atletico Pantoja
+#EXTINF:-1 tvg-id="vjxm8ghe7576r6o" tvg-name="Cibao FC vs Atletico Pantoja" tvg-logo="https://img.rapid-api.icu/football/team/24e8d6d71a5c27c624c3f078e36f5f94/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 53m 05:00 WIB 11/05/26] Cibao FC vs Atletico Pantoja
 https://dlqcalr.alilicloud.com/live/243a43dc6d84320f59a8a4fa50e6f5ca/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghek83jr6o" tvg-name="Spokane Velocity vs FC Naples" tvg-logo="https://img.rapid-api.icu/football/team/489e342b44149f3feddeeda0e89397ab/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 59m 05:00 WIB 11/05/26] Spokane Velocity vs FC Naples
+#EXTINF:-1 tvg-id="vjxm8ghek83jr6o" tvg-name="Spokane Velocity vs FC Naples" tvg-logo="https://img.rapid-api.icu/football/team/489e342b44149f3feddeeda0e89397ab/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 53m 05:00 WIB 11/05/26] Spokane Velocity vs FC Naples
 https://dlqcalr.alilicloud.com/live/4349e4ebd2b887085ea758edc747337c/playlist.m3u8
 
-#EXTINF:-1 tvg-id="y39mp1h6e4xpmoj" tvg-name="Cavalier FC vs Waterhouse FC" tvg-logo="https://img.rapid-api.icu/football/team/788bccae99db9042f8e9a3579ede34f5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 59m 05:00 WIB 11/05/26] Cavalier FC vs Waterhouse FC
+#EXTINF:-1 tvg-id="y39mp1h6e4xpmoj" tvg-name="Cavalier FC vs Waterhouse FC" tvg-logo="https://img.rapid-api.icu/football/team/788bccae99db9042f8e9a3579ede34f5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 4h 53m 05:00 WIB 11/05/26] Cavalier FC vs Waterhouse FC
 https://dlqcalr.alilicloud.com/live/6bffa793535f29a4ff1dafd353d4a6c7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="23xmvkh6l0wxqg8" tvg-name="Sportivo Ameliano Women vs Cerro Porteno Women" tvg-logo="https://img.rapid-api.icu/football/team/a7c94ea7b18cd8b3d607225b67038226/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 14m 05:15 WIB 11/05/26] Sportivo Ameliano Women vs Cerro Porteno Women
+#EXTINF:-1 tvg-id="23xmvkh6l0wxqg8" tvg-name="Sportivo Ameliano Women vs Cerro Porteno Women" tvg-logo="https://img.rapid-api.icu/football/team/a7c94ea7b18cd8b3d607225b67038226/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 8m 05:15 WIB 11/05/26] Sportivo Ameliano Women vs Cerro Porteno Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="23xmvkh68068qg8" tvg-name="Cusco FC vs Los Chankas" tvg-logo="https://img.rapid-api.icu/football/team/8ffbc907c7633e08cbe4cac5a557fae4/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 29m 05:30 WIB 11/05/26] Cusco FC vs Los Chankas
+#EXTINF:-1 tvg-id="23xmvkh68068qg8" tvg-name="Cusco FC vs Los Chankas" tvg-logo="https://img.rapid-api.icu/football/team/8ffbc907c7633e08cbe4cac5a557fae4/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 23m 05:30 WIB 11/05/26] Cusco FC vs Los Chankas
 https://dlqcalr.alilicloud.com/live/612526fc8d9d1859c09e42b4c1b598df/playlist.m3u8
 
-#EXTINF:-1 tvg-id="318q66hxxvzgqo9" tvg-name="Gremio Novorizontino vs Botafogo SP" tvg-logo="https://img.rapid-api.icu/football/team/3c2c836fb198cd378fa72771ce7b3c74/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 29m 05:30 WIB 11/05/26] Gremio Novorizontino vs Botafogo SP
+#EXTINF:-1 tvg-id="318q66hxxvzgqo9" tvg-name="Gremio Novorizontino vs Botafogo SP" tvg-logo="https://img.rapid-api.icu/football/team/3c2c836fb198cd378fa72771ce7b3c74/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 23m 05:30 WIB 11/05/26] Gremio Novorizontino vs Botafogo SP
 https://dlqcalr.alilicloud.com/live/176079e15ac5338eafc72641f35af70b/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4jwq2ghnnj5jm0v" tvg-name="Brusque FC vs Ypiranga(RS)" tvg-logo="https://img.rapid-api.icu/football/team/6a95be55cc88fd27bee59b13bd66ce18/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 29m 05:30 WIB 11/05/26] Brusque FC vs Ypiranga(RS)
+#EXTINF:-1 tvg-id="4jwq2ghnnj5jm0v" tvg-name="Brusque FC vs Ypiranga(RS)" tvg-logo="https://img.rapid-api.icu/football/team/6a95be55cc88fd27bee59b13bd66ce18/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 23m 05:30 WIB 11/05/26] Brusque FC vs Ypiranga(RS)
 https://dlqcalr.alilicloud.com/live/219b8bef8cf6805cf40533ae7c9dea3e/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4jwq2ghnz4o2m0v" tvg-name="Grêmio - RS vs Flamengo - RJ" tvg-logo="https://img.rapid-api.icu/football/team/d7975bbc2d33ae2597375ccb79b018f7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 29m 05:30 WIB 11/05/26] Grêmio - RS vs Flamengo - RJ
+#EXTINF:-1 tvg-id="4jwq2ghnz4o2m0v" tvg-name="Grêmio - RS vs Flamengo - RJ" tvg-logo="https://img.rapid-api.icu/football/team/d7975bbc2d33ae2597375ccb79b018f7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 23m 05:30 WIB 11/05/26] Grêmio - RS vs Flamengo - RJ
 https://dlqcalr.alilicloud.com/live/58c77755f5bc6eb888895cd9966e43bd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h65oj6q86" tvg-name="South East FC vs Dublanc FC" tvg-logo="https://img.rapid-api.icu/football/team/6cd44d8e0b17af200b59a4cbcf579c2b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 29m 05:30 WIB 11/05/26] South East FC vs Dublanc FC
+#EXTINF:-1 tvg-id="4wyrn4h65oj6q86" tvg-name="South East FC vs Dublanc FC" tvg-logo="https://img.rapid-api.icu/football/team/6cd44d8e0b17af200b59a4cbcf579c2b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 23m 05:30 WIB 11/05/26] South East FC vs Dublanc FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h66ne2moj" tvg-name="Ituano  SP vs AD Confiança" tvg-logo="https://img.rapid-api.icu/football/team/75bb90d5eb02464f8516c1c74220e556/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 29m 05:30 WIB 11/05/26] Ituano  SP vs AD Confiança
+#EXTINF:-1 tvg-id="y39mp1h66ne2moj" tvg-name="Ituano  SP vs AD Confiança" tvg-logo="https://img.rapid-api.icu/football/team/75bb90d5eb02464f8516c1c74220e556/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 23m 05:30 WIB 11/05/26] Ituano  SP vs AD Confiança
 https://dlqcalr.alilicloud.com/live/de38222b1c7231b8a6254eff10358aa1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="23xmvkh6l887qg8" tvg-name="SV Flora vs Broki" tvg-logo="https://img.rapid-api.icu/football/team/5b6e08fd9cef49b632f3f0164ea07593/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 59m 06:00 WIB 11/05/26] SV Flora vs Broki
+#EXTINF:-1 tvg-id="23xmvkh6l887qg8" tvg-name="SV Flora vs Broki" tvg-logo="https://img.rapid-api.icu/football/team/5b6e08fd9cef49b632f3f0164ea07593/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 53m 06:00 WIB 11/05/26] SV Flora vs Broki
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5en08ql0" tvg-name="Atlanta United FC II vs Orlando City B" tvg-logo="https://img.rapid-api.icu/football/team/a63bef3ed55595bcdd6aee17faa92e99/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 59m 06:00 WIB 11/05/26] Atlanta United FC II vs Orlando City B
+#EXTINF:-1 tvg-id="2y8m4zh5en08ql0" tvg-name="Atlanta United FC II vs Orlando City B" tvg-logo="https://img.rapid-api.icu/football/team/a63bef3ed55595bcdd6aee17faa92e99/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 53m 06:00 WIB 11/05/26] Atlanta United FC II vs Orlando City B
 https://dlqcalr.alilicloud.com/live/af1c7a7bf774251a29b850b104ced741/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h6x2z8q86" tvg-name="Sportivo Luqueno vs Club Libertad Asunción" tvg-logo="https://img.rapid-api.icu/football/team/bb4f96d5b620a7d28c23bad988d7a42f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 59m 06:00 WIB 11/05/26] Sportivo Luqueno vs Club Libertad Asunción
+#EXTINF:-1 tvg-id="4wyrn4h6x2z8q86" tvg-name="Sportivo Luqueno vs Club Libertad Asunción" tvg-logo="https://img.rapid-api.icu/football/team/bb4f96d5b620a7d28c23bad988d7a42f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 53m 06:00 WIB 11/05/26] Sportivo Luqueno vs Club Libertad Asunción
 https://dlqcalr.alilicloud.com/live/83d2222af74dee5d4cba3c80368ed7be/playlist.m3u8
 
-#EXTINF:-1 tvg-id="8yomo4h169e0q0j" tvg-name=" - Christos FC" tvg-logo="https://img.rapid-api.icu/football/team/e0b3c6bb3daf43cf73aca8f26b51e0f3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 59m 06:00 WIB 11/05/26]  - Christos FC
+#EXTINF:-1 tvg-id="8yomo4h169e0q0j" tvg-name=" - Christos FC" tvg-logo="https://img.rapid-api.icu/football/team/e0b3c6bb3daf43cf73aca8f26b51e0f3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 53m 06:00 WIB 11/05/26]  - Christos FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="k82rekhgwnl5rep" tvg-name="Cerro Porteno vs Club Guaraní" tvg-logo="https://img.rapid-api.icu/football/team/f7fd67cfe8246ab5bb2c0e414180f8a5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 59m 06:00 WIB 11/05/26] Cerro Porteno vs Club Guaraní
+#EXTINF:-1 tvg-id="k82rekhgwnl5rep" tvg-name="Cerro Porteno vs Club Guaraní" tvg-logo="https://img.rapid-api.icu/football/team/f7fd67cfe8246ab5bb2c0e414180f8a5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 53m 06:00 WIB 11/05/26] Cerro Porteno vs Club Guaraní
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph47vdxr8k" tvg-name="Pachuca vs Toluca" tvg-logo="https://img.rapid-api.icu/football/team/9b6b7635a66bc003fb6bbe86dcea0a6c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 59m 06:00 WIB 11/05/26] Pachuca vs Toluca
+#EXTINF:-1 tvg-id="l5ergph47vdxr8k" tvg-name="Pachuca vs Toluca" tvg-logo="https://img.rapid-api.icu/football/team/9b6b7635a66bc003fb6bbe86dcea0a6c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 53m 06:00 WIB 11/05/26] Pachuca vs Toluca
 https://dlqcalr.alilicloud.com/live/ef55cc8fcb0b417236d0b6c66b9c843d/playlist.m3u8
 
-#EXTINF:-1 tvg-id="n54qllhnz37zqvy" tvg-name="Minnesota United FC vs Austin FC" tvg-logo="https://img.rapid-api.icu/football/team/e3166f7c8d18b6551ee7f088d3a8d742/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 59m 06:00 WIB 11/05/26] Minnesota United FC vs Austin FC
+#EXTINF:-1 tvg-id="n54qllhnz37zqvy" tvg-name="Minnesota United FC vs Austin FC" tvg-logo="https://img.rapid-api.icu/football/team/e3166f7c8d18b6551ee7f088d3a8d742/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 53m 06:00 WIB 11/05/26] Minnesota United FC vs Austin FC
 https://dlqcalr.alilicloud.com/live/59ff8140a30ace0fd28e8153722306ca/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghek2l7r6o" tvg-name="Seattle Reign (W) vs Washington Spirit Women" tvg-logo="https://img.rapid-api.icu/football/team/d5198dadbaa5acb37220c71a6dcf0658/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 59m 06:00 WIB 11/05/26] Seattle Reign (W) vs Washington Spirit Women
+#EXTINF:-1 tvg-id="vjxm8ghek2l7r6o" tvg-name="Seattle Reign (W) vs Washington Spirit Women" tvg-logo="https://img.rapid-api.icu/football/team/d5198dadbaa5acb37220c71a6dcf0658/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 53m 06:00 WIB 11/05/26] Seattle Reign (W) vs Washington Spirit Women
 https://dlqcalr.alilicloud.com/live/ac006fa92c96306a59bd86904ef48680/playlist.m3u8
 
-#EXTINF:-1 tvg-id="zp5rzghgdw02q82" tvg-name="Sportivo Trinidense Women vs Sportivo Luqueno Women" tvg-logo="https://img.rapid-api.icu/football/team/117211888dabec49c548e2c36a5dd9db/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 59m 06:00 WIB 11/05/26] Sportivo Trinidense Women vs Sportivo Luqueno Women
+#EXTINF:-1 tvg-id="zp5rzghgdw02q82" tvg-name="Sportivo Trinidense Women vs Sportivo Luqueno Women" tvg-logo="https://img.rapid-api.icu/football/team/117211888dabec49c548e2c36a5dd9db/image/small?v=1768601124" group-title="upcoming",[UPCOMING 5h 53m 06:00 WIB 11/05/26] Sportivo Trinidense Women vs Sportivo Luqueno Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="8yomo4h16967q0j" tvg-name="Deportiva Once Caldas vs Atletico Junior Barranquilla" tvg-logo="https://img.rapid-api.icu/football/team/1451c8cae9ea1ffadf77e1129883f443/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 9m 06:10 WIB 11/05/26] Deportiva Once Caldas vs Atletico Junior Barranquilla
+#EXTINF:-1 tvg-id="8yomo4h16967q0j" tvg-name="Deportiva Once Caldas vs Atletico Junior Barranquilla" tvg-logo="https://img.rapid-api.icu/football/team/1451c8cae9ea1ffadf77e1129883f443/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 3m 06:10 WIB 11/05/26] Deportiva Once Caldas vs Atletico Junior Barranquilla
 https://dlqcalr.alilicloud.com/live/9c49608829baa8d9281042f8fa5f532a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghelyw6r6o" tvg-name="Manta FC vs Macara" tvg-logo="https://img.rapid-api.icu/football/team/3e985d7cb87aa7b40da60e18f4cad136/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 9m 06:10 WIB 11/05/26] Manta FC vs Macara
+#EXTINF:-1 tvg-id="vjxm8ghelyw6r6o" tvg-name="Manta FC vs Macara" tvg-logo="https://img.rapid-api.icu/football/team/3e985d7cb87aa7b40da60e18f4cad136/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 3m 06:10 WIB 11/05/26] Manta FC vs Macara
 https://dlqcalr.alilicloud.com/live/3f08c705764a401370f60f61db12a79d/playlist.m3u8
 
-#EXTINF:-1 tvg-id="23xmvkh6p33zqg8" tvg-name="Vasco da Gama Saf - RJ vs Athletico Paranaense - PR" tvg-logo="https://img.rapid-api.icu/football/team/6a3c77d5e7700ec44c0a74b205e22c54/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 29m 06:30 WIB 11/05/26] Vasco da Gama Saf - RJ vs Athletico Paranaense - PR
+#EXTINF:-1 tvg-id="23xmvkh6p33zqg8" tvg-name="Vasco da Gama Saf - RJ vs Athletico Paranaense - PR" tvg-logo="https://img.rapid-api.icu/football/team/6a3c77d5e7700ec44c0a74b205e22c54/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 23m 06:30 WIB 11/05/26] Vasco da Gama Saf - RJ vs Athletico Paranaense - PR
 https://dlqcalr.alilicloud.com/live/9c528cdeac322f7f2919c8438743bb34/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6ypq3nhvpg61md7" tvg-name="Northern Virginia FC vs Virginia Marauders" tvg-logo="https://img.rapid-api.icu/football/team/0a276c538d265a5e3d98106240535e41/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 29m 06:30 WIB 11/05/26] Northern Virginia FC vs Virginia Marauders
+#EXTINF:-1 tvg-id="6ypq3nhvpg61md7" tvg-name="Northern Virginia FC vs Virginia Marauders" tvg-logo="https://img.rapid-api.icu/football/team/0a276c538d265a5e3d98106240535e41/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 23m 06:30 WIB 11/05/26] Northern Virginia FC vs Virginia Marauders
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh856zyqwz" tvg-name="Blooming vs Bolivar" tvg-logo="https://img.rapid-api.icu/football/team/c4882475ae47f9cf8d118530c7c3ccd5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 29m 06:30 WIB 11/05/26] Blooming vs Bolivar
+#EXTINF:-1 tvg-id="y0or5jh856zyqwz" tvg-name="Blooming vs Bolivar" tvg-logo="https://img.rapid-api.icu/football/team/c4882475ae47f9cf8d118530c7c3ccd5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 23m 06:30 WIB 11/05/26] Blooming vs Bolivar
 https://dlqcalr.alilicloud.com/live/5e8190c5a4c127174796a8fa00ae04cd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh9dzw7m7v" tvg-name="O.Higgins vs Everton CD" tvg-logo="https://img.rapid-api.icu/football/team/69ad45e74425eff6eb5a665d3b41bb1d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 59m 07:00 WIB 11/05/26] O.Higgins vs Everton CD
+#EXTINF:-1 tvg-id="1l4rjnh9dzw7m7v" tvg-name="O.Higgins vs Everton CD" tvg-logo="https://img.rapid-api.icu/football/team/69ad45e74425eff6eb5a665d3b41bb1d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 53m 07:00 WIB 11/05/26] O.Higgins vs Everton CD
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hng70nqdy" tvg-name="Kickstart Barbados FC vs Weymouth Wales" tvg-logo="https://img.rapid-api.icu/football/team/1df01772faa3858fef62b82cfd96e27b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 59m 07:00 WIB 11/05/26] Kickstart Barbados FC vs Weymouth Wales
+#EXTINF:-1 tvg-id="3glrw7hng70nqdy" tvg-name="Kickstart Barbados FC vs Weymouth Wales" tvg-logo="https://img.rapid-api.icu/football/team/1df01772faa3858fef62b82cfd96e27b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 53m 07:00 WIB 11/05/26] Kickstart Barbados FC vs Weymouth Wales
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dn1m1ghlgk8nmoe" tvg-name="Colorado Rapids II vs Sporting Kansas CityReserves" tvg-logo="https://img.rapid-api.icu/football/team/139ec9290a3d4fa3625a123ee2fd602b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 59m 07:00 WIB 11/05/26] Colorado Rapids II vs Sporting Kansas CityReserves
+#EXTINF:-1 tvg-id="dn1m1ghlgk8nmoe" tvg-name="Colorado Rapids II vs Sporting Kansas CityReserves" tvg-logo="https://img.rapid-api.icu/football/team/139ec9290a3d4fa3625a123ee2fd602b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 53m 07:00 WIB 11/05/26] Colorado Rapids II vs Sporting Kansas CityReserves
 https://dlqcalr.alilicloud.com/live/f0378892b74540e42318161498756ad4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="n54qllhnwp22qvy" tvg-name="Inter F.A vs Municipal Limeno" tvg-logo="https://img.rapid-api.icu/football/team/b276768239cb83d508c6d1be4251c4a8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 59m 07:00 WIB 11/05/26] Inter F.A vs Municipal Limeno
+#EXTINF:-1 tvg-id="n54qllhnwp22qvy" tvg-name="Inter F.A vs Municipal Limeno" tvg-logo="https://img.rapid-api.icu/football/team/b276768239cb83d508c6d1be4251c4a8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 53m 07:00 WIB 11/05/26] Inter F.A vs Municipal Limeno
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh8wg6jqwz" tvg-name="SV Jong Aruba vs SV Caiquetio" tvg-logo="https://img.rapid-api.icu/football/team/d74638396be3a37c7f33aa5044f959d5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 59m 07:00 WIB 11/05/26] SV Jong Aruba vs SV Caiquetio
+#EXTINF:-1 tvg-id="y0or5jh8wg6jqwz" tvg-name="SV Jong Aruba vs SV Caiquetio" tvg-logo="https://img.rapid-api.icu/football/team/d74638396be3a37c7f33aa5044f959d5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 6h 53m 07:00 WIB 11/05/26] SV Jong Aruba vs SV Caiquetio
 https://dlqcalr.alilicloud.com/live/894678808159296527ca9742267ea28c/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h650v4q86" tvg-name="West Seattle Junction vs Tacoma Stars" tvg-logo="https://img.rapid-api.icu/football/team/e524145b83d5dab5f4911d512a3155c0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 14m 07:15 WIB 11/05/26] West Seattle Junction vs Tacoma Stars
+#EXTINF:-1 tvg-id="4wyrn4h650v4q86" tvg-name="West Seattle Junction vs Tacoma Stars" tvg-logo="https://img.rapid-api.icu/football/team/e524145b83d5dab5f4911d512a3155c0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 8m 07:15 WIB 11/05/26] West Seattle Junction vs Tacoma Stars
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph472nnr8k" tvg-name="Austin FC II vs Tacoma Defiance" tvg-logo="https://img.rapid-api.icu/football/team/1eecd0a1322d1748c5c4e2b0cb477804/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 29m 07:30 WIB 11/05/26] Austin FC II vs Tacoma Defiance
+#EXTINF:-1 tvg-id="l5ergph472nnr8k" tvg-name="Austin FC II vs Tacoma Defiance" tvg-logo="https://img.rapid-api.icu/football/team/1eecd0a1322d1748c5c4e2b0cb477804/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 23m 07:30 WIB 11/05/26] Austin FC II vs Tacoma Defiance
 https://dlqcalr.alilicloud.com/live/de85e333f0633ccbf7e6894a38bcfc92/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vjxm8ghe7lldr6o" tvg-name="PR San Juan vs Puerto Rico Surf SC" tvg-logo="https://img.rapid-api.icu/football/team/e00ebefa7265fd87c4e12eea0c987fba/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 29m 07:30 WIB 11/05/26] PR San Juan vs Puerto Rico Surf SC
+#EXTINF:-1 tvg-id="vjxm8ghe7lldr6o" tvg-name="PR San Juan vs Puerto Rico Surf SC" tvg-logo="https://img.rapid-api.icu/football/team/e00ebefa7265fd87c4e12eea0c987fba/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 23m 07:30 WIB 11/05/26] PR San Juan vs Puerto Rico Surf SC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="zp5rzghgd42jq82" tvg-name="Velez Sarsfield vs Gimnasia La Plata" tvg-logo="https://img.rapid-api.icu/football/team/142b49c0322c369643ff267b96a2f239/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 29m 07:30 WIB 11/05/26] Velez Sarsfield vs Gimnasia La Plata
+#EXTINF:-1 tvg-id="zp5rzghgd42jq82" tvg-name="Velez Sarsfield vs Gimnasia La Plata" tvg-logo="https://img.rapid-api.icu/football/team/142b49c0322c369643ff267b96a2f239/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 23m 07:30 WIB 11/05/26] Velez Sarsfield vs Gimnasia La Plata
 https://dlqcalr.alilicloud.com/live/61d67f1ec6faf97656f4202187a20850/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1l4rjnh9d26gm7v" tvg-name="Tepatitlan FC vs Club Jaiba Brava" tvg-logo="https://img.rapid-api.icu/football/team/d41e29dc1e6a12fe1f9bc6f3c113b56b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 59m 08:00 WIB 11/05/26] Tepatitlan FC vs Club Jaiba Brava
+#EXTINF:-1 tvg-id="1l4rjnh9d26gm7v" tvg-name="Tepatitlan FC vs Club Jaiba Brava" tvg-logo="https://img.rapid-api.icu/football/team/d41e29dc1e6a12fe1f9bc6f3c113b56b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 53m 08:00 WIB 11/05/26] Tepatitlan FC vs Club Jaiba Brava
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh9lg49m7v" tvg-name="Los Angeles FC vs Houston Dynamo" tvg-logo="https://img.rapid-api.icu/football/team/f311462b8d9e0bea9712d5e5e665638e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 59m 08:00 WIB 11/05/26] Los Angeles FC vs Houston Dynamo
+#EXTINF:-1 tvg-id="1l4rjnh9lg49m7v" tvg-name="Los Angeles FC vs Houston Dynamo" tvg-logo="https://img.rapid-api.icu/football/team/f311462b8d9e0bea9712d5e5e665638e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 53m 08:00 WIB 11/05/26] Los Angeles FC vs Houston Dynamo
 https://dlqcalr.alilicloud.com/live/8b63ff4f7118b81f4433cc0bfabc95f3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h65022q86" tvg-name="Xelaju MC vs C.S.D. Comunicaciones" tvg-logo="https://img.rapid-api.icu/football/team/4709357c274fe8465e2113334ddb1708/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 59m 08:00 WIB 11/05/26] Xelaju MC vs C.S.D. Comunicaciones
+#EXTINF:-1 tvg-id="4wyrn4h65022q86" tvg-name="Xelaju MC vs C.S.D. Comunicaciones" tvg-logo="https://img.rapid-api.icu/football/team/4709357c274fe8465e2113334ddb1708/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 53m 08:00 WIB 11/05/26] Xelaju MC vs C.S.D. Comunicaciones
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="k82rekhgjnvkrep" tvg-name="Monterrey Women vs Pachuca Women" tvg-logo="https://img.rapid-api.icu/football/team/5318705eec7b93f9f09b8e4150b7dabe/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 59m 08:00 WIB 11/05/26] Monterrey Women vs Pachuca Women
+#EXTINF:-1 tvg-id="k82rekhgjnvkrep" tvg-name="Monterrey Women vs Pachuca Women" tvg-logo="https://img.rapid-api.icu/football/team/5318705eec7b93f9f09b8e4150b7dabe/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 53m 08:00 WIB 11/05/26] Monterrey Women vs Pachuca Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h6ep3gmoj" tvg-name="Club America Women vs Toluca Women" tvg-logo="https://img.rapid-api.icu/football/team/d3b975ee560a1b9b244b8247ebb2f1cf/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 59m 08:00 WIB 11/05/26] Club America Women vs Toluca Women
+#EXTINF:-1 tvg-id="y39mp1h6ep3gmoj" tvg-name="Club America Women vs Toluca Women" tvg-logo="https://img.rapid-api.icu/football/team/d3b975ee560a1b9b244b8247ebb2f1cf/image/small?v=1768601124" group-title="upcoming",[UPCOMING 7h 53m 08:00 WIB 11/05/26] Club America Women vs Toluca Women
 https://dlqcalr.alilicloud.com/live/ec020a55d23230880ee16982ec512aca/playlist.m3u8
 
-#EXTINF:-1 tvg-id="jw2r09hkgx3zrz8" tvg-name="Pumas U.N.A.M. vs Club America" tvg-logo="https://img.rapid-api.icu/football/team/7469a3ba655842152c7fb9879022215f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 14m 08:15 WIB 11/05/26] Pumas U.N.A.M. vs Club America
+#EXTINF:-1 tvg-id="jw2r09hkgx3zrz8" tvg-name="Pumas U.N.A.M. vs Club America" tvg-logo="https://img.rapid-api.icu/football/team/7469a3ba655842152c7fb9879022215f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 8m 08:15 WIB 11/05/26] Pumas U.N.A.M. vs Club America
 https://dlqcalr.alilicloud.com/live/e9e527f1b8aefd428f2a9776fd4942c2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehg9o2er51" tvg-name="Inter Palmira vs Envigado FC" tvg-logo="https://img.rapid-api.icu/football/team/64828d4e772525ca932224571839465f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 19m 08:20 WIB 11/05/26] Inter Palmira vs Envigado FC
+#EXTINF:-1 tvg-id="l7oqdehg9o2er51" tvg-name="Inter Palmira vs Envigado FC" tvg-logo="https://img.rapid-api.icu/football/team/64828d4e772525ca932224571839465f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 13m 08:20 WIB 11/05/26] Inter Palmira vs Envigado FC
 https://dlqcalr.alilicloud.com/live/376f6cdef88663e3ae48b2091dd6c3ef/playlist.m3u8
 
-#EXTINF:-1 tvg-id="318q66hx36dkqo9" tvg-name="Wuhan Three Towns U20 vs Yiwu Shangcheng School U20" tvg-logo="https://img.rapid-api.icu/football/team/8c231db8f0984ad02d5d6be6deee341b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 59m 09:00 WIB 11/05/26] Wuhan Three Towns U20 vs Yiwu Shangcheng School U20
+#EXTINF:-1 tvg-id="318q66hx36dkqo9" tvg-name="Wuhan Three Towns U20 vs Yiwu Shangcheng School U20" tvg-logo="https://img.rapid-api.icu/football/team/8c231db8f0984ad02d5d6be6deee341b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 53m 09:00 WIB 11/05/26] Wuhan Three Towns U20 vs Yiwu Shangcheng School U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghn5zd4m0v" tvg-name="Wenzhou FC U20 vs Qingdao Red Lions U20" tvg-logo="https://img.rapid-api.icu/football/team/1cc1151fe1d3299326aa10faffd3a010/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 59m 09:00 WIB 11/05/26] Wenzhou FC U20 vs Qingdao Red Lions U20
+#EXTINF:-1 tvg-id="4jwq2ghn5zd4m0v" tvg-name="Wenzhou FC U20 vs Qingdao Red Lions U20" tvg-logo="https://img.rapid-api.icu/football/team/1cc1151fe1d3299326aa10faffd3a010/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 53m 09:00 WIB 11/05/26] Wenzhou FC U20 vs Qingdao Red Lions U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph47ljyr8k" tvg-name="Shenzhen Peng City U20 vs Tianjin Dihua U20" tvg-logo="https://img.rapid-api.icu/football/team/13aa3a4a00378c4c2c19ffb3f7d48d90/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 59m 09:00 WIB 11/05/26] Shenzhen Peng City U20 vs Tianjin Dihua U20
+#EXTINF:-1 tvg-id="l5ergph47ljyr8k" tvg-name="Shenzhen Peng City U20 vs Tianjin Dihua U20" tvg-logo="https://img.rapid-api.icu/football/team/13aa3a4a00378c4c2c19ffb3f7d48d90/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 53m 09:00 WIB 11/05/26] Shenzhen Peng City U20 vs Tianjin Dihua U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h6e08ymoj" tvg-name="Ningbo FC U20 vs Nantong Zhiyun U20" tvg-logo="https://img.rapid-api.icu/football/team/7745d49735596555090f57f851bf22b9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 59m 09:00 WIB 11/05/26] Ningbo FC U20 vs Nantong Zhiyun U20
+#EXTINF:-1 tvg-id="y39mp1h6e08ymoj" tvg-name="Ningbo FC U20 vs Nantong Zhiyun U20" tvg-logo="https://img.rapid-api.icu/football/team/7745d49735596555090f57f851bf22b9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 53m 09:00 WIB 11/05/26] Ningbo FC U20 vs Nantong Zhiyun U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="zp5rzghgd6d8q82" tvg-name="Yunnan Yukun U20 vs Shaanxi Union U20" tvg-logo="https://img.rapid-api.icu/football/team/443a6d372531ffaf9febe36282798c87/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 59m 09:00 WIB 11/05/26] Yunnan Yukun U20 vs Shaanxi Union U20
+#EXTINF:-1 tvg-id="zp5rzghgd6d8q82" tvg-name="Yunnan Yukun U20 vs Shaanxi Union U20" tvg-logo="https://img.rapid-api.icu/football/team/443a6d372531ffaf9febe36282798c87/image/small?v=1768601124" group-title="upcoming",[UPCOMING 8h 53m 09:00 WIB 11/05/26] Yunnan Yukun U20 vs Shaanxi Union U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5ezkeql0" tvg-name="Tianjin Shengde Women vs Shandong Jinghua(w)" tvg-logo="https://img.rapid-api.icu/football/team/eb80333b2741b75e0231a15e88b0271c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 12h 59m 13:00 WIB 11/05/26] Tianjin Shengde Women vs Shandong Jinghua(w)
+#EXTINF:-1 tvg-id="2y8m4zh5ezkeql0" tvg-name="Tianjin Shengde Women vs Shandong Jinghua(w)" tvg-logo="https://img.rapid-api.icu/football/team/eb80333b2741b75e0231a15e88b0271c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 12h 53m 13:00 WIB 11/05/26] Tianjin Shengde Women vs Shandong Jinghua(w)
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="8yomo4h160djq0j" tvg-name="Zhanjiang Yuezhan Women vs Shanghai Shenhua Women" tvg-logo="https://img.rapid-api.icu/football/team/6461de32a8c6b3aa164a85f674647298/image/small?v=1768601124" group-title="upcoming",[UPCOMING 12h 59m 13:00 WIB 11/05/26] Zhanjiang Yuezhan Women vs Shanghai Shenhua Women
+#EXTINF:-1 tvg-id="8yomo4h160djq0j" tvg-name="Zhanjiang Yuezhan Women vs Shanghai Shenhua Women" tvg-logo="https://img.rapid-api.icu/football/team/6461de32a8c6b3aa164a85f674647298/image/small?v=1768601124" group-title="upcoming",[UPCOMING 12h 53m 13:00 WIB 11/05/26] Zhanjiang Yuezhan Women vs Shanghai Shenhua Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohl9nzpq1z" tvg-name="Hebei Snow Ruyi  Women vs Qingdao West Coast Women" tvg-logo="https://img.rapid-api.icu/football/team/d90a6eb7272ccb472f951d985c78f67d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 12h 59m 13:00 WIB 11/05/26] Hebei Snow Ruyi  Women vs Qingdao West Coast Women
+#EXTINF:-1 tvg-id="dj2ryohl9nzpq1z" tvg-name="Hebei Snow Ruyi  Women vs Qingdao West Coast Women" tvg-logo="https://img.rapid-api.icu/football/team/d90a6eb7272ccb472f951d985c78f67d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 12h 53m 13:00 WIB 11/05/26] Hebei Snow Ruyi  Women vs Qingdao West Coast Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh9djpym7v" tvg-name="Qingdao West Coast U20 vs Shandong Taishan U20" tvg-logo="https://img.rapid-api.icu/football/team/be37638458d0f4d50c4dda536ab36c04/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 59m 14:00 WIB 11/05/26] Qingdao West Coast U20 vs Shandong Taishan U20
+#EXTINF:-1 tvg-id="1l4rjnh9djpym7v" tvg-name="Qingdao West Coast U20 vs Shandong Taishan U20" tvg-logo="https://img.rapid-api.icu/football/team/be37638458d0f4d50c4dda536ab36c04/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 53m 14:00 WIB 11/05/26] Qingdao West Coast U20 vs Shandong Taishan U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4wyrn4h65o10q86" tvg-name="Shanghai Shenhua U20 vs Guangzhou Rockgoal U20" tvg-logo="https://img.rapid-api.icu/football/team/f05ae925744c6046e7bc8c91e7356f6a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 59m 14:00 WIB 11/05/26] Shanghai Shenhua U20 vs Guangzhou Rockgoal U20
+#EXTINF:-1 tvg-id="4wyrn4h65o10q86" tvg-name="Shanghai Shenhua U20 vs Guangzhou Rockgoal U20" tvg-logo="https://img.rapid-api.icu/football/team/f05ae925744c6046e7bc8c91e7356f6a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 53m 14:00 WIB 11/05/26] Shanghai Shenhua U20 vs Guangzhou Rockgoal U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="965mkyhk0293r1g" tvg-name="Beijing Guoan U20 vs Linyi Yihu U20" tvg-logo="https://img.rapid-api.icu/football/team/d1f564c69b15d8364a0d2b53cf66b870/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 59m 14:00 WIB 11/05/26] Beijing Guoan U20 vs Linyi Yihu U20
+#EXTINF:-1 tvg-id="965mkyhk0293r1g" tvg-name="Beijing Guoan U20 vs Linyi Yihu U20" tvg-logo="https://img.rapid-api.icu/football/team/d1f564c69b15d8364a0d2b53cf66b870/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 53m 14:00 WIB 11/05/26] Beijing Guoan U20 vs Linyi Yihu U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohl7x04q1z" tvg-name="Japan U17 Women vs South Korea U17 Women" tvg-logo="https://img.rapid-api.icu/football/team/689f21467d716dd59ff6cd7e7b7ca995/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 59m 14:00 WIB 11/05/26] Japan U17 Women vs South Korea U17 Women
+#EXTINF:-1 tvg-id="dj2ryohl7x04q1z" tvg-name="Japan U17 Women vs South Korea U17 Women" tvg-logo="https://img.rapid-api.icu/football/team/689f21467d716dd59ff6cd7e7b7ca995/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 53m 14:00 WIB 11/05/26] Japan U17 Women vs South Korea U17 Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dn1m1ghlgpdomoe" tvg-name="Liaoning Tieren U20 vs Hubei Istar U20" tvg-logo="https://img.rapid-api.icu/football/team/e389faaae5e2d1b2ef40c30080d80e8b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 59m 14:00 WIB 11/05/26] Liaoning Tieren U20 vs Hubei Istar U20
+#EXTINF:-1 tvg-id="dn1m1ghlgpdomoe" tvg-name="Liaoning Tieren U20 vs Hubei Istar U20" tvg-logo="https://img.rapid-api.icu/football/team/e389faaae5e2d1b2ef40c30080d80e8b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 53m 14:00 WIB 11/05/26] Liaoning Tieren U20 vs Hubei Istar U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="ednm9whwp2l9ryo" tvg-name="Guangdong Guangzhou Power U20 vs Shanghai Port U20" tvg-logo="https://img.rapid-api.icu/football/team/9859d8c9eee25ad77f6bc5cda3da0d14/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 59m 14:00 WIB 11/05/26] Guangdong Guangzhou Power U20 vs Shanghai Port U20
+#EXTINF:-1 tvg-id="ednm9whwp2l9ryo" tvg-name="Guangdong Guangzhou Power U20 vs Shanghai Port U20" tvg-logo="https://img.rapid-api.icu/football/team/9859d8c9eee25ad77f6bc5cda3da0d14/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 53m 14:00 WIB 11/05/26] Guangdong Guangzhou Power U20 vs Shanghai Port U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="jw2r09hkg6d0rz8" tvg-name="Henan FC U20 vs Tianjin Jinmen Tiger U20" tvg-logo="https://img.rapid-api.icu/football/team/7452e7757f37798fd0b6e117d8fe172b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 59m 14:00 WIB 11/05/26] Henan FC U20 vs Tianjin Jinmen Tiger U20
+#EXTINF:-1 tvg-id="jw2r09hkg6d0rz8" tvg-name="Henan FC U20 vs Tianjin Jinmen Tiger U20" tvg-logo="https://img.rapid-api.icu/football/team/7452e7757f37798fd0b6e117d8fe172b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 53m 14:00 WIB 11/05/26] Henan FC U20 vs Tianjin Jinmen Tiger U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="k82rekhgj0d3rep" tvg-name="Wenzhou Yincai U20 vs Zhejiang Professional FC U20" tvg-logo="https://img.rapid-api.icu/football/team/0b422fb380c2a60743b3e3446aee1313/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 59m 14:00 WIB 11/05/26] Wenzhou Yincai U20 vs Zhejiang Professional FC U20
+#EXTINF:-1 tvg-id="k82rekhgj0d3rep" tvg-name="Wenzhou Yincai U20 vs Zhejiang Professional FC U20" tvg-logo="https://img.rapid-api.icu/football/team/0b422fb380c2a60743b3e3446aee1313/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 53m 14:00 WIB 11/05/26] Wenzhou Yincai U20 vs Zhejiang Professional FC U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehg98z8r51" tvg-name="Shijiazhuang Gongfu U20 vs Lanzhou Longyuan Athletic U20" tvg-logo="https://img.rapid-api.icu/football/team/26cddd40ff497491fbc3e48382f4fed9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 59m 14:00 WIB 11/05/26] Shijiazhuang Gongfu U20 vs Lanzhou Longyuan Athletic U20
+#EXTINF:-1 tvg-id="l7oqdehg98z8r51" tvg-name="Shijiazhuang Gongfu U20 vs Lanzhou Longyuan Athletic U20" tvg-logo="https://img.rapid-api.icu/football/team/26cddd40ff497491fbc3e48382f4fed9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 13h 53m 14:00 WIB 11/05/26] Shijiazhuang Gongfu U20 vs Lanzhou Longyuan Athletic U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehgj3kdr51" tvg-name="Vietnam U17 Women vs Australia Women U17" tvg-logo="https://static.flashscore.com/res/image/data/pl7OX6xS-bRDIIsh2.png" group-title="upcoming",[UPCOMING 13h 59m 14:00 WIB 11/05/26] Vietnam U17 Women vs Australia Women U17
+#EXTINF:-1 tvg-id="l7oqdehgj3kdr51" tvg-name="Vietnam U17 Women vs Australia Women U17" tvg-logo="https://static.flashscore.com/res/image/data/pl7OX6xS-bRDIIsh2.png" group-title="upcoming",[UPCOMING 13h 53m 14:00 WIB 11/05/26] Vietnam U17 Women vs Australia Women U17
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hngzv8qdy" tvg-name="Wuhan Sports Three Towns University Women vs Chongqing Women" tvg-logo="https://img.rapid-api.icu/football/team/575aecf6c4aa0437c051c590efaeffc2/image/small?v=1768601124" group-title="upcoming",[UPCOMING 15h 14m 15:15 WIB 11/05/26] Wuhan Sports Three Towns University Women vs Chongqing Women
+#EXTINF:-1 tvg-id="3glrw7hngzv8qdy" tvg-name="Wuhan Sports Three Towns University Women vs Chongqing Women" tvg-logo="https://img.rapid-api.icu/football/team/575aecf6c4aa0437c051c590efaeffc2/image/small?v=1768601124" group-title="upcoming",[UPCOMING 15h 8m 15:15 WIB 11/05/26] Wuhan Sports Three Towns University Women vs Chongqing Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="6ypq3nhvpljomd7" tvg-name="Dalian Football School Women vs Zhejiang Hangzhou Women B" tvg-logo="https://img.rapid-api.icu/football/team/9e0976fbd2caf2b9862f4355eb3d9aca/image/small?v=1768601124" group-title="upcoming",[UPCOMING 15h 14m 15:15 WIB 11/05/26] Dalian Football School Women vs Zhejiang Hangzhou Women B
+#EXTINF:-1 tvg-id="6ypq3nhvpljomd7" tvg-name="Dalian Football School Women vs Zhejiang Hangzhou Women B" tvg-logo="https://img.rapid-api.icu/football/team/9e0976fbd2caf2b9862f4355eb3d9aca/image/small?v=1768601124" group-title="upcoming",[UPCOMING 15h 8m 15:15 WIB 11/05/26] Dalian Football School Women vs Zhejiang Hangzhou Women B
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhy0zk8ryk" tvg-name="Fujian Nanan Women vs Henan(W)" tvg-logo="https://img.rapid-api.icu/football/team/37f792fed1b1aa7b27bc79f37d213c49/image/small?v=1768601124" group-title="upcoming",[UPCOMING 15h 14m 15:15 WIB 11/05/26] Fujian Nanan Women vs Henan(W)
+#EXTINF:-1 tvg-id="pxwrxlhy0zk8ryk" tvg-name="Fujian Nanan Women vs Henan(W)" tvg-logo="https://img.rapid-api.icu/football/team/37f792fed1b1aa7b27bc79f37d213c49/image/small?v=1768601124" group-title="upcoming",[UPCOMING 15h 8m 15:15 WIB 11/05/26] Fujian Nanan Women vs Henan(W)
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe7pzzr6o" tvg-name="Shanxi Xihua Women vs Shanghai Jiading Huilong Women" tvg-logo="https://img.rapid-api.icu/football/team/b3d68e8151aeecd5fa830af59989586b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 15h 14m 15:15 WIB 11/05/26] Shanxi Xihua Women vs Shanghai Jiading Huilong Women
+#EXTINF:-1 tvg-id="vjxm8ghe7pzzr6o" tvg-name="Shanxi Xihua Women vs Shanghai Jiading Huilong Women" tvg-logo="https://img.rapid-api.icu/football/team/b3d68e8151aeecd5fa830af59989586b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 15h 8m 15:15 WIB 11/05/26] Shanxi Xihua Women vs Shanghai Jiading Huilong Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh89wwyqwz" tvg-name="BKMA II vs Ararat Yerevan II" tvg-logo="https://img.rapid-api.icu/football/team/cce52cd20b8546ea5da15f2752279172/image/small?v=1768601124" group-title="upcoming",[UPCOMING 15h 59m 16:00 WIB 11/05/26] BKMA II vs Ararat Yerevan II
+#EXTINF:-1 tvg-id="y0or5jh89wwyqwz" tvg-name="BKMA II vs Ararat Yerevan II" tvg-logo="https://img.rapid-api.icu/football/team/cce52cd20b8546ea5da15f2752279172/image/small?v=1768601124" group-title="upcoming",[UPCOMING 15h 53m 16:00 WIB 11/05/26] BKMA II vs Ararat Yerevan II
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghn5pllm0v" tvg-name="Academico Viseu U23 vs Santa Clara U23" tvg-logo="https://img.rapid-api.icu/football/team/0fb63c7cb13d9f50d5432ec9eaa1b381/image/small?v=1768601124" group-title="upcoming",[UPCOMING 16h 59m 17:00 WIB 11/05/26] Academico Viseu U23 vs Santa Clara U23
+#EXTINF:-1 tvg-id="4jwq2ghn5pllm0v" tvg-name="Academico Viseu U23 vs Santa Clara U23" tvg-logo="https://img.rapid-api.icu/football/team/0fb63c7cb13d9f50d5432ec9eaa1b381/image/small?v=1768601124" group-title="upcoming",[UPCOMING 16h 53m 17:00 WIB 11/05/26] Academico Viseu U23 vs Santa Clara U23
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohl9d11q1z" tvg-name="Yenisey Krasnoyarsk vs Arsenal Tula" tvg-logo="https://img.rapid-api.icu/football/team/5f60116cb230e1e6259ead1550353469/image/small?v=1768601124" group-title="upcoming",[UPCOMING 16h 59m 17:00 WIB 11/05/26] Yenisey Krasnoyarsk vs Arsenal Tula
+#EXTINF:-1 tvg-id="dj2ryohl9d11q1z" tvg-name="Yenisey Krasnoyarsk vs Arsenal Tula" tvg-logo="https://img.rapid-api.icu/football/team/5f60116cb230e1e6259ead1550353469/image/small?v=1768601124" group-title="upcoming",[UPCOMING 16h 53m 17:00 WIB 11/05/26] Yenisey Krasnoyarsk vs Arsenal Tula
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehg4036r51" tvg-name="Akron Togliatti vs FK Rostov" tvg-logo="https://img.rapid-api.icu/football/team/41c8004719e2c621219bd77a511d8561/image/small?v=1768601124" group-title="upcoming",[UPCOMING 16h 59m 17:00 WIB 11/05/26] Akron Togliatti vs FK Rostov
+#EXTINF:-1 tvg-id="l7oqdehg4036r51" tvg-name="Akron Togliatti vs FK Rostov" tvg-logo="https://img.rapid-api.icu/football/team/41c8004719e2c621219bd77a511d8561/image/small?v=1768601124" group-title="upcoming",[UPCOMING 16h 53m 17:00 WIB 11/05/26] Akron Togliatti vs FK Rostov
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhy073wryk" tvg-name="Tsirang FC vs BFF Academy U19" tvg-logo="https://img.rapid-api.icu/football/team/65e65423bc06371a8fb7d5d721008c12/image/small?v=1768601124" group-title="upcoming",[UPCOMING 16h 59m 17:00 WIB 11/05/26] Tsirang FC vs BFF Academy U19
+#EXTINF:-1 tvg-id="pxwrxlhy073wryk" tvg-name="Tsirang FC vs BFF Academy U19" tvg-logo="https://img.rapid-api.icu/football/team/65e65423bc06371a8fb7d5d721008c12/image/small?v=1768601124" group-title="upcoming",[UPCOMING 16h 53m 17:00 WIB 11/05/26] Tsirang FC vs BFF Academy U19
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phj9ogxm2w" tvg-name="Metalist 1925 Kharkiv(U21) vs Karpaty U21" tvg-logo="https://img.rapid-api.icu/football/team/38ad73ff0d30654d8c8fbcd11ffc82d0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 16h 59m 17:00 WIB 11/05/26] Metalist 1925 Kharkiv(U21) vs Karpaty U21
+#EXTINF:-1 tvg-id="vjxm8ghe0v27r6o" tvg-name="FK Kosmos Dolgoprudny vs Sheksna Cherepovets" tvg-logo="https://img.rapid-api.icu/football/team/967013ad6f3fd2c8a68de5389f71360e/image/small?v=1768601124" group-title="upcoming",[UPCOMING 16h 53m 17:00 WIB 11/05/26] FK Kosmos Dolgoprudny vs Sheksna Cherepovets
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghn5ep3m0v" tvg-name="Lee Man FC U22 vs Hong Kong FC U22" tvg-logo="https://img.rapid-api.icu/football/team/7e619b066c328eec394f27d8e955591c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 17h 29m 17:30 WIB 11/05/26] Lee Man FC U22 vs Hong Kong FC U22
+#EXTINF:-1 tvg-id="x7lm7phj9ogxm2w" tvg-name="Metalist 1925 Kharkiv(U21) vs Karpaty U21" tvg-logo="https://img.rapid-api.icu/football/team/38ad73ff0d30654d8c8fbcd11ffc82d0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 16h 53m 17:00 WIB 11/05/26] Metalist 1925 Kharkiv(U21) vs Karpaty U21
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="965mkyhk257yr1g" tvg-name="Melbourne Victory FC Youth vs Manningham United Blues" tvg-logo="https://img.rapid-api.icu/football/team/5edb531387b8dfda79400d5218d51fcf/image/small?v=1768601124" group-title="upcoming",[UPCOMING 17h 29m 17:30 WIB 11/05/26] Melbourne Victory FC Youth vs Manningham United Blues
+#EXTINF:-1 tvg-id="4jwq2ghn5ep3m0v" tvg-name="Lee Man FC U22 vs Hong Kong FC U22" tvg-logo="https://img.rapid-api.icu/football/team/7e619b066c328eec394f27d8e955591c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 17h 23m 17:30 WIB 11/05/26] Lee Man FC U22 vs Hong Kong FC U22
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5e465ql0" tvg-name="Ural Yekaterinburg vs KAMAZ Naberezhnye Chelny" tvg-logo="https://img.rapid-api.icu/football/team/fa2a7c9972a394ed8bf087d9df04c3c2/image/small?v=1768601124" group-title="upcoming",[UPCOMING 17h 59m 18:00 WIB 11/05/26] Ural Yekaterinburg vs KAMAZ Naberezhnye Chelny
+#EXTINF:-1 tvg-id="965mkyhk257yr1g" tvg-name="Melbourne Victory FC Youth vs Manningham United Blues" tvg-logo="https://img.rapid-api.icu/football/team/5edb531387b8dfda79400d5218d51fcf/image/small?v=1768601124" group-title="upcoming",[UPCOMING 17h 23m 17:30 WIB 11/05/26] Melbourne Victory FC Youth vs Manningham United Blues
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phj29n5m2w" tvg-name="Horsens Reserve vs Viborg Reserve" tvg-logo="https://img.rapid-api.icu/football/team/cb11df5e28edbeb8087573dd6d1960bb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 17h 59m 18:00 WIB 11/05/26] Horsens Reserve vs Viborg Reserve
+#EXTINF:-1 tvg-id="2y8m4zh5e465ql0" tvg-name="Ural Yekaterinburg vs KAMAZ Naberezhnye Chelny" tvg-logo="https://img.rapid-api.icu/football/team/fa2a7c9972a394ed8bf087d9df04c3c2/image/small?v=1768601124" group-title="upcoming",[UPCOMING 17h 53m 18:00 WIB 11/05/26] Ural Yekaterinburg vs KAMAZ Naberezhnye Chelny
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5vp9pql0" tvg-name="China U17 Women vs India Women U17" tvg-logo="https://img.rapid-api.icu/football/team/69e8de1ed0c0bda747176c62a6181dcc/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 29m 18:30 WIB 11/05/26] China U17 Women vs India Women U17
+#EXTINF:-1 tvg-id="x7lm7phj29n5m2w" tvg-name="Horsens Reserve vs Viborg Reserve" tvg-logo="https://img.rapid-api.icu/football/team/cb11df5e28edbeb8087573dd6d1960bb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 17h 53m 18:00 WIB 11/05/26] Horsens Reserve vs Viborg Reserve
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hng0pdqdy" tvg-name="Andranik vs Sadarakpat" tvg-logo="https://img.rapid-api.icu/football/team/42d31b8ba54445eaf659b6faee14484a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 29m 18:30 WIB 11/05/26] Andranik vs Sadarakpat
+#EXTINF:-1 tvg-id="2y8m4zh5vp9pql0" tvg-name="China U17 Women vs India Women U17" tvg-logo="https://img.rapid-api.icu/football/team/69e8de1ed0c0bda747176c62a6181dcc/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 23m 18:30 WIB 11/05/26] China U17 Women vs India Women U17
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="8yomo4h1y4ogq0j" tvg-name="North Korea U17 Women vs Thailand U17 Women" tvg-logo="https://static.flashscore.com/res/image/data/jPFAZOBr-z1GkOs5S.png" group-title="upcoming",[UPCOMING 18h 29m 18:30 WIB 11/05/26] North Korea U17 Women vs Thailand U17 Women
+#EXTINF:-1 tvg-id="3glrw7hng0pdqdy" tvg-name="Andranik vs Sadarakpat" tvg-logo="https://img.rapid-api.icu/football/team/42d31b8ba54445eaf659b6faee14484a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 23m 18:30 WIB 11/05/26] Andranik vs Sadarakpat
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe795vr6o" tvg-name="Bentonit Idzhevan vs Lernayin Artsakh" tvg-logo="https://img.rapid-api.icu/football/team/9471d621c5cc9ed99020a75f844f00de/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 29m 18:30 WIB 11/05/26] Bentonit Idzhevan vs Lernayin Artsakh
+#EXTINF:-1 tvg-id="8yomo4h1y4ogq0j" tvg-name="North Korea U17 Women vs Thailand U17 Women" tvg-logo="https://static.flashscore.com/res/image/data/jPFAZOBr-z1GkOs5S.png" group-title="upcoming",[UPCOMING 18h 23m 18:30 WIB 11/05/26] North Korea U17 Women vs Thailand U17 Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phj2n3km2w" tvg-name="FC Syunik vs Pyunik B" tvg-logo="https://img.rapid-api.icu/football/team/f22ac8edb1d4990ee4ce36cbe5dc2468/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 29m 18:30 WIB 11/05/26] FC Syunik vs Pyunik B
+#EXTINF:-1 tvg-id="vjxm8ghe795vr6o" tvg-name="Bentonit Idzhevan vs Lernayin Artsakh" tvg-logo="https://img.rapid-api.icu/football/team/9471d621c5cc9ed99020a75f844f00de/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 23m 18:30 WIB 11/05/26] Bentonit Idzhevan vs Lernayin Artsakh
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh8wjz4qwz" tvg-name="Urartu II vs FC Noah B" tvg-logo="https://img.rapid-api.icu/football/team/dfa6788ebf7e20e867cdf1f0bf8025b9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 29m 18:30 WIB 11/05/26] Urartu II vs FC Noah B
+#EXTINF:-1 tvg-id="x7lm7phj2n3km2w" tvg-name="FC Syunik vs Pyunik B" tvg-logo="https://img.rapid-api.icu/football/team/f22ac8edb1d4990ee4ce36cbe5dc2468/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 23m 18:30 WIB 11/05/26] FC Syunik vs Pyunik B
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh9g784m7v" tvg-name="Ethiopian Insurance vs Ethiopia Nigd Bank" tvg-logo="https://img.rapid-api.icu/football/team/e26ab6c00869694b40ce94cefb071ecc/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 59m 19:00 WIB 11/05/26] Ethiopian Insurance vs Ethiopia Nigd Bank
+#EXTINF:-1 tvg-id="y0or5jh8wjz4qwz" tvg-name="Urartu II vs FC Noah B" tvg-logo="https://img.rapid-api.icu/football/team/dfa6788ebf7e20e867cdf1f0bf8025b9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 23m 18:30 WIB 11/05/26] Urartu II vs FC Noah B
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5zpzgql0" tvg-name="Epitsentr U21 vs Polissya Zhytomyr U21" tvg-logo="https://img.rapid-api.icu/football/team/0afc45a8544307858b24a2f5eac8402b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 59m 19:00 WIB 11/05/26] Epitsentr U21 vs Polissya Zhytomyr U21
+#EXTINF:-1 tvg-id="1l4rjnh9g784m7v" tvg-name="Ethiopian Insurance vs Ethiopia Nigd Bank" tvg-logo="https://img.rapid-api.icu/football/team/e26ab6c00869694b40ce94cefb071ecc/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 53m 19:00 WIB 11/05/26] Ethiopian Insurance vs Ethiopia Nigd Bank
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="6ypq3nhvlnllmd7" tvg-name="PFC Oleksandria U21 vs Zorya U21" tvg-logo="https://img.rapid-api.icu/football/team/d9226afe7cd793f108c280cfd0bc6a63/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 59m 19:00 WIB 11/05/26] PFC Oleksandria U21 vs Zorya U21
+#EXTINF:-1 tvg-id="2y8m4zh5zpzgql0" tvg-name="Epitsentr U21 vs Polissya Zhytomyr U21" tvg-logo="https://img.rapid-api.icu/football/team/0afc45a8544307858b24a2f5eac8402b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 53m 19:00 WIB 11/05/26] Epitsentr U21 vs Polissya Zhytomyr U21
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohlg624q1z" tvg-name="Bhayangkara Presisi Indonesia FC vs Madura United" tvg-logo="https://img.rapid-api.icu/football/team/a107a6e9814c176aa23f06faf6e72808/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 59m 19:00 WIB 11/05/26] Bhayangkara Presisi Indonesia FC vs Madura United
+#EXTINF:-1 tvg-id="6ypq3nhvlnllmd7" tvg-name="PFC Oleksandria U21 vs Zorya U21" tvg-logo="https://img.rapid-api.icu/football/team/d9226afe7cd793f108c280cfd0bc6a63/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 53m 19:00 WIB 11/05/26] PFC Oleksandria U21 vs Zorya U21
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph4d9gvr8k" tvg-name="Posta Rangers vs Sofapaka FC" tvg-logo="https://img.rapid-api.icu/football/team/0c00ad09ad4c99ab61007050f3e6863d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 59m 19:00 WIB 11/05/26] Posta Rangers vs Sofapaka FC
+#EXTINF:-1 tvg-id="dj2ryohlg624q1z" tvg-name="Bhayangkara Presisi Indonesia FC vs Madura United" tvg-logo="https://img.rapid-api.icu/football/team/a107a6e9814c176aa23f06faf6e72808/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 53m 19:00 WIB 11/05/26] Bhayangkara Presisi Indonesia FC vs Madura United
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph4exeor8k" tvg-name="Bali United vs Borneo FC" tvg-logo="https://img.rapid-api.icu/football/team/ee330ce964bcbf337d987a6f5b03d302/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 59m 19:00 WIB 11/05/26] Bali United vs Borneo FC
+#EXTINF:-1 tvg-id="l5ergph4d9gvr8k" tvg-name="Posta Rangers vs Sofapaka FC" tvg-logo="https://img.rapid-api.icu/football/team/0c00ad09ad4c99ab61007050f3e6863d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 53m 19:00 WIB 11/05/26] Posta Rangers vs Sofapaka FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhnje5wqvy" tvg-name="Veres Rivne U21 vs Kryvbas U21" tvg-logo="https://img.rapid-api.icu/football/team/8ebf94878786ab92997f1f9a58d15b4c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 59m 19:00 WIB 11/05/26] Veres Rivne U21 vs Kryvbas U21
+#EXTINF:-1 tvg-id="l5ergph4exeor8k" tvg-name="Bali United vs Borneo FC" tvg-logo="https://img.rapid-api.icu/football/team/ee330ce964bcbf337d987a6f5b03d302/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 53m 19:00 WIB 11/05/26] Bali United vs Borneo FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhnw126qvy" tvg-name="Oleksandria U19 vs Zorya U21" tvg-logo="https://img.rapid-api.icu/football/team/15842b1435a10526c0898896054f022a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 59m 19:00 WIB 11/05/26] Oleksandria U19 vs Zorya U21
+#EXTINF:-1 tvg-id="n54qllhnje5wqvy" tvg-name="Veres Rivne U21 vs Kryvbas U21" tvg-logo="https://img.rapid-api.icu/football/team/8ebf94878786ab92997f1f9a58d15b4c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 53m 19:00 WIB 11/05/26] Veres Rivne U21 vs Kryvbas U21
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="8yomo4h12v40q0j" tvg-name="FC Pari Nizhniy Novgorod vs CSKA Moscow" tvg-logo="https://img.rapid-api.icu/football/team/71653e772332240ede847a741b5bb1d6/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 14m 19:15 WIB 11/05/26] FC Pari Nizhniy Novgorod vs CSKA Moscow
+#EXTINF:-1 tvg-id="n54qllhnw126qvy" tvg-name="Oleksandria U19 vs Zorya U21" tvg-logo="https://img.rapid-api.icu/football/team/15842b1435a10526c0898896054f022a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 18h 53m 19:00 WIB 11/05/26] Oleksandria U19 vs Zorya U21
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hng07dqdy" tvg-name="Fhman Abyan vs Sabbab Al-Bida'a" tvg-logo="https://img.rapid-api.icu/football/team/4250ea22c9e3ee8dfd90645c2105dff9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 29m 19:30 WIB 11/05/26] Fhman Abyan vs Sabbab Al-Bida'a
+#EXTINF:-1 tvg-id="8yomo4h12v40q0j" tvg-name="FC Pari Nizhniy Novgorod vs CSKA Moscow" tvg-logo="https://img.rapid-api.icu/football/team/71653e772332240ede847a741b5bb1d6/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 8m 19:15 WIB 11/05/26] FC Pari Nizhniy Novgorod vs CSKA Moscow
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="ednm9whwp7xjryo" tvg-name="Eastern District U22 vs Kitchee U22" tvg-logo="https://img.rapid-api.icu/football/team/e434839853ed711def0d2f722e7a4170/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 29m 19:30 WIB 11/05/26] Eastern District U22 vs Kitchee U22
+#EXTINF:-1 tvg-id="3glrw7hng07dqdy" tvg-name="Fhman Abyan vs Sabbab Al-Bida'a" tvg-logo="https://img.rapid-api.icu/football/team/4250ea22c9e3ee8dfd90645c2105dff9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 23m 19:30 WIB 11/05/26] Fhman Abyan vs Sabbab Al-Bida'a
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhy0756ryk" tvg-name="Al Helal Al-Sahely vs Al-Yarmok Rawda" tvg-logo="https://img.rapid-api.icu/football/team/3ba6853ca6c98160992953e43970fc17/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 29m 19:30 WIB 11/05/26] Al Helal Al-Sahely vs Al-Yarmok Rawda
+#EXTINF:-1 tvg-id="ednm9whwp7xjryo" tvg-name="Eastern District U22 vs Kitchee U22" tvg-logo="https://img.rapid-api.icu/football/team/e434839853ed711def0d2f722e7a4170/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 23m 19:30 WIB 11/05/26] Eastern District U22 vs Kitchee U22
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hng0p5qdy" tvg-name="Johor Darul Ta'zim II vs Selangor PKNS" tvg-logo="https://img.rapid-api.icu/football/team/8a11e6f4735ffe384dce7e4470d1d59c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 44m 19:45 WIB 11/05/26] Johor Darul Ta'zim II vs Selangor PKNS
+#EXTINF:-1 tvg-id="pxwrxlhy0756ryk" tvg-name="Al Helal Al-Sahely vs Al-Yarmok Rawda" tvg-logo="https://img.rapid-api.icu/football/team/3ba6853ca6c98160992953e43970fc17/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 23m 19:30 WIB 11/05/26] Al Helal Al-Sahely vs Al-Yarmok Rawda
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghn591pm0v" tvg-name="Aizawl FC vs Real Kashmir" tvg-logo="https://img.rapid-api.icu/football/team/9b20075337e30e0d8194b43cc06f87db/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 59m 20:00 WIB 11/05/26] Aizawl FC vs Real Kashmir
+#EXTINF:-1 tvg-id="3glrw7hng0p5qdy" tvg-name="Johor Darul Ta'zim II vs Selangor PKNS" tvg-logo="https://img.rapid-api.icu/football/team/8a11e6f4735ffe384dce7e4470d1d59c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 38m 19:45 WIB 11/05/26] Johor Darul Ta'zim II vs Selangor PKNS
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="ednm9whwp088ryo" tvg-name="Famalicao U23 vs Gil Vicente U23" tvg-logo="https://img.rapid-api.icu/football/team/4642513c85a15943a5458c475b0a4bad/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 59m 20:00 WIB 11/05/26] Famalicao U23 vs Gil Vicente U23
+#EXTINF:-1 tvg-id="4jwq2ghn591pm0v" tvg-name="Aizawl FC vs Real Kashmir" tvg-logo="https://img.rapid-api.icu/football/team/9b20075337e30e0d8194b43cc06f87db/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 53m 20:00 WIB 11/05/26] Aizawl FC vs Real Kashmir
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehgxp57r51" tvg-name="Negele Arsi vs Dire Dawa" tvg-logo="https://img.rapid-api.icu/football/team/94b151d0c888302245ae3bdf4249f190/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 59m 20:00 WIB 11/05/26] Negele Arsi vs Dire Dawa
+#EXTINF:-1 tvg-id="ednm9whwp088ryo" tvg-name="Famalicao U23 vs Gil Vicente U23" tvg-logo="https://img.rapid-api.icu/football/team/4642513c85a15943a5458c475b0a4bad/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 53m 20:00 WIB 11/05/26] Famalicao U23 vs Gil Vicente U23
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="8yomo4h163x4q0j" tvg-name="Team FC Cairo vs Aluminium Naq Hammadi" tvg-logo="https://img.rapid-api.icu/football/team/1eb1d63a7bb0d00d375e1a3bb0bce427/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 29m 20:30 WIB 11/05/26] Team FC Cairo vs Aluminium Naq Hammadi
+#EXTINF:-1 tvg-id="l7oqdehgxp57r51" tvg-name="Negele Arsi vs Dire Dawa" tvg-logo="https://img.rapid-api.icu/football/team/94b151d0c888302245ae3bdf4249f190/image/small?v=1768601124" group-title="upcoming",[UPCOMING 19h 53m 20:00 WIB 11/05/26] Negele Arsi vs Dire Dawa
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5enj8ql0" tvg-name="Nacional Montevideo vs Cerro Montevideo" tvg-logo="https://img.rapid-api.icu/football/team/0c04cafa50e2a753b1dbc8fe73ac6860/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Nacional Montevideo vs Cerro Montevideo
+#EXTINF:-1 tvg-id="8yomo4h163x4q0j" tvg-name="Team FC Cairo vs Aluminium Naq Hammadi" tvg-logo="https://img.rapid-api.icu/football/team/1eb1d63a7bb0d00d375e1a3bb0bce427/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 23m 20:30 WIB 11/05/26] Team FC Cairo vs Aluminium Naq Hammadi
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="318q66hx3no5qo9" tvg-name="Central Espanol vs Racing Club Montevideo" tvg-logo="https://img.rapid-api.icu/football/team/f731c0a79fb09033846d7f6fe39a1aa9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Central Espanol vs Racing Club Montevideo
+#EXTINF:-1 tvg-id="2y8m4zh5enj8ql0" tvg-name="Nacional Montevideo vs Cerro Montevideo" tvg-logo="https://img.rapid-api.icu/football/team/0c04cafa50e2a753b1dbc8fe73ac6860/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Nacional Montevideo vs Cerro Montevideo
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+
+#EXTINF:-1 tvg-id="318q66hx3no5qo9" tvg-name="Central Espanol vs Racing Club Montevideo" tvg-logo="https://img.rapid-api.icu/football/team/f731c0a79fb09033846d7f6fe39a1aa9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Central Espanol vs Racing Club Montevideo
 https://vlsrq.alilicloud.com/live/a65ed461be79d284a216e66cfa0f0a6e/playlist.m3u8
 
-#EXTINF:-1 tvg-id="4wyrn4h6508gq86" tvg-name="Danubio FC vs Albion FC" tvg-logo="https://img.rapid-api.icu/football/team/6f39630541426af755d4c59c74d40a19/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Danubio FC vs Albion FC
+#EXTINF:-1 tvg-id="4wyrn4h6508gq86" tvg-name="Danubio FC vs Albion FC" tvg-logo="https://img.rapid-api.icu/football/team/6f39630541426af755d4c59c74d40a19/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Danubio FC vs Albion FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="8yomo4h1653yq0j" tvg-name="Shinnik Yaroslavl vs Torpedo Moscow" tvg-logo="https://img.rapid-api.icu/football/team/9227867a0e57a6f39222448943fdbf34/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Shinnik Yaroslavl vs Torpedo Moscow
+#EXTINF:-1 tvg-id="8yomo4h1653yq0j" tvg-name="Shinnik Yaroslavl vs Torpedo Moscow" tvg-logo="https://img.rapid-api.icu/football/team/9227867a0e57a6f39222448943fdbf34/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Shinnik Yaroslavl vs Torpedo Moscow
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohl95yjq1z" tvg-name="Montevideo Wanderers FC vs Liverpool URU" tvg-logo="https://img.rapid-api.icu/football/team/c16dae367a446a5b7fb38a5d447244a8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Montevideo Wanderers FC vs Liverpool URU
+#EXTINF:-1 tvg-id="dj2ryohl95yjq1z" tvg-name="Montevideo Wanderers FC vs Liverpool URU" tvg-logo="https://img.rapid-api.icu/football/team/c16dae367a446a5b7fb38a5d447244a8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Montevideo Wanderers FC vs Liverpool URU
 https://live.rapidlive.shop/live/73175e4057d7c24d144f474aa2e2c1e4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dn1m1ghlgk45moe" tvg-name="Cerro Largo vs CA Penarol" tvg-logo="https://img.rapid-api.icu/football/team/e158c0806ef72e2641c8e35784c8730d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Cerro Largo vs CA Penarol
+#EXTINF:-1 tvg-id="dn1m1ghlgk45moe" tvg-name="Cerro Largo vs CA Penarol" tvg-logo="https://img.rapid-api.icu/football/team/e158c0806ef72e2641c8e35784c8730d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Cerro Largo vs CA Penarol
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="jw2r09hkg7nlrz8" tvg-name="Deportivo Maldonado vs Boston River" tvg-logo="https://img.rapid-api.icu/football/team/783f6f0b9029f7f26755bd0579a456c7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Deportivo Maldonado vs Boston River
+#EXTINF:-1 tvg-id="jw2r09hkg7nlrz8" tvg-name="Deportivo Maldonado vs Boston River" tvg-logo="https://img.rapid-api.icu/football/team/783f6f0b9029f7f26755bd0579a456c7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Deportivo Maldonado vs Boston River
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph47230r8k" tvg-name="Defensor Sporting Montevideo vs CA Juventud" tvg-logo="https://img.rapid-api.icu/football/team/257afe7736c8c003856a9c03f7a4f802/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Defensor Sporting Montevideo vs CA Juventud
+#EXTINF:-1 tvg-id="l5ergph47230r8k" tvg-name="Defensor Sporting Montevideo vs CA Juventud" tvg-logo="https://img.rapid-api.icu/football/team/257afe7736c8c003856a9c03f7a4f802/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Defensor Sporting Montevideo vs CA Juventud
 https://dlqcalr.alilicloud.com/live/f4d5ec9af85310cbe963e025854f351d/playlist.m3u8
 
-#EXTINF:-1 tvg-id="l7oqdehg9d66r51" tvg-name="Montevideo City Torque vs Club Atletico Progreso" tvg-logo="https://img.rapid-api.icu/football/team/efa0ccd379473dfb5a53abb34780cad3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Montevideo City Torque vs Club Atletico Progreso
+#EXTINF:-1 tvg-id="l7oqdehg9d66r51" tvg-name="Montevideo City Torque vs Club Atletico Progreso" tvg-logo="https://img.rapid-api.icu/football/team/efa0ccd379473dfb5a53abb34780cad3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Montevideo City Torque vs Club Atletico Progreso
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhyyvzlryk" tvg-name="East Bengal FC vs Minerva Punjab" tvg-logo="https://img.rapid-api.icu/football/team/3b21a7c47e6998936d29e802612b8fb3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] East Bengal FC vs Minerva Punjab
+#EXTINF:-1 tvg-id="pxwrxlhyyvzlryk" tvg-name="East Bengal FC vs Minerva Punjab" tvg-logo="https://img.rapid-api.icu/football/team/3b21a7c47e6998936d29e802612b8fb3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] East Bengal FC vs Minerva Punjab
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe79wdr6o" tvg-name="Kilmarnock U20 vs Celtic U20" tvg-logo="https://img.rapid-api.icu/football/team/643740ea5936f23b3d4c4ca72599a8df/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Kilmarnock U20 vs Celtic U20
+#EXTINF:-1 tvg-id="vjxm8ghe79wdr6o" tvg-name="Kilmarnock U20 vs Celtic U20" tvg-logo="https://img.rapid-api.icu/football/team/643740ea5936f23b3d4c4ca72599a8df/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Kilmarnock U20 vs Celtic U20
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phj204vm2w" tvg-name="Finland Women U17 vs France U17 Women" tvg-logo="https://img.rapid-api.icu/football/team/2cea4858800049e1214f44c3c9cec7db/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Finland Women U17 vs France U17 Women
+#EXTINF:-1 tvg-id="x7lm7phj204vm2w" tvg-name="Finland Women U17 vs France U17 Women" tvg-logo="https://img.rapid-api.icu/football/team/2cea4858800049e1214f44c3c9cec7db/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Finland Women U17 vs France U17 Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh8we7wqwz" tvg-name="Poland Women U17 vs Spain U17 Women" tvg-logo="https://img.rapid-api.icu/football/team/140dacbabba16271a731353fd438276b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 59m 21:00 WIB 11/05/26] Poland Women U17 vs Spain U17 Women
+#EXTINF:-1 tvg-id="y0or5jh8we7wqwz" tvg-name="Poland Women U17 vs Spain U17 Women" tvg-logo="https://img.rapid-api.icu/football/team/140dacbabba16271a731353fd438276b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 20h 53m 21:00 WIB 11/05/26] Poland Women U17 vs Spain U17 Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hng0d6qdy" tvg-name="Shabab Al Ahli Dubai U23 vs Baniyas SC U23" tvg-logo="https://img.rapid-api.icu/football/team/4aed0d22f30c487ce8b2b77944e08269/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 9m 21:10 WIB 11/05/26] Shabab Al Ahli Dubai U23 vs Baniyas SC U23
+#EXTINF:-1 tvg-id="3glrw7hng0d6qdy" tvg-name="Shabab Al Ahli Dubai U23 vs Baniyas SC U23" tvg-logo="https://img.rapid-api.icu/football/team/4aed0d22f30c487ce8b2b77944e08269/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 3m 21:10 WIB 11/05/26] Shabab Al Ahli Dubai U23 vs Baniyas SC U23
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="6ypq3nhvpgx4md7" tvg-name="Ajman SCC U23 vs Dibba Al Hisn U23" tvg-logo="https://img.rapid-api.icu/football/team/c312c5ec836587c58bb520d3ce306ec3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 9m 21:10 WIB 11/05/26] Ajman SCC U23 vs Dibba Al Hisn U23
+#EXTINF:-1 tvg-id="6ypq3nhvpgx4md7" tvg-name="Ajman SCC U23 vs Dibba Al Hisn U23" tvg-logo="https://img.rapid-api.icu/football/team/c312c5ec836587c58bb520d3ce306ec3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 3m 21:10 WIB 11/05/26] Ajman SCC U23 vs Dibba Al Hisn U23
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhy07d7ryk" tvg-name="Al-Dhafra U23 vs Al-Ain SCC U23" tvg-logo="https://img.rapid-api.icu/football/team/2a6b6301db724d385a5da6fc63650639/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 9m 21:10 WIB 11/05/26] Al-Dhafra U23 vs Al-Ain SCC U23
+#EXTINF:-1 tvg-id="pxwrxlhy07d7ryk" tvg-name="Al-Dhafra U23 vs Al-Ain SCC U23" tvg-logo="https://img.rapid-api.icu/football/team/2a6b6301db724d385a5da6fc63650639/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 3m 21:10 WIB 11/05/26] Al-Dhafra U23 vs Al-Ain SCC U23
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe79ywr6o" tvg-name="Al-Sharjah U23 vs Al Bataeh U23" tvg-logo="https://img.rapid-api.icu/football/team/982a6c25b955dfd4717d2c4b4bb9a197/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 9m 21:10 WIB 11/05/26] Al-Sharjah U23 vs Al Bataeh U23
+#EXTINF:-1 tvg-id="vjxm8ghe79ywr6o" tvg-name="Al-Sharjah U23 vs Al Bataeh U23" tvg-logo="https://img.rapid-api.icu/football/team/982a6c25b955dfd4717d2c4b4bb9a197/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 3m 21:10 WIB 11/05/26] Al-Sharjah U23 vs Al Bataeh U23
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe7xzjr6o" tvg-name="Al-Nasr Dubai vs Ittihad Kalba FC" tvg-logo="https://img.rapid-api.icu/football/team/5f1e81d00cdc6bf2d704630d8fa930ce/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 9m 21:10 WIB 11/05/26] Al-Nasr Dubai vs Ittihad Kalba FC
+#EXTINF:-1 tvg-id="vjxm8ghe7xzjr6o" tvg-name="Al-Nasr Dubai vs Ittihad Kalba FC" tvg-logo="https://img.rapid-api.icu/football/team/5f1e81d00cdc6bf2d704630d8fa930ce/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 3m 21:10 WIB 11/05/26] Al-Nasr Dubai vs Ittihad Kalba FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="6ypq3nhv8v3wmd7" tvg-name="Al-Najaf vs Erbil SC" tvg-logo="https://img.rapid-api.icu/football/team/107084dd05ff14db3c0b34577aec2883/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 29m 21:30 WIB 11/05/26] Al-Najaf vs Erbil SC
+#EXTINF:-1 tvg-id="6ypq3nhv8v3wmd7" tvg-name="Al-Najaf vs Erbil SC" tvg-logo="https://img.rapid-api.icu/football/team/107084dd05ff14db3c0b34577aec2883/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 23m 21:30 WIB 11/05/26] Al-Najaf vs Erbil SC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="6ypq3nhvzwn1md7" tvg-name="Spartak Moscow vs Rubin Kazan" tvg-logo="https://img.rapid-api.icu/football/team/1912acd6e2892d0042e53ec9a534b686/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 29m 21:30 WIB 11/05/26] Spartak Moscow vs Rubin Kazan
+#EXTINF:-1 tvg-id="6ypq3nhvzwn1md7" tvg-name="Spartak Moscow vs Rubin Kazan" tvg-logo="https://img.rapid-api.icu/football/team/1912acd6e2892d0042e53ec9a534b686/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 23m 21:30 WIB 11/05/26] Spartak Moscow vs Rubin Kazan
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohl911lq1z" tvg-name="FC Asia vs Ozgon" tvg-logo="https://img.rapid-api.icu/football/team/454e1e5d6cc7287d97400acad398be54/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 29m 21:30 WIB 11/05/26] FC Asia vs Ozgon
+#EXTINF:-1 tvg-id="dj2ryohl911lq1z" tvg-name="FC Asia vs Ozgon" tvg-logo="https://img.rapid-api.icu/football/team/454e1e5d6cc7287d97400acad398be54/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 23m 21:30 WIB 11/05/26] FC Asia vs Ozgon
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="jw2r09hk3k68rz8" tvg-name="Al-Kahraba Club vs Newroz SC" tvg-logo="https://img.rapid-api.icu/football/team/63e9007f30812d4ac6545f16e163ea65/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 29m 21:30 WIB 11/05/26] Al-Kahraba Club vs Newroz SC
+#EXTINF:-1 tvg-id="jw2r09hk3k68rz8" tvg-name="Al-Kahraba Club vs Newroz SC" tvg-logo="https://img.rapid-api.icu/football/team/63e9007f30812d4ac6545f16e163ea65/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 23m 21:30 WIB 11/05/26] Al-Kahraba Club vs Newroz SC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehgxgoyr51" tvg-name="Al Karkh vs Amanat Baghdad" tvg-logo="https://img.rapid-api.icu/football/team/0d0031b586206b2588208e3f18cf7f14/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 29m 21:30 WIB 11/05/26] Al Karkh vs Amanat Baghdad
+#EXTINF:-1 tvg-id="l7oqdehgxgoyr51" tvg-name="Al Karkh vs Amanat Baghdad" tvg-logo="https://img.rapid-api.icu/football/team/0d0031b586206b2588208e3f18cf7f14/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 23m 21:30 WIB 11/05/26] Al Karkh vs Amanat Baghdad
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh54lnoql0" tvg-name="Yantra Gabrovo vs Vihren Sandanski" tvg-logo="https://img.rapid-api.icu/football/team/cd3c9eb7a6731fde6b70c0906d1a5ee9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 44m 21:45 WIB 11/05/26] Yantra Gabrovo vs Vihren Sandanski
+#EXTINF:-1 tvg-id="2y8m4zh54lnoql0" tvg-name="Yantra Gabrovo vs Vihren Sandanski" tvg-logo="https://img.rapid-api.icu/football/team/cd3c9eb7a6731fde6b70c0906d1a5ee9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 38m 21:45 WIB 11/05/26] Yantra Gabrovo vs Vihren Sandanski
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh9d36nm7v" tvg-name="Al Afreky Libya vs Ittihad Al Askari" tvg-logo="https://img.rapid-api.icu/football/team/64e1a54195da39f4ea03531f729baef0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Al Afreky Libya vs Ittihad Al Askari
+#EXTINF:-1 tvg-id="1l4rjnh9d36nm7v" tvg-name="Al Afreky Libya vs Ittihad Al Askari" tvg-logo="https://img.rapid-api.icu/football/team/64e1a54195da39f4ea03531f729baef0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Al Afreky Libya vs Ittihad Al Askari
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh9nvzdm7v" tvg-name="Sfax Railways vs AS Agareb" tvg-logo="https://img.rapid-api.icu/football/team/635639eb775fa5829c5f186e6efecc0b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Sfax Railways vs AS Agareb
+#EXTINF:-1 tvg-id="1l4rjnh9nvzdm7v" tvg-name="Sfax Railways vs AS Agareb" tvg-logo="https://img.rapid-api.icu/football/team/635639eb775fa5829c5f186e6efecc0b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Sfax Railways vs AS Agareb
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="23xmvkh6y7dyqg8" tvg-name="E. M. Mahdia vs Oceano Kerkennah" tvg-logo="https://img.rapid-api.icu/football/team/2eea748e16e556cffa3a7b8783390efb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] E. M. Mahdia vs Oceano Kerkennah
+#EXTINF:-1 tvg-id="23xmvkh6y7dyqg8" tvg-name="E. M. Mahdia vs Oceano Kerkennah" tvg-logo="https://img.rapid-api.icu/football/team/2eea748e16e556cffa3a7b8783390efb/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] E. M. Mahdia vs Oceano Kerkennah
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hnnjxxqdy" tvg-name="Grobina vs Jelgava" tvg-logo="https://img.rapid-api.icu/football/team/d12efb8e228133248206e2ea945a5057/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Grobina vs Jelgava
+#EXTINF:-1 tvg-id="3glrw7hnnjxxqdy" tvg-name="Grobina vs Jelgava" tvg-logo="https://img.rapid-api.icu/football/team/d12efb8e228133248206e2ea945a5057/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Grobina vs Jelgava
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghn504wm0v" tvg-name="Al Ahly Benghazi vs Al Akhdar" tvg-logo="https://img.rapid-api.icu/football/team/5eefaaa03ebe2470fafd78fc275cc4da/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Al Ahly Benghazi vs Al Akhdar
+#EXTINF:-1 tvg-id="4jwq2ghn504wm0v" tvg-name="Al Ahly Benghazi vs Al Akhdar" tvg-logo="https://img.rapid-api.icu/football/team/5eefaaa03ebe2470fafd78fc275cc4da/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Al Ahly Benghazi vs Al Akhdar
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghnglvdm0v" tvg-name="Bouselem vs Megrine" tvg-logo="https://img.rapid-api.icu/football/team/423a198467c36fef4949febc84d3557f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Bouselem vs Megrine
+#EXTINF:-1 tvg-id="4jwq2ghnglvdm0v" tvg-name="Bouselem vs Megrine" tvg-logo="https://img.rapid-api.icu/football/team/423a198467c36fef4949febc84d3557f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Bouselem vs Megrine
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4wyrn4h67g0wq86" tvg-name="Ludogorets Razgrad II vs Lokomotiv Gorna Oryahovitsa" tvg-logo="https://img.rapid-api.icu/football/team/6521d23d0fb2b10a57dbc07c2b088bc8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Ludogorets Razgrad II vs Lokomotiv Gorna Oryahovitsa
+#EXTINF:-1 tvg-id="4wyrn4h67g0wq86" tvg-name="Ludogorets Razgrad II vs Lokomotiv Gorna Oryahovitsa" tvg-logo="https://img.rapid-api.icu/football/team/6521d23d0fb2b10a57dbc07c2b088bc8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Ludogorets Razgrad II vs Lokomotiv Gorna Oryahovitsa
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohl9ep1q1z" tvg-name="Pogradeci vs Besa Kavaje" tvg-logo="https://img.rapid-api.icu/football/team/987941c5714a35beb459f350fa055d47/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Pogradeci vs Besa Kavaje
+#EXTINF:-1 tvg-id="dj2ryohl9ep1q1z" tvg-name="Pogradeci vs Besa Kavaje" tvg-logo="https://img.rapid-api.icu/football/team/987941c5714a35beb459f350fa055d47/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Pogradeci vs Besa Kavaje
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohld856q1z" tvg-name="Sportist Svoge vs Pirin Blagoevgrad" tvg-logo="https://img.rapid-api.icu/football/team/ca77ede782085383da533d0fe14d63b8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Sportist Svoge vs Pirin Blagoevgrad
+#EXTINF:-1 tvg-id="dj2ryohld856q1z" tvg-name="Sportist Svoge vs Pirin Blagoevgrad" tvg-logo="https://img.rapid-api.icu/football/team/ca77ede782085383da533d0fe14d63b8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Sportist Svoge vs Pirin Blagoevgrad
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="ednm9whw96ovryo" tvg-name="Opava vs SK Artis Brno" tvg-logo="https://img.rapid-api.icu/football/team/294ca962757b92e0018a83a66cc430a0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Opava vs SK Artis Brno
+#EXTINF:-1 tvg-id="ednm9whw96ovryo" tvg-name="Opava vs SK Artis Brno" tvg-logo="https://img.rapid-api.icu/football/team/294ca962757b92e0018a83a66cc430a0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Opava vs SK Artis Brno
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="ednm9whwpdkpryo" tvg-name="Al Hilal vs Al Nasr" tvg-logo="https://img.rapid-api.icu/football/team/24c7ac6aaf41fa5885fd4d411651b163/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Al Hilal vs Al Nasr
+#EXTINF:-1 tvg-id="ednm9whwpdkpryo" tvg-name="Al Hilal vs Al Nasr" tvg-logo="https://img.rapid-api.icu/football/team/24c7ac6aaf41fa5885fd4d411651b163/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Al Hilal vs Al Nasr
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="jw2r09hkp87drz8" tvg-name="Minyor Pernik vs CSKA Sofia B" tvg-logo="https://img.rapid-api.icu/football/team/f0f431a65261eb2e8de83b0d5533f155/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Minyor Pernik vs CSKA Sofia B
+#EXTINF:-1 tvg-id="jw2r09hkp87drz8" tvg-name="Minyor Pernik vs CSKA Sofia B" tvg-logo="https://img.rapid-api.icu/football/team/f0f431a65261eb2e8de83b0d5533f155/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Minyor Pernik vs CSKA Sofia B
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph45g27r8k" tvg-name="Marek Dupnitza vs FK Chernomorets 1919 Burgas" tvg-logo="https://img.rapid-api.icu/football/team/7e7708ac7d4f762263c3f0a54c2238e9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Marek Dupnitza vs FK Chernomorets 1919 Burgas
+#EXTINF:-1 tvg-id="l5ergph45g27r8k" tvg-name="Marek Dupnitza vs FK Chernomorets 1919 Burgas" tvg-logo="https://img.rapid-api.icu/football/team/7e7708ac7d4f762263c3f0a54c2238e9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Marek Dupnitza vs FK Chernomorets 1919 Burgas
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph472y8r8k" tvg-name="Torreense U23 vs Leixoes U23" tvg-logo="https://img.rapid-api.icu/football/team/12cb43f391548812375d17f14556298b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Torreense U23 vs Leixoes U23
+#EXTINF:-1 tvg-id="l5ergph472y8r8k" tvg-name="Torreense U23 vs Leixoes U23" tvg-logo="https://img.rapid-api.icu/football/team/12cb43f391548812375d17f14556298b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Torreense U23 vs Leixoes U23
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph4k2nvr8k" tvg-name="Hegelmann Litauen II vs FK Transinvest B" tvg-logo="https://img.rapid-api.icu/football/team/09b5adf57dcf444625c16846ce71f24a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Hegelmann Litauen II vs FK Transinvest B
+#EXTINF:-1 tvg-id="l5ergph4k2nvr8k" tvg-name="Hegelmann Litauen II vs FK Transinvest B" tvg-logo="https://img.rapid-api.icu/football/team/09b5adf57dcf444625c16846ce71f24a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Hegelmann Litauen II vs FK Transinvest B
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l7oqdehge7dkr51" tvg-name="FC Sevlievo vs Belasitsa Petrich" tvg-logo="https://img.rapid-api.icu/football/team/3383ad956a9f69f35e28a70c74b160c5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] FC Sevlievo vs Belasitsa Petrich
+#EXTINF:-1 tvg-id="l7oqdehge7dkr51" tvg-name="FC Sevlievo vs Belasitsa Petrich" tvg-logo="https://img.rapid-api.icu/football/team/3383ad956a9f69f35e28a70c74b160c5/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] FC Sevlievo vs Belasitsa Petrich
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhn4vxnqvy" tvg-name="Croissant Msaken vs Chebba" tvg-logo="https://img.rapid-api.icu/football/team/41aec68b2456306f8b26c541e3eb9a91/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Croissant Msaken vs Chebba
+#EXTINF:-1 tvg-id="n54qllhn4vxnqvy" tvg-name="Croissant Msaken vs Chebba" tvg-logo="https://img.rapid-api.icu/football/team/41aec68b2456306f8b26c541e3eb9a91/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Croissant Msaken vs Chebba
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhynooxryk" tvg-name="Dinamo Jug vs Tekstilac" tvg-logo="https://img.rapid-api.icu/football/team/c6a6f37b056f2041dbd9abb0b8a40d45/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Dinamo Jug vs Tekstilac
+#EXTINF:-1 tvg-id="pxwrxlhynooxryk" tvg-name="Dinamo Jug vs Tekstilac" tvg-logo="https://img.rapid-api.icu/football/team/c6a6f37b056f2041dbd9abb0b8a40d45/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Dinamo Jug vs Tekstilac
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe066er6o" tvg-name="FK Graficar Beograd vs FK Dubocica" tvg-logo="https://img.rapid-api.icu/football/team/0a536b48af93a5fa0852083432965690/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] FK Graficar Beograd vs FK Dubocica
+#EXTINF:-1 tvg-id="vjxm8ghe066er6o" tvg-name="FK Graficar Beograd vs FK Dubocica" tvg-logo="https://img.rapid-api.icu/football/team/0a536b48af93a5fa0852083432965690/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] FK Graficar Beograd vs FK Dubocica
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phjveexm2w" tvg-name="Semendrija 1924 vs Borac Cacak" tvg-logo="https://img.rapid-api.icu/football/team/6942adcd76acf2f5a0c2bef647f2f3d6/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Semendrija 1924 vs Borac Cacak
+#EXTINF:-1 tvg-id="x7lm7phjveexm2w" tvg-name="Semendrija 1924 vs Borac Cacak" tvg-logo="https://img.rapid-api.icu/football/team/6942adcd76acf2f5a0c2bef647f2f3d6/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Semendrija 1924 vs Borac Cacak
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phjx403m2w" tvg-name="BS Bouhajla vs US Tataouine" tvg-logo="https://img.rapid-api.icu/football/team/2481b6510e5d2e3f77ae25c98294e63b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] BS Bouhajla vs US Tataouine
+#EXTINF:-1 tvg-id="x7lm7phjx403m2w" tvg-name="BS Bouhajla vs US Tataouine" tvg-logo="https://img.rapid-api.icu/football/team/2481b6510e5d2e3f77ae25c98294e63b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] BS Bouhajla vs US Tataouine
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phjzgllm2w" tvg-name="Spaeri FC vs Gagra FC" tvg-logo="https://img.rapid-api.icu/football/team/a68b2cfb86f73acc06f778cb4093673a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Spaeri FC vs Gagra FC
+#EXTINF:-1 tvg-id="x7lm7phjzgllm2w" tvg-name="Spaeri FC vs Gagra FC" tvg-logo="https://img.rapid-api.icu/football/team/a68b2cfb86f73acc06f778cb4093673a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Spaeri FC vs Gagra FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh897enqwz" tvg-name="CS.Hammam-Lif vs ES Hamam-Sousse" tvg-logo="https://img.rapid-api.icu/football/team/06caac0bbab9e7a630982a7bf1b9c636/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] CS.Hammam-Lif vs ES Hamam-Sousse
+#EXTINF:-1 tvg-id="y0or5jh897enqwz" tvg-name="CS.Hammam-Lif vs ES Hamam-Sousse" tvg-logo="https://img.rapid-api.icu/football/team/06caac0bbab9e7a630982a7bf1b9c636/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] CS.Hammam-Lif vs ES Hamam-Sousse
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h6d4dlmoj" tvg-name="Metaloglobus vs Hermannstadt" tvg-logo="https://img.rapid-api.icu/football/team/6ff4f06c93e57179122cefffc8cd3323/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Metaloglobus vs Hermannstadt
+#EXTINF:-1 tvg-id="y39mp1h6d4dlmoj" tvg-name="Metaloglobus vs Hermannstadt" tvg-logo="https://img.rapid-api.icu/football/team/6ff4f06c93e57179122cefffc8cd3323/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Metaloglobus vs Hermannstadt
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="zp5rzghg38zoq82" tvg-name="Sporting Ben Arous vs Stade Africain Menzel Bourguib" tvg-logo="https://img.rapid-api.icu/football/team/8a59bf36c2d4aa6636f126aa6da2552c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 59m 22:00 WIB 11/05/26] Sporting Ben Arous vs Stade Africain Menzel Bourguib
+#EXTINF:-1 tvg-id="zp5rzghg38zoq82" tvg-name="Sporting Ben Arous vs Stade Africain Menzel Bourguib" tvg-logo="https://img.rapid-api.icu/football/team/8a59bf36c2d4aa6636f126aa6da2552c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 21h 53m 22:00 WIB 11/05/26] Sporting Ben Arous vs Stade Africain Menzel Bourguib
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh9g186m7v" tvg-name="Fyllingsdalen vs Sogndal B" tvg-logo="https://img.rapid-api.icu/football/team/27aa7d45c64c3203ba33dccecc728a72/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Fyllingsdalen vs Sogndal B
+#EXTINF:-1 tvg-id="1l4rjnh9g186m7v" tvg-name="Fyllingsdalen vs Sogndal B" tvg-logo="https://img.rapid-api.icu/football/team/27aa7d45c64c3203ba33dccecc728a72/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Fyllingsdalen vs Sogndal B
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="1l4rjnh9j1x6m7v" tvg-name="Malmo Women vs BK Hacken Women" tvg-logo="https://img.rapid-api.icu/football/team/d4154989b74783ab788a120d1ecdf78b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Malmo Women vs BK Hacken Women
+#EXTINF:-1 tvg-id="1l4rjnh9j1x6m7v" tvg-name="Malmo Women vs BK Hacken Women" tvg-logo="https://img.rapid-api.icu/football/team/d4154989b74783ab788a120d1ecdf78b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Malmo Women vs BK Hacken Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="318q66hx36keqo9" tvg-name="Masters Security vs Mitundu Baptist FC" tvg-logo="https://img.rapid-api.icu/football/team/290e24b5b203c57dba3e053231617381/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Masters Security vs Mitundu Baptist FC
+#EXTINF:-1 tvg-id="318q66hx36keqo9" tvg-name="Masters Security vs Mitundu Baptist FC" tvg-logo="https://img.rapid-api.icu/football/team/290e24b5b203c57dba3e053231617381/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Masters Security vs Mitundu Baptist FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hngy24qdy" tvg-name="Al-Ahli(Manama) vs Al Hidd" tvg-logo="https://img.rapid-api.icu/football/team/0f10f19aea36cdde20e80901bf38a27d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Al-Ahli(Manama) vs Al Hidd
+#EXTINF:-1 tvg-id="3glrw7hngy24qdy" tvg-name="Al-Ahli(Manama) vs Al Hidd" tvg-logo="https://img.rapid-api.icu/football/team/0f10f19aea36cdde20e80901bf38a27d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Al-Ahli(Manama) vs Al Hidd
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghn5o40m0v" tvg-name="Hapoel Nof HaGalil vs Kafr Qasim" tvg-logo="https://img.rapid-api.icu/football/team/139d3393f32856726f91f89a7d70a07a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Hapoel Nof HaGalil vs Kafr Qasim
+#EXTINF:-1 tvg-id="4jwq2ghn5o40m0v" tvg-name="Hapoel Nof HaGalil vs Kafr Qasim" tvg-logo="https://img.rapid-api.icu/football/team/139d3393f32856726f91f89a7d70a07a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Hapoel Nof HaGalil vs Kafr Qasim
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghn5p8lm0v" tvg-name="FC Mouna d Akoupe vs ES D'Agboville" tvg-logo="https://img.rapid-api.icu/football/team/255fab9163a05ccd52e23ad7dd518f6f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] FC Mouna d Akoupe vs ES D'Agboville
+#EXTINF:-1 tvg-id="4jwq2ghn5p8lm0v" tvg-name="FC Mouna d Akoupe vs ES D'Agboville" tvg-logo="https://img.rapid-api.icu/football/team/255fab9163a05ccd52e23ad7dd518f6f/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] FC Mouna d Akoupe vs ES D'Agboville
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghnwk8km0v" tvg-name="Vard Haugesund vs Brann 2" tvg-logo="https://img.rapid-api.icu/football/team/61166ce2eeb69fc7fc48836d0a0e90c0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Vard Haugesund vs Brann 2
+#EXTINF:-1 tvg-id="4jwq2ghnwk8km0v" tvg-name="Vard Haugesund vs Brann 2" tvg-logo="https://img.rapid-api.icu/football/team/61166ce2eeb69fc7fc48836d0a0e90c0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Vard Haugesund vs Brann 2
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4wyrn4h654xpq86" tvg-name="Olympique de Safi vs FUS Rabat" tvg-logo="https://img.rapid-api.icu/football/team/0ee4033b5b23740ba19e8783016f237d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Olympique de Safi vs FUS Rabat
+#EXTINF:-1 tvg-id="4wyrn4h654xpq86" tvg-name="Olympique de Safi vs FUS Rabat" tvg-logo="https://img.rapid-api.icu/football/team/0ee4033b5b23740ba19e8783016f237d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Olympique de Safi vs FUS Rabat
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="965mkyhkw3n8r1g" tvg-name="Flekkeroy IL vs Stabaek B" tvg-logo="https://img.rapid-api.icu/football/team/6fce2b62c30a2f47e967c44351041bdc/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Flekkeroy IL vs Stabaek B
+#EXTINF:-1 tvg-id="965mkyhkw3n8r1g" tvg-name="Flekkeroy IL vs Stabaek B" tvg-logo="https://img.rapid-api.icu/football/team/6fce2b62c30a2f47e967c44351041bdc/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Flekkeroy IL vs Stabaek B
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="ednm9whwpx18ryo" tvg-name="Olympic Sport Abobo vs SOL FC Abobo" tvg-logo="https://img.rapid-api.icu/football/team/8d93e7da2c0922c9c348e856cce75eb8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Olympic Sport Abobo vs SOL FC Abobo
+#EXTINF:-1 tvg-id="ednm9whwpx18ryo" tvg-name="Olympic Sport Abobo vs SOL FC Abobo" tvg-logo="https://img.rapid-api.icu/football/team/8d93e7da2c0922c9c348e856cce75eb8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Olympic Sport Abobo vs SOL FC Abobo
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph44vder8k" tvg-name="Nomme JK Kalju II vs Tallinna FC Levadia B" tvg-logo="https://img.rapid-api.icu/football/team/ecc132fd666f628d74ce481d7385a0fe/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Nomme JK Kalju II vs Tallinna FC Levadia B
+#EXTINF:-1 tvg-id="l5ergph44vder8k" tvg-name="Nomme JK Kalju II vs Tallinna FC Levadia B" tvg-logo="https://img.rapid-api.icu/football/team/ecc132fd666f628d74ce481d7385a0fe/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Nomme JK Kalju II vs Tallinna FC Levadia B
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph47ne7r8k" tvg-name="Tiller Women vs Molde Women" tvg-logo="https://img.rapid-api.icu/football/team/b29730be32de48bbfe8cefb674967489/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Tiller Women vs Molde Women
+#EXTINF:-1 tvg-id="l5ergph47ne7r8k" tvg-name="Tiller Women vs Molde Women" tvg-logo="https://img.rapid-api.icu/football/team/b29730be32de48bbfe8cefb674967489/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Tiller Women vs Molde Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhn3vvlqvy" tvg-name="Hapoel Kfar Saba vs Kiryat Yam SC" tvg-logo="https://img.rapid-api.icu/football/team/76a554ea343f070344fbf1029ffb07bd/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Hapoel Kfar Saba vs Kiryat Yam SC
+#EXTINF:-1 tvg-id="n54qllhn3vvlqvy" tvg-name="Hapoel Kfar Saba vs Kiryat Yam SC" tvg-logo="https://img.rapid-api.icu/football/team/76a554ea343f070344fbf1029ffb07bd/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Hapoel Kfar Saba vs Kiryat Yam SC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhnw8g6qvy" tvg-name="Malkiya vs Al-Riffa" tvg-logo="https://img.rapid-api.icu/football/team/89703ea8bec83861e8dbea220c8421a8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Malkiya vs Al-Riffa
+#EXTINF:-1 tvg-id="n54qllhnw8g6qvy" tvg-name="Malkiya vs Al-Riffa" tvg-logo="https://img.rapid-api.icu/football/team/89703ea8bec83861e8dbea220c8421a8/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Malkiya vs Al-Riffa
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="n54qllhnwj88qvy" tvg-name="KIL/Hemne Women vs Aalesund W" tvg-logo="https://img.rapid-api.icu/football/team/23ea08d1d02f9a77e07326438d44bd29/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] KIL/Hemne Women vs Aalesund W
+#EXTINF:-1 tvg-id="n54qllhnwj88qvy" tvg-name="KIL/Hemne Women vs Aalesund W" tvg-logo="https://img.rapid-api.icu/football/team/23ea08d1d02f9a77e07326438d44bd29/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] KIL/Hemne Women vs Aalesund W
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhy0ppwryk" tvg-name="Hapoel Rishon Lezion vs Maccabi Petah Tikva FC" tvg-logo="https://img.rapid-api.icu/football/team/3ab8337cf31f0ea7a4603662629fdc7c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Hapoel Rishon Lezion vs Maccabi Petah Tikva FC
+#EXTINF:-1 tvg-id="pxwrxlhy0ppwryk" tvg-name="Hapoel Rishon Lezion vs Maccabi Petah Tikva FC" tvg-logo="https://img.rapid-api.icu/football/team/3ab8337cf31f0ea7a4603662629fdc7c/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Hapoel Rishon Lezion vs Maccabi Petah Tikva FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhy18vxryk" tvg-name="ND Gorica vs Dravinja" tvg-logo="https://img.rapid-api.icu/football/team/78ef593a77912ac4bd9da9aaa9d12a3a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] ND Gorica vs Dravinja
+#EXTINF:-1 tvg-id="pxwrxlhy18vxryk" tvg-name="ND Gorica vs Dravinja" tvg-logo="https://img.rapid-api.icu/football/team/78ef593a77912ac4bd9da9aaa9d12a3a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] ND Gorica vs Dravinja
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhynlp4ryk" tvg-name="RB Leipzig Women vs Bayer Leverkusen Women" tvg-logo="https://img.rapid-api.icu/football/team/5f9c554d4f5e782a445192e601fb1bb0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] RB Leipzig Women vs Bayer Leverkusen Women
+#EXTINF:-1 tvg-id="pxwrxlhynlp4ryk" tvg-name="RB Leipzig Women vs Bayer Leverkusen Women" tvg-logo="https://img.rapid-api.icu/football/team/5f9c554d4f5e782a445192e601fb1bb0/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] RB Leipzig Women vs Bayer Leverkusen Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe7425r6o" tvg-name="Molinos El Pirata vs Academia Deportiva Cantolao" tvg-logo="https://img.rapid-api.icu/football/team/56bbe1a5f279daec6b94ec1dd5b5522d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Molinos El Pirata vs Academia Deportiva Cantolao
+#EXTINF:-1 tvg-id="vjxm8ghe7425r6o" tvg-name="Molinos El Pirata vs Academia Deportiva Cantolao" tvg-logo="https://img.rapid-api.icu/football/team/56bbe1a5f279daec6b94ec1dd5b5522d/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Molinos El Pirata vs Academia Deportiva Cantolao
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe78d0r6o" tvg-name="Al Khaldiya vs Al-Muharraq" tvg-logo="https://img.rapid-api.icu/football/team/842fbd4275c81858af82355fbcb62bf2/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Al Khaldiya vs Al-Muharraq
+#EXTINF:-1 tvg-id="vjxm8ghe78d0r6o" tvg-name="Al Khaldiya vs Al-Muharraq" tvg-logo="https://img.rapid-api.icu/football/team/842fbd4275c81858af82355fbcb62bf2/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Al Khaldiya vs Al-Muharraq
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y39mp1h6oj1omoj" tvg-name="Madla IL vs Viking B" tvg-logo="https://img.rapid-api.icu/football/team/11886cb725d52911465275f63d983dfc/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Madla IL vs Viking B
+#EXTINF:-1 tvg-id="y39mp1h6oj1omoj" tvg-name="Madla IL vs Viking B" tvg-logo="https://img.rapid-api.icu/football/team/11886cb725d52911465275f63d983dfc/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Madla IL vs Viking B
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="zp5rzghgo7nyq82" tvg-name="Asane Fotball B vs Fana" tvg-logo="https://img.rapid-api.icu/football/team/8982582b373cdfe7bfbf79130bae8da9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 59m 23:00 WIB 11/05/26] Asane Fotball B vs Fana
+#EXTINF:-1 tvg-id="zp5rzghgo7nyq82" tvg-name="Asane Fotball B vs Fana" tvg-logo="https://img.rapid-api.icu/football/team/8982582b373cdfe7bfbf79130bae8da9/image/small?v=1768601124" group-title="upcoming",[UPCOMING 22h 53m 23:00 WIB 11/05/26] Asane Fotball B vs Fana
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hn1v4zqdy" tvg-name="Odra Opole vs Pogon Grodzisk Mazowiecki" tvg-logo="https://img.rapid-api.icu/football/team/867e09a0e4a85865e4808279be410cec/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 29m 23:30 WIB 11/05/26] Odra Opole vs Pogon Grodzisk Mazowiecki
+#EXTINF:-1 tvg-id="3glrw7hn1v4zqdy" tvg-name="Odra Opole vs Pogon Grodzisk Mazowiecki" tvg-logo="https://img.rapid-api.icu/football/team/867e09a0e4a85865e4808279be410cec/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 23m 23:30 WIB 11/05/26] Odra Opole vs Pogon Grodzisk Mazowiecki
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="4jwq2ghnk3gnm0v" tvg-name="Slask Wroclaw vs LKS Lodz" tvg-logo="https://img.rapid-api.icu/football/team/c8201e60929980052a5a6b5ee449e19b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 29m 23:30 WIB 11/05/26] Slask Wroclaw vs LKS Lodz
+#EXTINF:-1 tvg-id="4jwq2ghnk3gnm0v" tvg-name="Slask Wroclaw vs LKS Lodz" tvg-logo="https://img.rapid-api.icu/football/team/c8201e60929980052a5a6b5ee449e19b/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 23m 23:30 WIB 11/05/26] Slask Wroclaw vs LKS Lodz
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2rydhplzpjr1z" tvg-name="Arcada Galati vs Dinamo Bucuresti" tvg-logo="https://img.rapid-api.icu/volleyball/team/0f9ce584884f6393926d56c3611a0afb/image/small" group-title="upcoming",[UPCOMING 23h 29m 23:30 WIB 11/05/26] Arcada Galati vs Dinamo Bucuresti
+#EXTINF:-1 tvg-id="dj2rydhplzpjr1z" tvg-name="Arcada Galati vs Dinamo Bucuresti" tvg-logo="https://img.rapid-api.icu/volleyball/team/0f9ce584884f6393926d56c3611a0afb/image/small" group-title="upcoming",[UPCOMING 23h 23m 23:30 WIB 11/05/26] Arcada Galati vs Dinamo Bucuresti
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phj2p1wm2w" tvg-name="Al-Jazira(UAE) vs Al-Wasl SC" tvg-logo="https://img.rapid-api.icu/football/team/48634098400f3331f387def19c7aee35/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 44m 23:45 WIB 11/05/26] Al-Jazira(UAE) vs Al-Wasl SC
+#EXTINF:-1 tvg-id="x7lm7phj2p1wm2w" tvg-name="Al-Jazira(UAE) vs Al-Wasl SC" tvg-logo="https://img.rapid-api.icu/football/team/48634098400f3331f387def19c7aee35/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 38m 23:45 WIB 11/05/26] Al-Jazira(UAE) vs Al-Wasl SC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh8w12gqwz" tvg-name="Khor Fakkan SSC vs Al Wahda(UAE)" tvg-logo="https://img.rapid-api.icu/football/team/74a449be6074c101728465edb3096745/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 44m 23:45 WIB 11/05/26] Khor Fakkan SSC vs Al Wahda(UAE)
+#EXTINF:-1 tvg-id="y0or5jh8w12gqwz" tvg-name="Khor Fakkan SSC vs Al Wahda(UAE)" tvg-logo="https://img.rapid-api.icu/football/team/74a449be6074c101728465edb3096745/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 38m 23:45 WIB 11/05/26] Khor Fakkan SSC vs Al Wahda(UAE)
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dn1m1ghl1964moe" tvg-name="NEOM Sports Club vs Al Shabab FC" tvg-logo="https://img.rapid-api.icu/football/team/2c6c9388fc92656478dcb60eb5237bae/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 49m 23:50 WIB 11/05/26] NEOM Sports Club vs Al Shabab FC
+#EXTINF:-1 tvg-id="dn1m1ghl1964moe" tvg-name="NEOM Sports Club vs Al Shabab FC" tvg-logo="https://img.rapid-api.icu/football/team/2c6c9388fc92656478dcb60eb5237bae/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 43m 23:50 WIB 11/05/26] NEOM Sports Club vs Al Shabab FC
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="2y8m4zh5756jql0" tvg-name="Mosul FC vs Al Talaba" tvg-logo="https://img.rapid-api.icu/football/team/9eb28dc0bb57f24fb98921772d037ea1/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Mosul FC vs Al Talaba
+#EXTINF:-1 tvg-id="2y8m4zh5756jql0" tvg-name="Mosul FC vs Al Talaba" tvg-logo="https://img.rapid-api.icu/football/team/9eb28dc0bb57f24fb98921772d037ea1/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Mosul FC vs Al Talaba
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hn91oxqdy" tvg-name="Frigg vs KFUM Oslo II" tvg-logo="https://img.rapid-api.icu/football/team/89b2fcb0819819dc8cdccbc61be111cd/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Frigg vs KFUM Oslo II
+#EXTINF:-1 tvg-id="3glrw7hn91oxqdy" tvg-name="Frigg vs KFUM Oslo II" tvg-logo="https://img.rapid-api.icu/football/team/89b2fcb0819819dc8cdccbc61be111cd/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Frigg vs KFUM Oslo II
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="3glrw7hn9n7oqdy" tvg-name="Zakho SC vs Diala" tvg-logo="https://img.rapid-api.icu/football/team/97484bead60baabe7b181c7693e1fc12/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Zakho SC vs Diala
+#EXTINF:-1 tvg-id="3glrw7hn9n7oqdy" tvg-name="Zakho SC vs Diala" tvg-logo="https://img.rapid-api.icu/football/team/97484bead60baabe7b181c7693e1fc12/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Zakho SC vs Diala
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="8yomo4h164y9q0j" tvg-name="Bodrum FK vs Corum Belediyespor" tvg-logo="https://img.rapid-api.icu/football/team/c2c59971bce49a4651d47b348d96e45a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Bodrum FK vs Corum Belediyespor
+#EXTINF:-1 tvg-id="8yomo4h164y9q0j" tvg-name="Bodrum FK vs Corum Belediyespor" tvg-logo="https://img.rapid-api.icu/football/team/c2c59971bce49a4651d47b348d96e45a/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Bodrum FK vs Corum Belediyespor
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dj2ryohljgxjq1z" tvg-name="Dynamo Moscow vs FK Krasnodar" tvg-logo="https://img.rapid-api.icu/football/team/7a91ad38d4f148cfef81632fbd3a50b3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Dynamo Moscow vs FK Krasnodar
+#EXTINF:-1 tvg-id="dj2ryohljgxjq1z" tvg-name="Dynamo Moscow vs FK Krasnodar" tvg-logo="https://img.rapid-api.icu/football/team/7a91ad38d4f148cfef81632fbd3a50b3/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Dynamo Moscow vs FK Krasnodar
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="dn1m1ghlev37moe" tvg-name="Cracovia Krakow vs Radomiak Radom" tvg-logo="https://img.rapid-api.icu/football/team/185303eaade6aba10596589b3cb2e431/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Cracovia Krakow vs Radomiak Radom
+#EXTINF:-1 tvg-id="dn1m1ghlev37moe" tvg-name="Cracovia Krakow vs Radomiak Radom" tvg-logo="https://img.rapid-api.icu/football/team/185303eaade6aba10596589b3cb2e431/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Cracovia Krakow vs Radomiak Radom
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="jw2r09hkg796rz8" tvg-name="Benfica U23 vs Braga U23" tvg-logo="https://img.rapid-api.icu/football/team/c65771da4313015bebfcdf76c5a52389/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Benfica U23 vs Braga U23
+#EXTINF:-1 tvg-id="jw2r09hkg796rz8" tvg-name="Benfica U23 vs Braga U23" tvg-logo="https://img.rapid-api.icu/football/team/c65771da4313015bebfcdf76c5a52389/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Benfica U23 vs Braga U23
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="k82rekhgjwnvrep" tvg-name="Koprivnica vs NK Rudar Mursko Sredisce" tvg-logo="https://img.rapid-api.icu/football/team/b89b6f2830f3f3b7d41e43ddc749ddc7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Koprivnica vs NK Rudar Mursko Sredisce
+#EXTINF:-1 tvg-id="k82rekhgjwnvrep" tvg-name="Koprivnica vs NK Rudar Mursko Sredisce" tvg-logo="https://img.rapid-api.icu/football/team/b89b6f2830f3f3b7d41e43ddc749ddc7/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Koprivnica vs NK Rudar Mursko Sredisce
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="l5ergph4lelvr8k" tvg-name="Egersunds IK vs Odd Grenland" tvg-logo="https://img.rapid-api.icu/football/team/3bb4fc3ca975cf64db36e7d97b146411/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Egersunds IK vs Odd Grenland
+#EXTINF:-1 tvg-id="l5ergph4lelvr8k" tvg-name="Egersunds IK vs Odd Grenland" tvg-logo="https://img.rapid-api.icu/football/team/3bb4fc3ca975cf64db36e7d97b146411/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Egersunds IK vs Odd Grenland
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="pxwrxlhy9x9zryk" tvg-name="Madrid CFF Women vs Sevilla FC Women" tvg-logo="https://img.rapid-api.icu/football/team/f1f430871630a459f39d41b5ec689ffa/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Madrid CFF Women vs Sevilla FC Women
+#EXTINF:-1 tvg-id="pxwrxlhy9x9zryk" tvg-name="Madrid CFF Women vs Sevilla FC Women" tvg-logo="https://img.rapid-api.icu/football/team/f1f430871630a459f39d41b5ec689ffa/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Madrid CFF Women vs Sevilla FC Women
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghe5j2xr6o" tvg-name="IK Sirius FK vs Orgryte" tvg-logo="https://img.rapid-api.icu/football/team/672f730b052439b8f3c80b102deb2f82/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] IK Sirius FK vs Orgryte
+#EXTINF:-1 tvg-id="vjxm8ghe5j2xr6o" tvg-name="IK Sirius FK vs Orgryte" tvg-logo="https://img.rapid-api.icu/football/team/672f730b052439b8f3c80b102deb2f82/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] IK Sirius FK vs Orgryte
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8gheejnyr6o" tvg-name="Super Nova vs Tukums-2000" tvg-logo="https://img.rapid-api.icu/football/team/85669ab121d964160186916232a44636/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Super Nova vs Tukums-2000
+#EXTINF:-1 tvg-id="vjxm8gheejnyr6o" tvg-name="Super Nova vs Tukums-2000" tvg-logo="https://img.rapid-api.icu/football/team/85669ab121d964160186916232a44636/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Super Nova vs Tukums-2000
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="vjxm8ghelvnzr6o" tvg-name="FC Metalurgi Rustavi vs Dinamo Tbilisi" tvg-logo="https://img.rapid-api.icu/football/team/e447bbd9586b1513c6fee2030fd850fa/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] FC Metalurgi Rustavi vs Dinamo Tbilisi
+#EXTINF:-1 tvg-id="vjxm8ghelvnzr6o" tvg-name="FC Metalurgi Rustavi vs Dinamo Tbilisi" tvg-logo="https://img.rapid-api.icu/football/team/e447bbd9586b1513c6fee2030fd850fa/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] FC Metalurgi Rustavi vs Dinamo Tbilisi
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="x7lm7phjvox7m2w" tvg-name="Rosenborg B vs Kvik Trondheim" tvg-logo="https://img.rapid-api.icu/football/team/83c5d6b134c6668c816d583ff51018d1/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Rosenborg B vs Kvik Trondheim
+#EXTINF:-1 tvg-id="x7lm7phjvox7m2w" tvg-name="Rosenborg B vs Kvik Trondheim" tvg-logo="https://img.rapid-api.icu/football/team/83c5d6b134c6668c816d583ff51018d1/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Rosenborg B vs Kvik Trondheim
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-id="y0or5jh8903jqwz" tvg-name="Randers FC vs Odense BK" tvg-logo="https://img.rapid-api.icu/football/team/802fc199d369227c1b86869bb1450696/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 59m 00:00 WIB 12/05/26] Randers FC vs Odense BK
+#EXTINF:-1 tvg-id="y0or5jh8903jqwz" tvg-name="Randers FC vs Odense BK" tvg-logo="https://img.rapid-api.icu/football/team/802fc199d369227c1b86869bb1450696/image/small?v=1768601124" group-title="upcoming",[UPCOMING 23h 53m 00:00 WIB 12/05/26] Randers FC vs Odense BK
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
