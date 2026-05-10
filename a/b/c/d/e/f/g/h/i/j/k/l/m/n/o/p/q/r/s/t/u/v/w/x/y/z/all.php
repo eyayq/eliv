@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [20.36 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [20.43 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="1l4rjnh91xl1m7v" tvg-name="Nottingham Forest vs Newcastle United" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United",[LIVE 20:00 WIB | 10/05/26] Nottingham Forest vs Newcastle United (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
@@ -41,10 +41,10 @@ https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0b
 https://hls.686868.me/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 tvg-id="dj2ryohlyg57q1z" tvg-name="Burnley vs Aston Villa" tvg-logo="https://img.cdnok9.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png" group-title="[LIVE 20:00 WIB | 10/05/26] Burnley vs Aston Villa",[LIVE 20:00 WIB | 10/05/26] Burnley vs Aston Villa (Giàng A Hổ)
 https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 tvg-id="965mkyhk3zkzr1g" tvg-name="RCD Mallorca vs Villarreal CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF",[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF (GIÀNG A TỨ )
-https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
-#EXTINF:-1 tvg-id="965mkyhk3zkzr1g" tvg-name="RCD Mallorca vs Villarreal CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF",[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF (GIÀNG A TỨ )
-https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="jw2r09hkj9elrz8" tvg-name="Kuala Lumpur City FC vs Negeri Sembilan" tvg-logo="https://img.cdnok9.com/football/competition/70dd3b1e69708842440893f5a8b46632.png" group-title="[LIVE 19:15 WIB | 10/05/26] Kuala Lumpur City FC vs Negeri Sembilan",[LIVE 19:15 WIB | 10/05/26] Kuala Lumpur City FC vs Negeri Sembilan (PHONG VÂN)
+https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 tvg-id="jw2r09hkj9elrz8" tvg-name="Kuala Lumpur City FC vs Negeri Sembilan" tvg-logo="https://img.cdnok9.com/football/competition/70dd3b1e69708842440893f5a8b46632.png" group-title="[LIVE 19:15 WIB | 10/05/26] Kuala Lumpur City FC vs Negeri Sembilan",[LIVE 19:15 WIB | 10/05/26] Kuala Lumpur City FC vs Negeri Sembilan (PHONG VÂN)
+https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 tvg-id="965mkyhk3zkzr1g" tvg-name="RCD Mallorca vs Villarreal CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF",[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF (Giàng A Mèo)
 https://hls.686868.me/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 tvg-id="965mkyhk3zkzr1g" tvg-name="RCD Mallorca vs Villarreal CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF",[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF (Giàng A Mèo)
@@ -53,34 +53,30 @@ https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4db
 https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="965mkyhk3zkzr1g" tvg-name="RCD Mallorca vs Villarreal CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF",[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF (Giàng A Voi)
 https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="jw2r09hkkovorz8" tvg-name="Nantong Zhiyun vs Wuxi Wugo" tvg-logo="https://img.cdnok9.com/football/competition/aef1f7c3d09f7d1f60e0dde1ee3f1cbc.png" group-title="[LIVE 18:30 WIB | 10/05/26] Nantong Zhiyun vs Wuxi Wugo",[LIVE 18:30 WIB | 10/05/26] Nantong Zhiyun vs Wuxi Wugo (Giàng A Kê)
-https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="jw2r09hkkovorz8" tvg-name="Nantong Zhiyun vs Wuxi Wugo" tvg-logo="https://img.cdnok9.com/football/competition/aef1f7c3d09f7d1f60e0dde1ee3f1cbc.png" group-title="[LIVE 18:30 WIB | 10/05/26] Nantong Zhiyun vs Wuxi Wugo",[LIVE 18:30 WIB | 10/05/26] Nantong Zhiyun vs Wuxi Wugo (Giàng A Kê)
-https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
-#EXTINF:-1 tvg-id="l5ergph4don2r8k" tvg-name="KAA Gent vs Anderlecht" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 18:30 WIB | 10/05/26] KAA Gent vs Anderlecht",[LIVE 18:30 WIB | 10/05/26] KAA Gent vs Anderlecht (Giàng A Sún)
-https://hls.686868.me/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 tvg-id="l5ergph4don2r8k" tvg-name="KAA Gent vs Anderlecht" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[LIVE 18:30 WIB | 10/05/26] KAA Gent vs Anderlecht",[LIVE 18:30 WIB | 10/05/26] KAA Gent vs Anderlecht (Giàng A Sún)
-https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+#EXTINF:-1 tvg-id="965mkyhk3zkzr1g" tvg-name="RCD Mallorca vs Villarreal CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF",[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF (GIÀNG A TỨ )
+https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="965mkyhk3zkzr1g" tvg-name="RCD Mallorca vs Villarreal CF" tvg-logo="https://img.cdnok9.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png" group-title="[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF",[LIVE 19:00 WIB | 10/05/26] RCD Mallorca vs Villarreal CF (GIÀNG A TỨ )
+https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="y39mp1h650x1moj" tvg-name="Hamburger SV vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 10/05/26] Hamburger SV vs SC Freiburg",[LIVE 20:30 WIB | 10/05/26] Hamburger SV vs SC Freiburg (VĂN GÔN)
 https://flv.686868.me/live/VANGON2B.flv?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
 #EXTINF:-1 tvg-id="y39mp1h650x1moj" tvg-name="Hamburger SV vs SC Freiburg" tvg-logo="https://img.cdnok9.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LIVE 20:30 WIB | 10/05/26] Hamburger SV vs SC Freiburg",[LIVE 20:30 WIB | 10/05/26] Hamburger SV vs SC Freiburg (VĂN GÔN)
 https://hls.686868.me/live/VANGON2B/index.m3u8?expire=1888314540&sign=97728a067af5bf64e91cb4d51147c2a7
-#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (GIÀNG A MIKE)
-https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (GIÀNG A MIKE)
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (Giàng A Lỏ)
 https://hls.686868.me/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (Giàng A Lỏ)
 https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 tvg-id="3glrw7hnwxy7qdy" tvg-name="Cremonese vs Pisa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa",[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa (Giàng A Húp)
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 tvg-id="3glrw7hnwxy7qdy" tvg-name="Cremonese vs Pisa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa",[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa (Giàng A Húp)
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (GIÀNG A MIKE)
+https://hls.686868.me/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+#EXTINF:-1 tvg-id="y0or5jh8lv35qwz" tvg-name="Fiorentina vs Genoa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa",[LIVE 20:00 WIB | 10/05/26] Fiorentina vs Genoa (GIÀNG A MIKE)
+https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 tvg-id="3glrw7hnwxy7qdy" tvg-name="Cremonese vs Pisa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa",[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa (GIÀNG A PHỆ )
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 tvg-id="3glrw7hnwxy7qdy" tvg-name="Cremonese vs Pisa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa",[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa (GIÀNG A PHỆ )
 https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+#EXTINF:-1 tvg-id="3glrw7hnwxy7qdy" tvg-name="Cremonese vs Pisa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa",[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa (Giàng A Húp)
+https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+#EXTINF:-1 tvg-id="3glrw7hnwxy7qdy" tvg-name="Cremonese vs Pisa" tvg-logo="https://img.cdnok9.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png" group-title="[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa",[LIVE 20:00 WIB | 10/05/26] Cremonese vs Pisa (Giàng A Húp)
+https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 tvg-id="6ypq3nhv56wdmd7" tvg-name="Wisla Plock vs Motor Lublin" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 19:45 WIB | 10/05/26] Wisla Plock vs Motor Lublin",[LIVE 19:45 WIB | 10/05/26] Wisla Plock vs Motor Lublin (Giàng A Ka)
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=1781426880&sign=a458a93a7bcec032abd961681002dc10
 #EXTINF:-1 tvg-id="6ypq3nhv56wdmd7" tvg-name="Wisla Plock vs Motor Lublin" tvg-logo="https://img.cdnok9.com/football/competition/889c19181d34b5f3c2369456d5cd94bc.png" group-title="[LIVE 19:45 WIB | 10/05/26] Wisla Plock vs Motor Lublin",[LIVE 19:45 WIB | 10/05/26] Wisla Plock vs Motor Lublin (Giàng A Ka)
@@ -89,11 +85,11 @@ https://flv.686868.me/live/GIANGAKA.flv?expire=1781426880&sign=a458a93a7bcec032a
 https://hls.686868.me/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 tvg-id="6ypq3nhvvdy4md7" tvg-name="Cong An Ha Noi FC vs Thep Xanh Nam Dinh FC" tvg-logo="https://img.cdnok9.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png" group-title="[LIVE 19:15 WIB | 10/05/26] Cong An Ha Noi FC vs Thep Xanh Nam Dinh FC",[LIVE 19:15 WIB | 10/05/26] Cong An Ha Noi FC vs Thep Xanh Nam Dinh FC (GIÀNG A TÁO)
 https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 tvg-id="jw2r09hkj9elrz8" tvg-name="Kuala Lumpur City FC vs Negeri Sembilan" tvg-logo="https://img.cdnok9.com/football/competition/70dd3b1e69708842440893f5a8b46632.png" group-title="[LIVE 19:15 WIB | 10/05/26] Kuala Lumpur City FC vs Negeri Sembilan",[LIVE 19:15 WIB | 10/05/26] Kuala Lumpur City FC vs Negeri Sembilan (PHONG VÂN)
-https://hls.686868.me/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="jw2r09hkj9elrz8" tvg-name="Kuala Lumpur City FC vs Negeri Sembilan" tvg-logo="https://img.cdnok9.com/football/competition/70dd3b1e69708842440893f5a8b46632.png" group-title="[LIVE 19:15 WIB | 10/05/26] Kuala Lumpur City FC vs Negeri Sembilan",[LIVE 19:15 WIB | 10/05/26] Kuala Lumpur City FC vs Negeri Sembilan (PHONG VÂN)
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 tvg-id="23xmvkh6dk7kqg8" tvg-name="NK Osijek vs NK Istra 1961" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[UPCO 21:00 WIB | 22m | 10/05/26] NK Osijek vs NK Istra 1961",[UPCO 21:00 WIB | 22m | 10/05/26] NK Osijek vs NK Istra 1961 (HOÀNG CÁI)
+#EXTINF:-1 tvg-id="23xmvkh6dk7kqg8" tvg-name="NK Osijek vs NK Istra 1961" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[UPCO 21:00 WIB | 16m | 10/05/26] NK Osijek vs NK Istra 1961",[UPCO 21:00 WIB | 16m | 10/05/26] NK Osijek vs NK Istra 1961 (HOÀNG CÁI)
 https://hls.686868.me/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 tvg-id="23xmvkh6dk7kqg8" tvg-name="NK Osijek vs NK Istra 1961" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[UPCO 21:00 WIB | 22m | 10/05/26] NK Osijek vs NK Istra 1961",[UPCO 21:00 WIB | 22m | 10/05/26] NK Osijek vs NK Istra 1961 (HOÀNG CÁI)
+#EXTINF:-1 tvg-id="23xmvkh6dk7kqg8" tvg-name="NK Osijek vs NK Istra 1961" tvg-logo="https://img.cdnok9.com/football/competition/b9bfe8624aff65b2eee29962961d457c.png" group-title="[UPCO 21:00 WIB | 16m | 10/05/26] NK Osijek vs NK Istra 1961",[UPCO 21:00 WIB | 16m | 10/05/26] NK Osijek vs NK Istra 1961 (HOÀNG CÁI)
 https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+#EXTINF:-1 tvg-id="dn1m1ghlx41pmoe" tvg-name="Royal Antwerp vs RC Sporting Charleroi" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 21:00 WIB | 16m | 10/05/26] Royal Antwerp vs RC Sporting Charleroi",[UPCO 21:00 WIB | 16m | 10/05/26] Royal Antwerp vs RC Sporting Charleroi (Giàng A Kê)
+https://hls.686868.me/live/GIANGAKE/index.m3u8?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
+#EXTINF:-1 tvg-id="dn1m1ghlx41pmoe" tvg-name="Royal Antwerp vs RC Sporting Charleroi" tvg-logo="https://img.cdnok9.com/football/competition/66b24b09759356277ac913d6f2589f26.png" group-title="[UPCO 21:00 WIB | 16m | 10/05/26] Royal Antwerp vs RC Sporting Charleroi",[UPCO 21:00 WIB | 16m | 10/05/26] Royal Antwerp vs RC Sporting Charleroi (Giàng A Kê)
+https://flv.686868.me/live/GIANGAKE.flv?expire=1781256000&sign=3d4565fe058f7feca39f39285764f43d
