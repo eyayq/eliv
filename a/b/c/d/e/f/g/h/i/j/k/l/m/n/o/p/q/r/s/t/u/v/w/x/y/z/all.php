@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.05 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V3: [12.11 WIB 10/05/26]",Donasi server playlist iptv v3 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="2y8m4zh5wxy9ql0" tvg-name="Vissel Kobe vs Fagiano Okayama" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 10/05/26] Vissel Kobe vs Fagiano Okayama",[LIVE 12:00 WIB | 10/05/26] Vissel Kobe vs Fagiano Okayama (Giàng A Voi)
-https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-#EXTINF:-1 tvg-id="2y8m4zh5wxy9ql0" tvg-name="Vissel Kobe vs Fagiano Okayama" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 10/05/26] Vissel Kobe vs Fagiano Okayama",[LIVE 12:00 WIB | 10/05/26] Vissel Kobe vs Fagiano Okayama (Giàng A Voi)
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
 #EXTINF:-1 tvg-id="dn1m1ghlgnxdmoe" tvg-name="Cruz Azul vs Atlas" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LIVE 10:15 WIB | 10/05/26] Cruz Azul vs Atlas",[LIVE 10:15 WIB | 10/05/26] Cruz Azul vs Atlas (Giàng A Páo)
 https://hls.686868.me/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 tvg-id="dn1m1ghlgnxdmoe" tvg-name="Cruz Azul vs Atlas" tvg-logo="https://img.cdnok9.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LIVE 10:15 WIB | 10/05/26] Cruz Azul vs Atlas",[LIVE 10:15 WIB | 10/05/26] Cruz Azul vs Atlas (Giàng A Páo)
@@ -25,3 +21,7 @@ https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d
 https://hls.686868.me/live/GIANGATU/index.m3u8?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
 #EXTINF:-1 tvg-id="vjxm8ghelg56r6o" tvg-name="Ulsan HD FC vs Bucheon FC 1995" tvg-logo="https://img.cdnok9.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="[LIVE 12:00 WIB | 10/05/26] Ulsan HD FC vs Bucheon FC 1995",[LIVE 12:00 WIB | 10/05/26] Ulsan HD FC vs Bucheon FC 1995 (GIÀNG A TỨ )
 https://flv.686868.me/live/GIANGATU.flv?expire=1875526680&sign=62d187c05c95598552f472158fb23b38
+#EXTINF:-1 tvg-id="2y8m4zh5wxy9ql0" tvg-name="Vissel Kobe vs Fagiano Okayama" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 10/05/26] Vissel Kobe vs Fagiano Okayama",[LIVE 12:00 WIB | 10/05/26] Vissel Kobe vs Fagiano Okayama (Giàng A Voi)
+https://hls.686868.me/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+#EXTINF:-1 tvg-id="2y8m4zh5wxy9ql0" tvg-name="Vissel Kobe vs Fagiano Okayama" tvg-logo="https://img.cdnok9.com/football/competition/0b94ee2f9f985a845d1b32ad271758f9.png" group-title="[LIVE 12:00 WIB | 10/05/26] Vissel Kobe vs Fagiano Okayama",[LIVE 12:00 WIB | 10/05/26] Vissel Kobe vs Fagiano Okayama (Giàng A Voi)
+https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
