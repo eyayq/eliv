@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [23:15 WIB 10/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:15 WIB 10/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:21 WIB 10/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:21 WIB 10/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[21:15 WIB 10/05/26] Athletic Club vs Valencia [] [LIVE]
@@ -10,9 +10,6 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:30 WIB 10/05/26] West Ham vs Arsenal [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[22:30 WIB 10/05/26] 1. FC Köln vs 1. FC Heidenheim [FHD] [LIVE]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 10/05/26] Parma vs AS Roma [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
@@ -44,8 +41,8 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ou1hwj0.jpeg" group-title="VĐQG Brazil ",[06:30 WIB 11/05/26] Vasco da Gama vs Athletico Paranaense [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:30 WIB 11/05/26] Minnesota Timberwolves vs San Antonio Spurs [FHD] [NANTIKAN]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[06:30 WIB 11/05/26] Minnesota Timberwolves vs San Antonio Spurs [] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[08:00 WIB 11/05/26] Los Angeles FC vs Houston Dynamo [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8
