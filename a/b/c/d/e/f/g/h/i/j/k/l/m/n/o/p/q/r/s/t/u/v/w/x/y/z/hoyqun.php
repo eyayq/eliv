@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:45 WIB 11/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:45 WIB 11/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:53 WIB 11/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:53 WIB 11/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[17:30 WIB 11/05/26] Coco Gauff vs Iva Jovic [FHD] [LIVE]
@@ -91,3 +91,21 @@ https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[23:00 WIB 12/05/26] China PR U17 vs Qatar U17 [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 13/05/26] Celta Vigo vs Levante [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 13/05/26] Al-Nassr vs Al-Hilal Saudi FC [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[01:00 WIB 13/05/26] Real Betis vs Elche [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wsLS4z.png" group-title="Championship",[02:00 WIB 13/05/26] Southampton vs Middlesbrough [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:30 WIB 13/05/26] Osasuna vs Atletico Madrid [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[17:30 WIB 13/05/26] Nam Dinh vs Selangor [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
