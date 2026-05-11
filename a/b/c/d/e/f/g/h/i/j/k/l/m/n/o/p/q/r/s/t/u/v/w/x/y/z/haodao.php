@@ -1,15 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [14:00 11/05] Xem Trực Tiếp Vietnam U17 Women vs Australia Women U17 - A Tai 
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [01:00 11/05] Xem Trực Tiếp Al Taawoun vs Al-Ahli SFC - Chim Nhỏ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
 #EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-gio-tai.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [16:00 11/05] Xem Trực Tiếp Andrey Rublev vs Alejandro Davidovich Fokina - Người Kiến 
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [01:45 11/05] Xem Trực Tiếp Napoli vs Bologna - Dylan 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
 #EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-dylan.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [02:00 11/05] Xem Trực Tiếp Tottenham Hotspur vs Leeds United - A Mập 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-a-map.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [02:00 11/05] Xem Trực Tiếp Rayo Vallecano vs Girona FC - Cháo Quẩy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [03:45 11/05] Xem Trực Tiếp Sportivo Ameliano vs Deportivo Recoleta - Táo 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-tao.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [07:00 11/05] Xem Trực Tiếp RAW vs RAW - Pháo 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-phao.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [07:00 11/05] Xem Trực Tiếp Dertroit Piston vs Cleveland Cavaliers - Mr Dunkest 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-mr-dunkest.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [08:30 11/05] Xem Trực Tiếp Sport Boys vs Universitario De Deportes - Văn Chuẩn 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [10:00 11/05] Xem Trực Tiếp South Melbourne vs Bula FC - Táo 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-tao.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [14:00 11/05] Xem Trực Tiếp Auckland FC Reserves vs South Island United FC - Văn Chuẩn 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [17:00 11/05] Xem Trực Tiếp Akron Togliatti vs FK Rostov - Táo 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
@@ -17,19 +65,61 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-tao.flv
 
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [17:30 11/05] Xem Trực Tiếp Gwangju Football Club vs Football Club Seoul - Cháo Quẩy 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [18:00 11/05] Xem Trực Tiếp Mouz vs 9Z - Dưa Hấu 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
+
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [18:30 11/05] Xem Trực Tiếp North Korea U17 Women vs Thailand U17 Women - Chim Nhỏ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [19:00 11/05] Xem Trực Tiếp Bali United vs Borneo FC - Văn Chuẩn 
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [19:00 11/05] Xem Trực Tiếp Bali United vs Borneo FC - Mèo Béo 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
 #EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [19:30 11/05] Xem Trực Tiếp FK Epitsentr Dunayivtsi vs Polissya Zhytomyr - Dylan 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-dylan.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [20:00 11/05] Xem Trực Tiếp Aizawl FC vs Real Kashmir - Pháo 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-phao.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [20:00 11/05] Xem Trực Tiếp Jannik Sinner vs Alexei Popyrin - Người Kiến 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [20:00 11/05] Xem Trực Tiếp Namdhari FC vs Gokulam Kerala FC - Chim Nhỏ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [21:00 11/05] Xem Trực Tiếp Furia vs Team Spirit - A Mập 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-a-map.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [21:00 11/05] Xem Trực Tiếp Mohun Bagan Super Giant vs Inter Kashi - Pháo 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
 #EXTVLCOPT:http-origin=https://hoadaotv.me
@@ -40,6 +130,24 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-phao.flv
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-dylan.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [21:30 11/05] Xem Trực Tiếp Pablo Llamas Ruiz vs Daniil Medvedev - Người Kiến 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [22:30 11/05] Xem Trực Tiếp Pain vs Faze - Dưa Hấu 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [23:20 11/05] Xem Trực Tiếp Al Kholood vs Al Okhdood - Mèo Béo 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoadaotv.me/
+#EXTVLCOPT:http-origin=https://hoadaotv.me
+https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [23:50 11/05] Xem Trực Tiếp NEOM Sports Club vs Al Shabab FC - A Tai 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
