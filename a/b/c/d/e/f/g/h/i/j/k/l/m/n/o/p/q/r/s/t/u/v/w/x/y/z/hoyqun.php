@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [00:13 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:13 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [00:38 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:38 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[23:00 WIB 12/05/26] Japan U17 vs Indonesia U17 [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[00:00 WIB 13/05/26] Coco Gauff vs Mirra Andreeva [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/250px-Roshn_Saudi_League_Logo.svg.png" group-title="Saudi Pro League ( Đầu Cầu Fan CR7 )",[01:00 WIB 13/05/26] Al-Nassr vs Al-Hilal Saudi FC [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/250px-Roshn_Saudi_League_Logo.svg.png" group-title="Saudi Pro League ( Đầu Cầu Fan CR7 )",[01:00 WIB 13/05/26] Al-Nassr vs Al-Hilal Saudi FC [FHD] [LIVE]
  https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[01:00 WIB 13/05/26] Real Betis vs Elche [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[01:00 WIB 13/05/26] Real Betis vs Elche [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/250px-Roshn_Saudi_League_Logo.svg.png" group-title="Saudi Pro League ( Đầu Cầu Antin CR7 )",[01:00 WIB 13/05/26] Al-Nassr vs Al-Hilal Saudi FC [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/250px-Roshn_Saudi_League_Logo.svg.png" group-title="Saudi Pro League ( Đầu Cầu Antin CR7 )",[01:00 WIB 13/05/26] Al-Nassr vs Al-Hilal Saudi FC [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9wsLS4z.png" group-title="Championship",[02:00 WIB 13/05/26] Southampton vs Middlesbrough [] [NANTIKAN]
@@ -40,6 +40,9 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 13/05/26] San Antonio Spurs vs Minnesota Timberwolves [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tcdGM5iAeJhpDXYnUn-7zcPePECHjno3LQ&s" group-title="BOX BILLIARDS ALL STAR VIETNAM INVITATIONAL.",[10:00 WIB 13/05/26] dd [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 13/05/26] Vissel Kobe vs Kyoto Sanga [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8
