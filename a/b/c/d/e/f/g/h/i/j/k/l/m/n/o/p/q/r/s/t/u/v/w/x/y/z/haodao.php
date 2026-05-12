@@ -41,12 +41,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-mr-dunkest.flv
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [16:00 12/05] Xem Trực Tiếp TES vs NIP - A Mập 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-a-map.flv
-
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [17:00 12/05] Xem Trực Tiếp Vissel Kobe vs Kyoto Sanga - Chim Nhỏ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
@@ -59,23 +53,11 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho.flv
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [17:30 12/05] Xem Trực Tiếp Gwangju Football Club vs Football Club Seoul - Chim Nhỏ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho.flv
-
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [17:30 12/05] Xem Trực Tiếp Thep Xanh Nam Dinh FC vs Selangor FC - Pháo 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-phao.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [18:00 12/05] Xem Trực Tiếp IG vs BLG - Dưa Hấu 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [19:00 12/05] Xem Trực Tiếp Buriram United vs Johor Darul Ta'zim FC - Mèo Béo 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
@@ -83,23 +65,11 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [19:30 12/05] Xem Trực Tiếp FK Epitsentr Dunayivtsi vs Polissya Zhytomyr - Dylan 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-dylan.flv
-
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [19:30 12/05] Xem Trực Tiếp Dynamo Kyiv vs Kolos Kovalivka - Người Kiến 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://hoadaotv.me/
 #EXTVLCOPT:http-origin=https://hoadaotv.me
 https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [20:00 12/05] Xem Trực Tiếp Namdhari FC vs Gokulam Kerala FC - Cháo Quẩy 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoadaotv.me/
-#EXTVLCOPT:http-origin=https://hoadaotv.me
-https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.me/assets/image/hoadaotvlogo.png" group-title="HAY DAY TV LIVE", [21:00 12/05] Xem Trực Tiếp Mohun Bagan Super Giant vs Inter Kashi - Pháo 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
