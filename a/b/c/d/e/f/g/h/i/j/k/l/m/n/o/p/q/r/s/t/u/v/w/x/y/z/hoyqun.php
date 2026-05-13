@@ -11,13 +11,13 @@ https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XFSnVNb.jpeg" group-title="Copa do Brasil",[05:30 WIB 14/05/26] Dd [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 14/05/26] Detroit Pistons vs Cleveland Cavaliers [FHD] [NANTIKAN]
