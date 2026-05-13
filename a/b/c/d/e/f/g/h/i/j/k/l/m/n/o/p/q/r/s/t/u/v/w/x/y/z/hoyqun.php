@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:49 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:49 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:03 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:03 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[14:30 WIB 13/05/26] Tanvi SHARMA vs Hina AKECHI [FHD] [LIVE]
@@ -10,24 +10,6 @@ https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[14:30 WIB 13/05/26] Tanvi SHARMA vs Hina AKECHI [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 13/05/26] Vissel Kobe vs Kyoto Sanga [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 13/05/26] Vissel Kobe vs Kyoto Sanga [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 13/05/26] Vissel Kobe vs Kyoto Sanga [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gX8CjJoKFvEF6Kk0q9JTjQjnRtoe0fCrKS_hMcHcPAJUWT9uQ5tmL4hDwWNuCkDbJPo" group-title="KBL",[17:00 WIB 13/05/26] Goyang Sono vs KCC Egis [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gX8CjJoKFvEF6Kk0q9JTjQjnRtoe0fCrKS_hMcHcPAJUWT9uQ5tmL4hDwWNuCkDbJPo" group-title="KBL",[17:00 WIB 13/05/26] Goyang Sono vs KCC Egis [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gX8CjJoKFvEF6Kk0q9JTjQjnRtoe0fCrKS_hMcHcPAJUWT9uQ5tmL4hDwWNuCkDbJPo" group-title="KBL",[17:00 WIB 13/05/26] Goyang Sono vs KCC Egis [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[17:30 WIB 13/05/26] Nam Dinh vs Selangor [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
