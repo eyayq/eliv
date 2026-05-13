@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:44 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:44 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:51 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:51 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[13:30 WIB 13/05/26] Supanida KATETHONG vs Pitchamon OPATNIPUTH [FHD] [LIVE]
@@ -12,7 +12,13 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[14:30 WIB 13/05/26] Tanvi SHARMA vs Hina AKECHI [FHD] [LIVE]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[14:30 WIB 13/05/26] Tanvi SHARMA vs Hina AKECHI [HD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[14:30 WIB 13/05/26] Tanvi SHARMA vs Hina AKECHI [SD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 13/05/26] Vissel Kobe vs Kyoto Sanga [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
@@ -54,13 +60,13 @@ https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 13/05/26] Zhejiang Guangsha vs Shanxi Zhongyu [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 13/05/26] Zhejiang Guangsha vs Shanxi Zhongyu [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 13/05/26] Zhejiang Guangsha vs Shanxi Zhongyu [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 13/05/26] Buriram United vs Johor Darul Takzim FC [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
@@ -120,28 +126,52 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLnjYpFe2SNeZyFJC3mbAMUUYHdPt0kyb6w&s" group-title="Coppa Italia",[02:00 WIB 14/05/26] Lazio vs Inter [FHD] [NANTIKAN]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLnjYpFe2SNeZyFJC3mbAMUUYHdPt0kyb6w&s" group-title="Coppa Italia",[02:00 WIB 14/05/26] Lazio vs Inter [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLnjYpFe2SNeZyFJC3mbAMUUYHdPt0kyb6w&s" group-title="Coppa Italia",[02:00 WIB 14/05/26] Lazio vs Inter [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:00 WIB 14/05/26] Lens vs Paris Saint Germain [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:00 WIB 14/05/26] Lens vs Paris Saint Germain [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:00 WIB 14/05/26] Lens vs Paris Saint Germain [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:30 WIB 14/05/26] Alaves vs Barcelona [FHD] [NANTIKAN]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:30 WIB 14/05/26] Alaves vs Barcelona [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:30 WIB 14/05/26] Alaves vs Barcelona [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:30 WIB 14/05/26] Getafe vs Mallorca [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchuot/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XFSnVNb.jpeg" group-title="Copa do Brasil",[05:30 WIB 14/05/26] Coritiba vs Santos FC [FHD] [NANTIKAN]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XFSnVNb.jpeg" group-title="Copa do Brasil",[05:30 WIB 14/05/26] Coritiba vs Santos FC [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XFSnVNb.jpeg" group-title="Copa do Brasil",[05:30 WIB 14/05/26] Coritiba vs Santos FC [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami [FHD] [NANTIKAN]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[07:30 WIB 14/05/26] Sporting Kansas City vs Los Angeles Galaxy [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8
