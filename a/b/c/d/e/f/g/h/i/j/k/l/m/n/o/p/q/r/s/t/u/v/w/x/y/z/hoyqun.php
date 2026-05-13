@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:32 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:32 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [18:41 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:41 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[14:30 WIB 13/05/26] Tanvi SHARMA vs Hina AKECHI [FHD] [LIVE]
@@ -59,13 +59,13 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 13/05/26] Zhejiang Guangsha vs Shanxi Zhongyu [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 13/05/26] Buriram United vs Johor Darul Takzim FC [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 13/05/26] Buriram United vs Johor Darul Takzim FC [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 13/05/26] Buriram United vs Johor Darul Takzim FC [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 13/05/26] Buriram United vs Johor Darul Takzim FC [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 13/05/26] Buriram United vs Johor Darul Takzim FC [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 13/05/26] Buriram United vs Johor Darul Takzim FC [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[20:00 WIB 13/05/26] Casper Ruud vs Karen Khachanov [FHD] [NANTIKAN]
