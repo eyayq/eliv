@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [09:50 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:50 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [09:59 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:59 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[09:15 WIB 13/05/26] Christopher GRIMLEY/Matthew GRIMLEY vs NGUYEN Dinh Hoang/TRAN Dinh Manh [FHD] [LIVE]
@@ -9,7 +9,7 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchuot/playlist.m3u8
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tcdGM5iAeJhpDXYnUn-7zcPePECHjno3LQ&s" group-title="BOX BILLIARDS ALL STAR VIETNAM INVITATIONAL.",[10:00 WIB 13/05/26] dd [FHD] [LIVE]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[17:00 WIB 13/05/26] Vissel Kobe vs Kyoto Sanga [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8
