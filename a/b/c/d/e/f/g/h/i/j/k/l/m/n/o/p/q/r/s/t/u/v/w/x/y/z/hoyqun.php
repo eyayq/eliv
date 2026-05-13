@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:20 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:20 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:41 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:41 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[14:30 WIB 13/05/26] Tanvi SHARMA vs Hina AKECHI [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[14:30 WIB 13/05/26] Tanvi SHARMA vs Hina AKECHI [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[14:30 WIB 13/05/26] Tanvi SHARMA vs Hina AKECHI [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 13/05/26] Buriram United vs Johor Darul Takzim FC [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
@@ -20,25 +11,16 @@ https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[19:00 WIB 13/05/26] Buriram United vs Johor Darul Takzim FC [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:30 WIB 13/05/26] Dynamo Kyiv vs Kolos Kovalivka [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:30 WIB 13/05/26] Dynamo Kyiv vs Kolos Kovalivka [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:30 WIB 13/05/26] Dynamo Kyiv vs Kolos Kovalivka [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[20:00 WIB 13/05/26] Casper Ruud vs Karen Khachanov [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 13/05/26] Shakhtar Donetsk vs Obolon'-Brovar [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 13/05/26] Shakhtar Donetsk vs Obolon'-Brovar [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 13/05/26] Shakhtar Donetsk vs Obolon'-Brovar [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 13/05/26] Shakhtar Donetsk vs Obolon'-Brovar [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 13/05/26] Shakhtar Donetsk vs Obolon'-Brovar [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 13/05/26] Shakhtar Donetsk vs Obolon'-Brovar [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/AFC_Challenge_League_logo.svg" group-title="AFC Challenge League",[23:45 WIB 13/05/26] Al Kuwait vs Svay Rieng [FHD] [NANTIKAN]
