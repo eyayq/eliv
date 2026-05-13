@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [00.27 WIB 14/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [00.36 WIB 14/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[LIVE 00:00 WIB 14/05/26] Espanyol vs Athletic Club",[LIVE 00:00 WIB 14/05/26] Espanyol vs Athletic Club (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
@@ -7,13 +7,13 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1012.png" group-title="[LIVE 00:00 WIB 14/05/26] Vietnam U17 vs United Arab Emirates U17",[LIVE 00:00 WIB 14/05/26] Vietnam U17 vs United Arab Emirates U17 (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1773682626479-football-icon.webp" group-title="[UPCOMING 0j 2m 00:30 WIB 14/05/26] Genclerbirligi vs Trabzonspor",[UPCOMING 0j 2m 00:30 WIB 14/05/26] Genclerbirligi vs Trabzonspor (FHD)
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[UPCOMING 1j 32m 02:00 WIB 14/05/26] Manchester City vs Crystal Palace",[UPCOMING 1j 32m 02:00 WIB 14/05/26] Manchester City vs Crystal Palace (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[UPCOMING 1j 23m 02:00 WIB 14/05/26] Manchester City vs Crystal Palace",[UPCOMING 1j 23m 02:00 WIB 14/05/26] Manchester City vs Crystal Palace (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1773682549426-football-icon.webp" group-title="[UPCOMING 6j 2m 06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami",[UPCOMING 6j 2m 06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 1j 53m 02:30 WIB 14/05/26] Getafe vs Mallorca",[UPCOMING 1j 53m 02:30 WIB 14/05/26] Getafe vs Mallorca (FHD)
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1773682549426-football-icon.webp" group-title="[UPCOMING 5j 53m 06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami",[UPCOMING 5j 53m 06:30 WIB 14/05/26] FC Cincinnati vs Inter Miami (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1770607305093-basketball-icon.png" group-title="[UPCOMING 6j 32m 07:00 WIB 14/05/26] Detroit Pistons vs Cleveland Cavaliers",[UPCOMING 6j 32m 07:00 WIB 14/05/26] Detroit Pistons vs Cleveland Cavaliers (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1770607305093-basketball-icon.png" group-title="[UPCOMING 6j 23m 07:00 WIB 14/05/26] Detroit Pistons vs Cleveland Cavaliers",[UPCOMING 6j 23m 07:00 WIB 14/05/26] Detroit Pistons vs Cleveland Cavaliers (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 0j 32m 01:00 WIB 15/05/26] Girona vs Real Sociedad",[UPCOMING 0j 32m 01:00 WIB 15/05/26] Girona vs Real Sociedad (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456311322-football-icon.svg" group-title="[UPCOMING 0j 23m 01:00 WIB 15/05/26] Girona vs Real Sociedad",[UPCOMING 0j 23m 01:00 WIB 15/05/26] Girona vs Real Sociedad (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
