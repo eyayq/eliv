@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:44 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:44 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:23 WIB 13/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:23 WIB 13/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[20:00 WIB 13/05/26] Casper Ruud vs Karen Khachanov [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/AFC_Challenge_League_logo.svg" group-title="AFC Challenge League",[23:45 WIB 13/05/26] Al Kuwait vs Svay Rieng [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/AFC_Challenge_League_logo.svg" group-title="AFC Challenge League",[23:45 WIB 13/05/26] Al Kuwait vs Svay Rieng [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/AFC_Challenge_League_logo.svg" group-title="AFC Challenge League",[23:45 WIB 13/05/26] Al Kuwait vs Svay Rieng [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/AFC_Challenge_League_logo.svg" group-title="AFC Challenge League",[23:45 WIB 13/05/26] Al Kuwait vs Svay Rieng [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/AFC_Challenge_League_logo.svg" group-title="AFC Challenge League",[23:45 WIB 13/05/26] Al Kuwait vs Svay Rieng [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/AFC_Challenge_League_logo.svg" group-title="AFC Challenge League",[23:45 WIB 13/05/26] Al Kuwait vs Svay Rieng [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[00:00 WIB 14/05/26] Vietnam U17 vs United Arab Emirates U17 [FHD] [NANTIKAN]
@@ -23,13 +23,13 @@ https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[00:00 WIB 14/05/26] Vietnam U17 vs United Arab Emirates U17 [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[00:00 WIB 14/05/26] Stade Brestois 29 vs Strasbourg [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[00:00 WIB 14/05/26] Stade Brestois 29 vs Strasbourg [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[00:00 WIB 14/05/26] Stade Brestois 29 vs Strasbourg [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[00:00 WIB 14/05/26] Stade Brestois 29 vs Strasbourg [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[00:00 WIB 14/05/26] Stade Brestois 29 vs Strasbourg [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[00:00 WIB 14/05/26] Stade Brestois 29 vs Strasbourg [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 14/05/26] Espanyol vs Athletic Club [FHD] [NANTIKAN]
