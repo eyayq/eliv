@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:25 WIB 14/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:25 WIB 14/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:43 WIB 14/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:43 WIB 14/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/1e/AFC_Challenge_League_logo.svg" group-title="AFC Challenge League",[23:45 WIB 13/05/26] Al Kuwait vs Svay Rieng [FHD] [LIVE]
@@ -47,31 +47,31 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[01:30 WIB 14/05/26] Rafael Jodar vs Luciano Darderi [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[02:00 WIB 14/05/26] Manchester City vs Crystal Palace [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[02:00 WIB 14/05/26] Manchester City vs Crystal Palace [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[02:00 WIB 14/05/26] Manchester City vs Crystal Palace [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[02:00 WIB 14/05/26] Manchester City vs Crystal Palace [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[02:00 WIB 14/05/26] Manchester City vs Crystal Palace [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[02:00 WIB 14/05/26] Manchester City vs Crystal Palace [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLnjYpFe2SNeZyFJC3mbAMUUYHdPt0kyb6w&s" group-title="Coppa Italia",[02:00 WIB 14/05/26] Lazio vs Inter [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLnjYpFe2SNeZyFJC3mbAMUUYHdPt0kyb6w&s" group-title="Coppa Italia",[02:00 WIB 14/05/26] Lazio vs Inter [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLnjYpFe2SNeZyFJC3mbAMUUYHdPt0kyb6w&s" group-title="Coppa Italia",[02:00 WIB 14/05/26] Lazio vs Inter [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLnjYpFe2SNeZyFJC3mbAMUUYHdPt0kyb6w&s" group-title="Coppa Italia",[02:00 WIB 14/05/26] Lazio vs Inter [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLnjYpFe2SNeZyFJC3mbAMUUYHdPt0kyb6w&s" group-title="Coppa Italia",[02:00 WIB 14/05/26] Lazio vs Inter [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcLnjYpFe2SNeZyFJC3mbAMUUYHdPt0kyb6w&s" group-title="Coppa Italia",[02:00 WIB 14/05/26] Lazio vs Inter [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:00 WIB 14/05/26] Lens vs Paris Saint Germain [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:00 WIB 14/05/26] Lens vs Paris Saint Germain [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:00 WIB 14/05/26] Lens vs Paris Saint Germain [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:00 WIB 14/05/26] Lens vs Paris Saint Germain [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:00 WIB 14/05/26] Lens vs Paris Saint Germain [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/06/Ligue-1-Logo-New.png" group-title="Ligue 1",[02:00 WIB 14/05/26] Lens vs Paris Saint Germain [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:30 WIB 14/05/26] Alaves vs Barcelona [FHD] [NANTIKAN]
