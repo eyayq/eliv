@@ -1,9 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [11:01 WIB 14/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [11:01 WIB 14/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [11:09 WIB 14/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [11:09 WIB 14/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[07:30 WIB 14/05/26] Sporting Kansas City vs Los Angeles Galaxy [FHD] [LIVE]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[09:10 WIB 14/05/26] TOYOTA Thailand Open 2026 [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
