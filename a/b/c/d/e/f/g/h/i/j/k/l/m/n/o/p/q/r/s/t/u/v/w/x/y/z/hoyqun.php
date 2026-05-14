@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [02:56 WIB 15/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:56 WIB 15/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [03:02 WIB 15/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [03:02 WIB 15/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[01:00 WIB 15/05/26] Girona vs Real Sociedad [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[01:00 WIB 15/05/26] Girona vs Real Sociedad [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[01:00 WIB 15/05/26] Girona vs Real Sociedad [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:30 WIB 15/05/26] Real Madrid vs Oviedo [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
