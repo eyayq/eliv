@@ -1,65 +1,65 @@
 #EXTM3U
-# Generated Thu May 14 01:11:30 2026
+# Generated Thu May 14 01:19:09 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 14-05-2026 08:11:15 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 14-05-2026 08:18:54 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Charlotte FC😈 [🆚] 😈New York City FC [LIVE]😈📁
 https://bf.jalaplay.net/live/322647.m3u8?txSecret=bf7556c054d9be714e278234b009023a&txTime=6a051c60
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈FC Cincinnati😈 [🆚] 😈Inter Miami CF [LIVE]😈📁
-https://bf.jalaplay.net/live/5005017.m3u8?txSecret=2a07d1bb4f0ab2a377c54315a4fecb5f&txTime=6a05133c
+https://bf.jalaplay.net/live/5005017.m3u8?txSecret=989435e169196dce27dd6f5829b7cddf&txTime=6a052151
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈FC Cincinnati😈 [🆚] 😈Inter Miami CF [LIVE]😈📁
-https://bf.jalaplay.net/live/5004423.m3u8?txSecret=277bd5833a7c5f6c592d217fe705c5bc&txTime=6a051404
-#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈FC Cincinnati😈 [🆚] 😈Inter Miami CF [LIVE]😈📁
-https://bf.jalaplay.net/live/5005016.m3u8?txSecret=888eb4536e76bbd03212092ee3368f3d&txTime=6a052078
+https://bf.jalaplay.net/live/5004423.m3u8?txSecret=495513bca92735ea8ebb645f7b28a330&txTime=6a052214
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈FC Cincinnati😈 [🆚] 😈Inter Miami CF [LIVE]😈📁
 https://bf.jalaplay.net/live/5005035.m3u8?txSecret=2051acc0325d7b34832a8e16affe14e0&txTime=6a051979
+#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈FC Cincinnati😈 [🆚] 😈Inter Miami CF [LIVE]😈📁
+https://bf.jalaplay.net/live/5005016.m3u8?txSecret=888eb4536e76bbd03212092ee3368f3d&txTime=6a052078
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈DC United😈 [🆚] 😈Chicago Fire [LIVE]😈📁
 https://bf.jalaplay.net/live/5004438.m3u8?txSecret=44db2c3ff554d24a452cd59688aed8d0&txTime=6a052031
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈New England Revolution😈 [🆚] 😈Nashville [LIVE]😈📁
 https://bf.jalaplay.net/live/322666.m3u8?txSecret=3ac868acd3d6454e7bd2a76cb15052fe&txTime=6a052057
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈New York Red Bulls😈 [🆚] 😈Columbus Crew [LIVE]😈📁
-https://bf.jalaplay.net/live/5005095.m3u8?txSecret=5d30a4be4ee00a8b00d6e9fd559030d5&txTime=6a0513d6
+https://bf.jalaplay.net/live/5005095.m3u8?txSecret=d929355e6aaac30afedcce58da551bd4&txTime=6a0521e8
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Orlando City😈 [🆚] 😈Philadelphia Union [LIVE]😈📁
-https://bf.jalaplay.net/live/5004426.m3u8?txSecret=7a16e897ca48a9e80d85abd85fda5c7b&txTime=6a051404
+https://bf.jalaplay.net/live/5004426.m3u8?txSecret=0affafd1948eabbdbee99d0b31493f1a&txTime=6a052214
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈FC Dallas😈 [🆚] 😈Vancouver Whitecaps [LIVE]😈📁
-https://bf.jalaplay.net/live/322572.m3u8?txSecret=cb983f76fa569c3fe1d466785ae867bf&txTime=6a051372
+https://bf.jalaplay.net/live/322572.m3u8?txSecret=1767c3c88a0cae9c84dc02d72391f174&txTime=6a052184
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Minnesota United FC😈 [🆚] 😈Colorado Rapids [LIVE]😈📁
 https://bf.jalaplay.net/live/322675.m3u8?txSecret=ba0188d0968f82d18c6268b76e81e675&txTime=6a05203e
 #EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈St. Louis City SC😈 [🆚] 😈Los Angeles FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5004453.m3u8?txSecret=983add2b0295bb6491685c2fd2569690&txTime=6a0519f4
 #EXTINF:-1 group-title="📁😈 Brazilian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/983ffc6a4f71ff232bf96cf9475c7e5e.png",📁😈Remo - PA😈 [🆚] 😈Bahia - BA [LIVE]😈📁
-https://bf.jalaplay.net/live/5005086.m3u8?txSecret=535932e716b4bbdbc6f9edc449bef393&txTime=6a051449
-#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Real Salt Lake😈 [🆚] 😈Houston Dynamo [18m]😈📁
-https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460282
-#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈San Diego FC😈 [🆚] 😈Austin FC [18m]😈📁
+https://bf.jalaplay.net/live/5005086.m3u8?txSecret=bc695c754ffd73fa939583fabbe422d8&txTime=6a05225b
+#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Real Salt Lake😈 [🆚] 😈Houston Dynamo [10m]😈📁
+https://bf.jalaplay.net/live/322723.m3u8?txSecret=b1b1af4ea4dccaabe6ead78b6f4d69db&txTime=6a0519f2
+#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈San Diego FC😈 [🆚] 😈Austin FC [10m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460283
-#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Seattle Sounders😈 [🆚] 😈San Jose Earthquakes [18m]😈📁
+#EXTINF:-1 group-title="📁😈 United States Major League Soccer 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",📁😈Seattle Sounders😈 [🆚] 😈San Jose Earthquakes [10m]😈📁
 https://bf.jalaplay.net/live/5005093.m3u8?txSecret=0273fe90fe1567a7b601174d90a73552&txTime=6a052115
-#EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈Cruz Azul😈 [🆚] 😈Club Deportivo Guadalajara [48m]😈📁
+#EXTINF:-1 group-title="📁😈 Mexico Liga MX 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",📁😈Cruz Azul😈 [🆚] 😈Club Deportivo Guadalajara [40m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541444
-#EXTINF:-1 group-title="📁😈 Belgian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/7063f8886a3f01ada5989a5b75c3c077.png",📁😈Union Saint-Gilloise😈 [🆚] 😈Anderlecht [708m]😈📁
+#EXTINF:-1 group-title="📁😈 Belgian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/7063f8886a3f01ada5989a5b75c3c077.png",📁😈Union Saint-Gilloise😈 [🆚] 😈Anderlecht [700m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4503904
-#EXTINF:-1 group-title="📁😈 Sweden Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4f0b2d70523ecad73159c3b89d1f9cf3.png",📁😈Mjallby AIF😈 [🆚] 😈Hammarby [708m]😈📁
+#EXTINF:-1 group-title="📁😈 Sweden Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4f0b2d70523ecad73159c3b89d1f9cf3.png",📁😈Mjallby AIF😈 [🆚] 😈Hammarby [700m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4536372
-#EXTINF:-1 group-title="📁😈 German Women's Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f195afb1838579b01cc8d0b55afa8a1c.png",📁😈VfL Wolfsburg Women😈 [🆚] 😈Bayern Munchen Women [768m]😈📁
+#EXTINF:-1 group-title="📁😈 German Women's Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f195afb1838579b01cc8d0b55afa8a1c.png",📁😈VfL Wolfsburg Women😈 [🆚] 😈Bayern Munchen Women [760m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4528495
-#EXTINF:-1 group-title="📁😈 Switzerland Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png",📁😈Thun😈 [🆚] 😈Young Boys [798m]😈📁
+#EXTINF:-1 group-title="📁😈 Switzerland Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9aff8edb72dfd522fd9689bdf5c2503e.png",📁😈Thun😈 [🆚] 😈Young Boys [790m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4526046
-#EXTINF:-1 group-title="📁😈 Israel Leumit League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1a376e9186a7276a0ce8a7e048c210a8.png",📁😈Hapoel Hadera😈 [🆚] 😈Hapoel Raanana [888m]😈📁
+#EXTINF:-1 group-title="📁😈 Israel Leumit League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1a376e9186a7276a0ce8a7e048c210a8.png",📁😈Hapoel Hadera😈 [🆚] 😈Hapoel Raanana [880m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4534286
-#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",📁😈Valencia CF😈 [🆚] 😈Rayo Vallecano [948m]😈📁
+#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",📁😈Valencia CF😈 [🆚] 😈Rayo Vallecano [940m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4358318
-#EXTINF:-1 group-title="📁😈 Saudi Professional League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9115e93d22380b87e231573b0a796f27.png",📁😈Al Ettifaq FC😈 [🆚] 😈Al Ittihad Club [1008m]😈📁
+#EXTINF:-1 group-title="📁😈 Saudi Professional League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9115e93d22380b87e231573b0a796f27.png",📁😈Al Ettifaq FC😈 [🆚] 😈Al Ittihad Club [1000m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4404634
-#EXTINF:-1 group-title="📁😈 Saudi Professional League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9115e93d22380b87e231573b0a796f27.png",📁😈Al Qadsiah😈 [🆚] 😈Al Hazem [1008m]😈📁
+#EXTINF:-1 group-title="📁😈 Saudi Professional League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9115e93d22380b87e231573b0a796f27.png",📁😈Al Qadsiah😈 [🆚] 😈Al Hazem [1000m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4404644
-#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",📁😈Real Madrid😈 [🆚] 😈Real Oviedo [1098m]😈📁
+#EXTINF:-1 group-title="📁😈 Spanish La Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",📁😈Real Madrid😈 [🆚] 😈Real Oviedo [1090m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4358316
-#EXTINF:-1 group-title="📁😈 Brazilian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/983ffc6a4f71ff232bf96cf9475c7e5e.png",📁😈Chapecoense - SC😈 [🆚] 😈Botafogo - RJ [1188m]😈📁
+#EXTINF:-1 group-title="📁😈 Brazilian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/983ffc6a4f71ff232bf96cf9475c7e5e.png",📁😈Chapecoense - SC😈 [🆚] 😈Botafogo - RJ [1180m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4524416
-#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Henan FC😈 [🆚] 😈Shenzhen Peng City [2063m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Henan FC😈 [🆚] 😈Shenzhen Peng City [2055m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4498971
-#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Arema FC [2088m]😈📁
+#EXTINF:-1 group-title="📁😈 Indonesian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png",📁😈PSBS Biak Numfor😈 [🆚] 😈Arema FC [2080m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4379429
-#EXTINF:-1 group-title="📁😈 Saudi Professional League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9115e93d22380b87e231573b0a796f27.png",📁😈Damac😈 [🆚] 😈Al Fayha [2343m]😈📁
+#EXTINF:-1 group-title="📁😈 Saudi Professional League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9115e93d22380b87e231573b0a796f27.png",📁😈Damac😈 [🆚] 😈Al Fayha [2335m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4404689
