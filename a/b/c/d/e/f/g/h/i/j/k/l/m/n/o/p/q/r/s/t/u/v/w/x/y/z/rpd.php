@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [04.39 WIB 16/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [04.46 WIB 16/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-bucaramanga-w-f9a8e9.png" group-title="[LIVE 03:00 WIB 16/05/26] Atletico Bucaramanga (W) vs Inter Palmira (W) | Server 1",[LIVE 03:00 WIB 16/05/26] Atletico Bucaramanga (W) vs Inter Palmira (W) | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -23,29 +23,29 @@ https://auto.cdnfaster.live/live/sd-6Mwe5HaD1T7WvPVDik/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://auto.cdnfaster.live/live/sd-6MwdLb4oipig2m5kTN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/liga-dep-universitaria-quito-aab3f0.webp" group-title="[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 1",[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1778884554-0-0-0be5645fd6e0506ebeee2768903140cb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.8469.1900 Mobile Safari/537.36
+https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1778884914-0-0-fdec2aaeb149cd9b85f78487672d317a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/liga-dep-universitaria-quito-aab3f0.webp" group-title="[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 2",[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1778884554-0-0-12bcccfed22d60dbd76ccd4b679219ac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.8469.1900 Mobile Safari/537.36
+https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1778884914-0-0-00c996a449bce2b1cf2e69a7fa403756
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/liga-dep-universitaria-quito-aab3f0.webp" group-title="[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 3",[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1778884554-0-0-2fc36b40bbbf3de05bb43105b70efb32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.8469.1900 Mobile Safari/537.36
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1778884914-0-0-57e2478e4eefac8ece132ecfa03c8281
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/liga-dep-universitaria-quito-aab3f0.webp" group-title="[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 4",[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1778884554-0-0-b07c3168b012ec40bafa408ffc5d7551
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.8469.1900 Mobile Safari/537.36
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1778884914-0-0-b3235921c62fb110e8c76b6d3300d240
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/liga-dep-universitaria-quito-aab3f0.webp" group-title="[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 5",[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-605412_lsd.m3u8?auth_key=1778884554-0-0-8a2ea5fc969b6dc9db87184f4323e5e4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.8469.1900 Mobile Safari/537.36
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1778884914-0-0-a85476483c09574b6aaa4ceff71994a1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/liga-dep-universitaria-quito-aab3f0.webp" group-title="[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 6",[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-605412_lhd.m3u8?auth_key=1778884554-0-0-27a8d89fcd8dcc3df6c8e9e9f12cf12c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.8469.1900 Mobile Safari/537.36
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1778884914-0-0-353498db7202c0137d3c524d66ba18f2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/liga-dep-universitaria-quito-aab3f0.webp" group-title="[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 7",[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778884554-0-0-74a0eead06547c1807729dd3caa3ba6a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.8469.1900 Mobile Safari/537.36
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1778884914-0-0-3ce1281daf8fd291d771e5e010066828
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/liga-dep-universitaria-quito-aab3f0.webp" group-title="[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 8",[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778884554-0-0-3fd056898b3f5497f0f812a395649630
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.8469.1900 Mobile Safari/537.36
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1778884914-0-0-3fb53ae125a7d3d36d5b79343c91bef6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/liga-dep-universitaria-quito-aab3f0.webp" group-title="[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 9",[LIVE 04:30 WIB 16/05/26] Liga Dep Universitaria Quito vs Tecnico Universitario | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://auto.cdnfaster.live/live/sd-6MvVNKpmXWZATfPj1E/playlist.m3u8
