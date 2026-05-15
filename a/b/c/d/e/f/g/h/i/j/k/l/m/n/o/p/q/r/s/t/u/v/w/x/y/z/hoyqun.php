@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:14 WIB 15/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:14 WIB 15/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:29 WIB 15/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:29 WIB 15/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[15:00 WIB 15/05/26] TOYOTA Thailand Open 2026 [FHD] [LIVE]
@@ -366,22 +366,22 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[00:00 WIB 17/05/26] Vietnam U17 vs Australia U17 [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[00:00 WIB 17/05/26] Vietnam U17 vs Australia U17 [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[00:00 WIB 17/05/26] Vietnam U17 vs Australia U17 [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[00:00 WIB 17/05/26] Vietnam U17 vs Australia U17 [HD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[00:00 WIB 17/05/26] Vietnam U17 vs Australia U17 [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -454,3 +454,69 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[18:30 WIB 17/05/26] Manchester United vs Nottingham Forest [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[19:15 WIB 17/05/26] Công An Nhân Dân vs Thanh Hóa [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[19:15 WIB 17/05/26] Công An Nhân Dân vs Thanh Hóa [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[19:15 WIB 17/05/26] Công An Nhân Dân vs Thanh Hóa [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[20:00 WIB 17/05/26] Inter vs Hellas Verona [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[20:00 WIB 17/05/26] Inter vs Hellas Verona [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[20:00 WIB 17/05/26] Inter vs Hellas Verona [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 17/05/26] Brentford vs Crystal Palace [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 17/05/26] Brentford vs Crystal Palace [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 17/05/26] Brentford vs Crystal Palace [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 17/05/26] Everton vs Sunderland [FHD] [NANTIKAN]
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 17/05/26] Leeds vs Brighton [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 17/05/26] Leeds vs Brighton [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 17/05/26] Leeds vs Brighton [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 17/05/26] Wolves vs Fulham [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 17/05/26] Wolves vs Fulham [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 17/05/26] Wolves vs Fulham [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 17/05/26] Atalanta vs Bologna [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 17/05/26] Atalanta vs Bologna [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 17/05/26] Atalanta vs Bologna [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[23:30 WIB 17/05/26] Newcastle vs West Ham [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[23:30 WIB 17/05/26] Newcastle vs West Ham [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[23:30 WIB 17/05/26] Newcastle vs West Ham [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
