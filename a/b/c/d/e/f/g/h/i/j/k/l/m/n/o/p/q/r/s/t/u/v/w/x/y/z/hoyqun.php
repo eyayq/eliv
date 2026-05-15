@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:35 WIB 16/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:35 WIB 16/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:42 WIB 16/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:42 WIB 16/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/203.png" group-title="Süper Lig",[00:00 WIB 16/05/26] Rizespor vs Beşiktaş [FHD] [LIVE]
@@ -71,6 +71,24 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tcdGM5iAeJhpDXYnUn-7zcPePECHjno3LQ&s" group-title="BOX BILLIARDS ALL STAR VIETNAM INVITATIONAL.",[12:00 WIB 16/05/26] BOX BILLIARDS ALL STAR VIETNAM INVITATIONAL. [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[12:00 WIB 16/05/26] TOYOTA Thailand Open 2026 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[12:00 WIB 16/05/26] TOYOTA Thailand Open 2026 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[12:00 WIB 16/05/26] TOYOTA Thailand Open 2026 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[13:00 WIB 16/05/26] TOYOTA Thailand Open 2026 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[13:00 WIB 16/05/26] TOYOTA Thailand Open 2026 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[13:00 WIB 16/05/26] TOYOTA Thailand Open 2026 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 16/05/26] Urawa vs FC Tokyo [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
 
@@ -79,6 +97,9 @@ https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[14:00 WIB 16/05/26] Urawa vs FC Tokyo [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[14:00 WIB 16/05/26] TOYOTA Thailand Open 2026 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtyP0MT.jpeg" group-title="K League 1",[14:30 WIB 16/05/26] Daejeon Citizen vs FC Seoul [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
@@ -98,9 +119,6 @@ https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[15:00 WIB 16/05/26] Yokohama F. Marinos vs Kashiwa Reysol [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[15:00 WIB 16/05/26] GEN vs T1 [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[15:00 WIB 16/05/26] Coco Gauf vs Elina Svitolina [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
@@ -112,6 +130,15 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tcdGM5iAeJhpDXYnUn-7zcPePECHjno3LQ&s" group-title="BOX BILLIARDS ALL STAR VIETNAM INVITATIONAL.",[16:00 WIB 16/05/26] BOX BILLIARDS ALL STAR VIETNAM INVITATIONAL. [HD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[16:10 WIB 16/05/26] TOYOTA Thailand Open 2026 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[16:10 WIB 16/05/26] TOYOTA Thailand Open 2026 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[16:10 WIB 16/05/26] TOYOTA Thailand Open 2026 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/188.png" group-title="A-League",[16:40 WIB 16/05/26] Newcastle Jets vs Sydney [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
@@ -130,9 +157,6 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtyP0MT.jpeg" group-title="K League 1",[17:00 WIB 16/05/26] Incheon United vs Gwangju FC [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[17:00 WIB 16/05/26] BFX vs NS [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 16/05/26] Hai Phong vs Binh Duong [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
