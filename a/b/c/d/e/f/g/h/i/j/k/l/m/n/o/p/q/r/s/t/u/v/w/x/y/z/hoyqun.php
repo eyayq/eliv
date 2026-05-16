@@ -1,9 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [02:23 WIB 17/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:23 WIB 17/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [02:31 WIB 17/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:31 WIB 17/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome ( Đầu Cầu Sinner )",[22:00 WIB 16/05/26] Coco Gauf vs Elina Svitolina [FHD] [LIVE]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
