@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:15 WIB 16/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:15 WIB 16/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:22 WIB 16/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:22 WIB 16/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[16:10 WIB 16/05/26] TOYOTA Thailand Open 2026 [FHD] [LIVE]
@@ -49,6 +49,15 @@ https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:00 WIB 16/05/26] Wuhan Three Towns vs Shenyang Urban [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tcdGM5iAeJhpDXYnUn-7zcPePECHjno3LQ&s" group-title="BOX BILLIARDS ALL STAR VIETNAM INVITATIONAL.",[19:00 WIB 16/05/26] Đ [FHD] [LIVE]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tcdGM5iAeJhpDXYnUn-7zcPePECHjno3LQ&s" group-title="BOX BILLIARDS ALL STAR VIETNAM INVITATIONAL.",[19:00 WIB 16/05/26] Đ [HD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tcdGM5iAeJhpDXYnUn-7zcPePECHjno3LQ&s" group-title="BOX BILLIARDS ALL STAR VIETNAM INVITATIONAL.",[19:00 WIB 16/05/26] Đ [SD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d5/Logo_WTA_1000.png" group-title="WTA 1000 Rome",[20:00 WIB 16/05/26] Jannik Sinner - Daniil Medvedev  [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
