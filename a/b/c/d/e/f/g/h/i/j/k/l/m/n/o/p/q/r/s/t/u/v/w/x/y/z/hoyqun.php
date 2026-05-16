@@ -1,9 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [11:13 WIB 16/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [11:13 WIB 16/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [11:20 WIB 16/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [11:20 WIB 16/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[08:30 WIB 16/05/26] San Antonio Spurs vs Minnesota Timberwolves [FHD] [LIVE]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 16/05/26] Mito Hollyhock vs Tokyo Verdy [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
