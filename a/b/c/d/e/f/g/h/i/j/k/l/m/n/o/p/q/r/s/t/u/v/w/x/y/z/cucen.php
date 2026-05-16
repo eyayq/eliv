@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [22.54 WIB 16/05/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V5: [23.01 WIB 16/05/26]",Donasi server playlist iptv v5 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-id="1542889" tvg-logo="https://media.chuoichientv.com/media/20251115_115506_21fc2b24.png" group-title="[LIVE 21:00 WIB 16/05/26] Chelsea vs Manchester City",[LIVE 21:00 WIB 16/05/26] Chelsea vs Manchester City (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -46,1832 +46,1832 @@ https://gckc0525.edgemaxcdn.org/live/anhsoi.flv
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/anhsoihd/playlist.m3u8
-#EXTINF:-1 tvg-id="992645" tvg-logo="https://media.chuoichientv.com/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17 (HD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="992645" tvg-logo="https://media.chuoichientv.com/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17 (HD2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:-1 tvg-id="992645" tvg-logo="https://media.chuoichientv.com/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17 (FHD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1542549" tvg-logo="https://media.chuoichientv.com/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 1j 50m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka",[UPCOMING 1j 50m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka (HD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/chanh/playlist.m3u8
-#EXTINF:-1 tvg-id="1542549" tvg-logo="https://media.chuoichientv.com/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 1j 50m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka",[UPCOMING 1j 50m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka (HD2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/chanh.flv
-#EXTINF:-1 tvg-id="1542549" tvg-logo="https://media.chuoichientv.com/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 1j 50m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka",[UPCOMING 1j 50m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka (FHD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/chanhhd/playlist.m3u8
-#EXTINF:-1 tvg-id="1537001" tvg-logo="https://media.chuoichientv.com/media/20251115_111258_989c5299.png" group-title="[UPCOMING 2j 50m 01:45 WIB 17/05/26] St. Truiden vs Gent",[UPCOMING 2j 50m 01:45 WIB 17/05/26] St. Truiden vs Gent (HD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8
-#EXTINF:-1 tvg-id="1537001" tvg-logo="https://media.chuoichientv.com/media/20251115_111258_989c5299.png" group-title="[UPCOMING 2j 50m 01:45 WIB 17/05/26] St. Truiden vs Gent",[UPCOMING 2j 50m 01:45 WIB 17/05/26] St. Truiden vs Gent (HD2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/anhhot.flv
-#EXTINF:-1 tvg-id="1537001" tvg-logo="https://media.chuoichientv.com/media/20251115_111258_989c5299.png" group-title="[UPCOMING 2j 50m 01:45 WIB 17/05/26] St. Truiden vs Gent",[UPCOMING 2j 50m 01:45 WIB 17/05/26] St. Truiden vs Gent (FHD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
-#EXTINF:-1 tvg-id="1492266" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 6j 5m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo",[UPCOMING 6j 5m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo (HD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="1492266" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 6j 5m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo",[UPCOMING 6j 5m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo (HD2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv
-#EXTINF:-1 tvg-id="1492266" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 6j 5m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo",[UPCOMING 6j 5m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo (FHD1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-origin=https://live.chuoichien.tv
-https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
-#EXTINF:-1 tvg-id="996579" tvg-logo="https://media.chuoichientv.com/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 0j 5m 23:00 WIB 16/05/26] Uzbekistan U17 vs South Korea U17",[UPCOMING 0j 5m 23:00 WIB 16/05/26] Uzbekistan U17 vs South Korea U17 (HD1)
+#EXTINF:-1 tvg-id="996579" tvg-logo="https://media.chuoichientv.com/media/20251115_120250_dac8ca8d.png" group-title="[LIVE 23:00 WIB 16/05/26] Uzbekistan U17 vs South Korea U17",[LIVE 23:00 WIB 16/05/26] Uzbekistan U17 vs South Korea U17 (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
-#EXTINF:-1 tvg-id="996579" tvg-logo="https://media.chuoichientv.com/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 0j 5m 23:00 WIB 16/05/26] Uzbekistan U17 vs South Korea U17",[UPCOMING 0j 5m 23:00 WIB 16/05/26] Uzbekistan U17 vs South Korea U17 (HD2)
+#EXTINF:-1 tvg-id="996579" tvg-logo="https://media.chuoichientv.com/media/20251115_120250_dac8ca8d.png" group-title="[LIVE 23:00 WIB 16/05/26] Uzbekistan U17 vs South Korea U17",[LIVE 23:00 WIB 16/05/26] Uzbekistan U17 vs South Korea U17 (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x1.flv
-#EXTINF:-1 tvg-id="1436203" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 0j 10m 23:05 WIB 16/05/26] Al Akhdoud vs Al Khaleej Saihat",[UPCOMING 0j 10m 23:05 WIB 16/05/26] Al Akhdoud vs Al Khaleej Saihat (HD1)
+#EXTINF:-1 tvg-id="992645" tvg-logo="https://media.chuoichientv.com/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17 (HD1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="992645" tvg-logo="https://media.chuoichientv.com/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17 (HD2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:-1 tvg-id="992645" tvg-logo="https://media.chuoichientv.com/media/20251115_120250_dac8ca8d.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Vietnam U17 vs Australia U17 (FHD1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
+#EXTINF:-1 tvg-id="1542549" tvg-logo="https://media.chuoichientv.com/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 1j 43m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka",[UPCOMING 1j 43m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka (HD1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/chanh/playlist.m3u8
+#EXTINF:-1 tvg-id="1542549" tvg-logo="https://media.chuoichientv.com/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 1j 43m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka",[UPCOMING 1j 43m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka (HD2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/chanh.flv
+#EXTINF:-1 tvg-id="1542549" tvg-logo="https://media.chuoichientv.com/media/20251115_115647_2d8873ff.png" group-title="[UPCOMING 1j 43m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka",[UPCOMING 1j 43m 00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka (FHD1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/chanhhd/playlist.m3u8
+#EXTINF:-1 tvg-id="1537001" tvg-logo="https://media.chuoichientv.com/media/20251115_111258_989c5299.png" group-title="[UPCOMING 2j 43m 01:45 WIB 17/05/26] St. Truiden vs Gent",[UPCOMING 2j 43m 01:45 WIB 17/05/26] St. Truiden vs Gent (HD1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/anhhot/playlist.m3u8
+#EXTINF:-1 tvg-id="1537001" tvg-logo="https://media.chuoichientv.com/media/20251115_111258_989c5299.png" group-title="[UPCOMING 2j 43m 01:45 WIB 17/05/26] St. Truiden vs Gent",[UPCOMING 2j 43m 01:45 WIB 17/05/26] St. Truiden vs Gent (HD2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/anhhot.flv
+#EXTINF:-1 tvg-id="1537001" tvg-logo="https://media.chuoichientv.com/media/20251115_111258_989c5299.png" group-title="[UPCOMING 2j 43m 01:45 WIB 17/05/26] St. Truiden vs Gent",[UPCOMING 2j 43m 01:45 WIB 17/05/26] St. Truiden vs Gent (FHD1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/anhhothd/playlist.m3u8
+#EXTINF:-1 tvg-id="1492266" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 58m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo",[UPCOMING 5j 58m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo (HD1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="1492266" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 58m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo",[UPCOMING 5j 58m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo (HD2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:-1 tvg-id="1492266" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 58m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo",[UPCOMING 5j 58m 05:00 WIB 17/05/26] Fluminense vs Sao Paulo (FHD1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-origin=https://live.chuoichien.tv
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+#EXTINF:-1 tvg-id="1436203" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 0j 3m 23:05 WIB 16/05/26] Al Akhdoud vs Al Khaleej Saihat",[UPCOMING 0j 3m 23:05 WIB 16/05/26] Al Akhdoud vs Al Khaleej Saihat (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8
-#EXTINF:-1 tvg-id="1436203" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 0j 10m 23:05 WIB 16/05/26] Al Akhdoud vs Al Khaleej Saihat",[UPCOMING 0j 10m 23:05 WIB 16/05/26] Al Akhdoud vs Al Khaleej Saihat (HD2)
+#EXTINF:-1 tvg-id="1436203" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 0j 3m 23:05 WIB 16/05/26] Al Akhdoud vs Al Khaleej Saihat",[UPCOMING 0j 3m 23:05 WIB 16/05/26] Al Akhdoud vs Al Khaleej Saihat (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x2.flv
-#EXTINF:-1 tvg-id="1436205" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 0j 10m 23:05 WIB 16/05/26] Al-Hilal Saudi FC vs Al Neom",[UPCOMING 0j 10m 23:05 WIB 16/05/26] Al-Hilal Saudi FC vs Al Neom (HD1)
+#EXTINF:-1 tvg-id="1436205" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 0j 3m 23:05 WIB 16/05/26] Al-Hilal Saudi FC vs Al Neom",[UPCOMING 0j 3m 23:05 WIB 16/05/26] Al-Hilal Saudi FC vs Al Neom (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8
-#EXTINF:-1 tvg-id="1436205" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 0j 10m 23:05 WIB 16/05/26] Al-Hilal Saudi FC vs Al Neom",[UPCOMING 0j 10m 23:05 WIB 16/05/26] Al-Hilal Saudi FC vs Al Neom (HD2)
+#EXTINF:-1 tvg-id="1436205" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 0j 3m 23:05 WIB 16/05/26] Al-Hilal Saudi FC vs Al Neom",[UPCOMING 0j 3m 23:05 WIB 16/05/26] Al-Hilal Saudi FC vs Al Neom (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x3.flv
-#EXTINF:-1 tvg-id="1394732" tvg-logo="https://media.chuoichientv.com/media/20251115_115429_91fc8840.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Gazişehir Gaziantep vs Istanbul Basaksehir",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Gazişehir Gaziantep vs Istanbul Basaksehir (HD1)
+#EXTINF:-1 tvg-id="1394732" tvg-logo="https://media.chuoichientv.com/media/20251115_115429_91fc8840.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Gazişehir Gaziantep vs Istanbul Basaksehir",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Gazişehir Gaziantep vs Istanbul Basaksehir (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8
-#EXTINF:-1 tvg-id="1394732" tvg-logo="https://media.chuoichientv.com/media/20251115_115429_91fc8840.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Gazişehir Gaziantep vs Istanbul Basaksehir",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Gazişehir Gaziantep vs Istanbul Basaksehir (HD2)
+#EXTINF:-1 tvg-id="1394732" tvg-logo="https://media.chuoichientv.com/media/20251115_115429_91fc8840.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Gazişehir Gaziantep vs Istanbul Basaksehir",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Gazişehir Gaziantep vs Istanbul Basaksehir (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x4.flv
-#EXTINF:-1 tvg-id="1394737" tvg-logo="https://media.chuoichientv.com/media/20251115_115429_91fc8840.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Samsunspor vs Goztepe",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Samsunspor vs Goztepe (HD1)
+#EXTINF:-1 tvg-id="1394737" tvg-logo="https://media.chuoichientv.com/media/20251115_115429_91fc8840.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Samsunspor vs Goztepe",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Samsunspor vs Goztepe (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8
-#EXTINF:-1 tvg-id="1394737" tvg-logo="https://media.chuoichientv.com/media/20251115_115429_91fc8840.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Samsunspor vs Goztepe",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Samsunspor vs Goztepe (HD2)
+#EXTINF:-1 tvg-id="1394737" tvg-logo="https://media.chuoichientv.com/media/20251115_115429_91fc8840.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Samsunspor vs Goztepe",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Samsunspor vs Goztepe (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x5.flv
-#EXTINF:-1 tvg-id="1396534" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Arouca vs Tondela",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Arouca vs Tondela (HD1)
+#EXTINF:-1 tvg-id="1396534" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Arouca vs Tondela",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Arouca vs Tondela (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8
-#EXTINF:-1 tvg-id="1396534" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Arouca vs Tondela",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Arouca vs Tondela (HD2)
+#EXTINF:-1 tvg-id="1396534" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Arouca vs Tondela",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Arouca vs Tondela (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m5x6.flv
-#EXTINF:-1 tvg-id="1396535" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] SC Braga vs Estrela",[UPCOMING 1j 5m 00:00 WIB 17/05/26] SC Braga vs Estrela (HD1)
+#EXTINF:-1 tvg-id="1396535" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] SC Braga vs Estrela",[UPCOMING 0j 58m 00:00 WIB 17/05/26] SC Braga vs Estrela (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
-#EXTINF:-1 tvg-id="1396535" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] SC Braga vs Estrela",[UPCOMING 1j 5m 00:00 WIB 17/05/26] SC Braga vs Estrela (HD2)
+#EXTINF:-1 tvg-id="1396535" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] SC Braga vs Estrela",[UPCOMING 0j 58m 00:00 WIB 17/05/26] SC Braga vs Estrela (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m4x1.flv
-#EXTINF:-1 tvg-id="1396536" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Casa Pia vs Rio Ave",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Casa Pia vs Rio Ave (HD1)
+#EXTINF:-1 tvg-id="1396536" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Casa Pia vs Rio Ave",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Casa Pia vs Rio Ave (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
-#EXTINF:-1 tvg-id="1396536" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Casa Pia vs Rio Ave",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Casa Pia vs Rio Ave (HD2)
+#EXTINF:-1 tvg-id="1396536" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Casa Pia vs Rio Ave",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Casa Pia vs Rio Ave (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m4x2.flv
-#EXTINF:-1 tvg-id="1396541" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Nacional vs Guimaraes",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Nacional vs Guimaraes (HD1)
+#EXTINF:-1 tvg-id="1396541" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Nacional vs Guimaraes",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Nacional vs Guimaraes (HD1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m4x3/playlist.m3u8
-#EXTINF:-1 tvg-id="1396541" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 1j 5m 00:00 WIB 17/05/26] Nacional vs Guimaraes",[UPCOMING 1j 5m 00:00 WIB 17/05/26] Nacional vs Guimaraes (HD2)
+#EXTINF:-1 tvg-id="1396541" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 0j 58m 00:00 WIB 17/05/26] Nacional vs Guimaraes",[UPCOMING 0j 58m 00:00 WIB 17/05/26] Nacional vs Guimaraes (HD2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://gckc0525.edgemaxcdn.org/live/m4x3.flv
-#EXTINF:-1 tvg-id="1396537" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 35m 02:30 WIB 17/05/26] Estoril vs Benfica",[UPCOMING 3j 35m 02:30 WIB 17/05/26] Estoril vs Benfica (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1396537" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 28m 02:30 WIB 17/05/26] Estoril vs Benfica",[UPCOMING 3j 28m 02:30 WIB 17/05/26] Estoril vs Benfica (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1396538" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 35m 02:30 WIB 17/05/26] Famalicao vs Alverca",[UPCOMING 3j 35m 02:30 WIB 17/05/26] Famalicao vs Alverca (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1396538" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 28m 02:30 WIB 17/05/26] Famalicao vs Alverca",[UPCOMING 3j 28m 02:30 WIB 17/05/26] Famalicao vs Alverca (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1396542" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 35m 02:30 WIB 17/05/26] Sporting CP vs GIL Vicente",[UPCOMING 3j 35m 02:30 WIB 17/05/26] Sporting CP vs GIL Vicente (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1396542" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 28m 02:30 WIB 17/05/26] Sporting CP vs GIL Vicente",[UPCOMING 3j 28m 02:30 WIB 17/05/26] Sporting CP vs GIL Vicente (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492261" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 35m 04:30 WIB 17/05/26] Atletico-MG vs Mirassol",[UPCOMING 5j 35m 04:30 WIB 17/05/26] Atletico-MG vs Mirassol (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492261" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 28m 04:30 WIB 17/05/26] Atletico-MG vs Mirassol",[UPCOMING 5j 28m 04:30 WIB 17/05/26] Atletico-MG vs Mirassol (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492267" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 35m 04:30 WIB 17/05/26] Internacional vs Vasco DA Gama",[UPCOMING 5j 35m 04:30 WIB 17/05/26] Internacional vs Vasco DA Gama (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492267" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 28m 04:30 WIB 17/05/26] Internacional vs Vasco DA Gama",[UPCOMING 5j 28m 04:30 WIB 17/05/26] Internacional vs Vasco DA Gama (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1505441" tvg-logo="https://media.chuoichientv.com/media/20251115_115702_2bb22b63.png" group-title="[UPCOMING 5j 35m 04:30 WIB 17/05/26] O'Higgins vs Universidad de Concepcion",[UPCOMING 5j 35m 04:30 WIB 17/05/26] O'Higgins vs Universidad de Concepcion (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1505441" tvg-logo="https://media.chuoichientv.com/media/20251115_115702_2bb22b63.png" group-title="[UPCOMING 5j 28m 04:30 WIB 17/05/26] O'Higgins vs Universidad de Concepcion",[UPCOMING 5j 28m 04:30 WIB 17/05/26] O'Higgins vs Universidad de Concepcion (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490295" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] Philadelphia Union vs Columbus Crew",[UPCOMING 7j 35m 06:30 WIB 17/05/26] Philadelphia Union vs Columbus Crew (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490295" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] Philadelphia Union vs Columbus Crew",[UPCOMING 7j 28m 06:30 WIB 17/05/26] Philadelphia Union vs Columbus Crew (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490296" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] Orlando City SC vs Atlanta United FC",[UPCOMING 7j 35m 06:30 WIB 17/05/26] Orlando City SC vs Atlanta United FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490296" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] Orlando City SC vs Atlanta United FC",[UPCOMING 7j 28m 06:30 WIB 17/05/26] Orlando City SC vs Atlanta United FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490297" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] New York Red Bulls vs New York City FC",[UPCOMING 7j 35m 06:30 WIB 17/05/26] New York Red Bulls vs New York City FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490297" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] New York Red Bulls vs New York City FC",[UPCOMING 7j 28m 06:30 WIB 17/05/26] New York Red Bulls vs New York City FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490298" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] Charlotte vs Toronto FC",[UPCOMING 7j 35m 06:30 WIB 17/05/26] Charlotte vs Toronto FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490298" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] Charlotte vs Toronto FC",[UPCOMING 7j 28m 06:30 WIB 17/05/26] Charlotte vs Toronto FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490300" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] New England Revolution vs Minnesota United FC",[UPCOMING 7j 35m 06:30 WIB 17/05/26] New England Revolution vs Minnesota United FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490300" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] New England Revolution vs Minnesota United FC",[UPCOMING 7j 28m 06:30 WIB 17/05/26] New England Revolution vs Minnesota United FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490301" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] DC United vs St. Louis City",[UPCOMING 7j 35m 06:30 WIB 17/05/26] DC United vs St. Louis City (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490301" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] DC United vs St. Louis City",[UPCOMING 7j 28m 06:30 WIB 17/05/26] DC United vs St. Louis City (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492268" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 8j 5m 07:00 WIB 17/05/26] Palmeiras vs Cruzeiro",[UPCOMING 8j 5m 07:00 WIB 17/05/26] Palmeiras vs Cruzeiro (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492268" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 7j 58m 07:00 WIB 17/05/26] Palmeiras vs Cruzeiro",[UPCOMING 7j 58m 07:00 WIB 17/05/26] Palmeiras vs Cruzeiro (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490302" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 8j 35m 07:30 WIB 17/05/26] Houston Dynamo vs Vancouver Whitecaps",[UPCOMING 8j 35m 07:30 WIB 17/05/26] Houston Dynamo vs Vancouver Whitecaps (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490302" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 8j 28m 07:30 WIB 17/05/26] Houston Dynamo vs Vancouver Whitecaps",[UPCOMING 8j 28m 07:30 WIB 17/05/26] Houston Dynamo vs Vancouver Whitecaps (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490303" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 8j 35m 07:30 WIB 17/05/26] Austin vs Sporting Kansas City",[UPCOMING 8j 35m 07:30 WIB 17/05/26] Austin vs Sporting Kansas City (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490303" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 8j 28m 07:30 WIB 17/05/26] Austin vs Sporting Kansas City",[UPCOMING 8j 28m 07:30 WIB 17/05/26] Austin vs Sporting Kansas City (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1544855" tvg-logo="https://media.chuoichientv.com/media/20251115_113519_5f3a9d40.png" group-title="[UPCOMING 9j 12m 08:07 WIB 17/05/26] Chivas vs Cruz Azul",[UPCOMING 9j 12m 08:07 WIB 17/05/26] Chivas vs Cruz Azul (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1544855" tvg-logo="https://media.chuoichientv.com/media/20251115_113519_5f3a9d40.png" group-title="[UPCOMING 9j 5m 08:07 WIB 17/05/26] Chivas vs Cruz Azul",[UPCOMING 9j 5m 08:07 WIB 17/05/26] Chivas vs Cruz Azul (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490304" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 20m 08:15 WIB 17/05/26] Seattle Sounders vs Los Angeles Galaxy",[UPCOMING 9j 20m 08:15 WIB 17/05/26] Seattle Sounders vs Los Angeles Galaxy (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490304" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 13m 08:15 WIB 17/05/26] Seattle Sounders vs Los Angeles Galaxy",[UPCOMING 9j 13m 08:15 WIB 17/05/26] Seattle Sounders vs Los Angeles Galaxy (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490305" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 35m 08:30 WIB 17/05/26] Real Salt Lake vs Colorado Rapids",[UPCOMING 9j 35m 08:30 WIB 17/05/26] Real Salt Lake vs Colorado Rapids (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490305" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 28m 08:30 WIB 17/05/26] Real Salt Lake vs Colorado Rapids",[UPCOMING 9j 28m 08:30 WIB 17/05/26] Real Salt Lake vs Colorado Rapids (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490306" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 35m 08:30 WIB 17/05/26] San Diego vs FC Cincinnati",[UPCOMING 9j 35m 08:30 WIB 17/05/26] San Diego vs FC Cincinnati (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490306" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 28m 08:30 WIB 17/05/26] San Diego vs FC Cincinnati",[UPCOMING 9j 28m 08:30 WIB 17/05/26] San Diego vs FC Cincinnati (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490307" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 10j 35m 09:30 WIB 17/05/26] San Jose Earthquakes vs FC Dallas",[UPCOMING 10j 35m 09:30 WIB 17/05/26] San Jose Earthquakes vs FC Dallas (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490307" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 10j 28m 09:30 WIB 17/05/26] San Jose Earthquakes vs FC Dallas",[UPCOMING 10j 28m 09:30 WIB 17/05/26] San Jose Earthquakes vs FC Dallas (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504812" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 12j 5m 11:00 WIB 17/05/26] V-varen Nagasaki vs Vissel Kobe",[UPCOMING 12j 5m 11:00 WIB 17/05/26] V-varen Nagasaki vs Vissel Kobe (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504812" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 11j 58m 11:00 WIB 17/05/26] V-varen Nagasaki vs Vissel Kobe",[UPCOMING 11j 58m 11:00 WIB 17/05/26] V-varen Nagasaki vs Vissel Kobe (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504813" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 13j 5m 12:00 WIB 17/05/26] JEF United Chiba vs Kashima",[UPCOMING 13j 5m 12:00 WIB 17/05/26] JEF United Chiba vs Kashima (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504813" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 12j 58m 12:00 WIB 17/05/26] JEF United Chiba vs Kashima",[UPCOMING 12j 58m 12:00 WIB 17/05/26] JEF United Chiba vs Kashima (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504814" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 13j 5m 12:00 WIB 17/05/26] Fagiano Okayama vs Shimizu S-pulse",[UPCOMING 13j 5m 12:00 WIB 17/05/26] Fagiano Okayama vs Shimizu S-pulse (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504814" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 12j 58m 12:00 WIB 17/05/26] Fagiano Okayama vs Shimizu S-pulse",[UPCOMING 12j 58m 12:00 WIB 17/05/26] Fagiano Okayama vs Shimizu S-pulse (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504815" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 14j 5m 13:00 WIB 17/05/26] Cerezo Osaka vs Nagoya Grampus",[UPCOMING 14j 5m 13:00 WIB 17/05/26] Cerezo Osaka vs Nagoya Grampus (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504815" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 13j 58m 13:00 WIB 17/05/26] Cerezo Osaka vs Nagoya Grampus",[UPCOMING 13j 58m 13:00 WIB 17/05/26] Cerezo Osaka vs Nagoya Grampus (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504816" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 14j 5m 13:00 WIB 17/05/26] Kyoto Sanga vs Sanfrecce Hiroshima",[UPCOMING 14j 5m 13:00 WIB 17/05/26] Kyoto Sanga vs Sanfrecce Hiroshima (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504816" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 13j 58m 13:00 WIB 17/05/26] Kyoto Sanga vs Sanfrecce Hiroshima",[UPCOMING 13j 58m 13:00 WIB 17/05/26] Kyoto Sanga vs Sanfrecce Hiroshima (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1506982" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 15j 35m 14:30 WIB 17/05/26] Jeju United FC vs FC Anyang",[UPCOMING 15j 35m 14:30 WIB 17/05/26] Jeju United FC vs FC Anyang (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1506982" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 15j 28m 14:30 WIB 17/05/26] Jeju United FC vs FC Anyang",[UPCOMING 15j 28m 14:30 WIB 17/05/26] Jeju United FC vs FC Anyang (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1506983" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 15j 45m 14:40 WIB 17/05/26] Jeonbuk Motors vs Gimcheon Sangmu FC",[UPCOMING 15j 45m 14:40 WIB 17/05/26] Jeonbuk Motors vs Gimcheon Sangmu FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1506983" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 15j 38m 14:40 WIB 17/05/26] Jeonbuk Motors vs Gimcheon Sangmu FC",[UPCOMING 15j 38m 14:40 WIB 17/05/26] Jeonbuk Motors vs Gimcheon Sangmu FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1403855" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 16j 35m 15:30 WIB 17/05/26] Bali United vs Bhayangkara FC",[UPCOMING 16j 35m 15:30 WIB 17/05/26] Bali United vs Bhayangkara FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1403855" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 16j 28m 15:30 WIB 17/05/26] Bali United vs Bhayangkara FC",[UPCOMING 16j 28m 15:30 WIB 17/05/26] Bali United vs Bhayangkara FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504818" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 18j 5m 17:00 WIB 17/05/26] Kawasaki Frontale vs Machida Zelvia",[UPCOMING 18j 5m 17:00 WIB 17/05/26] Kawasaki Frontale vs Machida Zelvia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504818" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 17j 58m 17:00 WIB 17/05/26] Kawasaki Frontale vs Machida Zelvia",[UPCOMING 17j 58m 17:00 WIB 17/05/26] Kawasaki Frontale vs Machida Zelvia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1506984" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 18j 5m 17:00 WIB 17/05/26] Bucheon FC 1995 vs Pohang Steelers",[UPCOMING 18j 5m 17:00 WIB 17/05/26] Bucheon FC 1995 vs Pohang Steelers (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1506984" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 17j 58m 17:00 WIB 17/05/26] Bucheon FC 1995 vs Pohang Steelers",[UPCOMING 17j 58m 17:00 WIB 17/05/26] Bucheon FC 1995 vs Pohang Steelers (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1506985" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 18j 5m 17:00 WIB 17/05/26] Gangwon FC vs Ulsan Hyundai FC",[UPCOMING 18j 5m 17:00 WIB 17/05/26] Gangwon FC vs Ulsan Hyundai FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1506985" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 17j 58m 17:00 WIB 17/05/26] Gangwon FC vs Ulsan Hyundai FC",[UPCOMING 17j 58m 17:00 WIB 17/05/26] Gangwon FC vs Ulsan Hyundai FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1518085" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 18j 5m 17:00 WIB 17/05/26] Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh",[UPCOMING 18j 5m 17:00 WIB 17/05/26] Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1518085" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 17j 58m 17:00 WIB 17/05/26] Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh",[UPCOMING 17j 58m 17:00 WIB 17/05/26] Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378226" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 35m 17:30 WIB 17/05/26] Como vs Parma",[UPCOMING 18j 35m 17:30 WIB 17/05/26] Como vs Parma (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378226" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 28m 17:30 WIB 17/05/26] Como vs Parma",[UPCOMING 18j 28m 17:30 WIB 17/05/26] Como vs Parma (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378227" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 35m 17:30 WIB 17/05/26] Genoa vs AC Milan",[UPCOMING 18j 35m 17:30 WIB 17/05/26] Genoa vs AC Milan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378227" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 28m 17:30 WIB 17/05/26] Genoa vs AC Milan",[UPCOMING 18j 28m 17:30 WIB 17/05/26] Genoa vs AC Milan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378229" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 35m 17:30 WIB 17/05/26] Juventus vs Fiorentina",[UPCOMING 18j 35m 17:30 WIB 17/05/26] Juventus vs Fiorentina (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378229" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 28m 17:30 WIB 17/05/26] Juventus vs Fiorentina",[UPCOMING 18j 28m 17:30 WIB 17/05/26] Juventus vs Fiorentina (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378230" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 35m 17:30 WIB 17/05/26] Pisa vs Napoli",[UPCOMING 18j 35m 17:30 WIB 17/05/26] Pisa vs Napoli (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378230" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 28m 17:30 WIB 17/05/26] Pisa vs Napoli",[UPCOMING 18j 28m 17:30 WIB 17/05/26] Pisa vs Napoli (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1518086" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 19j 5m 18:00 WIB 17/05/26] Nam Dinh vs Viettel",[UPCOMING 19j 5m 18:00 WIB 17/05/26] Nam Dinh vs Viettel (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1518086" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 18j 58m 18:00 WIB 17/05/26] Nam Dinh vs Viettel",[UPCOMING 18j 58m 18:00 WIB 17/05/26] Nam Dinh vs Viettel (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1518087" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 19j 5m 18:00 WIB 17/05/26] PVF-CAND vs Ha Noi",[UPCOMING 19j 5m 18:00 WIB 17/05/26] PVF-CAND vs Ha Noi (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1518087" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 18j 58m 18:00 WIB 17/05/26] PVF-CAND vs Ha Noi",[UPCOMING 18j 58m 18:00 WIB 17/05/26] PVF-CAND vs Ha Noi (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1518157" tvg-logo="https://media.chuoichientv.com/media/20251115_115933_f82a4e9f.png" group-title="[UPCOMING 19j 5m 18:00 WIB 17/05/26] Quy Nhơn FC vs Than Quang Ninh",[UPCOMING 19j 5m 18:00 WIB 17/05/26] Quy Nhơn FC vs Than Quang Ninh (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1518157" tvg-logo="https://media.chuoichientv.com/media/20251115_115933_f82a4e9f.png" group-title="[UPCOMING 18j 58m 18:00 WIB 17/05/26] Quy Nhơn FC vs Than Quang Ninh",[UPCOMING 18j 58m 18:00 WIB 17/05/26] Quy Nhơn FC vs Than Quang Ninh (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379336" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 19j 35m 18:30 WIB 17/05/26] Manchester United vs Nottingham Forest",[UPCOMING 19j 35m 18:30 WIB 17/05/26] Manchester United vs Nottingham Forest (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379336" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 19j 28m 18:30 WIB 17/05/26] Manchester United vs Nottingham Forest",[UPCOMING 19j 28m 18:30 WIB 17/05/26] Manchester United vs Nottingham Forest (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1403856" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 20j 5m 19:00 WIB 17/05/26] Persijap vs Pusamania Borneo",[UPCOMING 20j 5m 19:00 WIB 17/05/26] Persijap vs Pusamania Borneo (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1403856" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 19j 58m 19:00 WIB 17/05/26] Persijap vs Pusamania Borneo",[UPCOMING 19j 58m 19:00 WIB 17/05/26] Persijap vs Pusamania Borneo (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1403857" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 20j 5m 19:00 WIB 17/05/26] PSIM Yogyakarta vs Persepam Madura Utd",[UPCOMING 20j 5m 19:00 WIB 17/05/26] PSIM Yogyakarta vs Persepam Madura Utd (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1403857" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 19j 58m 19:00 WIB 17/05/26] PSIM Yogyakarta vs Persepam Madura Utd",[UPCOMING 19j 58m 19:00 WIB 17/05/26] PSIM Yogyakarta vs Persepam Madura Utd (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1403858" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 20j 5m 19:00 WIB 17/05/26] PSM Makassar vs Persib Bandung",[UPCOMING 20j 5m 19:00 WIB 17/05/26] PSM Makassar vs Persib Bandung (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1403858" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 19j 58m 19:00 WIB 17/05/26] PSM Makassar vs Persib Bandung",[UPCOMING 19j 58m 19:00 WIB 17/05/26] PSM Makassar vs Persib Bandung (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1518088" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 20j 20m 19:15 WIB 17/05/26] Công An Hà Nội vs Thanh Hóa",[UPCOMING 20j 20m 19:15 WIB 17/05/26] Công An Hà Nội vs Thanh Hóa (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1518088" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 20j 13m 19:15 WIB 17/05/26] Công An Hà Nội vs Thanh Hóa",[UPCOMING 20j 13m 19:15 WIB 17/05/26] Công An Hà Nội vs Thanh Hóa (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378228" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 21j 5m 20:00 WIB 17/05/26] Inter vs Verona",[UPCOMING 21j 5m 20:00 WIB 17/05/26] Inter vs Verona (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378228" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 20j 58m 20:00 WIB 17/05/26] Inter vs Verona",[UPCOMING 20j 58m 20:00 WIB 17/05/26] Inter vs Verona (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379332" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 22j 5m 21:00 WIB 17/05/26] Brentford vs Crystal Palace",[UPCOMING 22j 5m 21:00 WIB 17/05/26] Brentford vs Crystal Palace (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379332" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 21j 58m 21:00 WIB 17/05/26] Brentford vs Crystal Palace",[UPCOMING 21j 58m 21:00 WIB 17/05/26] Brentford vs Crystal Palace (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379334" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 22j 5m 21:00 WIB 17/05/26] Everton vs Sunderland",[UPCOMING 22j 5m 21:00 WIB 17/05/26] Everton vs Sunderland (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379334" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 21j 58m 21:00 WIB 17/05/26] Everton vs Sunderland",[UPCOMING 21j 58m 21:00 WIB 17/05/26] Everton vs Sunderland (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379335" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 22j 5m 21:00 WIB 17/05/26] Leeds vs Brighton",[UPCOMING 22j 5m 21:00 WIB 17/05/26] Leeds vs Brighton (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379335" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 21j 58m 21:00 WIB 17/05/26] Leeds vs Brighton",[UPCOMING 21j 58m 21:00 WIB 17/05/26] Leeds vs Brighton (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379338" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 22j 5m 21:00 WIB 17/05/26] Wolves vs Fulham",[UPCOMING 22j 5m 21:00 WIB 17/05/26] Wolves vs Fulham (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379338" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 21j 58m 21:00 WIB 17/05/26] Wolves vs Fulham",[UPCOMING 21j 58m 21:00 WIB 17/05/26] Wolves vs Fulham (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492269" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 22j 5m 21:00 WIB 17/05/26] Santos vs Coritiba",[UPCOMING 22j 5m 21:00 WIB 17/05/26] Santos vs Coritiba (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492269" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 21j 58m 21:00 WIB 17/05/26] Santos vs Coritiba",[UPCOMING 21j 58m 21:00 WIB 17/05/26] Santos vs Coritiba (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378224" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 0j 5m 23:00 WIB 17/05/26] Atalanta vs Bologna",[UPCOMING 0j 5m 23:00 WIB 17/05/26] Atalanta vs Bologna (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378224" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 23j 58m 23:00 WIB 17/05/26] Atalanta vs Bologna",[UPCOMING 23j 58m 23:00 WIB 17/05/26] Atalanta vs Bologna (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379337" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 0j 35m 23:30 WIB 17/05/26] Newcastle vs West Ham",[UPCOMING 0j 35m 23:30 WIB 17/05/26] Newcastle vs West Ham (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379337" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 0j 28m 23:30 WIB 17/05/26] Newcastle vs West Ham",[UPCOMING 0j 28m 23:30 WIB 17/05/26] Newcastle vs West Ham (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391179" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Athletic Club vs Celta Vigo",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Athletic Club vs Celta Vigo (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391179" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Athletic Club vs Celta Vigo",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Athletic Club vs Celta Vigo (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391180" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Atletico Madrid vs Girona",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Atletico Madrid vs Girona (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391180" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Atletico Madrid vs Girona",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Atletico Madrid vs Girona (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391182" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Elche vs Getafe",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Elche vs Getafe (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391182" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Elche vs Getafe",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Elche vs Getafe (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391183" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Levante vs Mallorca",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Levante vs Mallorca (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391183" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Levante vs Mallorca",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Levante vs Mallorca (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391184" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Osasuna vs Espanyol",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Osasuna vs Espanyol (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391184" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Osasuna vs Espanyol",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Osasuna vs Espanyol (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391185" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Rayo Vallecano vs Villarreal",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Rayo Vallecano vs Villarreal (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391185" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Rayo Vallecano vs Villarreal",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Rayo Vallecano vs Villarreal (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391186" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Real Sociedad vs Valencia",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Real Sociedad vs Valencia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391186" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Real Sociedad vs Valencia",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Real Sociedad vs Valencia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391187" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Oviedo vs Alaves",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Oviedo vs Alaves (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391187" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Oviedo vs Alaves",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Oviedo vs Alaves (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391188" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Sevilla vs Real Madrid",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Sevilla vs Real Madrid (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391188" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Sevilla vs Real Madrid",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Sevilla vs Real Madrid (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1436160" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 2j 5m 01:00 WIB 18/05/26] Al Shabab vs Al-Ittihad FC",[UPCOMING 2j 5m 01:00 WIB 18/05/26] Al Shabab vs Al-Ittihad FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1436160" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 1j 58m 01:00 WIB 18/05/26] Al Shabab vs Al-Ittihad FC",[UPCOMING 1j 58m 01:00 WIB 18/05/26] Al Shabab vs Al-Ittihad FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378225" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 50m 01:45 WIB 18/05/26] Cagliari vs Torino",[UPCOMING 2j 50m 01:45 WIB 18/05/26] Cagliari vs Torino (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378225" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 43m 01:45 WIB 18/05/26] Cagliari vs Torino",[UPCOMING 2j 43m 01:45 WIB 18/05/26] Cagliari vs Torino (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378232" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 50m 01:45 WIB 18/05/26] Sassuolo vs Lecce",[UPCOMING 2j 50m 01:45 WIB 18/05/26] Sassuolo vs Lecce (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378232" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 43m 01:45 WIB 18/05/26] Sassuolo vs Lecce",[UPCOMING 2j 43m 01:45 WIB 18/05/26] Sassuolo vs Lecce (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378233" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 50m 01:45 WIB 18/05/26] Udinese vs Cremonese",[UPCOMING 2j 50m 01:45 WIB 18/05/26] Udinese vs Cremonese (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378233" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 43m 01:45 WIB 18/05/26] Udinese vs Cremonese",[UPCOMING 2j 43m 01:45 WIB 18/05/26] Udinese vs Cremonese (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1387995" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Stade Brestois 29 vs Angers",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Stade Brestois 29 vs Angers (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1387995" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Stade Brestois 29 vs Angers",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Stade Brestois 29 vs Angers (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1387996" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lille vs Auxerre",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lille vs Auxerre (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1387996" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lille vs Auxerre",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lille vs Auxerre (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1387997" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lorient vs LE Havre",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lorient vs LE Havre (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1387997" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lorient vs LE Havre",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lorient vs LE Havre (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1387998" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lyon vs Lens",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lyon vs Lens (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1387998" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lyon vs Lens",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lyon vs Lens (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1387999" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Marseille vs Rennes",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Marseille vs Rennes (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1387999" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Marseille vs Rennes",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Marseille vs Rennes (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1388000" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Nantes vs Toulouse",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Nantes vs Toulouse (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1388000" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Nantes vs Toulouse",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Nantes vs Toulouse (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1388001" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Nice vs Metz",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Nice vs Metz (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1388001" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Nice vs Metz",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Nice vs Metz (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1388002" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Paris FC vs Paris Saint Germain",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Paris FC vs Paris Saint Germain (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1388002" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Paris FC vs Paris Saint Germain",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Paris FC vs Paris Saint Germain (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1388003" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Strasbourg vs Monaco",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Strasbourg vs Monaco (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1388003" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Strasbourg vs Monaco",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Strasbourg vs Monaco (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391181" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 3j 20m 02:15 WIB 18/05/26] Barcelona vs Real Betis",[UPCOMING 3j 20m 02:15 WIB 18/05/26] Barcelona vs Real Betis (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391181" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 3j 13m 02:15 WIB 18/05/26] Barcelona vs Real Betis",[UPCOMING 3j 13m 02:15 WIB 18/05/26] Barcelona vs Real Betis (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492264" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 35m 04:30 WIB 18/05/26] RB Bragantino vs Vitoria",[UPCOMING 5j 35m 04:30 WIB 18/05/26] RB Bragantino vs Vitoria (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492264" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 28m 04:30 WIB 18/05/26] RB Bragantino vs Vitoria",[UPCOMING 5j 28m 04:30 WIB 18/05/26] RB Bragantino vs Vitoria (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492265" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 35m 04:30 WIB 18/05/26] Chapecoense-sc vs remo",[UPCOMING 5j 35m 04:30 WIB 18/05/26] Chapecoense-sc vs remo (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492265" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 28m 04:30 WIB 18/05/26] Chapecoense-sc vs remo",[UPCOMING 5j 28m 04:30 WIB 18/05/26] Chapecoense-sc vs remo (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490308" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 6j 5m 05:00 WIB 18/05/26] Inter Miami vs Portland Timbers",[UPCOMING 6j 5m 05:00 WIB 18/05/26] Inter Miami vs Portland Timbers (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490308" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 5j 58m 05:00 WIB 18/05/26] Inter Miami vs Portland Timbers",[UPCOMING 5j 58m 05:00 WIB 18/05/26] Inter Miami vs Portland Timbers (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492260" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 6j 35m 05:30 WIB 18/05/26] Atletico Paranaense vs Flamengo",[UPCOMING 6j 35m 05:30 WIB 18/05/26] Atletico Paranaense vs Flamengo (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492260" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 6j 28m 05:30 WIB 18/05/26] Atletico Paranaense vs Flamengo",[UPCOMING 6j 28m 05:30 WIB 18/05/26] Atletico Paranaense vs Flamengo (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490309" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 8j 5m 07:00 WIB 18/05/26] Nashville SC vs Los Angeles FC",[UPCOMING 8j 5m 07:00 WIB 18/05/26] Nashville SC vs Los Angeles FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490309" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 58m 07:00 WIB 18/05/26] Nashville SC vs Los Angeles FC",[UPCOMING 7j 58m 07:00 WIB 18/05/26] Nashville SC vs Los Angeles FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1544856" tvg-logo="https://media.chuoichientv.com/media/20251115_113519_5f3a9d40.png" group-title="[UPCOMING 9j 5m 08:00 WIB 18/05/26] U.N.A.M. - Pumas vs Pachuca",[UPCOMING 9j 5m 08:00 WIB 18/05/26] U.N.A.M. - Pumas vs Pachuca (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1544856" tvg-logo="https://media.chuoichientv.com/media/20251115_113519_5f3a9d40.png" group-title="[UPCOMING 8j 58m 08:00 WIB 18/05/26] U.N.A.M. - Pumas vs Pachuca",[UPCOMING 8j 58m 08:00 WIB 18/05/26] U.N.A.M. - Pumas vs Pachuca (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1421816" tvg-logo="https://media.chuoichientv.com/media/20251115_115557_08f49922.png" group-title="[UPCOMING 19j 35m 18:30 WIB 18/05/26] Tanjong Pagar vs Hougang United",[UPCOMING 19j 35m 18:30 WIB 18/05/26] Tanjong Pagar vs Hougang United (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1421816" tvg-logo="https://media.chuoichientv.com/media/20251115_115557_08f49922.png" group-title="[UPCOMING 19j 28m 18:30 WIB 18/05/26] Tanjong Pagar vs Hougang United",[UPCOMING 19j 28m 18:30 WIB 18/05/26] Tanjong Pagar vs Hougang United (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1521358" tvg-logo="https://media.chuoichientv.com/media/20251115_115705_cfea5ed5.png" group-title="[UPCOMING 22j 5m 21:00 WIB 18/05/26] Kerala Blasters vs Goa",[UPCOMING 22j 5m 21:00 WIB 18/05/26] Kerala Blasters vs Goa (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1521358" tvg-logo="https://media.chuoichientv.com/media/20251115_115705_cfea5ed5.png" group-title="[UPCOMING 21j 58m 21:00 WIB 18/05/26] Kerala Blasters vs Goa",[UPCOMING 21j 58m 21:00 WIB 18/05/26] Kerala Blasters vs Goa (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1533646" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 22j 5m 21:00 WIB 18/05/26] El Geish vs Pharco",[UPCOMING 22j 5m 21:00 WIB 18/05/26] El Geish vs Pharco (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1533646" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 21j 58m 21:00 WIB 18/05/26] El Geish vs Pharco",[UPCOMING 21j 58m 21:00 WIB 18/05/26] El Geish vs Pharco (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1533647" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 22j 5m 21:00 WIB 18/05/26] Kahraba Ismailia vs Haras El Hodood",[UPCOMING 22j 5m 21:00 WIB 18/05/26] Kahraba Ismailia vs Haras El Hodood (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1533647" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 21j 58m 21:00 WIB 18/05/26] Kahraba Ismailia vs Haras El Hodood",[UPCOMING 21j 58m 21:00 WIB 18/05/26] Kahraba Ismailia vs Haras El Hodood (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1541007" tvg-logo="https://media.chuoichientv.com/media/20251115_115700_392236cf.png" group-title="[UPCOMING 0j 35m 23:30 WIB 18/05/26] Lokomotiv Sofia vs Slavia Sofia",[UPCOMING 0j 35m 23:30 WIB 18/05/26] Lokomotiv Sofia vs Slavia Sofia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1541007" tvg-logo="https://media.chuoichientv.com/media/20251115_115700_392236cf.png" group-title="[UPCOMING 0j 28m 23:30 WIB 18/05/26] Lokomotiv Sofia vs Slavia Sofia",[UPCOMING 0j 28m 23:30 WIB 18/05/26] Lokomotiv Sofia vs Slavia Sofia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1541008" tvg-logo="https://media.chuoichientv.com/media/20251115_115700_392236cf.png" group-title="[UPCOMING 0j 35m 23:30 WIB 18/05/26] Montana vs Spartak Varna",[UPCOMING 0j 35m 23:30 WIB 18/05/26] Montana vs Spartak Varna (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1541008" tvg-logo="https://media.chuoichientv.com/media/20251115_115700_392236cf.png" group-title="[UPCOMING 0j 28m 23:30 WIB 18/05/26] Montana vs Spartak Varna",[UPCOMING 0j 28m 23:30 WIB 18/05/26] Montana vs Spartak Varna (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1533648" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 1j 5m 00:00 WIB 19/05/26] El Mokawloon vs Wadi Degla",[UPCOMING 1j 5m 00:00 WIB 19/05/26] El Mokawloon vs Wadi Degla (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1533648" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 0j 58m 00:00 WIB 19/05/26] El Mokawloon vs Wadi Degla",[UPCOMING 0j 58m 00:00 WIB 19/05/26] El Mokawloon vs Wadi Degla (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1533649" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 1j 5m 00:00 WIB 19/05/26] Ghazl El Mehalla vs Al Ittihad",[UPCOMING 1j 5m 00:00 WIB 19/05/26] Ghazl El Mehalla vs Al Ittihad (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1533649" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 0j 58m 00:00 WIB 19/05/26] Ghazl El Mehalla vs Al Ittihad",[UPCOMING 0j 58m 00:00 WIB 19/05/26] Ghazl El Mehalla vs Al Ittihad (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379329" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 3j 5m 02:00 WIB 19/05/26] Arsenal vs Burnley",[UPCOMING 3j 5m 02:00 WIB 19/05/26] Arsenal vs Burnley (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379329" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 2j 58m 02:00 WIB 19/05/26] Arsenal vs Burnley",[UPCOMING 2j 58m 02:00 WIB 19/05/26] Arsenal vs Burnley (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489369" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 12/06/26] Mexico vs South Africa",[UPCOMING 3j 5m 02:00 WIB 12/06/26] Mexico vs South Africa (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489369" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 12/06/26] Mexico vs South Africa",[UPCOMING 2j 58m 02:00 WIB 12/06/26] Mexico vs South Africa (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1538999" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 12/06/26] South Korea vs Czech Republic",[UPCOMING 10j 5m 09:00 WIB 12/06/26] South Korea vs Czech Republic (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1538999" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 12/06/26] South Korea vs Czech Republic",[UPCOMING 9j 58m 09:00 WIB 12/06/26] South Korea vs Czech Republic (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539000" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 13/06/26] Canada vs Bosnia & Herzegovina",[UPCOMING 3j 5m 02:00 WIB 13/06/26] Canada vs Bosnia & Herzegovina (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539000" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 13/06/26] Canada vs Bosnia & Herzegovina",[UPCOMING 2j 58m 02:00 WIB 13/06/26] Canada vs Bosnia & Herzegovina (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489370" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 13/06/26] USA vs Paraguay",[UPCOMING 9j 5m 08:00 WIB 13/06/26] USA vs Paraguay (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489370" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 13/06/26] USA vs Paraguay",[UPCOMING 8j 58m 08:00 WIB 13/06/26] USA vs Paraguay (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489373" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 14/06/26] Qatar vs Switzerland",[UPCOMING 3j 5m 02:00 WIB 14/06/26] Qatar vs Switzerland (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489373" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 14/06/26] Qatar vs Switzerland",[UPCOMING 2j 58m 02:00 WIB 14/06/26] Qatar vs Switzerland (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489371" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 14/06/26] Brazil vs Morocco",[UPCOMING 6j 5m 05:00 WIB 14/06/26] Brazil vs Morocco (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489371" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 14/06/26] Brazil vs Morocco",[UPCOMING 5j 58m 05:00 WIB 14/06/26] Brazil vs Morocco (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489372" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 14/06/26] Haiti vs Scotland",[UPCOMING 9j 5m 08:00 WIB 14/06/26] Haiti vs Scotland (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489372" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 14/06/26] Haiti vs Scotland",[UPCOMING 8j 58m 08:00 WIB 14/06/26] Haiti vs Scotland (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539001" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 12j 5m 11:00 WIB 14/06/26] Australia vs Türkiye",[UPCOMING 12j 5m 11:00 WIB 14/06/26] Australia vs Türkiye (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539001" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 58m 11:00 WIB 14/06/26] Australia vs Türkiye",[UPCOMING 11j 58m 11:00 WIB 14/06/26] Australia vs Türkiye (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489374" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 1j 5m 00:00 WIB 15/06/26] Germany vs Curaçao",[UPCOMING 1j 5m 00:00 WIB 15/06/26] Germany vs Curaçao (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489374" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 58m 00:00 WIB 15/06/26] Germany vs Curaçao",[UPCOMING 0j 58m 00:00 WIB 15/06/26] Germany vs Curaçao (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489376" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 15/06/26] Netherlands vs Japan",[UPCOMING 4j 5m 03:00 WIB 15/06/26] Netherlands vs Japan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489376" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 15/06/26] Netherlands vs Japan",[UPCOMING 3j 58m 03:00 WIB 15/06/26] Netherlands vs Japan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489375" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 5m 06:00 WIB 15/06/26] Ivory Coast vs Ecuador",[UPCOMING 7j 5m 06:00 WIB 15/06/26] Ivory Coast vs Ecuador (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489375" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 58m 06:00 WIB 15/06/26] Ivory Coast vs Ecuador",[UPCOMING 6j 58m 06:00 WIB 15/06/26] Ivory Coast vs Ecuador (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539002" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 15/06/26] Sweden vs Tunisia",[UPCOMING 10j 5m 09:00 WIB 15/06/26] Sweden vs Tunisia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539002" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 15/06/26] Sweden vs Tunisia",[UPCOMING 9j 58m 09:00 WIB 15/06/26] Sweden vs Tunisia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489380" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 5m 23:00 WIB 15/06/26] Spain vs Cape Verde Islands",[UPCOMING 0j 5m 23:00 WIB 15/06/26] Spain vs Cape Verde Islands (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489380" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 23j 58m 23:00 WIB 15/06/26] Spain vs Cape Verde Islands",[UPCOMING 23j 58m 23:00 WIB 15/06/26] Spain vs Cape Verde Islands (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489377" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 16/06/26] Belgium vs Egypt",[UPCOMING 3j 5m 02:00 WIB 16/06/26] Belgium vs Egypt (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489377" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 16/06/26] Belgium vs Egypt",[UPCOMING 2j 58m 02:00 WIB 16/06/26] Belgium vs Egypt (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489379" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 16/06/26] Saudi Arabia vs Uruguay",[UPCOMING 6j 5m 05:00 WIB 16/06/26] Saudi Arabia vs Uruguay (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489379" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 16/06/26] Saudi Arabia vs Uruguay",[UPCOMING 5j 58m 05:00 WIB 16/06/26] Saudi Arabia vs Uruguay (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489378" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 16/06/26] Iran vs New Zealand",[UPCOMING 9j 5m 08:00 WIB 16/06/26] Iran vs New Zealand (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489378" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 16/06/26] Iran vs New Zealand",[UPCOMING 8j 58m 08:00 WIB 16/06/26] Iran vs New Zealand (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489383" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 17/06/26] France vs Senegal",[UPCOMING 3j 5m 02:00 WIB 17/06/26] France vs Senegal (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489383" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 17/06/26] France vs Senegal",[UPCOMING 2j 58m 02:00 WIB 17/06/26] France vs Senegal (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539016" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 17/06/26] Iraq vs Norway",[UPCOMING 6j 5m 05:00 WIB 17/06/26] Iraq vs Norway (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539016" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 17/06/26] Iraq vs Norway",[UPCOMING 5j 58m 05:00 WIB 17/06/26] Iraq vs Norway (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489381" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 17/06/26] Argentina vs Algeria",[UPCOMING 9j 5m 08:00 WIB 17/06/26] Argentina vs Algeria (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489381" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 17/06/26] Argentina vs Algeria",[UPCOMING 8j 58m 08:00 WIB 17/06/26] Argentina vs Algeria (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489382" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 12j 5m 11:00 WIB 17/06/26] Austria vs Jordan",[UPCOMING 12j 5m 11:00 WIB 17/06/26] Austria vs Jordan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489382" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 58m 11:00 WIB 17/06/26] Austria vs Jordan",[UPCOMING 11j 58m 11:00 WIB 17/06/26] Austria vs Jordan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539003" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/06/26] Portugal vs Congo DR",[UPCOMING 1j 5m 00:00 WIB 18/06/26] Portugal vs Congo DR (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539003" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/06/26] Portugal vs Congo DR",[UPCOMING 0j 58m 00:00 WIB 18/06/26] Portugal vs Congo DR (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489384" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 18/06/26] England vs Croatia",[UPCOMING 4j 5m 03:00 WIB 18/06/26] England vs Croatia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489384" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 18/06/26] England vs Croatia",[UPCOMING 3j 58m 03:00 WIB 18/06/26] England vs Croatia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489385" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 5m 06:00 WIB 18/06/26] Ghana vs Panama",[UPCOMING 7j 5m 06:00 WIB 18/06/26] Ghana vs Panama (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489385" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 58m 06:00 WIB 18/06/26] Ghana vs Panama",[UPCOMING 6j 58m 06:00 WIB 18/06/26] Ghana vs Panama (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489386" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 18/06/26] Uzbekistan vs Colombia",[UPCOMING 10j 5m 09:00 WIB 18/06/26] Uzbekistan vs Colombia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489386" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 18/06/26] Uzbekistan vs Colombia",[UPCOMING 9j 58m 09:00 WIB 18/06/26] Uzbekistan vs Colombia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539004" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 5m 23:00 WIB 18/06/26] Czech Republic vs South Africa",[UPCOMING 0j 5m 23:00 WIB 18/06/26] Czech Republic vs South Africa (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539004" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 23j 58m 23:00 WIB 18/06/26] Czech Republic vs South Africa",[UPCOMING 23j 58m 23:00 WIB 18/06/26] Czech Republic vs South Africa (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539005" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 19/06/26] Switzerland vs Bosnia & Herzegovina",[UPCOMING 3j 5m 02:00 WIB 19/06/26] Switzerland vs Bosnia & Herzegovina (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539005" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 19/06/26] Switzerland vs Bosnia & Herzegovina",[UPCOMING 2j 58m 02:00 WIB 19/06/26] Switzerland vs Bosnia & Herzegovina (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489387" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 19/06/26] Canada vs Qatar",[UPCOMING 6j 5m 05:00 WIB 19/06/26] Canada vs Qatar (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489387" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 19/06/26] Canada vs Qatar",[UPCOMING 5j 58m 05:00 WIB 19/06/26] Canada vs Qatar (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489388" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 19/06/26] Mexico vs South Korea",[UPCOMING 9j 5m 08:00 WIB 19/06/26] Mexico vs South Korea (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489388" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 19/06/26] Mexico vs South Korea",[UPCOMING 8j 58m 08:00 WIB 19/06/26] Mexico vs South Korea (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489391" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 20/06/26] USA vs Australia",[UPCOMING 3j 5m 02:00 WIB 20/06/26] USA vs Australia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489391" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 20/06/26] USA vs Australia",[UPCOMING 2j 58m 02:00 WIB 20/06/26] USA vs Australia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489390" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 20/06/26] Scotland vs Morocco",[UPCOMING 6j 5m 05:00 WIB 20/06/26] Scotland vs Morocco (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489390" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 20/06/26] Scotland vs Morocco",[UPCOMING 5j 58m 05:00 WIB 20/06/26] Scotland vs Morocco (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489389" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 35m 07:30 WIB 20/06/26] Brazil vs Haiti",[UPCOMING 8j 35m 07:30 WIB 20/06/26] Brazil vs Haiti (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489389" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 28m 07:30 WIB 20/06/26] Brazil vs Haiti",[UPCOMING 8j 28m 07:30 WIB 20/06/26] Brazil vs Haiti (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539006" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 5m 10:00 WIB 20/06/26] Türkiye vs Paraguay",[UPCOMING 11j 5m 10:00 WIB 20/06/26] Türkiye vs Paraguay (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539006" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 58m 10:00 WIB 20/06/26] Türkiye vs Paraguay",[UPCOMING 10j 58m 10:00 WIB 20/06/26] Türkiye vs Paraguay (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539007" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 1j 5m 00:00 WIB 21/06/26] Netherlands vs Sweden",[UPCOMING 1j 5m 00:00 WIB 21/06/26] Netherlands vs Sweden (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539007" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 58m 00:00 WIB 21/06/26] Netherlands vs Sweden",[UPCOMING 0j 58m 00:00 WIB 21/06/26] Netherlands vs Sweden (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489393" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 21/06/26] Germany vs Ivory Coast",[UPCOMING 4j 5m 03:00 WIB 21/06/26] Germany vs Ivory Coast (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489393" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 21/06/26] Germany vs Ivory Coast",[UPCOMING 3j 58m 03:00 WIB 21/06/26] Germany vs Ivory Coast (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489392" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 5m 07:00 WIB 21/06/26] Ecuador vs Curaçao",[UPCOMING 8j 5m 07:00 WIB 21/06/26] Ecuador vs Curaçao (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489392" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 58m 07:00 WIB 21/06/26] Ecuador vs Curaçao",[UPCOMING 7j 58m 07:00 WIB 21/06/26] Ecuador vs Curaçao (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489394" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 12j 5m 11:00 WIB 21/06/26] Tunisia vs Japan",[UPCOMING 12j 5m 11:00 WIB 21/06/26] Tunisia vs Japan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489394" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 58m 11:00 WIB 21/06/26] Tunisia vs Japan",[UPCOMING 11j 58m 11:00 WIB 21/06/26] Tunisia vs Japan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489397" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 5m 23:00 WIB 21/06/26] Spain vs Saudi Arabia",[UPCOMING 0j 5m 23:00 WIB 21/06/26] Spain vs Saudi Arabia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489397" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 23j 58m 23:00 WIB 21/06/26] Spain vs Saudi Arabia",[UPCOMING 23j 58m 23:00 WIB 21/06/26] Spain vs Saudi Arabia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489395" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 22/06/26] Belgium vs Iran",[UPCOMING 3j 5m 02:00 WIB 22/06/26] Belgium vs Iran (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489395" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 22/06/26] Belgium vs Iran",[UPCOMING 2j 58m 02:00 WIB 22/06/26] Belgium vs Iran (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489398" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 22/06/26] Uruguay vs Cape Verde Islands",[UPCOMING 6j 5m 05:00 WIB 22/06/26] Uruguay vs Cape Verde Islands (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489398" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 22/06/26] Uruguay vs Cape Verde Islands",[UPCOMING 5j 58m 05:00 WIB 22/06/26] Uruguay vs Cape Verde Islands (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489396" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 22/06/26] New Zealand vs Egypt",[UPCOMING 9j 5m 08:00 WIB 22/06/26] New Zealand vs Egypt (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489396" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 22/06/26] New Zealand vs Egypt",[UPCOMING 8j 58m 08:00 WIB 22/06/26] New Zealand vs Egypt (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489399" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 1j 5m 00:00 WIB 23/06/26] Argentina vs Austria",[UPCOMING 1j 5m 00:00 WIB 23/06/26] Argentina vs Austria (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489399" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 58m 00:00 WIB 23/06/26] Argentina vs Austria",[UPCOMING 0j 58m 00:00 WIB 23/06/26] Argentina vs Austria (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539017" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 5m 04:00 WIB 23/06/26] France vs Iraq",[UPCOMING 5j 5m 04:00 WIB 23/06/26] France vs Iraq (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539017" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 58m 04:00 WIB 23/06/26] France vs Iraq",[UPCOMING 4j 58m 04:00 WIB 23/06/26] France vs Iraq (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489401" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 5m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 8j 5m 07:00 WIB 23/06/26] Norway vs Senegal (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489401" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 58m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 7j 58m 07:00 WIB 23/06/26] Norway vs Senegal (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489400" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 5m 10:00 WIB 23/06/26] Jordan vs Algeria",[UPCOMING 11j 5m 10:00 WIB 23/06/26] Jordan vs Algeria (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489400" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 58m 10:00 WIB 23/06/26] Jordan vs Algeria",[UPCOMING 10j 58m 10:00 WIB 23/06/26] Jordan vs Algeria (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489404" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 1j 5m 00:00 WIB 24/06/26] Portugal vs Uzbekistan",[UPCOMING 1j 5m 00:00 WIB 24/06/26] Portugal vs Uzbekistan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489404" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 58m 00:00 WIB 24/06/26] Portugal vs Uzbekistan",[UPCOMING 0j 58m 00:00 WIB 24/06/26] Portugal vs Uzbekistan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489402" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 24/06/26] England vs Ghana",[UPCOMING 4j 5m 03:00 WIB 24/06/26] England vs Ghana (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489402" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 24/06/26] England vs Ghana",[UPCOMING 3j 58m 03:00 WIB 24/06/26] England vs Ghana (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489403" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 5m 06:00 WIB 24/06/26] Panama vs Croatia",[UPCOMING 7j 5m 06:00 WIB 24/06/26] Panama vs Croatia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489403" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 58m 06:00 WIB 24/06/26] Panama vs Croatia",[UPCOMING 6j 58m 06:00 WIB 24/06/26] Panama vs Croatia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539008" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 24/06/26] Colombia vs Congo DR",[UPCOMING 10j 5m 09:00 WIB 24/06/26] Colombia vs Congo DR (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539008" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 24/06/26] Colombia vs Congo DR",[UPCOMING 9j 58m 09:00 WIB 24/06/26] Colombia vs Congo DR (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489408" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 25/06/26] Switzerland vs Canada",[UPCOMING 3j 5m 02:00 WIB 25/06/26] Switzerland vs Canada (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489408" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 25/06/26] Switzerland vs Canada",[UPCOMING 2j 58m 02:00 WIB 25/06/26] Switzerland vs Canada (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539009" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 25/06/26] Bosnia & Herzegovina vs Qatar",[UPCOMING 3j 5m 02:00 WIB 25/06/26] Bosnia & Herzegovina vs Qatar (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539009" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 25/06/26] Bosnia & Herzegovina vs Qatar",[UPCOMING 2j 58m 02:00 WIB 25/06/26] Bosnia & Herzegovina vs Qatar (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489405" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 25/06/26] Morocco vs Haiti",[UPCOMING 6j 5m 05:00 WIB 25/06/26] Morocco vs Haiti (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489405" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 25/06/26] Morocco vs Haiti",[UPCOMING 5j 58m 05:00 WIB 25/06/26] Morocco vs Haiti (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489406" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 25/06/26] Scotland vs Brazil",[UPCOMING 6j 5m 05:00 WIB 25/06/26] Scotland vs Brazil (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489406" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 25/06/26] Scotland vs Brazil",[UPCOMING 5j 58m 05:00 WIB 25/06/26] Scotland vs Brazil (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489407" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 25/06/26] South Africa vs South Korea",[UPCOMING 9j 5m 08:00 WIB 25/06/26] South Africa vs South Korea (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489407" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 25/06/26] South Africa vs South Korea",[UPCOMING 8j 58m 08:00 WIB 25/06/26] South Africa vs South Korea (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539010" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 25/06/26] Czech Republic vs Mexico",[UPCOMING 9j 5m 08:00 WIB 25/06/26] Czech Republic vs Mexico (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539010" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 25/06/26] Czech Republic vs Mexico",[UPCOMING 8j 58m 08:00 WIB 25/06/26] Czech Republic vs Mexico (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489409" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 26/06/26] Curaçao vs Ivory Coast",[UPCOMING 4j 5m 03:00 WIB 26/06/26] Curaçao vs Ivory Coast (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489409" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 26/06/26] Curaçao vs Ivory Coast",[UPCOMING 3j 58m 03:00 WIB 26/06/26] Curaçao vs Ivory Coast (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489410" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 26/06/26] Ecuador vs Germany",[UPCOMING 4j 5m 03:00 WIB 26/06/26] Ecuador vs Germany (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489410" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 26/06/26] Ecuador vs Germany",[UPCOMING 3j 58m 03:00 WIB 26/06/26] Ecuador vs Germany (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489412" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 5m 06:00 WIB 26/06/26] Tunisia vs Netherlands",[UPCOMING 7j 5m 06:00 WIB 26/06/26] Tunisia vs Netherlands (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489412" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 58m 06:00 WIB 26/06/26] Tunisia vs Netherlands",[UPCOMING 6j 58m 06:00 WIB 26/06/26] Tunisia vs Netherlands (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539011" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 5m 06:00 WIB 26/06/26] Japan vs Sweden",[UPCOMING 7j 5m 06:00 WIB 26/06/26] Japan vs Sweden (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539011" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 58m 06:00 WIB 26/06/26] Japan vs Sweden",[UPCOMING 6j 58m 06:00 WIB 26/06/26] Japan vs Sweden (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489411" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 26/06/26] Paraguay vs Australia",[UPCOMING 10j 5m 09:00 WIB 26/06/26] Paraguay vs Australia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489411" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 26/06/26] Paraguay vs Australia",[UPCOMING 9j 58m 09:00 WIB 26/06/26] Paraguay vs Australia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539012" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 26/06/26] Türkiye vs USA",[UPCOMING 10j 5m 09:00 WIB 26/06/26] Türkiye vs USA (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539012" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 26/06/26] Türkiye vs USA",[UPCOMING 9j 58m 09:00 WIB 26/06/26] Türkiye vs USA (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489416" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 27/06/26] Norway vs France",[UPCOMING 3j 5m 02:00 WIB 27/06/26] Norway vs France (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489416" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 27/06/26] Norway vs France",[UPCOMING 2j 58m 02:00 WIB 27/06/26] Norway vs France (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539074" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 27/06/26] Senegal vs Iraq",[UPCOMING 3j 5m 02:00 WIB 27/06/26] Senegal vs Iraq (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539074" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 27/06/26] Senegal vs Iraq",[UPCOMING 2j 58m 02:00 WIB 27/06/26] Senegal vs Iraq (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489413" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 5m 07:00 WIB 27/06/26] Cape Verde Islands vs Saudi Arabia",[UPCOMING 8j 5m 07:00 WIB 27/06/26] Cape Verde Islands vs Saudi Arabia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489413" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 58m 07:00 WIB 27/06/26] Cape Verde Islands vs Saudi Arabia",[UPCOMING 7j 58m 07:00 WIB 27/06/26] Cape Verde Islands vs Saudi Arabia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489417" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 5m 07:00 WIB 27/06/26] Uruguay vs Spain",[UPCOMING 8j 5m 07:00 WIB 27/06/26] Uruguay vs Spain (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489417" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 58m 07:00 WIB 27/06/26] Uruguay vs Spain",[UPCOMING 7j 58m 07:00 WIB 27/06/26] Uruguay vs Spain (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489414" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 5m 10:00 WIB 27/06/26] Egypt vs Iran",[UPCOMING 11j 5m 10:00 WIB 27/06/26] Egypt vs Iran (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489414" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 58m 10:00 WIB 27/06/26] Egypt vs Iran",[UPCOMING 10j 58m 10:00 WIB 27/06/26] Egypt vs Iran (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489415" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 5m 10:00 WIB 27/06/26] New Zealand vs Belgium",[UPCOMING 11j 5m 10:00 WIB 27/06/26] New Zealand vs Belgium (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489415" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 58m 10:00 WIB 27/06/26] New Zealand vs Belgium",[UPCOMING 10j 58m 10:00 WIB 27/06/26] New Zealand vs Belgium (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489420" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 5m 04:00 WIB 28/06/26] Croatia vs Ghana",[UPCOMING 5j 5m 04:00 WIB 28/06/26] Croatia vs Ghana (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489420" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 58m 04:00 WIB 28/06/26] Croatia vs Ghana",[UPCOMING 4j 58m 04:00 WIB 28/06/26] Croatia vs Ghana (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489422" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 5m 04:00 WIB 28/06/26] Panama vs England",[UPCOMING 5j 5m 04:00 WIB 28/06/26] Panama vs England (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489422" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 58m 04:00 WIB 28/06/26] Panama vs England",[UPCOMING 4j 58m 04:00 WIB 28/06/26] Panama vs England (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489419" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 35m 06:30 WIB 28/06/26] Colombia vs Portugal",[UPCOMING 7j 35m 06:30 WIB 28/06/26] Colombia vs Portugal (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489419" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 28m 06:30 WIB 28/06/26] Colombia vs Portugal",[UPCOMING 7j 28m 06:30 WIB 28/06/26] Colombia vs Portugal (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539013" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 35m 06:30 WIB 28/06/26] Congo DR vs Uzbekistan",[UPCOMING 7j 35m 06:30 WIB 28/06/26] Congo DR vs Uzbekistan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539013" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 28m 06:30 WIB 28/06/26] Congo DR vs Uzbekistan",[UPCOMING 7j 28m 06:30 WIB 28/06/26] Congo DR vs Uzbekistan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489418" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 28/06/26] Algeria vs Austria",[UPCOMING 10j 5m 09:00 WIB 28/06/26] Algeria vs Austria (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489418" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 28/06/26] Algeria vs Austria",[UPCOMING 9j 58m 09:00 WIB 28/06/26] Algeria vs Austria (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489421" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 28/06/26] Jordan vs Argentina",[UPCOMING 10j 5m 09:00 WIB 28/06/26] Jordan vs Argentina (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489421" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 28/06/26] Jordan vs Argentina",[UPCOMING 9j 58m 09:00 WIB 28/06/26] Jordan vs Argentina (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="991299" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 15j 5m 14:00 WIB 17/05/26] Gunma Bank Green Wings W vs LPBank Ninh Bình",[UPCOMING 15j 5m 14:00 WIB 17/05/26] Gunma Bank Green Wings W vs LPBank Ninh Bình (SVR-BHNS0)
+#EXTINF:-1 tvg-id="991299" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 14j 58m 14:00 WIB 17/05/26] Gunma Bank Green Wings W vs LPBank Ninh Bình",[UPCOMING 14j 58m 14:00 WIB 17/05/26] Gunma Bank Green Wings W vs LPBank Ninh Bình (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="998294" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 18j 5m 17:00 WIB 17/05/26] Hà Nội - Tasco Auto vs Suwon (Kor)",[UPCOMING 18j 5m 17:00 WIB 17/05/26] Hà Nội - Tasco Auto vs Suwon (Kor) (SVR-BHNS0)
+#EXTINF:-1 tvg-id="998294" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 17j 58m 17:00 WIB 17/05/26] Hà Nội - Tasco Auto vs Suwon (Kor)",[UPCOMING 17j 58m 17:00 WIB 17/05/26] Hà Nội - Tasco Auto vs Suwon (Kor) (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="997373" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 21j 5m 20:00 WIB 17/05/26] VTV Bình Điền Long An vs Binh chủng Thông tin",[UPCOMING 21j 5m 20:00 WIB 17/05/26] VTV Bình Điền Long An vs Binh chủng Thông tin (SVR-BHNS0)
+#EXTINF:-1 tvg-id="997373" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 20j 58m 20:00 WIB 17/05/26] VTV Bình Điền Long An vs Binh chủng Thông tin",[UPCOMING 20j 58m 20:00 WIB 17/05/26] VTV Bình Điền Long An vs Binh chủng Thông tin (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="995720" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 15j 5m 14:00 WIB 18/05/26] Giang Tô (CN) vs Vietinbank",[UPCOMING 15j 5m 14:00 WIB 18/05/26] Giang Tô (CN) vs Vietinbank (SVR-BHNS0)
+#EXTINF:-1 tvg-id="995720" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 14j 58m 14:00 WIB 18/05/26] Giang Tô (CN) vs Vietinbank",[UPCOMING 14j 58m 14:00 WIB 18/05/26] Giang Tô (CN) vs Vietinbank (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="997681" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 18j 5m 17:00 WIB 18/05/26] Gunma Bank Green Wings W vs Suwon (Kor)",[UPCOMING 18j 5m 17:00 WIB 18/05/26] Gunma Bank Green Wings W vs Suwon (Kor) (SVR-BHNS0)
+#EXTINF:-1 tvg-id="997681" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 17j 58m 17:00 WIB 18/05/26] Gunma Bank Green Wings W vs Suwon (Kor)",[UPCOMING 17j 58m 17:00 WIB 18/05/26] Gunma Bank Green Wings W vs Suwon (Kor) (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="991203" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 21j 5m 20:00 WIB 18/05/26] LPBank Ninh Bình vs Hà Nội - Tasco Auto",[UPCOMING 21j 5m 20:00 WIB 18/05/26] LPBank Ninh Bình vs Hà Nội - Tasco Auto (SVR-BHNS0)
+#EXTINF:-1 tvg-id="991203" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 20j 58m 20:00 WIB 18/05/26] LPBank Ninh Bình vs Hà Nội - Tasco Auto",[UPCOMING 20j 58m 20:00 WIB 18/05/26] LPBank Ninh Bình vs Hà Nội - Tasco Auto (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1396537" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 35m 02:30 WIB 17/05/26] Estoril vs Benfica",[UPCOMING 3j 35m 02:30 WIB 17/05/26] Estoril vs Benfica (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1396537" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 28m 02:30 WIB 17/05/26] Estoril vs Benfica",[UPCOMING 3j 28m 02:30 WIB 17/05/26] Estoril vs Benfica (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1396538" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 35m 02:30 WIB 17/05/26] Famalicao vs Alverca",[UPCOMING 3j 35m 02:30 WIB 17/05/26] Famalicao vs Alverca (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1396538" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 28m 02:30 WIB 17/05/26] Famalicao vs Alverca",[UPCOMING 3j 28m 02:30 WIB 17/05/26] Famalicao vs Alverca (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1396542" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 35m 02:30 WIB 17/05/26] Sporting CP vs GIL Vicente",[UPCOMING 3j 35m 02:30 WIB 17/05/26] Sporting CP vs GIL Vicente (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1396542" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_bf202ae5.png" group-title="[UPCOMING 3j 28m 02:30 WIB 17/05/26] Sporting CP vs GIL Vicente",[UPCOMING 3j 28m 02:30 WIB 17/05/26] Sporting CP vs GIL Vicente (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492261" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 35m 04:30 WIB 17/05/26] Atletico-MG vs Mirassol",[UPCOMING 5j 35m 04:30 WIB 17/05/26] Atletico-MG vs Mirassol (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492261" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 28m 04:30 WIB 17/05/26] Atletico-MG vs Mirassol",[UPCOMING 5j 28m 04:30 WIB 17/05/26] Atletico-MG vs Mirassol (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492267" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 35m 04:30 WIB 17/05/26] Internacional vs Vasco DA Gama",[UPCOMING 5j 35m 04:30 WIB 17/05/26] Internacional vs Vasco DA Gama (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492267" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 28m 04:30 WIB 17/05/26] Internacional vs Vasco DA Gama",[UPCOMING 5j 28m 04:30 WIB 17/05/26] Internacional vs Vasco DA Gama (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1505441" tvg-logo="https://media.chuoichientv.com/media/20251115_115702_2bb22b63.png" group-title="[UPCOMING 5j 35m 04:30 WIB 17/05/26] O'Higgins vs Universidad de Concepcion",[UPCOMING 5j 35m 04:30 WIB 17/05/26] O'Higgins vs Universidad de Concepcion (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1505441" tvg-logo="https://media.chuoichientv.com/media/20251115_115702_2bb22b63.png" group-title="[UPCOMING 5j 28m 04:30 WIB 17/05/26] O'Higgins vs Universidad de Concepcion",[UPCOMING 5j 28m 04:30 WIB 17/05/26] O'Higgins vs Universidad de Concepcion (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490295" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] Philadelphia Union vs Columbus Crew",[UPCOMING 7j 35m 06:30 WIB 17/05/26] Philadelphia Union vs Columbus Crew (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490295" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] Philadelphia Union vs Columbus Crew",[UPCOMING 7j 28m 06:30 WIB 17/05/26] Philadelphia Union vs Columbus Crew (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490296" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] Orlando City SC vs Atlanta United FC",[UPCOMING 7j 35m 06:30 WIB 17/05/26] Orlando City SC vs Atlanta United FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490296" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] Orlando City SC vs Atlanta United FC",[UPCOMING 7j 28m 06:30 WIB 17/05/26] Orlando City SC vs Atlanta United FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490297" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] New York Red Bulls vs New York City FC",[UPCOMING 7j 35m 06:30 WIB 17/05/26] New York Red Bulls vs New York City FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490297" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] New York Red Bulls vs New York City FC",[UPCOMING 7j 28m 06:30 WIB 17/05/26] New York Red Bulls vs New York City FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490298" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] Charlotte vs Toronto FC",[UPCOMING 7j 35m 06:30 WIB 17/05/26] Charlotte vs Toronto FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490298" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] Charlotte vs Toronto FC",[UPCOMING 7j 28m 06:30 WIB 17/05/26] Charlotte vs Toronto FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490300" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] New England Revolution vs Minnesota United FC",[UPCOMING 7j 35m 06:30 WIB 17/05/26] New England Revolution vs Minnesota United FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490300" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] New England Revolution vs Minnesota United FC",[UPCOMING 7j 28m 06:30 WIB 17/05/26] New England Revolution vs Minnesota United FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490301" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 35m 06:30 WIB 17/05/26] DC United vs St. Louis City",[UPCOMING 7j 35m 06:30 WIB 17/05/26] DC United vs St. Louis City (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490301" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 28m 06:30 WIB 17/05/26] DC United vs St. Louis City",[UPCOMING 7j 28m 06:30 WIB 17/05/26] DC United vs St. Louis City (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492268" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 8j 5m 07:00 WIB 17/05/26] Palmeiras vs Cruzeiro",[UPCOMING 8j 5m 07:00 WIB 17/05/26] Palmeiras vs Cruzeiro (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492268" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 7j 58m 07:00 WIB 17/05/26] Palmeiras vs Cruzeiro",[UPCOMING 7j 58m 07:00 WIB 17/05/26] Palmeiras vs Cruzeiro (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490302" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 8j 35m 07:30 WIB 17/05/26] Houston Dynamo vs Vancouver Whitecaps",[UPCOMING 8j 35m 07:30 WIB 17/05/26] Houston Dynamo vs Vancouver Whitecaps (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490302" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 8j 28m 07:30 WIB 17/05/26] Houston Dynamo vs Vancouver Whitecaps",[UPCOMING 8j 28m 07:30 WIB 17/05/26] Houston Dynamo vs Vancouver Whitecaps (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490303" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 8j 35m 07:30 WIB 17/05/26] Austin vs Sporting Kansas City",[UPCOMING 8j 35m 07:30 WIB 17/05/26] Austin vs Sporting Kansas City (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490303" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 8j 28m 07:30 WIB 17/05/26] Austin vs Sporting Kansas City",[UPCOMING 8j 28m 07:30 WIB 17/05/26] Austin vs Sporting Kansas City (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1544855" tvg-logo="https://media.chuoichientv.com/media/20251115_113519_5f3a9d40.png" group-title="[UPCOMING 9j 12m 08:07 WIB 17/05/26] Chivas vs Cruz Azul",[UPCOMING 9j 12m 08:07 WIB 17/05/26] Chivas vs Cruz Azul (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1544855" tvg-logo="https://media.chuoichientv.com/media/20251115_113519_5f3a9d40.png" group-title="[UPCOMING 9j 5m 08:07 WIB 17/05/26] Chivas vs Cruz Azul",[UPCOMING 9j 5m 08:07 WIB 17/05/26] Chivas vs Cruz Azul (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490304" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 20m 08:15 WIB 17/05/26] Seattle Sounders vs Los Angeles Galaxy",[UPCOMING 9j 20m 08:15 WIB 17/05/26] Seattle Sounders vs Los Angeles Galaxy (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490304" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 13m 08:15 WIB 17/05/26] Seattle Sounders vs Los Angeles Galaxy",[UPCOMING 9j 13m 08:15 WIB 17/05/26] Seattle Sounders vs Los Angeles Galaxy (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490305" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 35m 08:30 WIB 17/05/26] Real Salt Lake vs Colorado Rapids",[UPCOMING 9j 35m 08:30 WIB 17/05/26] Real Salt Lake vs Colorado Rapids (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490305" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 28m 08:30 WIB 17/05/26] Real Salt Lake vs Colorado Rapids",[UPCOMING 9j 28m 08:30 WIB 17/05/26] Real Salt Lake vs Colorado Rapids (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490306" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 35m 08:30 WIB 17/05/26] San Diego vs FC Cincinnati",[UPCOMING 9j 35m 08:30 WIB 17/05/26] San Diego vs FC Cincinnati (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490306" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 9j 28m 08:30 WIB 17/05/26] San Diego vs FC Cincinnati",[UPCOMING 9j 28m 08:30 WIB 17/05/26] San Diego vs FC Cincinnati (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490307" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 10j 35m 09:30 WIB 17/05/26] San Jose Earthquakes vs FC Dallas",[UPCOMING 10j 35m 09:30 WIB 17/05/26] San Jose Earthquakes vs FC Dallas (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490307" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 10j 28m 09:30 WIB 17/05/26] San Jose Earthquakes vs FC Dallas",[UPCOMING 10j 28m 09:30 WIB 17/05/26] San Jose Earthquakes vs FC Dallas (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504812" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 12j 5m 11:00 WIB 17/05/26] V-varen Nagasaki vs Vissel Kobe",[UPCOMING 12j 5m 11:00 WIB 17/05/26] V-varen Nagasaki vs Vissel Kobe (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504812" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 11j 58m 11:00 WIB 17/05/26] V-varen Nagasaki vs Vissel Kobe",[UPCOMING 11j 58m 11:00 WIB 17/05/26] V-varen Nagasaki vs Vissel Kobe (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504813" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 13j 5m 12:00 WIB 17/05/26] JEF United Chiba vs Kashima",[UPCOMING 13j 5m 12:00 WIB 17/05/26] JEF United Chiba vs Kashima (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504813" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 12j 58m 12:00 WIB 17/05/26] JEF United Chiba vs Kashima",[UPCOMING 12j 58m 12:00 WIB 17/05/26] JEF United Chiba vs Kashima (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504814" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 13j 5m 12:00 WIB 17/05/26] Fagiano Okayama vs Shimizu S-pulse",[UPCOMING 13j 5m 12:00 WIB 17/05/26] Fagiano Okayama vs Shimizu S-pulse (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504814" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 12j 58m 12:00 WIB 17/05/26] Fagiano Okayama vs Shimizu S-pulse",[UPCOMING 12j 58m 12:00 WIB 17/05/26] Fagiano Okayama vs Shimizu S-pulse (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504815" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 14j 5m 13:00 WIB 17/05/26] Cerezo Osaka vs Nagoya Grampus",[UPCOMING 14j 5m 13:00 WIB 17/05/26] Cerezo Osaka vs Nagoya Grampus (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504815" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 13j 58m 13:00 WIB 17/05/26] Cerezo Osaka vs Nagoya Grampus",[UPCOMING 13j 58m 13:00 WIB 17/05/26] Cerezo Osaka vs Nagoya Grampus (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504816" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 14j 5m 13:00 WIB 17/05/26] Kyoto Sanga vs Sanfrecce Hiroshima",[UPCOMING 14j 5m 13:00 WIB 17/05/26] Kyoto Sanga vs Sanfrecce Hiroshima (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504816" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 13j 58m 13:00 WIB 17/05/26] Kyoto Sanga vs Sanfrecce Hiroshima",[UPCOMING 13j 58m 13:00 WIB 17/05/26] Kyoto Sanga vs Sanfrecce Hiroshima (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="991299" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 15j 5m 14:00 WIB 17/05/26] Gunma Bank Green Wings W vs LPBank Ninh Bình",[UPCOMING 15j 5m 14:00 WIB 17/05/26] Gunma Bank Green Wings W vs LPBank Ninh Bình (SVR-BHNS0)
+#EXTINF:-1 tvg-id="991299" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 14j 58m 14:00 WIB 17/05/26] Gunma Bank Green Wings W vs LPBank Ninh Bình",[UPCOMING 14j 58m 14:00 WIB 17/05/26] Gunma Bank Green Wings W vs LPBank Ninh Bình (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1506982" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 15j 35m 14:30 WIB 17/05/26] Jeju United FC vs FC Anyang",[UPCOMING 15j 35m 14:30 WIB 17/05/26] Jeju United FC vs FC Anyang (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1506982" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 15j 28m 14:30 WIB 17/05/26] Jeju United FC vs FC Anyang",[UPCOMING 15j 28m 14:30 WIB 17/05/26] Jeju United FC vs FC Anyang (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1506983" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 15j 45m 14:40 WIB 17/05/26] Jeonbuk Motors vs Gimcheon Sangmu FC",[UPCOMING 15j 45m 14:40 WIB 17/05/26] Jeonbuk Motors vs Gimcheon Sangmu FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1506983" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 15j 38m 14:40 WIB 17/05/26] Jeonbuk Motors vs Gimcheon Sangmu FC",[UPCOMING 15j 38m 14:40 WIB 17/05/26] Jeonbuk Motors vs Gimcheon Sangmu FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1403855" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 16j 35m 15:30 WIB 17/05/26] Bali United vs Bhayangkara FC",[UPCOMING 16j 35m 15:30 WIB 17/05/26] Bali United vs Bhayangkara FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1403855" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 16j 28m 15:30 WIB 17/05/26] Bali United vs Bhayangkara FC",[UPCOMING 16j 28m 15:30 WIB 17/05/26] Bali United vs Bhayangkara FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1504818" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 18j 5m 17:00 WIB 17/05/26] Kawasaki Frontale vs Machida Zelvia",[UPCOMING 18j 5m 17:00 WIB 17/05/26] Kawasaki Frontale vs Machida Zelvia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1504818" tvg-logo="https://media.chuoichientv.com/media/20251115_115529_547a98d8.png" group-title="[UPCOMING 17j 58m 17:00 WIB 17/05/26] Kawasaki Frontale vs Machida Zelvia",[UPCOMING 17j 58m 17:00 WIB 17/05/26] Kawasaki Frontale vs Machida Zelvia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1506984" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 18j 5m 17:00 WIB 17/05/26] Bucheon FC 1995 vs Pohang Steelers",[UPCOMING 18j 5m 17:00 WIB 17/05/26] Bucheon FC 1995 vs Pohang Steelers (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1506984" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 17j 58m 17:00 WIB 17/05/26] Bucheon FC 1995 vs Pohang Steelers",[UPCOMING 17j 58m 17:00 WIB 17/05/26] Bucheon FC 1995 vs Pohang Steelers (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1506985" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 18j 5m 17:00 WIB 17/05/26] Gangwon FC vs Ulsan Hyundai FC",[UPCOMING 18j 5m 17:00 WIB 17/05/26] Gangwon FC vs Ulsan Hyundai FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1506985" tvg-logo="https://media.chuoichientv.com/media/20251115_115637_4bfda95f.png" group-title="[UPCOMING 17j 58m 17:00 WIB 17/05/26] Gangwon FC vs Ulsan Hyundai FC",[UPCOMING 17j 58m 17:00 WIB 17/05/26] Gangwon FC vs Ulsan Hyundai FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1518085" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 18j 5m 17:00 WIB 17/05/26] Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh",[UPCOMING 18j 5m 17:00 WIB 17/05/26] Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1518085" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 17j 58m 17:00 WIB 17/05/26] Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh",[UPCOMING 17j 58m 17:00 WIB 17/05/26] Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="998294" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 18j 5m 17:00 WIB 17/05/26] Hà Nội - Tasco Auto vs Suwon (Kor)",[UPCOMING 18j 5m 17:00 WIB 17/05/26] Hà Nội - Tasco Auto vs Suwon (Kor) (SVR-BHNS0)
+#EXTINF:-1 tvg-id="998294" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 17j 58m 17:00 WIB 17/05/26] Hà Nội - Tasco Auto vs Suwon (Kor)",[UPCOMING 17j 58m 17:00 WIB 17/05/26] Hà Nội - Tasco Auto vs Suwon (Kor) (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378226" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 35m 17:30 WIB 17/05/26] Como vs Parma",[UPCOMING 18j 35m 17:30 WIB 17/05/26] Como vs Parma (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378226" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 28m 17:30 WIB 17/05/26] Como vs Parma",[UPCOMING 18j 28m 17:30 WIB 17/05/26] Como vs Parma (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378227" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 35m 17:30 WIB 17/05/26] Genoa vs AC Milan",[UPCOMING 18j 35m 17:30 WIB 17/05/26] Genoa vs AC Milan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378227" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 28m 17:30 WIB 17/05/26] Genoa vs AC Milan",[UPCOMING 18j 28m 17:30 WIB 17/05/26] Genoa vs AC Milan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378229" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 35m 17:30 WIB 17/05/26] Juventus vs Fiorentina",[UPCOMING 18j 35m 17:30 WIB 17/05/26] Juventus vs Fiorentina (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378229" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 28m 17:30 WIB 17/05/26] Juventus vs Fiorentina",[UPCOMING 18j 28m 17:30 WIB 17/05/26] Juventus vs Fiorentina (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378230" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 35m 17:30 WIB 17/05/26] Pisa vs Napoli",[UPCOMING 18j 35m 17:30 WIB 17/05/26] Pisa vs Napoli (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378230" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 18j 28m 17:30 WIB 17/05/26] Pisa vs Napoli",[UPCOMING 18j 28m 17:30 WIB 17/05/26] Pisa vs Napoli (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1518086" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 19j 5m 18:00 WIB 17/05/26] Nam Dinh vs Viettel",[UPCOMING 19j 5m 18:00 WIB 17/05/26] Nam Dinh vs Viettel (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1518086" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 18j 58m 18:00 WIB 17/05/26] Nam Dinh vs Viettel",[UPCOMING 18j 58m 18:00 WIB 17/05/26] Nam Dinh vs Viettel (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1518087" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 19j 5m 18:00 WIB 17/05/26] PVF-CAND vs Ha Noi",[UPCOMING 19j 5m 18:00 WIB 17/05/26] PVF-CAND vs Ha Noi (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1518087" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 18j 58m 18:00 WIB 17/05/26] PVF-CAND vs Ha Noi",[UPCOMING 18j 58m 18:00 WIB 17/05/26] PVF-CAND vs Ha Noi (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1518157" tvg-logo="https://media.chuoichientv.com/media/20251115_115933_f82a4e9f.png" group-title="[UPCOMING 19j 5m 18:00 WIB 17/05/26] Quy Nhơn FC vs Than Quang Ninh",[UPCOMING 19j 5m 18:00 WIB 17/05/26] Quy Nhơn FC vs Than Quang Ninh (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1518157" tvg-logo="https://media.chuoichientv.com/media/20251115_115933_f82a4e9f.png" group-title="[UPCOMING 18j 58m 18:00 WIB 17/05/26] Quy Nhơn FC vs Than Quang Ninh",[UPCOMING 18j 58m 18:00 WIB 17/05/26] Quy Nhơn FC vs Than Quang Ninh (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379336" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 19j 35m 18:30 WIB 17/05/26] Manchester United vs Nottingham Forest",[UPCOMING 19j 35m 18:30 WIB 17/05/26] Manchester United vs Nottingham Forest (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379336" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 19j 28m 18:30 WIB 17/05/26] Manchester United vs Nottingham Forest",[UPCOMING 19j 28m 18:30 WIB 17/05/26] Manchester United vs Nottingham Forest (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1403856" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 20j 5m 19:00 WIB 17/05/26] Persijap vs Pusamania Borneo",[UPCOMING 20j 5m 19:00 WIB 17/05/26] Persijap vs Pusamania Borneo (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1403856" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 19j 58m 19:00 WIB 17/05/26] Persijap vs Pusamania Borneo",[UPCOMING 19j 58m 19:00 WIB 17/05/26] Persijap vs Pusamania Borneo (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1403857" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 20j 5m 19:00 WIB 17/05/26] PSIM Yogyakarta vs Persepam Madura Utd",[UPCOMING 20j 5m 19:00 WIB 17/05/26] PSIM Yogyakarta vs Persepam Madura Utd (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1403857" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 19j 58m 19:00 WIB 17/05/26] PSIM Yogyakarta vs Persepam Madura Utd",[UPCOMING 19j 58m 19:00 WIB 17/05/26] PSIM Yogyakarta vs Persepam Madura Utd (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1403858" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 20j 5m 19:00 WIB 17/05/26] PSM Makassar vs Persib Bandung",[UPCOMING 20j 5m 19:00 WIB 17/05/26] PSM Makassar vs Persib Bandung (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1403858" tvg-logo="https://media.chuoichientv.com/media/20251115_115658_47d5d299.png" group-title="[UPCOMING 19j 58m 19:00 WIB 17/05/26] PSM Makassar vs Persib Bandung",[UPCOMING 19j 58m 19:00 WIB 17/05/26] PSM Makassar vs Persib Bandung (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1518088" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 20j 20m 19:15 WIB 17/05/26] Công An Hà Nội vs Thanh Hóa",[UPCOMING 20j 20m 19:15 WIB 17/05/26] Công An Hà Nội vs Thanh Hóa (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1518088" tvg-logo="https://media.chuoichientv.com/media/20251115_115528_e3fc33af.png" group-title="[UPCOMING 20j 13m 19:15 WIB 17/05/26] Công An Hà Nội vs Thanh Hóa",[UPCOMING 20j 13m 19:15 WIB 17/05/26] Công An Hà Nội vs Thanh Hóa (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378228" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 21j 5m 20:00 WIB 17/05/26] Inter vs Verona",[UPCOMING 21j 5m 20:00 WIB 17/05/26] Inter vs Verona (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378228" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 20j 58m 20:00 WIB 17/05/26] Inter vs Verona",[UPCOMING 20j 58m 20:00 WIB 17/05/26] Inter vs Verona (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="997373" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 21j 5m 20:00 WIB 17/05/26] VTV Bình Điền Long An vs Binh chủng Thông tin",[UPCOMING 21j 5m 20:00 WIB 17/05/26] VTV Bình Điền Long An vs Binh chủng Thông tin (SVR-BHNS0)
+#EXTINF:-1 tvg-id="997373" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 20j 58m 20:00 WIB 17/05/26] VTV Bình Điền Long An vs Binh chủng Thông tin",[UPCOMING 20j 58m 20:00 WIB 17/05/26] VTV Bình Điền Long An vs Binh chủng Thông tin (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379332" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 22j 5m 21:00 WIB 17/05/26] Brentford vs Crystal Palace",[UPCOMING 22j 5m 21:00 WIB 17/05/26] Brentford vs Crystal Palace (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379332" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 21j 58m 21:00 WIB 17/05/26] Brentford vs Crystal Palace",[UPCOMING 21j 58m 21:00 WIB 17/05/26] Brentford vs Crystal Palace (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379334" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 22j 5m 21:00 WIB 17/05/26] Everton vs Sunderland",[UPCOMING 22j 5m 21:00 WIB 17/05/26] Everton vs Sunderland (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379334" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 21j 58m 21:00 WIB 17/05/26] Everton vs Sunderland",[UPCOMING 21j 58m 21:00 WIB 17/05/26] Everton vs Sunderland (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379335" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 22j 5m 21:00 WIB 17/05/26] Leeds vs Brighton",[UPCOMING 22j 5m 21:00 WIB 17/05/26] Leeds vs Brighton (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379335" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 21j 58m 21:00 WIB 17/05/26] Leeds vs Brighton",[UPCOMING 21j 58m 21:00 WIB 17/05/26] Leeds vs Brighton (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379338" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 22j 5m 21:00 WIB 17/05/26] Wolves vs Fulham",[UPCOMING 22j 5m 21:00 WIB 17/05/26] Wolves vs Fulham (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379338" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 21j 58m 21:00 WIB 17/05/26] Wolves vs Fulham",[UPCOMING 21j 58m 21:00 WIB 17/05/26] Wolves vs Fulham (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492269" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 22j 5m 21:00 WIB 17/05/26] Santos vs Coritiba",[UPCOMING 22j 5m 21:00 WIB 17/05/26] Santos vs Coritiba (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492269" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 21j 58m 21:00 WIB 17/05/26] Santos vs Coritiba",[UPCOMING 21j 58m 21:00 WIB 17/05/26] Santos vs Coritiba (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378224" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 0j 5m 23:00 WIB 17/05/26] Atalanta vs Bologna",[UPCOMING 0j 5m 23:00 WIB 17/05/26] Atalanta vs Bologna (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378224" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 23j 58m 23:00 WIB 17/05/26] Atalanta vs Bologna",[UPCOMING 23j 58m 23:00 WIB 17/05/26] Atalanta vs Bologna (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379337" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 0j 35m 23:30 WIB 17/05/26] Newcastle vs West Ham",[UPCOMING 0j 35m 23:30 WIB 17/05/26] Newcastle vs West Ham (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379337" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 0j 28m 23:30 WIB 17/05/26] Newcastle vs West Ham",[UPCOMING 0j 28m 23:30 WIB 17/05/26] Newcastle vs West Ham (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391179" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Athletic Club vs Celta Vigo",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Athletic Club vs Celta Vigo (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391179" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Athletic Club vs Celta Vigo",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Athletic Club vs Celta Vigo (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391180" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Atletico Madrid vs Girona",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Atletico Madrid vs Girona (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391180" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Atletico Madrid vs Girona",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Atletico Madrid vs Girona (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391182" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Elche vs Getafe",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Elche vs Getafe (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391182" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Elche vs Getafe",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Elche vs Getafe (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391183" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Levante vs Mallorca",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Levante vs Mallorca (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391183" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Levante vs Mallorca",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Levante vs Mallorca (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391184" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Osasuna vs Espanyol",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Osasuna vs Espanyol (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391184" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Osasuna vs Espanyol",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Osasuna vs Espanyol (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391185" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Rayo Vallecano vs Villarreal",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Rayo Vallecano vs Villarreal (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391185" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Rayo Vallecano vs Villarreal",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Rayo Vallecano vs Villarreal (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391186" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Real Sociedad vs Valencia",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Real Sociedad vs Valencia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391186" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Real Sociedad vs Valencia",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Real Sociedad vs Valencia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391187" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Oviedo vs Alaves",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Oviedo vs Alaves (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391187" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Oviedo vs Alaves",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Oviedo vs Alaves (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391188" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/05/26] Sevilla vs Real Madrid",[UPCOMING 1j 5m 00:00 WIB 18/05/26] Sevilla vs Real Madrid (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391188" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/05/26] Sevilla vs Real Madrid",[UPCOMING 0j 58m 00:00 WIB 18/05/26] Sevilla vs Real Madrid (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1436160" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 2j 5m 01:00 WIB 18/05/26] Al Shabab vs Al-Ittihad FC",[UPCOMING 2j 5m 01:00 WIB 18/05/26] Al Shabab vs Al-Ittihad FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1436160" tvg-logo="https://media.chuoichientv.com/media/20251115_115638_6cd396bb.png" group-title="[UPCOMING 1j 58m 01:00 WIB 18/05/26] Al Shabab vs Al-Ittihad FC",[UPCOMING 1j 58m 01:00 WIB 18/05/26] Al Shabab vs Al-Ittihad FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378225" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 50m 01:45 WIB 18/05/26] Cagliari vs Torino",[UPCOMING 2j 50m 01:45 WIB 18/05/26] Cagliari vs Torino (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378225" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 43m 01:45 WIB 18/05/26] Cagliari vs Torino",[UPCOMING 2j 43m 01:45 WIB 18/05/26] Cagliari vs Torino (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378232" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 50m 01:45 WIB 18/05/26] Sassuolo vs Lecce",[UPCOMING 2j 50m 01:45 WIB 18/05/26] Sassuolo vs Lecce (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378232" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 43m 01:45 WIB 18/05/26] Sassuolo vs Lecce",[UPCOMING 2j 43m 01:45 WIB 18/05/26] Sassuolo vs Lecce (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1378233" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 50m 01:45 WIB 18/05/26] Udinese vs Cremonese",[UPCOMING 2j 50m 01:45 WIB 18/05/26] Udinese vs Cremonese (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1378233" tvg-logo="https://media.chuoichientv.com/media/20251115_113434_59a0fece.png" group-title="[UPCOMING 2j 43m 01:45 WIB 18/05/26] Udinese vs Cremonese",[UPCOMING 2j 43m 01:45 WIB 18/05/26] Udinese vs Cremonese (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1387995" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Stade Brestois 29 vs Angers",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Stade Brestois 29 vs Angers (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1387995" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Stade Brestois 29 vs Angers",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Stade Brestois 29 vs Angers (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1387996" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lille vs Auxerre",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lille vs Auxerre (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1387996" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lille vs Auxerre",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lille vs Auxerre (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1387997" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lorient vs LE Havre",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lorient vs LE Havre (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1387997" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lorient vs LE Havre",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lorient vs LE Havre (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1387998" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lyon vs Lens",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Lyon vs Lens (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1387998" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lyon vs Lens",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Lyon vs Lens (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1387999" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Marseille vs Rennes",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Marseille vs Rennes (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1387999" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Marseille vs Rennes",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Marseille vs Rennes (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1388000" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Nantes vs Toulouse",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Nantes vs Toulouse (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1388000" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Nantes vs Toulouse",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Nantes vs Toulouse (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1388001" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Nice vs Metz",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Nice vs Metz (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1388001" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Nice vs Metz",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Nice vs Metz (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1388002" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Paris FC vs Paris Saint Germain",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Paris FC vs Paris Saint Germain (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1388002" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Paris FC vs Paris Saint Germain",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Paris FC vs Paris Saint Germain (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1388003" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 3j 5m 02:00 WIB 18/05/26] Strasbourg vs Monaco",[UPCOMING 3j 5m 02:00 WIB 18/05/26] Strasbourg vs Monaco (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1388003" tvg-logo="https://media.chuoichientv.com/media/20251115_111256_36f3873d.png" group-title="[UPCOMING 2j 58m 02:00 WIB 18/05/26] Strasbourg vs Monaco",[UPCOMING 2j 58m 02:00 WIB 18/05/26] Strasbourg vs Monaco (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1391181" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 3j 20m 02:15 WIB 18/05/26] Barcelona vs Real Betis",[UPCOMING 3j 20m 02:15 WIB 18/05/26] Barcelona vs Real Betis (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1391181" tvg-logo="https://media.chuoichientv.com/media/20251115_113435_320106f9.png" group-title="[UPCOMING 3j 13m 02:15 WIB 18/05/26] Barcelona vs Real Betis",[UPCOMING 3j 13m 02:15 WIB 18/05/26] Barcelona vs Real Betis (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492264" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 35m 04:30 WIB 18/05/26] RB Bragantino vs Vitoria",[UPCOMING 5j 35m 04:30 WIB 18/05/26] RB Bragantino vs Vitoria (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492264" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 28m 04:30 WIB 18/05/26] RB Bragantino vs Vitoria",[UPCOMING 5j 28m 04:30 WIB 18/05/26] RB Bragantino vs Vitoria (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492265" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 35m 04:30 WIB 18/05/26] Chapecoense-sc vs remo",[UPCOMING 5j 35m 04:30 WIB 18/05/26] Chapecoense-sc vs remo (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492265" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 5j 28m 04:30 WIB 18/05/26] Chapecoense-sc vs remo",[UPCOMING 5j 28m 04:30 WIB 18/05/26] Chapecoense-sc vs remo (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490308" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 6j 5m 05:00 WIB 18/05/26] Inter Miami vs Portland Timbers",[UPCOMING 6j 5m 05:00 WIB 18/05/26] Inter Miami vs Portland Timbers (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490308" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 5j 58m 05:00 WIB 18/05/26] Inter Miami vs Portland Timbers",[UPCOMING 5j 58m 05:00 WIB 18/05/26] Inter Miami vs Portland Timbers (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1492260" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 6j 35m 05:30 WIB 18/05/26] Atletico Paranaense vs Flamengo",[UPCOMING 6j 35m 05:30 WIB 18/05/26] Atletico Paranaense vs Flamengo (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1492260" tvg-logo="https://media.chuoichientv.com/media/20251115_112437_72cab226.png" group-title="[UPCOMING 6j 28m 05:30 WIB 18/05/26] Atletico Paranaense vs Flamengo",[UPCOMING 6j 28m 05:30 WIB 18/05/26] Atletico Paranaense vs Flamengo (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1490309" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 8j 5m 07:00 WIB 18/05/26] Nashville SC vs Los Angeles FC",[UPCOMING 8j 5m 07:00 WIB 18/05/26] Nashville SC vs Los Angeles FC (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1490309" tvg-logo="https://media.chuoichientv.com/media/20251115_115514_4b79fc56.png" group-title="[UPCOMING 7j 58m 07:00 WIB 18/05/26] Nashville SC vs Los Angeles FC",[UPCOMING 7j 58m 07:00 WIB 18/05/26] Nashville SC vs Los Angeles FC (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1544856" tvg-logo="https://media.chuoichientv.com/media/20251115_113519_5f3a9d40.png" group-title="[UPCOMING 9j 5m 08:00 WIB 18/05/26] U.N.A.M. - Pumas vs Pachuca",[UPCOMING 9j 5m 08:00 WIB 18/05/26] U.N.A.M. - Pumas vs Pachuca (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1544856" tvg-logo="https://media.chuoichientv.com/media/20251115_113519_5f3a9d40.png" group-title="[UPCOMING 8j 58m 08:00 WIB 18/05/26] U.N.A.M. - Pumas vs Pachuca",[UPCOMING 8j 58m 08:00 WIB 18/05/26] U.N.A.M. - Pumas vs Pachuca (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="995720" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 15j 5m 14:00 WIB 18/05/26] Giang Tô (CN) vs Vietinbank",[UPCOMING 15j 5m 14:00 WIB 18/05/26] Giang Tô (CN) vs Vietinbank (SVR-BHNS0)
+#EXTINF:-1 tvg-id="995720" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 14j 58m 14:00 WIB 18/05/26] Giang Tô (CN) vs Vietinbank",[UPCOMING 14j 58m 14:00 WIB 18/05/26] Giang Tô (CN) vs Vietinbank (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="997681" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 18j 5m 17:00 WIB 18/05/26] Gunma Bank Green Wings W vs Suwon (Kor)",[UPCOMING 18j 5m 17:00 WIB 18/05/26] Gunma Bank Green Wings W vs Suwon (Kor) (SVR-BHNS0)
+#EXTINF:-1 tvg-id="997681" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 17j 58m 17:00 WIB 18/05/26] Gunma Bank Green Wings W vs Suwon (Kor)",[UPCOMING 17j 58m 17:00 WIB 18/05/26] Gunma Bank Green Wings W vs Suwon (Kor) (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1421816" tvg-logo="https://media.chuoichientv.com/media/20251115_115557_08f49922.png" group-title="[UPCOMING 19j 35m 18:30 WIB 18/05/26] Tanjong Pagar vs Hougang United",[UPCOMING 19j 35m 18:30 WIB 18/05/26] Tanjong Pagar vs Hougang United (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1421816" tvg-logo="https://media.chuoichientv.com/media/20251115_115557_08f49922.png" group-title="[UPCOMING 19j 28m 18:30 WIB 18/05/26] Tanjong Pagar vs Hougang United",[UPCOMING 19j 28m 18:30 WIB 18/05/26] Tanjong Pagar vs Hougang United (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="991203" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 21j 5m 20:00 WIB 18/05/26] LPBank Ninh Bình vs Hà Nội - Tasco Auto",[UPCOMING 21j 5m 20:00 WIB 18/05/26] LPBank Ninh Bình vs Hà Nội - Tasco Auto (SVR-BHNS0)
+#EXTINF:-1 tvg-id="991203" tvg-logo="https://media.chuoichientv.com/media/20260515_235624_46608009.jpg" group-title="[UPCOMING 20j 58m 20:00 WIB 18/05/26] LPBank Ninh Bình vs Hà Nội - Tasco Auto",[UPCOMING 20j 58m 20:00 WIB 18/05/26] LPBank Ninh Bình vs Hà Nội - Tasco Auto (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1521358" tvg-logo="https://media.chuoichientv.com/media/20251115_115705_cfea5ed5.png" group-title="[UPCOMING 22j 5m 21:00 WIB 18/05/26] Kerala Blasters vs Goa",[UPCOMING 22j 5m 21:00 WIB 18/05/26] Kerala Blasters vs Goa (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1521358" tvg-logo="https://media.chuoichientv.com/media/20251115_115705_cfea5ed5.png" group-title="[UPCOMING 21j 58m 21:00 WIB 18/05/26] Kerala Blasters vs Goa",[UPCOMING 21j 58m 21:00 WIB 18/05/26] Kerala Blasters vs Goa (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1533646" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 22j 5m 21:00 WIB 18/05/26] El Geish vs Pharco",[UPCOMING 22j 5m 21:00 WIB 18/05/26] El Geish vs Pharco (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1533646" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 21j 58m 21:00 WIB 18/05/26] El Geish vs Pharco",[UPCOMING 21j 58m 21:00 WIB 18/05/26] El Geish vs Pharco (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1533647" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 22j 5m 21:00 WIB 18/05/26] Kahraba Ismailia vs Haras El Hodood",[UPCOMING 22j 5m 21:00 WIB 18/05/26] Kahraba Ismailia vs Haras El Hodood (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1533647" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 21j 58m 21:00 WIB 18/05/26] Kahraba Ismailia vs Haras El Hodood",[UPCOMING 21j 58m 21:00 WIB 18/05/26] Kahraba Ismailia vs Haras El Hodood (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1541007" tvg-logo="https://media.chuoichientv.com/media/20251115_115700_392236cf.png" group-title="[UPCOMING 0j 35m 23:30 WIB 18/05/26] Lokomotiv Sofia vs Slavia Sofia",[UPCOMING 0j 35m 23:30 WIB 18/05/26] Lokomotiv Sofia vs Slavia Sofia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1541007" tvg-logo="https://media.chuoichientv.com/media/20251115_115700_392236cf.png" group-title="[UPCOMING 0j 28m 23:30 WIB 18/05/26] Lokomotiv Sofia vs Slavia Sofia",[UPCOMING 0j 28m 23:30 WIB 18/05/26] Lokomotiv Sofia vs Slavia Sofia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1541008" tvg-logo="https://media.chuoichientv.com/media/20251115_115700_392236cf.png" group-title="[UPCOMING 0j 35m 23:30 WIB 18/05/26] Montana vs Spartak Varna",[UPCOMING 0j 35m 23:30 WIB 18/05/26] Montana vs Spartak Varna (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1541008" tvg-logo="https://media.chuoichientv.com/media/20251115_115700_392236cf.png" group-title="[UPCOMING 0j 28m 23:30 WIB 18/05/26] Montana vs Spartak Varna",[UPCOMING 0j 28m 23:30 WIB 18/05/26] Montana vs Spartak Varna (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1533648" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 1j 5m 00:00 WIB 19/05/26] El Mokawloon vs Wadi Degla",[UPCOMING 1j 5m 00:00 WIB 19/05/26] El Mokawloon vs Wadi Degla (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1533648" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 0j 58m 00:00 WIB 19/05/26] El Mokawloon vs Wadi Degla",[UPCOMING 0j 58m 00:00 WIB 19/05/26] El Mokawloon vs Wadi Degla (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1533649" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 1j 5m 00:00 WIB 19/05/26] Ghazl El Mehalla vs Al Ittihad",[UPCOMING 1j 5m 00:00 WIB 19/05/26] Ghazl El Mehalla vs Al Ittihad (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1533649" tvg-logo="https://media.chuoichientv.com/media/20251115_115436_37e97955.png" group-title="[UPCOMING 0j 58m 00:00 WIB 19/05/26] Ghazl El Mehalla vs Al Ittihad",[UPCOMING 0j 58m 00:00 WIB 19/05/26] Ghazl El Mehalla vs Al Ittihad (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1379329" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 3j 5m 02:00 WIB 19/05/26] Arsenal vs Burnley",[UPCOMING 3j 5m 02:00 WIB 19/05/26] Arsenal vs Burnley (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1379329" tvg-logo="https://media.chuoichientv.com/media/20251115_112438_ee162444.png" group-title="[UPCOMING 2j 58m 02:00 WIB 19/05/26] Arsenal vs Burnley",[UPCOMING 2j 58m 02:00 WIB 19/05/26] Arsenal vs Burnley (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489369" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 12/06/26] Mexico vs South Africa",[UPCOMING 3j 5m 02:00 WIB 12/06/26] Mexico vs South Africa (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489369" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 12/06/26] Mexico vs South Africa",[UPCOMING 2j 58m 02:00 WIB 12/06/26] Mexico vs South Africa (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1538999" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 12/06/26] South Korea vs Czech Republic",[UPCOMING 10j 5m 09:00 WIB 12/06/26] South Korea vs Czech Republic (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1538999" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 12/06/26] South Korea vs Czech Republic",[UPCOMING 9j 58m 09:00 WIB 12/06/26] South Korea vs Czech Republic (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539000" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 13/06/26] Canada vs Bosnia & Herzegovina",[UPCOMING 3j 5m 02:00 WIB 13/06/26] Canada vs Bosnia & Herzegovina (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539000" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 13/06/26] Canada vs Bosnia & Herzegovina",[UPCOMING 2j 58m 02:00 WIB 13/06/26] Canada vs Bosnia & Herzegovina (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489370" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 13/06/26] USA vs Paraguay",[UPCOMING 9j 5m 08:00 WIB 13/06/26] USA vs Paraguay (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489370" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 13/06/26] USA vs Paraguay",[UPCOMING 8j 58m 08:00 WIB 13/06/26] USA vs Paraguay (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489373" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 14/06/26] Qatar vs Switzerland",[UPCOMING 3j 5m 02:00 WIB 14/06/26] Qatar vs Switzerland (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489373" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 14/06/26] Qatar vs Switzerland",[UPCOMING 2j 58m 02:00 WIB 14/06/26] Qatar vs Switzerland (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489371" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 14/06/26] Brazil vs Morocco",[UPCOMING 6j 5m 05:00 WIB 14/06/26] Brazil vs Morocco (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489371" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 14/06/26] Brazil vs Morocco",[UPCOMING 5j 58m 05:00 WIB 14/06/26] Brazil vs Morocco (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489372" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 14/06/26] Haiti vs Scotland",[UPCOMING 9j 5m 08:00 WIB 14/06/26] Haiti vs Scotland (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489372" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 14/06/26] Haiti vs Scotland",[UPCOMING 8j 58m 08:00 WIB 14/06/26] Haiti vs Scotland (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539001" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 12j 5m 11:00 WIB 14/06/26] Australia vs Türkiye",[UPCOMING 12j 5m 11:00 WIB 14/06/26] Australia vs Türkiye (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539001" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 58m 11:00 WIB 14/06/26] Australia vs Türkiye",[UPCOMING 11j 58m 11:00 WIB 14/06/26] Australia vs Türkiye (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489374" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 1j 5m 00:00 WIB 15/06/26] Germany vs Curaçao",[UPCOMING 1j 5m 00:00 WIB 15/06/26] Germany vs Curaçao (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489374" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 58m 00:00 WIB 15/06/26] Germany vs Curaçao",[UPCOMING 0j 58m 00:00 WIB 15/06/26] Germany vs Curaçao (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489376" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 15/06/26] Netherlands vs Japan",[UPCOMING 4j 5m 03:00 WIB 15/06/26] Netherlands vs Japan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489376" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 15/06/26] Netherlands vs Japan",[UPCOMING 3j 58m 03:00 WIB 15/06/26] Netherlands vs Japan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489375" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 5m 06:00 WIB 15/06/26] Ivory Coast vs Ecuador",[UPCOMING 7j 5m 06:00 WIB 15/06/26] Ivory Coast vs Ecuador (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489375" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 58m 06:00 WIB 15/06/26] Ivory Coast vs Ecuador",[UPCOMING 6j 58m 06:00 WIB 15/06/26] Ivory Coast vs Ecuador (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539002" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 15/06/26] Sweden vs Tunisia",[UPCOMING 10j 5m 09:00 WIB 15/06/26] Sweden vs Tunisia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539002" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 15/06/26] Sweden vs Tunisia",[UPCOMING 9j 58m 09:00 WIB 15/06/26] Sweden vs Tunisia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489380" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 5m 23:00 WIB 15/06/26] Spain vs Cape Verde Islands",[UPCOMING 0j 5m 23:00 WIB 15/06/26] Spain vs Cape Verde Islands (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489380" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 23j 58m 23:00 WIB 15/06/26] Spain vs Cape Verde Islands",[UPCOMING 23j 58m 23:00 WIB 15/06/26] Spain vs Cape Verde Islands (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489377" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 16/06/26] Belgium vs Egypt",[UPCOMING 3j 5m 02:00 WIB 16/06/26] Belgium vs Egypt (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489377" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 16/06/26] Belgium vs Egypt",[UPCOMING 2j 58m 02:00 WIB 16/06/26] Belgium vs Egypt (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489379" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 16/06/26] Saudi Arabia vs Uruguay",[UPCOMING 6j 5m 05:00 WIB 16/06/26] Saudi Arabia vs Uruguay (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489379" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 16/06/26] Saudi Arabia vs Uruguay",[UPCOMING 5j 58m 05:00 WIB 16/06/26] Saudi Arabia vs Uruguay (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489378" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 16/06/26] Iran vs New Zealand",[UPCOMING 9j 5m 08:00 WIB 16/06/26] Iran vs New Zealand (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489378" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 16/06/26] Iran vs New Zealand",[UPCOMING 8j 58m 08:00 WIB 16/06/26] Iran vs New Zealand (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489383" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 17/06/26] France vs Senegal",[UPCOMING 3j 5m 02:00 WIB 17/06/26] France vs Senegal (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489383" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 17/06/26] France vs Senegal",[UPCOMING 2j 58m 02:00 WIB 17/06/26] France vs Senegal (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539016" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 17/06/26] Iraq vs Norway",[UPCOMING 6j 5m 05:00 WIB 17/06/26] Iraq vs Norway (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539016" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 17/06/26] Iraq vs Norway",[UPCOMING 5j 58m 05:00 WIB 17/06/26] Iraq vs Norway (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489381" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 17/06/26] Argentina vs Algeria",[UPCOMING 9j 5m 08:00 WIB 17/06/26] Argentina vs Algeria (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489381" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 17/06/26] Argentina vs Algeria",[UPCOMING 8j 58m 08:00 WIB 17/06/26] Argentina vs Algeria (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489382" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 12j 5m 11:00 WIB 17/06/26] Austria vs Jordan",[UPCOMING 12j 5m 11:00 WIB 17/06/26] Austria vs Jordan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489382" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 58m 11:00 WIB 17/06/26] Austria vs Jordan",[UPCOMING 11j 58m 11:00 WIB 17/06/26] Austria vs Jordan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539003" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 1j 5m 00:00 WIB 18/06/26] Portugal vs Congo DR",[UPCOMING 1j 5m 00:00 WIB 18/06/26] Portugal vs Congo DR (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539003" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 58m 00:00 WIB 18/06/26] Portugal vs Congo DR",[UPCOMING 0j 58m 00:00 WIB 18/06/26] Portugal vs Congo DR (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489384" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 18/06/26] England vs Croatia",[UPCOMING 4j 5m 03:00 WIB 18/06/26] England vs Croatia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489384" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 18/06/26] England vs Croatia",[UPCOMING 3j 58m 03:00 WIB 18/06/26] England vs Croatia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489385" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 5m 06:00 WIB 18/06/26] Ghana vs Panama",[UPCOMING 7j 5m 06:00 WIB 18/06/26] Ghana vs Panama (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489385" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 58m 06:00 WIB 18/06/26] Ghana vs Panama",[UPCOMING 6j 58m 06:00 WIB 18/06/26] Ghana vs Panama (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489386" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 18/06/26] Uzbekistan vs Colombia",[UPCOMING 10j 5m 09:00 WIB 18/06/26] Uzbekistan vs Colombia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489386" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 18/06/26] Uzbekistan vs Colombia",[UPCOMING 9j 58m 09:00 WIB 18/06/26] Uzbekistan vs Colombia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539004" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 5m 23:00 WIB 18/06/26] Czech Republic vs South Africa",[UPCOMING 0j 5m 23:00 WIB 18/06/26] Czech Republic vs South Africa (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539004" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 23j 58m 23:00 WIB 18/06/26] Czech Republic vs South Africa",[UPCOMING 23j 58m 23:00 WIB 18/06/26] Czech Republic vs South Africa (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539005" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 19/06/26] Switzerland vs Bosnia & Herzegovina",[UPCOMING 3j 5m 02:00 WIB 19/06/26] Switzerland vs Bosnia & Herzegovina (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539005" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 19/06/26] Switzerland vs Bosnia & Herzegovina",[UPCOMING 2j 58m 02:00 WIB 19/06/26] Switzerland vs Bosnia & Herzegovina (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489387" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 19/06/26] Canada vs Qatar",[UPCOMING 6j 5m 05:00 WIB 19/06/26] Canada vs Qatar (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489387" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 19/06/26] Canada vs Qatar",[UPCOMING 5j 58m 05:00 WIB 19/06/26] Canada vs Qatar (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489388" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 19/06/26] Mexico vs South Korea",[UPCOMING 9j 5m 08:00 WIB 19/06/26] Mexico vs South Korea (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489388" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 19/06/26] Mexico vs South Korea",[UPCOMING 8j 58m 08:00 WIB 19/06/26] Mexico vs South Korea (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489391" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 20/06/26] USA vs Australia",[UPCOMING 3j 5m 02:00 WIB 20/06/26] USA vs Australia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489391" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 20/06/26] USA vs Australia",[UPCOMING 2j 58m 02:00 WIB 20/06/26] USA vs Australia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489390" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 20/06/26] Scotland vs Morocco",[UPCOMING 6j 5m 05:00 WIB 20/06/26] Scotland vs Morocco (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489390" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 20/06/26] Scotland vs Morocco",[UPCOMING 5j 58m 05:00 WIB 20/06/26] Scotland vs Morocco (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489389" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 35m 07:30 WIB 20/06/26] Brazil vs Haiti",[UPCOMING 8j 35m 07:30 WIB 20/06/26] Brazil vs Haiti (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489389" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 28m 07:30 WIB 20/06/26] Brazil vs Haiti",[UPCOMING 8j 28m 07:30 WIB 20/06/26] Brazil vs Haiti (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539006" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 5m 10:00 WIB 20/06/26] Türkiye vs Paraguay",[UPCOMING 11j 5m 10:00 WIB 20/06/26] Türkiye vs Paraguay (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539006" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 58m 10:00 WIB 20/06/26] Türkiye vs Paraguay",[UPCOMING 10j 58m 10:00 WIB 20/06/26] Türkiye vs Paraguay (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539007" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 1j 5m 00:00 WIB 21/06/26] Netherlands vs Sweden",[UPCOMING 1j 5m 00:00 WIB 21/06/26] Netherlands vs Sweden (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539007" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 58m 00:00 WIB 21/06/26] Netherlands vs Sweden",[UPCOMING 0j 58m 00:00 WIB 21/06/26] Netherlands vs Sweden (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489393" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 21/06/26] Germany vs Ivory Coast",[UPCOMING 4j 5m 03:00 WIB 21/06/26] Germany vs Ivory Coast (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489393" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 21/06/26] Germany vs Ivory Coast",[UPCOMING 3j 58m 03:00 WIB 21/06/26] Germany vs Ivory Coast (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489392" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 5m 07:00 WIB 21/06/26] Ecuador vs Curaçao",[UPCOMING 8j 5m 07:00 WIB 21/06/26] Ecuador vs Curaçao (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489392" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 58m 07:00 WIB 21/06/26] Ecuador vs Curaçao",[UPCOMING 7j 58m 07:00 WIB 21/06/26] Ecuador vs Curaçao (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489394" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 12j 5m 11:00 WIB 21/06/26] Tunisia vs Japan",[UPCOMING 12j 5m 11:00 WIB 21/06/26] Tunisia vs Japan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489394" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 58m 11:00 WIB 21/06/26] Tunisia vs Japan",[UPCOMING 11j 58m 11:00 WIB 21/06/26] Tunisia vs Japan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489397" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 5m 23:00 WIB 21/06/26] Spain vs Saudi Arabia",[UPCOMING 0j 5m 23:00 WIB 21/06/26] Spain vs Saudi Arabia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489397" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 23j 58m 23:00 WIB 21/06/26] Spain vs Saudi Arabia",[UPCOMING 23j 58m 23:00 WIB 21/06/26] Spain vs Saudi Arabia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489395" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 22/06/26] Belgium vs Iran",[UPCOMING 3j 5m 02:00 WIB 22/06/26] Belgium vs Iran (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489395" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 22/06/26] Belgium vs Iran",[UPCOMING 2j 58m 02:00 WIB 22/06/26] Belgium vs Iran (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489398" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 22/06/26] Uruguay vs Cape Verde Islands",[UPCOMING 6j 5m 05:00 WIB 22/06/26] Uruguay vs Cape Verde Islands (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489398" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 22/06/26] Uruguay vs Cape Verde Islands",[UPCOMING 5j 58m 05:00 WIB 22/06/26] Uruguay vs Cape Verde Islands (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489396" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 22/06/26] New Zealand vs Egypt",[UPCOMING 9j 5m 08:00 WIB 22/06/26] New Zealand vs Egypt (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489396" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 22/06/26] New Zealand vs Egypt",[UPCOMING 8j 58m 08:00 WIB 22/06/26] New Zealand vs Egypt (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489399" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 1j 5m 00:00 WIB 23/06/26] Argentina vs Austria",[UPCOMING 1j 5m 00:00 WIB 23/06/26] Argentina vs Austria (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489399" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 58m 00:00 WIB 23/06/26] Argentina vs Austria",[UPCOMING 0j 58m 00:00 WIB 23/06/26] Argentina vs Austria (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539017" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 5m 04:00 WIB 23/06/26] France vs Iraq",[UPCOMING 5j 5m 04:00 WIB 23/06/26] France vs Iraq (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539017" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 58m 04:00 WIB 23/06/26] France vs Iraq",[UPCOMING 4j 58m 04:00 WIB 23/06/26] France vs Iraq (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489401" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 5m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 8j 5m 07:00 WIB 23/06/26] Norway vs Senegal (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489401" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 58m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 7j 58m 07:00 WIB 23/06/26] Norway vs Senegal (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489400" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 5m 10:00 WIB 23/06/26] Jordan vs Algeria",[UPCOMING 11j 5m 10:00 WIB 23/06/26] Jordan vs Algeria (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489400" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 58m 10:00 WIB 23/06/26] Jordan vs Algeria",[UPCOMING 10j 58m 10:00 WIB 23/06/26] Jordan vs Algeria (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489404" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 1j 5m 00:00 WIB 24/06/26] Portugal vs Uzbekistan",[UPCOMING 1j 5m 00:00 WIB 24/06/26] Portugal vs Uzbekistan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489404" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 0j 58m 00:00 WIB 24/06/26] Portugal vs Uzbekistan",[UPCOMING 0j 58m 00:00 WIB 24/06/26] Portugal vs Uzbekistan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489402" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 24/06/26] England vs Ghana",[UPCOMING 4j 5m 03:00 WIB 24/06/26] England vs Ghana (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489402" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 24/06/26] England vs Ghana",[UPCOMING 3j 58m 03:00 WIB 24/06/26] England vs Ghana (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489403" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 5m 06:00 WIB 24/06/26] Panama vs Croatia",[UPCOMING 7j 5m 06:00 WIB 24/06/26] Panama vs Croatia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489403" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 58m 06:00 WIB 24/06/26] Panama vs Croatia",[UPCOMING 6j 58m 06:00 WIB 24/06/26] Panama vs Croatia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539008" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 24/06/26] Colombia vs Congo DR",[UPCOMING 10j 5m 09:00 WIB 24/06/26] Colombia vs Congo DR (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539008" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 24/06/26] Colombia vs Congo DR",[UPCOMING 9j 58m 09:00 WIB 24/06/26] Colombia vs Congo DR (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489408" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 25/06/26] Switzerland vs Canada",[UPCOMING 3j 5m 02:00 WIB 25/06/26] Switzerland vs Canada (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489408" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 25/06/26] Switzerland vs Canada",[UPCOMING 2j 58m 02:00 WIB 25/06/26] Switzerland vs Canada (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539009" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 25/06/26] Bosnia & Herzegovina vs Qatar",[UPCOMING 3j 5m 02:00 WIB 25/06/26] Bosnia & Herzegovina vs Qatar (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539009" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 25/06/26] Bosnia & Herzegovina vs Qatar",[UPCOMING 2j 58m 02:00 WIB 25/06/26] Bosnia & Herzegovina vs Qatar (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489405" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 25/06/26] Morocco vs Haiti",[UPCOMING 6j 5m 05:00 WIB 25/06/26] Morocco vs Haiti (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489405" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 25/06/26] Morocco vs Haiti",[UPCOMING 5j 58m 05:00 WIB 25/06/26] Morocco vs Haiti (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489406" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 5m 05:00 WIB 25/06/26] Scotland vs Brazil",[UPCOMING 6j 5m 05:00 WIB 25/06/26] Scotland vs Brazil (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489406" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 58m 05:00 WIB 25/06/26] Scotland vs Brazil",[UPCOMING 5j 58m 05:00 WIB 25/06/26] Scotland vs Brazil (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489407" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 25/06/26] South Africa vs South Korea",[UPCOMING 9j 5m 08:00 WIB 25/06/26] South Africa vs South Korea (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489407" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 25/06/26] South Africa vs South Korea",[UPCOMING 8j 58m 08:00 WIB 25/06/26] South Africa vs South Korea (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539010" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 5m 08:00 WIB 25/06/26] Czech Republic vs Mexico",[UPCOMING 9j 5m 08:00 WIB 25/06/26] Czech Republic vs Mexico (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539010" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 58m 08:00 WIB 25/06/26] Czech Republic vs Mexico",[UPCOMING 8j 58m 08:00 WIB 25/06/26] Czech Republic vs Mexico (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489409" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 26/06/26] Curaçao vs Ivory Coast",[UPCOMING 4j 5m 03:00 WIB 26/06/26] Curaçao vs Ivory Coast (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489409" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 26/06/26] Curaçao vs Ivory Coast",[UPCOMING 3j 58m 03:00 WIB 26/06/26] Curaçao vs Ivory Coast (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489410" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 5m 03:00 WIB 26/06/26] Ecuador vs Germany",[UPCOMING 4j 5m 03:00 WIB 26/06/26] Ecuador vs Germany (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489410" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 58m 03:00 WIB 26/06/26] Ecuador vs Germany",[UPCOMING 3j 58m 03:00 WIB 26/06/26] Ecuador vs Germany (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489412" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 5m 06:00 WIB 26/06/26] Tunisia vs Netherlands",[UPCOMING 7j 5m 06:00 WIB 26/06/26] Tunisia vs Netherlands (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489412" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 58m 06:00 WIB 26/06/26] Tunisia vs Netherlands",[UPCOMING 6j 58m 06:00 WIB 26/06/26] Tunisia vs Netherlands (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539011" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 5m 06:00 WIB 26/06/26] Japan vs Sweden",[UPCOMING 7j 5m 06:00 WIB 26/06/26] Japan vs Sweden (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539011" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 6j 58m 06:00 WIB 26/06/26] Japan vs Sweden",[UPCOMING 6j 58m 06:00 WIB 26/06/26] Japan vs Sweden (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489411" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 26/06/26] Paraguay vs Australia",[UPCOMING 10j 5m 09:00 WIB 26/06/26] Paraguay vs Australia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489411" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 26/06/26] Paraguay vs Australia",[UPCOMING 9j 58m 09:00 WIB 26/06/26] Paraguay vs Australia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539012" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 26/06/26] Türkiye vs USA",[UPCOMING 10j 5m 09:00 WIB 26/06/26] Türkiye vs USA (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539012" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 26/06/26] Türkiye vs USA",[UPCOMING 9j 58m 09:00 WIB 26/06/26] Türkiye vs USA (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489416" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 27/06/26] Norway vs France",[UPCOMING 3j 5m 02:00 WIB 27/06/26] Norway vs France (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489416" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 27/06/26] Norway vs France",[UPCOMING 2j 58m 02:00 WIB 27/06/26] Norway vs France (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539074" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 3j 5m 02:00 WIB 27/06/26] Senegal vs Iraq",[UPCOMING 3j 5m 02:00 WIB 27/06/26] Senegal vs Iraq (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539074" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 2j 58m 02:00 WIB 27/06/26] Senegal vs Iraq",[UPCOMING 2j 58m 02:00 WIB 27/06/26] Senegal vs Iraq (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489413" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 5m 07:00 WIB 27/06/26] Cape Verde Islands vs Saudi Arabia",[UPCOMING 8j 5m 07:00 WIB 27/06/26] Cape Verde Islands vs Saudi Arabia (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489413" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 58m 07:00 WIB 27/06/26] Cape Verde Islands vs Saudi Arabia",[UPCOMING 7j 58m 07:00 WIB 27/06/26] Cape Verde Islands vs Saudi Arabia (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489417" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 8j 5m 07:00 WIB 27/06/26] Uruguay vs Spain",[UPCOMING 8j 5m 07:00 WIB 27/06/26] Uruguay vs Spain (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489417" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 58m 07:00 WIB 27/06/26] Uruguay vs Spain",[UPCOMING 7j 58m 07:00 WIB 27/06/26] Uruguay vs Spain (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489414" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 5m 10:00 WIB 27/06/26] Egypt vs Iran",[UPCOMING 11j 5m 10:00 WIB 27/06/26] Egypt vs Iran (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489414" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 58m 10:00 WIB 27/06/26] Egypt vs Iran",[UPCOMING 10j 58m 10:00 WIB 27/06/26] Egypt vs Iran (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489415" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 11j 5m 10:00 WIB 27/06/26] New Zealand vs Belgium",[UPCOMING 11j 5m 10:00 WIB 27/06/26] New Zealand vs Belgium (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489415" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 58m 10:00 WIB 27/06/26] New Zealand vs Belgium",[UPCOMING 10j 58m 10:00 WIB 27/06/26] New Zealand vs Belgium (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489420" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 5m 04:00 WIB 28/06/26] Croatia vs Ghana",[UPCOMING 5j 5m 04:00 WIB 28/06/26] Croatia vs Ghana (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489420" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 58m 04:00 WIB 28/06/26] Croatia vs Ghana",[UPCOMING 4j 58m 04:00 WIB 28/06/26] Croatia vs Ghana (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489422" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 5j 5m 04:00 WIB 28/06/26] Panama vs England",[UPCOMING 5j 5m 04:00 WIB 28/06/26] Panama vs England (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489422" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 4j 58m 04:00 WIB 28/06/26] Panama vs England",[UPCOMING 4j 58m 04:00 WIB 28/06/26] Panama vs England (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489419" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 35m 06:30 WIB 28/06/26] Colombia vs Portugal",[UPCOMING 7j 35m 06:30 WIB 28/06/26] Colombia vs Portugal (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489419" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 28m 06:30 WIB 28/06/26] Colombia vs Portugal",[UPCOMING 7j 28m 06:30 WIB 28/06/26] Colombia vs Portugal (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1539013" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 35m 06:30 WIB 28/06/26] Congo DR vs Uzbekistan",[UPCOMING 7j 35m 06:30 WIB 28/06/26] Congo DR vs Uzbekistan (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1539013" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 7j 28m 06:30 WIB 28/06/26] Congo DR vs Uzbekistan",[UPCOMING 7j 28m 06:30 WIB 28/06/26] Congo DR vs Uzbekistan (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489418" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 28/06/26] Algeria vs Austria",[UPCOMING 10j 5m 09:00 WIB 28/06/26] Algeria vs Austria (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489418" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 28/06/26] Algeria vs Austria",[UPCOMING 9j 58m 09:00 WIB 28/06/26] Algeria vs Austria (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-id="1489421" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 10j 5m 09:00 WIB 28/06/26] Jordan vs Argentina",[UPCOMING 10j 5m 09:00 WIB 28/06/26] Jordan vs Argentina (SVR-BHNS0)
+#EXTINF:-1 tvg-id="1489421" tvg-logo="https://media.chuoichientv.com/media/20260413_054315_c65e287c.png" group-title="[UPCOMING 9j 58m 09:00 WIB 28/06/26] Jordan vs Argentina",[UPCOMING 9j 58m 09:00 WIB 28/06/26] Jordan vs Argentina (SVR-BHNS0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-origin=https://live.chuoichien.tv
