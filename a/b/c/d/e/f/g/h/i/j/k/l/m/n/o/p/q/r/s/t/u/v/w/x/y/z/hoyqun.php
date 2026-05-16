@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:50 WIB 16/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:50 WIB 16/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:56 WIB 16/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:56 WIB 16/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[20:30 WIB 16/05/26] Bayer Leverkusen vs Hamburger SV [FHD] [LIVE]
@@ -170,6 +170,15 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[11:00 WIB 17/05/26] V-varen Nagasaki vs Vissel Kobe [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[12:00 WIB 17/05/26] TOYOTA Thailand Open 2026 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[12:00 WIB 17/05/26] TOYOTA Thailand Open 2026 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[12:00 WIB 17/05/26] TOYOTA Thailand Open 2026 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[13:00 WIB 17/05/26] Kyoto Sanga vs Sanfrecce Hiroshima [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
 
@@ -187,6 +196,15 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UtyP0MT.jpeg" group-title="K League 1",[14:40 WIB 17/05/26] Jeonbuk Motors vs Gimcheon Sangmu FC [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[15:00 WIB 17/05/26] TOYOTA Thailand Open 2026 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[15:00 WIB 17/05/26] TOYOTA Thailand Open 2026 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/cmsimg/imgeditor/AW-Banner-Toyota2026-Badminton-1000X500px.png" group-title="TOYOTA Thailand Open 2026",[15:00 WIB 17/05/26] TOYOTA Thailand Open 2026 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[17:00 WIB 17/05/26] Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
