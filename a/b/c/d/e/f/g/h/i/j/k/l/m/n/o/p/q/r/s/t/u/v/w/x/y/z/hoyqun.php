@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [02:44 WIB 17/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:44 WIB 17/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [02:51 WIB 17/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:51 WIB 17/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/72/AFC_Champions_League_Two_logo.png" group-title="AFC Champions League Two",[00:45 WIB 17/05/26] Al-Nassr vs Gamba Osaka [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/94.png" group-title="Primeira Liga",[02:30 WIB 17/05/26] Estoril vs Benfica [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
@@ -37,6 +28,15 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/253.png" group-title="Major League Soccer",[06:30 WIB 17/05/26] New York Red Bulls vs New York City FC [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 17/05/26] Detroit Pistons vs Cleveland Cavaliers [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 17/05/26] Detroit Pistons vs Cleveland Cavaliers [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:00 WIB 17/05/26] Detroit Pistons vs Cleveland Cavaliers [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/262.png" group-title="Liga MX",[08:07 WIB 17/05/26] Guadalajara Chivas vs Cruz Azul [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -181,6 +181,15 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[18:30 WIB 17/05/26] Diego Dedura-Palomero vs Frances Tiafoe [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 17/05/26] Zhejiang Guangsha vs Shenzhen [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 17/05/26] Zhejiang Guangsha vs Shenzhen [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 17/05/26] Zhejiang Guangsha vs Shenzhen [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[19:15 WIB 17/05/26] Công An Nhân Dân vs Thanh Hóa [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
