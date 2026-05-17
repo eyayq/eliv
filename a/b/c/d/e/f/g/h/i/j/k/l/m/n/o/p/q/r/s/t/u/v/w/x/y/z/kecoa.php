@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [21.05 WIB 17/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [21.08 WIB 17/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767456240229-football-icon.svg" group-title="[LIVE 20:00 WIB 17/05/26] Inter vs Verona",[LIVE 20:00 WIB 17/05/26] Inter vs Verona (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
@@ -13,5 +13,5 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[LIVE 21:00 WIB 17/05/26] Leeds vs Brighton",[LIVE 21:00 WIB 17/05/26] Leeds vs Brighton (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[UPCOMING 4j 54m 02:00 WIB 19/05/26] Arsenal vs Burnley",[UPCOMING 4j 54m 02:00 WIB 19/05/26] Arsenal vs Burnley (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[UPCOMING 4j 51m 02:00 WIB 19/05/26] Arsenal vs Burnley",[UPCOMING 4j 51m 02:00 WIB 19/05/26] Arsenal vs Burnley (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
