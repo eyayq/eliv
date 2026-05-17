@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [23:28 WIB 17/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:28 WIB 17/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:35 WIB 17/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:35 WIB 17/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkuD4iDpTTtrKYv1EJ3LPjU01T_fPpfF-hg&s" group-title="WTA 1000 Rome ( Đầu Cầu Anti Sinner )",[22:00 WIB 17/05/26] Jannik Sinner vs Casper Ruud [FHD] [LIVE]
@@ -35,13 +35,13 @@ https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Atletico Madrid vs Girona [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Athletic Club vs Celta Vigo [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Athletic Club vs Celta Vigo [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Athletic Club vs Celta Vigo [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Athletic Club vs Celta Vigo [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Athletic Club vs Celta Vigo [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Athletic Club vs Celta Vigo [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Rayo Vallecano vs Villarreal [FHD] [LIVE]
@@ -53,22 +53,22 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Rayo Vallecano vs Villarreal [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Real Sociedad vs Valencia [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Real Sociedad vs Valencia [FHD] [LIVE]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Real Sociedad vs Valencia [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Real Sociedad vs Valencia [HD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Real Sociedad vs Valencia [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Real Sociedad vs Valencia [SD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Sevilla vs Real Madrid [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Sevilla vs Real Madrid [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Sevilla vs Real Madrid [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Sevilla vs Real Madrid [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Sevilla vs Real Madrid [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[00:00 WIB 18/05/26] Sevilla vs Real Madrid [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 18/05/26] Udinese vs Cremonese [FHD] [NANTIKAN]
