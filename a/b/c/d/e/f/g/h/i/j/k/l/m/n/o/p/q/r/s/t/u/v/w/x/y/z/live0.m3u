@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 10:31:44 WIB 18-05-2026
-# 🔄 Total Channels: 3219
+# ⏰ Latest Updated: 10:39:04 WIB 18-05-2026
+# 🔄 Total Channels: 3221
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:31:44 WIB 18-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [10:39:04 WIB 18-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -128,12 +128,6 @@ https://pull-gv.fastestcdn-global.com/live/9e0d0c6addd045ae90e5bfffa3066e89/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://pull-gv.fastestcdn-global.com/live/9e0d0c6addd045ae90e5bfffa3066e89/index.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4486_1gxpydyxb71z.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:30   18/05 South Melbourne vs Caroline Springs George Cross  TON LAP m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4486_1gxpydyxb71z.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:30   18/05 South Melbourne vs Caroline Springs George Cross  TON LAP flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4486_1gxpydyxb71z.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:30   18/05 South Melbourne vs Caroline Springs George Cross  VO TONG m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -146,6 +140,12 @@ https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4486_1gxpydyxb71z.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:30   18/05 South Melbourne vs Caroline Springs George Cross  PHI HO flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4486_1gxpydyxb71z.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:30   18/05 South Melbourne vs Caroline Springs George Cross  TON LAP m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4486_1gxpydyxb71z.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",16:30   18/05 South Melbourne vs Caroline Springs George Cross  TON LAP flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fdf9cc6ce125ac78a10c2fe3ba765f94a.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",16:30   18/05 Sunrise Orissa vs FC Raengdai Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -535,7 +535,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=dc54b66db573ca0655f196581ebd29f9&wsABSTime=1779143136
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=d1c9b513b33ce8b3a11aeb81f5fbd4ef&wsABSTime=1779143440
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/46cf02209721e88c21a85f35faeaa5f1.png!w80" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[UPCOMING] (18:35 WIB) Beijing Shougang vs Shanghai [BLV 247]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/gpxwrx5tongqyk0/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",18:35 WIB - GUANGSHA LIONS VS SHENZHEN LEOPARDS [CBA]
@@ -981,7 +981,7 @@ https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/fce7c8735e0646e642007198a8875882
 #EXTVLCOPT:http-origin=https://chzzk.naver.com
-https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0002/t3g6hrdnhiradiqbjlqagu2tid2ercl35fd5/pg0zgw3dwv5xkttw75eipxod2ercl35b4b_hls_playlist.m3u8?hdnts=st=1779099975~exp=1779161185~acl=*/t3g6hrdnhiradiqbjlqagu2tid2ercl35fd5/*~hmac=5b9e2b0bf9c435862682afbaafce6549cde48cee7a6ecd46754b1d37b280e896
+https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0002/t3g6hrdnhiradiqbjlqagu2tid2ercl35fd5/pg0zgw3dwv5xkttw75eipxod2ercl35b4b_hls_playlist.m3u8?hdnts=st=1779100273~exp=1779161483~acl=*/t3g6hrdnhiradiqbjlqagu2tid2ercl35fd5/*~hmac=88c1133d3881e17c1d5ed89f1c2384278a7dc4e98fe2481cd2c53d8abf6517df
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/160.png" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[UPCOMING ] [UEFA Europa League] SC Freiburg VS Aston Villa | UEFA Europa League
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1046,82 +1046,87 @@ https://live.yultech.online/live/sd-6MuTc8b2yXuNGrykDK/index.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel54.flv?auth_key=3000001779099936-0-0-fd40b220caa76f0499cc180dfcbec0c9
+https://live3.procdnlive.com/livecdn/channel54.flv?auth_key=3000001779100238-0-0-a71a81bf8d6a14a446ffa2376cbb6164
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hjk71qdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",16:00 WIB - KRYLIA SOVETOV 2 VS FK ORENBURG 2 [RUS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779099936-0-0-e3be3ef3ad417cd631c9aa226e326b4b
+https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779100239-0-0-711e9eac9f163026a84a85c6079e43d8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgj17ryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",16:00 WIB - SLOVAKIA U19 VS LATVIA U19 [UEFA U19]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=afe1b2e5a9dd0a26e0e12d25f44c0e80&wsABSTime=1779143136
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=59b420cf5fc5843cf167a08078a078e3&wsABSTime=1779143438
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh40z5m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",16:30 WIB - SOUTH MELBOURNE VS CAROLINE SPRINGS [AUS VPL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=b8dd2d7c52bdb7c2186e9cd012f51dd0&wsABSTime=1779143137
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=bb4a6809eb02be9ae3e9aa6606030c72&wsABSTime=1779143439
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhzxzer1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",16:30 WIB - SUNRISE ORISSA VS FC RAENGDAI [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001779099937-0-0-b0dea292aed60e5c1a25a1ec30af36f9
+https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001779100239-0-0-42b77837cbb0fd7451d535f3361df695
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh415dr510/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",16:30 WIB - TRAU FC VS BAGHPAT FC [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel73.flv?auth_key=3000001779099937-0-0-61e88010e61e9c5aa54b87952a4024d3
+https://live3.procdnlive.com/livecdn/channel73.flv?auth_key=3000001779100239-0-0-c8d693d24e0cf0545e0e01bbb8a6deff
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnhk4g7m7vx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:00 WIB - KUDRIVKA VS LNZ CHERKASY [UKR D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=7b1d03bd9e110ff4845a4ca20fc7faf3&wsABSTime=1779143137
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=3dc1254c9406d8f774203f116e510f30&wsABSTime=1779143439
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhe586r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:00 WIB - NU KOLOS KOVALIVKA VS NU METALIST 1925 [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001779099938-0-0-cb9293cb1ac4500bb5d92dec0109ddbc
+https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001779100240-0-0-610117ef348442a70e422fff43320446
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryoh2e2nq1zp/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:00 WIB - NU SEASTERS ODESSA VS NU VORSKLA POLTAVA [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001779099938-0-0-f441390d68bf8bf5eace55f6a6c7dad7
+https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001779100240-0-0-d8bdb098b40cd464882f01d85eb9862f
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/n54ql7tejglrvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:00 WIB - SARANGANI VS ABRA WEAVERS [PHI]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=dc54b66db573ca0655f196581ebd29f9&wsABSTime=1779143136
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=d1c9b513b33ce8b3a11aeb81f5fbd4ef&wsABSTime=1779143440
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh4107m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:00 WIB - ZORYA VS POLISSYA ZHYTOMYR [UKR D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=9c46251f26feb9d2bc802ba161619b0e&wsABSTime=1779143137
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=f95d0a05870362fa90b26e0fb4a2534b&wsABSTime=1779143440
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhn1v5r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:30 WIB - SINIOLCHU FC VS SINGLING SPORTING CLUB [ISS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel74.flv?auth_key=3000001779099938-0-0-153477e29ec7ea2d262914c0406fa2a8
+https://live3.procdnlive.com/livecdn/channel74.flv?auth_key=3000001779100240-0-0-fa824990894769e263c2db5b1f7897ba
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phpzewm2wd/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",18:00 WIB - JWAYYA VS CS SAGESSE [LBN D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel75.flv?auth_key=3000001779099939-0-0-8cd562cfaaa315bc2150c3e71d275629
+https://live3.procdnlive.com/livecdn/channel75.flv?auth_key=3000001779100241-0-0-f1304be4d6a6f04bd8234f01d1834330
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh4ypxr1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",18:00 WIB - NU PANTERY UMAN VS NU ZHYTOMYR [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel52.flv?auth_key=3000001779099938-0-0-12b7f282bb6bf8c56445d20b15f80ef5
+https://live3.procdnlive.com/livecdn/channel52.flv?auth_key=3000001779100240-0-0-1a0dfd275b6d47e09261bbe023933aaa
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh8vz6moep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",18:00 WIB - NU SMORGON VS NU DNEPR MOGILEV [BWPL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001779099939-0-0-b9a366c99a1905bb467476ea2f8fe670
+https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001779100241-0-0-652f6f8849f28768ce965763c8d2e756
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhdwy2qvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",18:00 WIB - SHAANXI UNITED SOARING VS BEIJING LIFE AND FOOTBALL [CHN CH]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779099939-0-0-6673ba98607f354cdd60d83c7d60a509
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779100241-0-0-5845b1fd0b292bbe41c4549d0a9090b5
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/gpxwrx5tongqyk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",18:35 WIB - GUANGSHA LIONS VS SHENZHEN LEOPARDS [CBA]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001779100240-0-0-5a81ba96465a23f046a798930f52698d
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_161_1729069197_thumb.png" group-title="SPORTS FHD",SPORTS 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_166_1742379655_thumb.png" group-title="SPORTS FHD",S SPORTS 1 HD
@@ -3700,77 +3705,77 @@ http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=59b420cf5fc5843cf167a08078a078e3&wsABSTime=1779143438
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=201fa192c9a77ddc55292fe27495479d&wsABSTime=1779143736
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh38eoql07/image/small" group-title="LIVE EVENT | XOILACZ AI",16:00 WIB - BELARUS U19 VS SAN MARINO U19 [UEFA U19]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel54.flv?auth_key=3000001779100238-0-0-a71a81bf8d6a14a446ffa2376cbb6164
+https://live3.procdnlive.com/livecdn/channel54.flv?auth_key=3000001779100536-0-0-95a98fea9ba117ba22271078421b9cc3
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hjk71qdyj/image/small" group-title="LIVE EVENT | XOILACZ AI",16:00 WIB - KRYLIA SOVETOV 2 VS FK ORENBURG 2 [RUS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779100239-0-0-711e9eac9f163026a84a85c6079e43d8
+https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779100537-0-0-02e2e83fc3cac2fb75a66558ab389c24
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh40z5m0ve/image/small" group-title="LIVE EVENT | XOILACZ AI",16:30 WIB - SOUTH MELBOURNE VS CAROLINE SPRINGS [AUS VPL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=bb4a6809eb02be9ae3e9aa6606030c72&wsABSTime=1779143439
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=5700bc22c2102c7bb3b577c037000185&wsABSTime=1779143737
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhzxzer1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",16:30 WIB - SUNRISE ORISSA VS FC RAENGDAI [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001779100239-0-0-42b77837cbb0fd7451d535f3361df695
+https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001779100537-0-0-8a2c775823602ce7aa6e40337a4fcbd3
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh415dr510/image/small" group-title="LIVE EVENT | XOILACZ AI",16:30 WIB - TRAU FC VS BAGHPAT FC [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel73.flv?auth_key=3000001779100239-0-0-c8d693d24e0cf0545e0e01bbb8a6deff
+https://live3.procdnlive.com/livecdn/channel73.flv?auth_key=3000001779100537-0-0-e78497155aa56db741ee6ec53cdd6a39
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnhk4g7m7vx/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - KUDRIVKA VS LNZ CHERKASY [UKR D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=3dc1254c9406d8f774203f116e510f30&wsABSTime=1779143439
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=d62b7290dcabd45f22999b1a1176b634&wsABSTime=1779143737
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh4107m0ve/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - ZORYA VS POLISSYA ZHYTOMYR [UKR D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=f95d0a05870362fa90b26e0fb4a2534b&wsABSTime=1779143440
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=4c041191aeaf463d1d681ced6175294c&wsABSTime=1779143738
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhe586r1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - NU KOLOS KOVALIVKA VS NU METALIST 1925 [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001779100240-0-0-610117ef348442a70e422fff43320446
+https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001779100538-0-0-98896d7650443cc9f312c0a65804bb43
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryoh2e2nq1zp/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - NU SEASTERS ODESSA VS NU VORSKLA POLTAVA [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001779100240-0-0-d8bdb098b40cd464882f01d85eb9862f
+https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001779100538-0-0-3364fe83c991fc57d48d6f422b43a4f7
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhn1v5r1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",17:30 WIB - SINIOLCHU FC VS SINGLING SPORTING CLUB [ISS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel74.flv?auth_key=3000001779100240-0-0-fa824990894769e263c2db5b1f7897ba
+https://live3.procdnlive.com/livecdn/channel74.flv?auth_key=3000001779100538-0-0-740ae615b6aa655839db143ca7716ecf
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh4ypxr1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",18:00 WIB - NU PANTERY UMAN VS NU ZHYTOMYR [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel52.flv?auth_key=3000001779100240-0-0-1a0dfd275b6d47e09261bbe023933aaa
+https://live3.procdnlive.com/livecdn/channel52.flv?auth_key=3000001779100538-0-0-a0dae398b95af06ce9a607fcee799d03
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh8vz6moep/image/small" group-title="LIVE EVENT | XOILACZ AI",18:00 WIB - NU SMORGON VS NU DNEPR MOGILEV [BWPL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001779100241-0-0-652f6f8849f28768ce965763c8d2e756
+https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001779100539-0-0-5a89aa0743d5240d9eeb132c607293a2
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhdwy2qvy9/image/small" group-title="LIVE EVENT | XOILACZ AI",18:00 WIB - SHAANXI UNITED SOARING VS BEIJING LIFE AND FOOTBALL [CHN CH]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779100241-0-0-5845b1fd0b292bbe41c4549d0a9090b5
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779100539-0-0-003a86d33b3814c6d56e3da8e5782de2
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phpzewm2wd/image/small" group-title="LIVE EVENT | XOILACZ AI",18:00 WIB - JWAYYA VS CS SAGESSE [LBN D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel75.flv?auth_key=3000001779100241-0-0-f1304be4d6a6f04bd8234f01d1834330
+https://live3.procdnlive.com/livecdn/channel75.flv?auth_key=3000001779100539-0-0-286bcef3f1c5b3923bad14ac96f5751d
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghx57zr6od/image/small" group-title="LIVE EVENT | XOILACZ AI",19:00 WIB - HAYQ VS MIKA ASHTARAK [ARM D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
@@ -3780,24 +3785,24 @@ https://dbukjxcuzhtk-pull.bpmedialive.com/live/channel55.flv
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001779100243-0-0-cf954480688aa4e38992f11b26c72464
+https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001779100540-0-0-4e3263b34de2ff4f987a8aa91a1dce9e
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohk23dq1zp/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - TANJONG PAGAR VS HOUGANG UNITED [SIN D1]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/n54ql7tejglrvy9/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - SARANGANI VS ABRA WEAVERS [PHI]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=d1c9b513b33ce8b3a11aeb81f5fbd4ef&wsABSTime=1779143440
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=48ace4fabc9eb5bdb71eac4daf2cc4d5&wsABSTime=1779143736
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/gpxwrx5tongqyk0/image/small" group-title="LIVE EVENT | XOILACZ AI",18:35 WIB - GUANGSHA LIONS VS SHENZHEN LEOPARDS [CBA]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001779100240-0-0-5a81ba96465a23f046a798930f52698d
+https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001779100537-0-0-8b85b0ee421ee72b19bc6881e45eb826
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/y39mp4t5l7pmojx/image/small" group-title="LIVE EVENT | XOILACZ AI",19:00 WIB - IMUS AGIMAT VS PASIG CITY [PHI]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=61ea52f14a11bd0a04ddf45d4abbaa83&wsABSTime=1779143440
+https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=64732f112634e094ce773f8da9c24688&wsABSTime=1779143737
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3728683390847f335552d077cf0b8752.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (16:30 WIB) South Melbourne vs Caroline Springs George Cross [BLV RONG DO]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -4391,7 +4396,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=dc54b66db573ca0655f196581ebd29f9&wsABSTime=1779143136
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=d1c9b513b33ce8b3a11aeb81f5fbd4ef&wsABSTime=1779143440
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/46cf02209721e88c21a85f35faeaa5f1.png!w80" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[UPCOMING] (18:35 WIB) Beijing Shougang vs Shanghai [BLV 247]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/gpxwrx5tongqyk0/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",18:35 WIB - GUANGSHA LIONS VS SHENZHEN LEOPARDS [CBA]
@@ -4837,7 +4842,7 @@ https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://chzzk.naver.com/live/fce7c8735e0646e642007198a8875882
 #EXTVLCOPT:http-origin=https://chzzk.naver.com
-https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0002/t3g6hrdnhiradiqbjlqagu2tid2ercl35fd5/pg0zgw3dwv5xkttw75eipxod2ercl35b4b_hls_playlist.m3u8?hdnts=st=1779099975~exp=1779161185~acl=*/t3g6hrdnhiradiqbjlqagu2tid2ercl35fd5/*~hmac=5b9e2b0bf9c435862682afbaafce6549cde48cee7a6ecd46754b1d37b280e896
+https://livecloud.akamaized.net/chzzk/lip2_kr/cflexnmss2u0002/t3g6hrdnhiradiqbjlqagu2tid2ercl35fd5/pg0zgw3dwv5xkttw75eipxod2ercl35b4b_hls_playlist.m3u8?hdnts=st=1779100273~exp=1779161483~acl=*/t3g6hrdnhiradiqbjlqagu2tid2ercl35fd5/*~hmac=88c1133d3881e17c1d5ed89f1c2384278a7dc4e98fe2481cd2c53d8abf6517df
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/160.png" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[UPCOMING ] [UEFA Europa League] SC Freiburg VS Aston Villa | UEFA Europa League
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -4902,82 +4907,87 @@ https://live.yultech.online/live/sd-6MuTc8b2yXuNGrykDK/index.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel54.flv?auth_key=3000001779099936-0-0-fd40b220caa76f0499cc180dfcbec0c9
+https://live3.procdnlive.com/livecdn/channel54.flv?auth_key=3000001779100238-0-0-a71a81bf8d6a14a446ffa2376cbb6164
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hjk71qdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",16:00 WIB - KRYLIA SOVETOV 2 VS FK ORENBURG 2 [RUS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779099936-0-0-e3be3ef3ad417cd631c9aa226e326b4b
+https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779100239-0-0-711e9eac9f163026a84a85c6079e43d8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgj17ryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",16:00 WIB - SLOVAKIA U19 VS LATVIA U19 [UEFA U19]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=afe1b2e5a9dd0a26e0e12d25f44c0e80&wsABSTime=1779143136
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=59b420cf5fc5843cf167a08078a078e3&wsABSTime=1779143438
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh40z5m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",16:30 WIB - SOUTH MELBOURNE VS CAROLINE SPRINGS [AUS VPL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=b8dd2d7c52bdb7c2186e9cd012f51dd0&wsABSTime=1779143137
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=bb4a6809eb02be9ae3e9aa6606030c72&wsABSTime=1779143439
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhzxzer1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",16:30 WIB - SUNRISE ORISSA VS FC RAENGDAI [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001779099937-0-0-b0dea292aed60e5c1a25a1ec30af36f9
+https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001779100239-0-0-42b77837cbb0fd7451d535f3361df695
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh415dr510/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",16:30 WIB - TRAU FC VS BAGHPAT FC [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel73.flv?auth_key=3000001779099937-0-0-61e88010e61e9c5aa54b87952a4024d3
+https://live3.procdnlive.com/livecdn/channel73.flv?auth_key=3000001779100239-0-0-c8d693d24e0cf0545e0e01bbb8a6deff
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnhk4g7m7vx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:00 WIB - KUDRIVKA VS LNZ CHERKASY [UKR D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=7b1d03bd9e110ff4845a4ca20fc7faf3&wsABSTime=1779143137
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=3dc1254c9406d8f774203f116e510f30&wsABSTime=1779143439
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhe586r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:00 WIB - NU KOLOS KOVALIVKA VS NU METALIST 1925 [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001779099938-0-0-cb9293cb1ac4500bb5d92dec0109ddbc
+https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001779100240-0-0-610117ef348442a70e422fff43320446
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryoh2e2nq1zp/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:00 WIB - NU SEASTERS ODESSA VS NU VORSKLA POLTAVA [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001779099938-0-0-f441390d68bf8bf5eace55f6a6c7dad7
+https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001779100240-0-0-d8bdb098b40cd464882f01d85eb9862f
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/n54ql7tejglrvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:00 WIB - SARANGANI VS ABRA WEAVERS [PHI]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=dc54b66db573ca0655f196581ebd29f9&wsABSTime=1779143136
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=d1c9b513b33ce8b3a11aeb81f5fbd4ef&wsABSTime=1779143440
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh4107m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:00 WIB - ZORYA VS POLISSYA ZHYTOMYR [UKR D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=9c46251f26feb9d2bc802ba161619b0e&wsABSTime=1779143137
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=f95d0a05870362fa90b26e0fb4a2534b&wsABSTime=1779143440
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhn1v5r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",17:30 WIB - SINIOLCHU FC VS SINGLING SPORTING CLUB [ISS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel74.flv?auth_key=3000001779099938-0-0-153477e29ec7ea2d262914c0406fa2a8
+https://live3.procdnlive.com/livecdn/channel74.flv?auth_key=3000001779100240-0-0-fa824990894769e263c2db5b1f7897ba
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phpzewm2wd/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",18:00 WIB - JWAYYA VS CS SAGESSE [LBN D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel75.flv?auth_key=3000001779099939-0-0-8cd562cfaaa315bc2150c3e71d275629
+https://live3.procdnlive.com/livecdn/channel75.flv?auth_key=3000001779100241-0-0-f1304be4d6a6f04bd8234f01d1834330
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh4ypxr1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",18:00 WIB - NU PANTERY UMAN VS NU ZHYTOMYR [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel52.flv?auth_key=3000001779099938-0-0-12b7f282bb6bf8c56445d20b15f80ef5
+https://live3.procdnlive.com/livecdn/channel52.flv?auth_key=3000001779100240-0-0-1a0dfd275b6d47e09261bbe023933aaa
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh8vz6moep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",18:00 WIB - NU SMORGON VS NU DNEPR MOGILEV [BWPL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001779099939-0-0-b9a366c99a1905bb467476ea2f8fe670
+https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001779100241-0-0-652f6f8849f28768ce965763c8d2e756
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhdwy2qvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",18:00 WIB - SHAANXI UNITED SOARING VS BEIJING LIFE AND FOOTBALL [CHN CH]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779099939-0-0-6673ba98607f354cdd60d83c7d60a509
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779100241-0-0-5845b1fd0b292bbe41c4549d0a9090b5
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/gpxwrx5tongqyk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",18:35 WIB - GUANGSHA LIONS VS SHENZHEN LEOPARDS [CBA]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001779100240-0-0-5a81ba96465a23f046a798930f52698d
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_161_1729069197_thumb.png" group-title="SPORTS FHD",SPORTS 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_166_1742379655_thumb.png" group-title="SPORTS FHD",S SPORTS 1 HD
@@ -7556,77 +7566,77 @@ http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=59b420cf5fc5843cf167a08078a078e3&wsABSTime=1779143438
+https://live1.pro2cdnlive.com/live/channel22.flv?wsSecret=201fa192c9a77ddc55292fe27495479d&wsABSTime=1779143736
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh38eoql07/image/small" group-title="LIVE EVENT | XOILACZ AI",16:00 WIB - BELARUS U19 VS SAN MARINO U19 [UEFA U19]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel54.flv?auth_key=3000001779100238-0-0-a71a81bf8d6a14a446ffa2376cbb6164
+https://live3.procdnlive.com/livecdn/channel54.flv?auth_key=3000001779100536-0-0-95a98fea9ba117ba22271078421b9cc3
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hjk71qdyj/image/small" group-title="LIVE EVENT | XOILACZ AI",16:00 WIB - KRYLIA SOVETOV 2 VS FK ORENBURG 2 [RUS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779100239-0-0-711e9eac9f163026a84a85c6079e43d8
+https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779100537-0-0-02e2e83fc3cac2fb75a66558ab389c24
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh40z5m0ve/image/small" group-title="LIVE EVENT | XOILACZ AI",16:30 WIB - SOUTH MELBOURNE VS CAROLINE SPRINGS [AUS VPL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=bb4a6809eb02be9ae3e9aa6606030c72&wsABSTime=1779143439
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=5700bc22c2102c7bb3b577c037000185&wsABSTime=1779143737
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhzxzer1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",16:30 WIB - SUNRISE ORISSA VS FC RAENGDAI [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001779100239-0-0-42b77837cbb0fd7451d535f3361df695
+https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001779100537-0-0-8a2c775823602ce7aa6e40337a4fcbd3
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh415dr510/image/small" group-title="LIVE EVENT | XOILACZ AI",16:30 WIB - TRAU FC VS BAGHPAT FC [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel73.flv?auth_key=3000001779100239-0-0-c8d693d24e0cf0545e0e01bbb8a6deff
+https://live3.procdnlive.com/livecdn/channel73.flv?auth_key=3000001779100537-0-0-e78497155aa56db741ee6ec53cdd6a39
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnhk4g7m7vx/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - KUDRIVKA VS LNZ CHERKASY [UKR D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=3dc1254c9406d8f774203f116e510f30&wsABSTime=1779143439
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=d62b7290dcabd45f22999b1a1176b634&wsABSTime=1779143737
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh4107m0ve/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - ZORYA VS POLISSYA ZHYTOMYR [UKR D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=f95d0a05870362fa90b26e0fb4a2534b&wsABSTime=1779143440
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=4c041191aeaf463d1d681ced6175294c&wsABSTime=1779143738
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhe586r1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - NU KOLOS KOVALIVKA VS NU METALIST 1925 [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001779100240-0-0-610117ef348442a70e422fff43320446
+https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001779100538-0-0-98896d7650443cc9f312c0a65804bb43
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryoh2e2nq1zp/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - NU SEASTERS ODESSA VS NU VORSKLA POLTAVA [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001779100240-0-0-d8bdb098b40cd464882f01d85eb9862f
+https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001779100538-0-0-3364fe83c991fc57d48d6f422b43a4f7
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhn1v5r1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",17:30 WIB - SINIOLCHU FC VS SINGLING SPORTING CLUB [ISS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel74.flv?auth_key=3000001779100240-0-0-fa824990894769e263c2db5b1f7897ba
+https://live3.procdnlive.com/livecdn/channel74.flv?auth_key=3000001779100538-0-0-740ae615b6aa655839db143ca7716ecf
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh4ypxr1ge/image/small" group-title="LIVE EVENT | XOILACZ AI",18:00 WIB - NU PANTERY UMAN VS NU ZHYTOMYR [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel52.flv?auth_key=3000001779100240-0-0-1a0dfd275b6d47e09261bbe023933aaa
+https://live3.procdnlive.com/livecdn/channel52.flv?auth_key=3000001779100538-0-0-a0dae398b95af06ce9a607fcee799d03
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh8vz6moep/image/small" group-title="LIVE EVENT | XOILACZ AI",18:00 WIB - NU SMORGON VS NU DNEPR MOGILEV [BWPL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001779100241-0-0-652f6f8849f28768ce965763c8d2e756
+https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001779100539-0-0-5a89aa0743d5240d9eeb132c607293a2
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhdwy2qvy9/image/small" group-title="LIVE EVENT | XOILACZ AI",18:00 WIB - SHAANXI UNITED SOARING VS BEIJING LIFE AND FOOTBALL [CHN CH]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779100241-0-0-5845b1fd0b292bbe41c4549d0a9090b5
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779100539-0-0-003a86d33b3814c6d56e3da8e5782de2
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phpzewm2wd/image/small" group-title="LIVE EVENT | XOILACZ AI",18:00 WIB - JWAYYA VS CS SAGESSE [LBN D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel75.flv?auth_key=3000001779100241-0-0-f1304be4d6a6f04bd8234f01d1834330
+https://live3.procdnlive.com/livecdn/channel75.flv?auth_key=3000001779100539-0-0-286bcef3f1c5b3923bad14ac96f5751d
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghx57zr6od/image/small" group-title="LIVE EVENT | XOILACZ AI",19:00 WIB - HAYQ VS MIKA ASHTARAK [ARM D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
@@ -7636,24 +7646,24 @@ https://dbukjxcuzhtk-pull.bpmedialive.com/live/channel55.flv
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001779100243-0-0-cf954480688aa4e38992f11b26c72464
+https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001779100540-0-0-4e3263b34de2ff4f987a8aa91a1dce9e
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohk23dq1zp/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - TANJONG PAGAR VS HOUGANG UNITED [SIN D1]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/n54ql7tejglrvy9/image/small" group-title="LIVE EVENT | XOILACZ AI",17:00 WIB - SARANGANI VS ABRA WEAVERS [PHI]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=d1c9b513b33ce8b3a11aeb81f5fbd4ef&wsABSTime=1779143440
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=48ace4fabc9eb5bdb71eac4daf2cc4d5&wsABSTime=1779143736
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/gpxwrx5tongqyk0/image/small" group-title="LIVE EVENT | XOILACZ AI",18:35 WIB - GUANGSHA LIONS VS SHENZHEN LEOPARDS [CBA]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001779100240-0-0-5a81ba96465a23f046a798930f52698d
+https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001779100537-0-0-8b85b0ee421ee72b19bc6881e45eb826
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/y39mp4t5l7pmojx/image/small" group-title="LIVE EVENT | XOILACZ AI",19:00 WIB - IMUS AGIMAT VS PASIG CITY [PHI]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=61ea52f14a11bd0a04ddf45d4abbaa83&wsABSTime=1779143440
+https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=64732f112634e094ce773f8da9c24688&wsABSTime=1779143737
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3728683390847f335552d077cf0b8752.png!w80" group-title="LIVE EVENT | NGUYEN",[LIVE] (16:30 WIB) South Melbourne vs Caroline Springs George Cross [BLV RONG DO]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
