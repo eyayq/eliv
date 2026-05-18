@@ -1,57 +1,57 @@
 #EXTM3U
-# Generated Mon May 18 11:37:17 2026
+# Generated Mon May 18 11:44:40 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Monday 18-05-2026 18:37:05 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Monday 18-05-2026 18:44:27 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈Zorya😈 [🆚] 😈Polissya Zhytomyr [LIVE]😈📁
-https://bf.jalaplay.net/live/5005011.m3u8?txSecret=a08d1c6572424e4366f58c19ff1f15a6&txTime=6a0aec9d
+https://bf.jalaplay.net/live/5005011.m3u8?txSecret=a48e938dc0b414b9db6aeb06018f7ec6&txTime=6a0afaae
 #EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈Zorya😈 [🆚] 😈Polissya Zhytomyr [LIVE]😈📁
-https://bf.jalaplay.net/live/5005095.m3u8?txSecret=34f016cd2f85af08100a5836f73a6408&txTime=6a0aec48
+https://bf.jalaplay.net/live/5005095.m3u8?txSecret=73f2d03cadafc3ebb1ca412b1e5de8fb&txTime=6a0afa5c
 #EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈Kudrivka😈 [🆚] 😈LNZ Cherkasy [LIVE]😈📁
-https://bf.jalaplay.net/live/5004453.m3u8?txSecret=0435373f8297c67f31fea7bd76f4be8a&txTime=6a0aecb9
+https://bf.jalaplay.net/live/5004453.m3u8?txSecret=9afeb2ff3fb6e8c78bace6c95eb4d009&txTime=6a0afaca
 #EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈Kudrivka😈 [🆚] 😈LNZ Cherkasy [LIVE]😈📁
 https://bf.jalaplay.net/live/322666.m3u8?txSecret=8cd401cd909452db7e4d9ce2bb77a18d&txTime=6a0af971
+#EXTINF:-1 group-title="📁😈 Singapore Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f673935d115d19fd412bcedf9ac3f936.png",📁😈Tanjong Pagar Utd😈 [🆚] 😈Hougang United FC [LIVE]😈📁
+https://bf.jalaplay.net/live/5004991.m3u8?txSecret=9fe2b4586987b6e87d993e3f70ea5bf5&txTime=6a0af33f
 #EXTINF:-1 group-title="📁😈 Singapore Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f673935d115d19fd412bcedf9ac3f936.png",📁😈Tanjong Pagar Utd😈 [🆚] 😈Hougang United FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5005009.m3u8?txSecret=65a0e92e0e3057431fc4de869931b612&txTime=6a0af263
 #EXTINF:-1 group-title="📁😈 Singapore Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f673935d115d19fd412bcedf9ac3f936.png",📁😈Tanjong Pagar Utd😈 [🆚] 😈Hougang United FC [LIVE]😈📁
 https://bf.jalaplay.net/live/5005008.m3u8?txSecret=ef55f50923222a854fd833bec593591b&txTime=6a0aeeb2
-#EXTINF:-1 group-title="📁😈 Singapore Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f673935d115d19fd412bcedf9ac3f936.png",📁😈Tanjong Pagar Utd😈 [🆚] 😈Hougang United FC [LIVE]😈📁
-https://bf.jalaplay.net/live/5004991.m3u8?txSecret=9fe2b4586987b6e87d993e3f70ea5bf5&txTime=6a0af33f
-#EXTINF:-1 group-title="📁😈 Uzbekistan Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cede9ab7efb75ca6ad60aeaaa2b98dcf.png",📁😈Karakalpakstan FA😈 [🆚] 😈FarDU [82m]😈📁
+#EXTINF:-1 group-title="📁😈 Uzbekistan Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cede9ab7efb75ca6ad60aeaaa2b98dcf.png",📁😈Karakalpakstan FA😈 [🆚] 😈FarDU [75m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4528555
-#EXTINF:-1 group-title="📁😈 Uzbekistan Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cede9ab7efb75ca6ad60aeaaa2b98dcf.png",📁😈Yaypan FK😈 [🆚] 😈FC Kattaqorgon [82m]😈📁
+#EXTINF:-1 group-title="📁😈 Uzbekistan Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cede9ab7efb75ca6ad60aeaaa2b98dcf.png",📁😈Yaypan FK😈 [🆚] 😈FC Kattaqorgon [75m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4528557
-#EXTINF:-1 group-title="📁😈 Armenian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/dc8217bf1c8219d1265fe704f1dd460b.png",📁😈Shirak😈 [🆚] 😈Urartu [82m]😈📁
+#EXTINF:-1 group-title="📁😈 Armenian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/dc8217bf1c8219d1265fe704f1dd460b.png",📁😈Shirak😈 [🆚] 😈Urartu [75m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4539582
-#EXTINF:-1 group-title="📁😈 Uzbekistan Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cede9ab7efb75ca6ad60aeaaa2b98dcf.png",📁😈Termez Surkhon😈 [🆚] 😈Pakhtakor [142m]😈📁
+#EXTINF:-1 group-title="📁😈 Uzbekistan Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cede9ab7efb75ca6ad60aeaaa2b98dcf.png",📁😈Termez Surkhon😈 [🆚] 😈Pakhtakor [135m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4528556
-#EXTINF:-1 group-title="📁😈 Egyptian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png",📁😈Kahraba Ismailia😈 [🆚] 😈Haras El Hodood [142m]😈📁
+#EXTINF:-1 group-title="📁😈 Egyptian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png",📁😈Kahraba Ismailia😈 [🆚] 😈Haras El Hodood [135m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4528613
-#EXTINF:-1 group-title="📁😈 Indian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png",📁😈Kerala Blasters FC😈 [🆚] 😈FC Goa [142m]😈📁
+#EXTINF:-1 group-title="📁😈 Indian Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png",📁😈Kerala Blasters FC😈 [🆚] 😈FC Goa [135m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541707
-#EXTINF:-1 group-title="📁😈 Poland Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/32e02c7fa9bc570120e7f7f1f1525d23.png",📁😈Puszcza Niepolomice😈 [🆚] 😈LKS Lodz [262m]😈📁
+#EXTINF:-1 group-title="📁😈 Poland Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/32e02c7fa9bc570120e7f7f1f1525d23.png",📁😈Puszcza Niepolomice😈 [🆚] 😈LKS Lodz [255m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4353208
-#EXTINF:-1 group-title="📁😈 Bulgarian First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png",📁😈Beroe Stara Zagora😈 [🆚] 😈Septemvri Sofia [292m]😈📁
+#EXTINF:-1 group-title="📁😈 Bulgarian First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png",📁😈Beroe Stara Zagora😈 [🆚] 😈Septemvri Sofia [285m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4533174
-#EXTINF:-1 group-title="📁😈 Sweden Allsvenskan 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png",📁😈Djurgardens😈 [🆚] 😈IK Sirius FK [322m]😈📁
+#EXTINF:-1 group-title="📁😈 Sweden Allsvenskan 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png",📁😈Djurgardens😈 [🆚] 😈IK Sirius FK [315m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4467057
-#EXTINF:-1 group-title="📁😈 Egyptian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png",📁😈Ghazl El Mahallah😈 [🆚] 😈Ittihad Alexandria SC [322m]😈📁
+#EXTINF:-1 group-title="📁😈 Egyptian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png",📁😈Ghazl El Mahallah😈 [🆚] 😈Ittihad Alexandria SC [315m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4528615
-#EXTINF:-1 group-title="📁😈 Israel Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png",📁😈Hapoel Haifa😈 [🆚] 😈Hapoel Bnei Sakhnin FC [322m]😈📁
+#EXTINF:-1 group-title="📁😈 Israel Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png",📁😈Hapoel Haifa😈 [🆚] 😈Hapoel Bnei Sakhnin FC [315m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4531623
-#EXTINF:-1 group-title="📁😈 Saudi Arabia Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png",📁😈Al Ula FC😈 [🆚] 😈Al-Orobah FC [382m]😈📁
+#EXTINF:-1 group-title="📁😈 Saudi Arabia Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21d45d61bedc9b55780ced7ac5284099.png",📁😈Al Ula FC😈 [🆚] 😈Al-Orobah FC [375m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4543112
-#EXTINF:-1 group-title="📁😈 English Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png",📁😈Arsenal😈 [🆚] 😈Burnley [442m]😈📁
+#EXTINF:-1 group-title="📁😈 English Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png",📁😈Arsenal😈 [🆚] 😈Burnley [435m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4343225
-#EXTINF:-1 group-title="📁😈 Brazilian Serie B 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png",📁😈Ponte Preta😈 [🆚] 😈Londrina PR [622m]😈📁
+#EXTINF:-1 group-title="📁😈 Brazilian Serie B 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png",📁😈Ponte Preta😈 [🆚] 😈Londrina PR [615m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4494545
-#EXTINF:-1 group-title="📁😈 LigaPro Serie A  📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0e046e806bd54b6ea05db95101f07401.png",📁😈Guayaquil City😈 [🆚] 😈Orense SC [742m]😈📁
+#EXTINF:-1 group-title="📁😈 LigaPro Serie A  📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0e046e806bd54b6ea05db95101f07401.png",📁😈Guayaquil City😈 [🆚] 😈Orense SC [735m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4492495
-#EXTINF:-1 group-title="📁😈 Honduras Primera Division 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9aff290c0f76a087fb44a4f2a981e0fd.png",📁😈Real Espana😈 [🆚] 😈Marathon [877m]😈📁
+#EXTINF:-1 group-title="📁😈 Honduras Primera Division 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9aff290c0f76a087fb44a4f2a981e0fd.png",📁😈Real Espana😈 [🆚] 😈Marathon [870m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4538161
-#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Qingdao West Coast😈 [🆚] 😈Beijing Guoan [1462m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Qingdao West Coast😈 [🆚] 😈Beijing Guoan [1455m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4498956
-#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Chengdu Rongcheng😈 [🆚] 😈Shanghai Port [1462m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png",📁😈Chengdu Rongcheng😈 [🆚] 😈Shanghai Port [1455m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4498958
-#EXTINF:-1 group-title="📁😈 AFC U17 Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5c287db45efa824791e1deaaf3206832.png",📁😈Japan U17😈 [🆚] 😈Uzbekistan U17 [1642m]😈📁
+#EXTINF:-1 group-title="📁😈 AFC U17 Asian Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5c287db45efa824791e1deaaf3206832.png",📁😈Japan U17😈 [🆚] 😈Uzbekistan U17 [1635m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4543027
