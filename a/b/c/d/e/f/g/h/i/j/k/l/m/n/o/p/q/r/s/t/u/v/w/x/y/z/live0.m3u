@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 03:35:53 WIB 18-05-2026
-# 🔄 Total Channels: 2970
+# ⏰ Latest Updated: 03:42:49 WIB 18-05-2026
+# 🔄 Total Channels: 2984
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [03:35:53 WIB 18-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [03:42:49 WIB 18-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -559,12 +559,12 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=-j-Ji8jmqEmiqnl3h6m2HvlDowlSP19HJohX7-VACHQ&e=1779085273
+https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=luGMvD25Y5En6k5whXp3cp1YQSNlyJCfAXJ8IpScP2U&e=1779085911
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:00 WIB] [NBA] Cleveland Cavaliers vs Detroit Pistons - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo1.bofiles.cfd/live/detroit/stream.m3u8?expires=1779011783&token=fbcf9dc85f7d45cf76e77aad9085cf1e5d974c5cd5ea86a4c0be22ac9e865a90
+https://bo1.bofiles.cfd/live/detroit/stream.m3u8?expires=1779011203&token=f9b78f5eb1cc6e9864dbd960f32b93181d77214c9d3700e76d8a95bc1b780b88
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/det.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:00 WIB] [NBA] Detroit Pistons vs Cleveland Cavaliers (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA1
 #EXTVLCOPT:http-origin=https://instream.click
@@ -893,6 +893,42 @@ https://telasomucombistream.bonetv.web.id/index.mpd?id=9182&type=dash&sc=5078251
 #KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?id=18796&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://telasomucombistream.bonetv.web.id/index.mpd?id=18796&type=dash&sc=5079605
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_S79hW9dFmhthsBajQqwylZgD6k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079644/1d7756.jpg" group-title="LIVE EVENT | VIDIDI", JAM 17:00 WIB (20/05) - Round of 16 - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=dash&sc=5079644
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0JQ8y32H7pHQLadAvNU-kCx4KnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079647/8e4887.jpg" group-title="LIVE EVENT | VIDIDI", JAM 17:00 WIB (21/05) - Quarterfinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=dash&sc=5079647
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4hLvbbhPuPFya5xIEE4g7B646n0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079648/a5403c.jpg" group-title="LIVE EVENT | VIDIDI", JAM 19:00 WIB (22/05) - Semifinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=dash&sc=5079648
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pnqQtFZndrGyrbmzOwTQ745FY58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079646/3a3e62.jpg" group-title="LIVE EVENT | VIDIDI", JAM 02:00 WIB (22/05) - Round 1 - The CJ Cup Byron Nelson 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?id=18189&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://telasomucombistream.bonetv.web.id/index.mpd?id=18189&type=dash&sc=5079646
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qfUSLq2n1DKliAU4j86OHJgZL3k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21392/ubl-nasional-season-1-151e36.jpg" group-title="LIVE EVENT | VIDIDI", JAM 19:00 WIB (23/05) - UBL Nasional Season 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
@@ -970,13 +1006,18 @@ https://instreams.pro/US/NFLHD1/index.m3u8
 https://instreams.pro/US/NFLHD3/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20197acbc6e3c022b4004ed8d270f99f1c6.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 09:30 WIB] [Liga Nasional Filipina] Ironclads vs Trailblazers [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://live.yalla-shoot-zhubo.com/sport/201_5376292_1.m3u8?auth_key=1779161672-0-0-fc809a146500aa439d166e06e0b045b6
+https://live.yalla-shoot-zhubo.com/sport/201_5376292_1.m3u8?auth_key=1779161912-0-0-fd6ef762becd69914701f50fda0de289
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2023889fca0cbb8d6ae358cb6d2d6fa8f82.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 10:30 WIB] [Indian Championship I-League] Chhaygaon FC vs KLASA [Shoot] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://live.yalla-shoot-zhubo.com/sport/202_5375706_1.m3u8?auth_key=1779161672-0-0-4abb9a84eaa55cc7ad00d32d2fedc722
+https://live.yalla-shoot-zhubo.com/sport/202_5375706_1.m3u8?auth_key=1779161912-0-0-0e16644e473294665274372738807026
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2023889fca0cbb8d6ae358cb6d2d6fa8f82.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 10:30 WIB] [Indian Championship I-League] Chhaygaon FC vs KLASA [Shoot] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://live.yalla-shoot-zhubo.com/sport/202_5375706_1.m3u8?auth_key=1779161492-0-0-ac70dec0ce404e89c38de27806a32594
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/a746acc84a3b0d97103a40555ab0dfb8.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 09:00 WIB] [BRA LP] Inter Panama CF vs Cetes FC [Seru]
+#EXTVLCOPT:http-referrer=https://cdnx-sportnobar.xyz/
+#EXTVLCOPT:http-origin=https://cdnx-sportnobar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://live.yultech.online/live/sd-6Mwe5B4DBRVoJ6QKth/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/c826115f280b5e68cc79e56a13a136c4.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 10:30 WIB] [Indian Championship I-League] Chhaygaon FC vs KLASA [Seru]
 #EXTVLCOPT:http-referrer=https://cdnx-sportnobar.xyz/
 #EXTVLCOPT:http-origin=https://cdnx-sportnobar.xyz
@@ -986,12 +1027,12 @@ https://live.yultech.online/live/sd-6Mwe5B4DLnPVGbTgn9/index.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel98.flv?auth_key=3000001779074753-0-0-86f3946b7db0b9a3f4e32cbd1e9e9000
+https://live3.procdnlive.com/livecdn/channel98.flv?auth_key=3000001779075353-0-0-a0e42693ad7d83eb77fe9844da159711
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hkp9vqo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",10:30 WIB - CHHAYGAON FC VS KLASA [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel99.flv?auth_key=3000001779074753-0-0-c5be5f0e3939173ea6dd7bc6ddbfc807
+https://live3.procdnlive.com/livecdn/channel99.flv?auth_key=3000001779075353-0-0-c27a1d0ff8b9257c0660cf98759539bc
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_161_1729069197_thumb.png" group-title="SPORTS FHD",SPORTS 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_166_1742379655_thumb.png" group-title="SPORTS FHD",S SPORTS 1 HD
@@ -1028,11 +1069,6 @@ http://maxotts.maxdigitaltv.com/x-media/C259/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C240/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C490-1750072819.png" group-title="SPORTS FHD",WWE
 http://maxotts.maxdigitaltv.com/x-media/C490/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="LIVE EVENT | FAWA",[07:40 WIB] [Colombia Primera A] Bogota vs Cartagena (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/KSSSQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="LIVE EVENT | FAWA",[08:00 WIB] [Mexico Liga MX] UNAM Pumas vs Pachuca (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1078,6 +1114,11 @@ https://live.kinescopecdn.net/on-air/27b23cd5-465e-4b78-839e-ef25d25029e3/51e1bd
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.55/hls/KSSSQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="LIVE EVENT | FAWA",[07:40 WIB] [Colombia Primera A] Bogota vs Cartagena (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.55/hls/KSSSQQ.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (09:00 WIB) CLB America de Cali vs Club Atletico Tigre [BLV SAMURAI]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb9797fa8614b9664231a4861ed71875.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (09:00 WIB) CLB Independiente del Valle vs Libertad [BLV SODA]
@@ -1101,6 +1142,8 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/177dd75f6ff85ecc1677d2f0704eb3a4.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:00 WIB) Jwayya vs Sagesse SC [BLV SODA]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1c4ae95c663ed84758a04627451e3470.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:00 WIB) Shenyang Urban FC vs Qingdao Hainiu FC [BLV SPRITE]
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:30 WIB) North East Utd vs Mohammedan [BLV SAMURAI]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6383c94b1ad9982eeaabbb99e0431ea3.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:30 WIB) Tanjong Pagar vs Hougang [BLV COCA]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -3466,17 +3509,17 @@ http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel98.flv?auth_key=3000001779075353-0-0-a0e42693ad7d83eb77fe9844da159711
+https://live3.procdnlive.com/livecdn/channel98.flv?auth_key=3000001779075653-0-0-c2564faa8fff6a6f64e6557f74e1a4e4
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hkp9vqo9j/image/small" group-title="LIVE EVENT | XOILACZ AI",10:30 WIB - CHHAYGAON FC VS KLASA [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel99.flv?auth_key=3000001779075353-0-0-c27a1d0ff8b9257c0660cf98759539bc
+https://live3.procdnlive.com/livecdn/channel99.flv?auth_key=3000001779075653-0-0-83269632c4fd134859e1838bcfcaafd6
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghx725q82w/image/small" group-title="LIVE EVENT | XOILACZ AI",12:00 WIB - BEIJING SMART SKY VS JI NAN QUANSHENG UNITED [CHN CH]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=44d9f8c506d4fcc56721fa14e19dd15f&wsABSTime=1779118553
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=285b50a117fd3996e122da554c855247&wsABSTime=1779118854
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhdyepqvy9/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - XINJIANG SPARTAK VS SHANDONG QIUTAN [CHN CH]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3728683390847f335552d077cf0b8752.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (16:30 WIB) South Melbourne vs Caroline Springs George Cross [BLV RONG DO]
@@ -3619,6 +3662,11 @@ https://live5.msrktz.app/live/90865415.m3u8
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/02456966.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:30 WIB) North East Utd vs Mohammedan [BLV SAMURAI]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/07808742.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e0080960b4e935d70f4037aaf3a0b917.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:35 WIB) Tianjin Jinmen Tiger vs Henan Songshan Longmen [BLV REVIVE]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
@@ -4052,12 +4100,12 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=-j-Ji8jmqEmiqnl3h6m2HvlDowlSP19HJohX7-VACHQ&e=1779085273
+https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=luGMvD25Y5En6k5whXp3cp1YQSNlyJCfAXJ8IpScP2U&e=1779085911
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:00 WIB] [NBA] Cleveland Cavaliers vs Detroit Pistons - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo1.bofiles.cfd/live/detroit/stream.m3u8?expires=1779011783&token=fbcf9dc85f7d45cf76e77aad9085cf1e5d974c5cd5ea86a4c0be22ac9e865a90
+https://bo1.bofiles.cfd/live/detroit/stream.m3u8?expires=1779011203&token=f9b78f5eb1cc6e9864dbd960f32b93181d77214c9d3700e76d8a95bc1b780b88
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/det.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:00 WIB] [NBA] Detroit Pistons vs Cleveland Cavaliers (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA1
 #EXTVLCOPT:http-origin=https://instream.click
@@ -4386,6 +4434,42 @@ https://telasomucombistream.bonetv.web.id/index.mpd?id=9182&type=dash&sc=5078251
 #KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?id=18796&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://telasomucombistream.bonetv.web.id/index.mpd?id=18796&type=dash&sc=5079605
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_S79hW9dFmhthsBajQqwylZgD6k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079644/1d7756.jpg" group-title="LIVE EVENT | VIDIDI", JAM 17:00 WIB (20/05) - Round of 16 - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=dash&sc=5079644
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0JQ8y32H7pHQLadAvNU-kCx4KnQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079647/8e4887.jpg" group-title="LIVE EVENT | VIDIDI", JAM 17:00 WIB (21/05) - Quarterfinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=dash&sc=5079647
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4hLvbbhPuPFya5xIEE4g7B646n0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079648/a5403c.jpg" group-title="LIVE EVENT | VIDIDI", JAM 19:00 WIB (22/05) - Semifinals - WTA 250: Grand Prix Son Altesse Royale La Princesse Lalla Meryem 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://telasomucombistream.bonetv.web.id/index.mpd?id=6686&type=dash&sc=5079648
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pnqQtFZndrGyrbmzOwTQ745FY58=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5079646/3a3e62.jpg" group-title="LIVE EVENT | VIDIDI", JAM 02:00 WIB (22/05) - Round 1 - The CJ Cup Byron Nelson 2026
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?id=18189&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://telasomucombistream.bonetv.web.id/index.mpd?id=18189&type=dash&sc=5079646
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qfUSLq2n1DKliAU4j86OHJgZL3k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21392/ubl-nasional-season-1-151e36.jpg" group-title="LIVE EVENT | VIDIDI", JAM 19:00 WIB (23/05) - UBL Nasional Season 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
@@ -4463,13 +4547,18 @@ https://instreams.pro/US/NFLHD1/index.m3u8
 https://instreams.pro/US/NFLHD3/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20197acbc6e3c022b4004ed8d270f99f1c6.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 09:30 WIB] [Liga Nasional Filipina] Ironclads vs Trailblazers [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://live.yalla-shoot-zhubo.com/sport/201_5376292_1.m3u8?auth_key=1779161672-0-0-fc809a146500aa439d166e06e0b045b6
+https://live.yalla-shoot-zhubo.com/sport/201_5376292_1.m3u8?auth_key=1779161912-0-0-fd6ef762becd69914701f50fda0de289
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2023889fca0cbb8d6ae358cb6d2d6fa8f82.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 10:30 WIB] [Indian Championship I-League] Chhaygaon FC vs KLASA [Shoot] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://live.yalla-shoot-zhubo.com/sport/202_5375706_1.m3u8?auth_key=1779161672-0-0-4abb9a84eaa55cc7ad00d32d2fedc722
+https://live.yalla-shoot-zhubo.com/sport/202_5375706_1.m3u8?auth_key=1779161912-0-0-0e16644e473294665274372738807026
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2023889fca0cbb8d6ae358cb6d2d6fa8f82.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 10:30 WIB] [Indian Championship I-League] Chhaygaon FC vs KLASA [Shoot] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://live.yalla-shoot-zhubo.com/sport/202_5375706_1.m3u8?auth_key=1779161492-0-0-ac70dec0ce404e89c38de27806a32594
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/a746acc84a3b0d97103a40555ab0dfb8.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 09:00 WIB] [BRA LP] Inter Panama CF vs Cetes FC [Seru]
+#EXTVLCOPT:http-referrer=https://cdnx-sportnobar.xyz/
+#EXTVLCOPT:http-origin=https://cdnx-sportnobar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://live.yultech.online/live/sd-6Mwe5B4DBRVoJ6QKth/index.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/c826115f280b5e68cc79e56a13a136c4.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 10:30 WIB] [Indian Championship I-League] Chhaygaon FC vs KLASA [Seru]
 #EXTVLCOPT:http-referrer=https://cdnx-sportnobar.xyz/
 #EXTVLCOPT:http-origin=https://cdnx-sportnobar.xyz
@@ -4479,12 +4568,12 @@ https://live.yultech.online/live/sd-6Mwe5B4DLnPVGbTgn9/index.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel98.flv?auth_key=3000001779074753-0-0-86f3946b7db0b9a3f4e32cbd1e9e9000
+https://live3.procdnlive.com/livecdn/channel98.flv?auth_key=3000001779075353-0-0-a0e42693ad7d83eb77fe9844da159711
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hkp9vqo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",10:30 WIB - CHHAYGAON FC VS KLASA [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel99.flv?auth_key=3000001779074753-0-0-c5be5f0e3939173ea6dd7bc6ddbfc807
+https://live3.procdnlive.com/livecdn/channel99.flv?auth_key=3000001779075353-0-0-c27a1d0ff8b9257c0660cf98759539bc
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_161_1729069197_thumb.png" group-title="SPORTS FHD",SPORTS 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_166_1742379655_thumb.png" group-title="SPORTS FHD",S SPORTS 1 HD
@@ -4521,11 +4610,6 @@ http://maxotts.maxdigitaltv.com/x-media/C259/master.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C240/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C490-1750072819.png" group-title="SPORTS FHD",WWE
 http://maxotts.maxdigitaltv.com/x-media/C490/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="LIVE EVENT | FAWA",[07:40 WIB] [Colombia Primera A] Bogota vs Cartagena (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/KSSSQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg" group-title="LIVE EVENT | FAWA",[08:00 WIB] [Mexico Liga MX] UNAM Pumas vs Pachuca (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -4571,6 +4655,11 @@ https://live.kinescopecdn.net/on-air/27b23cd5-465e-4b78-839e-ef25d25029e3/51e1bd
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.55/hls/KSSSQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="LIVE EVENT | FAWA",[07:40 WIB] [Colombia Primera A] Bogota vs Cartagena (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.55/hls/KSSSQQ.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (09:00 WIB) CLB America de Cali vs Club Atletico Tigre [BLV SAMURAI]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb9797fa8614b9664231a4861ed71875.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (09:00 WIB) CLB Independiente del Valle vs Libertad [BLV SODA]
@@ -4594,6 +4683,8 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/177dd75f6ff85ecc1677d2f0704eb3a4.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:00 WIB) Jwayya vs Sagesse SC [BLV SODA]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1c4ae95c663ed84758a04627451e3470.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:00 WIB) Shenyang Urban FC vs Qingdao Hainiu FC [BLV SPRITE]
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:30 WIB) North East Utd vs Mohammedan [BLV SAMURAI]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6383c94b1ad9982eeaabbb99e0431ea3.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:30 WIB) Tanjong Pagar vs Hougang [BLV COCA]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -6959,17 +7050,17 @@ http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel98.flv?auth_key=3000001779075353-0-0-a0e42693ad7d83eb77fe9844da159711
+https://live3.procdnlive.com/livecdn/channel98.flv?auth_key=3000001779075653-0-0-c2564faa8fff6a6f64e6557f74e1a4e4
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hkp9vqo9j/image/small" group-title="LIVE EVENT | XOILACZ AI",10:30 WIB - CHHAYGAON FC VS KLASA [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel99.flv?auth_key=3000001779075353-0-0-c27a1d0ff8b9257c0660cf98759539bc
+https://live3.procdnlive.com/livecdn/channel99.flv?auth_key=3000001779075653-0-0-83269632c4fd134859e1838bcfcaafd6
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghx725q82w/image/small" group-title="LIVE EVENT | XOILACZ AI",12:00 WIB - BEIJING SMART SKY VS JI NAN QUANSHENG UNITED [CHN CH]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=44d9f8c506d4fcc56721fa14e19dd15f&wsABSTime=1779118553
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=285b50a117fd3996e122da554c855247&wsABSTime=1779118854
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhdyepqvy9/image/small" group-title="LIVE EVENT | XOILACZ AI",OFFLINE - XINJIANG SPARTAK VS SHANDONG QIUTAN [CHN CH]
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3728683390847f335552d077cf0b8752.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (16:30 WIB) South Melbourne vs Caroline Springs George Cross [BLV RONG DO]
@@ -7112,6 +7203,11 @@ https://live5.msrktz.app/live/90865415.m3u8
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live5.msrktz.app/live/02456966.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:30 WIB) North East Utd vs Mohammedan [BLV SAMURAI]
+#EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
+#EXTVLCOPT:http-origin=https://www.spindlersptown.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live5.msrktz.app/live/07808742.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/e0080960b4e935d70f4037aaf3a0b917.png!w80" group-title="LIVE EVENT | NGUYEN",[UPCOMING] (18:35 WIB) Tianjin Jinmen Tiger vs Henan Songshan Longmen [BLV REVIVE]
 #EXTVLCOPT:http-referrer=https://www.spindlersptown.com/
 #EXTVLCOPT:http-origin=https://www.spindlersptown.com
