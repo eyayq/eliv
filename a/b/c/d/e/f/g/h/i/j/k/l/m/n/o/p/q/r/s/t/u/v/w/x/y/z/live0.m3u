@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 23:45:55 WIB 18-05-2026
-# 🔄 Total Channels: 4078
+# ⏰ Latest Updated: 23:47:42 WIB 18-05-2026
+# 🔄 Total Channels: 4082
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [23:45:55 WIB 18-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [23:47:42 WIB 18-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -58,16 +58,30 @@ https://www3.f2k3.shop/live/69120d9c92b134fe9c0154e51bf34d2e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/11133c2f02aa01e86c591f382a58d4b4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F932f3790a25e5c4f40ae328ad9060055.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",04:30   19/05 Deportivo Maldonado vs Danubio FC Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://www3.f2k3.shop/live/11133c2f02aa01e86c591f382a58d4b4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/932f3790a25e5c4f40ae328ad9060055.png!w80" group-title="Live Event: Colalive",04:30 19/05 Maldonado vs Danubio FC Gvision TV
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1159.png" group-title="Live Event: Hội quán",07:00 19/05 Guayaquil City FC vs Orense SC FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/99121525.m3u8
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1159.png" group-title="Live Event: Hội quán",07:00 19/05 Guayaquil City FC vs Orense SC HD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1159.png" group-title="Live Event: Hội quán",07:00 19/05 Guayaquil City FC vs Orense SC SD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fb735adffa94a7306c7f68b9609d929f.png!w80" group-title="Live Event: Colalive",05:00 19/05 Ponte Preta vs Londrina Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/88508431.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/06c168e54604cc2392646b4c8cea7d9b.png!w80" group-title="Live Event: Colalive",07:00 19/05 Guayaquil City vs Orense Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/02456966.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png!w80" group-title="Live Event: Colalive",07:00 19/05 Motagua vs Genesis Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/58709b9e7964e03c28ebe777ef823eca.png!w80" group-title="Live Event: Colalive",07:00 19/05 Dallas Wings vs Washington Mystics Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live5.msrktz.app/live/82054853.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3xgxDS0/20260128-001838.jpg" group-title="live event: fawa",[Brazil Serie B] Ponte Preta vs Londrina Gvision TV
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
