@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [00:17 WIB 19/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:17 WIB 19/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [00:31 WIB 19/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:31 WIB 19/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[21:00 WIB 18/05/26] Ben Shelton vs Marcos Giron [FHD] [LIVE]
@@ -15,9 +15,6 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1273138636339458048/8gOeQFiT_400x400.jpg" group-title="ATP250 Geneva",[23:00 WIB 18/05/26] Raul Brancaccio vs Stan Wawrinka [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/283.png" group-title="Liga I",[00:30 WIB 19/05/26] AFC Hermannstadt vs FCSB [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Segunda División",[01:30 WIB 19/05/26] Leganes vs Huesca [FHD] [NANTIKAN]
