@@ -1,8 +1,24 @@
 #EXTM3U
-# Updated: 2026-05-18 13:57:07 WIB
+# Updated: 2026-05-18 14:01:16 WIB
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="⚽DONASI https://trakteer.id/mybhianesse0 2026-05-18 13:57:07 WIB⚽",⚽DUKUNG SERVER KAMI 2026-05-18 13:57:07 WIB⚽
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="⚽DONASI https://trakteer.id/mybhianesse0 2026-05-18 14:01:16 WIB⚽",⚽DUKUNG SERVER KAMI 2026-05-18 14:01:16 WIB⚽
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a10ecdc2d7e40f9d1d367bedb6d31f9f.png" group-title="⚽🔴 LIVE⚽",⚽Chinese Football Association Member Association Champions League⚽Xinjiang Spartak 🆚 Shandong Qiutan⚽[14:00 WIB 18/05/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.vip
+#EXTVLCOPT:http-origin=https://xoilactv.vip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a10ecdc2d7e40f9d1d367bedb6d31f9f.png" group-title="⚽🔴 LIVE⚽",⚽Chinese Football Association Member Association Champions League⚽Xinjiang Spartak 🆚 Shandong Qiutan⚽[14:00 WIB 18/05/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.vip
+#EXTVLCOPT:http-origin=https://xoilactv.vip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091273&salt=23f2a7915d06aa4c&sig=1628aedd91538512f46f2d8839a1f97904cd486e786ad5626a1f52396a59c6bc
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/eed4a427296f11e5382df05f987f03be.png" group-title="⚽🔴 LIVE⚽",⚽Chinese Football Association Member Association Champions League⚽Beijing Smart Sky Football Club 🆚 Ji'nan Quansheng United⚽[12:00 WIB 18/05/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -10,7 +26,7 @@ https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTVLCOPT:http-origin=https://xoilactv.vip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091027&salt=c22ebf9c81422197&sig=54beb6d8de7702cc4af0c6ddc58368b486bc94b793287a0310840440fd491117
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/eed4a427296f11e5382df05f987f03be.png" group-title="⚽🔴 LIVE⚽",⚽Chinese Football Association Member Association Champions League⚽Beijing Smart Sky Football Club 🆚 Ji'nan Quansheng United⚽[12:00 WIB 18/05/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -18,55 +34,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.vip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/22bd6a4d9cba9a0127b11c10faefb219.png" group-title="⚽🔴 LIVE 2⚽",⚽Singapore Premier League⚽Tanjong Pagar Utd 🆚 Hougang United FC⚽[18:30 WIB 18/05/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.vip
-#EXTVLCOPT:http-origin=https://xoilactv.vip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091027&salt=261981711fe007a8&sig=cf9262c460efb52ebc3cd068ad31cdf9176a4bb59b193a4ccd243a630924605b
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/22bd6a4d9cba9a0127b11c10faefb219.png" group-title="⚽🔴 LIVE 2⚽",⚽Singapore Premier League⚽Tanjong Pagar Utd 🆚 Hougang United FC⚽[18:30 WIB 18/05/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.vip
-#EXTVLCOPT:http-origin=https://xoilactv.vip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/abc7123841c5174901b57ace767891ca.png" group-title="⚽🔴 LIVE 2⚽",⚽Egyptian Premier League⚽Tala'ea El Gaish 🆚 Pharco⚽[21:00 WIB 18/05/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.vip
-#EXTVLCOPT:http-origin=https://xoilactv.vip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091027&salt=8dbb2cabe5a06daf&sig=453c71db60eacae10e9599c0854389c0726fec18646bd31842cee6a63db951e4
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/abc7123841c5174901b57ace767891ca.png" group-title="⚽🔴 LIVE 2⚽",⚽Egyptian Premier League⚽Tala'ea El Gaish 🆚 Pharco⚽[21:00 WIB 18/05/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.vip
-#EXTVLCOPT:http-origin=https://xoilactv.vip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/c510dae5d95168f431d517cb0d7fdad9.png" group-title="⚽🔴 LIVE 2⚽",⚽Indian Super League⚽Kerala Blasters FC 🆚 FC Goa⚽[21:00 WIB 18/05/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.vip
-#EXTVLCOPT:http-origin=https://xoilactv.vip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091027&salt=60c02359b918ffd2&sig=9b079e5ebb0d96ae1a62dce2e4d04298cf76bfb7770fbfe92519040b4a2abac6
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/c510dae5d95168f431d517cb0d7fdad9.png" group-title="⚽🔴 LIVE 2⚽",⚽Indian Super League⚽Kerala Blasters FC 🆚 FC Goa⚽[21:00 WIB 18/05/2026] [SVR-BHNS2]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.vip
-#EXTVLCOPT:http-origin=https://xoilactv.vip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091273&salt=9fc2c51912c5ee2f&sig=3cc90a4f989f19aefc6158a3635c4e8b2907071f719160e9082474f075f138d3
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/af24a7bebb46cde36a94725750ed1bcf.png" group-title="⚽🔴 LIVE 2⚽",⚽Chinese Football Association Member Association Champions League⚽Shaanxi United Soaring 🆚 Beijing Life＆Football⚽[18:00 WIB 18/05/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -74,7 +42,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.vip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091027&salt=644a8f5417d291eb&sig=91e8b2dda5f460821c90b3cd1380f914db9d3aa75c0bcf09bebad9efa8fcdcb5
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/af24a7bebb46cde36a94725750ed1bcf.png" group-title="⚽🔴 LIVE 2⚽",⚽Chinese Football Association Member Association Champions League⚽Shaanxi United Soaring 🆚 Beijing Life＆Football⚽[18:00 WIB 18/05/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -82,7 +50,7 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.vip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091273&salt=f4643f251c538929&sig=0d1fe774b8bb6ff52f4955a85d3dfe9436ec8d82cdd959cd04a6706842b045c1
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7dc80ef40b717d99f9aafeaf024f7e8c.png" group-title="⚽🔴 LIVE 2⚽",⚽Egyptian Premier League⚽Kahraba Ismailia 🆚 Haras El Hodood⚽[21:00 WIB 18/05/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -90,7 +58,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.vip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091027&salt=3bc53abe4fec125e&sig=66e88358e1de9988a64bcf3c68f1007d2b96c1acd0acfc194a03e95a599fdc78
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/7dc80ef40b717d99f9aafeaf024f7e8c.png" group-title="⚽🔴 LIVE 2⚽",⚽Egyptian Premier League⚽Kahraba Ismailia 🆚 Haras El Hodood⚽[21:00 WIB 18/05/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -98,7 +66,23 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.vip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091273&salt=9c68925997c424ae&sig=4838ac9d9af392b9324459032f649489e6d51b79defb6ba3053efbd0854cd4c5
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/abc7123841c5174901b57ace767891ca.png" group-title="⚽🔴 LIVE 2⚽",⚽Egyptian Premier League⚽Tala'ea El Gaish 🆚 Pharco⚽[21:00 WIB 18/05/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.vip
+#EXTVLCOPT:http-origin=https://xoilactv.vip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/abc7123841c5174901b57ace767891ca.png" group-title="⚽🔴 LIVE 2⚽",⚽Egyptian Premier League⚽Tala'ea El Gaish 🆚 Pharco⚽[21:00 WIB 18/05/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.vip
+#EXTVLCOPT:http-origin=https://xoilactv.vip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091273&salt=44987574164695c1&sig=13af653c2a6b5cc5208873b1d00f81b38b07cb7af15d81cd4c7c86bb6ca5a5ed
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b96ea60955a38ea078348db452dc8005.png" group-title="⚽🔴 LIVE 2⚽",⚽Chinese Football Association Member Association Champions League⚽Dalian Tongzhe 🆚 Shaanxi Shaan'an⚽[15:00 WIB 18/05/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -106,7 +90,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.vip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091027&salt=df06a0dcf14e6f78&sig=540ee9b7020fd5fa7d3842dc13935bbb73671775ef9c9f0c3c13d194efa18951
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/b96ea60955a38ea078348db452dc8005.png" group-title="⚽🔴 LIVE 2⚽",⚽Chinese Football Association Member Association Champions League⚽Dalian Tongzhe 🆚 Shaanxi Shaan'an⚽[15:00 WIB 18/05/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -114,23 +98,39 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.vip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091273&salt=8e40a2e0e1912c57&sig=86223e243c717299f147a859651d9c1e9ce6ab63e1630da9399045a3fbe17af8
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a10ecdc2d7e40f9d1d367bedb6d31f9f.png" group-title="⚽🔴 LIVE 2⚽",⚽Chinese Football Association Member Association Champions League⚽Xinjiang Spartak 🆚 Shandong Qiutan⚽[14:00 WIB 18/05/2026] [SVR-BHNS1]⚽
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilactv.vip
-#EXTVLCOPT:http-origin=https://xoilactv.vip
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091027&salt=d15ecae738fced04&sig=c93ef9a25eb6c513a39c2fb8955aa2c5714489b43bb6a3da032f0e1d7dbb45b9
-
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/a10ecdc2d7e40f9d1d367bedb6d31f9f.png" group-title="⚽🔴 LIVE 2⚽",⚽Chinese Football Association Member Association Champions League⚽Xinjiang Spartak 🆚 Shandong Qiutan⚽[14:00 WIB 18/05/2026] [SVR-BHNS2]⚽
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/22bd6a4d9cba9a0127b11c10faefb219.png" group-title="⚽🔴 LIVE 2⚽",⚽Singapore Premier League⚽Tanjong Pagar Utd 🆚 Hougang United FC⚽[18:30 WIB 18/05/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilactv.vip
 #EXTVLCOPT:http-origin=https://xoilactv.vip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
 https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/22bd6a4d9cba9a0127b11c10faefb219.png" group-title="⚽🔴 LIVE 2⚽",⚽Singapore Premier League⚽Tanjong Pagar Utd 🆚 Hougang United FC⚽[18:30 WIB 18/05/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.vip
+#EXTVLCOPT:http-origin=https://xoilactv.vip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091274&salt=848c8a202edb1c00&sig=db75399e84629b31a75694acddddd632652bbcf7398659063bc0724dddcb86f9
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/c510dae5d95168f431d517cb0d7fdad9.png" group-title="⚽🔴 LIVE 2⚽",⚽Indian Super League⚽Kerala Blasters FC 🆚 FC Goa⚽[21:00 WIB 18/05/2026] [SVR-BHNS1]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.vip
+#EXTVLCOPT:http-origin=https://xoilactv.vip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/c510dae5d95168f431d517cb0d7fdad9.png" group-title="⚽🔴 LIVE 2⚽",⚽Indian Super League⚽Kerala Blasters FC 🆚 FC Goa⚽[21:00 WIB 18/05/2026] [SVR-BHNS2]⚽
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilactv.vip
+#EXTVLCOPT:http-origin=https://xoilactv.vip
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1000
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091274&salt=462728ec7bd3eec8&sig=9b603979e86701653d4edb6bd1e315ff8c3e63343c3f68a363da1894ed016a05
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png" group-title="⚽🔴 LIVE 2⚽",⚽Finnish Veikkausliiga⚽Lahti 🆚 Vaasa VPS⚽[22:00 WIB 18/05/2026] [SVR-BHNS1]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -138,7 +138,7 @@ https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 #EXTVLCOPT:http-origin=https://xoilactv.vip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091027&salt=ee66037db779ec04&sig=c4395ffc5b55bfff5c6544426ae157ebbeefc7fcba1c8d7954474d05a655cda2
+https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png" group-title="⚽🔴 LIVE 2⚽",⚽Finnish Veikkausliiga⚽Lahti 🆚 Vaasa VPS⚽[22:00 WIB 18/05/2026] [SVR-BHNS2]⚽
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -146,5 +146,5 @@ https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2R
 #EXTVLCOPT:http-origin=https://xoilactv.vip
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1000
-https://a9j41125.edgemaxcdn.org/live/sd-updating/playlist.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9hOWo0MTEyNS5lZGdlbWF4Y2RuLm9yZy9saXZlL3NkLXVwZGF0aW5nLmZsdg==&expire=1779091276&salt=5fc0458fdfff74a7&sig=705e0c14ffe57962bcca878de860bd47453f5228035de782fe480d5740c55a0e
 
