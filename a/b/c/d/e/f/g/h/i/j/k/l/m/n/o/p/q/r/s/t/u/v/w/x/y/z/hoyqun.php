@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:07 WIB 19/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:07 WIB 19/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:15 WIB 19/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:15 WIB 19/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[15:00 WIB 19/05/26] PERODUA Malaysia Masters 2026 [FHD] [LIVE]
@@ -38,23 +38,14 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 19/05/26] Qingdao Youth Island vs Beijing Guoan [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 19/05/26] FC Noah vs Ararat [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[22:00 WIB 19/05/26] Japan U17 vs Uzbekistan U17 [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 19/05/26] FC Noah vs Ararat [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[22:00 WIB 19/05/26] Japan U17 vs Uzbekistan U17 [HD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 19/05/26] FC Noah vs Ararat [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[22:00 WIB 19/05/26] Japan U17 vs Uzbekistan U17 [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[22:00 WIB 19/05/26] Japan U17 vs Uzbekistan U17 [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[22:00 WIB 19/05/26] Japan U17 vs Uzbekistan U17 [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[23:00 WIB 19/05/26] Daniel Altmaier vs Ben Shelton [FHD] [NANTIKAN]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
