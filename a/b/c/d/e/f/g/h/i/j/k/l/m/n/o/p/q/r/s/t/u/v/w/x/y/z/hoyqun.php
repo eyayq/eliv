@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [14:28 WIB 19/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [14:28 WIB 19/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [14:35 WIB 19/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [14:35 WIB 19/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[15:00 WIB 19/05/26] PERODUA Malaysia Masters 2026 [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[15:00 WIB 19/05/26] PERODUA Malaysia Masters 2026 [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[17:00 WIB 19/05/26] Flavio Cobolli vs Ignacio Buse [FHD] [NANTIKAN]
