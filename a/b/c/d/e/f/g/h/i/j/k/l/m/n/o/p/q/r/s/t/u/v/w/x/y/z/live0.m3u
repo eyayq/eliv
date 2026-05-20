@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 20:11:15 WIB 20-05-2026
-# 🔄 Total Channels: 4659
+# ⏰ Latest Updated: 20:19:03 WIB 20-05-2026
+# 🔄 Total Channels: 4677
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:11:15 WIB 20-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:19:03 WIB 20-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -56,6 +56,24 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4343_164940939010.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",03:00   21/05 Talleres Cordoba vs Atletico Tucuman  HAN TIN m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4343_164940939010.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",03:00   21/05 Talleres Cordoba vs Atletico Tucuman  HAN TIN flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14705_1gryz01ysv2h.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",03:00   21/05 Fortaleza F.C vs Orsomarso  A TUA m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14705_1gryz01ysv2h.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",03:00   21/05 Fortaleza F.C vs Orsomarso  A TUA flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14705_1gryz01ysv2h.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",03:00   21/05 Fortaleza F.C vs Orsomarso  QUAN VU m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F14705_1gryz01ysv2h.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",03:00   21/05 Fortaleza F.C vs Orsomarso  QUAN VU flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F5a721f997fe18b1c151116a96b1b4ea8.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",03:00   21/05 Fortaleza F.C vs Orsomarso Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -176,12 +194,22 @@ https://www3.f2k3.shop/live/d1b52bf5f868228285c18d7319861fed/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/d1b52bf5f868228285c18d7319861fed/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F155_1k0jqq7f229.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:00   21/05 Palermo vs Catanzaro  PELE m3u Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Ffde877e452f79f75955ad4e4f326c654.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:00   21/05 Al Najma vs Al Shabab FC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F155_1k0jqq7f229.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:00   21/05 Palermo vs Catanzaro  PELE flv Gvision TV
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/bd52549ec2b711721cf0171c1c5c2643/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F19fe1dbcd9babdedc719b5d50e2bb007.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:00   21/05 Rosario Central Reserves vs Argentinos Jrs Reserves Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/231cb117407e882bc4b3e221d41d6fca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F4073cf5bced6e071234da5d5c504f7c1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:00   21/05 Cruzeiro Youth vs Vitoria Salvador Youth Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/10ae275d0f7cad2138332d67de64b946/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F51e2ebc2544a77213c0912800a5c0d99.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:00   21/05 AmericavsRJ vs CFRJ Marica RJ Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/9a38f6ef8b6bf505d405e108155281d9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fb3dabcc55cb6e8d387dd75376e2464e3.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:00   21/05 Tigre Reserves vs Sarmiento Junin Reserve Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
@@ -222,21 +250,21 @@ https://www3.f2k3.shop/live/63ed35996ae7b149af885a56add0d103/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/a2760fe737029b233564d099b6a3e7ae/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Ffde877e452f79f75955ad4e4f326c654.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:00   21/05 Al Najma vs Al Shabab FC Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Ffde877e452f79f75955ad4e4f326c654.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   21/05 Al Najma vs Al Shabab FC Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia3.me/
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/bd52549ec2b711721cf0171c1c5c2643/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F19fe1dbcd9babdedc719b5d50e2bb007.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:00   21/05 Rosario Central Reserves vs Argentinos Jrs Reserves Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F19fe1dbcd9babdedc719b5d50e2bb007.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   21/05 Rosario Central Reserves vs Argentinos Jrs Reserves Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia3.me/
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/231cb117407e882bc4b3e221d41d6fca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F4073cf5bced6e071234da5d5c504f7c1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:00   21/05 Cruzeiro Youth vs Vitoria Salvador Youth Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F4073cf5bced6e071234da5d5c504f7c1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   21/05 Cruzeiro Youth vs Vitoria Salvador Youth Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia3.me/
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/10ae275d0f7cad2138332d67de64b946/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F51e2ebc2544a77213c0912800a5c0d99.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Khán đài a",01:00   21/05 AmericavsRJ vs CFRJ Marica RJ Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F51e2ebc2544a77213c0912800a5c0d99.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   21/05 AmericavsRJ vs CFRJ Marica RJ Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia3.me/
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/9a38f6ef8b6bf505d405e108155281d9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Fb3dabcc55cb6e8d387dd75376e2464e3.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   21/05 Tigre Reserves vs Sarmiento Junin Reserve Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
@@ -274,22 +302,6 @@ https://www3.f2k3.shop/live/18df527e3a959939569d97aeae406520/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/63ed35996ae7b149af885a56add0d103/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2Ffde877e452f79f75955ad4e4f326c654.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   21/05 Al Najma vs Al Shabab FC Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://www3.f2k3.shop/live/bd52549ec2b711721cf0171c1c5c2643/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F19fe1dbcd9babdedc719b5d50e2bb007.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   21/05 Rosario Central Reserves vs Argentinos Jrs Reserves Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://www3.f2k3.shop/live/231cb117407e882bc4b3e221d41d6fca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F4073cf5bced6e071234da5d5c504f7c1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   21/05 Cruzeiro Youth vs Vitoria Salvador Youth Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://www3.f2k3.shop/live/10ae275d0f7cad2138332d67de64b946/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fimg.sports-data.online%2Ffootball%2Fteam%2F51e2ebc2544a77213c0912800a5c0d99.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Gà vàng",01:00   21/05 AmericavsRJ vs CFRJ Marica RJ Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
-https://www3.f2k3.shop/live/9a38f6ef8b6bf505d405e108155281d9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.atptour.com/-/media/alias/player-gladiator-headshot/b0mm" group-title="Live Event: Hội quán",01:30 21/05 Edas Butvilas vs Alexander Bublik FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -1088,31 +1100,14 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=6786&ext=dash&
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="LIVE EVENT | TENNIS 🎾",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20199c6ed693c67c267faf35b51634234b0.png" group-title="LIGA ITALIA",[ LIVE 02:00 WIB] [Liga Asociacion de Clubs de Baloncesto] Lenovo Tenerife vs Juventus [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_4938021_1.m3u8?auth_key=1779394432-0-0-a67f2b951b9d0ba3b25d320e08cf943d
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/522.png" group-title="LIGA ITALIA",[LIVE ] [Serie B] Palermo VS Catanzaro | Serie B
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/&referer=https%3A%2F%2Fapi2.ifnewgen.xyz%2F
 https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779393706-Kv4cPTAAP5YTi-ea9b83dec337f23210c28ec4def74c97cd11c8af-1d935385758ea423c166ff2c242fdc05
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palermo%20VS%20Catanzaro%20%20Serie%20B.jpg" group-title="LIGA ITALIA",[LIVE ] [01:00 WIB] [Serie B] Palermo vs Catanzaro
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779393626-Kv4cPTAAP5YTi-ad6d15e95a7ada483d3e22a786c693e7d15ae0ef-809b3c945e58412e25c6f5a122c11d59
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1950613105140015104/iGB8xP_L_400x400.jpg" group-title="LIGA ITALIA",[01:00 WIB] [Italy Serie B] Palermo vs Catanzaro --- CH 1 (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.47/hls/PMMMQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1950613105140015104/iGB8xP_L_400x400.jpg" group-title="LIGA ITALIA",[01:00 WIB] [Italy Serie B] Palermo vs Catanzaro --- CH 2 (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://video.bqzb4.cn/live/8e38f12669fefd21.m3u8?sign=a466516bc904317cae7a6b5498750552&expire=1779386636
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20199c6ed693c67c267faf35b51634234b0.png" group-title="LIGA ITALIA",[ LIVE 02:00 WIB] [Liga Asociacion de Clubs de Baloncesto] Lenovo Tenerife vs Juventus [Shoot]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_4938021_1.m3u8?auth_key=1779394192-0-0-03c9511ebdf9778fd8ef1bcefd677e8c
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="LIGA ITALIA",Champions TV 3 (Serie A)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1141,10 +1136,10 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=19603&ext=dash
 https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ea9b83dec337f23210c28ec4def74c97cd11c8af&x-sign=b10e491837fdbaa4c28dfd294f3235e3&x-time=1779307260
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="LIGA INGGRIS",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394192-0-0-a4e4d230f1294f022a95536bba6e90bc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394432-0-0-81835a9f85c050f3606ed3001a44dd8d
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="LIGA INGGRIS",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394192-0-0-4e88d3f982913d5cc641c1c9093752cc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394432-0-0-789e1758a850c90c4d178f642a1f64d8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/6508946c9a5fe22a8784b905b25e8c79.png" group-title="LIGA INGGRIS",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Seru]
 #EXTVLCOPT:http-referrer=https://cdnx-sportnobar.xyz/
 #EXTVLCOPT:http-origin=https://cdnx-sportnobar.xyz
@@ -1159,7 +1154,7 @@ https://live.yultech.online/live/hd-en-6MwdLJmpKYr6T3Ru1P/index.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=5d6d89c335a02c870e88ba5c1324fa11&wsABSTime=1779350730
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=28c3321276dc1fdb5b89f9647bd44c6b&wsABSTime=1779351030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Freiburg%20VS%20Aston%20Villa%20%20UEFA%20Europa%20League.jpg" group-title="LIGA INGGRIS",[LIVE ] [02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1177,6 +1172,11 @@ https://instreams.pro/US/NFLHD1/index.m3u8
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://instreams.pro/US/NFLHD2/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1187,11 +1187,11 @@ http://193.47.62.51/hls/QJJJQQEX.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEX.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.59/hls/QJJJQQ.m3u8
+http://193.47.62.55/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- DE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1202,11 +1202,6 @@ http://193.47.62.51/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEXQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- CN HD (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1217,16 +1212,16 @@ https://video.bqzb4.cn/live/4177e5dfdce60c2a.m3u8?sign=a251aad9685575bf71761a68b
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://pul-tenm.nbs3g.com/live/hd-en-1-4536569.m3u8?txSecret=8f0b00074d3a7770d585fb57db14d64c&txTime=6A0F53D9
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M3]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQE.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.59/hls/QJJJQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1242,11 +1237,11 @@ http://193.47.62.55/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.55/hls/QJJJQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQE.m3u8
+http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="LIGA INGGRIS",[Europa League] SC Freiburg - Aston Villa (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://hoca6.com/
 #EXTVLCOPT:http-origin=https://hoca6.com/
@@ -1405,10 +1400,10 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=19603&ext=dash
 https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ea9b83dec337f23210c28ec4def74c97cd11c8af&x-sign=b10e491837fdbaa4c28dfd294f3235e3&x-time=1779307260
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394192-0-0-a4e4d230f1294f022a95536bba6e90bc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394432-0-0-81835a9f85c050f3606ed3001a44dd8d
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394192-0-0-4e88d3f982913d5cc641c1c9093752cc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394432-0-0-789e1758a850c90c4d178f642a1f64d8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/6508946c9a5fe22a8784b905b25e8c79.png" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Seru]
 #EXTVLCOPT:http-referrer=https://cdnx-sportnobar.xyz/
 #EXTVLCOPT:http-origin=https://cdnx-sportnobar.xyz
@@ -1426,6 +1421,11 @@ https://live.yultech.online/live/hd-en-6MwdLJmpKYr6T3Ru1P/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ad6d15e95a7ada483d3e22a786c693e7d15ae0ef&x-sign=8b31dac14dafea6ccb44951701529d27&x-time=1779307200
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1436,11 +1436,11 @@ http://193.47.62.51/hls/QJJJQQEX.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEX.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.59/hls/QJJJQQ.m3u8
+http://193.47.62.55/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- DE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1451,11 +1451,6 @@ http://193.47.62.51/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEXQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- CN HD (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1466,16 +1461,16 @@ https://video.bqzb4.cn/live/4177e5dfdce60c2a.m3u8?sign=a251aad9685575bf71761a68b
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://pul-tenm.nbs3g.com/live/hd-en-1-4536569.m3u8?txSecret=8f0b00074d3a7770d585fb57db14d64c&txTime=6A0F53D9
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M3]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQE.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.59/hls/QJJJQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1491,11 +1486,11 @@ http://193.47.62.55/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.55/hls/QJJJQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQE.m3u8
+http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[Europa League] SC Freiburg - Aston Villa (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://hoca6.com/
 #EXTVLCOPT:http-origin=https://hoca6.com/
@@ -2051,7 +2046,7 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&
 https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779393626-Kv4cPTAAP5YTi-ad6d15e95a7ada483d3e22a786c693e7d15ae0ef-809b3c945e58412e25c6f5a122c11d59
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201f8be8c7754ea5801a47d786aeeb75a92.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 01:15 WIB] [PLK] Stelmet Enea Bc Zielona Gora vs Wilki Morskie Szczecin [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5382315_1.m3u8?auth_key=1779394192-0-0-6e7e1311d2dc7e66b89666f2cc128bfc
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5382315_1.m3u8?auth_key=1779394432-0-0-8a82b2057d97ea6dc20f3a1318504f0c
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [Football] Aston Villa at SC Freiburg (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
@@ -2059,10 +2054,10 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/201_5382315_1.m3u8?auth_key=17793
 https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=Qkrcd7HQd2lSeD6DZlcwWP1Wn9f6dpwJFASA5GrfXeI&e=1779318124
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20123e163f804a1a5487d198cee36121a6e.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:00 WIB] [LNB Pro A] Bourg-En-Bresse vs Strasbourg [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5379602_1.m3u8?auth_key=1779394192-0-0-323ad05e4a7a4a3850fa2a5837ac6029
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5379602_1.m3u8?auth_key=1779394432-0-0-b26ee236aaeb69d6aeacfb60cb9cd113
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20199c6ed693c67c267faf35b51634234b0.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:00 WIB] [Liga Asociacion de Clubs de Baloncesto] Lenovo Tenerife vs Juventus [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_4938021_1.m3u8?auth_key=1779394192-0-0-03c9511ebdf9778fd8ef1bcefd677e8c
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_4938021_1.m3u8?auth_key=1779394432-0-0-a67f2b951b9d0ba3b25d320e08cf943d
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/160.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [UEFA Europa League] SC Freiburg VS Aston Villa | UEFA Europa League
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -2070,10 +2065,10 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/201_4938021_1.m3u8?auth_key=17793
 https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ea9b83dec337f23210c28ec4def74c97cd11c8af&x-sign=b10e491837fdbaa4c28dfd294f3235e3&x-time=1779307260
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394192-0-0-a4e4d230f1294f022a95536bba6e90bc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394432-0-0-81835a9f85c050f3606ed3001a44dd8d
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394192-0-0-4e88d3f982913d5cc641c1c9093752cc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394432-0-0-789e1758a850c90c4d178f642a1f64d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Freiburg%20VS%20Aston%20Villa%20%20UEFA%20Europa%20League.jpg" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2113,7 +2108,7 @@ https://instreams.pro/US/MLB5/index.m3u8
 https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=QfK9LK3K3LBki9ZBKKD8e2YlGBHa2AQ1fG_fqGxgzYE&e=1779318123
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fc4d6c50893064529ba6cf6776f85c21.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [Piala COL] Fortaleza F.C vs Orsomarso [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5321311_1.m3u8?auth_key=1779394192-0-0-71815ca3a8ec10db62ba1cdeafdc9297
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5321311_1.m3u8?auth_key=1779394432-0-0-0096cfe1d3badd5cf4b22749a41bb909
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/456.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [Copa Argentina] Talleres Cordoba VS Atletico Tucuman | Copa Argentina
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -2121,7 +2116,7 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_5321311_1.m3u8?auth_key=17793
 https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779393713-Kv4cPTAAP5YTi-ea9b83dec337f23210c28ec4def74c97cd11c8af-e02a2195ff45f2451181e8d8ea8e8b81
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2024d708152c753b68a8cf31f94e5147c0a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [Piala Argentina] Talleres Cordoba vs Atletico Tucuman [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5217833_1.m3u8?auth_key=1779394192-0-0-1986ee3b1ce11395f6f08c5a91296ddc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5217833_1.m3u8?auth_key=1779394432-0-0-2e924750ba213a9d5e1aa72b5caddf2b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Talleres%20Cordoba%20VS%20Atletico%20Tucuman%20%20Copa%20Argentina.jpg" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [03:00 WIB] [Copa Argentina] Talleres Cordoba vs Atletico Tucuman
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2175,72 +2170,72 @@ https://live.yultech.online/live/sd-6MwdayFfpGM9gGr317/index.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel56.flv?auth_key=3000001779307531-0-0-763590054d36e7e08e2528d1e28ba6a5
+https://live3.procdnlive.com/livecdn/channel56.flv?auth_key=3000001779307830-0-0-2c6401a732cbbb07569188b767f29ee2
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7h1yljqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",01:30 WIB - NU THOR KA AKUREYRI VS NU BREIDABLIK [ICE WPR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779307531-0-0-61e56069e69a977c7f3bf54dd94a0fae
+https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779307830-0-0-155057676700d69caa507a229aaf6f19
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh924r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:00 WIB - SC FREIBURG VS ASTON VILLA [UEFA EL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=5d6d89c335a02c870e88ba5c1324fa11&wsABSTime=1779350730
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=28c3321276dc1fdb5b89f9647bd44c6b&wsABSTime=1779351030
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhj416ql07/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:00 WIB - SENEGAL U17 VS ALGERIA U17 [AYC U17]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel57.flv?auth_key=3000001779307532-0-0-6fcb72fa4f2e4d812690193355b2212c
+https://live3.procdnlive.com/livecdn/channel57.flv?auth_key=3000001779307830-0-0-f5fee2880ab1c657046e05d1f7273b07
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphp5xzr8k0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:15 WIB - NU NJARDVIK GRINDAVIK VS NU STJARNAN GARDABAER [ICE WPR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel58.flv?auth_key=3000001779307532-0-0-dd57d03ae61480eace0871e1bf7a4814
+https://live3.procdnlive.com/livecdn/channel58.flv?auth_key=3000001779307831-0-0-80ae4aed99ed49359048cf288bcb5225
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2v9pqvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:15 WIB - NU VALUR VS NU FRAM REYKJAVIK [ICE WPR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel59.flv?auth_key=3000001779307532-0-0-8cdd545fa877d2ba82ceebe0fe9c86d6
+https://live3.procdnlive.com/livecdn/channel59.flv?auth_key=3000001779307831-0-0-7e3b7300e91ae2f6352ada7ada60f1d4
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jh465nqwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:30 WIB - URENA SC VS ATLETICO BARINAS [VEN D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel60.flv?auth_key=3000001779307532-0-0-277b7126750c2a24994ec440a6923ead
+https://live3.procdnlive.com/livecdn/channel60.flv?auth_key=3000001779307831-0-0-5a0b0dd76362aa9d9a0ff514ae0a9179
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphoopjr8k0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:30 WIB - ZAMORA FC BARINAS B VS YARACUYANOS [VEN D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel61.flv?auth_key=3000001779307532-0-0-7948a5752fa654f12f12fea990c85e3f
+https://live3.procdnlive.com/livecdn/channel61.flv?auth_key=3000001779307831-0-0-57d0d89d92ec6a380c67f8f3457d9df1
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4y0emoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:00 WIB - FORTALEZA F C VS ORSOMARSO [COL CUP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=28d59db735f3ab27b8335e90e3eba3f9&wsABSTime=1779350733
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=1b8063777fc0586122a10f654ec9f90d&wsABSTime=1779351032
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh40o1moep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:00 WIB - SOL DE AMERICA VS 3 DE NOVIEMBRE [PAR D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel62.flv?auth_key=3000001779307533-0-0-555a0fa0391a534634c33bd462301ff5
+https://live3.procdnlive.com/livecdn/channel62.flv?auth_key=3000001779307832-0-0-9021a311eecf87e1ffe3915b32aac732
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh7gl3r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:00 WIB - TALLERES CORDOBA VS ATLETICO TUCUMAN [ARG C]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=35a31b1dfddde524e8034e491c535707&wsABSTime=1779350733
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=79cdb201950f7ce64515cf3459ea4e04&wsABSTime=1779351031
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09h1ddzrz84/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:30 WIB - DAQUILEMA FC VS SPORT EMELEC [ECU CUP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel62.flv?auth_key=3000001779307533-0-0-555a0fa0391a534634c33bd462301ff5
+https://live3.procdnlive.com/livecdn/channel62.flv?auth_key=3000001779307832-0-0-9021a311eecf87e1ffe3915b32aac732
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphno9wr8k0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:00 WIB - MIDWEST UNITED VS AFC ANN ARBOR [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel65.flv?auth_key=3000001779307534-0-0-b96bd45a30b616b20531dee51951b629
+https://live3.procdnlive.com/livecdn/channel65.flv?auth_key=3000001779307832-0-0-5f303c88df8cdfcc81b2195dc6b0d940
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hvpx0qo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:00 WIB - VIRGINIA BEACH UTD VS CHRISTOS FC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel64.flv?auth_key=3000001779307533-0-0-43536a6eb8698ad8e9b9883d9590d245
+https://live3.procdnlive.com/livecdn/channel64.flv?auth_key=3000001779307832-0-0-15a7f9da20c37b5d49a56ec9d74ac83a
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_161_1729069197_thumb.png" group-title="SPORTS FHD",SPORTS 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_166_1742379655_thumb.png" group-title="SPORTS FHD",S SPORTS 1 HD
@@ -2342,6 +2337,11 @@ http://193.47.62.43/hls/QJJJQX.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.43/hls/QJJJQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -2352,11 +2352,11 @@ http://193.47.62.51/hls/QJJJQQEX.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEX.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.59/hls/QJJJQQ.m3u8
+http://193.47.62.55/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- DE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -2367,11 +2367,6 @@ http://193.47.62.51/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEXQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- CN HD (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -2382,16 +2377,16 @@ https://video.bqzb4.cn/live/4177e5dfdce60c2a.m3u8?sign=a251aad9685575bf71761a68b
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://pul-tenm.nbs3g.com/live/hd-en-1-4536569.m3u8?txSecret=8f0b00074d3a7770d585fb57db14d64c&txTime=6A0F53D9
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M3]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQE.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.59/hls/QJJJQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -2407,11 +2402,11 @@ http://193.47.62.55/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.55/hls/QJJJQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQE.m3u8
+http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2048354384648843265/vv-Fhg8x_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [Africa Cup Of Nations U17] Senegal U17 vs Algeria U17 (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -2447,26 +2442,26 @@ http://193.47.62.47/hls/TKKK.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.47/hls/TKKKQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="LIVE EVENT | FAWA",[00:00 WIB] [Sweden Allsvenskan] GAIS vs Hammarby --- SD (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.51/hls/ygggQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1982747397609472000/axCuVhx5_400x400.jpg" group-title="LIVE EVENT | FAWA",[01:20 WIB] [Hockey World Championship] USA vs Germany --- HD (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.43/hls/QJJJX.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1982747397609472000/axCuVhx5_400x400.jpg" group-title="LIVE EVENT | FAWA",[01:20 WIB] [Hockey World Championship] USA vs Germany --- SD (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.43/hls/QJJJ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="LIVE EVENT | FAWA",[00:00 WIB] [Sweden Allsvenskan] GAIS vs Hammarby --- HD (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/ygggQQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1982747397609472000/axCuVhx5_400x400.jpg" group-title="LIVE EVENT | FAWA",[01:20 WIB] [Hockey World Championship] USA vs Germany --- SD (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.43/hls/QJJJ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1982747397609472000/axCuVhx5_400x400.jpg" group-title="LIVE EVENT | FAWA",[01:20 WIB] [Hockey World Championship] USA vs Germany --- HD (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.43/hls/QJJJX.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="LIVE EVENT | FAWA",[00:00 WIB] [Sweden Allsvenskan] GAIS vs Hammarby --- SD (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.51/hls/ygggQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="LIVE EVENT | FAWA",[00:05 WIB] [MLB] Philadelphia Phillies vs Cincinnati Reds (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -2687,6 +2682,14 @@ https://cdn1.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=ElbsR8cInMcaPyc2zKDsSA&expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/99746c454d4e8c8eb55a9a2035ad6ad6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/5a721f997fe18b1c151116a96b1b4ea8.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Not Nguyen)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/eaf2109c6a3bb09bcd907c1f05a9125f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/44cb6b8a76b2194e16849eace4743e54.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[ LIVE 03:00 WIB] 21/05 Talleres Cordoba vs Atletico Tucuman (Not Nguyen)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/b40e35e865ea69f39b893834cd328258/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[Live Event] Al Khaleej vs Al Ahli (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://hoca6.com/
 #EXTVLCOPT:http-origin=https://hoca6.com/
@@ -2791,6 +2794,22 @@ https://edge.cdnlivetv.ru/secure/api/v1/us-mlb-colorado-rockies/playlist.m3u8?to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/d1b52bf5f868228285c18d7319861fed/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14705_1gryz01ysv2h.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14705_1gryz01ysv2h.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14705_1gryz01ysv2h.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14705_1gryz01ysv2h.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/5a721f997fe18b1c151116a96b1b4ea8.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/eaf2109c6a3bb09bcd907c1f05a9125f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 Aston Villa vs Nottingham Forest ( (Nguyen Punya)
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 Aston Villa vs Nottingham Forest ( (Nguyen Punya)
@@ -2823,16 +2842,28 @@ https://alive.zlylive.com/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 https://bglive.zlylive.com/live/bgtv_blv_tieuhac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
@@ -2845,58 +2876,10 @@ https://hls.cdnfaster-a.live/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/6508946c9a5fe22a8784b905b25e8c79.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/99746c454d4e8c8eb55a9a2035ad6ad6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=c68a3e103781733e44f4dfff6601ef40&txTime=6a0e62e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=c68a3e103781733e44f4dfff6601ef40&txTime=6a0e62e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=ee456c32c5ad3decd7c4c890958db54a&txTime=6a0e62e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=ee456c32c5ad3decd7c4c890958db54a&txTime=6a0e62e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1779309715-0-0-eb866861f307414cccf24c51027d68f4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1779309715-0-0-b7e382601c2b1153bbf48a3a5d9c49fd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1779310075-0-0-adb97edcb664adc4a68e7a6154e87484
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1779310075-0-0-86181ec51eae70def539db07bcb55125
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1779310075-0-0-8cefb103735c66b0740261dbd3c3aa27
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779310075-0-0-6ecedae126da78038fc12b17a5a53c3f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=b951b5a4a80efdb64029b94fba65efe9&txTime=6a0e644b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=b951b5a4a80efdb64029b94fba65efe9&txTime=6a0e644b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1779310435-0-0-2faf1c6fa9f48a88d39bcae935fe880e
@@ -2933,6 +2916,42 @@ https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=f9c0bc27b7e53c4491754
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f9c0bc27b7e53c44917543ae72448890&txTime=6a0e65b3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1779310795-0-0-64358c7ea0a1eae26e7e2e69e71d459c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1779310795-0-0-fa0265f0cffe118f21c9a5307f62b349
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=81245711ccdfe17371286a728a5d8cf9&txTime=6a0e671b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=81245711ccdfe17371286a728a5d8cf9&txTime=6a0e671b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=13c5095591db5bfd491ac29eaa89b8b3&txTime=6a0e671b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=13c5095591db5bfd491ac29eaa89b8b3&txTime=6a0e671b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1779311155-0-0-e4c9a7e2af55b6fc035fe525931848a8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1779311155-0-0-68edfafb0f5547d216f91089156c276d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1779311155-0-0-d3f1be1298e8fbeeaffa47bf5e0f845d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779311155-0-0-2bcf702aa4114f6b8b11bd8797559730
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=ea76e2207607621d0188590c702237a6&txTime=6a0e6883
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=ea76e2207607621d0188590c702237a6&txTime=6a0e6883
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/97312754.m3u8
@@ -2942,6 +2961,16 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/95.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 Strasbourg vs Rayo Vallecano (Nguyen Punya)
 https://bglive.zlylive.com/live/bgtv_blv_tieubao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/4343_164940939010.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Talleres Cordoba vs Atletico Tucuman (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/4343_164940939010.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Talleres Cordoba vs Atletico Tucuman (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/44cb6b8a76b2194e16849eace4743e54.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Talleres Cordoba vs Atletico Tucuman (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/b40e35e865ea69f39b893834cd328258/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",06:00 WIB 21/05 New York Knicks vs Philadelphia 76ers ( (Nguyen Punya)
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="USA TV",NBC Sports Bay Area
@@ -8394,31 +8423,14 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=6786&ext=dash&
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="LIVE EVENT | TENNIS 🎾",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20199c6ed693c67c267faf35b51634234b0.png" group-title="LIGA ITALIA",[ LIVE 02:00 WIB] [Liga Asociacion de Clubs de Baloncesto] Lenovo Tenerife vs Juventus [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_4938021_1.m3u8?auth_key=1779394432-0-0-a67f2b951b9d0ba3b25d320e08cf943d
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/522.png" group-title="LIGA ITALIA",[LIVE ] [Serie B] Palermo VS Catanzaro | Serie B
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://api2.ifnewgen.xyz/&referer=https%3A%2F%2Fapi2.ifnewgen.xyz%2F
 https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779393706-Kv4cPTAAP5YTi-ea9b83dec337f23210c28ec4def74c97cd11c8af-1d935385758ea423c166ff2c242fdc05
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palermo%20VS%20Catanzaro%20%20Serie%20B.jpg" group-title="LIGA ITALIA",[LIVE ] [01:00 WIB] [Serie B] Palermo vs Catanzaro
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779393626-Kv4cPTAAP5YTi-ad6d15e95a7ada483d3e22a786c693e7d15ae0ef-809b3c945e58412e25c6f5a122c11d59
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1950613105140015104/iGB8xP_L_400x400.jpg" group-title="LIGA ITALIA",[01:00 WIB] [Italy Serie B] Palermo vs Catanzaro --- CH 1 (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.47/hls/PMMMQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1950613105140015104/iGB8xP_L_400x400.jpg" group-title="LIGA ITALIA",[01:00 WIB] [Italy Serie B] Palermo vs Catanzaro --- CH 2 (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://video.bqzb4.cn/live/8e38f12669fefd21.m3u8?sign=a466516bc904317cae7a6b5498750552&expire=1779386636
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20199c6ed693c67c267faf35b51634234b0.png" group-title="LIGA ITALIA",[ LIVE 02:00 WIB] [Liga Asociacion de Clubs de Baloncesto] Lenovo Tenerife vs Juventus [Shoot]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_4938021_1.m3u8?auth_key=1779394192-0-0-03c9511ebdf9778fd8ef1bcefd677e8c
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="LIGA ITALIA",Champions TV 3 (Serie A)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8447,10 +8459,10 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=19603&ext=dash
 https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ea9b83dec337f23210c28ec4def74c97cd11c8af&x-sign=b10e491837fdbaa4c28dfd294f3235e3&x-time=1779307260
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="LIGA INGGRIS",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394192-0-0-a4e4d230f1294f022a95536bba6e90bc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394432-0-0-81835a9f85c050f3606ed3001a44dd8d
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="LIGA INGGRIS",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394192-0-0-4e88d3f982913d5cc641c1c9093752cc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394432-0-0-789e1758a850c90c4d178f642a1f64d8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/6508946c9a5fe22a8784b905b25e8c79.png" group-title="LIGA INGGRIS",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Seru]
 #EXTVLCOPT:http-referrer=https://cdnx-sportnobar.xyz/
 #EXTVLCOPT:http-origin=https://cdnx-sportnobar.xyz
@@ -8465,7 +8477,7 @@ https://live.yultech.online/live/hd-en-6MwdLJmpKYr6T3Ru1P/index.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=5d6d89c335a02c870e88ba5c1324fa11&wsABSTime=1779350730
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=28c3321276dc1fdb5b89f9647bd44c6b&wsABSTime=1779351030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Freiburg%20VS%20Aston%20Villa%20%20UEFA%20Europa%20League.jpg" group-title="LIGA INGGRIS",[LIVE ] [02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -8483,6 +8495,11 @@ https://instreams.pro/US/NFLHD1/index.m3u8
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://instreams.pro/US/NFLHD2/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -8493,11 +8510,11 @@ http://193.47.62.51/hls/QJJJQQEX.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEX.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.59/hls/QJJJQQ.m3u8
+http://193.47.62.55/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- DE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -8508,11 +8525,6 @@ http://193.47.62.51/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEXQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- CN HD (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -8523,16 +8535,16 @@ https://video.bqzb4.cn/live/4177e5dfdce60c2a.m3u8?sign=a251aad9685575bf71761a68b
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://pul-tenm.nbs3g.com/live/hd-en-1-4536569.m3u8?txSecret=8f0b00074d3a7770d585fb57db14d64c&txTime=6A0F53D9
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M3]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQE.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.59/hls/QJJJQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -8548,11 +8560,11 @@ http://193.47.62.55/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.55/hls/QJJJQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIGA INGGRIS",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQE.m3u8
+http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="LIGA INGGRIS",[Europa League] SC Freiburg - Aston Villa (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://hoca6.com/
 #EXTVLCOPT:http-origin=https://hoca6.com/
@@ -8711,10 +8723,10 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=19603&ext=dash
 https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ea9b83dec337f23210c28ec4def74c97cd11c8af&x-sign=b10e491837fdbaa4c28dfd294f3235e3&x-time=1779307260
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394192-0-0-a4e4d230f1294f022a95536bba6e90bc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394432-0-0-81835a9f85c050f3606ed3001a44dd8d
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394192-0-0-4e88d3f982913d5cc641c1c9093752cc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394432-0-0-789e1758a850c90c4d178f642a1f64d8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/6508946c9a5fe22a8784b905b25e8c79.png" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Seru]
 #EXTVLCOPT:http-referrer=https://cdnx-sportnobar.xyz/
 #EXTVLCOPT:http-origin=https://cdnx-sportnobar.xyz
@@ -8732,6 +8744,11 @@ https://live.yultech.online/live/hd-en-6MwdLJmpKYr6T3Ru1P/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ad6d15e95a7ada483d3e22a786c693e7d15ae0ef&x-sign=8b31dac14dafea6ccb44951701529d27&x-time=1779307200
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -8742,11 +8759,11 @@ http://193.47.62.51/hls/QJJJQQEX.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEX.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.59/hls/QJJJQQ.m3u8
+http://193.47.62.55/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- DE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -8757,11 +8774,6 @@ http://193.47.62.51/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEXQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- CN HD (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -8772,16 +8784,16 @@ https://video.bqzb4.cn/live/4177e5dfdce60c2a.m3u8?sign=a251aad9685575bf71761a68b
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://pul-tenm.nbs3g.com/live/hd-en-1-4536569.m3u8?txSecret=8f0b00074d3a7770d585fb57db14d64c&txTime=6A0F53D9
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M3]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQE.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.59/hls/QJJJQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -8797,11 +8809,11 @@ http://193.47.62.55/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.55/hls/QJJJQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQE.m3u8
+http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="🔴EUROPA & CONFERENCE LEAGUE 🔴",[Europa League] SC Freiburg - Aston Villa (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://hoca6.com/
 #EXTVLCOPT:http-origin=https://hoca6.com/
@@ -9357,7 +9369,7 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&
 https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779393626-Kv4cPTAAP5YTi-ad6d15e95a7ada483d3e22a786c693e7d15ae0ef-809b3c945e58412e25c6f5a122c11d59
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201f8be8c7754ea5801a47d786aeeb75a92.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 01:15 WIB] [PLK] Stelmet Enea Bc Zielona Gora vs Wilki Morskie Szczecin [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5382315_1.m3u8?auth_key=1779394192-0-0-6e7e1311d2dc7e66b89666f2cc128bfc
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5382315_1.m3u8?auth_key=1779394432-0-0-8a82b2057d97ea6dc20f3a1318504f0c
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [Football] Aston Villa at SC Freiburg (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
@@ -9365,10 +9377,10 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/201_5382315_1.m3u8?auth_key=17793
 https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?st=Qkrcd7HQd2lSeD6DZlcwWP1Wn9f6dpwJFASA5GrfXeI&e=1779318124
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20123e163f804a1a5487d198cee36121a6e.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:00 WIB] [LNB Pro A] Bourg-En-Bresse vs Strasbourg [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5379602_1.m3u8?auth_key=1779394192-0-0-323ad05e4a7a4a3850fa2a5837ac6029
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5379602_1.m3u8?auth_key=1779394432-0-0-b26ee236aaeb69d6aeacfb60cb9cd113
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20199c6ed693c67c267faf35b51634234b0.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:00 WIB] [Liga Asociacion de Clubs de Baloncesto] Lenovo Tenerife vs Juventus [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_4938021_1.m3u8?auth_key=1779394192-0-0-03c9511ebdf9778fd8ef1bcefd677e8c
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_4938021_1.m3u8?auth_key=1779394432-0-0-a67f2b951b9d0ba3b25d320e08cf943d
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/160.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [UEFA Europa League] SC Freiburg VS Aston Villa | UEFA Europa League
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -9376,10 +9388,10 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/201_4938021_1.m3u8?auth_key=17793
 https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=ea9b83dec337f23210c28ec4def74c97cd11c8af&x-sign=b10e491837fdbaa4c28dfd294f3235e3&x-time=1779307260
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394192-0-0-a4e4d230f1294f022a95536bba6e90bc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_2.m3u8?auth_key=1779394432-0-0-81835a9f85c050f3606ed3001a44dd8d
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a2101149f82bf26f1e9a18eabadc74.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa [Shoot] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394192-0-0-4e88d3f982913d5cc641c1c9093752cc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5291254_1.m3u8?auth_key=1779394432-0-0-789e1758a850c90c4d178f642a1f64d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Freiburg%20VS%20Aston%20Villa%20%20UEFA%20Europa%20League.jpg" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [02:00 WIB] [UEFA Europa League] SC Freiburg vs Aston Villa
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -9419,7 +9431,7 @@ https://instreams.pro/US/MLB5/index.m3u8
 https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=QfK9LK3K3LBki9ZBKKD8e2YlGBHa2AQ1fG_fqGxgzYE&e=1779318123
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fc4d6c50893064529ba6cf6776f85c21.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [Piala COL] Fortaleza F.C vs Orsomarso [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5321311_1.m3u8?auth_key=1779394192-0-0-71815ca3a8ec10db62ba1cdeafdc9297
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5321311_1.m3u8?auth_key=1779394432-0-0-0096cfe1d3badd5cf4b22749a41bb909
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/456.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [Copa Argentina] Talleres Cordoba VS Atletico Tucuman | Copa Argentina
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -9427,7 +9439,7 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_5321311_1.m3u8?auth_key=17793
 https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779393713-Kv4cPTAAP5YTi-ea9b83dec337f23210c28ec4def74c97cd11c8af-e02a2195ff45f2451181e8d8ea8e8b81
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2024d708152c753b68a8cf31f94e5147c0a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [Piala Argentina] Talleres Cordoba vs Atletico Tucuman [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5217833_1.m3u8?auth_key=1779394192-0-0-1986ee3b1ce11395f6f08c5a91296ddc
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5217833_1.m3u8?auth_key=1779394432-0-0-2e924750ba213a9d5e1aa72b5caddf2b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Talleres%20Cordoba%20VS%20Atletico%20Tucuman%20%20Copa%20Argentina.jpg" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [03:00 WIB] [Copa Argentina] Talleres Cordoba vs Atletico Tucuman
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -9481,72 +9493,72 @@ https://live.yultech.online/live/sd-6MwdayFfpGM9gGr317/index.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel56.flv?auth_key=3000001779307531-0-0-763590054d36e7e08e2528d1e28ba6a5
+https://live3.procdnlive.com/livecdn/channel56.flv?auth_key=3000001779307830-0-0-2c6401a732cbbb07569188b767f29ee2
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7h1yljqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",01:30 WIB - NU THOR KA AKUREYRI VS NU BREIDABLIK [ICE WPR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779307531-0-0-61e56069e69a977c7f3bf54dd94a0fae
+https://live3.procdnlive.com/livecdn/channel55.flv?auth_key=3000001779307830-0-0-155057676700d69caa507a229aaf6f19
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l965mkyh924r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:00 WIB - SC FREIBURG VS ASTON VILLA [UEFA EL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=5d6d89c335a02c870e88ba5c1324fa11&wsABSTime=1779350730
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=28c3321276dc1fdb5b89f9647bd44c6b&wsABSTime=1779351030
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhj416ql07/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:00 WIB - SENEGAL U17 VS ALGERIA U17 [AYC U17]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel57.flv?auth_key=3000001779307532-0-0-6fcb72fa4f2e4d812690193355b2212c
+https://live3.procdnlive.com/livecdn/channel57.flv?auth_key=3000001779307830-0-0-f5fee2880ab1c657046e05d1f7273b07
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphp5xzr8k0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:15 WIB - NU NJARDVIK GRINDAVIK VS NU STJARNAN GARDABAER [ICE WPR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel58.flv?auth_key=3000001779307532-0-0-dd57d03ae61480eace0871e1bf7a4814
+https://live3.procdnlive.com/livecdn/channel58.flv?auth_key=3000001779307831-0-0-80ae4aed99ed49359048cf288bcb5225
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2v9pqvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:15 WIB - NU VALUR VS NU FRAM REYKJAVIK [ICE WPR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel59.flv?auth_key=3000001779307532-0-0-8cdd545fa877d2ba82ceebe0fe9c86d6
+https://live3.procdnlive.com/livecdn/channel59.flv?auth_key=3000001779307831-0-0-7e3b7300e91ae2f6352ada7ada60f1d4
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jh465nqwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:30 WIB - URENA SC VS ATLETICO BARINAS [VEN D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel60.flv?auth_key=3000001779307532-0-0-277b7126750c2a24994ec440a6923ead
+https://live3.procdnlive.com/livecdn/channel60.flv?auth_key=3000001779307831-0-0-5a0b0dd76362aa9d9a0ff514ae0a9179
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphoopjr8k0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:30 WIB - ZAMORA FC BARINAS B VS YARACUYANOS [VEN D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel61.flv?auth_key=3000001779307532-0-0-7948a5752fa654f12f12fea990c85e3f
+https://live3.procdnlive.com/livecdn/channel61.flv?auth_key=3000001779307831-0-0-57d0d89d92ec6a380c67f8f3457d9df1
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh4y0emoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:00 WIB - FORTALEZA F C VS ORSOMARSO [COL CUP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=28d59db735f3ab27b8335e90e3eba3f9&wsABSTime=1779350733
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=1b8063777fc0586122a10f654ec9f90d&wsABSTime=1779351032
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh40o1moep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:00 WIB - SOL DE AMERICA VS 3 DE NOVIEMBRE [PAR D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel62.flv?auth_key=3000001779307533-0-0-555a0fa0391a534634c33bd462301ff5
+https://live3.procdnlive.com/livecdn/channel62.flv?auth_key=3000001779307832-0-0-9021a311eecf87e1ffe3915b32aac732
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh7gl3r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:00 WIB - TALLERES CORDOBA VS ATLETICO TUCUMAN [ARG C]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=35a31b1dfddde524e8034e491c535707&wsABSTime=1779350733
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=79cdb201950f7ce64515cf3459ea4e04&wsABSTime=1779351031
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09h1ddzrz84/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:30 WIB - DAQUILEMA FC VS SPORT EMELEC [ECU CUP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel62.flv?auth_key=3000001779307533-0-0-555a0fa0391a534634c33bd462301ff5
+https://live3.procdnlive.com/livecdn/channel62.flv?auth_key=3000001779307832-0-0-9021a311eecf87e1ffe3915b32aac732
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergphno9wr8k0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:00 WIB - MIDWEST UNITED VS AFC ANN ARBOR [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel65.flv?auth_key=3000001779307534-0-0-b96bd45a30b616b20531dee51951b629
+https://live3.procdnlive.com/livecdn/channel65.flv?auth_key=3000001779307832-0-0-5f303c88df8cdfcc81b2195dc6b0d940
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hvpx0qo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:00 WIB - VIRGINIA BEACH UTD VS CHRISTOS FC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel64.flv?auth_key=3000001779307533-0-0-43536a6eb8698ad8e9b9883d9590d245
+https://live3.procdnlive.com/livecdn/channel64.flv?auth_key=3000001779307832-0-0-15a7f9da20c37b5d49a56ec9d74ac83a
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_161_1729069197_thumb.png" group-title="SPORTS FHD",SPORTS 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_166_1742379655_thumb.png" group-title="SPORTS FHD",S SPORTS 1 HD
@@ -9648,6 +9660,11 @@ http://193.47.62.43/hls/QJJJQX.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.43/hls/QJJJQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -9658,11 +9675,11 @@ http://193.47.62.51/hls/QJJJQQEX.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEX.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.59/hls/QJJJQQ.m3u8
+http://193.47.62.55/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- DE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -9673,11 +9690,6 @@ http://193.47.62.51/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQEXQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- CN HD (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -9688,16 +9700,16 @@ https://video.bqzb4.cn/live/4177e5dfdce60c2a.m3u8?sign=a251aad9685575bf71761a68b
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://pul-tenm.nbs3g.com/live/hd-en-1-4536569.m3u8?txSecret=8f0b00074d3a7770d585fb57db14d64c&txTime=6A0F53D9
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- NL (Fawa) [M1]
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQEX.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M3]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/QJJJQQE.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M3]
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.59/hls/QJJJQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- ENG 1 (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -9713,11 +9725,11 @@ http://193.47.62.55/hls/QJJJQQEXQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.55/hls/QJJJQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M1]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1816476201336070144/sHyQom7T_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [UEFA Europa League] Freiburg vs Aston Villa --- SWE (Fawa) [M2]
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.55/hls/QJJJQQE.m3u8
+http://193.47.62.51/hls/QJJJQQE.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2048354384648843265/vv-Fhg8x_400x400.jpg" group-title="LIVE EVENT | FAWA",[02:00 WIB] [Africa Cup Of Nations U17] Senegal U17 vs Algeria U17 (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -9753,26 +9765,26 @@ http://193.47.62.47/hls/TKKK.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.47/hls/TKKKQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="LIVE EVENT | FAWA",[00:00 WIB] [Sweden Allsvenskan] GAIS vs Hammarby --- SD (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.51/hls/ygggQQQQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1982747397609472000/axCuVhx5_400x400.jpg" group-title="LIVE EVENT | FAWA",[01:20 WIB] [Hockey World Championship] USA vs Germany --- HD (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.43/hls/QJJJX.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1982747397609472000/axCuVhx5_400x400.jpg" group-title="LIVE EVENT | FAWA",[01:20 WIB] [Hockey World Championship] USA vs Germany --- SD (Fawa)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://193.47.62.43/hls/QJJJ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="LIVE EVENT | FAWA",[00:00 WIB] [Sweden Allsvenskan] GAIS vs Hammarby --- HD (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.59/hls/ygggQQQQQ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1982747397609472000/axCuVhx5_400x400.jpg" group-title="LIVE EVENT | FAWA",[01:20 WIB] [Hockey World Championship] USA vs Germany --- SD (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.43/hls/QJJJ.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1982747397609472000/axCuVhx5_400x400.jpg" group-title="LIVE EVENT | FAWA",[01:20 WIB] [Hockey World Championship] USA vs Germany --- HD (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.43/hls/QJJJX.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1742103773072199680/5WHuWW_h_400x400.jpg" group-title="LIVE EVENT | FAWA",[00:00 WIB] [Sweden Allsvenskan] GAIS vs Hammarby --- SD (Fawa)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://193.47.62.51/hls/ygggQQQQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="LIVE EVENT | FAWA",[00:05 WIB] [MLB] Philadelphia Phillies vs Cincinnati Reds (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -9993,6 +10005,14 @@ https://cdn1.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=ElbsR8cInMcaPyc2zKDsSA&expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://khandaia3.me/
 https://www3.f2k3.shop/live/99746c454d4e8c8eb55a9a2035ad6ad6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/5a721f997fe18b1c151116a96b1b4ea8.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Not Nguyen)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/eaf2109c6a3bb09bcd907c1f05a9125f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/44cb6b8a76b2194e16849eace4743e54.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[ LIVE 03:00 WIB] 21/05 Talleres Cordoba vs Atletico Tucuman (Not Nguyen)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://khandaia3.me/
+https://www3.f2k3.shop/live/b40e35e865ea69f39b893834cd328258/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[Live Event] Al Khaleej vs Al Ahli (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://hoca6.com/
 #EXTVLCOPT:http-origin=https://hoca6.com/
@@ -10097,6 +10117,22 @@ https://edge.cdnlivetv.ru/secure/api/v1/us-mlb-colorado-rockies/playlist.m3u8?to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/d1b52bf5f868228285c18d7319861fed/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14705_1gryz01ysv2h.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14705_1gryz01ysv2h.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/ATUA.flv?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14705_1gryz01ysv2h.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/14705_1gryz01ysv2h.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/5a721f997fe18b1c151116a96b1b4ea8.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Fortaleza F.C vs Orsomarso (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/eaf2109c6a3bb09bcd907c1f05a9125f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 Aston Villa vs Nottingham Forest ( (Nguyen Punya)
 https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 Aston Villa vs Nottingham Forest ( (Nguyen Punya)
@@ -10129,16 +10165,28 @@ https://alive.zlylive.com/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 https://bglive.zlylive.com/live/bgtv_blv_tieuhac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
@@ -10151,58 +10199,10 @@ https://hls.cdnfaster-a.live/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/NHIKA1.flv?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/159_164871154089.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/6508946c9a5fe22a8784b905b25e8c79.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xem2.gv08.live/
 https://www3.f2k3.shop/live/99746c454d4e8c8eb55a9a2035ad6ad6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=c68a3e103781733e44f4dfff6601ef40&txTime=6a0e62e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=c68a3e103781733e44f4dfff6601ef40&txTime=6a0e62e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=ee456c32c5ad3decd7c4c890958db54a&txTime=6a0e62e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=ee456c32c5ad3decd7c4c890958db54a&txTime=6a0e62e3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1779309715-0-0-eb866861f307414cccf24c51027d68f4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1779309715-0-0-b7e382601c2b1153bbf48a3a5d9c49fd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1779310075-0-0-adb97edcb664adc4a68e7a6154e87484
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1779310075-0-0-86181ec51eae70def539db07bcb55125
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1779310075-0-0-8cefb103735c66b0740261dbd3c3aa27
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779310075-0-0-6ecedae126da78038fc12b17a5a53c3f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=b951b5a4a80efdb64029b94fba65efe9&txTime=6a0e644b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=b951b5a4a80efdb64029b94fba65efe9&txTime=6a0e644b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1779310435-0-0-2faf1c6fa9f48a88d39bcae935fe880e
@@ -10239,6 +10239,42 @@ https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=f9c0bc27b7e53c4491754
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=f9c0bc27b7e53c44917543ae72448890&txTime=6a0e65b3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1779310795-0-0-64358c7ea0a1eae26e7e2e69e71d459c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1779310795-0-0-fa0265f0cffe118f21c9a5307f62b349
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.flv?txSecret=81245711ccdfe17371286a728a5d8cf9&txTime=6a0e671b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=81245711ccdfe17371286a728a5d8cf9&txTime=6a0e671b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=13c5095591db5bfd491ac29eaa89b8b3&txTime=6a0e671b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=13c5095591db5bfd491ac29eaa89b8b3&txTime=6a0e671b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1779311155-0-0-e4c9a7e2af55b6fc035fe525931848a8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1779311155-0-0-68edfafb0f5547d216f91089156c276d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1779311155-0-0-d3f1be1298e8fbeeaffa47bf5e0f845d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1779311155-0-0-2bcf702aa4114f6b8b11bd8797559730
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.flv?txSecret=ea76e2207607621d0188590c702237a6&txTime=6a0e6883
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260518/b8c8aa193dc2a7e6f6361bc8bd540c20.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=ea76e2207607621d0188590c702237a6&txTime=6a0e6883
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 SC Freiburg vs Aston Villa (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/97312754.m3u8
@@ -10248,6 +10284,16 @@ https://alive.zlylive.com/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/95.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 21/05 Strasbourg vs Rayo Vallecano (Nguyen Punya)
 https://bglive.zlylive.com/live/bgtv_blv_tieubao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/4343_164940939010.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Talleres Cordoba vs Atletico Tucuman (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/4343_164940939010.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Talleres Cordoba vs Atletico Tucuman (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/44cb6b8a76b2194e16849eace4743e54.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 03:00 WIB] 21/05 Talleres Cordoba vs Atletico Tucuman (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xem2.gv08.live/
+https://www3.f2k3.shop/live/b40e35e865ea69f39b893834cd328258/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",06:00 WIB 21/05 New York Knicks vs Philadelphia 76ers ( (Nguyen Punya)
 https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="USA TV",NBC Sports Bay Area
