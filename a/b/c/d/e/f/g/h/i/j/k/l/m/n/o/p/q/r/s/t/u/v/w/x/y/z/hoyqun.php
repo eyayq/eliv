@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:18 WIB 20/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:18 WIB 20/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [18:32 WIB 20/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:32 WIB 20/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[15:00 WIB 20/05/26] PERODUA Malaysia Masters 2026 [FHD] [LIVE]
@@ -41,13 +41,13 @@ https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 20/05/26] Shanghai Shenhua vs Wuhan Three Towns [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 20/05/26] Hangzhou Greentown vs Shandong Luneng [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 20/05/26] Hangzhou Greentown vs Shandong Luneng [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 20/05/26] Hangzhou Greentown vs Shandong Luneng [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 20/05/26] Hangzhou Greentown vs Shandong Luneng [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 20/05/26] Hangzhou Greentown vs Shandong Luneng [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 20/05/26] Hangzhou Greentown vs Shandong Luneng [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[19:00 WIB 20/05/26] Koki WATANABE vs Christo POPOV  [FHD] [NANTIKAN]
