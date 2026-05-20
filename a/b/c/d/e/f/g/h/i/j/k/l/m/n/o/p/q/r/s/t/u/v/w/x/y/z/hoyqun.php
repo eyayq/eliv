@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:33 WIB 20/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:33 WIB 20/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:48 WIB 20/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:48 WIB 20/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[15:00 WIB 20/05/26] PERODUA Malaysia Masters 2026 [FHD] [LIVE]
@@ -10,9 +10,6 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[15:00 WIB 20/05/26] PERODUA Malaysia Masters 2026 [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[17:00 WIB 20/05/26] Felix Auger-Aliassime vs Aleksandar Kovacevic [FHD] [LIVE]
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[18:00 WIB 20/05/26] NGUYEN Thuy Linh vs WONG Ling Ching [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
@@ -59,28 +56,28 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[19:00 WIB 20/05/26] Koki WATANABE vs Christo POPOV  [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[20:00 WIB 20/05/26] Selangor vs Buriram United [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiZzQnWTh4Jz4xOstv5T8PNO4EKCoyNJk3w&s" group-title="ASEAN Club Championship",[20:00 WIB 20/05/26] Selangor vs Buriram United [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[20:00 WIB 20/05/26] Alejandro Davidovich Fokina vs Alex de Minaur [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[20:00 WIB 20/05/26] Alejandro Davidovich Fokina vs Alex de Minaur [FHD] [LIVE]
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[23:00 WIB 20/05/26] Start vs Bodo/Glimt [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8b/Norway_FA.png" group-title="VĐQG Na Uy ",[23:00 WIB 20/05/26] Start vs Bodo/Glimt [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[23:00 WIB 20/05/26] Start vs Bodo/Glimt [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8b/Norway_FA.png" group-title="VĐQG Na Uy ",[23:00 WIB 20/05/26] Start vs Bodo/Glimt [HD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[23:00 WIB 20/05/26] Start vs Bodo/Glimt [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8b/Norway_FA.png" group-title="VĐQG Na Uy ",[23:00 WIB 20/05/26] Start vs Bodo/Glimt [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[23:00 WIB 20/05/26] KuPS vs FF Jaro [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYMY2ZK.jpeg" group-title="VĐQG Phần Lan",[23:00 WIB 20/05/26] KuPS vs FF Jaro [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[23:00 WIB 20/05/26] KuPS vs FF Jaro [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYMY2ZK.jpeg" group-title="VĐQG Phần Lan",[23:00 WIB 20/05/26] KuPS vs FF Jaro [HD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[23:00 WIB 20/05/26] KuPS vs FF Jaro [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYMY2ZK.jpeg" group-title="VĐQG Phần Lan",[23:00 WIB 20/05/26] KuPS vs FF Jaro [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1273138636339458048/8gOeQFiT_400x400.jpg" group-title="ATP250 Geneva",[23:00 WIB 20/05/26] Stan Wawrinka vs Alex Michelsen [FHD] [NANTIKAN]
