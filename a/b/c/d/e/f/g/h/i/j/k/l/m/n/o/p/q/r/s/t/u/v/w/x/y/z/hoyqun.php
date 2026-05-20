@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:17 WIB 20/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:17 WIB 20/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:25 WIB 20/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:25 WIB 20/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[20:00 WIB 20/05/26] Alejandro Davidovich Fokina vs Alex de Minaur [FHD] [LIVE]
@@ -14,13 +14,13 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8b/Norway_FA.png" group-title="VĐQG Na Uy ",[23:00 WIB 20/05/26] Start vs Bodo/Glimt [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aYMY2ZK.jpeg" group-title="VĐQG Phần Lan",[23:00 WIB 20/05/26] KuPS vs FF Jaro [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYMY2ZK.jpeg" group-title="VĐQG Phần Lan",[23:00 WIB 20/05/26] KuPS vs FF Jaro [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aYMY2ZK.jpeg" group-title="VĐQG Phần Lan",[23:00 WIB 20/05/26] KuPS vs FF Jaro [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYMY2ZK.jpeg" group-title="VĐQG Phần Lan",[23:00 WIB 20/05/26] KuPS vs FF Jaro [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aYMY2ZK.jpeg" group-title="VĐQG Phần Lan",[23:00 WIB 20/05/26] KuPS vs FF Jaro [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYMY2ZK.jpeg" group-title="VĐQG Phần Lan",[23:00 WIB 20/05/26] KuPS vs FF Jaro [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1273138636339458048/8gOeQFiT_400x400.jpg" group-title="ATP250 Geneva",[23:00 WIB 20/05/26] Stan Wawrinka vs Alex Michelsen [FHD] [NANTIKAN]
