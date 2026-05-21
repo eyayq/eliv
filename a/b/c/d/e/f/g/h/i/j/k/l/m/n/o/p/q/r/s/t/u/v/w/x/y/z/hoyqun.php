@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:15 WIB 21/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:15 WIB 21/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:23 WIB 21/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:23 WIB 21/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:35 WIB 21/05/26] Shenzhen vs Zheijiang Guangsha [FHD] [LIVE]
@@ -93,13 +93,13 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 22/05/26] Al-Fayha vs Al-Hilal Saudi FC [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 22/05/26] Al-Fayha vs Al-Hilal Saudi FC [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 22/05/26] Al-Fayha vs Al-Hilal Saudi FC [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/307.png" group-title="Pro League",[01:00 WIB 22/05/26] Al-Ittihad FC vs Al-Qadisiyah FC [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
