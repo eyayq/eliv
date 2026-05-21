@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.19 WIB 22/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.26 WIB 22/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/coastal-union-37c71e.png" group-title="[LIVE 22:30 WIB 21/05/26] Coastal Union vs Simba Sports Club | Server 1",[LIVE 22:30 WIB 21/05/26] Coastal Union vs Simba Sports Club | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -7,147 +7,147 @@ https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a13
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/coastal-union-37c71e.png" group-title="[LIVE 22:30 WIB 21/05/26] Coastal Union vs Simba Sports Club | Server 2",[LIVE 22:30 WIB 21/05/26] Coastal Union vs Simba Sports Club | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-budaiya-ce51de.webp" group-title="[LIVE 23:00 WIB 21/05/26] Al-Budaiya vs Manama Club | Server 1",[LIVE 23:00 WIB 21/05/26] Al-Budaiya vs Manama Club | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/najma-manama-f17305.png" group-title="[LIVE 23:00 WIB 21/05/26] Najma Manama vs Al-Ittihad(BHR) | Server 1",[LIVE 23:00 WIB 21/05/26] Najma Manama vs Al-Ittihad(BHR) | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 1",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1779387295-0-0-f7f880d80f9c7b02f201a4ba204e7927
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 2",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779387295-0-0-a3bbdcef81f1cdbbbea395bde10d98e4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 3",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=d2e016be1881b98e87dcc98e6df39ac3&txTime=6a0f91ef
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 4",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=bc57f28b8d1ddff739cc6ad55a61894c&txTime=6a0f91ef
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 5",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 6",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/panetolikos-agrinio-4aaa67.png" group-title="[LIVE 23:00 WIB 21/05/26] Panetolikos Agrinio vs Asteras Aktor | Server 1",[LIVE 23:00 WIB 21/05/26] Panetolikos Agrinio vs Asteras Aktor | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779387295-0-0-1d47cc9dc1c12d3931738df2919ad52a
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779387655-0-0-d3564c29c90673d84576a82f301a3a3e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/panetolikos-agrinio-4aaa67.png" group-title="[LIVE 23:00 WIB 21/05/26] Panetolikos Agrinio vs Asteras Aktor | Server 2",[LIVE 23:00 WIB 21/05/26] Panetolikos Agrinio vs Asteras Aktor | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779387295-0-0-f9f6d9e7c49067c085be5bee160daf6b
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779387655-0-0-dd3f941055ffb1f2e7823f856b4c190a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/panetolikos-agrinio-4aaa67.png" group-title="[LIVE 23:00 WIB 21/05/26] Panetolikos Agrinio vs Asteras Aktor | Server 3",[LIVE 23:00 WIB 21/05/26] Panetolikos Agrinio vs Asteras Aktor | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779387295-0-0-0722e0898ea91dd56bb1680c5ea1b684
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779387655-0-0-22c320c71b7bbe502bc5f19960886263
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/panetolikos-agrinio-4aaa67.png" group-title="[LIVE 23:00 WIB 21/05/26] Panetolikos Agrinio vs Asteras Aktor | Server 4",[LIVE 23:00 WIB 21/05/26] Panetolikos Agrinio vs Asteras Aktor | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779387295-0-0-93700d873b981f24038441ea08b0b1f7
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779387655-0-0-a921b98630a603b1f57b60316f41c804
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-u20-b5ac8b.png" group-title="[LIVE 23:00 WIB 21/05/26] AS Roma U20 vs Bologna U20 | Server 1",[LIVE 23:00 WIB 21/05/26] AS Roma U20 vs Bologna U20 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1779387295-0-0-d47ff084804ed0cbfe7b0f2902501cb0
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1779387655-0-0-dd4b78e5182dcd3b9bf54d787c24b868
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-u20-b5ac8b.png" group-title="[LIVE 23:00 WIB 21/05/26] AS Roma U20 vs Bologna U20 | Server 2",[LIVE 23:00 WIB 21/05/26] AS Roma U20 vs Bologna U20 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779387295-0-0-42f6c9b781d533af862e64f5e9f56f8f
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1779387655-0-0-dd4fda9146705095d5c4eb3ede56ae8e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-u20-b5ac8b.png" group-title="[LIVE 23:00 WIB 21/05/26] AS Roma U20 vs Bologna U20 | Server 3",[LIVE 23:00 WIB 21/05/26] AS Roma U20 vs Bologna U20 | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779387295-0-0-755bb74fbb4e5ea57e411a1fc240cacc
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1779387655-0-0-f2e7c5ad6bff7c2feb3d5400331f406c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/as-roma-u20-b5ac8b.png" group-title="[LIVE 23:00 WIB 21/05/26] AS Roma U20 vs Bologna U20 | Server 4",[LIVE 23:00 WIB 21/05/26] AS Roma U20 vs Bologna U20 | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779387295-0-0-d701fff3dfb434557becb1f466f8fc82
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1779387655-0-0-4bf7a4b07394e3e815abd6c6cf0ee458
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 1",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 2",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 3",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=73894a78ea072c67defc12d7e5ca9377&txTime=6a0f9357
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 4",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=9f45584509c715444f9b23349647fe11&txTime=6a0f9357
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 5",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1779387655-0-0-28240c2ffdc7499d1af9b870f1477682
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ae-kifisias-abd19f.png" group-title="[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 6",[LIVE 23:00 WIB 21/05/26] AE Kifisias vs AEL Larisa | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779387655-0-0-1d529bc2a19c9d3f88e1d8646094fb5d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-budaiya-ce51de.webp" group-title="[LIVE 23:00 WIB 21/05/26] Al-Budaiya vs Manama Club | Server 1",[LIVE 23:00 WIB 21/05/26] Al-Budaiya vs Manama Club | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 1",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779387295-0-0-678bf8dec68dcf30f2decdd1ec197e78
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 2",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779387295-0-0-f7037f51f76b6f57a769fd8f2a973197
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 3",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1779387295-0-0-9a564ed8fb0ba72198f34ea4e392aad7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 4",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779387295-0-0-0701baddcced8032ddfc9535fef84f85
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 5",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1779387295-0-0-9d3773ff9883cb41988aab6a70230ba8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 6",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779387295-0-0-b23f16e4166896ebf9d17e8d98910cdf
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 7",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1779387295-0-0-b897c782330f66383828499f5c4cb534
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 8",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779387295-0-0-e17284922061a08b44e3d916e07d3557
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 9",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1779387295-0-0-6e588edaafa7344f9d417bf7c641b81c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 10",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779387295-0-0-9aed6ccebe9065344269fa0fdd00f75e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 11",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1779387295-0-0-71f08ae006479a69b6b5fd86aa169b80
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 12",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1779387295-0-0-9b207243386e23c895ae00a7cb0bab7d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 13",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 14",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 14 (SVR-BHNS 14)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 2",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 3",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1779387655-0-0-aaa3889b8ea6014ca8e8cf5a599628f9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 4",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1779387655-0-0-8e950d5fd9a12ec4cf33359e335cb801
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 5",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1779387655-0-0-c3127d1235e1632ad52037a58befc2a8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 6",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1779387655-0-0-52f51d37cd169555c95f9d6a1fbb26f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 7",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779387655-0-0-ee3e5d4fa46651ab41fecf72b70bdeab
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 8",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779387655-0-0-4fe7d7c68fc37c4435e13a9931a1697d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 9",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1779387655-0-0-89c501ab2ef3ac04dfd1916b854ccace
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 10",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779387655-0-0-77837b4a772e0353cb46396fbe41d534
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 11",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912102_lsd.m3u8?auth_key=1779387655-0-0-90b99b2d15fa44f3fd10a41bd162c72f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 12",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912102_lhd.m3u8?auth_key=1779387655-0-0-bcb5b6a54a6682e6a980f0eff77069ba
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 13",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1779387655-0-0-21a127e2b91be363c79b2f02ec99872b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/brondby-if-217bc4.webp" group-title="[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 14",[LIVE 23:30 WIB 21/05/26] Brondby IF vs FC Copenhagen | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1779387655-0-0-3b416ab7b3c6daa7099c883f766d7481
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 1",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779387295-0-0-fa56c7f6272dc19fc2a1b8bde39c99f2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 2",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779387295-0-0-49cd215fe25fd97d2a70ef755b37efc2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 3",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1779387295-0-0-2129c85e6dcb68911d802342f3ad38ec
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 4",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779387295-0-0-060150c9b5411653dca0313750aebcc6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 5",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=0930e8d91edfa743d5be5188c2c7476c&txTime=6a0f91ef
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 6",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ffd3ef56bde446f333c0481420cd33f2&txTime=6a0f91ef
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 7",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779387295-0-0-d493eab156069bcda61205b8a1aa8c6b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 8",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779387295-0-0-da29b32db1eb1d99953b00f50327580c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 9",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=7b48087d3e0b3dc0ac60da8c05432f6f&txTime=6a0f91ef
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 10",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=18692d6dee5f1fd3aa335674b78dabc1&txTime=6a0f91ef
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 11",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=16ba7851617841442c91f4a45c0ed036&txTime=6a0f91ef
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 12",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=93c80ffae73ce2e004a09437465f66a0&txTime=6a0f91ef
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 13",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 2",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=5846a7619318671d79643fbb6c39e522&txTime=6a0f9357
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 3",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3e53c52aeb5d348fc7aa1cb33e8ab8d1&txTime=6a0f9357
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 4",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779387655-0-0-7e7575c8e17ecf9d50f36df3c113ca7b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 5",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779387655-0-0-68cb6c20c6ec45d943f660da57b0810b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 6",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1779387655-0-0-42a7279b3f7b66e94f6fea3b309b9832
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 7",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1779387655-0-0-21dfb6f10be84b092abb3a49f7462c35
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 8",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779387655-0-0-623c7d749aa5604603eb9e1bf0e50226
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 9",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779387655-0-0-ff4f827b7b1b404fd23a7123fae9e5fd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 10",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=21f3a94fcb20f294f53cd76eb04965dc&txTime=6a0f9357
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 11",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=ca5e10cc5c408838586b8dc047e2e1e8&txTime=6a0f9357
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 12",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=3acd9982eb2f62b5e420fc741c04b86b&txTime=6a0f9357
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/afc-ajax-767d52.webp" group-title="[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 13",[LIVE 23:45 WIB 21/05/26] AFC Ajax vs Groningen | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d5925d2fa444016c6874cf117ad931c5&txTime=6a0f9357
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elfsborg-c0a5e7.png" group-title="[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 1",[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1779387295-0-0-4dbedae2d772966030a63c25fbee32e5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elfsborg-c0a5e7.png" group-title="[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 2",[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779387295-0-0-dce3903a34c13904622c49d123c236a0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elfsborg-c0a5e7.png" group-title="[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 3",[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779387295-0-0-dbeb08896e61b12974d063b373c81a7b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elfsborg-c0a5e7.png" group-title="[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 4",[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779387295-0-0-8c9b64c03c6391211de43659b3bfc4cd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elfsborg-c0a5e7.png" group-title="[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 5",[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elfsborg-c0a5e7.png" group-title="[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 2",[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1779387655-0-0-1f3a7a04abbff51ec8171b87604e3436
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elfsborg-c0a5e7.png" group-title="[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 3",[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1779387655-0-0-7c53d2eceec5fedc5d52a723ec481e74
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elfsborg-c0a5e7.png" group-title="[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 4",[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779387655-0-0-1289a7acfaa31ac4395585a4b76589f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elfsborg-c0a5e7.png" group-title="[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 5",[LIVE 00:00 WIB 22/05/26] Elfsborg vs Mjallby AIF | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779387655-0-0-74a72818f4367ed79fb0796a31bc25b7
