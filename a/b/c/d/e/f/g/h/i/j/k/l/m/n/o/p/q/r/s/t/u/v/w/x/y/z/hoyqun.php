@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:34 WIB 22/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:34 WIB 22/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:42 WIB 22/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:42 WIB 22/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[14:00 WIB 22/05/26] PERODUA Malaysia Masters 2026 [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[14:00 WIB 22/05/26] PERODUA Malaysia Masters 2026 [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[14:00 WIB 22/05/26] PERODUA Malaysia Masters 2026 [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWv9ENTXQc5yv8jdLzs0IlVyDJHzTdo8Qiw&s" group-title="PERODUA Malaysia Masters 2026",[14:00 WIB 22/05/26] PERODUA Malaysia Masters 2026 [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -65,6 +56,33 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[19:15 WIB 22/05/26] Viettel vs Pho Hien [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1273138636339458048/8gOeQFiT_400x400.jpg" group-title="ATP250 Geneva",[19:30 WIB 22/05/26] Casper Ruud vs Mariano Navone [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1273138636339458048/8gOeQFiT_400x400.jpg" group-title="ATP250 Geneva",[19:30 WIB 22/05/26] Casper Ruud vs Mariano Navone [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1273138636339458048/8gOeQFiT_400x400.jpg" group-title="ATP250 Geneva",[19:30 WIB 22/05/26] Casper Ruud vs Mariano Navone [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1273138636339458048/8gOeQFiT_400x400.jpg" group-title="ATP250 Geneva",[20:30 WIB 22/05/26] Learner Tien vs Alexander Bublik [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1273138636339458048/8gOeQFiT_400x400.jpg" group-title="ATP250 Geneva",[20:30 WIB 22/05/26] Learner Tien vs Alexander Bublik [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1273138636339458048/8gOeQFiT_400x400.jpg" group-title="ATP250 Geneva",[20:30 WIB 22/05/26] Learner Tien vs Alexander Bublik [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[20:30 WIB 22/05/26] Aleksandar Kovacevic vs Ignacio Buse [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[20:30 WIB 22/05/26] Aleksandar Kovacevic vs Ignacio Buse [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[20:30 WIB 22/05/26] Aleksandar Kovacevic vs Ignacio Buse [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[22:00 WIB 22/05/26] Olympiacos vs Fenerbahce [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
 
@@ -82,6 +100,15 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/419.png" group-title="Premyer Liqa",[22:30 WIB 22/05/26] Sumqayıt vs Qarabag [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[22:30 WIB 22/05/26] Alex de Minaur vs Tommy Paul [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[22:30 WIB 22/05/26] Alex de Minaur vs Tommy Paul [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hNYJiXGIoOb7v5hWOalKykkeDufGwRxHTw&s" group-title="ATP500 Hamburg",[22:30 WIB 22/05/26] Alex de Minaur vs Tommy Paul [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Euroleague_Basketball_%28Vertical%29.svg" group-title="EUROLEAGUE",[01:00 WIB 23/05/26] Valencia vs Real Madrid [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
@@ -138,13 +165,13 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 23/05/26] Thanh Hóa vs Hoang Anh Gia Lai [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 23/05/26] Thanh Hóa vs Hoang Anh Gia Lai [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 23/05/26] Thanh Hóa vs Hoang Anh Gia Lai [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/36/c6/85/36c6859633019ed5de3db44d354fd60b.jpg" group-title="CBA",[18:30 WIB 23/05/26] Shenzhen vs Zheijiang Guangsha [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
@@ -165,22 +192,22 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 23/05/26] Bologna vs Inter [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 23/05/26] Bologna vs Inter [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 23/05/26] Bologna vs Inter [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 24/05/26] Lazio vs Pisa [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 24/05/26] Lazio vs Pisa [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 24/05/26] Lazio vs Pisa [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="La Liga",[02:00 WIB 24/05/26] Real Betis vs Levante [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
@@ -219,13 +246,13 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Binh Duong vs Song Lam Nghe An [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Binh Duong vs Song Lam Nghe An [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Binh Duong vs Song Lam Nghe An [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
@@ -273,13 +300,13 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Liverpool vs Brentford [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Liverpool vs Brentford [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Liverpool vs Brentford [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Manchester City vs Aston Villa [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
@@ -291,13 +318,13 @@ https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Sunderland vs Chelsea [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Sunderland vs Chelsea [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Sunderland vs Chelsea [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Tottenham vs Everton [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
@@ -316,12 +343,3 @@ https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] West Ham vs Leeds [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 24/05/26] Napoli vs Udinese [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 24/05/26] Napoli vs Udinese [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 24/05/26] Napoli vs Udinese [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
