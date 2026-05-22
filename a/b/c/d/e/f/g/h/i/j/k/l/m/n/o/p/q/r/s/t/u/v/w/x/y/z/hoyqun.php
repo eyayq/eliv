@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:34 WIB 23/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:34 WIB 23/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:42 WIB 23/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:42 WIB 23/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zhk2ql074/image/small" group-title="AFC U17 Asian Cup",[00:00 WIB 23/05/26] China PR U17 vs Japan U17 [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[01:45 WIB 23/05/26] Fiorentina vs Atalanta [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/66.png" group-title="Coupe de France",[02:00 WIB 23/05/26] Lens vs Nice [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/66.png" group-title="Coupe de France",[02:00 WIB 23/05/26] Lens vs Nice [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/66.png" group-title="Coupe de France",[02:00 WIB 23/05/26] Lens vs Nice [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/66.png" group-title="Coupe de France",[02:00 WIB 23/05/26] Lens vs Nice [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/66.png" group-title="Coupe de France",[02:00 WIB 23/05/26] Lens vs Nice [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/66.png" group-title="Coupe de France",[02:00 WIB 23/05/26] Lens vs Nice [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/130.png" group-title="Copa Argentina",[06:00 WIB 23/05/26] Union Santa Fe vs Independiente [FHD] [NANTIKAN]
