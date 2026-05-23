@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 22:09:58 WIB 23-05-2026
-# 🔄 Total Channels: 1981
+# ⏰ Latest Updated: 22:16:37 WIB 23-05-2026
+# 🔄 Total Channels: 1972
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [22:09:58 WIB 23-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [22:16:37 WIB 23-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -40,6 +40,12 @@ http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/80292
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/166686
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/298550
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F330_1gq1fbpxrd5.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",05:00   24/05 Gremio vs Santos  VO TONG m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F330_1gq1fbpxrd5.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",05:00   24/05 Gremio vs Santos  VO TONG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1280px-Gremio_logo.svg.png" group-title="Live Event: Hội quán",05:00 24/05 Gremio vs Santos FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
@@ -52,9 +58,6 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/31f5171de0e1404fdebcef19cd7cd409.png!w80" group-title="Live Event: Colalive",03:00 24/05 Sao Paulo vs Botafogo RJ Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live5.msrktz.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/256ff71a20fb72145a66dcef2f604a48.png!w80" group-title="Live Event: Colalive",03:40 24/05 Minnesota United vs Real Salt Lake Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live5.msrktz.app/live/14707124.m3u8
@@ -317,240 +320,240 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=drm&x=1779583521&k=f2a86d8e8bb6a91729708f3199256d06e6a3ed6a67efa7bf7c00f8d85f3f6492
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=drm&x=1779584431&k=4d47e4f74a6cabcabf1069c01649df6db62ee800818773b71b34e230eb9bc977
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=dash&x=1779583521&k=d16bbc2bf74aa75be9b5896b464451d319c274fef825b4fdee4fc30286925387
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=dash&x=1779584431&k=ee1ba49036b9cfe4a660d89372fdf3af2e6a11866e8ec8098dfa8689a6d6e4f6
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ISNhueISzA_MA5mdtCYkQxVYE3U=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg" group-title="CHAMPIONS TV",BeIN Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779583521&k=cce6f59924a7abfd5602672fbae4cd3ac7614c251f03b735b977bc51624c8cb4
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779584431&k=2bfeb9ba2565680bc4bf9911d9288cf0d09136cc2754e2bc844e6e4f30c71152
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779583521&k=373039e988eee186d4b2acbd47d06233149879d86f7d0a339fd1de04bea2dd6e
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779584431&k=ea6b496b4fed7598f4e09ef491f8bcef7f9509110fccaf75d06b59dcb37b4d1f
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/57EvfUwIGo03MdOsFiN6ff6Jczw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg" group-title="CHAMPIONS TV",BeIN Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=drm&x=1779583521&k=648e3d15089a9b109e118bb8299fe02c6429fcd88a64bb00f448aab519909369
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=drm&x=1779584431&k=fd9f295fd3368a62e9ef714c5c21fd323bf0e3fe132b7217ba45b16b7645696c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=dash&x=1779583521&k=51995d74669d8a74cb250d2864857b69a40e0d82c3c37a96e13e9ac6b2c4c75f
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=dash&x=1779584431&k=7bdd514f23180e64fde2586e9b7622caf7cb94afb3cf256ebe4f2ddac29d291b
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hH9e5pXdlobUCJgh6CE8l6eRE-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg" group-title="CHAMPIONS TV",Champions TV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6685&ext=drm&x=1779583521&k=a03d945b477b2ca5fec33ba8d80980b9df6d97cd99c23c3f35b0c88abf7e3b5e
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6685&ext=drm&x=1779584431&k=0d38179cad5c4d4436cb58675b4d91b81be0723fd629bd8c25f97f6759dd2597
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6685&ext=dash&x=1779583521&k=c4d7b25ee9886e286af2bf10a2a0112ddef5075367d7344fdfe46056afda48b9
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6685&ext=dash&x=1779584431&k=6a30647bb305063a573cfa2b85ee5f3f67735a37595eae8fe170fe300cff296c
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hH9e5pXdlobUCJgh6CE8l6eRE-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg" group-title="CHAMPIONS TV",Champions TV 1 (Alt)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=drm&x=1779583521&k=921ae270101dc9ffe71fd9b17f2f7c42ff783c3b5df03689d73add0594810945
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=drm&x=1779584431&k=43d83ed324b76e33437c76437188ca44dab0fdef63c3a38e35faaeeb676bcf00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=dash&x=1779583521&k=f09c892e4924783b3861459852ed7f826c3274cd12f2d28f54c89ac7bc88687d
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=dash&x=1779584431&k=2072c9a315ce6951bd0a0ec44155001f6b6f3f2bda7c702f9a7110aac87020a9
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6cpTxOAd9oaP5yOaKInfkE7mybc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg" group-title="CHAMPIONS TV",Champions TV 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6686&ext=drm&x=1779583521&k=ffdd887fe9bb7d5884867686c323ddadf49a49a8a9f3f9fe39af4e1afec65e34
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6686&ext=drm&x=1779584431&k=e41c9c95c05973ca4297ba8c32579f6b4689e90ffa07f29556793d4e543ac7c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6686&ext=dash&x=1779583521&k=5e3917af56cc4a341f1957641cb08d93de6c71b47a19a529dc5517108855bea2
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6686&ext=dash&x=1779584431&k=d76d06986144ce5c6663a3f5fd081178c2c48555b23671b21f6402c77b49d940
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="CHAMPIONS TV",Champions TV 3 (WTA)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6786&ext=drm&x=1779583521&k=700457e423fea06fee061ce6f97504644e67a55e3788742a6fed5e25ebf4fa5d
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6786&ext=drm&x=1779584431&k=2e9e77ade3c3c3e1f990ef1a3e90f833226e6d372c10cca0ee27b3bdaec30751
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6786&ext=dash&x=1779583521&k=26f58c1e4e13eda0dd290d7acbbd650e533c0a7956ea294490a4e3b189884a03
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6786&ext=dash&x=1779584431&k=d14faac3e1b0075e9a28e59c48e76f6e1eeb6ccf941e9820f1406a7ac4c00f2d
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="CHAMPIONS TV",Champions TV 3 (Serie A)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779583521&k=60a2311604d129e91f39589ea3abc92c685f687a6ee307781f8f42501b4337dd
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779584431&k=dc47f75702e3f64b071b84b37ef3074d02c15409e85423b6b2192cd1026c0292
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779583521&k=229157aead2d005f44981f08139af30da2f5890036611fa6a8553024ed99b819
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779584431&k=54d8189105a14dd8efdc154fb913c4932b6e431d70fa7c37732aa57f0aca01f7
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TRXqsPqp4vYy2IV5LyM7TFC9_N8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-e0dd48.jpg" group-title="CHAMPIONS TV",Champions TV 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779583521&k=383b0a5879a53ec706f8801b6519527b9c2f7fe3a2e01eac0c33308f9198467e
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779584431&k=8f80dd5739300a839ebedec7f4f8191ef170d5db44a90e7c967493bc2c1b3224
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779583521&k=df13d0a2556e0310d355b4ce5b10fd8db603177c605a64d6cf0b1ea98b088071
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779584431&k=ef8c20d7677e84f3b57f138c4f1a6c38c8d332e19f070aba9a6f5708b6bab79b
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YPVCaRhTAIjP2Bql56wNeWFhTDQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="CHAMPIONS TV",Champions TV 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=drm&x=1779583521&k=a7156c78b2412b2b783e15173ed7be572416a647898be3c142aaa7fd86693788
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=drm&x=1779584431&k=66ad20f8f51b0d891f4b82f89ada491592765fdc5ccaf0fc2b5b8d259905f582
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=dash&x=1779583521&k=4240bb5b42ec12712a4e297c00b8bfbad45263b130e8a5163fb31abaa3ef9dad
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=dash&x=1779584431&k=1f0f697786f63765979c9057bf71fb63b96215f41f77853c0ad18fa59628f14d
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/H3XxNvjGAymjg2Qyb-rvkzolS6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20216/champion-fight-c7c19e.jpg" group-title="CHAMPIONS TV",Champions Fight
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=20216&ext=drm&x=1779583521&k=4baf1c1401bde42b008f359d9ef4df5ebc8c5abdf64e28ccaebe32b0c3777a68
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=20216&ext=drm&x=1779584431&k=e39d7cb7cdadad6f2d1c47c7db508bdd037b9ea683a5ca8e74be8bbbdc2bb9df
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=20216&ext=dash&x=1779583521&k=925ce3e14aea4ae959317860e82429f34e841432e868386075175261f9f0672e
+https://telasomucombistream.bonetv.web.id/index.mpd?q=20216&ext=dash&x=1779584431&k=09ec1ceab54c1cdd51ae49139c42df0bc93533d6ffd2afcc4f8f68bf78aa00e2
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/k-XDZv0GC0thY6AoQKHNSJewh9s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg" group-title="CHAMPIONS TV",Champions Golf 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18189&ext=drm&x=1779583521&k=32bc5cfd75c0fd9ea5c32dd83216a49375983d2a7ffdcd90ff32f3825f740213
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18189&ext=drm&x=1779584431&k=d93e1a7c506a43f89a10f66a6ddd0f4862bc9ee0a542dc0ab6a6a4a2708e4dfc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=18189&ext=dash&x=1779583521&k=2457e0a81c025db0b0e9afc8983223228421a6dc1b67cdfb954ac79038243a10
+https://telasomucombistream.bonetv.web.id/index.mpd?q=18189&ext=dash&x=1779584431&k=791ded2780319d7e4b5f5eb62cb20be1fad159ee0fc4185b486648186f487b12
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/w4WsztctnAXWF36OBxRmc5lt87E=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg" group-title="CHAMPIONS TV",Champions Golf 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18190&ext=drm&x=1779583521&k=d5a82d7665bda1bc7a23c206e1c1b312c91a7ab8de7c074c08c80ca1b4c6e7b6
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18190&ext=drm&x=1779584431&k=ce22daccaf18d041007c1efe4694cf7f60b3e49e780c15b605410865614286a0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=18190&ext=dash&x=1779583521&k=37691475583a0901ddaadefdab22cd7bbcec38e4e460ea635317503826d6a94d
+https://telasomucombistream.bonetv.web.id/index.mpd?q=18190&ext=dash&x=1779584431&k=2c91e86503277f42f07a79778b81ff8efdb32a7d66a712ae2bb764df187c3c83
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/emHpj-uEoQwjDU_pcCtUJ5jSCgg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21289/citra-drama-plus-a6965e.jpg" group-title="CHAMPIONS TV",Citra Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21289&ext=drm&x=1779583521&k=f55a3781a395862806b2254904e25bf2cd5ee2fef578efb6d344f28e1755302e
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21289&ext=drm&x=1779584431&k=7ad578c242b4923a37a9b694331647bad9473221f032bb8635bde0cfa1c38e12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=21289&ext=dash&x=1779583521&k=4836b5e1a7c99ace981458a027ca465621ac1607267862da6f8a295a71cd2098
+https://telasomucombistream.bonetv.web.id/index.mpd?q=21289&ext=dash&x=1779584431&k=bab11fcbd2f4af461c5ff23234ff4850d53900cbfbd9b995a212e30096192cd1
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="CHAMPIONS TV",Premier League TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9353&ext=drm&x=1779583521&k=0575711ac473ced187f152bc82f0ee3965d79095905aa5812b4b52c5899b31de
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9353&ext=drm&x=1779584431&k=39827b5d6dc8c11996d3e24edeaa85c5eaa0444146bd95b0806b045df79c0c86
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9353&ext=dash&x=1779583521&k=7574e931c52aead08cdf5b4ea4233d6e651690a3a0f29b79eae5f478eb6ff5d8
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9353&ext=dash&x=1779584431&k=c8cf81ad8ad7b3ab48a0b3e944f3ed614e86c3e52725bfed408e46915aa4174f
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" group-title="CHAMPIONS TV",Real Madrid TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19538&ext=drm&x=1779583521&k=31ca24bf42e040f3525550cb58b0d9d97360670bc40a9013892e1d0d37e21bde
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19538&ext=drm&x=1779584431&k=f68ed1121d8d8a5d9f384d9a2b0265a807e3ed2b51b23ad56f29a1df412b5fef
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19538&ext=dash&x=1779583521&k=a34c2e770b9be07b4ef0bb4dab3cf150bfcd14ce01711d38bedf0a1bb819d840
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19538&ext=dash&x=1779584431&k=28ef7c92b088a5820a53c08716594d4cbc8dc827ab154b71864c6053f7f0db10
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [16:00 WIB] [Roland Garros] Day 1
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="LIVE EVENT | TENNIS 🎾",Champions TV 3 (WTA)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6786&ext=drm&x=1779583521&k=700457e423fea06fee061ce6f97504644e67a55e3788742a6fed5e25ebf4fa5d
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6786&ext=drm&x=1779584431&k=2e9e77ade3c3c3e1f990ef1a3e90f833226e6d372c10cca0ee27b3bdaec30751
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6786&ext=dash&x=1779583521&k=26f58c1e4e13eda0dd290d7acbbd650e533c0a7956ea294490a4e3b189884a03
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6786&ext=dash&x=1779584431&k=d14faac3e1b0075e9a28e59c48e76f6e1eeb6ccf941e9820f1406a7ac4c00f2d
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="LIVE EVENT | TENNIS 🎾",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2026b829b81e0deab214e6b48d27128e443.png" group-title="LIGA ITALIA",[ LIVE 04:30 WIB] [LigaPro Serie A] Orense SC vs CD Universidad Catolica [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5031769_1.m3u8?auth_key=1779660307-0-0-7f89181385606981add8a64ce331944d
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5031769_1.m3u8?auth_key=1779660907-0-0-150952be9996a720c4907bde274d838d
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/anfllS_g8fJ-GIhA4TN_X11cPtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083523/cb1ac4.jpg" group-title="LIGA ITALIA", JAM 19:45 WIB (24/05) - Parma vs Sassuolo - Serie A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779583521&k=60a2311604d129e91f39589ea3abc92c685f687a6ee307781f8f42501b4337dd
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779584431&k=dc47f75702e3f64b071b84b37ef3074d02c15409e85423b6b2192cd1026c0292
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779583521&k=229157aead2d005f44981f08139af30da2f5890036611fa6a8553024ed99b819&sc=5083523
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mM22Oifnmdy7xRzs49YyprFnGQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083974/04fb8b.jpg" group-title="LIGA ITALIA", JAM 01:45 WIB (25/05) - Verona vs Roma - Serie A
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21398&ext=drm&x=1779583521&k=c434cee9c692b6d83ebfc15708bd1acb0367733d415afd2ecb8a735cdd55b10c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=21398&ext=dash&x=1779583521&k=798138538991f56a0d011246478d59dee5b20198c805aeda0c077356cd122cb7&sc=5083974
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xht2KTUMI2J9hcaX-ZhI19TE_74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083529/8379d1.jpg" group-title="LIGA ITALIA", JAM 01:45 WIB (25/05) - Milan vs Cagliari - Serie A
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17939&ext=drm&x=1779583521&k=b32d4e0ff6b04ab0b636b8602441e1c09848b540468fc536113e44cf4523d4fb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17939&ext=dash&x=1779583521&k=c62a1b14ca4db8a7a81d726c1c63a0230c31488757301a1532ac95b9d3e2ca92&sc=5083529
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779584431&k=54d8189105a14dd8efdc154fb913c4932b6e431d70fa7c37732aa57f0aca01f7&sc=5083523
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SxAVgj6ucpDB2WwPmh3aWMbKR4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083528/14de58.jpg" group-title="LIGA ITALIA", JAM 01:45 WIB (25/05) - Cremonese vs Como - Serie A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=drm&x=1779583521&k=921ae270101dc9ffe71fd9b17f2f7c42ff783c3b5df03689d73add0594810945
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=drm&x=1779584431&k=43d83ed324b76e33437c76437188ca44dab0fdef63c3a38e35faaeeb676bcf00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=dash&x=1779583521&k=f09c892e4924783b3861459852ed7f826c3274cd12f2d28f54c89ac7bc88687d&sc=5083528
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=dash&x=1779584431&k=2072c9a315ce6951bd0a0ec44155001f6b6f3f2bda7c702f9a7110aac87020a9&sc=5083528
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xht2KTUMI2J9hcaX-ZhI19TE_74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083529/8379d1.jpg" group-title="LIGA ITALIA", JAM 01:45 WIB (25/05) - Milan vs Cagliari - Serie A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17939&ext=drm&x=1779584431&k=c3dfd9cc4eb1c9e889ca1c4bc81589226ff01277f1a84e26b407ca9adbe40e00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17939&ext=dash&x=1779584431&k=df769fd8f482b5bd14923748ce1373ba0cd78e066b7676748c2a357d33c62418&sc=5083529
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mM22Oifnmdy7xRzs49YyprFnGQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083974/04fb8b.jpg" group-title="LIGA ITALIA", JAM 01:45 WIB (25/05) - Verona vs Roma - Serie A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21398&ext=drm&x=1779584431&k=1f50754d58b2cc5088bd8cc6a5b80b00abc6a9cf3cf3943c2154cf268d849e3e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=21398&ext=dash&x=1779584431&k=5594846f2678773f790c34599f2a13460fc43cfab57a6de50f1d9170bc152194&sc=5083974
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4cP-gRAYuyiAT4WHtQfSgHIa2TE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083524/c7d65f.jpg" group-title="LIGA ITALIA", JAM 22:45 WIB (24/05) - Napoli vs Udinese - Serie A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779583521&k=60a2311604d129e91f39589ea3abc92c685f687a6ee307781f8f42501b4337dd
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779584431&k=dc47f75702e3f64b071b84b37ef3074d02c15409e85423b6b2192cd1026c0292
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779583521&k=229157aead2d005f44981f08139af30da2f5890036611fa6a8553024ed99b819&sc=5083524
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779584431&k=54d8189105a14dd8efdc154fb913c4932b6e431d70fa7c37732aa57f0aca01f7&sc=5083524
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e18G8ed7jah3vAJ6YET78uZSlbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083775/4fff41.jpg" group-title="LIGA ITALIA", JAM 01:45 WIB (25/05) - Torino vs Juventus - Serie A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779583521&k=60a2311604d129e91f39589ea3abc92c685f687a6ee307781f8f42501b4337dd
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779584431&k=dc47f75702e3f64b071b84b37ef3074d02c15409e85423b6b2192cd1026c0292
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779583521&k=229157aead2d005f44981f08139af30da2f5890036611fa6a8553024ed99b819&sc=5083775
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779584431&k=54d8189105a14dd8efdc154fb913c4932b6e431d70fa7c37732aa57f0aca01f7&sc=5083775
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IBo-Cox3k3Lt3oJSnQkY0PehxjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083973/aded32.jpg" group-title="LIGA ITALIA", JAM 01:45 WIB (25/05) - Lecce vs Genoa - Serie A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21399&ext=drm&x=1779583521&k=dd55bd87e2c20c38920e34057470a402db305bd9f938e5c45105a44ec3979509
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21399&ext=drm&x=1779584431&k=e4d2c830e90117c98dac31d93f913125112742db8737bbc1e98004faca2eefc1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=21399&ext=dash&x=1779583521&k=9c8f0f407180ca1faefa2af37c3d1294db8785693107f8fe2a94407cbe81729b&sc=5083973
+https://telasomucombistream.bonetv.web.id/index.mpd?q=21399&ext=dash&x=1779584431&k=b09635e207dc15d232f5d692f5fefd2b74f5668ff0c7160719f719e94b325266&sc=5083973
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="LIGA ITALIA",Champions TV 3 (Serie A)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779583521&k=60a2311604d129e91f39589ea3abc92c685f687a6ee307781f8f42501b4337dd
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779584431&k=dc47f75702e3f64b071b84b37ef3074d02c15409e85423b6b2192cd1026c0292
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779583521&k=229157aead2d005f44981f08139af30da2f5890036611fa6a8553024ed99b819
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779584431&k=54d8189105a14dd8efdc154fb913c4932b6e431d70fa7c37732aa57f0aca01f7
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg" group-title="LIGA ITALIA",Rumahnya Keluarga "Suparman Reborn"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=870&ext=drm&x=1779583521&k=ca0cdba0182e0d6b098962dd7b2b6ca8d2697e19192751f4d18ec37bd915c9a1
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=870&ext=drm&x=1779584431&k=7692b7f8c9ff6dd203c50f8d73f8e173b1d2438796d8a1a1cdfb612aec235bef
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=870&ext=dash&x=1779583521&k=2e692971a25314ffd52ff80509d9f51105ac4a1429fbcb4f8d5d00babead70aa&sc=870
+https://telasomucombistream.bonetv.web.id/index.mpd?q=870&ext=dash&x=1779584431&k=91c84c94ab176a7142a02269ddbacfc94e584434c5dc479c3c6aa857f0cd3db2&sc=870
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F_wPWx5IAvHY2Ze2YqjeEFitTnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080191/68ac8a.jpg" group-title="LIGA INGGRIS", JAM 21:30 WIB (24/05) - Crystal Palace vs Arsenal - Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779583521&k=383b0a5879a53ec706f8801b6519527b9c2f7fe3a2e01eac0c33308f9198467e
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779584431&k=8f80dd5739300a839ebedec7f4f8191ef170d5db44a90e7c967493bc2c1b3224
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779583521&k=df13d0a2556e0310d355b4ce5b10fd8db603177c605a64d6cf0b1ea98b088071&sc=5080191
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779584431&k=ef8c20d7677e84f3b57f138c4f1a6c38c8d332e19f070aba9a6f5708b6bab79b&sc=5080191
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XqhftroLvRX7strB2RkPgdnvEjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080211/4e6646.jpg" group-title="LIGA INGGRIS", JAM 21:30 WIB (24/05) - Liverpool vs Brentford - Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=drm&x=1779583521&k=a7156c78b2412b2b783e15173ed7be572416a647898be3c142aaa7fd86693788
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=drm&x=1779584431&k=66ad20f8f51b0d891f4b82f89ada491592765fdc5ccaf0fc2b5b8d259905f582
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=dash&x=1779583521&k=4240bb5b42ec12712a4e297c00b8bfbad45263b130e8a5163fb31abaa3ef9dad&sc=5080211
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/T32ueopmBXqgRYymcLVoxApXGsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080194/a9993c.jpg" group-title="LIGA INGGRIS", JAM 21:50 WIB (24/05) - Man City vs Aston Villa - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18797&ext=drm&x=1779583521&k=7fa4807f94fe281517396ac9e18fd33f044b3faacbd3dc6809b65c3a5e5e497b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=18797&ext=dash&x=1779583521&k=39015aa5b1241233cda9f814cbd7c413c8d08df36e38f0a7618ed0b4aae0697f&sc=5080194
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=dash&x=1779584431&k=1f0f697786f63765979c9057bf71fb63b96215f41f77853c0ad18fa59628f14d&sc=5080211
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fZq5Ph-H8EjWuZc-kpfUWSQb9mk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080509/789229.jpg" group-title="LIGA INGGRIS", JAM 21:50 WIB (24/05) - Tottenham vs Everton - Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21476&ext=drm&x=1779583521&k=2038548f776ced8ab0b6128d88334161d2851035ca2a871b2723de18d8f0471b
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21476&ext=drm&x=1779584431&k=f6f7ae5bb72ff28fab1cecef2b7730525fd792b33cb960141efa342f70955f7e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=21476&ext=dash&x=1779583521&k=e3c1b14e1eb7b5332d4f35b77152d53d44980ff4bfed4bc6d6f9499006ca13d4&sc=5080509
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sGQQueqtTOesB_Q761fuR_4726c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080207/af7fbb.jpg" group-title="LIGA INGGRIS", JAM 21:50 WIB (24/05) - Burnley vs Wolves - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19375&ext=drm&x=1779583521&k=9a49432b85406b0d8d915962049c2bb95eaadcb0f66137c7df0fc95254499241
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19375&ext=dash&x=1779583521&k=6626fd6088a1b05dec64c4835df59ad5b1fec3e6c68ce132690cbddbaae4311a&sc=5080207
+https://telasomucombistream.bonetv.web.id/index.mpd?q=21476&ext=dash&x=1779584431&k=9500833d11e162441097d991bfc0666aa913f079252f241365a8902f0f30f50e&sc=5080509
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2p8c31_KWwFV7fDAGXb5D0GD9N4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080209/faf182.jpg" group-title="LIGA INGGRIS", JAM 21:50 WIB (24/05) - Fulham vs Newcastle - Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=20231&ext=drm&x=1779583521&k=499c26468822a3f137cb03c8f680ebddb1a9ee306f5239c5fe96fc87118e81ab
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=20231&ext=drm&x=1779584431&k=e790ebceeb94653f847df289bdb87a96b807a2b20e4b330741a62121998488b5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=20231&ext=dash&x=1779583521&k=64eeacacad811fc0021e7c982cac3b9dbc9d13212433c2bde020ed9afde59189&sc=5080209
+https://telasomucombistream.bonetv.web.id/index.mpd?q=20231&ext=dash&x=1779584431&k=429a76353581b53c95e2718702edae1c8e2c8fa8f3ecbdbd1cfcdffb67bfb8bb&sc=5080209
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QG6YM4rJHJT8H8MfUARe3V0fuwg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080215/3b9904.jpg" group-title="LIGA INGGRIS", JAM 21:50 WIB (24/05) - Sunderland vs Chelsea - Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21462&ext=drm&x=1779583521&k=ad56a30ca1e87841aee2d756cbdfe5ae6038ea1c399dd3f5a15140e00e748fac
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21462&ext=drm&x=1779584431&k=7b5b3b1538f1d8b6f08dba2d1b4453ad36ec37e6b0c4c786590ddc17f35c901b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=21462&ext=dash&x=1779583521&k=74b143585f3051d3bb05ce9707d3f34192d1c393d355fe2cc959232168ee46c9&sc=5080215
+https://telasomucombistream.bonetv.web.id/index.mpd?q=21462&ext=dash&x=1779584431&k=113c838fa03e04d7727ff6ad864da5ca1b697ece7831bd9a4c8f6aa6b51e660d&sc=5080215
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sGQQueqtTOesB_Q761fuR_4726c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080207/af7fbb.jpg" group-title="LIGA INGGRIS", JAM 21:50 WIB (24/05) - Burnley vs Wolves - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19375&ext=drm&x=1779584431&k=d04fc6416329989cd37880cb02ab1821fb27602842da59573d491f35db06ba15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19375&ext=dash&x=1779584431&k=e00348fc321c3553d363b49423ddeb45b4c4fe641de8c1b126e8ee2bb3c64d99&sc=5080207
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/T32ueopmBXqgRYymcLVoxApXGsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080194/a9993c.jpg" group-title="LIGA INGGRIS", JAM 21:50 WIB (24/05) - Man City vs Aston Villa - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18797&ext=drm&x=1779584431&k=a0ea8fd636b29e7880293911890e8ca0dadc2700c38a72bafb1318236b1389f2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=18797&ext=dash&x=1779584431&k=0a1afe34ceeb536813610f22747eb64abb8e9268d082b1a6678563ca6d425554&sc=5080194
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crystal%20Palace%20VS%20Arsenal%20%20Premier%20League.jpg" group-title="LIGA INGGRIS",[UPCOMING ] [22:00 WIB] [Premier League] Crystal Palace vs Arsenal
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -562,16 +565,16 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=20242&ext=drm&x=1779583521&k=7a62c62c56fcee36434fe9bf6cb4fc8c8a11d91a78fb65a78c18af828aed1d03
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=20242&ext=drm&x=1779584431&k=c0387bd1e6c269f94d5597df549c0bea53d0c8095f4ee17d1d707a510a83a0b3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=20242&ext=dash&x=1779583521&k=b7b3b9c8329666e534fee75614020077aa0f7a9411709daa0d77f89f53b42cfb&sc=5080213
+https://telasomucombistream.bonetv.web.id/index.mpd?q=20242&ext=dash&x=1779584431&k=97062f3cfc09bc9890a60324c7131c48cb85e909e219707272596f23926d86ab&sc=5080213
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jeMgWWVrjph4nS5jOsuqr-CijJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080199/2ade20.jpg" group-title="LIGA INGGRIS", JAM 21:50 WIB (24/05) - Brighton vs Man United - Premier League
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19536&ext=drm&x=1779583521&k=8da52232e08f3c93ed6028cd28eeae908a88aed3f20b46ac03222fccbb465b67
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19536&ext=drm&x=1779584431&k=b2738a87575906e697a18ee10cfa5a8966a4c4c98f37ee7ca26df1299c538b45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19536&ext=dash&x=1779583521&k=957f69cc9fc46614496b1dac4283c973d8c60164aec5e6c0695c102537c6e1d8&sc=5080199
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19536&ext=dash&x=1779584431&k=cbd38b5db466d7b90c464909d8a111af69f945626288576d7223b611ab3b31af&sc=5080199
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nottingham%20Forest%20VS%20Bournemouth%20%20Premier%20League.jpg" group-title="LIGA INGGRIS",[UPCOMING ] [22:00 WIB] [Premier League] Nottingham Forest vs Bournemouth
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -604,9 +607,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18796&ext=drm&x=1779583521&k=4484625f9ff024a7b4472a0728388c89575995167085e2a7213afd4662eacd78
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18796&ext=drm&x=1779584431&k=9bc4c36a688534934cef33da2a072f814917ce2f3cf80bfb5d3b507f9ba0bf9f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=18796&ext=dash&x=1779583521&k=797b78ba4035f62ef90b160284e50dc614eccdedd15b3418545ab4ef6a9fbd72&sc=5080505
+https://telasomucombistream.bonetv.web.id/index.mpd?q=18796&ext=dash&x=1779584431&k=a8ac9c53fadac07ccf14e9fc48484ecf5d855286c375c50afd974f408dfb022f&sc=5080505
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20VS%20Brentford%20%20Premier%20League.jpg" group-title="LIGA INGGRIS",[UPCOMING ] [22:00 WIB] [Premier League] Liverpool vs Brentford
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -646,9 +649,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779583521&k=383b0a5879a53ec706f8801b6519527b9c2f7fe3a2e01eac0c33308f9198467e
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779584431&k=8f80dd5739300a839ebedec7f4f8191ef170d5db44a90e7c967493bc2c1b3224
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779583521&k=df13d0a2556e0310d355b4ce5b10fd8db603177c605a64d6cf0b1ea98b088071&sc=5084160
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779584431&k=ef8c20d7677e84f3b57f138c4f1a6c38c8d332e19f070aba9a6f5708b6bab79b&sc=5084160
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atl%C3%A9tico%20Ottawa%20VS%20Forge%20%20Canadian%20Premier%20League.jpg" group-title="LIGA INGGRIS",[UPCOMING ] [01:00 WIB] [Canadian Premier League] Atletico Ottawa vs Forge
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -667,277 +670,47 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779583521&k=383b0a5879a53ec706f8801b6519527b9c2f7fe3a2e01eac0c33308f9198467e
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779584431&k=8f80dd5739300a839ebedec7f4f8191ef170d5db44a90e7c967493bc2c1b3224
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779583521&k=df13d0a2556e0310d355b4ce5b10fd8db603177c605a64d6cf0b1ea98b088071
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779584431&k=ef8c20d7677e84f3b57f138c4f1a6c38c8d332e19f070aba9a6f5708b6bab79b
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YPVCaRhTAIjP2Bql56wNeWFhTDQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-8a049a.jpg" group-title="LIGA INGGRIS",Champions TV 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=drm&x=1779583521&k=a7156c78b2412b2b783e15173ed7be572416a647898be3c142aaa7fd86693788
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=drm&x=1779584431&k=66ad20f8f51b0d891f4b82f89ada491592765fdc5ccaf0fc2b5b8d259905f582
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=dash&x=1779583521&k=4240bb5b42ec12712a4e297c00b8bfbad45263b130e8a5163fb31abaa3ef9dad
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=dash&x=1779584431&k=1f0f697786f63765979c9057bf71fb63b96215f41f77853c0ad18fa59628f14d
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="LIGA INGGRIS",Premier League TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9353&ext=drm&x=1779583521&k=0575711ac473ced187f152bc82f0ee3965d79095905aa5812b4b52c5899b31de
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9353&ext=drm&x=1779584431&k=39827b5d6dc8c11996d3e24edeaa85c5eaa0444146bd95b0806b045df79c0c86
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9353&ext=dash&x=1779583521&k=7574e931c52aead08cdf5b4ea4233d6e651690a3a0f29b79eae5f478eb6ff5d8
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9353&ext=dash&x=1779584431&k=c8cf81ad8ad7b3ab48a0b3e944f3ed614e86c3e52725bfed408e46915aa4174f
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIGA SPANYOL",[UPCOMING ] [02:00 WIB] [La Liga] Villarreal vs Atletico Madrid
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" group-title="LIGA SPANYOL",Real Madrid TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19538&ext=drm&x=1779583521&k=31ca24bf42e040f3525550cb58b0d9d97360670bc40a9013892e1d0d37e21bde
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19538&ext=drm&x=1779584431&k=f68ed1121d8d8a5d9f384d9a2b0265a807e3ed2b51b23ad56f29a1df412b5fef
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19538&ext=dash&x=1779583521&k=a34c2e770b9be07b4ef0bb4dab3cf150bfcd14ce01711d38bedf0a1bb819d840
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NVHlEkB0hLNQQsRX2r2H5a0WerQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080218/4315f8.jpg" group-title="LIVE EVENT | VIDIDI", LIVE 00:00 WIB (24/05) - Round 3 - The CJ Cup Byron Nelson 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18189&ext=drm&x=1779583521&k=32bc5cfd75c0fd9ea5c32dd83216a49375983d2a7ffdcd90ff32f3825f740213
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=18189&ext=dash&x=1779583521&k=2457e0a81c025db0b0e9afc8983223228421a6dc1b67cdfb954ac79038243a10&sc=5080218
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KzphPnD9zPuDDsboNffki2zqwRM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087316/790f5b.jpg" group-title="LIVE EVENT | VIDIDI", JAM 00:00 WIB (25/05) - Round 4 - The CJ Cup Byron Nelson 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18189&ext=drm&x=1779583521&k=32bc5cfd75c0fd9ea5c32dd83216a49375983d2a7ffdcd90ff32f3825f740213
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=18189&ext=dash&x=1779583521&k=2457e0a81c025db0b0e9afc8983223228421a6dc1b67cdfb954ac79038243a10&sc=5087316
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9L1nDz24e8C3egkgVIF-6hPdUCk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-86a036.jpg" group-title="LIVE EVENT | VIDIDI", JAM 07:00 WIB (24/05) - Universitas Negeri Jakarta vs Universitas Kristen Indonesia Jakarta (Grup A | Putra) - CL Basketball 2026 - Regional Jakarta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/play.m3u8?q=21210&ext=hls&x=1779583521&k=0eaa122a9d0e0f8542efa33096e16a4738585a6bf44059474e8a4eaccf3c4bb7&sc=21210
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6R8AysrYvYQ45Jq6OZ_DZNHWwrM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/hydroplus-soccer-league-8673ab.jpg" group-title="LIVE EVENT | VIDIDI", JAM 07:30 WIB (24/05) - Tajimalela FA Women vs SSB Anjelo - HYDROPLUS Soccer League U-18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/play.m3u8?q=21099&ext=hls&x=1779583521&k=72bbc1af3c86c296a263b096a0d5735abeb58c06cb45e927c129c3db9b3e9eb0&sc=21099
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LA1UuyGx4Ox2mf3F2Fw0wLD1WFw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2026-semifinals-court-1-53a9a3.jpg" group-title="LIVE EVENT | VIDIDI", JAM 11:00 WIB (24/05) - Sayaka Hirota/Ayako Sakuramoto (JPN) vs Chen Fan Shu Tian/Luo Xu Min (CHN) - Women's Doubles Final | PERODUA Malaysia Masters 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18249&ext=drm&x=1779583521&k=658c911358cc18ac5e61881afa18eff648bebf9db96f46e0e4038cd1dbee735f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=18249&ext=dash&x=1779583521&k=62d04273c431f6d54423e4e71623e42e7d8b1e6727904ab2e24740cbea6c3abc&sc=18249
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RxVuFQ_bLM6LlLc3jo82TtFOrlA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083863/707c89.jpg" group-title="LIVE EVENT | VIDIDI", JAM 15:55 WIB (24/05) - Round 1 - Day 1 (Court 3) - Roland Garros 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=drm&x=1779583521&k=f2a86d8e8bb6a91729708f3199256d06e6a3ed6a67efa7bf7c00f8d85f3f6492
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=dash&x=1779583521&k=d16bbc2bf74aa75be9b5896b464451d319c274fef825b4fdee4fc30286925387&sc=5083863
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1yBWkxNnkdaEI2gqYHj_b-kDf0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080707/3ea0a2.jpg" group-title="LIVE EVENT | VIDIDI", JAM 15:55 WIB (24/05) - Round 1 - Day 1 (Court 2) - Roland Garros 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=drm&x=1779583521&k=648e3d15089a9b109e118bb8299fe02c6429fcd88a64bb00f448aab519909369
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=dash&x=1779583521&k=51995d74669d8a74cb250d2864857b69a40e0d82c3c37a96e13e9ac6b2c4c75f&sc=5080707
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/paHla7FpxWwXjeYP-1Xcae5MRhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089640/097442.jpg" group-title="LIVE EVENT | VIDIDI", JAM 16:00 WIB (24/05) - Round 1 - Day 1 (Court 1) - Roland Garros 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779583521&k=cce6f59924a7abfd5602672fbae4cd3ac7614c251f03b735b977bc51624c8cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779583521&k=373039e988eee186d4b2acbd47d06233149879d86f7d0a339fd1de04bea2dd6e&sc=5089640
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VA4LmKtKj8FfFYGmqNT0b1-s8A4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089639/3d4c96.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:30 WIB (25/05) - Round 1 - Night 1 (Court 1) - Roland Garros 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779583521&k=cce6f59924a7abfd5602672fbae4cd3ac7614c251f03b735b977bc51624c8cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779583521&k=373039e988eee186d4b2acbd47d06233149879d86f7d0a339fd1de04bea2dd6e&sc=5089639
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jg0DE5kkU4LCdvM1q0b6-8fHPHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089643/cd7479.jpg" group-title="LIVE EVENT | VIDIDI", JAM 15:55 WIB (25/05) - Round 1 - Day 2 (Court 2) - Roland Garros 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=drm&x=1779583521&k=648e3d15089a9b109e118bb8299fe02c6429fcd88a64bb00f448aab519909369
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=dash&x=1779583521&k=51995d74669d8a74cb250d2864857b69a40e0d82c3c37a96e13e9ac6b2c4c75f&sc=5089643
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YlsVP_xjMixg8iA3d32M7VLe17c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089644/ef1f82.jpg" group-title="LIVE EVENT | VIDIDI", JAM 15:55 WIB (25/05) - Round 1 - Day 2 (Court 3) - Roland Garros 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=drm&x=1779583521&k=f2a86d8e8bb6a91729708f3199256d06e6a3ed6a67efa7bf7c00f8d85f3f6492
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=dash&x=1779583521&k=d16bbc2bf74aa75be9b5896b464451d319c274fef825b4fdee4fc30286925387&sc=5089644
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AtonBqXVY38IM4BReRu58qGzgEg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089645/854250.jpg" group-title="LIVE EVENT | VIDIDI", JAM 16:00 WIB (25/05) - Round 1 - Day 2 (Court 1) - Roland Garros 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779583521&k=cce6f59924a7abfd5602672fbae4cd3ac7614c251f03b735b977bc51624c8cb4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779583521&k=373039e988eee186d4b2acbd47d06233149879d86f7d0a339fd1de04bea2dd6e&sc=5089645
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/anfllS_g8fJ-GIhA4TN_X11cPtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083523/cb1ac4.jpg" group-title="LIVE EVENT | VIDIDI", JAM 19:45 WIB (24/05) - Parma vs Sassuolo - Serie A
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779583521&k=60a2311604d129e91f39589ea3abc92c685f687a6ee307781f8f42501b4337dd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779583521&k=229157aead2d005f44981f08139af30da2f5890036611fa6a8553024ed99b819&sc=5083523
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mM22Oifnmdy7xRzs49YyprFnGQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083974/04fb8b.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:45 WIB (25/05) - Verona vs Roma - Serie A
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21398&ext=drm&x=1779583521&k=c434cee9c692b6d83ebfc15708bd1acb0367733d415afd2ecb8a735cdd55b10c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=21398&ext=dash&x=1779583521&k=798138538991f56a0d011246478d59dee5b20198c805aeda0c077356cd122cb7&sc=5083974
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xht2KTUMI2J9hcaX-ZhI19TE_74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083529/8379d1.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:45 WIB (25/05) - Milan vs Cagliari - Serie A
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17939&ext=drm&x=1779583521&k=b32d4e0ff6b04ab0b636b8602441e1c09848b540468fc536113e44cf4523d4fb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17939&ext=dash&x=1779583521&k=c62a1b14ca4db8a7a81d726c1c63a0230c31488757301a1532ac95b9d3e2ca92&sc=5083529
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SxAVgj6ucpDB2WwPmh3aWMbKR4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083528/14de58.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:45 WIB (25/05) - Cremonese vs Como - Serie A
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=drm&x=1779583521&k=921ae270101dc9ffe71fd9b17f2f7c42ff783c3b5df03689d73add0594810945
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=dash&x=1779583521&k=f09c892e4924783b3861459852ed7f826c3274cd12f2d28f54c89ac7bc88687d&sc=5083528
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F_wPWx5IAvHY2Ze2YqjeEFitTnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080191/68ac8a.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:30 WIB (24/05) - Crystal Palace vs Arsenal - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779583521&k=383b0a5879a53ec706f8801b6519527b9c2f7fe3a2e01eac0c33308f9198467e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779583521&k=df13d0a2556e0310d355b4ce5b10fd8db603177c605a64d6cf0b1ea98b088071&sc=5080191
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XqhftroLvRX7strB2RkPgdnvEjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080211/4e6646.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:30 WIB (24/05) - Liverpool vs Brentford - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=drm&x=1779583521&k=a7156c78b2412b2b783e15173ed7be572416a647898be3c142aaa7fd86693788
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=dash&x=1779583521&k=4240bb5b42ec12712a4e297c00b8bfbad45263b130e8a5163fb31abaa3ef9dad&sc=5080211
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/T32ueopmBXqgRYymcLVoxApXGsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080194/a9993c.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Man City vs Aston Villa - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18797&ext=drm&x=1779583521&k=7fa4807f94fe281517396ac9e18fd33f044b3faacbd3dc6809b65c3a5e5e497b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=18797&ext=dash&x=1779583521&k=39015aa5b1241233cda9f814cbd7c413c8d08df36e38f0a7618ed0b4aae0697f&sc=5080194
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fZq5Ph-H8EjWuZc-kpfUWSQb9mk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080509/789229.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Tottenham vs Everton - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21476&ext=drm&x=1779583521&k=2038548f776ced8ab0b6128d88334161d2851035ca2a871b2723de18d8f0471b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=21476&ext=dash&x=1779583521&k=e3c1b14e1eb7b5332d4f35b77152d53d44980ff4bfed4bc6d6f9499006ca13d4&sc=5080509
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sGQQueqtTOesB_Q761fuR_4726c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080207/af7fbb.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Burnley vs Wolves - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19375&ext=drm&x=1779583521&k=9a49432b85406b0d8d915962049c2bb95eaadcb0f66137c7df0fc95254499241
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19375&ext=dash&x=1779583521&k=6626fd6088a1b05dec64c4835df59ad5b1fec3e6c68ce132690cbddbaae4311a&sc=5080207
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2p8c31_KWwFV7fDAGXb5D0GD9N4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080209/faf182.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Fulham vs Newcastle - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=20231&ext=drm&x=1779583521&k=499c26468822a3f137cb03c8f680ebddb1a9ee306f5239c5fe96fc87118e81ab
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=20231&ext=dash&x=1779583521&k=64eeacacad811fc0021e7c982cac3b9dbc9d13212433c2bde020ed9afde59189&sc=5080209
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QG6YM4rJHJT8H8MfUARe3V0fuwg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080215/3b9904.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Sunderland vs Chelsea - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21462&ext=drm&x=1779583521&k=ad56a30ca1e87841aee2d756cbdfe5ae6038ea1c399dd3f5a15140e00e748fac
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=21462&ext=dash&x=1779583521&k=74b143585f3051d3bb05ce9707d3f34192d1c393d355fe2cc959232168ee46c9&sc=5080215
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yWqf7zs82u5KS4na8WDDzhDOF74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080213/12e423.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Nottingham Forest vs Bournemouth - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=20242&ext=drm&x=1779583521&k=7a62c62c56fcee36434fe9bf6cb4fc8c8a11d91a78fb65a78c18af828aed1d03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=20242&ext=dash&x=1779583521&k=b7b3b9c8329666e534fee75614020077aa0f7a9411709daa0d77f89f53b42cfb&sc=5080213
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jeMgWWVrjph4nS5jOsuqr-CijJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080199/2ade20.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Brighton vs Man United - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19536&ext=drm&x=1779583521&k=8da52232e08f3c93ed6028cd28eeae908a88aed3f20b46ac03222fccbb465b67
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19536&ext=dash&x=1779583521&k=957f69cc9fc46614496b1dac4283c973d8c60164aec5e6c0695c102537c6e1d8&sc=5080199
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Oz4aaPrEndgt8lhrZjYQs4ZHkj4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080505/e298d8.jpg" group-title="LIVE EVENT | VIDIDI", JAM 22:00 WIB (24/05) - West Ham vs Leeds United - Premier League
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18796&ext=drm&x=1779583521&k=4484625f9ff024a7b4472a0728388c89575995167085e2a7213afd4662eacd78
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=18796&ext=dash&x=1779583521&k=797b78ba4035f62ef90b160284e50dc614eccdedd15b3418545ab4ef6a9fbd72&sc=5080505
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4cP-gRAYuyiAT4WHtQfSgHIa2TE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083524/c7d65f.jpg" group-title="LIVE EVENT | VIDIDI", JAM 22:45 WIB (24/05) - Napoli vs Udinese - Serie A
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779583521&k=60a2311604d129e91f39589ea3abc92c685f687a6ee307781f8f42501b4337dd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779583521&k=229157aead2d005f44981f08139af30da2f5890036611fa6a8553024ed99b819&sc=5083524
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e18G8ed7jah3vAJ6YET78uZSlbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083775/4fff41.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:45 WIB (25/05) - Torino vs Juventus - Serie A
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779583521&k=60a2311604d129e91f39589ea3abc92c685f687a6ee307781f8f42501b4337dd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779583521&k=229157aead2d005f44981f08139af30da2f5890036611fa6a8553024ed99b819&sc=5083775
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IBo-Cox3k3Lt3oJSnQkY0PehxjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083973/aded32.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:45 WIB (25/05) - Lecce vs Genoa - Serie A
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21399&ext=drm&x=1779583521&k=dd55bd87e2c20c38920e34057470a402db305bd9f938e5c45105a44ec3979509
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=21399&ext=dash&x=1779583521&k=9c8f0f407180ca1faefa2af37c3d1294db8785693107f8fe2a94407cbe81729b&sc=5083973
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pf7VF0q-PG1Uy3EnhL6hNm0Zwk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083526/8eea24.jpg" group-title="LIVE EVENT | VIDIDI", JAM 23:00 WIB (24/05) - Race - FIA Formula 2 Championship Canada Grand Prix 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17884&ext=drm&x=1779583521&k=24321a4fb946c6c0688604b7df0d4331b375ec3fd602ebdfdbba8623bc98210f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17884&ext=dash&x=1779583521&k=5e3becc29e9dc0140acaccfcf341915d5efa4a8ce7b2b9efd999fcb45b697881&sc=5083526
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OocqljphAokztfeFgPDQAykuRI0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084160/fa4973.jpg" group-title="LIVE EVENT | VIDIDI", JAM 00:00 WIB (25/05) - Arsenal Trophy Ceremony | Premier League 2025/26
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779583521&k=383b0a5879a53ec706f8801b6519527b9c2f7fe3a2e01eac0c33308f9198467e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779583521&k=df13d0a2556e0310d355b4ce5b10fd8db603177c605a64d6cf0b1ea98b088071&sc=5084160
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KPOVOyIv7Dbmx0BtdXWH77n1vyM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083862/9e8ad5.jpg" group-title="LIVE EVENT | VIDIDI", JAM 02:55 WIB (25/05) - Race - Formula 1 Lenovo Grand Prix du Canada 2026
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17884&ext=drm&x=1779583521&k=24321a4fb946c6c0688604b7df0d4331b375ec3fd602ebdfdbba8623bc98210f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17884&ext=dash&x=1779583521&k=5e3becc29e9dc0140acaccfcf341915d5efa4a8ce7b2b9efd999fcb45b697881&sc=5083862
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8ZSHyEqJvYgCOM17RFb40bt8TAw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21466/triumph-fight-genesis-e5461b.jpg" group-title="LIVE EVENT | VIDIDI", JAM 17:00 WIB (31/05) - Triumph Fight "Genesis"
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21466&ext=drm&x=1779583521&k=96c21992e87c266905c5689c557d50ea14db608c15a67770bfcc4859c996b717
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=21466&ext=dash&x=1779583521&k=6e90f98eec2b41efd5c216e575dfd2dad3b5b817e8945cd1ad14800523220831&sc=21466
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" group-title="LIVE EVENT | VIDIDI", JAM 16:00 WIB (06/06) - nex Road to Champion Vol. 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21485&ext=drm&x=1779583521&k=e09b7243bef5a81f580c13ccb15030590f2da557e12ca7955c1d5b605ee476e8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=21485&ext=dash&x=1779583521&k=f192e2bb0c7caa25fdb98dfa0df803842c0a62f49b9b1e20ebcd8a6ad200a0c8&sc=21485
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19538&ext=dash&x=1779584431&k=28ef7c92b088a5820a53c08716594d4cbc8dc827ab154b71864c6053f7f0db10
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [02:07 WIB] [Baseball] Pittsburgh Pirates at Toronto Blue Jays (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?st=gslW66piAmlXEojBAwsnEcNOha8PpGyuMtGk76F0MIw&e=1779583908
+https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?st=xZUIa2vdBK4b0rTXXxhYRPm3ppkyaoSegTjx6rMzg9Y&e=1779584550
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [02:07 WIB] [MLB] Toronto Blue Jays vs Pittsburgh Pirates (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB3
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://instreams.pro/US/MLB3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [03:00 WIB] [Motor Sport] Canadian Grand Prix Qualifying (STRMCNTR)
+#EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[03:00 WIB] [Motor Sport] Canadian Grand Prix Qualifying (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/hbfkazbkaznc49.m3u8?st=zHNXZk8m6hOmqOPQY_kQB8_03bV_Bw0OHBfLTPQ4yck&e=1779583907
+https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=XuT6h2UJ_CTaFlZlo-9o8cDQEFE91FoR-_1c2cTVSVY&e=1779584549
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/bal.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [03:05 WIB] [MLB] Baltimore Orioles vs Detroit Tigers (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB5
 #EXTVLCOPT:http-origin=https://instream.click
@@ -947,17 +720,17 @@ https://instreams.pro/US/MLB5/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=tzynE0n9czv2eDFRExbEBVPmkgqSNZSHUIiT-FSwpLs&e=1779583906
+https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=4CXOfCUeG1sZE9q4Z_Gsot1L1bpILZmtb3aDLSzd0ds&e=1779584548
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [03:05 WIB] [Baseball] Cleveland Guardians at Philadelphia Phillies (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/Czajafjihafch18.m3u8?st=Mf-14BcQnjUxgTYfZ4r-v1P8chJzIjNlPsFNNOgRov0&e=1779583905
+https://edgestreams.pro/hls/Czajafjihafch18.m3u8?st=QOPw3CCwlikOIbly9tDT-JXi0fDow7BSMZcmPu0Ues0&e=1779584547
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [03:05 WIB] [Baseball] Detroit Tigers at Baltimore Orioles (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=pYHJWahfdPKwEqPJuUz2VOlwUkPnpw86UFcQTxqEB24&e=1779583906
+https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=0HctLXOosKA9ofcv4EV1D-_3PMNH3GgOhf3uCoNi6aA&e=1779584548
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/phi.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [03:05 WIB] [MLB] Philadelphia Phillies vs Cleveland Guardians (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB4
 #EXTVLCOPT:http-origin=https://instream.click
@@ -992,39 +765,39 @@ https://instreams.pro/US/MLB8/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=QjlX2F3vCar0Ar3OAZd4YxyiuaEKu8lRs1elKZXgCwg&e=1779583902
+https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=NHeRwibMZ9XHZ6UuSHkxpKEMciLmyqtPVvoX22bjG04&e=1779584543
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[07:00 WIB] [Basketball] New York Knicks at Cleveland Cavaliers (STRMCNTR)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [03:10 WIB] [Baseball] New York Mets at Miami Marlins (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=lsHWmDHLaZkD0juGGPBJtygqYlbPHIRWagCeZ1mO4UE&e=1779583903
+https://edge2caster.pro/hls/ijfnakfidch22.m3u8?st=Fr2Raz56elybqBf89xFpxfjBs8LKtcAwZ7aacTtpEdg&e=1779584544
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[07:30 WIB] [NBA] New York Knicks vs Cleveland Cavaliers - SHRK
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [03:10 WIB] [Baseball] Seattle Mariners at Kansas City Royals (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/fskjanach24.m3u8?st=5EN-GAPi0P1-C9pCbEhNSbGZvfGPXcrJMGFxm-YyAIM&e=1779583904
+https://edgestreams.pro/hls/fskjanach24.m3u8?st=CDR4Wh0_z2lC4130PXAsAVbrzqegMncqmunBHFVXGr8&e=1779584546
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [03:10 WIB] [Baseball] Washington Nationals at Atlanta Braves (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=J90Yv-t8XC-zlilp9alwoLeNLOj5Iey9jysYwn7cLXU&e=1779583904
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[05:00 WIB] [Basketball] Portland Fire at Toronto Tempo (STRMCNTR)
+https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?st=MV1CJP0tbCfRpuhKPuDRac9808peyerXFpElhHTOqxA&e=1779584545
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [05:00 WIB] [Basketball] Portland Fire at Toronto Tempo (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=-2yO9Y_auQurul6zZjUNBtsQ8vrpKw4qoHk9skX6s80&e=1779583901
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[05:00 WIB] [WNBA] Portland Fire vs Toronto Tempo - SHRK
+https://edge2caster.pro/hls/ztyarueaghj71.m3u8?st=kWwM-O-BIg3TiY94AwRtNLjAdpByhbydMI5Jwq7TKbc&e=1779584543
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [05:00 WIB] [WNBA] Portland Fire vs Toronto Tempo - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://bo4.bofiles.cfd/live/tempo/stream.m3u8?expires=1779555375&token=166fd374e2e676558169f8fe3400568f3246f5693841b84c3985e0d18d57f0ad
+https://bo4.bofiles.cfd/live/tempo/stream.m3u8?expires=1779555863&token=87eecf2c15f879017a877ab7355c7bc448a99a8f8b292346e184bbd43bdcd7b1
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20157a5b3958c504a24c7e8b2a0cdc927df.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE 05:00 WIB] [WNBA] Tempo vs Fire [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071741_1.m3u8?auth_key=1779660307-0-0-60deb3ebfdc1f8903a206ab420d72bf9
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071741_1.m3u8?auth_key=1779660907-0-0-8e48f827e21a48cddb8b331906a4c5b1
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/car.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[06:00 WIB] [NHL] Carolina Hurricanes vs Montreal Canadiens (Gate)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[06:00 WIB] [Hockey] Montreal Canadiens at Carolina Hurricanes (STRMCNTR)
@@ -1055,6 +828,8 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/sd.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[08:40 WIB] [MLB] San Diego Padres vs Athletics (Gate)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/laa.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[09:05 WIB] [MLB] Los Angeles Angels vs Texas Rangers (Gate)
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[09:05 WIB] [Baseball] Texas Rangers at Los Angeles Angels (STRMCNTR)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[09:10 WIB] [Baseball] Colorado Rockies at Arizona Diamondbacks (STRMCNTR)
@@ -1065,18 +840,243 @@ http://cdn1host.online:2999/live//bongus/35zqYxrbg0/145.ts
 http://cdn1host.online:2999/live//bongus/35zqYxrbg0/299.ts
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",NBA TV
 http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/1l4rjzt6gy9m7vx/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",OFFLINE - CORINTHIANS VS PINHEIROS SAO PAOLO [BRA]
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[01:20 WIB] [Baseball] Houston Astros at Chicago Cubs (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?st=lftX9wxDq5wYV3rA7VbM5kw_T7P__znfNqif_TeiUs0&e=1779583911
+https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?st=JLQWjPBgoIw6f1AJPw33tMa84Gjhf9KVfXBP37S_KZM&e=1779584554
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9L1nDz24e8C3egkgVIF-6hPdUCk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21210/campus-league-2026-basketball-86a036.jpg" group-title="LIVE EVENT | VIDIDI", JAM 07:00 WIB (24/05) - Universitas Negeri Jakarta vs Universitas Kristen Indonesia Jakarta (Grup A | Putra) - CL Basketball 2026 - Regional Jakarta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/play.m3u8?q=21210&ext=hls&x=1779584431&k=61925907f120b32b64f79fb9c8e2fd60ce81312510a9dc8171f12397356d5834&sc=21210
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6R8AysrYvYQ45Jq6OZ_DZNHWwrM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21099/hydroplus-soccer-league-8673ab.jpg" group-title="LIVE EVENT | VIDIDI", JAM 07:30 WIB (24/05) - Tajimalela FA Women vs SSB Anjelo - HYDROPLUS Soccer League U-18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/play.m3u8?q=21099&ext=hls&x=1779584431&k=16d1a367a7b72cee28d2b1d9ae4316a73f0918fa19e4e96fa9216d4188dda39b&sc=21099
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LA1UuyGx4Ox2mf3F2Fw0wLD1WFw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2026-semifinals-court-1-53a9a3.jpg" group-title="LIVE EVENT | VIDIDI", JAM 11:00 WIB (24/05) - Sayaka Hirota/Ayako Sakuramoto (JPN) vs Chen Fan Shu Tian/Luo Xu Min (CHN) - Women's Doubles Final | PERODUA Malaysia Masters 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18249&ext=drm&x=1779584431&k=722877afabfb2f2e04a3dbfdfd628ac89a17900b0e2390909a1ff8912114fd9d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=18249&ext=dash&x=1779584431&k=343ecad8183762665a373e5e3c191b2965726bcec736e966b3f9783e5dde38bd&sc=18249
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RxVuFQ_bLM6LlLc3jo82TtFOrlA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083863/707c89.jpg" group-title="LIVE EVENT | VIDIDI", JAM 15:55 WIB (24/05) - Round 1 - Day 1 (Court 3) - Roland Garros 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=drm&x=1779584431&k=4d47e4f74a6cabcabf1069c01649df6db62ee800818773b71b34e230eb9bc977
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=dash&x=1779584431&k=ee1ba49036b9cfe4a660d89372fdf3af2e6a11866e8ec8098dfa8689a6d6e4f6&sc=5083863
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1yBWkxNnkdaEI2gqYHj_b-kDf0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080707/3ea0a2.jpg" group-title="LIVE EVENT | VIDIDI", JAM 15:55 WIB (24/05) - Round 1 - Day 1 (Court 2) - Roland Garros 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=drm&x=1779584431&k=fd9f295fd3368a62e9ef714c5c21fd323bf0e3fe132b7217ba45b16b7645696c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=dash&x=1779584431&k=7bdd514f23180e64fde2586e9b7622caf7cb94afb3cf256ebe4f2ddac29d291b&sc=5080707
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/paHla7FpxWwXjeYP-1Xcae5MRhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089640/097442.jpg" group-title="LIVE EVENT | VIDIDI", JAM 16:00 WIB (24/05) - Round 1 - Day 1 (Court 1) - Roland Garros 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779584431&k=2bfeb9ba2565680bc4bf9911d9288cf0d09136cc2754e2bc844e6e4f30c71152
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779584431&k=ea6b496b4fed7598f4e09ef491f8bcef7f9509110fccaf75d06b59dcb37b4d1f&sc=5089640
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VA4LmKtKj8FfFYGmqNT0b1-s8A4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089639/3d4c96.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:30 WIB (25/05) - Round 1 - Night 1 (Court 1) - Roland Garros 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779584431&k=2bfeb9ba2565680bc4bf9911d9288cf0d09136cc2754e2bc844e6e4f30c71152
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779584431&k=ea6b496b4fed7598f4e09ef491f8bcef7f9509110fccaf75d06b59dcb37b4d1f&sc=5089639
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jg0DE5kkU4LCdvM1q0b6-8fHPHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089643/cd7479.jpg" group-title="LIVE EVENT | VIDIDI", JAM 15:55 WIB (25/05) - Round 1 - Day 2 (Court 2) - Roland Garros 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=drm&x=1779584431&k=fd9f295fd3368a62e9ef714c5c21fd323bf0e3fe132b7217ba45b16b7645696c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=dash&x=1779584431&k=7bdd514f23180e64fde2586e9b7622caf7cb94afb3cf256ebe4f2ddac29d291b&sc=5089643
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YlsVP_xjMixg8iA3d32M7VLe17c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089644/ef1f82.jpg" group-title="LIVE EVENT | VIDIDI", JAM 15:55 WIB (25/05) - Round 1 - Day 2 (Court 3) - Roland Garros 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=drm&x=1779584431&k=4d47e4f74a6cabcabf1069c01649df6db62ee800818773b71b34e230eb9bc977
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=dash&x=1779584431&k=ee1ba49036b9cfe4a660d89372fdf3af2e6a11866e8ec8098dfa8689a6d6e4f6&sc=5089644
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AtonBqXVY38IM4BReRu58qGzgEg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089645/854250.jpg" group-title="LIVE EVENT | VIDIDI", JAM 16:00 WIB (25/05) - Round 1 - Day 2 (Court 1) - Roland Garros 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779584431&k=2bfeb9ba2565680bc4bf9911d9288cf0d09136cc2754e2bc844e6e4f30c71152
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779584431&k=ea6b496b4fed7598f4e09ef491f8bcef7f9509110fccaf75d06b59dcb37b4d1f&sc=5089645
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/anfllS_g8fJ-GIhA4TN_X11cPtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083523/cb1ac4.jpg" group-title="LIVE EVENT | VIDIDI", JAM 19:45 WIB (24/05) - Parma vs Sassuolo - Serie A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779584431&k=dc47f75702e3f64b071b84b37ef3074d02c15409e85423b6b2192cd1026c0292
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779584431&k=54d8189105a14dd8efdc154fb913c4932b6e431d70fa7c37732aa57f0aca01f7&sc=5083523
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SxAVgj6ucpDB2WwPmh3aWMbKR4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083528/14de58.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:45 WIB (25/05) - Cremonese vs Como - Serie A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=drm&x=1779584431&k=43d83ed324b76e33437c76437188ca44dab0fdef63c3a38e35faaeeb676bcf00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17938&ext=dash&x=1779584431&k=2072c9a315ce6951bd0a0ec44155001f6b6f3f2bda7c702f9a7110aac87020a9&sc=5083528
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xht2KTUMI2J9hcaX-ZhI19TE_74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083529/8379d1.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:45 WIB (25/05) - Milan vs Cagliari - Serie A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17939&ext=drm&x=1779584431&k=c3dfd9cc4eb1c9e889ca1c4bc81589226ff01277f1a84e26b407ca9adbe40e00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17939&ext=dash&x=1779584431&k=df769fd8f482b5bd14923748ce1373ba0cd78e066b7676748c2a357d33c62418&sc=5083529
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mM22Oifnmdy7xRzs49YyprFnGQM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083974/04fb8b.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:45 WIB (25/05) - Verona vs Roma - Serie A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21398&ext=drm&x=1779584431&k=1f50754d58b2cc5088bd8cc6a5b80b00abc6a9cf3cf3943c2154cf268d849e3e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=21398&ext=dash&x=1779584431&k=5594846f2678773f790c34599f2a13460fc43cfab57a6de50f1d9170bc152194&sc=5083974
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/F_wPWx5IAvHY2Ze2YqjeEFitTnk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080191/68ac8a.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:30 WIB (24/05) - Crystal Palace vs Arsenal - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779584431&k=8f80dd5739300a839ebedec7f4f8191ef170d5db44a90e7c967493bc2c1b3224
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779584431&k=ef8c20d7677e84f3b57f138c4f1a6c38c8d332e19f070aba9a6f5708b6bab79b&sc=5080191
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XqhftroLvRX7strB2RkPgdnvEjc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080211/4e6646.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:30 WIB (24/05) - Liverpool vs Brentford - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=drm&x=1779584431&k=66ad20f8f51b0d891f4b82f89ada491592765fdc5ccaf0fc2b5b8d259905f582
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9183&ext=dash&x=1779584431&k=1f0f697786f63765979c9057bf71fb63b96215f41f77853c0ad18fa59628f14d&sc=5080211
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fZq5Ph-H8EjWuZc-kpfUWSQb9mk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080509/789229.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Tottenham vs Everton - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21476&ext=drm&x=1779584431&k=f6f7ae5bb72ff28fab1cecef2b7730525fd792b33cb960141efa342f70955f7e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=21476&ext=dash&x=1779584431&k=9500833d11e162441097d991bfc0666aa913f079252f241365a8902f0f30f50e&sc=5080509
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2p8c31_KWwFV7fDAGXb5D0GD9N4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080209/faf182.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Fulham vs Newcastle - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=20231&ext=drm&x=1779584431&k=e790ebceeb94653f847df289bdb87a96b807a2b20e4b330741a62121998488b5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=20231&ext=dash&x=1779584431&k=429a76353581b53c95e2718702edae1c8e2c8fa8f3ecbdbd1cfcdffb67bfb8bb&sc=5080209
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QG6YM4rJHJT8H8MfUARe3V0fuwg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080215/3b9904.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Sunderland vs Chelsea - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21462&ext=drm&x=1779584431&k=7b5b3b1538f1d8b6f08dba2d1b4453ad36ec37e6b0c4c786590ddc17f35c901b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=21462&ext=dash&x=1779584431&k=113c838fa03e04d7727ff6ad864da5ca1b697ece7831bd9a4c8f6aa6b51e660d&sc=5080215
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sGQQueqtTOesB_Q761fuR_4726c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080207/af7fbb.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Burnley vs Wolves - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19375&ext=drm&x=1779584431&k=d04fc6416329989cd37880cb02ab1821fb27602842da59573d491f35db06ba15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19375&ext=dash&x=1779584431&k=e00348fc321c3553d363b49423ddeb45b4c4fe641de8c1b126e8ee2bb3c64d99&sc=5080207
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/T32ueopmBXqgRYymcLVoxApXGsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080194/a9993c.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Man City vs Aston Villa - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18797&ext=drm&x=1779584431&k=a0ea8fd636b29e7880293911890e8ca0dadc2700c38a72bafb1318236b1389f2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=18797&ext=dash&x=1779584431&k=0a1afe34ceeb536813610f22747eb64abb8e9268d082b1a6678563ca6d425554&sc=5080194
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yWqf7zs82u5KS4na8WDDzhDOF74=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080213/12e423.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Nottingham Forest vs Bournemouth - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=20242&ext=drm&x=1779584431&k=c0387bd1e6c269f94d5597df549c0bea53d0c8095f4ee17d1d707a510a83a0b3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=20242&ext=dash&x=1779584431&k=97062f3cfc09bc9890a60324c7131c48cb85e909e219707272596f23926d86ab&sc=5080213
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jeMgWWVrjph4nS5jOsuqr-CijJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080199/2ade20.jpg" group-title="LIVE EVENT | VIDIDI", JAM 21:50 WIB (24/05) - Brighton vs Man United - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19536&ext=drm&x=1779584431&k=b2738a87575906e697a18ee10cfa5a8966a4c4c98f37ee7ca26df1299c538b45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19536&ext=dash&x=1779584431&k=cbd38b5db466d7b90c464909d8a111af69f945626288576d7223b611ab3b31af&sc=5080199
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Oz4aaPrEndgt8lhrZjYQs4ZHkj4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080505/e298d8.jpg" group-title="LIVE EVENT | VIDIDI", JAM 22:00 WIB (24/05) - West Ham vs Leeds United - Premier League
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18796&ext=drm&x=1779584431&k=9bc4c36a688534934cef33da2a072f814917ce2f3cf80bfb5d3b507f9ba0bf9f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=18796&ext=dash&x=1779584431&k=a8ac9c53fadac07ccf14e9fc48484ecf5d855286c375c50afd974f408dfb022f&sc=5080505
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4cP-gRAYuyiAT4WHtQfSgHIa2TE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083524/c7d65f.jpg" group-title="LIVE EVENT | VIDIDI", JAM 22:45 WIB (24/05) - Napoli vs Udinese - Serie A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779584431&k=dc47f75702e3f64b071b84b37ef3074d02c15409e85423b6b2192cd1026c0292
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779584431&k=54d8189105a14dd8efdc154fb913c4932b6e431d70fa7c37732aa57f0aca01f7&sc=5083524
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e18G8ed7jah3vAJ6YET78uZSlbY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083775/4fff41.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:45 WIB (25/05) - Torino vs Juventus - Serie A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=drm&x=1779584431&k=dc47f75702e3f64b071b84b37ef3074d02c15409e85423b6b2192cd1026c0292
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=19404&ext=dash&x=1779584431&k=54d8189105a14dd8efdc154fb913c4932b6e431d70fa7c37732aa57f0aca01f7&sc=5083775
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IBo-Cox3k3Lt3oJSnQkY0PehxjU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083973/aded32.jpg" group-title="LIVE EVENT | VIDIDI", JAM 01:45 WIB (25/05) - Lecce vs Genoa - Serie A
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21399&ext=drm&x=1779584431&k=e4d2c830e90117c98dac31d93f913125112742db8737bbc1e98004faca2eefc1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=21399&ext=dash&x=1779584431&k=b09635e207dc15d232f5d692f5fefd2b74f5668ff0c7160719f719e94b325266&sc=5083973
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pf7VF0q-PG1Uy3EnhL6hNm0Zwk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083526/8eea24.jpg" group-title="LIVE EVENT | VIDIDI", JAM 23:00 WIB (24/05) - Race - FIA Formula 2 Championship Canada Grand Prix 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17884&ext=drm&x=1779584431&k=b31534b5c01e245ee19de2fe0c46024058af848125bc623451665af79bcf2290
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17884&ext=dash&x=1779584431&k=bd419e63cdcdc6b049f8d7e984dfb587ad53132758f210ea9520011348669b91&sc=5083526
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OocqljphAokztfeFgPDQAykuRI0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084160/fa4973.jpg" group-title="LIVE EVENT | VIDIDI", JAM 00:00 WIB (25/05) - Arsenal Trophy Ceremony | Premier League 2025/26
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=drm&x=1779584431&k=8f80dd5739300a839ebedec7f4f8191ef170d5db44a90e7c967493bc2c1b3224
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=9182&ext=dash&x=1779584431&k=ef8c20d7677e84f3b57f138c4f1a6c38c8d332e19f070aba9a6f5708b6bab79b&sc=5084160
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KzphPnD9zPuDDsboNffki2zqwRM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5087316/790f5b.jpg" group-title="LIVE EVENT | VIDIDI", JAM 00:00 WIB (25/05) - Round 4 - The CJ Cup Byron Nelson 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18189&ext=drm&x=1779584431&k=d93e1a7c506a43f89a10f66a6ddd0f4862bc9ee0a542dc0ab6a6a4a2708e4dfc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=18189&ext=dash&x=1779584431&k=791ded2780319d7e4b5f5eb62cb20be1fad159ee0fc4185b486648186f487b12&sc=5087316
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KPOVOyIv7Dbmx0BtdXWH77n1vyM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083862/9e8ad5.jpg" group-title="LIVE EVENT | VIDIDI", JAM 02:55 WIB (25/05) - Race - Formula 1 Lenovo Grand Prix du Canada 2026
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17884&ext=drm&x=1779584431&k=b31534b5c01e245ee19de2fe0c46024058af848125bc623451665af79bcf2290
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17884&ext=dash&x=1779584431&k=bd419e63cdcdc6b049f8d7e984dfb587ad53132758f210ea9520011348669b91&sc=5083862
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8ZSHyEqJvYgCOM17RFb40bt8TAw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21466/triumph-fight-genesis-e5461b.jpg" group-title="LIVE EVENT | VIDIDI", JAM 17:00 WIB (31/05) - Triumph Fight "Genesis"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21466&ext=drm&x=1779584431&k=e79f2c233690ff100eccbfeadb9a7d4a5988788e8943588184f67e17e8d6fa5d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=21466&ext=dash&x=1779584431&k=16cb2e98ddef3eb1b51fa86cff80d7125989aa479ba06d8d1a1f45b860720977&sc=21466
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DzXnocwMYJzN0JcfgfZANqYaiPs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21485/tvod-nex-r3c-da3ab4.jpg" group-title="LIVE EVENT | VIDIDI", JAM 16:00 WIB (06/06) - nex Road to Champion Vol. 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21485&ext=drm&x=1779584431&k=51ff0a6f41e47121cab6913f672070870de95f0f2bccc4a52651442977f1d796
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://telasomucombistream.bonetv.web.id/index.mpd?q=21485&ext=dash&x=1779584431&k=ff692515572f8c4dac5189363c764f0478ff51cb886d34cb075aa7f7ad630270&sc=21485
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LA1UuyGx4Ox2mf3F2Fw0wLD1WFw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/perodua-malaysia-masters-2026-semifinals-court-1-53a9a3.jpg" group-title="BWF BADMINTON & VOLLEYBALL", JAM 11:00 WIB (24/05) - Sayaka Hirota/Ayako Sakuramoto (JPN) vs Chen Fan Shu Tian/Luo Xu Min (CHN) - Women's Doubles Final | PERODUA Malaysia Masters 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18249&ext=drm&x=1779583521&k=658c911358cc18ac5e61881afa18eff648bebf9db96f46e0e4038cd1dbee735f
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=18249&ext=drm&x=1779584431&k=722877afabfb2f2e04a3dbfdfd628ac89a17900b0e2390909a1ff8912114fd9d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=18249&ext=dash&x=1779583521&k=62d04273c431f6d54423e4e71623e42e7d8b1e6727904ab2e24740cbea6c3abc&sc=18249
+https://telasomucombistream.bonetv.web.id/index.mpd?q=18249&ext=dash&x=1779584431&k=343ecad8183762665a373e5e3c191b2965726bcec736e966b3f9783e5dde38bd&sc=18249
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [11:30 WIB] [PERODUA Malaysia Masters] Court 1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1088,133 +1088,61 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=drm&x=1779583521&k=f2a86d8e8bb6a91729708f3199256d06e6a3ed6a67efa7bf7c00f8d85f3f6492
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=drm&x=1779584431&k=4d47e4f74a6cabcabf1069c01649df6db62ee800818773b71b34e230eb9bc977
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=dash&x=1779583521&k=d16bbc2bf74aa75be9b5896b464451d319c274fef825b4fdee4fc30286925387&sc=5083863
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=dash&x=1779584431&k=ee1ba49036b9cfe4a660d89372fdf3af2e6a11866e8ec8098dfa8689a6d6e4f6&sc=5083863
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1yBWkxNnkdaEI2gqYHj_b-kDf0I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5080707/3ea0a2.jpg" group-title="BWF BADMINTON & VOLLEYBALL", JAM 15:55 WIB (24/05) - Round 1 - Day 1 (Court 2) - Roland Garros 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=drm&x=1779583521&k=648e3d15089a9b109e118bb8299fe02c6429fcd88a64bb00f448aab519909369
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=drm&x=1779584431&k=fd9f295fd3368a62e9ef714c5c21fd323bf0e3fe132b7217ba45b16b7645696c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=dash&x=1779583521&k=51995d74669d8a74cb250d2864857b69a40e0d82c3c37a96e13e9ac6b2c4c75f&sc=5080707
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=dash&x=1779584431&k=7bdd514f23180e64fde2586e9b7622caf7cb94afb3cf256ebe4f2ddac29d291b&sc=5080707
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/paHla7FpxWwXjeYP-1Xcae5MRhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089640/097442.jpg" group-title="BWF BADMINTON & VOLLEYBALL", JAM 16:00 WIB (24/05) - Round 1 - Day 1 (Court 1) - Roland Garros 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779583521&k=cce6f59924a7abfd5602672fbae4cd3ac7614c251f03b735b977bc51624c8cb4
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779584431&k=2bfeb9ba2565680bc4bf9911d9288cf0d09136cc2754e2bc844e6e4f30c71152
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779583521&k=373039e988eee186d4b2acbd47d06233149879d86f7d0a339fd1de04bea2dd6e&sc=5089640
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779584431&k=ea6b496b4fed7598f4e09ef491f8bcef7f9509110fccaf75d06b59dcb37b4d1f&sc=5089640
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VA4LmKtKj8FfFYGmqNT0b1-s8A4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089639/3d4c96.jpg" group-title="BWF BADMINTON & VOLLEYBALL", JAM 01:30 WIB (25/05) - Round 1 - Night 1 (Court 1) - Roland Garros 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779583521&k=cce6f59924a7abfd5602672fbae4cd3ac7614c251f03b735b977bc51624c8cb4
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779584431&k=2bfeb9ba2565680bc4bf9911d9288cf0d09136cc2754e2bc844e6e4f30c71152
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779583521&k=373039e988eee186d4b2acbd47d06233149879d86f7d0a339fd1de04bea2dd6e&sc=5089639
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779584431&k=ea6b496b4fed7598f4e09ef491f8bcef7f9509110fccaf75d06b59dcb37b4d1f&sc=5089639
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Jg0DE5kkU4LCdvM1q0b6-8fHPHA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089643/cd7479.jpg" group-title="BWF BADMINTON & VOLLEYBALL", JAM 15:55 WIB (25/05) - Round 1 - Day 2 (Court 2) - Roland Garros 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=drm&x=1779583521&k=648e3d15089a9b109e118bb8299fe02c6429fcd88a64bb00f448aab519909369
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=drm&x=1779584431&k=fd9f295fd3368a62e9ef714c5c21fd323bf0e3fe132b7217ba45b16b7645696c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=dash&x=1779583521&k=51995d74669d8a74cb250d2864857b69a40e0d82c3c37a96e13e9ac6b2c4c75f&sc=5089643
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6317&ext=dash&x=1779584431&k=7bdd514f23180e64fde2586e9b7622caf7cb94afb3cf256ebe4f2ddac29d291b&sc=5089643
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YlsVP_xjMixg8iA3d32M7VLe17c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089644/ef1f82.jpg" group-title="BWF BADMINTON & VOLLEYBALL", JAM 15:55 WIB (25/05) - Round 1 - Day 2 (Court 3) - Roland Garros 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=drm&x=1779583521&k=f2a86d8e8bb6a91729708f3199256d06e6a3ed6a67efa7bf7c00f8d85f3f6492
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=drm&x=1779584431&k=4d47e4f74a6cabcabf1069c01649df6db62ee800818773b71b34e230eb9bc977
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=dash&x=1779583521&k=d16bbc2bf74aa75be9b5896b464451d319c274fef825b4fdee4fc30286925387&sc=5089644
+https://telasomucombistream.bonetv.web.id/index.mpd?q=6299&ext=dash&x=1779584431&k=ee1ba49036b9cfe4a660d89372fdf3af2e6a11866e8ec8098dfa8689a6d6e4f6&sc=5089644
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AtonBqXVY38IM4BReRu58qGzgEg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5089645/854250.jpg" group-title="BWF BADMINTON & VOLLEYBALL", JAM 16:00 WIB (25/05) - Round 1 - Day 2 (Court 1) - Roland Garros 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779583521&k=cce6f59924a7abfd5602672fbae4cd3ac7614c251f03b735b977bc51624c8cb4
+#KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=drm&x=1779584431&k=2bfeb9ba2565680bc4bf9911d9288cf0d09136cc2754e2bc844e6e4f30c71152
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779583521&k=373039e988eee186d4b2acbd47d06233149879d86f7d0a339fd1de04bea2dd6e&sc=5089645
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/soccer-ball-logo-png_seeklogo-480250.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [SOCCER] Alaves vs Rayo Vallecano (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/bal1.php?stream=NFLHD14
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/NFLHD14/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/33/1/formula-1-logo-png_seeklogo-330361.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [F1] Canadian Grand Prix Sprint vs Canadian Grand Prix Sprint (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD28
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/NFLHD28/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/85.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [SOCCER] Celta Vigo vs Sevilla (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/bal1.php?stream=NFLHD12
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/NFLHD12/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/88.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [SOCCER] Espanyol vs Real Sociedad (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/bal1.php?stream=NFLHD11
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/NFLHD11/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/84.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [SOCCER] Mallorca vs Real Oviedo (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/bal1.php?stream=NFLHD8
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/NFLHD8/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/2922.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [SOCCER] Getafe vs Osasuna (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/bal1.php?stream=NFLHD10
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/NFLHD10/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/9812.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [SOCCER] Girona vs Elche (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/bal1.php?stream=NFLHD9
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/NFLHD9/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/244.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [SOCCER] Real Betis vs Levante (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/bal1.php?stream=NFLHD13
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/NFLHD13/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/86.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [SOCCER] Real Madrid vs Athletic Club (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/bal1.php?stream=NFLHD7
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/NFLHD7/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/94.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:00 WIB] [SOCCER] Valencia vs Barcelona (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/bal1.php?stream=NFLHD6
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/NFLHD6/index.m3u8
+https://telasomucombistream.bonetv.web.id/index.mpd?q=17875&ext=dash&x=1779584431&k=ea6b496b4fed7598f4e09ef491f8bcef7f9509110fccaf75d06b59dcb37b4d1f&sc=5089645
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [02:07 WIB] [MLB] Toronto Blue Jays vs Pittsburgh Pirates (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB3
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://instreams.pro/US/MLB3/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farense%20VS%20CF%20Os%20Belenenses%20%20Segunda%20Liga.jpg" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [02:30 WIB] [Segunda Liga] Farense vs CF Os Belenenses
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779659122-Kv4cPTAAP5YTi-efa0f11d339d8b00081fb14c2ee6734855fd2043-0246fe4b0386b73e7db20f42f162342b
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/bal.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [03:05 WIB] [MLB] Baltimore Orioles vs Detroit Tigers (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB5
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://instreams.pro/US/MLB5/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [03:05 WIB] [Baseball] Chicago White Sox at San Francisco Giants (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/jkzahzadach20.m3u8?st=tzynE0n9czv2eDFRExbEBVPmkgqSNZSHUIiT-FSwpLs&e=1779583906
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [03:05 WIB] [Baseball] Cleveland Guardians at Philadelphia Phillies (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/Czajafjihafch18.m3u8?st=Mf-14BcQnjUxgTYfZ4r-v1P8chJzIjNlPsFNNOgRov0&e=1779583905
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [03:05 WIB] [Baseball] Detroit Tigers at Baltimore Orioles (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/bzagLHzach19.m3u8?st=pYHJWahfdPKwEqPJuUz2VOlwUkPnpw86UFcQTxqEB24&e=1779583906
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/phi.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [03:05 WIB] [MLB] Philadelphia Phillies vs Cleveland Guardians (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB4
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1245,151 +1173,162 @@ https://instreams.pro/US/MLB10/index.m3u8
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://instreams.pro/US/MLB8/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [03:10 WIB] [Baseball] Minnesota Twins at Boston Red Sox (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=QjlX2F3vCar0Ar3OAZd4YxyiuaEKu8lRs1elKZXgCwg&e=1779583902
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [03:10 WIB] [Baseball] New York Mets at Miami Marlins (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ijfnakfidch22.m3u8?st=lsHWmDHLaZkD0juGGPBJtygqYlbPHIRWagCeZ1mO4UE&e=1779583903
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [03:10 WIB] [Baseball] Seattle Mariners at Kansas City Royals (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/fskjanach24.m3u8?st=5EN-GAPi0P1-C9pCbEhNSbGZvfGPXcrJMGFxm-YyAIM&e=1779583904
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [03:10 WIB] [Baseball] Washington Nationals at Atlanta Braves (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=J90Yv-t8XC-zlilp9alwoLeNLOj5Iey9jysYwn7cLXU&e=1779583904
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fea13c74416c40454276a7e0abf25a7f.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:40 WIB] [USA MLS] Minnesota United FC vs Real Salt Lake [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4994840_1.m3u8?auth_key=1779660307-0-0-30df572ac2d499759e742ec23c973767
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4994840_1.m3u8?auth_key=1779660907-0-0-3a65ec3357d3674b2c9a21001506caa2
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20151619fa3f1d3a45634ecc4157e63170a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:10 WIB] [Brasil NBB] Corinthians vs E.C.P [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5370849_1.m3u8?auth_key=1779660307-0-0-2e08efb71ef7189b21c086759fa3ac1b
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5370849_1.m3u8?auth_key=1779660907-0-0-f5e80ccdd33a176548748a1bf4959f85
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202f73086bda38e62ee6a0981168052df1c.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:15 WIB] [Divisi Primera PAR] Deportivo Recoleta vs Klub Guarani [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998309_1.m3u8?auth_key=1779660307-0-0-4c587909cf3b6d067e27b917c1a35adb
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998309_1.m3u8?auth_key=1779660907-0-0-04783c3ec47b195724f32cb566b55982
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2023f4b7db4d5f5dca0849131ff9fad502b.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:30 WIB] [BRA Seri B] Fortaleza vs Londrina PR [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5001887_1.m3u8?auth_key=1779660307-0-0-8bd3d35027303ce172dd0edb7ffb37c0
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5001887_1.m3u8?auth_key=1779660907-0-0-91ef126e29bfbf9882b8a60a43e392e8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202036660cc93ebc159698e218a761c9c48.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:30 WIB] [Divisi Primera URU] Nacional Montevideo vs Albion FC [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5370509_1.m3u8?auth_key=1779660307-0-0-295bf4987304480b489936db090a8284
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5370509_1.m3u8?auth_key=1779660907-0-0-40c1240dcff21faa5918a1487c36753e
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2026b829b81e0deab214e6b48d27128e443.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:30 WIB] [LigaPro Serie A] Orense SC vs CD Universidad Catolica [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5031769_1.m3u8?auth_key=1779660307-0-0-7f89181385606981add8a64ce331944d
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5031769_1.m3u8?auth_key=1779660907-0-0-150952be9996a720c4907bde274d838d
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [05:00 WIB] [F1 Academy Race] F1 ACADEMY, ROUND 2 CANADA, 2026 Race 1
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=efa0f11d339d8b00081fb14c2ee6734855fd2043&x-sign=966dcc1a93da29f007c3585567ee403c&x-time=1779572700
+https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=496baa3137970d12a6166f299498751d6aadb461&x-sign=3ab1761576e55049a63b09629a6b4a3c&x-time=1779573600
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202a293f1ff419a24b4681bbbcf7765e92d.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 05:00 WIB] [Divisi Primera VEN] Academia Puerto Cabello vs Universidad Central de Venezuela [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5298928_1.m3u8?auth_key=1779660307-0-0-c93513197d495ee462e06d0864115221
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5298928_1.m3u8?auth_key=1779660907-0-0-1bcc03eeadd461569b749e1b21a5c7c7
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202bbc87179fa89cfde026d2cf45473d406.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 05:00 WIB] [BRA Seri A] Gremio (RS) vs Santos Fc - SP [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998294_1.m3u8?auth_key=1779660307-0-0-c926f39b961e26cafb6a67c4bb0023f9
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998294_1.m3u8?auth_key=1779660907-0-0-075c7fa30a8a0062892b2bba039bce24
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fe6a5792c87ef4f9eede238a0a3ed7e8.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 05:00 WIB] [AS USL] Loudoun United vs Detroit City [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5001888_1.m3u8?auth_key=1779660907-0-0-f46a8cc08927129b591febbe5cf5332a
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202547e449f0d986a7fddf0821b03981add.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 05:00 WIB] [BRA Seri A] Mirassol - SP vs Fluminense RJ [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998291_1.m3u8?auth_key=1779660307-0-0-bccb7b64f390247996894cf38a87fa54
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="🔴 🔴 LIVE EVENT NOW",[05:00 WIB] [Basketball] Portland Fire at Toronto Tempo (STRMCNTR)
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998291_1.m3u8?auth_key=1779660907-0-0-c61e860f42780e1a5820dc31b8b6e909
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [05:00 WIB] [Basketball] Portland Fire at Toronto Tempo (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=-2yO9Y_auQurul6zZjUNBtsQ8vrpKw4qoHk9skX6s80&e=1779583901
+https://edge2caster.pro/hls/ztyarueaghj71.m3u8?st=kWwM-O-BIg3TiY94AwRtNLjAdpByhbydMI5Jwq7TKbc&e=1779584543
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2029cf0aa8a09dbda64cedf47eec0d9dd61.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 05:00 WIB] [Divisi Primera VEN] Portuguesa FC vs Deportivo La Guaira [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5298929_1.m3u8?auth_key=1779660307-0-0-c10e2d725d489dbeb95fa80271cf1397
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5298929_1.m3u8?auth_key=1779660907-0-0-4be1e8aec849c409d37f3a1e24489c37
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20157a5b3958c504a24c7e8b2a0cdc927df.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 05:00 WIB] [WNBA] Tempo vs Fire [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071741_1.m3u8?auth_key=1779660307-0-0-60deb3ebfdc1f8903a206ab420d72bf9
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071741_1.m3u8?auth_key=1779660907-0-0-8e48f827e21a48cddb8b331906a4c5b1
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202d6bfe8f059085fb3b976d0680c87add1.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 05:00 WIB] [CanPL] Vancouver FC vs Supra Du Quebec [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5199513_1.m3u8?auth_key=1779660907-0-0-a410be1ded4fbf7a9ce524b2bf9a56a9
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="🔴 🔴 LIVE EVENT NOW",[06:00 WIB] [Hockey] Montreal Canadiens at Carolina Hurricanes (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/uyopzarf50.m3u8?st=0hqqoM0pSHd8b5asoCuis4q1DTwqS1Ab_0rV8z4o-xw&e=1779583901
+https://edgestreams.pro/hls/uyopzarf50.m3u8?st=b-GObr6aQBWa7LSjB1mqS35Gc87MW7vooVCnuWesAyE&e=1779584542
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[06:15 WIB] [Baseball] Los Angeles Dodgers at Milwaukee Brewers (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=8K6cS0N5wv34EIfXX13smuuUJLachpN2TacIiqFrXSE&e=1779584541
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 🔴 LIVE EVENT NOW",[06:15 WIB] [Baseball] St. Louis Cardinals at Cincinnati Reds (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://edgestreams.pro/hls/kjhfzua25.m3u8?st=XqdFC_Iz9zadWxTo8HOfFNt46znSI1rVkQRFuuXJZk0&e=1779584540
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h3188mojx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:30 WIB - MINNESOTA UNITED FC VS REAL SALT LAKE [MLS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=0b4daced7e947d1ecebcaffefe0844e1&wsABSTime=1779616811
+https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=7cb0590d993b47e15d50f27cc4789524&wsABSTime=1779617410
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh0en6r510/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:00 WIB - GAS VS NACIONALAM [BRA D4]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=dd7e4969e1963c2137aa5f0a43c7cdc7&wsABSTime=1779616811
+https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=32d9e40052dd5714941021c9164cf5d0&wsABSTime=1779617411
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhzeg7ryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:00 WIB - MARITIMO DE LA GUAIRA VS BOLIVAR SC VEN [VEN D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel33.flv?wsSecret=d5bd71b7795b53de9c526aa35aa1f291&wsABSTime=1779616811
+https://live1.pro2cdnlive.com/live/channel33.flv?wsSecret=d28ea251a4acc92e9790e3104cba8454&wsABSTime=1779617411
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh06xvmd7o/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:00 WIB - MIXTO EC VS OPERARIO MT [BRA D4]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=f29be854fb639624726a396f6702614b&wsABSTime=1779616811
+https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=1edde6cee37a531caef3a019042dfc26&wsABSTime=1779617411
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/1l4rjnhe51km7vx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:00 WIB - SPRINGFIELD FC VS SUNFLOWER STATE FC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=b7ace63226c851bc66fd38140e588add&wsABSTime=1779616811
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=6a5ae5bc3a60ef3239abaa42b395aa44&wsABSTime=1779617411
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1hy0wvmojx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:15 WIB - DEPORTIVO RECOLETA VS CLUB GUARANI [PAR D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=9461e3050d7ffbc1635cf1a8a9487872&wsABSTime=1779616812
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=c792b291f2f1566b6e9ba628a340f498&wsABSTime=1779617411
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhnp94r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:30 WIB - BROOKE HOUSE FC VS BRAVE SC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel36.flv?wsSecret=7c28cbd9559e740f990cf67c31937dbc&wsABSTime=1779616813
+https://live1.pro2cdnlive.com/live/channel36.flv?wsSecret=aa248dc3729ea94d61e6e7cc02a694bb&wsABSTime=1779617413
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/v2y8m4zhy70ql07/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:30 WIB - FORTALEZA VS LONDRINA PR [BRA D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=77d9880d8271ecf10a0bcd1f3c67e493&wsABSTime=1779616812
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=f47f4c03b023fe4375f722a2c8351f6d&wsABSTime=1779617412
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hv9vkqo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:30 WIB - GOIATUBA VS CAPITAL CF [BRA D4]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel34.flv?wsSecret=199ed8e7ca92123606eac5e7e48bfc79&wsABSTime=1779616812
+https://live1.pro2cdnlive.com/live/channel34.flv?wsSecret=703987099aac7ffe80dfcbb3ff345fa9&wsABSTime=1779617412
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vl7oqdehp5jr510/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:30 WIB - MUNICIPAL IQUIQUE VS CURICO UNIDO [CHI D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=08221d596d246f94fab142e68a74217f&wsABSTime=1779616812
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=748b60f403ccc53b508fa4702f26007d&wsABSTime=1779617412
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhv9xprepz/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:30 WIB - NACIONAL MONTEVIDEO VS ALBION FC [URU D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=8eba69fc49c1868e988b830a318e8416&wsABSTime=1779616812
+https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=55e428dc29de8c7b6f267cb2906e862e&wsABSTime=1779617411
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hz6l4qdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:30 WIB - NU SPORTIVO TRINIDENSE VS NU NACIONAL HUMAITA [PARAG WL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel35.flv?wsSecret=1bafb16f6069a41c764f7cd95607ae81&wsABSTime=1779616813
+https://live1.pro2cdnlive.com/live/channel35.flv?wsSecret=2b23e8a1e28a854639eff757346bb1ca&wsABSTime=1779617412
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhe1n0qwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:30 WIB - ORENSE SC VS UNIVERSIDAD CATOLICA [ECU D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=a4de65274c4f55d342e894f2bc3bca88&wsABSTime=1779616812
+https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=2eb664c99b5bcc21b19c590f1fdb078b&wsABSTime=1779617412
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghdd9m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",05:00 WIB - GREMIO RS VS SANTOS [BRA D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001779573614-0-0-0c2ac5a7a653c94288986116d3101a89
+https://live3.procdnlive.com/livecdn/channel12.flv?auth_key=3000001779574213-0-0-d1103a25a0147ec410ff8d88e416d5d4
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hx3verz84/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",05:00 WIB - LOUDOUN UNITED VS DETROIT CITY [USL CH]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=765e7dcc8c88a413e54d628f8f9707ec&wsABSTime=1779617414
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh4ox4r6od/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",05:00 WIB - MIRASSOL SP VS FLUMINENSE RJ [BRA D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001779573613-0-0-ce7879aa463e965330c76897e7c284f2
+https://live3.procdnlive.com/livecdn/channel18.flv?auth_key=3000001779574213-0-0-f5b912389023d0003367ce6bd4d5fdcc
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh7395r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",05:00 WIB - PORTUGUESA FC VS DEP LA GUAIRA [VEN D1]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=453a6f32d7e0f5c592cfccc397abdcce&wsABSTime=1779617414
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4he76xq86p/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",05:00 WIB - PUERTO CABELLO VS U C V FC [VEN D1]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=db7485ff14592180e3b9c0df0e82f3c2&wsABSTime=1779617413
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_161_1729069197_thumb.png" group-title="SPORTS FHD",SPORTS 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_166_1742379655_thumb.png" group-title="SPORTS FHD",S SPORTS 1 HD
