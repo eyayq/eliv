@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:57 WIB 23/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:57 WIB 23/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:04 WIB 23/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:04 WIB 23/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://photoresources.wtatennis.com/photo-resources/2026/04/16/18fe810e-5362-428f-8c5a-bc26ab95e2e6/406_Strasbourg_2026.png?height=200" group-title="WTA500 Strasbourg",[19:00 WIB 23/05/26] Emma Navarro vs Victoria Mboko [FHD] [LIVE]
@@ -29,13 +29,13 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1273138636339458048/8gOeQFiT_400x400.jpg" group-title="ATP250 Geneva",[20:00 WIB 23/05/26] Mariano Navone vs Learner Tien [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9wsLS4z.png" group-title="Championship",[21:30 WIB 23/05/26] Hull City vs Middlesbrough [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wsLS4z.png" group-title="Championship",[21:30 WIB 23/05/26] Hull City vs Middlesbrough [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9wsLS4z.png" group-title="Championship",[21:30 WIB 23/05/26] Hull City vs Middlesbrough [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wsLS4z.png" group-title="Championship",[21:30 WIB 23/05/26] Hull City vs Middlesbrough [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9wsLS4z.png" group-title="Championship",[21:30 WIB 23/05/26] Hull City vs Middlesbrough [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wsLS4z.png" group-title="Championship",[21:30 WIB 23/05/26] Hull City vs Middlesbrough [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[23:00 WIB 23/05/26] Bologna vs Inter [FHD] [NANTIKAN]
