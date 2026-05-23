@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 21:31:18 WIB 23-05-2026
-# 🔄 Total Channels: 2786
+# ⏰ Latest Updated: 21:37:45 WIB 23-05-2026
+# 🔄 Total Channels: 2780
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [21:31:18 WIB 23-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [21:37:45 WIB 23-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -487,6 +487,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://telasomucombistream.bonetv.web.id/index.mpd?q=6786&ext=dash&x=1779582023&k=c451b335751d3d3504078130fd12e7f01a592c81ccd4e1675e878f4b9b3aba02
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="LIVE EVENT | TENNIS 🎾",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2026b829b81e0deab214e6b48d27128e443.png" group-title="LIGA ITALIA",[ LIVE 04:30 WIB] [LigaPro Serie A] Orense SC vs CD Universidad Catolica [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5031769_1.m3u8?auth_key=1779658487-0-0-881231abeb00a5203c9639d51f785e44
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/anfllS_g8fJ-GIhA4TN_X11cPtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083523/cb1ac4.jpg" group-title="LIGA ITALIA", JAM 19:45 WIB (24/05) - Parma vs Sassuolo - Serie A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1001,16 +1004,6 @@ https://telasomucombistream.bonetv.web.id/index.mpd?q=21466&ext=dash&x=177958202
 #KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21485&ext=drm&x=1779582023&k=b26a024fee4c1ac9336d34394b8076b6336584e005af501d3cd2fbed6022a8ec
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://telasomucombistream.bonetv.web.id/index.mpd?q=21485&ext=dash&x=1779582023&k=bea5608d2e80a84a8d94233695edaa0b522949cd774f56edcbeeba1ad2fcc4e5&sc=21485
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[00:35 WIB] [Baseball] Tampa Bay Rays at New York Yankees (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/dazhfiach15.m3u8?st=qJhb1QFdUSoN2r0aDyw37RABYJWjMXX2m51vgb16tsw&e=1779582110
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [00:35 WIB] [MLB] Tampa Bay Rays vs New York Yankees - SHRK
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-#EXTVLCOPT:http-origin=https://sharkstreams.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb1.bofiles.cfd/live/2/stream.m3u8?expires=1779555375&token=ef39f85089102aa48746510d7cba5e2d496c95df31c3cc2a04ec99a43b4ecd9d
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [02:07 WIB] [Baseball] Pittsburgh Pirates at Toronto Blue Jays (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
@@ -1268,21 +1261,6 @@ https://instreams.pro/US/NFLHD6/index.m3u8
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://instreams.pro/US/MLB3/index.m3u8
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202709abf4e0b005114d2617ec537b8c4cf.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:30 WIB] [ARG Primera Nasional] Atletico Rafaela vs Ferrocarril Midland [Shoot] [CH1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4968638_1.m3u8?auth_key=1779658207-0-0-c85d9ffd1dce6422ae4596e7a23e4e58
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202709abf4e0b005114d2617ec537b8c4cf.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:30 WIB] [ARG Primera Nasional] Atletico Rafaela vs Ferrocarril Midland [Shoot] [CH2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4968638_1.m3u8?auth_key=1779654887-0-0-16a267050bcfa1c7467f0ad97c15c3f1
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202726fcbad58f2f02c7f818f8c8223f9d1.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:30 WIB] [ARG Primera Nasional] San Martin San Juan vs Deportivo Maipu [Shoot]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4968628_1.m3u8?auth_key=1779658207-0-0-20103921dc8ec2efc6ffd771353f9a83
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2029fc0bb7764347ebf12f91165e94b46cb.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:30 WIB] [Liga Portugal 2] SC Farense vs CF Os Belenenses [Shoot] [CH1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5376203_1.m3u8?auth_key=1779658207-0-0-51e609d4289c579ab8553a72719c44a4
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2029fc0bb7764347ebf12f91165e94b46cb.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:30 WIB] [Liga Portugal 2] SC Farense vs CF Os Belenenses [Shoot] [CH2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5376203_1.m3u8?auth_key=1779653347-0-0-b65baba65f4e5f0d20dbbd008f90d969
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farense%20VS%20CF%20Os%20Belenenses%20%20Segunda%20Liga.jpg" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [02:30 WIB] [Segunda Liga] Farense vs CF Os Belenenses
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1297,19 +1275,19 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&
 https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=5N8YIcEfM0pAyV70ZOluvwYnS4jJmTA5EiBzmkYshu8&e=1779582105
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2021fe3777cef7f1f43a33798b3ad7cfc09.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [Morocco Botola Pro] DHJ Difaa Hassani Jadidi vs Olympique de Safi [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5383339_1.m3u8?auth_key=1779658207-0-0-536466b671d61dbf62ddb9204a75eb89
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5383339_1.m3u8?auth_key=1779658487-0-0-9f0aada83146ad68652263fb62b981fe
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20277a20d2069e9404fbfec11f759eaf37a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [USA NWSL] Racing Louisville Women vs North Carolina Courage Women [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5317369_1.m3u8?auth_key=1779658207-0-0-6a52bb5464872a32de40bee3301dcfb8
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5317369_1.m3u8?auth_key=1779658487-0-0-e6f3fb0ad1e6dee1b1a62b9567d31249
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202d7a27a1ccc94c642a2720576ce7ea2bc.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [BRA Seri A] Sao Paulo - SP vs Botafogo RJ [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998293_1.m3u8?auth_key=1779658207-0-0-d69993e46108ce280d4bb4c3e46af689
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998293_1.m3u8?auth_key=1779658487-0-0-173e9751eecad9a98c50f61e21cc8293
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20232bae68515e0364e9299dc65cb142d04.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [Liga 1 Peru] UTC Cajamarca vs Sport Boys [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5001895_1.m3u8?auth_key=1779658207-0-0-e6ec3f15570653dbbb0ce4104022fead
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5001895_1.m3u8?auth_key=1779658487-0-0-62d59b365472325ad48713490ac13833
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20214f3c7a6bc5196a0632e44740f746637.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [BRA Seri A] Vitoria - BA vs Internacional RS [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998296_1.m3u8?auth_key=1779658207-0-0-0d09fd9d0b003014fa5a1c07ce3098d9
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998296_1.m3u8?auth_key=1779658487-0-0-eafc4587e1a3b77b48ef47641388adba
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/bal.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [03:05 WIB] [MLB] Baltimore Orioles vs Detroit Tigers (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB5
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1382,13 +1360,22 @@ https://edgestreams.pro/hls/fskjanach24.m3u8?st=fMAWTwKFIZD9kSL7iOFrN2Ob3mljFDfT
 https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=OWtQNmlJ1iA4lB57dIbKgPZfG9BnzrEKLAOKUnTVMjs&e=1779582101
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fea13c74416c40454276a7e0abf25a7f.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:40 WIB] [USA MLS] Minnesota United FC vs Real Salt Lake [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4994840_1.m3u8?auth_key=1779658207-0-0-cc7bacf7deddef9077dabf1bae2f333f
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4994840_1.m3u8?auth_key=1779658487-0-0-adcaed56f9d9e500b5d428f77a0dead7
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20151619fa3f1d3a45634ecc4157e63170a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:10 WIB] [Brasil NBB] Corinthians vs E.C.P [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5370849_1.m3u8?auth_key=1779658207-0-0-5cee85f239725d81e9b9406cd3d12834
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5370849_1.m3u8?auth_key=1779658487-0-0-ac77150b9eb5b67e468a91b9632f7601
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202f73086bda38e62ee6a0981168052df1c.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:15 WIB] [Divisi Primera PAR] Deportivo Recoleta vs Klub Guarani [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998309_1.m3u8?auth_key=1779658207-0-0-cf44ea5a4ed48f5094a3e217b0a92844
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998309_1.m3u8?auth_key=1779658487-0-0-9a7f6d29ad8caa10175cb99b0f5e4958
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2023f4b7db4d5f5dca0849131ff9fad502b.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:30 WIB] [BRA Seri B] Fortaleza vs Londrina PR [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5001887_1.m3u8?auth_key=1779658487-0-0-0b2aa788e46c8b674d1b659bb7cd753a
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202036660cc93ebc159698e218a761c9c48.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:30 WIB] [Divisi Primera URU] Nacional Montevideo vs Albion FC [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5370509_1.m3u8?auth_key=1779658487-0-0-71bdeaf7b6f911afe0df0fbb312b0680
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2026b829b81e0deab214e6b48d27128e443.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:30 WIB] [LigaPro Serie A] Orense SC vs CD Universidad Catolica [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5031769_1.m3u8?auth_key=1779658487-0-0-881231abeb00a5203c9639d51f785e44
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="🔴 🔴 LIVE EVENT NOW",[05:00 WIB] [Basketball] Portland Fire at Toronto Tempo (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
@@ -3774,6 +3761,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://telasomucombistream.bonetv.web.id/index.mpd?q=6786&ext=dash&x=1779582023&k=c451b335751d3d3504078130fd12e7f01a592c81ccd4e1675e878f4b9b3aba02
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="LIVE EVENT | TENNIS 🎾",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2026b829b81e0deab214e6b48d27128e443.png" group-title="LIGA ITALIA",[ LIVE 04:30 WIB] [LigaPro Serie A] Orense SC vs CD Universidad Catolica [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5031769_1.m3u8?auth_key=1779658487-0-0-881231abeb00a5203c9639d51f785e44
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/anfllS_g8fJ-GIhA4TN_X11cPtI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5083523/cb1ac4.jpg" group-title="LIGA ITALIA", JAM 19:45 WIB (24/05) - Parma vs Sassuolo - Serie A
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4288,16 +4278,6 @@ https://telasomucombistream.bonetv.web.id/index.mpd?q=21466&ext=dash&x=177958202
 #KODIPROP:inputstream.adaptive.license_key=https://telasomucombistream.bonetv.web.id/index.mpd?q=21485&ext=drm&x=1779582023&k=b26a024fee4c1ac9336d34394b8076b6336584e005af501d3cd2fbed6022a8ec
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://telasomucombistream.bonetv.web.id/index.mpd?q=21485&ext=dash&x=1779582023&k=bea5608d2e80a84a8d94233695edaa0b522949cd774f56edcbeeba1ad2fcc4e5&sc=21485
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[00:35 WIB] [Baseball] Tampa Bay Rays at New York Yankees (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streamcenter.xyz/
-#EXTVLCOPT:http-origin=https://streamcenter.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/dazhfiach15.m3u8?st=qJhb1QFdUSoN2r0aDyw37RABYJWjMXX2m51vgb16tsw&e=1779582110
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [00:35 WIB] [MLB] Tampa Bay Rays vs New York Yankees - SHRK
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-#EXTVLCOPT:http-origin=https://sharkstreams.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://mb1.bofiles.cfd/live/2/stream.m3u8?expires=1779555375&token=ef39f85089102aa48746510d7cba5e2d496c95df31c3cc2a04ec99a43b4ecd9d
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [02:07 WIB] [Baseball] Pittsburgh Pirates at Toronto Blue Jays (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
@@ -4555,21 +4535,6 @@ https://instreams.pro/US/NFLHD6/index.m3u8
 #EXTVLCOPT:http-origin=https://instream.click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://instreams.pro/US/MLB3/index.m3u8
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202709abf4e0b005114d2617ec537b8c4cf.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:30 WIB] [ARG Primera Nasional] Atletico Rafaela vs Ferrocarril Midland [Shoot] [CH1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4968638_1.m3u8?auth_key=1779658207-0-0-c85d9ffd1dce6422ae4596e7a23e4e58
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202709abf4e0b005114d2617ec537b8c4cf.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:30 WIB] [ARG Primera Nasional] Atletico Rafaela vs Ferrocarril Midland [Shoot] [CH2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4968638_1.m3u8?auth_key=1779654887-0-0-16a267050bcfa1c7467f0ad97c15c3f1
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202726fcbad58f2f02c7f818f8c8223f9d1.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:30 WIB] [ARG Primera Nasional] San Martin San Juan vs Deportivo Maipu [Shoot]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4968628_1.m3u8?auth_key=1779658207-0-0-20103921dc8ec2efc6ffd771353f9a83
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2029fc0bb7764347ebf12f91165e94b46cb.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:30 WIB] [Liga Portugal 2] SC Farense vs CF Os Belenenses [Shoot] [CH1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5376203_1.m3u8?auth_key=1779658207-0-0-51e609d4289c579ab8553a72719c44a4
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2029fc0bb7764347ebf12f91165e94b46cb.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 02:30 WIB] [Liga Portugal 2] SC Farense vs CF Os Belenenses [Shoot] [CH2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5376203_1.m3u8?auth_key=1779653347-0-0-b65baba65f4e5f0d20dbbd008f90d969
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farense%20VS%20CF%20Os%20Belenenses%20%20Segunda%20Liga.jpg" group-title="🔴 🔴 LIVE EVENT NOW",[LIVE ] [02:30 WIB] [Segunda Liga] Farense vs CF Os Belenenses
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4584,19 +4549,19 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&
 https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?st=5N8YIcEfM0pAyV70ZOluvwYnS4jJmTA5EiBzmkYshu8&e=1779582105
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2021fe3777cef7f1f43a33798b3ad7cfc09.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [Morocco Botola Pro] DHJ Difaa Hassani Jadidi vs Olympique de Safi [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5383339_1.m3u8?auth_key=1779658207-0-0-536466b671d61dbf62ddb9204a75eb89
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5383339_1.m3u8?auth_key=1779658487-0-0-9f0aada83146ad68652263fb62b981fe
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20277a20d2069e9404fbfec11f759eaf37a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [USA NWSL] Racing Louisville Women vs North Carolina Courage Women [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5317369_1.m3u8?auth_key=1779658207-0-0-6a52bb5464872a32de40bee3301dcfb8
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5317369_1.m3u8?auth_key=1779658487-0-0-e6f3fb0ad1e6dee1b1a62b9567d31249
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202d7a27a1ccc94c642a2720576ce7ea2bc.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [BRA Seri A] Sao Paulo - SP vs Botafogo RJ [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998293_1.m3u8?auth_key=1779658207-0-0-d69993e46108ce280d4bb4c3e46af689
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998293_1.m3u8?auth_key=1779658487-0-0-173e9751eecad9a98c50f61e21cc8293
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20232bae68515e0364e9299dc65cb142d04.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [Liga 1 Peru] UTC Cajamarca vs Sport Boys [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5001895_1.m3u8?auth_key=1779658207-0-0-e6ec3f15570653dbbb0ce4104022fead
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5001895_1.m3u8?auth_key=1779658487-0-0-62d59b365472325ad48713490ac13833
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20214f3c7a6bc5196a0632e44740f746637.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:00 WIB] [BRA Seri A] Vitoria - BA vs Internacional RS [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998296_1.m3u8?auth_key=1779658207-0-0-0d09fd9d0b003014fa5a1c07ce3098d9
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998296_1.m3u8?auth_key=1779658487-0-0-eafc4587e1a3b77b48ef47641388adba
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/bal.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [03:05 WIB] [MLB] Baltimore Orioles vs Detroit Tigers (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB5
 #EXTVLCOPT:http-origin=https://instream.click
@@ -4669,13 +4634,22 @@ https://edgestreams.pro/hls/fskjanach24.m3u8?st=fMAWTwKFIZD9kSL7iOFrN2Ob3mljFDfT
 https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=OWtQNmlJ1iA4lB57dIbKgPZfG9BnzrEKLAOKUnTVMjs&e=1779582101
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fea13c74416c40454276a7e0abf25a7f.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 03:40 WIB] [USA MLS] Minnesota United FC vs Real Salt Lake [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4994840_1.m3u8?auth_key=1779658207-0-0-cc7bacf7deddef9077dabf1bae2f333f
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4994840_1.m3u8?auth_key=1779658487-0-0-adcaed56f9d9e500b5d428f77a0dead7
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20151619fa3f1d3a45634ecc4157e63170a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:10 WIB] [Brasil NBB] Corinthians vs E.C.P [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5370849_1.m3u8?auth_key=1779658207-0-0-5cee85f239725d81e9b9406cd3d12834
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5370849_1.m3u8?auth_key=1779658487-0-0-ac77150b9eb5b67e468a91b9632f7601
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202f73086bda38e62ee6a0981168052df1c.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:15 WIB] [Divisi Primera PAR] Deportivo Recoleta vs Klub Guarani [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998309_1.m3u8?auth_key=1779658207-0-0-cf44ea5a4ed48f5094a3e217b0a92844
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4998309_1.m3u8?auth_key=1779658487-0-0-9a7f6d29ad8caa10175cb99b0f5e4958
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2023f4b7db4d5f5dca0849131ff9fad502b.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:30 WIB] [BRA Seri B] Fortaleza vs Londrina PR [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5001887_1.m3u8?auth_key=1779658487-0-0-0b2aa788e46c8b674d1b659bb7cd753a
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202036660cc93ebc159698e218a761c9c48.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:30 WIB] [Divisi Primera URU] Nacional Montevideo vs Albion FC [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5370509_1.m3u8?auth_key=1779658487-0-0-71bdeaf7b6f911afe0df0fbb312b0680
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2026b829b81e0deab214e6b48d27128e443.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 04:30 WIB] [LigaPro Serie A] Orense SC vs CD Universidad Catolica [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5031769_1.m3u8?auth_key=1779658487-0-0-881231abeb00a5203c9639d51f785e44
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="🔴 🔴 LIVE EVENT NOW",[05:00 WIB] [Basketball] Portland Fire at Toronto Tempo (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
