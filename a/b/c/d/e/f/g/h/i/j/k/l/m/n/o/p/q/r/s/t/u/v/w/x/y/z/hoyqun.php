@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:22 WIB 24/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:22 WIB 24/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:29 WIB 24/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:29 WIB 24/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/88.png" group-title="Eredivisie",[17:15 WIB 24/05/26] Ajax vs Utrecht [FHD] [LIVE]
@@ -11,22 +11,22 @@ https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/88.png" group-title="Eredivisie",[17:15 WIB 24/05/26] Ajax vs Utrecht [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbap/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Binh Duong vs Song Lam Nghe An [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Binh Duong vs Song Lam Nghe An [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Binh Duong vs Song Lam Nghe An [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Binh Duong vs Song Lam Nghe An [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Binh Duong vs Song Lam Nghe An [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Binh Duong vs Song Lam Nghe An [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 24/05/26] Hồng Lĩnh Hà Tĩnh vs Công An Nhân Dân [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIanuCn51nriYFO_79zQZpBS9ousE6-KauBQ&s" group-title="Roland Garros",[19:00 WIB 24/05/26] Benjamin Bonzi vs Alexander Zverev [FHD] [NANTIKAN]
@@ -57,13 +57,13 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Brighton vs Manchester United [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Brighton vs Manchester United [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Brighton vs Manchester United [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 24/05/26] Crystal Palace vs Arsenal [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
