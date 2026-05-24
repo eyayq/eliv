@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:13 WIB 24/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:13 WIB 24/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [18:19 WIB 24/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:19 WIB 24/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/88.png" group-title="Eredivisie",[17:15 WIB 24/05/26] Ajax vs Utrecht [FHD] [LIVE]
@@ -216,4 +216,49 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[22:00 WIB 25/05/26] Sarpsborg 08 FF vs Molde [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[01:30 WIB 26/05/26] SC Paderborn 07 vs VfL Wolfsburg [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[01:30 WIB 26/05/26] SC Paderborn 07 vs VfL Wolfsburg [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f9/Bundesliga_logo_%282017%29.png" group-title="Bundesliga",[01:30 WIB 26/05/26] SC Paderborn 07 vs VfL Wolfsburg [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[06:00 WIB 26/05/26] Coritiba vs Bahia [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[06:00 WIB 26/05/26] Coritiba vs Bahia [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[06:00 WIB 26/05/26] Coritiba vs Bahia [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 26/05/26] Alashkert vs Shirak [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 26/05/26] Alashkert vs Shirak [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 26/05/26] Alashkert vs Shirak [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 26/05/26] Morocco vs Burundi [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 26/05/26] Morocco vs Burundi [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 26/05/26] Morocco vs Burundi [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/886.png" group-title="UEFA U17 Championship - Qualification",[23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/886.png" group-title="UEFA U17 Championship - Qualification",[23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/886.png" group-title="UEFA U17 Championship - Qualification",[23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
