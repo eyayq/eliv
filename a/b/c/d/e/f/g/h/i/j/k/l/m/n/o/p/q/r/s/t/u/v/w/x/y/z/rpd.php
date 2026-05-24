@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.17 WIB 25/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.21 WIB 25/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-valladolid-cf-2d51ae.webp" group-title="[LIVE 23:30 WIB 24/05/26] Real Valladolid CF vs Deportivo La Coruna | Server 1",[LIVE 23:30 WIB 24/05/26] Real Valladolid CF vs Deportivo La Coruna | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779650095-0-0-97af525f808e6809df2d756fa56c5d58
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779650275-0-0-a4fb21a58216b8ef5d2c84ea17c77a14
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/real-valladolid-cf-2d51ae.webp" group-title="[LIVE 23:30 WIB 24/05/26] Real Valladolid CF vs Deportivo La Coruna | Server 2",[LIVE 23:30 WIB 24/05/26] Real Valladolid CF vs Deportivo La Coruna | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779650095-0-0-c142d6de31f978aa0d9b0ee1a708ae7a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779650275-0-0-9215bab315e1f3a4bb0433d8ed45f7c3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/malaga-329224.png" group-title="[LIVE 23:30 WIB 24/05/26] Malaga vs Racing Santander | Server 1",[LIVE 23:30 WIB 24/05/26] Malaga vs Racing Santander | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779650095-0-0-d1325074703e125fbf6699dbef605b91
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779650275-0-0-283db40c142e89ea54c12960daaecbc8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/malaga-329224.png" group-title="[LIVE 23:30 WIB 24/05/26] Malaga vs Racing Santander | Server 2",[LIVE 23:30 WIB 24/05/26] Malaga vs Racing Santander | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779650095-0-0-4f0d799aa0df46fbd516087a5d33b76d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779650275-0-0-dd9f23a878a8d3b7c1c8e9ccc45f7153
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ud-las-palmas-21f10d.webp" group-title="[LIVE 23:30 WIB 24/05/26] UD Las Palmas vs Real Zaragoza | Server 1",[LIVE 23:30 WIB 24/05/26] UD Las Palmas vs Real Zaragoza | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=f39ed4f6154604a72d665355682f64d7&txTime=6a13947f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=7b9bf372a6e085b85026c0225340a9c0&txTime=6a139533
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ud-las-palmas-21f10d.webp" group-title="[LIVE 23:30 WIB 24/05/26] UD Las Palmas vs Real Zaragoza | Server 2",[LIVE 23:30 WIB 24/05/26] UD Las Palmas vs Real Zaragoza | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8888b85100f8b7578bf011d2a0958975&txTime=6a13947f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=343e38a9af686023b3b6536e3b546ca2&txTime=6a139533
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sporting-gijon-bda0da.png" group-title="[LIVE 23:30 WIB 24/05/26] Sporting Gijon vs Almeria | Server 1",[LIVE 23:30 WIB 24/05/26] Sporting Gijon vs Almeria | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1779650095-0-0-92090330b9fb66a079d854555b741f7e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1779650275-0-0-bf476733550e97eb075c791efb4f1ba2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sporting-gijon-bda0da.png" group-title="[LIVE 23:30 WIB 24/05/26] Sporting Gijon vs Almeria | Server 2",[LIVE 23:30 WIB 24/05/26] Sporting Gijon vs Almeria | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779650095-0-0-a8380fced8ca8bde37a52b2ef4ccea9e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1779650275-0-0-adb144b5448950e01cc44c55915106a3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fcsb-5c0d83.png" group-title="[LIVE 00:30 WIB 25/05/26] FCSB vs FC Botosani | Server 1",[LIVE 00:30 WIB 25/05/26] FCSB vs FC Botosani | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=71f4085cdbc86cb5dd296b1948406f4d&txTime=6a13947f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=893227d31f8d539951267e43d8e7725e&txTime=6a139533
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fcsb-5c0d83.png" group-title="[LIVE 00:30 WIB 25/05/26] FCSB vs FC Botosani | Server 2",[LIVE 00:30 WIB 25/05/26] FCSB vs FC Botosani | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=7cbe55f961c121e3067d16be91cb4817&txTime=6a13947f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ccea7dae72db17562afdbc5ecad4fc73&txTime=6a139533
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/catanzaro-2ecf12.png" group-title="[LIVE 01:00 WIB 25/05/26] Catanzaro vs Monza | Server 1",[LIVE 01:00 WIB 25/05/26] Catanzaro vs Monza | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779650095-0-0-456d490a05a7cd19938cbfc645839964
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779650275-0-0-9a3a7fe074906c8577228d313ab2cdf8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/catanzaro-2ecf12.png" group-title="[LIVE 01:00 WIB 25/05/26] Catanzaro vs Monza | Server 2",[LIVE 01:00 WIB 25/05/26] Catanzaro vs Monza | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779650095-0-0-6f6f64ca826e2f5707fcabcf9e21d4e7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779650275-0-0-b8b27cbb09db8631a90b1263fef5dedc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/catanzaro-2ecf12.png" group-title="[LIVE 01:00 WIB 25/05/26] Catanzaro vs Monza | Server 3",[LIVE 01:00 WIB 25/05/26] Catanzaro vs Monza | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1779650095-0-0-bf295802ad0738940af3e19f17976850
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1779650275-0-0-5f0f0864d56dd706f3db48523019207a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/catanzaro-2ecf12.png" group-title="[LIVE 01:00 WIB 25/05/26] Catanzaro vs Monza | Server 4",[LIVE 01:00 WIB 25/05/26] Catanzaro vs Monza | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779650095-0-0-f2d294d2db055d0089b6d5a2184688c4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779650275-0-0-b92cca4bf9d2f64433875f1e136cbb2c
