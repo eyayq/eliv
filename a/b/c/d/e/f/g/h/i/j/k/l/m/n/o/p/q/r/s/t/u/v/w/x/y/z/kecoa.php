@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [12.47 WIB 25/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [12.53 WIB 25/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1770362954439-signal-2026-02-06-142509.png" group-title="[UPCOMING 1j 12m 14:00 WIB 25/05/26] DPLUS KIA vs T1",[UPCOMING 1j 12m 14:00 WIB 25/05/26] DPLUS KIA vs T1 (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1770362954439-signal-2026-02-06-142509.png" group-title="[UPCOMING 1j 6m 14:00 WIB 25/05/26] DPLUS KIA vs T1",[UPCOMING 1j 6m 14:00 WIB 25/05/26] DPLUS KIA vs T1 (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/886.png" group-title="[UPCOMING 11j 12m 00:00 WIB 26/05/26] Estonia U17 vs Spain U17",[UPCOMING 11j 12m 00:00 WIB 26/05/26] Estonia U17 vs Spain U17 (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/886.png" group-title="[UPCOMING 11j 6m 00:00 WIB 26/05/26] Estonia U17 vs Spain U17",[UPCOMING 11j 6m 00:00 WIB 26/05/26] Estonia U17 vs Spain U17 (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767890792303-football-icon.png" group-title="[UPCOMING 12j 42m 01:30 WIB 26/05/26] SC Paderborn 07 vs VfL Wolfsburg",[UPCOMING 12j 42m 01:30 WIB 26/05/26] SC Paderborn 07 vs VfL Wolfsburg (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767890792303-football-icon.png" group-title="[UPCOMING 12j 36m 01:30 WIB 26/05/26] SC Paderborn 07 vs VfL Wolfsburg",[UPCOMING 12j 36m 01:30 WIB 26/05/26] SC Paderborn 07 vs VfL Wolfsburg (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/242.png" group-title="[UPCOMING 18j 12m 07:00 WIB 26/05/26] Aucas vs Manta FC",[UPCOMING 18j 12m 07:00 WIB 26/05/26] Aucas vs Manta FC (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/242.png" group-title="[UPCOMING 18j 6m 07:00 WIB 26/05/26] Aucas vs Manta FC",[UPCOMING 18j 6m 07:00 WIB 26/05/26] Aucas vs Manta FC (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/886.png" group-title="[UPCOMING 5j 42m 18:30 WIB 26/05/26] Italy U17 vs France U17",[UPCOMING 5j 42m 18:30 WIB 26/05/26] Italy U17 vs France U17 (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/886.png" group-title="[UPCOMING 5j 36m 18:30 WIB 26/05/26] Italy U17 vs France U17",[UPCOMING 5j 36m 18:30 WIB 26/05/26] Italy U17 vs France U17 (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/886.png" group-title="[UPCOMING 10j 12m 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17",[UPCOMING 10j 12m 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/886.png" group-title="[UPCOMING 10j 6m 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17",[UPCOMING 10j 6m 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[UPCOMING 9j 12m 22:00 WIB 27/05/26] Pyunik Yerevan vs Van",[UPCOMING 9j 12m 22:00 WIB 27/05/26] Pyunik Yerevan vs Van (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[UPCOMING 9j 6m 22:00 WIB 27/05/26] Pyunik Yerevan vs Van",[UPCOMING 9j 6m 22:00 WIB 27/05/26] Pyunik Yerevan vs Van (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
