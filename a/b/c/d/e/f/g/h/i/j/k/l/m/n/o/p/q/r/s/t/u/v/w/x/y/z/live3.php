@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Mon May 25 17:19:32 2026
+# Generated Mon May 25 17:26:36 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 26-05-2026 00:19:16 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 26-05-2026 00:26:23 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Latvian Higher League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/71ec56470b1f954a153d98413368256e.png",📁😈Rigas Futbola Skola😈 [🆚] 😈Tukums-2000 [LIVE]😈📁
 https://bf.jalaplay.net/live/5005228.m3u8?txSecret=db26d2815e6b05cfaf6cdfaab05f3750&txTime=6a147d5f
@@ -24,52 +24,52 @@ https://bf.jalaplay.net/live/5005242.m3u8?txSecret=e3732af4f0ad747da7a34647efd81
 #EXTINF:-1 group-title="📁😈 UEFA European U17 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8b8af0306472b55b13a3d9164ceaba74.png",📁😈Estonia U17😈 [🆚] 😈Spain U17 [LIVE]😈📁
 https://bf.jalaplay.net/live/5005179.m3u8?txSecret=76918c0479714128fd44d031ea584b25&txTime=6a147c42
 #EXTINF:-1 group-title="📁😈 UEFA European U17 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8b8af0306472b55b13a3d9164ceaba74.png",📁😈Estonia U17😈 [🆚] 😈Spain U17 [LIVE]😈📁
-https://bf.jalaplay.net/live/5005243.m3u8?txSecret=55283fcf54950e56a8ef72c096615a91&txTime=6a147ff0
-#EXTINF:-1 group-title="📁😈 UEFA European U17 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8b8af0306472b55b13a3d9164ceaba74.png",📁😈Estonia U17😈 [🆚] 😈Spain U17 [LIVE]😈📁
 https://bf.jalaplay.net/live/5004980.m3u8?txSecret=abc5046ca500d41a321d64f9fc1741c4&txTime=6a147e17
+#EXTINF:-1 group-title="📁😈 UEFA European U17 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8b8af0306472b55b13a3d9164ceaba74.png",📁😈Estonia U17😈 [🆚] 😈Spain U17 [LIVE]😈📁
+https://bf.jalaplay.net/live/5005243.m3u8?txSecret=55283fcf54950e56a8ef72c096615a91&txTime=6a147ff0
 #EXTINF:-1 group-title="📁😈 Egypt League Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/83de79c5af1aa8e7d2f4f445045c4b9d.png",📁😈ZED FC😈 [🆚] 😈Al Masry [LIVE]😈📁
 https://bf.jalaplay.net/live/5005131.m3u8?txSecret=65940d15b2aab8f54bf3e4068d6b96e3&txTime=6a147c0d
 #EXTINF:-1 group-title="📁😈 Egypt League Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/83de79c5af1aa8e7d2f4f445045c4b9d.png",📁😈ZED FC😈 [🆚] 😈Al Masry [LIVE]😈📁
 https://bf.jalaplay.net/live/5005176.m3u8?txSecret=aec0b16e27d73b725a2bd976692b1d1d&txTime=6a147b1d
 #EXTINF:-1 group-title="📁😈 Sweden Superettan 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/18c4076fb0c4bb2925f7c39f9ef3ceb2.png",📁😈IFK Norrkoping FK😈 [🆚] 😈Osters IF [LIVE]😈📁
-https://bf.jalaplay.net/live/5005009.m3u8?txSecret=20e6b5ebd86297e9743e674690e73502&txTime=6a147820
-#EXTINF:-1 group-title="📁😈 Sweden Superettan 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/18c4076fb0c4bb2925f7c39f9ef3ceb2.png",📁😈IFK Norrkoping FK😈 [🆚] 😈Osters IF [LIVE]😈📁
 https://bf.jalaplay.net/live/5005186.m3u8?txSecret=c0d66ea6c96ff7d1b267f0ff1456bc99&txTime=6a148053
+#EXTINF:-1 group-title="📁😈 Sweden Superettan 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/18c4076fb0c4bb2925f7c39f9ef3ceb2.png",📁😈IFK Norrkoping FK😈 [🆚] 😈Osters IF [LIVE]😈📁
+https://bf.jalaplay.net/live/5005009.m3u8?txSecret=002a9dc3f60a6d544fe70e95e1d69882&txTime=6a148631
 #EXTINF:-1 group-title="📁😈 Norwegian Eliteserien 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3846a13443fce5ec322369d88f642df7.png",📁😈Sandefjord😈 [🆚] 😈Fredrikstad [LIVE]😈📁
 https://bf.jalaplay.net/live/5005235.m3u8?txSecret=44761a9f8bb603ee516a2c5e589b581c&txTime=6a147e69
-#EXTINF:-1 group-title="📁😈 Romanian Super Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3888349404e5d5d09f977b30df0ee151.png",📁😈FC Rapid 1923😈 [🆚] 😈CS Universitatea Craiova [10m]😈📁
+#EXTINF:-1 group-title="📁😈 Romanian Super Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3888349404e5d5d09f977b30df0ee151.png",📁😈FC Rapid 1923😈 [🆚] 😈CS Universitatea Craiova [3m]😈📁
 https://bf.jalaplay.net/live/5005237.m3u8?txSecret=986b12996312f13a446ded1715b608c2&txTime=6a148343
-#EXTINF:-1 group-title="📁😈 Bulgarian First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png",📁😈CSKA 1948 Sofia😈 [🆚] 😈Levski Sofia [10m]😈📁
+#EXTINF:-1 group-title="📁😈 Bulgarian First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png",📁😈CSKA 1948 Sofia😈 [🆚] 😈Levski Sofia [3m]😈📁
 https://bf.jalaplay.net/live/5005183.m3u8?txSecret=af072e30ad0af78f962cfdb196d36a61&txTime=6a148287
-#EXTINF:-1 group-title="📁😈 Bulgarian First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png",📁😈Ludogorets Razgrad😈 [🆚] 😈CSKA Sofia [10m]😈📁
-https://bf.jalaplay.net/live/5005236.m3u8?txSecret=f992001d9d54dd94bea3df1cc66314ee&txTime=6a147733
-#EXTINF:-1 group-title="📁😈 German Bundesliga 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/eab6e349cf5811408c0628a774724869.png",📁😈SC Paderborn 07😈 [🆚] 😈VfL Wolfsburg [70m]😈📁
+#EXTINF:-1 group-title="📁😈 Bulgarian First League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png",📁😈Ludogorets Razgrad😈 [🆚] 😈CSKA Sofia [3m]😈📁
+https://bf.jalaplay.net/live/5005236.m3u8?txSecret=f2b6639385889c773903fa05e5e7a1bf&txTime=6a148544
+#EXTINF:-1 group-title="📁😈 German Bundesliga 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/eab6e349cf5811408c0628a774724869.png",📁😈SC Paderborn 07😈 [🆚] 😈VfL Wolfsburg [63m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4543619
-#EXTINF:-1 group-title="📁😈 Scottish Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/06cf9ea719c63d983d0109f87e0d81bf.png",📁😈Saint Mirren😈 [🆚] 😈Partick Thistle FC [100m]😈📁
+#EXTINF:-1 group-title="📁😈 Scottish Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/06cf9ea719c63d983d0109f87e0d81bf.png",📁😈Saint Mirren😈 [🆚] 😈Partick Thistle FC [93m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4543525
-#EXTINF:-1 group-title="📁😈 Peruvian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png",📁😈Comerciantes Unidos😈 [🆚] 😈Deportivo Garcilaso [190m]😈📁
+#EXTINF:-1 group-title="📁😈 Peruvian Liga 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png",📁😈Comerciantes Unidos😈 [🆚] 😈Deportivo Garcilaso [183m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4485049
-#EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Coritiba SAF - PR😈 [🆚] 😈Bahia - BA [340m]😈📁
+#EXTINF:-1 group-title="📁😈 Brazilian Serie A 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png",📁😈Coritiba SAF - PR😈 [🆚] 😈Bahia - BA [333m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4465771
-#EXTINF:-1 group-title="📁😈 LigaPro Serie A  📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0e046e806bd54b6ea05db95101f07401.png",📁😈Sociedad Deportiva Aucas😈 [🆚] 😈Manta FC [400m]😈📁
+#EXTINF:-1 group-title="📁😈 LigaPro Serie A  📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0e046e806bd54b6ea05db95101f07401.png",📁😈Sociedad Deportiva Aucas😈 [🆚] 😈Manta FC [393m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4492502
-#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Shanghai Port B😈 [🆚] 😈Lanzhou Longyuan Athletic [880m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Shanghai Port B😈 [🆚] 😈Lanzhou Longyuan Athletic [873m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4512986
-#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Shenzhen 2028😈 [🆚] 😈Wenzhou Professional Football Club [880m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Shenzhen 2028😈 [🆚] 😈Wenzhou Professional Football Club [873m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4512989
-#EXTINF:-1 group-title="📁😈 Australia FFA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png",📁😈Heidelberg United😈 [🆚] 😈Bentleigh greens [970m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia FFA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png",📁😈Heidelberg United😈 [🆚] 😈Bentleigh greens [963m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544302
-#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈FC Shakhtyor Karagandy😈 [🆚] 😈FK Yelimay Semey B [1000m]😈📁
+#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈FC Shakhtyor Karagandy😈 [🆚] 😈FK Yelimay Semey B [993m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4523572
-#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈FK Arys😈 [🆚] 😈Kairat Almaty II [1120m]😈📁
+#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈FK Arys😈 [🆚] 😈Kairat Almaty II [1113m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4519501
-#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Astana B😈 [🆚] 😈Khan Tengri FC [1240m]😈📁
+#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Astana B😈 [🆚] 😈Khan Tengri FC [1233m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4519502
-#EXTINF:-1 group-title="📁😈 Spanish Primera División de la Liga de Fútbol Femenino 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f31c9ba221ee646ff14f6980a4c938ea.png",📁😈Badalona Women😈 [🆚] 😈Real Madrid Women [1420m]😈📁
+#EXTINF:-1 group-title="📁😈 Spanish Primera División de la Liga de Fútbol Femenino 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/f31c9ba221ee646ff14f6980a4c938ea.png",📁😈Badalona Women😈 [🆚] 😈Real Madrid Women [1413m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4360978
-#EXTINF:-1 group-title="📁😈 Iceland Besta-deild karla 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png",📁😈KR Reykjavik😈 [🆚] 😈Valur Reykjavik [1555m]😈📁
+#EXTINF:-1 group-title="📁😈 Iceland Besta-deild karla 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png",📁😈KR Reykjavik😈 [🆚] 😈Valur Reykjavik [1548m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4480149
-#EXTINF:-1 group-title="📁😈 CONMEBOL Copa Libertadores 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",📁😈Liga Dep Universitaria Quito😈 [🆚] 😈Always Ready [1720m]😈📁
+#EXTINF:-1 group-title="📁😈 CONMEBOL Copa Libertadores 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",📁😈Liga Dep Universitaria Quito😈 [🆚] 😈Always Ready [1713m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4518355
-#EXTINF:-1 group-title="📁😈 CONMEBOL Copa Sudamericana 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png",📁😈Santos Fc - SP😈 [🆚] 😈Deportivo Cuenca [1870m]😈📁
+#EXTINF:-1 group-title="📁😈 CONMEBOL Copa Sudamericana 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png",📁😈Santos Fc - SP😈 [🆚] 😈Deportivo Cuenca [1863m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4518187
