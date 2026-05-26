@@ -1,45 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.49 WIB 27/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.56 WIB 27/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banik-ostrava-ce0b9d.png" group-title="[LIVE 23:00 WIB 26/05/26] Banik Ostrava vs FK MAS Taborsko | Server 1",[LIVE 23:00 WIB 26/05/26] Banik Ostrava vs FK MAS Taborsko | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/banik-ostrava-ce0b9d.png" group-title="[LIVE 23:00 WIB 26/05/26] Banik Ostrava vs FK MAS Taborsko | Server 2",[LIVE 23:00 WIB 26/05/26] Banik Ostrava vs FK MAS Taborsko | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montenegro-u17-aae583.webp" group-title="[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 1",[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montenegro-u17-aae583.webp" group-title="[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 2",[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=3b07c94f3c4ef9ff1f2610cb59616703&txTime=6a163078
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=e9ccddfef34fd978bd2e3ea1434c840e&txTime=6a1631e0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montenegro-u17-aae583.webp" group-title="[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 3",[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=ca577bb01cd0a3aee821270a1116a864&txTime=6a163078
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=02a334c40100101b5552514cbb4a4a99&txTime=6a1631e0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montenegro-u17-aae583.webp" group-title="[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 4",[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779821096-0-0-dab0d3c2b420d74160c510f26f343036
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1779821456-0-0-3becde7fbf08ae3f6057bda865a24964
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montenegro-u17-aae583.webp" group-title="[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 5",[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779821096-0-0-93ff08b8acaac0e6e06b5e8c07134b66
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779821456-0-0-048fa9f3431886a2c1cd89be21c7c54c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montenegro-u17-aae583.webp" group-title="[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 6",[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1779821096-0-0-dd0218073867712ba043b2bd2f7a1594
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1779821456-0-0-5a00142a41bf1e11f1e73d36e54e5b4c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montenegro-u17-aae583.webp" group-title="[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 7",[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1779821096-0-0-654e3ed005c1ba319ca6c6f8a0d932b5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1779821456-0-0-2b036fae10213dd60df3abbbf3a9e19c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montenegro-u17-aae583.webp" group-title="[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 8",[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779821095-0-0-ae1acce874ab17f0691ca61aa49dcf63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1779821455-0-0-9d995cb0d0bf618cde06ae2a80983449
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montenegro-u17-aae583.webp" group-title="[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 9",[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779821095-0-0-69b674cc410e3a907ecce34b6c0e6f5f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1779821455-0-0-0ecda3252c21fb753bc1d60f57ea3666
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montenegro-u17-aae583.webp" group-title="[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 10",[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779821095-0-0-2751b3eb2b21ec8ddb4dd35d3acc49d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1779821455-0-0-90a5e5ad87d694d489d014d1b2742537
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/montenegro-u17-aae583.webp" group-title="[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 11",[LIVE 23:00 WIB 26/05/26] Montenegro U17 vs Denmark U17 | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779821095-0-0-abf4f0572aff98f66137ccec33ff47fb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1779821455-0-0-5c0a4df02390f0e819a318455f1acfcd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bfc-daugavpils-311a8a.png" group-title="[LIVE 23:00 WIB 26/05/26] BFC Daugavpils vs FK Auda Riga | Server 1",[LIVE 23:00 WIB 26/05/26] BFC Daugavpils vs FK Auda Riga | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
@@ -47,122 +47,119 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bfc-daugavpils-311a8a.png" group-title="[LIVE 23:00 WIB 26/05/26] BFC Daugavpils vs FK Auda Riga | Server 3",[LIVE 23:00 WIB 26/05/26] BFC Daugavpils vs FK Auda Riga | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1779821096-0-0-af7aa1af4b21b3efa05ffeb2b3a8df7e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779821456-0-0-8243f5ddc78d2b142c2e6980fee3b4f8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bfc-daugavpils-311a8a.png" group-title="[LIVE 23:00 WIB 26/05/26] BFC Daugavpils vs FK Auda Riga | Server 4",[LIVE 23:00 WIB 26/05/26] BFC Daugavpils vs FK Auda Riga | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779821096-0-0-4b83ad496efff0ff507dfc4a1c7351ec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779821456-0-0-f82c17f1e507e671616bec4f3fd74210
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bfc-daugavpils-311a8a.png" group-title="[LIVE 23:00 WIB 26/05/26] BFC Daugavpils vs FK Auda Riga | Server 5",[LIVE 23:00 WIB 26/05/26] BFC Daugavpils vs FK Auda Riga | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1779821096-0-0-61b361acb3b1a41cf696284fbf33fa20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1779821456-0-0-1a6f79f31b731c72ff5627f6df5ac3e7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bfc-daugavpils-311a8a.png" group-title="[LIVE 23:00 WIB 26/05/26] BFC Daugavpils vs FK Auda Riga | Server 6",[LIVE 23:00 WIB 26/05/26] BFC Daugavpils vs FK Auda Riga | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1779821096-0-0-5b2f592bd535b432b534b473208455b5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-sloga-doboj-15c5e3.png" group-title="[LIVE 23:00 WIB 26/05/26] FK Sloga Doboj vs Rudar Prijedor | Server 1",[LIVE 23:00 WIB 26/05/26] FK Sloga Doboj vs Rudar Prijedor | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/honka-espoo-b46b23.png" group-title="[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 1",[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779821095-0-0-c68ea47da24a3344ecc7d0b74b2fb15c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/honka-espoo-b46b23.png" group-title="[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 2",[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779821095-0-0-671067683b138164f0dd37a3364102c6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/honka-espoo-b46b23.png" group-title="[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 3",[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1779821096-0-0-078b8b793ffe0c6a1fd7ab34537be8f1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/honka-espoo-b46b23.png" group-title="[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 4",[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779821096-0-0-e2f7e8908a124ff4094d9feb4570fa25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1779821456-0-0-3ada422ba51e7a1da041a90241b02d86
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hjk-helsinki-fb7485.png" group-title="[LIVE 23:00 WIB 26/05/26] HJK Helsinki vs Mypa | Server 1",[LIVE 23:00 WIB 26/05/26] HJK Helsinki vs Mypa | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779821096-0-0-a93d1fa898f35b1eab4567663368b5db
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1779821262-0-0-b0cb5ec2c28b1577be8ab99d15787735
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hjk-helsinki-fb7485.png" group-title="[LIVE 23:00 WIB 26/05/26] HJK Helsinki vs Mypa | Server 2",[LIVE 23:00 WIB 26/05/26] HJK Helsinki vs Mypa | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779821096-0-0-a5b86af8e58835efe8b43505ea78b16f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1779821262-0-0-9304136d212098627fd839359a3038f9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hjk-helsinki-fb7485.png" group-title="[LIVE 23:00 WIB 26/05/26] HJK Helsinki vs Mypa | Server 3",[LIVE 23:00 WIB 26/05/26] HJK Helsinki vs Mypa | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=b20b6903a40d3522e83bc3f9423a6668&txTime=6a163078
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=ee93c27810d5149d52118b052b81e5de&txTime=6a1631c8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hjk-helsinki-fb7485.png" group-title="[LIVE 23:00 WIB 26/05/26] HJK Helsinki vs Mypa | Server 4",[LIVE 23:00 WIB 26/05/26] HJK Helsinki vs Mypa | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=4835354b6992584029318feeb6f8e3e0&txTime=6a163078
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=3c62f1f3f6a23ed20a88e735a9d62f2e&txTime=6a1631c8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/honka-espoo-b46b23.png" group-title="[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 1",[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1779821455-0-0-828b806a835617b27a6adaeda6c46262
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/honka-espoo-b46b23.png" group-title="[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 2",[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1779821455-0-0-933ab9ca3b1ce4a4121dafd9a0a0d0be
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/honka-espoo-b46b23.png" group-title="[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 3",[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1779821456-0-0-a6a09a794c8fcbd955fce2570eccb5b3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/honka-espoo-b46b23.png" group-title="[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 4",[LIVE 23:00 WIB 26/05/26] Honka Espoo vs Vantaa | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1779821456-0-0-664a6109aa5a70bcc84d6a94632f77dc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hsk-zrinjski-mostar-3b8590.png" group-title="[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 1",[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hsk-zrinjski-mostar-3b8590.png" group-title="[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 2",[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779821096-0-0-79836ede9fa15d896f96f8eefdf5f9c0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1779821456-0-0-31653b265007c2b746bbf1ecd6fabcaa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hsk-zrinjski-mostar-3b8590.png" group-title="[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 3",[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779821096-0-0-b7d2e1fa7ea259d4f1777c99fbaa11bc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1779821456-0-0-c657628ad5dff31602bce8d70a61d2f4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hsk-zrinjski-mostar-3b8590.png" group-title="[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 4",[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1779821096-0-0-0f3bf66921c188adcf7422ca20a62c50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1779821456-0-0-4cf6ac85c0df4eece0975a832706efac
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hsk-zrinjski-mostar-3b8590.png" group-title="[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 5",[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779821096-0-0-fbee3b95d63b3bd301ea7ccb5ad24dff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1779821456-0-0-c4ba0a00d9553fb7b748258e76dcce00
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hsk-zrinjski-mostar-3b8590.png" group-title="[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 6",[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=2392863bc88887236df5ba051df10a80&txTime=6a163078
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=ea4abd1a1e4b2801caf1d935906db4ac&txTime=6a1631e0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hsk-zrinjski-mostar-3b8590.png" group-title="[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 7",[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=ba02235bc5b6762525bfe3da339ba304&txTime=6a163078
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=5ea81507f30edfb350cf12eaaa932e72&txTime=6a1631e0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hsk-zrinjski-mostar-3b8590.png" group-title="[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 8",[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1779821096-0-0-528c8de8cce68bedd198862a9a724660
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1779821455-0-0-1325be265c909715aaedde929c23dac9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hsk-zrinjski-mostar-3b8590.png" group-title="[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 9",[LIVE 00:00 WIB 27/05/26] HSK Zrinjski Mostar vs FK Velez Mostar | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779821096-0-0-97ba5027db2836887e6453a1b081c118
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1779821455-0-0-fd58b20e967e2a7e8c7f2d4af993c1f9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gil-vicente-u23-8ee297.png" group-title="[LIVE 00:00 WIB 27/05/26] Gil Vicente U23 vs Santa Clara U23 | Server 1",[LIVE 00:00 WIB 27/05/26] Gil Vicente U23 vs Santa Clara U23 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 1",[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779821096-0-0-9a83d891d55072b3ea1fb6cb89ccb7e4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=4af6b6ed9d10ed8b868c60d561de77f1&txTime=6a1631df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 2",[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779821096-0-0-b0c2fdc6c1c14f37a67c39248f41481c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=f9cf2d8f4d169d55491f27998a06e4af&txTime=6a1631df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 3",[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=c4e7dafbd6bfb59079c9ab40a9906ebe&txTime=6a163078
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1779821456-0-0-7f3d246166008bb7ff7dd7b02b1f355c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 4",[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=123ab11fdaf18eca030216f82cd579f6&txTime=6a163078
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779821456-0-0-a4d2b1b3dab64f6de403cd17608d24cb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 5",[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1779821096-0-0-5e13b93ff86be2cdc2c9c6bc856c5bf1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779821456-0-0-d90167fb181106fbccc2d9ac9ce0923e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 6",[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1779821096-0-0-4998407e48a7bdbd8da007a05d4c92b1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779821456-0-0-52afaed24e7378651cdfab18c36942eb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 7",[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1779821096-0-0-7ad7ab9f8e9ceb102ef337a7d0f3d78f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1779821456-0-0-8a8803888579daad29c63ed14b9172dd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 8",[LIVE 00:00 WIB 27/05/26] Orebro vs Helsingborg | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1779821096-0-0-37a8e54b2e10be5b10c89f512218223b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1779821456-0-0-e2b7f6d3596cdb501857f8a9699d713e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-beer-sheva-26536e.png" group-title="[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 1",[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-beer-sheva-26536e.png" group-title="[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 2",[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779821096-0-0-450285e8830a92c7a086f5e773dbfa33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1779821456-0-0-26c3fbd67f1ef944984d9c153b9318f0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-beer-sheva-26536e.png" group-title="[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 3",[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779821096-0-0-66742527e215f14e808b62f6e600479a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1779821456-0-0-2c03faca76c0880bc0474e91aa423ab1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-beer-sheva-26536e.png" group-title="[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 4",[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1779821096-0-0-11adee3a60e126618157fb7741bfe95f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1779821456-0-0-d7ac3d6dd123a5cedc5bab0781d91f68
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-beer-sheva-26536e.png" group-title="[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 5",[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779821096-0-0-bccc82ecf5161d0fce0b334d282ca213
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779821456-0-0-46104fe6bfda7a7c47c3fe63983d85c2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-beer-sheva-26536e.png" group-title="[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 6",[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=93c70b499e8ae3fa7c33a9a455259937&txTime=6a163078
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=4a750dd9b13e932ac71ccc6f0740826c&txTime=6a1631e0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-beer-sheva-26536e.png" group-title="[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 7",[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=5beae2d56d0327a3ed5ca3a1ec9f7499&txTime=6a163078
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=1f8a0f46158d41424e18c86c91058831&txTime=6a1631e0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-beer-sheva-26536e.png" group-title="[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 8",[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1779821096-0-0-751a3dd57a898a7965a4c37f29435e14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1779821456-0-0-ee4510c5b9c401112f04b8ac9d031dfe
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hapoel-beer-sheva-26536e.png" group-title="[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 9",[LIVE 00:30 WIB 27/05/26] Hapoel Beer Sheva vs Maccabi Tel Aviv | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1779821096-0-0-ee183442a0f967317a2b6b648b2093e6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1779821456-0-0-dd109916d3c7572ad520a98f9c68524e
