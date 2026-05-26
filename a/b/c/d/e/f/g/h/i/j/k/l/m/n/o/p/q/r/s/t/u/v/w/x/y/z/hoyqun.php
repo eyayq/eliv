@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [00:04 WIB 27/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:04 WIB 27/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [00:23 WIB 27/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:23 WIB 27/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf-OcS51GUU2TzfvCC8lZglnvdEniw1DpdA&s" group-title="UK OPEN",[18:00 WIB 26/05/26] UK OPEN [FHD] [LIVE]
@@ -10,15 +10,6 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf-OcS51GUU2TzfvCC8lZglnvdEniw1DpdA&s" group-title="UK OPEN",[18:00 WIB 26/05/26] UK OPEN [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c6/Armenia_-_Armenian_Football_Logo_4.jpg" group-title="VĐQG Armenia",[22:00 WIB 26/05/26] Alashkert vs Shirak [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c6/Armenia_-_Armenian_Football_Logo_4.jpg" group-title="VĐQG Armenia",[22:00 WIB 26/05/26] Alashkert vs Shirak [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c6/Armenia_-_Armenian_Football_Logo_4.jpg" group-title="VĐQG Armenia",[22:00 WIB 26/05/26] Alashkert vs Shirak [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[22:00 WIB 26/05/26] Alexander Bublik vs Jan-Lennard Struff [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
