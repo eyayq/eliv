@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [02:39 WIB 27/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:39 WIB 27/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [02:46 WIB 27/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [02:46 WIB 27/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf-OcS51GUU2TzfvCC8lZglnvdEniw1DpdA&s" group-title="UK OPEN",[18:00 WIB 26/05/26] UK OPEN [FHD] [LIVE]
@@ -290,6 +290,33 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="CONMEBOL Libertadores",[07:30 WIB 29/05/26] Boca Juniors vs U. Catolica [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="CONMEBOL Libertadores",[07:30 WIB 29/05/26] Cruzeiro vs Barcelona SC [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="CONMEBOL Libertadores",[07:30 WIB 29/05/26] Cruzeiro vs Barcelona SC [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="CONMEBOL Libertadores",[07:30 WIB 29/05/26] Cruzeiro vs Barcelona SC [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[18:30 WIB 29/05/26] Montenegro U17 vs Italy U17 [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[18:30 WIB 29/05/26] Montenegro U17 vs Italy U17 [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[18:30 WIB 29/05/26] Montenegro U17 vs Italy U17 [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 29/05/26] Shenyang Urban vs SHANGHAI SIPG [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 29/05/26] Shenyang Urban vs SHANGHAI SIPG [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 29/05/26] Shenyang Urban vs SHANGHAI SIPG [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[19:00 WIB 29/05/26] Iran vs Gambia [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
 
@@ -316,3 +343,21 @@ https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 29/05/26] South Africa vs Nicaragua [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[23:00 WIB 29/05/26] France U17 vs Denmark U17 [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[23:00 WIB 29/05/26] France U17 vs Denmark U17 [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[23:00 WIB 29/05/26] France U17 vs Denmark U17 [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[23:30 WIB 29/05/26] Ludogorets vs Lokomotiv Plovdiv [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[23:30 WIB 29/05/26] Ludogorets vs Lokomotiv Plovdiv [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vJvVS1V1-WGg1ezsm.png" group-title="First League",[23:30 WIB 29/05/26] Ludogorets vs Lokomotiv Plovdiv [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
