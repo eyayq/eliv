@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 05:57:39 WIB 27-05-2026
-# 🔄 Total Channels: 3806
+# ⏰ Latest Updated: 06:03:55 WIB 27-05-2026
+# 🔄 Total Channels: 3804
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [05:57:39 WIB 27-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [06:03:55 WIB 27-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -4368,24 +4368,18 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ECXKdeYWQcHSusrj3jVx7jvazKXU-ZxQXQ&s" group-title="EVENT 026/MEI/2026",002 Women Pro Futsal League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 026/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941290728061_AiHD.m3u8?txSecret=364972f99aadf903197a282b475db663&txTime=6A163400
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 027/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941831687061_AiSD.m3u8?txSecret=96446d7c1482f511fb80ae8b26be8330&txTime=6A178580
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="BWF BADMINTON & VOLLEYBALL",09:00 WIB KFF Singapore Badminton Open 2026
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941290728061_AiHD.m3u8?txSecret=364972f99aadf903197a282b475db663&txTime=6A163400
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 026/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941464409061_AiHD.m3u8?txSecret=5c8079c85b22527ae72ea8b4a91e716e&txTime=6A163400
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941831687061_AiSD.m3u8?txSecret=96446d7c1482f511fb80ae8b26be8330&txTime=6A178580
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 027/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942021240061_AiSD.m3u8?txSecret=df325d3e9d2d499158e1d6927fe49b48&txTime=6A178580
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="BWF BADMINTON & VOLLEYBALL",09:00 WIB KFF Singapore Badminton Open 2026
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941464409061_AiHD.m3u8?txSecret=5c8079c85b22527ae72ea8b4a91e716e&txTime=6A163400
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 026/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941635099061_AiHD.m3u8?txSecret=2abb23ffeb4df6db028d185d6e2078ac&txTime=6A163400
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942021240061_AiSD.m3u8?txSecret=df325d3e9d2d499158e1d6927fe49b48&txTime=6A178580
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 027/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942184149061_AiSD.m3u8?txSecret=0ac68a5a1b84d341015590f156a2e1ad&txTime=6A178580
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="BWF BADMINTON & VOLLEYBALL",09:00 WIB KFF Singapore Badminton Open 2026
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941635099061_AiHD.m3u8?txSecret=2abb23ffeb4df6db028d185d6e2078ac&txTime=6A163400
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942184149061_AiSD.m3u8?txSecret=0ac68a5a1b84d341015590f156a2e1ad&txTime=6A178580
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="❗JΟΙΝ ΚΕ ΤΕLΕ UΝΤUΚ UΡDΑΤΕ ΑΡΚ❗",INGAT RLAULIST INI GRATIS
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C490-1750072819.png" group-title="SPORTS FHD",WWE (Fox Sports Premium)
@@ -10189,24 +10183,18 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ECXKdeYWQcHSusrj3jVx7jvazKXU-ZxQXQ&s" group-title="EVENT 026/MEI/2026",002 Women Pro Futsal League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 026/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941290728061_AiHD.m3u8?txSecret=364972f99aadf903197a282b475db663&txTime=6A163400
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 027/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941831687061_AiSD.m3u8?txSecret=96446d7c1482f511fb80ae8b26be8330&txTime=6A178580
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="BWF BADMINTON & VOLLEYBALL",09:00 WIB KFF Singapore Badminton Open 2026
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941290728061_AiHD.m3u8?txSecret=364972f99aadf903197a282b475db663&txTime=6A163400
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 026/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941464409061_AiHD.m3u8?txSecret=5c8079c85b22527ae72ea8b4a91e716e&txTime=6A163400
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941831687061_AiSD.m3u8?txSecret=96446d7c1482f511fb80ae8b26be8330&txTime=6A178580
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 027/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942021240061_AiSD.m3u8?txSecret=df325d3e9d2d499158e1d6927fe49b48&txTime=6A178580
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="BWF BADMINTON & VOLLEYBALL",09:00 WIB KFF Singapore Badminton Open 2026
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941464409061_AiHD.m3u8?txSecret=5c8079c85b22527ae72ea8b4a91e716e&txTime=6A163400
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 026/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941635099061_AiHD.m3u8?txSecret=2abb23ffeb4df6db028d185d6e2078ac&txTime=6A163400
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942021240061_AiSD.m3u8?txSecret=df325d3e9d2d499158e1d6927fe49b48&txTime=6A178580
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="EVENT 027/MEI/2026",09:00 WIB KFF Singapore Badminton Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942184149061_AiSD.m3u8?txSecret=0ac68a5a1b84d341015590f156a2e1ad&txTime=6A178580
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ48N_jU3D0MsKBIh_ajBICsVo3ZuIFbX-L9Q&s" group-title="BWF BADMINTON & VOLLEYBALL",09:00 WIB KFF Singapore Badminton Open 2026
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play.cbalive.weibisai.com/live/4214941635099061_AiHD.m3u8?txSecret=2abb23ffeb4df6db028d185d6e2078ac&txTime=6A163400
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4214942184149061_AiSD.m3u8?txSecret=0ac68a5a1b84d341015590f156a2e1ad&txTime=6A178580
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="❗JΟΙΝ ΚΕ ΤΕLΕ UΝΤUΚ UΡDΑΤΕ ΑΡΚ❗",INGAT RLAULIST INI GRATIS
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C490-1750072819.png" group-title="SPORTS FHD",WWE (Fox Sports Premium)
