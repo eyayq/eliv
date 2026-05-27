@@ -1,51 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [04:27 WIB 28/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [04:27 WIB 28/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [04:33 WIB 28/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [04:33 WIB 28/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[15:00 WIB 27/05/26] YEO Jia Min vs Akane YAMAGUCHI  [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[15:00 WIB 27/05/26] YEO Jia Min vs Akane YAMAGUCHI  [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[15:00 WIB 27/05/26] YEO Jia Min vs Akane YAMAGUCHI  [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf-OcS51GUU2TzfvCC8lZglnvdEniw1DpdA&s" group-title="UK OPEN",[21:00 WIB 27/05/26] UK OPEN [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf-OcS51GUU2TzfvCC8lZglnvdEniw1DpdA&s" group-title="UK OPEN",[21:00 WIB 27/05/26] UK OPEN [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf-OcS51GUU2TzfvCC8lZglnvdEniw1DpdA&s" group-title="UK OPEN",[21:00 WIB 27/05/26] UK OPEN [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/142.png" group-title="Primera División Femenina",[00:00 WIB 28/05/26] Barcelona W vs Real Sociedad W [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/142.png" group-title="Primera División Femenina",[00:00 WIB 28/05/26] Barcelona W vs Real Sociedad W [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/142.png" group-title="Primera División Femenina",[00:00 WIB 28/05/26] Barcelona W vs Real Sociedad W [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 28/05/26] Crystal Palace vs Rayo Vallecano [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 28/05/26] Crystal Palace vs Rayo Vallecano [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 28/05/26] Crystal Palace vs Rayo Vallecano [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 28/05/26] Crystal Palace vs Rayo Vallecano [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 28/05/26] Crystal Palace vs Rayo Vallecano [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png" group-title="UEFA Europa Conference League",[02:00 WIB 28/05/26] Crystal Palace vs Rayo Vallecano [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="CONMEBOL Libertadores",[07:30 WIB 28/05/26] Fluminense vs Deportivo La Guaira [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
