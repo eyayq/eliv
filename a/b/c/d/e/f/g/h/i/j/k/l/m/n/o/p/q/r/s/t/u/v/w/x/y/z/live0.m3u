@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 14:15:45 WIB 27-05-2026
-# 🔄 Total Channels: 3943
+# ⏰ Latest Updated: 14:22:54 WIB 27-05-2026
+# 🔄 Total Channels: 3949
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:15:45 WIB 27-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:22:54 WIB 27-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -61,6 +61,18 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   27/05 Yaypan FK vs Termez Surkhon  LAO HAC flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   27/05 Vertical vs Smorgon FC  TON LAP m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   27/05 Vertical vs Smorgon FC  TON LAP flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3402_1gpyst1m7129.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   27/05 Pakhtakor vs Kattaqurgon  HAN TIN m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3402_1gpyst1m7129.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",21:00   27/05 Pakhtakor vs Kattaqurgon  HAN TIN flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F4912_20130804165930.gif&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",20:00   27/05 Irtysh Pavlodar vs Ulytau Zhezkazgan  PELE m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
@@ -348,12 +360,12 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2012d89d0ffe3f7851a92a7c1db040881e3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE 20:00 WIB] [Club Friendship] University of Taipei(w) vs Starbalm Basketball Women [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5405718_1.m3u8?auth_key=1779977327-0-0-4f5d6fbd9069952bf5fbc56d9977b52e
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5405718_1.m3u8?auth_key=1779977787-0-0-c7a1f69b70dd89959e9627d6b18f0229
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/p4jwq25tdnxq0ve/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",22:00 WIB - ANADOLU EFES1976 VS TURK TELEKOM [TBS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001779890748-0-0-6cd697e478963120e4072e0fbdd1bdb0
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001779891348-0-0-57639c44db77af83f50c56a1b6f246d4
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YYmDV2Q3/poster.jpg?width=1920" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING 13:55 WIB | TGL 28/05] Boermans/Brouwer (NED) vs Hammarberg/Berger T. (AUT), Men Pool C on C3 | Ostrava (CZE)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",MLB Network
@@ -525,9 +537,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [16:00 WIB] [Roland Garros] Day 5 | Feed 3
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [16:00 WIB] [Roland Garros] Day 5 | Feed 4
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [16:00 WIB] [Roland Garros] Day 5 | Feed 2
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [16:00 WIB] [Roland Garros] Day 5 | Feed 4
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [17:00 WIB] [Roland Garros] Day 5 | Feed 1
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -563,7 +575,7 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=21537&ext=dash
 https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=21537&ext=dash&x=1779901239&k=3da61df1d79f6b74c264e1b11d1d33d5bf2ddda76348f258795338933b10503a&sc=5095085
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20246b516236de067a829e1d88683427d35.png" group-title="LIGA INGGRIS",[ LIVE 20:00 WIB] [KAZ Premier League] Irtysh Pavlodar vs Ulytau Zhezkazgan [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5064431_1.m3u8?auth_key=1779977327-0-0-a3993c8ab4606efa50a3e4cdfca555ec
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5064431_1.m3u8?auth_key=1779977787-0-0-96b3c01ec2826af7f65acf9fac2da9ce
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png" group-title="LIGA INGGRIS",[ LIVE 20:00 WIB] [Kazakhstan Premier League] Irtysh Pavlodar vs Ulytau Zhezkazgan [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5sHjhJcZcgeXZw.m3u8
@@ -876,7 +888,7 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=18252&ext=dash
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=29a975a8e61c18155ca7a7cf0bc77f97&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=9fe42b9a0d8b6b4494f5bf933ebab79d&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/X8wkKvUDrSfM3Fupr1GYl8mxSuo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096466/bae322.jpg" group-title="BWF BADMINTON & VOLLEYBALL", LIVE 09:00 WIB (27/05) - Takumi Nomura/Yuichi Shimogami (JPN) vs Junaidi Arif/Yap Roy King (MAS) - Men's Doubles Round of 32 | KFF Singapore Open 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -888,42 +900,7 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=18250&ext=dash
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=e2609ed2c86f3f4255fffe4f960b320b&wsABSTime=1779933948
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[LIVE ] [09:10 WIB] [KFF Singapore Badminton Open] Court 3
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779976836-Kv4cPTAAP5YTi-bc1c64511bd14ea629b3eac5b4ddb9bb8d9e333a-655cf03fda7683e9d964c6be6d55ab42
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 2
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 3
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 4
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 1
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1fb2dfc543e9b5e0f5eee00c1530c447&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gk2kTfM-0dQoQcUIeKsLTPPoOH8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095114/4b8053.jpg" group-title="BWF BADMINTON & VOLLEYBALL", LIVE 15:55 WIB (27/05) - Round 2 - Day 4 (Court 3) - Roland Garros 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -963,17 +940,12 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=6299&ext=dash&
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=e2609ed2c86f3f4255fffe4f960b320b&wsABSTime=1779933948
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/4jwq2g9s2x92m0v/image/small" group-title="BWF BADMINTON & VOLLEYBALL",20:00 WIB - HSU YIN HUI LIN JHIH YUN VS GABRIELA STOEVA STEFANI STOEVA [SIN]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel87.flv?wsSecret=534ecd680badff77bf170e761a06ed26&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1fb2dfc543e9b5e0f5eee00c1530c447&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/ednm9wlsw27nryo/image/small" group-title="BWF BADMINTON & VOLLEYBALL",20:40 WIB - RUTAPARNA PANDA SWETAPARNA PANDA VS PHATTHARIN AIAMVAREESRISAKUL SARISA JANPENG [SIN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=25e88ba0bef651243e7bb45c65caa3f2&wsABSTime=1779933949
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1fb2dfc543e9b5e0f5eee00c1530c447&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YMJUP3w6rBzrWrdI0zA_giG0PGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096503/254438.jpg" group-title="BWF BADMINTON & VOLLEYBALL", LIVE 20:48 WIB (27/05) - Valentin Royer vs Novak Djokovic - Men's Singles | Roland Garros 2026: Round 2 - Day 4 (Court 1)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1029,6 +1001,34 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 4
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 1
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 2
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 3
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aURujsUOLaX-BmtbmiQmi3KFQcc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096452/ef2f6e.jpg" group-title="LIVE EVENT | VIDIDI", LIVE 09:00 WIB (27/05) - Chen Cheng Kuan/Liu Kuang Heng (TPE) vs Goh Sze Fei/Nur Izzuddin (MAS) - Men's Doubles Round of 32 | KFF Singapore Open 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1300,31 +1300,37 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202d2b97cb9a335657fe4731a7b755583f8.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 19:25 WIB] [RUS D3A] Sibir Novosibirsk vs Veles Podolsk [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049202_1.m3u8?auth_key=1779977327-0-0-c90748a98533d2188c8a6db810073cb0
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049202_1.m3u8?auth_key=1779977787-0-0-c0c29c2a8224246f7ca4c2919a2f52cd
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2028c08e9bc60cd8fba144ead12211dc5e6.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 19:30 WIB] [KAZ Division 1] Jaiyq vs FK Aktobe II [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5159633_1.m3u8?auth_key=1779977327-0-0-a3e3e07911d7eb22be47d0bc59a2ae70
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5159633_1.m3u8?auth_key=1779977787-0-0-bad3165f140ad7f7bd3af7ed6e8014bf
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2024f4aa012b7dfd3fc84bf7d7cb2a6c169.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 19:30 WIB] [RUS D3A] Torpedo Miass vs Tekstilshchik Ivanovo [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049203_1.m3u8?auth_key=1779977327-0-0-f5de0c41f9cd53a246a1a820ca84d1f5
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049203_1.m3u8?auth_key=1779977787-0-0-2da9e108a5e2539b574f3895df891fe4
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2021ca8865576124dd16ff5ed250ebd03e8.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 20:00 WIB] [RUS D3A] Irtysh 1946 Omsk vs Mashuk-KMV [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049222_1.m3u8?auth_key=1779977327-0-0-0ac0811e432f79793ca9a7b7841ed221
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049222_1.m3u8?auth_key=1779977787-0-0-c38db70a17b5890f063f879bbb789bc2
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20246b516236de067a829e1d88683427d35.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 20:00 WIB] [KAZ Premier League] Irtysh Pavlodar vs Ulytau Zhezkazgan [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5064431_1.m3u8?auth_key=1779977327-0-0-a3993c8ab4606efa50a3e4cdfca555ec
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5064431_1.m3u8?auth_key=1779977787-0-0-96b3c01ec2826af7f65acf9fac2da9ce
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202a2cb05924a7f3fb7d34211220e34f8a0.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 20:00 WIB] [PHI UFL] Kaya FC-Iloilo vs Manila Digger FC [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5317376_1.m3u8?auth_key=1779977327-0-0-85f9e7999519f426f8bffe1e125cdf35
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5317376_1.m3u8?auth_key=1779977787-0-0-398ac1da77982c7a223c578daf836b53
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2012d89d0ffe3f7851a92a7c1db040881e3.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 20:00 WIB] [Club Friendship] University of Taipei(w) vs Starbalm Basketball Women [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5405718_1.m3u8?auth_key=1779977327-0-0-4f5d6fbd9069952bf5fbc56d9977b52e
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5405718_1.m3u8?auth_key=1779977787-0-0-c7a1f69b70dd89959e9627d6b18f0229
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2014c1fdb5a38d7fc70f45fc3f93936d051.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 21:00 WIB] [National League] BK Kaspiy Aktau vs Bk Astana [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5390662_1.m3u8?auth_key=1779977327-0-0-6cee10fd67b232640b7af71992c88769
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5390662_1.m3u8?auth_key=1779977787-0-0-73830b3a5eaea73ebb0cd66ddf26d891
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2027d51d4a2f599fecf608a1665a41fc504.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 21:00 WIB] [Uzbekistan Cup] Pakhtakor vs Kattaqo'rg'on [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5208746_1.m3u8?auth_key=1779977787-0-0-5222cb25bb4916cfd77eb989d4235f4d
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e4a16fab13910b09a8ac10d4c92ad12b.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 21:00 WIB] [BLR Cup] Vertical vs Smorgon FC [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5385180_1.m3u8?auth_key=1779977787-0-0-caf72fe38b5a62a7d3bf76c1ac07d1f4
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20284341f94d530ebf95482ca1d77c191bf.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 21:00 WIB] [Uzbekistan Cup] Yaypan FK vs Termez Surkhon [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5208743_1.m3u8?auth_key=1779977327-0-0-e97f506f474592440a32f4690a05d7b3
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5208743_1.m3u8?auth_key=1779977787-0-0-5fba543be47c427fb8a37f6af84f7f37
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/lad.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [09:10 WIB] [MLB] Los Angeles Dodgers vs Colorado Rockies (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB15
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1397,12 +1403,18 @@ https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5sHjhJcZcgeXZw.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/19ea9ea1eafe06b67600653432bfb22f.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 20:00 WIB] [Philippines United Football League] Kaya FC-Iloilo vs Manila Digger FC [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb2Zbjy6Kw5bzM.m3u8
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/78dd333913352de8fc4e8b0834636245.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 21:00 WIB] [Uzbekistan Cup] Pakhtakor vs FC Kattaqorgon [Seru]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2WfjJFkRfJSqT.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/484694e5e27f57ba3b355a632caae280.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 21:00 WIB] [Moldovan Liga 1] Real Sireti vs FC Floresti [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Zqibe8dZifuuo.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/091b62ea38705019589736ed09230332.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 21:00 WIB] [RUS D3A] Rodina Moskva II vs FK Kaluga [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd636uZZh95Y1KUq.m3u8
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/b8b522378e17fae2e5df361a0d17d477.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 21:00 WIB] [Belarusian Cup] Vertical vs Smorgon FC [Seru]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5ZqibuWzf5TKz5.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/a4f0f6927ad2a2ab41fc8606b0d826cd.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 21:00 WIB] [Uzbekistan Cup] Yaypan FK vs Termez Surkhon [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2WfjG4GZBUXgZ.m3u8
@@ -1410,117 +1422,112 @@ https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2WfjG4GZBUXgZ.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=40650e3aa90551d979b5f6384fb885d4&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=f185324f6727112612cfbe091e4630ab&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohjd8oq1zp/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",19:30 WIB - TORPEDO MIASS VS TEKSTILSHCHIK IVANOVO [RUS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=2be6c9d6094ded0598ddad68ab34e547&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=0018a0c4a02c37abe23df7ad405ea6be&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/ednm9wlsw57xryo/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",19:50 WIB - LU GUANGZU VS LAKSHYA SEN [SIN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=e2609ed2c86f3f4255fffe4f960b320b&wsABSTime=1779933948
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/4jwq2g9s2x92m0v/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - HSU YIN HUI LIN JHIH YUN VS GABRIELA STOEVA STEFANI STOEVA [SIN]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel87.flv?wsSecret=534ecd680badff77bf170e761a06ed26&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1fb2dfc543e9b5e0f5eee00c1530c447&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergph3vv2r8k0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - IRTYSH 1946 OMSK VS MASHUK KMV [RUS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=fa43546678155b2588d12b535c753ce7&wsABSTime=1779933949
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=d274ed0aaaddc3165bf2458575afe14b&wsABSTime=1779934549
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2zowqvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - IRTYSH PAVLODAR VS ULYTAU ZHEZKAZGAN [KAZ PR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001779890749-0-0-1f0a0f4dca6f7cf1f1c75219b069bec6
+https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001779891349-0-0-f1e854ced9b9809c4b9719ce8239ca46
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhd3wryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - KAYA FC VS MANILA DIGGER FC [PH UFL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=0307528eda67756a3b6b3d7bd6a7f267&wsABSTime=1779933949
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=fd3d36dd777cc21f14c62580fa26fedc&wsABSTime=1779934549
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhe586r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - NU KOLOS KOVALIVKA VS NU METALIST 1925 [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=2c7ce80e7747dc273bdee807436f103c&wsABSTime=1779933949
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=d0711c80b229bb30917d0a384b74aa35&wsABSTime=1779934549
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghk7vem0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:30 WIB - BESAT KERMANSHAH VS SHENAVAR SAZI QESHM [IRN D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=21b17247b27cc02e4ae92737e98bb643&wsABSTime=1779933950
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=bc339a9bbf7b34f61535bbcb605e6837&wsABSTime=1779934550
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66ho50vqo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:30 WIB - DAMASH GILAN FC VS NAFT GACHSARAN [IRN D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=523905dd6dd2fbf893e8e940c234f0be&wsABSTime=1779933950
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=f984ebc6cf5cfeb0af9fa08429fcd88a&wsABSTime=1779934549
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/jw2r09gsdo64rz8/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:40 WIB - CHEN CHENG KUAN LIU KUANG HENG VS GOH SZE FEI NUR IZZUDDIN RUMSANI [SIN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=29a975a8e61c18155ca7a7cf0bc77f97&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=9fe42b9a0d8b6b4494f5bf933ebab79d&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/ednm9wlsw27nryo/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:40 WIB - RUTAPARNA PANDA SWETAPARNA PANDA VS PHATTHARIN AIAMVAREESRISAKUL SARISA JANPENG [SIN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=25e88ba0bef651243e7bb45c65caa3f2&wsABSTime=1779933949
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1fb2dfc543e9b5e0f5eee00c1530c447&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh1l9dmoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - REAL SIRETI VS FC FLORESTI [MOL D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=d32ace09d79b4f459fa11df5e37a59d7&wsABSTime=1779933951
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b932907cff44da8a89b7b79184cc1353&wsABSTime=1779934550
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hzy10qdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - RODINA MOSKVA II VS FK KALUGA [RUS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=935b31e5e12489de77519b9a85f721e2&wsABSTime=1779933950
+https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=5bb1c742c3c86ac26446a78794d69d51&wsABSTime=1779934550
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh1yv3moep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - VERTICAL VS SMORGON FC [BLR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001779890750-0-0-875b2a0f1bb96179c0248e17f6fb59d8
+https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001779891350-0-0-1bff68cec037c1081b88fa906ce36fd5
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh08k9md7o/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - FC GAZOVIK VITEBSK VS VOLNA PINSK [BLR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=29e8c59a88d2243aabe7fab7de10ff83&wsABSTime=1779933951
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=248a0be5b49f565b758c2c247201a48f&wsABSTime=1779934551
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlh99l8ryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - FK ALGA BISHKEK VS FC BISHKEK CITY [KYR TL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=536758c571b003b09f1255b1cda05b7b&wsABSTime=1779933952
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=c1f4e01942f2b4761565f649e2383906&wsABSTime=1779934551
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh83ynr6od/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - FK LESKHOZ VS SHAKHTER SOLIGORSK [BLR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779890751-0-0-05c3b886e838e09dc72f887d44fe6885
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779891351-0-0-1247a0511bc09aed9c3a0db46d5332ef
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh18y5ql07/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - NAFT BANDAR ABBAS VS FC FARD [IRN D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=1d3b4a61e4d1cb9bba96067212c799f3&wsABSTime=1779933951
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=536caf2eb496ed7e6124afb0af86a217&wsABSTime=1779934551
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/p4jwq25tdnxq0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - ANADOLU EFES1976 VS TURK TELEKOM [TBS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001779890748-0-0-6cd697e478963120e4072e0fbdd1bdb0
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001779891348-0-0-57639c44db77af83f50c56a1b6f246d4
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h218mojx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - FC PYUNIK VS FK VAN [ARM D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001779890752-0-0-b7719e6309aad6c5138a57a4386bc211
+https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001779891352-0-0-9909ecd3a06da40806b649c4f6a55815
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghj0y5r6od/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - TURAN VS EKIBASTUZETS [KAZ D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=20b68b7ab15dbe3d1906d0f3bd90e684&wsABSTime=1779933953
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=f1787e25ce8ae60ac2b0444103c9282f&wsABSTime=1779934552
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhv21qwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - URARTU VS FC NOAH [ARM D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001779890752-0-0-a9265d95e9d6c06a35ae7c9cfe9866cd
+https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001779891352-0-0-c9e688938162349fcc73ab4a2fbc3fb1
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_161_1729069197_thumb.png" group-title="SPORTS FHD",SPORTS 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_166_1742379655_thumb.png" group-title="SPORTS FHD",S SPORTS 1 HD
@@ -6271,12 +6278,12 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2012d89d0ffe3f7851a92a7c1db040881e3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE 20:00 WIB] [Club Friendship] University of Taipei(w) vs Starbalm Basketball Women [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5405718_1.m3u8?auth_key=1779977327-0-0-4f5d6fbd9069952bf5fbc56d9977b52e
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5405718_1.m3u8?auth_key=1779977787-0-0-c7a1f69b70dd89959e9627d6b18f0229
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/p4jwq25tdnxq0ve/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",22:00 WIB - ANADOLU EFES1976 VS TURK TELEKOM [TBS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001779890748-0-0-6cd697e478963120e4072e0fbdd1bdb0
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001779891348-0-0-57639c44db77af83f50c56a1b6f246d4
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YYmDV2Q3/poster.jpg?width=1920" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING 13:55 WIB | TGL 28/05] Boermans/Brouwer (NED) vs Hammarberg/Berger T. (AUT), Men Pool C on C3 | Ostrava (CZE)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",MLB Network
@@ -6448,9 +6455,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [16:00 WIB] [Roland Garros] Day 5 | Feed 3
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [16:00 WIB] [Roland Garros] Day 5 | Feed 4
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [16:00 WIB] [Roland Garros] Day 5 | Feed 2
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [16:00 WIB] [Roland Garros] Day 5 | Feed 4
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | TENNIS 🎾",[UPCOMING ] [17:00 WIB] [Roland Garros] Day 5 | Feed 1
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -6486,7 +6493,7 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=21537&ext=dash
 https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=21537&ext=dash&x=1779901239&k=3da61df1d79f6b74c264e1b11d1d33d5bf2ddda76348f258795338933b10503a&sc=5095085
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20246b516236de067a829e1d88683427d35.png" group-title="LIGA INGGRIS",[ LIVE 20:00 WIB] [KAZ Premier League] Irtysh Pavlodar vs Ulytau Zhezkazgan [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5064431_1.m3u8?auth_key=1779977327-0-0-a3993c8ab4606efa50a3e4cdfca555ec
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5064431_1.m3u8?auth_key=1779977787-0-0-96b3c01ec2826af7f65acf9fac2da9ce
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png" group-title="LIGA INGGRIS",[ LIVE 20:00 WIB] [Kazakhstan Premier League] Irtysh Pavlodar vs Ulytau Zhezkazgan [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5sHjhJcZcgeXZw.m3u8
@@ -6799,7 +6806,7 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=18252&ext=dash
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=29a975a8e61c18155ca7a7cf0bc77f97&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=9fe42b9a0d8b6b4494f5bf933ebab79d&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/X8wkKvUDrSfM3Fupr1GYl8mxSuo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096466/bae322.jpg" group-title="BWF BADMINTON & VOLLEYBALL", LIVE 09:00 WIB (27/05) - Takumi Nomura/Yuichi Shimogami (JPN) vs Junaidi Arif/Yap Roy King (MAS) - Men's Doubles Round of 32 | KFF Singapore Open 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6811,42 +6818,7 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=18250&ext=dash
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=e2609ed2c86f3f4255fffe4f960b320b&wsABSTime=1779933948
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[LIVE ] [09:10 WIB] [KFF Singapore Badminton Open] Court 3
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779976836-Kv4cPTAAP5YTi-bc1c64511bd14ea629b3eac5b4ddb9bb8d9e333a-655cf03fda7683e9d964c6be6d55ab42
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 2
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 3
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 4
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 1
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1fb2dfc543e9b5e0f5eee00c1530c447&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gk2kTfM-0dQoQcUIeKsLTPPoOH8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5095114/4b8053.jpg" group-title="BWF BADMINTON & VOLLEYBALL", LIVE 15:55 WIB (27/05) - Round 2 - Day 4 (Court 3) - Roland Garros 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6886,17 +6858,12 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=6299&ext=dash&
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=e2609ed2c86f3f4255fffe4f960b320b&wsABSTime=1779933948
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/4jwq2g9s2x92m0v/image/small" group-title="BWF BADMINTON & VOLLEYBALL",20:00 WIB - HSU YIN HUI LIN JHIH YUN VS GABRIELA STOEVA STEFANI STOEVA [SIN]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel87.flv?wsSecret=534ecd680badff77bf170e761a06ed26&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1fb2dfc543e9b5e0f5eee00c1530c447&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/ednm9wlsw27nryo/image/small" group-title="BWF BADMINTON & VOLLEYBALL",20:40 WIB - RUTAPARNA PANDA SWETAPARNA PANDA VS PHATTHARIN AIAMVAREESRISAKUL SARISA JANPENG [SIN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=25e88ba0bef651243e7bb45c65caa3f2&wsABSTime=1779933949
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1fb2dfc543e9b5e0f5eee00c1530c447&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YMJUP3w6rBzrWrdI0zA_giG0PGc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096503/254438.jpg" group-title="BWF BADMINTON & VOLLEYBALL", LIVE 20:48 WIB (27/05) - Valentin Royer vs Novak Djokovic - Men's Singles | Roland Garros 2026: Round 2 - Day 4 (Court 1)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -6952,6 +6919,34 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://api2.ifnewgen.xyz&referer=https://api2.ifnewgen.xyz/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 4
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 1
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 2
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="BWF BADMINTON & VOLLEYBALL",[UPCOMING ] [10:00 WIB] [KFF Singapore Badminton Open] Court 3
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aURujsUOLaX-BmtbmiQmi3KFQcc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5096452/ef2f6e.jpg" group-title="LIVE EVENT | VIDIDI", LIVE 09:00 WIB (27/05) - Chen Cheng Kuan/Liu Kuang Heng (TPE) vs Goh Sze Fei/Nur Izzuddin (MAS) - Men's Doubles Round of 32 | KFF Singapore Open 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7223,31 +7218,37 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202d2b97cb9a335657fe4731a7b755583f8.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 19:25 WIB] [RUS D3A] Sibir Novosibirsk vs Veles Podolsk [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049202_1.m3u8?auth_key=1779977327-0-0-c90748a98533d2188c8a6db810073cb0
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049202_1.m3u8?auth_key=1779977787-0-0-c0c29c2a8224246f7ca4c2919a2f52cd
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2028c08e9bc60cd8fba144ead12211dc5e6.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 19:30 WIB] [KAZ Division 1] Jaiyq vs FK Aktobe II [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5159633_1.m3u8?auth_key=1779977327-0-0-a3e3e07911d7eb22be47d0bc59a2ae70
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5159633_1.m3u8?auth_key=1779977787-0-0-bad3165f140ad7f7bd3af7ed6e8014bf
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2024f4aa012b7dfd3fc84bf7d7cb2a6c169.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 19:30 WIB] [RUS D3A] Torpedo Miass vs Tekstilshchik Ivanovo [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049203_1.m3u8?auth_key=1779977327-0-0-f5de0c41f9cd53a246a1a820ca84d1f5
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049203_1.m3u8?auth_key=1779977787-0-0-2da9e108a5e2539b574f3895df891fe4
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2021ca8865576124dd16ff5ed250ebd03e8.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 20:00 WIB] [RUS D3A] Irtysh 1946 Omsk vs Mashuk-KMV [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049222_1.m3u8?auth_key=1779977327-0-0-0ac0811e432f79793ca9a7b7841ed221
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5049222_1.m3u8?auth_key=1779977787-0-0-c38db70a17b5890f063f879bbb789bc2
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20246b516236de067a829e1d88683427d35.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 20:00 WIB] [KAZ Premier League] Irtysh Pavlodar vs Ulytau Zhezkazgan [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5064431_1.m3u8?auth_key=1779977327-0-0-a3993c8ab4606efa50a3e4cdfca555ec
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5064431_1.m3u8?auth_key=1779977787-0-0-96b3c01ec2826af7f65acf9fac2da9ce
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202a2cb05924a7f3fb7d34211220e34f8a0.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 20:00 WIB] [PHI UFL] Kaya FC-Iloilo vs Manila Digger FC [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5317376_1.m3u8?auth_key=1779977327-0-0-85f9e7999519f426f8bffe1e125cdf35
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5317376_1.m3u8?auth_key=1779977787-0-0-398ac1da77982c7a223c578daf836b53
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2012d89d0ffe3f7851a92a7c1db040881e3.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 20:00 WIB] [Club Friendship] University of Taipei(w) vs Starbalm Basketball Women [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5405718_1.m3u8?auth_key=1779977327-0-0-4f5d6fbd9069952bf5fbc56d9977b52e
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5405718_1.m3u8?auth_key=1779977787-0-0-c7a1f69b70dd89959e9627d6b18f0229
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2014c1fdb5a38d7fc70f45fc3f93936d051.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 21:00 WIB] [National League] BK Kaspiy Aktau vs Bk Astana [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5390662_1.m3u8?auth_key=1779977327-0-0-6cee10fd67b232640b7af71992c88769
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5390662_1.m3u8?auth_key=1779977787-0-0-73830b3a5eaea73ebb0cd66ddf26d891
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2027d51d4a2f599fecf608a1665a41fc504.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 21:00 WIB] [Uzbekistan Cup] Pakhtakor vs Kattaqo'rg'on [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5208746_1.m3u8?auth_key=1779977787-0-0-5222cb25bb4916cfd77eb989d4235f4d
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e4a16fab13910b09a8ac10d4c92ad12b.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 21:00 WIB] [BLR Cup] Vertical vs Smorgon FC [Shoot]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5385180_1.m3u8?auth_key=1779977787-0-0-caf72fe38b5a62a7d3bf76c1ac07d1f4
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20284341f94d530ebf95482ca1d77c191bf.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 21:00 WIB] [Uzbekistan Cup] Yaypan FK vs Termez Surkhon [Shoot]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5208743_1.m3u8?auth_key=1779977327-0-0-e97f506f474592440a32f4690a05d7b3
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5208743_1.m3u8?auth_key=1779977787-0-0-5fba543be47c427fb8a37f6af84f7f37
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/lad.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [09:10 WIB] [MLB] Los Angeles Dodgers vs Colorado Rockies (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB15
 #EXTVLCOPT:http-origin=https://instream.click
@@ -7320,12 +7321,18 @@ https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd5sHjhJcZcgeXZw.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/19ea9ea1eafe06b67600653432bfb22f.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 20:00 WIB] [Philippines United Football League] Kaya FC-Iloilo vs Manila Digger FC [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6MwdLb2Zbjy6Kw5bzM.m3u8
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/78dd333913352de8fc4e8b0834636245.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 21:00 WIB] [Uzbekistan Cup] Pakhtakor vs FC Kattaqorgon [Seru]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2WfjJFkRfJSqT.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/484694e5e27f57ba3b355a632caae280.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 21:00 WIB] [Moldovan Liga 1] Real Sireti vs FC Floresti [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5Zqibe8dZifuuo.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/091b62ea38705019589736ed09230332.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 21:00 WIB] [RUS D3A] Rodina Moskva II vs FK Kaluga [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd636uZZh95Y1KUq.m3u8
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/b8b522378e17fae2e5df361a0d17d477.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 21:00 WIB] [Belarusian Cup] Vertical vs Smorgon FC [Seru]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5ZqibuWzf5TKz5.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/a4f0f6927ad2a2ab41fc8606b0d826cd.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 21:00 WIB] [Uzbekistan Cup] Yaypan FK vs Termez Surkhon [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2WfjG4GZBUXgZ.m3u8
@@ -7333,117 +7340,112 @@ https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwdb2WfjG4GZBUXgZ.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=40650e3aa90551d979b5f6384fb885d4&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=f185324f6727112612cfbe091e4630ab&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohjd8oq1zp/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",19:30 WIB - TORPEDO MIASS VS TEKSTILSHCHIK IVANOVO [RUS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=2be6c9d6094ded0598ddad68ab34e547&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=0018a0c4a02c37abe23df7ad405ea6be&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/ednm9wlsw57xryo/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",19:50 WIB - LU GUANGZU VS LAKSHYA SEN [SIN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=e2609ed2c86f3f4255fffe4f960b320b&wsABSTime=1779933948
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/4jwq2g9s2x92m0v/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - HSU YIN HUI LIN JHIH YUN VS GABRIELA STOEVA STEFANI STOEVA [SIN]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel87.flv?wsSecret=534ecd680badff77bf170e761a06ed26&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1fb2dfc543e9b5e0f5eee00c1530c447&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergph3vv2r8k0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - IRTYSH 1946 OMSK VS MASHUK KMV [RUS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=fa43546678155b2588d12b535c753ce7&wsABSTime=1779933949
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=d274ed0aaaddc3165bf2458575afe14b&wsABSTime=1779934549
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2zowqvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - IRTYSH PAVLODAR VS ULYTAU ZHEZKAZGAN [KAZ PR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001779890749-0-0-1f0a0f4dca6f7cf1f1c75219b069bec6
+https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001779891349-0-0-f1e854ced9b9809c4b9719ce8239ca46
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gpxwrxlhd3wryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - KAYA FC VS MANILA DIGGER FC [PH UFL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=0307528eda67756a3b6b3d7bd6a7f267&wsABSTime=1779933949
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=fd3d36dd777cc21f14c62580fa26fedc&wsABSTime=1779934549
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyhe586r1ge/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - NU KOLOS KOVALIVKA VS NU METALIST 1925 [UKR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=2c7ce80e7747dc273bdee807436f103c&wsABSTime=1779933949
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=d0711c80b229bb30917d0a384b74aa35&wsABSTime=1779934549
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghk7vem0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:30 WIB - BESAT KERMANSHAH VS SHENAVAR SAZI QESHM [IRN D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=21b17247b27cc02e4ae92737e98bb643&wsABSTime=1779933950
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=bc339a9bbf7b34f61535bbcb605e6837&wsABSTime=1779934550
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66ho50vqo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:30 WIB - DAMASH GILAN FC VS NAFT GACHSARAN [IRN D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=523905dd6dd2fbf893e8e940c234f0be&wsABSTime=1779933950
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=f984ebc6cf5cfeb0af9fa08429fcd88a&wsABSTime=1779934549
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/jw2r09gsdo64rz8/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:40 WIB - CHEN CHENG KUAN LIU KUANG HENG VS GOH SZE FEI NUR IZZUDDIN RUMSANI [SIN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=29a975a8e61c18155ca7a7cf0bc77f97&wsABSTime=1779933948
+https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=9fe42b9a0d8b6b4494f5bf933ebab79d&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/ednm9wlsw27nryo/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:40 WIB - RUTAPARNA PANDA SWETAPARNA PANDA VS PHATTHARIN AIAMVAREESRISAKUL SARISA JANPENG [SIN]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=25e88ba0bef651243e7bb45c65caa3f2&wsABSTime=1779933949
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=1fb2dfc543e9b5e0f5eee00c1530c447&wsABSTime=1779934548
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh1l9dmoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - REAL SIRETI VS FC FLORESTI [MOL D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=d32ace09d79b4f459fa11df5e37a59d7&wsABSTime=1779933951
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b932907cff44da8a89b7b79184cc1353&wsABSTime=1779934550
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hzy10qdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - RODINA MOSKVA II VS FK KALUGA [RUS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=935b31e5e12489de77519b9a85f721e2&wsABSTime=1779933950
+https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=5bb1c742c3c86ac26446a78794d69d51&wsABSTime=1779934550
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh1yv3moep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - VERTICAL VS SMORGON FC [BLR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001779890750-0-0-875b2a0f1bb96179c0248e17f6fb59d8
+https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001779891350-0-0-1bff68cec037c1081b88fa906ce36fd5
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh08k9md7o/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - FC GAZOVIK VITEBSK VS VOLNA PINSK [BLR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=29e8c59a88d2243aabe7fab7de10ff83&wsABSTime=1779933951
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=248a0be5b49f565b758c2c247201a48f&wsABSTime=1779934551
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlh99l8ryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - FK ALGA BISHKEK VS FC BISHKEK CITY [KYR TL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=536758c571b003b09f1255b1cda05b7b&wsABSTime=1779933952
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=c1f4e01942f2b4761565f649e2383906&wsABSTime=1779934551
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8gh83ynr6od/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - FK LESKHOZ VS SHAKHTER SOLIGORSK [BLR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779890751-0-0-05c3b886e838e09dc72f887d44fe6885
+https://live3.procdnlive.com/livecdn/channel14.flv?auth_key=3000001779891351-0-0-1247a0511bc09aed9c3a0db46d5332ef
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh18y5ql07/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - NAFT BANDAR ABBAS VS FC FARD [IRN D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=1d3b4a61e4d1cb9bba96067212c799f3&wsABSTime=1779933951
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=536caf2eb496ed7e6124afb0af86a217&wsABSTime=1779934551
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/p4jwq25tdnxq0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - ANADOLU EFES1976 VS TURK TELEKOM [TBS]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001779890748-0-0-6cd697e478963120e4072e0fbdd1bdb0
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001779891348-0-0-57639c44db77af83f50c56a1b6f246d4
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8y39mp1h218mojx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - FC PYUNIK VS FK VAN [ARM D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001779890752-0-0-b7719e6309aad6c5138a57a4386bc211
+https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001779891352-0-0-9909ecd3a06da40806b649c4f6a55815
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghj0y5r6od/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - TURAN VS EKIBASTUZETS [KAZ D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=20b68b7ab15dbe3d1906d0f3bd90e684&wsABSTime=1779933953
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=f1787e25ce8ae60ac2b0444103c9282f&wsABSTime=1779934552
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhv21qwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - URARTU VS FC NOAH [ARM D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001779890752-0-0-a9265d95e9d6c06a35ae7c9cfe9866cd
+https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001779891352-0-0-c9e688938162349fcc73ab4a2fbc3fb1
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_161_1729069197_thumb.png" group-title="SPORTS FHD",SPORTS 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_166_1742379655_thumb.png" group-title="SPORTS FHD",S SPORTS 1 HD
