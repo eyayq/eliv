@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [08:34 WIB 27/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [08:34 WIB 27/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [08:39 WIB 27/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [08:39 WIB 27/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/11.png" group-title="CONMEBOL Sudamericana",[07:30 WIB 27/05/26] Santos vs Deportivo Cuenca [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 27/05/26] Oklahoma City Thunder vs San Antonio Spurs [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[09:00 WIB 27/05/26] CHEN Yu Fei vs Karupathevan LETSHANAA [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[09:00 WIB 27/05/26] CHEN Yu Fei vs Karupathevan LETSHANAA [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[09:00 WIB 27/05/26] CHEN Yu Fei vs Karupathevan LETSHANAA [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[09:00 WIB 27/05/26] CHEN Yu Fei vs Karupathevan LETSHANAA [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[09:00 WIB 27/05/26] CHEN Yu Fei vs Karupathevan LETSHANAA [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[09:00 WIB 27/05/26] CHEN Yu Fei vs Karupathevan LETSHANAA [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2025/09/09/logo-moi-cua-giai-dau-cup-quoc-gia-20252026-0909133035.jpg" group-title="Cúp quốc gia Việt Nam",[16:00 WIB 27/05/26] Thái Nguyên Nữ vs Phong Phú Hà Nam Nữ [FHD] [NANTIKAN]
