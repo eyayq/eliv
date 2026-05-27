@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [13:06 WIB 27/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:06 WIB 27/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [13:13 WIB 27/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:13 WIB 27/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/medias/standard/2025/09/09/logo-moi-cua-giai-dau-cup-quoc-gia-20252026-0909133035.jpg" group-title="Cúp quốc gia Việt Nam",[16:00 WIB 27/05/26] Thái Nguyên Nữ vs Phong Phú Hà Nam Nữ [FHD] [NANTIKAN]
