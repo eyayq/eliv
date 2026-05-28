@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:19 WIB 28/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:19 WIB 28/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:27 WIB 28/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:27 WIB 28/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://static.bongda24h.vn/Medias/original/2023/03/20/haras-el-hodood-2003084615.jpg" group-title="VĐQG Ai Cập",[21:00 WIB 28/05/26] Petrojet vs El Gouna FC [FHD] [LIVE]
@@ -92,13 +92,13 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[11:00 WIB 29/05/26] KFF Singapore Badminton Open 2026 [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[14:30 WIB 29/05/26] KFF Singapore Badminton Open 2026 [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[12:00 WIB 29/05/26] KFF Singapore Badminton Open 2026 [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[14:30 WIB 29/05/26] KFF Singapore Badminton Open 2026 [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[12:00 WIB 29/05/26] KFF Singapore Badminton Open 2026 [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[14:30 WIB 29/05/26] KFF Singapore Badminton Open 2026 [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[12:00 WIB 29/05/26] KFF Singapore Badminton Open 2026 [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[15:10 WIB 29/05/26] KFF Singapore Badminton Open 2026 [FHD] [NANTIKAN]
@@ -118,15 +118,6 @@ https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[17:00 WIB 29/05/26] Iga Świątek vs Magda Linette [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[18:00 WIB 29/05/26] Alex Michelsen vs Rafael Jodar [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[18:00 WIB 29/05/26] Alex Michelsen vs Rafael Jodar [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[18:00 WIB 29/05/26] Alex Michelsen vs Rafael Jodar [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[18:30 WIB 29/05/26] Montenegro U17 vs Italy U17 [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
