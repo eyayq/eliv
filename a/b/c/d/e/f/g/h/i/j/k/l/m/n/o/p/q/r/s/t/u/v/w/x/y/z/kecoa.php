@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [22.35 WIB 28/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [22.42 WIB 28/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[LIVE 21:00 WIB 28/05/26] El Ismaily vs Pharco",[LIVE 21:00 WIB 28/05/26] El Ismaily vs Pharco (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1779955138985-img-0870.png" group-title="[LIVE 22:00 WIB 28/05/26] Phạm Phương Nam vs Karl Gnadeberg",[LIVE 22:00 WIB 28/05/26] Phạm Phương Nam vs Karl Gnadeberg (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[UPCOMING 1j 24m 00:00 WIB 29/05/26] El Geish vs Wadi Degla",[UPCOMING 1j 24m 00:00 WIB 29/05/26] El Geish vs Wadi Degla (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1767447210869-football-icon.svg" group-title="[UPCOMING 1j 17m 00:00 WIB 29/05/26] El Geish vs Wadi Degla",[UPCOMING 1j 17m 00:00 WIB 29/05/26] El Geish vs Wadi Degla (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="[UPCOMING 19j 54m 18:30 WIB 29/05/26] Montenegro U17 vs Italy U17",[UPCOMING 19j 54m 18:30 WIB 29/05/26] Montenegro U17 vs Italy U17 (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="[UPCOMING 19j 47m 18:30 WIB 29/05/26] Montenegro U17 vs Italy U17",[UPCOMING 19j 47m 18:30 WIB 29/05/26] Montenegro U17 vs Italy U17 (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1768871814208-football-icon.png" group-title="[UPCOMING 19j 59m 18:35 WIB 29/05/26] Shenyang Urban vs SHANGHAI SIPG",[UPCOMING 19j 59m 18:35 WIB 29/05/26] Shenyang Urban vs SHANGHAI SIPG (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1768871814208-football-icon.png" group-title="[UPCOMING 19j 52m 18:35 WIB 29/05/26] Shenyang Urban vs SHANGHAI SIPG",[UPCOMING 19j 52m 18:35 WIB 29/05/26] Shenyang Urban vs SHANGHAI SIPG (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/365.png" group-title="[UPCOMING 23j 24m 22:00 WIB 29/05/26] Riga vs Grobiņa",[UPCOMING 23j 24m 22:00 WIB 29/05/26] Riga vs Grobiņa (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/365.png" group-title="[UPCOMING 23j 17m 22:00 WIB 29/05/26] Riga vs Grobiņa",[UPCOMING 23j 17m 22:00 WIB 29/05/26] Riga vs Grobiņa (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="[UPCOMING 0j 24m 23:00 WIB 29/05/26] France U17 vs Denmark U17",[UPCOMING 0j 24m 23:00 WIB 29/05/26] France U17 vs Denmark U17 (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="[UPCOMING 0j 17m 23:00 WIB 29/05/26] France U17 vs Denmark U17",[UPCOMING 0j 17m 23:00 WIB 29/05/26] France U17 vs Denmark U17 (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
