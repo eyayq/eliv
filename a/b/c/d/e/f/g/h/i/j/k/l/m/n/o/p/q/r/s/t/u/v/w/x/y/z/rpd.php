@@ -1,51 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.38 WIB 29/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.46 WIB 29/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 1",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780000376-0-0-c0edbeabaf59485b15aee221eea45dcd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780000916-0-0-27f6282ea52228ae0adbaec2e2dd810a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 2",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780000376-0-0-706e962d4b47fc1ee3e87ed80dbbdd7f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780000916-0-0-59baecec01bab6e36019f0ab0fb317a6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 3",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780000376-0-0-10ea6c149defa278376976c3952b9e11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780000916-0-0-ec790d30fea778aad8aa08ef9ff2ff0a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 4",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780000376-0-0-a97c32d34343316443eb0b9a3ba8f244
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780000916-0-0-40f1053a61c6ba73cebbaea7bf63d7fb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 5",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780000376-0-0-e53bf3b5ad8b0fe26301011511dc885c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780000916-0-0-030c13a7530aad047618e172e42607c6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 6",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780000376-0-0-cb67c1eafeab3f21343dcf9b9d40a46a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780000916-0-0-fb31460a34166788aa0e540ece87c7ba
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 7",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780000376-0-0-b6a14b258f8e570b21fd796bf8c20e33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1780000916-0-0-cbb374b093b4d1a829901d32ba3133be
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 8",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780000376-0-0-d738c520bc698f0bbc054ee431ac9a29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780000916-0-0-df3f535542ee227b8be95793f399a2dd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 9",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=efc570fff28ff7231c26ffde51d08e70&txTime=6a18ecc8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=ef65fc0b4bbf2c31c47f6ad1b369c066&txTime=6a18eee4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 10",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=bc4d8dc0d2900482d45b2d99b9405930&txTime=6a18ecc8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=78c96b9b9cb9db1c5b4691534620268c&txTime=6a18eee4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 11",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1780000376-0-0-46be68a84aa1487742311a9df25421a2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780000916-0-0-12af6a1ab5d0f08ca95c57191b3eb683
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 12",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1780000376-0-0-12352e2562ae7684646f8617b3bc3531
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780000916-0-0-17d317dbe7b3649e232f55bff0ea3a60
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 13",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 14",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/egypt-4635c9.png" group-title="[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 15",[LIVE 01:00 WIB 29/05/26] Egypt vs Russia | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fiorentina-u20-626635.png" group-title="[LIVE 01:30 WIB 29/05/26] Fiorentina U20 vs Parma U20 | Server 1",[LIVE 01:30 WIB 29/05/26] Fiorentina U20 vs Parma U20 | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
@@ -53,98 +53,98 @@ https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 1",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780000376-0-0-306231681609a51a3a2706c8d6a789e1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780000916-0-0-b4d771894ca4f1c8bf14feb1d31af8b1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 2",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780000376-0-0-f9546fea8bdb9fac5fa3ddb0674539ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780000916-0-0-288153d2f994fc5949d0ce9a0cf615a5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 3",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780000376-0-0-310909d63088815d6830f08a1af71eff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780000916-0-0-e1399f67e55be29d446574774d43fecf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 4",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780000376-0-0-c360f204bf70ea7de4fca06d0af1293e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780000916-0-0-e80d49277f26523404460a5275fcec27
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 5",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780000376-0-0-89ae29efb28bbb57538354a680c050b8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780000916-0-0-01d23bd4e10fe7484b828993f247fec4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 6",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780000376-0-0-1f723040b455bb3bcdcb2d13db30503d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780000916-0-0-33277422708598688540c7f0f7699255
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 7",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780000376-0-0-09ea8b0864581520000cf739cc1e095b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780000916-0-0-91bec2a4fcd1260805650479e7a6d485
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 8",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780000376-0-0-711f151d14754f08d264042ccef5d525
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780000916-0-0-2e54f2c97474ee93fdcf9b726a0050aa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 9",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780000376-0-0-ce6f970b65b772690f876cdea8c69dce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=0c913922f6729e4d23553b3014eb031e&txTime=6a18eee4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 10",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780000376-0-0-27d19cbebf34f238bc5a48d0abfa6793
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=444a4474ab11f6a4551aaef22896cd6f&txTime=6a18eee4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 11",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=bd3cacd6a03ed6e327f3020765c5b858&txTime=6a18ecc8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780000916-0-0-8e9ec3f2006e78fc13b7991c1f9f3024
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 12",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=20b9591476e2405517baf4311e0d7c6d&txTime=6a18ecc8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780000916-0-0-54921d58e2f5dd485e5e0a4216f1b48b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 13",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
- https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 14",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ireland-a66f85.png" group-title="[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 15",[LIVE 01:45 WIB 29/05/26] Ireland vs Qatar | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+ https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/morocco-u17-41836b.png" group-title="[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 1",[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780000376-0-0-b01b17a1aab210e337f37c8f88e4d39a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780000916-0-0-f784bd99bd09ec7acca9494b19c042cb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/morocco-u17-41836b.png" group-title="[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 2",[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780000376-0-0-83047662f06e6a1de161d3db8f190d30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780000916-0-0-bf75d9f040f03f1504bc0b30bcd4ec99
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/morocco-u17-41836b.png" group-title="[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 3",[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780000376-0-0-26e0005cc36a6747f48dd11b2a6c2d3f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780000916-0-0-7d5af008fdb6f6efb2faf5130c358bbf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/morocco-u17-41836b.png" group-title="[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 4",[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780000376-0-0-7e1a5a692167f6d73d8ed887f140530b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780000916-0-0-792c3b6b1bed70cd8c788af411371c76
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/morocco-u17-41836b.png" group-title="[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 5",[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780000376-0-0-8df249079bae67b36fd29ab8f6bef416
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780000916-0-0-11a7c356baa15d3bcb3871dc02437ea3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/morocco-u17-41836b.png" group-title="[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 6",[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780000376-0-0-4c1aaa87400ed815396f43f352360abd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780000916-0-0-a48f913e6c6fe05bce2b240786cda8e8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/morocco-u17-41836b.png" group-title="[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 7",[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/morocco-u17-41836b.png" group-title="[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 8",[LIVE 02:00 WIB 29/05/26] Morocco U17 vs Senegal U17 | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.png" group-title="[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 1",[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780000376-0-0-962936bfbe20c76a435f179524e8fa4e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780000916-0-0-bbc508a4871565a605aa6641a4e8df79
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.png" group-title="[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 2",[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780000376-0-0-8aad91f0321a861b548489d902348414
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780000916-0-0-07907b3339c202efe57b5cde743095ae
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.png" group-title="[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 3",[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780000376-0-0-f85c921306eec2f2e800b39963787797
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780000916-0-0-4a1129df61b3ed199471eaac7cd4ecf2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.png" group-title="[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 4",[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780000376-0-0-c87675d2d0dd2207106a713a98df2299
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780000916-0-0-2047463e682d2eb2cbf9cfccfa631648
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.png" group-title="[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 5",[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780000376-0-0-41bf09afd0a1d8b56166ff728d23ad0a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780000916-0-0-4bc4f3ac12e6928e3c4048b014a11516
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.png" group-title="[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 6",[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1780000376-0-0-b68d5fdbfc1b5bcfbf580346517af4ca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780000916-0-0-ed170f045464622145e2e34c4d9e80c9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.png" group-title="[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 7",[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780000376-0-0-f4519e0622b652439586eef5422d6dc8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780000916-0-0-a2e90e34665b9481070ebb4eae982561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.png" group-title="[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 8",[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.6110.1156 Mobile Safari/537.36
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780000376-0-0-e25ec84308336f2595234ee20fd8c0bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780000916-0-0-9508dddd7270069bacd4740659472228
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/casa-pia-ac-58247d.png" group-title="[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 9",[LIVE 02:00 WIB 29/05/26] Casa Pia AC vs SCU Torreense | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
