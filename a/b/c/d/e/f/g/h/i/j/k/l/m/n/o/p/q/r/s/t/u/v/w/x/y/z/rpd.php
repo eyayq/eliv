@@ -1,54 +1,54 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.14 WIB 30/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.22 WIB 30/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-dinamo-1948-0efccc.webp" group-title="[LIVE 00:30 WIB 30/05/26] FC Dinamo 1948 vs FCSB | Server 1",[LIVE 00:30 WIB 30/05/26] FC Dinamo 1948 vs FCSB | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=48f819a5130d5b789e1526f1e5f911ed&txTime=6a1a38a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780085876-0-0-a648e4ad8f0eb09127bfe0dd125f46b1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-dinamo-1948-0efccc.webp" group-title="[LIVE 00:30 WIB 30/05/26] FC Dinamo 1948 vs FCSB | Server 2",[LIVE 00:30 WIB 30/05/26] FC Dinamo 1948 vs FCSB | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=443c1c005c41e1eaf4a10c6fde00c777&txTime=6a1a38a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780085876-0-0-f79c87699be7c2475316507345c3a727
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-dinamo-1948-0efccc.webp" group-title="[LIVE 00:30 WIB 30/05/26] FC Dinamo 1948 vs FCSB | Server 3",[LIVE 00:30 WIB 30/05/26] FC Dinamo 1948 vs FCSB | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780085336-0-0-949df7bc9443fdfdf7a6780268d83cc8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=d4bf9a784f7fd27bc1880929beb411a1&txTime=6a1a3ac4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-dinamo-1948-0efccc.webp" group-title="[LIVE 00:30 WIB 30/05/26] FC Dinamo 1948 vs FCSB | Server 4",[LIVE 00:30 WIB 30/05/26] FC Dinamo 1948 vs FCSB | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780085336-0-0-d344e4682099666169ed00cacd01e7e6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=053e8fc573ce1a48a488cab04a4eafa8&txTime=6a1a3ac4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 1",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780085336-0-0-20f7b89b910b06e91b27bce6f9137580
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780085876-0-0-a0e028bf9dbb5afdcc272d5cd79958d2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 2",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780085336-0-0-9c63b2782c29585d3b9f5f6d57cc8d36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780085876-0-0-f31761fd6d372fcc7f19ea9fefaea437
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 3",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780085336-0-0-f3bb0e0dd4d22b754da0ae27d264b6df
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780085876-0-0-ea5006634a882f86ee3f7edcbd417dcc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 4",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780085336-0-0-c1892c053b9d206cf25353643eacad02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780085876-0-0-cbbf9288e07a1cbd6527115c0ce618c8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 5",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=5cc3036478facfb6be53a8246524d638&txTime=6a1a38a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780085876-0-0-8560475cdd57e68d540d6ddf3658ce36
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 6",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=8ce849fa63d1e36fc91441d6a014d1ec&txTime=6a1a38a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780085876-0-0-b7e72f94285f340bfbe396843a0b481e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 7",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780085336-0-0-cb5160a77b29db1caecbdd4b58919cb0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=5043098a69583a862f31b96fe30ed6af&txTime=6a1a3ac4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 8",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780085336-0-0-ae0cb8327c40071373977faf7336a90f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ce351455cbdef1366c7e3fa79ced6539&txTime=6a1a3ac4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 9",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780085336-0-0-8dcb0b07164774537ea09bfd85cc8d79
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=8b5c269278ae52fcafd979f016f86af0&txTime=6a1a3ac4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 10",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780085336-0-0-b997425fa0c17108ee65f4ddd0df1d00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=443d95601053623bd42d7734bc61f72d&txTime=6a1a3ac4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 11",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=2761286c87c98ad673253ec9850ff4c6&txTime=6a1a38a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780085876-0-0-b650779e4a3ad10f60242cb7424f6615
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 12",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=da5a66682fc57465846b2cf7c169c844&txTime=6a1a38a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780085876-0-0-dace3f5f129fce1e80ebf45a859e74f0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/monza-5594ee.webp" group-title="[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 13",[LIVE 01:00 WIB 30/05/26] Monza vs Catanzaro | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
@@ -62,74 +62,74 @@ https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 1",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780085336-0-0-0f1ba0107f8c93bf65468b919e7a5d33
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780085876-0-0-579be2409b812334bd52d68d058ffe77
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 2",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780085336-0-0-ff6cef5e79f3190ac5f489b6a28ef42a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780085876-0-0-8f439b0e592d1f27985065cded1dfa01
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 3",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780085336-0-0-418e21f4d8e79bb3f31e0e55da0938a0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780085876-0-0-44087806e696660a4613827345feb3fd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 4",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780085336-0-0-5274c0f865c5c79db34e0a483cdf0e10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780085876-0-0-6d2fecc015eba61c3f02f385884aed31
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 5",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=16ff9995bee30d7cc990559f8f7b6b07&txTime=6a1a38a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=fac275c6513a54c9e85e52972068cc73&txTime=6a1a3ac4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 6",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=dbaa9400a8d370e594b3e26ae95301d8&txTime=6a1a38a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=98b9a0336c500f8252d3d3166f7cd76b&txTime=6a1a3ac4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 7",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780085336-0-0-4e05216eefa0d2de84005b19a09ec074
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780085876-0-0-8f1f1fcac01d7db7e4f3776e46e78f0b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 8",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780085336-0-0-7084bd76b0db2dc670ade6a6be0c0430
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780085876-0-0-eebcca344a74da62f44207d0e0711090
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 9",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780085336-0-0-df9aa96482474c7110f916c3c45720ae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780085876-0-0-d5843735d13519528aa6b2e5f83885c8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 10",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780085336-0-0-274432bd6712eafefa04e9670465b691
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780085876-0-0-dfbfff2fcc0f0851077a7ab0ea7f895f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 11",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780085336-0-0-a8b66bec27d81aeedaa891a381e27eb0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780085876-0-0-802dacdc5b2c9377f15f2958cf8bcb7c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ogc-nice-0e8489.webp" group-title="[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 12",[LIVE 01:45 WIB 30/05/26] OGC Nice vs AS Saint-Étienne | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780085336-0-0-731340649f3471ea863b941101252a43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780085876-0-0-3d11adb48838f3acaf6a41f88416a704
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nice-7c6483.png" group-title="[LIVE 01:45 WIB 30/05/26] Nice vs Saint Etienne | Server 1",[LIVE 01:45 WIB 30/05/26] Nice vs Saint Etienne | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
- https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/nice-7c6483.png" group-title="[LIVE 01:45 WIB 30/05/26] Nice vs Saint Etienne | Server 2",[LIVE 01:45 WIB 30/05/26] Nice vs Saint Etienne | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+ https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lyon-w-224a57.png" group-title="[LIVE 02:00 WIB 30/05/26] Lyon (W) vs Paris FC (W) | Server 1",[LIVE 02:00 WIB 30/05/26] Lyon (W) vs Paris FC (W) | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lyon-w-224a57.png" group-title="[LIVE 02:00 WIB 30/05/26] Lyon (W) vs Paris FC (W) | Server 2",[LIVE 02:00 WIB 30/05/26] Lyon (W) vs Paris FC (W) | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hafnarfjordur-df16c0.png" group-title="[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 1",[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=b408a42e7da9220df490d247a07a08d9&txTime=6a1a38a8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hafnarfjordur-df16c0.png" group-title="[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 2",[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=5cb186880ff7e80c49ef27d38a96a37d&txTime=6a1a38a8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hafnarfjordur-df16c0.png" group-title="[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 3",[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=6c03c085ea97fab0bb95c5709c996144&txTime=6a1a38a8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hafnarfjordur-df16c0.png" group-title="[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 4",[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=e6ac0563d5988bc2b80857aa34f7a8b9&txTime=6a1a38a8
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fram-reykjavik-21083f.png" group-title="[LIVE 02:15 WIB 30/05/26] Fram Reykjavik vs Breidablik | Server 1",[LIVE 02:15 WIB 30/05/26] Fram Reykjavik vs Breidablik | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780085336-0-0-b26c2ecdfa3f9bafdb2ba623ea079320
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780085876-0-0-e792790dbbf93be788d7b26b78cf6a01
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fram-reykjavik-21083f.png" group-title="[LIVE 02:15 WIB 30/05/26] Fram Reykjavik vs Breidablik | Server 2",[LIVE 02:15 WIB 30/05/26] Fram Reykjavik vs Breidablik | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780085336-0-0-1e2f9c84c56cb20eaeff091f568c47e9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780085876-0-0-4923660176ec204c535b0dd554e64644
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fram-reykjavik-21083f.png" group-title="[LIVE 02:15 WIB 30/05/26] Fram Reykjavik vs Breidablik | Server 3",[LIVE 02:15 WIB 30/05/26] Fram Reykjavik vs Breidablik | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780085336-0-0-da48c9483563f6f49a074fb11af5e593
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780085876-0-0-71277a178af99845f53cc980faa2d7fb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fram-reykjavik-21083f.png" group-title="[LIVE 02:15 WIB 30/05/26] Fram Reykjavik vs Breidablik | Server 4",[LIVE 02:15 WIB 30/05/26] Fram Reykjavik vs Breidablik | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780085336-0-0-b45728660f12589041470079cbb0781e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780085876-0-0-d2bdf8a1b6115e8b343c34ce7f639062
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hafnarfjordur-df16c0.png" group-title="[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 1",[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=1b20f08ca81133c329a00105acc0c07c&txTime=6a1a3ac4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hafnarfjordur-df16c0.png" group-title="[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 2",[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=f0811ce644e5e370c29d6e44d2a26995&txTime=6a1a3ac4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hafnarfjordur-df16c0.png" group-title="[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 3",[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-602153_lsd.m3u8?txSecret=3de7de0e1e8fde9ec5c029bc8e865cb3&txTime=6a1a3ac4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hafnarfjordur-df16c0.png" group-title="[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 4",[LIVE 02:15 WIB 30/05/26] Hafnarfjordur vs Akranes | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=b7780c30b1e0915d6e753af7ea01a9c3&txTime=6a1a3ac4
