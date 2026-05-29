@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:34 WIB 29/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:34 WIB 29/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:41 WIB 29/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:41 WIB 29/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 29/05/26] Shenyang Urban vs SHANGHAI SIPG [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 29/05/26] Shenyang Urban vs SHANGHAI SIPG [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:35 WIB 29/05/26] Shenyang Urban vs SHANGHAI SIPG [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[19:00 WIB 29/05/26] Mirra Andreeva vs Marie Bouzková [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
@@ -110,6 +101,15 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/241.png" group-title="Copa Colombia",[08:10 WIB 30/05/26] Depor FC vs Millonarios [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[11:00 WIB 30/05/26] KFF Singapore Badminton Open 2026 [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[11:00 WIB 30/05/26] KFF Singapore Badminton Open 2026 [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[11:00 WIB 30/05/26] KFF Singapore Badminton Open 2026 [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[12:00 WIB 30/05/26] Albirex Niigata vs Kagoshima United [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
@@ -155,6 +155,15 @@ https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/K_League_2_logo.svg" group-title="K League 2",[14:30 WIB 30/05/26] Asan Mugunghwa vs Suwon Bluewings [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[15:10 WIB 30/05/26] KFF Singapore Badminton Open 2026 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[15:10 WIB 30/05/26] KFF Singapore Badminton Open 2026 [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[15:10 WIB 30/05/26] KFF Singapore Badminton Open 2026 [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/637.png" group-title="V.League 2",[16:00 WIB 30/05/26] Bình Phước vs Long An [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
@@ -172,6 +181,24 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[17:00 WIB 30/05/26] Qingdao Youth Island vs Shanghai Shenhua [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[17:00 WIB 30/05/26] KFF Singapore Badminton Open 2026 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[17:00 WIB 30/05/26] KFF Singapore Badminton Open 2026 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.ticketmaster.sg/images/activity/26sg_sgopen2026_4b8f39a1b422ddb30746ab780055b631.jpg" group-title="KFF Singapore Badminton Open 2026",[17:00 WIB 30/05/26] KFF Singapore Badminton Open 2026 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[17:00 WIB 30/05/26] Iva Jovic vs Naomi Osaka [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[17:00 WIB 30/05/26] Iva Jovic vs Naomi Osaka [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[17:00 WIB 30/05/26] Iva Jovic vs Naomi Osaka [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 30/05/26] Chongqing Tongliang Long vs Beijing Guoan [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
