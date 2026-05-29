@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:56 WIB 29/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:56 WIB 29/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:03 WIB 29/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:03 WIB 29/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf-OcS51GUU2TzfvCC8lZglnvdEniw1DpdA&s" group-title="UK OPEN",[19:45 WIB 29/05/26] Hoàng Sao vs Maks Benko  [FHD] [LIVE]
@@ -64,6 +64,15 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/103.png" group-title="Eliteserien",[00:00 WIB 30/05/26] Rosenborg vs Bodo/Glimt [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf-OcS51GUU2TzfvCC8lZglnvdEniw1DpdA&s" group-title="UK OPEN",[01:00 WIB 30/05/26] đ [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf-OcS51GUU2TzfvCC8lZglnvdEniw1DpdA&s" group-title="UK OPEN",[01:00 WIB 30/05/26] đ [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf-OcS51GUU2TzfvCC8lZglnvdEniw1DpdA&s" group-title="UK OPEN",[01:00 WIB 30/05/26] đ [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[01:30 WIB 30/05/26] Quentin Halys vs Alexander Zverev [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
