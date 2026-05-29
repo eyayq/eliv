@@ -1,24 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [09:27 WIB 29/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:27 WIB 29/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [09:34 WIB 29/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:34 WIB 29/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="CONMEBOL Libertadores",[07:30 WIB 29/05/26] Boca Juniors vs U. Catolica [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="CONMEBOL Libertadores",[07:30 WIB 29/05/26] Boca Juniors vs U. Catolica [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="CONMEBOL Libertadores",[07:30 WIB 29/05/26] Boca Juniors vs U. Catolica [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="CONMEBOL Libertadores",[07:30 WIB 29/05/26] Cruzeiro vs Barcelona SC [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="CONMEBOL Libertadores",[07:30 WIB 29/05/26] Cruzeiro vs Barcelona SC [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Copa_Libertadores_logo.svg" group-title="CONMEBOL Libertadores",[07:30 WIB 29/05/26] Cruzeiro vs Barcelona SC [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 29/05/26] Oklahoma City Thunder vs San Antonio Spurs [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
