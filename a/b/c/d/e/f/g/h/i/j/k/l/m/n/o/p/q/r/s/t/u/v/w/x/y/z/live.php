@@ -1,319 +1,319 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" group-title="😈DONASI SERVER😈:12:45:09-WIB😈",😈Donasi Server Playlist Agar Tetap Hidup😈
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" group-title="😈DONASI SERVER😈:12:51:53-WIB😈",😈Donasi Server Playlist Agar Tetap Hidup😈
 
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17966.png" group-title="😈UEFA U17 Championship😈|😈01:30:00-WIB😈",😈Montenegro U17 vs Italy U17😈|😈30-05-2026😈|⏳12:44:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17966.png" group-title="😈UEFA U17 Championship😈|😈01:30:00-WIB😈",😈Montenegro U17 vs Italy U17😈|😈30-05-2026😈|⏳12:38:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17966.png" group-title="😈UEFA U17 Championship😈|😈01:30:00-WIB😈",😈Montenegro U17 vs Italy U17😈|😈30-05-2026😈|⏳12:44:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17966.png" group-title="😈UEFA U17 Championship😈|😈01:30:00-WIB😈",😈Montenegro U17 vs Italy U17😈|😈30-05-2026😈|⏳12:38:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17966.png" group-title="😈UEFA U17 Championship😈|😈01:30:00-WIB😈",😈Montenegro U17 vs Italy U17😈|😈30-05-2026😈|⏳12:44:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17966.png" group-title="😈UEFA U17 Championship😈|😈01:30:00-WIB😈",😈Montenegro U17 vs Italy U17😈|😈30-05-2026😈|⏳12:38:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5684.png" group-title="😈Super League😈|😈01:35:00-WIB😈",😈Shenyang Urban vs SHANGHAI SIPG😈|😈30-05-2026😈|⏳12:49:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5684.png" group-title="😈Super League😈|😈01:35:00-WIB😈",😈Shenyang Urban vs SHANGHAI SIPG😈|😈30-05-2026😈|⏳12:43:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5684.png" group-title="😈Super League😈|😈01:35:00-WIB😈",😈Shenyang Urban vs SHANGHAI SIPG😈|😈30-05-2026😈|⏳12:49:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5684.png" group-title="😈Super League😈|😈01:35:00-WIB😈",😈Shenyang Urban vs SHANGHAI SIPG😈|😈30-05-2026😈|⏳12:43:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5684.png" group-title="😈Super League😈|😈01:35:00-WIB😈",😈Shenyang Urban vs SHANGHAI SIPG😈|😈30-05-2026😈|⏳12:49:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5684.png" group-title="😈Super League😈|😈01:35:00-WIB😈",😈Shenyang Urban vs SHANGHAI SIPG😈|😈30-05-2026😈|⏳12:43:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4124.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Welayta Dicha vs Negelle Arsi😈|😈30-05-2026😈|⏳14:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4124.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Welayta Dicha vs Negelle Arsi😈|😈30-05-2026😈|⏳14:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4124.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Welayta Dicha vs Negelle Arsi😈|😈30-05-2026😈|⏳14:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4124.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Welayta Dicha vs Negelle Arsi😈|😈30-05-2026😈|⏳14:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4124.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Welayta Dicha vs Negelle Arsi😈|😈30-05-2026😈|⏳14:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4124.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Welayta Dicha vs Negelle Arsi😈|😈30-05-2026😈|⏳14:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12513.png" group-title="😈Friendlies😈|😈05:00:00-WIB😈",😈Mexico W U17 vs England U17😈|😈30-05-2026😈|⏳16:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12513.png" group-title="😈Friendlies😈|😈05:00:00-WIB😈",😈Mexico W U17 vs England U17😈|😈30-05-2026😈|⏳16:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12513.png" group-title="😈Friendlies😈|😈05:00:00-WIB😈",😈Mexico W U17 vs England U17😈|😈30-05-2026😈|⏳16:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12513.png" group-title="😈Friendlies😈|😈05:00:00-WIB😈",😈Mexico W U17 vs England U17😈|😈30-05-2026😈|⏳16:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12513.png" group-title="😈Friendlies😈|😈05:00:00-WIB😈",😈Mexico W U17 vs England U17😈|😈30-05-2026😈|⏳16:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12513.png" group-title="😈Friendlies😈|😈05:00:00-WIB😈",😈Mexico W U17 vs England U17😈|😈30-05-2026😈|⏳16:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12507.png" group-title="😈UEFA U17 Championship😈|😈06:00:00-WIB😈",😈France U17 vs Denmark U17😈|😈30-05-2026😈|⏳17:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12507.png" group-title="😈UEFA U17 Championship😈|😈06:00:00-WIB😈",😈France U17 vs Denmark U17😈|😈30-05-2026😈|⏳17:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12507.png" group-title="😈UEFA U17 Championship😈|😈06:00:00-WIB😈",😈France U17 vs Denmark U17😈|😈30-05-2026😈|⏳17:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12507.png" group-title="😈UEFA U17 Championship😈|😈06:00:00-WIB😈",😈France U17 vs Denmark U17😈|😈30-05-2026😈|⏳17:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12507.png" group-title="😈UEFA U17 Championship😈|😈06:00:00-WIB😈",😈France U17 vs Denmark U17😈|😈30-05-2026😈|⏳17:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12507.png" group-title="😈UEFA U17 Championship😈|😈06:00:00-WIB😈",😈France U17 vs Denmark U17😈|😈30-05-2026😈|⏳17:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1113.png" group-title="😈Friendlies😈|😈08:30:00-WIB😈",😈Bosnia & Herzegovina vs FYR Macedonia😈|😈30-05-2026😈|⏳19:44:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1113.png" group-title="😈Friendlies😈|😈08:30:00-WIB😈",😈Bosnia & Herzegovina vs FYR Macedonia😈|😈30-05-2026😈|⏳19:38:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1113.png" group-title="😈Friendlies😈|😈08:30:00-WIB😈",😈Bosnia & Herzegovina vs FYR Macedonia😈|😈30-05-2026😈|⏳19:44:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1113.png" group-title="😈Friendlies😈|😈08:30:00-WIB😈",😈Bosnia & Herzegovina vs FYR Macedonia😈|😈30-05-2026😈|⏳19:38:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1113.png" group-title="😈Friendlies😈|😈08:30:00-WIB😈",😈Bosnia & Herzegovina vs FYR Macedonia😈|😈30-05-2026😈|⏳19:44:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1113.png" group-title="😈Friendlies😈|😈08:30:00-WIB😈",😈Bosnia & Herzegovina vs FYR Macedonia😈|😈30-05-2026😈|⏳19:38:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/84.png" group-title="😈Ligue 1😈|😈08:45:00-WIB😈",😈Nice vs Saint Etienne😈|😈30-05-2026😈|⏳19:59:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/84.png" group-title="😈Ligue 1😈|😈08:45:00-WIB😈",😈Nice vs Saint Etienne😈|😈30-05-2026😈|⏳19:53:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/84.png" group-title="😈Ligue 1😈|😈08:45:00-WIB😈",😈Nice vs Saint Etienne😈|😈30-05-2026😈|⏳19:59:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/84.png" group-title="😈Ligue 1😈|😈08:45:00-WIB😈",😈Nice vs Saint Etienne😈|😈30-05-2026😈|⏳19:53:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/84.png" group-title="😈Ligue 1😈|😈08:45:00-WIB😈",😈Nice vs Saint Etienne😈|😈30-05-2026😈|⏳19:59:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/84.png" group-title="😈Ligue 1😈|😈08:45:00-WIB😈",😈Nice vs Saint Etienne😈|😈30-05-2026😈|⏳19:53:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/293.png" group-title="😈J1 League😈|😈21:00:00-WIB😈",😈Gamba Osaka vs Tokyo Verdy😈|😈30-05-2026😈|⏳08:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/293.png" group-title="😈J1 League😈|😈21:00:00-WIB😈",😈Gamba Osaka vs Tokyo Verdy😈|😈30-05-2026😈|⏳08:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/293.png" group-title="😈J1 League😈|😈21:00:00-WIB😈",😈Gamba Osaka vs Tokyo Verdy😈|😈30-05-2026😈|⏳08:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/293.png" group-title="😈J1 League😈|😈21:00:00-WIB😈",😈Gamba Osaka vs Tokyo Verdy😈|😈30-05-2026😈|⏳08:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/293.png" group-title="😈J1 League😈|😈21:00:00-WIB😈",😈Gamba Osaka vs Tokyo Verdy😈|😈30-05-2026😈|⏳08:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/293.png" group-title="😈J1 League😈|😈21:00:00-WIB😈",😈Gamba Osaka vs Tokyo Verdy😈|😈30-05-2026😈|⏳08:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/26649.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈PVF-CAND vs Xuan Thien Phu Tho😈|😈30-05-2026😈|⏳10:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/26649.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈PVF-CAND vs Xuan Thien Phu Tho😈|😈30-05-2026😈|⏳10:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/26649.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈PVF-CAND vs Xuan Thien Phu Tho😈|😈30-05-2026😈|⏳10:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/26649.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈PVF-CAND vs Xuan Thien Phu Tho😈|😈30-05-2026😈|⏳10:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/26649.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈PVF-CAND vs Xuan Thien Phu Tho😈|😈30-05-2026😈|⏳10:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/26649.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈PVF-CAND vs Xuan Thien Phu Tho😈|😈30-05-2026😈|⏳10:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9161.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈Bình Phước vs Long An😈|😈30-05-2026😈|⏳10:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9161.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈Bình Phước vs Long An😈|😈30-05-2026😈|⏳10:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9161.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈Bình Phước vs Long An😈|😈30-05-2026😈|⏳10:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9161.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈Bình Phước vs Long An😈|😈30-05-2026😈|⏳10:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9161.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈Bình Phước vs Long An😈|😈30-05-2026😈|⏳10:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9161.png" group-title="😈V.League 2😈|😈23:00:00-WIB😈",😈Bình Phước vs Long An😈|😈30-05-2026😈|⏳10:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="😈Super League😈|😈00:00:00-WIB😈",😈Qingdao Youth Island vs Shanghai Shenhua😈|😈31-05-2026😈|⏳11:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="😈Super League😈|😈00:00:00-WIB😈",😈Qingdao Youth Island vs Shanghai Shenhua😈|😈31-05-2026😈|⏳11:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="😈Super League😈|😈00:00:00-WIB😈",😈Qingdao Youth Island vs Shanghai Shenhua😈|😈31-05-2026😈|⏳11:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="😈Super League😈|😈00:00:00-WIB😈",😈Qingdao Youth Island vs Shanghai Shenhua😈|😈31-05-2026😈|⏳11:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="😈Super League😈|😈00:00:00-WIB😈",😈Qingdao Youth Island vs Shanghai Shenhua😈|😈31-05-2026😈|⏳11:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="😈Super League😈|😈00:00:00-WIB😈",😈Qingdao Youth Island vs Shanghai Shenhua😈|😈31-05-2026😈|⏳11:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/21262.png" group-title="😈Super League😈|😈02:00:00-WIB😈",😈Chongqing Tongliang Long vs Beijing Guoan😈|😈31-05-2026😈|⏳13:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/21262.png" group-title="😈Super League😈|😈02:00:00-WIB😈",😈Chongqing Tongliang Long vs Beijing Guoan😈|😈31-05-2026😈|⏳13:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/21262.png" group-title="😈Super League😈|😈02:00:00-WIB😈",😈Chongqing Tongliang Long vs Beijing Guoan😈|😈31-05-2026😈|⏳13:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/21262.png" group-title="😈Super League😈|😈02:00:00-WIB😈",😈Chongqing Tongliang Long vs Beijing Guoan😈|😈31-05-2026😈|⏳13:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/21262.png" group-title="😈Super League😈|😈02:00:00-WIB😈",😈Chongqing Tongliang Long vs Beijing Guoan😈|😈31-05-2026😈|⏳13:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/21262.png" group-title="😈Super League😈|😈02:00:00-WIB😈",😈Chongqing Tongliang Long vs Beijing Guoan😈|😈31-05-2026😈|⏳13:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9585.png" group-title="😈Segunda División😈|😈04:15:00-WIB😈",😈Real Sociedad II vs Cultural Leonesa😈|😈31-05-2026😈|⏳15:29:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9585.png" group-title="😈Segunda División😈|😈04:15:00-WIB😈",😈Real Sociedad II vs Cultural Leonesa😈|😈31-05-2026😈|⏳15:23:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9585.png" group-title="😈Segunda División😈|😈04:15:00-WIB😈",😈Real Sociedad II vs Cultural Leonesa😈|😈31-05-2026😈|⏳15:29:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9585.png" group-title="😈Segunda División😈|😈04:15:00-WIB😈",😈Real Sociedad II vs Cultural Leonesa😈|😈31-05-2026😈|⏳15:23:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9585.png" group-title="😈Segunda División😈|😈04:15:00-WIB😈",😈Real Sociedad II vs Cultural Leonesa😈|😈31-05-2026😈|⏳15:29:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9585.png" group-title="😈Segunda División😈|😈04:15:00-WIB😈",😈Real Sociedad II vs Cultural Leonesa😈|😈31-05-2026😈|⏳15:23:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/85.png" group-title="😈UEFA Champions League😈|😈06:00:00-WIB😈",😈Paris Saint Germain vs Arsenal😈|😈31-05-2026😈|⏳17:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/715.png" group-title="😈Segunda División😈|😈09:00:00-WIB😈",😈Granada CF vs Sporting Gijon😈|😈31-05-2026😈|⏳20:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/715.png" group-title="😈Segunda División😈|😈09:00:00-WIB😈",😈Granada CF vs Sporting Gijon😈|😈31-05-2026😈|⏳20:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/715.png" group-title="😈Segunda División😈|😈09:00:00-WIB😈",😈Granada CF vs Sporting Gijon😈|😈31-05-2026😈|⏳20:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/715.png" group-title="😈Segunda División😈|😈09:00:00-WIB😈",😈Granada CF vs Sporting Gijon😈|😈31-05-2026😈|⏳20:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/715.png" group-title="😈Segunda División😈|😈09:00:00-WIB😈",😈Granada CF vs Sporting Gijon😈|😈31-05-2026😈|⏳20:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/715.png" group-title="😈Segunda División😈|😈09:00:00-WIB😈",😈Granada CF vs Sporting Gijon😈|😈31-05-2026😈|⏳20:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12.png" group-title="😈Friendlies😈|😈00:25:00-WIB😈",😈Japan vs Iceland😈|😈01-06-2026😈|⏳11:39:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12.png" group-title="😈Friendlies😈|😈00:25:00-WIB😈",😈Japan vs Iceland😈|😈01-06-2026😈|⏳11:33:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12.png" group-title="😈Friendlies😈|😈00:25:00-WIB😈",😈Japan vs Iceland😈|😈01-06-2026😈|⏳11:39:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12.png" group-title="😈Friendlies😈|😈00:25:00-WIB😈",😈Japan vs Iceland😈|😈01-06-2026😈|⏳11:33:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12.png" group-title="😈Friendlies😈|😈00:25:00-WIB😈",😈Japan vs Iceland😈|😈01-06-2026😈|⏳11:39:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12.png" group-title="😈Friendlies😈|😈00:25:00-WIB😈",😈Japan vs Iceland😈|😈01-06-2026😈|⏳11:33:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Da Nang😈|😈01-06-2026😈|⏳12:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Da Nang😈|😈01-06-2026😈|⏳12:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Da Nang😈|😈01-06-2026😈|⏳12:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Da Nang😈|😈01-06-2026😈|⏳12:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_lavie/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Da Nang😈|😈01-06-2026😈|⏳12:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/11134.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Hồng Lĩnh Hà Tĩnh vs Da Nang😈|😈01-06-2026😈|⏳12:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/16400.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Công An Nhân Dân vs Binh Duong😈|😈01-06-2026😈|⏳12:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/16400.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Công An Nhân Dân vs Binh Duong😈|😈01-06-2026😈|⏳12:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/16400.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Công An Nhân Dân vs Binh Duong😈|😈01-06-2026😈|⏳12:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/16400.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Công An Nhân Dân vs Binh Duong😈|😈01-06-2026😈|⏳12:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/16400.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Công An Nhân Dân vs Binh Duong😈|😈01-06-2026😈|⏳12:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/16400.png" group-title="😈V.League 1😈|😈01:00:00-WIB😈",😈Công An Nhân Dân vs Binh Duong😈|😈01-06-2026😈|⏳12:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="😈Friendlies😈|😈03:00:00-WIB😈",😈Switzerland vs Jordan😈|😈01-06-2026😈|⏳14:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="😈Friendlies😈|😈03:00:00-WIB😈",😈Switzerland vs Jordan😈|😈01-06-2026😈|⏳14:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="😈Friendlies😈|😈03:00:00-WIB😈",😈Switzerland vs Jordan😈|😈01-06-2026😈|⏳14:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="😈Friendlies😈|😈03:00:00-WIB😈",😈Switzerland vs Jordan😈|😈01-06-2026😈|⏳14:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieuhac/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="😈Friendlies😈|😈03:00:00-WIB😈",😈Switzerland vs Jordan😈|😈01-06-2026😈|⏳14:14:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="😈Friendlies😈|😈03:00:00-WIB😈",😈Switzerland vs Jordan😈|😈01-06-2026😈|⏳14:08:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/24.png" group-title="😈Friendlies😈|😈05:30:00-WIB😈",😈Poland vs Ukraine😈|😈01-06-2026😈|⏳16:44:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/24.png" group-title="😈Friendlies😈|😈05:30:00-WIB😈",😈Poland vs Ukraine😈|😈01-06-2026😈|⏳16:38:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/24.png" group-title="😈Friendlies😈|😈05:30:00-WIB😈",😈Poland vs Ukraine😈|😈01-06-2026😈|⏳16:44:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/24.png" group-title="😈Friendlies😈|😈05:30:00-WIB😈",😈Poland vs Ukraine😈|😈01-06-2026😈|⏳16:38:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/24.png" group-title="😈Friendlies😈|😈05:30:00-WIB😈",😈Poland vs Ukraine😈|😈01-06-2026😈|⏳16:44:50😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/24.png" group-title="😈Friendlies😈|😈05:30:00-WIB😈",😈Poland vs Ukraine😈|😈01-06-2026😈|⏳16:38:06😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
