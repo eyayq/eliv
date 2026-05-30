@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:43 WIB 30/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:43 WIB 30/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [18:50 WIB 30/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:50 WIB 30/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[16:00 WIB 30/05/26] Iva Jovic vs Naomi Osaka [FHD] [LIVE]
@@ -37,15 +37,6 @@ https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 30/05/26] Chongqing Tongliang Long vs Beijing Guoan [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[19:00 WIB 30/05/26] Aryna Sabalenka vs Daria Kasatkina [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[19:00 WIB 30/05/26] Aryna Sabalenka vs Daria Kasatkina [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[19:00 WIB 30/05/26] Aryna Sabalenka vs Daria Kasatkina [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Segunda División",[21:15 WIB 30/05/26] AD Ceuta FC vs Albacete [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
