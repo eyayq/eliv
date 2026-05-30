@@ -1,141 +1,129 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.28 WIB 31/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.35 WIB 31/05/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gimnasia-jujuy-8ac23d.webp" group-title="[LIVE 01:30 WIB 31/05/26] Gimnasia Jujuy vs Belgrano | Server 1",[LIVE 01:30 WIB 31/05/26] Gimnasia Jujuy vs Belgrano | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780176416-0-0-8464dc4400b15017c697f90d66eedec7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gimnasia-jujuy-8ac23d.webp" group-title="[LIVE 01:30 WIB 31/05/26] Gimnasia Jujuy vs Belgrano | Server 2",[LIVE 01:30 WIB 31/05/26] Gimnasia Jujuy vs Belgrano | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780176416-0-0-18b77a48640bd12e668d48233220b60d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gimnasia-jujuy-8ac23d.webp" group-title="[LIVE 01:30 WIB 31/05/26] Gimnasia Jujuy vs Belgrano | Server 3",[LIVE 01:30 WIB 31/05/26] Gimnasia Jujuy vs Belgrano | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/gimnasia-jujuy-8ac23d.webp" group-title="[LIVE 01:30 WIB 31/05/26] Gimnasia Jujuy vs Belgrano | Server 4",[LIVE 01:30 WIB 31/05/26] Gimnasia Jujuy vs Belgrano | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 1",[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780176416-0-0-93c25a0d4ed95002dac907530b83afa4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780176596-0-0-a3ea3bbb9b7f683a5d7962ae06c49dde
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 2",[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780176416-0-0-6473f0fe234f2c50d555a8a2a5f35b64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780176596-0-0-ec03417bccd6e2f19cfb370d76f5c7df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 3",[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780176416-0-0-a5b4f404dcefc0ecf5319f104d6994ec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780176596-0-0-6964438462eb6986399cd996c8d60c38
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 4",[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780176416-0-0-0d33c82a8bbc2235d8a752b36fcbc013
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780176596-0-0-82c3c34161d19701f1177176620c1622
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 5",[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780176416-0-0-a041ad4ee346f7ca364c456cb2e66f47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780176596-0-0-981a6748d3dc3e3f0fa905f646eaf64c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-rj-2d2a54.webp" group-title="[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 6",[LIVE 02:00 WIB 31/05/26] Flamengo - RJ vs Coritiba SAF - PR | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780176416-0-0-83843091f01a19652f0aae19bb1e31ce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780176596-0-0-78c097cbd27eddb938fe29dc3294ffb0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletico-paranaense-pr-df240b.webp" group-title="[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 1",[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780176416-0-0-cf6792f2e9a4e95715f558fab88128fd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780176596-0-0-bae73963e01c6a03c4c30aa3dc0b40bd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletico-paranaense-pr-df240b.webp" group-title="[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 2",[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780176416-0-0-9f60eb857d91ca6daa90ba027021f976
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780176596-0-0-0d6a30dd54f125b9c15e35e3383e4ad0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletico-paranaense-pr-df240b.webp" group-title="[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 3",[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780176416-0-0-941bc222ad9eab19022d986f49790a72
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780176596-0-0-3762d0562aafe0f8593f46fdd6026844
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletico-paranaense-pr-df240b.webp" group-title="[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 4",[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780176416-0-0-a51bc287c75debaf659edbab97514f02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780176596-0-0-1d0287e606d67723959cdfa5920dfb82
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletico-paranaense-pr-df240b.webp" group-title="[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 5",[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1780176416-0-0-2ad24ce6a4dca5675e195caa41b8003c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780176596-0-0-710fced2d5634b1b16b6126342d5686b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletico-paranaense-pr-df240b.webp" group-title="[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 6",[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1780176416-0-0-091201126733c3833d93b9887437d3cd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780176596-0-0-506f84d46f851c8f521a3d2ec0f28f58
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletico-paranaense-pr-df240b.webp" group-title="[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 7",[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780176416-0-0-4d3e6231ee42c2c2457581cafaf29026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780176596-0-0-e73f67c34f31c73b2d03742a4f02c705
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/athletico-paranaense-pr-df240b.webp" group-title="[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 8",[LIVE 02:00 WIB 31/05/26] Athletico Paranaense - PR vs Mirassol - SP | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780176416-0-0-b098df2b7603a007f9299d8951e636a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780176596-0-0-ef0d60678614fa95066071223a3527e4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-la-serena-13d0d6.png" group-title="[LIVE 02:00 WIB 31/05/26] Deportes La Serena vs Colo Colo | Server 1",[LIVE 02:00 WIB 31/05/26] Deportes La Serena vs Colo Colo | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780176416-0-0-6eaf9c3b91c3c941e862017be3d36b44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-9912114_lsd.m3u8?auth_key=1780176596-0-0-318938fcfadfd72fe9c40891b5ec210a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-la-serena-13d0d6.png" group-title="[LIVE 02:00 WIB 31/05/26] Deportes La Serena vs Colo Colo | Server 2",[LIVE 02:00 WIB 31/05/26] Deportes La Serena vs Colo Colo | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780176416-0-0-fc334491869afa793b69d0000a35ea71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1780176596-0-0-64ff90f64f7a10de95a7f70c6545c4ed
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-la-serena-13d0d6.png" group-title="[LIVE 02:00 WIB 31/05/26] Deportes La Serena vs Colo Colo | Server 3",[LIVE 02:00 WIB 31/05/26] Deportes La Serena vs Colo Colo | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780176416-0-0-e5ac68b533bca59cbd896c9e1e00b002
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780176596-0-0-b3f60c9ead70155ef6efa9d7cb85e2f6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-la-serena-13d0d6.png" group-title="[LIVE 02:00 WIB 31/05/26] Deportes La Serena vs Colo Colo | Server 4",[LIVE 02:00 WIB 31/05/26] Deportes La Serena vs Colo Colo | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780176416-0-0-87524cab624019eebe5fbe4ef20c2e8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780176596-0-0-8d9055f912000723e2dc745a622f7cda
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportes-la-serena-13d0d6.png" group-title="[LIVE 02:00 WIB 31/05/26] Deportes La Serena vs Colo Colo | Server 5",[LIVE 02:00 WIB 31/05/26] Deportes La Serena vs Colo Colo | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/granada-cf-98824f.png" group-title="[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 1",[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780176416-0-0-d396ca907a01930a016490d9882d8378
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780176596-0-0-f2388e03a4db7fcbeba9ae94975b9ddd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/granada-cf-98824f.png" group-title="[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 2",[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780176416-0-0-1213662da157cf5b89137ce8fafa81f3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780176596-0-0-7e16e55a17474c2e684fe31694cfc50a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/granada-cf-98824f.png" group-title="[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 3",[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780176416-0-0-0a55cf26e9236183ba9c6b9abf03a4ea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=c37c7b5101f805aeab67fdc206ee669c&txTime=6a1b9d24
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/granada-cf-98824f.png" group-title="[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 4",[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780176416-0-0-f63ac3313d2b804d373a70fb5ca9088f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=8d39c471175129766028847b37f4bb70&txTime=6a1b9d24
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/granada-cf-98824f.png" group-title="[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 5",[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780176416-0-0-6d0363ccc80e68e60f539ec63bad608b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780176596-0-0-de25108bb0b099d706f3b6d525a1beb6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/granada-cf-98824f.png" group-title="[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 6",[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780176416-0-0-5166dc21940eb088f0278802fbc44a0c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780176596-0-0-027355c73121462410ef6ddac177520e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/granada-cf-98824f.png" group-title="[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 7",[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912050_lsd.m3u8?txSecret=26be8d21430887c66d51e7ebc261ce20&txTime=6a1b9c70
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780176596-0-0-729cf88ef269693aa05770a648144a7c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/granada-cf-98824f.png" group-title="[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 8",[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=afa65aaca0c6d5234cf2950ee199ea96&txTime=6a1b9c70
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780176596-0-0-9974108a03a6f9a3a1e3fcb2e7ad4668
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/granada-cf-98824f.png" group-title="[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 9",[LIVE 02:00 WIB 31/05/26] Granada CF vs Sporting Gijon | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/union-touarga-sport-rabat-6be9fc.png" group-title="[LIVE 02:00 WIB 31/05/26] Union Touarga Sport Rabat vs FAR Forces Armee Royales | Server 1",[LIVE 02:00 WIB 31/05/26] Union Touarga Sport Rabat vs FAR Forces Armee Royales | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-f4cc08.png" group-title="[LIVE 02:00 WIB 31/05/26] Flamengo vs Coritiba PR | Server 1",[LIVE 02:00 WIB 31/05/26] Flamengo vs Coritiba PR | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/atletico-paranaense-8990e8.png" group-title="[LIVE 02:00 WIB 31/05/26] Atletico Paranaense vs Mirassol | Server 1",[LIVE 02:00 WIB 31/05/26] Atletico Paranaense vs Mirassol | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/flamengo-f4cc08.png" group-title="[LIVE 02:00 WIB 31/05/26] Flamengo vs Coritiba PR | Server 1",[LIVE 02:00 WIB 31/05/26] Flamengo vs Coritiba PR | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cf-os-belenenses-baad8b.png" group-title="[LIVE 02:30 WIB 31/05/26] CF Os Belenenses vs SC Farense | Server 1",[LIVE 02:30 WIB 31/05/26] CF Os Belenenses vs SC Farense | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bahia-ba-e59a53.webp" group-title="[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 1",[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780176416-0-0-8464dc4400b15017c697f90d66eedec7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780176596-0-0-60729123efe92ef50e6470c52ebf9e8d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bahia-ba-e59a53.webp" group-title="[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 2",[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780176416-0-0-18b77a48640bd12e668d48233220b60d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780176596-0-0-c47395552484d74edd60e0d1706343ab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bahia-ba-e59a53.webp" group-title="[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 3",[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780176416-0-0-6a3dadd5441a4cb1749857c0cca69174
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780176596-0-0-4ac89c1f5ab4d289ad940b8d23fa19a8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bahia-ba-e59a53.webp" group-title="[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 4",[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780176416-0-0-355e7b12968067117c728339b75c1912
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780176596-0-0-8db43565f8cb5717ad82c1c9265300f3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bahia-ba-e59a53.webp" group-title="[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 5",[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780176416-0-0-c5efd0e95b749e1d1ceab440b55d926d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780176600-0-0-73036ce6f5a8056be86282ba78262af4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bahia-ba-e59a53.webp" group-title="[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 6",[LIVE 03:30 WIB 31/05/26] Bahia - BA vs Botafogo - RJ | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780176416-0-0-dbe30ef7712ff04ed5711d94bb21ce89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780176600-0-0-f780a1c2f9cc7bec961d5fb60c47f1de
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.webp" group-title="[LIVE 03:30 WIB 31/05/26] Grêmio - RS vs Corinthians - SP | Server 1",[LIVE 03:30 WIB 31/05/26] Grêmio - RS vs Corinthians - SP | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780176416-0-0-51c9f715442e30d0725005a9747d1c1e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780176596-0-0-a8e512e984b5d75c4a7a4203cce32e4f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.webp" group-title="[LIVE 03:30 WIB 31/05/26] Grêmio - RS vs Corinthians - SP | Server 2",[LIVE 03:30 WIB 31/05/26] Grêmio - RS vs Corinthians - SP | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780176416-0-0-11feb57142a5889d2d96e92f9e486fd1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780176596-0-0-07702761fe1055e9d6e2b335e5ea3775
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.webp" group-title="[LIVE 03:30 WIB 31/05/26] Grêmio - RS vs Corinthians - SP | Server 3",[LIVE 03:30 WIB 31/05/26] Grêmio - RS vs Corinthians - SP | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780176416-0-0-981ba34e0b2efd3a75173e55be1c88b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780176596-0-0-583b155b937e24961234db4662e61060
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grêmio-rs-d0bf7a.webp" group-title="[LIVE 03:30 WIB 31/05/26] Grêmio - RS vs Corinthians - SP | Server 4",[LIVE 03:30 WIB 31/05/26] Grêmio - RS vs Corinthians - SP | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780176416-0-0-59f5db8b34e63fc70a4a24f5a05fc30d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36 EdgA/135.0.0.0
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780176596-0-0-50d59525999fd7658a268b4dce51f393
