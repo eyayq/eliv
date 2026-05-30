@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 19:06:57 WIB 30-05-2026
-# 🔄 Total Channels: 4220
+# ⏰ Latest Updated: 19:13:14 WIB 30-05-2026
+# 🔄 Total Channels: 4233
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:06:57 WIB 30-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:13:14 WIB 30-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -54,6 +54,48 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F110_164871277443.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   31/05 Granada CF vs Sporting Gijon  LEO m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F110_164871277443.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   31/05 Granada CF vs Sporting Gijon  LEO flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3117_1h1jgsze5y1f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   31/05 Union Touarga Sport Rabat vs FAR Forces Armee Royales  VUONG LUAN m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F3117_1h1jgsze5y1f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   31/05 Union Touarga Sport Rabat vs FAR Forces Armee Royales  VUONG LUAN flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F313_1gxhxt30w91z.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   31/05 Atletico Paranaense vs Mirassol  FERNANDO m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F313_1gxhxt30w91z.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   31/05 Atletico Paranaense vs Mirassol  FERNANDO flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F946_1gw8pexzs8s.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   31/05 Deportes La Serena vs Colo Colo  HAN TIN m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F946_1gw8pexzs8s.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   31/05 Deportes La Serena vs Colo Colo  HAN TIN flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F322_1j9d3cawp41r.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   31/05 Flamengo vs Coritiba PR  DUONG CHI m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F322_1j9d3cawp41r.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   31/05 Flamengo vs Coritiba PR  DUONG CHI flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_133418_bf7621c6.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",02:00   31/05 Granada CF vs Sporting Gijon HD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_125538_01850be7.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",02:00   31/05 Atletico Paranaense vs Mirassol HD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_125537_af573eed.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",02:00   31/05 Flamengo vs Coritiba HD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F682_165018846810.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",01:30   31/05 Nigeria vs Jamaica  PHI HO m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
