@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:36 WIB 30/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:36 WIB 30/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:43 WIB 30/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:43 WIB 30/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbf-OcS51GUU2TzfvCC8lZglnvdEniw1DpdA&s" group-title="UK OPEN",[18:00 WIB 30/05/26] Dean Shields vs Jayson Shaw [FHD] [LIVE]
@@ -19,24 +19,6 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 30/05/26] Chongqing Tongliang Long vs Beijing Guoan [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[20:30 WIB 30/05/26] ff [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[20:30 WIB 30/05/26] ff [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="LCK ",[20:30 WIB 30/05/26] ff [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Segunda División",[21:15 WIB 30/05/26] AD Ceuta FC vs Albacete [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Segunda División",[21:15 WIB 30/05/26] AD Ceuta FC vs Albacete [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Segunda División",[21:15 WIB 30/05/26] AD Ceuta FC vs Albacete [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( Đầu Cầu Trung Lập )",[23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
@@ -82,15 +64,6 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114456/football_dx4kvx.png" group-title="Giao Hữu",[01:30 WIB 31/05/26] Jamaica vs Nigeria [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[06:00 WIB 31/05/26] Santos vs Vitoria [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[06:00 WIB 31/05/26] Santos vs Vitoria [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/1280px-Serie_A_logo_2022.svg.png" group-title="Serie A",[06:00 WIB 31/05/26] Santos vs Vitoria [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[06:30 WIB 31/05/26] Ecuador vs Saudi Arabia [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
