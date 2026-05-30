@@ -1,15 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [03.36 WIB 31/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [03.41 WIB 31/05/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1768871687799-football-icon.png" group-title="[LIVE 23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal",[LIVE 23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal (FHD)
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1768871687799-football-icon.png" group-title="[LIVE 23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal",[LIVE 23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal (FHD)
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1768871687799-football-icon.png" group-title="[LIVE 23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal",[LIVE 23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal (FHD)
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1770607143965-football-icon.png" group-title="[UPCOMING 3j 23m 07:00 WIB 31/05/26] Toluca vs Tigres UANL",[UPCOMING 3j 23m 07:00 WIB 31/05/26] Toluca vs Tigres UANL (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 5j 18m 09:00 WIB 31/05/26] Mexico vs Australia",[UPCOMING 5j 18m 09:00 WIB 31/05/26] Mexico vs Australia (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 5j 23m 09:00 WIB 31/05/26] Mexico vs Australia",[UPCOMING 5j 23m 09:00 WIB 31/05/26] Mexico vs Australia (FHD)
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 13j 48m 17:25 WIB 31/05/26] Japan vs Iceland",[UPCOMING 13j 48m 17:25 WIB 31/05/26] Japan vs Iceland (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 13j 43m 17:25 WIB 31/05/26] Japan vs Iceland",[UPCOMING 13j 43m 17:25 WIB 31/05/26] Japan vs Iceland (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/698.png" group-title="[UPCOMING 17j 18m 21:00 WIB 31/05/26] Brighton W vs Manchester City W",[UPCOMING 17j 18m 21:00 WIB 31/05/26] Brighton W vs Manchester City W (FHD)
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 18j 48m 22:30 WIB 31/05/26] Poland vs Ukraine",[UPCOMING 18j 48m 22:30 WIB 31/05/26] Poland vs Ukraine (FHD)
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
