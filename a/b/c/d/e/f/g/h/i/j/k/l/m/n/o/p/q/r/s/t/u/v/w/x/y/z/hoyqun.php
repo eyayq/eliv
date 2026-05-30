@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:03 WIB 30/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:03 WIB 30/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:10 WIB 30/05/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:10 WIB 30/05/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( Đầu Cầu Trung Lập )",[23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal [FHD] [NANTIKAN]
@@ -29,13 +29,13 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( FAN ARS  )",[23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( Đầu Cầu Trung Lập )",[23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( Đầu Cầu Trung Lập )",[23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( Đầu Cầu Trung Lập )",[23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( Đầu Cầu Trung Lập )",[23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( Đầu Cầu Trung Lập )",[23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYqaWlb.png" group-title="UEFA Champions League ( Đầu Cầu Trung Lập )",[23:00 WIB 30/05/26] Paris Saint Germain vs Arsenal [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114456/football_dx4kvx.png" group-title="Giao Hữu",[01:30 WIB 31/05/26] Jamaica vs Nigeria [FHD] [NANTIKAN]
@@ -46,6 +46,15 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114456/football_dx4kvx.png" group-title="Giao Hữu",[01:30 WIB 31/05/26] Jamaica vs Nigeria [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114456/football_dx4kvx.png" group-title="Giao Hữu",[01:30 WIB 31/05/26] Jamaica vs Nigeria [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114456/football_dx4kvx.png" group-title="Giao Hữu",[01:30 WIB 31/05/26] Jamaica vs Nigeria [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114456/football_dx4kvx.png" group-title="Giao Hữu",[01:30 WIB 31/05/26] Jamaica vs Nigeria [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[06:30 WIB 31/05/26] Ecuador vs Saudi Arabia [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
