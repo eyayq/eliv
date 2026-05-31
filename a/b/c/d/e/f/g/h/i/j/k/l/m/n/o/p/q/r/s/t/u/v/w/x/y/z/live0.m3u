@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 11:48:30 WIB 31-05-2026
-# 🔄 Total Channels: 4137
+# ⏰ Latest Updated: 11:55:22 WIB 31-05-2026
+# 🔄 Total Channels: 4138
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:48:30 WIB 31-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [11:55:22 WIB 31-05-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -61,6 +61,10 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8DmW44q5/20260531-184803.jpg" group-title="LIVE EVENT",17:00 WIB Japan  vs  Iceland - Live | SporTV | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHNM-9ElB0s7h-3cZlU8fmUvCtRdC-pr_yYrXkB1L9Tw&s=10" group-title="LIVE EVENT",17:50 WIB 2026 WorldSBK: Rd 6 Aragon Round | SPOTV PH | Gvision TV
 #KODIPROP:inputstream.adaptive.livestream=false
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -90,12 +94,30 @@ https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fc
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F777_165018987224.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:30   31/05 Singapore vs Mongolia  MA SIEU flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F81_1gy3vkgfwn2t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Tianjin Tigers vs Dalian Zhixing  VO TONG m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F81_1gy3vkgfwn2t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Tianjin Tigers vs Dalian Zhixing  VO TONG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21854_1hgvtfy5jt15.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Cong An Ha Noi vs Becamex TP Ho Chi Minh  PHI HO m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F21854_1hgvtfy5jt15.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Cong An Ha Noi vs Becamex TP Ho Chi Minh  PHI HO flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1689_1jqjeqygbn1b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Hoang Anh Gia Lai vs Hanoi FC  LY UNG m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1689_1jqjeqygbn1b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Hoang Anh Gia Lai vs Hanoi FC  LY UNG flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6306_1k26fvjzjsh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Nam Dinh FC vs Song Lam Nghe An  MAYBACH m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6306_1k26fvjzjsh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Nam Dinh FC vs Song Lam Nghe An  MAYBACH flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8676_1h5e4e370y1r.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Thanh Hoa vs Ninh Binh FC  GAU KA m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
@@ -108,36 +130,18 @@ https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F34477_1hrr4bsqf92k.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 PVF-CAND vs Hai Phong  TRIEU TU LONG flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F17315_1k3q3st99rc.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Cong An TP Ho Chi Minh vs Viettel FC  LY QUY m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F17315_1k3q3st99rc.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Cong An TP Ho Chi Minh vs Viettel FC  LY QUY flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F17315_1k3q3st99rc.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Cong An TP Ho Chi Minh vs Viettel FC  DUONG CHI m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F17315_1k3q3st99rc.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Cong An TP Ho Chi Minh vs Viettel FC  DUONG CHI flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F81_1gy3vkgfwn2t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Tianjin Tigers vs Dalian Zhixing  VO TONG m3u Gvision TV
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F17315_1k3q3st99rc.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Cong An TP Ho Chi Minh vs Viettel FC  LY QUY m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F81_1gy3vkgfwn2t.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Tianjin Tigers vs Dalian Zhixing  VO TONG flv Gvision TV
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F17315_1k3q3st99rc.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Cong An TP Ho Chi Minh vs Viettel FC  LY QUY flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6306_1k26fvjzjsh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Nam Dinh FC vs Song Lam Nghe An  MAYBACH m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F6306_1k26fvjzjsh.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Nam Dinh FC vs Song Lam Nghe An  MAYBACH flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1689_1jqjeqygbn1b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Hoang Anh Gia Lai vs Hanoi FC  LY UNG m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1689_1jqjeqygbn1b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Hoang Anh Gia Lai vs Hanoi FC  LY UNG flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F23896_1h5e4e370r1y.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",18:00   31/05 Hong Linh Ha Tinh vs Da Nang  LAO HAC m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
