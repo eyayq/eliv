@@ -1,48 +1,48 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.35 WIB 02/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.44 WIB 02/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 1",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780349359-0-0-cabf0be8263aa3d6fe9043c571facbb3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780349899-0-0-357cdf344019bb04c21cda518fdadd1d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 2",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780349359-0-0-1699c01f24b1e66bd894757896f6cc80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780349899-0-0-293084eed67c79c612506fe1101e11c7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 3",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780349359-0-0-fec31304367bc45ecbd7774a590d3cc9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780349899-0-0-7c5523c0830f8b5627015f57cc0d9498
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 4",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780349359-0-0-51c6be5632acca88eb457c4d5dfb3b24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780349899-0-0-a9469aa2ea98653eb48d9f8143a649f6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 5",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780349359-0-0-6755ea64b504a4b7326692e54463968d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780349899-0-0-1284549312b6f0033b6f149ca2d773a9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 6",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780349359-0-0-4c11dd1b7d4744afcc495319af9d55ba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780349899-0-0-1277a3cb1c3c3d9f924ccb5deec4765d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 7",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780349359-0-0-8b854087580ae7f4a2569ef21762638b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780349899-0-0-3c84ca229c95959c1911f2df405e961b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 8",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780349359-0-0-416c9b7290c3e816710652b98e8e7b0e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780349899-0-0-93a7cac3b8ce600d5fc5feda23d3db40
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 9",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780349359-0-0-a076121c67ffaa0181aad3ff23a8717c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780349899-0-0-74dd0570dc42ed93683be632ad1f76b9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 10",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780349359-0-0-67c2864f734da3799a958ef99f74b28a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780349899-0-0-f397cedc51a47774150a4370507c4228
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 11",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780349359-0-0-ce7c334fd6f3f01a17276585737ed5fc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780349899-0-0-bba206b33510847f944606efa14cd51e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 12",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780349359-0-0-09df80112264a7d3ba9c2f42293ca9a5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1780349899-0-0-b0f4421d15169dfa947e0600fe9615e6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 13",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 14",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-6cd0c2.png" group-title="[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 15",[LIVE 01:45 WIB 02/06/26] Austria vs Tunisia | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
