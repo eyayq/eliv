@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [00.32 WIB 02/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [00.39 WIB 02/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[LIVE 00:00 WIB 02/06/26] Norway vs Sweden",[LIVE 00:00 WIB 02/06/26] Norway vs Sweden (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 1j 12m 01:45 WIB 02/06/26] Austria vs Tunisia",[UPCOMING 1j 12m 01:45 WIB 02/06/26] Austria vs Tunisia (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 1j 5m 01:45 WIB 02/06/26] Austria vs Tunisia",[UPCOMING 1j 5m 01:45 WIB 02/06/26] Austria vs Tunisia (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 7j 27m 08:00 WIB 02/06/26] Canada vs Uzbekistan",[UPCOMING 7j 27m 08:00 WIB 02/06/26] Canada vs Uzbekistan (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 7j 20m 08:00 WIB 02/06/26] Canada vs Uzbekistan",[UPCOMING 7j 20m 08:00 WIB 02/06/26] Canada vs Uzbekistan (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="[UPCOMING 15j 27m 16:00 WIB 02/06/26] Thailand U19 vs Brunei U19",[UPCOMING 15j 27m 16:00 WIB 02/06/26] Thailand U19 vs Brunei U19 (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="[UPCOMING 15j 20m 16:00 WIB 02/06/26] Thailand U19 vs Brunei U19",[UPCOMING 15j 20m 16:00 WIB 02/06/26] Thailand U19 vs Brunei U19 (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/24.png" group-title="[UPCOMING 18j 42m 19:15 WIB 02/06/26] Brunei vs Timor-Leste",[UPCOMING 18j 42m 19:15 WIB 02/06/26] Brunei vs Timor-Leste (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/24.png" group-title="[UPCOMING 18j 35m 19:15 WIB 02/06/26] Brunei vs Timor-Leste",[UPCOMING 18j 35m 19:15 WIB 02/06/26] Brunei vs Timor-Leste (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 22j 27m 23:00 WIB 02/06/26] Croatia vs Belgium",[UPCOMING 22j 27m 23:00 WIB 02/06/26] Croatia vs Belgium (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 22j 20m 23:00 WIB 02/06/26] Croatia vs Belgium",[UPCOMING 22j 20m 23:00 WIB 02/06/26] Croatia vs Belgium (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
