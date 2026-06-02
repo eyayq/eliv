@@ -1,85 +1,99 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Canada😈VS😈Uzbekistan📁|LIVE|Tuesday 02 June 2026 08:10:00 WIB(Main)
-https://live.egmdispatch.com/live/13521894_27ac295e2071bc55e5f75acda411109f_autoChange.m3u8?auth_key=1780382384-0-0-2b925e583599719613626ce6f90d9cee
+https://live.egmdispatch.com/live/13521894_27ac295e2071bc55e5f75acda411109f_autoChange.m3u8?auth_key=1780382993-0-0-1a42a165a4b41ff599316b76277ba4b4
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Canada😈VS😈Uzbekistan📁|LIVE|Tuesday 02 June 2026 08:10:00 WIB(BLV SPRITE)
 https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7e19999864bb17b5cf10e68e3c7e6276.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Canada😈VS😈Uzbekistan📁|LIVE|Tuesday 02 June 2026 08:10:00 WIB(BLV BÍ ĐAO)
 https://live05.msdht.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/b48443679dd0356cc64abce373f763e1.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Phoenix Mercury😈VS😈Minnesota Lynx📁|LIVE|Tuesday 02 June 2026 09:00:00 WIB(Main)
-https://live1.egmdispatch.com/live/68096408_2c43e8971f27540a72dc2c6276c0cf29_autoChange.m3u8?auth_key=1780382384-0-0-86cc3e7bad6d672a295d1bd48e04996f
+https://live1.egmdispatch.com/live/68096408_2c43e8971f27540a72dc2c6276c0cf29_autoChange.m3u8?auth_key=1780382994-0-0-b6fe85335825ad8c2d099d86dfad6938
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/b48443679dd0356cc64abce373f763e1.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Phoenix Mercury😈VS😈Minnesota Lynx📁|LIVE|Tuesday 02 June 2026 09:00:00 WIB(BLV POCARI)
 https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="📁AFF Championship U19📁",📁Thái Lan U19😈VS😈Brunei U19📁|0d 6h 17m 15s|Tuesday 02 June 2026 16:00:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="📁AFF Championship U19📁",📁Thái Lan U19😈VS😈Brunei U19📁|0d 6h 9m 43s|Tuesday 02 June 2026 16:00:00 WIB(BLV SODA)
 https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/62ee76fc01732a90a87f98940d031d6e.png!w80" group-title="📁Giải Ngoại hạng Quốc gia Úc bang Queensland📁",📁Wynnum Wolves😈VS😈Brisbane U21📁|0d 6h 47m 15s|Tuesday 02 June 2026 16:30:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/62ee76fc01732a90a87f98940d031d6e.png!w80" group-title="📁Giải Ngoại hạng Quốc gia Úc bang Queensland📁",📁Wynnum Wolves😈VS😈Brisbane U21📁|0d 6h 39m 43s|Tuesday 02 June 2026 16:30:00 WIB(BLV C2)
 https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fdd983fc166e48243c7eecfdeb57f25.png!w80" group-title="📁Giải bóng đá hạng nhất Queensland, Úc📁",📁North Star😈VS😈Brisbane Strikers📁|0d 7h 32m 15s|Tuesday 02 June 2026 17:15:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fdd983fc166e48243c7eecfdeb57f25.png!w80" group-title="📁Giải bóng đá hạng nhất Queensland, Úc📁",📁North Star😈VS😈Brisbane Strikers📁|0d 7h 24m 43s|Tuesday 02 June 2026 17:15:00 WIB(Main)
 https://live.egmdispatch.com/live/j374oi03om9bgqo_5b8b48aff24793fdd594e6d41da76b5c_autoChange.m3u8?auth_key=1780064095-0-0-38eb4993c88dc09f410d98dd78e3312a
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fdd983fc166e48243c7eecfdeb57f25.png!w80" group-title="📁Giải bóng đá hạng nhất Queensland, Úc📁",📁North Star😈VS😈Brisbane Strikers📁|0d 7h 32m 15s|Tuesday 02 June 2026 17:15:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fdd983fc166e48243c7eecfdeb57f25.png!w80" group-title="📁Giải bóng đá hạng nhất Queensland, Úc📁",📁North Star😈VS😈Brisbane Strikers📁|0d 7h 24m 43s|Tuesday 02 June 2026 17:15:00 WIB(BLV BÍ ĐAO)
 https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Zhejiang East Sunshine Medicine😈VS😈Shanghai📁|0d 8h 52m 15s|Tuesday 02 June 2026 18:35:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png!w80" group-title="📁Giải bóng rổ nam Trung Quốc📁",📁Zhejiang East Sunshine Medicine😈VS😈Shanghai📁|0d 8h 44m 43s|Tuesday 02 June 2026 18:35:00 WIB(BLV POCARI)
 https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80" group-title="📁Giải bóng đá Đông Nam Á📁",📁Brunei😈VS😈Đông Timor📁|0d 9h 32m 15s|Tuesday 02 June 2026 19:15:00 WIB(BLV COCA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80" group-title="📁Giải bóng đá Đông Nam Á📁",📁Brunei😈VS😈Đông Timor📁|0d 9h 24m 43s|Tuesday 02 June 2026 19:15:00 WIB(BLV COCA)
 https://live05.msdht.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80" group-title="📁Giải bóng đá Đông Nam Á📁",📁Brunei😈VS😈Đông Timor📁|0d 9h 32m 15s|Tuesday 02 June 2026 19:15:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80" group-title="📁Giải bóng đá Đông Nam Á📁",📁Brunei😈VS😈Đông Timor📁|0d 9h 24m 43s|Tuesday 02 June 2026 19:15:00 WIB(BLV REVIVE)
 https://live05.msdht.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/367ba92bc85435312f1074132e9e2ce8.png!w80" group-title="📁Toulon Tournament📁",📁Trung Quốc U19😈VS😈Democratic Rep Congo U23📁|0d 10h 17m 15s|Tuesday 02 June 2026 20:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/367ba92bc85435312f1074132e9e2ce8.png!w80" group-title="📁Toulon Tournament📁",📁Trung Quốc U19😈VS😈Democratic Rep Congo U23📁|0d 10h 9m 43s|Tuesday 02 June 2026 20:00:00 WIB(BLV C2)
 https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d754f7302ec0da60aeb079c36b4938d4.png!w80" group-title="📁AFF Championship U19📁",📁Malaysia U19😈VS😈Singapore U19📁|0d 10h 17m 15s|Tuesday 02 June 2026 20:00:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d754f7302ec0da60aeb079c36b4938d4.png!w80" group-title="📁AFF Championship U19📁",📁Malaysia U19😈VS😈Singapore U19📁|0d 10h 9m 43s|Tuesday 02 June 2026 20:00:00 WIB(BLV PEPSI)
 https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c1097254ac1bb298f5a1178d3c95c36c.png!w80" group-title="📁Giải hạng Ba Phần Lan📁",📁JJK Jyvaskyla😈VS😈Vantaa📁|0d 12h 47m 15s|Tuesday 02 June 2026 22:30:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c1097254ac1bb298f5a1178d3c95c36c.png!w80" group-title="📁Giải hạng Ba Phần Lan📁",📁JJK Jyvaskyla😈VS😈Vantaa📁|0d 12h 39m 43s|Tuesday 02 June 2026 22:30:00 WIB(BLV SPRITE)
 https://live05.msdht.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Croatia😈VS😈Bỉ📁|0d 13h 17m 15s|Tuesday 02 June 2026 23:00:00 WIB(BLV ÔLONG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Croatia😈VS😈Bỉ📁|0d 13h 9m 43s|Tuesday 02 June 2026 23:00:00 WIB(BLV ÔLONG)
 https://live05.msdht.app/live/97312754.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Croatia😈VS😈Bỉ📁|0d 13h 17m 15s|Tuesday 02 June 2026 23:00:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Croatia😈VS😈Bỉ📁|0d 13h 9m 43s|Tuesday 02 June 2026 23:00:00 WIB(BLV GIÀ LÀNG)
 https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c1c4f9675236790ff492252cfa28218a.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Saudi Arabia U21😈VS😈Colombia U19📁|0d 13h 47m 15s|Tuesday 02 June 2026 23:30:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c1c4f9675236790ff492252cfa28218a.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Saudi Arabia U21😈VS😈Colombia U19📁|0d 13h 39m 43s|Tuesday 02 June 2026 23:30:00 WIB(BLV REDBULL)
 https://live05.msdht.app/live/68848594.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c5b86fa907b96e38e377ddfe82802cc6.png!w80" group-title="📁Giao hữu Quốc tế📁",📁ĐTQG Georgia😈VS😈CLB Romania📁|0d 14h 17m 15s|Wednesday 03 June 2026 00:00:00 WIB(BLV COCA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c5b86fa907b96e38e377ddfe82802cc6.png!w80" group-title="📁Giao hữu Quốc tế📁",📁ĐTQG Georgia😈VS😈CLB Romania📁|0d 14h 9m 43s|Wednesday 03 June 2026 00:00:00 WIB(BLV COCA)
 https://live05.msdht.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Ma Rốc😈VS😈Madagascar📁|0d 14h 17m 15s|Wednesday 03 June 2026 00:00:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Ma Rốc😈VS😈Madagascar📁|0d 14h 9m 43s|Wednesday 03 June 2026 00:00:00 WIB(BLV REVIVE)
 https://live05.msdht.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/bc4e888f62c1be1a6264ec627051c2a4.png!w80" group-title="📁Giải bóng đá Nữ Hạng nhất Thụy Điển📁",📁Savedalens😈VS😈Thăm dò ý kiến📁|0d 14h 47m 15s|Wednesday 03 June 2026 00:30:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/bc4e888f62c1be1a6264ec627051c2a4.png!w80" group-title="📁Giải bóng đá Nữ Hạng nhất Thụy Điển📁",📁Savedalens😈VS😈Thăm dò ý kiến📁|0d 14h 39m 43s|Wednesday 03 June 2026 00:30:00 WIB(BLV MOUNTAIN DEW)
 https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Wales😈VS😈Ghana📁|0d 16h 2m 15s|Wednesday 03 June 2026 01:45:00 WIB(BLV ÔLONG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Wales😈VS😈Ghana📁|0d 15h 54m 43s|Wednesday 03 June 2026 01:45:00 WIB(BLV ÔLONG)
 https://live05.msdht.app/live/97312754.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Atlanta Dream😈VS😈Connecticut Sun📁|0d 20h 47m 15s|Wednesday 03 June 2026 06:30:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Atlanta Dream😈VS😈Connecticut Sun📁|0d 20h 39m 43s|Wednesday 03 June 2026 06:30:00 WIB(BLV Cozy)
 https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Washington Mystics😈VS😈Chicago Sky📁|0d 20h 47m 15s|Wednesday 03 June 2026 06:30:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Washington Mystics😈VS😈Chicago Sky📁|0d 20h 39m 43s|Wednesday 03 June 2026 06:30:00 WIB(BLV POCARI)
 https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Haiti😈VS😈New Zealand📁|0d 21h 17m 15s|Wednesday 03 June 2026 07:00:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Haiti😈VS😈New Zealand📁|0d 21h 9m 43s|Wednesday 03 June 2026 07:00:00 WIB(BLV SPRITE)
 https://live05.msdht.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png!w80" group-title="📁Cúp Argentina📁",📁Barracas Central😈VS😈Huracan📁|0d 21h 27m 15s|Wednesday 03 June 2026 07:10:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png!w80" group-title="📁Cúp Argentina📁",📁Barracas Central😈VS😈Huracan📁|0d 21h 19m 43s|Wednesday 03 June 2026 07:10:00 WIB(BLV SODA)
 https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png!w80" group-title="📁Giải vô địch quốc gia Colombia📁",📁Junior😈VS😈Atletico Nacional📁|0d 21h 47m 15s|Wednesday 03 June 2026 07:30:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png!w80" group-title="📁Giải vô địch quốc gia Colombia📁",📁Junior😈VS😈Atletico Nacional📁|0d 21h 39m 43s|Wednesday 03 June 2026 07:30:00 WIB(BLV MOUNTAIN DEW)
 https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png!w80" group-title="📁Giải vô địch quốc gia Colombia📁",📁Junior😈VS😈Atletico Nacional📁|0d 21h 47m 15s|Wednesday 03 June 2026 07:30:00 WIB(BLV STING)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fd3230c7fa4ad7bde28c640f2f32ca43.png!w80" group-title="📁Giải vô địch quốc gia Colombia📁",📁Junior😈VS😈Atletico Nacional📁|0d 21h 39m 43s|Wednesday 03 June 2026 07:30:00 WIB(BLV STING)
 https://live05.msdht.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Los Angeles Sparks😈VS😈Las Vegas Aces📁|0d 23h 17m 15s|Wednesday 03 June 2026 09:00:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Los Angeles Sparks😈VS😈Las Vegas Aces📁|0d 23h 9m 43s|Wednesday 03 June 2026 09:00:00 WIB(BLV Cozy)
 https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Golden State Valkyries😈VS😈Portland Fire📁|0d 23h 17m 15s|Wednesday 03 June 2026 09:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Golden State Valkyries😈VS😈Portland Fire📁|0d 23h 9m 43s|Wednesday 03 June 2026 09:00:00 WIB(BLV POCARI)
 https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/12e9ecb23853b22284862b0002431e14.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Auckland Huskies😈VS😈Canterbury Rams📁|1d 4h 17m 15s|Wednesday 03 June 2026 14:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/12e9ecb23853b22284862b0002431e14.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Auckland Huskies😈VS😈Canterbury Rams📁|1d 4h 9m 43s|Wednesday 03 June 2026 14:00:00 WIB(BLV POCARI)
 https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80" group-title="📁Euro U19📁",📁Bồ Đào Nha U19😈VS😈Kazakhstan U19📁|1d 6h 17m 15s|Wednesday 03 June 2026 16:00:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80" group-title="📁Euro U19📁",📁Bồ Đào Nha U19😈VS😈Kazakhstan U19📁|1d 6h 9m 43s|Wednesday 03 June 2026 16:00:00 WIB(BLV GIÀ LÀNG)
 https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/030a377635b3ac3fe5cbb49221594110.png!w80" group-title="📁Giải Ngoại hạng Quốc gia Úc bang Queensland📁",📁CLB Rochedale Rovers😈VS😈CLB Magic United TFA📁|1d 7h 17m 15s|Wednesday 03 June 2026 17:00:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/030a377635b3ac3fe5cbb49221594110.png!w80" group-title="📁Giải Ngoại hạng Quốc gia Úc bang Queensland📁",📁CLB Rochedale Rovers😈VS😈CLB Magic United TFA📁|1d 7h 9m 43s|Wednesday 03 June 2026 17:00:00 WIB(BLV REDBULL)
 https://live05.msdht.app/live/68848594.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Philippines😈VS😈Guam📁|1d 8h 47m 15s|Wednesday 03 June 2026 18:30:00 WIB(BLV COCA)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Philippines😈VS😈Guam📁|1d 8h 39m 43s|Wednesday 03 June 2026 18:30:00 WIB(BLV COCA)
 https://live05.msdht.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Trung Quốc Nữ😈VS😈Nga Nữ📁|1d 8h 52m 15s|Wednesday 03 June 2026 18:35:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Trung Quốc Nữ😈VS😈Nga Nữ📁|1d 8h 44m 43s|Wednesday 03 June 2026 18:35:00 WIB(BLV C2)
 https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/07daf24dd0dc945b0c7de32271d1f484.png!w80" group-title="📁Toulon Tournament📁",📁Nhật Bản U19😈VS😈Bồ Đào Nha U20📁|1d 10h 17m 15s|Wednesday 03 June 2026 20:00:00 WIB(BLV REVIVE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/07daf24dd0dc945b0c7de32271d1f484.png!w80" group-title="📁Toulon Tournament📁",📁Nhật Bản U19😈VS😈Bồ Đào Nha U20📁|1d 10h 9m 43s|Wednesday 03 June 2026 20:00:00 WIB(BLV REVIVE)
 https://live05.msdht.app/live/33982309.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80" group-title="📁AFF Championship U19📁",📁Philippines U19😈VS😈Úc U19📁|1d 10h 17m 15s|Wednesday 03 June 2026 20:00:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80" group-title="📁AFF Championship U19📁",📁Philippines U19😈VS😈Úc U19📁|1d 10h 9m 43s|Wednesday 03 June 2026 20:00:00 WIB(BLV SPRITE)
 https://live05.msdht.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c2ed005169a8733b7f08567778f9ea04.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Cộng hoà Kyrgyzstan😈VS😈Đội tuyển bóng đá quốc gia Kenya📁|1d 11h 47m 15s|Wednesday 03 June 2026 21:30:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c2ed005169a8733b7f08567778f9ea04.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Cộng hoà Kyrgyzstan😈VS😈Đội tuyển bóng đá quốc gia Kenya📁|1d 11h 39m 43s|Wednesday 03 June 2026 21:30:00 WIB(BLV GIÀ LÀNG)
 https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80" group-title="📁Euro U19📁",📁Hy Lạp U19😈VS😈Serbia U19📁|1d 12h 17m 15s|Wednesday 03 June 2026 22:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80" group-title="📁Euro U19📁",📁Hy Lạp U19😈VS😈Serbia U19📁|1d 12h 9m 43s|Wednesday 03 June 2026 22:00:00 WIB(BLV C2)
 https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9866b8a83d35abdd89ed76d565d71f75.png!w80" group-title="📁Euro U19📁",📁Montenegro U19😈VS😈Georgia U19📁|1d 12h 17m 15s|Wednesday 03 June 2026 22:00:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9866b8a83d35abdd89ed76d565d71f75.png!w80" group-title="📁Euro U19📁",📁Montenegro U19😈VS😈Georgia U19📁|1d 12h 9m 43s|Wednesday 03 June 2026 22:00:00 WIB(BLV PEPSI)
 https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fb9a0320f63552dab8ea47945c685a08.png!w80" group-title="📁Giải bóng đá hạng nhất Morocco📁",📁Renaissance Zemamra😈VS😈Yacoub El Mansour📁|1d 13h 17m 15s|Wednesday 03 June 2026 23:00:00 WIB(BLV STING)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fb9a0320f63552dab8ea47945c685a08.png!w80" group-title="📁Giải bóng đá hạng nhất Morocco📁",📁Renaissance Zemamra😈VS😈Yacoub El Mansour📁|1d 13h 9m 43s|Wednesday 03 June 2026 23:00:00 WIB(BLV STING)
 https://live05.msdht.app/live/14707124.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a741a8fbcfbf1e2814f33a33cec45185.png!w80" group-title="📁Giải bóng đá Nữ Hạng nhất Thụy Điển📁",📁IF Viken😈VS😈Utsiktens BK📁|1d 13h 47m 15s|Wednesday 03 June 2026 23:30:00 WIB(BLV REDBULL)
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a741a8fbcfbf1e2814f33a33cec45185.png!w80" group-title="📁Giải bóng đá Nữ Hạng nhất Thụy Điển📁",📁IF Viken😈VS😈Utsiktens BK📁|1d 13h 39m 43s|Wednesday 03 June 2026 23:30:00 WIB(BLV REDBULL)
 https://live05.msdht.app/live/68848594.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7081a9ee5d50032dc5537accf39da060.jpg!w80" group-title="📁Giải hạng Ba Thụy Điển📁",📁BK Olympic😈VS😈CLB Lunds BK📁|1d 14h 9m 43s|Thursday 04 June 2026 00:00:00 WIB(BLV MOUNTAIN DEW)
+https://live05.msdht.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80" group-title="📁Giao hữu Quốc tế📁",📁ĐTQG Đan Mạch😈VS😈D.R. Congo📁|1d 15h 9m 43s|Thursday 04 June 2026 01:00:00 WIB(BLV PEPSI)
+https://live05.msdht.app/live/43612277.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80" group-title="📁Giao hữu Quốc tế📁",📁ĐTQG Hà Lan😈VS😈ĐTQG Algeria📁|1d 15h 54m 43s|Thursday 04 June 2026 01:45:00 WIB(BLV REVIVE)
+https://live05.msdht.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a878dbebc902328b41dbf02aa87abb58.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Luxembourg😈VS😈ĐTQG Ý📁|1d 15h 54m 43s|Thursday 04 June 2026 01:45:00 WIB(BLV ÔLONG)
+https://live05.msdht.app/live/97312754.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3dfa700c1f084e5a18fc926d6f7ae427.png!w80" group-title="📁Cúp Ecuador📁",📁CLB Gualaceo😈VS😈Mushuc Runa📁|1d 17h 39m 43s|Thursday 04 June 2026 03:30:00 WIB(BLV MOUNTAIN DEW)
+https://live05.msdht.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80" group-title="📁AFF Championship U19📁",📁Myanmar U19😈VS😈Việt Nam U19📁|2d 6h 9m 43s|Thursday 04 June 2026 16:00:00 WIB(BLV ÔLONG)
+https://live05.msdht.app/live/97312754.m3u8
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80" group-title="📁Giao hữu Quốc tế📁",📁Campuchia😈VS😈Bhutan📁|2d 9h 9m 43s|Thursday 04 June 2026 19:00:00 WIB(BLV REVIVE)
+https://live05.msdht.app/live/33982309.m3u8
