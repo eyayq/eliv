@@ -1,30 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [05.07 WIB 03/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [05.14 WIB 03/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/depindependiente-medellin-ad1228.webp" group-title="[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 1",[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1780441339-0-0-0b2079efdde3b89d7c99805b20f68dff
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/depindependiente-medellin-ad1228.webp" group-title="[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 2",[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1780441339-0-0-33fc211d649e82fdef5de498597fb4e2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/depindependiente-medellin-ad1228.webp" group-title="[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 3",[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1780441339-0-0-e88b0d376e607a984aa69f4a31684d56
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/depindependiente-medellin-ad1228.webp" group-title="[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 4",[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1780441339-0-0-e398673c0ac2346807375e95aea0c0b7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/depindependiente-medellin-ad1228.webp" group-title="[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 5",[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780441339-0-0-c2566c737bfd0c3e6b5c39842a8decfb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/depindependiente-medellin-ad1228.webp" group-title="[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 6",[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta Deportivo | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-608899_lhd.m3u8?auth_key=1780441339-0-0-8b98b17ea66cd7a38afcf0e9e5e3ec91
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/depindependiente-medellin-ad1228.webp" group-title="[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta | Server 1",[LIVE 04:00 WIB 03/06/26] Dep.Independiente Medellin vs Cucuta | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://auto.cdnfaster.live/live/sd-6MwdLb4nizfPtePGPE/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/12-de-octubre-8d92ea.png" group-title="[LIVE 04:00 WIB 03/06/26] 12 de Octubre vs Atlantida SC | Server 1",[LIVE 04:00 WIB 03/06/26] 12 de Octubre vs Atlantida SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://auto.cdnfaster.live/live/sd-6Mwe5Q6DLCmUGLnnW8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/deportivo-merlo-d2b751.png" group-title="[LIVE 05:00 WIB 03/06/26] Deportivo Merlo vs Deportivo Laferrere | Server 1",[LIVE 05:00 WIB 03/06/26] Deportivo Merlo vs Deportivo Laferrere | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://auto.cdnfaster.live/live/sd-6MvVdDMNf9E7BeJr68/playlist.m3u8
