@@ -1,49 +1,49 @@
 #EXTM3U
-# Generated Tue Jun  2 18:06:11 2026
+# Generated Tue Jun  2 18:14:06 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 03-06-2026 01:05:58 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 03-06-2026 01:13:53 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Saudi Arabia U21😈 [🆚] 😈Colombia U19 [LIVE]😈📁
 https://bf.jalaplay.net/live/5005584.m3u8
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Georgia😈 [🆚] 😈Romania [LIVE]😈📁
 https://bf.jalaplay.net/live/5005579.m3u8
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Georgia😈 [🆚] 😈Romania [LIVE]😈📁
-https://bf.jalaplay.net/live/5005589.m3u8
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Georgia😈 [🆚] 😈Romania [LIVE]😈📁
 https://bf.jalaplay.net/live/5005587.m3u8
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Georgia😈 [🆚] 😈Romania [LIVE]😈📁
 https://bf.jalaplay.net/live/5005412.m3u8
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Morocco😈 [🆚] 😈Madagascar [LIVE]😈📁
-https://bf.jalaplay.net/live/5005353.m3u8
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Georgia😈 [🆚] 😈Romania [LIVE]😈📁
+https://bf.jalaplay.net/live/5005589.m3u8
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Morocco😈 [🆚] 😈Madagascar [LIVE]😈📁
 https://bf.jalaplay.net/live/5005504.m3u8
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Morocco😈 [🆚] 😈Madagascar [LIVE]😈📁
-https://bf.jalaplay.net/live/5005099.m3u8
+https://bf.jalaplay.net/live/5005353.m3u8
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Morocco😈 [🆚] 😈Madagascar [LIVE]😈📁
 https://bf.jalaplay.net/live/5005588.m3u8
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Wales😈 [🆚] 😈Ghana [38m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Morocco😈 [🆚] 😈Madagascar [LIVE]😈📁
+https://bf.jalaplay.net/live/5005099.m3u8
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Wales😈 [🆚] 😈Ghana [31m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4542668
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Haiti😈 [🆚] 😈New Zealand [353m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Haiti😈 [🆚] 😈New Zealand [346m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4542669
-#EXTINF:-1 group-title="📁😈 CFA Member Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2dab9bf127c0542fd6937a781ae85624.png",📁😈Macau U23😈 [🆚] 😈Wuhua Huajing [773m]😈📁
+#EXTINF:-1 group-title="📁😈 CFA Member Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2dab9bf127c0542fd6937a781ae85624.png",📁😈Macau U23😈 [🆚] 😈Wuhua Huajing [766m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4519691
-#EXTINF:-1 group-title="📁😈 UEFA European U19 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png",📁😈Portugal U19😈 [🆚] 😈Kazakhstan U19 [893m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA European U19 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png",📁😈Portugal U19😈 [🆚] 😈Kazakhstan U19 [886m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4519467
-#EXTINF:-1 group-title="📁😈 Australia National Premier Leagues Queensland 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/37436633e76bc4f38fc252d6cf2b8e2c.png",📁😈Rochedale Rovers😈 [🆚] 😈Magic United TFA [953m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia National Premier Leagues Queensland 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/37436633e76bc4f38fc252d6cf2b8e2c.png",📁😈Rochedale Rovers😈 [🆚] 😈Magic United TFA [946m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4457353
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈China Women😈 [🆚] 😈Russia Women [1048m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈China Women😈 [🆚] 😈Russia Women [1040m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4543205
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Indonesia Women😈 [🆚] 😈Singapore Women [1073m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Indonesia Women😈 [🆚] 😈Singapore Women [1065m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4547378
-#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Japan U19😈 [🆚] 😈Portugal U20 [1133m]😈📁
+#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Japan U19😈 [🆚] 😈Portugal U20 [1125m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4527105
-#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈Renaissance Zmamra😈 [🆚] 😈Yacoub El Mansour [1313m]😈📁
+#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈Renaissance Zmamra😈 [🆚] 😈Yacoub El Mansour [1305m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544178
-#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Cote d'Ivoire U23😈 [🆚] 😈Venezuela U20 [1343m]😈📁
+#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Cote d'Ivoire U23😈 [🆚] 😈Venezuela U20 [1335m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4527106
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Netherlands😈 [🆚] 😈Algeria [1478m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Netherlands😈 [🆚] 😈Algeria [1470m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4512462
-#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈Raja Club Athletic😈 [🆚] 😈Renaissance de Berkane [1553m]😈📁
+#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈Raja Club Athletic😈 [🆚] 😈Renaissance de Berkane [1545m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544180
-#EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [2573m]😈📁
+#EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [2565m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4546231
