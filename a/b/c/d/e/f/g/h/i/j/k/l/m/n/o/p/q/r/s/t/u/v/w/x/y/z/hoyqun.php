@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [09:31 WIB 02/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:31 WIB 02/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [09:38 WIB 02/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:38 WIB 02/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[08:00 WIB 02/06/26] Canada vs Uzbekistan [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[09:00 WIB 02/06/26] SHI Yu Qi vs CHI Yu Jen [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[10:00 WIB 02/06/26] ffff [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[10:00 WIB 02/06/26] ffff [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[10:00 WIB 02/06/26] ffff [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[10:00 WIB 02/06/26] ffff [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[10:00 WIB 02/06/26] ffff [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[10:00 WIB 02/06/26] ffff [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[15:00 WIB 02/06/26] CHEN Yu Fei vs Line CHRISTOPHERSEN [FHD] [NANTIKAN]
