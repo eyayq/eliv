@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [07:01 WIB 03/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [07:01 WIB 03/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [07:09 WIB 03/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [07:09 WIB 03/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[07:00 WIB 03/06/26] Haiti vs New Zealand [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/130.png" group-title="Copa Argentina",[07:10 WIB 03/06/26] Barracas Central vs Huracan [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/239.png" group-title="Primera A",[07:30 WIB 03/06/26] Junior vs Atletico Nacional [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/239.png" group-title="Primera A",[07:30 WIB 03/06/26] Junior vs Atletico Nacional [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/239.png" group-title="Primera A",[07:30 WIB 03/06/26] Junior vs Atletico Nacional [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/239.png" group-title="Primera A",[07:30 WIB 03/06/26] Junior vs Atletico Nacional [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/239.png" group-title="Primera A",[07:30 WIB 03/06/26] Junior vs Atletico Nacional [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/239.png" group-title="Primera A",[07:30 WIB 03/06/26] Junior vs Atletico Nacional [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[09:00 WIB 03/06/26] NGUYEN Thuy Linh vs Pitchamon OPATNIPUTH [FHD] [NANTIKAN]
