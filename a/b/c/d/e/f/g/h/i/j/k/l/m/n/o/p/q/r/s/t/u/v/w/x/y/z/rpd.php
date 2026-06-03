@@ -1,66 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.37 WIB 04/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.44 WIB 04/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 1",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=4db487731f64bc53e2ddf22c0a2d2e87&txTime=6a20d5a3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 2",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=5cae1a902a4a2f50f512e6aab4a9f9ed&txTime=6a20d5a3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 3",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780518739-0-0-117c9ef1b26ed989169a7be0f45978db
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 4",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780518739-0-0-31d83d4ee5d15c058bc8b41a1e01e2a8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 5",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780518739-0-0-b63e89ab241af7e366d2397a975ed012
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 6",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780518739-0-0-419e722605dac295d74a4d1db8a96c46
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 7",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780518739-0-0-5534e1541d3128677877e1bf4210ab51
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 8",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780518739-0-0-e6fe78cebe684c302d6546f337b2e0b5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 9",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=f1c834bd445195a2ed7deeffa1874446&txTime=6a20d5a3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 10",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=5d9617b6557b60b1201d9a3dfbef41cf&txTime=6a20d5a3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-3303da.png" group-title="[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 1",[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780518739-0-0-7d825d95172feb4201b352335f10ff52
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780519279-0-0-e23915635e0998a85ea45fcf1b827112
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-3303da.png" group-title="[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 2",[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780518739-0-0-625d4856622ab07f1f66aa1f9d9fd4a7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780519279-0-0-bc87f3f55a9d3c348022273fa62f6bd0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-3303da.png" group-title="[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 3",[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780518739-0-0-eb06025175637dc2d9ca95c346a0df2c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=e2cd7fe582b2b4293cf6054990747870&txTime=6a20d7bf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-3303da.png" group-title="[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 4",[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780518739-0-0-6823431130e017bb594ae48d0d72723c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=fa18815fae3e2dfc8f3d79ac31229006&txTime=6a20d7bf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-3303da.png" group-title="[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 5",[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=25ec81eab196ba3b9196169a21a5e1d2&txTime=6a20d5a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=0664c51ca1cb7493de0611c227a2e9ee&txTime=6a20d7bf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-3303da.png" group-title="[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 6",[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=84655b91e513c593f31487997b1be223&txTime=6a20d5a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=071baecb140bf029464defa53859f8ce&txTime=6a20d7bf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-3303da.png" group-title="[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 7",[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=7370f79a126ad2c8f81a8486e1c493e5&txTime=6a20d5a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780519279-0-0-6497ce9b5a634fcf471d183031300677
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-3303da.png" group-title="[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 8",[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=33c9b80406cfff06b1a704737c1653c4&txTime=6a20d5a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780519279-0-0-260e346a6c094e97d1cf8632012bf87e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-3303da.png" group-title="[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 9",[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/albania-3303da.png" group-title="[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 10",[LIVE 01:00 WIB 04/06/26] Albania vs Israel | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 1",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780519279-0-0-f4b3133aaa6a2777e15835727f984d2a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 2",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780519279-0-0-65b6b06f01cd1219e68e589aaf81d337
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 3",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780519279-0-0-ad261773ecef252735692f31410f5a22
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 4",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780519279-0-0-2510e32c79390f9755f63705bd2a74b0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 5",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=6ac67f37680358fe0275d7ae936e248c&txTime=6a20d7bf
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 6",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=00b4da4a3468ab47aa8ab462626f8d9e&txTime=6a20d7bf
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 7",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780519279-0-0-f558df0171388abd6c627ded25f5db49
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 8",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780519279-0-0-c644634cbe403187ea5542d12679c3b3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 9",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=78c8ebe5c5b0c92cde797ed5c7c495ca&txTime=6a20d7bf
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 10",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Republic of the Congo | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=d9c136ec733a4691dc7c8c344da05ca2&txTime=6a20d7bf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-e93757.png" group-title="[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Rep Congo | Server 1",[LIVE 01:00 WIB 04/06/26] Denmark vs Democratic Rep Congo | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
@@ -76,132 +76,132 @@ https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/portugal-u21-ddc1df.png" group-title="[LIVE 01:30 WIB 04/06/26] Portugal U21 vs Northern Ireland U21 | Server 2",[LIVE 01:30 WIB 04/06/26] Portugal U21 vs Northern Ireland U21 | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 1",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=d773e51fb13bf8c69352d4547762512d&txTime=6a20d7bf
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 2",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=d7b73635e5a15e086e7f998e549807bb&txTime=6a20d7bf
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 3",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780519279-0-0-d09cf10cda736b6d6f7a70327663d301
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 4",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780519279-0-0-c0b91832976c9de7af5f07cc449e0af6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 5",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780519279-0-0-1e3c3f1acbaaa1e8eebdc508150da1d0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 6",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780519279-0-0-ec623379de8243bb1d95d8073c6b2e8b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 7",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780519279-0-0-df5672d79665d9eadfbf31c9ad8587de
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 8",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780519279-0-0-2f395a3444a17fc6e0e255787e84373a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 9",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 1",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1780497047-0-0-598a329656e50298de0af708b9fa44a3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 2",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1780497047-0-0-598a329656e50298de0af708b9fa44a3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 3",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 4",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780518739-0-0-b20d380583622d8bf56c37e13a1a0c12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780519279-0-0-0d1d41a10f292404a42884dde5bdd824
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 5",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780518739-0-0-50ffd0fe9a8a37b83d91e48b39a7d1ce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780519279-0-0-cc9598afb317a0ef2ceca28855a49e03
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 6",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=577903bb3d3593ce483e9edc5523d987&txTime=6a20d5a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=4ba0504743b64689544cabcce1a28dcb&txTime=6a20d7bf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 7",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=2c725a66f09787c67116f38d7a4a072d&txTime=6a20d5a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=911866414372c3262edde58e9b4f6c72&txTime=6a20d7bf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 8",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780518739-0-0-9a0d51926233cf4d92454f9b42630285
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780519279-0-0-c6fdf368d8bf715d5aa62a1ae3cb22a8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 9",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780518739-0-0-816507ec53ac8cbc02f2305c36557207
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780519279-0-0-66d44dc896aa6c6e6f634d759f0fed29
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 10",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1780518739-0-0-d3ec2ff13ac6f9eb45416cf3cfd79ebb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780519279-0-0-523e9473dea8c776d567738e00486a36
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 11",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1780518739-0-0-dac8d3e182519fa20661f1c2829488de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780519279-0-0-d4c89ecbbf46ff57da7b23d1afd2410e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 12",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780518739-0-0-1c455566a0e9c1806c7a18fbbea13754
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780519279-0-0-265d42012a7e3277a9767473e8158562
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 13",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780518739-0-0-ad2bbdae2b6b9f963c77ee0ef1bcde80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780519279-0-0-231eaefa13dd12c42a53a81d543ddef2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 14",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780518739-0-0-dbf3ab849797bcd740a219f6f67fbf1c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780519279-0-0-c0677e4f19a270e7f081c76b10b68c9d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 15",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780518739-0-0-17f82d603cf4d7f3422b7bb358240123
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780519279-0-0-df8329e6b4b8694f548222fb3a5c053b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 16",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 16 (SVR-BHNS 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/luxembourg-068b83.png" group-title="[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 17",[LIVE 01:45 WIB 04/06/26] Luxembourg vs Italy | Server 17 (SVR-BHNS 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 1",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780518739-0-0-fcbeaf0a8b5211cecbd64e02449754fe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 2",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780518739-0-0-5db3e4675918ee744c21628f528920ad
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 3",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=8c54aa2fd94667cf90d2f864cc5f992f&txTime=6a20d5a3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 4",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=5a2dc42632ad1868d2fca4faf179499c&txTime=6a20d5a3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 5",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780518739-0-0-b385a03f7be63bdca39fee495a352d48
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 6",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780518739-0-0-475c7e4d5f27b833e863add7b58daec3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 7",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780518739-0-0-abb966e1159d5caea7bcde1e5ad59471
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 8",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780518739-0-0-ff3b0d4d5f9f7ebdb9235be231ff8611
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-6f08c5.png" group-title="[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 9",[LIVE 01:45 WIB 04/06/26] Poland vs Nigeria | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 1",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://pullsgp.yyzb456.top/live/stream-746673_lhd.flv?auth_key=1780497347-0-0-8dd5ff2a6d12c7657ebe9023b75d3589
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 2",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-746673_lsd.flv?auth_key=1780497347-0-0-8dd5ff2a6d12c7657ebe9023b75d3589
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 3",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 4",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780518739-0-0-ad26ffd38b5603771694ffb2ad2362cf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780519279-0-0-96959dda36412544c71e95fbe710a97c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 5",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780518739-0-0-64dd389ff6d7119abfcd48c5ea5c5ea7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780519279-0-0-bf4f4281c768344846af58551197ae83
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 6",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780518739-0-0-e1071c763e930ec95e84ab3ed02ba88f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780519279-0-0-07574f702acce16327d81e31d934531d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 7",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780518739-0-0-2eabf0a135d713019f3d960cf6eec160
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780519279-0-0-1adb878a16a273866bf65a82a8374ee6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 8",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780518739-0-0-3d9a2474b2c7b5c3072f15118da0e6d7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780519279-0-0-b97994926caa10fb2c9c007df4675a85
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 9",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780518739-0-0-cce5080594cea5b2f0aa8e38b1e2c809
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780519279-0-0-4c3f2bf57983fcc9a26acb341ae48485
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 10",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780518739-0-0-a740d1bacb957a55620291b62fae97ec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780519279-0-0-fed241ffbe0f6ba7eee5f838e4294dcc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 11",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780518739-0-0-1ac37cdf3592de1bdd635dbdeac02716
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780519279-0-0-d36af78e39c5918a6b751b328437b82a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 12",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780518739-0-0-25537fc8abf246ff6eb0d3642735feb1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1780519279-0-0-b7fc6f429a887c5f667a3e6e4d86c75d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 13",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780518739-0-0-6868d60cfcc9f69d33ee0ef8fb04946c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780519279-0-0-761f1030414118e36d012312410e2661
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 14",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1780518739-0-0-5cb8bcd9a713ddd480d5c430d0a0ad2b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780519279-0-0-e6846af6a6ae9ada389fc59ae7fd3ddd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 15",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780518739-0-0-d7a414acf3a2066a4a037248ed26ba56
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780519279-0-0-305dd5436d0e53001ca853bd218af5bc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 16",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 16 (SVR-BHNS 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 17",[LIVE 01:45 WIB 04/06/26] Netherlands vs Algeria | Server 17 (SVR-BHNS 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
