@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 00:57:17 WIB 04-06-2026
-# 🔄 Total Channels: 4333
+# ⏰ Latest Updated: 01:04:07 WIB 04-06-2026
+# 🔄 Total Channels: 4344
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [00:57:17 WIB 04-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [01:04:07 WIB 04-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -44,10 +44,6 @@ http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/298550
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8DmW44q5/20260531-184803.jpg" group-title="LIVE EVENT",05:30 WIB Brasil  vs  Belanda - Langsung | SporTV 2 | Gvision TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8DmW44q5/20260531-184803.jpg" group-title="LIVE EVENT",07:45 WIB Korea Selatan  vs  El Salvador - Langsung | SporTV | Gvision TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
@@ -59,6 +55,20 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudy
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0jzGkSPS/20260603-050750.jpg" group-title="LIVE EVENT",06:30 WIB WWE | [Fighting] WWE NXT (ROXIE) | Gvision TV
 https://daffodil.thelistener.pk/wwe.m3u8
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_134249_74d9edd1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",08:00   04/06 South Korea vs El Salvador HD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/max.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_134249_74d9edd1.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",08:00   04/06 South Korea vs El Salvador FHD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/maxhd.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F691_165018878036.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:45   04/06 Panama vs Dominican Republic  SHIN m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F691_165018878036.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",07:45   04/06 Panama vs Dominican Republic  SHIN flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2F20251115_123046_666d88b2.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",07:00   04/06 Canada W vs Germany W HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -512,7 +522,7 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=6786&ext=dash&
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202506ac3d8f5e5267c7e85a6ea9e4ada68.png" group-title="LIGA ITALIA",[ LIVE 06:00 WIB] [USL2] Annapolis Blues vs Lionsbridge FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410631_1.m3u8?auth_key=1780620547-0-0-3846702163f841d1a0350004b196cac5
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410631_1.m3u8?auth_key=1780620967-0-0-1f084676cef17cf878eb1300ee38961c
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/1e6f94d9ed488ace73a655ee9124fa63.png" group-title="LIGA ITALIA",[ LIVE 06:00 WIB] [USL League Two] Annapolis Blues vs Lionsbridge FC [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMCRBgmRPhAXP.m3u8
@@ -1062,12 +1072,22 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=21593&ext=dash
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=33bc7d07bba0bedccdfd1d4555a90f67&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=6f480c4b53e1f478c1546cac5187042c&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/n54qllysnn7lqvy/image/small" group-title="BWF BADMINTON & VOLLEYBALL",09:00 WIB - PORNPAWEE CHOCHUWONG VS KIM GA EUN [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=e7396db31d07cfdf67b29fd6278dc4bd&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=144eda253ce15fee074a8c8297e2aa06&wsABSTime=1780577720
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/vjxm8gese5elr6o/image/small" group-title="BWF BADMINTON & VOLLEYBALL",09:50 WIB - AN SE YOUNG VS SINDHU PUSARLA VENKATA [IND]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=6f480c4b53e1f478c1546cac5187042c&wsABSTime=1780577720
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/l5ergp9s4p43r8k/image/small" group-title="BWF BADMINTON & VOLLEYBALL",09:50 WIB - TANG CHUN MAN TSE YING SUET VS CHENG XING ZHANG CHI [IND]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=92de08d5f952768566d6bb3b8288032f&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sdkHKZTQRJtNAUX1EJ5OkxdGnm0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119831/8350c7.jpg" group-title="BWF BADMINTON & VOLLEYBALL", JAM 15:55 WIB (04/06) - Men's Doubles Semifinals - Day 12 (Court 3) - Roland Garros 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1101,12 +1121,12 @@ https://cdn13.zohanayaan.com:1686/hls/mphiladelphiaphillies.m3u8?md5=ATZXgZuDD0V
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/bzagLHzach19.m3u8?st=E5mAO1eNBBYOiTnTp1lA1pLM_g7CkYF-2bhfnbVqmV8&e=1780544509
+https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=56O7sNxol3uu6MxkgYELq4AqeESuElKleSIIZzzvruY&e=1780545104
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [05:40 WIB] [MLB] San Diego Padres vs Philadelphia Phillies - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee1.lefiles.cfd/live/2/stream.m3u8?expires=1780515394&token=7a3f58f9684d620cf147cc73e1577136382569577484dc77404b8753cd25648b
+https://lee1.lefiles.cfd/live/2/stream.m3u8?expires=1780514204&token=cdda0fb2c8fa52a8657e76ffb21bd31866d5df677d4bf8c8b88114d4bfe59d35
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] San Diego Padres vs Philadelphia Phillies (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+philadelphia&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+philadelphia&code=us&user=cdnlivetv&plan=free
@@ -1116,12 +1136,12 @@ https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-10/playlist.m3u8?toke
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=8toI3mzWgZrBV0InjMwm5DvPokyIS-YyrF2iXG3Bnfc&e=1780544508
+https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=RM_OCcZVd5sJEdigQd4bf5UdLx3lQHxlIL7cE1PVuGE&e=1780545104
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [05:45 WIB] [MLB] Baltimore Orioles vs Boston Red Sox - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee1.lefiles.cfd/live/3/stream.m3u8?expires=1780515395&token=0ef4a08ab2faed8509ffb00126976ddbd17553432f31c3b153f3557088bfca55
+https://lee1.lefiles.cfd/live/3/stream.m3u8?expires=1780514205&token=6c3c7f8d60b1906806ff1b311cb26a4bc1ef74559a29def3d4919ebec6f104e3
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Baltimore Orioles vs Boston Red Sox (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nesn&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nesn&code=us&user=cdnlivetv&plan=free
@@ -1161,12 +1181,12 @@ https://cdn12.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=zr5RlIfF8ifnq-q
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=1GbRfnRl-7GE5BezsTFueVy69zdjBXmbSwvvDGmqGmM&e=1780544507
+https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=grnSX3v2EP4GPd43ieWwNq7fDqJHbrIqqib_tL8vLJI&e=1780545103
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:05 WIB] [MLB] Cleveland Guardians vs New York Yankees - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee1.lefiles.cfd/live/4/stream.m3u8?expires=1780515395&token=d68a002d65174b5c6865827e442d60d6cd4fa72a3d7c2a2317140f667af6dfe3
+https://lee1.lefiles.cfd/live/4/stream.m3u8?expires=1780514205&token=a1e5bbad6af40579451a499ef5e359ab6449e3eb8fbf6caa31272f519e8a17df
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Cleveland Guardians vs New York Yankees (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
@@ -1206,12 +1226,12 @@ https://cdn13.zohanayaan.com:1686/hls/mcincinnatireds.m3u8?md5=-RFbaJr1bSLYr-QLj
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=ukNgdldlLSxHreEyeYOhz7wfw4gs2HhWRVZPM0xcThk&e=1780544507
+https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=zD97Vi640Vf-AS2XpOM61G9hUs-Uu9b-6DzfjW6IOWo&e=1780545102
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:10 WIB] [MLB] Kansas City Royals vs Cincinnati Reds - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee1.lefiles.cfd/live/5/stream.m3u8?expires=1780515395&token=3c04254cfc159d527b577681077bac20fe00e51d4f12e1ce7efab8b876914a98
+https://lee1.lefiles.cfd/live/5/stream.m3u8?expires=1780514205&token=d28dc92a9351d86b9d2d2a6bc135336cd03be92b7695c242bd0bebfb0f9c0b2c
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Kansas City Royals vs Cincinnati Reds (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
@@ -1236,12 +1256,12 @@ https://cdn12.zohanayaan.com:1686/hls/matlantabraves.m3u8?md5=nv3zZ7zvvfxF4CYr85
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=sJohUxeNFAc9Qs_SExzZeXvdTB1SDLJOHRNA4Id4nPg&e=1780544506
+https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=7iLtTDBt3gO81MtiL6EhZDk1wqNAct7Pb_Pa95U9Tkk&e=1780545101
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:15 WIB] [MLB] Toronto Blue Jays vs Atlanta Braves - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee2.lefiles.cfd/live/6/stream.m3u8?expires=1780515397&token=9bc378c4c5483d68f890152bdcdfbaee0ddd3424e5a8b25602c7a966e3ebeb8a
+https://lee2.lefiles.cfd/live/6/stream.m3u8?expires=1780514206&token=ecfbcb657f5f31d4b65b274f4979c787ad4c240d837d37812244fde98672d0ff
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Toronto Blue Jays vs Atlanta Braves (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+one&code=ca&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+one&code=ca&user=cdnlivetv&plan=free
@@ -1249,15 +1269,15 @@ https://lee2.lefiles.cfd/live/6/stream.m3u8?expires=1780515397&token=9bc378c4c54
 https://edge.cdnlivetv.ru/secure/api/v1/ca-sportsnet-one/playlist.m3u8?token=9e9b0750cc35311f9a0e075821502984bd1c1c0f168560f69287367db1d7a52e.1780527775.6a2075ba63434d8edb04d99d943f145e.619ce3246410e6c9fc11d57e1c66ea9b.b22d890de9daa95631ec8907e586a717&signature=9a1e4c00d4b4d7c3d028f628fc9541979d374289d05068944cbc172bad2a54c2
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20186577ac8f2851ad21b1dc3923b2d8d24.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE 06:30 WIB] [WNBA] Liberty vs Tempo [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_2.m3u8?auth_key=1780620547-0-0-680a9b3b4f4977db78828c86917b9290
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_2.m3u8?auth_key=1780620967-0-0-5dfc64c9e20d85ec163f1ac3150de635
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20186577ac8f2851ad21b1dc3923b2d8d24.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE 06:30 WIB] [WNBA] Liberty vs Tempo [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_1.m3u8?auth_key=1780620547-0-0-c1bd3d034852c7df48f1a929e4f8e361
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_1.m3u8?auth_key=1780620967-0-0-9567a0036ef8bb21d98000340cd26eae
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9dn1m17td5jmoep/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",06:30 WIB - NU NY LIBERTY VS TORONTO TEMPO [WNB]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=9c9537f8989d566a9473ef201a218bfd&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=0c6ca7aef4972ab9e3a3fb0309004382&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[06:30 WIB] [WNBA] New York Liberty W vs Toronto Tempo W (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1275,12 +1295,12 @@ https://live05.msdht.app/live/19919577.m3u8
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=vjKB1DnzMmUdj5k0i9pMq348jnMHcnYQ9CVkPneLCQ8&e=1780544505
+https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=fMqoam3_iLTW1vvJMHdHqiQ42RA_i3uHJt4MRFi1Onk&e=1780545101
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:00 WIB] [WNBA] Toronto Tempo vs New York Liberty - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lba4.lefiles.cfd/live/tempo/stream.m3u8?expires=1780515398&token=00e3a35ccdb686db237a9d57c04e4e14df18eee2f2a44d5eca5069b0c17fd61c
+https://lba4.lefiles.cfd/live/tempo/stream.m3u8?expires=1780523781&token=c663554004916491e45e51143ef95435843cda86cbaba323c0f1b2d39ccab4d8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/mil.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:40 WIB] [MLB] Milwaukee Brewers vs San Francisco Giants (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB11
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1300,12 +1320,12 @@ https://cdn13.zohanayaan.com:1686/hls/mmilwaukeebrewers.m3u8?md5=_Gjp8FV32nSzm-n
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/fskjanach24.m3u8?st=2mITI7iUzG_cEEjwAP_uixH-PBMKnB94YQoPt-bpPTg&e=1780544504
+https://mainstreams.pro/hls/fskjanach24.m3u8?st=6atMua1V5XSI3AaIHvQDPna2nrsnYEnAodCipIRKBqU&e=1780545100
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:40 WIB] [MLB] San Francisco Giants vs Milwaukee Brewers - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee2.lefiles.cfd/live/7/stream.m3u8?expires=1780515397&token=28b33d7bfb4cabed5a1b5a0c7777e041ff647a7457b3a6f249e0816b6e309f37
+https://lee2.lefiles.cfd/live/7/stream.m3u8?expires=1780514206&token=200c1fe32224b65befcd8523bd4581ac39186e0a4cfa95125adc5a2aca0fde0f
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] San Francisco Giants vs Milwaukee Brewers (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+bay+area&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+bay+area&code=us&user=cdnlivetv&plan=free
@@ -1315,12 +1335,12 @@ https://edge.cdnlivetv.ru/secure/api/v1/us-nbcs-bay-area/playlist.m3u8?token=fa7
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/kjhfzua25.m3u8?st=4bNWIajlia78flx3ZNA4UB1JbzSZFci9PCPCAbVQRU4&e=1780544504
+https://edgestreams.pro/hls/kjhfzua25.m3u8?st=84yGr5ISrkty_BrTzCp-fn9JVJE4ENY5HB1dxXNtxiQ&e=1780545099
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:45 WIB] [MLB] Texas Rangers vs St. Louis Cardinals - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee2.lefiles.cfd/live/8/stream.m3u8?expires=1780515398&token=c1a2dc008f003f3ba3d6dc82df4f7972e728740ac78c65217b8fb94cfc49d722
+https://lee2.lefiles.cfd/live/8/stream.m3u8?expires=1780514206&token=30081a231a1dbe072a984fce788d2cb0af07be8a39746b63de6a787915e1de69
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Texas Rangers vs St. Louis Cardinals (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
@@ -1330,17 +1350,17 @@ https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=fa9a
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=d79b4d491c925f44dc516ec457e763b3&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=14af221f6df599e0200cc2c3f01ae622&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:05 WIB] [Baseball] Athletics Athletics at Chicago Cubs (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?st=UUfpG_wDt1lz48RunuOSzfO_d4OkFVqOINXgY6isRYM&e=1780544503
+https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=7l7ujmvF17wVIt0w113-yLQZmbVizVwCBFASp7KIN5M&e=1780545098
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:05 WIB] [MLB] Athletics vs Chicago Cubs - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee2.lefiles.cfd/live/9/stream.m3u8?expires=1780515399&token=08e4050fe784e69f294450f00ff6df32b7533b79ece2ad52f107252777710463
+https://lee2.lefiles.cfd/live/9/stream.m3u8?expires=1780514207&token=14efe4b3f2da852a7b0c9bd3d32aea621156309736d6f32654d3745a6c99dd55
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Oakland Athletics vs Chicago Cubs (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+california&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+california&code=us&user=cdnlivetv&plan=free
@@ -1380,12 +1400,12 @@ https://cdn12.zohanayaan.com:1686/hls/mhoustonastros.m3u8?md5=kEdQDhN1adHIO5Jzvp
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/jzabfazkbf27.m3u8?st=qDAc_ie0pUyKjy9IGd4j7rlK3qjt65PZPogkHJVfaqk&e=1780544502
+https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=0S6OmGngZDQbIvhmnNGZbMtO5OgyIYTLBEWbqbxqZjA&e=1780545098
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:10 WIB] [MLB] Pittsburgh Pirates vs Houston Astros - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee2.lefiles.cfd/live/10/stream.m3u8?expires=1780515399&token=0ad498c152895dbb3b67ad5845916347f8403de3cbf2d8fcaf026df9ef70d12c
+https://lee2.lefiles.cfd/live/10/stream.m3u8?expires=1780514207&token=45e728fa7bc1e0e796889486a1c884f836d62ec800df5b1959408e4ee9dac90f
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Pittsburgh Pirates vs Houston Astros (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+pittsburgh&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+pittsburgh&code=us&user=cdnlivetv&plan=free
@@ -1395,23 +1415,23 @@ https://edge.cdnlivetv.ru/secure/api/v1/us-sportsnet-pittsburgh/playlist.m3u8?to
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=CZ_0SxFrSiO31enu69zfsiQAVWo7neaZUQ4kzyJty5w&e=1780544501
+https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=bjWYwn64RSstdrOVVfAgyxW1gPD1nCowWjBMQy8haCM&e=1780545097
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:30 WIB] [NBA] New York Knicks vs San Antonio Spurs - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lba1.lefiles.cfd/live/spurs/stream.m3u8?expires=1780514738&token=d5b420031046ca03bbed72c8e065b4d88212b23532dc4d0e492eda519a227b88
+https://lba1.lefiles.cfd/live/spurs/stream.m3u8?expires=1780514207&token=186afe1dddfae027dd499bacef86f58a87272bda7358bdc57585176f5b6c1dff
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201c22bea230671af03c15bfafe78157d5a.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE 07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_2.m3u8?auth_key=1780620547-0-0-4447976fa39fe2303bf4ea9ec69556ba
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_2.m3u8?auth_key=1780620967-0-0-21f7c8b0b5c9124e58ecd66f881308f2
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201c22bea230671af03c15bfafe78157d5a.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE 07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_1.m3u8?auth_key=1780620547-0-0-95c535cada3d00dcf85e87e3503e3f6b
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_1.m3u8?auth_key=1780620967-0-0-84e9dac47cfb7b896194a95f3295e603
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z318q6ntd82mo9j/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",07:30 WIB - SAN ANTONIO SPURS VS NEW YORK KNICKS [NBA]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001780533920-0-0-4b255c91b2fce38d42f3f0c0d4836633
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001780534520-0-0-2548f1d59802d676421418e2a2cd29f0
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/sa.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA1
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1449,17 +1469,17 @@ https://live05.msdht.app/live/87379114.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001780533921-0-0-290a64a839a0548c304936c586bec8e0
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001780534521-0-0-3a23d1000c46c6c9c39d40d5a592c6dc
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[08:38 WIB] [Baseball] Colorado Rockies at Los Angeles Angels (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=JmdKzCopcQxtDLoade5wwss1Uts050bSh5idlJGSilQ&e=1780544500
+https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=3vyzMpGbX6KV3kkEy73KwFPgbKkbf_oyFEk5_U-67_Y&e=1780545096
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[08:38 WIB] [MLB] Colorado Rockies vs Los Angeles Angels - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee3.lefiles.cfd/live/11/stream.m3u8?expires=1780515399&token=585fc6971b3f050095bbc9c3ec9e26fdef529ad79c142f69e37bb2e0df0f4c22
+https://lee3.lefiles.cfd/live/11/stream.m3u8?expires=1780514208&token=9132bc4ee8545a3c33a8e43240c3f0fe002169cec60d90570fa4418618f70b1f
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/laa.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[08:38 WIB] [MLB] Los Angeles Angels vs Colorado Rockies (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB14
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1484,17 +1504,17 @@ http://193.47.62.42/hls/YAAADD.m3u8
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?st=AlE4PUUo0S2vnYeuXpYzmNXO-7uxryu6GaEXqRwPf8c&e=1780544500
+https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=PcevuKMNX4ytXwrrZircktB1VwdCFiCnFzjPnYJSe2w&e=1780545095
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[08:40 WIB] [MLB] Los Angeles Dodgers vs Arizona Diamondbacks - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee3.lefiles.cfd/live/12/stream.m3u8?expires=1780515401&token=027b76a033011682424d793f5814456112a4c505d2c6927961b3031bbbfb71df
+https://lee3.lefiles.cfd/live/12/stream.m3u8?expires=1780514208&token=acbc934456006bd0f38d3741ec3de13da38e03efc646c56f3e6775495d039b2b
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/yl5ergytjzzr8k0/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",09:00 WIB - NU SEATTLE STORM VS NU PHOENIX MERCURY [WNB]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001780533921-0-0-0bdcff94cf5d35c277ff704226b653c8
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001780534521-0-0-13d82367e02f8138aaf468dfde86de2a
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[09:00 WIB] [WNBA] Seattle Storm W vs Phoenix Mercury W (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -1504,12 +1524,12 @@ http://193.47.62.42/hls/YAAADDDDD.m3u8
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=M1T3auRmEnmU3VtODq4XeTRpjQY-lU1RFQl1ut7k_k0&e=1780544498
+https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=edAFl-n4nQh6rvFq0ITbAPSKbNAeHrZUZxe29c7iTl4&e=1780545094
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[09:00 WIB] [WNBA] Phoenix Mercury vs Seattle Storm - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lba4.lefiles.cfd/live/storm/stream.m3u8?expires=1780515401&token=88d729f712ccdc63aa154ea4a021f906b40422dc4ca8670e5712f64bc312ec53
+https://lba4.lefiles.cfd/live/storm/stream.m3u8?expires=1780514208&token=a4d60e5ea36cf86de637202fb611b97ccaa2178296232b855a7dd1d3c0d1a20a
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",MLB Network
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/145.ts
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",NHL Network
@@ -1750,31 +1770,24 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=mbg.full.diskon.cloud%2Fwc2026%2Fimg.php%3Fh%3Dhttps%253A%252F%252Foss.yalla-shoot-admin.com%252Fteam%252F202b58e9351d4ea2c3557471c73b394b74b.png%26a%3Dhttps%253A%252F%252Foss.yalla-shoot-admin.com%252Fteam%252F2029992d3963f94b007a083d203523ca757.png" group-title="🔴FIFA WORLD CUP 2026🔴",[Grup J] Yordania vs Argentina - JAM 09:00 WIB (28/06)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/phi.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [05:40 WIB] [MLB] Philadelphia Phillies vs San Diego Padres (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB5
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/MLB5/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/bos.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [05:45 WIB] [MLB] Boston Red Sox vs Baltimore Orioles (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB6
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/MLB6/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202506ac3d8f5e5267c7e85a6ea9e4ada68.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] Annapolis Blues vs Lionsbridge FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410631_1.m3u8?auth_key=1780620547-0-0-3846702163f841d1a0350004b196cac5
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410631_1.m3u8?auth_key=1780620967-0-0-1f084676cef17cf878eb1300ee38961c
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202f7e3e12c0245b0ec01d7ee921cd679c4.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [Copa Sul-Sudeste] Avai FC vs Chapecoense - SC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5429316_2.m3u8?auth_key=1780620547-0-0-b54f5e651398a8040023887e4cca9e07
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5429316_2.m3u8?auth_key=1780620967-0-0-88586a551552896c23892da2f05b5f6a
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2022e51e8ad3ddb8deab724b89fa465735d.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] Charlotte Eagles vs Tobacco Road [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410625_1.m3u8?auth_key=1780620967-0-0-5776792f628adf4facd9070b2465f919
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20202934e011de525f4d2be84b6185bc5af.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] Davis Legacy SC vs San Francisco Glens SC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410590_1.m3u8?auth_key=1780620547-0-0-d037adfd873fc8f1e149515a4be07e9b
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410590_1.m3u8?auth_key=1780620967-0-0-14ace887c60da8512a7e84a59bef83de
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20222fe84f14d682fecc313530def10a807.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] New England vs Connecticut Rush [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410615_1.m3u8?auth_key=1780620547-0-0-d586cab1cb9b24e9edb8d8d28acc8c8b
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410615_1.m3u8?auth_key=1780620967-0-0-c93604b393c4991536131a3193bac6db
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20217837e4b3d21d2d2b5c343967790bd7d.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] Sporting Jax B vs Brooke House FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410607_1.m3u8?auth_key=1780620547-0-0-ee3de3fe15e07739271b05c2ae52d555
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410607_1.m3u8?auth_key=1780620967-0-0-052e9328e839174b333bc25a9c7f3c91
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/stl.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [06:00 WIB] [MLB] St. Louis Cardinals vs Texas Rangers (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB7
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1782,10 +1795,10 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410607_1.m3u8?auth_key=17806
 https://instreams.pro/US/MLB7/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2021fae7570988526891365df2f73849e2e.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL WLW] Tacoma Galaxy (W) vs Salmon Bay FC (W) [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5430035_1.m3u8?auth_key=1780620547-0-0-b844790a63a89ef23571342346574b9c
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5430035_1.m3u8?auth_key=1780620967-0-0-8ee3adcafc7e7940ec89172e4a60de53
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20229622cf189433eb6bd779b3273170d80.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] Wake FC vs SC United Bantams [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410603_1.m3u8?auth_key=1780620547-0-0-441ee3e6dd8055446cb1a9e1fb4a4328
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410603_1.m3u8?auth_key=1780620967-0-0-64fed49c75f7b6a12ea16ab71d3f76d9
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [06:05 WIB] [MLB] New York Yankees vs Cleveland Guardians (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB8
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1803,25 +1816,25 @@ https://instreams.pro/US/MLB9/index.m3u8
 https://instreams.pro/US/MLB10/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2020a899e04003d5daf3ac6b1c1f1c6e7d6.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:20 WIB] [USL2] Christos FC vs Charlottesville Blues [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410580_1.m3u8?auth_key=1780620547-0-0-552c3b6e7ced2cdd6ff21eb459b683ce
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410580_1.m3u8?auth_key=1780620967-0-0-23454799a00cb2498dd03675ad85f558
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20157e08e58bc955f131b0bc0d95312e4ea.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:30 WIB] [Kanada CEBL] Brampton Honey Badgers vs Edmonton Stingers [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5432876_1.m3u8?auth_key=1780620547-0-0-0d285674005d4022b80fff33c5a57079
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5432876_1.m3u8?auth_key=1780620967-0-0-b17a0f47caac035e256433724f4c2215
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2028d1da8eb97d33086cd065a38a50f569a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:30 WIB] [USL2] Capo FC vs Redlands FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410591_1.m3u8?auth_key=1780620547-0-0-b71ce9a2f59b6314e4151c939e569d79
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410591_1.m3u8?auth_key=1780620967-0-0-54cf9704a04c474cbcab540359871597
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20186577ac8f2851ad21b1dc3923b2d8d24.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:30 WIB] [WNBA] Liberty vs Tempo [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_2.m3u8?auth_key=1780620547-0-0-680a9b3b4f4977db78828c86917b9290
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_2.m3u8?auth_key=1780620967-0-0-5dfc64c9e20d85ec163f1ac3150de635
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20186577ac8f2851ad21b1dc3923b2d8d24.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:30 WIB] [WNBA] Liberty vs Tempo [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_1.m3u8?auth_key=1780620547-0-0-c1bd3d034852c7df48f1a929e4f8e361
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202d5cbaf6282d109816d59848cf9eafd23.jpeg" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:30 WIB] [USL2] Long Island Rough Riders vs Hudson Valley Hammers [Zhubo]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410633_1.m3u8?auth_key=1780620547-0-0-5f8df222abc2d16faa692ee193b11a08
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_1.m3u8?auth_key=1780620967-0-0-9567a0036ef8bb21d98000340cd26eae
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202963e792f3db4940dee1062939a814b8a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:35 WIB] [USL League One] FC Naples vs Charlotte Independence [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5086767_1.m3u8?auth_key=1780620547-0-0-26649e53f371304ee4b0cbdd3abaf3d9
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5086767_1.m3u8?auth_key=1780620967-0-0-df1f5bc6cb8b332048150ed24d166b1c
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20214ad5a2d387dfb76d39f86d0dfacec1d.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:35 WIB] [USL League One] Greenville Triumph vs Forward Madison FC [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5076657_1.m3u8?auth_key=1780620967-0-0-de68b73b40cbd44de9cb22fb908e1ddd
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/mil.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [06:40 WIB] [MLB] Milwaukee Brewers vs San Francisco Giants (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB11
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1829,13 +1842,13 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_5086767_1.m3u8?auth_key=17806
 https://instreams.pro/US/MLB11/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fd1763420ae8af3edc4e13438a8f8928.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:00 WIB] [AS USL] Birmingham Legion vs Louisville City FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5040518_1.m3u8?auth_key=1780620547-0-0-f56f5303eb0f0353b7c8d49305d0606c
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5040518_1.m3u8?auth_key=1780620967-0-0-17c560320a698dc8a01392614d1bd4ec
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20252e4a3b2941bdb1010705d2d16ee958d.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:00 WIB] [USL2] Santafe Wanderers vs Peoria City [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410606_1.m3u8?auth_key=1780620547-0-0-5d876a8b014efe9c2314be2a98340f9b
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410606_1.m3u8?auth_key=1780620967-0-0-88078e6079eabf0efa7635e59670b22e
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a6f0aabbac2a8f0962d41b28cff578.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:00 WIB] [USL2] Virginia Marauders vs Loudoun United FC 2 [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5412774_1.m3u8?auth_key=1780620547-0-0-49eff1e6cb13f51926d037650bbacb90
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5412774_1.m3u8?auth_key=1780620967-0-0-3ee0a53b16d7c5d1ab11856b213e22c0
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/chc.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [07:05 WIB] [MLB] Chicago Cubs vs Athletics (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB12
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1848,10 +1861,10 @@ https://instreams.pro/US/MLB12/index.m3u8
 https://instreams.pro/US/MLB13/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201c22bea230671af03c15bfafe78157d5a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_2.m3u8?auth_key=1780620547-0-0-4447976fa39fe2303bf4ea9ec69556ba
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_2.m3u8?auth_key=1780620967-0-0-21f7c8b0b5c9124e58ecd66f881308f2
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201c22bea230671af03c15bfafe78157d5a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_1.m3u8?auth_key=1780620547-0-0-95c535cada3d00dcf85e87e3503e3f6b
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_1.m3u8?auth_key=1780620967-0-0-84e9dac47cfb7b896194a95f3295e603
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/sa.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA1
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1864,7 +1877,10 @@ https://instreams.pro/US/NBA1/index.m3u8
 /hlskey/g7tdgsxumu/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2021ab9162814e2cc230da622cae6360a8d.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:35 WIB] [USL League One] Corpus Christi FC vs Portland Hearts of Pine [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5083152_1.m3u8?auth_key=1780620547-0-0-6d6c470fad98580cc641354feae1d505
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5083152_1.m3u8?auth_key=1780620967-0-0-c30ddbd947c66a96d7fdae7a0a42e3e4
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202ab3ea369351b9d6efd74f02c906d4d53.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:45 WIB] [INT FRL] Panama vs Dominican Republic [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5364924_1.m3u8?auth_key=1780620967-0-0-c746e7a3f112ab60d53d43bdef5cca98
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/laa.png" group-title="🔴 🔴 LIVE EVENT NOW",[08:38 WIB] [MLB] Los Angeles Angels vs Colorado Rockies (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB14
 #EXTVLCOPT:http-origin=https://instream.click
@@ -1896,9 +1912,6 @@ https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMBQprm6ZRrJh.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/10a5ea0cb9798486f5c8add2f4245608.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 06:00 WIB] [USL League Two] Sporting Jax B vs Brooke House FC [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMBFAPEADmAC5.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/5b83144af014f5c95a525d89270734e0.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 06:00 WIB] [USL WLW] Tacoma Galaxy (W) vs Salmon Bay FC (W) [Seru]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5npjUE7jDUfmGH.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/484fdb895c78d8204eef3921afdf014f.jpg" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 06:00 WIB] [USL League Two] Wake FC vs SC United Bantams [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMBFCai2hb5Ly.m3u8
@@ -1935,6 +1948,9 @@ https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMBQs4Ey3FmTb.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/1298863b01ee7550a009ccf533f1ce61.jpg" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 07:00 WIB] [United States Women's Premier League] Salvo SC Women vs MN Bliss W [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5npjyfv6UFaqSu.m3u8
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/84af59af515c4c69c4314fdd82ac5c72.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 07:00 WIB] [USL League Two] Santafe Wanderers vs Peoria City [Seru]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMBF3nnYnHQjP.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/148473597548cd3c6b978ff36f00cce3.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 07:00 WIB] [USL League Two] Virginia Marauders vs Loudoun United FC 2 [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TNgDjmWB4bX1F.m3u8
@@ -1944,126 +1960,129 @@ https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6CpxXRFN4HzJkV.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/21b2d8d0b48a90628ad003b218b5888e.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 07:30 WIB] [Aruba Division Di Honor] SV Caiquetio vs SV Unistars [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5B6SeJj1hKeiRj.m3u8
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/aef114700ab5fcdc5baa98d53a41761a.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 07:45 WIB] [International Friendly] Panama vs Dominican Republic [Seru]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5EKDG5gT7LhWgm.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhy80qwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - AVAI FC VS CHAPECOENSE SC [COP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=f88e55a7266bed3c2749bb1d3b0c4482&wsABSTime=1780577121
+https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=deb5566ebf89f5925f2145f3375f26dc&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhjjleryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - CHARLOTTE INDEPEND B VS ASHEVILLE CITY [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=6b2d11185547681c4357f2d00fc59940&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=34234161b58e54d0f74eca42bfe71166&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh9509repz/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - CHRISTOS FC VS CHARLOTTESVILLE BLUES [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=2ad404ec273c292da02af707dbad420e&wsABSTime=1780577121
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=b59ea195960a16404d8161663559ddcf&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jh1kvdqwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - JACKSON BOOM VS MEMPHIS FC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=4de1e4e771f593b5ff55d6e3ae7af721&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=b7a990ea34a312cf47a10095615046e8&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jh4vzdqwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - LAKELAND TROPICS VS FLORIDA PREMIER FC [USA NPSL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=767cb5c321f1ca6466f7607b58c20c82&wsABSTime=1780577121
+https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=9fb03e2af541755c103b48c29081b1ba&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh169xrepz/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - NEW ENGLAND VS CONNECTICUT RUSH [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=54fa360315189efd3bf7afc59d6dfc24&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=9ffe028563a402ad792ece7750e600b4&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jh1y4vqwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - ROCKFORD RAPTORS VS ST CROIX SC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=f38479bc87e8d9a7e86d17a7311c23eb&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=6b01833e39e5bc9a79db902c18c2d4a8&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whe4n4ryox/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - SPORTING JAX B VS BROOKE HOUSE FC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=db72a52d0df188da57186581d6d728ba&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=49224b554f2b8567feb9c007bb2b391d&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h2j8xq0j6/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - WAKE FC VS SC UNITED BANTAMS [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=b27bb0c69ba08ef236b5bc9b5cab9325&wsABSTime=1780577121
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=71468019ba05142e3e2a700b6dee9fdf&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whgxg1ryox/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:30 WIB - CAPO FC VS REDLANDS FC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=3009a9806af0e8eaf3b0dff1685808ff&wsABSTime=1780577121
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=0bf5e4de8a56773043b2406a0445fbaf&wsABSTime=1780577722
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhyn9grepz/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:30 WIB - GREENVILLE TRIUMPH VS FORWARD MADISON FC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001780533922-0-0-f2d24ae757c9393c2af9890809c532f3
+https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001780534522-0-0-cdf938aba5abfebdc4c75bcb088d82f3
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh81v2qvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:30 WIB - MORRIS ELITE VS FC MOTOWN B [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=4cb6b4cf734c0e8a2e4879b771c21ca5&wsABSTime=1780577122
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=73368f9f1b3ab41343eaf582e900fe77&wsABSTime=1780577722
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9dn1m17td5jmoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:30 WIB - NU NY LIBERTY VS TORONTO TEMPO [WNB]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=9c9537f8989d566a9473ef201a218bfd&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=0c6ca7aef4972ab9e3a3fb0309004382&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7ho2pkqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:30 WIB - NU SWARM FC VS NU CHATTANOOGA RW [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel33.flv?wsSecret=e47e08057da79ff95f154e7be6ccab7c&wsABSTime=1780577122
+https://live1.pro2cdnlive.com/live/channel33.flv?wsSecret=ce6eb3086d9f1aaf68477fbe7c698909&wsABSTime=1780577722
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohj730q1zp/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - BIRMINGHAM LEGION VS LOUISVILLE CITY [USL CH]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001780533923-0-0-6f465f89ac1429e84f24aa20a3b86c99
+https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001780534523-0-0-136e8a81322716068fa79e33c503b066
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/y39mp4t5dzomojx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - GIGANTES CAROLINA VS BAAMON CATTLE HERDER [PUE]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=d79b4d491c925f44dc516ec457e763b3&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=14af221f6df599e0200cc2c3f01ae622&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghk8d6m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - HOUSTON FC VS HILL COUNTRY LOBOS [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=b0b1e337ae1b986d772f21094f09125f&wsABSTime=1780577123
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=0c802ebfb8f9cf3534e98d50587aae0c&wsABSTime=1780577723
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h32vlmojx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - MISSISSIPPI BRILLA VS RED RIVER [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=e84a96a639bf6eae315190b467fc9d32&wsABSTime=1780577123
+https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=363836769ba43bff4f927ec0b6f8a56a&wsABSTime=1780577723
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn9p4r510/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - REAL POTOSI VS ACADEMIA DEL BALOMPIE BOLIVIANO [BOL D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=8abe9787f715aa23c0aa8bd5fe8968d9&wsABSTime=1780577124
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=57ebca94812e66480e876c033c5d7587&wsABSTime=1780577724
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh16v3repz/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - SANTAFE WANDERERS VS PEORIA CITY [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=9800f5407ef5963259aa9a380ac70ae7&wsABSTime=1780577124
+https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=87ae123b4ca1669cb551467d16274b4c&wsABSTime=1780577724
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hjo92qo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - SUNFLOWER STATE FC VS DES MOINES MENACE [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=6976098b3c5d6dba5b114c78f29983eb&wsABSTime=1780577123
+https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=703e280ee52d429f582b9ad0e52c6f78&wsABSTime=1780577723
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhgol8qwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - VIRGINIA MARAUDERS VS LOUDOUN UNITED FC 2 [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=6e1961c5b57ff58266a030f685bfbc5e&wsABSTime=1780577123
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=7705d0fb34e2282483367c79007a115f&wsABSTime=1780577723
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z318q6ntd82mo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:30 WIB - SAN ANTONIO SPURS VS NEW YORK KNICKS [NBA]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001780533920-0-0-4b255c91b2fce38d42f3f0c0d4836633
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001780534520-0-0-2548f1d59802d676421418e2a2cd29f0
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/8yomovtkng6q0j6/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",08:00 WIB - TOROS DEL VALLE VS PAISAS [LBP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001780533921-0-0-290a64a839a0548c304936c586bec8e0
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001780534521-0-0-3a23d1000c46c6c9c39d40d5a592c6dc
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_161_1729069197_thumb.png" group-title="SPORTS FHD",SPORTS 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_166_1742379655_thumb.png" group-title="SPORTS FHD",S SPORTS 1 HD
@@ -2223,46 +2242,43 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780536559-0-0-b811ab976d7a91b608bdce7abe47eaa5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780536559-0-0-8c2ecd59d41ef689372cb25d8e465dc7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780536559-0-0-0ed0c9f89e2401893217951e4bde3a70
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780536559-0-0-b09fe197fbb7f76213b76b59599e08c0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=090b0be646a800d95b413f00e2cd253d&txTime=6a211b3f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=090b0be646a800d95b413f00e2cd253d&txTime=6a211b3f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1780536559-0-0-e7c7e706bdf5e5385d9295f367e0e3ee
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780536559-0-0-8e805633c94b7cc9fb70449d6673defb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780536559-0-0-bf4ad0b168076df06a602784eb88db34
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780536559-0-0-55b66fee0690c2ed4e6586049a0e7fb4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780537279-0-0-58cc8bdadc1b2d32e227f0234495e15f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780537279-0-0-d9cab8713d859f07fb3e4f8150d98632
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=be098095b4df320a0633a421e4b99059&txTime=6a211f77
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=be098095b4df320a0633a421e4b99059&txTime=6a211f77
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780537639-0-0-872d4c0bda93423d37d22ed0b29e22c7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780537639-0-0-8d45cd3a88d655009c953f27f9497798
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780537639-0-0-61d836d21c1ef4386ea483a488d1f2fd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780537639-0-0-636194aac812a86ec0398d0579bed2b9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1780537639-0-0-822b56f554fdc5cbaf830383d82f423a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780537639-0-0-0c0b941729cc42a03473f43a9e2bc329
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780537639-0-0-63d2aa40896c985d87a06d69c781a3aa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780537639-0-0-ad753edc0faf6b61e8e4ffaba5632096
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c3c17ec375bc22a7138c863ee91a3858.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham vs Louisville City FC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/148473597548cd3c6b978ff36f00cce3.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Ke cuop Virginia vs Loudoun United FC 2 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260602/84c0eb9d5b7a71ca63804172a2e4c5c8.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:30 WIB] 04/06 San Antonio Spurs vs New York Knicks (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780536919-0-0-bc8ffba5350e9050caf2ecf1b17d3027
@@ -2328,18 +2344,6 @@ https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780537279-0-0-d87
 https://live05.msdht.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780536559-0-0-a7e5e6aa88d2f18db528e3984002b165
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780536559-0-0-76e63d30dc955b766749a2ee2ef5a0d6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780536564-0-0-291f8c84f319f4cb1561ff8bde2e93c4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780536564-0-0-705cc3c7f4d2f9539b30f7afbc859f80
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780536919-0-0-82ce7fa5e08a0147fbacddc883cf778d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
@@ -2356,6 +2360,24 @@ https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=a5bb2d7325cd3d0c07f1e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=a5bb2d7325cd3d0c07f1ed7b0f26c3cc&txTime=6a211ca7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780537639-0-0-717c6098621859182abb755804c101fb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780537639-0-0-d2dbefa385a0dee1d7bc1dc37e99b069
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780537639-0-0-26d9629188008d9de3b4ecd2c1c9b3a4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780537639-0-0-3ab665c92a822a7c142eae3f080e0a7a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780537639-0-0-90879f2f2608a6d32ab6ec7669adda39
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780537639-0-0-e22c2de58f149e38bd44a23c382663db
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: TOUT - Cote d'Ivoire U23 vs Venezuela U20 (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780536919-0-0-b5fffc4d5e3b8a6de483f33c4d3e1206
@@ -7216,7 +7238,7 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=6786&ext=dash&
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202506ac3d8f5e5267c7e85a6ea9e4ada68.png" group-title="LIGA ITALIA",[ LIVE 06:00 WIB] [USL2] Annapolis Blues vs Lionsbridge FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410631_1.m3u8?auth_key=1780620547-0-0-3846702163f841d1a0350004b196cac5
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410631_1.m3u8?auth_key=1780620967-0-0-1f084676cef17cf878eb1300ee38961c
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/1e6f94d9ed488ace73a655ee9124fa63.png" group-title="LIGA ITALIA",[ LIVE 06:00 WIB] [USL League Two] Annapolis Blues vs Lionsbridge FC [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMCRBgmRPhAXP.m3u8
@@ -7766,12 +7788,22 @@ https://bonetvstream.ahmadadityaberdikari.workers.dev/index.mpd?q=21593&ext=dash
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=33bc7d07bba0bedccdfd1d4555a90f67&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=6f480c4b53e1f478c1546cac5187042c&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/n54qllysnn7lqvy/image/small" group-title="BWF BADMINTON & VOLLEYBALL",09:00 WIB - PORNPAWEE CHOCHUWONG VS KIM GA EUN [IND]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=e7396db31d07cfdf67b29fd6278dc4bd&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=144eda253ce15fee074a8c8297e2aa06&wsABSTime=1780577720
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/vjxm8gese5elr6o/image/small" group-title="BWF BADMINTON & VOLLEYBALL",09:50 WIB - AN SE YOUNG VS SINDHU PUSARLA VENKATA [IND]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=6f480c4b53e1f478c1546cac5187042c&wsABSTime=1780577720
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/team/l5ergp9s4p43r8k/image/small" group-title="BWF BADMINTON & VOLLEYBALL",09:50 WIB - TANG CHUN MAN TSE YING SUET VS CHENG XING ZHANG CHI [IND]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=92de08d5f952768566d6bb3b8288032f&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sdkHKZTQRJtNAUX1EJ5OkxdGnm0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5119831/8350c7.jpg" group-title="BWF BADMINTON & VOLLEYBALL", JAM 15:55 WIB (04/06) - Men's Doubles Semifinals - Day 12 (Court 3) - Roland Garros 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7805,12 +7837,12 @@ https://cdn13.zohanayaan.com:1686/hls/mphiladelphiaphillies.m3u8?md5=ATZXgZuDD0V
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/bzagLHzach19.m3u8?st=E5mAO1eNBBYOiTnTp1lA1pLM_g7CkYF-2bhfnbVqmV8&e=1780544509
+https://mainstreams.pro/hls/bzagLHzach19.m3u8?st=56O7sNxol3uu6MxkgYELq4AqeESuElKleSIIZzzvruY&e=1780545104
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [05:40 WIB] [MLB] San Diego Padres vs Philadelphia Phillies - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee1.lefiles.cfd/live/2/stream.m3u8?expires=1780515394&token=7a3f58f9684d620cf147cc73e1577136382569577484dc77404b8753cd25648b
+https://lee1.lefiles.cfd/live/2/stream.m3u8?expires=1780514204&token=cdda0fb2c8fa52a8657e76ffb21bd31866d5df677d4bf8c8b88114d4bfe59d35
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] San Diego Padres vs Philadelphia Phillies (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+philadelphia&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+philadelphia&code=us&user=cdnlivetv&plan=free
@@ -7820,12 +7852,12 @@ https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-10/playlist.m3u8?toke
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=8toI3mzWgZrBV0InjMwm5DvPokyIS-YyrF2iXG3Bnfc&e=1780544508
+https://mainstreams.pro/hls/jkzahzadach20.m3u8?st=RM_OCcZVd5sJEdigQd4bf5UdLx3lQHxlIL7cE1PVuGE&e=1780545104
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [05:45 WIB] [MLB] Baltimore Orioles vs Boston Red Sox - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee1.lefiles.cfd/live/3/stream.m3u8?expires=1780515395&token=0ef4a08ab2faed8509ffb00126976ddbd17553432f31c3b153f3557088bfca55
+https://lee1.lefiles.cfd/live/3/stream.m3u8?expires=1780514205&token=6c3c7f8d60b1906806ff1b311cb26a4bc1ef74559a29def3d4919ebec6f104e3
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Baltimore Orioles vs Boston Red Sox (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nesn&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nesn&code=us&user=cdnlivetv&plan=free
@@ -7865,12 +7897,12 @@ https://cdn12.zohanayaan.com:1686/hls/mstlouiscardinals.m3u8?md5=zr5RlIfF8ifnq-q
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/ojzkajnach21.m3u8?st=1GbRfnRl-7GE5BezsTFueVy69zdjBXmbSwvvDGmqGmM&e=1780544507
+https://edgestreams.pro/hls/ojzkajnach21.m3u8?st=grnSX3v2EP4GPd43ieWwNq7fDqJHbrIqqib_tL8vLJI&e=1780545103
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:05 WIB] [MLB] Cleveland Guardians vs New York Yankees - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee1.lefiles.cfd/live/4/stream.m3u8?expires=1780515395&token=d68a002d65174b5c6865827e442d60d6cd4fa72a3d7c2a2317140f667af6dfe3
+https://lee1.lefiles.cfd/live/4/stream.m3u8?expires=1780514205&token=a1e5bbad6af40579451a499ef5e359ab6449e3eb8fbf6caa31272f519e8a17df
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Cleveland Guardians vs New York Yankees (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+max+4&code=fr&user=cdnlivetv&plan=free
@@ -7910,12 +7942,12 @@ https://cdn13.zohanayaan.com:1686/hls/mcincinnatireds.m3u8?md5=-RFbaJr1bSLYr-QLj
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=ukNgdldlLSxHreEyeYOhz7wfw4gs2HhWRVZPM0xcThk&e=1780544507
+https://mainstreams.pro/hls/ijfnakfidch22.m3u8?st=zD97Vi640Vf-AS2XpOM61G9hUs-Uu9b-6DzfjW6IOWo&e=1780545102
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:10 WIB] [MLB] Kansas City Royals vs Cincinnati Reds - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee1.lefiles.cfd/live/5/stream.m3u8?expires=1780515395&token=3c04254cfc159d527b577681077bac20fe00e51d4f12e1ce7efab8b876914a98
+https://lee1.lefiles.cfd/live/5/stream.m3u8?expires=1780514205&token=d28dc92a9351d86b9d2d2a6bc135336cd03be92b7695c242bd0bebfb0f9c0b2c
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Kansas City Royals vs Cincinnati Reds (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+6&code=de&user=cdnlivetv&plan=free
@@ -7940,12 +7972,12 @@ https://cdn12.zohanayaan.com:1686/hls/matlantabraves.m3u8?md5=nv3zZ7zvvfxF4CYr85
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?st=sJohUxeNFAc9Qs_SExzZeXvdTB1SDLJOHRNA4Id4nPg&e=1780544506
+https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?st=7iLtTDBt3gO81MtiL6EhZDk1wqNAct7Pb_Pa95U9Tkk&e=1780545101
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:15 WIB] [MLB] Toronto Blue Jays vs Atlanta Braves - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee2.lefiles.cfd/live/6/stream.m3u8?expires=1780515397&token=9bc378c4c5483d68f890152bdcdfbaee0ddd3424e5a8b25602c7a966e3ebeb8a
+https://lee2.lefiles.cfd/live/6/stream.m3u8?expires=1780514206&token=ecfbcb657f5f31d4b65b274f4979c787ad4c240d837d37812244fde98672d0ff
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Toronto Blue Jays vs Atlanta Braves (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+one&code=ca&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+one&code=ca&user=cdnlivetv&plan=free
@@ -7953,15 +7985,15 @@ https://lee2.lefiles.cfd/live/6/stream.m3u8?expires=1780515397&token=9bc378c4c54
 https://edge.cdnlivetv.ru/secure/api/v1/ca-sportsnet-one/playlist.m3u8?token=9e9b0750cc35311f9a0e075821502984bd1c1c0f168560f69287367db1d7a52e.1780527775.6a2075ba63434d8edb04d99d943f145e.619ce3246410e6c9fc11d57e1c66ea9b.b22d890de9daa95631ec8907e586a717&signature=9a1e4c00d4b4d7c3d028f628fc9541979d374289d05068944cbc172bad2a54c2
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20186577ac8f2851ad21b1dc3923b2d8d24.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE 06:30 WIB] [WNBA] Liberty vs Tempo [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_2.m3u8?auth_key=1780620547-0-0-680a9b3b4f4977db78828c86917b9290
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_2.m3u8?auth_key=1780620967-0-0-5dfc64c9e20d85ec163f1ac3150de635
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20186577ac8f2851ad21b1dc3923b2d8d24.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE 06:30 WIB] [WNBA] Liberty vs Tempo [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_1.m3u8?auth_key=1780620547-0-0-c1bd3d034852c7df48f1a929e4f8e361
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_1.m3u8?auth_key=1780620967-0-0-9567a0036ef8bb21d98000340cd26eae
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9dn1m17td5jmoep/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",06:30 WIB - NU NY LIBERTY VS TORONTO TEMPO [WNB]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=9c9537f8989d566a9473ef201a218bfd&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=0c6ca7aef4972ab9e3a3fb0309004382&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[06:30 WIB] [WNBA] New York Liberty W vs Toronto Tempo W (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -7979,12 +8011,12 @@ https://live05.msdht.app/live/19919577.m3u8
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=vjKB1DnzMmUdj5k0i9pMq348jnMHcnYQ9CVkPneLCQ8&e=1780544505
+https://edgestreams.pro/hls/bvnsqdfvgha70.m3u8?st=fMqoam3_iLTW1vvJMHdHqiQ42RA_i3uHJt4MRFi1Onk&e=1780545101
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:00 WIB] [WNBA] Toronto Tempo vs New York Liberty - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lba4.lefiles.cfd/live/tempo/stream.m3u8?expires=1780515398&token=00e3a35ccdb686db237a9d57c04e4e14df18eee2f2a44d5eca5069b0c17fd61c
+https://lba4.lefiles.cfd/live/tempo/stream.m3u8?expires=1780523781&token=c663554004916491e45e51143ef95435843cda86cbaba323c0f1b2d39ccab4d8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/mil.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:40 WIB] [MLB] Milwaukee Brewers vs San Francisco Giants (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB11
 #EXTVLCOPT:http-origin=https://instream.click
@@ -8004,12 +8036,12 @@ https://cdn13.zohanayaan.com:1686/hls/mmilwaukeebrewers.m3u8?md5=_Gjp8FV32nSzm-n
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/fskjanach24.m3u8?st=2mITI7iUzG_cEEjwAP_uixH-PBMKnB94YQoPt-bpPTg&e=1780544504
+https://mainstreams.pro/hls/fskjanach24.m3u8?st=6atMua1V5XSI3AaIHvQDPna2nrsnYEnAodCipIRKBqU&e=1780545100
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:40 WIB] [MLB] San Francisco Giants vs Milwaukee Brewers - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee2.lefiles.cfd/live/7/stream.m3u8?expires=1780515397&token=28b33d7bfb4cabed5a1b5a0c7777e041ff647a7457b3a6f249e0816b6e309f37
+https://lee2.lefiles.cfd/live/7/stream.m3u8?expires=1780514206&token=200c1fe32224b65befcd8523bd4581ac39186e0a4cfa95125adc5a2aca0fde0f
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] San Francisco Giants vs Milwaukee Brewers (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+bay+area&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+bay+area&code=us&user=cdnlivetv&plan=free
@@ -8019,12 +8051,12 @@ https://edge.cdnlivetv.ru/secure/api/v1/us-nbcs-bay-area/playlist.m3u8?token=fa7
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/kjhfzua25.m3u8?st=4bNWIajlia78flx3ZNA4UB1JbzSZFci9PCPCAbVQRU4&e=1780544504
+https://edgestreams.pro/hls/kjhfzua25.m3u8?st=84yGr5ISrkty_BrTzCp-fn9JVJE4ENY5HB1dxXNtxiQ&e=1780545099
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [06:45 WIB] [MLB] Texas Rangers vs St. Louis Cardinals - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee2.lefiles.cfd/live/8/stream.m3u8?expires=1780515398&token=c1a2dc008f003f3ba3d6dc82df4f7972e728740ac78c65217b8fb94cfc49d722
+https://lee2.lefiles.cfd/live/8/stream.m3u8?expires=1780514206&token=30081a231a1dbe072a984fce788d2cb0af07be8a39746b63de6a787915e1de69
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Texas Rangers vs St. Louis Cardinals (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
@@ -8034,17 +8066,17 @@ https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=fa9a
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=d79b4d491c925f44dc516ec457e763b3&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=14af221f6df599e0200cc2c3f01ae622&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:05 WIB] [Baseball] Athletics Athletics at Chicago Cubs (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?st=UUfpG_wDt1lz48RunuOSzfO_d4OkFVqOINXgY6isRYM&e=1780544503
+https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?st=7l7ujmvF17wVIt0w113-yLQZmbVizVwCBFASp7KIN5M&e=1780545098
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:05 WIB] [MLB] Athletics vs Chicago Cubs - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee2.lefiles.cfd/live/9/stream.m3u8?expires=1780515399&token=08e4050fe784e69f294450f00ff6df32b7533b79ece2ad52f107252777710463
+https://lee2.lefiles.cfd/live/9/stream.m3u8?expires=1780514207&token=14efe4b3f2da852a7b0c9bd3d32aea621156309736d6f32654d3745a6c99dd55
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Oakland Athletics vs Chicago Cubs (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+california&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=nbcs+california&code=us&user=cdnlivetv&plan=free
@@ -8084,12 +8116,12 @@ https://cdn12.zohanayaan.com:1686/hls/mhoustonastros.m3u8?md5=kEdQDhN1adHIO5Jzvp
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edge2caster.pro/hls/jzabfazkbf27.m3u8?st=qDAc_ie0pUyKjy9IGd4j7rlK3qjt65PZPogkHJVfaqk&e=1780544502
+https://edgestreams.pro/hls/jzabfazkbf27.m3u8?st=0S6OmGngZDQbIvhmnNGZbMtO5OgyIYTLBEWbqbxqZjA&e=1780545098
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:10 WIB] [MLB] Pittsburgh Pirates vs Houston Astros - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee2.lefiles.cfd/live/10/stream.m3u8?expires=1780515399&token=0ad498c152895dbb3b67ad5845916347f8403de3cbf2d8fcaf026df9ef70d12c
+https://lee2.lefiles.cfd/live/10/stream.m3u8?expires=1780514207&token=45e728fa7bc1e0e796889486a1c884f836d62ec800df5b1959408e4ee9dac90f
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Pittsburgh Pirates vs Houston Astros (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+pittsburgh&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=sportsnet+pittsburgh&code=us&user=cdnlivetv&plan=free
@@ -8099,23 +8131,23 @@ https://edge.cdnlivetv.ru/secure/api/v1/us-sportsnet-pittsburgh/playlist.m3u8?to
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=CZ_0SxFrSiO31enu69zfsiQAVWo7neaZUQ4kzyJty5w&e=1780544501
+https://mainstreams.pro/hls/mlkijfezag65.m3u8?st=bjWYwn64RSstdrOVVfAgyxW1gPD1nCowWjBMQy8haCM&e=1780545097
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:30 WIB] [NBA] New York Knicks vs San Antonio Spurs - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lba1.lefiles.cfd/live/spurs/stream.m3u8?expires=1780514738&token=d5b420031046ca03bbed72c8e065b4d88212b23532dc4d0e492eda519a227b88
+https://lba1.lefiles.cfd/live/spurs/stream.m3u8?expires=1780514207&token=186afe1dddfae027dd499bacef86f58a87272bda7358bdc57585176f5b6c1dff
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201c22bea230671af03c15bfafe78157d5a.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE 07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_2.m3u8?auth_key=1780620547-0-0-4447976fa39fe2303bf4ea9ec69556ba
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_2.m3u8?auth_key=1780620967-0-0-21f7c8b0b5c9124e58ecd66f881308f2
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201c22bea230671af03c15bfafe78157d5a.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE 07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_1.m3u8?auth_key=1780620547-0-0-95c535cada3d00dcf85e87e3503e3f6b
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_1.m3u8?auth_key=1780620967-0-0-84e9dac47cfb7b896194a95f3295e603
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z318q6ntd82mo9j/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",07:30 WIB - SAN ANTONIO SPURS VS NEW YORK KNICKS [NBA]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001780533920-0-0-4b255c91b2fce38d42f3f0c0d4836633
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001780534520-0-0-2548f1d59802d676421418e2a2cd29f0
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/sa.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ LIVE] [07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA1
 #EXTVLCOPT:http-origin=https://instream.click
@@ -8153,17 +8185,17 @@ https://live05.msdht.app/live/87379114.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001780533921-0-0-290a64a839a0548c304936c586bec8e0
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001780534521-0-0-3a23d1000c46c6c9c39d40d5a592c6dc
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[08:38 WIB] [Baseball] Colorado Rockies at Los Angeles Angels (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=JmdKzCopcQxtDLoade5wwss1Uts050bSh5idlJGSilQ&e=1780544500
+https://mainstreams.pro/hls/hefbafbakx28.m3u8?st=3vyzMpGbX6KV3kkEy73KwFPgbKkbf_oyFEk5_U-67_Y&e=1780545096
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[08:38 WIB] [MLB] Colorado Rockies vs Los Angeles Angels - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee3.lefiles.cfd/live/11/stream.m3u8?expires=1780515399&token=585fc6971b3f050095bbc9c3ec9e26fdef529ad79c142f69e37bb2e0df0f4c22
+https://lee3.lefiles.cfd/live/11/stream.m3u8?expires=1780514208&token=9132bc4ee8545a3c33a8e43240c3f0fe002169cec60d90570fa4418618f70b1f
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/laa.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[08:38 WIB] [MLB] Los Angeles Angels vs Colorado Rockies (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB14
 #EXTVLCOPT:http-origin=https://instream.click
@@ -8188,17 +8220,17 @@ http://193.47.62.42/hls/YAAADD.m3u8
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?st=AlE4PUUo0S2vnYeuXpYzmNXO-7uxryu6GaEXqRwPf8c&e=1780544500
+https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?st=PcevuKMNX4ytXwrrZircktB1VwdCFiCnFzjPnYJSe2w&e=1780545095
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[08:40 WIB] [MLB] Los Angeles Dodgers vs Arizona Diamondbacks - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lee3.lefiles.cfd/live/12/stream.m3u8?expires=1780515401&token=027b76a033011682424d793f5814456112a4c505d2c6927961b3031bbbfb71df
+https://lee3.lefiles.cfd/live/12/stream.m3u8?expires=1780514208&token=acbc934456006bd0f38d3741ec3de13da38e03efc646c56f3e6775495d039b2b
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/yl5ergytjzzr8k0/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",09:00 WIB - NU SEATTLE STORM VS NU PHOENIX MERCURY [WNB]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001780533921-0-0-0bdcff94cf5d35c277ff704226b653c8
+https://live3.procdnlive.com/livecdn/channel25.flv?auth_key=3000001780534521-0-0-13d82367e02f8138aaf468dfde86de2a
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[09:00 WIB] [WNBA] Seattle Storm W vs Phoenix Mercury W (Fawa)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
@@ -8208,12 +8240,12 @@ http://193.47.62.42/hls/YAAADDDDD.m3u8
 #EXTVLCOPT:http-referrer=https://streamcenter.xyz/
 #EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=M1T3auRmEnmU3VtODq4XeTRpjQY-lU1RFQl1ut7k_k0&e=1780544498
+https://edgestreams.pro/hls/ztyarueaghj71.m3u8?st=edAFl-n4nQh6rvFq0ITbAPSKbNAeHrZUZxe29c7iTl4&e=1780545094
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[09:00 WIB] [WNBA] Phoenix Mercury vs Seattle Storm - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://lba4.lefiles.cfd/live/storm/stream.m3u8?expires=1780515401&token=88d729f712ccdc63aa154ea4a021f906b40422dc4ca8670e5712f64bc312ec53
+https://lba4.lefiles.cfd/live/storm/stream.m3u8?expires=1780514208&token=a4d60e5ea36cf86de637202fb611b97ccaa2178296232b855a7dd1d3c0d1a20a
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",MLB Network
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/145.ts
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",NHL Network
@@ -8454,31 +8486,24 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=mbg.full.diskon.cloud%2Fwc2026%2Fimg.php%3Fh%3Dhttps%253A%252F%252Foss.yalla-shoot-admin.com%252Fteam%252F202b58e9351d4ea2c3557471c73b394b74b.png%26a%3Dhttps%253A%252F%252Foss.yalla-shoot-admin.com%252Fteam%252F2029992d3963f94b007a083d203523ca757.png" group-title="🔴FIFA WORLD CUP 2026🔴",[Grup J] Yordania vs Argentina - JAM 09:00 WIB (28/06)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/phi.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [05:40 WIB] [MLB] Philadelphia Phillies vs San Diego Padres (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB5
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/MLB5/index.m3u8
-#EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/bos.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [05:45 WIB] [MLB] Boston Red Sox vs Baltimore Orioles (Gate)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB6
-#EXTVLCOPT:http-origin=https://instream.click
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://instreams.pro/US/MLB6/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202506ac3d8f5e5267c7e85a6ea9e4ada68.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] Annapolis Blues vs Lionsbridge FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410631_1.m3u8?auth_key=1780620547-0-0-3846702163f841d1a0350004b196cac5
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410631_1.m3u8?auth_key=1780620967-0-0-1f084676cef17cf878eb1300ee38961c
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202f7e3e12c0245b0ec01d7ee921cd679c4.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [Copa Sul-Sudeste] Avai FC vs Chapecoense - SC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5429316_2.m3u8?auth_key=1780620547-0-0-b54f5e651398a8040023887e4cca9e07
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5429316_2.m3u8?auth_key=1780620967-0-0-88586a551552896c23892da2f05b5f6a
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2022e51e8ad3ddb8deab724b89fa465735d.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] Charlotte Eagles vs Tobacco Road [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410625_1.m3u8?auth_key=1780620967-0-0-5776792f628adf4facd9070b2465f919
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20202934e011de525f4d2be84b6185bc5af.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] Davis Legacy SC vs San Francisco Glens SC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410590_1.m3u8?auth_key=1780620547-0-0-d037adfd873fc8f1e149515a4be07e9b
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410590_1.m3u8?auth_key=1780620967-0-0-14ace887c60da8512a7e84a59bef83de
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20222fe84f14d682fecc313530def10a807.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] New England vs Connecticut Rush [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410615_1.m3u8?auth_key=1780620547-0-0-d586cab1cb9b24e9edb8d8d28acc8c8b
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410615_1.m3u8?auth_key=1780620967-0-0-c93604b393c4991536131a3193bac6db
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20217837e4b3d21d2d2b5c343967790bd7d.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] Sporting Jax B vs Brooke House FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410607_1.m3u8?auth_key=1780620547-0-0-ee3de3fe15e07739271b05c2ae52d555
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410607_1.m3u8?auth_key=1780620967-0-0-052e9328e839174b333bc25a9c7f3c91
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/stl.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [06:00 WIB] [MLB] St. Louis Cardinals vs Texas Rangers (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB7
 #EXTVLCOPT:http-origin=https://instream.click
@@ -8486,10 +8511,10 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410607_1.m3u8?auth_key=17806
 https://instreams.pro/US/MLB7/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2021fae7570988526891365df2f73849e2e.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL WLW] Tacoma Galaxy (W) vs Salmon Bay FC (W) [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5430035_1.m3u8?auth_key=1780620547-0-0-b844790a63a89ef23571342346574b9c
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5430035_1.m3u8?auth_key=1780620967-0-0-8ee3adcafc7e7940ec89172e4a60de53
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20229622cf189433eb6bd779b3273170d80.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:00 WIB] [USL2] Wake FC vs SC United Bantams [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410603_1.m3u8?auth_key=1780620547-0-0-441ee3e6dd8055446cb1a9e1fb4a4328
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410603_1.m3u8?auth_key=1780620967-0-0-64fed49c75f7b6a12ea16ab71d3f76d9
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [06:05 WIB] [MLB] New York Yankees vs Cleveland Guardians (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB8
 #EXTVLCOPT:http-origin=https://instream.click
@@ -8507,25 +8532,25 @@ https://instreams.pro/US/MLB9/index.m3u8
 https://instreams.pro/US/MLB10/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2020a899e04003d5daf3ac6b1c1f1c6e7d6.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:20 WIB] [USL2] Christos FC vs Charlottesville Blues [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410580_1.m3u8?auth_key=1780620547-0-0-552c3b6e7ced2cdd6ff21eb459b683ce
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410580_1.m3u8?auth_key=1780620967-0-0-23454799a00cb2498dd03675ad85f558
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20157e08e58bc955f131b0bc0d95312e4ea.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:30 WIB] [Kanada CEBL] Brampton Honey Badgers vs Edmonton Stingers [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5432876_1.m3u8?auth_key=1780620547-0-0-0d285674005d4022b80fff33c5a57079
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5432876_1.m3u8?auth_key=1780620967-0-0-b17a0f47caac035e256433724f4c2215
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2028d1da8eb97d33086cd065a38a50f569a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:30 WIB] [USL2] Capo FC vs Redlands FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410591_1.m3u8?auth_key=1780620547-0-0-b71ce9a2f59b6314e4151c939e569d79
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410591_1.m3u8?auth_key=1780620967-0-0-54cf9704a04c474cbcab540359871597
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20186577ac8f2851ad21b1dc3923b2d8d24.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:30 WIB] [WNBA] Liberty vs Tempo [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_2.m3u8?auth_key=1780620547-0-0-680a9b3b4f4977db78828c86917b9290
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_2.m3u8?auth_key=1780620967-0-0-5dfc64c9e20d85ec163f1ac3150de635
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20186577ac8f2851ad21b1dc3923b2d8d24.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:30 WIB] [WNBA] Liberty vs Tempo [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_1.m3u8?auth_key=1780620547-0-0-c1bd3d034852c7df48f1a929e4f8e361
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202d5cbaf6282d109816d59848cf9eafd23.jpeg" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:30 WIB] [USL2] Long Island Rough Riders vs Hudson Valley Hammers [Zhubo]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410633_1.m3u8?auth_key=1780620547-0-0-5f8df222abc2d16faa692ee193b11a08
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5071740_1.m3u8?auth_key=1780620967-0-0-9567a0036ef8bb21d98000340cd26eae
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202963e792f3db4940dee1062939a814b8a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:35 WIB] [USL League One] FC Naples vs Charlotte Independence [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5086767_1.m3u8?auth_key=1780620547-0-0-26649e53f371304ee4b0cbdd3abaf3d9
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5086767_1.m3u8?auth_key=1780620967-0-0-df1f5bc6cb8b332048150ed24d166b1c
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20214ad5a2d387dfb76d39f86d0dfacec1d.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 06:35 WIB] [USL League One] Greenville Triumph vs Forward Madison FC [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5076657_1.m3u8?auth_key=1780620967-0-0-de68b73b40cbd44de9cb22fb908e1ddd
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/mil.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [06:40 WIB] [MLB] Milwaukee Brewers vs San Francisco Giants (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB11
 #EXTVLCOPT:http-origin=https://instream.click
@@ -8533,13 +8558,13 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_5086767_1.m3u8?auth_key=17806
 https://instreams.pro/US/MLB11/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202fd1763420ae8af3edc4e13438a8f8928.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:00 WIB] [AS USL] Birmingham Legion vs Louisville City FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5040518_1.m3u8?auth_key=1780620547-0-0-f56f5303eb0f0353b7c8d49305d0606c
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5040518_1.m3u8?auth_key=1780620967-0-0-17c560320a698dc8a01392614d1bd4ec
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20252e4a3b2941bdb1010705d2d16ee958d.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:00 WIB] [USL2] Santafe Wanderers vs Peoria City [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410606_1.m3u8?auth_key=1780620547-0-0-5d876a8b014efe9c2314be2a98340f9b
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5410606_1.m3u8?auth_key=1780620967-0-0-88078e6079eabf0efa7635e59670b22e
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202e9a6f0aabbac2a8f0962d41b28cff578.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:00 WIB] [USL2] Virginia Marauders vs Loudoun United FC 2 [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5412774_1.m3u8?auth_key=1780620547-0-0-49eff1e6cb13f51926d037650bbacb90
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5412774_1.m3u8?auth_key=1780620967-0-0-3ee0a53b16d7c5d1ab11856b213e22c0
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/chc.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [07:05 WIB] [MLB] Chicago Cubs vs Athletics (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB12
 #EXTVLCOPT:http-origin=https://instream.click
@@ -8552,10 +8577,10 @@ https://instreams.pro/US/MLB12/index.m3u8
 https://instreams.pro/US/MLB13/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201c22bea230671af03c15bfafe78157d5a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_2.m3u8?auth_key=1780620547-0-0-4447976fa39fe2303bf4ea9ec69556ba
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_2.m3u8?auth_key=1780620967-0-0-21f7c8b0b5c9124e58ecd66f881308f2
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201c22bea230671af03c15bfafe78157d5a.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_1.m3u8?auth_key=1780620547-0-0-95c535cada3d00dcf85e87e3503e3f6b
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5421421_1.m3u8?auth_key=1780620967-0-0-84e9dac47cfb7b896194a95f3295e603
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/sa.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE] [07:30 WIB] [NBA] San Antonio Spurs vs New York Knicks (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA1
 #EXTVLCOPT:http-origin=https://instream.click
@@ -8568,7 +8593,10 @@ https://instreams.pro/US/NBA1/index.m3u8
 /hlskey/g7tdgsxumu/index.m3u8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2021ab9162814e2cc230da622cae6360a8d.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:35 WIB] [USL League One] Corpus Christi FC vs Portland Hearts of Pine [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5083152_1.m3u8?auth_key=1780620547-0-0-6d6c470fad98580cc641354feae1d505
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5083152_1.m3u8?auth_key=1780620967-0-0-c30ddbd947c66a96d7fdae7a0a42e3e4
+#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202ab3ea369351b9d6efd74f02c906d4d53.png" group-title="🔴 🔴 LIVE EVENT NOW",[ LIVE 07:45 WIB] [INT FRL] Panama vs Dominican Republic [Zhubo]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5364924_1.m3u8?auth_key=1780620967-0-0-c746e7a3f112ab60d53d43bdef5cca98
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/laa.png" group-title="🔴 🔴 LIVE EVENT NOW",[08:38 WIB] [MLB] Los Angeles Angels vs Colorado Rockies (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=MLB14
 #EXTVLCOPT:http-origin=https://instream.click
@@ -8600,9 +8628,6 @@ https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMBQprm6ZRrJh.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/10a5ea0cb9798486f5c8add2f4245608.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 06:00 WIB] [USL League Two] Sporting Jax B vs Brooke House FC [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMBFAPEADmAC5.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/5b83144af014f5c95a525d89270734e0.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 06:00 WIB] [USL WLW] Tacoma Galaxy (W) vs Salmon Bay FC (W) [Seru]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5npjUE7jDUfmGH.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/484fdb895c78d8204eef3921afdf014f.jpg" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 06:00 WIB] [USL League Two] Wake FC vs SC United Bantams [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMBFCai2hb5Ly.m3u8
@@ -8639,6 +8664,9 @@ https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMBQs4Ey3FmTb.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/1298863b01ee7550a009ccf533f1ce61.jpg" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 07:00 WIB] [United States Women's Premier League] Salvo SC Women vs MN Bliss W [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5npjyfv6UFaqSu.m3u8
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/84af59af515c4c69c4314fdd82ac5c72.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 07:00 WIB] [USL League Two] Santafe Wanderers vs Peoria City [Seru]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TMBF3nnYnHQjP.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/148473597548cd3c6b978ff36f00cce3.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 07:00 WIB] [USL League Two] Virginia Marauders vs Loudoun United FC 2 [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5TNgDjmWB4bX1F.m3u8
@@ -8648,126 +8676,129 @@ https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwd6CpxXRFN4HzJkV.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/21b2d8d0b48a90628ad003b218b5888e.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 07:30 WIB] [Aruba Division Di Honor] SV Caiquetio vs SV Unistars [Seru]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5B6SeJj1hKeiRj.m3u8
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/aef114700ab5fcdc5baa98d53a41761a.png" group-title="🔴 LIVE EVENT NOW | SERU BONE TV 🔴",[ LIVE 07:45 WIB] [International Friendly] Panama vs Dominican Republic [Seru]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://streaming.cdnx-sportnobar.xyz/live/sd-6Mwe5EKDG5gT7LhWgm.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/gy0or5jhy80qwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - AVAI FC VS CHAPECOENSE SC [COP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=f88e55a7266bed3c2749bb1d3b0c4482&wsABSTime=1780577121
+https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=deb5566ebf89f5925f2145f3375f26dc&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhjjleryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - CHARLOTTE INDEPEND B VS ASHEVILLE CITY [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=6b2d11185547681c4357f2d00fc59940&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=34234161b58e54d0f74eca42bfe71166&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh9509repz/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - CHRISTOS FC VS CHARLOTTESVILLE BLUES [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=2ad404ec273c292da02af707dbad420e&wsABSTime=1780577121
+https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=b59ea195960a16404d8161663559ddcf&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jh1kvdqwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - JACKSON BOOM VS MEMPHIS FC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=4de1e4e771f593b5ff55d6e3ae7af721&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=b7a990ea34a312cf47a10095615046e8&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jh4vzdqwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - LAKELAND TROPICS VS FLORIDA PREMIER FC [USA NPSL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=767cb5c321f1ca6466f7607b58c20c82&wsABSTime=1780577121
+https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=9fb03e2af541755c103b48c29081b1ba&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh169xrepz/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - NEW ENGLAND VS CONNECTICUT RUSH [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=54fa360315189efd3bf7afc59d6dfc24&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=9ffe028563a402ad792ece7750e600b4&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jh1y4vqwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - ROCKFORD RAPTORS VS ST CROIX SC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=f38479bc87e8d9a7e86d17a7311c23eb&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=6b01833e39e5bc9a79db902c18c2d4a8&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whe4n4ryox/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - SPORTING JAX B VS BROOKE HOUSE FC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=db72a52d0df188da57186581d6d728ba&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=49224b554f2b8567feb9c007bb2b391d&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/8yomo4h2j8xq0j6/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:00 WIB - WAKE FC VS SC UNITED BANTAMS [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=b27bb0c69ba08ef236b5bc9b5cab9325&wsABSTime=1780577121
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=71468019ba05142e3e2a700b6dee9fdf&wsABSTime=1780577721
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whgxg1ryox/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:30 WIB - CAPO FC VS REDLANDS FC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=3009a9806af0e8eaf3b0dff1685808ff&wsABSTime=1780577121
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=0bf5e4de8a56773043b2406a0445fbaf&wsABSTime=1780577722
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekhyn9grepz/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:30 WIB - GREENVILLE TRIUMPH VS FORWARD MADISON FC [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001780533922-0-0-f2d24ae757c9393c2af9890809c532f3
+https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001780534522-0-0-cdf938aba5abfebdc4c75bcb088d82f3
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh81v2qvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:30 WIB - MORRIS ELITE VS FC MOTOWN B [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=4cb6b4cf734c0e8a2e4879b771c21ca5&wsABSTime=1780577122
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=73368f9f1b3ab41343eaf582e900fe77&wsABSTime=1780577722
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9dn1m17td5jmoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:30 WIB - NU NY LIBERTY VS TORONTO TEMPO [WNB]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=9c9537f8989d566a9473ef201a218bfd&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=0c6ca7aef4972ab9e3a3fb0309004382&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7ho2pkqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",06:30 WIB - NU SWARM FC VS NU CHATTANOOGA RW [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel33.flv?wsSecret=e47e08057da79ff95f154e7be6ccab7c&wsABSTime=1780577122
+https://live1.pro2cdnlive.com/live/channel33.flv?wsSecret=ce6eb3086d9f1aaf68477fbe7c698909&wsABSTime=1780577722
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohj730q1zp/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - BIRMINGHAM LEGION VS LOUISVILLE CITY [USL CH]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001780533923-0-0-6f465f89ac1429e84f24aa20a3b86c99
+https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001780534523-0-0-136e8a81322716068fa79e33c503b066
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/y39mp4t5dzomojx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - GIGANTES CAROLINA VS BAAMON CATTLE HERDER [PUE]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=d79b4d491c925f44dc516ec457e763b3&wsABSTime=1780577120
+https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=14af221f6df599e0200cc2c3f01ae622&wsABSTime=1780577720
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghk8d6m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - HOUSTON FC VS HILL COUNTRY LOBOS [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=b0b1e337ae1b986d772f21094f09125f&wsABSTime=1780577123
+https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=0c802ebfb8f9cf3534e98d50587aae0c&wsABSTime=1780577723
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h32vlmojx/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - MISSISSIPPI BRILLA VS RED RIVER [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=e84a96a639bf6eae315190b467fc9d32&wsABSTime=1780577123
+https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=363836769ba43bff4f927ec0b6f8a56a&wsABSTime=1780577723
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdehn9p4r510/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - REAL POTOSI VS ACADEMIA DEL BALOMPIE BOLIVIANO [BOL D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=8abe9787f715aa23c0aa8bd5fe8968d9&wsABSTime=1780577124
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=57ebca94812e66480e876c033c5d7587&wsABSTime=1780577724
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/k82rekh16v3repz/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - SANTAFE WANDERERS VS PEORIA CITY [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=9800f5407ef5963259aa9a380ac70ae7&wsABSTime=1780577124
+https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=87ae123b4ca1669cb551467d16274b4c&wsABSTime=1780577724
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66hjo92qo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - SUNFLOWER STATE FC VS DES MOINES MENACE [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=6976098b3c5d6dba5b114c78f29983eb&wsABSTime=1780577123
+https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=703e280ee52d429f582b9ad0e52c6f78&wsABSTime=1780577723
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhgol8qwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:00 WIB - VIRGINIA MARAUDERS VS LOUDOUN UNITED FC 2 [USL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=6e1961c5b57ff58266a030f685bfbc5e&wsABSTime=1780577123
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=7705d0fb34e2282483367c79007a115f&wsABSTime=1780577723
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z318q6ntd82mo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",07:30 WIB - SAN ANTONIO SPURS VS NEW YORK KNICKS [NBA]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001780533920-0-0-4b255c91b2fce38d42f3f0c0d4836633
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001780534520-0-0-2548f1d59802d676421418e2a2cd29f0
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/8yomovtkng6q0j6/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",08:00 WIB - TOROS DEL VALLE VS PAISAS [LBP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001780533921-0-0-290a64a839a0548c304936c586bec8e0
+https://live3.procdnlive.com/livecdn/channel26.flv?auth_key=3000001780534521-0-0-3a23d1000c46c6c9c39d40d5a592c6dc
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_161_1729069197_thumb.png" group-title="SPORTS FHD",SPORTS 3 HD
 http://maxotts.maxdigitaltv.com/x-media/C251/master.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_166_1742379655_thumb.png" group-title="SPORTS FHD",S SPORTS 1 HD
@@ -8927,46 +8958,43 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780536559-0-0-b811ab976d7a91b608bdce7abe47eaa5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780536559-0-0-8c2ecd59d41ef689372cb25d8e465dc7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780536559-0-0-0ed0c9f89e2401893217951e4bde3a70
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780536559-0-0-b09fe197fbb7f76213b76b59599e08c0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=090b0be646a800d95b413f00e2cd253d&txTime=6a211b3f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=090b0be646a800d95b413f00e2cd253d&txTime=6a211b3f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1780536559-0-0-e7c7e706bdf5e5385d9295f367e0e3ee
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780536559-0-0-8e805633c94b7cc9fb70449d6673defb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780536559-0-0-bf4ad0b168076df06a602784eb88db34
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780536559-0-0-55b66fee0690c2ed4e6586049a0e7fb4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-607400_lsd.flv?auth_key=1780537279-0-0-58cc8bdadc1b2d32e227f0234495e15f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1780537279-0-0-d9cab8713d859f07fb3e4f8150d98632
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.flv?txSecret=be098095b4df320a0633a421e4b99059&txTime=6a211f77
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912102_lsd.m3u8?txSecret=be098095b4df320a0633a421e4b99059&txTime=6a211f77
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-608899_lsd.flv?auth_key=1780537639-0-0-872d4c0bda93423d37d22ed0b29e22c7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-608899_lsd.m3u8?auth_key=1780537639-0-0-8d45cd3a88d655009c953f27f9497798
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1780537639-0-0-61d836d21c1ef4386ea483a488d1f2fd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780537639-0-0-636194aac812a86ec0398d0579bed2b9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-602153_lsd.flv?auth_key=1780537639-0-0-822b56f554fdc5cbaf830383d82f423a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780537639-0-0-0c0b941729cc42a03473f43a9e2bc329
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-372746_lsd.flv?auth_key=1780537639-0-0-63d2aa40896c985d87a06d69c781a3aa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/222b73c84640da05923faa8f8ea00b78.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham Legion vs Louisville City FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1780537639-0-0-ad753edc0faf6b61e8e4ffaba5632096
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c3c17ec375bc22a7138c863ee91a3858.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Birmingham vs Louisville City FC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/148473597548cd3c6b978ff36f00cce3.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:00 WIB] 04/06 Ke cuop Virginia vs Loudoun United FC 2 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/90725470.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260602/84c0eb9d5b7a71ca63804172a2e4c5c8.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 07:30 WIB] 04/06 San Antonio Spurs vs New York Knicks (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1780536919-0-0-bc8ffba5350e9050caf2ecf1b17d3027
@@ -9032,18 +9060,6 @@ https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1780537279-0-0-d87
 https://live05.msdht.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780536559-0-0-a7e5e6aa88d2f18db528e3984002b165
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780536559-0-0-76e63d30dc955b766749a2ee2ef5a0d6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780536564-0-0-291f8c84f319f4cb1561ff8bde2e93c4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780536564-0-0-705cc3c7f4d2f9539b30f7afbc859f80
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912110_lsd.flv?auth_key=1780536919-0-0-82ce7fa5e08a0147fbacddc883cf778d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
@@ -9060,6 +9076,24 @@ https://pull.niur.live/live/stream-414317_lsd.flv?txSecret=a5bb2d7325cd3d0c07f1e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=a5bb2d7325cd3d0c07f1ed7b0f26c3cc&txTime=6a211ca7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1780537639-0-0-717c6098621859182abb755804c101fb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1780537639-0-0-d2dbefa385a0dee1d7bc1dc37e99b069
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912091_lsd.flv?auth_key=1780537639-0-0-26d9629188008d9de3b4ecd2c1c9b3a4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780537639-0-0-3ab665c92a822a7c142eae3f080e0a7a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-494201_lsd.flv?auth_key=1780537639-0-0-90879f2f2608a6d32ab6ec7669adda39
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260531/7e80e45fde6b4a300890b7bd5f86060c.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",08:00 WIB 04/06 South Korea vs El Salvador (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780537639-0-0-e22c2de58f149e38bd44a23c382663db
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: TOUT - Cote d'Ivoire U23 vs Venezuela U20 (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780536919-0-0-b5fffc4d5e3b8a6de483f33c4d3e1206
