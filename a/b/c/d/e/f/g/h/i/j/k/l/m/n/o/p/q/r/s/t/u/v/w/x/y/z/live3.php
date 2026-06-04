@@ -1,53 +1,53 @@
 #EXTM3U
-# Generated Thu Jun  4 14:41:02 2026
+# Generated Thu Jun  4 14:48:12 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 04-06-2026 21:40:54 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 04-06-2026 21:47:58 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Uzbekistan Pro League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d1c210e7812018bc61fab58e233a4730.png",📁😈Shurtan Guzor😈 [🆚] 😈Metallurg Bekobod [LIVE]😈📁
 https://tv.streamhy.com/live/5005638.m3u8?expire=1780597935&sign=52380741baccc71a134d527d407ed135
 #EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [LIVE]😈📁
-https://tv.streamhy.com/live/5005350.m3u8?expire=1780597972&sign=de779c42884f21b98ae631a56a64f3ee
+https://tv.streamhy.com/live/5005647.m3u8?expire=1780597864&sign=e2fffd0ec5892b33a6b2885c524e0aa8
 #EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [LIVE]😈📁
 https://tv.streamhy.com/live/5005414.m3u8?expire=1780598055&sign=4b6905cc3416db440cd4b533ba7dd336
 #EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [LIVE]😈📁
-https://tv.streamhy.com/live/5005649.m3u8?expire=1780598338&sign=b613e3b6751a172d137b921827aa9cb7
-#EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [LIVE]😈📁
-https://tv.streamhy.com/live/5005342.m3u8?expire=1780596417&sign=0784d225affcbe370c58d12e2d4be08c
-#EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [LIVE]😈📁
 https://tv.streamhy.com/live/5005648.m3u8?expire=1780598199&sign=b3d69fdd026bacdb9c8bb5e2bd490475
 #EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [LIVE]😈📁
-https://tv.streamhy.com/live/5005461.m3u8?expire=1780594864&sign=ca216ef0fa6975e023dde503ae73d91e
+https://tv.streamhy.com/live/5005461.m3u8?expire=1780598468&sign=64e0af1ee15b7bf42f11965ce6596e77
+#EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [LIVE]😈📁
+https://tv.streamhy.com/live/5005649.m3u8?expire=1780598338&sign=b613e3b6751a172d137b921827aa9cb7
 #EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [LIVE]😈📁
 https://tv.streamhy.com/live/5005646.m3u8?expire=1780597122&sign=ec38a8ff4be4cb60bbdea8bf6a5ce568
 #EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [LIVE]😈📁
-https://tv.streamhy.com/live/5005647.m3u8?expire=1780597864&sign=e2fffd0ec5892b33a6b2885c524e0aa8
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Slovenia😈 [🆚] 😈Cyprus [79m]😈📁
+https://tv.streamhy.com/live/5005350.m3u8?expire=1780597972&sign=de779c42884f21b98ae631a56a64f3ee
+#EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Timor Leste U19😈 [🆚] 😈Indonesia U19 [LIVE]😈📁
+https://tv.streamhy.com/live/5005342.m3u8?expire=1780596417&sign=0784d225affcbe370c58d12e2d4be08c
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Slovenia😈 [🆚] 😈Cyprus [71m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544870
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Burundi😈 [🆚] 😈Equatorial Guinea [79m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Burundi😈 [🆚] 😈Equatorial Guinea [71m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544877
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Northern Ireland😈 [🆚] 😈Guinea [79m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Northern Ireland😈 [🆚] 😈Guinea [71m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544879
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Sweden😈 [🆚] 😈Greece [139m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Sweden😈 [🆚] 😈Greece [131m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541822
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Andorra😈 [🆚] 😈Liechtenstein [139m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Andorra😈 [🆚] 😈Liechtenstein [131m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544872
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Spain😈 [🆚] 😈Iraq [259m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Spain😈 [🆚] 😈Iraq [251m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541785
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈France😈 [🆚] 😈Cote d'Ivoire [269m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈France😈 [🆚] 😈Cote d'Ivoire [261m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4515381
-#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈AS FAR Rabat😈 [🆚] 😈DHJ Difaa Hassani Jadidi [319m]😈📁
+#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈AS FAR Rabat😈 [🆚] 😈DHJ Difaa Hassani Jadidi [311m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544182
-#EXTINF:-1 group-title="📁😈 CFA Member Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2dab9bf127c0542fd6937a781ae85624.png",📁😈Macau U23😈 [🆚] 😈Canton United [949m]😈📁
+#EXTINF:-1 group-title="📁😈 CFA Member Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2dab9bf127c0542fd6937a781ae85624.png",📁😈Macau U23😈 [🆚] 😈Canton United [941m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4519696
-#EXTINF:-1 group-title="📁😈 CFA Member Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2dab9bf127c0542fd6937a781ae85624.png",📁😈Guangdong Chenxingjuli😈 [🆚] 😈Jiangsu Anbest [1129m]😈📁
+#EXTINF:-1 group-title="📁😈 CFA Member Champions League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2dab9bf127c0542fd6937a781ae85624.png",📁😈Guangdong Chenxingjuli😈 [🆚] 😈Jiangsu Anbest [1121m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4519689
-#EXTINF:-1 group-title="📁😈 National Premier Leagues Victoria 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",📁😈Bentleigh greens😈 [🆚] 😈Hume City [1188m]😈📁
+#EXTINF:-1 group-title="📁😈 National Premier Leagues Victoria 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",📁😈Bentleigh greens😈 [🆚] 😈Hume City [1181m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4476118
-#EXTINF:-1 group-title="📁😈 Korean K League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png",📁😈Seongnam FC😈 [🆚] 😈Gimhae City [1188m]😈📁
+#EXTINF:-1 group-title="📁😈 Korean K League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png",📁😈Seongnam FC😈 [🆚] 😈Gimhae City [1181m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4481108
-#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Colombia U19😈 [🆚] 😈China U19 [1338m]😈📁
+#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Colombia U19😈 [🆚] 😈China U19 [1331m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4527097
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Indonesia😈 [🆚] 😈Oman [1338m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Indonesia😈 [🆚] 😈Oman [1331m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544882
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Georgia😈 [🆚] 😈Bahrain [1518m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Georgia😈 [🆚] 😈Bahrain [1511m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544837
