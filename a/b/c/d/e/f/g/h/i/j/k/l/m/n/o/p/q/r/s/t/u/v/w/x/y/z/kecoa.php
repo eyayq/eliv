@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [06.08 WIB 05/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [06.18 WIB 05/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 2j 51m 09:00 WIB 05/06/26] Mexico vs Serbia",[UPCOMING 2j 51m 09:00 WIB 05/06/26] Mexico vs Serbia (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 2j 41m 09:00 WIB 05/06/26] Mexico vs Serbia",[UPCOMING 2j 41m 09:00 WIB 05/06/26] Mexico vs Serbia (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 12j 21m 18:30 WIB 05/06/26] Singapore vs China",[UPCOMING 12j 21m 18:30 WIB 05/06/26] Singapore vs China (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 12j 11m 18:30 WIB 05/06/26] Singapore vs China",[UPCOMING 12j 11m 18:30 WIB 05/06/26] Singapore vs China (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 16j 51m 23:00 WIB 05/06/26] Georgia vs Bahrain",[UPCOMING 16j 51m 23:00 WIB 05/06/26] Georgia vs Bahrain (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 16j 41m 23:00 WIB 05/06/26] Georgia vs Bahrain",[UPCOMING 16j 41m 23:00 WIB 05/06/26] Georgia vs Bahrain (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 17j 21m 23:30 WIB 05/06/26] Slovakia vs Montenegro",[UPCOMING 17j 21m 23:30 WIB 05/06/26] Slovakia vs Montenegro (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 17j 11m 23:30 WIB 05/06/26] Slovakia vs Montenegro",[UPCOMING 17j 11m 23:30 WIB 05/06/26] Slovakia vs Montenegro (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
