@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:26 WIB 04/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:26 WIB 04/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:32 WIB 04/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:32 WIB 04/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[11:30 WIB 04/06/26] POLYTRON Indonesia Open 2026 [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[11:30 WIB 04/06/26] POLYTRON Indonesia Open 2026 [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[11:30 WIB 04/06/26] POLYTRON Indonesia Open 2026 [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[14:00 WIB 04/06/26] Séc vs Ba Lan [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -73,15 +64,6 @@ https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[18:00 WIB 04/06/26] Trung Quốc vs Thái Lan [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114456/football_dx4kvx.png" group-title="Giao Hữu",[18:00 WIB 04/06/26] Maldives vs Pakistan [FHD] [NANTIKAN]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114456/football_dx4kvx.png" group-title="Giao Hữu",[18:00 WIB 04/06/26] Maldives vs Pakistan [HD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114456/football_dx4kvx.png" group-title="Giao Hữu",[18:00 WIB 04/06/26] Maldives vs Pakistan [SD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[18:30 WIB 04/06/26] Belgium U17 vs France U17 [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
