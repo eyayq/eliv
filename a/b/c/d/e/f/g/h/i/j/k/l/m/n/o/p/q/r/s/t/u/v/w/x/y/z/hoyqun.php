@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:55 WIB 04/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:55 WIB 04/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:02 WIB 04/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:02 WIB 04/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[22:00 WIB 04/06/26] Diana Shnaider vs Maja Chwalińska [FHD] [LIVE]
@@ -19,15 +19,6 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 04/06/26] Northern Ireland vs Guinea [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/35.png" group-title="Asian Cup - Qualification",[23:00 WIB 04/06/26] Lebanon vs Yemen [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/35.png" group-title="Asian Cup - Qualification",[23:00 WIB 04/06/26] Lebanon vs Yemen [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/35.png" group-title="Asian Cup - Qualification",[23:00 WIB 04/06/26] Lebanon vs Yemen [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 04/06/26] Slovenia vs Cyprus [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -127,6 +118,15 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[09:00 WIB 05/06/26] Mexico vs Serbia [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[09:00 WIB 05/06/26] POLYTRON Indonesia Open 2026 [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[09:00 WIB 05/06/26] POLYTRON Indonesia Open 2026 [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[09:00 WIB 05/06/26] POLYTRON Indonesia Open 2026 [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="ASEAN Championship U19",[16:00 WIB 05/06/26] Brunei U19 vs Malaysia U19 [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
