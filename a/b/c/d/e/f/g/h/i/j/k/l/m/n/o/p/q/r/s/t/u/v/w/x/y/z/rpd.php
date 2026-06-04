@@ -1,105 +1,111 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.23 WIB 05/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.29 WIB 05/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 1",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1780568567-0-0-45133b6d8449a14e5c5a88d7063cfebf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 2",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1780568567-0-0-45133b6d8449a14e5c5a88d7063cfebf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 3",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 4",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=d9449b75e447977d9147194e935cbbc1&txTime=6a2231af
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780608379-0-0-c3a8d0ee2f98425a718fe04f02db0c90
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 5",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=ad07232ecf2bf2f62ccc1d7471966bf6&txTime=6a2231af
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780608379-0-0-ab30d1f5eca5345119194ceb3fd7b5d4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 6",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780607839-0-0-3c0fe716b0ac680c8f3f6852d864eb9d
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=a8afdaa042c37b85b9eb50981e511bdb&txTime=6a2233cb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 7",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780607839-0-0-132d9f5e5c01fcf263c7f0b35d7a8448
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=13938239bfdb323a807aa69ca0bfa356&txTime=6a2233cb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 8",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780607839-0-0-e87bd954b4296c7a60568bb4932ac553
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780608379-0-0-35e7b2bcf63d7aa3f65a02b7d6bf63e6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 9",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780607839-0-0-9113153a031fcc4bdca888d56e4691cd
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780608379-0-0-f6d4a8433b5d21fca6896a0e12348201
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 10",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780607839-0-0-20865b193cc305c5c17b84b8bfceef9a
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780608379-0-0-d2ef4ea568f8305205b73957c9b6ff77
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 11",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780607839-0-0-7af2fab190c77edf790d9b7fa93bbaa4
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780608379-0-0-5a6a978e8476df578579ece80d31538b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 12",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780607839-0-0-739ca68ef084216a9e14017f5db9fb6d
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780608379-0-0-c918b6b3269b588c9b5d78d39df23339
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 13",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780607839-0-0-7e45b6eedbbb3915729c528da8864dc8
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780608379-0-0-1821edc2494cf304a3971a371114806a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 14",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780607839-0-0-aff05956478976ab6b714cfe57f10cee
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780608379-0-0-ba10b117dcf9acf25af9757f2b7e9a77
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 15",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780607839-0-0-689322b3d7dcd7fcf65acbcd90c419b1
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780608379-0-0-751542eda63090b10f6af1cd6f785888
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 16",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 16 (SVR-BHNS 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 17",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 17 (SVR-BHNS 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 18",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 18 (SVR-BHNS 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/spain-1747d4.png" group-title="[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 19",[LIVE 02:00 WIB 05/06/26] Spain vs Iraq | Server 19 (SVR-BHNS 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sao-luis-ma-cc0e77.png" group-title="[LIVE 02:10 WIB 05/06/26] Sao Luis MA vs Tupan MA | Server 1",[LIVE 02:10 WIB 05/06/26] Sao Luis MA vs Tupan MA | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 1",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780607839-0-0-adf2364610ac0889448c658969372c26
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780608379-0-0-15cc1f022bd60315e59a8c46480c173f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 2",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780607839-0-0-c8c9c5d9c9649a34631da47ba03d141b
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780608379-0-0-f2e13447a30117088b59601b70cd2278
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 3",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780607839-0-0-f30c889a25add3e2fa93e7a3b4bf8268
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780608379-0-0-a3879496668dd5e8e1511d63e8e88225
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 4",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780607839-0-0-0cc9a3d901d89948a6d7f9307e0a72f3
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780608379-0-0-2f02721b2bf2994e9a26c43fb5fd2d11
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 5",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780607839-0-0-f7e3e5487d76ee7655df3fe399f46029
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780608379-0-0-4af50e21e980668eb35026a1e3757bcd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 6",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780607839-0-0-c905151b75002fb91400fae5624e9c17
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780608379-0-0-91b4d71cb676e8d270f24e0b408a19df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 7",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780607839-0-0-761aab303cd7826f7ed0e55d18101131
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1780608379-0-0-c8b49ef6e1652ae51790763b99581e79
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 8",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780607839-0-0-22845d5038df7b577245c2c2f9500390
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1780608379-0-0-b121b06e967900684ee8bd63d6724b6d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 9",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780607839-0-0-ae8ced0cd24bda7d257411da4757d6ac
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1780608379-0-0-9044091575af1828a624483dbe76160c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 10",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780607839-0-0-202a23b67b0997de6b60daf15bedb705
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1780608379-0-0-dcc245f7b8f93adb97899a9d0331f374
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 11",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780607839-0-0-111234b673036ba8a398aa6da6d9805f
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780608379-0-0-dc242b45adf2f5a28439d0aa1404d871
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 12",[LIVE 02:10 WIB 05/06/26] France vs Cote d'Ivoire | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780607839-0-0-e8daa0d1aa87d0ee7c6b22d616fa0e31
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780608379-0-0-dfa251a73c881f16bda8ffb6dc2837a9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/far-forces-armee-royales-16ca33.png" group-title="[LIVE 03:00 WIB 05/06/26] FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi | Server 1",[LIVE 03:00 WIB 05/06/26] FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/far-forces-armee-royales-16ca33.png" group-title="[LIVE 03:00 WIB 05/06/26] FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi | Server 2",[LIVE 03:00 WIB 05/06/26] FAR Forces Armee Royales vs DHJ Difaa Hassani Jadidi | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/millonarios-w-c238c7.png" group-title="[LIVE 03:30 WIB 05/06/26] Millonarios (W) vs Independiente Medellin (W) | Server 1",[LIVE 03:30 WIB 05/06/26] Millonarios (W) vs Independiente Medellin (W) | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/millonarios-w-c238c7.png" group-title="[LIVE 03:30 WIB 05/06/26] Millonarios (W) vs Independiente Medellin (W) | Server 2",[LIVE 03:30 WIB 05/06/26] Millonarios (W) vs Independiente Medellin (W) | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
