@@ -1,24 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [03:53 WIB 06/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [03:53 WIB 06/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [04:00 WIB 06/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [04:00 WIB 06/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:00 WIB 06/06/26] Angola vs Mauritania [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:00 WIB 06/06/26] Angola vs Mauritania [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:00 WIB 06/06/26] Angola vs Mauritania [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[02:30 WIB 06/06/26] Cộng hòa Dominicana vs Bulgaria [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[02:30 WIB 06/06/26] Cộng hòa Dominicana vs Bulgaria [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[02:30 WIB 06/06/26] Cộng hòa Dominicana vs Bulgaria [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[03:30 WIB 06/06/26] Ukraina vs Nhật Bản [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
