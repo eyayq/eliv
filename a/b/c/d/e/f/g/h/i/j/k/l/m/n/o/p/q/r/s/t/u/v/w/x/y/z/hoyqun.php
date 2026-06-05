@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:25 WIB 05/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:25 WIB 05/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:37 WIB 05/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:37 WIB 05/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="ASEAN Championship U19",[16:00 WIB 05/06/26] Brunei U19 vs Malaysia U19 [FHD] [LIVE]
@@ -29,13 +29,13 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[16:00 WIB 05/06/26] Đ [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[17:00 WIB 05/06/26] Kamatamare Sanuki vs Parceiro Nagano [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg" group-title="Giao Hữu",[17:00 WIB 05/06/26] fff [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[17:00 WIB 05/06/26] Kamatamare Sanuki vs Parceiro Nagano [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg" group-title="Giao Hữu",[17:00 WIB 05/06/26] fff [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[17:00 WIB 05/06/26] Kamatamare Sanuki vs Parceiro Nagano [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg" group-title="Giao Hữu",[17:00 WIB 05/06/26] fff [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/K_League_2_logo.svg" group-title="K League 2",[17:30 WIB 05/06/26] Daegu FC vs Paju Citizen [FHD] [NANTIKAN]
