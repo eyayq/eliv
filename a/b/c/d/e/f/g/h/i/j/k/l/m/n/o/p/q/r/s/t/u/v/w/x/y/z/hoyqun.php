@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:43 WIB 05/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:43 WIB 05/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:50 WIB 05/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:50 WIB 05/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="ASEAN Championship U19",[16:00 WIB 05/06/26] Brunei U19 vs Malaysia U19 [FHD] [LIVE]
@@ -209,6 +209,24 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[08:00 WIB 06/06/26] Việt Nam vs Liban  [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[12:00 WIB 06/06/26] Yokohama FC vs Renofa Yamaguchi [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[12:00 WIB 06/06/26] Yokohama FC vs Renofa Yamaguchi [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[12:00 WIB 06/06/26] Yokohama FC vs Renofa Yamaguchi [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 06/06/26] FC Tokyo vs Cerezo Osaka [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 06/06/26] FC Tokyo vs Cerezo Osaka [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/J.League.svg/960px-J.League.svg.png" group-title="J1 League",[12:00 WIB 06/06/26] FC Tokyo vs Cerezo Osaka [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[14:00 WIB 06/06/26] Iran vs Indonesia [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
@@ -235,6 +253,15 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[17:00 WIB 06/06/26] Vanuatu vs Fiji [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[17:00 WIB 06/06/26] Sagan Tosu vs Shonan Bellmare [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[17:00 WIB 06/06/26] Sagan Tosu vs Shonan Bellmare [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[17:00 WIB 06/06/26] Sagan Tosu vs Shonan Bellmare [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[18:30 WIB 06/06/26] Myanmar vs Guam [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
@@ -272,6 +299,15 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/849.png" group-title="Baltic Cup",[20:00 WIB 06/06/26] Lithuania vs Latvia [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="ASEAN Championship U19",[20:00 WIB 06/06/26] Cambodia U19 vs Philippines U19 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="ASEAN Championship U19",[20:00 WIB 06/06/26] Cambodia U19 vs Philippines U19 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="ASEAN Championship U19",[20:00 WIB 06/06/26] Cambodia U19 vs Philippines U19 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[21:30 WIB 06/06/26] Kyrgyzstan vs Palestine [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
@@ -280,6 +316,15 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[21:30 WIB 06/06/26] Kyrgyzstan vs Palestine [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/893.png" group-title="UEFA U19 Championship - Qualification",[22:00 WIB 06/06/26] Portugal U19 vs Greece U19 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/893.png" group-title="UEFA U19 Championship - Qualification",[22:00 WIB 06/06/26] Portugal U19 vs Greece U19 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/893.png" group-title="UEFA U19 Championship - Qualification",[22:00 WIB 06/06/26] Portugal U19 vs Greece U19 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 06/06/26] Armenia vs Kazakhstan [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
