@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:18 WIB 05/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:18 WIB 05/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:25 WIB 05/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:25 WIB 05/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhcuuaO12hBCzXywdBPxGfAgCGS4mEMiDBg&s" group-title="AOM Challenge Race",[17:00 WIB 05/06/26] fff [FHD] [LIVE]
@@ -29,22 +29,22 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[21:30 WIB 05/06/26] Liquid vs Flyquest [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Georgia vs Bahrain [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Georgia vs Bahrain [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Georgia vs Bahrain [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Georgia vs Bahrain [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Georgia vs Bahrain [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Georgia vs Bahrain [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Belarus vs Syria [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Belarus vs Syria [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Belarus vs Syria [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Belarus vs Syria [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Belarus vs Syria [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[23:00 WIB 05/06/26] Belarus vs Syria [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/880.png" group-title="World Cup - Women - Qualification Europe",[23:00 WIB 05/06/26] Austria W vs Slovenia W [FHD] [NANTIKAN]
@@ -57,13 +57,13 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[00:00 WIB 06/06/26] Matteo Arnaldi vs Flavio Cobolli [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[00:00 WIB 06/06/26] Matteo Arnaldi vs Flavio Cobolli [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[00:00 WIB 06/06/26] Matteo Arnaldi vs Flavio Cobolli [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[00:00 WIB 06/06/26] Moldova vs Bulgaria [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
