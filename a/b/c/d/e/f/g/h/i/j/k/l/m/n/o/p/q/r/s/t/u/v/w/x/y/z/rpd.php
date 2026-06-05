@@ -1,150 +1,138 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.47 WIB 06/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.56 WIB 06/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-women-e683c1.png" group-title="[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 1",[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=6d9d9c67aaec59338521bf263452829e&txTime=6a236156
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-women-e683c1.png" group-title="[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 2",[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=d6c6d83dc39ca9d64fb2348ee645847a&txTime=6a236156
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-women-e683c1.png" group-title="[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 3",[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ffc830dd757681e07f0019f244dd184e&txTime=6a236170
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-women-e683c1.png" group-title="[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 4",[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=52d1b4be99504944b8ce5598b3995d6b&txTime=6a236170
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-women-3b1fc0.png" group-title="[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 1",[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780685600-0-0-4e3cead17771ec31354b71c5d1d9487b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-women-3b1fc0.png" group-title="[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 2",[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780685600-0-0-577ae4bfcda4b729c96ab48d01678914
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-women-3b1fc0.png" group-title="[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 3",[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=36a9c1cabf1fcf2329b3e4edc43f89ff&txTime=6a236170
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-women-3b1fc0.png" group-title="[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 4",[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=351bb3f3d496ab6856642662abd53141&txTime=6a236170
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 1",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780685600-0-0-2f30b5ad88a6e6a9545ddae4d2b066e0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 2",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780685600-0-0-768ac3cef28a8340f68684561ee77f0d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 3",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780685599-0-0-5fe8c58d188dfc84deffb468fe31c76a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 4",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780685599-0-0-8ce507171317352ea7dde372aaa4a3cc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 5",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=95d07dae193f4765f8daea0332f10d81&txTime=6a23616f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 6",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=0ec686128c945664f89f819daa51b945&txTime=6a23616f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 7",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780685600-0-0-4f06e31b5a690387775fc67a78a40765
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 8",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780685600-0-0-9008fa9989078dff3c6bac9b10ac8f03
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 1",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780685600-0-0-ed9a6ad97bccb891c932f7b2f6899533
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 2",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780685600-0-0-74d6df27f3106e915dc3ebff74e20ca2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 3",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=1cf96903800ddea4b2a1041efcb005d6&txTime=6a23616f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 4",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=7927efda6d75aa6c2250d441d0dec1da&txTime=6a23616f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 5",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780685600-0-0-2537a39a5da7eb6181ce02ce470c8e97
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 6",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780685600-0-0-717d2db8cb8a221737c37588f725eb04
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 7",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 3",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780684880-0-0-a5b41a5d4da76811d7fbce76009e829e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 4",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780684880-0-0-bc20014b6e9c22857dc0fba807034156
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 5",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1780684880-0-0-3fe95dfdd9dde8e1c8782eb4ab501556
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 6",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1780684880-0-0-a318fbaef36dc5c9b34e2c99c9058ba4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 7",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780684880-0-0-faafea79dde3c3029a5cc443888c97cc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 8",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780684880-0-0-1b4e06374cf7bf4c679e310f42056e82
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 9",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=50c4fd29dd37a59f7bce288c958c392a&txTime=6a235e9f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/belarus-f9bcd9.png" group-title="[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 10",[LIVE 23:00 WIB 05/06/26] Belarus vs Syria | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=410e2285383da1b060efb7bfcc2ecc12&txTime=6a235e9f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 1",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780685600-0-0-4f0fb77b32b2227f57ed65f33ae5806d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 2",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780685600-0-0-97994d870fbc2f9cb6f278eb55bd4f9d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 3",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780684880-0-0-76e61d85341bacac60864e5f26cdbd9c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780685599-0-0-41a6b835cf7e4c1be72d49b10e08386c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 4",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780684880-0-0-e2c0f0ce35d78960e5bd3ef73a9b5ff5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780685599-0-0-c86f24825377b1333103942fd472e5dc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 5",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1780684880-0-0-37c6bc6cce86eb6e5b5dd3f9025be42c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1780685600-0-0-ced2053b689620a8303a95e048d119cc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 6",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1780684880-0-0-494b34f78f3ba7e2193cd01c974a300f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1780685600-0-0-bcf381b86cf2dfc60f030463ea65c9fc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 7",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1780684879-0-0-93a431c7dfc2a86e0bd9dc871d8d8bad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780685616-0-0-cf56f0aa89f10eb098128c4dcf2c5623
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 8",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1780684879-0-0-e7eae4bf49df9de1b06f899bf5a7abf5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780685616-0-0-3045c4f26acfdb409734bab978356d2e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 9",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1780684879-0-0-b9f565cdb41e3d3cfa9c0ba716a8dc46
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780685599-0-0-cc0191da6815fbaa090336141d1f0086
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 10",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1780684879-0-0-4b62d7cfc511a3c806547b9239179294
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 11",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1780684879-0-0-a719a97bc77478a227fa96ab3bb50c2a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/georgia-c0cdd8.png" group-title="[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 12",[LIVE 23:00 WIB 05/06/26] Georgia vs Bahrain | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780684879-0-0-483c39d4d4cc476b7f89862df99735b5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1780685599-0-0-8cba6630f51497261fd1b27a53c475b7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/käpylän-pallo-4b8197.png" group-title="[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 1",[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780685594-0-0-257aa85bb039dd018aa26d2823e966d9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/käpylän-pallo-4b8197.png" group-title="[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 2",[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780685594-0-0-96d117ad4483ce92880c4eaedb096499
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/käpylän-pallo-4b8197.png" group-title="[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 3",[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780685465-0-0-17838b043e04da4a5657c3617c9a0e61
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/käpylän-pallo-4b8197.png" group-title="[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 4",[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780685465-0-0-d234d8530739217e7fc59e1cd15a44dc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-w-032247.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland (W) vs France (W) | Server 1",[LIVE 23:00 WIB 05/06/26] Poland (W) vs France (W) | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-w-032247.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland (W) vs France (W) | Server 2",[LIVE 23:00 WIB 05/06/26] Poland (W) vs France (W) | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-women-e683c1.png" group-title="[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 1",[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=2bd7231fe415bffb13d627b5e73a7531&txTime=6a235ea0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-women-e683c1.png" group-title="[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 2",[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8a80c5cbfb1ee865d86a64ca7ebd7c45&txTime=6a235ea0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-women-e683c1.png" group-title="[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 3",[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=85bfb9f8c75e0484fd41fe249b9f6476&txTime=6a235e9f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/austria-women-e683c1.png" group-title="[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 4",[LIVE 23:00 WIB 05/06/26] Austria Women vs Slovenia Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=8ca64ba65622dbb435485edd8804e97b&txTime=6a235e9f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-women-3b1fc0.png" group-title="[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 1",[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1780684880-0-0-a27d55fe08adc39ff8c486db7f1b8673
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-women-3b1fc0.png" group-title="[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 2",[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1780684880-0-0-a5310007e64bd30212944b7d4e40ae95
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-women-3b1fc0.png" group-title="[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 3",[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=17bc136972b001e79dfd4d340a2866bb&txTime=6a235ea0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ukraine-women-3b1fc0.png" group-title="[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 4",[LIVE 23:00 WIB 05/06/26] Ukraine Women vs Iceland Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=fc098b75a01caf9763227666ff365dea&txTime=6a235ea0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 1",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1780684880-0-0-037d856f00f29c671cf0e1e96b7f632a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 2",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1780684880-0-0-fb1249c4b0a99ca5c33a7b978a03487d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 3",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1780684880-0-0-017ab21c71604fc7019d38544f7d1a8f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 4",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1780684880-0-0-bae0d7751c2cd8bf119334232531563b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 5",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1780684879-0-0-7c6847661b1fdc83093c2f590c5f6ee0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 6",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1780684879-0-0-722ced5fac167a0f27172fda03e47496
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 7",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=56f91afb5d170cef2f73f530ea879572&txTime=6a235e9f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-45410b.png" group-title="[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 8",[LIVE 23:00 WIB 05/06/26] Poland Women vs France Women | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=e0928e5f9547eca7d9045c8991fc45cc&txTime=6a235e9f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/käpylän-pallo-4b8197.png" group-title="[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 1",[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1780684879-0-0-8e2b1c7a6a2f8f3cd00825cb06449637
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/käpylän-pallo-4b8197.png" group-title="[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 2",[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1780684879-0-0-26dfc158fb2ad2e49a7fb525652448bb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/käpylän-pallo-4b8197.png" group-title="[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 3",[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1780684879-0-0-a49b2268cabddcee2a976de10ac84ecb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/käpylän-pallo-4b8197.png" group-title="[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 4",[LIVE 23:00 WIB 05/06/26] Käpylän Pallo vs KTP Kotka | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1780684879-0-0-ba36b95d4dfe5fa8d556d6a5b4a639db
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/italy-women-a8b469.png" group-title="[LIVE 23:15 WIB 05/06/26] Italy Women vs Serbia Women | Server 1",[LIVE 23:15 WIB 05/06/26] Italy Women vs Serbia Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780684880-0-0-f927d506cb3c2df51afacdd4a200a36c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780685600-0-0-41b250a520f959755e97906e25957e3e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/italy-women-a8b469.png" group-title="[LIVE 23:15 WIB 05/06/26] Italy Women vs Serbia Women | Server 2",[LIVE 23:15 WIB 05/06/26] Italy Women vs Serbia Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780684880-0-0-37f0cf895478acbfce7901b2fbe64f7f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780685600-0-0-c5ffd0f8ddce6118948de15c9cca2cde
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/italy-women-a8b469.png" group-title="[LIVE 23:15 WIB 05/06/26] Italy Women vs Serbia Women | Server 3",[LIVE 23:15 WIB 05/06/26] Italy Women vs Serbia Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1780684880-0-0-66db0c630392b46750b03a5c0426f056
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1780685600-0-0-9854ba3f18f94d5615771943dacc1452
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/italy-women-a8b469.png" group-title="[LIVE 23:15 WIB 05/06/26] Italy Women vs Serbia Women | Server 4",[LIVE 23:15 WIB 05/06/26] Italy Women vs Serbia Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1780684880-0-0-06759df687a39abdbb6c0a2e23bb18e6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1780685600-0-0-16948a13bfb04d5bc840e49cdfa8b4bd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/italy-w-8cbd81.png" group-title="[LIVE 23:15 WIB 05/06/26] Italy (W) vs Serbia (W) | Server 1",[LIVE 23:15 WIB 05/06/26] Italy (W) vs Serbia (W) | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
@@ -152,161 +140,176 @@ https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 1",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780685599-0-0-14de45b497b7bc847fc7dcc27dc8cd43
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 2",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780685599-0-0-2aef15a793b23a6855ae639a62ceef25
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 3",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780685600-0-0-68f7961dc851b0b6623426b872cc25ba
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 4",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780685600-0-0-817cd527d8118eb4f8f68644e5155e94
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 5",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780685600-0-0-46ae469715cb472bc80e7ef9e2835679
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 6",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780685600-0-0-2a980d97de26c8ceab1b4942f2fa9dfc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 7",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780685599-0-0-34efa6423e5fc2cb315fbc3d66c1fd62
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 8",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780685599-0-0-dd1b6e586d830a6e8039a18b59f5e4aa
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 9",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 3",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1780684879-0-0-b5966cd97a600170c6a1ae7261b79852
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 4",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1780684879-0-0-376709510d2229ccd9c7cdc5af8db25a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 5",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1780684880-0-0-c78a500671ad327247c00b1208bef588
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 6",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1780684880-0-0-5735b7fdbea42cad88fee8bf2b287020
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 7",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1780684880-0-0-350160a03dfdf93c404e708187bc98dc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 8",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1780684880-0-0-90bd938700fd5e096044a1161a550c21
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 9",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1780684879-0-0-933c86441ab60ac5f99c2a444e476147
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/slovakia-f64a39.png" group-title="[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 10",[LIVE 23:30 WIB 05/06/26] Slovakia vs Montenegro | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1780684879-0-0-21cb025103edaca8c0bd54bedc55ff7f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 1",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780685600-0-0-2353451cdcc913df642ea757c11ef2c6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 2",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780685600-0-0-ad8d5905e01c1187caf8105d2f49a9b2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 3",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780685600-0-0-ec9a26356ac04b7394d69098e5f5029a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 4",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780685600-0-0-ccb694c7129900309a356bff31a3ad35
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 5",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1780685600-0-0-ed7d2ae22353f8af6a6ebe1c5b4c5947
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 6",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780685600-0-0-3ad65c7d2ea2f0990674abd9413f869b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 7",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 2",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 2 (SVR-BHNS 2)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 8",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 3",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1780684880-0-0-40770babbc01742c5e28117b6821a9c6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 4",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1780684880-0-0-da8f6426124d8d88211b4fe45973c83b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 5",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1780684880-0-0-b59b87b52c93245bcf7a315f22916270
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 6",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1780684880-0-0-7ea4945ffa67dcb99227826c57060e06
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 7",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1780684880-0-0-fc33a9d174597a238eb485a2bb0af4b5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/saudi-arabia-u21-6ceee5.webp" group-title="[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 8",[LIVE 23:30 WIB 05/06/26] Saudi Arabia U21 vs Tunisia U23 | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1780684880-0-0-85a42e459920ec780328807e80462910
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 00:00 WIB 06/06/26] San Marino vs Bangladesh | Server 1",[LIVE 00:00 WIB 06/06/26] San Marino vs Bangladesh | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1780685600-0-0-b75524cf9e806624ae839dc75c3e34ae
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 00:00 WIB 06/06/26] San Marino vs Bangladesh | Server 2",[LIVE 00:00 WIB 06/06/26] San Marino vs Bangladesh | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780685600-0-0-0b13032ba77790051aaaee97a45e0b54
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 00:00 WIB 06/06/26] San Marino vs Bangladesh | Server 3",[LIVE 00:00 WIB 06/06/26] San Marino vs Bangladesh | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 00:00 WIB 06/06/26] San Marino vs Bangladesh | Server 2",[LIVE 00:00 WIB 06/06/26] San Marino vs Bangladesh | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1780684880-0-0-6184bb86a943116e49749d44661911bd
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 00:00 WIB 06/06/26] San Marino vs Bangladesh | Server 3",[LIVE 00:00 WIB 06/06/26] San Marino vs Bangladesh | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1780684880-0-0-961bb0c7a5b6251ad11e353739e04e73
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 1",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780684879-0-0-8501798aeda01eee9c31f1f39ab7cc81
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780685599-0-0-554477792e893def2d9865a016f54dff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 2",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780684879-0-0-0d45e56d0a430de5ed3cdc16a3bece08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780685599-0-0-e2e9f07156ef4902fa0b5b6494ffa4d5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 3",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780684879-0-0-1edc7a27f2941e5938b565891f6cefc3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1780685599-0-0-a5bf8b535e4dc8b746896e14ab597656
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 4",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780684879-0-0-a5bb69320ca8b1f3d2924bf498aca5b0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1780685599-0-0-f0920a56eff0b69ae4eeebf137ce9bc4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 5",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1780684879-0-0-7f6dbaec1b599446e1dcc0a1adab2f4d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1780685599-0-0-c719d0029f1fdecd6b92222b17547c5e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 6",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1780684879-0-0-6fa0d8ebfcf7203e33ad3ec37b5a5491
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1780685599-0-0-4718d13804be1f960e56a1c54fd5c851
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 7",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780684880-0-0-4a54a11b4c26c457a2723bc9d29cba76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1780685599-0-0-d00900a8dfecb4fce510f5e74f6c0266
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 8",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780684880-0-0-d8d5648eaab2a23b283215750d0fa32c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1780685599-0-0-1e1e59c76f79f3a3c3600cbb9d160d89
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 9",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780684880-0-0-a5b41a5d4da76811d7fbce76009e829e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780685599-0-0-c0b151ad66c46dadb72f7fbff76a7591
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 10",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780684880-0-0-bc20014b6e9c22857dc0fba807034156
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780685599-0-0-f28fa593f828e876da32bbfbd154f47a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 11",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1780684879-0-0-d6762a0a0f477df6cf656e95531af74a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1780685600-0-0-bc17f1a5b0512689d3528bd20072d09a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/russia-1c625c.png" group-title="[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 12",[LIVE 00:00 WIB 06/06/26] Russia vs Burkina Faso | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1780684879-0-0-fd4c842cc349d9d20f8ce5d26ea6d506
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1780685600-0-0-a02f21fe356e980ee57ac3ee9d3896a0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moldova-9aefee.png" group-title="[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 1",[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780685599-0-0-3185fbb77acdf89be8567f197a9e0498
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moldova-9aefee.png" group-title="[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 2",[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780685599-0-0-6caea22ba71853eab26c722a02574e25
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moldova-9aefee.png" group-title="[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 3",[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moldova-9aefee.png" group-title="[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 2",[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 2 (SVR-BHNS 2)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moldova-9aefee.png" group-title="[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 4",[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moldova-9aefee.png" group-title="[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 3",[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1780684879-0-0-439c518fb960e1dd721a29691fac3c2a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/moldova-9aefee.png" group-title="[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 4",[LIVE 00:00 WIB 06/06/26] Moldova vs Bulgaria | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1780684879-0-0-5315dbc6f59ba5468108c7f0c173ed3b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-women-971bb5.png" group-title="[LIVE 00:15 WIB 06/06/26] Denmark Women vs Sweden Women | Server 1",[LIVE 00:15 WIB 06/06/26] Denmark Women vs Sweden Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=e65394833848ed40408ce61b512142c0&txTime=6a235e9f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=4dc3240268fdf3a799309494ceffab5b&txTime=6a23616f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-women-971bb5.png" group-title="[LIVE 00:15 WIB 06/06/26] Denmark Women vs Sweden Women | Server 2",[LIVE 00:15 WIB 06/06/26] Denmark Women vs Sweden Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=803b0fe452355d933436ef34b58952a8&txTime=6a235e9f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a624a553b2443b2be3872912fa580012&txTime=6a23616f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-women-971bb5.png" group-title="[LIVE 00:15 WIB 06/06/26] Denmark Women vs Sweden Women | Server 3",[LIVE 00:15 WIB 06/06/26] Denmark Women vs Sweden Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780684880-0-0-b989461788bda92b78550226446c92be
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1780685600-0-0-3347bd1b5030d7f5c1d299669ae81e1e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/denmark-women-971bb5.png" group-title="[LIVE 00:15 WIB 06/06/26] Denmark Women vs Sweden Women | Server 4",[LIVE 00:15 WIB 06/06/26] Denmark Women vs Sweden Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780684880-0-0-58f53a657496cb1289b9fff0b988202a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1780685600-0-0-5d13f36f0fcc5a49235cfffdec020155
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mc-alger-e7b86d.png" group-title="[LIVE 00:30 WIB 06/06/26] MC Alger vs ASO Chlef | Server 1",[LIVE 00:30 WIB 06/06/26] MC Alger vs ASO Chlef | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 1",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780685599-0-0-8f4dfdb8cd90e495ff53f5eaad6a8ee8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 2",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780685599-0-0-2523f47add43d2a268172f54f4f74d0f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 3",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780685599-0-0-6797d94741255098d0b6bcd43c4a7458
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 4",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780685599-0-0-a8fa53a067a2c51e2e74475083df2a09
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 5",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780685599-0-0-1797ff07f28c5282e3033d891cfd62f2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 6",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780685599-0-0-f394d80718be8061f9c963371a76e5b2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 7",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780685599-0-0-f201b22b012b9752fd668e695be9e6cf
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 8",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780685599-0-0-6897b3039cfca6d5c35b456a367cc821
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 9",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780685600-0-0-329e9049c552df10da174b086a259d19
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 10",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780685600-0-0-0bb52a0c2d40476c5e23160dc9b29f9c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 11",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 2",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1780684880-0-0-fa3aadbb45dca23407a091b89cb3f0a6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 3",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1780684880-0-0-3ef8abfd37eaf34490b4c8d2c77032cf
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 4",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1780684879-0-0-09cf27a094bc97e58edcd1a48a257224
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 5",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1780684879-0-0-89c8d9c97ebdf5c46835b5d11b76b43b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 6",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1780684858-0-0-4ba322d1836e26d8248a61045799f192
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 7",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1780684858-0-0-3bde54317c751db609fb26d78c05ffb5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 8",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1780684879-0-0-5d1b313b1f435152cbbfaefb26f7649c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 9",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1780684879-0-0-71e2ca057e272a3b876c0a5f7467caa0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 10",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612980_lsd.m3u8?auth_key=1780684880-0-0-34579645482bc473040e2bdac88d205f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/hungary-3b4bbc.png" group-title="[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 11",[LIVE 00:45 WIB 06/06/26] Hungary vs Finland | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612980_lhd.m3u8?auth_key=1780684880-0-0-7094bedd01e1b5b82e5f6c980eae9e73
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.png" group-title="[LIVE 01:00 WIB 06/06/26] Azerbaijan vs Malta | Server 1",[LIVE 01:00 WIB 06/06/26] Azerbaijan vs Malta | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=ffc830dd757681e07f0019f244dd184e&txTime=6a236170
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.png" group-title="[LIVE 01:00 WIB 06/06/26] Azerbaijan vs Malta | Server 2",[LIVE 01:00 WIB 06/06/26] Azerbaijan vs Malta | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=52d1b4be99504944b8ce5598b3995d6b&txTime=6a236170
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.png" group-title="[LIVE 01:00 WIB 06/06/26] Azerbaijan vs Malta | Server 3",[LIVE 01:00 WIB 06/06/26] Azerbaijan vs Malta | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1780685600-0-0-2537a39a5da7eb6181ce02ce470c8e97
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.png" group-title="[LIVE 01:00 WIB 06/06/26] Azerbaijan vs Malta | Server 4",[LIVE 01:00 WIB 06/06/26] Azerbaijan vs Malta | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.4212.1239 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1780685600-0-0-717d2db8cb8a221737c37588f725eb04
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/azerbaijan-620a71.png" group-title="[LIVE 01:00 WIB 06/06/26] Azerbaijan vs Malta | Server 5",[LIVE 01:00 WIB 06/06/26] Azerbaijan vs Malta | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
