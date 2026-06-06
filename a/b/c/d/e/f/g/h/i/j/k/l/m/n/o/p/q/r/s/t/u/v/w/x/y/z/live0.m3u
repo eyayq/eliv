@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 17:43:21 WIB 06-06-2026
-# 🔄 Total Channels: 4221
+# ⏰ Latest Updated: 17:49:56 WIB 06-06-2026
+# 🔄 Total Channels: 4218
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:43:21 WIB 06-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:49:56 WIB 06-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -60,7 +60,7 @@ https://live2.pro2cdnlive.com/live/channel6.m3u8
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkScttWAkMcq7lN6-MTP0uqU8nofS2UzeXjaM2qgLtog&s=10" group-title="LIVE EVENT",[Belum Mulai] 00:45 WIB Portugal vs Cili
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkScttWAkMcq7lN6-MTP0uqU8nofS2UzeXjaM2qgLtog&s=10" group-title="LIVE EVENT",00:45 WIB Portugal vs Cili
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -128,18 +128,6 @@ https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c9
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F38271_1hptaw83e41c.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",23:00   06/06 Olympique Akbou vs ES Ben Aknoun  PELE flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10378.png" group-title="Live Event: Hội quán",00:45 07/06 Romania vs Wales FHD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10378.png" group-title="Live Event: Hội quán",00:45 07/06 Romania vs Wales HD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10378.png" group-title="Live Event: Hội quán",00:45 07/06 Romania vs Wales SD Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="Live Event: Hội quán",00:45 07/06 Portugal vs Chile FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
