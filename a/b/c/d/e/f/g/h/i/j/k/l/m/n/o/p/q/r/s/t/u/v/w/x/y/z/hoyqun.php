@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:34 WIB 06/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:34 WIB 06/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:41 WIB 06/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:41 WIB 06/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-mien-phi/mau-thiet-ke-logo-billiard_23-2150883890.jpg" group-title="Giao Hữu",[17:00 WIB 06/06/26] Hoàng Sao vs Nguyễn Anh Tuấn [FHD] [LIVE]
@@ -47,15 +47,6 @@ https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[20:00 WIB 06/06/26] Maja Chwalińska vs Mirra Andreeva [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[20:30 WIB 06/06/26] Spirit vs BetBoom [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[20:30 WIB 06/06/26] Spirit vs BetBoom [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[20:30 WIB 06/06/26] Spirit vs BetBoom [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[21:00 WIB 06/06/26] Brazil vs Bulgaria [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 
@@ -74,13 +65,13 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[21:30 WIB 06/06/26] Kyrgyzstan vs Palestine [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/893.png" group-title="UEFA U19 Championship - Qualification",[22:00 WIB 06/06/26] Portugal U19 vs Greece U19 [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/893.png" group-title="UEFA U19 Championship - Qualification",[22:00 WIB 06/06/26] Portugal U19 vs Greece U19 [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/893.png" group-title="UEFA U19 Championship - Qualification",[22:00 WIB 06/06/26] Portugal U19 vs Greece U19 [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/893.png" group-title="UEFA U19 Championship - Qualification",[22:00 WIB 06/06/26] Portugal U19 vs Greece U19 [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/893.png" group-title="UEFA U19 Championship - Qualification",[22:00 WIB 06/06/26] Portugal U19 vs Greece U19 [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/893.png" group-title="UEFA U19 Championship - Qualification",[22:00 WIB 06/06/26] Portugal U19 vs Greece U19 [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[00:45 WIB 07/06/26] Romania vs Wales [FHD] [NANTIKAN]
