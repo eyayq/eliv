@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:54 WIB 06/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:54 WIB 06/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:01 WIB 06/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:01 WIB 06/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[18:30 WIB 06/06/26] POLYTRON Indonesia Open 2026 [FHD] [LIVE]
@@ -10,24 +10,6 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[18:30 WIB 06/06/26] POLYTRON Indonesia Open 2026 [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[20:00 WIB 06/06/26] Belgium vs Tunisia [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[20:00 WIB 06/06/26] Belgium vs Tunisia [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[20:00 WIB 06/06/26] Belgium vs Tunisia [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/849.png" group-title="Baltic Cup",[20:00 WIB 06/06/26] Lithuania vs Latvia [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/849.png" group-title="Baltic Cup",[20:00 WIB 06/06/26] Lithuania vs Latvia [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/849.png" group-title="Baltic Cup",[20:00 WIB 06/06/26] Lithuania vs Latvia [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUpib2P2l6KVPB-xBUJXIB_KsNqdfnyKUr0w&s" group-title="Roland Garros",[20:00 WIB 06/06/26] Maja Chwalińska vs Mirra Andreeva [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
