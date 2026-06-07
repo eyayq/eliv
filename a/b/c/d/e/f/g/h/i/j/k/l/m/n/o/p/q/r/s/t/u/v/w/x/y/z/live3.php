@@ -1,23 +1,23 @@
 #EXTM3U
-# Generated Sun Jun  7 09:43:10 2026
+# Generated Sun Jun  7 09:43:36 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Sunday 07-06-2026 16:42:56 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Sunday 07-06-2026 16:43:27 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 South Australia National Premier Leagues 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/077498aa221410ff314434a011e8d65f.png",📁😈West Adelaide SC😈 [🆚] 😈Adelaide United FC Youth [LIVE]😈📁
 https://tv.streamhy.com/live/5005321.m3u8?expire=1780837656&sign=f6a853f3ed09b0e791b640427baf89f5
 #EXTINF:-1 group-title="📁😈 South Australia National Premier Leagues 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/077498aa221410ff314434a011e8d65f.png",📁😈West Adelaide SC😈 [🆚] 😈Adelaide United FC Youth [LIVE]😈📁
-https://tv.streamhy.com/live/5005754.m3u8?expire=1780837924&sign=69be5bd26c1d5bce7aa68daadcc3c6f7
-#EXTINF:-1 group-title="📁😈 South Australia National Premier Leagues 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/077498aa221410ff314434a011e8d65f.png",📁😈West Adelaide SC😈 [🆚] 😈Adelaide United FC Youth [LIVE]😈📁
 https://tv.streamhy.com/live/5005436.m3u8?expire=1780837641&sign=97b75583a83bf9f08a5a00cd73d8f820
 #EXTINF:-1 group-title="📁😈 South Australia National Premier Leagues 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/077498aa221410ff314434a011e8d65f.png",📁😈West Adelaide SC😈 [🆚] 😈Adelaide United FC Youth [LIVE]😈📁
 https://tv.streamhy.com/live/5005450.m3u8?expire=1780837834&sign=d0426876d3adb8fd9a104742b49fca65
-#EXTINF:-1 group-title="📁😈 EAFF E-1 Women's Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/409234c008dfcd5ad8e8579fcbe5353b.png",📁😈Guam Women😈 [🆚] 😈Macao China Women [LIVE]😈📁
-https://tv.streamhy.com/live/5005312.m3u8?expire=1780836626&sign=7db8eeea385c3bd793749272458294e1
+#EXTINF:-1 group-title="📁😈 South Australia National Premier Leagues 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/077498aa221410ff314434a011e8d65f.png",📁😈West Adelaide SC😈 [🆚] 😈Adelaide United FC Youth [LIVE]😈📁
+https://tv.streamhy.com/live/5005754.m3u8?expire=1780837924&sign=69be5bd26c1d5bce7aa68daadcc3c6f7
 #EXTINF:-1 group-title="📁😈 EAFF E-1 Women's Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/409234c008dfcd5ad8e8579fcbe5353b.png",📁😈Guam Women😈 [🆚] 😈Macao China Women [LIVE]😈📁
 https://tv.streamhy.com/live/5005335.m3u8?expire=1780836749&sign=374403932f08d0be713296b0ea3fd54a
-#EXTINF:-1 group-title="📁😈 Korean K League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png",📁😈Cheonan City😈 [🆚] 😈Suwon Football Club [47m]😈📁
+#EXTINF:-1 group-title="📁😈 EAFF E-1 Women's Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/409234c008dfcd5ad8e8579fcbe5353b.png",📁😈Guam Women😈 [🆚] 😈Macao China Women [LIVE]😈📁
+https://tv.streamhy.com/live/5005312.m3u8?expire=1780836626&sign=7db8eeea385c3bd793749272458294e1
+#EXTINF:-1 group-title="📁😈 Korean K League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png",📁😈Cheonan City😈 [🆚] 😈Suwon Football Club [46m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4481111
-#EXTINF:-1 group-title="📁😈 Korean K League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png",📁😈Seoul E-Land FC😈 [🆚] 😈Chungbuk Cheongju FC [47m]😈📁
+#EXTINF:-1 group-title="📁😈 Korean K League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png",📁😈Seoul E-Land FC😈 [🆚] 😈Chungbuk Cheongju FC [46m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4481113
 #EXTINF:-1 group-title="📁😈 Vietnam National Champion League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png",📁😈The Cong Viettel😈 [🆚] 😈Cong An Ha Noi FC [76m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4503082
