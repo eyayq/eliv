@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:30 WIB 07/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:30 WIB 07/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:36 WIB 07/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:36 WIB 07/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfJhO7YLswwGPAXQ7TRLWDHTGB-NyzNxzLw&s" group-title="LCK Road to MSI 2026",[15:00 WIB 07/06/26] DK vs KT Rolster [FHD] [LIVE]
@@ -29,67 +29,67 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWMC3cuzG8_10WoC2eWhM7CQ6jrzLrfMtUAA&s" group-title="POLYTRON Indonesia Open 2026",[16:30 WIB 07/06/26] LIU Sheng Shu/TAN Ning vs Yuki FUKUSHIMA/Mayu MATSUMOTO [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[18:00 WIB 07/06/26] Trung Quốc vs Ba Lan [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[18:00 WIB 07/06/26] Trung Quốc vs Ba Lan [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[18:00 WIB 07/06/26] Trung Quốc vs Ba Lan [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[18:00 WIB 07/06/26] Trung Quốc vs Ba Lan [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[18:00 WIB 07/06/26] Trung Quốc vs Ba Lan [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[18:00 WIB 07/06/26] Trung Quốc vs Ba Lan [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Binh Duong vs Hoang Anh Gia Lai [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Binh Duong vs Hoang Anh Gia Lai [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Binh Duong vs Hoang Anh Gia Lai [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Binh Duong vs Hoang Anh Gia Lai [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Binh Duong vs Hoang Anh Gia Lai [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Binh Duong vs Hoang Anh Gia Lai [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Da Nang vs Thanh Hóa [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Da Nang vs Thanh Hóa [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Da Nang vs Thanh Hóa [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Da Nang vs Thanh Hóa [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Da Nang vs Thanh Hóa [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Da Nang vs Thanh Hóa [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Ha Noi vs Ho Chi Minh [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Ha Noi vs Ho Chi Minh [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Ha Noi vs Ho Chi Minh [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Ha Noi vs Ho Chi Minh [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Ha Noi vs Ho Chi Minh [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Ha Noi vs Ho Chi Minh [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Phu Dong vs Hồng Lĩnh Hà Tĩnh [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Phu Dong vs Hồng Lĩnh Hà Tĩnh [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Phu Dong vs Hồng Lĩnh Hà Tĩnh [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Phu Dong vs Hồng Lĩnh Hà Tĩnh [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Phu Dong vs Hồng Lĩnh Hà Tĩnh [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Phu Dong vs Hồng Lĩnh Hà Tĩnh [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Song Lam Nghe An vs Pho Hien [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Song Lam Nghe An vs Pho Hien [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Song Lam Nghe An vs Pho Hien [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Song Lam Nghe An vs Pho Hien [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Song Lam Nghe An vs Pho Hien [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Song Lam Nghe An vs Pho Hien [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Viettel vs Công An Nhân Dân [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Viettel vs Công An Nhân Dân [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Viettel vs Công An Nhân Dân [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Viettel vs Công An Nhân Dân [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Viettel vs Công An Nhân Dân [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Viettel vs Công An Nhân Dân [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="ASEAN Championship U19",[20:00 WIB 07/06/26] Indonesia U19 vs Vietnam U19 [FHD] [NANTIKAN]
