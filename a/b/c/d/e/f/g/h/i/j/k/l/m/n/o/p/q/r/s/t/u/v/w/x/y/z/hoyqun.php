@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:34 WIB 07/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:34 WIB 07/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [15:41 WIB 07/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:41 WIB 07/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[14:00 WIB 07/06/26] Oita Trinita vs Montedio Yamagata [FHD] [LIVE]
@@ -29,13 +29,13 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfJhO7YLswwGPAXQ7TRLWDHTGB-NyzNxzLw&s" group-title="LCK Road to MSI 2026",[15:00 WIB 07/06/26] DK vs KT Rolster [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/3_56b0aebf23.jpg" group-title="LCP Playoffs",[16:00 WIB 07/06/26] ffff [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/3_56b0aebf23.jpg" group-title="LCP Playoffs",[16:00 WIB 07/06/26] ffff [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/3_56b0aebf23.jpg" group-title="LCP Playoffs",[16:00 WIB 07/06/26] ffff [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/3_56b0aebf23.jpg" group-title="LCP Playoffs",[16:00 WIB 07/06/26] ffff [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/3_56b0aebf23.jpg" group-title="LCP Playoffs",[16:00 WIB 07/06/26] ffff [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/3_56b0aebf23.jpg" group-title="LCP Playoffs",[16:00 WIB 07/06/26] ffff [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[18:00 WIB 07/06/26] Trung Quốc vs Ba Lan [FHD] [NANTIKAN]
