@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [14:56 WIB 07/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [14:56 WIB 07/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [15:02 WIB 07/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:02 WIB 07/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[14:00 WIB 07/06/26] Oita Trinita vs Montedio Yamagata [FHD] [LIVE]
@@ -191,6 +191,15 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[00:00 WIB 08/06/26] Belgium U17 vs Italy U17 [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[00:00 WIB 08/06/26] Belgium U17 vs Italy U17 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[00:00 WIB 08/06/26] Belgium U17 vs Italy U17 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/921.png" group-title="UEFA U17 Championship",[00:00 WIB 08/06/26] Belgium U17 vs Italy U17 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[00:30 WIB 08/06/26] Brazil vs Ý [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 
@@ -353,6 +362,33 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="ASEAN Championship U19",[20:00 WIB 08/06/26] Thailand U19 vs Malaysia U19 [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[01:45 WIB 09/06/26] Netherlands vs Uzbekistan [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[01:45 WIB 09/06/26] Netherlands vs Uzbekistan [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[01:45 WIB 09/06/26] Netherlands vs Uzbekistan [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:00 WIB 09/06/26] Niger vs Mauritania [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:00 WIB 09/06/26] Niger vs Mauritania [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:00 WIB 09/06/26] Niger vs Mauritania [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:10 WIB 09/06/26] France vs Northern Ireland [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:10 WIB 09/06/26] France vs Northern Ireland [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:10 WIB 09/06/26] France vs Northern Ireland [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 09/06/26] San Antonio Spurs - New York Knicks [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 
@@ -370,6 +406,15 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[08:00 WIB 09/06/26] Kazakhstan vs Iran  [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[09:00 WIB 09/06/26] Peru vs Spain [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[09:00 WIB 09/06/26] Peru vs Spain [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[09:00 WIB 09/06/26] Peru vs Spain [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[11:00 WIB 09/06/26] Liban vs Hồng Kông [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
