@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:57 WIB 07/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:57 WIB 07/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:59 WIB 07/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:59 WIB 07/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[18:00 WIB 07/06/26] Trung Quốc vs Ba Lan [FHD] [LIVE]
@@ -10,24 +10,6 @@ https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[18:00 WIB 07/06/26] Trung Quốc vs Ba Lan [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Da Nang vs Thanh Hóa [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Da Nang vs Thanh Hóa [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Da Nang vs Thanh Hóa [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Song Lam Nghe An vs Pho Hien [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Song Lam Nghe An vs Pho Hien [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 07/06/26] Song Lam Nghe An vs Pho Hien [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[19:30 WIB 07/06/26] IEM Cologne Major 2026	 [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
