@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [13:00 WIB 07/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:00 WIB 07/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [13:07 WIB 07/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:07 WIB 07/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[11:05 WIB 07/06/26] Tokushima Vortis vs Iwaki [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[11:05 WIB 07/06/26] Tokushima Vortis vs Iwaki [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[11:05 WIB 07/06/26] Tokushima Vortis vs Iwaki [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[14:00 WIB 07/06/26] Đài Loan vs Hàn Quốc [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
@@ -20,13 +11,13 @@ https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[14:00 WIB 07/06/26] Đài Loan vs Hàn Quốc [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[14:00 WIB 07/06/26] Oita Trinita vs Montedio Yamagata [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[14:00 WIB 07/06/26] Oita Trinita vs Montedio Yamagata [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[14:00 WIB 07/06/26] Oita Trinita vs Montedio Yamagata [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[14:00 WIB 07/06/26] Oita Trinita vs Montedio Yamagata [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[14:00 WIB 07/06/26] Oita Trinita vs Montedio Yamagata [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/99.png" group-title="J2/J3 League",[14:00 WIB 07/06/26] Oita Trinita vs Montedio Yamagata [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[14:00 WIB 07/06/26] Bỉ vs Serbia [FHD] [NANTIKAN]
