@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [23:42 WIB 08/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:42 WIB 08/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [23:49 WIB 08/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [23:49 WIB 08/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[19:00 WIB 08/06/26] Gamingccc [FHD] [LIVE]
@@ -28,15 +28,6 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[23:00 WIB 08/06/26] Alexander Bublik/Nick Kyrgios vs Jakub Paul/Ryan Seggerman [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/914.png" group-title="Tournoi Maurice Revello",[23:30 WIB 08/06/26] Venezuela U20 vs Portugal U20 [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/914.png" group-title="Tournoi Maurice Revello",[23:30 WIB 08/06/26] Venezuela U20 vs Portugal U20 [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/914.png" group-title="Tournoi Maurice Revello",[23:30 WIB 08/06/26] Venezuela U20 vs Portugal U20 [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[01:45 WIB 09/06/26] Netherlands vs Uzbekistan [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
