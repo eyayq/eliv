@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [00:46 WIB 09/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:46 WIB 09/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [00:49 WIB 09/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:49 WIB 09/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[19:00 WIB 08/06/26] Gamingccc [FHD] [LIVE]
@@ -91,6 +91,15 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[11:00 WIB 09/06/26] Uzbekistan vs Úc [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1768179633/assets/tournaments/logo/C8385C7E-F4AB-48C7-881B-122DE3304633.png" group-title="SATHIO GROUP Australian Badminton Open 2026",[13:00 WIB 09/06/26] SATHIO GROUP Australian Badminton Open 2026 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1768179633/assets/tournaments/logo/C8385C7E-F4AB-48C7-881B-122DE3304633.png" group-title="SATHIO GROUP Australian Badminton Open 2026",[13:00 WIB 09/06/26] SATHIO GROUP Australian Badminton Open 2026 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1768179633/assets/tournaments/logo/C8385C7E-F4AB-48C7-881B-122DE3304633.png" group-title="SATHIO GROUP Australian Badminton Open 2026",[13:00 WIB 09/06/26] SATHIO GROUP Australian Badminton Open 2026 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[14:00 WIB 09/06/26] Philippin vs Hàn Quốc [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
