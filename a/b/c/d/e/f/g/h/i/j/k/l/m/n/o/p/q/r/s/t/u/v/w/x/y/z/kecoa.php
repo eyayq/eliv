@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [01.01 WIB 09/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [01.08 WIB 09/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 0j 43m 01:45 WIB 09/06/26] Netherlands vs Uzbekistan",[UPCOMING 0j 43m 01:45 WIB 09/06/26] Netherlands vs Uzbekistan (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 0j 36m 01:45 WIB 09/06/26] Netherlands vs Uzbekistan",[UPCOMING 0j 36m 01:45 WIB 09/06/26] Netherlands vs Uzbekistan (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 0j 58m 02:00 WIB 09/06/26] Niger vs Mauritania",[UPCOMING 0j 58m 02:00 WIB 09/06/26] Niger vs Mauritania (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 0j 51m 02:00 WIB 09/06/26] Niger vs Mauritania",[UPCOMING 0j 51m 02:00 WIB 09/06/26] Niger vs Mauritania (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 1j 8m 02:10 WIB 09/06/26] France vs Northern Ireland",[UPCOMING 1j 8m 02:10 WIB 09/06/26] France vs Northern Ireland (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 1j 1m 02:10 WIB 09/06/26] France vs Northern Ireland",[UPCOMING 1j 1m 02:10 WIB 09/06/26] France vs Northern Ireland (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 7j 58m 09:00 WIB 09/06/26] Peru vs Spain",[UPCOMING 7j 58m 09:00 WIB 09/06/26] Peru vs Spain (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 7j 51m 09:00 WIB 09/06/26] Peru vs Spain",[UPCOMING 7j 51m 09:00 WIB 09/06/26] Peru vs Spain (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 17j 33m 18:35 WIB 09/06/26] China vs Thailand",[UPCOMING 17j 33m 18:35 WIB 09/06/26] China vs Thailand (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 17j 26m 18:35 WIB 09/06/26] China vs Thailand",[UPCOMING 17j 26m 18:35 WIB 09/06/26] China vs Thailand (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
