@@ -1,27 +1,27 @@
 #EXTM3U
-# Generated Mon Jun  8 03:40:31 2026
+# Generated Mon Jun  8 03:47:01 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Monday 08-06-2026 10:40:23 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Monday 08-06-2026 10:46:52 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Australia FFA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png",📁😈Kingborough Lions😈 [🆚] 😈Devonport City [79m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia FFA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png",📁😈Kingborough Lions😈 [🆚] 😈Devonport City [73m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544312
-#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Cote d'Ivoire U23😈 [🆚] 😈Canada U20 [559m]😈📁
+#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Cote d'Ivoire U23😈 [🆚] 😈Canada U20 [553m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4527109
-#EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Thailand U19😈 [🆚] 😈Malaysia U19 [559m]😈📁
+#EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Thailand U19😈 [🆚] 😈Malaysia U19 [553m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4546238
-#EXTINF:-1 group-title="📁😈 Finnish Ykkosliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9267ee08759fdc25c89d3e4642303522.png",📁😈KTP Kotka😈 [🆚] 😈FC Haka [709m]😈📁
+#EXTINF:-1 group-title="📁😈 Finnish Ykkosliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9267ee08759fdc25c89d3e4642303522.png",📁😈KTP Kotka😈 [🆚] 😈FC Haka [703m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4477323
-#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈FUS Rabat😈 [🆚] 😈DHJ Difaa Hassani Jadidi [739m]😈📁
+#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈FUS Rabat😈 [🆚] 😈DHJ Difaa Hassani Jadidi [733m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4548422
-#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Venezuela U20😈 [🆚] 😈Portugal U20 [769m]😈📁
+#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Venezuela U20😈 [🆚] 😈Portugal U20 [763m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4527110
-#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈Renaissance de Berkane😈 [🆚] 😈Ittihad Riadi Tanger [859m]😈📁
+#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈Renaissance de Berkane😈 [🆚] 😈Ittihad Riadi Tanger [853m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4548423
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Netherlands😈 [🆚] 😈Uzbekistan [904m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Netherlands😈 [🆚] 😈Uzbekistan [898m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541790
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈France😈 [🆚] 😈Northern Ireland [929m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈France😈 [🆚] 😈Northern Ireland [923m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4539944
-#EXTINF:-1 group-title="📁😈 CFA Team China International Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6692f023cb5f6a8bf462c503e584af53.png",📁😈China U23😈 [🆚] 😈Tajikistan U23 [1914m]😈📁
+#EXTINF:-1 group-title="📁😈 CFA Team China International Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/6692f023cb5f6a8bf462c503e584af53.png",📁😈China U23😈 [🆚] 😈Tajikistan U23 [1908m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4545050
-#EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈FC Livyi Bereh😈 [🆚] 😈FK Oleksandria [1969m]😈📁
+#EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈FC Livyi Bereh😈 [🆚] 😈FK Oleksandria [1962m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4547990
