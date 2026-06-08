@@ -1,43 +1,39 @@
 #EXTM3U
-# Generated Sun Jun  7 23:56:05 2026
+# Generated Mon Jun  8 00:02:22 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Monday 08-06-2026 06:55:55 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Monday 08-06-2026 07:02:16 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈Cincinnati II😈 [🆚] 😈New England Revolution B [LIVE]😈📁
-https://tv.streamhy.com/live/5005775.m3u8?expire=1780889547&sign=fc755082a818b820cc90c0798850f1ff
-#EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈Cincinnati II😈 [🆚] 😈New England Revolution B [LIVE]😈📁
-https://tv.streamhy.com/live/5005763.m3u8?expire=1780889420&sign=c40baf82049b705bd120cf34a3eb47b4
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Colombia😈 [🆚] 😈Jordan [LIVE]😈📁
 https://tv.streamhy.com/live/5005331.m3u8?expire=1780890366&sign=727a00e90340c910e7ad5d30304db867
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Colombia😈 [🆚] 😈Jordan [LIVE]😈📁
-https://tv.streamhy.com/live/5005402.m3u8?expire=1780890245&sign=a746a20aaab9ec51a085268b62350260
+https://tv.streamhy.com/live/5005751.m3u8?expire=1780890092&sign=4b9fcb7714c1c38f4871d19d9da58ed0
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Colombia😈 [🆚] 😈Jordan [LIVE]😈📁
 https://tv.streamhy.com/live/5005321.m3u8?expire=1780890052&sign=1ea9ced384d18c31beded11e218e13a1
 #EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Colombia😈 [🆚] 😈Jordan [LIVE]😈📁
-https://tv.streamhy.com/live/5005751.m3u8?expire=1780890092&sign=4b9fcb7714c1c38f4871d19d9da58ed0
+https://tv.streamhy.com/live/5005402.m3u8?expire=1780890245&sign=a746a20aaab9ec51a085268b62350260
 #EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈Orlando City B😈 [🆚] 😈Carolina Core [LIVE]😈📁
 https://tv.streamhy.com/live/5005390.m3u8?expire=1780890575&sign=cf0355c2c53c10a68cab2ea73e8afe94
 #EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈Orlando City B😈 [🆚] 😈Carolina Core [LIVE]😈📁
 https://tv.streamhy.com/live/5005322.m3u8?expire=1780889857&sign=af2aae9c227e7693d660b884442c9e86
-#EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈San Jose Earthquakes Reserve😈 [🆚] 😈Real Monarchs [4m]😈📁
-https://tv.streamhy.com/live/5005323.m3u8?expire=1780890052&sign=3d828a1952bf06a48b2e062213e141bc
-#EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈San Jose Earthquakes Reserve😈 [🆚] 😈Real Monarchs [4m]😈📁
+#EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈San Jose Earthquakes Reserve😈 [🆚] 😈Real Monarchs [LIVE]😈📁
 https://tv.streamhy.com/live/5005394.m3u8?expire=1780889987&sign=247441c815f2dce24034e0acc0d43f7c
-#EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈Austin FC II😈 [🆚] 😈Los Angeles FC II [34m]😈📁
+#EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈San Jose Earthquakes Reserve😈 [🆚] 😈Real Monarchs [LIVE]😈📁
+https://tv.streamhy.com/live/5005323.m3u8?expire=1780890052&sign=3d828a1952bf06a48b2e062213e141bc
+#EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈Austin FC II😈 [🆚] 😈Los Angeles FC II [27m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4547897
-#EXTINF:-1 group-title="📁😈 Australia FFA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png",📁😈Kingborough Lions😈 [🆚] 😈Devonport City [303m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia FFA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png",📁😈Kingborough Lions😈 [🆚] 😈Devonport City [297m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4544312
-#EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Thailand U19😈 [🆚] 😈Malaysia U19 [783m]😈📁
+#EXTINF:-1 group-title="📁😈 AFF U19 Youth Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c8bdf96ccd4faeab5087c45bd1da30af.png",📁😈Thailand U19😈 [🆚] 😈Malaysia U19 [777m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4546238
-#EXTINF:-1 group-title="📁😈 Finnish Ykkosliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9267ee08759fdc25c89d3e4642303522.png",📁😈KTP Kotka😈 [🆚] 😈FC Haka [933m]😈📁
+#EXTINF:-1 group-title="📁😈 Finnish Ykkosliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9267ee08759fdc25c89d3e4642303522.png",📁😈KTP Kotka😈 [🆚] 😈FC Haka [927m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4477323
-#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Venezuela U20😈 [🆚] 😈Portugal U20 [993m]😈📁
+#EXTINF:-1 group-title="📁😈 Toulon Maurice Revello Tournament 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d2e8bd4b3f540e6fc78a7313b7b19c34.png",📁😈Venezuela U20😈 [🆚] 😈Portugal U20 [987m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4527110
-#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈Renaissance de Berkane😈 [🆚] 😈Ittihad Riadi Tanger [1083m]😈📁
+#EXTINF:-1 group-title="📁😈 The Botola Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c997cac5e146bab6891fd0aef3b943f0.png",📁😈Renaissance de Berkane😈 [🆚] 😈Ittihad Riadi Tanger [1077m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4548423
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Netherlands😈 [🆚] 😈Uzbekistan [1128m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈Netherlands😈 [🆚] 😈Uzbekistan [1122m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541790
-#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈France😈 [🆚] 😈Northern Ireland [1153m]😈📁
+#EXTINF:-1 group-title="📁😈 International Friendly 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",📁😈France😈 [🆚] 😈Northern Ireland [1147m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4539944
-#EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈FC Livyi Bereh😈 [🆚] 😈FK Oleksandria [2193m]😈📁
+#EXTINF:-1 group-title="📁😈 Ukrainian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png",📁😈FC Livyi Bereh😈 [🆚] 😈FK Oleksandria [2187m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4547990
