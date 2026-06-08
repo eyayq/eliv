@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:56 WIB 08/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:56 WIB 08/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:03 WIB 08/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:03 WIB 08/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[19:00 WIB 08/06/26] Gamingccc [FHD] [LIVE]
@@ -398,6 +398,60 @@ https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/115.png" group-title="Svenska Cupen",[23:00 WIB 10/06/26] Falu BS vs Gefle IF [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Segunda División",[02:00 WIB 11/06/26] Malaga vs Las Palmas [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Segunda División",[02:00 WIB 11/06/26] Malaga vs Las Palmas [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Segunda División",[02:00 WIB 11/06/26] Malaga vs Las Palmas [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:45 WIB 11/06/26] Portugal vs Nigeria [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:45 WIB 11/06/26] Portugal vs Nigeria [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[02:45 WIB 11/06/26] Portugal vs Nigeria [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[03:00 WIB 11/06/26] England vs Costa Rica [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[03:00 WIB 11/06/26] England vs Costa Rica [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[03:00 WIB 11/06/26] England vs Costa Rica [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[03:00 WIB 11/06/26] Bolivia vs Algeria [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[03:00 WIB 11/06/26] Bolivia vs Algeria [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[03:00 WIB 11/06/26] Bolivia vs Algeria [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[06:00 WIB 11/06/26] Goias vs Novorizontino [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[06:00 WIB 11/06/26] Goias vs Novorizontino [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[06:00 WIB 11/06/26] Goias vs Novorizontino [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[07:00 WIB 11/06/26] Sport Recife vs Athletic Club [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[07:00 WIB 11/06/26] Sport Recife vs Athletic Club [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[07:00 WIB 11/06/26] Sport Recife vs Athletic Club [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA",[07:30 WIB 11/06/26] San Antonio Spurs - New York Knicks [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 
@@ -415,3 +469,39 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/nba-6.svg" group-title="NBA ( Đầu Cầu Spurs )",[07:30 WIB 11/06/26] San Antonio Spurs - New York Knicks [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/255.png" group-title="USL Championship",[09:30 WIB 11/06/26] Phoenix Rising vs Louisville City [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/255.png" group-title="USL Championship",[09:30 WIB 11/06/26] Phoenix Rising vs Louisville City [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/255.png" group-title="USL Championship",[09:30 WIB 11/06/26] Phoenix Rising vs Louisville City [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[18:00 WIB 11/06/26] Nam Dinh vs Ho Chi Minh [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[18:00 WIB 11/06/26] Nam Dinh vs Ho Chi Minh [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[18:00 WIB 11/06/26] Nam Dinh vs Ho Chi Minh [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[18:00 WIB 11/06/26] Phu Dong vs Viettel [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[18:00 WIB 11/06/26] Phu Dong vs Viettel [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/199.png" group-title="Cup",[18:00 WIB 11/06/26] Phu Dong vs Viettel [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1026.png" group-title="Second League A - Division A Silver",[20:00 WIB 11/06/26] Dinamo Stavropol vs Zenit 2 [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1026.png" group-title="Second League A - Division A Silver",[20:00 WIB 11/06/26] Dinamo Stavropol vs Zenit 2 [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1026.png" group-title="Second League A - Division A Silver",[20:00 WIB 11/06/26] Dinamo Stavropol vs Zenit 2 [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
