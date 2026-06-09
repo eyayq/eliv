@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [10.43 WIB 09/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [10.49 WIB 09/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[LIVE 09:00 WIB 09/06/26] Peru vs Spain",[LIVE 09:00 WIB 09/06/26] Peru vs Spain (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 7j 51m 18:35 WIB 09/06/26] China vs Thailand",[UPCOMING 7j 51m 18:35 WIB 09/06/26] China vs Thailand (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 7j 45m 18:35 WIB 09/06/26] China vs Thailand",[UPCOMING 7j 45m 18:35 WIB 09/06/26] China vs Thailand (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="[UPCOMING 9j 16m 20:00 WIB 09/06/26] Australia U19 vs Cambodia U19",[UPCOMING 9j 16m 20:00 WIB 09/06/26] Australia U19 vs Cambodia U19 (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="[UPCOMING 9j 10m 20:00 WIB 09/06/26] Australia U19 vs Cambodia U19",[UPCOMING 9j 10m 20:00 WIB 09/06/26] Australia U19 vs Cambodia U19 (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 13j 16m 00:00 WIB 10/06/26] Russia vs Trinidad and Tobago",[UPCOMING 13j 16m 00:00 WIB 10/06/26] Russia vs Trinidad and Tobago (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 13j 10m 00:00 WIB 10/06/26] Russia vs Trinidad and Tobago",[UPCOMING 13j 10m 00:00 WIB 10/06/26] Russia vs Trinidad and Tobago (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 21j 16m 08:00 WIB 10/06/26] Argentina vs Iceland",[UPCOMING 21j 16m 08:00 WIB 10/06/26] Argentina vs Iceland (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 21j 10m 08:00 WIB 10/06/26] Argentina vs Iceland",[UPCOMING 21j 10m 08:00 WIB 10/06/26] Argentina vs Iceland (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 16j 1m 02:45 WIB 11/06/26] Portugal vs Nigeria",[UPCOMING 16j 1m 02:45 WIB 11/06/26] Portugal vs Nigeria (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1769060643586-football-icon.png" group-title="[UPCOMING 15j 55m 02:45 WIB 11/06/26] Portugal vs Nigeria",[UPCOMING 15j 55m 02:45 WIB 11/06/26] Portugal vs Nigeria (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
