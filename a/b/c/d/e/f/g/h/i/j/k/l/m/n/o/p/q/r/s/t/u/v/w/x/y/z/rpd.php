@@ -1,153 +1,129 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.55 WIB 10/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.03 WIB 10/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 1",[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781038220-0-0-1aaaa92f2ae56c7127e7aab8b137cd96
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 2",[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781038220-0-0-98784625a4a4f314c6d241fff1957f2e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 3",[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781038220-0-0-e93e340e2a630cde80a49ec5870f46e1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 4",[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781038220-0-0-6cc257e93388301672804c4585310685
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 5",[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=5390ae45483e0a4fb8f300039a8dd64c&txTime=6a28c2dc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 6",[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=4241986a30bad85650a894baf4e657a8&txTime=6a28c2dc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 7",[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/san-marino-d99dd0.webp" group-title="[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 8",[LIVE 01:00 WIB 10/06/26] San Marino vs Azerbaijan | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-women-bc241d.webp" group-title="[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 1",[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781038220-0-0-f101b58483e861a4db8ae8fd25be0f6c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-women-bc241d.webp" group-title="[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 2",[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781038220-0-0-d0286a166eda686674d06a14af208d34
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-women-bc241d.webp" group-title="[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 3",[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=f59644d5c2beecb2bfe44311abb7d2d1&txTime=6a28c2dc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-women-bc241d.webp" group-title="[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 4",[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=f0e620e5d4fcc17964b2399446485730&txTime=6a28c2dc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 1",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781038220-0-0-3edcfb123d8517274cba3a073a687c53
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 2",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781038220-0-0-81ea20999186d21b836dd2415ce831f2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 3",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781038220-0-0-d5e9f4bc485d1fb329983e96e4254f16
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 4",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781038220-0-0-7be8226186b0543a641a2bafa03f1c8c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 5",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781038220-0-0-fbfda28a077183cfbf6b638d8548d25c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 6",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781038220-0-0-c423a009c12d2061d3f1cec72d1aac30
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 7",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781038220-0-0-fea93575f4bfed0f5a1985db2abc8d5d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 8",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781038220-0-0-03d45a0bddfffe7e822b10cb55c82a93
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-women-21d3e0.png" group-title="[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 1",[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=faa02f90e8b03b78da19a6db8062a941&txTime=6a28c2dc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781038760-0-0-c75a7453b6e7324007ed087122a83dfa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-women-21d3e0.png" group-title="[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 2",[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=636fd2819a03525a1b8594bdb4532b44&txTime=6a28c2dc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781038760-0-0-ccd78dbc94e330598c8af4ac8e4b52e7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-women-21d3e0.png" group-title="[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 3",[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781038220-0-0-5cfa6e78adfcb91dca219e0e2ac92c3b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=633afb006d3f89cbb76cbf4072824984&txTime=6a28c4f8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-women-21d3e0.png" group-title="[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 4",[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781038220-0-0-2e67fb16a047b3549a8cfd2e7ca0c0de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=bf1bef7220d462b0a4d5eeb56c6f7fb6&txTime=6a28c4f8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-women-21d3e0.png" group-title="[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 5",[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781038220-0-0-331ba4876060843cd34416950da77fdc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781038760-0-0-b824642948a72d051a3fc105967138e1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-women-21d3e0.png" group-title="[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 6",[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781038220-0-0-011ada32d1bfda7af4263dd6468569a6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781038760-0-0-31352e41613c78623d2e0915fa1ab80c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-women-21d3e0.png" group-title="[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 7",[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781038220-0-0-da7dee943abde6487c7d0a843b3b4deb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781038760-0-0-74fb39e97b8e80e8354ecad82be274e2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-women-21d3e0.png" group-title="[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 8",[LIVE 02:00 WIB 10/06/26] England Women vs Ukraine Women | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781038220-0-0-847a56be1b41f5507a87f48eb7e5d27f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 1",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781038220-0-0-a5af676ba72d189eef3a5941820cb434
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 2",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781038220-0-0-8c13105396e6dcd002caca8e989918d1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 3",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781038220-0-0-37671613c9bba66f1c1b5336c7a55290
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 4",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781038220-0-0-c5253789901d68455bdffe29f85a5839
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 5",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=6b2bf537eb9b6b70214e65ef1e1d358b&txTime=6a28c2dc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 6",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=4023b1483d1d4332b594aaae78456c44&txTime=6a28c2dc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 7",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781038220-0-0-f61fdd102f698f3f570d96120f60a6ea
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 8",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781038220-0-0-d6e71e66794b2114411d90c15d55f43c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781038760-0-0-df14203e388fbe10948c7a764dcf4777
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 1",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781038760-0-0-6d218ebe05d8535ec4fad0da54d204db
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 2",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781038760-0-0-7029f9cb67ecbe12910f8609704de114
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 3",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781038760-0-0-99423285f76aa143e999d25d1a41cb02
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 4",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781038760-0-0-aa62ecddbcdf9444453d078c519d3060
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 5",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781038760-0-0-992e97ccba0aea8d2245f7af0ad0edef
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 6",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781038760-0-0-ce7c928bad19b04232b6025faf4e7dd8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 7",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781038760-0-0-aa1c776a78ac4a5459b1618fc27662c5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-women-74f541.webp" group-title="[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 8",[LIVE 02:00 WIB 10/06/26] Iceland Women vs Spain Women | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781038760-0-0-6bec3b1045ab4c7e78314216a599f53e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-women-bc241d.webp" group-title="[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 1",[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=c436c256a94af548ecca6d57f920be67&txTime=6a28c4f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-women-bc241d.webp" group-title="[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 2",[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=309219eee41bcf9aa379b83a7cc0fc74&txTime=6a28c4f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-women-bc241d.webp" group-title="[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 3",[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781038760-0-0-c9b18d8668d7553fa819ed6b27e6224b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-women-bc241d.webp" group-title="[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 4",[LIVE 02:00 WIB 10/06/26] Netherlands Women vs Poland Women | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781038760-0-0-d89f0ecf5cc8ee791f636f460390ca79
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almeria-159837.webp" group-title="[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 1",[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781038220-0-0-52bf16a1d79c85a81efac0becb22d60f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781038760-0-0-f765f3d40a4a8f69bfec8bdf1f733106
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almeria-159837.webp" group-title="[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 2",[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781038220-0-0-6e089fc4839bf19a6f113bb1bc6b190a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781038760-0-0-0ecc34f7c69be02f2dfc3b578330ff7b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almeria-159837.webp" group-title="[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 3",[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781038220-0-0-a3053285b9d7cfb0f1d6c5c1db6985ab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1781038760-0-0-97bbd670eda626730c44ec0ddd85e099
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almeria-159837.webp" group-title="[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 4",[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781038220-0-0-e5f3a5b7d6d3b63b1b446ef7937f16a2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781038760-0-0-ac2edc3514eda1200889767416f9055f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almeria-159837.webp" group-title="[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 5",[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1781038220-0-0-e83715c9005e779e38b836e6723fea86
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1781038760-0-0-8d8486b5f0001347880ec4c715aba34e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almeria-159837.webp" group-title="[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 6",[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1781038220-0-0-f76df1223502a1b6921407b703ebcd47
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1781038760-0-0-12e8bf890d2b95d31ab80803ecff7e8d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almeria-159837.webp" group-title="[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 7",[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781038220-0-0-5c0cd09158c291ffeb744fdef5e7945a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1781038760-0-0-2ce6cdc1456b4190df86d5e056abe361
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almeria-159837.webp" group-title="[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 8",[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781038220-0-0-35c42765f200b0aebea30d620b2527e4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1781038760-0-0-6dfe89b163fd6526b7875b3718e10a46
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almeria-159837.webp" group-title="[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 9",[LIVE 02:00 WIB 10/06/26] Almeria vs Castellon | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-w-ca5eaa.png" group-title="[LIVE 02:00 WIB 10/06/26] England (W) vs Ukraine (W) | Server 1",[LIVE 02:00 WIB 10/06/26] England (W) vs Ukraine (W) | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherland-w-b3c0ee.png" group-title="[LIVE 02:00 WIB 10/06/26] Netherland (W) vs Poland (W) | Server 1",[LIVE 02:00 WIB 10/06/26] Netherland (W) vs Poland (W) | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 1",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781038760-0-0-f30bfef2f9d19a7164755fb8465d5cc7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 2",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781038760-0-0-3392503839af47dfd0d3a9d89fee9dea
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 3",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781038760-0-0-84dbf129c51d61f19ecc02dd650fcd32
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 4",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781038760-0-0-a0125dc399a4af4cc63504a3aeb2fdee
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 5",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-598119_lsd.m3u8?txSecret=105c45eef562339da1e08cc8a4a97bc5&txTime=6a28c4f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 6",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=7e6998bf3f64008522f3eed987eacd87&txTime=6a28c4f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 7",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781038760-0-0-a705b3d61993923333e96bb082bac1e7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-women-1c902d.png" group-title="[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 8",[LIVE 02:00 WIB 10/06/26] France Women vs Ireland Women | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781038760-0-0-113f3f16baf0c34523e9a74f5dfc5d15
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-w-308894.png" group-title="[LIVE 02:00 WIB 10/06/26] Iceland (W) vs Spain (W) | Server 1",[LIVE 02:00 WIB 10/06/26] Iceland (W) vs Spain (W) | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/iceland-w-308894.png" group-title="[LIVE 02:00 WIB 10/06/26] Iceland (W) vs Spain (W) | Server 2",[LIVE 02:00 WIB 10/06/26] Iceland (W) vs Spain (W) | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherland-w-b3c0ee.png" group-title="[LIVE 02:00 WIB 10/06/26] Netherland (W) vs Poland (W) | Server 1",[LIVE 02:00 WIB 10/06/26] Netherland (W) vs Poland (W) | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-w-ca5eaa.png" group-title="[LIVE 02:00 WIB 10/06/26] England (W) vs Ukraine (W) | Server 1",[LIVE 02:00 WIB 10/06/26] England (W) vs Ukraine (W) | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-w-64c7d5.png" group-title="[LIVE 02:00 WIB 10/06/26] France (W) vs Ireland (W) | Server 1",[LIVE 02:00 WIB 10/06/26] France (W) vs Ireland (W) | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
