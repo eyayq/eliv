@@ -1,24 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [06:50 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [06:50 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [06:57 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [06:57 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[23:00 WIB 09/06/26] Nick Kyrgios vs Corentin Moutet [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[23:00 WIB 09/06/26] Nick Kyrgios vs Corentin Moutet [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[23:00 WIB 09/06/26] Nick Kyrgios vs Corentin Moutet [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[05:00 WIB 10/06/26] Nautico Recife vs Fortaleza EC [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[05:00 WIB 10/06/26] Nautico Recife vs Fortaleza EC [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[05:00 WIB 10/06/26] Nautico Recife vs Fortaleza EC [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/10.png" group-title="Friendlies",[06:00 WIB 10/06/26] Saudi Arabia vs Senegal [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
