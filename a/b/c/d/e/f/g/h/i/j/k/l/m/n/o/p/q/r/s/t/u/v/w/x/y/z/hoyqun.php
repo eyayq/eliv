@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:41 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:41 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:47 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:47 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[15:00 WIB 10/06/26] Trung Quốc vs Slovenia [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[15:00 WIB 10/06/26] Trung Quốc vs Slovenia [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[15:00 WIB 10/06/26] Trung Quốc vs Slovenia [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[16:00 WIB 10/06/26] Mattia Bellucci vs Yannick Hanfmann [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
@@ -55,6 +46,15 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/288.png" group-title="Premier Soccer League",[20:00 WIB 10/06/26] Cape Town City vs Magesi [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1075.png" group-title="Pro League A",[20:00 WIB 10/06/26] Shortan vs Gazalkent [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1075.png" group-title="Pro League A",[20:00 WIB 10/06/26] Shortan vs Gazalkent [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1075.png" group-title="Pro League A",[20:00 WIB 10/06/26] Shortan vs Gazalkent [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[20:30 WIB 10/06/26] Martin Landaluce vs Taylor Fritz	 [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
