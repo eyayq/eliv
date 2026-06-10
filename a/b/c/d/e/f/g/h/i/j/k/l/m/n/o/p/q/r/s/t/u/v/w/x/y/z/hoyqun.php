@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:54 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:54 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:01 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:01 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[17:30 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [FHD] [LIVE]
@@ -9,15 +9,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[17:30 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[18:00 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[18:00 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[18:00 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[19:00 WIB 10/06/26] Ukraina vs Nhật Bản [FHD] [LIVE]
@@ -38,6 +29,15 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1075.png" group-title="Pro League A",[19:30 WIB 10/06/26] BuxDu vs Qiziriq [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[20:00 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [FHD] [LIVE]
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[20:00 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [HD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[20:00 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [SD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1075.png" group-title="Pro League A",[20:00 WIB 10/06/26] Shortan vs Gazalkent [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 
@@ -46,15 +46,6 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1075.png" group-title="Pro League A",[20:00 WIB 10/06/26] Shortan vs Gazalkent [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[20:30 WIB 10/06/26] Martin Landaluce vs Taylor Fritz	 [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[20:30 WIB 10/06/26] Martin Landaluce vs Taylor Fritz	 [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[20:30 WIB 10/06/26] Martin Landaluce vs Taylor Fritz	 [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/246.png" group-title="Suomen Cup",[21:00 WIB 10/06/26] KuPS vs VPS [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
@@ -100,6 +91,15 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[23:00 WIB 10/06/26] Bỉ vs Bulgaria [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[23:00 WIB 10/06/26] Martin Landaluce vs Taylor Fritz	 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[23:00 WIB 10/06/26] Martin Landaluce vs Taylor Fritz	 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[23:00 WIB 10/06/26] Martin Landaluce vs Taylor Fritz	 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/WTA500_%28cropped%29.jpg" group-title="WTA500 London Now",[23:30 WIB 10/06/26] Marie Bouzková vs Donna Vekić	 [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
