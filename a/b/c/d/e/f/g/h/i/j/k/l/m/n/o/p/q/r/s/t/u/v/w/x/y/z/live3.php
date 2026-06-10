@@ -1,27 +1,27 @@
 #EXTM3U
-# Generated Wed Jun 10 08:34:05 2026
+# Generated Wed Jun 10 08:34:49 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 10-06-2026 15:33:52 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Wednesday 10-06-2026 15:34:38 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Australia Capital Territory U23 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d5370c2125d71fdc2cd71b09edc007db.png",📁😈Belconnen United U23😈 [🆚] 😈Canberra White Eagles U23 [LIVE]😈📁
 https://tv.streamhy.com/live/5005327.m3u8?expire=1781091739&sign=f0f4b17bb10d78b5b070544a972ad24d
 #EXTINF:-1 group-title="📁😈 Australia Capital Territory U23 League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d5370c2125d71fdc2cd71b09edc007db.png",📁😈OConnor Knights U23😈 [🆚] 😈Cooma Tigers U23 [LIVE]😈📁
 https://tv.streamhy.com/live/5005331.m3u8?expire=1781094678&sign=a7da1af72fa0d3311410c779c04085bf
-#EXTINF:-1 group-title="📁😈 Australia National Premier Leagues Queensland 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/37436633e76bc4f38fc252d6cf2b8e2c.png",📁😈Brisbane Wolves😈 [🆚] 😈Eastern Suburbs Brisbane [56m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia National Premier Leagues Queensland 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/37436633e76bc4f38fc252d6cf2b8e2c.png",📁😈Brisbane Wolves😈 [🆚] 😈Eastern Suburbs Brisbane [55m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4457350
-#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Sydney Olympic😈 [🆚] 😈SD Raiders FC [56m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Sydney Olympic😈 [🆚] 😈SD Raiders FC [55m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4473456
-#EXTINF:-1 group-title="📁😈 Australia National Premier Leagues Capital Football 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b656d2fe90a3c1a90d9054c3b7b146e9.png",📁😈Canberra FC😈 [🆚] 😈Queanbeyan City [56m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia National Premier Leagues Capital Football 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b656d2fe90a3c1a90d9054c3b7b146e9.png",📁😈Canberra FC😈 [🆚] 😈Queanbeyan City [55m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4498516
-#EXTINF:-1 group-title="📁😈 Australia National Premier Leagues Capital Football 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b656d2fe90a3c1a90d9054c3b7b146e9.png",📁😈Canberra Olympic😈 [🆚] 😈Canberra Juventus [56m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia National Premier Leagues Capital Football 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b656d2fe90a3c1a90d9054c3b7b146e9.png",📁😈Canberra Olympic😈 [🆚] 😈Canberra Juventus [55m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4498517
-#EXTINF:-1 group-title="📁😈 Australia FFA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png",📁😈Cumberland United FC😈 [🆚] 😈Adelaide Cobras FC [71m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia FFA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png",📁😈Cumberland United FC😈 [🆚] 😈Adelaide Cobras FC [70m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4548443
-#EXTINF:-1 group-title="📁😈 South Africa Premier Soccer League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/34af14c5019bd4107c7df3fe88d70509.png",📁😈Cape Town City FC😈 [🆚] 😈Magesi [266m]😈📁
+#EXTINF:-1 group-title="📁😈 South Africa Premier Soccer League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/34af14c5019bd4107c7df3fe88d70509.png",📁😈Cape Town City FC😈 [🆚] 😈Magesi [265m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4546048
-#EXTINF:-1 group-title="📁😈 Finland Suomen Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png",📁😈KuPs😈 [🆚] 😈Vaasa VPS [326m]😈📁
+#EXTINF:-1 group-title="📁😈 Finland Suomen Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png",📁😈KuPs😈 [🆚] 😈Vaasa VPS [325m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4548445
-#EXTINF:-1 group-title="📁😈 Finland Suomen Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png",📁😈SJK Seinajoen😈 [🆚] 😈Inter Turku [386m]😈📁
+#EXTINF:-1 group-title="📁😈 Finland Suomen Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png",📁😈SJK Seinajoen😈 [🆚] 😈Inter Turku [385m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4548446
 #EXTINF:-1 group-title="📁😈 Finland Suomen Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4280f2e6ac46ce596d20b9e4eacfb206.png",📁😈Ilves Tampere😈 [🆚] 😈Lahti [385m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4548447
