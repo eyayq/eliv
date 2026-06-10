@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:57 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:57 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:04 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:04 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[15:00 WIB 10/06/26] Trung Quốc vs Slovenia [FHD] [LIVE]
@@ -39,13 +39,13 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/288.png" group-title="Premier Soccer League",[20:00 WIB 10/06/26] Cape Town City vs Magesi [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/288.png" group-title="Premier Soccer League",[20:00 WIB 10/06/26] Cape Town City vs Magesi [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/288.png" group-title="Premier Soccer League",[20:00 WIB 10/06/26] Cape Town City vs Magesi [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/246.png" group-title="Suomen Cup",[21:00 WIB 10/06/26] KuPS vs VPS [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
