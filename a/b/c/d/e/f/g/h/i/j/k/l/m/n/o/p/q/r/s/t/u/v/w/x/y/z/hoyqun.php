@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:42 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:42 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [15:50 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:50 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1768179633/assets/tournaments/logo/C8385C7E-F4AB-48C7-881B-122DE3304633.png" group-title="SATHIO GROUP Australian Badminton Open 2026",[11:00 WIB 10/06/26] SATHIO GROUP Australian Badminton Open 2026 [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1768179633/assets/tournaments/logo/C8385C7E-F4AB-48C7-881B-122DE3304633.png" group-title="SATHIO GROUP Australian Badminton Open 2026",[11:00 WIB 10/06/26] SATHIO GROUP Australian Badminton Open 2026 [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1768179633/assets/tournaments/logo/C8385C7E-F4AB-48C7-881B-122DE3304633.png" group-title="SATHIO GROUP Australian Badminton Open 2026",[11:00 WIB 10/06/26] SATHIO GROUP Australian Badminton Open 2026 [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[15:00 WIB 10/06/26] Trung Quốc vs Slovenia [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
@@ -19,6 +10,15 @@ https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[15:00 WIB 10/06/26] Trung Quốc vs Slovenia [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taokinhte/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[16:00 WIB 10/06/26] Mattia Bellucci vs Yannick Hanfmann [FHD] [LIVE]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[16:00 WIB 10/06/26] Mattia Bellucci vs Yannick Hanfmann [HD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[16:00 WIB 10/06/26] Mattia Bellucci vs Yannick Hanfmann [SD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[19:00 WIB 10/06/26] Ukraina vs Nhật Bản [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
