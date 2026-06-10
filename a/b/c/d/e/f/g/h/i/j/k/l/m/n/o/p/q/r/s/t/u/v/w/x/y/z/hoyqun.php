@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:46 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:46 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:53 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:53 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/246.png" group-title="Suomen Cup",[21:00 WIB 10/06/26] KuPS vs VPS [FHD] [LIVE]
@@ -56,15 +56,6 @@ https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[23:00 WIB 10/06/26] Martin Landaluce vs Taylor Fritz	 [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/115.png" group-title="Svenska Cupen",[23:00 WIB 10/06/26] Falu BS vs Gefle IF [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/115.png" group-title="Svenska Cupen",[23:00 WIB 10/06/26] Falu BS vs Gefle IF [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/115.png" group-title="Svenska Cupen",[23:00 WIB 10/06/26] Falu BS vs Gefle IF [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/WTA500_%28cropped%29.jpg" group-title="WTA500 London Now",[23:30 WIB 10/06/26] Marie Bouzková vs Donna Vekić	 [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 
@@ -73,6 +64,15 @@ https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/WTA500_%28cropped%29.jpg" group-title="WTA500 London Now",[23:30 WIB 10/06/26] Marie Bouzková vs Donna Vekić	 [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/914.png" group-title="Tournoi Maurice Revello",[00:00 WIB 11/06/26] Colombia U19 vs Tunisia U23 [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/914.png" group-title="Tournoi Maurice Revello",[00:00 WIB 11/06/26] Colombia U19 vs Tunisia U23 [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/914.png" group-title="Tournoi Maurice Revello",[00:00 WIB 11/06/26] Colombia U19 vs Tunisia U23 [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/141.png" group-title="Segunda División",[02:00 WIB 11/06/26] Malaga vs Las Palmas [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
@@ -442,3 +442,75 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[08:00 WIB 13/06/26] USA vs Paraguay [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[02:00 WIB 14/06/26] Qatar vs Switzerland [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[02:00 WIB 14/06/26] Qatar vs Switzerland [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[02:00 WIB 14/06/26] Qatar vs Switzerland [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[02:00 WIB 14/06/26] Qatar vs Switzerland [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[02:00 WIB 14/06/26] Qatar vs Switzerland [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[02:00 WIB 14/06/26] Qatar vs Switzerland [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[05:00 WIB 14/06/26] Brazil vs Morocco [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[05:00 WIB 14/06/26] Brazil vs Morocco [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[05:00 WIB 14/06/26] Brazil vs Morocco [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[05:00 WIB 14/06/26] Brazil vs Morocco [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[05:00 WIB 14/06/26] Brazil vs Morocco [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[05:00 WIB 14/06/26] Brazil vs Morocco [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[08:00 WIB 14/06/26] Haiti vs Scotland [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[08:00 WIB 14/06/26] Haiti vs Scotland [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[08:00 WIB 14/06/26] Haiti vs Scotland [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[08:00 WIB 14/06/26] Haiti vs Scotland [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[08:00 WIB 14/06/26] Haiti vs Scotland [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[08:00 WIB 14/06/26] Haiti vs Scotland [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[11:00 WIB 14/06/26] Australia vs Türkiye [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[11:00 WIB 14/06/26] Australia vs Türkiye [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[11:00 WIB 14/06/26] Australia vs Türkiye [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[11:00 WIB 14/06/26] Australia vs Türkiye [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[11:00 WIB 14/06/26] Australia vs Türkiye [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="World Cup",[11:00 WIB 14/06/26] Australia vs Türkiye [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
