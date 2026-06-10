@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:09 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:09 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:16 WIB 10/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:16 WIB 10/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[17:30 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[17:30 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[17:30 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1075.png" group-title="Pro League A",[19:30 WIB 10/06/26] BuxDu vs Qiziriq [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
@@ -19,15 +10,6 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1075.png" group-title="Pro League A",[19:30 WIB 10/06/26] BuxDu vs Qiziriq [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[20:00 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[20:00 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[20:00 WIB 10/06/26] Jan-Lennard Struff vs Alexander Bublik [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1075.png" group-title="Pro League A",[20:00 WIB 10/06/26] Shortan vs Gazalkent [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
@@ -46,6 +28,15 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/246.png" group-title="Suomen Cup",[21:00 WIB 10/06/26] KuPS vs VPS [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/ATP_250_Series_logo.png" group-title="ATP250 S-Hertogenbosch",[21:00 WIB 10/06/26] Martin Damm vs Alex de Minaur [FHD] [LIVE]
+https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/ATP_250_Series_logo.png" group-title="ATP250 S-Hertogenbosch",[21:00 WIB 10/06/26] Martin Damm vs Alex de Minaur [HD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/ATP_250_Series_logo.png" group-title="ATP250 S-Hertogenbosch",[21:00 WIB 10/06/26] Martin Damm vs Alex de Minaur [SD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[22:00 WIB 10/06/26] Thổ Nhĩ Kỳ vs Mỹ [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
