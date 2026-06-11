@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 18:58:10 WIB 11-06-2026
-# 🔄 Total Channels: 4463
+# ⏰ Latest Updated: 19:04:48 WIB 11-06-2026
+# 🔄 Total Channels: 4448
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [18:58:10 WIB 11-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [19:04:48 WIB 11-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -12200,61 +12200,58 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 http://103.148.44.38:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="Piala Dunia 2026 🏆🌎⚽",TVRI SPORT DIGITAL (Kalo bisu pilih channel yg lain)
 http://103.148.44.38:8000/play/a05u/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDNH8JVuy39SuS29kMij1-CD2Zx-2oTJ3jSftvifByg&s=10" group-title="LIVE EVENT",00:30 WIB Premier Padel '26: Valencia | BEINSPORTS 2 | Gvision TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="LIVE EVENT",[Belum Mulai] 02:00 WIB Meksiko vs Afrika Selatan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="LIVE EVENT",02:00 WIB Meksiko vs Afrika Selatan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="EVENT PIALA DUNIA",[BELUM MULAI] 02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | Sportv | Gvision TV 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s" group-title="LIVE EVENT",[Belum Mulai] 02:30 WIB Bulgaria v Iran | Week 1 | Men's VNL 2026 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel80.m3u8?wsSecret=5ddc61acd45ad37d4a0447377beab1db&wsABSTime=1781202971
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="EVENT PIALA DUNIA",02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | Sportv | Gvision TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="EVENT PIALA DUNIA",[BELUM MULAI] 02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | TVP SPORT | Gvision TV 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="EVENT PIALA DUNIA",02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | TVP SPORT | Gvision TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="EVENT PIALA DUNIA",[BELUM MULAI] 02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | Sportv | Gvision TV 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="EVENT PIALA DUNIA",02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | Sportv | Gvision TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="EVENT PIALA DUNIA",[BELUM MULAI] 02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | TSN 1 | Gvision TV 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="EVENT PIALA DUNIA",02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | TSN 1 | Gvision TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="EVENT PIALA DUNIA",[BELUM MULAI] 02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | OKEY | Gvision TV 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="EVENT PIALA DUNIA",02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | OKEY | Gvision TV 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="JADWAL PIALA DUNIA",02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | Sportv | Gvision TV 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="JADWAL PIALA DUNIA",[SEDANG TAYANG] 02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | Sportv | Gvision TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="JADWAL PIALA DUNIA",02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | TVP SPORT | Gvision TV 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="JADWAL PIALA DUNIA",[SEDANG TAYANG] 02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | TVP SPORT | Gvision TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
 #KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="JADWAL PIALA DUNIA",02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | Sportv | Gvision TV 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="JADWAL PIALA DUNIA",[SEDANG TAYANG] 02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | Sportv | Gvision TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="JADWAL PIALA DUNIA",02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | TSN 1 | Gvision TV 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="JADWAL PIALA DUNIA",[SEDANG TAYANG] 02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | TSN 1 | Gvision TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="JADWAL PIALA DUNIA",02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | OKEY | Gvision TV 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/dzhwsf1775058317.jpg" group-title="JADWAL PIALA DUNIA",[SEDANG TAYANG] 02:00 WIB - 12 Juni |  Meksiko vs  Afrika Selatan | OKEY | Gvision TV 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/7ogw2s1775058371.jpg" group-title="JADWAL PIALA DUNIA",09:00 WIB - 12 Juni |  Korea Selatan vs  Ceko | TSN 1 | Gvision TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12700,6 +12697,12 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F710_165018908829.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   12/06 Mexico vs South Africa  KAKA m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F710_165018908829.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:00   12/06 Mexico vs South Africa  KAKA flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_132737_1cfe2b5b.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",02:00   12/06 Mexico vs South Africa HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -12752,30 +12755,6 @@ https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d0
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F11070_1grj9kcw8v28.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:45   12/06 Al-Shabab vs Al-Jahra  QUAN VU flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781173974.webp&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   12/06 Khai Mac vs WORLD CUP  KEVILL m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781173974.webp&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   12/06 Khai Mac vs WORLD CUP  KEVILL flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781173974.webp&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   12/06 Khai Mac vs WORLD CUP  LU BO m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781173974.webp&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   12/06 Khai Mac vs WORLD CUP  LU BO flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781173974.webp&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   12/06 Khai Mac vs WORLD CUP  KAKA m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781173974.webp&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   12/06 Khai Mac vs WORLD CUP  KAKA flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781173974.webp&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   12/06 Khai Mac vs WORLD CUP  LUU BI m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fupload-img.cdnokvip.com%2Fuploads%2Fteam_logo%2F1781173974.webp&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:30   12/06 Khai Mac vs WORLD CUP  LUU BI flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F368_1h4yn3a5rr27.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/06 Helsingborg vs Landskrona BoIS  HAN TIN m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
@@ -12794,30 +12773,6 @@ https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F368_1h4yn3a5rr27.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/06 Helsingborg vs Landskrona BoIS  GAU KA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1404_16575015021.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/06 Portugal U20 vs Canada U20  PHI HO m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1404_16575015021.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/06 Portugal U20 vs Canada U20  PHI HO flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1404_16575015021.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/06 Portugal U20 vs Canada U20  TRIEU TU LONG m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1404_16575015021.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/06 Portugal U20 vs Canada U20  TRIEU TU LONG flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1404_16575015021.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/06 Portugal U20 vs Canada U20  DUONG CHI m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1404_16575015021.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/06 Portugal U20 vs Canada U20  DUONG CHI flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1404_16575015021.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/06 Portugal U20 vs Canada U20  MAYBACH m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1404_16575015021.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",00:00   12/06 Portugal U20 vs Canada U20  MAYBACH flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_134333_d35c03f7.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",00:00   12/06 Portugal U20 vs Canada U20 HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -12882,24 +12837,21 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg" group-title="Live Event: Hội quán",23:30 11/06 Ben Shelton vs Marcos Giron FHD Gvision TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png" group-title="Live Event: Hội quán",02:30 12/06 Bulgaria vs Iran FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg" group-title="Live Event: Hội quán",23:30 11/06 Ben Shelton vs Marcos Giron HD Gvision TV
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png" group-title="Live Event: Hội quán",02:30 12/06 Bulgaria vs Iran HD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesecondserve.com/wp-content/uploads/2025/08/ben-shelton-toronto-cincinnati-open2-1.jpg" group-title="Live Event: Hội quán",23:30 11/06 Ben Shelton vs Marcos Giron SD Gvision TV
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png" group-title="Live Event: Hội quán",02:30 12/06 Bulgaria vs Iran SD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
-https://alive.yarncdn.live/hqtv_blv_phantu/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="Live Event: Colalive",02:00 12/06 Mexico vs Nam Phi Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/97312754.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7421513831e839a215c3bea5f9333d0a.png!w80" group-title="Live Event: Colalive",00:00 12/06 Bo Dao Nha U20 vs Canada U20 Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.msdht.app/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a26176c395984600e2f00a3bf67f0784.png!w80" group-title="Live Event: Colalive",00:00 12/06 CLB Helsingborg vs Landskrona BoIS Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.msdht.app/live/82054853.m3u8
