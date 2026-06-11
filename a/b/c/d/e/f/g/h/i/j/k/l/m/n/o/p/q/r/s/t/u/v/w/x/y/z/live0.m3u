@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 06:39:24 WIB 11-06-2026
-# 🔄 Total Channels: 1262
+# ⏰ Latest Updated: 06:46:04 WIB 11-06-2026
+# 🔄 Total Channels: 1266
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [06:39:24 WIB 11-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [06:46:04 WIB 11-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -467,6 +467,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="LIVE EVENT",[Belum Mulai] 14:00 WIB Philippines vs Chinese Taipei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel80.m3u8?wsSecret=291e4ff287bed56c21a4859ad5ba581b&wsABSTime=1781202595
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg" group-title="Berita Olahraga",13:30 WIB Sports Arena | MAX Streak | Gvision TV
 https://cdnbal1.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F61797_1k28xd5f3613.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",13:00   11/06 Dalian Football School vs Shanghai Shenhua W  NGUOI THEP m3u Gvision TV
@@ -481,6 +485,18 @@ https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=539
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F61797_1k28xd5f3613.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",13:00   11/06 Dalian Football School vs Shanghai Shenhua W  DUONG CHI flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Live Event: Hội quán",14:00 11/06 Philippin vs Dai Loan FHD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Live Event: Hội quán",14:00 11/06 Philippin vs Dai Loan HD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png" group-title="Live Event: Hội quán",14:00 11/06 Philippin vs Dai Loan SD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8QZCk-ACQHjIASW0wQfEHeQAcyP1OJtPSg&s" group-title="Live Event: Hội quán",12:30 11/06 CHOU Tien Chen vs DONG Tian Yao FHD Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
