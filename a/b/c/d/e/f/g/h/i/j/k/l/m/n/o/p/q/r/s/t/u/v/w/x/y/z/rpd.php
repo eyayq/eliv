@@ -1,36 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.01 WIB 12/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.02 WIB 12/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruzeiro-youth-8d6008.png" group-title="[LIVE 01:00 WIB 12/06/26] Cruzeiro (Youth) vs Fortaleza U20 | Server 1",[LIVE 01:00 WIB 12/06/26] Cruzeiro (Youth) vs Fortaleza U20 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/cruzeiro-youth-8d6008.png" group-title="[LIVE 01:00 WIB 12/06/26] Cruzeiro (Youth) vs Fortaleza U20 | Server 2",[LIVE 01:00 WIB 12/06/26] Cruzeiro (Youth) vs Fortaleza U20 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sao-paulo-youth-145e43.png" group-title="[LIVE 01:00 WIB 12/06/26] Sao Paulo Youth vs RB Bragantino Youth | Server 1",[LIVE 01:00 WIB 12/06/26] Sao Paulo Youth vs RB Bragantino Youth | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/sao-paulo-youth-145e43.png" group-title="[LIVE 01:00 WIB 12/06/26] Sao Paulo Youth vs RB Bragantino Youth | Server 2",[LIVE 01:00 WIB 12/06/26] Sao Paulo Youth vs RB Bragantino Youth | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 1",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1781041844-0-0-d0d8fe82e2079c4f938b09a89eb294a9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 2",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1781041844-0-0-d0d8fe82e2079c4f938b09a89eb294a9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 3",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38014_lhd.m3u8?auth_key=1781211893-0-0-aa88c68c9b29e91f967a2f3d92f6b333
+https://alpull.mmchari.xyz/live/live_38012_lhd.m3u8?auth_key=1781210969-0-0-1281d2e041215b963e47003f4c18f958
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 4",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38014_lhd.flv?auth_key=1781211893-0-0-56a7f9021802641f31d131518f96ac82
+https://alpull.mmchari.xyz/live/live_38012_lhd.flv?auth_key=1781210969-0-0-8e76a5fda23decf78aa922f65b318c45
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 5",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38009_lhd.m3u8?auth_key=1781209676-0-0-45c518e160b34c303403ee8a2fe40134
+https://alpull.mmchari.xyz/live/live_38018_lhd.m3u8?auth_key=1781213323-0-0-323ba9033034adb13e03d5f5fa86f892
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 6",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38009_lhd.flv?auth_key=1781209676-0-0-fe88f8f5829f9ebd367e8ee592184392
+https://alpull.mmchari.xyz/live/live_38018_lhd.flv?auth_key=1781213323-0-0-0c8dffb0aa14ee328bac4a5bcb0ec5c2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 7",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 https://alpull.mmchari.xyz/live/live_38013_lhd.m3u8?auth_key=1781211047-0-0-1711489e90ef9987b1f1df0403ba58ab
@@ -39,127 +27,127 @@ https://alpull.mmchari.xyz/live/live_38013_lhd.m3u8?auth_key=1781211047-0-0-1711
 https://alpull.mmchari.xyz/live/live_38013_lhd.flv?auth_key=1781211047-0-0-baab708912c9d3e48ccc3ecb36b43122
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 9",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38018_lhd.m3u8?auth_key=1781213323-0-0-323ba9033034adb13e03d5f5fa86f892
+https://alpull.mmchari.xyz/live/live_38019_lhd.m3u8?auth_key=1781215407-0-0-95bd9f9edb38a175752f0631e48bf2ff
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 10",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38018_lhd.flv?auth_key=1781213323-0-0-0c8dffb0aa14ee328bac4a5bcb0ec5c2
+https://alpull.mmchari.xyz/live/live_38019_lhd.flv?auth_key=1781215407-0-0-e2407798a22ff2dea1518348fb43632a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 11",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://fpmn.sla.homes/sla/1-6a0b307e57da6ea0f12a8a62.m3u8?auth_key=1781229242-0-0-36f101eeca8ec19961fa13efe4b49066
+https://alpull.mmchari.xyz/live/live_38009_lhd.m3u8?auth_key=1781209676-0-0-45c518e160b34c303403ee8a2fe40134
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 12",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38012_lhd.m3u8?auth_key=1781210969-0-0-1281d2e041215b963e47003f4c18f958
+https://alpull.mmchari.xyz/live/live_38009_lhd.flv?auth_key=1781209676-0-0-fe88f8f5829f9ebd367e8ee592184392
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 13",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38012_lhd.flv?auth_key=1781210969-0-0-8e76a5fda23decf78aa922f65b318c45
+https://alpull.mmchari.xyz/live/live_38020_lhd.m3u8?auth_key=1781215554-0-0-7e5bb4452bcc12323f5455b86b6b8380
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 14",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38019_lhd.m3u8?auth_key=1781215407-0-0-95bd9f9edb38a175752f0631e48bf2ff
+https://alpull.mmchari.xyz/live/live_38020_lhd.flv?auth_key=1781215554-0-0-150c07eeb4893d97fc43b06065ec4a02
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 15",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38019_lhd.flv?auth_key=1781215407-0-0-e2407798a22ff2dea1518348fb43632a
+https://fpmn.sla.homes/sla/1-6a0b307e57da6ea0f12a8a62.m3u8?auth_key=1781229422-0-0-c4ad48ebb92759fdd7c92bb4a02ac7ab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 16",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 16 (SVR-BHNS 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38020_lhd.m3u8?auth_key=1781215554-0-0-7e5bb4452bcc12323f5455b86b6b8380
+https://alpull.mmchari.xyz/live/live_38014_lhd.m3u8?auth_key=1781211893-0-0-aa88c68c9b29e91f967a2f3d92f6b333
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 17",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 17 (SVR-BHNS 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38020_lhd.flv?auth_key=1781215554-0-0-150c07eeb4893d97fc43b06065ec4a02
+https://alpull.mmchari.xyz/live/live_38014_lhd.flv?auth_key=1781211893-0-0-56a7f9021802641f31d131518f96ac82
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 18",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 18 (SVR-BHNS 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd|drmScheme=clearkey&drmLicense=c71fe7bc82f037c6af21fd299d6341b0:13223c98886ff43d3c5f271eeb457cc6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 19",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 19 (SVR-BHNS 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd|drmScheme=clearkey&drmLicense=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 20",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 20 (SVR-BHNS 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd|drmScheme=clearkey&drmLicense=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 21",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 21 (SVR-BHNS 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781211560-0-0-7a8ad9dc616db4f29f4a1c329a2fa7a6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 22",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 22 (SVR-BHNS 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781211560-0-0-d37217e824f802ab096fd7e1900d3a09
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 23",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 23 (SVR-BHNS 23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=acc4ed7942cb388f69b136eef69a0a11&txTime=6a2b67f8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 24",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 24 (SVR-BHNS 24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=fde6e29c7266432d86b8f332895326d3&txTime=6a2b67f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 25",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 25 (SVR-BHNS 25)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=a552d6d68431488101192b34fa6fa6f0&txTime=6a2b67f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 26",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 26 (SVR-BHNS 26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=e8489adfb89dadc3cb291412567c0cfc&txTime=6a2b67f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 27",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 27 (SVR-BHNS 27)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=09270d782d3f586ff8830b436c554cce&txTime=6a2b67f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 28",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 28 (SVR-BHNS 28)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=b22ee7e812d8ef535d1900fcca7904b4&txTime=6a2b67f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 29",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 29 (SVR-BHNS 29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781211560-0-0-25d14868998ffad921a7269891f8b521
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 30",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 30 (SVR-BHNS 30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781211560-0-0-3221f504200f2fcc5cf5ee8b1949edfc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 31",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 31 (SVR-BHNS 31)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781211560-0-0-c503f49407d155a2decbd16c5c762d43
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 32",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 32 (SVR-BHNS 32)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781211560-0-0-17f590de2d0cf38543428c0ceb595890
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 33",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 33 (SVR-BHNS 33)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=f6d8d4a58ac44321dd63c3328280294f&txTime=6a2b67f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 34",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 34 (SVR-BHNS 34)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=8974ab60fed3df75481cf3752c8da532&txTime=6a2b67f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 35",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 35 (SVR-BHNS 35)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781211560-0-0-bb725bf1acef90c47f66f93923538e2d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 36",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 36 (SVR-BHNS 36)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781211560-0-0-3e0e86636e116407e484f8952563d278
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 37",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 37 (SVR-BHNS 37)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781211560-0-0-0742d7d68a574ee8c7f5de525101aab7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 38",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 38 (SVR-BHNS 38)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781211560-0-0-0301fa9dcacf60e02a537da6abcb9769
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 39",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 39 (SVR-BHNS 39)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781211560-0-0-440ad724e9e71cb860027e685ab08110
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 40",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 40 (SVR-BHNS 40)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781211560-0-0-bfafa09589fab642e45bf139d4fe1c2d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 41",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 41 (SVR-BHNS 41)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1781211560-0-0-ffe1e3a668b07b288c2b65d383aef551
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 42",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 42 (SVR-BHNS 42)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1781211560-0-0-a61bcce38741a55ed6546d4d29b18462
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 43",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 43 (SVR-BHNS 43)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781211560-0-0-d557f1e101d517edb38368677b556cb5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 44",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 44 (SVR-BHNS 44)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781211560-0-0-50b5bc9569b0f1dd5f8a17b7d1b0f80a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 45",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 45 (SVR-BHNS 45)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 25",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 25 (SVR-BHNS 25)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 46",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 46 (SVR-BHNS 46)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 47",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 47 (SVR-BHNS 47)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 48",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 48 (SVR-BHNS 48)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 26",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 26 (SVR-BHNS 26)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 49",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 49 (SVR-BHNS 49)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 27",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 27 (SVR-BHNS 27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781211200-0-0-92993805beb5ac754cce979482ad0c11
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 28",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 28 (SVR-BHNS 28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781211200-0-0-beb21871433dd6be897e76243275ac72
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 29",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 29 (SVR-BHNS 29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=42ccb5627d3d734f75edfa117b9dce68&txTime=6a2b6690
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 30",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 30 (SVR-BHNS 30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=0a6c0ad899c46d2ba9a5d2c9af199e32&txTime=6a2b6690
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 31",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 31 (SVR-BHNS 31)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=a6f63e1fdfa2874782afda69eaa10451&txTime=6a2b6690
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 32",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 32 (SVR-BHNS 32)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=87c78b94d88c14c4a165b81393935abe&txTime=6a2b6690
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 33",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 33 (SVR-BHNS 33)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=cb8d8eef1d5a481019981e4349e4fd8f&txTime=6a2b6690
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 34",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 34 (SVR-BHNS 34)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f394fe808d6ec3ddc1430c16b76c60d9&txTime=6a2b6690
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 35",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 35 (SVR-BHNS 35)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=5b042357376fd331204e98dc11d1accb&txTime=6a2b6690
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 36",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 36 (SVR-BHNS 36)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=f6bcee8b91a7b883ebf099ee1804b73e&txTime=6a2b6690
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 37",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 37 (SVR-BHNS 37)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781211200-0-0-fc451806b5075ef55f8df427a1e4cae6
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 38",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 38 (SVR-BHNS 38)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781211200-0-0-ad1e2923904432f244362b196157c957
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 39",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 39 (SVR-BHNS 39)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781211200-0-0-9b4edfbc6659afdd086ef97bdf60b658
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 40",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 40 (SVR-BHNS 40)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781211200-0-0-7bf06b74a086e08e1542408e8fc166ad
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 41",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 41 (SVR-BHNS 41)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781211200-0-0-fb86ffddeda7b51de6dbc40969194453
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 42",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 42 (SVR-BHNS 42)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781211200-0-0-1ea31def75951652f815c9f3984c291f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 43",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 43 (SVR-BHNS 43)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781211200-0-0-39c2146a1d06a979d8d5b5a3f79d9949
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 44",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 44 (SVR-BHNS 44)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781211200-0-0-ae50572ca5129628e2ba348ffe32df04
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 45",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 45 (SVR-BHNS 45)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781211200-0-0-6a9c20fb5d73481f3b678b7cdeaf812a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 46",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 46 (SVR-BHNS 46)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781211200-0-0-f27ee9032b8801dcf6a3cf8110e8b6fa
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 47",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 47 (SVR-BHNS 47)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781211200-0-0-c5084fc525598f1b6166a3b8f262bbda
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 48",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 48 (SVR-BHNS 48)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781211200-0-0-65b48b1568b88bfe21905dbbe9472c84
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 49",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 49 (SVR-BHNS 49)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1781211200-0-0-7ed1d44e2661d54b50dabcf15a158efb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/mexico-4edfc9.png" group-title="[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 50",[LIVE 02:00 WIB 12/06/26] Mexico vs South Africa | Server 50 (SVR-BHNS 50)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1781211200-0-0-c5d953f1300e244976c73a92c9077364
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
