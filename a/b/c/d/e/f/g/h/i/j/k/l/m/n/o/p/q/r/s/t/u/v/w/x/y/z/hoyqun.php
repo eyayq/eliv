@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:41 WIB 11/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:41 WIB 11/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:48 WIB 11/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:48 WIB 11/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[16:00 WIB 11/06/26] The Mongolz vs BetBoom [FHD] [LIVE]
@@ -676,3 +676,66 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 14/06/26] Qingdao Red Lions vs Shanghai Port II [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0d/Chinese_Super_League_Logo_2.png" group-title="Super League Nữ",[16:00 WIB 14/06/26] Changchun Dazhong Nữ vs Shaanxi Changan Nữ [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0d/Chinese_Super_League_Logo_2.png" group-title="Super League Nữ",[16:00 WIB 14/06/26] Changchun Dazhong Nữ vs Shaanxi Changan Nữ [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0d/Chinese_Super_League_Logo_2.png" group-title="Super League Nữ",[16:00 WIB 14/06/26] Changchun Dazhong Nữ vs Shaanxi Changan Nữ [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/41.png" group-title="League One",[18:00 WIB 14/06/26] Wuxi Wugou vs Meizhou Kejia [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/41.png" group-title="League One",[18:00 WIB 14/06/26] Wuxi Wugou vs Meizhou Kejia [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/41.png" group-title="League One",[18:00 WIB 14/06/26] Wuxi Wugou vs Meizhou Kejia [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 14/06/26] Ulytau vs Zhenys [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 14/06/26] Ulytau vs Zhenys [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 14/06/26] Ulytau vs Zhenys [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/411.png" group-title="Elite One",[20:00 WIB 14/06/26] Cotonsport vs Canon [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/411.png" group-title="Elite One",[20:00 WIB 14/06/26] Cotonsport vs Canon [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/411.png" group-title="Elite One",[20:00 WIB 14/06/26] Cotonsport vs Canon [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[21:00 WIB 14/06/26] São Bernardo vs Sport Recife [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[21:00 WIB 14/06/26] São Bernardo vs Sport Recife [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[21:00 WIB 14/06/26] São Bernardo vs Sport Recife [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 14/06/26] FC Dnepr Mogilev vs Arsenal [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 14/06/26] FC Dnepr Mogilev vs Arsenal [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 14/06/26] FC Dnepr Mogilev vs Arsenal [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1232.png" group-title="Copa De La Liga",[23:00 WIB 14/06/26] Ayacucho FC vs Club Deportivo Los Chankas [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1232.png" group-title="Copa De La Liga",[23:00 WIB 14/06/26] Ayacucho FC vs Club Deportivo Los Chankas [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1232.png" group-title="Copa De La Liga",[23:00 WIB 14/06/26] Ayacucho FC vs Club Deportivo Los Chankas [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
