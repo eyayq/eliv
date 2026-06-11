@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [16.12 WIB 11/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [16.19 WIB 11/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1768871652303-football-icon.png" group-title="[UPCOMING 1j 47m 18:00 WIB 11/06/26] Nam Dinh vs Ho Chi Minh",[UPCOMING 1j 47m 18:00 WIB 11/06/26] Nam Dinh vs Ho Chi Minh (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1768871652303-football-icon.png" group-title="[UPCOMING 1j 40m 18:00 WIB 11/06/26] Nam Dinh vs Ho Chi Minh",[UPCOMING 1j 40m 18:00 WIB 11/06/26] Nam Dinh vs Ho Chi Minh (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1768871652303-football-icon.png" group-title="[UPCOMING 1j 47m 18:00 WIB 11/06/26] Phu Dong vs Viettel",[UPCOMING 1j 47m 18:00 WIB 11/06/26] Phu Dong vs Viettel (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1768871652303-football-icon.png" group-title="[UPCOMING 1j 40m 18:00 WIB 11/06/26] Phu Dong vs Viettel",[UPCOMING 1j 40m 18:00 WIB 11/06/26] Phu Dong vs Viettel (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="[UPCOMING 4j 2m 20:15 WIB 11/06/26] Indonesia U19 vs Australia U19",[UPCOMING 4j 2m 20:15 WIB 11/06/26] Indonesia U19 vs Australia U19 (FHD)
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="[UPCOMING 9j 47m 02:00 WIB 12/06/26] Mexico vs South Africa",[UPCOMING 9j 47m 02:00 WIB 12/06/26] Mexico vs South Africa (FHD)
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="[UPCOMING 9j 47m 02:00 WIB 12/06/26] Mexico vs South Africa",[UPCOMING 9j 47m 02:00 WIB 12/06/26] Mexico vs South Africa (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1780912396715-img-0903.png" group-title="[UPCOMING 2j 10m 18:30 WIB 11/06/26] Team Vitality vs FUT Esports",[UPCOMING 2j 10m 18:30 WIB 11/06/26] Team Vitality vs FUT Esports (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="[UPCOMING 16j 47m 09:00 WIB 12/06/26] South Korea vs Czech Republic",[UPCOMING 16j 47m 09:00 WIB 12/06/26] South Korea vs Czech Republic (FHD)
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="[UPCOMING 3j 55m 20:15 WIB 11/06/26] Indonesia U19 vs Australia U19",[UPCOMING 3j 55m 20:15 WIB 11/06/26] Indonesia U19 vs Australia U19 (FHD)
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="[UPCOMING 9j 40m 02:00 WIB 12/06/26] Mexico vs South Africa",[UPCOMING 9j 40m 02:00 WIB 12/06/26] Mexico vs South Africa (FHD)
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/1.png" group-title="[UPCOMING 16j 40m 09:00 WIB 12/06/26] South Korea vs Czech Republic",[UPCOMING 16j 40m 09:00 WIB 12/06/26] South Korea vs Czech Republic (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
