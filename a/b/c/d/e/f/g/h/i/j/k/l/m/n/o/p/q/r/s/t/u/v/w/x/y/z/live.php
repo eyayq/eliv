@@ -1,64 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" group-title="😈DONASI SERVER😈:17:32:57-WIB😈",😈Donasi Server Playlist Agar Tetap Hidup😈
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" group-title="😈DONASI SERVER😈:17:38:59-WIB😈",😈Donasi Server Playlist Agar Tetap Hidup😈
 
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/lQohgHCa-As3RA4Es.png" group-title="😈V-League😈|😈01:00:00-WIB😈",😈PVF-CAND vs Bắc Ninh😈|😈13-06-2026😈|⏳07:27:02😈
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/lQohgHCa-As3RA4Es.png" group-title="😈V-League😈|😈01:00:00-WIB😈",😈PVF-CAND vs Bắc Ninh😈|😈13-06-2026😈|⏳07:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_phimc/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/lQohgHCa-As3RA4Es.png" group-title="😈V-League😈|😈01:00:00-WIB😈",😈PVF-CAND vs Bắc Ninh😈|😈13-06-2026😈|⏳07:27:02😈
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/lQohgHCa-As3RA4Es.png" group-title="😈V-League😈|😈01:00:00-WIB😈",😈PVF-CAND vs Bắc Ninh😈|😈13-06-2026😈|⏳07:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_phimc/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/lQohgHCa-As3RA4Es.png" group-title="😈V-League😈|😈01:00:00-WIB😈",😈PVF-CAND vs Bắc Ninh😈|😈13-06-2026😈|⏳07:27:02😈
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/lQohgHCa-As3RA4Es.png" group-title="😈V-League😈|😈01:00:00-WIB😈",😈PVF-CAND vs Bắc Ninh😈|😈13-06-2026😈|⏳07:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png" group-title="😈Nations League Men's😈|😈02:00:00-WIB😈",😈Ba Lan vs Nhật Bản😈|😈13-06-2026😈|⏳08:27:02😈
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png" group-title="😈Nations League Men's😈|😈02:00:00-WIB😈",😈Ba Lan vs Nhật Bản😈|😈13-06-2026😈|⏳08:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_cuccu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png" group-title="😈Nations League Men's😈|😈02:00:00-WIB😈",😈Ba Lan vs Nhật Bản😈|😈13-06-2026😈|⏳08:27:02😈
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png" group-title="😈Nations League Men's😈|😈02:00:00-WIB😈",😈Ba Lan vs Nhật Bản😈|😈13-06-2026😈|⏳08:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_cuccu/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png" group-title="😈Nations League Men's😈|😈02:00:00-WIB😈",😈Ba Lan vs Nhật Bản😈|😈13-06-2026😈|⏳08:27:02😈
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/WnW15DfM-6ys9CWQj.png" group-title="😈Nations League Men's😈|😈02:00:00-WIB😈",😈Ba Lan vs Nhật Bản😈|😈13-06-2026😈|⏳08:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9114.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Foutoua vs Al Karama😈|😈13-06-2026😈|⏳09:27:02😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9114.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Foutoua vs Al Karama😈|😈13-06-2026😈|⏳09:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_khomuc/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9114.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Foutoua vs Al Karama😈|😈13-06-2026😈|⏳09:27:02😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9114.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Foutoua vs Al Karama😈|😈13-06-2026😈|⏳09:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_khomuc/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9114.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Foutoua vs Al Karama😈|😈13-06-2026😈|⏳09:27:02😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9114.png" group-title="😈Premier League😈|😈03:00:00-WIB😈",😈Foutoua vs Al Karama😈|😈13-06-2026😈|⏳09:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3502.png" group-title="😈Erovnuli Liga😈|😈05:00:00-WIB😈",😈Saburtalo vs Spaeri😈|😈13-06-2026😈|⏳11:27:02😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3502.png" group-title="😈Erovnuli Liga😈|😈05:00:00-WIB😈",😈Saburtalo vs Spaeri😈|😈13-06-2026😈|⏳11:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieumeo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3502.png" group-title="😈Erovnuli Liga😈|😈05:00:00-WIB😈",😈Saburtalo vs Spaeri😈|😈13-06-2026😈|⏳11:27:02😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3502.png" group-title="😈Erovnuli Liga😈|😈05:00:00-WIB😈",😈Saburtalo vs Spaeri😈|😈13-06-2026😈|⏳11:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://alive.yarncdn.live/bgtv_blv_tieumeo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3502.png" group-title="😈Erovnuli Liga😈|😈05:00:00-WIB😈",😈Saburtalo vs Spaeri😈|😈13-06-2026😈|⏳11:27:02😈
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3502.png" group-title="😈Erovnuli Liga😈|😈05:00:00-WIB😈",😈Saburtalo vs Spaeri😈|😈13-06-2026😈|⏳11:21:00😈
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
