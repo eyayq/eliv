@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:34 WIB 12/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:34 WIB 12/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:41 WIB 12/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:41 WIB 12/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/340.png" group-title="V.League 1",[18:00 WIB 12/06/26] PVF-CAND vs Bắc Ninh [FHD] [LIVE]
@@ -47,13 +47,13 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/ATP_250_Series_logo.png" group-title="ATP250 S-Hertogenbosch",[19:30 WIB 12/06/26] Benjamin Bonzi vs Alex de Minaur [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[20:00 WIB 12/06/26] Hàn Quốc vs Đài Loan [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[20:00 WIB 12/06/26] Hàn Quốc vs Đài Loan [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[20:00 WIB 12/06/26] Hàn Quốc vs Đài Loan [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[20:00 WIB 12/06/26] Hàn Quốc vs Đài Loan [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[20:00 WIB 12/06/26] Hàn Quốc vs Đài Loan [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[20:00 WIB 12/06/26] Hàn Quốc vs Đài Loan [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[21:00 WIB 12/06/26] FC Isloch Minsk R. vs Naftan [FHD] [NANTIKAN]
