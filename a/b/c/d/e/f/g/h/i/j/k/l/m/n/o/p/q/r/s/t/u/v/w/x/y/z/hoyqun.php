@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [18:25 WIB 12/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:25 WIB 12/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [18:31 WIB 12/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:31 WIB 12/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfJhO7YLswwGPAXQ7TRLWDHTGB-NyzNxzLw&s" group-title="LCK Road to MSI 2026",[15:00 WIB 12/06/26] Hanwha Life Esports vs T1 [FHD] [LIVE]
@@ -65,22 +65,22 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[18:30 WIB 12/06/26] FUT vs G2 [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[18:55 WIB 12/06/26] fff [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[18:55 WIB 12/06/26] fff [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[18:55 WIB 12/06/26] fff [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[18:55 WIB 12/06/26] fff [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[18:55 WIB 12/06/26] fff [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[18:55 WIB 12/06/26] fff [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[19:00 WIB 12/06/26] Ekibastuz vs Arys [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[19:00 WIB 12/06/26] Ekibastuz vs Arys [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[19:00 WIB 12/06/26] Ekibastuz vs Arys [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[19:00 WIB 12/06/26] Ekibastuz vs Arys [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[19:00 WIB 12/06/26] Ekibastuz vs Arys [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[19:00 WIB 12/06/26] Ekibastuz vs Arys [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[19:00 WIB 12/06/26] Nhật Bản vs Ba Lan [FHD] [NANTIKAN]
@@ -146,15 +146,6 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[22:00 WIB 12/06/26] Satsuki Odo vs Anna Hursey [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[22:35 WIB 12/06/26] Wen Ruibo vs Hiroto Shinozuka [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[22:35 WIB 12/06/26] Wen Ruibo vs Hiroto Shinozuka [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[22:35 WIB 12/06/26] Wen Ruibo vs Hiroto Shinozuka [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[23:00 WIB 12/06/26] Belshina vs Bate Borisov [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
@@ -163,15 +154,6 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[23:00 WIB 12/06/26] Belshina vs Bate Borisov [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[23:10 WIB 12/06/26] Lin Shidong vs Chen Junsong [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[23:10 WIB 12/06/26] Lin Shidong vs Chen Junsong [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[23:10 WIB 12/06/26] Lin Shidong vs Chen Junsong [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/ATP_250_Series_logo.png" group-title="ATP250 S-Hertogenbosch",[23:30 WIB 12/06/26]  Felix Auger-Aliassime vs Kamil Majchrzak [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
@@ -190,15 +172,6 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[23:30 WIB 12/06/26] Aurora vs Team Spirit [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[23:45 WIB 12/06/26] Miwa Harimoto vs Hana Aparovic [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[23:45 WIB 12/06/26] Miwa Harimoto vs Hana Aparovic [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[23:45 WIB 12/06/26] Miwa Harimoto vs Hana Aparovic [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[00:30 WIB 13/06/26] Khai Mạc WC [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
