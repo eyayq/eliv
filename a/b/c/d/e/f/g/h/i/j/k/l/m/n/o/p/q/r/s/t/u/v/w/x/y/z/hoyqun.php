@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:32 WIB 12/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:32 WIB 12/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:38 WIB 12/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:38 WIB 12/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[18:30 WIB 12/06/26] FUT vs G2 [FHD] [LIVE]
@@ -47,22 +47,22 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[20:00 WIB 12/06/26] Hàn Quốc vs Đài Loan [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[21:00 WIB 12/06/26] FC Isloch Minsk R. vs Naftan [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[21:00 WIB 12/06/26] FC Isloch Minsk R. vs Naftan [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[21:00 WIB 12/06/26] FC Isloch Minsk R. vs Naftan [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[21:00 WIB 12/06/26] FC Isloch Minsk R. vs Naftan [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[21:00 WIB 12/06/26] FC Isloch Minsk R. vs Naftan [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[21:00 WIB 12/06/26] FC Isloch Minsk R. vs Naftan [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[21:00 WIB 12/06/26] Navi vs Legacy [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[21:00 WIB 12/06/26] Navi vs Legacy [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[21:00 WIB 12/06/26] Navi vs Legacy [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[21:00 WIB 12/06/26] Navi vs Legacy [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[21:00 WIB 12/06/26] Navi vs Legacy [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://img-cdn.hltv.org/gallerypicture/tQFZwX3QRcqGp779W3jXaJ.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=1021764ee7d110c568526e9029449903" group-title="IEM Cologne Major 2026",[21:00 WIB 12/06/26] Navi vs Legacy [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[22:00 WIB 12/06/26] Satsuki Odo vs Anna Hursey [FHD] [NANTIKAN]
