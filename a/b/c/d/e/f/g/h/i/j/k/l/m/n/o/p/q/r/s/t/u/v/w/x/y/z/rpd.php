@@ -1,92 +1,92 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.25 WIB 13/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.30 WIB 13/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-zalgiris-vilnius-5f321e.png" group-title="[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 1",[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=2c3b4f1f424c4d4ffd6019242fac7a2b&txTime=6a2ca2f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781292380-0-0-af6e534fca1fac55b69ccf5f35e5c54a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-zalgiris-vilnius-5f321e.png" group-title="[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 2",[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=6ec09adbc067f9f72b8f74116f594eba&txTime=6a2ca2f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781292380-0-0-12b29aa863485e090f31e0aa035dc485
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-zalgiris-vilnius-5f321e.png" group-title="[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 3",[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=95964b6e3d7ca98c2a90cbe3a3204be9&txTime=6a2ca2f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=71483085090434e5088566f4e4b0fc8e&txTime=6a2ca3ac
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-zalgiris-vilnius-5f321e.png" group-title="[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 4",[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=52f7fefca4ebc6452dab25bf9f59b580&txTime=6a2ca2f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=99ff0c7dce0503d6422018cd5d2cbaa9&txTime=6a2ca3ac
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-zalgiris-vilnius-5f321e.png" group-title="[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 5",[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781292200-0-0-16e5d4b9c611f4f06bb36b399297ed67
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781292380-0-0-926b7f1ce872078aa4a405a9077929e6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-zalgiris-vilnius-5f321e.png" group-title="[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 6",[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781292200-0-0-4eaff3e15c5b8dfd8b0f81c205de8624
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781292380-0-0-fd2541ae724731a3ba31721918f2b52f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-zalgiris-vilnius-5f321e.png" group-title="[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 7",[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1781292200-0-0-594a94f3fa84d2b99ebae71a157277a0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=8ad7447450083011d54ac0b68a646927&txTime=6a2ca3ac
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-zalgiris-vilnius-5f321e.png" group-title="[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 8",[LIVE 00:00 WIB 13/06/26] FK Zalgiris Vilnius vs FK Riteriai | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781292200-0-0-e63470583470afa4db63d5a3517a9237
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 1",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=457c809a64fbfa640d90b7bb610d293e&txTime=6a2ca3ac
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lunds-bk-bbb169.jpg" group-title="[LIVE 00:00 WIB 13/06/26] Lunds BK vs AFC Malmo | Server 1",[LIVE 00:00 WIB 13/06/26] Lunds BK vs AFC Malmo | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/8b551fbdc29fb03e.m3u8?wsSecret=C42B397D56899D77E2198F5A94469F40&wsTime=1781283595
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 2",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781292200-0-0-38cb6ae1afc4a901085e457b48add2a7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 3",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781292200-0-0-303290848494b5792d3d7ab38567d154
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 4",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781292200-0-0-b13de8c3fbf6d2db02211a21ae0529d1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 5",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781292200-0-0-1c0623eb58c8a18e21be0250745dad2a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 6",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781292200-0-0-21c0a64979160f15486f2b7e72a9a8f2
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 7",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781292200-0-0-3186f7fbf4f5457f127094a244b418d9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 8",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781292200-0-0-ffe7c3d38170b7d64b9e75b6cebf4144
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 9",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781292200-0-0-8b27efd81bd8a55b787d2444b9683e68
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 10",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 11",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 12",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+https://play.streamgoaldaddy.com/live/d5dfbdf335adb917.m3u8?wsSecret=359F12B3807A1979FA3BD8C9BADDD0CF&wsTime=1781283595
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/codm-meknes-475e16.png" group-title="[LIVE 00:00 WIB 13/06/26] CODM Meknes vs Renaissance Zemamra | Server 1",[LIVE 00:00 WIB 13/06/26] CODM Meknes vs Renaissance Zemamra | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://play.streamgoaldaddy.com/live/975cef443a44fb9b.m3u8?wsSecret=79F00C376AAE1702E6401B83941AC2AB&wsTime=1781283595
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/difaa-hassani-el-jadidi-bb6d08.png" group-title="[LIVE 00:00 WIB 13/06/26] Difaa Hassani El Jadidi vs Olympique Dcheira | Server 1",[LIVE 00:00 WIB 13/06/26] Difaa Hassani El Jadidi vs Olympique Dcheira | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://play.streamgoaldaddy.com/live/4a4240fc2a416c71.m3u8?wsSecret=5653B2F5583C7ABFC748910A1B4BEEA8&wsTime=1781283595
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 1",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://play.streamgoaldaddy.com/live/8b551fbdc29fb03e.m3u8?wsSecret=C42B397D56899D77E2198F5A94469F40&wsTime=1781283595
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 2",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781292380-0-0-f5402777bbaebb8589258f8c9aea3e23
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 3",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781292380-0-0-9b060934dd1353b7b401aeaac74c3204
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 4",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781292380-0-0-5a50d58a189f0dc4b0f355922b0a7290
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 5",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781292380-0-0-acf9094d7ec60dd7f01dc7ced5d1cc47
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 6",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lsd.m3u8?auth_key=1781292380-0-0-6fbbe1c8e15f4afbbb654ed8f9257c0a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 7",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1781292380-0-0-c13fce8a09e8e121a1b0de0f0a26056f
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 8",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1781292380-0-0-da1b0157ebb1ba5318759467b8c671e2
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 9",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781292380-0-0-81a048548a4f2726127014c8f9724290
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 10",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 11",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dinamo-batumi-4feb99.png" group-title="[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 12",[LIVE 00:00 WIB 13/06/26] Dinamo Batumi vs Dila Gori | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/umea-fc-724a47.png" group-title="[LIVE 00:00 WIB 13/06/26] Umea FC vs Pitea IF | Server 1",[LIVE 00:00 WIB 13/06/26] Umea FC vs Pitea IF | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://play.streamgoaldaddy.com/live/6326b7e9c0d0f0d5.m3u8?wsSecret=AF2BD6697B08F0E24A207FABDB6AC441&wsTime=1781283595
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/lunds-bk-bbb169.jpg" group-title="[LIVE 00:00 WIB 13/06/26] Lunds BK vs AFC Malmo | Server 1",[LIVE 00:00 WIB 13/06/26] Lunds BK vs AFC Malmo | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiyah-d8d7a0.png" group-title="[LIVE 00:45 WIB 13/06/26] Al-Salmiyah vs Al Kuwait SC | Server 1",[LIVE 00:45 WIB 13/06/26] Al-Salmiyah vs Al Kuwait SC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/d5dfbdf335adb917.m3u8?wsSecret=359F12B3807A1979FA3BD8C9BADDD0CF&wsTime=1781283595
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiyah-d8d7a0.png" group-title="[LIVE 00:45 WIB 13/06/26] Al-Salmiyah vs Al Kuwait SC | Server 2",[LIVE 00:45 WIB 13/06/26] Al-Salmiyah vs Al Kuwait SC | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-nasar-0eb904.png" group-title="[LIVE 00:45 WIB 13/06/26] Al-Nasar vs Kazma | Server 1",[LIVE 00:45 WIB 13/06/26] Al-Nasar vs Kazma | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-nasar-0eb904.png" group-title="[LIVE 00:45 WIB 13/06/26] Al-Nasar vs Kazma | Server 2",[LIVE 00:45 WIB 13/06/26] Al-Nasar vs Kazma | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
  https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiyah-d8d7a0.png" group-title="[LIVE 00:45 WIB 13/06/26] Al-Salmiyah vs Al Kuwait SC | Server 1",[LIVE 00:45 WIB 13/06/26] Al-Salmiyah vs Al Kuwait SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiyah-d8d7a0.png" group-title="[LIVE 00:45 WIB 13/06/26] Al-Salmiyah vs Al Kuwait SC | Server 2",[LIVE 00:45 WIB 13/06/26] Al-Salmiyah vs Al Kuwait SC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canada-c2aada.png" group-title="[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 1",[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1781240314-0-0-a34b5d62dc5b31b2960b7d253c789cd6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canada-c2aada.png" group-title="[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 2",[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
@@ -99,27 +99,27 @@ https://alpull.mmchari.xyz/live/live_38086_lhd.m3u8?auth_key=1781293920-0-0-dc1b
 https://alpull.mmchari.xyz/live/live_38086_lhd.flv?auth_key=1781293920-0-0-bd5bf2cc87792432f55bb9c524981b67
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canada-c2aada.png" group-title="[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 5",[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38108_lhd.m3u8?auth_key=1781299261-0-0-0b1e5ed00e755d999e88a4cd77c2ed64
+https://alpull.mmchari.xyz/live/live_38103_lhd.m3u8?auth_key=1781298116-0-0-dcaae3c6361b0a9e940722452f0fb574
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canada-c2aada.png" group-title="[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 6",[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38108_lhd.flv?auth_key=1781299261-0-0-4d3523d79ac2c0c05294cde62a428877
+https://alpull.mmchari.xyz/live/live_38103_lhd.flv?auth_key=1781298116-0-0-928235e1aeff96e41a3e419f21fa00d0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canada-c2aada.png" group-title="[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 7",[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38111_lhd.m3u8?auth_key=1781300401-0-0-4cddeea5dc2f49e2b686c978557875f9
+https://alpull.mmchari.xyz/live/live_38108_lhd.m3u8?auth_key=1781299261-0-0-0b1e5ed00e755d999e88a4cd77c2ed64
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canada-c2aada.png" group-title="[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 8",[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38111_lhd.flv?auth_key=1781300401-0-0-ecccd02732728227a0f7e644e66a26c8
+https://alpull.mmchari.xyz/live/live_38108_lhd.flv?auth_key=1781299261-0-0-4d3523d79ac2c0c05294cde62a428877
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canada-c2aada.png" group-title="[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 9",[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38103_lhd.m3u8?auth_key=1781298116-0-0-dcaae3c6361b0a9e940722452f0fb574
+https://alpull.mmchari.xyz/live/live_38111_lhd.m3u8?auth_key=1781300401-0-0-4cddeea5dc2f49e2b686c978557875f9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canada-c2aada.png" group-title="[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 10",[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://alpull.mmchari.xyz/live/live_38103_lhd.flv?auth_key=1781298116-0-0-928235e1aeff96e41a3e419f21fa00d0
+https://alpull.mmchari.xyz/live/live_38111_lhd.flv?auth_key=1781300401-0-0-ecccd02732728227a0f7e644e66a26c8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canada-c2aada.png" group-title="[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 11",[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd|drmScheme=clearkey&drmLicense=c71fe7bc82f037c6af21fd299d6341b0:13223c98886ff43d3c5f271eeb457cc6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canada-c2aada.png" group-title="[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 12",[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/canada-c2aada.png" group-title="[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 13",[LIVE 02:00 WIB 13/06/26] Canada vs Bosnia and Herzegovina | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
