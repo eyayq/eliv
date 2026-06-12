@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 17:30:09 WIB 12-06-2026
-# 🔄 Total Channels: 5080
+# ⏰ Latest Updated: 17:36:31 WIB 12-06-2026
+# 🔄 Total Channels: 5081
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:30:09 WIB 12-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [17:36:31 WIB 12-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -15043,6 +15043,13 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZDNH8JVuy39SuS29kMij1-CD2Zx-2oTJ3jSftvifByg&s=10" group-title="LIVE EVENT",00:30 WIB Premier Padel '26: Valencia | BEINSPORTS 2 | Gvision TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbbfl9ZY89jGZ2IHsEPZzl5KTdKRh_dZbjwAIOrTTrw&s=10" group-title="LIVE EVENT",SATHIO GROUP Australian Badminton Open [Server 2] | Gvision TV
 https://tfwl3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel61.m3u8?wsSession=fc451ffa2254f834f620bd68-178098443887723&wsIPSercert=4b3bb8ae455929bbb94d84cbb18f700e&wsBindIP=2&wsserid=1168278531255916870
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbbfl9ZY89jGZ2IHsEPZzl5KTdKRh_dZbjwAIOrTTrw&s=10" group-title="LIVE EVENT",SATHIO GROUP Australian Badminton Open [Server 2] | Gvision TV
