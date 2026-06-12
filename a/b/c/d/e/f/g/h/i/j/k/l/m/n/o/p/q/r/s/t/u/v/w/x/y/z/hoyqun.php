@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:23 WIB 12/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:23 WIB 12/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:30 WIB 12/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:30 WIB 12/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[15:00 WIB 12/06/26] Ukraina vs Cuba [FHD] [LIVE]
@@ -39,13 +39,13 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[16:35 WIB 12/06/26] Lee Euynhe vs Chen Yi [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[16:35 WIB 12/06/26] Lee Euynhe vs Chen Yi [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[16:35 WIB 12/06/26] Lee Euynhe vs Chen Yi [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozZIASRs4w8dOYOBoIjuI6wtzqTSxCwrI2g&s" group-title="WK-League",[17:00 WIB 12/06/26] Suwon FMC W vs Gumi Sportstoto W [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -55,15 +55,6 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTozZIASRs4w8dOYOBoIjuI6wtzqTSxCwrI2g&s" group-title="WK-League",[17:00 WIB 12/06/26] Suwon FMC W vs Gumi Sportstoto W [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[17:00 WIB 12/06/26] Indonesia vs Liban [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[17:00 WIB 12/06/26] Indonesia vs Liban [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[17:00 WIB 12/06/26] Indonesia vs Liban [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/834.png" group-title="South Australia State League 1",[17:15 WIB 12/06/26] Eastern United vs Adelaide Olympic [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
