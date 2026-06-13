@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [07:11 WIB 13/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [07:11 WIB 13/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [07:18 WIB 13/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [07:18 WIB 13/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[06:00 WIB 13/06/26] Iran vs Argentina [FHD] [LIVE]
@@ -65,13 +65,13 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 13/06/26] USA vs Paraguay [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 13/06/26] USA vs Paraguay [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 13/06/26] USA vs Paraguay [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 13/06/26] USA vs Paraguay [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 13/06/26] USA vs Paraguay [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 13/06/26] USA vs Paraguay [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 13/06/26] USA vs Paraguay [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfJhO7YLswwGPAXQ7TRLWDHTGB-NyzNxzLw&s" group-title="LCK Road to MSI 2026",[13:00 WIB 13/06/26] GenG vs KT [FHD] [NANTIKAN]
