@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [22:03 WIB 13/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:03 WIB 13/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [22:09 WIB 13/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [22:09 WIB 13/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1768179633/assets/tournaments/logo/C8385C7E-F4AB-48C7-881B-122DE3304633.png" group-title="SATHIO GROUP Australian Badminton Open 2026",[16:00 WIB 13/06/26] DONG Tian Yao vs Moh. Zaki UBAIDILLAH [FHD] [LIVE]
@@ -343,15 +343,6 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/411.png" group-title="Elite One",[20:00 WIB 14/06/26] Cotonsport vs Canon [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/411.png" group-title="Elite One",[20:00 WIB 14/06/26] Cotonsport vs Canon [FHD] [NANTIKAN]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/411.png" group-title="Elite One",[20:00 WIB 14/06/26] Cotonsport vs Canon [HD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/411.png" group-title="Elite One",[20:00 WIB 14/06/26] Cotonsport vs Canon [SD] [NANTIKAN]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[21:00 WIB 14/06/26] São Bernardo vs Sport Recife [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
