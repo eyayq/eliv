@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [13:32 WIB 13/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:32 WIB 13/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [13:38 WIB 13/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:38 WIB 13/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1768179633/assets/tournaments/logo/C8385C7E-F4AB-48C7-881B-122DE3304633.png" group-title="SATHIO GROUP Australian Badminton Open 2026",[09:00 WIB 13/06/26] Ruttanapak OUPTHONG/Jhenicha SUDJAIPRAPARAT vs GUO Xin Wa/CHEN Fang Hui  [FHD] [LIVE]
@@ -38,13 +38,13 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[15:30 WIB 13/06/26] Trung Quốc vs Nhật Bản [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfJhO7YLswwGPAXQ7TRLWDHTGB-NyzNxzLw&s" group-title="LCK Road to MSI 2026",[16:00 WIB 13/06/26] Team WE vs Bilibili Gaming [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9c/Lpl_newlogo.png/250px-Lpl_newlogo.png" group-title="LPL",[16:00 WIB 13/06/26] Team WE vs Bilibili Gaming [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfJhO7YLswwGPAXQ7TRLWDHTGB-NyzNxzLw&s" group-title="LCK Road to MSI 2026",[16:00 WIB 13/06/26] Team WE vs Bilibili Gaming [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9c/Lpl_newlogo.png/250px-Lpl_newlogo.png" group-title="LPL",[16:00 WIB 13/06/26] Team WE vs Bilibili Gaming [HD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSfJhO7YLswwGPAXQ7TRLWDHTGB-NyzNxzLw&s" group-title="LCK Road to MSI 2026",[16:00 WIB 13/06/26] Team WE vs Bilibili Gaming [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9c/Lpl_newlogo.png/250px-Lpl_newlogo.png" group-title="LPL",[16:00 WIB 13/06/26] Team WE vs Bilibili Gaming [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/928.png" group-title="ASEAN Championship U19",[16:00 WIB 13/06/26] Cambodia U19 vs Indonesia U19 [FHD] [NANTIKAN]
