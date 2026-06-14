@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:17 WIB 14/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:17 WIB 14/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [15:24 WIB 14/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:24 WIB 14/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/192.png" group-title="New South Wales NPL",[13:30 WIB 14/06/26] Rockdale City Suns vs SD Raiders [FHD] [LIVE]
@@ -75,13 +75,13 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hXnsCK.png" group-title="Ngoại hạng Kazakhstan",[19:00 WIB 14/06/26] Ulytau vs Zhenys [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hXnsCK.png" group-title="Ngoại hạng Kazakhstan",[19:00 WIB 14/06/26] Ulytau vs Zhenys [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hXnsCK.png" group-title="Ngoại hạng Kazakhstan",[19:00 WIB 14/06/26] Ulytau vs Zhenys [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[19:00 WIB 14/06/26] Slovenia vs Nhật Bản [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
