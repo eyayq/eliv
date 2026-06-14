@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:12 WIB 14/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:12 WIB 14/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:18 WIB 14/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:18 WIB 14/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 14/06/26] Qingdao Red Lions vs Shanghai Port II [FHD] [LIVE]
@@ -18,15 +18,6 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[15:30 WIB 14/06/26] Trung Quốc vs Cuba [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0d/Chinese_Super_League_Logo_2.png" group-title="Super League Nữ",[16:00 WIB 14/06/26] Changchun Dazhong Nữ vs Shaanxi Changan Nữ [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0d/Chinese_Super_League_Logo_2.png" group-title="Super League Nữ",[16:00 WIB 14/06/26] Changchun Dazhong Nữ vs Shaanxi Changan Nữ [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0d/Chinese_Super_League_Logo_2.png" group-title="Super League Nữ",[16:00 WIB 14/06/26] Changchun Dazhong Nữ vs Shaanxi Changan Nữ [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/41.png" group-title="League One",[18:00 WIB 14/06/26] Wuxi Wugou vs Meizhou Kejia [FHD] [NANTIKAN]
@@ -73,15 +64,6 @@ https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[19:00 WIB 14/06/26] Slovenia vs Nhật Bản [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 14/06/26] Ulytau vs Zhenys [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 14/06/26] Ulytau vs Zhenys [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 14/06/26] Ulytau vs Zhenys [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiZtsg-wYbuiadlCY3e5OjeU3HqMl0lO2JQ&s" group-title="ATP250 Stuttgart",[19:00 WIB 14/06/26] Ben Shelton vs Taylor Fritz [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
