@@ -1,168 +1,168 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.07 WIB 15/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.13 WIB 15/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 1",[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781463741-0-0-32b451107b9136b318f57799788b0f05
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 2",[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781463741-0-0-9d60e42d4b89afba33d0d8cf205870ad
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 3",[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 4",[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 4 (SVR-BHNS 4)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 2",[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 5",[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 5 (SVR-BHNS 5)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 3",[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 4",[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781464101-0-0-e30dedf16fdc4509640a7881beb89e7c
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/d-concepcion-e10796.webp" group-title="[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 5",[LIVE 23:30 WIB 14/06/26] D. Concepcion vs Deportes Limache | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781464101-0-0-9b03ad6e797678f7bd7f46fd72857f33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thor-akureyri-8c31a1.png" group-title="[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 1",[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781463741-0-0-097708219eeb9bf6b2260b80cd0f06f7
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thor-akureyri-8c31a1.png" group-title="[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 2",[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781463741-0-0-76a95f39b77174808641f3926f2e3840
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thor-akureyri-8c31a1.png" group-title="[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 3",[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=1782bf9052e124ce27d9f97dc6ae693d&txTime=6a2f410d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thor-akureyri-8c31a1.png" group-title="[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 4",[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=a9db0cc8b45a27f320f843160a620b78&txTime=6a2f410d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thor-akureyri-8c31a1.png" group-title="[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 5",[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thor-akureyri-8c31a1.png" group-title="[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 2",[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=4a2d1bf3284cdfe68748150265a265f0&txTime=6a2f4275
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thor-akureyri-8c31a1.png" group-title="[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 3",[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=8b01430b8dff7397dd909442d6f20663&txTime=6a2f4275
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thor-akureyri-8c31a1.png" group-title="[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 4",[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781464101-0-0-81e02c70664a2b1245cfcb4dce9d8aa7
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/thor-akureyri-8c31a1.png" group-title="[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 5",[LIVE 23:30 WIB 14/06/26] Thor Akureyri vs IBV Vestmannaeyjar | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781464101-0-0-5a356990c85e6cc01dac532719fba6bc
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/keflavik-13ad8e.png" group-title="[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 1",[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781464101-0-0-2d0212231e99502e6d0cf128f24959fe
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/keflavik-13ad8e.png" group-title="[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 2",[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781464101-0-0-3edb1292680f1d4b3ab61cbdebf27683
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/keflavik-13ad8e.png" group-title="[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 3",[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781464101-0-0-848d132887e45a8c910609e8b16fe68a
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/keflavik-13ad8e.png" group-title="[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 4",[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781464101-0-0-ab626a623cecee38a8844fecf6012a5b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-torpedo-zhodino-f530d3.png" group-title="[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 1",[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781464101-0-0-1937d43adec7c4d9353c371c67f3893b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-torpedo-zhodino-f530d3.png" group-title="[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 2",[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781464101-0-0-a62c5c3e3d724498e76b4ee88a0c24eb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-torpedo-zhodino-f530d3.png" group-title="[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 3",[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=1657bbf8c33e6f572eba5960d115a8ee&txTime=6a2f4275
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-torpedo-zhodino-f530d3.png" group-title="[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 4",[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=736ea0373ace20087fa2987a430a41c9&txTime=6a2f4275
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 1",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1781420239-0-0-3b92b0df840d4d5db6906a771dd268d3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 2",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1781420239-0-0-3b92b0df840d4d5db6906a771dd268d3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 3",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 4",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd|drmScheme=clearkey&drmLicense=c71fe7bc82f037c6af21fd299d6341b0:13223c98886ff43d3c5f271eeb457cc6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 5",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 6",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 7",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781463741-0-0-b80433c98efe3c1596698803f96b8d0c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 8",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781463741-0-0-388e42eee797543d4283802c529b502f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 9",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781463741-0-0-d7b4ce3ec1029f45b8142ba260f9518e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 10",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781463741-0-0-3572310129e83c7571cc698c6d8a2712
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 11",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=07ee683c146b7a369115be4227e25720&txTime=6a2f410d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 12",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=a635e313cab2caea176666dd1b1a7378&txTime=6a2f410d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 13",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781463741-0-0-122f83948c0b0d5177cbc1bc50130b18
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 14",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781463741-0-0-f2c2d4f28199d99692122696ddee6816
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 15",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=c2422ec729e1e40656bcf2174c95519a&txTime=6a2f410d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 16",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=44ee1ce2bbf71cd20c20648d64995146&txTime=6a2f410d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 17",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781463741-0-0-6fededb783f23df4892371b54b0055bc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 18",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 18 (SVR-BHNS 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781463741-0-0-d8174db6a46bbe5abb5f26a907468f47
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 19",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 19 (SVR-BHNS 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781463741-0-0-b2bdcebd0ca13f3185035c2b681c971c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 20",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 20 (SVR-BHNS 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781463741-0-0-f50d5db50240df07db545ee35b5cd803
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 21",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 21 (SVR-BHNS 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781463741-0-0-9dc0fc23cc69f694d2c200b6c8fbdb3d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 22",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 22 (SVR-BHNS 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781463741-0-0-464068b0795f9273a5c5aeff12097ff0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 23",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 23 (SVR-BHNS 23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781463741-0-0-3f625570f09c67c6cb58400fa3f1298a
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 24",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 24 (SVR-BHNS 24)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781463741-0-0-b02be3afb6be13b96c9ce9df169dbf8e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 25",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 25 (SVR-BHNS 25)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=dfa54320be06e3ee1c189eff6bb43f75&txTime=6a2f410d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 26",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 26 (SVR-BHNS 26)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=2d3e8cfce6b296f858b5b00714440f14&txTime=6a2f410d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 27",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 27 (SVR-BHNS 27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=7daaf47a75955ea6d169a9418f9295fe&txTime=6a2f410d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 28",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 28 (SVR-BHNS 28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=a6e481b21b8fd967d0157ca17ac0099d&txTime=6a2f410d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 29",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 29 (SVR-BHNS 29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781463741-0-0-a460516d4295896c79634de300e88f38
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 30",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 30 (SVR-BHNS 30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781463741-0-0-b7b8419e677b181ada805cdc4ee29ae9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 31",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 31 (SVR-BHNS 31)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 32",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 32 (SVR-BHNS 32)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 33",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 33 (SVR-BHNS 33)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 34",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 34 (SVR-BHNS 34)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 35",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 35 (SVR-BHNS 35)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 36",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 36 (SVR-BHNS 36)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 8",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/keflavik-13ad8e.png" group-title="[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 1",[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-597929_lsd.m3u8?auth_key=1781463741-0-0-b797cc4f98563dab77f0e864aa661bbe
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/keflavik-13ad8e.png" group-title="[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 2",[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781463741-0-0-8e76c244cebc1d81fb4e3261675e6a7c
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/keflavik-13ad8e.png" group-title="[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 3",[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1781463741-0-0-04b6f50ea4d320560dfa231ecf8b15a9
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/keflavik-13ad8e.png" group-title="[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 4",[LIVE 00:00 WIB 15/06/26] Keflavik vs Hafnarfjordur | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781463741-0-0-8e316f694b8b6710567aef31c8a3095b
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-torpedo-zhodino-f530d3.png" group-title="[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 1",[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781463741-0-0-b96a58fe102578b1a24e4412ce46ee49
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-torpedo-zhodino-f530d3.png" group-title="[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 2",[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781463741-0-0-865b58126ab1662dcd4370b69f13cc5d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-torpedo-zhodino-f530d3.png" group-title="[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 3",[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-610518_lsd.m3u8?txSecret=cf2f8b360a4e1b6db481da2e3bdbbf9a&txTime=6a2f410d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-torpedo-zhodino-f530d3.png" group-title="[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 4",[LIVE 00:00 WIB 15/06/26] FC Torpedo Zhodino vs Slavia Mozyr | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.4907.1684 Mobile Safari/537.36
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=5117801c0646c5a413a996af6d02026a&txTime=6a2f410d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 9",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 10",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 11",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 12",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 13",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781464101-0-0-e719cbb4f906d0466c4dc0ae939bc04d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 14",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781464101-0-0-7c09e0cbb8587f8b4dcabdb13d85d3f8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 15",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1781464101-0-0-e4d48e3e2cbccff727d1df81ec6043c5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 16",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 16 (SVR-BHNS 16)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1781464101-0-0-92da2378b2aa9b3ff152ff74759529fe
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 17",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 17 (SVR-BHNS 17)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781464101-0-0-7d85acd43609b2c3f39e178c9bbc317b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 18",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 18 (SVR-BHNS 18)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781464101-0-0-099950b17785dd0cf2da30b1f1de4281
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 19",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 19 (SVR-BHNS 19)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=bd2288af657f86cbd4d70cee292a81c0&txTime=6a2f4275
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 20",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 20 (SVR-BHNS 20)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=8b6b6d790aa9f1b48ee7c49b77d30022&txTime=6a2f4275
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 21",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 21 (SVR-BHNS 21)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912041_lsd.m3u8?auth_key=1781464101-0-0-38d2b689ae03201764b3cda8443063a6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 22",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 22 (SVR-BHNS 22)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1781464101-0-0-9ae0cdc58b62beed946561b9c998600d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 23",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 23 (SVR-BHNS 23)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=18cc556f03f5765cec4eb8c4aed74e19&txTime=6a2f4275
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 24",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 24 (SVR-BHNS 24)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=0f2b2758365d301cc3dfb333fabc9fef&txTime=6a2f4275
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 25",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 25 (SVR-BHNS 25)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1781464101-0-0-18b15718884b965637f875c5fc20f9c0
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 26",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 26 (SVR-BHNS 26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1781464101-0-0-8cae992cb5a16653d4c582fdf1c6d6b4
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 27",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 27 (SVR-BHNS 27)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781464101-0-0-390df8c0059cd3d699b5644890959ed6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 28",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 28 (SVR-BHNS 28)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781464101-0-0-0336ddd79f5a4bdd22acbceec77eeca6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 29",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 29 (SVR-BHNS 29)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781464101-0-0-80b3fbf9de2ea4e3c5b4a2aa3526d1bd
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 30",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 30 (SVR-BHNS 30)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781464101-0-0-ee3a9adebe73cbf97ccca1cacbf76960
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 31",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 31 (SVR-BHNS 31)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=5d341891f5c9c29918132209a631fe40&txTime=6a2f4275
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 32",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 32 (SVR-BHNS 32)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=1b193d47d160319c6611cb37d839877a&txTime=6a2f4275
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 33",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 33 (SVR-BHNS 33)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=cb2ca8a7bcc7b884e16c5304abe6f5a2&txTime=6a2f4275
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 34",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 34 (SVR-BHNS 34)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=0ba194c3c48e4e3c2429d79d48e7a93d&txTime=6a2f4275
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 35",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 35 (SVR-BHNS 35)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781464101-0-0-6a6663838ff6d1c2982008b03ad30c22
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/germany-28ef36.png" group-title="[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 36",[LIVE 00:00 WIB 15/06/26] Germany vs Curacao | Server 36 (SVR-BHNS 36)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Mobile/15E148 Safari/604.1
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781464101-0-0-ef3d4050d9b3614867e693e0b0ff8cb9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/almirante-brown-815021.png" group-title="[LIVE 00:30 WIB 15/06/26] Almirante Brown vs Godoy Cruz Antonio Tomba | Server 1",[LIVE 00:30 WIB 15/06/26] Almirante Brown vs Godoy Cruz Antonio Tomba | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
