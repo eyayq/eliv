@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:29 WIB 14/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:29 WIB 14/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:36 WIB 14/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:36 WIB 14/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/90/ATP_250_Series_logo.png" group-title="ATP250 S-Hertogenbosch",[19:30 WIB 14/06/26] Kamil Majchrzak vs Alex de Minaur [FHD] [LIVE]
@@ -47,13 +47,13 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxzjO03Fzoz4KyB1LgxNYRGKPWJcJtQrqSA&s" group-title="WTT Contender Zagreb 2026",[21:00 WIB 14/06/26] Miwa HARIMOTO/Satsuki ODO vs LEE Eunhye/CHOI Hyojoo [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[22:00 WIB 14/06/26] FC Dnepr Mogilev vs Arsenal [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[22:00 WIB 14/06/26] FC Dnepr Mogilev vs Arsenal [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[22:00 WIB 14/06/26] FC Dnepr Mogilev vs Arsenal [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[22:00 WIB 14/06/26] FC Dnepr Mogilev vs Arsenal [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[22:00 WIB 14/06/26] FC Dnepr Mogilev vs Arsenal [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[22:00 WIB 14/06/26] FC Dnepr Mogilev vs Arsenal [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[22:00 WIB 14/06/26] Đức vs Pháp [FHD] [LIVE]
