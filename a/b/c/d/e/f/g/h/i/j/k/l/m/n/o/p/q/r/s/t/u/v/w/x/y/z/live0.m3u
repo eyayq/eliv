@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 02:24:01 WIB 14-06-2026
-# 🔄 Total Channels: 5226
+# ⏰ Latest Updated: 02:30:26 WIB 14-06-2026
+# 🔄 Total Channels: 5232
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [02:24:01 WIB 14-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [02:30:26 WIB 14-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -15819,6 +15819,32 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCbbfl9ZY89jGZ2IHsEPZzl5KTdKRh_dZbjwAIOrTTrw&s=10" group-title="LIVE EVENT",SATHIO GROUP Australian Badminton Open [Server 2] | Gvision TV
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4221837159258061_AiSD.m3u8?txSecret=3661811292ece86a235f821ddfa22e9c&txTime=6A2DEF00
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg" group-title="EVENT PIALA DUNIA",08:00 WIB - 14 Juni |  Haiti vs  Skotlandia | TVP SPORT | Gvision TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
+#KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
+#KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg" group-title="EVENT PIALA DUNIA",08:00 WIB - 14 Juni |  Haiti vs  Skotlandia | CCTV 5 | Gvision TV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg" group-title="EVENT PIALA DUNIA",08:00 WIB - 14 Juni |  Haiti vs  Skotlandia | RTB ANEKA | Gvision TV 
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg" group-title="EVENT PIALA DUNIA",[BELUM MULAI] 11:00 WIB - 14 Juni |  Australia vs  Turki | CCTV 5 | Gvision TV 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg" group-title="EVENT PIALA DUNIA",[BELUM MULAI] 11:00 WIB - 14 Juni |  Australia vs  Turki | TVP SPORT | Gvision TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
+#KODIPROP:inputstream.adaptive.license_key=181c091002d04c5481c3faab18752843:b081b6169351e0f4bfc40212dfeeed10
+#KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/kgoj1q1775058373.jpg" group-title="EVENT PIALA DUNIA",[BELUM MULAI] 11:00 WIB - 14 Juni |  Australia vs  Turki | RTB ANEKA | Gvision TV 
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/24pszh1775058320.jpg" group-title="JADWAL PIALA DUNIA",[SEDANG TAYANG] 08:00 WIB - 14 Juni |  Haiti vs  Skotlandia | TVP SPORT | Gvision TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
