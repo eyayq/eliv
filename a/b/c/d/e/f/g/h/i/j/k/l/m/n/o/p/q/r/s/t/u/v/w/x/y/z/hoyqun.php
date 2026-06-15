@@ -1,24 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:33 WIB 15/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:33 WIB 15/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [19:40 WIB 15/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:40 WIB 15/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[17:30 WIB 15/06/26] Botic van de Zandschulp vs Harry Wendelken [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[17:30 WIB 15/06/26] Botic van de Zandschulp vs Harry Wendelken [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[17:30 WIB 15/06/26] Botic van de Zandschulp vs Harry Wendelken [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[18:30 WIB 15/06/26] Nikoloz Basilashvili vs Daniel Altmaier [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[18:30 WIB 15/06/26] Nikoloz Basilashvili vs Daniel Altmaier [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[18:30 WIB 15/06/26] Nikoloz Basilashvili vs Daniel Altmaier [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[19:00 WIB 15/06/26] Bhutan U19 vs Paro [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
@@ -37,15 +19,6 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[19:30 WIB 15/06/26] Tommy Paul vs Zachary Svajda [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRog-FnQYHxod9i3SMLxUFjIf1ISIo3skPd2Q&s" group-title="VĐQG Uzbekistan",[19:30 WIB 15/06/26]  Fergana FA vs Havokand FC [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRog-FnQYHxod9i3SMLxUFjIf1ISIo3skPd2Q&s" group-title="VĐQG Uzbekistan",[19:30 WIB 15/06/26]  Fergana FA vs Havokand FC [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRog-FnQYHxod9i3SMLxUFjIf1ISIo3skPd2Q&s" group-title="VĐQG Uzbekistan",[19:30 WIB 15/06/26]  Fergana FA vs Havokand FC [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[20:30 WIB 15/06/26] Nuno Borges vs Felix Auger-Aliassime [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
