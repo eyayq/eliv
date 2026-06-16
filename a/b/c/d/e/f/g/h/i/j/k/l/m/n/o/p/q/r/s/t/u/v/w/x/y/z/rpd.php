@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.51 WIB 17/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.58 WIB 17/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 1",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1781571917-0-0-c74264ad2f4fe3201a55957a0a525f38
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 2",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1781571917-0-0-c74264ad2f4fe3201a55957a0a525f38
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 3",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd|drmScheme=clearkey&drmLicense=c71fe7bc82f037c6af21fd299d6341b0:13223c98886ff43d3c5f271eeb457cc6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 4",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
@@ -17,83 +17,83 @@ https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 6",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aezp9y6l15/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=7b37e4614fcee2ec2ff6e5900c2f798f:f349a9c28c55c20b9a2c50af99d1fc76
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 7",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd|drmScheme=clearkey&drmLicense=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 8",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=fd290a32a1e367c62519ea456b701a09&txTime=6a320a05
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=207e298c9d4f3edccf6638b609b22173&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 9",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=15d3801cc3a9e23d84caf0c62891e51e&txTime=6a320a05
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=a57981ea80a080bbdd5a3008bb74148c&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 10",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781646261-0-0-3fbcbc87d188719ad37e767de35242c9
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1781646801-0-0-90b2e384faa8d2b61ed9f875b0e0a5b8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 11",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781646261-0-0-3ce9d0ee33201be5a9ee0710e68320c8
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1781646801-0-0-e72eb2b75fc254bd8d3ba6d12bf09406
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 12",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=8b113096365031c31df844b3723dbd1e&txTime=6a320a05
+https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=6c2164c260157ebebf1c9d0b57417a22&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 13",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=95eb1d5938ac1cbecfcec75adba2aa29&txTime=6a320a05
+https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=07137981e6489788094e1bf5af54c13b&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 14",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=25572a6d1dab28987bc0e288a7f818fb&txTime=6a320a05
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=bbff11b593de4529eb4fd2e6e314796b&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 15",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=c8ba0e7e98ed9c0bbbe96451cbc25d86&txTime=6a320a05
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=5222b15da76b113563d9d0740f6900f4&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 16",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 16 (SVR-BHNS 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=2f0bc566651207212975d7042cf83f4c&txTime=6a320a05
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781646801-0-0-f88fa574f779a74aa3167504f39113ba
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 17",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 17 (SVR-BHNS 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d62dab021305dc977a9f6ef6e2815f13&txTime=6a320a05
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781646801-0-0-bfc735ba4bf93aaf2466ec7c77472272
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 18",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 18 (SVR-BHNS 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781646261-0-0-e2fc0d0c019042d6b97c429c227d7386
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781646801-0-0-a773a55989b005bf31552ea2132efd8e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 19",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 19 (SVR-BHNS 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781646261-0-0-62eb7838d166be149978e945b3bf1df5
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781646801-0-0-45c914d17b3496070c32e9847ebbf3eb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 20",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 20 (SVR-BHNS 20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781646261-0-0-e726f6bc8b4ef5bb26a164a956c82c63
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=7fe77070003b51a974c1a7382d41e2c8&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 21",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 21 (SVR-BHNS 21)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781646261-0-0-18b4ef44c3c48c4afc060160d383d909
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d74ff57217db9f6dd6f309e0ba17dc98&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 22",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 22 (SVR-BHNS 22)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781646261-0-0-9fe2022e762b33443db7aa2c263d681f
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781646801-0-0-9295e5a7e2565114c50dc4bd80b7795a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 23",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 23 (SVR-BHNS 23)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781646261-0-0-ede28880df4e41e79fbe071d740900ff
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781646801-0-0-3d5862858ed784b207ec78faf08fe6b6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 24",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 24 (SVR-BHNS 24)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=5384a7d57b5bac0728bee9578578f700&txTime=6a320a05
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=074770a95dce3cc8948a571f0eb0f092&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 25",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 25 (SVR-BHNS 25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=dd657022239bfaa18902d0b6068e0dba&txTime=6a320a05
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=7aeb8f6025ad7928af4d2ee0793531c1&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 26",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 26 (SVR-BHNS 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781646261-0-0-c6cc1dca56b79371c02fb6486c05bc50
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781646801-0-0-041229b25891ba4862139a94d80aa7ea
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 27",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 27 (SVR-BHNS 27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781646261-0-0-82f7a7de0b72fad6335d1765a8ce8fe5
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781646801-0-0-36bca63c08dce4749d2506dedbdf9c47
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 28",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 28 (SVR-BHNS 28)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=0827251386eeb8487b58bfc5ab8be5b1&txTime=6a320a05
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=473ee12ec2226e94a8444061c81323f3&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 29",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 29 (SVR-BHNS 29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=22b2afe76bb2639f654b1f604ae751d7&txTime=6a320a05
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=05f20c14a7496fd5571598aab9e2e46e&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 30",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 30 (SVR-BHNS 30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781646261-0-0-0d66fd86f4e4e8dbb9e16c0459b4aae5
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781646801-0-0-fd09d9b362d8dc87c289742806b04a16
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 31",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 31 (SVR-BHNS 31)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781646261-0-0-3ce29f61401dabaac052ecb19eb1865d
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781646801-0-0-24b83d40e9474a41a0bbd7dc9fd2b5ef
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/france-e165d4.png" group-title="[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 32",[LIVE 02:00 WIB 17/06/26] France vs Senegal | Server 32 (SVR-BHNS 32)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -117,43 +117,43 @@ https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189af
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/akranes-7491a5.png" group-title="[LIVE 02:15 WIB 17/06/26] Akranes vs Valur Reykjavik | Server 1",[LIVE 02:15 WIB 17/06/26] Akranes vs Valur Reykjavik | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781646261-0-0-3cbf53158a64022215133ec5601c03d8
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781646801-0-0-d2036e27331936ab0f1b8f822910d0ce
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/akranes-7491a5.png" group-title="[LIVE 02:15 WIB 17/06/26] Akranes vs Valur Reykjavik | Server 2",[LIVE 02:15 WIB 17/06/26] Akranes vs Valur Reykjavik | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781646261-0-0-a461bb96f64dd55d4dde9bd8a6d70345
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781646801-0-0-d2daebf1dacfdedb5982cb634a2183b4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/akranes-7491a5.png" group-title="[LIVE 02:15 WIB 17/06/26] Akranes vs Valur Reykjavik | Server 3",[LIVE 02:15 WIB 17/06/26] Akranes vs Valur Reykjavik | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=bfa9721cae6a1a139eb8951d08a20f48&txTime=6a320a05
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=81ee91cbaeb30de1cc19e4548a656fcf&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/akranes-7491a5.png" group-title="[LIVE 02:15 WIB 17/06/26] Akranes vs Valur Reykjavik | Server 4",[LIVE 02:15 WIB 17/06/26] Akranes vs Valur Reykjavik | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=77d121a8883dd815dd100e801bbcf05e&txTime=6a320a05
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=f157f192e1e6122569d4a16a5383b2a4&txTime=6a320c21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stjarnan-gardabaer-6706b5.png" group-title="[LIVE 02:15 WIB 17/06/26] Stjarnan Gardabaer vs Breidablik | Server 1",[LIVE 02:15 WIB 17/06/26] Stjarnan Gardabaer vs Breidablik | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781646261-0-0-57f0f2651c923f762215912e53bfe041
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781646801-0-0-e9bcd8d10eae7729c5d6483b3c2573b5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stjarnan-gardabaer-6706b5.png" group-title="[LIVE 02:15 WIB 17/06/26] Stjarnan Gardabaer vs Breidablik | Server 2",[LIVE 02:15 WIB 17/06/26] Stjarnan Gardabaer vs Breidablik | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781646261-0-0-d50caa9b0bb55d21688637a3a479e9ef
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781646801-0-0-20b12e71ef8fedc57eba50a555495056
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stjarnan-gardabaer-6706b5.png" group-title="[LIVE 02:15 WIB 17/06/26] Stjarnan Gardabaer vs Breidablik | Server 3",[LIVE 02:15 WIB 17/06/26] Stjarnan Gardabaer vs Breidablik | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781646261-0-0-c93c4866b1908d89e7c90df56c6937a4
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781646801-0-0-6ec42ad4e46ec3a8259ad98cec0f1ff9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stjarnan-gardabaer-6706b5.png" group-title="[LIVE 02:15 WIB 17/06/26] Stjarnan Gardabaer vs Breidablik | Server 4",[LIVE 02:15 WIB 17/06/26] Stjarnan Gardabaer vs Breidablik | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781646261-0-0-2fcadfb3c0883be5f52fa0855011a00d
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781646801-0-0-21dfd90808e769976406ff5859ddaf67
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/stjarnan-gardabaer-6706b5.png" group-title="[LIVE 02:15 WIB 17/06/26] Stjarnan Gardabaer vs Breidablik | Server 5",[LIVE 02:15 WIB 17/06/26] Stjarnan Gardabaer vs Breidablik | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vikingur-reykjavik-db8235.png" group-title="[LIVE 02:15 WIB 17/06/26] Vikingur Reykjavik vs KR Reykjavik | Server 1",[LIVE 02:15 WIB 17/06/26] Vikingur Reykjavik vs KR Reykjavik | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781646261-0-0-2c8e5a120ba12dd59726f9505d463f4b
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781646801-0-0-08025c9ff50e3be3257b8c1377e65ba8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vikingur-reykjavik-db8235.png" group-title="[LIVE 02:15 WIB 17/06/26] Vikingur Reykjavik vs KR Reykjavik | Server 2",[LIVE 02:15 WIB 17/06/26] Vikingur Reykjavik vs KR Reykjavik | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781646261-0-0-e2c79ccb9902c86bbdd39b8c096bf51d
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781646801-0-0-2cc646c9dd2c8934a690cc351e7f25ad
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vikingur-reykjavik-db8235.png" group-title="[LIVE 02:15 WIB 17/06/26] Vikingur Reykjavik vs KR Reykjavik | Server 3",[LIVE 02:15 WIB 17/06/26] Vikingur Reykjavik vs KR Reykjavik | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781646261-0-0-21efb4eead28d3abeaa292af8896c652
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781646801-0-0-5652b1d59b647e106fdb3d8e8810dd00
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vikingur-reykjavik-db8235.png" group-title="[LIVE 02:15 WIB 17/06/26] Vikingur Reykjavik vs KR Reykjavik | Server 4",[LIVE 02:15 WIB 17/06/26] Vikingur Reykjavik vs KR Reykjavik | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781646261-0-0-cc9463fa8d9886e4ef62235a10f54355
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781646801-0-0-387ecdf5f9d8f87be92a8bafdd5ac9fb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/vikingur-reykjavik-db8235.png" group-title="[LIVE 02:15 WIB 17/06/26] Vikingur Reykjavik vs KR Reykjavik | Server 5",[LIVE 02:15 WIB 17/06/26] Vikingur Reykjavik vs KR Reykjavik | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
