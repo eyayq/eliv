@@ -1,159 +1,159 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.12 WIB 17/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.19 WIB 17/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.png" group-title="[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 1",[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781633121-0-0-05e7363e4992d8d1b521f90b01ff3543
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=9b6adee56390f4900063f32cbc1efbe0&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.png" group-title="[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 2",[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781633121-0-0-ca1d069cea5747ed73199c4b44626f09
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=2b6e5844804f41eeee8b480bce58bef1&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.png" group-title="[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 3",[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781633121-0-0-ca7dc8a908f52f2d112d918e7528c382
+https://pull.niues.live/live/stream-612098_lsd.m3u8?auth_key=1781633661-0-0-3b06560ad2b61956d72b6ba54799369b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.png" group-title="[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 4",[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781633121-0-0-aa0a6e7d79d32525fc92cde14688ccf8
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781633661-0-0-3f6ca6c90a380637e5d43cbf38a9fdf8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.png" group-title="[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 5",[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=6d5a3037b2f6b03dfc276b3ebcb1fa7b&txTime=6a31d6b1
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1781633661-0-0-d5ec53f8a712e3a5309788e2a8db0a0d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.png" group-title="[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 6",[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8e73cb647047adcc77425ff1eb6cea44&txTime=6a31d6b1
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781633661-0-0-9ddf64ccd40f436d5d4fe4a69fbc3ee8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.png" group-title="[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 7",[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=df1520ef8a55e96bd89d9147612e26ea&txTime=6a31d6b1
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=b694961a1b3cff4192770ff54e2f6623&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/suduva-cb2fea.png" group-title="[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 8",[LIVE 22:30 WIB 16/06/26] Suduva vs Siauliai | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=ba45cb3b16855916e87705759b248db9&txTime=6a31d6b1
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b80a389b75ba16ea34c2d10b047632bd&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 1",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781633121-0-0-03626d52254e0d37c3f65333d1238f9e
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781633661-0-0-1a6af48cbbead6876cd139b57322e0b2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 2",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781633121-0-0-6274440b05951f7106b8d76314462e98
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781633661-0-0-17c58f313a5ca6ec52d0cfc04fc8e6c8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 3",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=ea00c845d431e44227ac55910b88b59e&txTime=6a31d6b1
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=5e8a64d3c9b04a8dfa0cd79984f7e4dd&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 4",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=dda567aebcd8fe1036528ccb3eaffa3f&txTime=6a31d6b1
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d4f429cf0fb5bd24e1e038206616ba07&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 5",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1781633121-0-0-d6192ce569143f04157aea28da514563
+https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781633661-0-0-59b509e057baed85ba08446542b66eaa
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 6",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781633121-0-0-afc4b6fa2e35b841720721891b472fd3
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781633661-0-0-381ad7181893f1dce1103aa265ac4808
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 7",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-557845_lsd.m3u8?auth_key=1781633121-0-0-f8c4a0259e27d9814d8d82a41cb31c53
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1781633661-0-0-fb0e7dc3fb067bab4b9bdb763d6305d7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 8",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781633121-0-0-b48f412a9be1041a0ad911dfbc6ecac0
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781633661-0-0-2d3aac5d25200b23d85a266e23643f75
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 9",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781633121-0-0-101347bdbfdb0f5757ddb834bcc22aa4
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1781633661-0-0-bdf8f297df038f05de8ebd0b8bcc9f8c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 10",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781633121-0-0-726ee36c3ebbc46733bbd0272c2ea983
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781633661-0-0-f42827317a41803438a388e0ba1db4b1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 11",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781633121-0-0-2251ce2b25c8049ede523735750ded3d
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1781633661-0-0-af204ca2ce3a303f3ced4eaed8cc60f5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 12",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781633121-0-0-f53ec391c0070e2b4a8376ac2404a083
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781633661-0-0-3d46a5fa4a0e938088dfeb2658b768fb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 13",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/grobina-b8584f.png" group-title="[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 14",[LIVE 23:00 WIB 16/06/26] Grobina vs FK Liepaja | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/parnu-jk-vaprus-6b04d0.png" group-title="[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 1",[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781633121-0-0-be51a3603e894d3d172b23d73f808850
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781633661-0-0-ea7e370c0b96bfb677dd718d034d5415
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/parnu-jk-vaprus-6b04d0.png" group-title="[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 2",[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781633121-0-0-072f6dd9d153ae4aa8d9921bc769ef77
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781633661-0-0-f29677bcdc182fc0bbf78059b54eb7be
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/parnu-jk-vaprus-6b04d0.png" group-title="[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 3",[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=12e35eedb3b33dc90a2feb95a695d084&txTime=6a31d6b1
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=39d9a692ae8c9ff46b95075a706ee994&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/parnu-jk-vaprus-6b04d0.png" group-title="[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 4",[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=9d43c9cc96c69efb5bfbe4067c4a78f8&txTime=6a31d6b1
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=89d6f6631255be203019434e6ad7ea84&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/parnu-jk-vaprus-6b04d0.png" group-title="[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 5",[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781633121-0-0-9b9349b453f4dfabc56ff34b5a7142ec
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1781633661-0-0-622a3146427c589b34564206920e2796
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/parnu-jk-vaprus-6b04d0.png" group-title="[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 6",[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781633121-0-0-af03b8e2c816be0d31f7815dc63b494a
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781633661-0-0-ff23dd6d51cd13f6f219ea2d1360f023
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/parnu-jk-vaprus-6b04d0.png" group-title="[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 7",[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1781633121-0-0-a31b24f2feb983def556ef378c963d5b
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781633661-0-0-f848211603baa1637296fa2e3d80599b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/parnu-jk-vaprus-6b04d0.png" group-title="[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 8",[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1781633121-0-0-9ff2124d1d31be1a731ff2e5c982c45f
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781633661-0-0-d3f8f11a1556b60a0a9531e628908e71
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/parnu-jk-vaprus-6b04d0.png" group-title="[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 9",[LIVE 23:00 WIB 16/06/26] Parnu JK Vaprus vs FC Flora Tallinn | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-kuressaare-6c6112.png" group-title="[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 1",[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781633121-0-0-84befd4ca3e497232755c52c7497f71e
+https://pull.niues.live/live/stream-602153_lsd.m3u8?auth_key=1781633661-0-0-894774d4d0fe1127f3976132a9ec9e5c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-kuressaare-6c6112.png" group-title="[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 2",[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781633121-0-0-11831e5a8a7601fbedac007bfad6038e
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781633661-0-0-3bd11afec6eea75abcae90632ae03359
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-kuressaare-6c6112.png" group-title="[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 3",[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=936d7c63cfa63c6afd29c3d82e33b1f1&txTime=6a31d6b1
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781633661-0-0-5665a11885b87d1eca8853947f853dad
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-kuressaare-6c6112.png" group-title="[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 4",[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=cddbdbf2db8e7cf8f6c71e66f4488e68&txTime=6a31d6b1
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781633661-0-0-3451d87d4b4205958ff871a3413bc84f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-kuressaare-6c6112.png" group-title="[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 5",[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1781633121-0-0-cfb2ae6c1632f7104095f81da2c90d7f
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=27371c032d7da53c5748bca183c70f54&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-kuressaare-6c6112.png" group-title="[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 6",[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781633121-0-0-a1ecea790d5d51f36c7c67cb7e324f77
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=8943844b1c7f6f4e3b03fca88437d2bd&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-kuressaare-6c6112.png" group-title="[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 7",[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-kuressaare-6c6112.png" group-title="[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 8",[LIVE 23:00 WIB 16/06/26] FC Kuressaare vs Trans Narva | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 1",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781633121-0-0-d343f7f5d15bdde4ed5df8fdac57346e
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781633661-0-0-ee5af119c2058a201d7b2cb1fdccb291
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 2",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781633121-0-0-5e0ac72a8d32ba155e3d9acf281dd1f1
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781633661-0-0-26afbf1b2a22c6e0926d2a4efac632b2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 3",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1781633121-0-0-faf1c283855cab7af7e1a6051e471d47
+https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=e137843cb135c7926f4b4b00269dcb64&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 4",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781633121-0-0-5294b65b44e37fac7e803ce684e09ce0
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=76db780b38fd7226a2fa70a5c3e9f85f&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 5",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-534055_lsd.m3u8?txSecret=85e8b8aeef9fbd5976a4e372d8828663&txTime=6a31d6b1
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1781633661-0-0-53b3fc9eb152b12bbe7644eb29eabc0f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 6",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5fc70abc2986fe87cd514cd20cba6515&txTime=6a31d6b1
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781633661-0-0-59546ee594fd3cc2ddc9b2e9a8f2f8b6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 7",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781633121-0-0-1fb5b603948fa1baca786f779d6cb68c
+https://pull.niues.live/live/stream-611382_lsd.m3u8?auth_key=1781633661-0-0-7ab5292c66d3760f9695eb8f4a6b5a2a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 8",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781633121-0-0-cff213187ad02ef7e407b16941149cc4
+https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781633661-0-0-ec78ca3a75b9b49bc158e03cba512500
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 9",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781633121-0-0-f96ce13357d55e154750ec5ea7d65223
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781633661-0-0-0e9d53074dd7b439327e835016fa72ef
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 10",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781633121-0-0-7f462f768e0898b9ec56da533e4ddf9c
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781633661-0-0-8d743a0f4484a17fe23040649adc79dc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 11",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1781633121-0-0-07b4a069a35b8ef673316f1959d51bc4
+https://pull.niues.live/live/stream-603914_lsd.m3u8?auth_key=1781633661-0-0-b79f2813cf0da7367b93845188483c94
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 12",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781633121-0-0-4def1a7a6e40270281b38925c673df15
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1781633661-0-0-76cad1cf53ad79943b95f84822e10e02
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 13",[LIVE 23:00 WIB 16/06/26] Dila Gori vs Spaeri FC | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
@@ -165,28 +165,28 @@ https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ifk-varnamo-2f593f.png" group-title="[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 1",[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781633121-0-0-a00227453a015e7652805a36eb0d7726
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781633661-0-0-25279ce4469dcf96b1e43e5a73efd866
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ifk-varnamo-2f593f.png" group-title="[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 2",[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781633121-0-0-554c99bc20bdfee823aae28ae949615d
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781633661-0-0-f5d9de7f83b20345e2075f0a4a903009
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ifk-varnamo-2f593f.png" group-title="[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 3",[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1781633121-0-0-ce4453d07c128b8a6318ab57fbccb7e6
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781633661-0-0-fb96336b32a4ecfb372d1591e88002fb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ifk-varnamo-2f593f.png" group-title="[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 4",[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781633121-0-0-19913d17a8c6c8ca24733bcd6a921d5b
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781633661-0-0-c2376c149181bc4fe389ca5d73b5d1bf
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ifk-varnamo-2f593f.png" group-title="[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 5",[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1781633121-0-0-e44c9831e53896b11871134c2b004efc
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1781633661-0-0-e50233eb10bbbd30083961b1d6185191
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ifk-varnamo-2f593f.png" group-title="[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 6",[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781633121-0-0-85074523ad249f20611203afbbb51175
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781633661-0-0-df30afc6cb6330815c6ff34f70635dd3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ifk-varnamo-2f593f.png" group-title="[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 7",[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781633121-0-0-8b7668007de75dec326b2021d8f99026
+https://pull.niues.live/live/stream-607400_lsd.m3u8?auth_key=1781633661-0-0-de8ab5602466799595a91dff1463c9c4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ifk-varnamo-2f593f.png" group-title="[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 8",[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781633121-0-0-5f1219a434dfe320662cd6f25a3718c3
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1781633661-0-0-ece4db033c9933970b0738bb84fd1959
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ifk-varnamo-2f593f.png" group-title="[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 9",[LIVE 00:00 WIB 17/06/26] IFK Varnamo vs Helsingborg | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
@@ -195,28 +195,28 @@ https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab
 https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/landskrona-bois-f0730d.png" group-title="[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 1",[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781633121-0-0-8b38b333486eb84bb426617d220b2512
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=c8a5dc5c6dceb64e54a2545b788ff6e8&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/landskrona-bois-f0730d.png" group-title="[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 2",[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781633121-0-0-cb9dcae84eeb22203d0410f1b4bcf674
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=1c1a5222bc15ef838d6f08882ed9029e&txTime=6a31d8cd
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/landskrona-bois-f0730d.png" group-title="[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 3",[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781633121-0-0-a2d164096fed3d2f48d6b1c44c3492fc
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1781633661-0-0-227405059b4efa72698643b92313efe8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/landskrona-bois-f0730d.png" group-title="[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 4",[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781633121-0-0-5dc98456aba9dec4bbb75ca727c98175
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781633661-0-0-a099853860808e9ee412c19c6c08c14f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/landskrona-bois-f0730d.png" group-title="[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 5",[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 5 (SVR-BHNS 5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=086393cffa182830ebc5e685657984d2&txTime=6a31d6b1
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781633661-0-0-0d60eabaa03a793236cee42d1a390980
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/landskrona-bois-f0730d.png" group-title="[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 6",[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 6 (SVR-BHNS 6)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=a188deafa603022f55b3c544f2263fa9&txTime=6a31d6b1
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781633661-0-0-8f765377eb86d05324ef1e7d27e8c7a4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/landskrona-bois-f0730d.png" group-title="[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 7",[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1781633121-0-0-25c64b342156dd7df2480ba2b8f53c83
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781633661-0-0-a19542194a08a5181cf2342d529a36a5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/landskrona-bois-f0730d.png" group-title="[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 8",[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1781633121-0-0-4f088d694064b38a7bb8caa1f0807394
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781633661-0-0-4bf74094b92265ac9034645f7c5dac7e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/landskrona-bois-f0730d.png" group-title="[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 9",[LIVE 00:00 WIB 17/06/26] Landskrona BoIS vs Nordic United FC | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
