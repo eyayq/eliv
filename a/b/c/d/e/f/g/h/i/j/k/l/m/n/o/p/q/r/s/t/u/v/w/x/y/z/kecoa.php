@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [22.57 WIB 16/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [23.04 WIB 16/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/365.png" group-title="[LIVE 22:00 WIB 16/06/26] BFC Daugavpils vs Super Nova",[LIVE 22:00 WIB 16/06/26] BFC Daugavpils vs Super Nova (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 3j 2m 02:00 WIB 17/06/26] France vs Senegal",[UPCOMING 3j 2m 02:00 WIB 17/06/26] France vs Senegal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 55m 02:00 WIB 17/06/26] France vs Senegal",[UPCOMING 2j 55m 02:00 WIB 17/06/26] France vs Senegal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 3j 2m 02:00 WIB 17/06/26] France vs Senegal",[UPCOMING 3j 2m 02:00 WIB 17/06/26] France vs Senegal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 55m 02:00 WIB 17/06/26] France vs Senegal",[UPCOMING 2j 55m 02:00 WIB 17/06/26] France vs Senegal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 6j 2m 05:00 WIB 17/06/26]   Iraq vs Norway",[UPCOMING 6j 2m 05:00 WIB 17/06/26]   Iraq vs Norway (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 5j 55m 05:00 WIB 17/06/26]   Iraq vs Norway",[UPCOMING 5j 55m 05:00 WIB 17/06/26]   Iraq vs Norway (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 9j 2m 08:00 WIB 17/06/26] Argentina vs Algeria",[UPCOMING 9j 2m 08:00 WIB 17/06/26] Argentina vs Algeria (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 8j 55m 08:00 WIB 17/06/26] Argentina vs Algeria",[UPCOMING 8j 55m 08:00 WIB 17/06/26] Argentina vs Algeria (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 9j 2m 08:00 WIB 17/06/26] Argentina vs Algeria",[UPCOMING 9j 2m 08:00 WIB 17/06/26] Argentina vs Algeria (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 8j 55m 08:00 WIB 17/06/26] Argentina vs Algeria",[UPCOMING 8j 55m 08:00 WIB 17/06/26] Argentina vs Algeria (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
