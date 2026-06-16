@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [00:55 WIB 17/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:55 WIB 17/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:02 WIB 17/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:02 WIB 17/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/329.png" group-title="Meistriliiga",[23:00 WIB 16/06/26] Kuressaare vs Trans Narva [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/329.png" group-title="Meistriliiga",[23:00 WIB 16/06/26] Kuressaare vs Trans Narva [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/329.png" group-title="Meistriliiga",[23:00 WIB 16/06/26] Kuressaare vs Trans Narva [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[23:30 WIB 16/06/26] Cameron Norrie vs Alejandro Davidovich Fokina [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
@@ -156,13 +147,13 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[13:00 WIB 17/06/26] Canada vs Hà Lan [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[13:00 WIB 17/06/26] Canada vs Hà Lan [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[13:00 WIB 17/06/26] Canada vs Hà Lan [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[15:00 WIB 17/06/26] Séc vs Ý [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
@@ -174,13 +165,13 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[16:30 WIB 17/06/26] Đức vs Trung Quốc [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[16:30 WIB 17/06/26] Đức vs Trung Quốc [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[16:30 WIB 17/06/26] Đức vs Trung Quốc [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[16:30 WIB 17/06/26] Zizou Bergs vs Taylor Fritz [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
@@ -236,6 +227,15 @@ https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[19:00 WIB 17/06/26] Nhật Bản vs Serbia [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[19:30 WIB 17/06/26] Alex de Minaur vs Denis Shapovalov [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[19:30 WIB 17/06/26] Alex de Minaur vs Denis Shapovalov [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[19:30 WIB 17/06/26] Alex de Minaur vs Denis Shapovalov [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[20:00 WIB 17/06/26] Pháp vs Brazil [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
 
@@ -253,6 +253,15 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[20:30 WIB 17/06/26] Learner Tien vs Felix Auger-Aliassime [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[20:30 WIB 17/06/26] Coco Gauff vs Paula Badosa [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[20:30 WIB 17/06/26] Coco Gauff vs Paula Badosa [HD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[20:30 WIB 17/06/26] Coco Gauff vs Paula Badosa [SD] [NANTIKAN]
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hXnsCK.png" group-title="Ngoại hạng Kazakhstan",[21:00 WIB 17/06/26] Kairat Almaty vs Kyzyl-Zhar [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -298,6 +307,15 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[23:30 WIB 17/06/26] Thổ Nhĩ Kỳ vs Bỉ [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[23:30 WIB 17/06/26] Jenson Brooksby vs Francisco Cerundolo [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[23:30 WIB 17/06/26] Jenson Brooksby vs Francisco Cerundolo [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[23:30 WIB 17/06/26] Jenson Brooksby vs Francisco Cerundolo [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[00:00 WIB 18/06/26] Portugal vs Congo DR [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
