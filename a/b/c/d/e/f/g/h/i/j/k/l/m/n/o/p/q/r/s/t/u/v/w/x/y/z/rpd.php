@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [04.26 WIB 18/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [04.33 WIB 18/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 1",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -14,113 +14,113 @@ https://hls.lauthaitv.cc/live/eng-cro-wc-nts/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/eng-cro-wc-nts.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 5",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1781668831-0-0-1cd61f33f646706da24649729c56b4d9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 6",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1781668831-0-0-1cd61f33f646706da24649729c56b4d9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 7",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNJU)/master.mpd|drmScheme=clearkey&drmLicense=c71fe7bc82f037c6af21fd299d6341b0:13223c98886ff43d3c5f271eeb457cc6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 8",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd|drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 9",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 10",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 11",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 12",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 13",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 13 (SVR-BHNS 13)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 14",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 15",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 15 (SVR-BHNS 15)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 16",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 16 (SVR-BHNS 16)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 17",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 17 (SVR-BHNS 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 18",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 18 (SVR-BHNS 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=16fa06049ea8fc8a35e562c9eeb39af3&txTime=6a3364a9
+https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=d2c417015e22a4762bca7a92bf751494&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 19",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 19 (SVR-BHNS 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=b978d778d5dce03eecc32f65e5c04269&txTime=6a3364a9
+https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=e10c29a61fb0da1a59687de14aea490c&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 20",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 20 (SVR-BHNS 20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=71e1f3e8919ab2d76d695205074801b4&txTime=6a3364a9
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=c672df1c292e7d6d15b667cb5f7f7134&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 21",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 21 (SVR-BHNS 21)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=841be886411c508c65cb1589a79b2c7a&txTime=6a3364a9
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=0e714bf469b60e4ea1ad69ea53864d08&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 22",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 22 (SVR-BHNS 22)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=0b2a1a74d0218a89769bdbf3d277365a&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=79166b42127ca21632fbf6a66081c0e9&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 23",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 23 (SVR-BHNS 23)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=fac398029eca7864ace28079aa1cbfa4&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=46b62374875483f1a779649d2792574e&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 24",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 24 (SVR-BHNS 24)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=710b92cc684baf87b70d5294c211632d&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=0f7f4fcef6ce9a9f661c58b07e8ee624&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 25",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 25 (SVR-BHNS 25)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=389e973904116fdb2f6ff7a13b8762af&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=23a099d4cb2de7c2cba5fb789884f081&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 26",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 26 (SVR-BHNS 26)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=2821481a32e780cc8ac6a19ff1335643&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=daa51540a481cc04d6b549f8eedc0c48&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 27",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 27 (SVR-BHNS 27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=c58a6afc5ecadab5eadecbfff2bdd81c&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=6955589e3e590a4da95b912567dbb0e5&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 28",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 28 (SVR-BHNS 28)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=93dda68798c44f28d87ea604045f3ba9&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=6a7be030a6945f4111d6b20d71a0aa9c&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 29",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 29 (SVR-BHNS 29)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=2f48bbeebbb8a9422c1b735f84653530&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=a8ed3dc3854156cfa11ff82bde3f12a1&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 30",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 30 (SVR-BHNS 30)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=dc1ddcc97cde55e7f51dc4b26778c5c4&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=56579eb4add3724ed4a0b76d06c2b659&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 31",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 31 (SVR-BHNS 31)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=91c0c029a7c5f0e062812a54bc87de44&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=11eb803f6c97e0d1f4240b889c8c2543&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 32",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 32 (SVR-BHNS 32)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=076159f5f5ed47444082a59f590b1d87&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=d825073da0b4284c6e6d441317ec2471&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 33",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 33 (SVR-BHNS 33)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=b63427618ff1a789b7e105f5a4d11a50&txTime=6a3364a9
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=c62b69e37a1089473ebf10ec8d630c15&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 34",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 34 (SVR-BHNS 34)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781735001-0-0-1d3773aaa719b3d5ba7351e44fa6d0aa
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=ef95095b439ed852a46e4c548d3dac4c&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 35",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 35 (SVR-BHNS 35)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781735001-0-0-d4b713576b612189ef679baf933d8be1
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=bcbdc07397c2f8f53e992d93456a7d0c&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 36",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 36 (SVR-BHNS 36)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=7ab512df4813a2a52e645cf8b3bc3bd6&txTime=6a3364a9
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781735361-0-0-ea36a0c2b4ba843f9050daf99352fd12
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 37",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 37 (SVR-BHNS 37)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=147fed5ed465ed0c375f06871bff4a37&txTime=6a3364a9
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781735361-0-0-01ccd15c8f6cf035b2a4e4575f8956e0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 38",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 38 (SVR-BHNS 38)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781735001-0-0-65724f5d500600337ba161082588877c
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=ed63cc4fe62662a25bd6b495d6517333&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 39",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 39 (SVR-BHNS 39)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781735001-0-0-88f4b5ad4282b9718146a1e9374dcf74
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=ce92c18626d8ed3d43d5babcef7f6688&txTime=6a336611
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 40",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 40 (SVR-BHNS 40)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=c66f99c0be3630624765ab553b1ef7d5&txTime=6a3364a9
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781735361-0-0-9a621d9b22b8a5bcc9f4cb8d12292eab
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/england-f48861.png" group-title="[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 41",[LIVE 03:00 WIB 18/06/26] England vs Croatia | Server 41 (SVR-BHNS 41)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=b15eb5ea5c445c00dedf9a9f33a5a234&txTime=6a3364a9
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781735361-0-0-a5e72802d23201dfcfb85eadcd1ce30c
