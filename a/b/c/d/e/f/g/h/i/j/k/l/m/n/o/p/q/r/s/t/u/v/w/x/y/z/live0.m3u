@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 01:51:34 WIB 17-06-2026
-# 🔄 Total Channels: 5132
+# ⏰ Latest Updated: 01:57:44 WIB 17-06-2026
+# 🔄 Total Channels: 5136
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [01:51:34 WIB 17-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [01:57:44 WIB 17-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -15066,6 +15066,22 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID00857_Travelxp4K_uhd/DASH/index.mpd
 http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465865.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="LIVE EVENT",08:00 WIB Argentina vs Aljazair
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1775790024/assets/tournaments/logo/0FE7A0E9-A04C-47A4-A042-85A48ED966EC.png" group-title="LIVE EVENT",Court 1 | SANDS CHINA LTD Macau Open [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781747207-Kv4cPTAAP5YTi-2a337f0e191e06e4f33e1cc48bde40ed441084de-1afcd371bf31732ee9bdbb9de346fc82
+#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1775790024/assets/tournaments/logo/0FE7A0E9-A04C-47A4-A042-85A48ED966EC.png" group-title="LIVE EVENT",Court 1 | SANDS CHINA LTD Macau Open [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=2a337f0e191e06e4f33e1cc48bde40ed441084de&x-sign=657338d7b8d49b699118f734b9efc84e&x-time=1781660760
+#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1775790024/assets/tournaments/logo/0FE7A0E9-A04C-47A4-A042-85A48ED966EC.png" group-title="LIVE EVENT",Court 2 | SANDS CHINA LTD Macau Open [Server 1] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781747212-Kv4cPTAAP5YTi-2a337f0e191e06e4f33e1cc48bde40ed441084de-b7300d6e9b608996a8fd0e43dcebade2
+#EXTINF:-1 tvg-logo="https://img.bwfbadminton.com/image/upload/v1775790024/assets/tournaments/logo/0FE7A0E9-A04C-47A4-A042-85A48ED966EC.png" group-title="LIVE EVENT",Court 2 | SANDS CHINA LTD Macau Open [Server 2] | Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=2a337f0e191e06e4f33e1cc48bde40ed441084de&x-sign=748c11d59de2cdde6fa5840533d77f05&x-time=1781660760
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE EVENT",[Fighting] WWE NXT | Gvision TV
 #EXTVLCOPT:http-referrer=https://roxiestreams.info
 #EXTVLCOPT:http-origin=https://roxiestreams.info
