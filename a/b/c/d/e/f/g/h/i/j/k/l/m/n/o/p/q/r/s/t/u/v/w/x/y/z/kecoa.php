@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [10.04 WIB 17/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [10.11 WIB 17/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 0j 55m 11:00 WIB 17/06/26] Austria vs Jordan",[UPCOMING 0j 55m 11:00 WIB 17/06/26] Austria vs Jordan (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 0j 48m 11:00 WIB 17/06/26] Austria vs Jordan",[UPCOMING 0j 48m 11:00 WIB 17/06/26] Austria vs Jordan (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 0j 55m 11:00 WIB 17/06/26] Austria vs Jordan",[UPCOMING 0j 55m 11:00 WIB 17/06/26] Austria vs Jordan (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 0j 48m 11:00 WIB 17/06/26] Austria vs Jordan",[UPCOMING 0j 48m 11:00 WIB 17/06/26] Austria vs Jordan (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 13j 55m 00:00 WIB 18/06/26] Portugal vs Congo DR",[UPCOMING 13j 55m 00:00 WIB 18/06/26] Portugal vs Congo DR (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 13j 48m 00:00 WIB 18/06/26] Portugal vs Congo DR",[UPCOMING 13j 48m 00:00 WIB 18/06/26] Portugal vs Congo DR (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 13j 55m 00:00 WIB 18/06/26] Portugal vs Congo DR",[UPCOMING 13j 55m 00:00 WIB 18/06/26] Portugal vs Congo DR (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 13j 48m 00:00 WIB 18/06/26] Portugal vs Congo DR",[UPCOMING 13j 48m 00:00 WIB 18/06/26] Portugal vs Congo DR (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 16j 55m 03:00 WIB 18/06/26] England vs Croatia",[UPCOMING 16j 55m 03:00 WIB 18/06/26] England vs Croatia (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 16j 48m 03:00 WIB 18/06/26] England vs Croatia",[UPCOMING 16j 48m 03:00 WIB 18/06/26] England vs Croatia (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 19j 55m 06:00 WIB 18/06/26] Ghana vs Panama",[UPCOMING 19j 55m 06:00 WIB 18/06/26] Ghana vs Panama (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 19j 48m 06:00 WIB 18/06/26] Ghana vs Panama",[UPCOMING 19j 48m 06:00 WIB 18/06/26] Ghana vs Panama (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
