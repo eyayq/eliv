@@ -1,19 +1,19 @@
 #EXTM3U
-# Generated Thu Jun 18 07:43:03 2026
+# Generated Thu Jun 18 07:49:32 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 18-06-2026 14:42:50 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 18-06-2026 14:49:23 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Finnish Veikkausliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png",📁😈AC Oulu😈 [🆚] 😈IFK Mariehamn [136m]😈📁
+#EXTINF:-1 group-title="📁😈 Finnish Veikkausliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png",📁😈AC Oulu😈 [🆚] 😈IFK Mariehamn [129m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4468116
-#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Tobol Kostanai B😈 [🆚] 😈Ekibastuzets [137m]😈📁
+#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Tobol Kostanai B😈 [🆚] 😈Ekibastuzets [130m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4523577
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Czechia😈 [🆚] 😈South Africa [497m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Czechia😈 [🆚] 😈South Africa [490m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460939
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Switzerland😈 [🆚] 😈Bosnia and Herzegovina [677m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Switzerland😈 [🆚] 😈Bosnia and Herzegovina [670m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460942
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Canada😈 [🆚] 😈Qatar [857m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Canada😈 [🆚] 😈Qatar [850m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4459825
-#EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈Connecticut United FC😈 [🆚] 😈Cincinnati II [916m]😈📁
+#EXTINF:-1 group-title="📁😈 MLS Next Pro 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/3d0acf488c114882918b1a8f144e99db.png",📁😈Connecticut United FC😈 [🆚] 😈Cincinnati II [910m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4551391
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Mexico😈 [🆚] 😈South Korea [1036m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Mexico😈 [🆚] 😈South Korea [1030m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4459821
