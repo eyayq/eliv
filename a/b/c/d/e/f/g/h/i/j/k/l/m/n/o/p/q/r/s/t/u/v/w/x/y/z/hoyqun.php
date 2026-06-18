@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:35 WIB 18/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:35 WIB 18/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:37 WIB 18/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:37 WIB 18/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[15:00 WIB 18/06/26] Séc vs Mỹ [FHD] [LIVE]
@@ -20,31 +20,31 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjHxRKv5dU0x2ZWwizCetPonOnmyyXaV5Hpg&s" group-title="WTT Star Contender Ljubljana 2026",[16:00 WIB 18/06/26] WTT Star Contender Ljubljana 2026 [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[16:30 WIB 18/06/26] Fabian Marozsan vs Taylor Fritz [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[16:30 WIB 18/06/26] Fabian Marozsan vs Taylor Fritz [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[16:30 WIB 18/06/26] Fabian Marozsan vs Taylor Fritz [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[16:30 WIB 18/06/26] Fabian Marozsan vs Taylor Fritz [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[16:30 WIB 18/06/26] Fabian Marozsan vs Taylor Fritz [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[16:30 WIB 18/06/26] Fabian Marozsan vs Taylor Fritz [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[16:59 WIB 18/06/26] AC Oulu vs Mariehamn [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[16:59 WIB 18/06/26] AC Oulu vs Mariehamn [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[16:59 WIB 18/06/26] AC Oulu vs Mariehamn [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[16:59 WIB 18/06/26] AC Oulu vs Mariehamn [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[16:59 WIB 18/06/26] AC Oulu vs Mariehamn [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[16:59 WIB 18/06/26] AC Oulu vs Mariehamn [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[17:00 WIB 18/06/26] Ukraina vs Ba Lan [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[17:00 WIB 18/06/26] Ukraina vs Ba Lan [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[17:00 WIB 18/06/26] Ukraina vs Ba Lan [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[17:00 WIB 18/06/26] Ukraina vs Ba Lan [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[17:00 WIB 18/06/26] Ukraina vs Ba Lan [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[17:00 WIB 18/06/26] Ukraina vs Ba Lan [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[18:30 WIB 18/06/26] Ben Shelton vs Ethan Quinn [FHD] [NANTIKAN]
