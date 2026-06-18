@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [05.39 WIB 19/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [05.53 WIB 19/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[LIVE 05:00 WIB 19/06/26] Canada vs Qatar",[LIVE 05:00 WIB 19/06/26] Canada vs Qatar (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[LIVE 05:00 WIB 19/06/26] Canada vs Qatar",[LIVE 05:00 WIB 19/06/26] Canada vs Qatar (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 20m 08:00 WIB 19/06/26] Mexico vs South Korea",[UPCOMING 2j 20m 08:00 WIB 19/06/26] Mexico vs South Korea (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 6m 08:00 WIB 19/06/26] Mexico vs South Korea",[UPCOMING 2j 6m 08:00 WIB 19/06/26] Mexico vs South Korea (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 20m 08:00 WIB 19/06/26] Mexico vs South Korea",[UPCOMING 2j 20m 08:00 WIB 19/06/26] Mexico vs South Korea (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 6m 08:00 WIB 19/06/26] Mexico vs South Korea",[UPCOMING 2j 6m 08:00 WIB 19/06/26] Mexico vs South Korea (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 20j 20m 02:00 WIB 20/06/26] USA vs Australia",[UPCOMING 20j 20m 02:00 WIB 20/06/26] USA vs Australia (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 20j 6m 02:00 WIB 20/06/26] USA vs Australia",[UPCOMING 20j 6m 02:00 WIB 20/06/26] USA vs Australia (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 23j 20m 05:00 WIB 20/06/26] Scotland vs Morocco",[UPCOMING 23j 20m 05:00 WIB 20/06/26] Scotland vs Morocco (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 23j 6m 05:00 WIB 20/06/26] Scotland vs Morocco",[UPCOMING 23j 6m 05:00 WIB 20/06/26] Scotland vs Morocco (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
