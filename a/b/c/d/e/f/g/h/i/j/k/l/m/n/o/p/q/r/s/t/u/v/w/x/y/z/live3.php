@@ -1,7 +1,7 @@
 #EXTM3U
-# Generated Fri Jun 19 06:51:19 2026
+# Generated Fri Jun 19 06:51:43 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Friday 19-06-2026 13:51:07 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Friday 19-06-2026 13:51:35 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Dalian Kewei😈 [🆚] 😈Liaoning Tieren [38m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541958
