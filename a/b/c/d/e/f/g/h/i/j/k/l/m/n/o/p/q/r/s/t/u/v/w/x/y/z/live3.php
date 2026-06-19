@@ -1,37 +1,37 @@
 #EXTM3U
-# Generated Fri Jun 19 04:11:43 2026
+# Generated Fri Jun 19 04:18:08 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Friday 19-06-2026 11:11:32 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Friday 19-06-2026 11:17:57 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Dalian Kewei😈 [🆚] 😈Liaoning Tieren [198m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Dalian Kewei😈 [🆚] 😈Liaoning Tieren [192m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541958
-#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Shanxi Chongde Ronghai😈 [🆚] 😈Qingdao West Coast [198m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Shanxi Chongde Ronghai😈 [🆚] 😈Qingdao West Coast [192m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541964
-#EXTINF:-1 group-title="📁😈 CFA Women's Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c017e7ba7444ebab19abe2d412245032.png",📁😈Beijing Women😈 [🆚] 😈Changchun Dazhongzhuoyue Women [228m]😈📁
+#EXTINF:-1 group-title="📁😈 CFA Women's Super League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c017e7ba7444ebab19abe2d412245032.png",📁😈Beijing Women😈 [🆚] 😈Changchun Dazhongzhuoyue Women [222m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4533937
-#EXTINF:-1 group-title="📁😈 National Premier Leagues Victoria 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",📁😈Bentleigh greens😈 [🆚] 😈South Melbourne [318m]😈📁
+#EXTINF:-1 group-title="📁😈 National Premier Leagues Victoria 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",📁😈Bentleigh greens😈 [🆚] 😈South Melbourne [311m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4476123
-#EXTINF:-1 group-title="📁😈 National Premier Leagues Victoria 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",📁😈Oakleigh Cannons😈 [🆚] 😈Melbourne City NPL [363m]😈📁
+#EXTINF:-1 group-title="📁😈 National Premier Leagues Victoria 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",📁😈Oakleigh Cannons😈 [🆚] 😈Melbourne City NPL [356m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4476122
-#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Shenzhen Juniors😈 [🆚] 😈Shenzhen Peng City [408m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Shenzhen Juniors😈 [🆚] 😈Shenzhen Peng City [401m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541961
-#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Hangzhou Linping Wuyue😈 [🆚] 😈Dalian Yingbo [438m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Hangzhou Linping Wuyue😈 [🆚] 😈Dalian Yingbo [431m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541959
-#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Lanzhou Longyuan Athletic😈 [🆚] 😈Tianjin Jinmen Tiger [438m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Lanzhou Longyuan Athletic😈 [🆚] 😈Tianjin Jinmen Tiger [431m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541963
-#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Jiangxi Lushan😈 [🆚] 😈Henan FC [438m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese FA Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png",📁😈Jiangxi Lushan😈 [🆚] 😈Henan FC [431m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4541971
-#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Khan Tengri FC😈 [🆚] 😈FK Taraz [588m]😈📁
+#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Khan Tengri FC😈 [🆚] 😈FK Taraz [581m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4519509
-#EXTINF:-1 group-title="📁😈 Belarusian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png",📁😈Naftan Novopolotsk😈 [🆚] 😈FC Baranovichi [648m]😈📁
+#EXTINF:-1 group-title="📁😈 Belarusian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png",📁😈Naftan Novopolotsk😈 [🆚] 😈FC Baranovichi [641m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4502843
-#EXTINF:-1 group-title="📁😈 Norwegian 1.Divisjon 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76cf7670d30a48ad1437315a8c50acdb.png",📁😈Ranheim IL😈 [🆚] 😈Lyn Oslo [768m]😈📁
+#EXTINF:-1 group-title="📁😈 Norwegian 1.Divisjon 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/76cf7670d30a48ad1437315a8c50acdb.png",📁😈Ranheim IL😈 [🆚] 😈Lyn Oslo [761m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4467761
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Australia [888m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Australia [881m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4459828
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Scotland😈 [🆚] 😈Morocco [1068m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Scotland😈 [🆚] 😈Morocco [1061m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460945
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Haiti [1218m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Haiti [1211m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460911
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈Paraguay [1368m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈Paraguay [1361m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460948
