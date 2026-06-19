@@ -1,165 +1,165 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mexico😈VS😈Hàn Quốc📁|LIVE|Friday 19 June 2026 08:00:00 WIB(Main)
-https://live.egmdispatch.com/live/66456908_52711ca849b9d4a68702360aed28e4e0_autoChange.m3u8?auth_key=1781851423-0-0-c906ed7b7395c50b53311a6b38160eea
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mexico😈VS😈Hàn Quốc📁|LIVE|Friday 19 June 2026 08:00:00 WIB(BLV 247)
-https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mexico😈VS😈Hàn Quốc📁|LIVE|Friday 19 June 2026 08:00:00 WIB(BLV GIÀ LÀNG)
-https://live05.msdht.app/live/14830711.m3u8
+https://live.egmdispatch.com/live/66456908_52711ca849b9d4a68702360aed28e4e0_autoChange.m3u8?auth_key=1781852093-0-0-36799f11b41c817b4bfc0b80a539f91e
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mexico😈VS😈Hàn Quốc📁|LIVE|Friday 19 June 2026 08:00:00 WIB(BLV SPRITE)
 https://live05.msdht.app/live/90725470.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mexico😈VS😈Hàn Quốc📁|LIVE|Friday 19 June 2026 08:00:00 WIB(BLV GIÀ LÀNG)
+https://live05.msdht.app/live/14830711.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mexico😈VS😈Hàn Quốc📁|LIVE|Friday 19 June 2026 08:00:00 WIB(BLV COCA)
 https://live05.msdht.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Câu lạc bộ bóng đá Tây An Ronghai😈VS😈Qingdao West Coast📁|0d 4h 41m 3s|Friday 19 June 2026 14:30:00 WIB(Main)
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Câu lạc bộ bóng đá Tây An Ronghai😈VS😈Qingdao West Coast📁|0d 4h 41m 3s|Friday 19 June 2026 14:30:00 WIB(BLV MOUNTAIN DEW)
-https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f35049a8706d6eaaeb708a3c80a992d0.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Dalian Kewei😈VS😈Shenyang Urban FC📁|0d 4h 41m 3s|Friday 19 June 2026 14:30:00 WIB(Main)
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f35049a8706d6eaaeb708a3c80a992d0.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Dalian Kewei😈VS😈Shenyang Urban FC📁|0d 4h 41m 3s|Friday 19 June 2026 14:30:00 WIB(BLV C2)
-https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1cd1f47b6c94e8f7f222f09ac29e9873.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thượng Hải Saigenda😈VS😈Shanghai Port📁|0d 4h 41m 3s|Friday 19 June 2026 14:30:00 WIB(Main)
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1cd1f47b6c94e8f7f222f09ac29e9873.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thượng Hải Saigenda😈VS😈Shanghai Port📁|0d 4h 41m 3s|Friday 19 June 2026 14:30:00 WIB(BLV GIÀ LÀNG)
-https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/256e715800fb8321f7cf1dacce3aa35e.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Canterbury Rams😈VS😈Tiếp theo📁|0d 4h 41m 3s|Friday 19 June 2026 14:30:00 WIB(Main)
-https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/256e715800fb8321f7cf1dacce3aa35e.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Canterbury Rams😈VS😈Tiếp theo📁|0d 4h 41m 3s|Friday 19 June 2026 14:30:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3653cce234494bfbd33e077f4a028f66.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mexico😈VS😈Hàn Quốc📁|LIVE|Friday 19 June 2026 08:00:00 WIB(BLV 247)
 https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5016a715cb2eee1c7938f3170ad7d0ed.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Bentleigh greens😈VS😈South Melbourne📁|0d 6h 41m 3s|Friday 19 June 2026 16:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Câu lạc bộ bóng đá Tây An Ronghai😈VS😈Qingdao West Coast📁|0d 4h 34m 26s|Friday 19 June 2026 14:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5016a715cb2eee1c7938f3170ad7d0ed.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Bentleigh greens😈VS😈South Melbourne📁|0d 6h 41m 3s|Friday 19 June 2026 16:30:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Câu lạc bộ bóng đá Tây An Ronghai😈VS😈Qingdao West Coast📁|0d 4h 34m 26s|Friday 19 June 2026 14:30:00 WIB(BLV MOUNTAIN DEW)
+https://live05.msdht.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f35049a8706d6eaaeb708a3c80a992d0.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Dalian Kewei😈VS😈Shenyang Urban FC📁|0d 4h 34m 26s|Friday 19 June 2026 14:30:00 WIB(Main)
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f35049a8706d6eaaeb708a3c80a992d0.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Dalian Kewei😈VS😈Shenyang Urban FC📁|0d 4h 34m 26s|Friday 19 June 2026 14:30:00 WIB(BLV C2)
+https://live05.msdht.app/live/08552895.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1cd1f47b6c94e8f7f222f09ac29e9873.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thượng Hải Saigenda😈VS😈Shanghai Port📁|0d 4h 34m 26s|Friday 19 June 2026 14:30:00 WIB(Main)
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1cd1f47b6c94e8f7f222f09ac29e9873.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thượng Hải Saigenda😈VS😈Shanghai Port📁|0d 4h 34m 26s|Friday 19 June 2026 14:30:00 WIB(BLV GIÀ LÀNG)
+https://live05.msdht.app/live/14830711.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/256e715800fb8321f7cf1dacce3aa35e.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Canterbury Rams😈VS😈Tiếp theo📁|0d 4h 34m 26s|Friday 19 June 2026 14:30:00 WIB(Main)
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/256e715800fb8321f7cf1dacce3aa35e.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Canterbury Rams😈VS😈Tiếp theo📁|0d 4h 34m 26s|Friday 19 June 2026 14:30:00 WIB(BLV 247)
+https://live05.msdht.app/live/90865415.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5016a715cb2eee1c7938f3170ad7d0ed.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Bentleigh greens😈VS😈South Melbourne📁|0d 6h 34m 26s|Friday 19 June 2026 16:30:00 WIB(Main)
+https
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5016a715cb2eee1c7938f3170ad7d0ed.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Bentleigh greens😈VS😈South Melbourne📁|0d 6h 34m 26s|Friday 19 June 2026 16:30:00 WIB(BLV MONSTER)
 https://live05.msdht.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/165b0184ea713b45d4453dd4e4fdfdb2.png!w80" group-title="📁Giải Ngoại hạng Quốc gia Úc bang Queensland📁",📁CLB Gold Coast Knights😈VS😈CLB Magic United TFA📁|0d 6h 41m 3s|Friday 19 June 2026 16:30:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/165b0184ea713b45d4453dd4e4fdfdb2.png!w80" group-title="📁Giải Ngoại hạng Quốc gia Úc bang Queensland📁",📁CLB Gold Coast Knights😈VS😈CLB Magic United TFA📁|0d 6h 34m 26s|Friday 19 June 2026 16:30:00 WIB(BLV Cozy)
 https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bf15765055eda003a3410454713c8e4d.png!w80" group-title="📁Giải bóng đá Hạng hai Trung Quốc📁",📁Dalian Yingbo B😈VS😈Nam Thông Hải Môn Codion📁|0d 7h 11m 3s|Friday 19 June 2026 17:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bf15765055eda003a3410454713c8e4d.png!w80" group-title="📁Giải bóng đá Hạng hai Trung Quốc📁",📁Dalian Yingbo B😈VS😈Nam Thông Hải Môn Codion📁|0d 7h 4m 26s|Friday 19 June 2026 17:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bf15765055eda003a3410454713c8e4d.png!w80" group-title="📁Giải bóng đá Hạng hai Trung Quốc📁",📁Dalian Yingbo B😈VS😈Nam Thông Hải Môn Codion📁|0d 7h 11m 3s|Friday 19 June 2026 17:00:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/bf15765055eda003a3410454713c8e4d.png!w80" group-title="📁Giải bóng đá Hạng hai Trung Quốc📁",📁Dalian Yingbo B😈VS😈Nam Thông Hải Môn Codion📁|0d 7h 4m 26s|Friday 19 June 2026 17:00:00 WIB(BLV ROCKSTAR)
 https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/873f655c74783dbb85de6cacc8f503c0.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Oakleigh Cannons😈VS😈Melbourne City NPL📁|0d 7h 26m 3s|Friday 19 June 2026 17:15:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/873f655c74783dbb85de6cacc8f503c0.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Oakleigh Cannons😈VS😈Melbourne City NPL📁|0d 7h 19m 26s|Friday 19 June 2026 17:15:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/873f655c74783dbb85de6cacc8f503c0.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Oakleigh Cannons😈VS😈Melbourne City NPL📁|0d 7h 26m 3s|Friday 19 June 2026 17:15:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/873f655c74783dbb85de6cacc8f503c0.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Oakleigh Cannons😈VS😈Melbourne City NPL📁|0d 7h 19m 26s|Friday 19 June 2026 17:15:00 WIB(BLV SPRITE)
 https://live05.msdht.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/335dad7f811f451658b42b2688eef5a9.png!w80" group-title="📁Giải bóng đá hạng nhất Queensland, Úc📁",📁Caboolture FC😈VS😈Brisbane Strikers📁|0d 7h 41m 3s|Friday 19 June 2026 17:30:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/335dad7f811f451658b42b2688eef5a9.png!w80" group-title="📁Giải bóng đá hạng nhất Queensland, Úc📁",📁Caboolture FC😈VS😈Brisbane Strikers📁|0d 7h 34m 26s|Friday 19 June 2026 17:30:00 WIB(BLV SODA)
 https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Tân Châu Huệ Long😈VS😈Zhejiang Professional📁|0d 8h 11m 3s|Friday 19 June 2026 18:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Tân Châu Huệ Long😈VS😈Zhejiang Professional📁|0d 8h 4m 26s|Friday 19 June 2026 18:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Tân Châu Huệ Long😈VS😈Zhejiang Professional📁|0d 8h 11m 3s|Friday 19 June 2026 18:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Tân Châu Huệ Long😈VS😈Zhejiang Professional📁|0d 8h 4m 26s|Friday 19 June 2026 18:00:00 WIB(BLV 247)
 https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thanh niên Thâm Quyến😈VS😈Shenzhen Peng City📁|0d 8h 11m 3s|Friday 19 June 2026 18:00:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thanh niên Thâm Quyến😈VS😈Shenzhen Peng City📁|0d 8h 4m 26s|Friday 19 June 2026 18:00:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thanh niên Thâm Quyến😈VS😈Shenzhen Peng City📁|0d 8h 11m 3s|Friday 19 June 2026 18:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thanh niên Thâm Quyến😈VS😈Shenzhen Peng City📁|0d 8h 4m 26s|Friday 19 June 2026 18:00:00 WIB(BLV C2)
 https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Quảng Châu E-Power FC😈VS😈Beijing Guoan📁|0d 8h 41m 3s|Friday 19 June 2026 18:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Quảng Châu E-Power FC😈VS😈Beijing Guoan📁|0d 8h 34m 26s|Friday 19 June 2026 18:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Quảng Châu E-Power FC😈VS😈Beijing Guoan📁|0d 8h 41m 3s|Friday 19 June 2026 18:30:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Quảng Châu E-Power FC😈VS😈Beijing Guoan📁|0d 8h 34m 26s|Friday 19 June 2026 18:30:00 WIB(BLV 7UP)
 https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b493c3e5b0fb8c1c48b1a685b2a33c26.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thành phố vinh quang Lang Phường😈VS😈Câu lạc bộ bóng đá Zhixing Đại Liên📁|0d 8h 41m 3s|Friday 19 June 2026 18:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b493c3e5b0fb8c1c48b1a685b2a33c26.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thành phố vinh quang Lang Phường😈VS😈Câu lạc bộ bóng đá Zhixing Đại Liên📁|0d 8h 34m 26s|Friday 19 June 2026 18:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b493c3e5b0fb8c1c48b1a685b2a33c26.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thành phố vinh quang Lang Phường😈VS😈Câu lạc bộ bóng đá Zhixing Đại Liên📁|0d 8h 41m 3s|Friday 19 June 2026 18:30:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b493c3e5b0fb8c1c48b1a685b2a33c26.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Thành phố vinh quang Lang Phường😈VS😈Câu lạc bộ bóng đá Zhixing Đại Liên📁|0d 8h 34m 26s|Friday 19 June 2026 18:30:00 WIB(BLV POCARI)
 https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Câu lạc bộ bóng đá Nhật Chiếu Yuqi😈VS😈Tianjin Jinmen Tiger📁|0d 8h 41m 3s|Friday 19 June 2026 18:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Câu lạc bộ bóng đá Nhật Chiếu Yuqi😈VS😈Tianjin Jinmen Tiger📁|0d 8h 34m 26s|Friday 19 June 2026 18:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Câu lạc bộ bóng đá Nhật Chiếu Yuqi😈VS😈Tianjin Jinmen Tiger📁|0d 8h 41m 3s|Friday 19 June 2026 18:30:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2fa59a9c9801ee88b9049fa051fce162.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Câu lạc bộ bóng đá Nhật Chiếu Yuqi😈VS😈Tianjin Jinmen Tiger📁|0d 8h 34m 26s|Friday 19 June 2026 18:30:00 WIB(BLV BÍ ĐAO)
 https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/fb1060fc304744d0b50e6a180fbc98c2.png!w80" group-title="📁Giải Bóng rổ VBA Việt Nam📁",📁Sài Gòn Heat😈VS😈Hanoi buffalo📁|0d 9h 41m 3s|Friday 19 June 2026 19:30:00 WIB(Main)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/fb1060fc304744d0b50e6a180fbc98c2.png!w80" group-title="📁Giải Bóng rổ VBA Việt Nam📁",📁Sài Gòn Heat😈VS😈Hanoi buffalo📁|0d 9h 34m 26s|Friday 19 June 2026 19:30:00 WIB(Main)
 https
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/fb1060fc304744d0b50e6a180fbc98c2.png!w80" group-title="📁Giải Bóng rổ VBA Việt Nam📁",📁Sài Gòn Heat😈VS😈Hanoi buffalo📁|0d 9h 41m 3s|Friday 19 June 2026 19:30:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/fb1060fc304744d0b50e6a180fbc98c2.png!w80" group-title="📁Giải Bóng rổ VBA Việt Nam📁",📁Sài Gòn Heat😈VS😈Hanoi buffalo📁|0d 9h 34m 26s|Friday 19 June 2026 19:30:00 WIB(BLV ROCKSTAR)
 https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80" group-title="📁Giải hạng nhất quốc gia Kazakhstan📁",📁Shakhtar Karagandy😈VS😈Jaiyq📁|0d 10h 11m 3s|Friday 19 June 2026 20:00:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80" group-title="📁Giải hạng nhất quốc gia Kazakhstan📁",📁Shakhtar Karagandy😈VS😈Jaiyq📁|0d 10h 4m 26s|Friday 19 June 2026 20:00:00 WIB(BLV MONSTER)
 https://live05.msdht.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/05cf441029dee335fd968c6bf40f9ad5.png!w80" group-title="📁Giải hạng nhất quốc gia Kazakhstan📁",📁Khan Tengri FC😈VS😈FK Taraz📁|0d 11h 11m 3s|Friday 19 June 2026 21:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/05cf441029dee335fd968c6bf40f9ad5.png!w80" group-title="📁Giải hạng nhất quốc gia Kazakhstan📁",📁Khan Tengri FC😈VS😈FK Taraz📁|0d 11h 4m 26s|Friday 19 June 2026 21:00:00 WIB(BLV 7UP)
 https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/64ce89d02cc5898473912ceb88178b99.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Belarus📁",📁Naftan Novopolock😈VS😈Baranovici📁|0d 12h 11m 3s|Friday 19 June 2026 22:00:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/64ce89d02cc5898473912ceb88178b99.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Belarus📁",📁Naftan Novopolock😈VS😈Baranovici📁|0d 12h 4m 26s|Friday 19 June 2026 22:00:00 WIB(BLV MOUNTAIN DEW)
 https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mỹ😈VS😈ĐTQG Úc📁|0d 16h 11m 3s|Saturday 20 June 2026 02:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mỹ😈VS😈ĐTQG Úc📁|0d 16h 4m 26s|Saturday 20 June 2026 02:00:00 WIB(BLV C2)
 https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mỹ😈VS😈ĐTQG Úc📁|0d 16h 11m 3s|Saturday 20 June 2026 02:00:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mỹ😈VS😈ĐTQG Úc📁|0d 16h 4m 26s|Saturday 20 June 2026 02:00:00 WIB(BLV MOUNTAIN DEW)
 https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mỹ😈VS😈ĐTQG Úc📁|0d 16h 11m 3s|Saturday 20 June 2026 02:00:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mỹ😈VS😈ĐTQG Úc📁|0d 16h 4m 26s|Saturday 20 June 2026 02:00:00 WIB(BLV GIÀ LÀNG)
 https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mỹ😈VS😈ĐTQG Úc📁|0d 16h 11m 3s|Saturday 20 June 2026 02:00:00 WIB(BLV COCA)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Mỹ😈VS😈ĐTQG Úc📁|0d 16h 4m 26s|Saturday 20 June 2026 02:00:00 WIB(BLV COCA)
 https://live05.msdht.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁ĐTQG Scotland😈VS😈Ma Rốc📁|0d 19h 11m 3s|Saturday 20 June 2026 05:00:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁ĐTQG Scotland😈VS😈Ma Rốc📁|0d 19h 4m 26s|Saturday 20 June 2026 05:00:00 WIB(BLV SPRITE)
+https://live05.msdht.app/live/90725470.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁ĐTQG Scotland😈VS😈Ma Rốc📁|0d 19h 4m 26s|Saturday 20 June 2026 05:00:00 WIB(BLV SODA)
 https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁ĐTQG Scotland😈VS😈Ma Rốc📁|0d 19h 11m 3s|Saturday 20 June 2026 05:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁ĐTQG Scotland😈VS😈Ma Rốc📁|0d 19h 4m 26s|Saturday 20 June 2026 05:00:00 WIB(BLV 247)
 https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁ĐTQG Scotland😈VS😈Ma Rốc📁|0d 19h 11m 3s|Saturday 20 June 2026 05:00:00 WIB(BLV SPRITE)
-https://live05.msdht.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁ĐTQG Scotland😈VS😈Ma Rốc📁|0d 19h 11m 3s|Saturday 20 June 2026 05:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c432976945dc8b1ac46792dfa97ea068.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁ĐTQG Scotland😈VS😈Ma Rốc📁|0d 19h 4m 26s|Saturday 20 June 2026 05:00:00 WIB(BLV 7UP)
 https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/616c37f8e35a1c33a4766dbc86c0ca3a.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Connecticut Sun😈VS😈Toronto Tempo📁|0d 20h 41m 3s|Saturday 20 June 2026 06:30:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/616c37f8e35a1c33a4766dbc86c0ca3a.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Connecticut Sun😈VS😈Toronto Tempo📁|0d 20h 34m 26s|Saturday 20 June 2026 06:30:00 WIB(BLV POCARI)
 https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁New York Liberty😈VS😈Washington Mystics📁|0d 20h 41m 3s|Saturday 20 June 2026 06:30:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁New York Liberty😈VS😈Washington Mystics📁|0d 20h 34m 26s|Saturday 20 June 2026 06:30:00 WIB(BLV ROCKSTAR)
 https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Brazil😈VS😈Haiti📁|0d 21h 41m 3s|Saturday 20 June 2026 07:30:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Brazil😈VS😈Haiti📁|0d 21h 34m 26s|Saturday 20 June 2026 07:30:00 WIB(BLV C2)
 https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Brazil😈VS😈Haiti📁|0d 21h 41m 3s|Saturday 20 June 2026 07:30:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Brazil😈VS😈Haiti📁|0d 21h 34m 26s|Saturday 20 June 2026 07:30:00 WIB(BLV SPRITE)
 https://live05.msdht.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Brazil😈VS😈Haiti📁|0d 21h 41m 3s|Saturday 20 June 2026 07:30:00 WIB(BLV COCA)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Brazil😈VS😈Haiti📁|0d 21h 34m 26s|Saturday 20 June 2026 07:30:00 WIB(BLV COCA)
 https://live05.msdht.app/live/24561735.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Brazil😈VS😈Haiti📁|0d 21h 41m 3s|Saturday 20 June 2026 07:30:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Brazil😈VS😈Haiti📁|0d 21h 34m 26s|Saturday 20 June 2026 07:30:00 WIB(BLV Cozy)
 https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Golden State Valkyries😈VS😈Minnesota Lynx📁|0d 23h 11m 3s|Saturday 20 June 2026 09:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="📁Hiệp hội bóng rổ quốc gia nữ📁",📁Golden State Valkyries😈VS😈Minnesota Lynx📁|0d 23h 4m 26s|Saturday 20 June 2026 09:00:00 WIB(BLV 247)
 https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Thổ nhĩ kỳ😈VS😈Paraguay📁|1d 0h 11m 3s|Saturday 20 June 2026 10:00:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Thổ nhĩ kỳ😈VS😈Paraguay📁|1d 0h 4m 26s|Saturday 20 June 2026 10:00:00 WIB(BLV MOUNTAIN DEW)
 https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Thổ nhĩ kỳ😈VS😈Paraguay📁|1d 0h 11m 3s|Saturday 20 June 2026 10:00:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Thổ nhĩ kỳ😈VS😈Paraguay📁|1d 0h 4m 26s|Saturday 20 June 2026 10:00:00 WIB(BLV GIÀ LÀNG)
 https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Thổ nhĩ kỳ😈VS😈Paraguay📁|1d 0h 11m 3s|Saturday 20 June 2026 10:00:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Thổ nhĩ kỳ😈VS😈Paraguay📁|1d 0h 4m 26s|Saturday 20 June 2026 10:00:00 WIB(BLV ROCKSTAR)
 https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Thổ nhĩ kỳ😈VS😈Paraguay📁|1d 0h 11m 3s|Saturday 20 June 2026 10:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="📁Giải vô địch bóng đá thế giới📁",📁Thổ nhĩ kỳ😈VS😈Paraguay📁|1d 0h 4m 26s|Saturday 20 June 2026 10:00:00 WIB(BLV POCARI)
 https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/12e9ecb23853b22284862b0002431e14.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Auckland Huskies😈VS😈Bay Hawks📁|1d 1h 11m 3s|Saturday 20 June 2026 11:00:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/12e9ecb23853b22284862b0002431e14.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Auckland Huskies😈VS😈Bay Hawks📁|1d 1h 4m 26s|Saturday 20 June 2026 11:00:00 WIB(BLV Cozy)
 https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4115cad66f03ae616df1952b3c2fa17e.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Hume City😈VS😈Green Gully📁|1d 1h 11m 3s|Saturday 20 June 2026 11:00:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4115cad66f03ae616df1952b3c2fa17e.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Hume City😈VS😈Green Gully📁|1d 1h 4m 26s|Saturday 20 June 2026 11:00:00 WIB(BLV BÍ ĐAO)
 https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a58223bbf9e0578395899d482403dc9a.png!w80" group-title="📁Giải bóng đá hạng nhất Queensland, Úc📁",📁Thành phố Robina xanh😈VS😈Logan Lightning📁|1d 1h 41m 3s|Saturday 20 June 2026 11:30:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a58223bbf9e0578395899d482403dc9a.png!w80" group-title="📁Giải bóng đá hạng nhất Queensland, Úc📁",📁Thành phố Robina xanh😈VS😈Logan Lightning📁|1d 1h 34m 26s|Saturday 20 June 2026 11:30:00 WIB(BLV MONSTER)
 https://live05.msdht.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d287684146235d2fddb92f71d78fba02.png!w80" group-title="📁Giải bóng đá Hạng nhất New South Wales của Úc📁",📁Những kẻ lang thang Tây Sydney AM😈VS😈Sutherland Sharks📁|1d 2h 11m 3s|Saturday 20 June 2026 12:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d287684146235d2fddb92f71d78fba02.png!w80" group-title="📁Giải bóng đá Hạng nhất New South Wales của Úc📁",📁Những kẻ lang thang Tây Sydney AM😈VS😈Sutherland Sharks📁|1d 2h 4m 26s|Saturday 20 June 2026 12:00:00 WIB(BLV 7UP)
 https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ff2e694966de559719f778b5c79ea2ad.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Avondale FC😈VS😈Dandenong Thunder📁|1d 2h 11m 3s|Saturday 20 June 2026 12:00:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ff2e694966de559719f778b5c79ea2ad.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Avondale FC😈VS😈Dandenong Thunder📁|1d 2h 4m 26s|Saturday 20 June 2026 12:00:00 WIB(BLV SODA)
 https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0c6ea7bc3792dac98ed3378cd2865c0a.png!w80" group-title="📁Giải bóng đá Hạng nhất New South Wales của Úc📁",📁CLB Manly United😈VS😈Thánh George📁|1d 4h 11m 3s|Saturday 20 June 2026 14:00:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0c6ea7bc3792dac98ed3378cd2865c0a.png!w80" group-title="📁Giải bóng đá Hạng nhất New South Wales của Úc📁",📁CLB Manly United😈VS😈Thánh George📁|1d 4h 4m 26s|Saturday 20 June 2026 14:00:00 WIB(BLV MOUNTAIN DEW)
 https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Qingdao Red Lions😈VS😈Wuhan Three Towns📁|1d 4h 41m 3s|Saturday 20 June 2026 14:30:00 WIB(BLV GIÀ LÀNG)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/10e4e7f3e658f6c92e5a5d86afa6d930.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Qingdao Red Lions😈VS😈Wuhan Three Towns📁|1d 4h 34m 26s|Saturday 20 June 2026 14:30:00 WIB(BLV GIÀ LÀNG)
 https://live05.msdht.app/live/14830711.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/5682b443934d64c12f41e5abfc6e2f8a.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Otago Nuggets😈VS😈Taranaki Mountainairs📁|1d 4h 41m 3s|Saturday 20 June 2026 14:30:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/5682b443934d64c12f41e5abfc6e2f8a.png!w80" group-title="📁Giải Quốc Gia Bóng Rổ New Zealand📁",📁Otago Nuggets😈VS😈Taranaki Mountainairs📁|1d 4h 34m 26s|Saturday 20 June 2026 14:30:00 WIB(BLV POCARI)
 https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e9fe5248e24a1ccdffa4af70e767ffa7.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Thánh giá George Springs của Caroline Springs😈VS😈Dandenong City📁|1d 5h 11m 3s|Saturday 20 June 2026 15:00:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e9fe5248e24a1ccdffa4af70e767ffa7.png!w80" group-title="📁Giải bóng đá Hạng nhất Victoria của Úc📁",📁Thánh giá George Springs của Caroline Springs😈VS😈Dandenong City📁|1d 5h 4m 26s|Saturday 20 June 2026 15:00:00 WIB(BLV BÍ ĐAO)
 https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/093bfeeaa5b64817e7ced2beada10b08.png!w80" group-title="📁Women's National League📁",📁Hồ Chí Minh Nữ😈VS😈Tp. Hồ Chí Minh 2 Nữ📁|1d 6h 11m 3s|Saturday 20 June 2026 16:00:00 WIB(BLV C2)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/093bfeeaa5b64817e7ced2beada10b08.png!w80" group-title="📁Women's National League📁",📁Hồ Chí Minh Nữ😈VS😈Tp. Hồ Chí Minh 2 Nữ📁|1d 6h 4m 26s|Saturday 20 June 2026 16:00:00 WIB(BLV C2)
 https://live05.msdht.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/424ac25c370b644caebd91d8ba01df34.png!w80" group-title="📁Women's National League📁",📁Hà Nội 2 Nữ😈VS😈Hà Nội Nữ📁|1d 6h 11m 3s|Saturday 20 June 2026 16:00:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/424ac25c370b644caebd91d8ba01df34.png!w80" group-title="📁Women's National League📁",📁Hà Nội 2 Nữ😈VS😈Hà Nội Nữ📁|1d 6h 4m 26s|Saturday 20 June 2026 16:00:00 WIB(BLV PEPSI)
 https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Shanghai Jiading Huilong😈VS😈Câu lạc bộ bóng đá Tongliangloong Trùng Khánh📁|1d 6h 11m 3s|Saturday 20 June 2026 16:00:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Shanghai Jiading Huilong😈VS😈Câu lạc bộ bóng đá Tongliangloong Trùng Khánh📁|1d 6h 4m 26s|Saturday 20 June 2026 16:00:00 WIB(BLV PEPSI)
 https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8df2032f7b49b5537a934396a1710828.png!w80" group-title="📁WK League Nữ📁",📁Boeun Sangmu Nữ😈VS😈Suwon FMC Nữ📁|1d 7h 11m 3s|Saturday 20 June 2026 17:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8df2032f7b49b5537a934396a1710828.png!w80" group-title="📁WK League Nữ📁",📁Boeun Sangmu Nữ😈VS😈Suwon FMC Nữ📁|1d 7h 4m 26s|Saturday 20 June 2026 17:00:00 WIB(BLV 7UP)
 https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0a7005643b95cb63e27b829ef79ebff5.png!w80" group-title="📁Giải K3 Hàn Quốc📁",📁Công dân Chuncheon😈VS😈Siheung City📁|1d 7h 11m 3s|Saturday 20 June 2026 17:00:00 WIB(BLV POCARI)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0a7005643b95cb63e27b829ef79ebff5.png!w80" group-title="📁Giải K3 Hàn Quốc📁",📁Công dân Chuncheon😈VS😈Siheung City📁|1d 7h 4m 26s|Saturday 20 June 2026 17:00:00 WIB(BLV POCARI)
 https://live05.msdht.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/761b47aa242b8e4a5bf183da184304d7.png!w80" group-title="📁Women's National League📁",📁Thái Nguyên Nữ😈VS😈Phong Phú Hà Nam Nữ📁|1d 8h 11m 3s|Saturday 20 June 2026 18:00:00 WIB(BLV Cozy)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/761b47aa242b8e4a5bf183da184304d7.png!w80" group-title="📁Women's National League📁",📁Thái Nguyên Nữ😈VS😈Phong Phú Hà Nam Nữ📁|1d 8h 4m 26s|Saturday 20 June 2026 18:00:00 WIB(BLV Cozy)
 https://live05.msdht.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Wuxi Wugou😈VS😈Qingdao Hainiu FC📁|1d 8h 11m 3s|Saturday 20 June 2026 18:00:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Wuxi Wugou😈VS😈Qingdao Hainiu FC📁|1d 8h 4m 26s|Saturday 20 June 2026 18:00:00 WIB(BLV BÍ ĐAO)
 https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7543134c669d639c3ff036bc215a3b62.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Câu lạc bộ bóng đá Quảng Tây Hengchen😈VS😈Shandong Taishan📁|1d 8h 41m 3s|Saturday 20 June 2026 18:30:00 WIB(BLV SPRITE)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7543134c669d639c3ff036bc215a3b62.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Câu lạc bộ bóng đá Quảng Tây Hengchen😈VS😈Shandong Taishan📁|1d 8h 34m 26s|Saturday 20 June 2026 18:30:00 WIB(BLV SPRITE)
 https://live05.msdht.app/live/90725470.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0408f34aeb9005f8f65c4c2e80478235.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁HeBei KungFu😈VS😈Shanghai Shenhua📁|1d 8h 41m 3s|Saturday 20 June 2026 18:30:00 WIB(BLV SODA)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0408f34aeb9005f8f65c4c2e80478235.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁HeBei KungFu😈VS😈Shanghai Shenhua📁|1d 8h 34m 26s|Saturday 20 June 2026 18:30:00 WIB(BLV SODA)
 https://live05.msdht.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/48ca4f90b0590c25024da1025ee596ff.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Shanghai Zetian😈VS😈Chengdu Rongcheng📁|1d 8h 41m 3s|Saturday 20 June 2026 18:30:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/48ca4f90b0590c25024da1025ee596ff.png!w80" group-title="📁Cúp Bóng đá Liên đoàn Trung Quốc📁",📁Shanghai Zetian😈VS😈Chengdu Rongcheng📁|1d 8h 34m 26s|Saturday 20 June 2026 18:30:00 WIB(BLV MONSTER)
 https://live05.msdht.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80" group-title="📁Giải bóng đá Hạng hai Trung Quốc📁",📁Chengdu Rongcheng B😈VS😈Yichun Grand Tiger📁|1d 9h 11m 3s|Saturday 20 June 2026 19:00:00 WIB(BLV MOUNTAIN DEW)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80" group-title="📁Giải bóng đá Hạng hai Trung Quốc📁",📁Chengdu Rongcheng B😈VS😈Yichun Grand Tiger📁|1d 9h 4m 26s|Saturday 20 June 2026 19:00:00 WIB(BLV MOUNTAIN DEW)
 https://live05.msdht.app/live/87547578.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/a431de8af67ea988c837ff726cdb30ca.png!w80" group-title="📁Giải Bóng rổ VBA Việt Nam📁",📁Hochiminh City Wings😈VS😈Nha Trang Dolphins📁|1d 9h 41m 3s|Saturday 20 June 2026 19:30:00 WIB(BLV ROCKSTAR)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/a431de8af67ea988c837ff726cdb30ca.png!w80" group-title="📁Giải Bóng rổ VBA Việt Nam📁",📁Hochiminh City Wings😈VS😈Nha Trang Dolphins📁|1d 9h 34m 26s|Saturday 20 June 2026 19:30:00 WIB(BLV ROCKSTAR)
 https://live05.msdht.app/live/82054853.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3be559332e6a0ca7c23f3f2a011a2ca2.png!w80" group-title="📁Giải bóng đá Cao cấp Latvia📁",📁BFC Daugavpils😈VS😈Grobina📁|1d 10h 11m 3s|Saturday 20 June 2026 20:00:00 WIB(BLV BÍ ĐAO)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3be559332e6a0ca7c23f3f2a011a2ca2.png!w80" group-title="📁Giải bóng đá Cao cấp Latvia📁",📁BFC Daugavpils😈VS😈Grobina📁|1d 10h 4m 26s|Saturday 20 June 2026 20:00:00 WIB(BLV BÍ ĐAO)
 https://live05.msdht.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5d2cb6fdc8934f80107352ea5efb7e64.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Belarus📁",📁Câu lạc bộ Bóng đá Slavia Mozyr😈VS😈FK Isloch Minsk📁|1d 10h 41m 3s|Saturday 20 June 2026 20:30:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5d2cb6fdc8934f80107352ea5efb7e64.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Belarus📁",📁Câu lạc bộ Bóng đá Slavia Mozyr😈VS😈FK Isloch Minsk📁|1d 10h 34m 26s|Saturday 20 June 2026 20:30:00 WIB(BLV PEPSI)
 https://live05.msdht.app/live/43612277.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9d3195be22d95cf5d35790272afc724a.png!w80" group-title="📁Giải bóng đá Hạng nhì Brasil📁",📁Londrina😈VS😈CLB Athletic MG📁|1d 11h 11m 3s|Saturday 20 June 2026 21:00:00 WIB(BLV 247)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9d3195be22d95cf5d35790272afc724a.png!w80" group-title="📁Giải bóng đá Hạng nhì Brasil📁",📁Londrina😈VS😈CLB Athletic MG📁|1d 11h 4m 26s|Saturday 20 June 2026 21:00:00 WIB(BLV 247)
 https://live05.msdht.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/403bd68b4370ee76b7bfb01aa793fd02.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Kazakhstan📁",📁Kaisar Kyzylorda😈VS😈Ulytau Zhezkazgan📁|1d 12h 11m 3s|Saturday 20 June 2026 22:00:00 WIB(BLV 7UP)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/403bd68b4370ee76b7bfb01aa793fd02.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Kazakhstan📁",📁Kaisar Kyzylorda😈VS😈Ulytau Zhezkazgan📁|1d 12h 4m 26s|Saturday 20 June 2026 22:00:00 WIB(BLV 7UP)
 https://live05.msdht.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8b355f026ef01a8bd444fc7148cce6ce.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Belarus📁",📁FK Vitebsk😈VS😈CLB Dinamo Brest📁|1d 12h 41m 3s|Saturday 20 June 2026 22:30:00 WIB(BLV MONSTER)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8b355f026ef01a8bd444fc7148cce6ce.png!w80" group-title="📁Giải Bóng đá Ngoại hạng Belarus📁",📁FK Vitebsk😈VS😈CLB Dinamo Brest📁|1d 12h 34m 26s|Saturday 20 June 2026 22:30:00 WIB(BLV MONSTER)
 https://live05.msdht.app/live/75915087.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ca460332316d6da84b08b9bcf39b687b.jpg!w80" group-title="📁Giải Bóng đá Hạng Nhì Carioca Brazil📁",📁Olaria😈VS😈Cabofriense📁|1d 14h 56m 3s|Sunday 21 June 2026 00:45:00 WIB(BLV PEPSI)
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ca460332316d6da84b08b9bcf39b687b.jpg!w80" group-title="📁Giải Bóng đá Hạng Nhì Carioca Brazil📁",📁Olaria😈VS😈Cabofriense📁|1d 14h 49m 26s|Sunday 21 June 2026 00:45:00 WIB(BLV PEPSI)
 https://live05.msdht.app/live/43612277.m3u8
