@@ -1,35 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.25 WIB 20/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.12 WIB 20/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiyah-d8d7a0.png" group-title="[LIVE 00:45 WIB 20/06/26] Al-Salmiyah vs Al Kuwait SC | Server 1",[LIVE 00:45 WIB 20/06/26] Al-Salmiyah vs Al Kuwait SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-fc-6b6bc6.png" group-title="[LIVE 00:45 WIB 20/06/26] Al-Salmiya FC vs Al-Kuwait SC | Server 1",[LIVE 00:45 WIB 20/06/26] Al-Salmiya FC vs Al-Kuwait SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hls.lauthaitv.cc/live/sal-kuw-kuwprem/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-fc-6b6bc6.png" group-title="[LIVE 00:45 WIB 20/06/26] Al-Salmiya FC vs Al-Kuwait SC | Server 2",[LIVE 00:45 WIB 20/06/26] Al-Salmiya FC vs Al-Kuwait SC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://flv.lauthaitv.cc/live/sal-kuw-kuwprem.flv
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/st-patricks-athletic-e92f32.png" group-title="[LIVE 01:45 WIB 20/06/26] St. Patricks Athletic vs Sligo Rovers | Server 1",[LIVE 01:45 WIB 20/06/26] St. Patricks Athletic vs Sligo Rovers | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/galway-united-c467c0.png" group-title="[LIVE 01:45 WIB 20/06/26] Galway United vs Derry City | Server 1",[LIVE 01:45 WIB 20/06/26] Galway United vs Derry City | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/waterford-united-c0419a.png" group-title="[LIVE 01:45 WIB 20/06/26] Waterford United vs Shamrock Rovers | Server 1",[LIVE 01:45 WIB 20/06/26] Waterford United vs Shamrock Rovers | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/drogheda-united-44a00d.png" group-title="[LIVE 01:45 WIB 20/06/26] Drogheda United vs Shelbourne | Server 1",[LIVE 01:45 WIB 20/06/26] Drogheda United vs Shelbourne | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/waterford-united-c0419a.png" group-title="[LIVE 01:45 WIB 20/06/26] Waterford United vs Shamrock Rovers | Server 1",[LIVE 01:45 WIB 20/06/26] Waterford United vs Shamrock Rovers | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/st-patricks-athletic-e92f32.png" group-title="[LIVE 01:45 WIB 20/06/26] St. Patricks Athletic vs Sligo Rovers | Server 1",[LIVE 01:45 WIB 20/06/26] St. Patricks Athletic vs Sligo Rovers | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/bohemians-ed70e0.webp" group-title="[LIVE 02:00 WIB 20/06/26] Bohemians vs Dundalk | Server 1",[LIVE 02:00 WIB 20/06/26] Bohemians vs Dundalk | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 1",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1781831014-0-0-baf3fa4cd9badb5024f9cfd27367d414
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 2",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1781831014-0-0-baf3fa4cd9badb5024f9cfd27367d414
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 3",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
@@ -45,127 +36,142 @@ https://hls.lauthaitv.cc/live/usa-aus-phao/index.m3u8
 https://flv.lauthaitv.cc/live/usa-aus-phao.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 7",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781983277-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-406b351884118f517981ff876642cb2f
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781985977-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-599467846ad6e57593149a31e0c573ea
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 8",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=36a7b5fd732a2537ae0218384bf9179f&x-time=1781896860
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=1cbd83f99db28fb32f05ad3947a88d39&x-time=1781899560
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 9",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=d3edb308d59bf5cb213aec00a6401923&x-time=1781896860
+https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=23476e175e7a68e785373d73f7104109&x-time=1781899560
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 10",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1781983277-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-b12e97548c3dd2435f6555e40e870768
+https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1781985977-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-a8818d93a797ee00384bcebf73b1bcb0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 11",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a-cnhd2/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=27cda69ada1813c03e720ee3bb7b6327&x-time=1781896860
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=9de7fbe52f45bd48f45ad6ea73b526ad&x-time=1781899560
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 12",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a-cnhd2/chunks.m3u8?is_vip=false&token=1781983278-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-527694c142b4eb71325550fb36f6f97d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a/chunks.m3u8?is_vip=false&token=1781985978-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-35c1df0589e6e5ea71d93d00ab32827d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 13",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a-hd/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=0eb6696437beb1476c93caffd3aa2258&x-time=1781899560
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 14",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a-hd/chunks.m3u8?is_vip=false&token=1781985978-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-d584b1d6da7bbfbdc9290fab64b99404
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 15",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a-cnhd/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=b00b6ed67397a80d501ca787a7e2850a&x-time=1781899560
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 16",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 16 (SVR-BHNS 16)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a-cnhd/chunks.m3u8?is_vip=false&token=1781985979-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-36fae360418a9355f26fb0008293a8cf
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 17",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 17 (SVR-BHNS 17)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a-cnhd2/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=f981ff687081b838953334a20d4d9132&x-time=1781899560
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 18",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 18 (SVR-BHNS 18)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a15bc842e7f84ab1d43c19a-cnhd2/chunks.m3u8?is_vip=false&token=1781985979-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-c3ef34bddca43fbf75753965ac04e367
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 19",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 19 (SVR-BHNS 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd|drmScheme=clearkey&drmLicense=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 14",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 15",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 16",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 17",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 17 (SVR-BHNS 17)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 18",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 18 (SVR-BHNS 18)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://play.streamgoaldaddy.com/live/c341960517c4680b.m3u8?wsSecret=BB8FEB8C057C7E0BFDE9F9B3049779B8&wsTime=1781896797
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 19",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 19 (SVR-BHNS 19)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 20",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 20 (SVR-BHNS 20)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 21",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 21 (SVR-BHNS 21)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|drmScheme=clearkey&drmLicense=83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 22",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 22 (SVR-BHNS 22)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 23",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 23 (SVR-BHNS 23)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd|drmScheme=clearkey&drmLicense=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 24",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 24 (SVR-BHNS 24)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 25",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 25 (SVR-BHNS 25)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=2f77dd6a771b92041ce47bcba2bfd5d3&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 26",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 26 (SVR-BHNS 26)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=e5121d3999050cc01f4bc592882cf57e&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 27",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 27 (SVR-BHNS 27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=972e88abfd214cbbc438b181bfa58a54&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 28",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 28 (SVR-BHNS 28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=e05542f3deec2eb897701ae705875719&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 29",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 29 (SVR-BHNS 29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=0b3b2d583d1b51a37b9c44938718ebbf&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 30",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 30 (SVR-BHNS 30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=06c8923a742203156e1eecf264aa68c6&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=1d85228a0682cb56805d1253a0d9117d&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 31",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 31 (SVR-BHNS 31)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=5fdd3135c6a5bcc14b6cab5e827ee6ec&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912108_lhd.m3u8?txSecret=c3200e2eb2542b427b24bd6abfb5df48&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 32",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 32 (SVR-BHNS 32)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=5716b097a402c9eff1db2400a6ff1417&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=645a93c78040fabb9bd57c89f867b2d2&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 33",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 33 (SVR-BHNS 33)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781900601-0-0-069e817cadbb8640bd2005bdfa997a19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=5991dd8171d2091637ce57f3b9677a4c&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 34",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 34 (SVR-BHNS 34)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781900601-0-0-f96c7389cedd41c0bf5e4183a282ecc1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=cb6d5030f57a9ab75efa82ad1cf87557&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 35",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 35 (SVR-BHNS 35)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=94c9ec0c1a1074df38b8eb7ec89420bc&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912091_lhd.m3u8?txSecret=8986a4926c38db10567b19c2d5007c2f&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 36",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 36 (SVR-BHNS 36)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=6a98b247809986570a632f29b45c55ec&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=7aeef0e83a7a90625371deeabcd700f5&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 37",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 37 (SVR-BHNS 37)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781900601-0-0-725d19cada200b82b20b468c86350170
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=6dd0c8b7e8e450494184b27e1c421f49&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 38",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 38 (SVR-BHNS 38)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781900601-0-0-a688a00a217ab841ee6284045cf7ea99
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=45118efe789900ffa83571de18856b51&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 39",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 39 (SVR-BHNS 39)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=928a1c3444248e573c2bc73674c30c30&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=9d8ba75911a37b16b28b5c249fe7eea4&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 40",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 40 (SVR-BHNS 40)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=88723915cdcdac50a634acdf5db280b1&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912110_lsd.m3u8?txSecret=99cae39028f80d3072d100c66220e604&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 41",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 41 (SVR-BHNS 41)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781900601-0-0-a21bae1de69a326bbc7466888a3ae935
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912110_lhd.m3u8?txSecret=9ad30c7b1a03c2c2e26d16b34a76c788&txTime=6a35f561
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 42",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 42 (SVR-BHNS 42)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781900601-0-0-b53fcd5a61b4985fe568d08a7e764ade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1781903121-0-0-9a51b39049e7fd02e4e662c20d1c092c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 43",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 43 (SVR-BHNS 43)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=1e0626f597b2ff8a31b5e8a777f142a1&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1781903121-0-0-4242992677d9b79af6e4e041c656eceb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 44",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 44 (SVR-BHNS 44)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=961b644445040d18bb354cca809c7646&txTime=6a35eb89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781903121-0-0-d5b2905e99907ef17f2145679babc645
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 45",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 45 (SVR-BHNS 45)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781900601-0-0-3bd61a66d1e8fe57844000fb820f4811
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1781903121-0-0-dcacdaf75ebd92156b6bf0740da3c79e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 46",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 46 (SVR-BHNS 46)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781900601-0-0-d1d6ca8f4c3380758189730ca087a455
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781903121-0-0-603a822592d5ff955f8a3309a38900a3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 47",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 47 (SVR-BHNS 47)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912122_lsd.m3u8?auth_key=1781900601-0-0-b4f618a30c21fe2aaf3446b90d3bcea3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781903121-0-0-34ed3f1b3eec947391016718057c476f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 48",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 48 (SVR-BHNS 48)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1781900601-0-0-58ec3716a84bc415bf35ef1cb864699f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781903121-0-0-845bd08c80691cee520f47f68c03e6a6
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 49",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 49 (SVR-BHNS 49)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1781903121-0-0-ce914b8aefc530933d578e36473058a9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 50",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 50 (SVR-BHNS 50)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912116_lsd.m3u8?auth_key=1781903121-0-0-f50268b201f9324254bde27ee852a64b
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 51",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 51 (SVR-BHNS 51)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1781903121-0-0-cf6369abf373156cdd1e607688530714
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 52",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 52 (SVR-BHNS 52)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=0e1b7a66f720d0aae7ed523bac07ac83&txTime=6a35f561
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/usa-ada533.png" group-title="[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 53",[LIVE 02:00 WIB 20/06/26] USA vs Australia | Server 53 (SVR-BHNS 53)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=a8641a0a5d7dccf3ed5743d35fe820a4&txTime=6a35f561
