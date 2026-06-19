@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.28 WIB 20/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [01.34 WIB 20/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 1",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -11,41 +11,41 @@ https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LIO/index.m3u8?expire=1923141900&sign=fff7ab29620de2a54fba04f5f3ca246a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 4",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781897001-0-0-5dcdc3a09545e1e74647a2131dadac24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781897361-0-0-573f0611136c1a6767ea3e3b5c01774a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 5",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781897001-0-0-66d542c6589c1e72a47fbe4b0bb6f833
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781897361-0-0-fa84d2f17ed91e8190fb80e2ff81cf92
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 6",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781897001-0-0-3d7c4aa0d741976b6f257e6c8ed2678d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781897361-0-0-6cf81492392c6cd272c6467a8299e46d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 7",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781897001-0-0-7c8e862200a168d6aba75aa53c17949c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781897361-0-0-3d38cbbfac189812467fb63770bc1d26
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 8",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1781897001-0-0-e9876efdf52d153b60d71baa307378af
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-532081_lsd.m3u8?auth_key=1781897361-0-0-c8edc76557acb8ab9976a8e6304c8edb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 9",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1781897001-0-0-20b0913199455a63787044736e9bf399
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781897361-0-0-1f99811d91541f15e278b39b14b55ec9
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 10",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-607552_lsd.m3u8?auth_key=1781897001-0-0-10bd48d12df7766b9155356ff6c57465
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1781897361-0-0-a6b3a30156037618e51de3655dfb206c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 11",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781897001-0-0-ef1c3d04f6f7e8d1e40316a440ecb151
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781897361-0-0-98b54d55005a27b877580fadb9812339
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 12",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=3ea924eca14ba80540fd0e599ef8e8fe&txTime=6a35dd79
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=025e36fa9114a4c9c2cf2945273ed2f6&txTime=6a35dee1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 13",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=d15779c98b5f10b5d5551518d41093ea&txTime=6a35dd79
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c08f5bbd540ca27a75de6c66a5983197&txTime=6a35dee1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 14",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=bf062a17db76a04927354474bce12abe&txTime=6a35dd79
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=6e6b8c986120905bc01e1652df23a39f&txTime=6a35dee1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ranheim-il-dfe86d.png" group-title="[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 15",[LIVE 00:00 WIB 20/06/26] Ranheim IL vs Lyn Oslo | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=cfc71067e741c3e0a5a61ebfbc74b16b&txTime=6a35dd79
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=da457629ef6b48082eb32779024e4afd&txTime=6a35dee1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiyah-d8d7a0.png" group-title="[LIVE 00:45 WIB 20/06/26] Al-Salmiyah vs Al Kuwait SC | Server 1",[LIVE 00:45 WIB 20/06/26] Al-Salmiyah vs Al Kuwait SC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
