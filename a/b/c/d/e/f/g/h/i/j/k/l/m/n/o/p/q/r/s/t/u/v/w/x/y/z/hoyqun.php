@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:28 WIB 19/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:28 WIB 19/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:34 WIB 19/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:34 WIB 19/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/195.png" group-title="Victoria NPL",[16:30 WIB 19/06/26] Bentleigh Greens vs South Melbourne [FHD] [LIVE]
@@ -38,13 +38,13 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:00 WIB 19/06/26] Shaanxi Union vs Hangzhou Greentown [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:00 WIB 19/06/26] Shenzhen Juniors vs Sichuan Jiuniu [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:00 WIB 19/06/26] Shenzhen Juniors vs Sichuan Jiuniu [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:00 WIB 19/06/26] Shenzhen Juniors vs Sichuan Jiuniu [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:00 WIB 19/06/26] Shenzhen Juniors vs Sichuan Jiuniu [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:00 WIB 19/06/26] Shenzhen Juniors vs Sichuan Jiuniu [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:00 WIB 19/06/26] Shenzhen Juniors vs Sichuan Jiuniu [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:30 WIB 19/06/26] Guangzhou E-Power vs Beijing Guoan [FHD] [NANTIKAN]
