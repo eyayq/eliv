@@ -1,15 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:19 WIB 19/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:19 WIB 19/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:26 WIB 19/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:26 WIB 19/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:30 WIB 19/06/26] Guangzhou E-Power vs Beijing Guoan [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:30 WIB 19/06/26] Guangzhou E-Power vs Beijing Guoan [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:30 WIB 19/06/26] Guangzhou E-Power vs Beijing Guoan [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:30 WIB 19/06/26] Rizhao Yuqi vs Tianjin Teda [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
@@ -56,13 +47,13 @@ https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[20:30 WIB 19/06/26] Bỉ vs Đức [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanchoptracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[21:00 WIB 19/06/26] Khan Tengri vs Taraz [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[21:00 WIB 19/06/26] Khan Tengri vs Taraz [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[21:00 WIB 19/06/26] Khan Tengri vs Taraz [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[21:00 WIB 19/06/26] Khan Tengri vs Taraz [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[21:00 WIB 19/06/26] Khan Tengri vs Taraz [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[21:00 WIB 19/06/26] Khan Tengri vs Taraz [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[22:00 WIB 19/06/26] Naftan vs Baranovichi [FHD] [NANTIKAN]
