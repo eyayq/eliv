@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [01:51 WIB 21/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:51 WIB 21/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [01:57 WIB 21/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [01:57 WIB 21/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjHxRKv5dU0x2ZWwizCetPonOnmyyXaV5Hpg&s" group-title="WTT Star Contender Ljubljana 2026",[22:00 WIB 20/06/26] F [FHD] [LIVE]
@@ -200,6 +200,15 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[17:00 WIB 21/06/26] Canada vs Ba Lan [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 Berlin",[17:00 WIB 21/06/26] Linda Nosková vs Jessica Pegula [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 Berlin",[17:00 WIB 21/06/26] Linda Nosková vs Jessica Pegula [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 Berlin",[17:00 WIB 21/06/26] Linda Nosková vs Jessica Pegula [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/45.png" group-title="FA Cup",[18:00 WIB 21/06/26] Suzhou Dongwu vs Yunnan Yukun [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
@@ -217,6 +226,15 @@ https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[19:00 WIB 21/06/26] Nhật Bản vs Ý [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanchoptracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[19:30 WIB 21/06/26] Francisco Cerundolo vs Tommy Paul [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[19:30 WIB 21/06/26] Francisco Cerundolo vs Tommy Paul [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg" group-title="ATP500 London",[19:30 WIB 21/06/26] Francisco Cerundolo vs Tommy Paul [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/365.png" group-title="Virsliga",[20:00 WIB 21/06/26] FS Jelgava vs Tukums [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -244,6 +262,15 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[20:30 WIB 21/06/26] Thái Lan vs Hà Lan [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[20:30 WIB 21/06/26] Taylor Fritz vs Frances Tiafoe [FHD] [NANTIKAN]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[20:30 WIB 21/06/26] Taylor Fritz vs Frances Tiafoe [HD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATP500-logo.jpg/250px-ATP500-logo.jpg" group-title="ATP500 Halle",[20:30 WIB 21/06/26] Taylor Fritz vs Frances Tiafoe [SD] [NANTIKAN]
+https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[21:00 WIB 21/06/26] Avai vs Cuiaba [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
