@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [01.02 WIB 21/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [01.08 WIB 21/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[LIVE 00:00 WIB 21/06/26] Netherlands vs Sweden",[LIVE 00:00 WIB 21/06/26] Netherlands vs Sweden (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[LIVE 00:00 WIB 21/06/26] Netherlands vs Sweden",[LIVE 00:00 WIB 21/06/26] Netherlands vs Sweden (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 1j 57m 03:00 WIB 21/06/26] Germany vs Ivory Coast",[UPCOMING 1j 57m 03:00 WIB 21/06/26] Germany vs Ivory Coast (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 1j 51m 03:00 WIB 21/06/26] Germany vs Ivory Coast",[UPCOMING 1j 51m 03:00 WIB 21/06/26] Germany vs Ivory Coast (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 1j 57m 03:00 WIB 21/06/26] Germany vs Ivory Coast",[UPCOMING 1j 57m 03:00 WIB 21/06/26] Germany vs Ivory Coast (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 1j 51m 03:00 WIB 21/06/26] Germany vs Ivory Coast",[UPCOMING 1j 51m 03:00 WIB 21/06/26] Germany vs Ivory Coast (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 5j 57m 07:00 WIB 21/06/26] Ecuador vs Curaçao",[UPCOMING 5j 57m 07:00 WIB 21/06/26] Ecuador vs Curaçao (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 5j 51m 07:00 WIB 21/06/26] Ecuador vs Curaçao",[UPCOMING 5j 51m 07:00 WIB 21/06/26] Ecuador vs Curaçao (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 5j 57m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 5j 57m 07:00 WIB 23/06/26] Norway vs Senegal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 5j 51m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 5j 51m 07:00 WIB 23/06/26] Norway vs Senegal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
