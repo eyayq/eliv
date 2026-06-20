@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:12 WIB 20/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:12 WIB 20/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:18 WIB 20/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:18 WIB 20/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mN4Sxsy.png" group-title="Cúp FA Trung Quốc",[16:00 WIB 20/06/26] Ningbo Professional vs Chongqing Tongliang Long [FHD] [LIVE]
@@ -38,14 +38,23 @@ https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjHxRKv5dU0x2ZWwizCetPonOnmyyXaV5Hpg&s" group-title="WTT Star Contender Ljubljana 2026",[17:00 WIB 20/06/26] Jhh [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanchuot/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4Sxsy.png" group-title="Cúp FA Trung Quốc",[18:30 WIB 20/06/26] Hebei Kungfu vs Shanghai Shenhua [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4Sxsy.png" group-title="Cúp FA Trung Quốc",[18:30 WIB 20/06/26] Hebei Kungfu vs Shanghai Shenhua [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4Sxsy.png" group-title="Cúp FA Trung Quốc",[18:30 WIB 20/06/26] Hebei Kungfu vs Shanghai Shenhua [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4Sxsy.png" group-title="Cúp FA Trung Quốc",[18:30 WIB 20/06/26] Hebei Kungfu vs Shanghai Shenhua [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4Sxsy.png" group-title="Cúp FA Trung Quốc",[18:30 WIB 20/06/26] Hebei Kungfu vs Shanghai Shenhua [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mN4Sxsy.png" group-title="Cúp FA Trung Quốc",[18:30 WIB 20/06/26] Hebei Kungfu vs Shanghai Shenhua [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[18:30 WIB 20/06/26] Chengdu Rongcheng II vs Yichun Grand Tiger [FHD] [LIVE]
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[18:30 WIB 20/06/26] Chengdu Rongcheng II vs Yichun Grand Tiger [HD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[18:30 WIB 20/06/26] Chengdu Rongcheng II vs Yichun Grand Tiger [SD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjHxRKv5dU0x2ZWwizCetPonOnmyyXaV5Hpg&s" group-title="WTT Star Contender Ljubljana 2026",[18:30 WIB 20/06/26] F [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -64,15 +73,6 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[19:00 WIB 20/06/26] Nhật Bản vs Dominicana  [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[19:00 WIB 20/06/26] Chengdu Rongcheng II vs Yichun Grand Tiger [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[19:00 WIB 20/06/26] Chengdu Rongcheng II vs Yichun Grand Tiger [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[19:00 WIB 20/06/26] Chengdu Rongcheng II vs Yichun Grand Tiger [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 Berlin",[19:00 WIB 20/06/26] Brandon Nakashima vs Francisco Cerundolo [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
