@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 08:56:40 WIB 20-06-2026
-# 🔄 Total Channels: 5134
+# ⏰ Latest Updated: 09:02:35 WIB 20-06-2026
+# 🔄 Total Channels: 5140
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [08:56:40 WIB 20-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [09:02:35 WIB 20-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -5459,38 +5459,56 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RjB_6Ps3BKc/maxresdefault.jpg" group-title="TV DAERAH",dTVi
 https://e.siar.us/live/dtvi.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/3cSp4Lu.md.png" group-title="EVENT 019/JUNI/2026",19:50 WIB MotoGP Practice: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeY8Cr3f19g1oydfUqSxAZK852nEkVG-T8A&s" group-title="EVENT 020/JUNI/2026",13:30 WIB Qatar vs Oman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=4639d4f35899b1fa809e9a023030fccc&wsABSTime=1781980034
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeY8Cr3f19g1oydfUqSxAZK852nEkVG-T8A&s" group-title="EVENT 020/JUNI/2026",16:30 WIB Bahrain vs Chinese Taipei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=097bff7d470d0ba8a253dd8884de082b&wsABSTime=1781981487
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeY8Cr3f19g1oydfUqSxAZK852nEkVG-T8A&s" group-title="EVENT 020/JUNI/2026",19:30 WIB South Korea vs Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=097bff7d470d0ba8a253dd8884de082b&wsABSTime=1781981487
+#EXTINF:-1 tvg-logo="https://iili.io/3cSp4Lu.md.png" group-title="EVENT 020/JUNI/2026",15:45 WIB MotoGP Qualifying: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026",02:00 WIB Amerika Serikat vs Australia
+#EXTINF:-1 tvg-logo="https://iili.io/3cSp4Lu.md.png" group-title="EVENT 020/JUNI/2026",19:30 WIB MotoGP Tissot SPRINT: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026",00:00 WIB Belanda vs Swedia
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026",05:00 WIB Skotlandia vs Maroko
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026",03:00 WIB Jerman vs Pantai Gading
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026",07:30 WIB Brasil vs Haiti
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026",07:00 WIB Ekuador vs Curacao
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026",10:00 WIB Turki vs Paraguay
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026",11:00 WIB Tunisia vs Jepang
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s" group-title="EVENT 019/JUNI/2026",17:00 WIB SANDS CHINA LTD Macau Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4248215583387061_AiHD.m3u8?txSecret=0daebc5abada207d4fa40860d9cfb40b&txTime=6A361040
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s" group-title="EVENT 019/JUNI/2026",17:00 WIB SANDS CHINA LTD Macau Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4248215721428061_AiHD.m3u8?txSecret=e2d099ee51d4edff5c9666c565e348d1&txTime=6A361040
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 019/JUNI/2026",19:00 WIB Japan v Czechia | Week 2 | Women's VNL 2026
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 019/JUNI/2026",20:00 WIB France v China | Week 2 | Women's VNL 2026
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s" group-title="EVENT 020/JUNI/2026",11:00 WIB SANDS CHINA LTD Macau Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239071016481061_AiSD.m3u8?txSecret=12f426c7640c564f94659eea3797f3c9&txTime=6A3745A0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 020/JUNI/2026",15:00 WIB USA v Italy | Week 2 | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=67249cdb130e0a84b380496df8bb5b30&wsABSTime=1781889500
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 019/JUNI/2026",20:30 WIB Bulgaria v Canada | Week 2 | Women's VNL 2026
+https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=31a8006097cf4ea14aaf3294d899bbd9&wsABSTime=1781980864
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 020/JUNI/2026",17:00 WIB Netherlands v Poland | Week 2 | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=22c486090a955afadafc8f18371064aa&wsABSTime=1781889609
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 019/JUNI/2026",23:30 WIB Belgium v Germany | Week 2 | Women's VNL 2026
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=4639d4f35899b1fa809e9a023030fccc&wsABSTime=1781980034
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 020/JUNI/2026",19:00 WIB Japan v Dominican Republic | Week 2 | Women's VNL 2026
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 020/JUNI/2026",20:30 WIB Thailand v Canada | Week 2 | Women's VNL 2026
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 020/JUNI/2026",23:30 WIB Turkiye v Germany | Week 2 | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=67249cdb130e0a84b380496df8bb5b30&wsABSTime=1781889500
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=4639d4f35899b1fa809e9a023030fccc&wsABSTime=1781980034
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="❗JΟΙΝ ΚΕ ΤΕLΕ UΝΤUΚ UΡDΑΤΕ ΑΡΚ❗",INGAT RLAULIST INI GRATIS
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C490-1750072819.png" group-title="SPORTS FHD",WWE (Fox Sports Premium)
@@ -12519,38 +12537,56 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RjB_6Ps3BKc/maxresdefault.jpg" group-title="TV DAERAH",dTVi
 https://e.siar.us/live/dtvi.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/3cSp4Lu.md.png" group-title="EVENT 019/JUNI/2026",19:50 WIB MotoGP Practice: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeY8Cr3f19g1oydfUqSxAZK852nEkVG-T8A&s" group-title="EVENT 020/JUNI/2026",13:30 WIB Qatar vs Oman
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=4639d4f35899b1fa809e9a023030fccc&wsABSTime=1781980034
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeY8Cr3f19g1oydfUqSxAZK852nEkVG-T8A&s" group-title="EVENT 020/JUNI/2026",16:30 WIB Bahrain vs Chinese Taipei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=097bff7d470d0ba8a253dd8884de082b&wsABSTime=1781981487
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeY8Cr3f19g1oydfUqSxAZK852nEkVG-T8A&s" group-title="EVENT 020/JUNI/2026",19:30 WIB South Korea vs Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=097bff7d470d0ba8a253dd8884de082b&wsABSTime=1781981487
+#EXTINF:-1 tvg-logo="https://iili.io/3cSp4Lu.md.png" group-title="EVENT 020/JUNI/2026",15:45 WIB MotoGP Qualifying: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026",02:00 WIB Amerika Serikat vs Australia
+#EXTINF:-1 tvg-logo="https://iili.io/3cSp4Lu.md.png" group-title="EVENT 020/JUNI/2026",19:30 WIB MotoGP Tissot SPRINT: Monster Energy Grand Prix of Czechia - MotoGP 2026 Round 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026",00:00 WIB Belanda vs Swedia
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026",05:00 WIB Skotlandia vs Maroko
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026",03:00 WIB Jerman vs Pantai Gading
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026",07:30 WIB Brasil vs Haiti
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026",07:00 WIB Ekuador vs Curacao
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 020/JUNI/2026",10:00 WIB Turki vs Paraguay
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10" group-title="EVENT 021/JUNI/2026",11:00 WIB Tunisia vs Jepang
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s" group-title="EVENT 019/JUNI/2026",17:00 WIB SANDS CHINA LTD Macau Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4248215583387061_AiHD.m3u8?txSecret=0daebc5abada207d4fa40860d9cfb40b&txTime=6A361040
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s" group-title="EVENT 019/JUNI/2026",17:00 WIB SANDS CHINA LTD Macau Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4248215721428061_AiHD.m3u8?txSecret=e2d099ee51d4edff5c9666c565e348d1&txTime=6A361040
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 019/JUNI/2026",19:00 WIB Japan v Czechia | Week 2 | Women's VNL 2026
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 019/JUNI/2026",20:00 WIB France v China | Week 2 | Women's VNL 2026
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHWABJyOLg_UL0P46qSI487d_lrwXDEcDUQ&s" group-title="EVENT 020/JUNI/2026",11:00 WIB SANDS CHINA LTD Macau Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4239071016481061_AiSD.m3u8?txSecret=12f426c7640c564f94659eea3797f3c9&txTime=6A3745A0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 020/JUNI/2026",15:00 WIB USA v Italy | Week 2 | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=67249cdb130e0a84b380496df8bb5b30&wsABSTime=1781889500
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 019/JUNI/2026",20:30 WIB Bulgaria v Canada | Week 2 | Women's VNL 2026
+https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=31a8006097cf4ea14aaf3294d899bbd9&wsABSTime=1781980864
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 020/JUNI/2026",17:00 WIB Netherlands v Poland | Week 2 | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel83.m3u8?wsSecret=22c486090a955afadafc8f18371064aa&wsABSTime=1781889609
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 019/JUNI/2026",23:30 WIB Belgium v Germany | Week 2 | Women's VNL 2026
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=4639d4f35899b1fa809e9a023030fccc&wsABSTime=1781980034
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 020/JUNI/2026",19:00 WIB Japan v Dominican Republic | Week 2 | Women's VNL 2026
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 020/JUNI/2026",20:30 WIB Thailand v Canada | Week 2 | Women's VNL 2026
+https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMlrWuDQLR7A3zpP1C05a9GpwwXBzly6sCw&s" group-title="EVENT 020/JUNI/2026",23:30 WIB Turkiye v Germany | Week 2 | Women's VNL 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
-https://live1.pro2cdnlive.com/live/channel82.m3u8?wsSecret=67249cdb130e0a84b380496df8bb5b30&wsABSTime=1781889500
+https://live1.pro2cdnlive.com/live/channel81.m3u8?wsSecret=4639d4f35899b1fa809e9a023030fccc&wsABSTime=1781980034
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tsender57-dotcom/offline/refs/heads/main/logo/Logo%20OGI%20Bone.png" group-title="❗JΟΙΝ ΚΕ ΤΕLΕ UΝΤUΚ UΡDΑΤΕ ΑΡΚ❗",INGAT RLAULIST INI GRATIS
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C490-1750072819.png" group-title="SPORTS FHD",WWE (Fox Sports Premium)
@@ -15058,12 +15094,6 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.license_key=1163925b6b37434198130f773bc62841:e2bdd2b87e1ddb502eb7898daece857f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8860_1hx0r83dgcw.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   20/06 North Star vs Broadbeach United  PHI HO m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F8860_1hx0r83dgcw.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:30   20/06 North Star vs Broadbeach United  PHI HO flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F18670_1j7qap7xvs2v.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",15:00   20/06 Moreton City Excelsior FC vs Wynnum Wolves  LY QUY m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
@@ -15096,12 +15126,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12812_1gsh36aexw2w.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:30   20/06 White City Woodville vs West Torrens Birkalla  TAY MON KHANH m3u Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12812_1gsh36aexw2w.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:30   20/06 White City Woodville vs West Torrens Birkalla  TAY MON KHANH flv Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F37107_1hrk13ttwm19.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:30   20/06 Qingdao Red Lions vs Wuhan Three Towns  KEVILL m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
@@ -15114,6 +15138,12 @@ https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc5
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F37107_1hrk13ttwm19.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:30   20/06 Qingdao Red Lions vs Wuhan Three Towns  TON LAP flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12812_1gsh36aexw2w.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:30   20/06 White City Woodville vs West Torrens Birkalla  TAY MON KHANH m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F12812_1gsh36aexw2w.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",14:30   20/06 White City Woodville vs West Torrens Birkalla  TAY MON KHANH flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.com%2Fmedia%2Fuploads%2F20250623_133642_573f2bfb.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",14:30   20/06 Qingdao Red Lions vs Wuhan Three Towns HD2 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
