@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:36 WIB 20/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:36 WIB 20/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:47 WIB 20/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:47 WIB 20/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[19:00 WIB 20/06/26] Nhật Bản vs Dominicana  [FHD] [LIVE]
@@ -47,13 +47,13 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Women",[20:30 WIB 20/06/26] Thái Lan vs Canada [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vwBVKmwKuz-fd9gKhlJa_L3KeDPCNNKXnw&s" group-title="Hạng 2 Brazil",[20:30 WIB 20/06/26] Slavia Mozyr vs FC Isloch Minsk R. [FHD] [LIVE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[20:30 WIB 20/06/26] Slavia Mozyr vs FC Isloch Minsk R. [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vwBVKmwKuz-fd9gKhlJa_L3KeDPCNNKXnw&s" group-title="Hạng 2 Brazil",[20:30 WIB 20/06/26] Slavia Mozyr vs FC Isloch Minsk R. [HD] [LIVE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[20:30 WIB 20/06/26] Slavia Mozyr vs FC Isloch Minsk R. [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vwBVKmwKuz-fd9gKhlJa_L3KeDPCNNKXnw&s" group-title="Hạng 2 Brazil",[20:30 WIB 20/06/26] Slavia Mozyr vs FC Isloch Minsk R. [SD] [LIVE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Football_Federation_of_Belarus_logo.svg/960px-Football_Federation_of_Belarus_logo.svg.png" group-title="VĐQG Belarus",[20:30 WIB 20/06/26] Slavia Mozyr vs FC Isloch Minsk R. [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjHxRKv5dU0x2ZWwizCetPonOnmyyXaV5Hpg&s" group-title="WTT Star Contender Ljubljana 2026",[22:00 WIB 20/06/26] F [FHD] [NANTIKAN]
