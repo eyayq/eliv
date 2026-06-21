@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [08.25 WIB 21/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [08.31 WIB 21/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[LIVE 07:00 WIB 21/06/26] Ecuador vs Curaçao",[LIVE 07:00 WIB 21/06/26] Ecuador vs Curaçao (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 34m 11:00 WIB 21/06/26] Tunisia vs Japan",[UPCOMING 2j 34m 11:00 WIB 21/06/26] Tunisia vs Japan (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 28m 11:00 WIB 21/06/26] Tunisia vs Japan",[UPCOMING 2j 28m 11:00 WIB 21/06/26] Tunisia vs Japan (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 34m 11:00 WIB 21/06/26] Tunisia vs Japan",[UPCOMING 2j 34m 11:00 WIB 21/06/26] Tunisia vs Japan (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 28m 11:00 WIB 21/06/26] Tunisia vs Japan",[UPCOMING 2j 28m 11:00 WIB 21/06/26] Tunisia vs Japan (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 14j 34m 23:00 WIB 21/06/26] Spain vs Saudi Arabia",[UPCOMING 14j 34m 23:00 WIB 21/06/26] Spain vs Saudi Arabia (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 14j 28m 23:00 WIB 21/06/26] Spain vs Saudi Arabia",[UPCOMING 14j 28m 23:00 WIB 21/06/26] Spain vs Saudi Arabia (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 23j 34m 08:00 WIB 22/06/26] New Zealand vs Egypt",[UPCOMING 23j 34m 08:00 WIB 22/06/26] New Zealand vs Egypt (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 23j 28m 08:00 WIB 22/06/26] New Zealand vs Egypt",[UPCOMING 23j 28m 08:00 WIB 22/06/26] New Zealand vs Egypt (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 22j 34m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 22j 34m 07:00 WIB 23/06/26] Norway vs Senegal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 22j 28m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 22j 28m 07:00 WIB 23/06/26] Norway vs Senegal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
