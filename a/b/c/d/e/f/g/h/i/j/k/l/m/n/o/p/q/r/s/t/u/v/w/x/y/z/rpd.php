@@ -1,6 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [23.35 WIB 22/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [23.42 WIB 22/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-rigas-futbola-skola-95dfdb.png" group-title="[LIVE 22:00 WIB 22/06/26] FK Rigas Futbola skola vs Ogre United | Server 1",[LIVE 22:00 WIB 22/06/26] FK Rigas Futbola skola vs Ogre United | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-rigas-futbola-skola-95dfdb.png" group-title="[LIVE 22:00 WIB 22/06/26] FK Rigas Futbola skola vs Ogre United | Server 2",[LIVE 22:00 WIB 22/06/26] FK Rigas Futbola skola vs Ogre United | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 1",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/dila-metalu-geoliga/index.m3u8
@@ -9,46 +15,46 @@ https://hls.lauthaitv.cc/live/dila-metalu-geoliga/index.m3u8
 https://flv.lauthaitv.cc/live/dila-metalu-geoliga.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 3",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 3 (SVR-BHNS 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 4",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 5",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1782149362-0-0-c7df26a8a1bc52ce82bc8fadedc20bf8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782149902-0-0-fe5f6e038fcc5a99c053e8c0978942dc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 6",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1782149362-0-0-2c9c0d4342f72d4b59c904d184f824ba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782149902-0-0-6a579d2c8a4a807a98cce8eb564c468c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 7",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782149362-0-0-9fefc86c7761e033b599cbfba9207b80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782149902-0-0-26b42fd4afd0ef353cf31a8fabd1f101
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 8",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782149362-0-0-3b30f244f6a7380ffeef25524bc9e1ec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782149902-0-0-03b4f1ec30bdea37d1de9ec2727e1107
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 9",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782149362-0-0-c7bd5e8c3921f69e123e49891f8ab538
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-606448_lsd.m3u8?auth_key=1782149902-0-0-2ee95c791777d2bb042d7d34231255b4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 10",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782149362-0-0-3061faae8215b88c79cf35cd79d52c9e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-606448_lhd.m3u8?auth_key=1782149902-0-0-9af251db6e2545794eed2ac1524e7809
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 11",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782149362-0-0-9c1979ed8e7938880a394bbcc1d3c1dc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782149902-0-0-009caad2ffcd74ad3b54d1363fff0de2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 12",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782149362-0-0-ab8b0ffa979c2aa23d523c1b2bae6935
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782149902-0-0-da950ee734ec82739ab6ac0d8cc8ecda
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 13",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=fc57ca7bbe9ddce1a32fa0f9bf96e533&txTime=6a39b742
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782149902-0-0-7453c07d4ad2f49a80f617dcded54256
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 14",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=c63bc01cfdba5709bfae512ac54087e4&txTime=6a39b742
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782149902-0-0-3d6180cfe725a05dfb90af5b8bccb8da
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 15",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lsd.m3u8?auth_key=1782149362-0-0-caaed949005d7ada48a005538507854c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=5cc73153f323f2789e8197c91def0467&txTime=6a39b95e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/dila-gori-a25f2d.png" group-title="[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 16",[LIVE 22:00 WIB 22/06/26] Dila Gori vs FC Metalurgi Rustavi | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782149362-0-0-5156449eb5c488f61a4a43d33e218f3e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=66076f6a443e27d143fd80a7f5156e28&txTime=6a39b95e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 1",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/riga-orge-latleague/index.m3u8
@@ -56,53 +62,47 @@ https://hls.lauthaitv.cc/live/riga-orge-latleague/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/riga-orge-latleague.flv
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 3",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782149362-0-0-aa04b4d5febef2bed4b6202522b2e0b7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1782149902-0-0-2267e0621ad95157aa1529bec351c968
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 4",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782149362-0-0-95db2dce9c7fc202ba089a565022e9ec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782149902-0-0-9224b86ffad7cca2f89e66e8697d4920
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 5",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782149362-0-0-f9437c5065faeb95290706a6b6d46696
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782149902-0-0-2aa39b5732975772a65edfe8a1e81b5e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 6",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782149362-0-0-cfa0345e6f6f4344976c3493fae1ec97
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782149902-0-0-f1715f733b6317584f71e2f022b1c3c4
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 7",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782149362-0-0-cdc88eafc5431a722e500a28751d5758
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-513394_lsd.m3u8?auth_key=1782149902-0-0-ecb3f0a7a51f67b0c0d433307108cd38
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 8",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782149362-0-0-1657619ea5c72b48321ac5fc5a614c4e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1782149902-0-0-ec7a1e658dea3e94e07e18ee69ffde02
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 9",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 9 (SVR-BHNS 9)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782149362-0-0-164a3b3641c5e84d2dfc885fe872d9b8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1782149902-0-0-76782512f5b19df8f7e7538039898a12
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 10",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 10 (SVR-BHNS 10)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1782149362-0-0-c50ad4bab4d157c88645ad1a39013d65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782149902-0-0-d58fac38ac5fce62a938c597e806a7b3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 11",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 11 (SVR-BHNS 11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782149362-0-0-943e7b2f3fdf7dd8877c01a285fb3c3d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=12afdeae88fcb4ab633fd85440fc75a3&txTime=6a39b95e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 12",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 12 (SVR-BHNS 12)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782149362-0-0-f4886244085dbecad4c65e3362bfe522
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=ddcb9385bd00fcfa39f9d3d34fa94f7a&txTime=6a39b95e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 13",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=1460337c5c26507a49c20dad010b25da&txTime=6a39b742
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782149902-0-0-d38cd9cf61ea3d0ea0c1c6ae436d5156
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/rigas-futbola-skola-5671c2.png" group-title="[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 14",[LIVE 22:00 WIB 22/06/26] Rigas Futbola Skola vs Ogre United | Server 14 (SVR-BHNS 14)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=368511375aceb694719cbad3e6413b1b&txTime=6a39b742
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-rigas-futbola-skola-95dfdb.png" group-title="[LIVE 22:00 WIB 22/06/26] FK Rigas Futbola skola vs Ogre United | Server 1",[LIVE 22:00 WIB 22/06/26] FK Rigas Futbola skola vs Ogre United | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fk-rigas-futbola-skola-95dfdb.png" group-title="[LIVE 22:00 WIB 22/06/26] FK Rigas Futbola skola vs Ogre United | Server 2",[LIVE 22:00 WIB 22/06/26] FK Rigas Futbola skola vs Ogre United | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782149902-0-0-d316bcac099a7da93bf217a701928cdc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/galil-elyon-2fac13.webp" group-title="[LIVE 22:30 WIB 22/06/26] Galil Elyon vs Elitzur Maccabi Netanya | Server 1",[LIVE 22:30 WIB 22/06/26] Galil Elyon vs Elitzur Maccabi Netanya | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782149362-0-0-16f27caee0c3115cb5c54cbc141d29e2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782149902-0-0-4d639474a54a3b62ad914b183f45707f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/galil-elyon-2fac13.webp" group-title="[LIVE 22:30 WIB 22/06/26] Galil Elyon vs Elitzur Maccabi Netanya | Server 2",[LIVE 22:30 WIB 22/06/26] Galil Elyon vs Elitzur Maccabi Netanya | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782149362-0-0-e2b8b164fdf2a808f3f5849755ddb60d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782149902-0-0-25b5efeeda11a782d39bf86e861ac13e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-maardu-d56eb1.png" group-title="[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi MRJK | Server 1",[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi MRJK | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
@@ -121,39 +121,39 @@ https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c69
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elva-788bd8.png" group-title="[LIVE 23:00 WIB 22/06/26] Elva vs Flora Tallinn II | Server 4",[LIVE 23:00 WIB 22/06/26] Elva vs Flora Tallinn II | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jk-tallinna-kalev-ii-b9ca83.png" group-title="[LIVE 23:00 WIB 22/06/26] JK Tallinna Kalev II vs Trans Narva B | Server 1",[LIVE 23:00 WIB 22/06/26] JK Tallinna Kalev II vs Trans Narva B | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-maardu-d56eb1.png" group-title="[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi JK | Server 1",[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi JK | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/maardu-viism-estesi/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-maardu-d56eb1.png" group-title="[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi JK | Server 2",[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi JK | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/maardu-viism-estesi.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jk-tallinna-kalev-ii-b9ca83.png" group-title="[LIVE 23:00 WIB 22/06/26] JK Tallinna Kalev II vs Trans Narva B | Server 1",[LIVE 23:00 WIB 22/06/26] JK Tallinna Kalev II vs Trans Narva B | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 1",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782149362-0-0-58baa3da25bc3097fdb82a3c2b6796c9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782149902-0-0-3b1f9859273a44bc80fda8a22e81fc99
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 2",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782149362-0-0-e0a28044658b2d34f4fbd7284d6aebbf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782149902-0-0-d35b33cca41eb49d5703b5b0671de8eb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 3",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782149362-0-0-95102589224d5f98f55d8cc666b24bea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=5a47b18913a14d63432a2756e3ac68df&txTime=6a39b95e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 4",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782149362-0-0-215d2da0f862c1b4e46699de5238e1d4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=efa38a00e4d656e01c34ee95b7c60149&txTime=6a39b95e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 5",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782149362-0-0-21080e71777d239d4b47b652f69166b6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782149902-0-0-7e663f2f7efb483d5e9363ed922dd505
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 6",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782149362-0-0-04f115ff465bb65fe86a374f2650de7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782149902-0-0-63acf04faa4298251e4a73112ccfb160
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 7",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=e551399f8cc25f15c93e66d8369cfb07&txTime=6a39b742
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782149902-0-0-3e9312afa2beaaf96fa5daec2c6c7d51
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 8",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a958801dd186202c8fe7155a8c5023ab&txTime=6a39b742
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782149902-0-0-c4a2709eb403d9fb4979775590b03cc6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiyah-d8d7a0.png" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiyah vs Al Fahaheel SC | Server 1",[LIVE 23:05 WIB 22/06/26] Al-Salmiyah vs Al Fahaheel SC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
