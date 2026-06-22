@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [20.56 WIB 22/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [21.03 WIB 22/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 3j 3m 00:00 WIB 23/06/26] Argentina vs Austria",[UPCOMING 3j 3m 00:00 WIB 23/06/26] Argentina vs Austria (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 56m 00:00 WIB 23/06/26] Argentina vs Austria",[UPCOMING 2j 56m 00:00 WIB 23/06/26] Argentina vs Austria (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 3j 3m 00:00 WIB 23/06/26] Argentina vs Austria",[UPCOMING 3j 3m 00:00 WIB 23/06/26] Argentina vs Austria (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 2j 56m 00:00 WIB 23/06/26] Argentina vs Austria",[UPCOMING 2j 56m 00:00 WIB 23/06/26] Argentina vs Austria (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 7j 3m 04:00 WIB 23/06/26] France vs   Iraq",[UPCOMING 7j 3m 04:00 WIB 23/06/26] France vs   Iraq (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 6j 56m 04:00 WIB 23/06/26] France vs   Iraq",[UPCOMING 6j 56m 04:00 WIB 23/06/26] France vs   Iraq (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 10j 3m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 10j 3m 07:00 WIB 23/06/26] Norway vs Senegal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 9j 56m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 9j 56m 07:00 WIB 23/06/26] Norway vs Senegal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 10j 3m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 10j 3m 07:00 WIB 23/06/26] Norway vs Senegal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 9j 56m 07:00 WIB 23/06/26] Norway vs Senegal",[UPCOMING 9j 56m 07:00 WIB 23/06/26] Norway vs Senegal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 13j 3m 10:00 WIB 23/06/26] Jordan vs Algeria",[UPCOMING 13j 3m 10:00 WIB 23/06/26] Jordan vs Algeria (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 12j 56m 10:00 WIB 23/06/26] Jordan vs Algeria",[UPCOMING 12j 56m 10:00 WIB 23/06/26] Jordan vs Algeria (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
