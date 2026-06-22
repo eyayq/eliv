@@ -1,15 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.31 WIB 23/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [00.38 WIB 23/06/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/galil-elyon-2fac13.webp" group-title="[LIVE 22:30 WIB 22/06/26] Galil Elyon vs Elitzur Maccabi Netanya | Server 1",[LIVE 22:30 WIB 22/06/26] Galil Elyon vs Elitzur Maccabi Netanya | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1782152782-0-0-6bfb5f50e1a50b5cc96468ee6bccabdc
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/galil-elyon-2fac13.webp" group-title="[LIVE 22:30 WIB 22/06/26] Galil Elyon vs Elitzur Maccabi Netanya | Server 2",[LIVE 22:30 WIB 22/06/26] Galil Elyon vs Elitzur Maccabi Netanya | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782152782-0-0-022e970a6415819bb4a7a3db1b6eda2d
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jk-tallinna-kalev-ii-b9ca83.png" group-title="[LIVE 23:00 WIB 22/06/26] JK Tallinna Kalev II vs Trans Narva B | Server 1",[LIVE 23:00 WIB 22/06/26] JK Tallinna Kalev II vs Trans Narva B | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elva-788bd8.png" group-title="[LIVE 23:00 WIB 22/06/26] Elva vs Flora Tallinn II | Server 1",[LIVE 23:00 WIB 22/06/26] Elva vs Flora Tallinn II | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/elva-flora-estesiligga/index.m3u8
@@ -22,60 +13,63 @@ https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c69
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/elva-788bd8.png" group-title="[LIVE 23:00 WIB 22/06/26] Elva vs Flora Tallinn II | Server 4",[LIVE 23:00 WIB 22/06/26] Elva vs Flora Tallinn II | Server 4 (SVR-BHNS 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-maardu-d56eb1.png" group-title="[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi MRJK | Server 1",[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi MRJK | Server 1 (SVR-BHNS 1)
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/jk-tallinna-kalev-ii-b9ca83.png" group-title="[LIVE 23:00 WIB 22/06/26] JK Tallinna Kalev II vs Trans Narva B | Server 1",[LIVE 23:00 WIB 22/06/26] JK Tallinna Kalev II vs Trans Narva B | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-maardu-d56eb1.png" group-title="[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi MRJK | Server 2",[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi MRJK | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-maardu-d56eb1.png" group-title="[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi JK | Server 1",[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi JK | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/maardu-viism-estesi/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-maardu-d56eb1.png" group-title="[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi JK | Server 2",[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi JK | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/maardu-viism-estesi.flv
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-maardu-d56eb1.png" group-title="[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi MRJK | Server 1",[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi MRJK | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/fc-maardu-d56eb1.png" group-title="[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi MRJK | Server 2",[LIVE 23:00 WIB 22/06/26] FC Maardu vs Viimsi MRJK | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 1",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782152782-0-0-aeb05a21d78777e591ff220db5462f63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782153142-0-0-94e5f74dccffe8358972de0d61283dce
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 2",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782152782-0-0-765a0db2b795f6dc31c32e487d377bd7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782153142-0-0-911affe124ccb52af7dadbf4489f0b64
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 3",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=a33d42ad0ecec00a5bbf6b4d1586cb1f&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782153142-0-0-9b7f61455e24fe8a47bc0d0aabb27359
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 4",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=d62db657bd571239b8804a789132d926&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782153142-0-0-15b317fd20f95e7626f2213341e8a59c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 5",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782152782-0-0-138463f7ec21b17cf67564a31ad71b95
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782153142-0-0-4ac3608faece25b7d7637c89ab3ca33e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 6",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782152782-0-0-c0721474c0cacfc724965bf4a6dd32cd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1782153142-0-0-7b7ee3eb54a88b04ec2e641eaee7c793
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 7",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 7 (SVR-BHNS 7)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-611528_lsd.m3u8?auth_key=1782152782-0-0-c358327f6c359f6052b1915d726da1a1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=ee88916ca491ac857e2dce575399bac9&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiya-52e526.webp" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 8",[LIVE 23:05 WIB 22/06/26] Al-Salmiya vs Al Fahaheel SC | Server 8 (SVR-BHNS 8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1782152782-0-0-9af136d9ce384df1b777e4d33669ca79
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=68b4bbbc66e3766453132b5f633ad3f5&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiyah-d8d7a0.png" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiyah vs Al Fahaheel SC | Server 1",[LIVE 23:05 WIB 22/06/26] Al-Salmiyah vs Al Fahaheel SC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-salmiyah-d8d7a0.png" group-title="[LIVE 23:05 WIB 22/06/26] Al-Salmiyah vs Al Fahaheel SC | Server 2",[LIVE 23:05 WIB 22/06/26] Al-Salmiyah vs Al Fahaheel SC | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/varbergs-bois-fc-a34f28.png" group-title="[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 1",[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=6f6a4457d598e37a150b0e58c1fbf54d&txTime=6a39c49e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/varbergs-bois-fc-a34f28.png" group-title="[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 2",[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=7ab08fdf8c9d471cb575a7affbe2e0d3&txTime=6a39c49e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/varbergs-bois-fc-a34f28.png" group-title="[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 3",[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782152782-0-0-5d0594c4998ddf2ded830aba394b441e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/varbergs-bois-fc-a34f28.png" group-title="[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 4",[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782152782-0-0-fe2531b7d006634756bafd81ecb17d9d
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-oddevold-499244.png" group-title="[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 1",[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=e7b93277cdaa419d96661071d1867950&txTime=6a39c606
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-oddevold-499244.png" group-title="[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 2",[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=fbeb09df47bb46706cb38eaf30d0615c&txTime=6a39c606
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-oddevold-499244.png" group-title="[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 3",[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782153142-0-0-134c8d5e89e9ffc5b9b6b160fd737625
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-oddevold-499244.png" group-title="[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 4",[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782153142-0-0-7d80f2d1f9391e30ba6535aa478d276f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 1",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/arg-aut-wc-cat/index.m3u8
@@ -92,131 +86,143 @@ https://flv.lauthaitv.cc/live/arg-aut-wc-phao.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1782090349-0-0-a86b6a61a39ab95c72d10579895e2c53
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 6",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1782090349-0-0-a86b6a61a39ab95c72d10579895e2c53
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 7",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 7 (SVR-BHNS 7)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782235637-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-94b69575c72ba01723083426f6aec012
+https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782235996-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-7b5d646d8b7b0d41a4a2eee7a7a011b3
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 8",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 8 (SVR-BHNS 8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=cc5924138a95f11ee93a55a122ea161f&x-time=1782149220
+https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=bf634344eb4297af3d790cff40f021ca&x-time=1782149580
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 9",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 9 (SVR-BHNS 9)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=46bcd52461965c138f64aef430b915bc&x-time=1782149220
+https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=5e73111eb91c22423b54cc574c8b7416&x-time=1782149580
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 10",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 10 (SVR-BHNS 10)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782235637-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-86181e4132e3f80e1aed9a72b2b5b1c3
+https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782235996-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-6373ecfe24a7e8856f786071018410bb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 11",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 11 (SVR-BHNS 11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010370c-hd/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=12950aa8780b0d7330bd67962c54e03e&x-time=1782149220
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010370c-hd/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=b7a93c3f7268c2c66285627ad830dca5&x-time=1782149580
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 12",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 12 (SVR-BHNS 12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010370c-hd/chunks.m3u8?is_vip=false&token=1782235638-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-53b09a2fded1aaea5871242d7d8d7ae7
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a19b1008be8f8513010370c-hd/chunks.m3u8?is_vip=false&token=1782235997-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-9c9ba3133257000699987b9891d53141
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 13",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 13 (SVR-BHNS 13)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 14",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 14 (SVR-BHNS 14)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 15",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 15 (SVR-BHNS 15)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|drmScheme=clearkey&drmLicense=cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 16",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 16 (SVR-BHNS 16)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|drmScheme=clearkey&drmLicense=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 17",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 17 (SVR-BHNS 17)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd|drmScheme=clearkey&drmLicense=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 18",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 18 (SVR-BHNS 18)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 19",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 19 (SVR-BHNS 19)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 20",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 20 (SVR-BHNS 20)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 21",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 21 (SVR-BHNS 21)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 22",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 22 (SVR-BHNS 22)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 23",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 23 (SVR-BHNS 23)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 24",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 24 (SVR-BHNS 24)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782152782-0-0-9e9d37feab509c1a60c2515add8e2d08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782153142-0-0-0a4ae310febc3cc11f15ed0e2d4b6898
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 25",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 25 (SVR-BHNS 25)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782152782-0-0-4bb114bd4b2a879bf865df12fb8e8348
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782153142-0-0-5c5ac8ccbc77a935f26c7f9b099d7182
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 26",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 26 (SVR-BHNS 26)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1782152782-0-0-5005d4a59777044561a38ff3ddabfda4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782153142-0-0-a2135281fc597d78f97a17120d048b3a
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 27",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 27 (SVR-BHNS 27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1782152782-0-0-34e6b857d86b590d11a20577ed60a9c5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782153142-0-0-7c7e225d5d29c8fe3a4b613570c245f0
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 28",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 28 (SVR-BHNS 28)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782152782-0-0-340b78338b2c1923246973c1be91a3e5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=a103613ad41ced516f438efdf1533df7&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 29",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 29 (SVR-BHNS 29)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1782152782-0-0-06f8544935e5c6c5a4af6d88178dd64e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=657417133b364a7778261b7fcd50ff33&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 30",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 30 (SVR-BHNS 30)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=1553e8fd790e8dc4c15550a6f4753a0e&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782153142-0-0-cc572e6426cd0036efafaa16b1facc9d
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 31",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 31 (SVR-BHNS 31)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=0e0330daccfd6bc3f5ce836efda39830&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1782153142-0-0-91a419805dc44ba8ab9a5d0431ce95cc
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 32",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 32 (SVR-BHNS 32)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782152782-0-0-d662bfeebea7496d77ba54d3fa6b3a3e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1782153142-0-0-dd8cfd9e31392998267f304d77cf2973
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 33",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 33 (SVR-BHNS 33)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782152782-0-0-befd2bb419bd1af7237f2bdb74ea3ddb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1782153142-0-0-811e5fd4b1287dc9b70a35815e07e8fb
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 34",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 34 (SVR-BHNS 34)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=5f9495a285418a3de68cc7d60afe427f&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782153142-0-0-2f71dbec70adfa52080e6a13c2d311db
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 35",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 35 (SVR-BHNS 35)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=090720b69a51a8c8674685ce2b71a7f7&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782153142-0-0-2b7514d710f2baacabe6598c83c13f21
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 36",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 36 (SVR-BHNS 36)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lsd.m3u8?auth_key=1782152782-0-0-989991574899983aca4e37877a97d6d6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=48f10f1aec84b8f0d20aae6680008319&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 37",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 37 (SVR-BHNS 37)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782152782-0-0-e36889d1337f4bc5dc88e461298417b8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=09b1f4698f9b73bb3a18cae3806a6793&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 38",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 38 (SVR-BHNS 38)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782152782-0-0-dae08b4e1b841d60a0e73087cc8e1642
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912110_lsd.m3u8?auth_key=1782153142-0-0-a3d3e849d58569a1c71314d2b5875e9c
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 39",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 39 (SVR-BHNS 39)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782152782-0-0-e4e53fd126e5c5da9af33b4a37c7c786
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1782153142-0-0-204d6483e2372f4c626f3f6555bdfc88
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 40",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 40 (SVR-BHNS 40)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=89a7da2ec1ade969a421223dca849510&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912116_lsd.m3u8?txSecret=d0055d09e75fe98d81487432a919b89f&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 41",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 41 (SVR-BHNS 41)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=eb8ac8900cf35def9607b4299c124889&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912116_lhd.m3u8?txSecret=36e8ca517e407f1dce590c14dc3a0203&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 42",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 42 (SVR-BHNS 42)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=758a51286315ee83fc2bd4f908adb89d&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=df2829537a32d2d3a9c948fb1bb5fb5e&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 43",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 43 (SVR-BHNS 43)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=52885c7847cbfa6282cd53ffb7d1f773&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=365b6ee197503b38b4d3aa1bb5f59d84&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 44",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 44 (SVR-BHNS 44)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=9f9f0a6bd5a1ce4f69e00d5261dd50af&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=c02141efb01e610c4876f4bc7a1b31aa&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 45",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 45 (SVR-BHNS 45)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=5db417f7a5163bac8654aec244cf5786&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=e184c409ef7e5aac39eab9189e2a4192&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 46",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 46 (SVR-BHNS 46)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-494201_lsd.m3u8?txSecret=0323d1e9cbd4be9ddcc5e5b4d5837b91&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=86eb5924dbbbcfd2b4e232c41ef0b3f1&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/argentina-2a52ad.png" group-title="[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 47",[LIVE 00:00 WIB 23/06/26] Argentina vs Austria | Server 47 (SVR-BHNS 47)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-494201_lhd.m3u8?txSecret=2819cc392f07ec4b333e5dafe3d12a63&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=705e808b71afc5f4e8f2d063916cfe83&txTime=6a39c606
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/varbergs-bois-fc-a34f28.png" group-title="[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 1",[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-595715_lsd.m3u8?txSecret=d7752f5c5d2a9ada743a420e476c1cc1&txTime=6a39c606
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/varbergs-bois-fc-a34f28.png" group-title="[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 2",[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=ff88ad2292ac536c0a9f512c9fd1b87d&txTime=6a39c606
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/varbergs-bois-fc-a34f28.png" group-title="[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 3",[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782153142-0-0-73583ca4d3c20c1ce337259b725706b8
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/varbergs-bois-fc-a34f28.png" group-title="[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 4",[LIVE 00:00 WIB 23/06/26] Varbergs BoIS FC vs Landskrona BoIS | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1782153142-0-0-e2371ec94be1dc352f3f5e2dd9045b39
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/torpedo-kutaisi-5af811.png" group-title="[LIVE 00:00 WIB 23/06/26] Torpedo Kutaisi vs Spaeri FC | Server 1",[LIVE 00:00 WIB 23/06/26] Torpedo Kutaisi vs Spaeri FC | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
@@ -224,38 +230,38 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/torpedo-kutaisi-5af811.png" group-title="[LIVE 00:00 WIB 23/06/26] Torpedo Kutaisi vs Spaeri FC | Server 3",[LIVE 00:00 WIB 23/06/26] Torpedo Kutaisi vs Spaeri FC | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782152782-0-0-71894c9398772689a1b5b99954198d9d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1782153142-0-0-7690dfd63dfadd4c3eaa141c37192d63
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/torpedo-kutaisi-5af811.png" group-title="[LIVE 00:00 WIB 23/06/26] Torpedo Kutaisi vs Spaeri FC | Server 4",[LIVE 00:00 WIB 23/06/26] Torpedo Kutaisi vs Spaeri FC | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782152782-0-0-48389fddd6369f6bb81c953ab7ee9c45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1782153142-0-0-f1f515baf66c2dfc2cbcae8ba2b91497
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/torpedo-kutaisi-5af811.png" group-title="[LIVE 00:00 WIB 23/06/26] Torpedo Kutaisi vs Spaeri FC | Server 5",[LIVE 00:00 WIB 23/06/26] Torpedo Kutaisi vs Spaeri FC | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782152782-0-0-9f244eb461d8b92932c604131baf7ce9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-610677_lsd.m3u8?auth_key=1782153142-0-0-ad93aeca60a5e4419b2867582e795a4e
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/torpedo-kutaisi-5af811.png" group-title="[LIVE 00:00 WIB 23/06/26] Torpedo Kutaisi vs Spaeri FC | Server 6",[LIVE 00:00 WIB 23/06/26] Torpedo Kutaisi vs Spaeri FC | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782152782-0-0-5bf62e509f66cb66a775d0a3ddf116b0
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-oddevold-499244.png" group-title="[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 1",[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=bd30ca621a62ef25435072bccf36cf9f&txTime=6a39c49e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-oddevold-499244.png" group-title="[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 2",[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=762ee9a6e668a8cc6e06ee69c32ac0d7&txTime=6a39c49e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-oddevold-499244.png" group-title="[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 3",[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782152782-0-0-c25354766a3f04b4fc86620994c51e98
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/ik-oddevold-499244.png" group-title="[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 4",[LIVE 00:00 WIB 23/06/26] IK Oddevold vs Ljungskile | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782152782-0-0-9884b4c5e1c334c6e5d99e8d7b6eee6c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1782153142-0-0-4ed2f621c4f43aa870f4a1c0cc8722a2
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:05 WIB 23/06/26] Orebro vs Sandvikens IF | Server 1",[LIVE 00:05 WIB 23/06/26] Orebro vs Sandvikens IF | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=f748f10d99768df7e4badb3c490cd4ac&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=f8e2e0a608cb57cfaed091666ab4e2be&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:05 WIB 23/06/26] Orebro vs Sandvikens IF | Server 2",[LIVE 00:05 WIB 23/06/26] Orebro vs Sandvikens IF | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=f4fe3866ee174ff355e06d18b7a7f8d5&txTime=6a39c49e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=aa1f4c5ee592dee5dc71426f4f4be502&txTime=6a39c606
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:05 WIB 23/06/26] Orebro vs Sandvikens IF | Server 3",[LIVE 00:05 WIB 23/06/26] Orebro vs Sandvikens IF | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1782152782-0-0-4dab56e55526dfe33ef18c6648409bc9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-598549_lsd.m3u8?auth_key=1782153142-0-0-dd88b773685d7ef3eeb504f8b24a1913
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/orebro-f94d29.webp" group-title="[LIVE 00:05 WIB 23/06/26] Orebro vs Sandvikens IF | Server 4",[LIVE 00:05 WIB 23/06/26] Orebro vs Sandvikens IF | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782152782-0-0-180574610b2cc0dfc848927ec41f031b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1782153142-0-0-eccb3e654892b7e2e89e37a1b9528b7e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-kuwait-sc-d61530.webp" group-title="[LIVE 00:45 WIB 23/06/26] Al Kuwait SC vs Al-Arabi Club (KUW) | Server 1",[LIVE 00:45 WIB 23/06/26] Al Kuwait SC vs Al-Arabi Club (KUW) | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782153142-0-0-f1bc65ec4b4a5552fef4a6d0750ab7d9
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-kuwait-sc-d61530.webp" group-title="[LIVE 00:45 WIB 23/06/26] Al Kuwait SC vs Al-Arabi Club (KUW) | Server 2",[LIVE 00:45 WIB 23/06/26] Al Kuwait SC vs Al-Arabi Club (KUW) | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782153142-0-0-f104e1fcc7a256ae6c2589fd8a569805
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-kuwait-sc-d61530.webp" group-title="[LIVE 00:45 WIB 23/06/26] Al Kuwait SC vs Al-Arabi Club (KUW) | Server 3",[LIVE 00:45 WIB 23/06/26] Al Kuwait SC vs Al-Arabi Club (KUW) | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782153142-0-0-b3aa48828c377e044f3d6902234e215e
+#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/al-kuwait-sc-d61530.webp" group-title="[LIVE 00:45 WIB 23/06/26] Al Kuwait SC vs Al-Arabi Club (KUW) | Server 4",[LIVE 00:45 WIB 23/06/26] Al Kuwait SC vs Al-Arabi Club (KUW) | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.8265.1259 Mobile Safari/537.36
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1782153142-0-0-fa6e29c205cc430edac63201ce57fbf9
