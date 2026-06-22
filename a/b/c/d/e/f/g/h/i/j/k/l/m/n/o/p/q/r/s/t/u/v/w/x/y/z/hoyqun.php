@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [13:24 WIB 22/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:24 WIB 22/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [13:30 WIB 22/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [13:30 WIB 22/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3e/Logo_Li%C3%AAn_%C4%91o%C3%A0n_b%C3%B3ng_%C4%91%C3%A1_M%C3%B4ng_C%E1%BB%95.png" group-title="Ngoại Hạng Mông Cổ",[15:00 WIB 22/06/26] Hunters vs Khoromkhon [FHD] [NANTIKAN]
