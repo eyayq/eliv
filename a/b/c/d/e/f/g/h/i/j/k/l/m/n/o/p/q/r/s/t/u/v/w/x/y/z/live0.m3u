@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 14:13:16 WIB 22-06-2026
-# 🔄 Total Channels: 4154
+# ⏰ Latest Updated: 14:21:00 WIB 22-06-2026
+# 🔄 Total Channels: 4156
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:13:16 WIB 22-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [14:21:00 WIB 22-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -71,6 +71,12 @@ http://starhub.pro/live/farhat-3379/67897-913379/741566.ts
 https://digital.tsender57.workers.dev/bc82b623e5/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVRI_Daerah.png" group-title="🔴FIFA WORLD CUP 2026🔴",TVRI NASIONAL
 https://digital.tsender57.workers.dev/7a02027004/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="🔴FIFA WORLD CUP 2026🔴",DSports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="🔴FIFA WORLD CUP 2026🔴",FS1 01
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120267.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="🔴FIFA WORLD CUP 2026🔴",TELEMUNDO 1
@@ -238,9 +244,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fArVexsE/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 18:05 WIB | TGL 24/06] Serbia v Japan | Week 2 | Men's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CBUXmAmT/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 21:05 WIB | TGL 24/06] Ukraine v Brazil | Week 2 | Men's VNL 2026
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GM6snNT4/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 21:05 WIB | TGL 24/06] Argentina v Germany | Week 2 | Men's VNL 2026
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CBUXmAmT/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 21:05 WIB | TGL 24/06] Ukraine v Brazil | Week 2 | Men's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JsH8BgQt/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 21:35 WIB | TGL 24/06] Cuba v USA | Week 2 | Men's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -270,28 +276,28 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/guqsFaNK/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 19:55 WIB | TGL 01/07] Ehlers/Wickler (GER) vs [tbc], Men Pool F on C2 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zRXIW9Wb/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 19:55 WIB | TGL 01/07] Mol A./Sorum C. (NOR) vs [tbc], Men Pool F on C3 | Gstaad (SUI)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GUy9sLBo/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 19:55 WIB | TGL 01/07] Crabb/Benesh (USA) vs [tbc], Men Pool E on C4 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/p4jwq23h317r0ve/image/small" group-title="LIVE EVENT | VOLI",[ LIVE] 19:30 WIB 22/06 - QATAR VS INDONESIA [AVC]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=9de74a5786fee53a80a81f264e50ef40&wsABSTime=1782180359
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=ac6a93f67a0f5a2620e01d1325879b11&wsABSTime=1782181206
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/4zp5rzdhl1zq82w/image/small" group-title="LIVE EVENT | VOLI",22:30 WIB 22/06 - AN DO VS DAI LOAN [AVC]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=9092a469dfdaa254321079f675e752d9&wsABSTime=1782180359
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=ee4c974b9bc099a5e79c53ad15fac761&wsABSTime=1782181206
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/1l4rjzt177vm7vx/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",19:00 WIB - QUEZON HUSKERS VS ABRA WEAVERS [PHI]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782137083-0-0-1d780718832d29dce7627e3e884956bc
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782137705-0-0-696df49e8ac6d39fb65fb0f7bd2a3967
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/y39mp4t3y41mojx/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",23:00 WIB - IRT TANGER VS WYDAD CASABLANCA [MOR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel45.flv?wsSecret=aa5a1fd1a1a6cf9558cc937139c50185&wsABSTime=1782180284
+https://live1.pro2cdnlive.com/live/channel45.flv?wsSecret=f049ac8603895282ad3354cc72ed7582&wsABSTime=1782180906
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[03:00 WIB] [WNBA] Golden State Valkyries vs Las Vegas Aces - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
@@ -302,6 +308,16 @@ https://lv2.lvfiles.cfd/live/aces/stream.m3u8?expires=1782088168&token=87f9bd6ce
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://lvb1.lvfiles.cfd/live/1/stream.m3u8?expires=1782089496&token=756c5f6d541ec35aa13dda1b719580414c0dd83a1bf55aa4b4969120dfa43f06
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[03:10 WIB] [MLB] Baltimore Orioles vs Los Angeles Dodgers - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lvb1.lvfiles.cfd/live/2/stream.m3u8?expires=1782088840&token=8fb36f530cf67096b3e7a1a7ea4a029624b6fb7bfc52b983d691cbd2017b4c61
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[03:10 WIB] [MLB] Boston Red Sox vs Seattle Mariners - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lvb1.lvfiles.cfd/live/3/stream.m3u8?expires=1782089768&token=27772f528ecd2e3c153b3ada0a3075b1bd9757ea91619bf4f2f73b50076e29be
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",GLORY Kickboxing (720p)
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TNviKSQZ/poster.jpg?width=1920" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING 18:55 WIB | TGL 01/07] Boermans/Brouwer (NED) vs Hammarberg/Berger T. (AUT), Men Pool C on C3 | Gstaad (SUI)
@@ -316,112 +332,100 @@ http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/W08g9zS7QaGtPMErcsZ81Va_dKc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6412/euronews-795a60.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (03/01) - The European debrief
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6412&ext=hls&x=1782147911&k=7ed0f0cd6f433a9183df11fa618dfc6145ca6f57c14415f71117fab7ef5301f7&sc=6412
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (04/02) - MUSICA
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6412&ext=hls&x=1782148741&k=bf5c1cd35c3134b6ec5766ff4c5f9e64d2cc9c3367689b56044a8351f03911d8&sc=6412
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="TV VIDIDI",Berita Satu Utama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7619&ext=hls&x=1782147911&k=36853352245b733e8300ebe7b0c68034de68ac5210ac835cc9a4fd8490a35607&sc=7619
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (22/02) - Press Perspective [R]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6784&ext=hls&x=1782147911&k=ba99a619cf63729a8a420994fea07cecde18b18b39659059c8da114e8831138a&sc=6784
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782148741&k=6dc0b5871f12898a7ee22910b6465c798d88cb6419d9490cd8e0c333272e156a&sc=18280
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="TV VIDIDI", LIVE 08:58 WIB (25/02) - Berita Satu Utama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782147911&k=37be9cdaf7e33432e088d1eec4323d5c811b140cca1f0886f0e02ef1103c1e4b&sc=18280
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (17/07) - Magna TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7230&ext=hls&x=1782147911&k=31843b9ff57faa0ca962e13f457f4af5b9facec80d255ef30f154e62a97f7d66&sc=7230
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782148741&k=6dc0b5871f12898a7ee22910b6465c798d88cb6419d9490cd8e0c333272e156a&sc=18280
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="TV VIDIDI", LIVE 19:00 WIB (22/03) - Makkah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6852&ext=hls&x=1782147911&k=680d3f8a1ba748d866399b3f2db87937d58d27e823bc423708cc09471f4658e5&sc=6852
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6852&ext=hls&x=1782148741&k=e4e1687fc3d5031871d42269e8f64177e7e2b1242ab33086dddcfaf33b779152&sc=6852
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" group-title="TV VIDIDI", LIVE 22:33 WIB (09/04) - U-Channel TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6898&ext=hls&x=1782147911&k=98c5ee74fb8ca587970c1a570b0d1fdc6753f72c3e9f1c25029832dc4b35612a&sc=6898
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6898&ext=hls&x=1782148741&k=2994d5aa08555dbcc30dc3068f8ddff79b67d86aaf77a2a3284645969528b801&sc=6898
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MZFTa6Gsypo60eszkR_RoTH-bhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380471/f49093.jpg" group-title="TV VIDIDI",Top News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782147911&k=42d54ce24466489860431214185d417354a77dc49b27a2a999fd3998208ccecd&sc=777
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782148741&k=c53cb640058a1c23496e5aad147203ee07b2f1b46d177fd05afd8901c29e3de8&sc=777
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MZFTa6Gsypo60eszkR_RoTH-bhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380471/f49093.jpg" group-title="TV VIDIDI", LIVE 03:35 WIB (23/04) - Top News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782147911&k=42d54ce24466489860431214185d417354a77dc49b27a2a999fd3998208ccecd&sc=777
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg" group-title="TV VIDIDI", LIVE 11:00 WIB (18/05) - News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12784&ext=hls&x=1782147911&k=ee7e8e2283a38e5ead98d0b30d903859896bec7823c63515f1f0c028ab8b220c&sc=12784
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782148741&k=c53cb640058a1c23496e5aad147203ee07b2f1b46d177fd05afd8901c29e3de8&sc=777
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="TV VIDIDI",Dipo Investigasi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782147911&k=0031e9a4b3b2b68243a7f3a49954f112dedae901d517317ee8ed46b610f3901d&sc=874
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782148741&k=16ef6180d2097fedd33c7b3335f761039547ed0c9e48df24e3ecc850695c204f&sc=874
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="TV VIDIDI", LIVE 18:00 WIB (24/04) - Dipo Investigasi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782147911&k=0031e9a4b3b2b68243a7f3a49954f112dedae901d517317ee8ed46b610f3901d&sc=874
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782148741&k=16ef6180d2097fedd33c7b3335f761039547ed0c9e48df24e3ecc850695c204f&sc=874
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c_718cCh2RH2UIUd4C3juKKZ9Wc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12607/dmi-tv-8f4cb7.jpg" group-title="TV VIDIDI", LIVE 14:00 WIB (05/05) - DMI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12607&ext=hls&x=1782147911&k=aa0819f3ca259387ff1d38656b1ce73517465a4fe8bdf5dc9894627e940622ff&sc=12607
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg" group-title="TV VIDIDI", LIVE 19:00 WIB (25/06) - ABC Late News - Episode 123
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12607&ext=hls&x=1782148741&k=30b8c8c8bdd3da3c0df2c2729057c110809b8fe3c9e48b277b7a5dba6266b9a8&sc=12607
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg" group-title="TV VIDIDI", LIVE 11:00 WIB (18/05) - Business Africa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7150&ext=hls&x=1782147911&k=7378621f60d126369a212dc25b70ae9bd8a6efec297624c56b77d37e729f3604&sc=7150
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12784&ext=hls&x=1782148741&k=0640ff427049a88ee14dca1a282cbc94e0c302116100657f739361dc08b8a685&sc=12784
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg" group-title="TV VIDIDI", LIVE 19:00 WIB (25/06) - The Business - Episode 81
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7150&ext=hls&x=1782148741&k=e2b639aa71dcf533aa2b5373f6bc927a5abcf6b6e49d135b4a990957a1c496e7&sc=7150
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-fJcdGieHvetPDosR_ZwDD-YE5M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="TV VIDIDI", LIVE 09:00 WIB (08/07) - The Wild Life Of Tim Faulkner Season 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=19046&ext=hls&x=1782147911&k=e3bd9d02f25a124fdce023d369c3a20244db5e491805bc0298b0988fb0e47e1c&sc=19046
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=19046&ext=hls&x=1782148741&k=86eb2912d3f050ab3e1179c7d0d47a2c3df875f8c172f69437aaaf4b9003fb5d&sc=19046
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nBRneLipjed0tzgVoHIft83fOYk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6411/news-asia-31d4e8.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (07/09) - Singapore Tonight
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6411&ext=hls&x=1782147911&k=36a0328b056430595e3b35898ad9493813cd3ed6445b7f46c272309d1fdf3942&sc=6411
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6411&ext=hls&x=1782148741&k=0215d59fb8ba1be3107da9c8b0ceb7afd49ff60e01319599a4e59404a6cf65bd&sc=6411
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="TV VIDIDI",NTV Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782148741&k=3fca5385da68fb9d2066ac94f81cdd9538ed065781c1efab89f33b5b5e98b4dc&sc=7432
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="TV VIDIDI", LIVE 10:00 WIB (21/10) - NTV Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782147911&k=05f1b8a4dbbdbefd09ac03ddb9f32ccf9ad70bad18c24a4578654b5045d74cb7&sc=7432
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782148741&k=3fca5385da68fb9d2066ac94f81cdd9538ed065781c1efab89f33b5b5e98b4dc&sc=7432
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="TV VIDIDI",Nawaitu Surga
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782147911&k=985703d920f638493532f0a79d47d7cb969293dae156d19d73ebb98ce94bf133
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782148741&k=3719280a99a545d62347e57520b7edac88053504800f418a35c60fe49750a58e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782147911&k=d95cc1e0fbf90f194bd31b6d86b986b57bc13509051c7985e8123a1de3aabcb2&sc=7464
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782148741&k=8ee855252bc48dc69256ac595a459f161921bb807b533e353b61bebe2c4e0307&sc=7464
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="TV VIDIDI", LIVE 19:45 WIB (26/10) - Nawaitu Surga
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782147911&k=985703d920f638493532f0a79d47d7cb969293dae156d19d73ebb98ce94bf133
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782148741&k=3719280a99a545d62347e57520b7edac88053504800f418a35c60fe49750a58e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782147911&k=d95cc1e0fbf90f194bd31b6d86b986b57bc13509051c7985e8123a1de3aabcb2&sc=7464
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782148741&k=8ee855252bc48dc69256ac595a459f161921bb807b533e353b61bebe2c4e0307&sc=7464
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dqu2d5vovPKc448pBIc6ihswPTU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg" group-title="TV VIDIDI", LIVE 14:33 WIB (30/11) - NHK Newsline
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7968&ext=hls&x=1782147911&k=1a5ade65c4f1dcb510a399240b8779e7490c9384b8e30fc71a8c8f9758cf3ba8&sc=7968
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7968&ext=hls&x=1782148741&k=c0bd23c67b55f7a02f62f4e4b90a0abd1c25268e2ec644b73b2cd8184442d80e&sc=7968
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="TV VIDIDI",Kriminal +62
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782148741&k=553a196c008cf8f33f4932be86cd9ca07ca68025c5b35ff6c859eb795523aa97&sc=18162
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="TV VIDIDI", LIVE 17:00 WIB (11/12) - Kriminal +62
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782147911&k=534930ce7a66c86f703f3c4e7de24d03d5efef9d3e3c4118b2d472013365f605&sc=18162
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="TV VIDIDI",Abraham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782147911&k=05f1b8a4dbbdbefd09ac03ddb9f32ccf9ad70bad18c24a4578654b5045d74cb7&sc=7432
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782148741&k=553a196c008cf8f33f4932be86cd9ca07ca68025c5b35ff6c859eb795523aa97&sc=18162
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/emHpj-uEoQwjDU_pcCtUJ5jSCgg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21289/citra-drama-plus-a6965e.jpg" group-title="TV VIDIDI",Citra Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=drm&x=1782147911&k=966d603ef1d0925b2c4c4e0c832e756dff5a763c30f3f3adf70db529853a8a19
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=drm&x=1782148741&k=b845edcc114cb415c9aed269fe0b1d3d33c67d0cc091d502aa7390e7a9383c91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=dash&x=1782147911&k=f90e2de03d3a594b2f15c7e050e401a60a9cc06e896d19b16e4abc3f875f7aca
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="TV VIDIDI",Dialog Khusus
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=dash&x=1782148741&k=da25b97b87b38f4ea0baa0767f5b69ee698a393c71e0569d6959b3357e5114ad
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="TV VIDIDI",Drama Kisah Nyata: Tak Pernah Menyerah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9713&ext=hls&x=1782147911&k=e89508ec0273dd945fa16614335eae7e48a05763e2e9e03e2b385c76ce58c643&sc=9713
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="TV VIDIDI",Drama Kisah Nyata: Mama Moon
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6482&ext=hls&x=1782148741&k=ee4969fcf40c561f8bebdfcd15d440c62f526bfdc73e54e56c82040d60add7cf&sc=6482
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="TV VIDIDI",Dunia Dalam Berita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6482&ext=hls&x=1782147911&k=08ae4904b2ea9aea95bd9fa799a6e3a21ba1389f4c6b77da838289d5a3692097&sc=6482
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="TV VIDIDI",Garda Jalan Raya
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6441&ext=hls&x=1782148741&k=04485f5d16d1f1dff22821afff39b2607ab047ee2cf27ddce012afc3ada3b147&sc=6441
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="TV VIDIDI",Ini Jakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782147911&k=534930ce7a66c86f703f3c4e7de24d03d5efef9d3e3c4118b2d472013365f605&sc=18162
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="TV VIDIDI",Jendela Dunia
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9714&ext=hls&x=1782148741&k=87a4328cddc4dd6429808af9faf83d8682d8aa0af6df4d6b9ea90f1615692ab0&sc=9714
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="TV VIDIDI",Medika Natura
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782147911&k=37be9cdaf7e33432e088d1eec4323d5c811b140cca1f0886f0e02ef1103c1e4b&sc=18280
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="TV VIDIDI",Jurnal Piala Dunia 2026
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5415&ext=hls&x=1782148741&k=c299d3f175e4c8c8647015d23a9bd0af87358fd563dc8ec07a245237fb7d11f0&sc=5415
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="TV VIDIDI",Pojok Kampung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6441&ext=hls&x=1782147911&k=57113f8145b8be5a6f4ed21eb5914ce1343933e9555c89468a2ffc4fdc2e17ee&sc=6441
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="TV VIDIDI",Three Queens
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5415&ext=hls&x=1782147911&k=2d659b425b45af6c9d36369271f3ece01c13762a7548f49f662a4f4fa96d071a&sc=5415
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="TV VIDIDI",Zona Terapi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9714&ext=hls&x=1782147911&k=855679c2c4f26559d70ef7a03af4aff73185ae153b6bbb6847136f1f9b4d7374&sc=9714
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201c5001aa8f3cfce49b34c4855e3488575.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 19:00 WIB] [Filipina MPBL] Quezon Huskers vs Abra Weavers [Zhubo]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5377297_1.m3u8?auth_key=1782223473-0-0-9543623ecca9f0f646671097cdebdfc7
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9713&ext=hls&x=1782148741&k=99b64c79a7895beb8b6b508a736903cdc7bf456eba27f2d9f540069f53cec48d&sc=9713
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2029c55f446de1b75687b5ba03c76056040.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 20:00 WIB] [INT CF] AIK vs Kalmar [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5475236_1.m3u8?auth_key=1782223473-0-0-5b2da437373990ae67dc0417046fa3db
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5475236_1.m3u8?auth_key=1782224313-0-0-5b3a57cfe74babb7f901c7fef687d880
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [Bad Homburg Open] Day 2 | Bad Homburg Open
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -767,40 +771,40 @@ https://bonetvbumper.ahmadadityaberdikari.workers.dev/bokep.m3u8
 https://bonetvbumper.ahmadadityaberdikari.workers.dev/bokep.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Belgium vs IR Iran (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782140001-0-0-d72f2f6d0e5dbed664d81c902414d42d
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782141081-0-0-985f2e37dc319cedc21cb5edef2b13a2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Belgium vs IR Iran (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782140001-0-0-abc5344d3d8821ad3334947c8f4d11b9
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782141081-0-0-513571c72065622574b276293ba19aca
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Ecuador vs Curacao (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782140001-0-0-401aedb3972d70bdb54a0ca72f95bbb2
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782141081-0-0-cc91dfa3665fcd0c9a42e39a570f7d63
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Ecuador vs Curacao (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782140001-0-0-48ff8efbfc9f362476bd1cadf0d518de
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782141081-0-0-8e4c2a76ee67567c6bc51f2bcb17e501
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - New Zealand vs Egypt (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782139281-0-0-c5f6c6866007958f035308b5dbb054da
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782140361-0-0-83798e71de1ec2d326d18f5fc6da850a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - New Zealand vs Egypt (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782139281-0-0-4ba10acfee394afcecf2dbbbd0ab7b6c
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782140361-0-0-47cf2ff3579cf92eaee7b80db02001a2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Spain vs Saudi Arabia (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782140001-0-0-8216282366f744b99417407837207143
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782141081-0-0-ba0acd82d70a8c3e4e69570bcf8033d6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Spain vs Saudi Arabia (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782140001-0-0-612fa399fd24e4f56e4412c54c334af8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782141081-0-0-8f8d32da92835474525a08f1c5684025
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Tunisia vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782140001-0-0-bc3a048f8cfc7aac5d9bf717759d41a0
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782141081-0-0-31d7f0111b3e4edd5924a4a5ef677283
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Tunisia vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782140001-0-0-1efa4abc9a819efec026d0f3d938e548
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782141081-0-0-950fd34e73f062d65138803831cac6e7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Uruguay vs Cabo Verde (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782140001-0-0-e7c2e59c54ccde68f0ee66aca56a2aa6
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782141081-0-0-fa5dae64ceaafab2d3e9e1bf958e6a18
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Uruguay vs Cabo Verde (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782140001-0-0-68bfe9002f19e6f56d08d9d48c6b5140
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782141081-0-0-2840c188b6101bcc3e31aab2c9178f6c
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/uj5gvucchnv89i.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Ligi kuu Bara | (20.00 WIB) KMC vs Namungo (BELUM MULAI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/w9dzpabg4llnsb.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Ligi kuu Bara | (20.00 WIB) Mtibwa Sugar vs Simba (BELUM MULAI)
@@ -877,12 +881,12 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[ UPCOMING] [15:00 WIB] [FORMULA 1] Formula 1
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="CHANNEL |  MOTOGP & F1",[ UPCOMING] [15:00 WIB] [FORMULA 1] Formula 1
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" group-title="CHANNEL |  MOTOGP & F1",Motorsports - [18:15 WIB] MXGP (MX2) - Race
 https://601.formaturamaxi.com.br/mxgp.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" group-title="CHANNEL |  MOTOGP & F1",Motorsports - [23:00 WIB] Indy NXT - Race
 https://daffodil.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="CHANNEL |  MOTOGP & F1",[ UPCOMING] [15:00 WIB] [FORMULA 1] Formula 1
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/0cc49f3f48c86ed0c00a31c96962ecf3.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 20:00 WIB] [International Club Friendly] AIK vs Kalmar [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
@@ -892,92 +896,92 @@ https://stream.yultech.online/hls/live/sd-6MwdqBeqrGN9hxwHWM/index.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=9de74a5786fee53a80a81f264e50ef40&wsABSTime=1782180359
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=ac6a93f67a0f5a2620e01d1325879b11&wsABSTime=1782181206
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gh6nkr6od/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - AIK SOLNA VS KALMAR [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782137083-0-0-d1bd863dcb27fd696ecab0d4bbabc81d
+https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782137705-0-0-a8c4d6cc4fedb02910375e08ecef93a6
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9wh9pndryox/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - DEFENSOR SPORTING R VS DEPORTIVO MALDONADO R [URU RL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=f44aa9a7a9726ea7e0ed28c1b003d00f&wsABSTime=1782180284
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=7b3c8dcb94dab69facc9c5dd3ca2265d&wsABSTime=1782180906
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhjk7vql07/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - GAREJI SAGAREJO VS ODISHI 1919 [GEO D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=4248624345acdb170e6b5d1841d948ad&wsABSTime=1782180283
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=8f8e3910b4214c0d82987a0a556b4129&wsABSTime=1782180906
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwnykqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - MERANI MARTVILI VS FC GORI [GEO D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=69b6edda2b7d1dd7e5bc62f05cfaed92&wsABSTime=1782180283
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b74c0833ce0ce54a90812c3b10a6ce73&wsABSTime=1782180906
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhdk4jqvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - RISALEH TOURA VS AL IRSHAD CHHIM [LBN D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=acc475d5c71e19e76ba4c86094d4e2e8&wsABSTime=1782180283
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=a5c9f4f0904a5305d83325ed3c3c8547&wsABSTime=1782180906
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh450xmoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - FC KOLKHETI POTI VS SHTURMI [GEO D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=ba9080b2900e59bc6579bbe9952dab1c&wsABSTime=1782180284
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=2a4306b18589377db0d8937054018198&wsABSTime=1782180907
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66h4o7zqo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - NU CONCEPCION VS NU DEPORTES IQUIQUE [CHI WD1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=01dcb341cf7e509439a23e6fe090888b&wsABSTime=1782180286
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=08803f7e3da2160bf62b87e540453c72&wsABSTime=1782180907
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgx7kryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - TALLINNA JK LEGION VS PARNU JK VAPRUS II [EST D3]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=0366300d4e709aa5096eade18184ce33&wsABSTime=1782180286
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=03c130e6733a43ca9b0ccd89d57585f9&wsABSTime=1782180907
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gh6ger6od/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - TORPEDO MOSCOW VS VOLGA ULYANOVSK [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=afb94e1c101d5157680c9cf786964714&wsABSTime=1782180286
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=74b9f56b2d0aa88076d1eb6f3a0127cb&wsABSTime=1782180908
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh19o0m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - ALAY OSH VS OSHMU ALDIER [KYR TL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=739ebc1306576dc40cd2b5e60094780a&wsABSTime=1782180287
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=92a894b6de2ec96d66be8fcd984a692e&wsABSTime=1782180908
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9wheo3gryox/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - FC ASIA TALAS VS MURAS UNITED FC [KYR TL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=ff1b471751df390f7f8dfb58b410875c&wsABSTime=1782180286
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=9401f45ee9b87c9b0c62bb2b79e23c30&wsABSTime=1782180908
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh1667m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - FC ASIAGOAL VS FC BISHKEK CITY [KYR TL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=ef35d1d2a3810d545f01c53a29246253&wsABSTime=1782180286
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=6f57682cbc7593fd4af2847a1a8c0151&wsABSTime=1782180908
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlv86qwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - AALESUND FK B VS RANHEIM B [NOR D4]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=d89531017f62c4b5be5caa5b7717e862&wsABSTime=1782180289
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=7d97ec7857777ff4e862566e534d01f1&wsABSTime=1782180910
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllhgynqvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - DILA GORI VS FC METALURGI RUSTAVI [GEO D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001782137087-0-0-178211843143b0ed074f490cc2d57a03
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001782137709-0-0-3e789647bf12048a773a0f6e13590cf5
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7hdv6qdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - ODD GRENLAND 2 VS FLEKKEROY IL [NOR D4]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=4c85556445240770e60687187f2aa744&wsABSTime=1782180288
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=f0cce9675699e76acb8d36876e8e6129&wsABSTime=1782180910
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhe5xkqvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - RIGAS FS VS OGRE UNITED [LAT D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001782137087-0-0-1ab852ccc713cac0eb0bfd7676f59f12
+https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001782137709-0-0-14d85d5851780b3a7c1b8b90115b3b48
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlh9j0gryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - WELWALO ADIGRAT VS HADIYA HOSSANA [ETH PR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=e6ba5b61bc643a16fe2de560a923e116&wsABSTime=1782180288
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=0b21c4a36d6051ca01d99c6d5713139d&wsABSTime=1782180909
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="SPORTS FHD",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="SPORTS FHD",AS3 Sport TV (1080p)
@@ -1440,6 +1444,12 @@ http://193.47.62.42/hls/ayyyyQQ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/364_1h8asp945qp.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:00 WIB] 22/06 AIK Solna vs Kalmar (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnfaster.live/live/sd-6MwdqBeqrGN9hxwGpc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782136623.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:54 WIB] 22/06 Thuy Si vs Bosnia (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782136623.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:54 WIB] 22/06 Thuy Si vs Bosnia (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f066ebd73032bfa49bcb1df5741aa12d.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:00 WIB] 22/06 CLB Merani Martvili vs Gori (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.apusport.com/live/82054853.m3u8
@@ -1448,40 +1458,40 @@ https://live05.apusport.com/live/82054853.m3u8
 https://live05.apusport.com/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Belgium vs IR Iran (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782140001-0-0-d72f2f6d0e5dbed664d81c902414d42d
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782141081-0-0-985f2e37dc319cedc21cb5edef2b13a2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Belgium vs IR Iran (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782140001-0-0-abc5344d3d8821ad3334947c8f4d11b9
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782141081-0-0-513571c72065622574b276293ba19aca
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Ecuador vs Curacao (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782140001-0-0-401aedb3972d70bdb54a0ca72f95bbb2
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782141081-0-0-cc91dfa3665fcd0c9a42e39a570f7d63
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Ecuador vs Curacao (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782140001-0-0-48ff8efbfc9f362476bd1cadf0d518de
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782141081-0-0-8e4c2a76ee67567c6bc51f2bcb17e501
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - New Zealand vs Egypt (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782139281-0-0-c5f6c6866007958f035308b5dbb054da
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782140361-0-0-83798e71de1ec2d326d18f5fc6da850a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - New Zealand vs Egypt (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782139281-0-0-4ba10acfee394afcecf2dbbbd0ab7b6c
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782140361-0-0-47cf2ff3579cf92eaee7b80db02001a2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Spain vs Saudi Arabia (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782140001-0-0-8216282366f744b99417407837207143
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782141081-0-0-ba0acd82d70a8c3e4e69570bcf8033d6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Spain vs Saudi Arabia (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782140001-0-0-612fa399fd24e4f56e4412c54c334af8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782141081-0-0-8f8d32da92835474525a08f1c5684025
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Tunisia vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782140001-0-0-bc3a048f8cfc7aac5d9bf717759d41a0
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782141081-0-0-31d7f0111b3e4edd5924a4a5ef677283
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Tunisia vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782140001-0-0-1efa4abc9a819efec026d0f3d938e548
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782141081-0-0-950fd34e73f062d65138803831cac6e7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Uruguay vs Cabo Verde (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782140001-0-0-e7c2e59c54ccde68f0ee66aca56a2aa6
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782141081-0-0-fa5dae64ceaafab2d3e9e1bf958e6a18
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Uruguay vs Cabo Verde (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782140001-0-0-68bfe9002f19e6f56d08d9d48c6b5140
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782141081-0-0-2840c188b6101bcc3e31aab2c9178f6c
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/x1590.png" group-title="USA TV",beIN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="USA TV",Fox Sports 1
@@ -5072,6 +5082,12 @@ http://starhub.pro/live/farhat-3379/67897-913379/741566.ts
 https://digital.tsender57.workers.dev/bc82b623e5/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVRI_Daerah.png" group-title="🔴FIFA WORLD CUP 2026🔴",TVRI NASIONAL
 https://digital.tsender57.workers.dev/7a02027004/play/a03t/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/refs/heads/main/fifa-world-cup-2026-fifa.gif" group-title="🔴FIFA WORLD CUP 2026🔴",DSports
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="🔴FIFA WORLD CUP 2026🔴",FS1 01
 http://primestreams.tv:826/live/anto.j/c9yJDcXyPe/120267.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="🔴FIFA WORLD CUP 2026🔴",TELEMUNDO 1
@@ -5239,9 +5255,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/fArVexsE/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 18:05 WIB | TGL 24/06] Serbia v Japan | Week 2 | Men's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CBUXmAmT/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 21:05 WIB | TGL 24/06] Ukraine v Brazil | Week 2 | Men's VNL 2026
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GM6snNT4/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 21:05 WIB | TGL 24/06] Argentina v Germany | Week 2 | Men's VNL 2026
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CBUXmAmT/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 21:05 WIB | TGL 24/06] Ukraine v Brazil | Week 2 | Men's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JsH8BgQt/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 21:35 WIB | TGL 24/06] Cuba v USA | Week 2 | Men's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -5271,28 +5287,28 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/guqsFaNK/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 19:55 WIB | TGL 01/07] Ehlers/Wickler (GER) vs [tbc], Men Pool F on C2 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zRXIW9Wb/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 19:55 WIB | TGL 01/07] Mol A./Sorum C. (NOR) vs [tbc], Men Pool F on C3 | Gstaad (SUI)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GUy9sLBo/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI",[ UPCOMING 19:55 WIB | TGL 01/07] Crabb/Benesh (USA) vs [tbc], Men Pool E on C4 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/p4jwq23h317r0ve/image/small" group-title="LIVE EVENT | VOLI",[ LIVE] 19:30 WIB 22/06 - QATAR VS INDONESIA [AVC]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=9de74a5786fee53a80a81f264e50ef40&wsABSTime=1782180359
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=ac6a93f67a0f5a2620e01d1325879b11&wsABSTime=1782181206
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/4zp5rzdhl1zq82w/image/small" group-title="LIVE EVENT | VOLI",22:30 WIB 22/06 - AN DO VS DAI LOAN [AVC]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=9092a469dfdaa254321079f675e752d9&wsABSTime=1782180359
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=ee4c974b9bc099a5e79c53ad15fac761&wsABSTime=1782181206
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/1l4rjzt177vm7vx/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",19:00 WIB - QUEZON HUSKERS VS ABRA WEAVERS [PHI]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782137083-0-0-1d780718832d29dce7627e3e884956bc
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782137705-0-0-696df49e8ac6d39fb65fb0f7bd2a3967
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/y39mp4t3y41mojx/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",23:00 WIB - IRT TANGER VS WYDAD CASABLANCA [MOR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel45.flv?wsSecret=aa5a1fd1a1a6cf9558cc937139c50185&wsABSTime=1782180284
+https://live1.pro2cdnlive.com/live/channel45.flv?wsSecret=f049ac8603895282ad3354cc72ed7582&wsABSTime=1782180906
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jdqKB3LW/Basketball-2.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[03:00 WIB] [WNBA] Golden State Valkyries vs Las Vegas Aces - SHRK
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
 #EXTVLCOPT:http-origin=https://sharkstreams.net
@@ -5303,6 +5319,16 @@ https://lv2.lvfiles.cfd/live/aces/stream.m3u8?expires=1782088168&token=87f9bd6ce
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://lvb1.lvfiles.cfd/live/1/stream.m3u8?expires=1782089496&token=756c5f6d541ec35aa13dda1b719580414c0dd83a1bf55aa4b4969120dfa43f06
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[03:10 WIB] [MLB] Baltimore Orioles vs Los Angeles Dodgers - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lvb1.lvfiles.cfd/live/2/stream.m3u8?expires=1782088840&token=8fb36f530cf67096b3e7a1a7ea4a029624b6fb7bfc52b983d691cbd2017b4c61
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFmwC7K/Baseball3.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[03:10 WIB] [MLB] Boston Red Sox vs Seattle Mariners - SHRK
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://lvb1.lvfiles.cfd/live/3/stream.m3u8?expires=1782089768&token=27772f528ecd2e3c153b3ada0a3075b1bd9757ea91619bf4f2f73b50076e29be
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",GLORY Kickboxing (720p)
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/TNviKSQZ/poster.jpg?width=1920" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING 18:55 WIB | TGL 01/07] Boermans/Brouwer (NED) vs Hammarberg/Berger T. (AUT), Men Pool C on C3 | Gstaad (SUI)
@@ -5317,112 +5343,100 @@ http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/W08g9zS7QaGtPMErcsZ81Va_dKc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6412/euronews-795a60.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (03/01) - The European debrief
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6412&ext=hls&x=1782147911&k=7ed0f0cd6f433a9183df11fa618dfc6145ca6f57c14415f71117fab7ef5301f7&sc=6412
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (04/02) - MUSICA
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6412&ext=hls&x=1782148741&k=bf5c1cd35c3134b6ec5766ff4c5f9e64d2cc9c3367689b56044a8351f03911d8&sc=6412
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="TV VIDIDI",Berita Satu Utama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7619&ext=hls&x=1782147911&k=36853352245b733e8300ebe7b0c68034de68ac5210ac835cc9a4fd8490a35607&sc=7619
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (22/02) - Press Perspective [R]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6784&ext=hls&x=1782147911&k=ba99a619cf63729a8a420994fea07cecde18b18b39659059c8da114e8831138a&sc=6784
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782148741&k=6dc0b5871f12898a7ee22910b6465c798d88cb6419d9490cd8e0c333272e156a&sc=18280
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="TV VIDIDI", LIVE 08:58 WIB (25/02) - Berita Satu Utama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782147911&k=37be9cdaf7e33432e088d1eec4323d5c811b140cca1f0886f0e02ef1103c1e4b&sc=18280
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (17/07) - Magna TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7230&ext=hls&x=1782147911&k=31843b9ff57faa0ca962e13f457f4af5b9facec80d255ef30f154e62a97f7d66&sc=7230
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782148741&k=6dc0b5871f12898a7ee22910b6465c798d88cb6419d9490cd8e0c333272e156a&sc=18280
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="TV VIDIDI", LIVE 19:00 WIB (22/03) - Makkah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6852&ext=hls&x=1782147911&k=680d3f8a1ba748d866399b3f2db87937d58d27e823bc423708cc09471f4658e5&sc=6852
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6852&ext=hls&x=1782148741&k=e4e1687fc3d5031871d42269e8f64177e7e2b1242ab33086dddcfaf33b779152&sc=6852
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" group-title="TV VIDIDI", LIVE 22:33 WIB (09/04) - U-Channel TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6898&ext=hls&x=1782147911&k=98c5ee74fb8ca587970c1a570b0d1fdc6753f72c3e9f1c25029832dc4b35612a&sc=6898
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6898&ext=hls&x=1782148741&k=2994d5aa08555dbcc30dc3068f8ddff79b67d86aaf77a2a3284645969528b801&sc=6898
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MZFTa6Gsypo60eszkR_RoTH-bhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380471/f49093.jpg" group-title="TV VIDIDI",Top News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782147911&k=42d54ce24466489860431214185d417354a77dc49b27a2a999fd3998208ccecd&sc=777
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782148741&k=c53cb640058a1c23496e5aad147203ee07b2f1b46d177fd05afd8901c29e3de8&sc=777
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MZFTa6Gsypo60eszkR_RoTH-bhI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380471/f49093.jpg" group-title="TV VIDIDI", LIVE 03:35 WIB (23/04) - Top News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782147911&k=42d54ce24466489860431214185d417354a77dc49b27a2a999fd3998208ccecd&sc=777
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg" group-title="TV VIDIDI", LIVE 11:00 WIB (18/05) - News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12784&ext=hls&x=1782147911&k=ee7e8e2283a38e5ead98d0b30d903859896bec7823c63515f1f0c028ab8b220c&sc=12784
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782148741&k=c53cb640058a1c23496e5aad147203ee07b2f1b46d177fd05afd8901c29e3de8&sc=777
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="TV VIDIDI",Dipo Investigasi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782147911&k=0031e9a4b3b2b68243a7f3a49954f112dedae901d517317ee8ed46b610f3901d&sc=874
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782148741&k=16ef6180d2097fedd33c7b3335f761039547ed0c9e48df24e3ecc850695c204f&sc=874
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="TV VIDIDI", LIVE 18:00 WIB (24/04) - Dipo Investigasi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782147911&k=0031e9a4b3b2b68243a7f3a49954f112dedae901d517317ee8ed46b610f3901d&sc=874
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782148741&k=16ef6180d2097fedd33c7b3335f761039547ed0c9e48df24e3ecc850695c204f&sc=874
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c_718cCh2RH2UIUd4C3juKKZ9Wc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12607/dmi-tv-8f4cb7.jpg" group-title="TV VIDIDI", LIVE 14:00 WIB (05/05) - DMI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12607&ext=hls&x=1782147911&k=aa0819f3ca259387ff1d38656b1ce73517465a4fe8bdf5dc9894627e940622ff&sc=12607
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg" group-title="TV VIDIDI", LIVE 19:00 WIB (25/06) - ABC Late News - Episode 123
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12607&ext=hls&x=1782148741&k=30b8c8c8bdd3da3c0df2c2729057c110809b8fe3c9e48b277b7a5dba6266b9a8&sc=12607
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg" group-title="TV VIDIDI", LIVE 11:00 WIB (18/05) - Business Africa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7150&ext=hls&x=1782147911&k=7378621f60d126369a212dc25b70ae9bd8a6efec297624c56b77d37e729f3604&sc=7150
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12784&ext=hls&x=1782148741&k=0640ff427049a88ee14dca1a282cbc94e0c302116100657f739361dc08b8a685&sc=12784
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg" group-title="TV VIDIDI", LIVE 19:00 WIB (25/06) - The Business - Episode 81
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7150&ext=hls&x=1782148741&k=e2b639aa71dcf533aa2b5373f6bc927a5abcf6b6e49d135b4a990957a1c496e7&sc=7150
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-fJcdGieHvetPDosR_ZwDD-YE5M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="TV VIDIDI", LIVE 09:00 WIB (08/07) - The Wild Life Of Tim Faulkner Season 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=19046&ext=hls&x=1782147911&k=e3bd9d02f25a124fdce023d369c3a20244db5e491805bc0298b0988fb0e47e1c&sc=19046
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=19046&ext=hls&x=1782148741&k=86eb2912d3f050ab3e1179c7d0d47a2c3df875f8c172f69437aaaf4b9003fb5d&sc=19046
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nBRneLipjed0tzgVoHIft83fOYk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6411/news-asia-31d4e8.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (07/09) - Singapore Tonight
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6411&ext=hls&x=1782147911&k=36a0328b056430595e3b35898ad9493813cd3ed6445b7f46c272309d1fdf3942&sc=6411
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6411&ext=hls&x=1782148741&k=0215d59fb8ba1be3107da9c8b0ceb7afd49ff60e01319599a4e59404a6cf65bd&sc=6411
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="TV VIDIDI",NTV Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782148741&k=3fca5385da68fb9d2066ac94f81cdd9538ed065781c1efab89f33b5b5e98b4dc&sc=7432
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="TV VIDIDI", LIVE 10:00 WIB (21/10) - NTV Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782147911&k=05f1b8a4dbbdbefd09ac03ddb9f32ccf9ad70bad18c24a4578654b5045d74cb7&sc=7432
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782148741&k=3fca5385da68fb9d2066ac94f81cdd9538ed065781c1efab89f33b5b5e98b4dc&sc=7432
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="TV VIDIDI",Nawaitu Surga
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782147911&k=985703d920f638493532f0a79d47d7cb969293dae156d19d73ebb98ce94bf133
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782148741&k=3719280a99a545d62347e57520b7edac88053504800f418a35c60fe49750a58e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782147911&k=d95cc1e0fbf90f194bd31b6d86b986b57bc13509051c7985e8123a1de3aabcb2&sc=7464
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782148741&k=8ee855252bc48dc69256ac595a459f161921bb807b533e353b61bebe2c4e0307&sc=7464
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="TV VIDIDI", LIVE 19:45 WIB (26/10) - Nawaitu Surga
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782147911&k=985703d920f638493532f0a79d47d7cb969293dae156d19d73ebb98ce94bf133
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782148741&k=3719280a99a545d62347e57520b7edac88053504800f418a35c60fe49750a58e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782147911&k=d95cc1e0fbf90f194bd31b6d86b986b57bc13509051c7985e8123a1de3aabcb2&sc=7464
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782148741&k=8ee855252bc48dc69256ac595a459f161921bb807b533e353b61bebe2c4e0307&sc=7464
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dqu2d5vovPKc448pBIc6ihswPTU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg" group-title="TV VIDIDI", LIVE 14:33 WIB (30/11) - NHK Newsline
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7968&ext=hls&x=1782147911&k=1a5ade65c4f1dcb510a399240b8779e7490c9384b8e30fc71a8c8f9758cf3ba8&sc=7968
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7968&ext=hls&x=1782148741&k=c0bd23c67b55f7a02f62f4e4b90a0abd1c25268e2ec644b73b2cd8184442d80e&sc=7968
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="TV VIDIDI",Kriminal +62
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782148741&k=553a196c008cf8f33f4932be86cd9ca07ca68025c5b35ff6c859eb795523aa97&sc=18162
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="TV VIDIDI", LIVE 17:00 WIB (11/12) - Kriminal +62
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782147911&k=534930ce7a66c86f703f3c4e7de24d03d5efef9d3e3c4118b2d472013365f605&sc=18162
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="TV VIDIDI",Abraham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782147911&k=05f1b8a4dbbdbefd09ac03ddb9f32ccf9ad70bad18c24a4578654b5045d74cb7&sc=7432
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782148741&k=553a196c008cf8f33f4932be86cd9ca07ca68025c5b35ff6c859eb795523aa97&sc=18162
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/emHpj-uEoQwjDU_pcCtUJ5jSCgg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21289/citra-drama-plus-a6965e.jpg" group-title="TV VIDIDI",Citra Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=drm&x=1782147911&k=966d603ef1d0925b2c4c4e0c832e756dff5a763c30f3f3adf70db529853a8a19
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=drm&x=1782148741&k=b845edcc114cb415c9aed269fe0b1d3d33c67d0cc091d502aa7390e7a9383c91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=dash&x=1782147911&k=f90e2de03d3a594b2f15c7e050e401a60a9cc06e896d19b16e4abc3f875f7aca
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="TV VIDIDI",Dialog Khusus
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=dash&x=1782148741&k=da25b97b87b38f4ea0baa0767f5b69ee698a393c71e0569d6959b3357e5114ad
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="TV VIDIDI",Drama Kisah Nyata: Tak Pernah Menyerah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9713&ext=hls&x=1782147911&k=e89508ec0273dd945fa16614335eae7e48a05763e2e9e03e2b385c76ce58c643&sc=9713
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="TV VIDIDI",Drama Kisah Nyata: Mama Moon
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6482&ext=hls&x=1782148741&k=ee4969fcf40c561f8bebdfcd15d440c62f526bfdc73e54e56c82040d60add7cf&sc=6482
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="TV VIDIDI",Dunia Dalam Berita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6482&ext=hls&x=1782147911&k=08ae4904b2ea9aea95bd9fa799a6e3a21ba1389f4c6b77da838289d5a3692097&sc=6482
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="TV VIDIDI",Garda Jalan Raya
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6441&ext=hls&x=1782148741&k=04485f5d16d1f1dff22821afff39b2607ab047ee2cf27ddce012afc3ada3b147&sc=6441
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="TV VIDIDI",Ini Jakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782147911&k=534930ce7a66c86f703f3c4e7de24d03d5efef9d3e3c4118b2d472013365f605&sc=18162
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="TV VIDIDI",Jendela Dunia
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9714&ext=hls&x=1782148741&k=87a4328cddc4dd6429808af9faf83d8682d8aa0af6df4d6b9ea90f1615692ab0&sc=9714
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="TV VIDIDI",Medika Natura
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782147911&k=37be9cdaf7e33432e088d1eec4323d5c811b140cca1f0886f0e02ef1103c1e4b&sc=18280
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="TV VIDIDI",Jurnal Piala Dunia 2026
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5415&ext=hls&x=1782148741&k=c299d3f175e4c8c8647015d23a9bd0af87358fd563dc8ec07a245237fb7d11f0&sc=5415
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="TV VIDIDI",Pojok Kampung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6441&ext=hls&x=1782147911&k=57113f8145b8be5a6f4ed21eb5914ce1343933e9555c89468a2ffc4fdc2e17ee&sc=6441
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="TV VIDIDI",Three Queens
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5415&ext=hls&x=1782147911&k=2d659b425b45af6c9d36369271f3ece01c13762a7548f49f662a4f4fa96d071a&sc=5415
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="TV VIDIDI",Zona Terapi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9714&ext=hls&x=1782147911&k=855679c2c4f26559d70ef7a03af4aff73185ae153b6bbb6847136f1f9b4d7374&sc=9714
-#EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/201c5001aa8f3cfce49b34c4855e3488575.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 19:00 WIB] [Filipina MPBL] Quezon Huskers vs Abra Weavers [Zhubo]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5377297_1.m3u8?auth_key=1782223473-0-0-9543623ecca9f0f646671097cdebdfc7
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9713&ext=hls&x=1782148741&k=99b64c79a7895beb8b6b508a736903cdc7bf456eba27f2d9f540069f53cec48d&sc=9713
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2029c55f446de1b75687b5ba03c76056040.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 20:00 WIB] [INT CF] AIK vs Kalmar [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5475236_1.m3u8?auth_key=1782223473-0-0-5b2da437373990ae67dc0417046fa3db
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5475236_1.m3u8?auth_key=1782224313-0-0-5b3a57cfe74babb7f901c7fef687d880
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [Bad Homburg Open] Day 2 | Bad Homburg Open
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5768,40 +5782,40 @@ https://bonetvbumper.ahmadadityaberdikari.workers.dev/bokep.m3u8
 https://bonetvbumper.ahmadadityaberdikari.workers.dev/bokep.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Belgium vs IR Iran (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782140001-0-0-d72f2f6d0e5dbed664d81c902414d42d
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782141081-0-0-985f2e37dc319cedc21cb5edef2b13a2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Belgium vs IR Iran (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782140001-0-0-abc5344d3d8821ad3334947c8f4d11b9
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782141081-0-0-513571c72065622574b276293ba19aca
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Ecuador vs Curacao (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782140001-0-0-401aedb3972d70bdb54a0ca72f95bbb2
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782141081-0-0-cc91dfa3665fcd0c9a42e39a570f7d63
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Ecuador vs Curacao (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782140001-0-0-48ff8efbfc9f362476bd1cadf0d518de
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782141081-0-0-8e4c2a76ee67567c6bc51f2bcb17e501
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - New Zealand vs Egypt (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782139281-0-0-c5f6c6866007958f035308b5dbb054da
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782140361-0-0-83798e71de1ec2d326d18f5fc6da850a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - New Zealand vs Egypt (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782139281-0-0-4ba10acfee394afcecf2dbbbd0ab7b6c
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782140361-0-0-47cf2ff3579cf92eaee7b80db02001a2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Spain vs Saudi Arabia (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782140001-0-0-8216282366f744b99417407837207143
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782141081-0-0-ba0acd82d70a8c3e4e69570bcf8033d6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Spain vs Saudi Arabia (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782140001-0-0-612fa399fd24e4f56e4412c54c334af8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782141081-0-0-8f8d32da92835474525a08f1c5684025
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Tunisia vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782140001-0-0-bc3a048f8cfc7aac5d9bf717759d41a0
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782141081-0-0-31d7f0111b3e4edd5924a4a5ef677283
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Tunisia vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782140001-0-0-1efa4abc9a819efec026d0f3d938e548
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782141081-0-0-950fd34e73f062d65138803831cac6e7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Uruguay vs Cabo Verde (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782140001-0-0-e7c2e59c54ccde68f0ee66aca56a2aa6
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782141081-0-0-fa5dae64ceaafab2d3e9e1bf958e6a18
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Uruguay vs Cabo Verde (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782140001-0-0-68bfe9002f19e6f56d08d9d48c6b5140
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782141081-0-0-2840c188b6101bcc3e31aab2c9178f6c
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/uj5gvucchnv89i.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Ligi kuu Bara | (20.00 WIB) KMC vs Namungo (BELUM MULAI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/w9dzpabg4llnsb.png" group-title="🔔JADWAL LIVE (UPCOMING)",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[UPCOMING] Ligi kuu Bara | (20.00 WIB) Mtibwa Sugar vs Simba (BELUM MULAI)
@@ -5878,12 +5892,12 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="🔔JADWAL LIVE (UPCOMING)",[ UPCOMING] [15:00 WIB] [FORMULA 1] Formula 1
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="CHANNEL |  MOTOGP & F1",[ UPCOMING] [15:00 WIB] [FORMULA 1] Formula 1
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" group-title="CHANNEL |  MOTOGP & F1",Motorsports - [18:15 WIB] MXGP (MX2) - Race
 https://601.formaturamaxi.com.br/mxgp.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yY6B2pkv/F1.png" group-title="CHANNEL |  MOTOGP & F1",Motorsports - [23:00 WIB] Indy NXT - Race
 https://daffodil.formaturamaxi.com.br/tsn.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.img4every1.org/league/formula-1-live-stream/logo.webp" group-title="CHANNEL |  MOTOGP & F1",[ UPCOMING] [15:00 WIB] [FORMULA 1] Formula 1
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/0cc49f3f48c86ed0c00a31c96962ecf3.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 20:00 WIB] [International Club Friendly] AIK vs Kalmar [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
@@ -5893,92 +5907,92 @@ https://stream.yultech.online/hls/live/sd-6MwdqBeqrGN9hxwHWM/index.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=9de74a5786fee53a80a81f264e50ef40&wsABSTime=1782180359
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=ac6a93f67a0f5a2620e01d1325879b11&wsABSTime=1782181206
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gh6nkr6od/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - AIK SOLNA VS KALMAR [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782137083-0-0-d1bd863dcb27fd696ecab0d4bbabc81d
+https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782137705-0-0-a8c4d6cc4fedb02910375e08ecef93a6
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9wh9pndryox/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - DEFENSOR SPORTING R VS DEPORTIVO MALDONADO R [URU RL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=f44aa9a7a9726ea7e0ed28c1b003d00f&wsABSTime=1782180284
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=7b3c8dcb94dab69facc9c5dd3ca2265d&wsABSTime=1782180906
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhjk7vql07/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - GAREJI SAGAREJO VS ODISHI 1919 [GEO D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=4248624345acdb170e6b5d1841d948ad&wsABSTime=1782180283
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=8f8e3910b4214c0d82987a0a556b4129&wsABSTime=1782180906
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwnykqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - MERANI MARTVILI VS FC GORI [GEO D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=69b6edda2b7d1dd7e5bc62f05cfaed92&wsABSTime=1782180283
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=b74c0833ce0ce54a90812c3b10a6ce73&wsABSTime=1782180906
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhdk4jqvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:00 WIB - RISALEH TOURA VS AL IRSHAD CHHIM [LBN D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=acc475d5c71e19e76ba4c86094d4e2e8&wsABSTime=1782180283
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=a5c9f4f0904a5305d83325ed3c3c8547&wsABSTime=1782180906
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dn1m1gh450xmoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - FC KOLKHETI POTI VS SHTURMI [GEO D2]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=ba9080b2900e59bc6579bbe9952dab1c&wsABSTime=1782180284
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=2a4306b18589377db0d8937054018198&wsABSTime=1782180907
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/318q66h4o7zqo9j/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - NU CONCEPCION VS NU DEPORTES IQUIQUE [CHI WD1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=01dcb341cf7e509439a23e6fe090888b&wsABSTime=1782180286
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=08803f7e3da2160bf62b87e540453c72&wsABSTime=1782180907
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhgx7kryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - TALLINNA JK LEGION VS PARNU JK VAPRUS II [EST D3]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=0366300d4e709aa5096eade18184ce33&wsABSTime=1782180286
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=03c130e6733a43ca9b0ccd89d57585f9&wsABSTime=1782180907
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gh6ger6od/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - TORPEDO MOSCOW VS VOLGA ULYANOVSK [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=afb94e1c101d5157680c9cf786964714&wsABSTime=1782180286
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=74b9f56b2d0aa88076d1eb6f3a0127cb&wsABSTime=1782180908
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh19o0m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - ALAY OSH VS OSHMU ALDIER [KYR TL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=739ebc1306576dc40cd2b5e60094780a&wsABSTime=1782180287
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=92a894b6de2ec96d66be8fcd984a692e&wsABSTime=1782180908
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9wheo3gryox/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - FC ASIA TALAS VS MURAS UNITED FC [KYR TL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=ff1b471751df390f7f8dfb58b410875c&wsABSTime=1782180286
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=9401f45ee9b87c9b0c62bb2b79e23c30&wsABSTime=1782180908
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh1667m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:30 WIB - FC ASIAGOAL VS FC BISHKEK CITY [KYR TL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=ef35d1d2a3810d545f01c53a29246253&wsABSTime=1782180286
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=6f57682cbc7593fd4af2847a1a8c0151&wsABSTime=1782180908
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/y0or5jhlv86qwzv/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - AALESUND FK B VS RANHEIM B [NOR D4]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=d89531017f62c4b5be5caa5b7717e862&wsABSTime=1782180289
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=7d97ec7857777ff4e862566e534d01f1&wsABSTime=1782180910
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/kn54qllhgynqvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - DILA GORI VS FC METALURGI RUSTAVI [GEO D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001782137087-0-0-178211843143b0ed074f490cc2d57a03
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001782137709-0-0-3e789647bf12048a773a0f6e13590cf5
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/p3glrw7hdv6qdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - ODD GRENLAND 2 VS FLEKKEROY IL [NOR D4]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=4c85556445240770e60687187f2aa744&wsABSTime=1782180288
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=f0cce9675699e76acb8d36876e8e6129&wsABSTime=1782180910
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhe5xkqvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - RIGAS FS VS OGRE UNITED [LAT D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001782137087-0-0-1ab852ccc713cac0eb0bfd7676f59f12
+https://live3.procdnlive.com/livecdn/channel10.flv?auth_key=3000001782137709-0-0-14d85d5851780b3a7c1b8b90115b3b48
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlh9j0gryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - WELWALO ADIGRAT VS HADIYA HOSSANA [ETH PR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=e6ba5b61bc643a16fe2de560a923e116&wsABSTime=1782180288
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=0b21c4a36d6051ca01d99c6d5713139d&wsABSTime=1782180909
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="SPORTS FHD",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="SPORTS FHD",AS3 Sport TV (1080p)
@@ -6441,6 +6455,12 @@ http://193.47.62.42/hls/ayyyyQQ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/364_1h8asp945qp.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:00 WIB] 22/06 AIK Solna vs Kalmar (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://auto.cdnfaster.live/live/sd-6MwdqBeqrGN9hxwGpc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782136623.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:54 WIB] 22/06 Thuy Si vs Bosnia (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TO5A/index.m3u8?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
+#EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782136623.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:54 WIB] 22/06 Thuy Si vs Bosnia (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TO5A.flv?expire=1891408380&sign=8bed1a7b9dde1174e255230411817036
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f066ebd73032bfa49bcb1df5741aa12d.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:00 WIB] 22/06 CLB Merani Martvili vs Gori (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.apusport.com/live/82054853.m3u8
@@ -6449,40 +6469,40 @@ https://live05.apusport.com/live/82054853.m3u8
 https://live05.apusport.com/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Belgium vs IR Iran (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782140001-0-0-d72f2f6d0e5dbed664d81c902414d42d
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782141081-0-0-985f2e37dc319cedc21cb5edef2b13a2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Belgium vs IR Iran (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782140001-0-0-abc5344d3d8821ad3334947c8f4d11b9
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782141081-0-0-513571c72065622574b276293ba19aca
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Ecuador vs Curacao (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782140001-0-0-401aedb3972d70bdb54a0ca72f95bbb2
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782141081-0-0-cc91dfa3665fcd0c9a42e39a570f7d63
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Ecuador vs Curacao (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782140001-0-0-48ff8efbfc9f362476bd1cadf0d518de
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782141081-0-0-8e4c2a76ee67567c6bc51f2bcb17e501
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - New Zealand vs Egypt (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782139281-0-0-c5f6c6866007958f035308b5dbb054da
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782140361-0-0-83798e71de1ec2d326d18f5fc6da850a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - New Zealand vs Egypt (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782139281-0-0-4ba10acfee394afcecf2dbbbd0ab7b6c
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782140361-0-0-47cf2ff3579cf92eaee7b80db02001a2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Spain vs Saudi Arabia (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782140001-0-0-8216282366f744b99417407837207143
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782141081-0-0-ba0acd82d70a8c3e4e69570bcf8033d6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Spain vs Saudi Arabia (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782140001-0-0-612fa399fd24e4f56e4412c54c334af8
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782141081-0-0-8f8d32da92835474525a08f1c5684025
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Tunisia vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782140001-0-0-bc3a048f8cfc7aac5d9bf717759d41a0
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782141081-0-0-31d7f0111b3e4edd5924a4a5ef677283
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Tunisia vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782140001-0-0-1efa4abc9a819efec026d0f3d938e548
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782141081-0-0-950fd34e73f062d65138803831cac6e7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Uruguay vs Cabo Verde (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782140001-0-0-e7c2e59c54ccde68f0ee66aca56a2aa6
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782141081-0-0-fa5dae64ceaafab2d3e9e1bf958e6a18
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260617/d95d17c18f0cb2aa0ee718a73bc8a432.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Uruguay vs Cabo Verde (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782140001-0-0-68bfe9002f19e6f56d08d9d48c6b5140
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782141081-0-0-2840c188b6101bcc3e31aab2c9178f6c
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/x1590.png" group-title="USA TV",beIN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="USA TV",Fox Sports 1
