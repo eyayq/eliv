@@ -1,24 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [09:59 WIB 22/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [09:59 WIB 22/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [10:06 WIB 22/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [10:06 WIB 22/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 22/06/26] New Zealand vs Egypt [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 22/06/26] New Zealand vs Egypt [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 22/06/26] New Zealand vs Egypt [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 22/06/26] New Zealand vs Egypt [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 22/06/26] New Zealand vs Egypt [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 22/06/26] New Zealand vs Egypt [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3e/Logo_Li%C3%AAn_%C4%91o%C3%A0n_b%C3%B3ng_%C4%91%C3%A1_M%C3%B4ng_C%E1%BB%95.png" group-title="Ngoại Hạng Mông Cổ",[15:00 WIB 22/06/26] Hunters vs Khoromkhon [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
