@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 02:42:04 WIB 23-06-2026
-# 🔄 Total Channels: 4725
+# ⏰ Latest Updated: 02:48:17 WIB 23-06-2026
+# 🔄 Total Channels: 4731
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [02:42:04 WIB 23-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [02:48:17 WIB 23-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -13244,6 +13244,30 @@ https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F57787_1%3A22jx3pdx23.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",08:00   23/06 Flatirons Rush vs Atletico Union  KAKA flv Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png" group-title="Live Event: Hội quán",10:00 23/06 Jordan vs Algeria FHD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png" group-title="Live Event: Hội quán",10:00 23/06 Jordan vs Algeria HD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png" group-title="Live Event: Hội quán",10:00 23/06 Jordan vs Algeria SD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png" group-title="Live Event: Hội quán",10:00 23/06 Jordan vs Algeria FHD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png" group-title="Live Event: Hội quán",10:00 23/06 Jordan vs Algeria HD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/960px-Flag_of_Jordan.svg.png" group-title="Live Event: Hội quán",10:00 23/06 Jordan vs Algeria SD Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan.live/
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a54769d9dca7f2ac5a2e1b261c868993.png!w80" group-title="Live Event: Colalive",10:00 23/06 Jordan vs Algeria Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.apusport.com/live/08552895.m3u8
