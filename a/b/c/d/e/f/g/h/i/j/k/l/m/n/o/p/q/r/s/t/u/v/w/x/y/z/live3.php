@@ -1,27 +1,29 @@
 #EXTM3U
-# Generated Tue Jun 23 06:30:51 2026
+# Generated Tue Jun 23 06:36:49 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 23-06-2026 13:30:42 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 23-06-2026 13:36:37 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Xiamen Feilu😈 [🆚] 😈Hubei Istar [89m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Shanghai Second😈 [🆚] 😈Dalian Yingbo B [83m]😈📁
+https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4513055
+#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Xiamen Feilu😈 [🆚] 😈Hubei Istar [83m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4513060
-#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Qingdao Red Lions😈 [🆚] 😈Dalian Kewei [89m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Qingdao Red Lions😈 [🆚] 😈Dalian Kewei [83m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4513064
-#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Guangdong Mingtu😈 [🆚] 😈Guizhou Guiyang Athletic [299m]😈📁
+#EXTINF:-1 group-title="📁😈 Chinese Football League 2 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",📁😈Guangdong Mingtu😈 [🆚] 😈Guizhou Guiyang Athletic [293m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4513069
-#EXTINF:-1 group-title="📁😈 Finnish Veikkausliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png",📁😈Vaasa VPS😈 [🆚] 😈AC Oulu [509m]😈📁
+#EXTINF:-1 group-title="📁😈 Finnish Veikkausliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png",📁😈Vaasa VPS😈 [🆚] 😈AC Oulu [503m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4468124
-#EXTINF:-1 group-title="📁😈 Finnish Veikkausliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png",📁😈Inter Turku😈 [🆚] 😈SJK Seinajoen [569m]😈📁
+#EXTINF:-1 group-title="📁😈 Finnish Veikkausliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png",📁😈Inter Turku😈 [🆚] 😈SJK Seinajoen [563m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4468125
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Portugal😈 [🆚] 😈Uzbekistan [629m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Portugal😈 [🆚] 😈Uzbekistan [623m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460933
-#EXTINF:-1 group-title="📁😈 Georgia Erovnuli Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png",📁😈Dinamo Tbilisi😈 [🆚] 😈Dinamo Batumi [629m]😈📁
+#EXTINF:-1 group-title="📁😈 Georgia Erovnuli Liga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png",📁😈Dinamo Tbilisi😈 [🆚] 😈Dinamo Batumi [623m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4479558
-#EXTINF:-1 group-title="📁😈 Chilean Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d63f2665f489d5a1c0a059feb0b0d0e4.png",📁😈Coquimbo Unido😈 [🆚] 😈Deportes Limache [749m]😈📁
+#EXTINF:-1 group-title="📁😈 Chilean Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d63f2665f489d5a1c0a059feb0b0d0e4.png",📁😈Coquimbo Unido😈 [🆚] 😈Deportes Limache [743m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4552693
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈England😈 [🆚] 😈Ghana [809m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈England😈 [🆚] 😈Ghana [803m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460936
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Panama😈 [🆚] 😈Croatia [989m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Panama😈 [🆚] 😈Croatia [983m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460977
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Colombia😈 [🆚] 😈Democratic Republic of the Congo [1169m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Colombia😈 [🆚] 😈Democratic Republic of the Congo [1163m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460974
