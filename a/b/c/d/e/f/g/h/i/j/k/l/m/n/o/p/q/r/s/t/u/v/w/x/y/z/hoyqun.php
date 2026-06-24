@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:56 WIB 24/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:56 WIB 24/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [18:05 WIB 24/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [18:05 WIB 24/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/481.png" group-title="Northern NSW NPL",[17:00 WIB 24/06/26] Kahibah vs Adamstown Rosebuds [FHD] [LIVE]
@@ -29,22 +29,22 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:00 WIB 24/06/26] Bulgaria vs Ý [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[18:30 WIB 24/06/26] Shenzhen 2028 vs Langfang Glory City [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[18:30 WIB 24/06/26] Shenzhen 2028 vs Langfang Glory City [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[18:30 WIB 24/06/26] Shenzhen 2028 vs Langfang Glory City [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[18:30 WIB 24/06/26] Shenzhen 2028 vs Langfang Glory City [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[18:30 WIB 24/06/26] Shenzhen 2028 vs Langfang Glory City [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[18:30 WIB 24/06/26] Shenzhen 2028 vs Langfang Glory City [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:30 WIB 24/06/26] Serbia vs Nhật Bản [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:30 WIB 24/06/26] Serbia vs Nhật Bản [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:30 WIB 24/06/26] Serbia vs Nhật Bản [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:30 WIB 24/06/26] Serbia vs Nhật Bản [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:30 WIB 24/06/26] Serbia vs Nhật Bản [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:30 WIB 24/06/26] Serbia vs Nhật Bản [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hXnsCK.png" group-title="Ngoại hạng Kazakhstan",[20:00 WIB 24/06/26]  Zhenis Astana vs Kaisar Kyzylorda [FHD] [NANTIKAN]
@@ -307,6 +307,15 @@ https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/245.png" group-title="Ykkönen",[23:00 WIB 25/06/26] FC jazz vs Tampere United [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[03:00 WIB 26/06/26] Curaçao vs Ivory Coast [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[03:00 WIB 26/06/26] Curaçao vs Ivory Coast [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[03:00 WIB 26/06/26] Curaçao vs Ivory Coast [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/909.png" group-title="MLS Next Pro",[09:00 WIB 29/06/26] Los Angeles FC II vs Houston Dynamo FC II [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
