@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [10.13 WIB 24/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [10.19 WIB 24/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[LIVE 09:00 WIB 24/06/26] Colombia vs Congo DR",[LIVE 09:00 WIB 24/06/26] Colombia vs Congo DR (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[LIVE 09:00 WIB 24/06/26] Colombia vs Congo DR",[LIVE 09:00 WIB 24/06/26] Colombia vs Congo DR (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 15j 46m 02:00 WIB 25/06/26] Switzerland vs Canada",[UPCOMING 15j 46m 02:00 WIB 25/06/26] Switzerland vs Canada (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 15j 40m 02:00 WIB 25/06/26] Switzerland vs Canada",[UPCOMING 15j 40m 02:00 WIB 25/06/26] Switzerland vs Canada (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 15j 46m 02:00 WIB 25/06/26] Switzerland vs Canada",[UPCOMING 15j 46m 02:00 WIB 25/06/26] Switzerland vs Canada (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 15j 40m 02:00 WIB 25/06/26] Switzerland vs Canada",[UPCOMING 15j 40m 02:00 WIB 25/06/26] Switzerland vs Canada (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 18j 46m 05:00 WIB 25/06/26] Scotland vs Brazil",[UPCOMING 18j 46m 05:00 WIB 25/06/26] Scotland vs Brazil (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 18j 40m 05:00 WIB 25/06/26] Scotland vs Brazil",[UPCOMING 18j 40m 05:00 WIB 25/06/26] Scotland vs Brazil (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 18j 46m 05:00 WIB 25/06/26] Scotland vs Brazil",[UPCOMING 18j 46m 05:00 WIB 25/06/26] Scotland vs Brazil (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 18j 40m 05:00 WIB 25/06/26] Scotland vs Brazil",[UPCOMING 18j 40m 05:00 WIB 25/06/26] Scotland vs Brazil (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
