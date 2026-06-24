@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [08:31 WIB 24/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [08:31 WIB 24/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [08:37 WIB 24/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [08:37 WIB 24/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/267.png" group-title="Copa Chile",[07:00 WIB 24/06/26] Palestino vs A. Italiano [FHD] [LIVE]
@@ -11,22 +11,22 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/267.png" group-title="Copa Chile",[07:00 WIB 24/06/26] Palestino vs A. Italiano [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[09:00 WIB 24/06/26] Colombia vs Congo DR [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[15:00 WIB 24/06/26] Deren vs Central Stallions [FHD] [NANTIKAN]
