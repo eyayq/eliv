@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:14 WIB 25/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:14 WIB 25/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:20 WIB 25/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:20 WIB 25/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/V.League_1_new_logo.svg" group-title="V.league",[16:00 WIB 25/06/26] Ha Noi 2 W vs Ho Chi Minh W [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[16:30 WIB 25/06/26] Đài Loan vs New Zealand [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[19:00 WIB 25/06/26] Sport Academy Kairat vs Khan Tengri [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3e/Logo_Li%C3%AAn_%C4%91o%C3%A0n_b%C3%B3ng_%C4%91%C3%A1_M%C3%B4ng_C%E1%BB%95.png" group-title="Ngoại Hạng Mông Cổ",[18:00 WIB 25/06/26] Khoromkhon vs Ulaangom City [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[19:00 WIB 25/06/26] Sport Academy Kairat vs Khan Tengri [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3e/Logo_Li%C3%AAn_%C4%91o%C3%A0n_b%C3%B3ng_%C4%91%C3%A1_M%C3%B4ng_C%E1%BB%95.png" group-title="Ngoại Hạng Mông Cổ",[18:00 WIB 25/06/26] Khoromkhon vs Ulaangom City [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/388.png" group-title="1. Division",[19:00 WIB 25/06/26] Sport Academy Kairat vs Khan Tengri [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3e/Logo_Li%C3%AAn_%C4%91o%C3%A0n_b%C3%B3ng_%C4%91%C3%A1_M%C3%B4ng_C%E1%BB%95.png" group-title="Ngoại Hạng Mông Cổ",[18:00 WIB 25/06/26] Khoromkhon vs Ulaangom City [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[19:30 WIB 25/06/26] Bahrain vs Kazakhstan [FHD] [NANTIKAN]
@@ -567,13 +567,4 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[23:00 WIB 27/06/26] Gnistan vs VPS [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/909.png" group-title="MLS Next Pro",[09:00 WIB 29/06/26] Los Angeles FC II vs Houston Dynamo FC II [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/909.png" group-title="MLS Next Pro",[09:00 WIB 29/06/26] Los Angeles FC II vs Houston Dynamo FC II [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/909.png" group-title="MLS Next Pro",[09:00 WIB 29/06/26] Los Angeles FC II vs Houston Dynamo FC II [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
