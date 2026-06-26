@@ -1,23 +1,23 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:59 WIB 26/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:59 WIB 26/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:05 WIB 26/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:05 WIB 26/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/482.png" group-title="Queensland NPL",[16:30 WIB 26/06/26] Rochedale Rovers vs Gold Coast Knights [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/482.png" group-title="Queensland NPL",[16:30 WIB 26/06/26] Rochedale Rovers vs Gold Coast Knights [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/482.png" group-title="Queensland NPL",[16:30 WIB 26/06/26] Rochedale Rovers vs Gold Coast Knights [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/482.png" group-title="Queensland NPL",[16:30 WIB 26/06/26] Rochedale Rovers vs Gold Coast Knights [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/482.png" group-title="Queensland NPL",[16:30 WIB 26/06/26] Rochedale Rovers vs Gold Coast Knights [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/482.png" group-title="Queensland NPL",[16:30 WIB 26/06/26] Rochedale Rovers vs Gold Coast Knights [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[16:30 WIB 26/06/26] Qatar vs Hàn Quốc [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[16:30 WIB 26/06/26] Qatar vs Hàn Quốc [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[16:30 WIB 26/06/26] Qatar vs Hàn Quốc [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[16:30 WIB 26/06/26] Qatar vs Hàn Quốc [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[16:30 WIB 26/06/26] Qatar vs Hàn Quốc [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[16:30 WIB 26/06/26] Qatar vs Hàn Quốc [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/194.png" group-title="South Australia NPL",[17:30 WIB 26/06/26] West Torrens Birkalla vs Sturt Lions [FHD] [NANTIKAN]
