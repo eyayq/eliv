@@ -1,75 +1,75 @@
 #EXTM3U
-# Generated Fri Jun 26 02:22:51 2026
+# Generated Fri Jun 26 02:28:44 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Friday 26-06-2026 09:22:44 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Friday 26-06-2026 09:28:33 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
-https://tv.streamhy.com/live/5006284.m3u8?expire=1782451655&sign=834960da9f79d9e03c2bd9d257f8e3d1
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
-https://tv.streamhy.com/live/5006387.m3u8?expire=1782452872&sign=eca5547dec6fabd52e60e9745cd02bf8
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
-https://tv.streamhy.com/live/5006425.m3u8?expire=1782454745&sign=14ef655050adcb25d7ba77cdc603d10e
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
-https://tv.streamhy.com/live/5005672.m3u8?expire=1782452958&sign=4dfe6e308b8869b1b344949c79334ccf
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
-https://tv.streamhy.com/live/5005900.m3u8?expire=1782454520&sign=beb9a46054bca86be9dbfe59b21c322d
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
-https://tv.streamhy.com/live/5006440.m3u8?expire=1782451506&sign=ac4806102bdde0bb5e5a62ca4c8e6e91
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
-https://tv.streamhy.com/live/5005342.m3u8?expire=1782451584&sign=34fd6ea0413502ea7f2fc3e4cccf57fd
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
 https://tv.streamhy.com/live/5005977.m3u8?expire=1782454805&sign=6a53de50de3fac0c6f7f4cf642e7ad03
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
-https://tv.streamhy.com/live/5005897.m3u8?expire=1782454686&sign=f196ac43f82f123b4fda40484feae666
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
-https://tv.streamhy.com/live/5005343.m3u8?expire=1782454774&sign=acfaa961189d17f6844436921a056e62
+https://tv.streamhy.com/live/5005672.m3u8?expire=1782452958&sign=4dfe6e308b8869b1b344949c79334ccf
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
 https://tv.streamhy.com/live/5006435.m3u8?expire=1782454417&sign=b1c59b17ad8d954a330695098452b8cf
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
-https://tv.streamhy.com/live/5005903.m3u8?expire=1782451492&sign=a873e71770767cbc3e937d07e8bf6009
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
-https://tv.streamhy.com/live/5005891.m3u8?expire=1782454939&sign=3a65a8448ec948c877c674df1703b103
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
-https://tv.streamhy.com/live/5005331.m3u8?expire=1782451386&sign=e637d35b09b99771d4ad7a1f8bb30534
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
-https://tv.streamhy.com/live/5006438.m3u8?expire=1782451477&sign=3d23a90870356f03803bb46290849fd6
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
-https://tv.streamhy.com/live/5005350.m3u8?expire=1782454748&sign=7f70805ce901b3b573fc886910e9d92e
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
-https://tv.streamhy.com/live/5006436.m3u8?expire=1782451370&sign=ffeaaf16c8d84083794b5a58c5ba918f
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
-https://tv.streamhy.com/live/5005890.m3u8?expire=1782451501&sign=997432bd7edd062ce20de2d58c4a9036
+https://tv.streamhy.com/live/5006387.m3u8?expire=1782452872&sign=eca5547dec6fabd52e60e9745cd02bf8
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
+https://tv.streamhy.com/live/5005903.m3u8?expire=1782455092&sign=2c2f19bf82d00a223c2b983d303fd7f1
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
+https://tv.streamhy.com/live/5005900.m3u8?expire=1782454520&sign=beb9a46054bca86be9dbfe59b21c322d
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
+https://tv.streamhy.com/live/5005897.m3u8?expire=1782454686&sign=f196ac43f82f123b4fda40484feae666
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
+https://tv.streamhy.com/live/5006284.m3u8?expire=1782455255&sign=bac8d41801843fd6d932d1066aa89e09
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
+https://tv.streamhy.com/live/5005343.m3u8?expire=1782454774&sign=acfaa961189d17f6844436921a056e62
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
+https://tv.streamhy.com/live/5006425.m3u8?expire=1782454745&sign=14ef655050adcb25d7ba77cdc603d10e
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
+https://tv.streamhy.com/live/5005342.m3u8?expire=1782455185&sign=2eed017b705b291dedd53c54d24d436e
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Turkiye😈 [🆚] 😈USA [LIVE]😈📁
+https://tv.streamhy.com/live/5006440.m3u8?expire=1782455107&sign=1b918291c4c1d7a85c28f834b20d2010
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
 https://tv.streamhy.com/live/5006068.m3u8?expire=1782452074&sign=23a843f54be97438c15219b5d5e9a17b
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
+https://tv.streamhy.com/live/5005331.m3u8?expire=1782454986&sign=696e80d14e738f8101b7742617e8cf89
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
+https://tv.streamhy.com/live/5005890.m3u8?expire=1782455102&sign=0383862af7a74b63c967ce266b98c0d7
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
 https://tv.streamhy.com/live/5006389.m3u8?expire=1782454372&sign=0b3bd3d65ed948cd847b0e716bae464f
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
 https://tv.streamhy.com/live/5005885.m3u8?expire=1782454908&sign=d49cb659adaf335321a458208240fb96
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
-https://tv.streamhy.com/live/5005881.m3u8?expire=1782451444&sign=148a1f50f71cf46617d5573d852f053e
+https://tv.streamhy.com/live/5005881.m3u8?expire=1782455045&sign=3f15d856a832a4c121280ea5dfa66f9f
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
-https://tv.streamhy.com/live/5006437.m3u8?expire=1782451529&sign=6673fcc47a8fe8ec90d3d2d5581a3df7
+https://tv.streamhy.com/live/5005350.m3u8?expire=1782454748&sign=7f70805ce901b3b573fc886910e9d92e
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
-https://tv.streamhy.com/live/5005886.m3u8?expire=1782451375&sign=e4fa7eea3c3017436e291846ba3e198a
-#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Sydney FC Youth😈 [🆚] 😈Sydney United 58 FC [427m]😈📁
+https://tv.streamhy.com/live/5005886.m3u8?expire=1782454976&sign=748e9094e6da3f6306ab0b16cceb8073
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
+https://tv.streamhy.com/live/5006438.m3u8?expire=1782455079&sign=da2943a5865e798cc0f7f4d12bbc21ac
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
+https://tv.streamhy.com/live/5006437.m3u8?expire=1782455132&sign=cee77b59ac6373d5fa2ac5ef9df57d3c
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
+https://tv.streamhy.com/live/5005891.m3u8?expire=1782454939&sign=3a65a8448ec948c877c674df1703b103
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Paraguay😈 [🆚] 😈Australia [LIVE]😈📁
+https://tv.streamhy.com/live/5006436.m3u8?expire=1782454973&sign=c04d45c49bf550e4cb724076936b49fc
+#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Sydney FC Youth😈 [🆚] 😈Sydney United 58 FC [421m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4473461
-#EXTINF:-1 group-title="📁😈 South Australia National Premier Leagues 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/077498aa221410ff314434a011e8d65f.png",📁😈Croydon Kings😈 [🆚] 😈Adelaide United FC Youth [457m]😈📁
+#EXTINF:-1 group-title="📁😈 South Australia National Premier Leagues 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/077498aa221410ff314434a011e8d65f.png",📁😈Croydon Kings😈 [🆚] 😈Adelaide United FC Youth [451m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4466958
-#EXTINF:-1 group-title="📁😈 South Australia National Premier Leagues 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/077498aa221410ff314434a011e8d65f.png",📁😈Adelaide Comets FC😈 [🆚] 😈Adelaide City FC [517m]😈📁
+#EXTINF:-1 group-title="📁😈 South Australia National Premier Leagues 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/077498aa221410ff314434a011e8d65f.png",📁😈Adelaide Comets FC😈 [🆚] 😈Adelaide City FC [511m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4466960
-#EXTINF:-1 group-title="📁😈 Georgia Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ba1ac87bcf05d4971d3fff7fd2dda9bf.png",📁😈Gardabani😈 [🆚] 😈Iberia Tbilisi [637m]😈📁
+#EXTINF:-1 group-title="📁😈 Georgia Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/ba1ac87bcf05d4971d3fff7fd2dda9bf.png",📁😈Gardabani😈 [🆚] 😈Iberia Tbilisi [631m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4556458
-#EXTINF:-1 group-title="📁😈 Latvian Higher League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/71ec56470b1f954a153d98413368256e.png",📁😈FK Liepaja😈 [🆚] 😈Rigas Futbola Skola [817m]😈📁
+#EXTINF:-1 group-title="📁😈 Latvian Higher League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/71ec56470b1f954a153d98413368256e.png",📁😈FK Liepaja😈 [🆚] 😈Rigas Futbola Skola [811m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4495122
-#EXTINF:-1 group-title="📁😈 Belarusian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png",📁😈Arsenal Dzerzhinsk😈 [🆚] 😈FC Gomel [877m]😈📁
+#EXTINF:-1 group-title="📁😈 Belarusian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png",📁😈Arsenal Dzerzhinsk😈 [🆚] 😈FC Gomel [871m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4502847
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Norway😈 [🆚] 😈France [997m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Norway😈 [🆚] 😈France [991m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460928
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Uruguay😈 [🆚] 😈Spain [1297m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Uruguay😈 [🆚] 😈Spain [1291m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460925
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈New Zealand😈 [🆚] 😈Belgium [1477m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈New Zealand😈 [🆚] 😈Belgium [1471m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4460922
-#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Western Sydney Wanderers Youth😈 [🆚] 😈Manly United [1597m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Western Sydney Wanderers Youth😈 [🆚] 😈Manly United [1591m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4473453
-#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Spirit FC😈 [🆚] 😈Wollongong Wolves [1747m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Spirit FC😈 [🆚] 😈Wollongong Wolves [1741m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4473422
