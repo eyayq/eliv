@@ -1,24 +1,24 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:18 WIB 26/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:18 WIB 26/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:24 WIB 26/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:24 WIB 26/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/482.png" group-title="Queensland NPL",[16:30 WIB 26/06/26] Rochedale Rovers vs Gold Coast Knights [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/482.png" group-title="Queensland NPL",[16:30 WIB 26/06/26] Rochedale Rovers vs Gold Coast Knights [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/482.png" group-title="Queensland NPL",[16:30 WIB 26/06/26] Rochedale Rovers vs Gold Coast Knights [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[16:30 WIB 26/06/26] Qatar vs Hàn Quốc [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[16:30 WIB 26/06/26] Qatar vs Hàn Quốc [HD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://volleybox.net/media/upload/tournament_types/17490416418BTOG.png" group-title="AVC Nations Cup 2026",[16:30 WIB 26/06/26] Qatar vs Hàn Quốc [SD] [LIVE]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/194.png" group-title="South Australia NPL",[17:30 WIB 26/06/26] West Torrens Birkalla vs Sturt Lions [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
@@ -245,6 +245,15 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/481.png" group-title="Northern NSW NPL",[11:00 WIB 27/06/26] Charlestown City Blues vs Belmont Swansea [SD] [NANTIKAN]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[13:00 WIB 27/06/26] U18 Thái Lan vs U18 Philippin [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[13:00 WIB 27/06/26] U18 Thái Lan vs U18 Philippin [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[13:00 WIB 27/06/26] U18 Thái Lan vs U18 Philippin [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/481.png" group-title="Northern NSW NPL",[13:30 WIB 27/06/26] Valentine vs Lambton Jaffas [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
@@ -262,6 +271,15 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 27/06/26] Shanghai Second vs Qingdao Red Lions [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[16:00 WIB 27/06/26] U18 Việt Nam vs U18 Indonesia [FHD] [NANTIKAN]
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[16:00 WIB 27/06/26] U18 Việt Nam vs U18 Indonesia [HD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[16:00 WIB 27/06/26] U18 Việt Nam vs U18 Indonesia [SD] [NANTIKAN]
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:00 WIB 27/06/26] Shenyang Urban vs Shandong Luneng [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
