@@ -1,42 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [07:56 WIB 26/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [07:56 WIB 26/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [08:02 WIB 26/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [08:02 WIB 26/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Japan vs Sweden [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Japan vs Sweden [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Japan vs Sweden [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Japan vs Sweden [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Japan vs Sweden [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Japan vs Sweden [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Tunisia vs Netherlands [FHD] [LIVE]
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Tunisia vs Netherlands [HD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Tunisia vs Netherlands [SD] [LIVE]
-https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Tunisia vs Netherlands [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Tunisia vs Netherlands [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanchop/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[06:00 WIB 26/06/26] Tunisia vs Netherlands [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanchoptracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Serie_BKT_logo.svg" group-title="Serie B",[06:30 WIB 26/06/26] Cuiaba vs Londrina [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
