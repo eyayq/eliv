@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [17.30 WIB 27/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [17.36 WIB 27/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 10j 29m 04:00 WIB 28/06/26] Croatia vs Ghana",[UPCOMING 10j 29m 04:00 WIB 28/06/26] Croatia vs Ghana (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 10j 23m 04:00 WIB 28/06/26] Croatia vs Ghana",[UPCOMING 10j 23m 04:00 WIB 28/06/26] Croatia vs Ghana (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 10j 29m 04:00 WIB 28/06/26] Croatia vs Ghana",[UPCOMING 10j 29m 04:00 WIB 28/06/26] Croatia vs Ghana (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 10j 23m 04:00 WIB 28/06/26] Croatia vs Ghana",[UPCOMING 10j 23m 04:00 WIB 28/06/26] Croatia vs Ghana (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 10j 29m 04:00 WIB 28/06/26] Panama vs England",[UPCOMING 10j 29m 04:00 WIB 28/06/26] Panama vs England (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 10j 23m 04:00 WIB 28/06/26] Panama vs England",[UPCOMING 10j 23m 04:00 WIB 28/06/26] Panama vs England (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 12j 59m 06:30 WIB 28/06/26] Colombia vs Portugal",[UPCOMING 12j 59m 06:30 WIB 28/06/26] Colombia vs Portugal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 12j 53m 06:30 WIB 28/06/26] Colombia vs Portugal",[UPCOMING 12j 53m 06:30 WIB 28/06/26] Colombia vs Portugal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 12j 59m 06:30 WIB 28/06/26] Colombia vs Portugal",[UPCOMING 12j 59m 06:30 WIB 28/06/26] Colombia vs Portugal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 12j 53m 06:30 WIB 28/06/26] Colombia vs Portugal",[UPCOMING 12j 53m 06:30 WIB 28/06/26] Colombia vs Portugal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
