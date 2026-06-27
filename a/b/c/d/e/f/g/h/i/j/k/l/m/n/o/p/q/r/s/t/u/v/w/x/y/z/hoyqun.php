@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:08 WIB 27/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:08 WIB 27/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:14 WIB 27/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:14 WIB 27/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 27/06/26] Shanghai Second vs Qingdao Red Lions [FHD] [LIVE]
@@ -11,13 +11,13 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 27/06/26] Shanghai Second vs Qingdao Red Lions [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[16:00 WIB 27/06/26] U18 Việt Nam vs U18 Indonesia [FHD] [LIVE]
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[16:15 WIB 27/06/26] U18 Việt Nam vs U18 Indonesia [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[16:00 WIB 27/06/26] U18 Việt Nam vs U18 Indonesia [HD] [LIVE]
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[16:15 WIB 27/06/26] U18 Việt Nam vs U18 Indonesia [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[16:00 WIB 27/06/26] U18 Việt Nam vs U18 Indonesia [SD] [LIVE]
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[16:15 WIB 27/06/26] U18 Việt Nam vs U18 Indonesia [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:00 WIB 27/06/26] Shenyang Urban vs Shandong Luneng [FHD] [NANTIKAN]
