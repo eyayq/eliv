@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [14:35 WIB 27/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [14:35 WIB 27/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [14:41 WIB 27/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [14:41 WIB 27/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/481.png" group-title="Northern NSW NPL",[13:30 WIB 27/06/26] Valentine vs Lambton Jaffas [FHD] [LIVE]
@@ -11,13 +11,13 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/481.png" group-title="Northern NSW NPL",[13:30 WIB 27/06/26] Valentine vs Lambton Jaffas [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 27/06/26] Shanghai Second vs Qingdao Red Lions [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 27/06/26] Shanghai Second vs Qingdao Red Lions [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 27/06/26] Shanghai Second vs Qingdao Red Lions [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 27/06/26] Shanghai Second vs Qingdao Red Lions [HD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 27/06/26] Shanghai Second vs Qingdao Red Lions [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/929.png" group-title="League Two",[15:00 WIB 27/06/26] Shanghai Second vs Qingdao Red Lions [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/sports/2/icon.png" group-title="U18 Đông Nam Á 2026",[16:00 WIB 27/06/26] U18 Việt Nam vs U18 Indonesia [FHD] [NANTIKAN]
