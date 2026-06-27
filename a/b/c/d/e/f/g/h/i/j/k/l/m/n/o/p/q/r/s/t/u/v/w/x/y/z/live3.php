@@ -1,12 +1,12 @@
 #EXTM3U
-# Generated Sat Jun 27 08:05:07 2026
+# Generated Sat Jun 27 08:05:46 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Saturday 27-06-2026 15:04:54 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Saturday 27-06-2026 15:05:34 WIB😈📁
 http://phate.io/listen
 #EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈SD Raiders FC😈 [🆚] 😈St George City FA [LIVE]😈📁
-https://tv.streamhy.com/live/5005877.m3u8?expire=1782560908&sign=daaed2ad222084b95a8e77e0ba798966
-#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈SD Raiders FC😈 [🆚] 😈St George City FA [LIVE]😈📁
 https://tv.streamhy.com/live/5005882.m3u8?expire=1782558375&sign=96991ea1c0123b2dee0bd99350329676
+#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈SD Raiders FC😈 [🆚] 😈St George City FA [LIVE]😈📁
+https://tv.streamhy.com/live/5005877.m3u8?expire=1782560908&sign=daaed2ad222084b95a8e77e0ba798966
 #EXTINF:-1 group-title="📁😈 National Premier Leagues Victoria 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",📁😈Dandenong Thunder😈 [🆚] 😈Hume City [LIVE]😈📁
 https://tv.streamhy.com/live/5005394.m3u8?expire=1782558681&sign=40bd7917a06e27fbf50e0f1fc49d055b
 #EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈Spirit FC😈 [🆚] 😈Wollongong Wolves [LIVE]😈📁
@@ -15,7 +15,7 @@ https://tv.streamhy.com/live/5005883.m3u8?expire=1782558657&sign=c9778753781ba6f
 https://tv.streamhy.com/live/5006050.m3u8?expire=1782558607&sign=7a378330a25516d04f17dc72b1fcf09a
 #EXTINF:-1 group-title="📁😈 National Premier Leagues Victoria 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",📁😈Caroline Springs George Cross😈 [🆚] 😈Preston Lions [LIVE]😈📁
 https://tv.streamhy.com/live/5006482.m3u8?expire=1782560516&sign=d33fcc73543f02ade35fd240cc2ff41e
-#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈St George Saints😈 [🆚] 😈Sydney Olympic [25m]😈📁
+#EXTINF:-1 group-title="📁😈 Australia New South Wales Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/21df239119fe6638a523365947a2cfb2.png",📁😈St George Saints😈 [🆚] 😈Sydney Olympic [24m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4473411
 #EXTINF:-1 group-title="📁😈 Finnish Veikkausliiga 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png",📁😈Ilves Tampere😈 [🆚] 😈SJK Seinajoen [174m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4468128
