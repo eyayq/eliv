@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 06:24:14 WIB 27-06-2026
-# 🔄 Total Channels: 4642
+# ⏰ Latest Updated: 06:30:30 WIB 27-06-2026
+# 🔄 Total Channels: 4643
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [06:24:14 WIB 27-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [06:30:30 WIB 27-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -12426,6 +12426,13 @@ https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&ci
 http://line.ciao-ott.net/live/7VSUAK/S59UJY/1745180.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ATJoWp8_eiI_XOlh1TpoJzxzXCwlctNKSPpnjRNTug&s=10" group-title="CH 4K Piala Dunia 🏆",HKNOW 4K/UHD | BERAT
 http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465865.ts
+#EXTINF:-1 tvg-logo="https://img2.51gt3.com/rac/race/202502/d53ef561afe64e04984fdb4e3e0b980f.jpg" group-title="LIVE EVENT",13:25 WIB Ferrari Challenge Japan '26 | BEINSPORTS 3 | Gvision TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1TYyf2bQz4a5ISVPABC83V5XjSq3HeDumK2bYy6v1XQ&s=10" group-title="CH AUTO RESO Piala Dunia 🏆",Las Estrellas
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
