@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [00:30 WIB 29/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:30 WIB 29/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [00:36 WIB 29/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [00:36 WIB 29/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[22:00 WIB 28/06/26] Pháp vs Nhật Bản [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/493.png" group-title="UEFA U19 Championship",[00:00 WIB 29/06/26] Wales U19 vs Spain U19 [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[01:00 WIB 29/06/26] Ba Lan vs Argentina [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[01:00 WIB 29/06/26] Ba Lan vs Argentina [FHD] [LIVE]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[01:00 WIB 29/06/26] Ba Lan vs Argentina [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[01:00 WIB 29/06/26] Ba Lan vs Argentina [HD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[01:00 WIB 29/06/26] Ba Lan vs Argentina [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[01:00 WIB 29/06/26] Ba Lan vs Argentina [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[01:30 WIB 29/06/26] Serbia vs Mỹ [FHD] [NANTIKAN]
