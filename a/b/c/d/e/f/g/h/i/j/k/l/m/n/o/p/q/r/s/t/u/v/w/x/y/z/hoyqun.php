@@ -1,24 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:56 WIB 28/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:56 WIB 28/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:02 WIB 28/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:02 WIB 28/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:00 WIB 28/06/26] Trung Quốc vs Đức [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:00 WIB 28/06/26] Trung Quốc vs Đức [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:00 WIB 28/06/26] Trung Quốc vs Đức [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:00 WIB 28/06/26] Bulgaria vs Ukraine [FHD] [LIVE]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:00 WIB 28/06/26] Bulgaria vs Ukraine [HD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg" group-title="Nation League Men",[18:00 WIB 28/06/26] Bulgaria vs Ukraine [SD] [LIVE]
-https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:00 WIB 28/06/26] Dalian Zhixing vs Shanghai Shenhua [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
