@@ -1,32 +1,32 @@
 #EXTM3U
-# Generated Mon Jun 29 17:57:11 2026
+# Generated Mon Jun 29 17:58:42 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 30-06-2026 00:57:01 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Tuesday 30-06-2026 00:57:55 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
-https://tv.streamhy.com/live/5006284.m3u8?expire=1782767995&sign=0174268a1c78cc6329ea721605c22086
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
-https://tv.streamhy.com/live/5005342.m3u8?expire=1782767725&sign=8608b00f775efe72419d2553c70b2ee5
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
-https://tv.streamhy.com/live/5006578.m3u8?expire=1782767397&sign=3a90c1a85f215a6d1fcb40ab86e28721
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
-https://tv.streamhy.com/live/5005977.m3u8?expire=1782769573&sign=12468facc0dbd8075bb2eb0635fa2ede
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
 https://tv.streamhy.com/live/5006555.m3u8?expire=1782768250&sign=0e9374339ea27a9c9f9102c5a5800bc9
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
-https://tv.streamhy.com/live/5005885.m3u8?expire=1782767740&sign=b1a2bb1ffb1285e904a78dd9b8c4ce12
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
-https://tv.streamhy.com/live/5005672.m3u8?expire=1782767308&sign=569c15b42d3909dba9c8d6292732418a
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
-https://tv.streamhy.com/live/5005343.m3u8?expire=1782767158&sign=f53d34d0e046593926240b4253899616
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
 https://tv.streamhy.com/live/5006580.m3u8?expire=1782768442&sign=ec4c7f7761aa41f8bdac45c9c1dbf6b8
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
+https://tv.streamhy.com/live/5005342.m3u8?expire=1782767725&sign=8608b00f775efe72419d2553c70b2ee5
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
 https://tv.streamhy.com/live/5006458.m3u8?expire=1782767141&sign=3a75fc4fbcff4a158488ff5725b7d1f1
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
+https://tv.streamhy.com/live/5005903.m3u8?expire=1782770229&sign=898004f0cd31c7e803e9dd5ca0aecb96
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
+https://tv.streamhy.com/live/5005672.m3u8?expire=1782767308&sign=569c15b42d3909dba9c8d6292732418a
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
+https://tv.streamhy.com/live/5006578.m3u8?expire=1782767397&sign=3a90c1a85f215a6d1fcb40ab86e28721
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
+https://tv.streamhy.com/live/5006284.m3u8?expire=1782767995&sign=0174268a1c78cc6329ea721605c22086
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
+https://tv.streamhy.com/live/5005885.m3u8?expire=1782767740&sign=b1a2bb1ffb1285e904a78dd9b8c4ce12
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
 https://tv.streamhy.com/live/5005897.m3u8?expire=1782766862&sign=051dc3ccc249e50681c2ff7eb2a050e5
 #EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
-https://tv.streamhy.com/live/5005903.m3u8?expire=1782766627&sign=330af5d1560904b4898cd38c43e46480
+https://tv.streamhy.com/live/5005343.m3u8?expire=1782767158&sign=f53d34d0e046593926240b4253899616
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Brazil😈 [🆚] 😈Japan [LIVE]😈📁
+https://tv.streamhy.com/live/5005977.m3u8?expire=1782769573&sign=12468facc0dbd8075bb2eb0635fa2ede
 #EXTINF:-1 group-title="📁😈 UEFA European U19 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png",📁😈Croatia U19😈 [🆚] 😈Ukraine U19 [62m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4551236
 #EXTINF:-1 group-title="📁😈 Iceland Besta-deild karla 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png",📁😈Akranes😈 [🆚] 😈Fram Reykjavik [77m]😈📁
