@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 20:22:51 WIB 29-06-2026
-# 🔄 Total Channels: 5382
+# ⏰ Latest Updated: 20:29:12 WIB 29-06-2026
+# 🔄 Total Channels: 5388
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:22:51 WIB 29-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [20:29:12 WIB 29-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -142,48 +142,6 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIGA SPANYOL",FBC Melgar VS UCV Moquegua | Copa De La Liga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26b5ce021e3dc89f3835eb/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=4386979ff63030fdbbbfee7489ad0bf9&x-time=1782763260
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIGA SPANYOL",FBC Melgar VS UCV Moquegua | Copa De La Liga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26b5ce021e3dc89f3835eb/chunks.m3u8?is_vip=false&token=1782849695-Kv4cPTAAP5YTi-f7d9e3ef7a22cc97592f17e734c744a885a24760-98e0e38a76ae568265d583508fce75d8
-#EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2554.png" group-title="LIGA SPANYOL",[LIVE ] [Copa De La Liga] FBC Melgar VS UCV Moquegua | Copa De La Liga
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26b5ce021e3dc89f3835eb/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=4386979ff63030fdbbbfee7489ad0bf9&x-time=1782763260|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga.webp" group-title="LIGA SPANYOL",DAZN LaLiga
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc882/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjODgyOjE3ODI3NzU2ODA2MjQ6Y2RubGl2ZXR2LnR2OjY1ZDRmZDg3NTBiMjZjNWEuMTkxMGJiODRlYmU5ZjYzYjhlNzc4MzE3NWJhOWRjN2IzOTEzZjZkZWUzMWE1MGRjZWU2NTI5OTgxMWRkZGM3Nw|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga-2.webp" group-title="LIGA SPANYOL",DAZN LaLiga 2
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga%202&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga%202&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc885/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjODg1OjE3ODI3NzU2ODEzODM6Y2RubGl2ZXR2LnR2OjRlMWJjMmRmZDU4ZWQzMzAuZTQzNjc3N2Q4NGJkMDk5ODllNTc0NWMyYzU3MzhiNWRhYjFjN2NhY2NkZTMzMjI1NDAyNmUxNWY3MmIyNmZkYg|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/laliga-tv.webp" group-title="LIGA SPANYOL",LaLiga TV
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc375/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzc1OjE3ODI3NzU3MzU2MDI6Y2RubGl2ZXR2LnR2OmMzNGUyYzQ3OGQ0YWVlNWYuNDc2YTY1MDkwYTUwYzBkMTE4OTc2N2M2M2VhMzM5YjM3MGNlOTUwMDdjNzgxMTg1ZDY2NTJiMDAyYTA2YzdmNg|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="LIGA SPANYOL",Real Madrid tv Football
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="LIGA SPANYOL",Real Madrid TV (404p)
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL",REAL MADRID TV 
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/real-madrid-tv.webp" group-title="LIGA SPANYOL",Real Madrid TV
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d7181d8192bb76f78e3/playlist.m3u8?token=NmEyODhkNzE4MWQ4MTkyYmI3NmY3OGUzOjE3ODI3NzU3OTIzMzE6Y2RubGl2ZXR2LnR2OjdkZTVmM2FhYTU2YmUzNDQuMWVmZTkxOTE4NGEzNzBlY2JhNGQyZjc4NzY1ZTZmNDVjOGE5ZGJkZWMzZWRjNzVkZWRmMTUzMzg4NTE3YWJiYg|x-forwarded-for:109.236.88.82
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8pChFEyS/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 09:35 WIB | TGL 08/07] Turkiye v Poland | Week 3 | Women's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RfBpOZzw/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 10:05 WIB | TGL 08/07] Belgium v Dominican Republic | Week 3 | Women's VNL 2026
@@ -204,9 +162,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T7P994Ia/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 10:35 WIB | TGL 09/07] USA v Poland | Week 3 | Women's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/leargn8p/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Plavins/Fokerots (LAT) vs [tbc], Men Pool B on C2 | Gstaad (SUI)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FMOvtwkz/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Andre/Renato (BRA) vs Cottafava/Dal Corso (ITA), Men Pool B on C4 | Gstaad (SUI)
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/leargn8p/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Plavins/Fokerots (LAT) vs [tbc], Men Pool B on C2 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/H7YtOPgZ/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Hammarberg/Berger T. (AUT) vs Capogrosso N./Capogrosso T. (ARG), Men Pool A on C3 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -228,7 +186,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=6dfc95dc9eb146e99a2fc90a039b27c2&wsABSTime=1782807688
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=3b887776af1107a328f8af5eefbc6a1f&wsABSTime=1782807977
 #EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/BaltimoreOrioles.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING] [05:35 WIB 30/06/2026] [MLB] Baltimore Orioles - Chicago White Sox
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[05:35 WIB] [Baseball] Chicago White Sox at Baltimore Orioles (STRMCNTR)
@@ -581,7 +539,7 @@ https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6441&ext=hls&x=1782
 https://streambone.usw40304648193001.workers.dev/play.m3u8?q=1561&ext=hls&x=1782775245&k=20c545cb45a689b61b5ec32a78c38478e0ba22831cfbcb5e3bfef432ad8f30e1&sc=1561
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20252abbd89767a492bf321f5acb2c86ee0.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 01:30 WIB] [LBN Premier League] Al Mabarrah SC vs Al Ansar SC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4891148_1.m3u8?auth_key=1782850826-0-0-7776f3875ada7f738d97526fa1972021
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4891148_1.m3u8?auth_key=1782851066-0-0-a82ef22724ab7f51b06450e1d13ad7f7
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5343.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [Friendlies Clubs] H&W Welders VS Larne | Friendlies Clubs
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -592,7 +550,7 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_4891148_1.m3u8?auth_key=17828
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a41cd248cb9e8c43b1114dd/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=238c13b828756be054aeb574c864c63d&x-time=1782763440|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202b06fc1dfca9d5adc4931fefa0015c6a2.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 01:45 WIB] [INT CF] HW Welders vs Larne FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5504478_1.m3u8?auth_key=1782850826-0-0-05cfa3b3d59420b2249878f17262a3bd
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5504478_1.m3u8?auth_key=1782851066-0-0-1f74efbc04391dc92fa0fb6d672cbdbb
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10329.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [UEFA U19 Championship] Croatia U19 VS Ukraine U19 | UEFA U19 Championship
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -603,7 +561,7 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_5504478_1.m3u8?auth_key=17828
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2a8022bce9b2b9e5689955/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=03a8ef11d44e79e0059c05f8e89e6968&x-time=1782763380|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202d8cb17cfb9b32b42bac7ca2c7d5a15f2.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 02:00 WIB] [UEFA European U19 Football Championship] Croatia U19 vs Ukraine U19 [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5460496_1.m3u8?auth_key=1782850826-0-0-6dc01f1e5d129fe19c1f97b4f22dca07
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5460496_1.m3u8?auth_key=1782851066-0-0-4e11f8212e960295233e5fd9add228a6
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/827.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [Urvalsdeild] IA Akranes VS Fram Reykjavik | Urvalsdeild
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -614,25 +572,25 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_5460496_1.m3u8?auth_key=17828
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7cd/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=ed0e957c6fe6933a9995b3f9c041dbac&x-time=1782763320|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2023f6ec0b8ee88017ed3fa677be6871179.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 02:15 WIB] [Besta-deild karla] Akranes vs Fram Reykjavik [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135545_1.m3u8?auth_key=1782850826-0-0-5120dffcf300c4359fae6444173dc298
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135545_1.m3u8?auth_key=1782851066-0-0-b2c2577be228708c37ab58580539ca0a
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_2.m3u8?auth_key=1782850826-0-0-22d9cba6203e249b134ec2a232d74d67
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_2.m3u8?auth_key=1782851066-0-0-bc97ea58954cf14093ef051cae065ffe
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_6.m3u8?auth_key=1782850826-0-0-bd7c12c9556279a4298fc4f6b1871fb2
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_6.m3u8?auth_key=1782851066-0-0-e486604af59e938525962a0a6aa810f4
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_1.m3u8?auth_key=1782850826-0-0-677277221c702df183b7635da4ed6b7b
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_1.m3u8?auth_key=1782851066-0-0-aed3a84415f3fcd99d80d1e231c62d26
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_5.m3u8?auth_key=1782850826-0-0-cbcfcf391e8f2d86947d3aea9418cac7
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_5.m3u8?auth_key=1782851066-0-0-4d248dc9c456a3a42d5d739672a9dcd8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH5]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_4.m3u8?auth_key=1782850826-0-0-976b9e323b0760c02901d50080ef4526
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_4.m3u8?auth_key=1782851066-0-0-e7efe849936f44c0076854d70ff2e46b
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH6]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_3.m3u8?auth_key=1782850826-0-0-5caa0522b7c4f651f3125352144ece0d
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_3.m3u8?auth_key=1782851066-0-0-5165344906d100487da346f316a28894
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/soccer-ball-logo-png_seeklogo-480250.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[03:30 WIB] [SOCCER] Germany vs Paraguay (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-origin=https://instream.click
@@ -664,28 +622,62 @@ https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad10/chu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26b5ce021e3dc89f3835eb/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=4386979ff63030fdbbbfee7489ad0bf9&x-time=1782763260|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2554.png" group-title="LIGA SPANYOL",[LIVE ] [Copa De La Liga] FBC Melgar VS UCV Moquegua | Copa De La Liga
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26b5ce021e3dc89f3835eb/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=4386979ff63030fdbbbfee7489ad0bf9&x-time=1782763260|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga.webp" group-title="LIGA SPANYOL",DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc882/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjODgyOjE3ODI3NzU2ODA2MjQ6Y2RubGl2ZXR2LnR2OjY1ZDRmZDg3NTBiMjZjNWEuMTkxMGJiODRlYmU5ZjYzYjhlNzc4MzE3NWJhOWRjN2IzOTEzZjZkZWUzMWE1MGRjZWU2NTI5OTgxMWRkZGM3Nw|x-forwarded-for:109.236.88.82
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga-2.webp" group-title="LIGA SPANYOL",DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga%202&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga%202&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc885/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjODg1OjE3ODI3NzU2ODEzODM6Y2RubGl2ZXR2LnR2OjRlMWJjMmRmZDU4ZWQzMzAuZTQzNjc3N2Q4NGJkMDk5ODllNTc0NWMyYzU3MzhiNWRhYjFjN2NhY2NkZTMzMjI1NDAyNmUxNWY3MmIyNmZkYg|x-forwarded-for:109.236.88.82
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/laliga-tv.webp" group-title="LIGA SPANYOL",LaLiga TV
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc375/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzc1OjE3ODI3NzU3MzU2MDI6Y2RubGl2ZXR2LnR2OmMzNGUyYzQ3OGQ0YWVlNWYuNDc2YTY1MDkwYTUwYzBkMTE4OTc2N2M2M2VhMzM5YjM3MGNlOTUwMDdjNzgxMTg1ZDY2NTJiMDAyYTA2YzdmNg|x-forwarded-for:109.236.88.82
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="LIGA SPANYOL",Real Madrid tv Football
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="LIGA SPANYOL",Real Madrid TV (404p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL",REAL MADRID TV 
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/real-madrid-tv.webp" group-title="LIGA SPANYOL",Real Madrid TV
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d7181d8192bb76f78e3/playlist.m3u8?token=NmEyODhkNzE4MWQ4MTkyYmI3NmY3OGUzOjE3ODI3NzU3OTIzMzE6Y2RubGl2ZXR2LnR2OjdkZTVmM2FhYTU2YmUzNDQuMWVmZTkxOTE4NGEzNzBlY2JhNGQyZjc4NzY1ZTZmNDVjOGE5ZGJkZWMzZWRjNzVkZWRmMTUzMzg4NTE3YWJiYg|x-forwarded-for:109.236.88.82
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_2.m3u8?auth_key=1782850826-0-0-22d9cba6203e249b134ec2a232d74d67
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_2.m3u8?auth_key=1782851066-0-0-bc97ea58954cf14093ef051cae065ffe
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_6.m3u8?auth_key=1782850826-0-0-bd7c12c9556279a4298fc4f6b1871fb2
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_6.m3u8?auth_key=1782851066-0-0-e486604af59e938525962a0a6aa810f4
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_1.m3u8?auth_key=1782850826-0-0-677277221c702df183b7635da4ed6b7b
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_1.m3u8?auth_key=1782851066-0-0-aed3a84415f3fcd99d80d1e231c62d26
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_5.m3u8?auth_key=1782850826-0-0-cbcfcf391e8f2d86947d3aea9418cac7
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_5.m3u8?auth_key=1782851066-0-0-4d248dc9c456a3a42d5d739672a9dcd8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH5]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_4.m3u8?auth_key=1782850826-0-0-976b9e323b0760c02901d50080ef4526
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_4.m3u8?auth_key=1782851066-0-0-e7efe849936f44c0076854d70ff2e46b
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH6]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_3.m3u8?auth_key=1782850826-0-0-5caa0522b7c4f651f3125352144ece0d
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_3.m3u8?auth_key=1782851066-0-0-5165344906d100487da346f316a28894
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/xb9vukk4k3rs6i.png" group-title="🔴FIFA WORLD CUP 2026🔴",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] World Cup 2026 | (03.30 WIB) Germany vs Paraguay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a22eb80c811eae460a2c7ce%2Findex.m3u8&client_id=cts&uid=w21ijqtq&is_vip=true&verify=1782763200-iYEOu05ZOsd7QR9xRlGrKYNuB3D5owgCLdP7Cc2t5kE%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
+https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a22eb80c811eae460a2c7ce%2Findex.m3u8&client_id=cts&uid=gzyizboy&is_vip=true&verify=1782763200-gBmjy%2FPmhyhlMwH46%2BMSdEk7FdRU8X2DqF9mOVQOF2U%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/germany/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:30 WIB] [FIFA WORLD CUP] Germany - Paraguay [CH 1]
 https://dz5.bhalocast.pro:7059/hls/tsn1ca.m3u8?md5=bS3bWKJ-zLD7xgyVsZ8fcQ&expires=1782768959&ch=tsn1ca&s=81211b3d6bf9c2e391d61c30340c541c|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/germany/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:30 WIB] [FIFA WORLD CUP] Germany - Paraguay [CH 2]
@@ -1232,47 +1224,47 @@ https://obstreamx.click/live/esx51jdn9y.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel35.flv?wsSecret=3b2760b84525bef0afc95bc0c4e9e6c4&wsABSTime=1782807521
+https://live1.pro2cdnlive.com/live/channel35.flv?wsSecret=3b03c5747c265c056d1298f4cbb564e3&wsABSTime=1782807828
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh0599md7o/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:00 WIB - CROATIA U19 VS UKRAINE U19 [UEFA U19]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001782764322-0-0-f565bd6dd59d2add5bc1210e817c6125
+https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001782764628-0-0-285a4a49ecf893996f7d1186531d8a7c
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3j7nql07/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:15 WIB - AFTURELDING VS KFR AEGIR [ICE D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=1a2d61ef8b4abcca2f295113ce6ecbd8&wsABSTime=1782807522
+https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=6543517b81be5c70d26e51f2577d8af1&wsABSTime=1782807829
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohk2g9q1zp/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:15 WIB - AKRANES VS FRAM REYKJAVIK [ICE PR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=80f406bd3ad861865b517659b8306e2e&wsABSTime=1782807522
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=df1384b7e6fbc13b93f69cf6e4a69713&wsABSTime=1782807829
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/3glrwjhe2yyqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",[ LIVE] 02:30 WIB 30/06 - PHAP U22 VS CH SEC U22 [EUR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=6dfc95dc9eb146e99a2fc90a039b27c2&wsABSTime=1782807688
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=3b887776af1107a328f8af5eefbc6a1f&wsABSTime=1782807977
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh5vejmd7o/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:00 WIB - NU HURACAN VS NU SAN LORENZO [ARGW D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=f6bb07189149834623f6fc0216398d1a&wsABSTime=1782807522
+https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=928eb4f3e76c10660b39bb16c7c0c9f8&wsABSTime=1782807829
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh5ylomd7o/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:15 WIB - DEP GARCILASO VS EM DEPORTIVO [COP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=08bef9b9ceadeecdb0035b7150b8ff46&wsABSTime=1782807522
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=2529b382f601959ec531647177b79a9c&wsABSTime=1782807829
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkh590qg8n/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:30 WIB - DUC VS PARAGUAY [FIF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=e578dc5c6df60f289c4667fd9b9a1bfa&wsABSTime=1782807520
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=c5e72adf99d32f5f40b30bebaa82a18e&wsABSTime=1782807827
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhj161qvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:00 WIB - 14 DE MAYO FBC VS ATLETICO CAMPO FLORIDO [PAR CUP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=260e3b60ee4af35392266b4415959085&wsABSTime=1782807523
+https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=4cda1ecba59791721ea6b8061670006f&wsABSTime=1782807829
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="SPORTS FHD",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="SPORTS FHD",AS3 Sport TV (1080p)
@@ -1724,12 +1716,6 @@ https://cdn4.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=5G80awcHNAuswvn7TNDbbA&ex
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaf8/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWY4OjE3ODI3NzIyMzUwODc6Y2RubGl2ZXR2LnR2OjI5ODZlYmYzYzU2MGM3YWMuNDVlYjNlOTA5ZmZlYWU0YTU3NWYxOTE2NGJiZWM0OGUyOWE0ZmIzNWM2Y2U2YzczYTcwYTFmMWFiZDIwMzBkOQ
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1782766822-0-0-89fea6955a9fd284e03b0011838fa182
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782766822-0-0-e0e2b65b8a1a0decd3caf1a919a72ba7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=813a02f25bf0f064421582eab6c002ab&txTime=6a4325ca
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
@@ -1740,6 +1726,12 @@ https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1782767482-0-0-4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782767482-0-0-29cb019d6bd31bbfdb7f4752e8274659
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1782767842-0-0-dd91e66172454dfb3ba513d99bf83f21
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782767842-0-0-509eda16b56ace2af63ab85cd66db37c
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3101_1gqc36amkr2t.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al-Mabarrah vs Al-Ansar (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
@@ -1766,18 +1758,6 @@ https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a13
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782766822-0-0-385e9c0879f54e21a20c6b9df7404974
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782766822-0-0-5479bc17cf2ff9b11c20fa6312a47e4d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=b5620e0f528f4cba1e2b518c1dfa5e62&txTime=6a432336
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=b5620e0f528f4cba1e2b518c1dfa5e62&txTime=6a432336
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782767482-0-0-848e9043018aafde7b4dfdf63f952749
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
@@ -1800,15 +1780,21 @@ https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=2e72d2fb3a4b5f4f816b1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=2e72d2fb3a4b5f4f816b1503ff838426&txTime=6a4325ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782767842-0-0-87acd24b6668be84f4112d30eefcce36
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782767842-0-0-36c7b60469a37ee8e3adfc9ac2d4f5a4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=2846bd774010283657ffd752019eb791&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=2846bd774010283657ffd752019eb791&txTime=6a432732
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.paznhl.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782766822-0-0-d0643e4645833a53042bb02ded9d8828
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782766822-0-0-969dc3bf6424978a9319b98199249169
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782767482-0-0-012dccee5a879ecc233673e9b139180b
@@ -1821,6 +1807,12 @@ https://pull.niur.live/live/stream-606448_lsd.flv?txSecret=34a93cb01fff2b3fdc1c2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=34a93cb01fff2b3fdc1c2ef9c399d239&txTime=6a4325ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782767842-0-0-e8fd7974b2512c3fa1070e1517c4c9d0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782767842-0-0-5f043bdfb2fefdd824b36aba9d6d0b46
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9ea788376ee5eb240491893729802749.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.paznhl.app/live/82054853.m3u8
@@ -1836,36 +1828,6 @@ https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1401_165363431223.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 IA Akranes vs Fram Reykjavik (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=292b6e213ac2a5b4410cfc2337b9f110&txTime=6a4322fa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=292b6e213ac2a5b4410cfc2337b9f110&txTime=6a4322fa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782766762-0-0-824f20c68315f7249d2926794f937e50
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782766762-0-0-102ba2ef8412051095bee331d2d5bf4a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782766762-0-0-f264c1bcee8ad9bdb8d5baa71ff4df1c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782766762-0-0-df18544ce6893c6695f958635237dd95
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=25fc3e9e17efeb1b4528ae799019c461&txTime=6a4322fa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=25fc3e9e17efeb1b4528ae799019c461&txTime=6a4322fa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782766762-0-0-c20bba56d15fc6f5bdf8e9d865cfae95
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782766762-0-0-ef5a65473a2e56be65387c56c756f950
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782767122-0-0-3d355cdca4fd36c5858006e60f5bffab
@@ -1902,9 +1864,45 @@ https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=0a23007ad72b2dc1c547
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=0a23007ad72b2dc1c547c6c88fa77cb3&txTime=6a4325ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=2db1c199a0c13af910063fe004b755e4&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=2db1c199a0c13af910063fe004b755e4&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782767842-0-0-94d4aac524d8dd60349dfaa2ad1437e1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782767842-0-0-f40f474ecf4344dd20c3bd635bc9cb05
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782767842-0-0-627e8eeb73e0d1714d498547b35054b4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782767842-0-0-7ebfe999da6484545cf87baf9c6fda46
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=20af395d8d2313be6faef4cdb0e2320a&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=20af395d8d2313be6faef4cdb0e2320a&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782767842-0-0-892780dee2af51c6a6eb8117307dd1a8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782767842-0-0-17eabdd8544f1c7d46fed750d998f6ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=dbd633f92ebdaa6a999eb10668ff19dc&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=dbd633f92ebdaa6a999eb10668ff19dc&txTime=6a432732
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Duc vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/78905744.m3u8
+https://live05.paznhl.app/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/x1590.png" group-title="LIVE TV - USA",beIN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="LIVE TV - USA",Fox Sports 1
@@ -8203,48 +8201,6 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIGA SPANYOL",FBC Melgar VS UCV Moquegua | Copa De La Liga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26b5ce021e3dc89f3835eb/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=4386979ff63030fdbbbfee7489ad0bf9&x-time=1782763260
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIGA SPANYOL",FBC Melgar VS UCV Moquegua | Copa De La Liga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a26b5ce021e3dc89f3835eb/chunks.m3u8?is_vip=false&token=1782849695-Kv4cPTAAP5YTi-f7d9e3ef7a22cc97592f17e734c744a885a24760-98e0e38a76ae568265d583508fce75d8
-#EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2554.png" group-title="LIGA SPANYOL",[LIVE ] [Copa De La Liga] FBC Melgar VS UCV Moquegua | Copa De La Liga
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26b5ce021e3dc89f3835eb/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=4386979ff63030fdbbbfee7489ad0bf9&x-time=1782763260|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga.webp" group-title="LIGA SPANYOL",DAZN LaLiga
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc882/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjODgyOjE3ODI3NzU2ODA2MjQ6Y2RubGl2ZXR2LnR2OjY1ZDRmZDg3NTBiMjZjNWEuMTkxMGJiODRlYmU5ZjYzYjhlNzc4MzE3NWJhOWRjN2IzOTEzZjZkZWUzMWE1MGRjZWU2NTI5OTgxMWRkZGM3Nw|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga-2.webp" group-title="LIGA SPANYOL",DAZN LaLiga 2
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga%202&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga%202&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc885/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjODg1OjE3ODI3NzU2ODEzODM6Y2RubGl2ZXR2LnR2OjRlMWJjMmRmZDU4ZWQzMzAuZTQzNjc3N2Q4NGJkMDk5ODllNTc0NWMyYzU3MzhiNWRhYjFjN2NhY2NkZTMzMjI1NDAyNmUxNWY3MmIyNmZkYg|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/laliga-tv.webp" group-title="LIGA SPANYOL",LaLiga TV
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc375/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzc1OjE3ODI3NzU3MzU2MDI6Y2RubGl2ZXR2LnR2OmMzNGUyYzQ3OGQ0YWVlNWYuNDc2YTY1MDkwYTUwYzBkMTE4OTc2N2M2M2VhMzM5YjM3MGNlOTUwMDdjNzgxMTg1ZDY2NTJiMDAyYTA2YzdmNg|x-forwarded-for:109.236.88.82
-#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="LIGA SPANYOL",Real Madrid tv Football
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="LIGA SPANYOL",Real Madrid TV (404p)
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL",REAL MADRID TV 
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/real-madrid-tv.webp" group-title="LIGA SPANYOL",Real Madrid TV
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV&code=es&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://cdnlivetv.tv/secure/api/v1/6a288d7181d8192bb76f78e3/playlist.m3u8?token=NmEyODhkNzE4MWQ4MTkyYmI3NmY3OGUzOjE3ODI3NzU3OTIzMzE6Y2RubGl2ZXR2LnR2OjdkZTVmM2FhYTU2YmUzNDQuMWVmZTkxOTE4NGEzNzBlY2JhNGQyZjc4NzY1ZTZmNDVjOGE5ZGJkZWMzZWRjNzVkZWRmMTUzMzg4NTE3YWJiYg|x-forwarded-for:109.236.88.82
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8pChFEyS/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 09:35 WIB | TGL 08/07] Turkiye v Poland | Week 3 | Women's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/RfBpOZzw/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 10:05 WIB | TGL 08/07] Belgium v Dominican Republic | Week 3 | Women's VNL 2026
@@ -8265,9 +8221,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T7P994Ia/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 10:35 WIB | TGL 09/07] USA v Poland | Week 3 | Women's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/leargn8p/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Plavins/Fokerots (LAT) vs [tbc], Men Pool B on C2 | Gstaad (SUI)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FMOvtwkz/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Andre/Renato (BRA) vs Cottafava/Dal Corso (ITA), Men Pool B on C4 | Gstaad (SUI)
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/leargn8p/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Plavins/Fokerots (LAT) vs [tbc], Men Pool B on C2 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/H7YtOPgZ/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Hammarberg/Berger T. (AUT) vs Capogrosso N./Capogrosso T. (ARG), Men Pool A on C3 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -8289,7 +8245,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=6dfc95dc9eb146e99a2fc90a039b27c2&wsABSTime=1782807688
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=3b887776af1107a328f8af5eefbc6a1f&wsABSTime=1782807977
 #EXTINF:-1 tvg-logo="https://embedhd.org/images/team-logos/BaltimoreOrioles.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING] [05:35 WIB 30/06/2026] [MLB] Baltimore Orioles - Chicago White Sox
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[05:35 WIB] [Baseball] Chicago White Sox at Baltimore Orioles (STRMCNTR)
@@ -8642,7 +8598,7 @@ https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6441&ext=hls&x=1782
 https://streambone.usw40304648193001.workers.dev/play.m3u8?q=1561&ext=hls&x=1782775245&k=20c545cb45a689b61b5ec32a78c38478e0ba22831cfbcb5e3bfef432ad8f30e1&sc=1561
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20252abbd89767a492bf321f5acb2c86ee0.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 01:30 WIB] [LBN Premier League] Al Mabarrah SC vs Al Ansar SC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_4891148_1.m3u8?auth_key=1782850826-0-0-7776f3875ada7f738d97526fa1972021
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_4891148_1.m3u8?auth_key=1782851066-0-0-a82ef22724ab7f51b06450e1d13ad7f7
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5343.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [Friendlies Clubs] H&W Welders VS Larne | Friendlies Clubs
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -8653,7 +8609,7 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_4891148_1.m3u8?auth_key=17828
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a41cd248cb9e8c43b1114dd/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=238c13b828756be054aeb574c864c63d&x-time=1782763440|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202b06fc1dfca9d5adc4931fefa0015c6a2.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 01:45 WIB] [INT CF] HW Welders vs Larne FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5504478_1.m3u8?auth_key=1782850826-0-0-05cfa3b3d59420b2249878f17262a3bd
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5504478_1.m3u8?auth_key=1782851066-0-0-1f74efbc04391dc92fa0fb6d672cbdbb
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10329.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [UEFA U19 Championship] Croatia U19 VS Ukraine U19 | UEFA U19 Championship
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -8664,7 +8620,7 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_5504478_1.m3u8?auth_key=17828
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2a8022bce9b2b9e5689955/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=03a8ef11d44e79e0059c05f8e89e6968&x-time=1782763380|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202d8cb17cfb9b32b42bac7ca2c7d5a15f2.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 02:00 WIB] [UEFA European U19 Football Championship] Croatia U19 vs Ukraine U19 [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5460496_1.m3u8?auth_key=1782850826-0-0-6dc01f1e5d129fe19c1f97b4f22dca07
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5460496_1.m3u8?auth_key=1782851066-0-0-4e11f8212e960295233e5fd9add228a6
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/827.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [Urvalsdeild] IA Akranes VS Fram Reykjavik | Urvalsdeild
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -8675,25 +8631,25 @@ https://yallavoide.yalla-shoot-zhubo.com/sport/202_5460496_1.m3u8?auth_key=17828
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a22eb80c811eae460a2c7cd/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=ed0e957c6fe6933a9995b3f9c041dbac&x-time=1782763320|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2023f6ec0b8ee88017ed3fa677be6871179.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 02:15 WIB] [Besta-deild karla] Akranes vs Fram Reykjavik [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135545_1.m3u8?auth_key=1782850826-0-0-5120dffcf300c4359fae6444173dc298
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135545_1.m3u8?auth_key=1782851066-0-0-b2c2577be228708c37ab58580539ca0a
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_2.m3u8?auth_key=1782850826-0-0-22d9cba6203e249b134ec2a232d74d67
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_2.m3u8?auth_key=1782851066-0-0-bc97ea58954cf14093ef051cae065ffe
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_6.m3u8?auth_key=1782850826-0-0-bd7c12c9556279a4298fc4f6b1871fb2
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_6.m3u8?auth_key=1782851066-0-0-e486604af59e938525962a0a6aa810f4
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_1.m3u8?auth_key=1782850826-0-0-677277221c702df183b7635da4ed6b7b
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_1.m3u8?auth_key=1782851066-0-0-aed3a84415f3fcd99d80d1e231c62d26
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_5.m3u8?auth_key=1782850826-0-0-cbcfcf391e8f2d86947d3aea9418cac7
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_5.m3u8?auth_key=1782851066-0-0-4d248dc9c456a3a42d5d739672a9dcd8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH5]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_4.m3u8?auth_key=1782850826-0-0-976b9e323b0760c02901d50080ef4526
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_4.m3u8?auth_key=1782851066-0-0-e7efe849936f44c0076854d70ff2e46b
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH6]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_3.m3u8?auth_key=1782850826-0-0-5caa0522b7c4f651f3125352144ece0d
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_3.m3u8?auth_key=1782851066-0-0-5165344906d100487da346f316a28894
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/soccer-ball-logo-png_seeklogo-480250.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[03:30 WIB] [SOCCER] Germany vs Paraguay (Gate)
 #EXTVLCOPT:http-referrer=https://instream.click/wc-us.php?stream=NFLHD1
 #EXTVLCOPT:http-origin=https://instream.click
@@ -8725,28 +8681,62 @@ https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad10/chu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26b5ce021e3dc89f3835eb/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=4386979ff63030fdbbbfee7489ad0bf9&x-time=1782763260|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2554.png" group-title="LIGA SPANYOL",[LIVE ] [Copa De La Liga] FBC Melgar VS UCV Moquegua | Copa De La Liga
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a26b5ce021e3dc89f3835eb/chunks.m3u8?is_vip=false&token=f7d9e3ef7a22cc97592f17e734c744a885a24760&x-sign=4386979ff63030fdbbbfee7489ad0bf9&x-time=1782763260|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga.webp" group-title="LIGA SPANYOL",DAZN LaLiga
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc882/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjODgyOjE3ODI3NzU2ODA2MjQ6Y2RubGl2ZXR2LnR2OjY1ZDRmZDg3NTBiMjZjNWEuMTkxMGJiODRlYmU5ZjYzYjhlNzc4MzE3NWJhOWRjN2IzOTEzZjZkZWUzMWE1MGRjZWU2NTI5OTgxMWRkZGM3Nw|x-forwarded-for:109.236.88.82
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/dazn-laliga-2.webp" group-title="LIGA SPANYOL",DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga%202&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20LaLiga%202&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cc885/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjODg1OjE3ODI3NzU2ODEzODM6Y2RubGl2ZXR2LnR2OjRlMWJjMmRmZDU4ZWQzMzAuZTQzNjc3N2Q4NGJkMDk5ODllNTc0NWMyYzU3MzhiNWRhYjFjN2NhY2NkZTMzMjI1NDAyNmUxNWY3MmIyNmZkYg|x-forwarded-for:109.236.88.82
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/laliga-tv.webp" group-title="LIGA SPANYOL",LaLiga TV
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=LaLiga%20TV&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc375/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMzc1OjE3ODI3NzU3MzU2MDI6Y2RubGl2ZXR2LnR2OmMzNGUyYzQ3OGQ0YWVlNWYuNDc2YTY1MDkwYTUwYzBkMTE4OTc2N2M2M2VhMzM5YjM3MGNlOTUwMDdjNzgxMTg1ZDY2NTJiMDAyYTA2YzdmNg|x-forwarded-for:109.236.88.82
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="LIGA SPANYOL",Real Madrid tv Football
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="LIGA SPANYOL",Real Madrid TV (404p)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIGA SPANYOL",REAL MADRID TV 
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/real-madrid-tv.webp" group-title="LIGA SPANYOL",Real Madrid TV
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Real%20Madrid%20TV&code=es&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://cdnlivetv.tv/secure/api/v1/6a288d7181d8192bb76f78e3/playlist.m3u8?token=NmEyODhkNzE4MWQ4MTkyYmI3NmY3OGUzOjE3ODI3NzU3OTIzMzE6Y2RubGl2ZXR2LnR2OjdkZTVmM2FhYTU2YmUzNDQuMWVmZTkxOTE4NGEzNzBlY2JhNGQyZjc4NzY1ZTZmNDVjOGE5ZGJkZWMzZWRjNzVkZWRmMTUzMzg4NTE3YWJiYg|x-forwarded-for:109.236.88.82
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_2.m3u8?auth_key=1782850826-0-0-22d9cba6203e249b134ec2a232d74d67
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_2.m3u8?auth_key=1782851066-0-0-bc97ea58954cf14093ef051cae065ffe
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_6.m3u8?auth_key=1782850826-0-0-bd7c12c9556279a4298fc4f6b1871fb2
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_6.m3u8?auth_key=1782851066-0-0-e486604af59e938525962a0a6aa810f4
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_1.m3u8?auth_key=1782850826-0-0-677277221c702df183b7635da4ed6b7b
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_1.m3u8?auth_key=1782851066-0-0-aed3a84415f3fcd99d80d1e231c62d26
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_5.m3u8?auth_key=1782850826-0-0-cbcfcf391e8f2d86947d3aea9418cac7
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_5.m3u8?auth_key=1782851066-0-0-4d248dc9c456a3a42d5d739672a9dcd8
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH5]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_4.m3u8?auth_key=1782850826-0-0-976b9e323b0760c02901d50080ef4526
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_4.m3u8?auth_key=1782851066-0-0-e7efe849936f44c0076854d70ff2e46b
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202c02a2d7fbfc4750b17764366ab9bc9d8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [Zhubo] [CH6]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_3.m3u8?auth_key=1782850826-0-0-5caa0522b7c4f651f3125352144ece0d
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5135530_3.m3u8?auth_key=1782851066-0-0-5165344906d100487da346f316a28894
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/xb9vukk4k3rs6i.png" group-title="🔴FIFA WORLD CUP 2026🔴",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] World Cup 2026 | (03.30 WIB) Germany vs Paraguay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a22eb80c811eae460a2c7ce%2Findex.m3u8&client_id=cts&uid=w21ijqtq&is_vip=true&verify=1782763200-iYEOu05ZOsd7QR9xRlGrKYNuB3D5owgCLdP7Cc2t5kE%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
+https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fsla%2F1-6a22eb80c811eae460a2c7ce%2Findex.m3u8&client_id=cts&uid=gzyizboy&is_vip=true&verify=1782763200-gBmjy%2FPmhyhlMwH46%2BMSdEk7FdRU8X2DqF9mOVQOF2U%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/germany/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:30 WIB] [FIFA WORLD CUP] Germany - Paraguay [CH 1]
 https://dz5.bhalocast.pro:7059/hls/tsn1ca.m3u8?md5=bS3bWKJ-zLD7xgyVsZ8fcQ&expires=1782768959&ch=tsn1ca&s=81211b3d6bf9c2e391d61c30340c541c|Referer=https://bhalocast.pro/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://cdn.img4every1.org/team/germany/logo.webp" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE] [03:30 WIB] [FIFA WORLD CUP] Germany - Paraguay [CH 2]
@@ -9293,47 +9283,47 @@ https://obstreamx.click/live/esx51jdn9y.m3u8
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel35.flv?wsSecret=3b2760b84525bef0afc95bc0c4e9e6c4&wsABSTime=1782807521
+https://live1.pro2cdnlive.com/live/channel35.flv?wsSecret=3b03c5747c265c056d1298f4cbb564e3&wsABSTime=1782807828
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh0599md7o/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:00 WIB - CROATIA U19 VS UKRAINE U19 [UEFA U19]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001782764322-0-0-f565bd6dd59d2add5bc1210e817c6125
+https://live3.procdnlive.com/livecdn/channel27.flv?auth_key=3000001782764628-0-0-285a4a49ecf893996f7d1186531d8a7c
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3j7nql07/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:15 WIB - AFTURELDING VS KFR AEGIR [ICE D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=1a2d61ef8b4abcca2f295113ce6ecbd8&wsABSTime=1782807522
+https://live1.pro2cdnlive.com/live/channel50.flv?wsSecret=6543517b81be5c70d26e51f2577d8af1&wsABSTime=1782807829
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryohk2g9q1zp/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",02:15 WIB - AKRANES VS FRAM REYKJAVIK [ICE PR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=80f406bd3ad861865b517659b8306e2e&wsABSTime=1782807522
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=df1384b7e6fbc13b93f69cf6e4a69713&wsABSTime=1782807829
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/3glrwjhe2yyqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",[ LIVE] 02:30 WIB 30/06 - PHAP U22 VS CH SEC U22 [EUR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=6dfc95dc9eb146e99a2fc90a039b27c2&wsABSTime=1782807688
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=3b887776af1107a328f8af5eefbc6a1f&wsABSTime=1782807977
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh5vejmd7o/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:00 WIB - NU HURACAN VS NU SAN LORENZO [ARGW D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=f6bb07189149834623f6fc0216398d1a&wsABSTime=1782807522
+https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=928eb4f3e76c10660b39bb16c7c0c9f8&wsABSTime=1782807829
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nh5ylomd7o/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:15 WIB - DEP GARCILASO VS EM DEPORTIVO [COP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=08bef9b9ceadeecdb0035b7150b8ff46&wsABSTime=1782807522
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=2529b382f601959ec531647177b79a9c&wsABSTime=1782807829
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/d23xmvkh590qg8n/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",03:30 WIB - DUC VS PARAGUAY [FIF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=e578dc5c6df60f289c4667fd9b9a1bfa&wsABSTime=1782807520
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=c5e72adf99d32f5f40b30bebaa82a18e&wsABSTime=1782807827
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllhj161qvy9/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",04:00 WIB - 14 DE MAYO FBC VS ATLETICO CAMPO FLORIDO [PAR CUP]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=260e3b60ee4af35392266b4415959085&wsABSTime=1782807523
+https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=4cda1ecba59791721ea6b8061670006f&wsABSTime=1782807829
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="SPORTS FHD",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="SPORTS FHD",AS3 Sport TV (1080p)
@@ -9785,12 +9775,6 @@ https://cdn4.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=5G80awcHNAuswvn7TNDbbA&ex
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76ccaf8/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjYWY4OjE3ODI3NzIyMzUwODc6Y2RubGl2ZXR2LnR2OjI5ODZlYmYzYzU2MGM3YWMuNDVlYjNlOTA5ZmZlYWU0YTU3NWYxOTE2NGJiZWM0OGUyOWE0ZmIzNWM2Y2U2YzczYTcwYTFmMWFiZDIwMzBkOQ
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1782766822-0-0-89fea6955a9fd284e03b0011838fa182
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782766822-0-0-e0e2b65b8a1a0decd3caf1a919a72ba7
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=813a02f25bf0f064421582eab6c002ab&txTime=6a4325ca
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
@@ -9801,6 +9785,12 @@ https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1782767482-0-0-4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782767482-0-0-29cb019d6bd31bbfdb7f4752e8274659
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1782767842-0-0-dd91e66172454dfb3ba513d99bf83f21
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/2a177aa1c04c221268c5a000a08b3210.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al Mabarrah SC vs Al Ansar SC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782767842-0-0-509eda16b56ace2af63ab85cd66db37c
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/3101_1gqc36amkr2t.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 01:30 WIB] 30/06 Al-Mabarrah vs Al-Ansar (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
@@ -9827,18 +9817,6 @@ https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a13
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782766822-0-0-385e9c0879f54e21a20c6b9df7404974
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782766822-0-0-5479bc17cf2ff9b11c20fa6312a47e4d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=b5620e0f528f4cba1e2b518c1dfa5e62&txTime=6a432336
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=b5620e0f528f4cba1e2b518c1dfa5e62&txTime=6a432336
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782767482-0-0-848e9043018aafde7b4dfdf63f952749
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
@@ -9861,15 +9839,21 @@ https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=2e72d2fb3a4b5f4f816b1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=2e72d2fb3a4b5f4f816b1503ff838426&txTime=6a4325ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782767842-0-0-87acd24b6668be84f4112d30eefcce36
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782767842-0-0-36c7b60469a37ee8e3adfc9ac2d4f5a4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.flv?txSecret=2846bd774010283657ffd752019eb791&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/4814533a2f1526bfe058fc6bcb05a888.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-548860_lsd.m3u8?txSecret=2846bd774010283657ffd752019eb791&txTime=6a432732
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:00 WIB] 30/06 Croatia U19 vs Ukraine U19 (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.paznhl.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782766822-0-0-d0643e4645833a53042bb02ded9d8828
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782766822-0-0-969dc3bf6424978a9319b98199249169
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-607552_lsd.flv?auth_key=1782767482-0-0-012dccee5a879ecc233673e9b139180b
@@ -9882,6 +9866,12 @@ https://pull.niur.live/live/stream-606448_lsd.flv?txSecret=34a93cb01fff2b3fdc1c2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=34a93cb01fff2b3fdc1c2ef9c399d239&txTime=6a4325ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782767842-0-0-e8fd7974b2512c3fa1070e1517c4c9d0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/addd27fcb202abf113daf5b91eee8ab7.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782767842-0-0-5f043bdfb2fefdd824b36aba9d6d0b46
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9ea788376ee5eb240491893729802749.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 Akranes vs Fram Reykjavik (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.paznhl.app/live/82054853.m3u8
@@ -9897,36 +9887,6 @@ https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a
 #EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1401_165363431223.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 02:15 WIB] 30/06 IA Akranes vs Fram Reykjavik (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=292b6e213ac2a5b4410cfc2337b9f110&txTime=6a4322fa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=292b6e213ac2a5b4410cfc2337b9f110&txTime=6a4322fa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782766762-0-0-824f20c68315f7249d2926794f937e50
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782766762-0-0-102ba2ef8412051095bee331d2d5bf4a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782766762-0-0-f264c1bcee8ad9bdb8d5baa71ff4df1c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782766762-0-0-df18544ce6893c6695f958635237dd95
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=25fc3e9e17efeb1b4528ae799019c461&txTime=6a4322fa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=25fc3e9e17efeb1b4528ae799019c461&txTime=6a4322fa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782766762-0-0-c20bba56d15fc6f5bdf8e9d865cfae95
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782766762-0-0-ef5a65473a2e56be65387c56c756f950
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-534219_lsd.flv?auth_key=1782767122-0-0-3d355cdca4fd36c5858006e60f5bffab
@@ -9963,9 +9923,45 @@ https://pull.niur.live/live/stream-9912122_lsd.flv?txSecret=0a23007ad72b2dc1c547
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull.niur.live/live/stream-9912122_lsd.m3u8?txSecret=0a23007ad72b2dc1c547c6c88fa77cb3&txTime=6a4325ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.flv?txSecret=2db1c199a0c13af910063fe004b755e4&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-387694_lsd.m3u8?txSecret=2db1c199a0c13af910063fe004b755e4&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-327159_lsd.flv?auth_key=1782767842-0-0-94d4aac524d8dd60349dfaa2ad1437e1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782767842-0-0-f40f474ecf4344dd20c3bd635bc9cb05
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912108_lsd.flv?auth_key=1782767842-0-0-627e8eeb73e0d1714d498547b35054b4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912108_lsd.m3u8?auth_key=1782767842-0-0-7ebfe999da6484545cf87baf9c6fda46
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.flv?txSecret=20af395d8d2313be6faef4cdb0e2320a&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=20af395d8d2313be6faef4cdb0e2320a&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-414317_lsd.flv?auth_key=1782767842-0-0-892780dee2af51c6a6eb8117307dd1a8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1782767842-0-0-17eabdd8544f1c7d46fed750d998f6ca
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.flv?txSecret=dbd633f92ebdaa6a999eb10668ff19dc&txTime=6a432732
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/0f3fa6d6a827de6b2c09c6aa5ad69f4a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Germany vs Paraguay (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=dbd633f92ebdaa6a999eb10668ff19dc&txTime=6a432732
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",03:30 WIB 30/06 Duc vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/78905744.m3u8
+https://live05.paznhl.app/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/x1590.png" group-title="LIVE TV - USA",beIN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="LIVE TV - USA",Fox Sports 1
@@ -16572,6 +16568,28 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F560_164983677229.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",03:30   30/06 Germany vs Paraguay  NGUOI THEP m3u Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F560_164983677229.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",03:30   30/06 Germany vs Paraguay  NGUOI THEP flv Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125455_9f31cc8f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",03:30   30/06 Germany vs Paraguay HD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125455_9f31cc8f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",03:30   30/06 Germany vs Paraguay FHD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125455_9f31cc8f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",03:30   30/06 Germany vs Paraguay HD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+#EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fmedia.chuoichientv.net%2Fmedia%2Fuploads%2F20250623_125455_9f31cc8f.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Chuối chiên",03:30   30/06 Germany vs Paraguay FHD2 Gvision TV
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F1401_165363431223.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",02:15   30/06 IA Akranes vs Fram Reykjavik  TON LAP m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
@@ -16650,7 +16668,7 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80" group-title="Live Event: Colalive",03:30 30/06 Duc vs Paraguay Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/78905744.m3u8
+https://live05.paznhl.app/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/0c383e8deecbd58d5cbdfd324132b91f.png!w80" group-title="Live Event: Colalive",02:00 30/06 Croatia U19 vs Ukraine U19 Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://live05.paznhl.app/live/19919577.m3u8
