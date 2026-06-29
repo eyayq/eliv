@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [17:30 WIB 29/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:30 WIB 29/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [17:37 WIB 29/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [17:37 WIB 29/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/V.League_1_new_logo.svg" group-title="V.league",[16:00 WIB 29/06/26] Ha Noi W vs Ho Chi Minh W [FHD] [LIVE]
@@ -20,13 +20,13 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b9/Wimbledon.svg/1280px-Wimbledon.svg.png" group-title="Wimbledon",[17:00 WIB 29/06/26] Rublev A. vs Safiullin R. [SD] [LIVE]
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.eqrm_BOpxTkND_07hp1e1gAAAA?pid=Api&P=0&h=220" group-title="China Super League",[18:00 WIB 29/06/26] Guangdong Meizhou W vs Wuhan Jiangda W [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.eqrm_BOpxTkND_07hp1e1gAAAA?pid=Api&P=0&h=220" group-title="China Super League",[18:00 WIB 29/06/26] Guangdong Meizhou W vs Wuhan Jiangda W [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.eqrm_BOpxTkND_07hp1e1gAAAA?pid=Api&P=0&h=220" group-title="China Super League",[18:00 WIB 29/06/26] Guangdong Meizhou W vs Wuhan Jiangda W [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.eqrm_BOpxTkND_07hp1e1gAAAA?pid=Api&P=0&h=220" group-title="China Super League",[18:00 WIB 29/06/26] Guangdong Meizhou W vs Wuhan Jiangda W [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.eqrm_BOpxTkND_07hp1e1gAAAA?pid=Api&P=0&h=220" group-title="China Super League",[18:00 WIB 29/06/26] Guangdong Meizhou W vs Wuhan Jiangda W [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.eqrm_BOpxTkND_07hp1e1gAAAA?pid=Api&P=0&h=220" group-title="China Super League",[18:00 WIB 29/06/26] Guangdong Meizhou W vs Wuhan Jiangda W [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[20:00 WIB 29/06/26] Al Nejmeh vs Racing [FHD] [NANTIKAN]
