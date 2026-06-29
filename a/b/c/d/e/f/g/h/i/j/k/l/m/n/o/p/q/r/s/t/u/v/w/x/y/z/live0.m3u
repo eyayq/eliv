@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 16:30:23 WIB 29-06-2026
-# 🔄 Total Channels: 5536
+# ⏰ Latest Updated: 16:37:09 WIB 29-06-2026
+# 🔄 Total Channels: 5539
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:30:23 WIB 29-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [16:37:09 WIB 29-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -16839,6 +16839,8 @@ http://line.ciao-ott.net/live/7VSUAK/S59UJY/1745180.ts
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSmxsDW3h6Xv8o364TBJhBkN1lzb3D_75FZk6sym4&s=10" group-title="LIVE EVENT",21:00 WIB Ukraine U22 vs Israel U22
 https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel81.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSmxsDW3h6Xv8o364TBJhBkN1lzb3D_75FZk6sym4&s=10" group-title="LIVE EVENT",[Belum Mulai] 00:00 WIB Portugal U22 vs Poland U22
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel80.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tipik_2025.svg/1280px-Tipik_2025.svg.png" group-title="CH AUTO RESO Piala Dunia 🏆",TIPIK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73ac2701b01451b996ecbc187c0b02d2:ec6c1e923b6cfa6d716af5b961e9fa2d
@@ -17032,10 +17034,22 @@ http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465863.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ATJoWp8_eiI_XOlh1TpoJzxzXCwlctNKSPpnjRNTug&s=10" group-title="CH 4K Piala Dunia 🏆",FUSSBALL.TV 4K/UHD | Beberapa Device Ga Support - pilih channel yang lain
 http://line.ciao-ott.net/live/7VSUAK/S59UJY/1745180.ts
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_kompastv.png" group-title="Berita Olahraga",23:00 WIB Kompas Sport | Kompas TV | Gvision TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d0nMwQ18/Screenshot-2026-0525-125215.png" group-title="Berita Olahraga",23:30 WIB iNews Sport | Sindonews | Gvision TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=5&type=fitnah
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QFXPfcf1/68e1a851-d2a4-41a8-b871-7b17aceca7cf.jpg" group-title="Berita Olahraga",23:30 WIB Kabar Arena Malam | tvOne | Gvision TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="Berita Olahraga",23:30 WIB Sports Arena | MAXSports | Gvision TV
+http://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
 #EXTINF:-1 tvg-logo="https://wsrv.nl/?url=https%3A%2F%2Fcdn-img.cdnokvip.com%2Flogos%2F533_1k30j6qnfp2d.png&w=250&h=250&fit=contain&bg=ffffff&output=webp&q=85" group-title="Live Event: Lương sơn",23:00   29/06 Crvena Zvezda vs Slovan Bratislava  FERNANDO m3u Gvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
