@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [20:09 WIB 29/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:09 WIB 29/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:16 WIB 29/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:16 WIB 29/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b9/Wimbledon.svg/1280px-Wimbledon.svg.png" group-title="Wimbledon",[17:00 WIB 29/06/26] Rublev A. vs Safiullin R. [FHD] [LIVE]
@@ -74,15 +74,6 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[03:30 WIB 30/06/26] Germany vs Paraguay [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/267.png" group-title="Copa Chile",[06:30 WIB 30/06/26] Union Espanola vs Colo Colo [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/267.png" group-title="Copa Chile",[06:30 WIB 30/06/26] Union Espanola vs Colo Colo [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/267.png" group-title="Copa Chile",[06:30 WIB 30/06/26] Union Espanola vs Colo Colo [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 30/06/26] Netherlands vs Morocco [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
@@ -100,15 +91,6 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t" group-title="World Cup",[08:00 WIB 30/06/26] Netherlands vs Morocco [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/192.png" group-title="New South Wales NPL",[17:00 WIB 30/06/26] SD Raiders vs Sydney FC U23 [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/192.png" group-title="New South Wales NPL",[17:00 WIB 30/06/26] SD Raiders vs Sydney FC U23 [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/192.png" group-title="New South Wales NPL",[17:00 WIB 30/06/26] SD Raiders vs Sydney FC U23 [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/833.png" group-title="Queensland Premier League",[17:30 WIB 30/06/26] Logan Lightning vs Redlands United [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
