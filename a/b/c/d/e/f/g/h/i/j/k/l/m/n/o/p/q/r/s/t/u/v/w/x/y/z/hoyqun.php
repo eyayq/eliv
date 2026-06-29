@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [15:23 WIB 29/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:23 WIB 29/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [15:30 WIB 29/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [15:30 WIB 29/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/V.League_1_new_logo.svg" group-title="V.league",[16:00 WIB 29/06/26] Ha Noi W vs Ho Chi Minh W [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/V.League_1_new_logo.svg" group-title="V.league",[16:00 WIB 29/06/26] Ha Noi W vs Ho Chi Minh W [HD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/V.League_1_new_logo.svg" group-title="V.league",[16:00 WIB 29/06/26] Ha Noi W vs Ho Chi Minh W [SD] [NANTIKAN]
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.eqrm_BOpxTkND_07hp1e1gAAAA?pid=Api&P=0&h=220" group-title="China Super League",[18:00 WIB 29/06/26] Guangdong Meizhou W vs Wuhan Jiangda W [FHD] [NANTIKAN]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
