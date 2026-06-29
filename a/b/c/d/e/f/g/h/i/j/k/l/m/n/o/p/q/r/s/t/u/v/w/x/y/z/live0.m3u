@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 15:30:30 WIB 29-06-2026
-# 🔄 Total Channels: 5176
+# ⏰ Latest Updated: 15:37:29 WIB 29-06-2026
+# 🔄 Total Channels: 5166
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:30:30 WIB 29-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [15:37:29 WIB 29-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -172,16 +172,6 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
 https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z8yomovtoz1q0j6/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",20:30 WIB - IRAN VS SYRIA [FIB]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782746355-0-0-f6ce6acee59e37df910698f6e4e1660d
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtd1kq6od/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",23:30 WIB - IRAQ VS JORDAN [FIB]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782746355-0-0-f6ce6acee59e37df910698f6e4e1660d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Emma_Navarro_VS_Paula_Badosa_Wimbledon_Women.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",Emma Navarro VS Paula Badosa | Wimbledon Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
@@ -198,6 +188,11 @@ https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ec571fd12df158c9018cf/ch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ec571fd12df158c9018cf/chunks.m3u8?is_vip=false&token=3ed287a77f7a57c8a107822c8cd9302216b7a4a1&x-sign=0b16bbb785486d689821f72cf276cb45&x-time=1782746220|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtd1kq6od/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",23:30 WIB - IRAQ VS JORDAN [FIB]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782746989-0-0-6383a30fc40af2f09b847036d0dddd6f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",GLORY Kickboxing (720p)
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/H7YtOPgZ/poster.jpg?width=1920" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING 17:55 WIB | TGL 01/07] Hammarberg/Berger T. (AUT) vs Capogrosso N./Capogrosso T. (ARG), Men Pool A on C3 | Gstaad (SUI)
@@ -255,9 +250,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T7P994Ia/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 10:35 WIB | TGL 09/07] USA v Poland | Week 3 | Women's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/leargn8p/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Plavins/Fokerots (LAT) vs [tbc], Men Pool B on C2 | Gstaad (SUI)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FMOvtwkz/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Andre/Renato (BRA) vs Cottafava/Dal Corso (ITA), Men Pool B on C4 | Gstaad (SUI)
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/leargn8p/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Plavins/Fokerots (LAT) vs [tbc], Men Pool B on C2 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/H7YtOPgZ/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Hammarberg/Berger T. (AUT) vs Capogrosso N./Capogrosso T. (ARG), Men Pool A on C3 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -275,21 +270,16 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zRXIW9Wb/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 19:55 WIB | TGL 01/07] Crabb/Benesh (USA) vs [tbc], Men Pool F on C3 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/3glrwjhe2zyqdyj/image/small" group-title="LIVE EVENT | VOLI 🏐",[ LIVE] 21:00 WIB 29/06 - ISRAEL U22 VS UKRAINE U22 [EUR]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=ab86e4c25eef8f80c41c258189bf7a20&wsABSTime=1782789853
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/vjxm8lhodppq6od/image/small" group-title="LIVE EVENT | VOLI 🏐",00:00 WIB 30/06 - BO DAO NHA U22 VS BA LAN U22 [EUR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=4fac11b1af13dffb5a13ba5a5cda749a&wsABSTime=1782789853
+https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=b8ad93def3e9b0becc569ca161023a02&wsABSTime=1782790284
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/3glrwjhe2yyqdyj/image/small" group-title="LIVE EVENT | VOLI 🏐",02:30 WIB 30/06 - PHAP U22 VS CH SEC U22 [EUR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=ab86e4c25eef8f80c41c258189bf7a20&wsABSTime=1782789853
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=83d61bed36480ca412881be7d30a8ede&wsABSTime=1782790284
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (04/02) - MUSICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7619&ext=hls&x=1782757394&k=cc5001f1817afaf78d7151237aabcf4c08b73393a9f06dc08c5faf1ba90361f7&sc=7619
@@ -441,13 +431,13 @@ https://streambone.usw40304648193001.workers.dev/play.m3u8?q=1561&ext=hls&x=1782
 https://streambone.usw40304648193001.workers.dev/play.m3u8?q=875&ext=hls&x=1782757394&k=0667dfc3188b97876f0c2b0d36f761ace54590156312abe809eedd810813f9e2&sc=875
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2020994eba62b9403abe2071f970010a392.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 22:00 WIB] [LAT Liga Tinggi] FK Auda Riga vs Riga FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5458491_1.m3u8?auth_key=1782833005-0-0-416531d5825ffbc34e740bd883ced037
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5458491_1.m3u8?auth_key=1782833365-0-0-0d0093a615ffb31ebffab9625ba25219
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202bc02bf38efa01ec47445b006c709327f.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 22:00 WIB] [UEFA European U19 Football Championship] Italy U19 vs Serbia U19 [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5460265_1.m3u8?auth_key=1782833005-0-0-80f43215ecd1deb169c7cd45d6e5175e
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5460265_1.m3u8?auth_key=1782833365-0-0-9ef166764558e61fbaaf9783b74179f9
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202f25c11eeae6c5a7ecb16ecb9b1aaec2a.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 22:00 WIB] [LAT Liga Tinggi] Jelgava vs Grobina [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5413925_1.m3u8?auth_key=1782833005-0-0-111e45a7e021f42030558b228e594429
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5413925_1.m3u8?auth_key=1782833365-0-0-8c13fb71c9f09b0d044b21972ea45f1d
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [3rd Test] England VS New Zealand | 3rd Test
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -548,122 +538,102 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live1.egmdispatch.com/live/68492604_bddbb866279b5e5cc92c12e639bae7bb_autoChange.m3u8?auth_key=1782760996-0-0-9b673f4d910efd988d3585af5b2a3ed4
+https://live1.egmdispatch.com/live/68492604_bddbb866279b5e5cc92c12e639bae7bb_autoChange.m3u8?auth_key=1782761215-0-0-486195fe58cbc53b5b337fee296a127d
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/ff4a0a80377b1a3739e702710c9488be.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [Latvian Higher League] FK Auda Riga vs Riga FC [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MvVNc5ZeAjdciWnNy/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/ff4a0a80377b1a3739e702710c9488be.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [Latvian Higher League] FK Auda Riga vs Riga FC [HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MvVNc5ZeAjdciWnNy/index.m3u8
+https://stream.streamoke.net/sd-6MvVNc5ZeAjdciWnNy.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [UEFA European U19 Football Championship] Italy U19 vs Serbia U19
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live.egmdispatch.com/live/70888712_096f6abd13d2c1f177ebf72de0c62822_autoChange.m3u8?auth_key=1782760996-0-0-3204ecb9ef2fb5ea2510b866f25ffd99
+https://live.egmdispatch.com/live/70888712_096f6abd13d2c1f177ebf72de0c62822_autoChange.m3u8?auth_key=1782761215-0-0-a110e029a6a86e8973a76bbc59939746
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/775bc655c77d679c193f1982dac04668.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [UEFA European U19 Football Championship] Italy U19 vs Serbia U19 [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MwdpuLPK47VFTDvCM/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/775bc655c77d679c193f1982dac04668.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [UEFA European U19 Football Championship] Italy U19 vs Serbia U19 [HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MwdpuLPK47VFTDvCM/index.m3u8
+https://stream.streamoke.net/sd-6MwdpuLPK47VFTDvCM.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/277e5d1f01baffb84533c9236b05cbf8.png!w80" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [Latvian Higher League] Jelgava vs Grobina
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.egmdispatch.com/live/68492602_d0522d844883b7b17d25ddb50c375c7a_autoChange.m3u8?auth_key=1782760996-0-0-8bd50ac190fccd57c664604518f2c144
+https://live2.egmdispatch.com/live/68492602_d0522d844883b7b17d25ddb50c375c7a_autoChange.m3u8?auth_key=1782761215-0-0-3e6144c8ca4084414a6a8ce1384533f7
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/277e5d1f01baffb84533c9236b05cbf8.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [Latvian Higher League] Jelgava vs Grobina [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MvVNc5ZeHL5E9zXqf/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/277e5d1f01baffb84533c9236b05cbf8.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [Latvian Higher League] Jelgava vs Grobina [HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MvVNc5ZeHL5E9zXqf/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z8yomovtoz1q0j6/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:30 WIB - IRAN VS SYRIA [FIB]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782746355-0-0-f6ce6acee59e37df910698f6e4e1660d
+https://stream.streamoke.net/sd-6MvVNc5ZeHL5E9zXqf.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghk521m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - BOSTON RIVER R VS DEPORTIVO MALDONADO R [URU RL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=09c13f241fed3c189d90093f01cb7c82&wsABSTime=1782789556
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/3glrwjhe2zyqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",[ LIVE] 21:00 WIB 29/06 - ISRAEL U22 VS UKRAINE U22 [EUR]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=ab86e4c25eef8f80c41c258189bf7a20&wsABSTime=1782789853
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=bcbed768f6d323cdc0332084089fef31&wsABSTime=1782790188
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7h1ey0qdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - RACING MONTEVIDEO R VS PROGRESO R [URU RL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=fae9bf23eff44ca966e1f2a98d4c376b&wsABSTime=1782789556
+https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=d21a8b8da3ba8c66c225237ef9a5e149&wsABSTime=1782790189
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwdvxqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - FK AUDA RIGA VS RIGA FC [LAT D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001782746358-0-0-8b32171368267f4d292f59fa6940985e
+https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001782746989-0-0-86a0fac131474819b9ce47ff435777f7
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phk0ggm2wd/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - ITALY U19 VS SERBIA U19 [UEFA U19]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001782746358-0-0-8b05d8414551fe89b72eca37293f5e8c
+https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001782746990-0-0-0e995fcf5664143c0c800c7fdf94c387
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlw8jrz84/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - JELGAVA VS GROBINA [LAT D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001782746357-0-0-957d88ef8970b9ffbc401d5845f68326
+https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001782746989-0-0-1f2edba039bba087f2f0e5acd2cdc271
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhg4lkql07/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - NU MFA ZALGIRIS VS NU FK BANGA [LIT ALW]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=c6ae87c4a2584b79ab1b4adb4d405878&wsABSTime=1782789559
+https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=80e2ecd339da167c2756ee38660c27b8&wsABSTime=1782790190
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghjeodq82w/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - UNIV CRAIOVA VS POLISSYA ZHYTOMYR [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=816c08846f31b99865eba104e2e475cd&wsABSTime=1782789558
+https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=1107bc1dd4fdd39541648f6a79a11cb4&wsABSTime=1782790190
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkh3x68qg8n/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:30 WIB - FC SIAULIAI VS TRANSINVEST [LIT D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001782746359-0-0-297ad82f2755da7f731187fdd1cad6b5
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001782746991-0-0-f5547655111507a64ae4f8dd889a2f04
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whknnwryox/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:30 WIB - GOL GOHAR FC VS CHADORMALU SC [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=e8c696f95b9b008d827a67b4fadfca62&wsABSTime=1782789560
+https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=16c959a1f4c4a29115801482c1c0fe52&wsABSTime=1782790191
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhglv3ryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:45 WIB - FK PANEVEZYS VS SUDUVA [LIT D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001782746360-0-0-46cb49c98f853053e740cf2e8a6f0962
+https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001782746991-0-0-1badf45aac00a88c84161856b1ac501d
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh44krepz/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",23:00 WIB - CRVENA ZVEZDA VS SLOVAN BRATISLAVA [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782746361-0-0-91de47aeecc95d81d7ffafde6567ea08
+https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782746993-0-0-5762060ba90f3395ae501f4f91f69913
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh445wr510/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",23:00 WIB - CSKA 1948 SOFIA VS PARTIZAN BELGRADE [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=57950443019dcc66224e1583cdeabc40&wsABSTime=1782789561
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=a8f36b61aa3df67d45e63c43a8a313bf&wsABSTime=1782790193
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghd6wmoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",23:00 WIB - TEREK GROZNY VS BORAC BANJA LUKA [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel21.flv?auth_key=3000001782746357-0-0-4a355e6dd6ecbf89a5b499db09e149c2
+https://live3.procdnlive.com/livecdn/channel21.flv?auth_key=3000001782746992-0-0-dc6ece6fa592580d0a63c143557b7e23
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtd1kq6od/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",23:30 WIB - IRAQ VS JORDAN [FIB]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782746989-0-0-6383a30fc40af2f09b847036d0dddd6f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="SPORTS FHD",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="SPORTS FHD",AS3 Sport TV (1080p)
@@ -1098,6 +1068,243 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_dat
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C490-1750072819.png" group-title="SPORTS FHD",WWE
 http://maxotts.maxdigitaltv.com/x-media/C490/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ff4a0a80377b1a3739e702710c9488be.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Auda vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.paznhl.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782749482-0-0-32d0256d14c145b2d38404bdd8ec3d58
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782749482-0-0-cc4310142a6c7ee2a866b1f5bda4d031
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782749842-0-0-fc582aa91f045cd3b610f76a6ef1082a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782749842-0-0-2fb6e172edb87c7bb5131c91c2f8d3bd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=eefe4e3eb45dbf112be07059be265104&txTime=6a42e0e2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=eefe4e3eb45dbf112be07059be265104&txTime=6a42e0e2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782749842-0-0-a981868aca993f0cdba0b36f43f262e4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782749842-0-0-6962bb1905bec48d95a505ef520aeefa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1782749842-0-0-e1913d6ee6b5c3945ac326ebe8cc55f8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782749842-0-0-bf19953ffe02cd88db371e9327e2fcc8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782750202-0-0-e58f47445008151e7deb1d73984dca7a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782750202-0-0-ed3107e68401756e8380ff98760bde5f
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782749482-0-0-974c0981cba814f27ac099b7406df473
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782749482-0-0-85dd2a80130ba3911c24a3a3110b392b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782749482-0-0-67f4ba4516dd1eadabc5f9234e4db150
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782749482-0-0-6a1d1f06fbcd815938da65a8878367e0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782749482-0-0-cc533e8a005b450a94a68adfcf02678f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782749482-0-0-98ba971959a0d900a2b963347f426cd6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782749842-0-0-26c1b2819f0f8ca6a7dbfc43fd24f0b6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782749842-0-0-8f7ee029d5027bd735bfa7a9dc40bc02
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782750202-0-0-5866f76f728aa9a823c153ad2ce9b07c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782750202-0-0-ab138419de5c136bdb6e43fd6d9ea274
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782750202-0-0-4f6f6cdef921114af81bbc771041aa46
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782750202-0-0-5806b76d5d9af2e0afc07afb0e49c14a
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782749482-0-0-337aefdf33899ed983a70381ee8743b6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782749482-0-0-9f179992f5540755cc5d2a5ccb5f6af3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782749482-0-0-47f487fd2116afdfa3b4cc3b1ff0c3b2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782749482-0-0-369790d1382a6a631a5863c9cb9db40f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782749842-0-0-02e2cdf9f22b9e0a927eed48b71f87a0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782749842-0-0-681a6cbc2b1d7ca944eb4057933f1115
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1782749842-0-0-3fcb5dd9397530cb109331a281bf1b28
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1782749842-0-0-5190691cf8578c4e1e488978fe1444ef
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1782750202-0-0-2ab4aa2f3c6fee15ec8e0713292da1eb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782750202-0-0-213c1928946859d532e54f3773d68fbe
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782750202-0-0-90f7ab0671b3c38d1fb1057fe3639de6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782750202-0-0-4fccf9708beab47d8e573cbf034d8244
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/277e5d1f01baffb84533c9236b05cbf8.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.paznhl.app/live/90865415.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Y U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.paznhl.app/live/59444581.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1782749482-0-0-b0cf80a3239af79494be6e78edfca988
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782749482-0-0-efa2f1323a4faf8ea5f2b23d21b36bf0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=3200410fb362c8ef64390e59d122ad8c&txTime=6a42df7a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=3200410fb362c8ef64390e59d122ad8c&txTime=6a42df7a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782750202-0-0-77ee5878860ac9e9d6a702307d997dc9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782750202-0-0-c4d0a8ba91cf6c202d83534cb689a178
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-606448_lsd.flv?txSecret=e44032d18108e3e2ccc82b2ce98e8d66&txTime=6a42e24a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=e44032d18108e3e2ccc82b2ce98e8d66&txTime=6a42e24a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ec9c146bfc4787537440c03cfc51b205.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:45 WIB 29/06 FK Panevezys vs Suduva (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=2033a64d12ba99adf41cab5f8392d37f&txTime=6a42e24a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ec9c146bfc4787537440c03cfc51b205.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:45 WIB 29/06 FK Panevezys vs Suduva (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=2033a64d12ba99adf41cab5f8392d37f&txTime=6a42e24a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ec9c146bfc4787537440c03cfc51b205.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:45 WIB 29/06 FK Panevezys vs Suduva (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782750202-0-0-3ac34ae6ae6c1e282483eec32fe120f1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ec9c146bfc4787537440c03cfc51b205.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:45 WIB 29/06 FK Panevezys vs Suduva (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782750202-0-0-206775d08b49c2556dbe79c17da8c635
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",FIBA WCQL: Qatar vs Saudi Arabia (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782750202-0-0-9362bd06cc54ef0ee9d6b7544e7897da
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",FIBA WCQL: Qatar vs Saudi Arabia (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782750202-0-0-c45f715fc70de2050388d1c31372a9c4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Algeria vs Austria (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782749842-0-0-cbc6757630c744b78e9c6b2d5211b209
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Algeria vs Austria (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782749842-0-0-7d6124cfde5eeb252e51544ca7a06959
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782749842-0-0-9e93f5c78fb4ff63c68ec1ea4efd8388
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782749842-0-0-f0e0e0c06ea1f89cd2706ddea7ea9a94
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782749842-0-0-8a5d66c72f30c04df7a394c19a9b3ab5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782749842-0-0-e15386f2dcec468fcdf3f25943d93b80
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782749842-0-0-73513625f76f9dcf515975c728e21876
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782749842-0-0-ff6b953b28749e75e586d307aa4dd3e9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Panama vs England (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782749842-0-0-a8054e44ae0d5398aa97f9fdb029effd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Panama vs England (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782749842-0-0-1fbc92b58b0eee5b9ecc170892941e10
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782749842-0-0-1841c479cbecc3cf2b57e796dfd926b4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782749842-0-0-b4b0d52ec3ad9d24c34e458cce468847
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Algeria vs Austria (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782749842-0-0-cbc6757630c744b78e9c6b2d5211b209
@@ -1231,42 +1438,27 @@ https://bonetvbumper.ahmadadityaberdikari.workers.dev/bokep.m3u8
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MvYMRSY7rKqQKDFJM/index.m3u8
+https://stream.streamoke.net/sd-6MvYMRSY7rKqQKDFJM.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/f5537e8960824e848e5a9bac16514483.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 29 Jun, 02:00 WIB] [FIFA World Cup] South Africa vs Canada [Full HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/hd-en-6MvYMRSY7rKqQKDFJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/f5537e8960824e848e5a9bac16514483.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 29 Jun, 02:00 WIB] [FIFA World Cup] South Africa vs Canada [HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MvYMRSY7rKqQKDFJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/f5537e8960824e848e5a9bac16514483.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 29 Jun, 02:00 WIB] [FIFA World Cup] South Africa vs Canada [Full HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/hd-en-6MvYMRSY7rKqQKDFJM/index.m3u8
+https://stream.streamoke.net/hd-en-6MvYMRSY7rKqQKDFJM.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/c718af22dc754a6b8dc103901c554eb8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 30 Jun, 00:00 WIB] [FIFA World Cup] Brazil vs Japan [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MvYMRSYcmMUUNZVLR/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/c718af22dc754a6b8dc103901c554eb8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 30 Jun, 00:00 WIB] [FIFA World Cup] Brazil vs Japan [HD 2]
+https://stream.streamoke.net/sd-6MvYMRSYcmMUUNZVLR.m3u8
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/c718af22dc754a6b8dc103901c554eb8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 30 Jun, 00:00 WIB] [FIFA World Cup] Brazil vs Japan [Full HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MvYMRSYcmMUUNZVLR/index.m3u8
+https://stream.streamoke.net/hd-en-6MvYMRSYcmMUUNZVLR.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/761ccf19be6a4fdf81880acadb81aa4c.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 30 Jun, 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MvYMRSY7Mkb65ULJh/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/761ccf19be6a4fdf81880acadb81aa4c.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 30 Jun, 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MvYMRSY7Mkb65ULJh/index.m3u8
+https://stream.streamoke.net/sd-6MvYMRSY7Mkb65ULJh.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 30 Jun, 08:00 WIB] [FIFA World Cup] Netherlands vs Morocco
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/17962554eedf40e0af9df1fc346ce09e.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 1 Jul, 00:00 WIB] [FIFA World Cup] Cote d'Ivoire vs Norway
@@ -1325,231 +1517,6 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/490f78c68dc2744b4d16b399702301a8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 20 Jul, 02:00 WIB] [FIFA World Cup] Winner SF1 vs Winner SF2
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/1d51db71ad098b7afa9966c60c959d35.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:30 WIB] 29/06 Iran vs Syria (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782749482-0-0-42a04154220c3ff0b4a293a1c3ac3d20
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/1d51db71ad098b7afa9966c60c959d35.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:30 WIB] 29/06 Iran vs Syria (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782749482-0-0-feaa1646930e17485e2e800186737954
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ff4a0a80377b1a3739e702710c9488be.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Auda vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782749122-0-0-02fd27309e03cd67cb8a2b2a992ffef4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782749122-0-0-71b8cf77a4e8a08147a8bdb7f67b35f0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782749482-0-0-32d0256d14c145b2d38404bdd8ec3d58
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782749482-0-0-cc4310142a6c7ee2a866b1f5bda4d031
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782749842-0-0-fc582aa91f045cd3b610f76a6ef1082a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782749842-0-0-2fb6e172edb87c7bb5131c91c2f8d3bd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=eefe4e3eb45dbf112be07059be265104&txTime=6a42e0e2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=eefe4e3eb45dbf112be07059be265104&txTime=6a42e0e2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782749842-0-0-a981868aca993f0cdba0b36f43f262e4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782749842-0-0-6962bb1905bec48d95a505ef520aeefa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1782749842-0-0-e1913d6ee6b5c3945ac326ebe8cc55f8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782749842-0-0-bf19953ffe02cd88db371e9327e2fcc8
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782749122-0-0-09706d93400a74c2c2e78eb7b0835458
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782749122-0-0-86ba9b3286d8fde56887744a67365c19
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782749122-0-0-e501fd52b91fa97cf2c06b646db4eed1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782749122-0-0-8a780b42f423c636d1eb5ca73ea9bc4f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782749482-0-0-974c0981cba814f27ac099b7406df473
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782749482-0-0-85dd2a80130ba3911c24a3a3110b392b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782749482-0-0-67f4ba4516dd1eadabc5f9234e4db150
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782749482-0-0-6a1d1f06fbcd815938da65a8878367e0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782749482-0-0-cc533e8a005b450a94a68adfcf02678f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782749482-0-0-98ba971959a0d900a2b963347f426cd6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782749842-0-0-26c1b2819f0f8ca6a7dbfc43fd24f0b6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782749842-0-0-8f7ee029d5027bd735bfa7a9dc40bc02
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782749122-0-0-45213d07165075bfb960704bbb9be026
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782749122-0-0-02334e284a58a3cb7b9f953ab163a90a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1782749122-0-0-d91a83157902028bb904bbe7253fc310
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782749122-0-0-ba3e65ca022dd8c9de0618ab3829c4ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782749482-0-0-337aefdf33899ed983a70381ee8743b6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782749482-0-0-9f179992f5540755cc5d2a5ccb5f6af3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782749482-0-0-47f487fd2116afdfa3b4cc3b1ff0c3b2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782749482-0-0-369790d1382a6a631a5863c9cb9db40f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782749842-0-0-02e2cdf9f22b9e0a927eed48b71f87a0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782749842-0-0-681a6cbc2b1d7ca944eb4057933f1115
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1782749842-0-0-3fcb5dd9397530cb109331a281bf1b28
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1782749842-0-0-5190691cf8578c4e1e488978fe1444ef
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/277e5d1f01baffb84533c9236b05cbf8.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Y U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/59444581.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782749122-0-0-df54da455d18c6e9a7b2ea260686a6cb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782749122-0-0-afe09c4fad77046613e4ed0b7822ea62
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-606448_lsd.flv?txSecret=e6c37e8353bc67b6650bb3391008798c&txTime=6a42de12
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=e6c37e8353bc67b6650bb3391008798c&txTime=6a42de12
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1782749482-0-0-b0cf80a3239af79494be6e78edfca988
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782749482-0-0-efa2f1323a4faf8ea5f2b23d21b36bf0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=3200410fb362c8ef64390e59d122ad8c&txTime=6a42df7a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=3200410fb362c8ef64390e59d122ad8c&txTime=6a42df7a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Algeria vs Austria (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782749842-0-0-cbc6757630c744b78e9c6b2d5211b209
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Algeria vs Austria (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782749842-0-0-7d6124cfde5eeb252e51544ca7a06959
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782749842-0-0-9e93f5c78fb4ff63c68ec1ea4efd8388
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782749842-0-0-f0e0e0c06ea1f89cd2706ddea7ea9a94
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782749842-0-0-8a5d66c72f30c04df7a394c19a9b3ab5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782749842-0-0-e15386f2dcec468fcdf3f25943d93b80
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782749842-0-0-73513625f76f9dcf515975c728e21876
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782749842-0-0-ff6b953b28749e75e586d307aa4dd3e9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Panama vs England (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782749842-0-0-a8054e44ae0d5398aa97f9fdb029effd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Panama vs England (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782749842-0-0-1fbc92b58b0eee5b9ecc170892941e10
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782749842-0-0-1841c479cbecc3cf2b57e796dfd926b4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782749842-0-0-b4b0d52ec3ad9d24c34e458cce468847
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[World - Club Friendly] Partizan vs CSKA 1948 (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%203%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%203%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
@@ -7797,16 +7764,6 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c736e5c8f5a4d1a8eb8af1e63aa2005:d1729111efdfb7727ee3e6fcbc7586e1
 https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z8yomovtoz1q0j6/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",20:30 WIB - IRAN VS SYRIA [FIB]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782746355-0-0-f6ce6acee59e37df910698f6e4e1660d
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtd1kq6od/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",23:30 WIB - IRAQ VS JORDAN [FIB]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782746355-0-0-f6ce6acee59e37df910698f6e4e1660d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Emma_Navarro_VS_Paula_Badosa_Wimbledon_Women.jpg" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",Emma Navarro VS Paula Badosa | Wimbledon Women [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
@@ -7823,6 +7780,11 @@ https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ec571fd12df158c9018cf/ch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ec571fd12df158c9018cf/chunks.m3u8?is_vip=false&token=3ed287a77f7a57c8a107822c8cd9302216b7a4a1&x-sign=0b16bbb785486d689821f72cf276cb45&x-time=1782746220|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtd1kq6od/image/small" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",23:30 WIB - IRAQ VS JORDAN [FIB]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782746989-0-0-6383a30fc40af2f09b847036d0dddd6f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tS7Ub7i.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",GLORY Kickboxing (720p)
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/H7YtOPgZ/poster.jpg?width=1920" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[ UPCOMING 17:55 WIB | TGL 01/07] Hammarberg/Berger T. (AUT) vs Capogrosso N./Capogrosso T. (ARG), Men Pool A on C3 | Gstaad (SUI)
@@ -7880,9 +7842,9 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/T7P994Ia/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 10:35 WIB | TGL 09/07] USA v Poland | Week 3 | Women's VNL 2026
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/leargn8p/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Plavins/Fokerots (LAT) vs [tbc], Men Pool B on C2 | Gstaad (SUI)
-https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/FMOvtwkz/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Andre/Renato (BRA) vs Cottafava/Dal Corso (ITA), Men Pool B on C4 | Gstaad (SUI)
+https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/leargn8p/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Plavins/Fokerots (LAT) vs [tbc], Men Pool B on C2 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/H7YtOPgZ/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 17:55 WIB | TGL 01/07] Hammarberg/Berger T. (AUT) vs Capogrosso N./Capogrosso T. (ARG), Men Pool A on C3 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -7900,21 +7862,16 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zRXIW9Wb/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 19:55 WIB | TGL 01/07] Crabb/Benesh (USA) vs [tbc], Men Pool F on C3 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/3glrwjhe2zyqdyj/image/small" group-title="LIVE EVENT | VOLI 🏐",[ LIVE] 21:00 WIB 29/06 - ISRAEL U22 VS UKRAINE U22 [EUR]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=ab86e4c25eef8f80c41c258189bf7a20&wsABSTime=1782789853
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/vjxm8lhodppq6od/image/small" group-title="LIVE EVENT | VOLI 🏐",00:00 WIB 30/06 - BO DAO NHA U22 VS BA LAN U22 [EUR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=4fac11b1af13dffb5a13ba5a5cda749a&wsABSTime=1782789853
+https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=b8ad93def3e9b0becc569ca161023a02&wsABSTime=1782790284
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/3glrwjhe2yyqdyj/image/small" group-title="LIVE EVENT | VOLI 🏐",02:30 WIB 30/06 - PHAP U22 VS CH SEC U22 [EUR]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=ab86e4c25eef8f80c41c258189bf7a20&wsABSTime=1782789853
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=83d61bed36480ca412881be7d30a8ede&wsABSTime=1782790284
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (04/02) - MUSICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7619&ext=hls&x=1782757394&k=cc5001f1817afaf78d7151237aabcf4c08b73393a9f06dc08c5faf1ba90361f7&sc=7619
@@ -8066,13 +8023,13 @@ https://streambone.usw40304648193001.workers.dev/play.m3u8?q=1561&ext=hls&x=1782
 https://streambone.usw40304648193001.workers.dev/play.m3u8?q=875&ext=hls&x=1782757394&k=0667dfc3188b97876f0c2b0d36f761ace54590156312abe809eedd810813f9e2&sc=875
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/2020994eba62b9403abe2071f970010a392.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 22:00 WIB] [LAT Liga Tinggi] FK Auda Riga vs Riga FC [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5458491_1.m3u8?auth_key=1782833005-0-0-416531d5825ffbc34e740bd883ced037
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5458491_1.m3u8?auth_key=1782833365-0-0-0d0093a615ffb31ebffab9625ba25219
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202bc02bf38efa01ec47445b006c709327f.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 22:00 WIB] [UEFA European U19 Football Championship] Italy U19 vs Serbia U19 [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5460265_1.m3u8?auth_key=1782833005-0-0-80f43215ecd1deb169c7cd45d6e5175e
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5460265_1.m3u8?auth_key=1782833365-0-0-9ef166764558e61fbaaf9783b74179f9
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/202f25c11eeae6c5a7ecb16ecb9b1aaec2a.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 22:00 WIB] [LAT Liga Tinggi] Jelgava vs Grobina [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/202_5413925_1.m3u8?auth_key=1782833005-0-0-111e45a7e021f42030558b228e594429
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5413925_1.m3u8?auth_key=1782833365-0-0-8c13fb71c9f09b0d044b21972ea45f1d
 #EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [3rd Test] England VS New Zealand | 3rd Test
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
@@ -8173,122 +8130,102 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live1.egmdispatch.com/live/68492604_bddbb866279b5e5cc92c12e639bae7bb_autoChange.m3u8?auth_key=1782760996-0-0-9b673f4d910efd988d3585af5b2a3ed4
+https://live1.egmdispatch.com/live/68492604_bddbb866279b5e5cc92c12e639bae7bb_autoChange.m3u8?auth_key=1782761215-0-0-486195fe58cbc53b5b337fee296a127d
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/ff4a0a80377b1a3739e702710c9488be.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [Latvian Higher League] FK Auda Riga vs Riga FC [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MvVNc5ZeAjdciWnNy/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/ff4a0a80377b1a3739e702710c9488be.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [Latvian Higher League] FK Auda Riga vs Riga FC [HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MvVNc5ZeAjdciWnNy/index.m3u8
+https://stream.streamoke.net/sd-6MvVNc5ZeAjdciWnNy.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [UEFA European U19 Football Championship] Italy U19 vs Serbia U19
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live.egmdispatch.com/live/70888712_096f6abd13d2c1f177ebf72de0c62822_autoChange.m3u8?auth_key=1782760996-0-0-3204ecb9ef2fb5ea2510b866f25ffd99
+https://live.egmdispatch.com/live/70888712_096f6abd13d2c1f177ebf72de0c62822_autoChange.m3u8?auth_key=1782761215-0-0-a110e029a6a86e8973a76bbc59939746
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/775bc655c77d679c193f1982dac04668.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [UEFA European U19 Football Championship] Italy U19 vs Serbia U19 [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MwdpuLPK47VFTDvCM/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/775bc655c77d679c193f1982dac04668.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [UEFA European U19 Football Championship] Italy U19 vs Serbia U19 [HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MwdpuLPK47VFTDvCM/index.m3u8
+https://stream.streamoke.net/sd-6MwdpuLPK47VFTDvCM.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/277e5d1f01baffb84533c9236b05cbf8.png!w80" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [Latvian Higher League] Jelgava vs Grobina
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://live2.egmdispatch.com/live/68492602_d0522d844883b7b17d25ddb50c375c7a_autoChange.m3u8?auth_key=1782760996-0-0-8bd50ac190fccd57c664604518f2c144
+https://live2.egmdispatch.com/live/68492602_d0522d844883b7b17d25ddb50c375c7a_autoChange.m3u8?auth_key=1782761215-0-0-3e6144c8ca4084414a6a8ce1384533f7
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/277e5d1f01baffb84533c9236b05cbf8.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [Latvian Higher League] Jelgava vs Grobina [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MvVNc5ZeHL5E9zXqf/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/277e5d1f01baffb84533c9236b05cbf8.png" group-title="🔴 🔴LIVE EVENT NOW 2 | BONE TV",[ LIVE 22:00 WIB] [Latvian Higher League] Jelgava vs Grobina [HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MvVNc5ZeHL5E9zXqf/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/z8yomovtoz1q0j6/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",20:30 WIB - IRAN VS SYRIA [FIB]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782746355-0-0-f6ce6acee59e37df910698f6e4e1660d
+https://stream.streamoke.net/sd-6MvVNc5ZeHL5E9zXqf.m3u8
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2ghk521m0ve/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - BOSTON RIVER R VS DEPORTIVO MALDONADO R [URU RL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=09c13f241fed3c189d90093f01cb7c82&wsABSTime=1782789556
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/team/3glrwjhe2zyqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",[ LIVE] 21:00 WIB 29/06 - ISRAEL U22 VS UKRAINE U22 [EUR]
-#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
-#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=ab86e4c25eef8f80c41c258189bf7a20&wsABSTime=1782789853
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=bcbed768f6d323cdc0332084089fef31&wsABSTime=1782790188
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7h1ey0qdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",21:00 WIB - RACING MONTEVIDEO R VS PROGRESO R [URU RL]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=fae9bf23eff44ca966e1f2a98d4c376b&wsABSTime=1782789556
+https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=d21a8b8da3ba8c66c225237ef9a5e149&wsABSTime=1782790189
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwdvxqdyj/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - FK AUDA RIGA VS RIGA FC [LAT D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001782746358-0-0-8b32171368267f4d292f59fa6940985e
+https://live3.procdnlive.com/livecdn/channel20.flv?auth_key=3000001782746989-0-0-86a0fac131474819b9ce47ff435777f7
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phk0ggm2wd/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - ITALY U19 VS SERBIA U19 [UEFA U19]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001782746358-0-0-8b05d8414551fe89b72eca37293f5e8c
+https://live3.procdnlive.com/livecdn/channel9.flv?auth_key=3000001782746990-0-0-0e995fcf5664143c0c800c7fdf94c387
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hlw8jrz84/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - JELGAVA VS GROBINA [LAT D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001782746357-0-0-957d88ef8970b9ffbc401d5845f68326
+https://live3.procdnlive.com/livecdn/channel22.flv?auth_key=3000001782746989-0-0-1f2edba039bba087f2f0e5acd2cdc271
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhg4lkql07/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - NU MFA ZALGIRIS VS NU FK BANGA [LIT ALW]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=c6ae87c4a2584b79ab1b4adb4d405878&wsABSTime=1782789559
+https://live1.pro2cdnlive.com/live/channel31.flv?wsSecret=80e2ecd339da167c2756ee38660c27b8&wsABSTime=1782790190
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghjeodq82w/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:00 WIB - UNIV CRAIOVA VS POLISSYA ZHYTOMYR [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=816c08846f31b99865eba104e2e475cd&wsABSTime=1782789558
+https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=1107bc1dd4fdd39541648f6a79a11cb4&wsABSTime=1782790190
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkh3x68qg8n/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:30 WIB - FC SIAULIAI VS TRANSINVEST [LIT D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001782746359-0-0-297ad82f2755da7f731187fdd1cad6b5
+https://live3.procdnlive.com/livecdn/channel28.flv?auth_key=3000001782746991-0-0-f5547655111507a64ae4f8dd889a2f04
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/ednm9whknnwryox/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:30 WIB - GOL GOHAR FC VS CHADORMALU SC [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=e8c696f95b9b008d827a67b4fadfca62&wsABSTime=1782789560
+https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=16c959a1f4c4a29115801482c1c0fe52&wsABSTime=1782790191
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhglv3ryk0/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",22:45 WIB - FK PANEVEZYS VS SUDUVA [LIT D1]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001782746360-0-0-46cb49c98f853053e740cf2e8a6f0962
+https://live3.procdnlive.com/livecdn/channel8.flv?auth_key=3000001782746991-0-0-1badf45aac00a88c84161856b1ac501d
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9k82rekh44krepz/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",23:00 WIB - CRVENA ZVEZDA VS SLOVAN BRATISLAVA [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782746361-0-0-91de47aeecc95d81d7ffafde6567ea08
+https://live3.procdnlive.com/livecdn/channel17.flv?auth_key=3000001782746993-0-0-5762060ba90f3395ae501f4f91f69913
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/l7oqdeh445wr510/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",23:00 WIB - CSKA 1948 SOFIA VS PARTIZAN BELGRADE [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=57950443019dcc66224e1583cdeabc40&wsABSTime=1782789561
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=a8f36b61aa3df67d45e63c43a8a313bf&wsABSTime=1782790193
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/team/9dn1m1ghd6wmoep/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",23:00 WIB - TEREK GROZNY VS BORAC BANJA LUKA [INT CF]
 #EXTVLCOPT:http-origin=https://xlz.livecdnem.com
 #EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live3.procdnlive.com/livecdn/channel21.flv?auth_key=3000001782746357-0-0-4a355e6dd6ecbf89a5b499db09e149c2
+https://live3.procdnlive.com/livecdn/channel21.flv?auth_key=3000001782746992-0-0-dc6ece6fa592580d0a63c143557b7e23
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/team/9vjxm8xtd1kq6od/image/small" group-title="🔴 LIVE EVENT NOW | XOILACZ VIP 🔴",23:30 WIB - IRAQ VS JORDAN [FIB]
+#EXTVLCOPT:http-origin=https://xlz.livecdnem.com
+#EXTVLCOPT:http-referrer=https://xlz.livecdnem.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live3.procdnlive.com/livecdn/channel29.flv?auth_key=3000001782746989-0-0-6383a30fc40af2f09b847036d0dddd6f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="SPORTS FHD",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="SPORTS FHD",AS3 Sport TV (1080p)
@@ -8723,6 +8660,243 @@ https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_dat
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel-logo-C490-1750072819.png" group-title="SPORTS FHD",WWE
 http://maxotts.maxdigitaltv.com/x-media/C490/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ff4a0a80377b1a3739e702710c9488be.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Auda vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.paznhl.app/live/16226575.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782749482-0-0-32d0256d14c145b2d38404bdd8ec3d58
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782749482-0-0-cc4310142a6c7ee2a866b1f5bda4d031
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782749842-0-0-fc582aa91f045cd3b610f76a6ef1082a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782749842-0-0-2fb6e172edb87c7bb5131c91c2f8d3bd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=eefe4e3eb45dbf112be07059be265104&txTime=6a42e0e2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=eefe4e3eb45dbf112be07059be265104&txTime=6a42e0e2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782749842-0-0-a981868aca993f0cdba0b36f43f262e4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782749842-0-0-6962bb1905bec48d95a505ef520aeefa
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1782749842-0-0-e1913d6ee6b5c3945ac326ebe8cc55f8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782749842-0-0-bf19953ffe02cd88db371e9327e2fcc8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782750202-0-0-e58f47445008151e7deb1d73984dca7a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782750202-0-0-ed3107e68401756e8380ff98760bde5f
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782749482-0-0-974c0981cba814f27ac099b7406df473
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782749482-0-0-85dd2a80130ba3911c24a3a3110b392b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782749482-0-0-67f4ba4516dd1eadabc5f9234e4db150
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782749482-0-0-6a1d1f06fbcd815938da65a8878367e0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782749482-0-0-cc533e8a005b450a94a68adfcf02678f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782749482-0-0-98ba971959a0d900a2b963347f426cd6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782749842-0-0-26c1b2819f0f8ca6a7dbfc43fd24f0b6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782749842-0-0-8f7ee029d5027bd735bfa7a9dc40bc02
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782750202-0-0-5866f76f728aa9a823c153ad2ce9b07c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782750202-0-0-ab138419de5c136bdb6e43fd6d9ea274
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782750202-0-0-4f6f6cdef921114af81bbc771041aa46
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782750202-0-0-5806b76d5d9af2e0afc07afb0e49c14a
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782749482-0-0-337aefdf33899ed983a70381ee8743b6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782749482-0-0-9f179992f5540755cc5d2a5ccb5f6af3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782749482-0-0-47f487fd2116afdfa3b4cc3b1ff0c3b2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782749482-0-0-369790d1382a6a631a5863c9cb9db40f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782749842-0-0-02e2cdf9f22b9e0a927eed48b71f87a0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782749842-0-0-681a6cbc2b1d7ca944eb4057933f1115
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1782749842-0-0-3fcb5dd9397530cb109331a281bf1b28
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1782749842-0-0-5190691cf8578c4e1e488978fe1444ef
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1782750202-0-0-2ab4aa2f3c6fee15ec8e0713292da1eb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782750202-0-0-213c1928946859d532e54f3773d68fbe
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782750202-0-0-90f7ab0671b3c38d1fb1057fe3639de6
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782750202-0-0-4fccf9708beab47d8e573cbf034d8244
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/277e5d1f01baffb84533c9236b05cbf8.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.paznhl.app/live/90865415.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Y U19 vs Serbia U19 (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://live05.paznhl.app/live/59444581.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1782749482-0-0-b0cf80a3239af79494be6e78edfca988
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782749482-0-0-efa2f1323a4faf8ea5f2b23d21b36bf0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=3200410fb362c8ef64390e59d122ad8c&txTime=6a42df7a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=3200410fb362c8ef64390e59d122ad8c&txTime=6a42df7a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782750202-0-0-77ee5878860ac9e9d6a702307d997dc9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782750202-0-0-c4d0a8ba91cf6c202d83534cb689a178
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-606448_lsd.flv?txSecret=e44032d18108e3e2ccc82b2ce98e8d66&txTime=6a42e24a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=e44032d18108e3e2ccc82b2ce98e8d66&txTime=6a42e24a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ec9c146bfc4787537440c03cfc51b205.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:45 WIB 29/06 FK Panevezys vs Suduva (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.flv?txSecret=2033a64d12ba99adf41cab5f8392d37f&txTime=6a42e24a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ec9c146bfc4787537440c03cfc51b205.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:45 WIB 29/06 FK Panevezys vs Suduva (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niur.live/live/stream-491873_lsd.m3u8?txSecret=2033a64d12ba99adf41cab5f8392d37f&txTime=6a42e24a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ec9c146bfc4787537440c03cfc51b205.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:45 WIB 29/06 FK Panevezys vs Suduva (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-603255_lsd.flv?auth_key=1782750202-0-0-3ac34ae6ae6c1e282483eec32fe120f1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ec9c146bfc4787537440c03cfc51b205.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:45 WIB 29/06 FK Panevezys vs Suduva (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-603255_lsd.m3u8?auth_key=1782750202-0-0-206775d08b49c2556dbe79c17da8c635
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",FIBA WCQL: Qatar vs Saudi Arabia (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782750202-0-0-9362bd06cc54ef0ee9d6b7544e7897da
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",FIBA WCQL: Qatar vs Saudi Arabia (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782750202-0-0-c45f715fc70de2050388d1c31372a9c4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Algeria vs Austria (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782749842-0-0-cbc6757630c744b78e9c6b2d5211b209
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Algeria vs Austria (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782749842-0-0-7d6124cfde5eeb252e51544ca7a06959
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782749842-0-0-9e93f5c78fb4ff63c68ec1ea4efd8388
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782749842-0-0-f0e0e0c06ea1f89cd2706ddea7ea9a94
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782749842-0-0-8a5d66c72f30c04df7a394c19a9b3ab5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782749842-0-0-e15386f2dcec468fcdf3f25943d93b80
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782749842-0-0-73513625f76f9dcf515975c728e21876
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782749842-0-0-ff6b953b28749e75e586d307aa4dd3e9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Panama vs England (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782749842-0-0-a8054e44ae0d5398aa97f9fdb029effd
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Panama vs England (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782749842-0-0-1fbc92b58b0eee5b9ecc170892941e10
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782749842-0-0-1841c479cbecc3cf2b57e796dfd926b4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782749842-0-0-b4b0d52ec3ad9d24c34e458cce468847
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Algeria vs Austria (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782749842-0-0-cbc6757630c744b78e9c6b2d5211b209
@@ -8856,42 +9030,27 @@ https://bonetvbumper.ahmadadityaberdikari.workers.dev/bokep.m3u8
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MvYMRSY7rKqQKDFJM/index.m3u8
+https://stream.streamoke.net/sd-6MvYMRSY7rKqQKDFJM.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/f5537e8960824e848e5a9bac16514483.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 29 Jun, 02:00 WIB] [FIFA World Cup] South Africa vs Canada [Full HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/hd-en-6MvYMRSY7rKqQKDFJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/f5537e8960824e848e5a9bac16514483.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 29 Jun, 02:00 WIB] [FIFA World Cup] South Africa vs Canada [HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MvYMRSY7rKqQKDFJM/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/f5537e8960824e848e5a9bac16514483.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 29 Jun, 02:00 WIB] [FIFA World Cup] South Africa vs Canada [Full HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/hd-en-6MvYMRSY7rKqQKDFJM/index.m3u8
+https://stream.streamoke.net/hd-en-6MvYMRSY7rKqQKDFJM.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/c718af22dc754a6b8dc103901c554eb8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 30 Jun, 00:00 WIB] [FIFA World Cup] Brazil vs Japan [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MvYMRSYcmMUUNZVLR/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/c718af22dc754a6b8dc103901c554eb8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 30 Jun, 00:00 WIB] [FIFA World Cup] Brazil vs Japan [HD 2]
+https://stream.streamoke.net/sd-6MvYMRSYcmMUUNZVLR.m3u8
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/c718af22dc754a6b8dc103901c554eb8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 30 Jun, 00:00 WIB] [FIFA World Cup] Brazil vs Japan [Full HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MvYMRSYcmMUUNZVLR/index.m3u8
+https://stream.streamoke.net/hd-en-6MvYMRSYcmMUUNZVLR.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/761ccf19be6a4fdf81880acadb81aa4c.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 30 Jun, 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [HD]
 #EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
 #EXTVLCOPT:http-origin=https://stream.livenobarseru.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.streamoke.net/live/sd-6MvYMRSY7Mkb65ULJh/index.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/761ccf19be6a4fdf81880acadb81aa4c.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ LIVE 30 Jun, 03:30 WIB] [FIFA World Cup] Germany vs Paraguay [HD 2]
-#EXTVLCOPT:http-referrer=https://stream.livenobarseru.com/
-#EXTVLCOPT:http-origin=https://stream.livenobarseru.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://stream.yultech.online/hls/live/sd-6MvYMRSY7Mkb65ULJh/index.m3u8
+https://stream.streamoke.net/sd-6MvYMRSY7Mkb65ULJh.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 30 Jun, 08:00 WIB] [FIFA World Cup] Netherlands vs Morocco
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/17962554eedf40e0af9df1fc346ce09e.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 1 Jul, 00:00 WIB] [FIFA World Cup] Cote d'Ivoire vs Norway
@@ -8950,231 +9109,6 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/490f78c68dc2744b4d16b399702301a8.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 20 Jul, 02:00 WIB] [FIFA World Cup] Winner SF1 vs Winner SF2
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/1d51db71ad098b7afa9966c60c959d35.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:30 WIB] 29/06 Iran vs Syria (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-558264_lsd.flv?auth_key=1782749482-0-0-42a04154220c3ff0b4a293a1c3ac3d20
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260627/1d51db71ad098b7afa9966c60c959d35.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 20:30 WIB] 29/06 Iran vs Syria (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-558264_lsd.m3u8?auth_key=1782749482-0-0-feaa1646930e17485e2e800186737954
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ff4a0a80377b1a3739e702710c9488be.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Auda vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/16226575.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-991140_lsd.flv?auth_key=1782749122-0-0-02fd27309e03cd67cb8a2b2a992ffef4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1782749122-0-0-71b8cf77a4e8a08147a8bdb7f67b35f0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-589848_lsd.flv?auth_key=1782749482-0-0-32d0256d14c145b2d38404bdd8ec3d58
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-589848_lsd.m3u8?auth_key=1782749482-0-0-cc4310142a6c7ee2a866b1f5bda4d031
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-380460_lsd.flv?auth_key=1782749842-0-0-fc582aa91f045cd3b610f76a6ef1082a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-380460_lsd.m3u8?auth_key=1782749842-0-0-2fb6e172edb87c7bb5131c91c2f8d3bd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.flv?txSecret=eefe4e3eb45dbf112be07059be265104&txTime=6a42e0e2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-459401_lsd.m3u8?txSecret=eefe4e3eb45dbf112be07059be265104&txTime=6a42e0e2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-536185_lsd.flv?auth_key=1782749842-0-0-a981868aca993f0cdba0b36f43f262e4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-536185_lsd.m3u8?auth_key=1782749842-0-0-6962bb1905bec48d95a505ef520aeefa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-617313_lsd.flv?auth_key=1782749842-0-0-e1913d6ee6b5c3945ac326ebe8cc55f8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ae560243b8ba3fe52bbd311b991108b9.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 FK Auda Riga vs Riga FC (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-617313_lsd.m3u8?auth_key=1782749842-0-0-bf19953ffe02cd88db371e9327e2fcc8
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/1288_165750299841.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-527383_lsd.flv?auth_key=1782749122-0-0-09706d93400a74c2c2e78eb7b0835458
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-527383_lsd.m3u8?auth_key=1782749122-0-0-86ba9b3286d8fde56887744a67365c19
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-552832_lsd.flv?auth_key=1782749122-0-0-e501fd52b91fa97cf2c06b646db4eed1
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-552832_lsd.m3u8?auth_key=1782749122-0-0-8a780b42f423c636d1eb5ca73ea9bc4f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912008_lsd.flv?auth_key=1782749482-0-0-974c0981cba814f27ac099b7406df473
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1782749482-0-0-85dd2a80130ba3911c24a3a3110b392b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-256080_lsd.flv?auth_key=1782749482-0-0-67f4ba4516dd1eadabc5f9234e4db150
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1782749482-0-0-6a1d1f06fbcd815938da65a8878367e0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-582342_lsd.flv?auth_key=1782749482-0-0-cc533e8a005b450a94a68adfcf02678f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-582342_lsd.m3u8?auth_key=1782749482-0-0-98ba971959a0d900a2b963347f426cd6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-484845_lsd.flv?auth_key=1782749842-0-0-26c1b2819f0f8ca6a7dbfc43fd24f0b6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/8da612ea85e11b7a5bcb5cedd8f22aed.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Italy U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1782749842-0-0-8f7ee029d5027bd735bfa7a9dc40bc02
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://hls.cdnfaster-a.live/live/HEINEKEN/index.m3u8?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-logo="https://cdn-img.cdnokvip.com/logos/11949_1j2qken9sgn.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://flv.cdnfaster-a.live/live/HEINEKEN.flv?expire=2530639860&sign=03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-472241_lsd.flv?auth_key=1782749122-0-0-45213d07165075bfb960704bbb9be026
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1782749122-0-0-02334e284a58a3cb7b9f953ab163a90a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-611178_lsd.flv?auth_key=1782749122-0-0-d91a83157902028bb904bbe7253fc310
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-611178_lsd.m3u8?auth_key=1782749122-0-0-ba3e65ca022dd8c9de0618ab3829c4ca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-595335_lsd.flv?auth_key=1782749482-0-0-337aefdf33899ed983a70381ee8743b6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-595335_lsd.m3u8?auth_key=1782749482-0-0-9f179992f5540755cc5d2a5ccb5f6af3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-235232_lsd.flv?auth_key=1782749482-0-0-47f487fd2116afdfa3b4cc3b1ff0c3b2
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-235232_lsd.m3u8?auth_key=1782749482-0-0-369790d1382a6a631a5863c9cb9db40f
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-304148_lsd.flv?auth_key=1782749842-0-0-02e2cdf9f22b9e0a927eed48b71f87a0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1782749842-0-0-681a6cbc2b1d7ca944eb4057933f1115
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912117_lsd.flv?auth_key=1782749842-0-0-3fcb5dd9397530cb109331a281bf1b28
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/ecdbc69ce6502549d7dcf8f041aa101a.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912117_lsd.m3u8?auth_key=1782749842-0-0-5190691cf8578c4e1e488978fe1444ef
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/277e5d1f01baffb84533c9236b05cbf8.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Jelgava vs Grobina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/90865415.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",[ LIVE 22:00 WIB] 29/06 Y U19 vs Serbia U19 (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://live05.paznhl.app/live/59444581.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912015_lsd.flv?auth_key=1782749122-0-0-df54da455d18c6e9a7b2ea260686a6cb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1782749122-0-0-afe09c4fad77046613e4ed0b7822ea62
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-606448_lsd.flv?txSecret=e6c37e8353bc67b6650bb3391008798c&txTime=6a42de12
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-606448_lsd.m3u8?txSecret=e6c37e8353bc67b6650bb3391008798c&txTime=6a42de12
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-612928_lsd.flv?auth_key=1782749482-0-0-b0cf80a3239af79494be6e78edfca988
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-612928_lsd.m3u8?auth_key=1782749482-0-0-efa2f1323a4faf8ea5f2b23d21b36bf0
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.flv?txSecret=3200410fb362c8ef64390e59d122ad8c&txTime=6a42df7a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",22:30 WIB 29/06 Siauliai vs Transinvest (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=3200410fb362c8ef64390e59d122ad8c&txTime=6a42df7a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Algeria vs Austria (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782749842-0-0-cbc6757630c744b78e9c6b2d5211b209
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Algeria vs Austria (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782749842-0-0-7d6124cfde5eeb252e51544ca7a06959
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782749842-0-0-9e93f5c78fb4ff63c68ec1ea4efd8388
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782749842-0-0-f0e0e0c06ea1f89cd2706ddea7ea9a94
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782749842-0-0-8a5d66c72f30c04df7a394c19a9b3ab5
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Democratic Republic of the Congo vs Uzbekistan (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782749842-0-0-e15386f2dcec468fcdf3f25943d93b80
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782749842-0-0-73513625f76f9dcf515975c728e21876
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782749842-0-0-ff6b953b28749e75e586d307aa4dd3e9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Panama vs England (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782749842-0-0-a8054e44ae0d5398aa97f9fdb029effd
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Panama vs England (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782749842-0-0-1fbc92b58b0eee5b9ecc170892941e10
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782749842-0-0-1841c479cbecc3cf2b57e796dfd926b4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260624/063cb0c2bedc700ac7b5c750835baa07.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782749842-0-0-b4b0d52ec3ad9d24c34e458cce468847
 #EXTINF:-1 tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[World - Club Friendly] Partizan vs CSKA 1948 (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%203%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%203%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
