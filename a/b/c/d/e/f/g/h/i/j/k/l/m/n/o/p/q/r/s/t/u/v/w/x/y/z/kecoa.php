@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [14.05 WIB 30/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [14.11 WIB 30/06/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 9j 54m 00:00 WIB 01/07/26] Ivory Coast vs Norway",[UPCOMING 9j 54m 00:00 WIB 01/07/26] Ivory Coast vs Norway (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 9j 48m 00:00 WIB 01/07/26] Ivory Coast vs Norway",[UPCOMING 9j 48m 00:00 WIB 01/07/26] Ivory Coast vs Norway (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 9j 54m 00:00 WIB 01/07/26] Ivory Coast vs Norway",[UPCOMING 9j 54m 00:00 WIB 01/07/26] Ivory Coast vs Norway (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 9j 48m 00:00 WIB 01/07/26] Ivory Coast vs Norway",[UPCOMING 9j 48m 00:00 WIB 01/07/26] Ivory Coast vs Norway (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 9j 54m 00:00 WIB 01/07/26] Ivory Coast vs Norway",[UPCOMING 9j 54m 00:00 WIB 01/07/26] Ivory Coast vs Norway (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 9j 48m 00:00 WIB 01/07/26] Ivory Coast vs Norway",[UPCOMING 9j 48m 00:00 WIB 01/07/26] Ivory Coast vs Norway (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 13j 54m 04:00 WIB 01/07/26] France vs Sweden",[UPCOMING 13j 54m 04:00 WIB 01/07/26] France vs Sweden (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 13j 48m 04:00 WIB 01/07/26] France vs Sweden",[UPCOMING 13j 48m 04:00 WIB 01/07/26] France vs Sweden (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 17j 54m 08:00 WIB 01/07/26] Mexico vs Ecuador",[UPCOMING 17j 54m 08:00 WIB 01/07/26] Mexico vs Ecuador (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 17j 48m 08:00 WIB 01/07/26] Mexico vs Ecuador",[UPCOMING 17j 48m 08:00 WIB 01/07/26] Mexico vs Ecuador (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 17j 54m 08:00 WIB 01/07/26] Mexico vs Ecuador",[UPCOMING 17j 54m 08:00 WIB 01/07/26] Mexico vs Ecuador (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 17j 48m 08:00 WIB 01/07/26] Mexico vs Ecuador",[UPCOMING 17j 48m 08:00 WIB 01/07/26] Mexico vs Ecuador (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
