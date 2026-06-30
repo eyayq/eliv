@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [16:11 WIB 30/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:11 WIB 30/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [16:18 WIB 30/06/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [16:18 WIB 30/06/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/V.League_1_new_logo.svg" group-title="V.league",[16:00 WIB 30/06/26] Phong Phu Ha Nam W vs TKS Viet Nam W [FHD] [LIVE]
@@ -19,15 +19,6 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/833.png" group-title="Queensland Premier League",[17:30 WIB 30/06/26] Logan Lightning vs Redlands United [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b9/Wimbledon.svg/1280px-Wimbledon.svg.png" group-title="Wimbledon",[18:30 WIB 30/06/26] Virtanen vs Ben Shelton [FHD] [NANTIKAN]
-https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b9/Wimbledon.svg/1280px-Wimbledon.svg.png" group-title="Wimbledon",[18:30 WIB 30/06/26] Virtanen vs Ben Shelton [HD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b9/Wimbledon.svg/1280px-Wimbledon.svg.png" group-title="Wimbledon",[18:30 WIB 30/06/26] Virtanen vs Ben Shelton [SD] [NANTIKAN]
-https://alive.yarncdn.live/hqtv_blv_phanphep/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/246.png" group-title="Suomen Cup",[22:00 WIB 30/06/26] VPS vs Inter Turku [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
