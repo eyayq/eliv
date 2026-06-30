@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [00.43 WIB 01/07/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [00.50 WIB 01/07/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[LIVE 00:00 WIB 01/07/26] Ivory Coast vs Norway",[LIVE 00:00 WIB 01/07/26] Ivory Coast vs Norway (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
@@ -7,9 +7,9 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[LIVE 00:00 WIB 01/07/26] Ivory Coast vs Norway",[LIVE 00:00 WIB 01/07/26] Ivory Coast vs Norway (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 3j 16m 04:00 WIB 01/07/26] France vs Sweden",[UPCOMING 3j 16m 04:00 WIB 01/07/26] France vs Sweden (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 3j 9m 04:00 WIB 01/07/26] France vs Sweden",[UPCOMING 3j 9m 04:00 WIB 01/07/26] France vs Sweden (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 7j 16m 08:00 WIB 01/07/26] Mexico vs Ecuador",[UPCOMING 7j 16m 08:00 WIB 01/07/26] Mexico vs Ecuador (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 7j 9m 08:00 WIB 01/07/26] Mexico vs Ecuador",[UPCOMING 7j 9m 08:00 WIB 01/07/26] Mexico vs Ecuador (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 7j 16m 08:00 WIB 01/07/26] Mexico vs Ecuador",[UPCOMING 7j 16m 08:00 WIB 01/07/26] Mexico vs Ecuador (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 7j 9m 08:00 WIB 01/07/26] Mexico vs Ecuador",[UPCOMING 7j 9m 08:00 WIB 01/07/26] Mexico vs Ecuador (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
