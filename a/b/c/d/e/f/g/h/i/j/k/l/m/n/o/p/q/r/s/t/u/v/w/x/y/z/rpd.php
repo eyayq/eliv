@@ -1,45 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [02.59 WIB 01/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V4: [03.05 WIB 01/07/26]",Donasi server playlist iptv v4 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-ballester-3e72c6.png" group-title="[LIVE 01:00 WIB 01/07/26] Central Ballester vs Atletico Atlas | Server 1",[LIVE 01:00 WIB 01/07/26] Central Ballester vs Atletico Atlas | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f3/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=b0280179dce00eeb5a9a442805153c54&x-time=1782849240
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-ballester-3e72c6.png" group-title="[LIVE 01:00 WIB 01/07/26] Central Ballester vs Atletico Atlas | Server 2",[LIVE 01:00 WIB 01/07/26] Central Ballester vs Atletico Atlas | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f3/chunks.m3u8?is_vip=false&token=1782935655-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-313e518ed512ea7e58913de031009c15
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-u19-717797.webp" group-title="[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 1",[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.11 Safari/605.1.15
-https://pull.niues.live/live/stream-406865_lsd.m3u8?auth_key=1782852787-0-0-f241c5cee1eec0ddf8495c1938a71b66
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-u19-717797.webp" group-title="[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 2",[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.11 Safari/605.1.15
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782852787-0-0-2f265c06f4c4d42334060a8bc67ab775
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-u19-717797.webp" group-title="[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 3",[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 3 (SVR-BHNS 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.11 Safari/605.1.15
-https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1782852802-0-0-15ac8f1cfa586693b7bd750f7f0d2e0e
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-u19-717797.webp" group-title="[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 4",[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 4 (SVR-BHNS 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.11 Safari/605.1.15
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782852802-0-0-bf396c4ba418dcd83a7460109159b50f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-u19-717797.webp" group-title="[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 5",[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 5 (SVR-BHNS 5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.11 Safari/605.1.15
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1782852809-0-0-1063d0af73b981855abe2c255e007da4
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/poland-women-u19-717797.webp" group-title="[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 6",[LIVE 01:00 WIB 01/07/26] Poland Women U19 vs Germany Women U19 | Server 6 (SVR-BHNS 6)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.11 Safari/605.1.15
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782852809-0-0-a2e8f5821bf6e0c671ade5e8e116d6ab
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/central-ballester-3e72c6.png" group-title="[LIVE 01:00 WIB 01/07/26] Central Ballester vs CA Atlas | Server 1",[LIVE 01:00 WIB 01/07/26] Central Ballester vs CA Atlas | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/claypole-536832.png" group-title="[LIVE 01:00 WIB 01/07/26] Claypole vs Canuelas | Server 1",[LIVE 01:00 WIB 01/07/26] Claypole vs Canuelas | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f1/chunks.m3u8?is_vip=false&token=2b5132db6915aa97be41d6cf8e44ecddf4c22e8b&x-sign=553be76b520f064a315b82210347fdd6&x-time=1782849240
-#EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/claypole-536832.png" group-title="[LIVE 01:00 WIB 01/07/26] Claypole vs Canuelas | Server 2",[LIVE 01:00 WIB 01/07/26] Claypole vs Canuelas | Server 2 (SVR-BHNS 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd520f1/chunks.m3u8?is_vip=false&token=1782935655-Kv4cPTAAP5YTi-2b5132db6915aa97be41d6cf8e44ecddf4c22e8b-e57f197b4e54719d27fb960ee26d56aa
-#EXTINF:-1 tvg-logo="" group-title="[LIVE 02:00 WIB 01/07/26] Poland U19 W vs Germany U19 W | Server 1",[LIVE 02:00 WIB 01/07/26] Poland U19 W vs Germany U19 W | Server 1 (SVR-BHNS 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://193.47.62.42/hls/yvvv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 02:05 WIB 01/07/26] Netherlands vs Ma Rốc | Server 1",[LIVE 02:05 WIB 01/07/26] Netherlands vs Ma Rốc | Server 1 (SVR-BHNS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://hls.lauthaitv.cc/live/halan-maroc-phatlai/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.1xapi.com/images/teams/netherlands-612348.png" group-title="[LIVE 02:05 WIB 01/07/26] Netherlands vs Ma Rốc | Server 2",[LIVE 02:05 WIB 01/07/26] Netherlands vs Ma Rốc | Server 2 (SVR-BHNS 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 https://flv.lauthaitv.cc/live/halan-maroc-phatlai.flv
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 1",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 1 (SVR-BHNS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://play.666666.zip/live/4459721.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 2",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 2 (SVR-BHNS 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.flv?auth_key=1782795346-0-0-ba8e446d8727382eadeb0c2556ea8631
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 3",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 3 (SVR-BHNS 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://pullsgp.yyzb456.top/live/stream-506605_lsd.flv?auth_key=1782795346-0-0-ba8e446d8727382eadeb0c2556ea8631
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 4",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 4 (SVR-BHNS 4)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.47/hls/XCZzsss.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 5",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 5 (SVR-BHNS 5)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.47/hls/XCZzsssQ.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 6",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 6 (SVR-BHNS 6)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.47/hls/XCZckkkq.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 7",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 7 (SVR-BHNS 7)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.47/hls/XCZckkk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 8",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 8 (SVR-BHNS 8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.47/hls/XCZckkkqq.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 9",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 9 (SVR-BHNS 9)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.47/hls/XCZckkkqqqq.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 10",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 10 (SVR-BHNS 10)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.47/hls/XCZckkkqqq.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 11",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 11 (SVR-BHNS 11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://193.47.62.47/hls/XCZckkkqr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 12",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 12 (SVR-BHNS 12)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 13",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 13 (SVR-BHNS 13)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 14",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 14 (SVR-BHNS 14)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 15",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 15 (SVR-BHNS 15)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|drmScheme=clearkey&drmLicense=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 16",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 16 (SVR-BHNS 16)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|drmScheme=clearkey&drmLicense=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 17",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 17 (SVR-BHNS 17)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd|drmScheme=clearkey&drmLicense=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 18",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 18 (SVR-BHNS 18)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
+#EXTINF:-1 tvg-logo="" group-title="[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 19",[LIVE 04:00 WIB 01/07/26] France vs Sweden | Server 19 (SVR-BHNS 19)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd|drmScheme=clearkey&drmLicense=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
