@@ -1,12 +1,12 @@
 #EXTM3U
-# ⏰ Latest Updated: 05:20:07 WIB 30-06-2026
-# 🔄 Total Channels: 4972
+# ⏰ Latest Updated: 05:26:11 WIB 30-06-2026
+# 🔄 Total Channels: 4978
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
 # 🌐 Web Animeversary: https://animeversary.vercel.app
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [05:20:07 WIB 30-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="DONASI [05:26:11 WIB 30-06-2026]",DANA OVO GOPAY 085795119808 https://my.bianet.es/all
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com//0.php" group-title="☕JIKA ERROR☕",DANA OVO GOPAY 085795119808 
@@ -215,18 +215,22 @@ http://193.47.62.42/hls/TOOOQQQQQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.42/hls/TATATA.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",Emma Van Poppel VS Nelise Verster | W15 Hillcrest
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",Jule Niemeier VS Emma Kamper | W35 Amstelveen [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a431593d06bfc5094db11e1/chunks.m3u8?is_vip=false&token=2ec584ee4db6165da6450183a4c0e133d1fbed62&x-sign=16d870e3609e8828bb6cef4305b56658&x-time=1782794820
-#EXTINF:-1 tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE ] [W15 Hillcrest] Emma Van Poppel VS Nelise Verster | W15 Hillcrest
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4331bc55d8b708a7d26208/chunks.m3u8?is_vip=false&token=1fcfec4967082da0e2c4aa25d9c0a05f94d3f3a8&x-sign=a069a7f1ecd0983290dc4239bb4056ef&x-time=1782796620
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",Jule Niemeier VS Emma Kamper | W35 Amstelveen [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4331bc55d8b708a7d26208/chunks.m3u8?is_vip=false&token=1782883050-Kv4cPTAAP5YTi-1fcfec4967082da0e2c4aa25d9c0a05f94d3f3a8-9925dadbb75b65ccbebdb7d6cd25e6ce
+#EXTINF:-1 tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE ] [W35 Amstelveen] Jule Niemeier VS Emma Kamper | W35 Amstelveen
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a431593d06bfc5094db11e1/chunks.m3u8?is_vip=false&token=2ec584ee4db6165da6450183a4c0e133d1fbed62&x-sign=16d870e3609e8828bb6cef4305b56658&x-time=1782794820|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4331bc55d8b708a7d26208/chunks.m3u8?is_vip=false&token=1fcfec4967082da0e2c4aa25d9c0a05f94d3f3a8&x-sign=a069a7f1ecd0983290dc4239bb4056ef&x-time=1782796620|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Colorado Rockies - Miami Marlins (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
@@ -312,249 +316,265 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/guqsFaNK/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 19:55 WIB | TGL 01/07] van de Velde/de Groot (NED) vs [tbc], Men Pool F on C2 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zRXIW9Wb/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 19:55 WIB | TGL 01/07] Crabb/Benesh (USA) vs [tbc], Men Pool F on C3 | Gstaad (SUI)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GUy9sLBo/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 19:55 WIB | TGL 01/07] Boermans/Brouwer (NED) vs [tbc], Men Pool E on C4 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/W08g9zS7QaGtPMErcsZ81Va_dKc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6412/euronews-795a60.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (03/01) - Wake up Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6412&ext=hls&x=1782806916&k=5290abcf0cdd93cc9c7b3256429f1d80728e50be74ef83745053ef79566d64d8&sc=6412
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6412&ext=hls&x=1782807857&k=7e69bb138b9c507ef85aa4579a76d4f1ce56c24d2f23988de3a586868df7e6d6&sc=6412
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (04/02) - MUSICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7619&ext=hls&x=1782806916&k=12f3c0efb41874005cb7e22c1d0776c493adc30b4cfc74be9822f397cb3f3a94&sc=7619
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7619&ext=hls&x=1782807857&k=9e99d855bdd1cca99405945acc005655ed7dad31e4425249b1d0e2d297128f14&sc=7619
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (22/02) - K-Culture Dive [L]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6784&ext=hls&x=1782806916&k=5b2ac815d87ee5e36af74fa28c2007b8e436b0e405ee0343f5f67bd56f35f18a&sc=6784
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6784&ext=hls&x=1782807857&k=7625777bb28fbefd84d4b2a6b44ca8840d1d989cfec17e0f3684e7195e45e805&sc=6784
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="TV VIDIDI",Berita Satu Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782806916&k=df7b6c905a3f66a2bf9f90b583929442ac39f705458be8174b14a900e11dce67&sc=18280
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782807857&k=189eb7e72cfde65ac2d342eb361e13c2e5da4ae2febd29acabfe03f9fad973df&sc=18280
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="TV VIDIDI", LIVE 08:58 WIB (25/02) - Berita Satu Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782806916&k=df7b6c905a3f66a2bf9f90b583929442ac39f705458be8174b14a900e11dce67&sc=18280
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782807857&k=189eb7e72cfde65ac2d342eb361e13c2e5da4ae2febd29acabfe03f9fad973df&sc=18280
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (17/07) - Magna TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7230&ext=hls&x=1782806916&k=451802f7b27df660861bb85cc8cd68a6b482f16af5c959d76fde4f2a928e7cf8&sc=7230
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7230&ext=hls&x=1782807857&k=4f8cbe616682d6f9841973db6d9fefc80c111cb7f028acdf7e9f4f05c6dfd17b&sc=7230
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="TV VIDIDI", LIVE 19:00 WIB (22/03) - Makkah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6852&ext=hls&x=1782806916&k=f50e18c0333d477d330d61c9d5b446de6940f9423e62e431cb91244e09a1a2c3&sc=6852
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6852&ext=hls&x=1782807857&k=687dd71d0e599652557dc3339f900b4b51fbebb86883e5033e75da13b250a765&sc=6852
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" group-title="TV VIDIDI", LIVE 22:33 WIB (09/04) - U-Channel TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6898&ext=hls&x=1782806916&k=2504d41eaf870c02f3fb35fb490761134b23a47bfb2b82b347d4397a88e228ad&sc=6898
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6898&ext=hls&x=1782807857&k=6da257414f1fb36ea9350c97587dc5f92a159f572d0e1d3630d42ebd94df0e8f&sc=6898
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YMONijGwzaZJSqIYXFnswSZVves=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21179/citra-drama-9342a3.jpg" group-title="TV VIDIDI", LIVE 16:54 WIB (14/04) - Naik Ranjang
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21179&ext=drm&x=1782806916&k=f6f7faa5716f6dbee17ef5a63a738a6bb51a366cd5bbbeb23dbf491dad082c89
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21179&ext=drm&x=1782807857&k=34def32442091c04546ec8279056961084b8789368782ad59fc55ee7826c6f6c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=21179&ext=dash&x=1782806916&k=df8e11dd63afa0943c094970eb14c420fd51e75470553c8ee5c09c3fbce6b9b3&sc=21179
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=21179&ext=dash&x=1782807857&k=3d77f9afe2312659bb16eaad805f57fded24381bdea104998d02782cf3d9d86d&sc=21179
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MO29LQSLBb-CrxAR-emGtTfpxs8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-bd851f.jpg" group-title="TV VIDIDI", LIVE 02:00 WIB (23/04) - Masha and The Bear
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7052&ext=drm&x=1782806916&k=97049e121c728f11df1835319cd163cff451005268a969693a4361636bcdf1f5
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7052&ext=drm&x=1782807857&k=8f1525c42e4946065dd2411005d630d7cd33e0190e81aa66a474219b53aa75cd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=7052&ext=dash&x=1782806916&k=7bf41627a57a34626d32ea9ae37ba044c26529c8475c5cdaa605679c3980f909&sc=7052
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=7052&ext=dash&x=1782807857&k=11e16dec53d54881a0d888a7a7aa40178cb2ce5fbe9909e8eebdd140f650b5a2&sc=7052
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" group-title="TV VIDIDI",Metro Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782806916&k=6e4022a67402917aae819d6bae463f66167e65d5bc4a7a13da275ddc598b5f58&sc=777
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782807857&k=ec156e3e0f6605150d340b266c053b89c722021c51d5d1c5ef958825bcbe29a8&sc=777
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" group-title="TV VIDIDI", LIVE 03:35 WIB (23/04) - Metro Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782806916&k=6e4022a67402917aae819d6bae463f66167e65d5bc4a7a13da275ddc598b5f58&sc=777
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782807857&k=ec156e3e0f6605150d340b266c053b89c722021c51d5d1c5ef958825bcbe29a8&sc=777
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="TV VIDIDI",Kabar Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=783&ext=hls&x=1782806916&k=f2af5cfd50b9e310d56ea042adc270930e6b0682ccfb03d0746a380876c0d95e&sc=783
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=783&ext=hls&x=1782807857&k=1a7a7f267501f9d9bf3bb182e1712a29789ecb48c8add7dee72124cc72d57022&sc=783
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="TV VIDIDI",Kompas Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782806916&k=da4209e3168a3f93966f5c16a675101d700fcb9ac7dce3bec8aeb91488134273&sc=874
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782807857&k=55498d6619b68fba67f0326b28f81060ccef4e090105406978669ae48e63eb42&sc=874
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="TV VIDIDI", LIVE 17:59 WIB (24/04) - Kabar Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=783&ext=hls&x=1782806916&k=f2af5cfd50b9e310d56ea042adc270930e6b0682ccfb03d0746a380876c0d95e&sc=783
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=783&ext=hls&x=1782807857&k=1a7a7f267501f9d9bf3bb182e1712a29789ecb48c8add7dee72124cc72d57022&sc=783
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="TV VIDIDI", LIVE 18:00 WIB (24/04) - Kompas Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782806916&k=da4209e3168a3f93966f5c16a675101d700fcb9ac7dce3bec8aeb91488134273&sc=874
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782807857&k=55498d6619b68fba67f0326b28f81060ccef4e090105406978669ae48e63eb42&sc=874
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zE793GEKRyoy_BJxLu-Db2tsz1k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18622/daystar-tv-4eddcd.jpg" group-title="TV VIDIDI", LIVE 15:00 WIB (29/04) - Ministry Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18622&ext=hls&x=1782806916&k=f2a8d5edf19f51a1e9e19886cc3fb2d275b5328596cda7e539511a9020dd81fc&sc=18622
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18622&ext=hls&x=1782807857&k=ae623a6722bb8d75b1e7b5a0a21591375a59ef3d77d97eacc2cb4a66d4bdd59b&sc=18622
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="TV VIDIDI", LIVE 10:00 WIB (02/05) - 6H Info
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=17278&ext=drm&x=1782806916&k=8014df57eb2a08604c84569b36e26c6e66fbbeb11ee2412e5150e18644cd5ae2
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=17278&ext=drm&x=1782807857&k=af7685768e8b7629ba6aac6593543d8df81aa6fad3182c2e9bc5a30d1abeb5e6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=17278&ext=dash&x=1782806916&k=3895f0ba998d2322f94fd84c2d15d7c127ba513572f0296be0817652b6c94e9a&sc=17278
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=17278&ext=dash&x=1782807857&k=dba1151264aaf545d9628db5df25434170f3b566ccaf65afca93353362026cb1&sc=17278
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c_718cCh2RH2UIUd4C3juKKZ9Wc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12607/dmi-tv-8f4cb7.jpg" group-title="TV VIDIDI", LIVE 14:00 WIB (05/05) - DMI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12607&ext=hls&x=1782806916&k=74f27019fe3002b5407eeada546df92e014796488a6e4a64fd10e050bbf30f6c&sc=12607
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12607&ext=hls&x=1782807857&k=292290a416249e6c444fcef9b1a764c4e00c383baed4c2ed31cc812f41761869&sc=12607
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nNXh7qb2ZgetCPk7CN7hyyoKqLo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (29/09) - News Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6410&ext=hls&x=1782806916&k=d22a74154fa4a4e4cf7ff2611627de795a0b16da225bb17fa317918426f00932&sc=6410
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6410&ext=hls&x=1782807857&k=900b63ab1f4310f47a78690158eecb0928d22169ec417799d473009470fa1dda&sc=6410
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg" group-title="TV VIDIDI", LIVE 11:00 WIB (18/05) - News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12784&ext=hls&x=1782806916&k=a77e3d59f2c5ea3882ffb23108298521070e2cc912a8a3fd3c87f2cb0feb829b&sc=12784
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12784&ext=hls&x=1782807857&k=9fc7e561dbd446fe1da11c2bf969e86d078f81a27af1dc91728d7ea7a493f194&sc=12784
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg" group-title="TV VIDIDI", LIVE 19:00 WIB (25/06) - Australia's Wild Moments - Episode 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7150&ext=hls&x=1782806916&k=3d2ebb8e0a2dbf9d37f051e0590707008150a247609cd5a4a7c79ea3c7daa19e&sc=7150
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7150&ext=hls&x=1782807857&k=6288e4b8ef3b343cfc41b40e70b5f83ab82dbaeeffdf27da1311b6c27c63e29e&sc=7150
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-fJcdGieHvetPDosR_ZwDD-YE5M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="TV VIDIDI", LIVE 09:00 WIB (08/07) - Keluarga Gunarso
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=19046&ext=hls&x=1782806916&k=3e6d045229d7bb9071f5e6444b5b6d20ef9acc687c6afcdaec12253241d9e2ce&sc=19046
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=19046&ext=hls&x=1782807857&k=5d3a63cc51ab97e0f9b983c6910172624bb4850cbe7b0517fba6ad50e24e8078&sc=19046
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nBRneLipjed0tzgVoHIft83fOYk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6411/news-asia-31d4e8.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (07/09) - Echoes Of Change
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6411&ext=hls&x=1782806916&k=5419c98d5efaf6bcfcdcd5d7b7cc858e0b73833f012bb84a3bcb9b882e6e43b1&sc=6411
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (07/09) - Mad Concrete Dreams Ep10
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6411&ext=hls&x=1782807857&k=0ea0a4247c84eb27e9782ea1576363b959067c215b61aec2655cde5f8e2a44ed&sc=6411
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (07/09) - KILL IT: Style Creator Showdown
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=6362&ext=drm&x=1782806916&k=02fc111dde114124131c4436b16f1e1ac6ec4db56448dc0e0ef991d3aa045d56
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=6362&ext=drm&x=1782807857&k=4880899d74fe51b9852520a7c4239b61163c3706a73b9d0a329af28bb32d5222
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=6362&ext=dash&x=1782806916&k=5f7249454418c054f180288baf8d905df685f08bce75c665390ae9d68f2ee4d9&sc=6362
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=6362&ext=dash&x=1782807857&k=48a69b0ee2f601b498c82583b46e3c09f1dccb45b79aab4cba0ba68d22db674d&sc=6362
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ncoNQ0L6tGMTXzFAJAW0apq0wWE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-0ed074.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (07/09) - Morphle 2D - English
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=6397&ext=drm&x=1782806916&k=f60aa43b870eb5d7bcd48ba2485dd36b12e83f0490b752bd0e6898ba597b9a49
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=6397&ext=drm&x=1782807857&k=791f12790e012735c362b5631af340066bbddf2a53ca7b20a4b7c03f944e07e4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=6397&ext=dash&x=1782806916&k=2ecb9165f46fd28cb022181499c0fa3e81f3059dee01ea04f858b1311decd885&sc=6397
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=6397&ext=dash&x=1782807857&k=20d8ee3bbcda4530905f06f405de949cc78b7f9822fd47fc8f47da45bc82c341&sc=6397
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QEzhky9Io4g9RlJF25aDUzNQUg0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg" group-title="TV VIDIDI", LIVE 11:00 WIB (29/09) - Oblivion
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=8121&ext=drm&x=1782806916&k=4ebbdff2c68ddbe99d7d8462a1e91704a1894a0b74050598a8a7781939867cca
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=8121&ext=drm&x=1782807857&k=f95254804300d81d2628a5aef891b0c2779ee3bb70844749e5b16d7c6bb0710f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=8121&ext=dash&x=1782806916&k=c079b888bda63f4daff60e80e95b0b715a44b09cff08bf11973d5967ae0db2e7&sc=8121
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=8121&ext=dash&x=1782807857&k=a03097900d7b32fc6fe546ff23dd867dffec479b4d45e73297cbc20dceb8f8f6&sc=8121
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="TV VIDIDI",Asta Cita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782806916&k=14d2ad227c1013bc9ccfef2d3b11c598861b35c54f64af80ab00a532e5273cb3&sc=7432
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782807857&k=0ed1981cae10b621e7c372405513df37ff31e497827e33c12559b480feb2fa2a&sc=7432
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="TV VIDIDI", LIVE 10:00 WIB (21/10) - Asta Cita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782806916&k=14d2ad227c1013bc9ccfef2d3b11c598861b35c54f64af80ab00a532e5273cb3&sc=7432
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782807857&k=0ed1981cae10b621e7c372405513df37ff31e497827e33c12559b480feb2fa2a&sc=7432
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="TV VIDIDI",Live Adzan Dan Sholat Dzuhur
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782806916&k=63b799036e1a6ba6f4be8c0cfc6cc3ee934f1b1b57909179c184d6bd0ee9e21d
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782807857&k=1202a88974f5987199981b17e06cd29d8a9c9985ffdd0355f0670640e291276d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782806916&k=5a467f4a493e3a284261977300376dd5353c2ee52179e3fb0fc4e338ec87716f&sc=7464
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782807857&k=59f6dc97c1b7938d37812f28f751a596b027382082fa83e3525e72dfc2396680&sc=7464
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="TV VIDIDI", LIVE 19:45 WIB (26/10) - Live Adzan Dan Sholat Dzuhur
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782806916&k=63b799036e1a6ba6f4be8c0cfc6cc3ee934f1b1b57909179c184d6bd0ee9e21d
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782807857&k=1202a88974f5987199981b17e06cd29d8a9c9985ffdd0355f0670640e291276d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782806916&k=5a467f4a493e3a284261977300376dd5353c2ee52179e3fb0fc4e338ec87716f&sc=7464
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782807857&k=59f6dc97c1b7938d37812f28f751a596b027382082fa83e3525e72dfc2396680&sc=7464
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="TV VIDIDI",iNews Siang
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=drm&x=1782806916&k=228617fc4968ed36b5894ce9c76c69ecbdb308747d988d1a7939e7d28bfd2354
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=drm&x=1782807857&k=aed5ae4623f32165fcf5aa57fb71ee9c5f4a21865669415409f0f495b2eb56df
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=dash&x=1782806916&k=8eef29fb6569d4d3696e6a9e7f976538c45596878a5ad4df6ad4492ff4731b1f&sc=5409
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=dash&x=1782807857&k=24372020ee6d2cd9e6fa2f328bd1bd8649f739629662c0d69462785083eb0b0d&sc=5409
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (01/11) - iNews Siang
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=drm&x=1782806916&k=228617fc4968ed36b5894ce9c76c69ecbdb308747d988d1a7939e7d28bfd2354
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=drm&x=1782807857&k=aed5ae4623f32165fcf5aa57fb71ee9c5f4a21865669415409f0f495b2eb56df
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=dash&x=1782806916&k=8eef29fb6569d4d3696e6a9e7f976538c45596878a5ad4df6ad4492ff4731b1f&sc=5409
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=dash&x=1782807857&k=24372020ee6d2cd9e6fa2f328bd1bd8649f739629662c0d69462785083eb0b0d&sc=5409
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wgek2CEV7BzrN6akKH3l4jbppWY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5159942/01f508.jpg" group-title="TV VIDIDI", LIVE 00:01 WIB (07/11) - Pororo The Little Penguin
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=8237&ext=drm&x=1782806916&k=eff758fb45c1a76864967abd9eb57df6d744159b710d5ec22860da0aac25b9f3
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=8237&ext=drm&x=1782807857&k=369567fc056a0e617f2e21905ca71a797ce1d32be3e76dd27ce4ae071e5c7842
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=8237&ext=dash&x=1782806916&k=7ebe707385ad706e911c4cf1078040dc4d874e2125a28956fe854516d967598f&sc=8237
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=8237&ext=dash&x=1782807857&k=ca987179f13fd21e1cef243a0b364f31e43e52885f32dff621b9acea9455d0c3&sc=8237
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dqu2d5vovPKc448pBIc6ihswPTU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg" group-title="TV VIDIDI", LIVE 14:33 WIB (30/11) - NHK Newsline
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7968&ext=hls&x=1782806916&k=556f2743bfcaf1b885f22a9892d24ff1e3e3d4cdb2730036220c022138dd49e6&sc=7968
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7968&ext=hls&x=1782807857&k=36700bfd45895b9477243bcaacd6deaf754b98acc24bd19197d9de544b2e2b17&sc=7968
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="TV VIDIDI",Laporan 8 Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782806916&k=bf3c889203c53c408b77e3947618a91ed35a84b28fed80ca131decf6d44fa4da&sc=18162
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782807857&k=811b991042d910484909ef9320d116eb6443271eeea4c823e1f9d5955c0c7e79&sc=18162
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="TV VIDIDI", LIVE 17:00 WIB (11/12) - Laporan 8 Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782806916&k=bf3c889203c53c408b77e3947618a91ed35a84b28fed80ca131decf6d44fa4da&sc=18162
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782807857&k=811b991042d910484909ef9320d116eb6443271eeea4c823e1f9d5955c0c7e79&sc=18162
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/HyJOKvUu7_oA8wWozEtI-3W1v1s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-4aa968.jpg" group-title="TV VIDIDI", LIVE 00:02 WIB (24/12) - The Day
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5075&ext=hls&x=1782806916&k=4f0a8312153fc08c40a7a518e3d57b4e32d94ea8d0009afe58babb7c1814d1d7&sc=5075
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5075&ext=hls&x=1782807857&k=06026f9bdcfd303f17aa3aa8cb764785edcd23d640c726eb7001e9cd63c30a25&sc=5075
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LDg7wQmlx1J5_2AkdOGtXtMEJmk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="TV VIDIDI",Amazing Kids : Spongebob Squarepants
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=drm&x=1782806916&k=10dad557b78286cca3b82b57ab9c082bb36e496b5573d85375aeba7d8eaafc1a
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=drm&x=1782807857&k=de6258ff0e2a90db8d376f4a362eb7ea7c23044edc094c7e3d82d63de1e0b4ac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=dash&x=1782806916&k=ec126629fca24c9dfb66edf7f0719f576cc0fcbdab7ae1769beb4096b3d01941&sc=778
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=dash&x=1782807857&k=9a58c7092c5a0bc018a2752396cea23a36a94e20df48c01bc816e91ca9787b37&sc=778
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/emHpj-uEoQwjDU_pcCtUJ5jSCgg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21289/citra-drama-plus-a6965e.jpg" group-title="TV VIDIDI",Citra Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=drm&x=1782806916&k=8f8876606597e1d0b317b5aab36ce1eddf0b7fe7bd70181bc18e6fee270421c0
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=drm&x=1782807857&k=6dd6c61873f3a0bf3a786826d98c01f9005298944c690195407d6e05581207e1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=dash&x=1782806916&k=c04fa7b286a18cfb472ef8bf89d170a443db0856300a6f92d3eb10553a2f8d2b
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=dash&x=1782807857&k=0eb70d613d54a928b71c8480fcdc0b821e7582e6ce30e79ea181b33604e22be1
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="TV VIDIDI",Halo Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6482&ext=hls&x=1782806916&k=938549ec6f411cbae9af513c7dff45a1c1d58930cdb130b3ab5c5e936bf0fb64&sc=6482
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6482&ext=hls&x=1782807857&k=3ce02265506c06b5693ebc1592fedd37b1aad2cfd299e44ec62a1f75dd365a5c&sc=6482
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="TV VIDIDI",Khazanah Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9714&ext=hls&x=1782806916&k=8a32d560e8e3d15cf208541697024ca13d6e7ec3cf622a98856f45d50a571650&sc=9714
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9714&ext=hls&x=1782807857&k=097ad583751f5f91422e2eebe4d5d07e7f841e06d25f027f496070f4e93c14d2&sc=9714
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="TV VIDIDI",Klik Indonesia Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6441&ext=hls&x=1782806916&k=94199ebb3939c6ed135b078197e157ca49a57d812ca3709ba1917a97a89a56f4&sc=6441
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6441&ext=hls&x=1782807857&k=7fa4f60d2e48d2c5b5938bd558f2e32fe5665741ce324dbd6b8f1762ece8c240&sc=6441
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0f2I5boA9LShVN7cMKGpHG7T9gQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg" group-title="TV VIDIDI",Layar Drama Indonesia - Terikat Janji Selamanya
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=665&ext=drm&x=1782806916&k=8624929da450d84ab47b7726f92efe8aa1df4bcd6bdc955cc64945b2a0a79151
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=665&ext=drm&x=1782807857&k=eb7f4c6aa0d0a24843905718ac240b6e598312af7b6353321f178cd63c5b08be
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=665&ext=dash&x=1782806916&k=8f8f97c10bd9491885042812756c224fed2f6cdc6ec2b0161b8dbbd4772095f9&sc=665
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=665&ext=dash&x=1782807857&k=ffd3a875914c92f1fda8c471717e56a62cd22bd2a2d99ce1b3d81a1b8304fa86&sc=665
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="TV VIDIDI",Lejel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5415&ext=hls&x=1782806916&k=6e6a461331a5db9479893ba5f2c855027eb5ebcf527f48b6ab14afbdf0bf274a&sc=5415
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5415&ext=hls&x=1782807857&k=85170e1762b49127d82c5c095ce5a94ac657cc89c18ab2069e175921f65e11b0&sc=5415
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/po6DDg81oPro90ij_7UVOqiMZ98=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg" group-title="TV VIDIDI",Makan Enak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=875&ext=hls&x=1782806916&k=360685c9e2e09cc7f6131b43de875470b059c04c8fe754eb4aee78358ba526f4&sc=875
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=875&ext=hls&x=1782807857&k=3470d3ea738ff57f4ed6ff2777c57a3856eb591d9e70ef87452808056368c2f8&sc=875
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PVXi_Zv-4F4D5gy0JVhNHcRDD_c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5154641/d70ce8.jpg" group-title="TV VIDIDI",Mega Bollywood: Aap Mujhse Achche Lagne Lage
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=782&ext=hls&x=1782806916&k=b82ed565a624b70b0149441f37f88f8b186467f229a175991c4e94e7e71394db&sc=782
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg" group-title="TV VIDIDI",Rumahnya Seleb : Seleb On News 2026
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=782&ext=hls&x=1782807857&k=5e3939b1c0c72742bac31458c061949e200d38d6ea9ae1c7e22bef52a869ca30&sc=782
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg" group-title="TV VIDIDI",Rumahnya Anak : Kembara Upin & Ipin
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=870&ext=drm&x=1782806916&k=64a879a2535a682077b7d27469aeb2cb14d72532675b88c440db53efca0842fd
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=870&ext=drm&x=1782807857&k=f5d67a752d297e10c273fcf30bca1da9ba3434866f514e3f92ef6454cd72be91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=870&ext=dash&x=1782806916&k=bd958a143c222269d683c2e1d83b0379122200ca21730370b4b5958d9e7742a9&sc=870
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=870&ext=dash&x=1782807857&k=e3a1c49cfb3f30cf41657e6ff38d0733e86b56f1ff01436c1f975bef0c50709d&sc=870
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IReT-5y6B0A3t-dMZBdvamR74ww=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg" group-title="TV VIDIDI",Smurfs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=1561&ext=hls&x=1782806916&k=d9076d5981a50cac0118bc3c8edb034a04856c58b329cfcbe6cca1ed52660d6f&sc=1561
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=1561&ext=hls&x=1782807857&k=96bd5425e4e2c2dc2dda68d664521bc93d548e75e8185f1d8d2c99eca9f21cd2&sc=1561
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="TV VIDIDI",Stasiun Dangdut
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9713&ext=hls&x=1782806916&k=eaf34456e99c11932b0b8311dbb68b5a5729eac58388e48d6f8d3f0426fa673e&sc=9713
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9713&ext=hls&x=1782807857&k=c2d47968f0b47c7c40a55abd7a9a07daf4149e031271e23a3c06275810a830f7&sc=9713
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20153890dc40f0de6ef4a196635722bec61.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 11:45 WIB] [Liga Nasional Filipina] Outriders vs Conquerors [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5513525_1.m3u8?auth_key=1782882746-0-0-bdbd4bde86f2032c190eb09038845b77
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5513525_1.m3u8?auth_key=1782883466-0-0-807c05bce84b33378224c7a08baa3148
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [NPB Farm Leagues] Oisix Niigata VS Chiba Lotte Marines | NPB Farm Leagues
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782883044-Kv4cPTAAP5YTi-1fcfec4967082da0e2c4aa25d9c0a05f94d3f3a8-75d290acfef4ed960be5d88d3cf07436|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [NPB Farm Leagues] Tokyo Yakult Swallows VS Yomiuri Giants | NPB Farm Leagues
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782883039-Kv4cPTAAP5YTi-1fcfec4967082da0e2c4aa25d9c0a05f94d3f3a8-64162a3a36e075065cf402fdc155ed8c|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/tvt9uzy8r3yecm.png" group-title="🔴FIFA WORLD CUP 2026🔴",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] World Cup 2026 | (08.00 WIB) Netherlands vs Morocco
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fstream%2F2%2Findex.m3u8&client_id=cts&uid=ltfqt0w2&is_vip=true&verify=1782795600-Kxd0ikUELJbvwkUW1SBo%2FnbjNFy1IPuhFO2mu4EtUVI%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
+https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fstream%2F2%2Findex.m3u8&client_id=cts&uid=x6k67dv4&is_vip=true&verify=1782795600-uMoX%2B0UW2CzRwxLp6w7PtCIwo%2FKe6rhN8eOr7Cym0WM%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Brazil vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782798802-0-0-bbb17cd6d973af3c04f948964bbd4b7d
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782799882-0-0-dbd138ac0cb0983e7536e80600e38642
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Brazil vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782798802-0-0-bd80e075088d7f23caee5c1c8955d514
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782799882-0-0-1371f78e1b8b076905b6dd7fb006963b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782798802-0-0-916d52c9bbba9f3de43c8fbfa373bb3c
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782799882-0-0-d6a3e6e7fbc2c0b4d1713c0855d2d9f7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782798802-0-0-02f04fd3b5a4b377993c7451e74858b8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782799882-0-0-ebad2f86dd9a9c54c246d77652647ebc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782798802-0-0-a2d038401ccc8d74e4bf6d784c9efa09
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782799882-0-0-c1153a90f2fec77438cea6a21723002e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782798802-0-0-a93227df6afd9083327440d96b7cf4fe
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782799882-0-0-1907bf7e35095801ca503eee514f2ab9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782798802-0-0-44693dfb5eeb26efcd112c109d8dcfb8
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782799882-0-0-f8d33f852bfcee67258a46d4245cecfd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782798802-0-0-ef8d925a0b19dbe443dab02cada394f8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782799882-0-0-1d33a1682624207fc2c0ddded39ef5b7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Netherlands vs Morocco (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782799222-0-0-843394bc5605b547530a78392d8905c3
@@ -563,10 +583,10 @@ https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782799222-0-0-
 https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782799222-0-0-d5f06087058280e0742fa529273a672e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782798802-0-0-fbeeb4e62c173494d678e985915e0a3a
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782799882-0-0-459bc7c0a0e4836c5707f096509c83f2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782798802-0-0-800b523ebdf0422b55ef0418235ab297
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782799882-0-0-ac7ef4bcd41494343c06f13fc7f6225b
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="🔴FIFA WORLD CUP 2026🔴",[FIFA World Cup] Morocco vs Netherlands (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free
@@ -745,7 +765,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/ef2635db12914681ae86ece2d97bd6c2.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 4 Jul, 08:30 WIB] [FIFA World Cup] Colombia vs Ghana
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/336e1c9ab6894a3b893c1ef45235a164.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 5 Jul, 00:00 WIB] [FIFA World Cup] Canada vs Morocco
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/336e1c9ab6894a3b893c1ef45235a164.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 5 Jul, 00:00 WIB] [FIFA World Cup] Canada vs Netherlands/Morocco
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/e6092477694f4a62bbb63cf64ee19fe6.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 5 Jul, 04:00 WIB] [FIFA World Cup] Paraguay vs France/Sweden
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -1261,28 +1281,28 @@ https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b06
 https://flv.cdnfaster-a.live/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Brazil vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782798802-0-0-bbb17cd6d973af3c04f948964bbd4b7d
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782799882-0-0-dbd138ac0cb0983e7536e80600e38642
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Brazil vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782798802-0-0-bd80e075088d7f23caee5c1c8955d514
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782799882-0-0-1371f78e1b8b076905b6dd7fb006963b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782798802-0-0-916d52c9bbba9f3de43c8fbfa373bb3c
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782799882-0-0-d6a3e6e7fbc2c0b4d1713c0855d2d9f7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782798802-0-0-02f04fd3b5a4b377993c7451e74858b8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782799882-0-0-ebad2f86dd9a9c54c246d77652647ebc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782798802-0-0-a2d038401ccc8d74e4bf6d784c9efa09
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782799882-0-0-c1153a90f2fec77438cea6a21723002e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782798802-0-0-a93227df6afd9083327440d96b7cf4fe
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782799882-0-0-1907bf7e35095801ca503eee514f2ab9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782798802-0-0-44693dfb5eeb26efcd112c109d8dcfb8
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782799882-0-0-f8d33f852bfcee67258a46d4245cecfd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782798802-0-0-ef8d925a0b19dbe443dab02cada394f8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782799882-0-0-1d33a1682624207fc2c0ddded39ef5b7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Netherlands vs Morocco (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782799222-0-0-843394bc5605b547530a78392d8905c3
@@ -1291,10 +1311,10 @@ https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782799222-0-0-
 https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782799222-0-0-d5f06087058280e0742fa529273a672e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782798802-0-0-fbeeb4e62c173494d678e985915e0a3a
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782799882-0-0-459bc7c0a0e4836c5707f096509c83f2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782798802-0-0-800b523ebdf0422b55ef0418235ab297
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782799882-0-0-ac7ef4bcd41494343c06f13fc7f6225b
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[MLB] Arizona Diamondbacks - San Francisco Giants (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
@@ -7562,18 +7582,22 @@ http://193.47.62.42/hls/TOOOQQQQQQ.m3u8
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://193.47.62.42/hls/TATATA.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",Emma Van Poppel VS Nelise Verster | W15 Hillcrest
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",Jule Niemeier VS Emma Kamper | W35 Amstelveen [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a431593d06bfc5094db11e1/chunks.m3u8?is_vip=false&token=2ec584ee4db6165da6450183a4c0e133d1fbed62&x-sign=16d870e3609e8828bb6cef4305b56658&x-time=1782794820
-#EXTINF:-1 tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE ] [W15 Hillcrest] Emma Van Poppel VS Nelise Verster | W15 Hillcrest
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4331bc55d8b708a7d26208/chunks.m3u8?is_vip=false&token=1fcfec4967082da0e2c4aa25d9c0a05f94d3f3a8&x-sign=a069a7f1ecd0983290dc4239bb4056ef&x-time=1782796620
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",Jule Niemeier VS Emma Kamper | W35 Amstelveen [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/13-6a4331bc55d8b708a7d26208/chunks.m3u8?is_vip=false&token=1782883050-Kv4cPTAAP5YTi-1fcfec4967082da0e2c4aa25d9c0a05f94d3f3a8-9925dadbb75b65ccbebdb7d6cd25e6ce
+#EXTINF:-1 tvg-logo="https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[LIVE ] [W35 Amstelveen] Jule Niemeier VS Emma Kamper | W35 Amstelveen
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/13-6a431593d06bfc5094db11e1/chunks.m3u8?is_vip=false&token=2ec584ee4db6165da6450183a4c0e133d1fbed62&x-sign=16d870e3609e8828bb6cef4305b56658&x-time=1782794820|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://livecdn-bp-livestream.rumsport10.live/sla/13-6a4331bc55d8b708a7d26208/chunks.m3u8?is_vip=false&token=1fcfec4967082da0e2c4aa25d9c0a05f94d3f3a8&x-sign=a069a7f1ecd0983290dc4239bb4056ef&x-time=1782796620|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="LIVE EVENT | NBA-MLB-NFL-MMA-UFC",[MLB] Colorado Rockies - Miami Marlins (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
@@ -7659,249 +7683,265 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/guqsFaNK/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 19:55 WIB | TGL 01/07] van de Velde/de Groot (NED) vs [tbc], Men Pool F on C2 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/zRXIW9Wb/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 19:55 WIB | TGL 01/07] Crabb/Benesh (USA) vs [tbc], Men Pool F on C3 | Gstaad (SUI)
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GUy9sLBo/poster.jpg?width=1920" group-title="LIVE EVENT | VOLI 🏐",[ UPCOMING 19:55 WIB | TGL 01/07] Boermans/Brouwer (NED) vs [tbc], Men Pool E on C4 | Gstaad (SUI)
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/W08g9zS7QaGtPMErcsZ81Va_dKc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6412/euronews-795a60.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (03/01) - Wake up Europe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6412&ext=hls&x=1782806916&k=5290abcf0cdd93cc9c7b3256429f1d80728e50be74ef83745053ef79566d64d8&sc=6412
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6412&ext=hls&x=1782807857&k=7e69bb138b9c507ef85aa4579a76d4f1ce56c24d2f23988de3a586868df7e6d6&sc=6412
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (04/02) - MUSICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7619&ext=hls&x=1782806916&k=12f3c0efb41874005cb7e22c1d0776c493adc30b4cfc74be9822f397cb3f3a94&sc=7619
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7619&ext=hls&x=1782807857&k=9e99d855bdd1cca99405945acc005655ed7dad31e4425249b1d0e2d297128f14&sc=7619
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (22/02) - K-Culture Dive [L]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6784&ext=hls&x=1782806916&k=5b2ac815d87ee5e36af74fa28c2007b8e436b0e405ee0343f5f67bd56f35f18a&sc=6784
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6784&ext=hls&x=1782807857&k=7625777bb28fbefd84d4b2a6b44ca8840d1d989cfec17e0f3684e7195e45e805&sc=6784
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="TV VIDIDI",Berita Satu Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782806916&k=df7b6c905a3f66a2bf9f90b583929442ac39f705458be8174b14a900e11dce67&sc=18280
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782807857&k=189eb7e72cfde65ac2d342eb361e13c2e5da4ae2febd29acabfe03f9fad973df&sc=18280
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg" group-title="TV VIDIDI", LIVE 08:58 WIB (25/02) - Berita Satu Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782806916&k=df7b6c905a3f66a2bf9f90b583929442ac39f705458be8174b14a900e11dce67&sc=18280
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18280&ext=hls&x=1782807857&k=189eb7e72cfde65ac2d342eb361e13c2e5da4ae2febd29acabfe03f9fad973df&sc=18280
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="TV VIDIDI", LIVE 12:00 WIB (17/07) - Magna TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7230&ext=hls&x=1782806916&k=451802f7b27df660861bb85cc8cd68a6b482f16af5c959d76fde4f2a928e7cf8&sc=7230
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7230&ext=hls&x=1782807857&k=4f8cbe616682d6f9841973db6d9fefc80c111cb7f028acdf7e9f4f05c6dfd17b&sc=7230
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="TV VIDIDI", LIVE 19:00 WIB (22/03) - Makkah TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6852&ext=hls&x=1782806916&k=f50e18c0333d477d330d61c9d5b446de6940f9423e62e431cb91244e09a1a2c3&sc=6852
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6852&ext=hls&x=1782807857&k=687dd71d0e599652557dc3339f900b4b51fbebb86883e5033e75da13b250a765&sc=6852
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" group-title="TV VIDIDI", LIVE 22:33 WIB (09/04) - U-Channel TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6898&ext=hls&x=1782806916&k=2504d41eaf870c02f3fb35fb490761134b23a47bfb2b82b347d4397a88e228ad&sc=6898
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6898&ext=hls&x=1782807857&k=6da257414f1fb36ea9350c97587dc5f92a159f572d0e1d3630d42ebd94df0e8f&sc=6898
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YMONijGwzaZJSqIYXFnswSZVves=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21179/citra-drama-9342a3.jpg" group-title="TV VIDIDI", LIVE 16:54 WIB (14/04) - Naik Ranjang
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21179&ext=drm&x=1782806916&k=f6f7faa5716f6dbee17ef5a63a738a6bb51a366cd5bbbeb23dbf491dad082c89
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21179&ext=drm&x=1782807857&k=34def32442091c04546ec8279056961084b8789368782ad59fc55ee7826c6f6c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=21179&ext=dash&x=1782806916&k=df8e11dd63afa0943c094970eb14c420fd51e75470553c8ee5c09c3fbce6b9b3&sc=21179
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=21179&ext=dash&x=1782807857&k=3d77f9afe2312659bb16eaad805f57fded24381bdea104998d02782cf3d9d86d&sc=21179
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MO29LQSLBb-CrxAR-emGtTfpxs8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-bd851f.jpg" group-title="TV VIDIDI", LIVE 02:00 WIB (23/04) - Masha and The Bear
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7052&ext=drm&x=1782806916&k=97049e121c728f11df1835319cd163cff451005268a969693a4361636bcdf1f5
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7052&ext=drm&x=1782807857&k=8f1525c42e4946065dd2411005d630d7cd33e0190e81aa66a474219b53aa75cd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=7052&ext=dash&x=1782806916&k=7bf41627a57a34626d32ea9ae37ba044c26529c8475c5cdaa605679c3980f909&sc=7052
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=7052&ext=dash&x=1782807857&k=11e16dec53d54881a0d888a7a7aa40178cb2ce5fbe9909e8eebdd140f650b5a2&sc=7052
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" group-title="TV VIDIDI",Metro Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782806916&k=6e4022a67402917aae819d6bae463f66167e65d5bc4a7a13da275ddc598b5f58&sc=777
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782807857&k=ec156e3e0f6605150d340b266c053b89c722021c51d5d1c5ef958825bcbe29a8&sc=777
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg" group-title="TV VIDIDI", LIVE 03:35 WIB (23/04) - Metro Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782806916&k=6e4022a67402917aae819d6bae463f66167e65d5bc4a7a13da275ddc598b5f58&sc=777
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=777&ext=hls&x=1782807857&k=ec156e3e0f6605150d340b266c053b89c722021c51d5d1c5ef958825bcbe29a8&sc=777
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="TV VIDIDI",Kabar Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=783&ext=hls&x=1782806916&k=f2af5cfd50b9e310d56ea042adc270930e6b0682ccfb03d0746a380876c0d95e&sc=783
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=783&ext=hls&x=1782807857&k=1a7a7f267501f9d9bf3bb182e1712a29789ecb48c8add7dee72124cc72d57022&sc=783
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="TV VIDIDI",Kompas Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782806916&k=da4209e3168a3f93966f5c16a675101d700fcb9ac7dce3bec8aeb91488134273&sc=874
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782807857&k=55498d6619b68fba67f0326b28f81060ccef4e090105406978669ae48e63eb42&sc=874
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="TV VIDIDI", LIVE 17:59 WIB (24/04) - Kabar Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=783&ext=hls&x=1782806916&k=f2af5cfd50b9e310d56ea042adc270930e6b0682ccfb03d0746a380876c0d95e&sc=783
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=783&ext=hls&x=1782807857&k=1a7a7f267501f9d9bf3bb182e1712a29789ecb48c8add7dee72124cc72d57022&sc=783
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg" group-title="TV VIDIDI", LIVE 18:00 WIB (24/04) - Kompas Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782806916&k=da4209e3168a3f93966f5c16a675101d700fcb9ac7dce3bec8aeb91488134273&sc=874
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=874&ext=hls&x=1782807857&k=55498d6619b68fba67f0326b28f81060ccef4e090105406978669ae48e63eb42&sc=874
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zE793GEKRyoy_BJxLu-Db2tsz1k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18622/daystar-tv-4eddcd.jpg" group-title="TV VIDIDI", LIVE 15:00 WIB (29/04) - Ministry Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18622&ext=hls&x=1782806916&k=f2a8d5edf19f51a1e9e19886cc3fb2d275b5328596cda7e539511a9020dd81fc&sc=18622
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18622&ext=hls&x=1782807857&k=ae623a6722bb8d75b1e7b5a0a21591375a59ef3d77d97eacc2cb4a66d4bdd59b&sc=18622
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="TV VIDIDI", LIVE 10:00 WIB (02/05) - 6H Info
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=17278&ext=drm&x=1782806916&k=8014df57eb2a08604c84569b36e26c6e66fbbeb11ee2412e5150e18644cd5ae2
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=17278&ext=drm&x=1782807857&k=af7685768e8b7629ba6aac6593543d8df81aa6fad3182c2e9bc5a30d1abeb5e6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=17278&ext=dash&x=1782806916&k=3895f0ba998d2322f94fd84c2d15d7c127ba513572f0296be0817652b6c94e9a&sc=17278
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=17278&ext=dash&x=1782807857&k=dba1151264aaf545d9628db5df25434170f3b566ccaf65afca93353362026cb1&sc=17278
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c_718cCh2RH2UIUd4C3juKKZ9Wc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12607/dmi-tv-8f4cb7.jpg" group-title="TV VIDIDI", LIVE 14:00 WIB (05/05) - DMI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12607&ext=hls&x=1782806916&k=74f27019fe3002b5407eeada546df92e014796488a6e4a64fd10e050bbf30f6c&sc=12607
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12607&ext=hls&x=1782807857&k=292290a416249e6c444fcef9b1a764c4e00c383baed4c2ed31cc812f41761869&sc=12607
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nNXh7qb2ZgetCPk7CN7hyyoKqLo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (29/09) - News Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6410&ext=hls&x=1782806916&k=d22a74154fa4a4e4cf7ff2611627de795a0b16da225bb17fa317918426f00932&sc=6410
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6410&ext=hls&x=1782807857&k=900b63ab1f4310f47a78690158eecb0928d22169ec417799d473009470fa1dda&sc=6410
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg" group-title="TV VIDIDI", LIVE 11:00 WIB (18/05) - News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12784&ext=hls&x=1782806916&k=a77e3d59f2c5ea3882ffb23108298521070e2cc912a8a3fd3c87f2cb0feb829b&sc=12784
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=12784&ext=hls&x=1782807857&k=9fc7e561dbd446fe1da11c2bf969e86d078f81a27af1dc91728d7ea7a493f194&sc=12784
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg" group-title="TV VIDIDI", LIVE 19:00 WIB (25/06) - Australia's Wild Moments - Episode 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7150&ext=hls&x=1782806916&k=3d2ebb8e0a2dbf9d37f051e0590707008150a247609cd5a4a7c79ea3c7daa19e&sc=7150
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7150&ext=hls&x=1782807857&k=6288e4b8ef3b343cfc41b40e70b5f83ab82dbaeeffdf27da1311b6c27c63e29e&sc=7150
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-fJcdGieHvetPDosR_ZwDD-YE5M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg" group-title="TV VIDIDI", LIVE 09:00 WIB (08/07) - Keluarga Gunarso
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=19046&ext=hls&x=1782806916&k=3e6d045229d7bb9071f5e6444b5b6d20ef9acc687c6afcdaec12253241d9e2ce&sc=19046
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=19046&ext=hls&x=1782807857&k=5d3a63cc51ab97e0f9b983c6910172624bb4850cbe7b0517fba6ad50e24e8078&sc=19046
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nBRneLipjed0tzgVoHIft83fOYk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6411/news-asia-31d4e8.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (07/09) - Echoes Of Change
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6411&ext=hls&x=1782806916&k=5419c98d5efaf6bcfcdcd5d7b7cc858e0b73833f012bb84a3bcb9b882e6e43b1&sc=6411
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (07/09) - Mad Concrete Dreams Ep10
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6411&ext=hls&x=1782807857&k=0ea0a4247c84eb27e9782ea1576363b959067c215b61aec2655cde5f8e2a44ed&sc=6411
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (07/09) - KILL IT: Style Creator Showdown
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=6362&ext=drm&x=1782806916&k=02fc111dde114124131c4436b16f1e1ac6ec4db56448dc0e0ef991d3aa045d56
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=6362&ext=drm&x=1782807857&k=4880899d74fe51b9852520a7c4239b61163c3706a73b9d0a329af28bb32d5222
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=6362&ext=dash&x=1782806916&k=5f7249454418c054f180288baf8d905df685f08bce75c665390ae9d68f2ee4d9&sc=6362
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=6362&ext=dash&x=1782807857&k=48a69b0ee2f601b498c82583b46e3c09f1dccb45b79aab4cba0ba68d22db674d&sc=6362
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ncoNQ0L6tGMTXzFAJAW0apq0wWE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-0ed074.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (07/09) - Morphle 2D - English
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=6397&ext=drm&x=1782806916&k=f60aa43b870eb5d7bcd48ba2485dd36b12e83f0490b752bd0e6898ba597b9a49
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=6397&ext=drm&x=1782807857&k=791f12790e012735c362b5631af340066bbddf2a53ca7b20a4b7c03f944e07e4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=6397&ext=dash&x=1782806916&k=2ecb9165f46fd28cb022181499c0fa3e81f3059dee01ea04f858b1311decd885&sc=6397
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=6397&ext=dash&x=1782807857&k=20d8ee3bbcda4530905f06f405de949cc78b7f9822fd47fc8f47da45bc82c341&sc=6397
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QEzhky9Io4g9RlJF25aDUzNQUg0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg" group-title="TV VIDIDI", LIVE 11:00 WIB (29/09) - Oblivion
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=8121&ext=drm&x=1782806916&k=4ebbdff2c68ddbe99d7d8462a1e91704a1894a0b74050598a8a7781939867cca
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=8121&ext=drm&x=1782807857&k=f95254804300d81d2628a5aef891b0c2779ee3bb70844749e5b16d7c6bb0710f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=8121&ext=dash&x=1782806916&k=c079b888bda63f4daff60e80e95b0b715a44b09cff08bf11973d5967ae0db2e7&sc=8121
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=8121&ext=dash&x=1782807857&k=a03097900d7b32fc6fe546ff23dd867dffec479b4d45e73297cbc20dceb8f8f6&sc=8121
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="TV VIDIDI",Asta Cita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782806916&k=14d2ad227c1013bc9ccfef2d3b11c598861b35c54f64af80ab00a532e5273cb3&sc=7432
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782807857&k=0ed1981cae10b621e7c372405513df37ff31e497827e33c12559b480feb2fa2a&sc=7432
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg" group-title="TV VIDIDI", LIVE 10:00 WIB (21/10) - Asta Cita
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782806916&k=14d2ad227c1013bc9ccfef2d3b11c598861b35c54f64af80ab00a532e5273cb3&sc=7432
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7432&ext=hls&x=1782807857&k=0ed1981cae10b621e7c372405513df37ff31e497827e33c12559b480feb2fa2a&sc=7432
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="TV VIDIDI",Live Adzan Dan Sholat Dzuhur
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782806916&k=63b799036e1a6ba6f4be8c0cfc6cc3ee934f1b1b57909179c184d6bd0ee9e21d
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782807857&k=1202a88974f5987199981b17e06cd29d8a9c9985ffdd0355f0670640e291276d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782806916&k=5a467f4a493e3a284261977300376dd5353c2ee52179e3fb0fc4e338ec87716f&sc=7464
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782807857&k=59f6dc97c1b7938d37812f28f751a596b027382082fa83e3525e72dfc2396680&sc=7464
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg" group-title="TV VIDIDI", LIVE 19:45 WIB (26/10) - Live Adzan Dan Sholat Dzuhur
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782806916&k=63b799036e1a6ba6f4be8c0cfc6cc3ee934f1b1b57909179c184d6bd0ee9e21d
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=drm&x=1782807857&k=1202a88974f5987199981b17e06cd29d8a9c9985ffdd0355f0670640e291276d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782806916&k=5a467f4a493e3a284261977300376dd5353c2ee52179e3fb0fc4e338ec87716f&sc=7464
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=7464&ext=dash&x=1782807857&k=59f6dc97c1b7938d37812f28f751a596b027382082fa83e3525e72dfc2396680&sc=7464
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="TV VIDIDI",iNews Siang
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=drm&x=1782806916&k=228617fc4968ed36b5894ce9c76c69ecbdb308747d988d1a7939e7d28bfd2354
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=drm&x=1782807857&k=aed5ae4623f32165fcf5aa57fb71ee9c5f4a21865669415409f0f495b2eb56df
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=dash&x=1782806916&k=8eef29fb6569d4d3696e6a9e7f976538c45596878a5ad4df6ad4492ff4731b1f&sc=5409
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=dash&x=1782807857&k=24372020ee6d2cd9e6fa2f328bd1bd8649f739629662c0d69462785083eb0b0d&sc=5409
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg" group-title="TV VIDIDI", LIVE 00:00 WIB (01/11) - iNews Siang
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=drm&x=1782806916&k=228617fc4968ed36b5894ce9c76c69ecbdb308747d988d1a7939e7d28bfd2354
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=drm&x=1782807857&k=aed5ae4623f32165fcf5aa57fb71ee9c5f4a21865669415409f0f495b2eb56df
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=dash&x=1782806916&k=8eef29fb6569d4d3696e6a9e7f976538c45596878a5ad4df6ad4492ff4731b1f&sc=5409
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=5409&ext=dash&x=1782807857&k=24372020ee6d2cd9e6fa2f328bd1bd8649f739629662c0d69462785083eb0b0d&sc=5409
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wgek2CEV7BzrN6akKH3l4jbppWY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5159942/01f508.jpg" group-title="TV VIDIDI", LIVE 00:01 WIB (07/11) - Pororo The Little Penguin
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=8237&ext=drm&x=1782806916&k=eff758fb45c1a76864967abd9eb57df6d744159b710d5ec22860da0aac25b9f3
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=8237&ext=drm&x=1782807857&k=369567fc056a0e617f2e21905ca71a797ce1d32be3e76dd27ce4ae071e5c7842
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=8237&ext=dash&x=1782806916&k=7ebe707385ad706e911c4cf1078040dc4d874e2125a28956fe854516d967598f&sc=8237
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=8237&ext=dash&x=1782807857&k=ca987179f13fd21e1cef243a0b364f31e43e52885f32dff621b9acea9455d0c3&sc=8237
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dqu2d5vovPKc448pBIc6ihswPTU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg" group-title="TV VIDIDI", LIVE 14:33 WIB (30/11) - NHK Newsline
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7968&ext=hls&x=1782806916&k=556f2743bfcaf1b885f22a9892d24ff1e3e3d4cdb2730036220c022138dd49e6&sc=7968
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=7968&ext=hls&x=1782807857&k=36700bfd45895b9477243bcaacd6deaf754b98acc24bd19197d9de544b2e2b17&sc=7968
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="TV VIDIDI",Laporan 8 Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782806916&k=bf3c889203c53c408b77e3947618a91ed35a84b28fed80ca131decf6d44fa4da&sc=18162
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782807857&k=811b991042d910484909ef9320d116eb6443271eeea4c823e1f9d5955c0c7e79&sc=18162
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg" group-title="TV VIDIDI", LIVE 17:00 WIB (11/12) - Laporan 8 Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782806916&k=bf3c889203c53c408b77e3947618a91ed35a84b28fed80ca131decf6d44fa4da&sc=18162
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=18162&ext=hls&x=1782807857&k=811b991042d910484909ef9320d116eb6443271eeea4c823e1f9d5955c0c7e79&sc=18162
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/HyJOKvUu7_oA8wWozEtI-3W1v1s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-4aa968.jpg" group-title="TV VIDIDI", LIVE 00:02 WIB (24/12) - The Day
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5075&ext=hls&x=1782806916&k=4f0a8312153fc08c40a7a518e3d57b4e32d94ea8d0009afe58babb7c1814d1d7&sc=5075
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5075&ext=hls&x=1782807857&k=06026f9bdcfd303f17aa3aa8cb764785edcd23d640c726eb7001e9cd63c30a25&sc=5075
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LDg7wQmlx1J5_2AkdOGtXtMEJmk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg" group-title="TV VIDIDI",Amazing Kids : Spongebob Squarepants
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=drm&x=1782806916&k=10dad557b78286cca3b82b57ab9c082bb36e496b5573d85375aeba7d8eaafc1a
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=drm&x=1782807857&k=de6258ff0e2a90db8d376f4a362eb7ea7c23044edc094c7e3d82d63de1e0b4ac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=dash&x=1782806916&k=ec126629fca24c9dfb66edf7f0719f576cc0fcbdab7ae1769beb4096b3d01941&sc=778
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=778&ext=dash&x=1782807857&k=9a58c7092c5a0bc018a2752396cea23a36a94e20df48c01bc816e91ca9787b37&sc=778
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/emHpj-uEoQwjDU_pcCtUJ5jSCgg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21289/citra-drama-plus-a6965e.jpg" group-title="TV VIDIDI",Citra Plus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=drm&x=1782806916&k=8f8876606597e1d0b317b5aab36ce1eddf0b7fe7bd70181bc18e6fee270421c0
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=drm&x=1782807857&k=6dd6c61873f3a0bf3a786826d98c01f9005298944c690195407d6e05581207e1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=dash&x=1782806916&k=c04fa7b286a18cfb472ef8bf89d170a443db0856300a6f92d3eb10553a2f8d2b
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=21289&ext=dash&x=1782807857&k=0eb70d613d54a928b71c8480fcdc0b821e7582e6ce30e79ea181b33604e22be1
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg" group-title="TV VIDIDI",Halo Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6482&ext=hls&x=1782806916&k=938549ec6f411cbae9af513c7dff45a1c1d58930cdb130b3ab5c5e936bf0fb64&sc=6482
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6482&ext=hls&x=1782807857&k=3ce02265506c06b5693ebc1592fedd37b1aad2cfd299e44ec62a1f75dd365a5c&sc=6482
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg" group-title="TV VIDIDI",Khazanah Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9714&ext=hls&x=1782806916&k=8a32d560e8e3d15cf208541697024ca13d6e7ec3cf622a98856f45d50a571650&sc=9714
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9714&ext=hls&x=1782807857&k=097ad583751f5f91422e2eebe4d5d07e7f841e06d25f027f496070f4e93c14d2&sc=9714
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="TV VIDIDI",Klik Indonesia Siang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6441&ext=hls&x=1782806916&k=94199ebb3939c6ed135b078197e157ca49a57d812ca3709ba1917a97a89a56f4&sc=6441
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=6441&ext=hls&x=1782807857&k=7fa4f60d2e48d2c5b5938bd558f2e32fe5665741ce324dbd6b8f1762ece8c240&sc=6441
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0f2I5boA9LShVN7cMKGpHG7T9gQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg" group-title="TV VIDIDI",Layar Drama Indonesia - Terikat Janji Selamanya
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=665&ext=drm&x=1782806916&k=8624929da450d84ab47b7726f92efe8aa1df4bcd6bdc955cc64945b2a0a79151
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=665&ext=drm&x=1782807857&k=eb7f4c6aa0d0a24843905718ac240b6e598312af7b6353321f178cd63c5b08be
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=665&ext=dash&x=1782806916&k=8f8f97c10bd9491885042812756c224fed2f6cdc6ec2b0161b8dbbd4772095f9&sc=665
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=665&ext=dash&x=1782807857&k=ffd3a875914c92f1fda8c471717e56a62cd22bd2a2d99ce1b3d81a1b8304fa86&sc=665
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg" group-title="TV VIDIDI",Lejel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5415&ext=hls&x=1782806916&k=6e6a461331a5db9479893ba5f2c855027eb5ebcf527f48b6ab14afbdf0bf274a&sc=5415
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=5415&ext=hls&x=1782807857&k=85170e1762b49127d82c5c095ce5a94ac657cc89c18ab2069e175921f65e11b0&sc=5415
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/po6DDg81oPro90ij_7UVOqiMZ98=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg" group-title="TV VIDIDI",Makan Enak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=875&ext=hls&x=1782806916&k=360685c9e2e09cc7f6131b43de875470b059c04c8fe754eb4aee78358ba526f4&sc=875
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=875&ext=hls&x=1782807857&k=3470d3ea738ff57f4ed6ff2777c57a3856eb591d9e70ef87452808056368c2f8&sc=875
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PVXi_Zv-4F4D5gy0JVhNHcRDD_c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5154641/d70ce8.jpg" group-title="TV VIDIDI",Mega Bollywood: Aap Mujhse Achche Lagne Lage
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=782&ext=hls&x=1782806916&k=b82ed565a624b70b0149441f37f88f8b186467f229a175991c4e94e7e71394db&sc=782
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg" group-title="TV VIDIDI",Rumahnya Seleb : Seleb On News 2026
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=782&ext=hls&x=1782807857&k=5e3939b1c0c72742bac31458c061949e200d38d6ea9ae1c7e22bef52a869ca30&sc=782
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg" group-title="TV VIDIDI",Rumahnya Anak : Kembara Upin & Ipin
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=870&ext=drm&x=1782806916&k=64a879a2535a682077b7d27469aeb2cb14d72532675b88c440db53efca0842fd
+#KODIPROP:inputstream.adaptive.license_key=https://streambone.usw40304648193001.workers.dev/index.mpd?q=870&ext=drm&x=1782807857&k=f5d67a752d297e10c273fcf30bca1da9ba3434866f514e3f92ef6454cd72be91
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/index.mpd?q=870&ext=dash&x=1782806916&k=bd958a143c222269d683c2e1d83b0379122200ca21730370b4b5958d9e7742a9&sc=870
+https://streambone.usw40304648193001.workers.dev/index.mpd?q=870&ext=dash&x=1782807857&k=e3a1c49cfb3f30cf41657e6ff38d0733e86b56f1ff01436c1f975bef0c50709d&sc=870
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IReT-5y6B0A3t-dMZBdvamR74ww=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg" group-title="TV VIDIDI",Smurfs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=1561&ext=hls&x=1782806916&k=d9076d5981a50cac0118bc3c8edb034a04856c58b329cfcbe6cca1ed52660d6f&sc=1561
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=1561&ext=hls&x=1782807857&k=96bd5425e4e2c2dc2dda68d664521bc93d548e75e8185f1d8d2c99eca9f21cd2&sc=1561
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg" group-title="TV VIDIDI",Stasiun Dangdut
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9713&ext=hls&x=1782806916&k=eaf34456e99c11932b0b8311dbb68b5a5729eac58388e48d6f8d3f0426fa673e&sc=9713
+https://streambone.usw40304648193001.workers.dev/play.m3u8?q=9713&ext=hls&x=1782807857&k=c2d47968f0b47c7c40a55abd7a9a07daf4149e031271e23a3c06275810a830f7&sc=9713
 #EXTINF:-1 tvg-logo="https://oss.yalla-shoot-admin.com/team/20153890dc40f0de6ef4a196635722bec61.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[ LIVE 11:45 WIB] [Liga Nasional Filipina] Outriders vs Conquerors [Zhubo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://yallavoide.yalla-shoot-zhubo.com/sport/201_5513525_1.m3u8?auth_key=1782882746-0-0-bdbd4bde86f2032c190eb09038845b77
+https://yallavoide.yalla-shoot-zhubo.com/sport/201_5513525_1.m3u8?auth_key=1782883466-0-0-807c05bce84b33378224c7a08baa3148
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [NPB Farm Leagues] Oisix Niigata VS Chiba Lotte Marines | NPB Farm Leagues
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782883044-Kv4cPTAAP5YTi-1fcfec4967082da0e2c4aa25d9c0a05f94d3f3a8-75d290acfef4ed960be5d88d3cf07436|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://static-live.linewgen.xyz/live/bing/img/teams/34593265410a4efe76ac3463f92c902a.png" group-title="🔴 🔴 LIVE EVENT NOW | BONE TV",[LIVE ] [NPB Farm Leagues] Tokyo Yakult Swallows VS Yomiuri Giants | NPB Farm Leagues
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://iframe.rumsport10.live&referer=https://iframe.rumsport10.live/&user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
+https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782883039-Kv4cPTAAP5YTi-1fcfec4967082da0e2c4aa25d9c0a05f94d3f3a8-64162a3a36e075065cf402fdc155ed8c|Referer=https://iframe.rumsport10.live/&User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://cts-dev.sgp1.cdn.digitaloceanspaces.com/public/tvt9uzy8r3yecm.png" group-title="🔴FIFA WORLD CUP 2026🔴",like Gecko) Chrome/145.0.0.0 Safari/537.36" http-referrer="https://90sport.com/",[LIVE] World Cup 2026 | (08.00 WIB) Netherlands vs Morocco
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://90sport.com/
-https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fstream%2F2%2Findex.m3u8&client_id=cts&uid=ltfqt0w2&is_vip=true&verify=1782795600-Kxd0ikUELJbvwkUW1SBo%2FnbjNFy1IPuhFO2mu4EtUVI%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
+https://iframe.rumsport7.live/partner-stream.m3u8?url=https%3A%2F%2Flivecdn-tc-cts.maypn.stream%2Fstream%2F2%2Findex.m3u8&client_id=cts&uid=x6k67dv4&is_vip=true&verify=1782795600-uMoX%2B0UW2CzRwxLp6w7PtCIwo%2FKe6rhN8eOr7Cym0WM%3D|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Referer=https://90sport.com/
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Brazil vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782798802-0-0-bbb17cd6d973af3c04f948964bbd4b7d
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782799882-0-0-dbd138ac0cb0983e7536e80600e38642
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Brazil vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782798802-0-0-bd80e075088d7f23caee5c1c8955d514
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782799882-0-0-1371f78e1b8b076905b6dd7fb006963b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782798802-0-0-916d52c9bbba9f3de43c8fbfa373bb3c
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782799882-0-0-d6a3e6e7fbc2c0b4d1713c0855d2d9f7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782798802-0-0-02f04fd3b5a4b377993c7451e74858b8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782799882-0-0-ebad2f86dd9a9c54c246d77652647ebc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782798802-0-0-a2d038401ccc8d74e4bf6d784c9efa09
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782799882-0-0-c1153a90f2fec77438cea6a21723002e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782798802-0-0-a93227df6afd9083327440d96b7cf4fe
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782799882-0-0-1907bf7e35095801ca503eee514f2ab9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782798802-0-0-44693dfb5eeb26efcd112c109d8dcfb8
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782799882-0-0-f8d33f852bfcee67258a46d4245cecfd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782798802-0-0-ef8d925a0b19dbe443dab02cada394f8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782799882-0-0-1d33a1682624207fc2c0ddded39ef5b7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - Netherlands vs Morocco (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782799222-0-0-843394bc5605b547530a78392d8905c3
@@ -7910,10 +7950,10 @@ https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782799222-0-0-
 https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782799222-0-0-d5f06087058280e0742fa529273a672e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782798802-0-0-fbeeb4e62c173494d678e985915e0a3a
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782799882-0-0-459bc7c0a0e4836c5707f096509c83f2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴FIFA WORLD CUP 2026🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782798802-0-0-800b523ebdf0422b55ef0418235ab297
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782799882-0-0-ac7ef4bcd41494343c06f13fc7f6225b
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="🔴FIFA WORLD CUP 2026🔴",[FIFA World Cup] Morocco vs Netherlands (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free
@@ -8092,7 +8132,7 @@ https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/ef2635db12914681ae86ece2d97bd6c2.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 4 Jul, 08:30 WIB] [FIFA World Cup] Colombia vs Ghana
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
-#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/336e1c9ab6894a3b893c1ef45235a164.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 5 Jul, 00:00 WIB] [FIFA World Cup] Canada vs Morocco
+#EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/336e1c9ab6894a3b893c1ef45235a164.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 5 Jul, 00:00 WIB] [FIFA World Cup] Canada vs Netherlands/Morocco
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
 #EXTINF:-1 tvg-logo="https://api.cdnsport.xyz/proxy/img/football/team/e6092477694f4a62bbb63cf64ee19fe6.png" group-title="🔴FIFA WORLD CUP 2026🔴",[ JADWAL 5 Jul, 04:00 WIB] [FIFA World Cup] Paraguay vs France/Sweden
 https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8
@@ -8608,28 +8648,28 @@ https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b06
 https://flv.cdnfaster-a.live/live/TO3A.flv?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Brazil vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782798802-0-0-bbb17cd6d973af3c04f948964bbd4b7d
+https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1782799882-0-0-dbd138ac0cb0983e7536e80600e38642
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Brazil vs Japan (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782798802-0-0-bd80e075088d7f23caee5c1c8955d514
+https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1782799882-0-0-1371f78e1b8b076905b6dd7fb006963b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782798802-0-0-916d52c9bbba9f3de43c8fbfa373bb3c
+https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1782799882-0-0-d6a3e6e7fbc2c0b4d1713c0855d2d9f7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Colombia vs Portugal (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782798802-0-0-02f04fd3b5a4b377993c7451e74858b8
+https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1782799882-0-0-ebad2f86dd9a9c54c246d77652647ebc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782798802-0-0-a2d038401ccc8d74e4bf6d784c9efa09
+https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1782799882-0-0-c1153a90f2fec77438cea6a21723002e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Germany vs Paraguay (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782798802-0-0-a93227df6afd9083327440d96b7cf4fe
+https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1782799882-0-0-1907bf7e35095801ca503eee514f2ab9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782798802-0-0-44693dfb5eeb26efcd112c109d8dcfb8
+https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1782799882-0-0-f8d33f852bfcee67258a46d4245cecfd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Jordan vs Argentina (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782798802-0-0-ef8d925a0b19dbe443dab02cada394f8
+https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1782799882-0-0-1d33a1682624207fc2c0ddded39ef5b7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - Netherlands vs Morocco (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
 https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782799222-0-0-843394bc5605b547530a78392d8905c3
@@ -8638,10 +8678,10 @@ https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1782799222-0-0-
 https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1782799222-0-0-d5f06087058280e0742fa529273a672e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782798802-0-0-fbeeb4e62c173494d678e985915e0a3a
+https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1782799882-0-0-459bc7c0a0e4836c5707f096509c83f2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260626/c73da4c10e13664f4fa95cec7377cadf.png" group-title="🔴 LIVE EVENT SEARCH BONE TV 🔴",Tuong thuat: WORLD CUP - South Africa vs Canada (Nguyen Punya)
 #EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782798802-0-0-800b523ebdf0422b55ef0418235ab297
+https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1782799882-0-0-ac7ef4bcd41494343c06f13fc7f6225b
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="🔴 LIVE EVENT NOW |  BONE TV 1 🔴",[MLB] Arizona Diamondbacks - San Francisco Giants (Not Nguyen)
 #EXTVLCOPT:http-referrer=https://exposestrat.com
 #EXTVLCOPT:http-origin=https://exposestrat.com
