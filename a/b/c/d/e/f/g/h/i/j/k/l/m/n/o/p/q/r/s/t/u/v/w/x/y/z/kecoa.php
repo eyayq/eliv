@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [14.27 WIB 01/07/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
+#EXTINF:-1 tvg-id="donasi" tvg-name="Donasi" tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="Update V2: [14.33 WIB 01/07/26]",Donasi server playlist iptv v2 https://trakteer.id/mybhianesse0 dana ovo gopay 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1782889851528-img-0919.png" group-title="[UPCOMING 0j 32m 15:00 WIB 01/07/26] T1 vs Team Liquid",[UPCOMING 0j 32m 15:00 WIB 01/07/26] T1 vs Team Liquid (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1782889851528-img-0919.png" group-title="[UPCOMING 0j 26m 15:00 WIB 01/07/26] T1 vs Team Liquid",[UPCOMING 0j 26m 15:00 WIB 01/07/26] T1 vs Team Liquid (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 8j 32m 23:00 WIB 01/07/26] England vs Congo DR",[UPCOMING 8j 32m 23:00 WIB 01/07/26] England vs Congo DR (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 8j 26m 23:00 WIB 01/07/26] England vs Congo DR",[UPCOMING 8j 26m 23:00 WIB 01/07/26] England vs Congo DR (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 8j 32m 23:00 WIB 01/07/26] England vs Congo DR",[UPCOMING 8j 32m 23:00 WIB 01/07/26] England vs Congo DR (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 8j 26m 23:00 WIB 01/07/26] England vs Congo DR",[UPCOMING 8j 26m 23:00 WIB 01/07/26] England vs Congo DR (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 12j 32m 03:00 WIB 02/07/26] Belgium vs Senegal",[UPCOMING 12j 32m 03:00 WIB 02/07/26] Belgium vs Senegal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 12j 26m 03:00 WIB 02/07/26] Belgium vs Senegal",[UPCOMING 12j 26m 03:00 WIB 02/07/26] Belgium vs Senegal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 12j 32m 03:00 WIB 02/07/26] Belgium vs Senegal",[UPCOMING 12j 32m 03:00 WIB 02/07/26] Belgium vs Senegal (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 12j 26m 03:00 WIB 02/07/26] Belgium vs Senegal",[UPCOMING 12j 26m 03:00 WIB 02/07/26] Belgium vs Senegal (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 16j 32m 07:00 WIB 02/07/26] USA vs Bosnia & Herzegovina",[UPCOMING 16j 32m 07:00 WIB 02/07/26] USA vs Bosnia & Herzegovina (FHD)
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/icons/tournaments/1781492425622-img-0542.png" group-title="[UPCOMING 16j 26m 07:00 WIB 02/07/26] USA vs Bosnia & Herzegovina",[UPCOMING 16j 26m 07:00 WIB 02/07/26] USA vs Bosnia & Herzegovina (FHD)
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
