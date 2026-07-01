@@ -1,43 +1,49 @@
 #EXTM3U
-# Generated Wed Jul  1 23:10:47 2026
+# Generated Wed Jul  1 23:17:20 2026
 
-#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 02-07-2026 06:10:17 WIB😈📁
+#EXTINF:-1 group-title="📁😈SERVER INFO https://trakteer.id/mybhianesse0😈📁" tvg-logo="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png",📁😈Donate Support Admin https://trakteer.id/mybhianesse0 • Thursday 02-07-2026 06:17:11 WIB😈📁
 http://phate.io/listen
-#EXTINF:-1 group-title="📁😈 Canadian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/8db9a5d445b772788d5a1f9719133e59.png",📁😈HFX Wanderers FC😈 [🆚] 😈Atletico Ottawa [LIVE]😈📁
-https://tv.streamhy.com/live/5005350.m3u8?expire=1782960264&sign=26a0133572f90ec506f056e8d74a6234
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [49m]😈📁
-https://tv.streamhy.com/live/5006458.m3u8?expire=1782961614&sign=c24984dd24e24b675af63931b2073b41
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [49m]😈📁
-https://tv.streamhy.com/live/5005897.m3u8?expire=1782961547&sign=7f753164ae496be16f1f28ba76ca3747
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [49m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [42m]😈📁
+https://tv.streamhy.com/live/5006458.m3u8?expire=1782962001&sign=d9d9a21217b9248a7b95081fdcb51b63
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [42m]😈📁
 https://tv.streamhy.com/live/5006657.m3u8?expire=1782961569&sign=5aef9c9d4c2f848a250f0650ca5ee467
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [49m]😈📁
-https://tv.streamhy.com/live/5005885.m3u8?expire=1782961550&sign=62fc4c3936f50bec9cf56fa967c2d551
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [49m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [42m]😈📁
+https://tv.streamhy.com/live/5006646.m3u8?expire=1782959000&sign=7770af7b3c356552dc6ed9e4cbd085ce
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [42m]😈📁
+https://tv.streamhy.com/live/5005897.m3u8?expire=1782961547&sign=7f753164ae496be16f1f28ba76ca3747
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [42m]😈📁
+https://tv.streamhy.com/live/5005672.m3u8?expire=1782962212&sign=50beeb67b1f6ed5b112e41e47ecda663
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [42m]😈📁
 https://tv.streamhy.com/live/5005903.m3u8?expire=1782960755&sign=05906e56822077512188111ddb10cd88
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [49m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [42m]😈📁
+https://tv.streamhy.com/live/5005885.m3u8?expire=1782961550&sign=62fc4c3936f50bec9cf56fa967c2d551
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [42m]😈📁
 https://tv.streamhy.com/live/5005343.m3u8?expire=1782961398&sign=c2359012489f652f31a9c8a52820734a
-#EXTINF:-1 group-title="📁😈 Chilean Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d63f2665f489d5a1c0a059feb0b0d0e4.png",📁😈Universidad de Chile😈 [🆚] 😈Union La Calera [79m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [42m]😈📁
+https://tv.streamhy.com/live/5006284.m3u8?expire=1782962093&sign=a79e1f8eccc838fc2983d7d3ad99cea1
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈USA😈 [🆚] 😈Bosnia and Herzegovina [42m]😈📁
+https://tv.streamhy.com/live/5005342.m3u8?expire=1782961942&sign=3e345e60ed02f4fce714a35581a5133f
+#EXTINF:-1 group-title="📁😈 Chilean Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/d63f2665f489d5a1c0a059feb0b0d0e4.png",📁😈Universidad de Chile😈 [🆚] 😈Union La Calera [72m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4552717
-#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Akademiya Ontustik😈 [🆚] 😈FC Shakhtyor Karagandy [769m]😈📁
+#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Akademiya Ontustik😈 [🆚] 😈FC Shakhtyor Karagandy [762m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4519515
-#EXTINF:-1 group-title="📁😈 UEFA European U19 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png",📁😈Croatia U19😈 [🆚] 😈Italy U19 [829m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA European U19 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png",📁😈Croatia U19😈 [🆚] 😈Italy U19 [822m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4551239
-#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Khan Tengri FC😈 [🆚] 😈Ekibastuzets [889m]😈📁
+#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈Khan Tengri FC😈 [🆚] 😈Ekibastuzets [882m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4519517
-#EXTINF:-1 group-title="📁😈 Belarusian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png",📁😈FC Minsk😈 [🆚] 😈Dinamo Minsk [1069m]😈📁
+#EXTINF:-1 group-title="📁😈 Belarusian Premier League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png",📁😈FC Minsk😈 [🆚] 😈Dinamo Minsk [1062m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4502857
-#EXTINF:-1 group-title="📁😈 UEFA European U19 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png",📁😈Serbia U19😈 [🆚] 😈Ukraine U19 [1069m]😈📁
+#EXTINF:-1 group-title="📁😈 UEFA European U19 Football Championship 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png",📁😈Serbia U19😈 [🆚] 😈Ukraine U19 [1062m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4551240
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Spain😈 [🆚] 😈Austria [1189m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Spain😈 [🆚] 😈Austria [1182m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4459728
-#EXTINF:-1 group-title="📁😈 Iceland Besta-deild karla 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png",📁😈Vikingur Reykjavik😈 [🆚] 😈KA Akureyri [1204m]😈📁
+#EXTINF:-1 group-title="📁😈 Iceland Besta-deild karla 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png",📁😈Vikingur Reykjavik😈 [🆚] 😈KA Akureyri [1197m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4480131
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Portugal😈 [🆚] 😈Croatia [1429m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Portugal😈 [🆚] 😈Croatia [1422m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4459727
-#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Switzerland😈 [🆚] 😈Algeria [1669m]😈📁
+#EXTINF:-1 group-title="📁😈 FIFA World Cup 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png",📁😈Switzerland😈 [🆚] 😈Algeria [1662m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4459729
-#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈FK Arys😈 [🆚] 😈FK Yelimay Semey B [2209m]😈📁
+#EXTINF:-1 group-title="📁😈 Kazakhstan Division 1 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",📁😈FK Arys😈 [🆚] 😈FK Yelimay Semey B [2202m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4523580
-#EXTINF:-1 group-title="📁😈 Latvian Higher League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/71ec56470b1f954a153d98413368256e.png",📁😈Riga FC😈 [🆚] 😈Jelgava [2449m]😈📁
+#EXTINF:-1 group-title="📁😈 Latvian Higher League 📁😈" tvg-logo="https://cdn.sportnanoapi.com/football/competition/71ec56470b1f954a153d98413368256e.png",📁😈Riga FC😈 [🆚] 😈Jelgava [2442m]😈📁
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php&id=4495128
