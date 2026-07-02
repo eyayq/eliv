@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [19:57 WIB 02/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [19:57 WIB 02/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [20:04 WIB 02/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [20:04 WIB 02/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/493.png" group-title="UEFA U19 Championship",[20:00 WIB 02/07/26] Croatia U19 vs Italy U19 [FHD] [LIVE]
@@ -317,13 +317,13 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[18:00 WIB 04/07/26] Qingdao Youth Island vs SHANGHAI SIPG [SD] [NANTIKAN]
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/41.png" group-title="League One",[18:00 WIB 04/07/26] Shenzhen Juniors vs Nantong Zhiyun [FHD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 04/07/26] Tianjin Teda vs Sichuan Jiuniu [FHD] [NANTIKAN]
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/41.png" group-title="League One",[18:00 WIB 04/07/26] Shenzhen Juniors vs Nantong Zhiyun [HD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 04/07/26] Tianjin Teda vs Sichuan Jiuniu [HD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/41.png" group-title="League One",[18:00 WIB 04/07/26] Shenzhen Juniors vs Nantong Zhiyun [SD] [NANTIKAN]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/278.png" group-title="Super League",[19:00 WIB 04/07/26] Tianjin Teda vs Sichuan Jiuniu [SD] [NANTIKAN]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/244.png" group-title="Veikkausliiga",[22:00 WIB 04/07/26] VPS vs Mariehamn [FHD] [NANTIKAN]
