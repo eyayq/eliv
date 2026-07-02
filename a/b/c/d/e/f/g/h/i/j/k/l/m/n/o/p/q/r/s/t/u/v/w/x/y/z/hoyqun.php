@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
-#EXTINF:-1 group-title="Update V8: [21:13 WIB 02/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:13 WIB 02/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
+#EXTINF:-1 group-title="Update V8: [21:23 WIB 02/07/26]" tvg-logo="http://viiip.kitashinsaku.com/0.php",Update V8: [21:23 WIB 02/07/26] Donasi di https://trakteer.id/mybhianesse0 dana ovo gopay di 085795119808
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/493.png" group-title="UEFA U19 Championship",[20:00 WIB 02/07/26] Croatia U19 vs Italy U19 [FHD] [LIVE]
@@ -11,13 +11,22 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/493.png" group-title="UEFA U19 Championship",[20:00 WIB 02/07/26] Croatia U19 vs Italy U19 [SD] [LIVE]
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 02/07/26] Dordoi Bishkek vs Kara-Balta [FHD] [LIVE]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[21:00 WIB 02/07/26] Royer V. vs Zverev A. [FHD] [LIVE]
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[21:00 WIB 02/07/26] Royer V. vs Zverev A. [HD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10" group-title="WTA500 ",[21:00 WIB 02/07/26] Royer V. vs Zverev A. [SD] [LIVE]
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0d/Logo_Li%C3%AAn_%C4%91o%C3%A0n_b%C3%B3ng_%C4%91%C3%A1_Kyrgyzstan.png" group-title="VĐQG Kyrgyzstan",[21:00 WIB 02/07/26] Kairat Almaty vs Okzhetpes [FHD] [LIVE]
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 02/07/26] Dordoi Bishkek vs Kara-Balta [HD] [LIVE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0d/Logo_Li%C3%AAn_%C4%91o%C3%A0n_b%C3%B3ng_%C4%91%C3%A1_Kyrgyzstan.png" group-title="VĐQG Kyrgyzstan",[21:00 WIB 02/07/26] Kairat Almaty vs Okzhetpes [HD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[21:00 WIB 02/07/26] Dordoi Bishkek vs Kara-Balta [SD] [LIVE]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0d/Logo_Li%C3%AAn_%C4%91o%C3%A0n_b%C3%B3ng_%C4%91%C3%A1_Kyrgyzstan.png" group-title="VĐQG Kyrgyzstan",[21:00 WIB 02/07/26] Kairat Almaty vs Okzhetpes [SD] [LIVE]
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6tnSPwCC0Bldfs9vDHUUgmBQCN5uluyepA&s" group-title="Premier League",[22:00 WIB 02/07/26] Bate Borisov vs FC Gomel [FHD] [NANTIKAN]
